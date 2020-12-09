@@ -10,8 +10,11 @@ author: ring
 slug: B075NFQFM8
 description:
 actualPrice: 122.98 EUR
+currency: EUR
+price: 122.98
 comparePrice: 263.0 EUR
 inStock: true
+prodname: BOSTANTEN Cuero Bolsos Maletines Bolso Hombre/Mujer Maletines Ordenador Portátil de 15  Vintage Piel Maletin Trabajo Bolsa Bandolera Bolso de Negocio Marrón
 ---
 
 Ahora mismo tienes [BOSTANTEN Cuero Bolsos Maletines Bolso Hombre/Mujer Maletines Ordenador Portátil de 15  Vintage Piel Maletin Trabajo Bolsa Bandolera Bolso de Negocio Marrón](https://www.amazon.es/dp/B075NFQFM8/?tag=tolees-21) a 122.98 EUR (original: 263.0 EUR) (53.24 %  de descuento) en el siguiente enlace!

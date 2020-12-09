@@ -10,8 +10,11 @@ author: ring
 slug: B005F5CJYA
 description:
 actualPrice: 11.04 EUR
+currency: EUR
+price: 11.04
 comparePrice: 19.9 EUR
 inStock: true
+prodname: Trust Xstream Breeze - Base de refrigeración para Ordenador portátil hasta 16"  Negro
 ---
 
 Tienes [Trust Xstream Breeze - Base de refrigeración para Ordenador portátil hasta 16"  Negro](https://www.amazon.es/dp/B005F5CJYA/?tag=tolees-21) con un 44.52 % de descuento con precio de oferta de 11.04 EUR (original: 19.9 EUR) en el siguiente enlace!

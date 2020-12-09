@@ -10,8 +10,11 @@ author: ring
 slug: B078HLWLX4
 description:
 actualPrice: 13.84 EUR
+currency: EUR
+price: 13.84
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Springfield 6833527 Pantalones  Mujer   Gama Rosa/Morado    Tamaño del Fabricante:M 
 ---
 
 Ahora mismo tienes [Springfield 6833527 Pantalones  Mujer   Gama Rosa/Morado    Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078HLWLX4/?tag=tolees-21) a 13.84 EUR (original: 24.99 EUR) (44.62 %  de descuento) en el siguiente enlace!

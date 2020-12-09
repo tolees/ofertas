@@ -10,8 +10,11 @@ author: ring
 slug: B08D9SXSP5
 description:
 actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
 comparePrice: 13.89 EUR
 inStock: true
+prodname: 20 filtros de carbón activado.
 ---
 
 Está [20 filtros de carbón activado.](https://www.amazon.es/dp/B08D9SXSP5/?tag=tolees-21) con 42.76 de descuento por 7.95 EUR (original: 13.89 EUR) en el siguiente enlace!

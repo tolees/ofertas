@@ -10,8 +10,11 @@ author: ring
 slug: B0000ATBYZ
 description:
 actualPrice: 45.45 EUR
+currency: EUR
+price: 45.45
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Converse Chuck Taylor All Star Hi Top  Zapatillas Mujer  Blanco  Optical White   43 EU
 ---
 
 Tienes [Converse Chuck Taylor All Star Hi Top  Zapatillas Mujer  Blanco  Optical White   43 EU](https://www.amazon.es/dp/B0000ATBYZ/?tag=tolees-21) con un 35.07 % de descuento con precio de oferta de 45.45 EUR (original: 70.0 EUR) en el siguiente enlace!

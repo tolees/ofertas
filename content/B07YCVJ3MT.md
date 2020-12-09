@@ -10,8 +10,11 @@ author: ring
 slug: B07YCVJ3MT
 description:
 actualPrice: 69.9 EUR
+currency: EUR
+price: 69.9
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Geographical Norway Parka BOOMERANG hombre NEGRO talla L
 ---
 
 Está [Geographical Norway Parka BOOMERANG hombre NEGRO talla L](https://www.amazon.es/dp/B07YCVJ3MT/?tag=tolees-21) con 29.39 de descuento por 69.9 EUR (original: 99.0 EUR) en el siguiente enlace!

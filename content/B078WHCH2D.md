@@ -10,8 +10,11 @@ author: ring
 slug: B078WHCH2D
 description:
 actualPrice: 13.79 EUR
+currency: EUR
+price: 13.79
 comparePrice: 29.95 EUR
 inStock: true
+prodname: PUMA Liga Sideline Polo T-Shirt  Hombre  Electric Blue Lemonade White  XXL
 ---
 
 Está [PUMA Liga Sideline Polo T-Shirt  Hombre  Electric Blue Lemonade White  XXL](https://www.amazon.es/dp/B078WHCH2D/?tag=tolees-21) con 53.96 de descuento por 13.79 EUR (original: 29.95 EUR) en el siguiente enlace!

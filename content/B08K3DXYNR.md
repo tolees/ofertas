@@ -10,8 +10,11 @@ author: ring
 slug: B08K3DXYNR
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 19.9 EUR
 inStock: true
+prodname: LvShui BTS iPhone 11 Funda Jimin Jin V J-Hope Jung Kook Suga Rap Monste BTS Photo Carcasa Suave Silicona Case Cover para Apple iPhone 11
 ---
 
 Ahora mismo tienes [LvShui BTS iPhone 11 Funda Jimin Jin V J-Hope Jung Kook Suga Rap Monste BTS Photo Carcasa Suave Silicona Case Cover para Apple iPhone 11](https://www.amazon.es/dp/B08K3DXYNR/?tag=tolees-21) a 4.99 EUR (original: 19.9 EUR) (74.92 %  de descuento) en el siguiente enlace!

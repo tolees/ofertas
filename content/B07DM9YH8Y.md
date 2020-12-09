@@ -10,8 +10,11 @@ author: ring
 slug: B07DM9YH8Y
 description:
 actualPrice: 12.67 EUR
+currency: EUR
+price: 12.67
 comparePrice: 39.99 EUR
 inStock: true
+prodname: PIECES Pcfortuna LS Wool Knit Noos  suéter para Mujer  Negro  Black  40  Talla del Fabricante: Medium 
 ---
 
 Ahora mismo tienes [PIECES Pcfortuna LS Wool Knit Noos  suéter para Mujer  Negro  Black  40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07DM9YH8Y/?tag=tolees-21) a 12.67 EUR (original: 39.99 EUR) (68.32 %  de descuento) en el siguiente enlace!

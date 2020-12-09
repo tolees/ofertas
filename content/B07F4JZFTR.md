@@ -10,8 +10,11 @@ author: ring
 slug: B07F4JZFTR
 description:
 actualPrice: 22.78 EUR
+currency: EUR
+price: 22.78
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Wrangler Greensboro  Jeans para Hombre  Gris  Funk Grey 32l  42W/L34
 ---
 
 Ahora mismo tienes [Wrangler Greensboro  Jeans para Hombre  Gris  Funk Grey 32l  42W/L34](https://www.amazon.es/dp/B07F4JZFTR/?tag=tolees-21) a 22.78 EUR (original: 89.95 EUR) (74.67 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PJNT4XB
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 13.99 EUR
 inStock: true
+prodname: FeelinGirl Conjunto Ropa Sexy Mujer Encaje Vaciado Ropa Sexy Encaje y Rejilla Floral Rojo 3XL
 ---
 
 Tienes [FeelinGirl Conjunto Ropa Sexy Mujer Encaje Vaciado Ropa Sexy Encaje y Rejilla Floral Rojo 3XL](https://www.amazon.es/dp/B07PJNT4XB/?tag=tolees-21) con un 35.74 % de descuento con precio de oferta de 8.99 EUR (original: 13.99 EUR) en el siguiente enlace!

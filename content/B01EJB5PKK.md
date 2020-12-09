@@ -10,8 +10,11 @@ author: ring
 slug: B01EJB5PKK
 description:
 actualPrice: 8.16 EUR
+currency: EUR
+price: 8.16
 comparePrice: 28.6 EUR
 inStock: true
+prodname: JACK & JONES JORHAMILTON Sweat Crew Neck  Sudadera para Hombre   Mykonos Blue  Medium
 ---
 
 Está [JACK & JONES JORHAMILTON Sweat Crew Neck  Sudadera para Hombre   Mykonos Blue  Medium](https://www.amazon.es/dp/B01EJB5PKK/?tag=tolees-21) con 71.47 de descuento por 8.16 EUR (original: 28.6 EUR) en el siguiente enlace!

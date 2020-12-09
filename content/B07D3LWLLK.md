@@ -10,8 +10,11 @@ author: ring
 slug: B07D3LWLLK
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 14.46 EUR
 inStock: true
+prodname: GGZone Ventilador de CPU para HP Pavilion 15-AF 15-AC HP 250 G4 255 G4 813946-001
 ---
 
 Tienes [GGZone Ventilador de CPU para HP Pavilion 15-AF 15-AC HP 250 G4 255 G4 813946-001](https://www.amazon.es/dp/B07D3LWLLK/?tag=tolees-21) con un 31.54 % de descuento con precio de oferta de 9.9 EUR (original: 14.46 EUR) en el siguiente enlace!

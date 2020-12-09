@@ -10,8 +10,11 @@ author: ring
 slug: B07DGVFY42
 description:
 actualPrice: 26.96 EUR
+currency: EUR
+price: 26.96
 comparePrice: 65 EUR
 inStock: true
+prodname: Nike Mach Runner  Zapatillas de Running para Hombre   White/Black/Neutral Grey 100   38.5 EU
 ---
 
 Tienes [Nike Mach Runner  Zapatillas de Running para Hombre   White/Black/Neutral Grey 100   38.5 EU](https://www.amazon.es/dp/B07DGVFY42/?tag=tolees-21) con un 58.52 % de descuento con precio de oferta de 26.96 EUR (original: 65 EUR) en el siguiente enlace!

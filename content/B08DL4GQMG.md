@@ -10,8 +10,11 @@ author: ring
 slug: B08DL4GQMG
 description:
 actualPrice: 399.9 EUR
+currency: EUR
+price: 399.9
 comparePrice: 549.0 EUR
 inStock: true
+prodname: De longhi ECAM 23.460.SB - Cafetera Supe automática  15 bares de presión  sistema cappuccino automático  depósito de agua extraíble 1.8 L  panel LCD  limpieza automática  Plata/Negro
 ---
 
 Ahora mismo tienes [De longhi ECAM 23.460.SB - Cafetera Supe automática  15 bares de presión  sistema cappuccino automático  depósito de agua extraíble 1.8 L  panel LCD  limpieza automática  Plata/Negro](https://www.amazon.es/dp/B08DL4GQMG/?tag=tolees-21) a 399.9 EUR (original: 549.0 EUR) (27.16 %  de descuento) en el siguiente enlace!

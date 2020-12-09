@@ -10,8 +10,11 @@ author: ring
 slug: B0073FATGU
 description:
 actualPrice: 79.25 EUR
+currency: EUR
+price: 79.25
 comparePrice: 149.0 EUR
 inStock: true
+prodname: Cressi Castoro Man Traje Monopieza de Buceo Neopreno 5mm High Stretch para Hombre  Negro/Amarillo/Gris  S/2
 ---
 
 Está [Cressi Castoro Man Traje Monopieza de Buceo Neopreno 5mm High Stretch para Hombre  Negro/Amarillo/Gris  S/2](https://www.amazon.es/dp/B0073FATGU/?tag=tolees-21) con 46.81 de descuento por 79.25 EUR (original: 149.0 EUR) en el siguiente enlace!

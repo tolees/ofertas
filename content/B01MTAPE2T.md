@@ -10,8 +10,11 @@ author: ring
 slug: B01MTAPE2T
 description:
 actualPrice: 86.26 EUR
+currency: EUR
+price: 86.26
 comparePrice: 170 EUR
 inStock: true
+prodname: Helly Hansen Crew Hooded Midlayer Chaqueta Deportiva  Hombre  Olympian Blue  M
 ---
 
 Tienes [Helly Hansen Crew Hooded Midlayer Chaqueta Deportiva  Hombre  Olympian Blue  M](https://www.amazon.es/dp/B01MTAPE2T/?tag=tolees-21) con un 49.26 % de descuento con precio de oferta de 86.26 EUR (original: 170 EUR) en el siguiente enlace!

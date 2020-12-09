@@ -10,8 +10,11 @@ author: ring
 slug: B07QVD1MZ7
 description:
 actualPrice: 65.99 EUR
+currency: EUR
+price: 65.99
 comparePrice: 189 EUR
 inStock: true
+prodname: Moviles Libres 4G v·Mobile J6 Smartphone  Pantalla 6.0" 18:9 HD Dual Sim 4800mAh 2GB + 16GB Cámara 8MP Face Unlock Android 7.0 Ofertas del Dia Comunicación Móvil y Accesorios  Nero 
 ---
 
 Está [Moviles Libres 4G v·Mobile J6 Smartphone  Pantalla 6.0" 18:9 HD Dual Sim 4800mAh 2GB + 16GB Cámara 8MP Face Unlock Android 7.0 Ofertas del Dia Comunicación Móvil y Accesorios  Nero ](https://www.amazon.es/dp/B07QVD1MZ7/?tag=tolees-21) con 65.08 de descuento por 65.99 EUR (original: 189 EUR) en el siguiente enlace!

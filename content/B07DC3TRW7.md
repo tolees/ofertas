@@ -10,8 +10,11 @@ author: ring
 slug: B07DC3TRW7
 description:
 actualPrice: 33.95 EUR
+currency: EUR
+price: 33.95
 comparePrice: 52.5 EUR
 inStock: true
+prodname: LE COQ SPORTIF Courtace Sport Black  Zapatillas para Hombre  Negro Noir  46 EU
 ---
 
 Está [LE COQ SPORTIF Courtace Sport Black  Zapatillas para Hombre  Negro Noir  46 EU](https://www.amazon.es/dp/B07DC3TRW7/?tag=tolees-21) con 35.33 de descuento por 33.95 EUR (original: 52.5 EUR) en el siguiente enlace!

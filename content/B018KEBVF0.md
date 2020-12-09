@@ -10,8 +10,11 @@ author: ring
 slug: B018KEBVF0
 description:
 actualPrice: 11.71 EUR
+currency: EUR
+price: 11.71
 comparePrice: 99.95 EUR
 inStock: true
+prodname: NAOKO Vestido At5 Negro/Blanco S
 ---
 
 Tienes [NAOKO Vestido At5 Negro/Blanco S](https://www.amazon.es/dp/B018KEBVF0/?tag=tolees-21) con un 88.28 % de descuento con precio de oferta de 11.71 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07M8RCPYQ
 description:
 actualPrice: 95.75 EUR
+currency: EUR
+price: 95.75
 comparePrice: 149.95 EUR
 inStock: true
+prodname: Dainese Motorshoe D1 Air  Zapatos Moto para Hombre  Negro Rojo Fluo Antracita  39 EU
 ---
 
 Está [Dainese Motorshoe D1 Air  Zapatos Moto para Hombre  Negro Rojo Fluo Antracita  39 EU](https://www.amazon.es/dp/B07M8RCPYQ/?tag=tolees-21) con 36.15 de descuento por 95.75 EUR (original: 149.95 EUR) en el siguiente enlace!

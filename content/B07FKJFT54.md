@@ -10,8 +10,11 @@ author: ring
 slug: B07FKJFT54
 description:
 actualPrice: 38.07 EUR
+currency: EUR
+price: 38.07
 comparePrice: 75 EUR
 inStock: true
+prodname: The North Face Jester - Mochila para Mujer  Tin Grey Dark  Spiced Coral  Talla Única
 ---
 
 Tienes [The North Face Jester - Mochila para Mujer  Tin Grey Dark  Spiced Coral  Talla Única](https://www.amazon.es/dp/B07FKJFT54/?tag=tolees-21) con un 49.24 % de descuento con precio de oferta de 38.07 EUR (original: 75 EUR) en el siguiente enlace!

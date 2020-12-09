@@ -10,8 +10,11 @@ author: ring
 slug: B0018IGJKI
 description:
 actualPrice: 62.49 EUR
+currency: EUR
+price: 62.49
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Reebok F/S Hi 2431  Zapatillas de Deporte para Mujer  Blanco Weiß  35.5 EU
 ---
 
 Está [Reebok F/S Hi 2431  Zapatillas de Deporte para Mujer  Blanco Weiß  35.5 EU](https://www.amazon.es/dp/B0018IGJKI/?tag=tolees-21) con 30.53 de descuento por 62.49 EUR (original: 89.95 EUR) en el siguiente enlace!

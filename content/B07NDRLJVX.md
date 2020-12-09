@@ -10,8 +10,11 @@ author: ring
 slug: B07NDRLJVX
 description:
 actualPrice: 129.0 EUR
+currency: EUR
+price: 129.0
 comparePrice: 249.0 EUR
 inStock: true
+prodname: Samsung Galaxy Watch Active – Smartwatch  1 1” 40mm  Tizen  768 MB de RAM  Memoria Interna de 4 GB   Color verde – Versión Española
 ---
 
 Tienes [Samsung Galaxy Watch Active – Smartwatch  1 1” 40mm  Tizen  768 MB de RAM  Memoria Interna de 4 GB   Color verde – Versión Española](https://www.amazon.es/dp/B07NDRLJVX/?tag=tolees-21) con un 48.19 % de descuento con precio de oferta de 129.0 EUR (original: 249.0 EUR) en el siguiente enlace!

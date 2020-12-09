@@ -10,8 +10,11 @@ author: ring
 slug: B00JH5M4WG
 description:
 actualPrice: 16.6 EUR
+currency: EUR
+price: 16.6
 comparePrice: 24.05 EUR
 inStock: true
+prodname: STANLEY STHT1-05937 - Herramienta de biselado para placas de yeso
 ---
 
 Tienes [STANLEY STHT1-05937 - Herramienta de biselado para placas de yeso](https://www.amazon.es/dp/B00JH5M4WG/?tag=tolees-21) con un 30.98 % de descuento con precio de oferta de 16.6 EUR (original: 24.05 EUR) en el siguiente enlace!

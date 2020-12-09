@@ -10,8 +10,11 @@ author: ring
 slug: B07MNKHKRZ
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Fantástico rascador para Gatos  rascador para Gatos con ratón Vocal  rascador para Garra de Mascota  rascador pequeño
 ---
 
 Ahora mismo tienes [Fantástico rascador para Gatos  rascador para Gatos con ratón Vocal  rascador para Garra de Mascota  rascador pequeño](https://www.amazon.es/dp/B07MNKHKRZ/?tag=tolees-21) a 9.99 EUR (original: 29.99 EUR) (66.69 %  de descuento) en el siguiente enlace!

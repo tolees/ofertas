@@ -10,8 +10,11 @@ author: ring
 slug: B01MSK7NXD
 description:
 actualPrice: 69.0 EUR
+currency: EUR
+price: 69.0
 comparePrice: 145.35 EUR
 inStock: true
+prodname: Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero F20254/4
 ---
 
 Está [Festina Reloj Análogo clásico para Mujer de Cuarzo con Correa en Cuero F20254/4](https://www.amazon.es/dp/B01MSK7NXD/?tag=tolees-21) con 52.53 de descuento por 69.0 EUR (original: 145.35 EUR) en el siguiente enlace!

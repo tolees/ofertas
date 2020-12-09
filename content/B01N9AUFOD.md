@@ -10,8 +10,11 @@ author: ring
 slug: B01N9AUFOD
 description:
 actualPrice: 20.31 EUR
+currency: EUR
+price: 20.31
 comparePrice: 31.02 EUR
 inStock: true
+prodname: Revell Lamborghini Police Juguetes a Control Remoto 24656
 ---
 
 Tienes [Revell Lamborghini Police Juguetes a Control Remoto 24656](https://www.amazon.es/dp/B01N9AUFOD/?tag=tolees-21) con un 34.53 % de descuento con precio de oferta de 20.31 EUR (original: 31.02 EUR) en el siguiente enlace!

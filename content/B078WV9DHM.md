@@ -10,8 +10,11 @@ author: ring
 slug: B078WV9DHM
 description:
 actualPrice: 13.33 EUR
+currency: EUR
+price: 13.33
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Cortefiel 2273292  Camisa de Manga Corta para Hombre  Multicolor  Gama Azules 11   Medium  Talla del fabricante:3 
 ---
 
 Está [Cortefiel 2273292  Camisa de Manga Corta para Hombre  Multicolor  Gama Azules 11   Medium  Talla del fabricante:3 ](https://www.amazon.es/dp/B078WV9DHM/?tag=tolees-21) con 66.67 de descuento por 13.33 EUR (original: 39.99 EUR) en el siguiente enlace!

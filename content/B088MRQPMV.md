@@ -10,8 +10,11 @@ author: ring
 slug: B088MRQPMV
 description:
 actualPrice: 38.49 EUR
+currency: EUR
+price: 38.49
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Pinypon Action- Ladrón a la Prisión  cárcel Centro penitenciario comisaría policía Recomendable  Famosa 700015802 
 ---
 
 Tienes [Pinypon Action- Ladrón a la Prisión  cárcel Centro penitenciario comisaría policía Recomendable  Famosa 700015802 ](https://www.amazon.es/dp/B088MRQPMV/?tag=tolees-21) con un 29.95 % de descuento con precio de oferta de 38.49 EUR (original: 54.95 EUR) en el siguiente enlace!

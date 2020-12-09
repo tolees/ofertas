@@ -10,8 +10,11 @@ author: ring
 slug: B01M6CQ8LW
 description:
 actualPrice: 14.29 EUR
+currency: EUR
+price: 14.29
 comparePrice: 21.95 EUR
 inStock: true
+prodname: Only onlGEENA XO L/S PULLOVER KNT NOOS  Suéter para Mujer  Azul  Cashmere Blue   XL
 ---
 
 Ahora mismo tienes [Only onlGEENA XO L/S PULLOVER KNT NOOS  Suéter para Mujer  Azul  Cashmere Blue   XL](https://www.amazon.es/dp/B01M6CQ8LW/?tag=tolees-21) a 14.29 EUR (original: 21.95 EUR) (34.90 %  de descuento) en el siguiente enlace!

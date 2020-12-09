@@ -10,8 +10,11 @@ author: ring
 slug: B07QPYV3VP
 description:
 actualPrice: 11.19 EUR
+currency: EUR
+price: 11.19
 comparePrice: 17.99 EUR
 inStock: true
+prodname: HOMIEE Estuche Blando para PC 13-13.3 Computadoras Portátiles en PU  Estuche para Computadora Portátil para Macbook 13-13.3" MacBook Air/Pro 2016-2018  Otro Cuaderno Ultra Delgado  Azul
 ---
 
 Está [HOMIEE Estuche Blando para PC 13-13.3 Computadoras Portátiles en PU  Estuche para Computadora Portátil para Macbook 13-13.3" MacBook Air/Pro 2016-2018  Otro Cuaderno Ultra Delgado  Azul](https://www.amazon.es/dp/B07QPYV3VP/?tag=tolees-21) con 37.80 de descuento por 11.19 EUR (original: 17.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B013WBIW3K
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Olympus WS-853 Grabadora digital de voz de calidad con Micrófonos Estéreo incorporados  USB Directo  Equilibrador de Voz  Cancelación de Ruido  Modo Simple  Filtro Low-Cut y 8 GB de memoria
 ---
 
 Tienes [Olympus WS-853 Grabadora digital de voz de calidad con Micrófonos Estéreo incorporados  USB Directo  Equilibrador de Voz  Cancelación de Ruido  Modo Simple  Filtro Low-Cut y 8 GB de memoria](https://www.amazon.es/dp/B013WBIW3K/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 49.99 EUR (original: 89.99 EUR) en el siguiente enlace!

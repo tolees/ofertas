@@ -10,8 +10,11 @@ author: ring
 slug: B07TMQ9DRC
 description:
 actualPrice: 2.89 EUR
+currency: EUR
+price: 2.89
 comparePrice: 4.13 EUR
 inStock: true
+prodname: TOPBATHY Portátil eléctrico Cabezas de Cepillo de Dientes Caja Protectora a Prueba de Polvo Cepillo de Dientes de Almacenamiento Cubierta para Viajes Ourdoors Camping
 ---
 
 Tienes [TOPBATHY Portátil eléctrico Cabezas de Cepillo de Dientes Caja Protectora a Prueba de Polvo Cepillo de Dientes de Almacenamiento Cubierta para Viajes Ourdoors Camping](https://www.amazon.es/dp/B07TMQ9DRC/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 2.89 EUR (original: 4.13 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01E5NEDH8
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 12.78 EUR
 inStock: true
+prodname: Joma Nobel Pantalón de equipación  Burdeos  671   2XL-3XL
 ---
 
 Tienes [Joma Nobel Pantalón de equipación  Burdeos  671   2XL-3XL](https://www.amazon.es/dp/B01E5NEDH8/?tag=tolees-21) con un 53.44 % de descuento con precio de oferta de 5.95 EUR (original: 12.78 EUR) en el siguiente enlace!

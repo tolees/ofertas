@@ -10,8 +10,11 @@ author: ring
 slug: B07JQ2T1HQ
 description:
 actualPrice: 34.97 EUR
+currency: EUR
+price: 34.97
 comparePrice: 49.95 EUR
 inStock: true
+prodname: adidas 3-Stripes Crew Sudadera  Hombre   Marley   2XL
 ---
 
 Ahora mismo tienes [adidas 3-Stripes Crew Sudadera  Hombre   Marley   2XL](https://www.amazon.es/dp/B07JQ2T1HQ/?tag=tolees-21) a 34.97 EUR (original: 49.95 EUR) (29.99 %  de descuento) en el siguiente enlace!

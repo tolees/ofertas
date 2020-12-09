@@ -10,8 +10,11 @@ author: ring
 slug: B07FCGNWGL
 description:
 actualPrice: 44.13 EUR
+currency: EUR
+price: 44.13
 comparePrice: 110 EUR
 inStock: true
+prodname: Guess - Kamryn  Bolsos bandolera Mujer  Azul  Aqua/Aqu   25.5x19x6 cm  W x H L 
 ---
 
 Ahora mismo tienes [Guess - Kamryn  Bolsos bandolera Mujer  Azul  Aqua/Aqu   25.5x19x6 cm  W x H L ](https://www.amazon.es/dp/B07FCGNWGL/?tag=tolees-21) a 44.13 EUR (original: 110 EUR) (59.88 %  de descuento) en el siguiente enlace!

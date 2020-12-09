@@ -10,8 +10,11 @@ author: ring
 slug: B01LPQ0ND6
 description:
 actualPrice: 5.75 EUR
+currency: EUR
+price: 5.75
 comparePrice: 9.9 EUR
 inStock: true
+prodname: L Oreal Paris Dermo Expertise - Arcillas puras mascarilla purificante y matificante  color verde - total 50 ml
 ---
 
 Tienes [L Oreal Paris Dermo Expertise - Arcillas puras mascarilla purificante y matificante  color verde - total 50 ml](https://www.amazon.es/dp/B01LPQ0ND6/?tag=tolees-21) con un 41.92 % de descuento con precio de oferta de 5.75 EUR (original: 9.9 EUR) en el siguiente enlace!

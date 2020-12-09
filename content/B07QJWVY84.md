@@ -10,8 +10,11 @@ author: ring
 slug: B07QJWVY84
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Receptor Bluetooth 5.0 Jack 3.5mm  AGPTEK Adaptador de Audio Inalámbrico con Micrófono  Soporte Llamada Manos Libres y Dos Dispositivos Conectados  Negro
 ---
 
 Está [Receptor Bluetooth 5.0 Jack 3.5mm  AGPTEK Adaptador de Audio Inalámbrico con Micrófono  Soporte Llamada Manos Libres y Dos Dispositivos Conectados  Negro](https://www.amazon.es/dp/B07QJWVY84/?tag=tolees-21) con 41.20 de descuento por 9.99 EUR (original: 16.99 EUR) en el siguiente enlace!

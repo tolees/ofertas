@@ -10,8 +10,11 @@ author: ring
 slug: B07KMQ95LC
 description:
 actualPrice: 42.95 EUR
+currency: EUR
+price: 42.95
 comparePrice: 89.9 EUR
 inStock: true
+prodname: Superdry Core Cargo Short Pantalones Cortos   Hanoi Camo Ze9   44  Talla del Fabricante: 34  para Hombre
 ---
 
 Está [Superdry Core Cargo Short Pantalones Cortos   Hanoi Camo Ze9   44  Talla del Fabricante: 34  para Hombre](https://www.amazon.es/dp/B07KMQ95LC/?tag=tolees-21) con 52.22 de descuento por 42.95 EUR (original: 89.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07D4TD8BN
 description:
 actualPrice: 10.3 EUR
+currency: EUR
+price: 10.3
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Only & Sons Onskirk LS Dip Dyed Check Shirt  Camisa para Hombre  Cabernet  Small
 ---
 
 Está [Only & Sons Onskirk LS Dip Dyed Check Shirt  Camisa para Hombre  Cabernet  Small](https://www.amazon.es/dp/B07D4TD8BN/?tag=tolees-21) con 70.56 de descuento por 10.3 EUR (original: 34.99 EUR) en el siguiente enlace!

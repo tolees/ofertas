@@ -10,8 +10,11 @@ author: ring
 slug: B01ENS68HI
 description:
 actualPrice: 5.8 EUR
+currency: EUR
+price: 5.8
 comparePrice: 7.95 EUR
 inStock: true
+prodname: Astor Lash Beautifier Argan Oil Máscara de Pestañas
 ---
 
 Ahora mismo tienes [Astor Lash Beautifier Argan Oil Máscara de Pestañas](https://www.amazon.es/dp/B01ENS68HI/?tag=tolees-21) a 5.8 EUR (original: 7.95 EUR) (27.04 %  de descuento) en el siguiente enlace!

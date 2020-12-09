@@ -10,8 +10,11 @@ author: ring
 slug: B07L9QZYZK
 description:
 actualPrice: 33.07 EUR
+currency: EUR
+price: 33.07
 comparePrice: 69 EUR
 inStock: true
+prodname: Napapijri Vail 2 Bañador   Fantasy F11   XX-Large para Hombre
 ---
 
 Está [Napapijri Vail 2 Bañador   Fantasy F11   XX-Large para Hombre](https://www.amazon.es/dp/B07L9QZYZK/?tag=tolees-21) con 52.07 de descuento por 33.07 EUR (original: 69 EUR) en el siguiente enlace!

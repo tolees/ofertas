@@ -10,8 +10,11 @@ author: ring
 slug: B07LH8J2VW
 description:
 actualPrice: 14.21 EUR
+currency: EUR
+price: 14.21
 comparePrice: 30 EUR
 inStock: true
+prodname: The North Face Reaxion Amp Camiseta de Cuello Redondo  Hombre  Naranja  Zinnia Orange Heather   M
 ---
 
 Está [The North Face Reaxion Amp Camiseta de Cuello Redondo  Hombre  Naranja  Zinnia Orange Heather   M](https://www.amazon.es/dp/B07LH8J2VW/?tag=tolees-21) con 52.63 de descuento por 14.21 EUR (original: 30 EUR) en el siguiente enlace!

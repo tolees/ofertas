@@ -10,8 +10,11 @@ author: ring
 slug: B06X9SFQBG
 description:
 actualPrice: 20.8 EUR
+currency: EUR
+price: 20.8
 comparePrice: 45 EUR
 inStock: true
+prodname: find. Zapatillas de Deporte sin Cordones para Mujer  Blanco  White   36 EU
 ---
 
 Está [find. Zapatillas de Deporte sin Cordones para Mujer  Blanco  White   36 EU](https://www.amazon.es/dp/B06X9SFQBG/?tag=tolees-21) con 53.78 de descuento por 20.8 EUR (original: 45 EUR) en el siguiente enlace!

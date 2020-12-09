@@ -10,8 +10,11 @@ author: ring
 slug: B07BLB78RP
 description:
 actualPrice: 33.1 EUR
+currency: EUR
+price: 33.1
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Princess Table Chef Premium 103110 Plancha grande XL  de gran potencia  46 x 26 cm
 ---
 
 Está [Princess Table Chef Premium 103110 Plancha grande XL  de gran potencia  46 x 26 cm](https://www.amazon.es/dp/B07BLB78RP/?tag=tolees-21) con 44.82 de descuento por 33.1 EUR (original: 59.99 EUR) en el siguiente enlace!

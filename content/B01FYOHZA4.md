@@ -10,8 +10,11 @@ author: ring
 slug: B01FYOHZA4
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 20.99 EUR
 inStock: true
+prodname: Pioneer SE-CL722T-R - Auriculares Tipo botón  con micrófono  límite de eficacia 100 dB   Color Rojo
 ---
 
 Está [Pioneer SE-CL722T-R - Auriculares Tipo botón  con micrófono  límite de eficacia 100 dB   Color Rojo](https://www.amazon.es/dp/B01FYOHZA4/?tag=tolees-21) con 28.59 de descuento por 14.99 EUR (original: 20.99 EUR) en el siguiente enlace!

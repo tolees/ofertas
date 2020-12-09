@@ -10,8 +10,11 @@ author: ring
 slug: B07CNYQK2N
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 38.99 EUR
 inStock: true
+prodname: iPad 9.7 2017/2018 Funda de teclado  Besmall teclado inalámbrico Bluetooth con cuero de la PU cubierta Para Nuevo Apple iPad 9.7 Lanzado en 2017/2018  iPad Air 1/2  iPad Pro 9.7- Púrpura
 ---
 
 Ahora mismo tienes [iPad 9.7 2017/2018 Funda de teclado  Besmall teclado inalámbrico Bluetooth con cuero de la PU cubierta Para Nuevo Apple iPad 9.7 Lanzado en 2017/2018  iPad Air 1/2  iPad Pro 9.7- Púrpura](https://www.amazon.es/dp/B07CNYQK2N/?tag=tolees-21) a 25.99 EUR (original: 38.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

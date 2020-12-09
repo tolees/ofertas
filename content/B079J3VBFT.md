@@ -10,8 +10,11 @@ author: ring
 slug: B079J3VBFT
 description:
 actualPrice: 35.95 EUR
+currency: EUR
+price: 35.95
 comparePrice: 60 EUR
 inStock: true
+prodname: Asics Patriot 10  Zapatillas de Running para Mujer  Negro  Black/White 002   42 EU
 ---
 
 Está [Asics Patriot 10  Zapatillas de Running para Mujer  Negro  Black/White 002   42 EU](https://www.amazon.es/dp/B079J3VBFT/?tag=tolees-21) con 40.08 de descuento por 35.95 EUR (original: 60 EUR) en el siguiente enlace!

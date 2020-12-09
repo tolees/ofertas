@@ -10,8 +10,11 @@ author: ring
 slug: B07NR1LDGV
 description:
 actualPrice: 23.36 EUR
+currency: EUR
+price: 23.36
 comparePrice: 35.19 EUR
 inStock: true
+prodname: Disney Tsum Tsum Festival
 ---
 
 Está [Disney Tsum Tsum Festival](https://www.amazon.es/dp/B07NR1LDGV/?tag=tolees-21) con 33.62 de descuento por 23.36 EUR (original: 35.19 EUR) en el siguiente enlace!

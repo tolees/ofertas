@@ -10,8 +10,11 @@ author: ring
 slug: B07DP3JBCT
 description:
 actualPrice: 29.7 EUR
+currency: EUR
+price: 29.7
 comparePrice: 50.0 EUR
 inStock: true
+prodname: Eastpak Padded Pak R Mochila  40 Cm  24 L  Azul  Triple Denim 
 ---
 
 Ahora mismo tienes [Eastpak Padded Pak R Mochila  40 Cm  24 L  Azul  Triple Denim ](https://www.amazon.es/dp/B07DP3JBCT/?tag=tolees-21) a 29.7 EUR (original: 50.0 EUR) (40.60 %  de descuento) en el siguiente enlace!

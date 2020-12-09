@@ -10,8 +10,11 @@ author: ring
 slug: B076YJHM2Y
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 18.0 EUR
 inStock: true
+prodname: Revolution Soph Highlighter Palette  Paleta de Iluminadores
 ---
 
 Tienes [Revolution Soph Highlighter Palette  Paleta de Iluminadores](https://www.amazon.es/dp/B076YJHM2Y/?tag=tolees-21) con un 61.17 % de descuento con precio de oferta de 6.99 EUR (original: 18.0 EUR) en el siguiente enlace!

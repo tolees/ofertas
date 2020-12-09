@@ -10,8 +10,11 @@ author: ring
 slug: B07WH4QD8H
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 143.48 EUR
 inStock: true
+prodname: Bosch Professional GAS 18V-10 L - Aspirador a batería  18V  capacidad 10 l  manguera 1 6 m  90 mbar  ruedas  adaptador  sin batería 
 ---
 
 Está [Bosch Professional GAS 18V-10 L - Aspirador a batería  18V  capacidad 10 l  manguera 1 6 m  90 mbar  ruedas  adaptador  sin batería ](https://www.amazon.es/dp/B07WH4QD8H/?tag=tolees-21) con 30.31 de descuento por 99.99 EUR (original: 143.48 EUR) en el siguiente enlace!

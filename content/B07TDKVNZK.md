@@ -10,8 +10,11 @@ author: ring
 slug: B07TDKVNZK
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 33.99 EUR
 inStock: true
+prodname: Auriculares Bluetooth Bluedio Hi  Hurricane  Auriculares Inalámbricos Estéreo In-Ear Bluetooth 5.0 Auriculares con Caja de Carga para Teléfono Celular/Running/Android/iOS  5 Horas de Tiempo de Juego
 ---
 
 Está [Auriculares Bluetooth Bluedio Hi  Hurricane  Auriculares Inalámbricos Estéreo In-Ear Bluetooth 5.0 Auriculares con Caja de Carga para Teléfono Celular/Running/Android/iOS  5 Horas de Tiempo de Juego](https://www.amazon.es/dp/B07TDKVNZK/?tag=tolees-21) con 50.01 de descuento por 16.99 EUR (original: 33.99 EUR) en el siguiente enlace!

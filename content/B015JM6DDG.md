@@ -10,8 +10,11 @@ author: ring
 slug: B015JM6DDG
 description:
 actualPrice: 55.17 EUR
+currency: EUR
+price: 55.17
 comparePrice: 180 EUR
 inStock: true
+prodname: Hackett London Pantalón Burdeos ES 31
 ---
 
 Está [Hackett London Pantalón Burdeos ES 31](https://www.amazon.es/dp/B015JM6DDG/?tag=tolees-21) con 69.35 de descuento por 55.17 EUR (original: 180 EUR) en el siguiente enlace!

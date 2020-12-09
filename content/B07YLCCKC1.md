@@ -10,8 +10,11 @@ author: ring
 slug: B07YLCCKC1
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: s.Oliver 13.001.35.5268 Polo  Azul  Blue 5538   Small para Hombre
 ---
 
 Ahora mismo tienes [s.Oliver 13.001.35.5268 Polo  Azul  Blue 5538   Small para Hombre](https://www.amazon.es/dp/B07YLCCKC1/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

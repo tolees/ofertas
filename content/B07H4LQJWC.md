@@ -10,8 +10,11 @@ author: ring
 slug: B07H4LQJWC
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: SELECTEC Power Bank 24000mAh Cargador Móvil Portátil Batería Externa con 1 Entrada y 2 Puertos de Salida USB & Luz led para Tablet  Android Phones y Otros Smartphones
 ---
 
 Está [SELECTEC Power Bank 24000mAh Cargador Móvil Portátil Batería Externa con 1 Entrada y 2 Puertos de Salida USB & Luz led para Tablet  Android Phones y Otros Smartphones](https://www.amazon.es/dp/B07H4LQJWC/?tag=tolees-21) con 38.48 de descuento por 15.99 EUR (original: 25.99 EUR) en el siguiente enlace!

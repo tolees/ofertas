@@ -10,8 +10,11 @@ author: ring
 slug: B07CRPDXH4
 description:
 actualPrice: 99 EUR
+currency: EUR
+price: 99
 comparePrice: 137 EUR
 inStock: true
+prodname: MICAMAMELLAMA Colchón Viscoelástico VISCO CONFORT FRESH 3D reversible  TODAS LAS MEDIDAS   150 x 190 
 ---
 
 Ahora mismo tienes [MICAMAMELLAMA Colchón Viscoelástico VISCO CONFORT FRESH 3D reversible  TODAS LAS MEDIDAS   150 x 190 ](https://www.amazon.es/dp/B07CRPDXH4/?tag=tolees-21) a 99 EUR (original: 137 EUR) (27.74 %  de descuento) en el siguiente enlace!

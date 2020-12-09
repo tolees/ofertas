@@ -10,8 +10,11 @@ author: ring
 slug: B07HK1VQ9K
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: WeChip Juego de 5 brochas para maquillaje  diseño de varitas mágicas de Harry Potter
 ---
 
 Ahora mismo tienes [WeChip Juego de 5 brochas para maquillaje  diseño de varitas mágicas de Harry Potter](https://www.amazon.es/dp/B07HK1VQ9K/?tag=tolees-21) a 7.99 EUR (original: 12.99 EUR) (38.49 %  de descuento) en el siguiente enlace!

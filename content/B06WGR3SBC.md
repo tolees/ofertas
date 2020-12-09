@@ -10,8 +10,11 @@ author: ring
 slug: B06WGR3SBC
 description:
 actualPrice: 25.13 EUR
+currency: EUR
+price: 25.13
 comparePrice: 38.01 EUR
 inStock: true
+prodname: Adidas Ace 17.4 FxG  Zapatillas Deportivas para Interior para Hombre  Azul Blue/Red/White  41 1/3 EU
 ---
 
 Ahora mismo tienes [Adidas Ace 17.4 FxG  Zapatillas Deportivas para Interior para Hombre  Azul Blue/Red/White  41 1/3 EU](https://www.amazon.es/dp/B06WGR3SBC/?tag=tolees-21) a 25.13 EUR (original: 38.01 EUR) (33.89 %  de descuento) en el siguiente enlace!

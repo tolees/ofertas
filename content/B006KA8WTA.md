@@ -10,8 +10,11 @@ author: ring
 slug: B006KA8WTA
 description:
 actualPrice: 39.21 EUR
+currency: EUR
+price: 39.21
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Skechers Sergeants Verdict 4442 DSCH - Botas de cuero nobuck para hombre  Marrón  40
 ---
 
 Tienes [Skechers Sergeants Verdict 4442 DSCH - Botas de cuero nobuck para hombre  Marrón  40](https://www.amazon.es/dp/B006KA8WTA/?tag=tolees-21) con un 60.77 % de descuento con precio de oferta de 39.21 EUR (original: 99.95 EUR) en el siguiente enlace!

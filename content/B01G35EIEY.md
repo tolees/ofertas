@@ -10,8 +10,11 @@ author: ring
 slug: B01G35EIEY
 description:
 actualPrice: 164.5 EUR
+currency: EUR
+price: 164.5
 comparePrice: 369 EUR
 inStock: true
+prodname: Olympus TG-Tracker - Cámara de acción de 7.2 MP  Pantalla abatible de 1.5"  GPS  WiFi  estabilizador de 5 Ejes  Video 4K   Color Negro
 ---
 
 Ahora mismo tienes [Olympus TG-Tracker - Cámara de acción de 7.2 MP  Pantalla abatible de 1.5"  GPS  WiFi  estabilizador de 5 Ejes  Video 4K   Color Negro](https://www.amazon.es/dp/B01G35EIEY/?tag=tolees-21) a 164.5 EUR (original: 369 EUR) (55.42 %  de descuento) en el siguiente enlace!

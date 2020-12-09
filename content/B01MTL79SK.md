@@ -10,8 +10,11 @@ author: ring
 slug: B01MTL79SK
 description:
 actualPrice: 25.86 EUR
+currency: EUR
+price: 25.86
 comparePrice: 255.9 EUR
 inStock: true
+prodname: GINO ROSSI DBH151  Botines Mujer  Negro  EU 37
 ---
 
 Tienes [GINO ROSSI DBH151  Botines Mujer  Negro  EU 37](https://www.amazon.es/dp/B01MTL79SK/?tag=tolees-21) con un 89.89 % de descuento con precio de oferta de 25.86 EUR (original: 255.9 EUR) en el siguiente enlace!

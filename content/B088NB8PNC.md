@@ -10,8 +10,11 @@ author: ring
 slug: B088NB8PNC
 description:
 actualPrice: 219.99 EUR
+currency: EUR
+price: 219.99
 comparePrice: 309.95 EUR
 inStock: true
+prodname: Oral-B iO 8 Cepillos Eléctricos Recargables Con Tecnología De Braun  Mangos Morado Y Negro Con Tecnología Magnética Revolucionaria  Pantalla En Color  2 Cabezales De Recambio  1 Funda De Viaje Premium
 ---
 
 Tienes [Oral-B iO 8 Cepillos Eléctricos Recargables Con Tecnología De Braun  Mangos Morado Y Negro Con Tecnología Magnética Revolucionaria  Pantalla En Color  2 Cabezales De Recambio  1 Funda De Viaje Premium](https://www.amazon.es/dp/B088NB8PNC/?tag=tolees-21) con un 29.02 % de descuento con precio de oferta de 219.99 EUR (original: 309.95 EUR) en el siguiente enlace!

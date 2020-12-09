@@ -10,8 +10,11 @@ author: ring
 slug: B07WLWNPZJ
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 169.99 EUR
 inStock: true
+prodname: Razer Kraken Kitty Auriculares para juegos  auriculares Cat Ear con iluminación cromática RGB  micrófono con reducción de ruido activa  audio espacial THX  controles en el audífono   Quartz / Rosa
 ---
 
 Tienes [Razer Kraken Kitty Auriculares para juegos  auriculares Cat Ear con iluminación cromática RGB  micrófono con reducción de ruido activa  audio espacial THX  controles en el audífono   Quartz / Rosa](https://www.amazon.es/dp/B07WLWNPZJ/?tag=tolees-21) con un 41.18 % de descuento con precio de oferta de 99.99 EUR (original: 169.99 EUR) en el siguiente enlace!

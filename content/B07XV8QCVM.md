@@ -10,8 +10,11 @@ author: ring
 slug: B07XV8QCVM
 description:
 actualPrice: 92.0 EUR
+currency: EUR
+price: 92.0
 comparePrice: 139.0 EUR
 inStock: true
+prodname: Lelo SONA 2 Cruise Masajeador con ondas sónicas Cereza  Sumergible  con Cruise Control para un Placer Aumentado
 ---
 
 Tienes [Lelo SONA 2 Cruise Masajeador con ondas sónicas Cereza  Sumergible  con Cruise Control para un Placer Aumentado](https://www.amazon.es/dp/B07XV8QCVM/?tag=tolees-21) con un 33.81 % de descuento con precio de oferta de 92.0 EUR (original: 139.0 EUR) en el siguiente enlace!

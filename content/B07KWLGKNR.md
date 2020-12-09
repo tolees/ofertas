@@ -10,8 +10,11 @@ author: ring
 slug: B07KWLGKNR
 description:
 actualPrice: 13.58 EUR
+currency: EUR
+price: 13.58
 comparePrice: 24.95 EUR
 inStock: true
+prodname: United Colors of Benetton Trousers Pantalones  Azul  BLU Navy 252   única  Talla del Fabricante: X-Large  para Hombre
 ---
 
 Ahora mismo tienes [United Colors of Benetton Trousers Pantalones  Azul  BLU Navy 252   única  Talla del Fabricante: X-Large  para Hombre](https://www.amazon.es/dp/B07KWLGKNR/?tag=tolees-21) a 13.58 EUR (original: 24.95 EUR) (45.57 %  de descuento) en el siguiente enlace!

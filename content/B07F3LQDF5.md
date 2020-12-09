@@ -10,8 +10,11 @@ author: ring
 slug: B07F3LQDF5
 description:
 actualPrice: 8.54 EUR
+currency: EUR
+price: 8.54
 comparePrice: 12.99 EUR
 inStock: true
+prodname: JACK & JONES Jcovincents tee SS Crew Neck-Camp  Camiseta para Hombre  Azul  Classic Blue Fit: Reg-JJ Print   Small
 ---
 
 Está [JACK & JONES Jcovincents tee SS Crew Neck-Camp  Camiseta para Hombre  Azul  Classic Blue Fit: Reg-JJ Print   Small](https://www.amazon.es/dp/B07F3LQDF5/?tag=tolees-21) con 34.26 de descuento por 8.54 EUR (original: 12.99 EUR) en el siguiente enlace!

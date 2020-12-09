@@ -10,8 +10,11 @@ author: ring
 slug: B07CJS8RC4
 description:
 actualPrice: 11.98 EUR
+currency: EUR
+price: 11.98
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Only Onlcarmen Reg SK ANK JNS Rea19541 Noos  Vaqueros Skinny para Mujer  Azul Dark Blue Denim  W27/L32
 ---
 
 Ahora mismo tienes [Only Onlcarmen Reg SK ANK JNS Rea19541 Noos  Vaqueros Skinny para Mujer  Azul Dark Blue Denim  W27/L32](https://www.amazon.es/dp/B07CJS8RC4/?tag=tolees-21) a 11.98 EUR (original: 49.99 EUR) (76.04 %  de descuento) en el siguiente enlace!

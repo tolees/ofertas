@@ -10,8 +10,11 @@ author: ring
 slug: B079FMH3CZ
 description:
 actualPrice: 1.0 EUR
+currency: EUR
+price: 1.0
 comparePrice: 3.75 EUR
 inStock: true
+prodname: VLUNT Filtros para Té Acero Inoxidable Malla Forma de Corazón Té Coladores Té Filtros Té de Intervalo en Acero Inoxidable
 ---
 
 Está [VLUNT Filtros para Té Acero Inoxidable Malla Forma de Corazón Té Coladores Té Filtros Té de Intervalo en Acero Inoxidable](https://www.amazon.es/dp/B079FMH3CZ/?tag=tolees-21) con 73.33 de descuento por 1.0 EUR (original: 3.75 EUR) en el siguiente enlace!

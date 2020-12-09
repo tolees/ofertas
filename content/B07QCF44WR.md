@@ -10,8 +10,11 @@ author: ring
 slug: B07QCF44WR
 description:
 actualPrice: 33.45 EUR
+currency: EUR
+price: 33.45
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Pinypon Escuela de Brujitas - Set de juguete y accesorios con 1 figura para niños y niñas de 4 a 8 años  Famosa 700015074 
 ---
 
 Está [Pinypon Escuela de Brujitas - Set de juguete y accesorios con 1 figura para niños y niñas de 4 a 8 años  Famosa 700015074 ](https://www.amazon.es/dp/B07QCF44WR/?tag=tolees-21) con 48.50 de descuento por 33.45 EUR (original: 64.95 EUR) en el siguiente enlace!

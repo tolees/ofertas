@@ -10,8 +10,11 @@ author: ring
 slug: B00BSCAB76
 description:
 actualPrice: 31.19 EUR
+currency: EUR
+price: 31.19
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Sony DVP-SR170 - Reproductor de DVD HD  Negro
 ---
 
 Está [Sony DVP-SR170 - Reproductor de DVD HD  Negro](https://www.amazon.es/dp/B00BSCAB76/?tag=tolees-21) con 30.69 de descuento por 31.19 EUR (original: 45.0 EUR) en el siguiente enlace!

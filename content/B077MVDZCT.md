@@ -10,8 +10,11 @@ author: ring
 slug: B077MVDZCT
 description:
 actualPrice: 10.59 EUR
+currency: EUR
+price: 10.59
 comparePrice: 15.6 EUR
 inStock: true
+prodname: FELiCON Mens Sports Shorts  Running Shorts para Hombres con Bolsillo de Cremallera  Secado rápido y Transpirable para Correr Fitness Workout Gym
 ---
 
 Está [FELiCON Mens Sports Shorts  Running Shorts para Hombres con Bolsillo de Cremallera  Secado rápido y Transpirable para Correr Fitness Workout Gym](https://www.amazon.es/dp/B077MVDZCT/?tag=tolees-21) con 32.12 de descuento por 10.59 EUR (original: 15.6 EUR) en el siguiente enlace!

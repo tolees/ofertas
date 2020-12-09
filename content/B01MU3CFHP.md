@@ -10,8 +10,11 @@ author: ring
 slug: B01MU3CFHP
 description:
 actualPrice: 72.16 EUR
+currency: EUR
+price: 72.16
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Kärcher K2 Full Control - Hidrolimpiadora de alta presión para exteriores 110 bar  1400 W  360 L/h  1.673-400.0 
 ---
 
 Ahora mismo tienes [Kärcher K2 Full Control - Hidrolimpiadora de alta presión para exteriores 110 bar  1400 W  360 L/h  1.673-400.0 ](https://www.amazon.es/dp/B01MU3CFHP/?tag=tolees-21) a 72.16 EUR (original: 99.95 EUR) (27.80 %  de descuento) en el siguiente enlace!

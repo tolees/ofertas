@@ -10,8 +10,11 @@ author: ring
 slug: B07BH3YTDL
 description:
 actualPrice: 158.36 EUR
+currency: EUR
+price: 158.36
 comparePrice: 395 EUR
 inStock: true
+prodname: Michael Kors - Blakely  Mujer  Negro  Black   12x25x27 cm  W x H L  EU
 ---
 
 Está [Michael Kors - Blakely  Mujer  Negro  Black   12x25x27 cm  W x H L  EU](https://www.amazon.es/dp/B07BH3YTDL/?tag=tolees-21) con 59.91 de descuento por 158.36 EUR (original: 395 EUR) en el siguiente enlace!

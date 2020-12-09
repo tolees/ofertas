@@ -10,8 +10,11 @@ author: ring
 slug: B00ECWF92Q
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Case Logic CDW-128T-BLACK Funda cartera 136discos Negro - Fundas para discos ópticos  Funda cartera  136 discos  Negro  Nylon  120 mm  Resistente al polvo  Resistente a rayones  A prueba de salpicaduras 
 ---
 
 Ahora mismo tienes [Case Logic CDW-128T-BLACK Funda cartera 136discos Negro - Fundas para discos ópticos  Funda cartera  136 discos  Negro  Nylon  120 mm  Resistente al polvo  Resistente a rayones  A prueba de salpicaduras ](https://www.amazon.es/dp/B00ECWF92Q/?tag=tolees-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

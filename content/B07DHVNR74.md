@@ -10,8 +10,11 @@ author: ring
 slug: B07DHVNR74
 description:
 actualPrice: 118.46 EUR
+currency: EUR
+price: 118.46
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Quiksilver Sierra Chaqueta de Nieve  Hombre  Verde Lima  XL
 ---
 
 Está [Quiksilver Sierra Chaqueta de Nieve  Hombre  Verde Lima  XL](https://www.amazon.es/dp/B07DHVNR74/?tag=tolees-21) con 40.77 de descuento por 118.46 EUR (original: 199.99 EUR) en el siguiente enlace!

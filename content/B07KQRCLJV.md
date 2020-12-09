@@ -10,8 +10,11 @@ author: ring
 slug: B07KQRCLJV
 description:
 actualPrice: 52.55 EUR
+currency: EUR
+price: 52.55
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Salomon Alphacross GTX Zapatillas De Trail Running Impermeable Para Hombre
 ---
 
 Ahora mismo tienes [Salomon Alphacross GTX Zapatillas De Trail Running Impermeable Para Hombre](https://www.amazon.es/dp/B07KQRCLJV/?tag=tolees-21) a 52.55 EUR (original: 109.95 EUR) (52.21 %  de descuento) en el siguiente enlace!

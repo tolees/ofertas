@@ -10,8 +10,11 @@ author: ring
 slug: B0827XGQTM
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Blackview Smartwatch  Reloj Inteligente con Pulsómetro Mujer Hombre Niños  Monitor de Sueño  45 Días Batería Ultra Larga Duracion  Reloj de Fitness para iOS y Android Xiaomi Huawei Samsung iPhone
 ---
 
 Tienes [Blackview Smartwatch  Reloj Inteligente con Pulsómetro Mujer Hombre Niños  Monitor de Sueño  45 Días Batería Ultra Larga Duracion  Reloj de Fitness para iOS y Android Xiaomi Huawei Samsung iPhone](https://www.amazon.es/dp/B0827XGQTM/?tag=tolees-21) con un 35.01 % de descuento con precio de oferta de 25.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NMG5BZY
 description:
 actualPrice: 30.09 EUR
+currency: EUR
+price: 30.09
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Mega Bloks Cocodrilo monta y zampa  juguete bloques de construcción para niños +1 año  Mattel GFG22    color/modelo surtido
 ---
 
 Está [Mega Bloks Cocodrilo monta y zampa  juguete bloques de construcción para niños +1 año  Mattel GFG22    color/modelo surtido](https://www.amazon.es/dp/B07NMG5BZY/?tag=tolees-21) con 39.81 de descuento por 30.09 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GC2CB9B
 description:
 actualPrice: 2.63 EUR
+currency: EUR
+price: 2.63
 comparePrice: 5.95 EUR
 inStock: true
+prodname: Bourjois 1 Seconde Esmalte de Uñas Tono 10 Red carpet - 45 gr
 ---
 
 Está [Bourjois 1 Seconde Esmalte de Uñas Tono 10 Red carpet - 45 gr](https://www.amazon.es/dp/B07GC2CB9B/?tag=tolees-21) con 55.80 de descuento por 2.63 EUR (original: 5.95 EUR) en el siguiente enlace!

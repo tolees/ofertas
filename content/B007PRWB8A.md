@@ -10,8 +10,11 @@ author: ring
 slug: B007PRWB8A
 description:
 actualPrice: 109.7 EUR
+currency: EUR
+price: 109.7
 comparePrice: 167.29 EUR
 inStock: true
+prodname: Orbegozo CP54132 Ventilador de Techo con Mando a Distancia  3 velocidades 5 aspas  silencioso  112 cm de diámetro  55 W de Potencia  Gris y Transparente
 ---
 
 Está [Orbegozo CP54132 Ventilador de Techo con Mando a Distancia  3 velocidades 5 aspas  silencioso  112 cm de diámetro  55 W de Potencia  Gris y Transparente](https://www.amazon.es/dp/B007PRWB8A/?tag=tolees-21) con 34.43 de descuento por 109.7 EUR (original: 167.29 EUR) en el siguiente enlace!

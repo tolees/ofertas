@@ -10,8 +10,11 @@ author: ring
 slug: B08FBVVRZD
 description:
 actualPrice: 28.49 EUR
+currency: EUR
+price: 28.49
 comparePrice: 40.61 EUR
 inStock: true
+prodname: Colgate Sensitive Pro Alivio  Pasta de dientes blanqueante  alivio inmediato y duradero - Pack 12 uds x 75ml
 ---
 
 Tienes [Colgate Sensitive Pro Alivio  Pasta de dientes blanqueante  alivio inmediato y duradero - Pack 12 uds x 75ml](https://www.amazon.es/dp/B08FBVVRZD/?tag=tolees-21) con un 29.84 % de descuento con precio de oferta de 28.49 EUR (original: 40.61 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00X9TWWW8
 description:
 actualPrice: 5.25 EUR
+currency: EUR
+price: 5.25
 comparePrice: 9.95 EUR
 inStock: true
+prodname: Garnier Skin Active - BB Cream Roll-On Ojos  Crema Correctora y Anti-Imperfecciones  Tono Claro  7 ml
 ---
 
 Está [Garnier Skin Active - BB Cream Roll-On Ojos  Crema Correctora y Anti-Imperfecciones  Tono Claro  7 ml](https://www.amazon.es/dp/B00X9TWWW8/?tag=tolees-21) con 47.24 de descuento por 5.25 EUR (original: 9.95 EUR) en el siguiente enlace!

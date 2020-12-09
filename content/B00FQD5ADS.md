@@ -10,8 +10,11 @@ author: ring
 slug: B00FQD5ADS
 description:
 actualPrice: 7.98 EUR
+currency: EUR
+price: 7.98
 comparePrice: 16.95 EUR
 inStock: true
+prodname: Cobertor Invierno para Piscina Desmontable Bestway
 ---
 
 Está [Cobertor Invierno para Piscina Desmontable Bestway](https://www.amazon.es/dp/B00FQD5ADS/?tag=tolees-21) con 52.92 de descuento por 7.98 EUR (original: 16.95 EUR) en el siguiente enlace!

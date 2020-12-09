@@ -10,8 +10,11 @@ author: ring
 slug: B07BJHB17Y
 description:
 actualPrice: 35.88 EUR
+currency: EUR
+price: 35.88
 comparePrice: 89.95 EUR
 inStock: true
+prodname: G-STAR RAW Core R Knit L/s  suéter Hombre  Rojo  Flame 5666   Small
 ---
 
 Tienes [G-STAR RAW Core R Knit L/s  suéter Hombre  Rojo  Flame 5666   Small](https://www.amazon.es/dp/B07BJHB17Y/?tag=tolees-21) con un 60.11 % de descuento con precio de oferta de 35.88 EUR (original: 89.95 EUR) en el siguiente enlace!

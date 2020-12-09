@@ -10,8 +10,11 @@ author: ring
 slug: B01LXCJ49J
 description:
 actualPrice: 90.37 EUR
+currency: EUR
+price: 90.37
 comparePrice: 199 EUR
 inStock: true
+prodname: LELO El Delito Set de Regalo Sexi para Mujer.
 ---
 
 Ahora mismo tienes [LELO El Delito Set de Regalo Sexi para Mujer.](https://www.amazon.es/dp/B01LXCJ49J/?tag=tolees-21) a 90.37 EUR (original: 199 EUR) (54.59 %  de descuento) en el siguiente enlace!

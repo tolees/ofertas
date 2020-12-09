@@ -10,8 +10,11 @@ author: ring
 slug: B07D1XBW8R
 description:
 actualPrice: 35.7 EUR
+currency: EUR
+price: 35.7
 comparePrice: 75.99 EUR
 inStock: true
+prodname: Gerry Weber Pullover 1/1 Arm  suéter Mujer   Schwarz/Sand/Rot 1115   48
 ---
 
 Está [Gerry Weber Pullover 1/1 Arm  suéter Mujer   Schwarz/Sand/Rot 1115   48](https://www.amazon.es/dp/B07D1XBW8R/?tag=tolees-21) con 53.02 de descuento por 35.7 EUR (original: 75.99 EUR) en el siguiente enlace!

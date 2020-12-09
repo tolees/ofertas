@@ -10,8 +10,11 @@ author: ring
 slug: B07DCBV9SH
 description:
 actualPrice: 21.05 EUR
+currency: EUR
+price: 21.05
 comparePrice: 129.95 EUR
 inStock: true
+prodname: Puma One 19.2 FG/AG  Zapatillas de Fútbol para Hombre  Azul  Bleu Azur-Red Blast Black   43 EU
 ---
 
 Ahora mismo tienes [Puma One 19.2 FG/AG  Zapatillas de Fútbol para Hombre  Azul  Bleu Azur-Red Blast Black   43 EU](https://www.amazon.es/dp/B07DCBV9SH/?tag=tolees-21) a 21.05 EUR (original: 129.95 EUR) (83.80 %  de descuento) en el siguiente enlace!

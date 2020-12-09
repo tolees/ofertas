@@ -10,8 +10,11 @@ author: ring
 slug: B083FCQMNY
 description:
 actualPrice: 35.19 EUR
+currency: EUR
+price: 35.19
 comparePrice: 56.99 EUR
 inStock: true
+prodname: Laluztop Purificador de Aire  con HEPA Carbón Activado para Hogar Oficina 3 Modos y Temporizador de 2/4/8H ＜ 20db Captura Alergias  Polvo  Humo  Caspa de Mascotas Olor  PM2.5
 ---
 
 Ahora mismo tienes [Laluztop Purificador de Aire  con HEPA Carbón Activado para Hogar Oficina 3 Modos y Temporizador de 2/4/8H ＜ 20db Captura Alergias  Polvo  Humo  Caspa de Mascotas Olor  PM2.5](https://www.amazon.es/dp/B083FCQMNY/?tag=tolees-21) a 35.19 EUR (original: 56.99 EUR) (38.25 %  de descuento) en el siguiente enlace!

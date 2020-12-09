@@ -10,8 +10,11 @@ author: ring
 slug: B00UCL4GVQ
 description:
 actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
 comparePrice: 10.93 EUR
 inStock: true
+prodname: Drip&Fresh Rollo de tubería Blanca con Tratamiento Anti UV  6 m  C5108
 ---
 
 Tienes [Drip&Fresh Rollo de tubería Blanca con Tratamiento Anti UV  6 m  C5108](https://www.amazon.es/dp/B00UCL4GVQ/?tag=tolees-21) con un 27.26 % de descuento con precio de oferta de 7.95 EUR (original: 10.93 EUR) en el siguiente enlace!

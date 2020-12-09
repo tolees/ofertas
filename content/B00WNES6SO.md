@@ -10,8 +10,11 @@ author: ring
 slug: B00WNES6SO
 description:
 actualPrice: 28.49 EUR
+currency: EUR
+price: 28.49
 comparePrice: 37.99 EUR
 inStock: true
+prodname: Walking Dead The Serie 4 Bloody Carl Grimes Y Abraham Ford Figura de acción en septiembre
 ---
 
 Tienes [Walking Dead The Serie 4 Bloody Carl Grimes Y Abraham Ford Figura de acción en septiembre](https://www.amazon.es/dp/B00WNES6SO/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 28.49 EUR (original: 37.99 EUR) en el siguiente enlace!

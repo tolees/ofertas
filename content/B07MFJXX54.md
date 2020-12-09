@@ -10,8 +10,11 @@ author: ring
 slug: B07MFJXX54
 description:
 actualPrice: 19.69 EUR
+currency: EUR
+price: 19.69
 comparePrice: 26.69 EUR
 inStock: true
+prodname: Masajeador Louviva 12 Modos Color Rojo y Negro
 ---
 
 Tienes [Masajeador Louviva 12 Modos Color Rojo y Negro](https://www.amazon.es/dp/B07MFJXX54/?tag=tolees-21) con un 26.23 % de descuento con precio de oferta de 19.69 EUR (original: 26.69 EUR) en el siguiente enlace!

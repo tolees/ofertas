@@ -10,8 +10,11 @@ author: ring
 slug: B01LXEAOOV
 description:
 actualPrice: 17.78 EUR
+currency: EUR
+price: 17.78
 comparePrice: 35.63 EUR
 inStock: true
+prodname: PARKER IM  pluma estilográfica azul mate  con plumín mediano y recambio de tinta azul  1931654 
 ---
 
 Ahora mismo tienes [PARKER IM  pluma estilográfica azul mate  con plumín mediano y recambio de tinta azul  1931654 ](https://www.amazon.es/dp/B01LXEAOOV/?tag=tolees-21) a 17.78 EUR (original: 35.63 EUR) (50.10 %  de descuento) en el siguiente enlace!

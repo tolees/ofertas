@@ -10,8 +10,11 @@ author: ring
 slug: B07FYDX7HV
 description:
 actualPrice: 7.9 EUR
+currency: EUR
+price: 7.9
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS  Granate
 ---
 
 Está [Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS  Granate](https://www.amazon.es/dp/B07FYDX7HV/?tag=tolees-21) con 77.42 de descuento por 7.9 EUR (original: 34.99 EUR) en el siguiente enlace!

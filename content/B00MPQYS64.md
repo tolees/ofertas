@@ -10,8 +10,11 @@ author: ring
 slug: B00MPQYS64
 description:
 actualPrice: 88.36 EUR
+currency: EUR
+price: 88.36
 comparePrice: 134.61 EUR
 inStock: true
+prodname: Williams & Humbert - Ron dos maderas luxus
 ---
 
 Ahora mismo tienes [Williams & Humbert - Ron dos maderas luxus](https://www.amazon.es/dp/B00MPQYS64/?tag=tolees-21) a 88.36 EUR (original: 134.61 EUR) (34.36 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01D1XDXB0
 description:
 actualPrice: 43.54 EUR
+currency: EUR
+price: 43.54
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Taylor Shine  Botas Chelsea para Mujer  Marrón  Tan Leather   39.5 EU
 ---
 
 Tienes [Clarks Taylor Shine  Botas Chelsea para Mujer  Marrón  Tan Leather   39.5 EU](https://www.amazon.es/dp/B01D1XDXB0/?tag=tolees-21) con un 56.44 % de descuento con precio de oferta de 43.54 EUR (original: 99.95 EUR) en el siguiente enlace!

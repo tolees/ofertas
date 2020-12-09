@@ -10,8 +10,11 @@ author: ring
 slug: B07GFXDNLX
 description:
 actualPrice: 159.0 EUR
+currency: EUR
+price: 159.0
 comparePrice: 280.0 EUR
 inStock: true
+prodname: Sony WF-SP900B - Auriculares Deportivos Totalmente inalámbricos  Bluetooth  4GB  Resistente al Agua y Polvo IP65/IP68  Sensor táctil  12h de autonomía con Bluetooth y 21 Interna  Negro
 ---
 
 Ahora mismo tienes [Sony WF-SP900B - Auriculares Deportivos Totalmente inalámbricos  Bluetooth  4GB  Resistente al Agua y Polvo IP65/IP68  Sensor táctil  12h de autonomía con Bluetooth y 21 Interna  Negro](https://www.amazon.es/dp/B07GFXDNLX/?tag=tolees-21) a 159.0 EUR (original: 280.0 EUR) (43.21 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07VN9QWGS
 description:
 actualPrice: 126.49 EUR
+currency: EUR
+price: 126.49
 comparePrice: 250.0 EUR
 inStock: true
+prodname: Helly Hansen Bonanza Jacket Chaqueta Con Doble Capa  Hombre  Black  M
 ---
 
 Está [Helly Hansen Bonanza Jacket Chaqueta Con Doble Capa  Hombre  Black  M](https://www.amazon.es/dp/B07VN9QWGS/?tag=tolees-21) con 49.40 de descuento por 126.49 EUR (original: 250.0 EUR) en el siguiente enlace!

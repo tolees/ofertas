@@ -10,8 +10,11 @@ author: ring
 slug: B07DTGNM44
 description:
 actualPrice: 34.41 EUR
+currency: EUR
+price: 34.41
 comparePrice: 55 EUR
 inStock: true
+prodname: Geox J Android C  Zapatillas para Niños  Azul  Navy/Lime C0749   24 EU
 ---
 
 Tienes [Geox J Android C  Zapatillas para Niños  Azul  Navy/Lime C0749   24 EU](https://www.amazon.es/dp/B07DTGNM44/?tag=tolees-21) con un 37.44 % de descuento con precio de oferta de 34.41 EUR (original: 55 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08D1KN8DQ
 description:
 actualPrice: 34.98 EUR
+currency: EUR
+price: 34.98
 comparePrice: 74.98 EUR
 inStock: true
+prodname: Echo Dot  3.ª generación   Tela de color gris claro + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa
 ---
 
 Tienes [Echo Dot  3.ª generación   Tela de color gris claro + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa](https://www.amazon.es/dp/B08D1KN8DQ/?tag=tolees-21) con un 53.35 % de descuento con precio de oferta de 34.98 EUR (original: 74.98 EUR) en el siguiente enlace!

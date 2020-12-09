@@ -10,8 +10,11 @@ author: ring
 slug: B00CV7SCVY
 description:
 actualPrice: 9.16 EUR
+currency: EUR
+price: 9.16
 comparePrice: 20.35 EUR
 inStock: true
+prodname: TGI TGI52U - Afinador digital con enganche para ukelele
 ---
 
 Ahora mismo tienes [TGI TGI52U - Afinador digital con enganche para ukelele](https://www.amazon.es/dp/B00CV7SCVY/?tag=tolees-21) a 9.16 EUR (original: 20.35 EUR) (54.99 %  de descuento) en el siguiente enlace!

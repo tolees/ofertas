@@ -10,8 +10,11 @@ author: ring
 slug: B06Y1XGS1Y
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 53.13 EUR
 inStock: true
+prodname: Yepes: The Complete Solo Recordings
 ---
 
 Tienes [Yepes: The Complete Solo Recordings](https://www.amazon.es/dp/B06Y1XGS1Y/?tag=tolees-21) con un 58.61 % de descuento con precio de oferta de 21.99 EUR (original: 53.13 EUR) en el siguiente enlace!

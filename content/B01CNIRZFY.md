@@ -10,8 +10,11 @@ author: ring
 slug: B01CNIRZFY
 description:
 actualPrice: 116.06 EUR
+currency: EUR
+price: 116.06
 comparePrice: 251.67 EUR
 inStock: true
+prodname: Silicon Power SP960GBSS3S55S25 - Disco Duro sólido  Color Negro
 ---
 
 Está [Silicon Power SP960GBSS3S55S25 - Disco Duro sólido  Color Negro](https://www.amazon.es/dp/B01CNIRZFY/?tag=tolees-21) con 53.88 de descuento por 116.06 EUR (original: 251.67 EUR) en el siguiente enlace!

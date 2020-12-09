@@ -10,8 +10,11 @@ author: ring
 slug: B00J8OP6GW
 description:
 actualPrice: 19.56 EUR
+currency: EUR
+price: 19.56
 comparePrice: 26.9 EUR
 inStock: true
+prodname: Scitec Nutrition Whey Protein Professional proteína chocolate 920 g
 ---
 
 Está [Scitec Nutrition Whey Protein Professional proteína chocolate 920 g](https://www.amazon.es/dp/B00J8OP6GW/?tag=tolees-21) con 27.29 de descuento por 19.56 EUR (original: 26.9 EUR) en el siguiente enlace!

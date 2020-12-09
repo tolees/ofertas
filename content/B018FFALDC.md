@@ -10,8 +10,11 @@ author: ring
 slug: B018FFALDC
 description:
 actualPrice: 41.76 EUR
+currency: EUR
+price: 41.76
 comparePrice: 70 EUR
 inStock: true
+prodname: Under Armour UA Drift RN  Zapatillas de Running para Hombre  Gris  Overcast Glacier Gray/Metallic Pewter 941   45 EU
 ---
 
 Ahora mismo tienes [Under Armour UA Drift RN  Zapatillas de Running para Hombre  Gris  Overcast Glacier Gray/Metallic Pewter 941   45 EU](https://www.amazon.es/dp/B018FFALDC/?tag=tolees-21) a 41.76 EUR (original: 70 EUR) (40.34 %  de descuento) en el siguiente enlace!

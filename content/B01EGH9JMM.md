@@ -10,8 +10,11 @@ author: ring
 slug: B01EGH9JMM
 description:
 actualPrice: 7.3 EUR
+currency: EUR
+price: 7.3
 comparePrice: 13.7 EUR
 inStock: true
+prodname: Ana Maria Lajusticia - Triptófano con magnesio + VIT B6 – 60 comprimidos. Reduce la ansiedad  el cansancio y regula el reloj interno. Apto para veganos. Envase para 30 días de tratamiento.
 ---
 
 Está [Ana Maria Lajusticia - Triptófano con magnesio + VIT B6 – 60 comprimidos. Reduce la ansiedad  el cansancio y regula el reloj interno. Apto para veganos. Envase para 30 días de tratamiento.](https://www.amazon.es/dp/B01EGH9JMM/?tag=tolees-21) con 46.72 de descuento por 7.3 EUR (original: 13.7 EUR) en el siguiente enlace!

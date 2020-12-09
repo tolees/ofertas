@@ -10,8 +10,11 @@ author: ring
 slug: B07DCMNWZX
 description:
 actualPrice: 30.34 EUR
+currency: EUR
+price: 30.34
 comparePrice: 71 EUR
 inStock: true
+prodname: Nike Wmns Ebernon Mid  Zapatos de Baloncesto para Mujer  Tint/Mtlc Pewter/Pure Platinum 002  40 EU
 ---
 
 Ahora mismo tienes [Nike Wmns Ebernon Mid  Zapatos de Baloncesto para Mujer  Tint/Mtlc Pewter/Pure Platinum 002  40 EU](https://www.amazon.es/dp/B07DCMNWZX/?tag=tolees-21) a 30.34 EUR (original: 71 EUR) (57.27 %  de descuento) en el siguiente enlace!

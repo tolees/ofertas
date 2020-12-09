@@ -10,8 +10,11 @@ author: ring
 slug: B00XAPGK6U
 description:
 actualPrice: 5.16 EUR
+currency: EUR
+price: 5.16
 comparePrice: 8.2 EUR
 inStock: true
+prodname: Haribo - Sandia - Caramelos de goma - 1 kg
 ---
 
 Está [Haribo - Sandia - Caramelos de goma - 1 kg](https://www.amazon.es/dp/B00XAPGK6U/?tag=tolees-21) con 37.07 de descuento por 5.16 EUR (original: 8.2 EUR) en el siguiente enlace!

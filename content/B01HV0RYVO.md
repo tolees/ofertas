@@ -10,8 +10,11 @@ author: ring
 slug: B01HV0RYVO
 description:
 actualPrice: 54.95 EUR
+currency: EUR
+price: 54.95
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Columbia Fire Venture Waterproof  Zapatillas De Deporte para Exterior para Mujer  Gris  Ti Grey Steel/Aquarium   39 EU
 ---
 
 Tienes [Columbia Fire Venture Waterproof  Zapatillas De Deporte para Exterior para Mujer  Gris  Ti Grey Steel/Aquarium   39 EU](https://www.amazon.es/dp/B01HV0RYVO/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 54.95 EUR (original: 109.95 EUR) en el siguiente enlace!

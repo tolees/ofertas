@@ -10,8 +10,11 @@ author: ring
 slug: B07D7HNRHP
 description:
 actualPrice: 44.33 EUR
+currency: EUR
+price: 44.33
 comparePrice: 149.9 EUR
 inStock: true
+prodname: Dolores Promesas 107343  Falda para Mujer  Azulo   Tamaño del Fabricante:42 
 ---
 
 Ahora mismo tienes [Dolores Promesas 107343  Falda para Mujer  Azulo   Tamaño del Fabricante:42 ](https://www.amazon.es/dp/B07D7HNRHP/?tag=tolees-21) a 44.33 EUR (original: 149.9 EUR) (70.43 %  de descuento) en el siguiente enlace!

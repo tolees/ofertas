@@ -10,8 +10,11 @@ author: ring
 slug: B081CDSLMJ
 description:
 actualPrice: 62.3 EUR
+currency: EUR
+price: 62.3
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Geographical Norway Chaqueta NIÑA Anson 068 rol 7+BS
 ---
 
 Está [Geographical Norway Chaqueta NIÑA Anson 068 rol 7+BS](https://www.amazon.es/dp/B081CDSLMJ/?tag=tolees-21) con 37.07 de descuento por 62.3 EUR (original: 99.0 EUR) en el siguiente enlace!

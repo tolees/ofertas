@@ -10,8 +10,11 @@ author: ring
 slug: B071JPYXQM
 description:
 actualPrice: 58.49 EUR
+currency: EUR
+price: 58.49
 comparePrice: 105.29 EUR
 inStock: true
+prodname: Merrell Vapor Guante 3 Zapatilla De Correr para Tierra - 41.5
 ---
 
 Tienes [Merrell Vapor Guante 3 Zapatilla De Correr para Tierra - 41.5](https://www.amazon.es/dp/B071JPYXQM/?tag=tolees-21) con un 44.45 % de descuento con precio de oferta de 58.49 EUR (original: 105.29 EUR) en el siguiente enlace!

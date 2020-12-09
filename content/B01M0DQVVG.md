@@ -10,8 +10,11 @@ author: ring
 slug: B01M0DQVVG
 description:
 actualPrice: 100.4 EUR
+currency: EUR
+price: 100.4
 comparePrice: 189.0 EUR
 inStock: true
+prodname: Daniel Wellington Classic Sheffield  Reloj Negro/Plateado  40mm  Cuero  para Hombre
 ---
 
 Tienes [Daniel Wellington Classic Sheffield  Reloj Negro/Plateado  40mm  Cuero  para Hombre](https://www.amazon.es/dp/B01M0DQVVG/?tag=tolees-21) con un 46.88 % de descuento con precio de oferta de 100.4 EUR (original: 189.0 EUR) en el siguiente enlace!

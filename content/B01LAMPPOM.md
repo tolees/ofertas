@@ -10,8 +10,11 @@ author: ring
 slug: B01LAMPPOM
 description:
 actualPrice: 5 EUR
+currency: EUR
+price: 5
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Pocket POP! Keychain - Alien: Alien
 ---
 
 Tienes [Pocket POP! Keychain - Alien: Alien](https://www.amazon.es/dp/B01LAMPPOM/?tag=tolees-21) con un 64.26 % de descuento con precio de oferta de 5 EUR (original: 13.99 EUR) en el siguiente enlace!

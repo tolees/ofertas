@@ -10,8 +10,11 @@ author: ring
 slug: B07JFJGWPG
 description:
 actualPrice: 14.2 EUR
+currency: EUR
+price: 14.2
 comparePrice: 29 EUR
 inStock: true
+prodname: Timberland tee-Shirt Manches Courtes Camiseta  Blanc 10b  4 años  Talla del Fabricante: 04A  para Niños
 ---
 
 Está [Timberland tee-Shirt Manches Courtes Camiseta  Blanc 10b  4 años  Talla del Fabricante: 04A  para Niños](https://www.amazon.es/dp/B07JFJGWPG/?tag=tolees-21) con 51.03 de descuento por 14.2 EUR (original: 29 EUR) en el siguiente enlace!

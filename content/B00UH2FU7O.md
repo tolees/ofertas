@@ -10,8 +10,11 @@ author: ring
 slug: B00UH2FU7O
 description:
 actualPrice: 45 EUR
+currency: EUR
+price: 45
 comparePrice: 90 EUR
 inStock: true
+prodname: Timberland Seabury Classic 2 Eye  Náuticos Unisex Niños  Marrón  Dark Brown 8a2   40 EU
 ---
 
 Está [Timberland Seabury Classic 2 Eye  Náuticos Unisex Niños  Marrón  Dark Brown 8a2   40 EU](https://www.amazon.es/dp/B00UH2FU7O/?tag=tolees-21) con 50.00 de descuento por 45 EUR (original: 90 EUR) en el siguiente enlace!

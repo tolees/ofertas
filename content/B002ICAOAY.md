@@ -10,8 +10,11 @@ author: ring
 slug: B002ICAOAY
 description:
 actualPrice: 18.3 EUR
+currency: EUR
+price: 18.3
 comparePrice: 27.5 EUR
 inStock: true
+prodname: Jesus Del Pozo In White Eau de Toilette Vaporizador 30 ml
 ---
 
 Ahora mismo tienes [Jesus Del Pozo In White Eau de Toilette Vaporizador 30 ml](https://www.amazon.es/dp/B002ICAOAY/?tag=tolees-21) a 18.3 EUR (original: 27.5 EUR) (33.45 %  de descuento) en el siguiente enlace!

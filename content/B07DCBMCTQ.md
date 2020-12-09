@@ -10,8 +10,11 @@ author: ring
 slug: B07DCBMCTQ
 description:
 actualPrice: 22.07 EUR
+currency: EUR
+price: 22.07
 comparePrice: 39.95 EUR
 inStock: true
+prodname: XTI 48190  Zapatillas para Hombre  Negro  Black   42 EU
 ---
 
 Tienes [XTI 48190  Zapatillas para Hombre  Negro  Black   42 EU](https://www.amazon.es/dp/B07DCBMCTQ/?tag=tolees-21) con un 44.76 % de descuento con precio de oferta de 22.07 EUR (original: 39.95 EUR) en el siguiente enlace!

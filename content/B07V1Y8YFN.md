@@ -10,8 +10,11 @@ author: ring
 slug: B07V1Y8YFN
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: No Straight Roads
 ---
 
 Está [No Straight Roads](https://www.amazon.es/dp/B07V1Y8YFN/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

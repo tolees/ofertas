@@ -10,8 +10,11 @@ author: ring
 slug: B07JDTF8ZR
 description:
 actualPrice: 47.94 EUR
+currency: EUR
+price: 47.94
 comparePrice: 79 EUR
 inStock: true
+prodname: Lacoste Sport L1230  Polo Hombre  Azul  Pratensis Adb   X-Small  Talla del Fabricante: 2 
 ---
 
 Está [Lacoste Sport L1230  Polo Hombre  Azul  Pratensis Adb   X-Small  Talla del Fabricante: 2 ](https://www.amazon.es/dp/B07JDTF8ZR/?tag=tolees-21) con 39.32 de descuento por 47.94 EUR (original: 79 EUR) en el siguiente enlace!

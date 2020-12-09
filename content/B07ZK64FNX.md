@@ -10,8 +10,11 @@ author: ring
 slug: B07ZK64FNX
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: KIPOZI Mini Planchas del Pelo de Viaje  Plancha Alisadora Cerámica con Doble Voltaje y Calentamiento Rápido  Negro
 ---
 
 Tienes [KIPOZI Mini Planchas del Pelo de Viaje  Plancha Alisadora Cerámica con Doble Voltaje y Calentamiento Rápido  Negro](https://www.amazon.es/dp/B07ZK64FNX/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!

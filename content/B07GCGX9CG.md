@@ -10,8 +10,11 @@ author: ring
 slug: B07GCGX9CG
 description:
 actualPrice: 69.79 EUR
+currency: EUR
+price: 69.79
 comparePrice: 299.99 EUR
 inStock: true
+prodname: TECCPO Cortasetos  28V Tijeras Cortasetos 2.0Ah  Longitud de Hoja 600 mm  Distancia Entre Hoja 20mm  Hoja de Doble Acción  Diseño de Cabeza Anticolisión  Botón de Inicio Triple - TDHT01G
 ---
 
 Tienes [TECCPO Cortasetos  28V Tijeras Cortasetos 2.0Ah  Longitud de Hoja 600 mm  Distancia Entre Hoja 20mm  Hoja de Doble Acción  Diseño de Cabeza Anticolisión  Botón de Inicio Triple - TDHT01G](https://www.amazon.es/dp/B07GCGX9CG/?tag=tolees-21) con un 76.74 % de descuento con precio de oferta de 69.79 EUR (original: 299.99 EUR) en el siguiente enlace!

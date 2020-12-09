@@ -10,8 +10,11 @@ author: ring
 slug: B079JV2GZL
 description:
 actualPrice: 96.32 EUR
+currency: EUR
+price: 96.32
 comparePrice: 140 EUR
 inStock: true
+prodname: American Tourister Bon Air Equipaje de mano   L  75 cm  91 L  color Morado
 ---
 
 Está [American Tourister Bon Air Equipaje de mano   L  75 cm  91 L  color Morado](https://www.amazon.es/dp/B079JV2GZL/?tag=tolees-21) con 31.20 de descuento por 96.32 EUR (original: 140 EUR) en el siguiente enlace!

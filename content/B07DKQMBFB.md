@@ -10,8 +10,11 @@ author: ring
 slug: B07DKQMBFB
 description:
 actualPrice: 23.35 EUR
+currency: EUR
+price: 23.35
 comparePrice: 109.99 EUR
 inStock: true
+prodname: Quiksilver Grebe  Botas Slouch para Hombre  Marrón Black/Brown-Combo Xckc  44 EU
 ---
 
 Está [Quiksilver Grebe  Botas Slouch para Hombre  Marrón Black/Brown-Combo Xckc  44 EU](https://www.amazon.es/dp/B07DKQMBFB/?tag=tolees-21) con 78.77 de descuento por 23.35 EUR (original: 109.99 EUR) en el siguiente enlace!

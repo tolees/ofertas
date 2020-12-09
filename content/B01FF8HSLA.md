@@ -10,8 +10,11 @@ author: ring
 slug: B01FF8HSLA
 description:
 actualPrice: 33.95 EUR
+currency: EUR
+price: 33.95
 comparePrice: 59.95 EUR
 inStock: true
+prodname: JACK & JONES Jjimike Jjoriginal Ge 616 Noos Lid  Jeans Hombre  Azul  Blue Denim   W30/L32  Talla del fabricante: 30 
 ---
 
 Está [JACK & JONES Jjimike Jjoriginal Ge 616 Noos Lid  Jeans Hombre  Azul  Blue Denim   W30/L32  Talla del fabricante: 30 ](https://www.amazon.es/dp/B01FF8HSLA/?tag=tolees-21) con 43.37 de descuento por 33.95 EUR (original: 59.95 EUR) en el siguiente enlace!

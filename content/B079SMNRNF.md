@@ -10,8 +10,11 @@ author: ring
 slug: B079SMNRNF
 description:
 actualPrice: 47.34 EUR
+currency: EUR
+price: 47.34
 comparePrice: 169.95 EUR
 inStock: true
+prodname: Desigual Abrig_Collin  Mujer    Negro 2000  42  Talla del fabricante: 44 
 ---
 
 Está [Desigual Abrig_Collin  Mujer    Negro 2000  42  Talla del fabricante: 44 ](https://www.amazon.es/dp/B079SMNRNF/?tag=tolees-21) con 72.14 de descuento por 47.34 EUR (original: 169.95 EUR) en el siguiente enlace!

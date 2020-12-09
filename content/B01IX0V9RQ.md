@@ -10,8 +10,11 @@ author: ring
 slug: B01IX0V9RQ
 description:
 actualPrice: 28.36 EUR
+currency: EUR
+price: 28.36
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Triumph Amourette 300 WHP X  Sujetador Mujer  Beige  SKIN   70B
 ---
 
 Está [Triumph Amourette 300 WHP X  Sujetador Mujer  Beige  SKIN   70B](https://www.amazon.es/dp/B01IX0V9RQ/?tag=tolees-21) con 43.22 de descuento por 28.36 EUR (original: 49.95 EUR) en el siguiente enlace!

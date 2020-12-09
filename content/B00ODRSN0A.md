@@ -10,8 +10,11 @@ author: ring
 slug: B00ODRSN0A
 description:
 actualPrice: 131.13 EUR
+currency: EUR
+price: 131.13
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Jabra Evolve 65 MS - Auriculares Inalámbricos Estéreo Certificados por Microsoft con Batería de Larga Duración  Adaptador Bluetooth USB  Negro
 ---
 
 Ahora mismo tienes [Jabra Evolve 65 MS - Auriculares Inalámbricos Estéreo Certificados por Microsoft con Batería de Larga Duración  Adaptador Bluetooth USB  Negro](https://www.amazon.es/dp/B00ODRSN0A/?tag=tolees-21) a 131.13 EUR (original: 199.99 EUR) (34.43 %  de descuento) en el siguiente enlace!

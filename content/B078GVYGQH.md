@@ -10,8 +10,11 @@ author: ring
 slug: B078GVYGQH
 description:
 actualPrice: 12.55 EUR
+currency: EUR
+price: 12.55
 comparePrice: 45.95 EUR
 inStock: true
+prodname: Trucco TT03AN1 Blusa  Amarillo Oscuro   Tamaño del Fabricante:38  para Mujer
 ---
 
 Ahora mismo tienes [Trucco TT03AN1 Blusa  Amarillo Oscuro   Tamaño del Fabricante:38  para Mujer](https://www.amazon.es/dp/B078GVYGQH/?tag=tolees-21) a 12.55 EUR (original: 45.95 EUR) (72.69 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01NAWIX0S
 description:
 actualPrice: 32.95 EUR
+currency: EUR
+price: 32.95
 comparePrice: 59 EUR
 inStock: true
+prodname: Timberland Millers River  Camiseta cuello alto Hombre  Azul  Dark Sapphire 433   Large
 ---
 
 Tienes [Timberland Millers River  Camiseta cuello alto Hombre  Azul  Dark Sapphire 433   Large](https://www.amazon.es/dp/B01NAWIX0S/?tag=tolees-21) con un 44.15 % de descuento con precio de oferta de 32.95 EUR (original: 59 EUR) en el siguiente enlace!

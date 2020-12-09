@@ -10,8 +10,11 @@ author: ring
 slug: B00B2PXTLE
 description:
 actualPrice: 13.74 EUR
+currency: EUR
+price: 13.74
 comparePrice: 36.1 EUR
 inStock: true
+prodname: Pdx Toyz Pipedream Extreme Masturbador Nasty Nympho - 500 gr
 ---
 
 Tienes [Pdx Toyz Pipedream Extreme Masturbador Nasty Nympho - 500 gr](https://www.amazon.es/dp/B00B2PXTLE/?tag=tolees-21) con un 61.94 % de descuento con precio de oferta de 13.74 EUR (original: 36.1 EUR) en el siguiente enlace!

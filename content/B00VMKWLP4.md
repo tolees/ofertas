@@ -10,8 +10,11 @@ author: ring
 slug: B00VMKWLP4
 description:
 actualPrice: 38.45 EUR
+currency: EUR
+price: 38.45
 comparePrice: 55 EUR
 inStock: true
+prodname: Fossil pendientes acero inoxidable-- --JF01737791 óxido de circonio
 ---
 
 Tienes [Fossil pendientes acero inoxidable-- --JF01737791 óxido de circonio](https://www.amazon.es/dp/B00VMKWLP4/?tag=tolees-21) con un 30.09 % de descuento con precio de oferta de 38.45 EUR (original: 55 EUR) en el siguiente enlace!

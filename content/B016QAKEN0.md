@@ -10,8 +10,11 @@ author: ring
 slug: B016QAKEN0
 description:
 actualPrice: 8.95 EUR
+currency: EUR
+price: 8.95
 comparePrice: 12.56 EUR
 inStock: true
+prodname: adidas Parma 16 SHO Shorts  Hombre  Bold Green/White  2XL
 ---
 
 Está [adidas Parma 16 SHO Shorts  Hombre  Bold Green/White  2XL](https://www.amazon.es/dp/B016QAKEN0/?tag=tolees-21) con 28.74 de descuento por 8.95 EUR (original: 12.56 EUR) en el siguiente enlace!

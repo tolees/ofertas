@@ -10,8 +10,11 @@ author: ring
 slug: B01KJLXKBA
 description:
 actualPrice: 19.56 EUR
+currency: EUR
+price: 19.56
 comparePrice: 85 EUR
 inStock: true
+prodname: Vans Atwood  Zapatillas para Mujer  Marrón  MTE   42 EU
 ---
 
 Tienes [Vans Atwood  Zapatillas para Mujer  Marrón  MTE   42 EU](https://www.amazon.es/dp/B01KJLXKBA/?tag=tolees-21) con un 76.99 % de descuento con precio de oferta de 19.56 EUR (original: 85 EUR) en el siguiente enlace!

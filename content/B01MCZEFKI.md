@@ -10,8 +10,11 @@ author: ring
 slug: B01MCZEFKI
 description:
 actualPrice: 32.95 EUR
+currency: EUR
+price: 32.95
 comparePrice: 60 EUR
 inStock: true
+prodname: Levi s Woods  Zapatillas para Hombre  Blanco  B White 50   43 EU
 ---
 
 Está [Levi s Woods  Zapatillas para Hombre  Blanco  B White 50   43 EU](https://www.amazon.es/dp/B01MCZEFKI/?tag=tolees-21) con 45.08 de descuento por 32.95 EUR (original: 60 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00MOLYU9K
 description:
 actualPrice: 44.99 EUR
+currency: EUR
+price: 44.99
 comparePrice: 66.99 EUR
 inStock: true
+prodname: Sony PSN Plus - Tarjeta para 365 días  Reedición  Código Digital
 ---
 
 Ahora mismo tienes [Sony PSN Plus - Tarjeta para 365 días  Reedición  Código Digital](https://www.amazon.es/dp/B00MOLYU9K/?tag=tolees-21) a 44.99 EUR (original: 66.99 EUR) (32.84 %  de descuento) en el siguiente enlace!

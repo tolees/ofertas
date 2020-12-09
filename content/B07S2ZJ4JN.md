@@ -10,8 +10,11 @@ author: ring
 slug: B07S2ZJ4JN
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 33.45 EUR
 inStock: true
+prodname: Llave USB 16 GB Thanos - Memoria Flash Drive 2.0 Original Marvel  Llave USB Tribe FD016509
 ---
 
 Está [Llave USB 16 GB Thanos - Memoria Flash Drive 2.0 Original Marvel  Llave USB Tribe FD016509](https://www.amazon.es/dp/B07S2ZJ4JN/?tag=tolees-21) con 46.22 de descuento por 17.99 EUR (original: 33.45 EUR) en el siguiente enlace!

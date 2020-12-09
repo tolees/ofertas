@@ -10,8 +10,11 @@ author: ring
 slug: B004QBFGCG
 description:
 actualPrice: 18.32 EUR
+currency: EUR
+price: 18.32
 comparePrice: 42.56 EUR
 inStock: true
+prodname: Wella Sp Balance Scalp Mascarilla - 400 ml
 ---
 
 Tienes [Wella Sp Balance Scalp Mascarilla - 400 ml](https://www.amazon.es/dp/B004QBFGCG/?tag=tolees-21) con un 56.95 % de descuento con precio de oferta de 18.32 EUR (original: 42.56 EUR) en el siguiente enlace!

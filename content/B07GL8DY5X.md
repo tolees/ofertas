@@ -10,8 +10,11 @@ author: ring
 slug: B07GL8DY5X
 description:
 actualPrice: 46.9 EUR
+currency: EUR
+price: 46.9
 comparePrice: 67.83 EUR
 inStock: true
+prodname: TP-Link WL-Ap TL-WA901ND - Punto de Acceso  450 MBit 
 ---
 
 Está [TP-Link WL-Ap TL-WA901ND - Punto de Acceso  450 MBit ](https://www.amazon.es/dp/B07GL8DY5X/?tag=tolees-21) con 30.86 de descuento por 46.9 EUR (original: 67.83 EUR) en el siguiente enlace!

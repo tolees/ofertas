@@ -10,8 +10,11 @@ author: ring
 slug: B06XBXHNBR
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 78.9 EUR
 inStock: true
+prodname: mymahdi 8 GB Reproductor de MP3 portátil  Ampliable a 128 GB   Reproductor de música/Radio FM/grabadora de Voz 70 Horas de reproducción con una tecla con Altavoz Externo HD Auriculares  Oro
 ---
 
 Está [mymahdi 8 GB Reproductor de MP3 portátil  Ampliable a 128 GB   Reproductor de música/Radio FM/grabadora de Voz 70 Horas de reproducción con una tecla con Altavoz Externo HD Auriculares  Oro](https://www.amazon.es/dp/B06XBXHNBR/?tag=tolees-21) con 64.52 de descuento por 27.99 EUR (original: 78.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MSSR4QC
 description:
 actualPrice: 134.0 EUR
+currency: EUR
+price: 134.0
 comparePrice: 199.0 EUR
 inStock: true
+prodname: HP 24fw - Monitor Full HD de 23.8"  1920 x 1080  panel IPS LED  16:9  HDMI 1.4  VGA  5 ms  60 Hz  AMD FreeSync  Altavoces incorporados   Color Blanco
 ---
 
 Está [HP 24fw - Monitor Full HD de 23.8"  1920 x 1080  panel IPS LED  16:9  HDMI 1.4  VGA  5 ms  60 Hz  AMD FreeSync  Altavoces incorporados   Color Blanco](https://www.amazon.es/dp/B07MSSR4QC/?tag=tolees-21) con 32.66 de descuento por 134.0 EUR (original: 199.0 EUR) en el siguiente enlace!

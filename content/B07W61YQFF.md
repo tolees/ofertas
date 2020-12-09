@@ -10,8 +10,11 @@ author: ring
 slug: B07W61YQFF
 description:
 actualPrice: 3.73 EUR
+currency: EUR
+price: 3.73
 comparePrice: 5.0 EUR
 inStock: true
+prodname: Springfield bimat Mariposa-c/97 Camiseta  Blanco  White Print 97   XS  Tamaño del Fabricante: XS  para Mujer
 ---
 
 Ahora mismo tienes [Springfield bimat Mariposa-c/97 Camiseta  Blanco  White Print 97   XS  Tamaño del Fabricante: XS  para Mujer](https://www.amazon.es/dp/B07W61YQFF/?tag=tolees-21) a 3.73 EUR (original: 5.0 EUR) (25.40 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B019FKFKUK
 description:
 actualPrice: 11.28 EUR
+currency: EUR
+price: 11.28
 comparePrice: 17.4 EUR
 inStock: true
+prodname: Béaba 911563 - Escobilla biberones
 ---
 
 Tienes [Béaba 911563 - Escobilla biberones](https://www.amazon.es/dp/B019FKFKUK/?tag=tolees-21) con un 35.17 % de descuento con precio de oferta de 11.28 EUR (original: 17.4 EUR) en el siguiente enlace!

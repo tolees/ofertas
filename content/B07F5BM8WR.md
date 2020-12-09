@@ -10,8 +10,11 @@ author: ring
 slug: B07F5BM8WR
 description:
 actualPrice: 49.5 EUR
+currency: EUR
+price: 49.5
 comparePrice: 99 EUR
 inStock: true
+prodname: Pandora Collar en forma Y Mujer plata - 397445CZ-70
 ---
 
 Tienes [Pandora Collar en forma Y Mujer plata - 397445CZ-70](https://www.amazon.es/dp/B07F5BM8WR/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 49.5 EUR (original: 99 EUR) en el siguiente enlace!

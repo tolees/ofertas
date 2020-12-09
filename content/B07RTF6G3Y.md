@@ -10,8 +10,11 @@ author: ring
 slug: B07RTF6G3Y
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 189.99 EUR
 inStock: true
+prodname: KidKraft- Cocina de juguete en color blanco  Modern White  con detalles en dorado y kit de accesorios con 27 utensilios de cocina   Color Blanca  53445 
 ---
 
 Ahora mismo tienes [KidKraft- Cocina de juguete en color blanco  Modern White  con detalles en dorado y kit de accesorios con 27 utensilios de cocina   Color Blanca  53445 ](https://www.amazon.es/dp/B07RTF6G3Y/?tag=tolees-21) a 99.99 EUR (original: 189.99 EUR) (47.37 %  de descuento) en el siguiente enlace!

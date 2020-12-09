@@ -10,8 +10,11 @@ author: ring
 slug: B01NAQMR8Q
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 13.99 EUR
 inStock: true
+prodname: HORIZONTAL Mini 2.4Ghz Touchpad teclado inalámbrico con ratón para Google Android Tv Box  Pc  Pad  Xbox 360  PS3  Htpc  Iptv  Negro 
 ---
 
 Está [HORIZONTAL Mini 2.4Ghz Touchpad teclado inalámbrico con ratón para Google Android Tv Box  Pc  Pad  Xbox 360  PS3  Htpc  Iptv  Negro ](https://www.amazon.es/dp/B01NAQMR8Q/?tag=tolees-21) con 28.59 de descuento por 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B009LSKPYI
 description:
 actualPrice: 100.0 EUR
+currency: EUR
+price: 100.0
 comparePrice: 189.0 EUR
 inStock: true
+prodname: Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable JR1437
 ---
 
 Está [Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable JR1437](https://www.amazon.es/dp/B009LSKPYI/?tag=tolees-21) con 47.09 de descuento por 100.0 EUR (original: 189.0 EUR) en el siguiente enlace!

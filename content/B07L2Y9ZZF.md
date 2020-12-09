@@ -10,8 +10,11 @@ author: ring
 slug: B07L2Y9ZZF
 description:
 actualPrice: 21.8 EUR
+currency: EUR
+price: 21.8
 comparePrice: 32.06 EUR
 inStock: true
+prodname: UC28 + Mini Portable 1080P HD Proyector Home Cinema Theater Interfaz HDMI actualizada Dispositivo de Entretenimiento en el hogar Reproductor Multimedia
 ---
 
 Ahora mismo tienes [UC28 + Mini Portable 1080P HD Proyector Home Cinema Theater Interfaz HDMI actualizada Dispositivo de Entretenimiento en el hogar Reproductor Multimedia](https://www.amazon.es/dp/B07L2Y9ZZF/?tag=tolees-21) a 21.8 EUR (original: 32.06 EUR) (32.00 %  de descuento) en el siguiente enlace!

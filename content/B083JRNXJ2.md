@@ -10,8 +10,11 @@ author: ring
 slug: B083JRNXJ2
 description:
 actualPrice: 13.7 EUR
+currency: EUR
+price: 13.7
 comparePrice: 19.35 EUR
 inStock: true
+prodname: Uniwork 18XL Cartuchos de tinta Reemplazo para Epson 18 18 XL Compatible con Epson Expression Home XP-322 XP-215 XP-205 XP-225 XP-305 XP-325 XP-422 XP-405 XP-415 XP-425 XP-315 XP-312
 ---
 
 Tienes [Uniwork 18XL Cartuchos de tinta Reemplazo para Epson 18 18 XL Compatible con Epson Expression Home XP-322 XP-215 XP-205 XP-225 XP-305 XP-325 XP-422 XP-405 XP-415 XP-425 XP-315 XP-312](https://www.amazon.es/dp/B083JRNXJ2/?tag=tolees-21) con un 29.20 % de descuento con precio de oferta de 13.7 EUR (original: 19.35 EUR) en el siguiente enlace!

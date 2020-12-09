@@ -10,8 +10,11 @@ author: ring
 slug: B01N0INEK0
 description:
 actualPrice: 32.86 EUR
+currency: EUR
+price: 32.86
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Puma Prevail  Zapatillas Unisex Adulto  Amarillo  Soft Fluo Yellow-Prism Pink White 06   42.5 EU
 ---
 
 Ahora mismo tienes [Puma Prevail  Zapatillas Unisex Adulto  Amarillo  Soft Fluo Yellow-Prism Pink White 06   42.5 EU](https://www.amazon.es/dp/B01N0INEK0/?tag=tolees-21) a 32.86 EUR (original: 89.95 EUR) (63.47 %  de descuento) en el siguiente enlace!

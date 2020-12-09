@@ -10,8 +10,11 @@ author: ring
 slug: B07LBLKC6B
 description:
 actualPrice: 47 EUR
+currency: EUR
+price: 47
 comparePrice: 95 EUR
 inStock: true
+prodname: Tommy Jeans TJM Tape Hoodie Sudadera con Capucha  Blanco  Classic White 100   M para Hombre
 ---
 
 Ahora mismo tienes [Tommy Jeans TJM Tape Hoodie Sudadera con Capucha  Blanco  Classic White 100   M para Hombre](https://www.amazon.es/dp/B07LBLKC6B/?tag=tolees-21) a 47 EUR (original: 95 EUR) (50.53 %  de descuento) en el siguiente enlace!

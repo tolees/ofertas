@@ -10,8 +10,11 @@ author: ring
 slug: B07DJWZRW1
 description:
 actualPrice: 14.67 EUR
+currency: EUR
+price: 14.67
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Only Onllouisa L/s O-Neck Mix Swt  suéter Mujer   Black Detail: Verlour Burnout- Flower   40  Talla del Fabricante: Medium 
 ---
 
 Tienes [Only Onllouisa L/s O-Neck Mix Swt  suéter Mujer   Black Detail: Verlour Burnout- Flower   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07DJWZRW1/?tag=tolees-21) con un 63.32 % de descuento con precio de oferta de 14.67 EUR (original: 39.99 EUR) en el siguiente enlace!

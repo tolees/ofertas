@@ -10,8 +10,11 @@ author: ring
 slug: B07V4JVYG6
 description:
 actualPrice: 22.39 EUR
+currency: EUR
+price: 22.39
 comparePrice: 29.99 EUR
 inStock: true
+prodname: KICHLY Hierro Fundido Horno Holandes Cocina Combinada Dutch Oven 2 en 1 con olla de 3.2 cuartos de galón y sartén de 10.25 pulgadas.
 ---
 
 Ahora mismo tienes [KICHLY Hierro Fundido Horno Holandes Cocina Combinada Dutch Oven 2 en 1 con olla de 3.2 cuartos de galón y sartén de 10.25 pulgadas.](https://www.amazon.es/dp/B07V4JVYG6/?tag=tolees-21) a 22.39 EUR (original: 29.99 EUR) (25.34 %  de descuento) en el siguiente enlace!

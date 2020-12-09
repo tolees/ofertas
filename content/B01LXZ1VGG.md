@@ -10,8 +10,11 @@ author: ring
 slug: B01LXZ1VGG
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Vaultskin Eton Armour - Funda de Cuero para iPhone 6 Plus  Cognac 
 ---
 
 Ahora mismo tienes [Vaultskin Eton Armour - Funda de Cuero para iPhone 6 Plus  Cognac ](https://www.amazon.es/dp/B01LXZ1VGG/?tag=tolees-21) a 19.99 EUR (original: 54.99 EUR) (63.65 %  de descuento) en el siguiente enlace!

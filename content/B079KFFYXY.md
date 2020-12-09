@@ -10,8 +10,11 @@ author: ring
 slug: B079KFFYXY
 description:
 actualPrice: 53.95 EUR
+currency: EUR
+price: 53.95
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Scarlett  Vaqueros skinny para MujerAzul  Polished Indigo 
 ---
 
 Tienes [Lee Scarlett  Vaqueros skinny para MujerAzul  Polished Indigo ](https://www.amazon.es/dp/B079KFFYXY/?tag=tolees-21) con un 40.02 % de descuento con precio de oferta de 53.95 EUR (original: 89.95 EUR) en el siguiente enlace!

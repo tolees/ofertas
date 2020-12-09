@@ -10,8 +10,11 @@ author: ring
 slug: B07KWYPV1X
 description:
 actualPrice: 57.99 EUR
+currency: EUR
+price: 57.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Victure AC700 Cámara Deportiva 4K Wi-Fi 20MP  Cámara de Accion Acuatica de 40M con Control Remoto y Micrófono Externo Funciones EIS Anti-Vibración y Slow Motion 
 ---
 
 Tienes [Victure AC700 Cámara Deportiva 4K Wi-Fi 20MP  Cámara de Accion Acuatica de 40M con Control Remoto y Micrófono Externo Funciones EIS Anti-Vibración y Slow Motion ](https://www.amazon.es/dp/B07KWYPV1X/?tag=tolees-21) con un 27.50 % de descuento con precio de oferta de 57.99 EUR (original: 79.99 EUR) en el siguiente enlace!

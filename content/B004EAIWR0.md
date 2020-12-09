@@ -10,8 +10,11 @@ author: ring
 slug: B004EAIWR0
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 52.7 EUR
 inStock: true
+prodname: Don Julio Tequila Reposado - 700 ml
 ---
 
 Tienes [Don Julio Tequila Reposado - 700 ml](https://www.amazon.es/dp/B004EAIWR0/?tag=tolees-21) con un 31.71 % de descuento con precio de oferta de 35.99 EUR (original: 52.7 EUR) en el siguiente enlace!

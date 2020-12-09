@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ2LHL3
 description:
 actualPrice: 37.5 EUR
+currency: EUR
+price: 37.5
 comparePrice: 65 EUR
 inStock: true
+prodname: New Balance 574  Zapatillas Unisex  Azul  North Sea/White Es   38 EU
 ---
 
 Ahora mismo tienes [New Balance 574  Zapatillas Unisex  Azul  North Sea/White Es   38 EU](https://www.amazon.es/dp/B07DJ2LHL3/?tag=tolees-21) a 37.5 EUR (original: 65 EUR) (42.31 %  de descuento) en el siguiente enlace!

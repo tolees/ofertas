@@ -10,8 +10,11 @@ author: ring
 slug: B01BN0QUUE
 description:
 actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
 comparePrice: 12.55 EUR
 inStock: true
+prodname: Neositrin Protect Spray Acondicionador sin aclarado que repele los piojos -250ml
 ---
 
 Está [Neositrin Protect Spray Acondicionador sin aclarado que repele los piojos -250ml](https://www.amazon.es/dp/B01BN0QUUE/?tag=tolees-21) con 36.65 de descuento por 7.95 EUR (original: 12.55 EUR) en el siguiente enlace!

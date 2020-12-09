@@ -10,8 +10,11 @@ author: ring
 slug: B00KW48AWE
 description:
 actualPrice: 258.49 EUR
+currency: EUR
+price: 258.49
 comparePrice: 462 EUR
 inStock: true
+prodname: Fendi FF 0041/S VQ 9F6 Gafas de Sol  Rosa  Trpch PLD Pink Multilayer   52 para Mujer
 ---
 
 Ahora mismo tienes [Fendi FF 0041/S VQ 9F6 Gafas de Sol  Rosa  Trpch PLD Pink Multilayer   52 para Mujer](https://www.amazon.es/dp/B00KW48AWE/?tag=tolees-21) a 258.49 EUR (original: 462 EUR) (44.05 %  de descuento) en el siguiente enlace!

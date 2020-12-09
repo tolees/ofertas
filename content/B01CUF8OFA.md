@@ -10,8 +10,11 @@ author: ring
 slug: B01CUF8OFA
 description:
 actualPrice: 28.99 EUR
+currency: EUR
+price: 28.99
 comparePrice: 44.9 EUR
 inStock: true
+prodname: Tommy Hilfiger New Danny Belt Cinturón  Azul  Night Sky 421   70 cm para Mujer
 ---
 
 Tienes [Tommy Hilfiger New Danny Belt Cinturón  Azul  Night Sky 421   70 cm para Mujer](https://www.amazon.es/dp/B01CUF8OFA/?tag=tolees-21) con un 35.43 % de descuento con precio de oferta de 28.99 EUR (original: 44.9 EUR) en el siguiente enlace!

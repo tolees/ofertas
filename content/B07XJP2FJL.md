@@ -10,8 +10,11 @@ author: ring
 slug: B07XJP2FJL
 description:
 actualPrice: 12.91 EUR
+currency: EUR
+price: 12.91
 comparePrice: 20.6 EUR
 inStock: true
+prodname: FIND Boots Botas Chukka  Azul  Navy   41 EU
 ---
 
 Ahora mismo tienes [FIND Boots Botas Chukka  Azul  Navy   41 EU](https://www.amazon.es/dp/B07XJP2FJL/?tag=tolees-21) a 12.91 EUR (original: 20.6 EUR) (37.33 %  de descuento) en el siguiente enlace!

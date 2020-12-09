@@ -10,8 +10,11 @@ author: ring
 slug: B00JQIQ73G
 description:
 actualPrice: 282.6 EUR
+currency: EUR
+price: 282.6
 comparePrice: 395.0 EUR
 inStock: true
+prodname: Samsonite Lite-Cube - 15.6 Pulgadas Maletín para portátil con Ruedas  43 cm  28.5 L  Gris  Graphite 
 ---
 
 Tienes [Samsonite Lite-Cube - 15.6 Pulgadas Maletín para portátil con Ruedas  43 cm  28.5 L  Gris  Graphite ](https://www.amazon.es/dp/B00JQIQ73G/?tag=tolees-21) con un 28.46 % de descuento con precio de oferta de 282.6 EUR (original: 395.0 EUR) en el siguiente enlace!

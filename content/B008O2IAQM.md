@@ -10,8 +10,11 @@ author: ring
 slug: B008O2IAQM
 description:
 actualPrice: 7.3 EUR
+currency: EUR
+price: 7.3
 comparePrice: 12.0 EUR
 inStock: true
+prodname: Max Factor LipFinity Classic Pintalabios Tono 003 Mellow Rose
 ---
 
 Tienes [Max Factor LipFinity Classic Pintalabios Tono 003 Mellow Rose](https://www.amazon.es/dp/B008O2IAQM/?tag=tolees-21) con un 39.17 % de descuento con precio de oferta de 7.3 EUR (original: 12.0 EUR) en el siguiente enlace!

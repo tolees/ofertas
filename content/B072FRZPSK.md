@@ -10,8 +10,11 @@ author: ring
 slug: B072FRZPSK
 description:
 actualPrice: 26.95 EUR
+currency: EUR
+price: 26.95
 comparePrice: 45 EUR
 inStock: true
+prodname: Nike NKCRT BKPK Mochila  Adultos Unisex  Black/White  One Size
 ---
 
 Tienes [Nike NKCRT BKPK Mochila  Adultos Unisex  Black/White  One Size](https://www.amazon.es/dp/B072FRZPSK/?tag=tolees-21) con un 40.11 % de descuento con precio de oferta de 26.95 EUR (original: 45 EUR) en el siguiente enlace!

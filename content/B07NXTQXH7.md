@@ -10,8 +10,11 @@ author: ring
 slug: B07NXTQXH7
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Lackingone Naruto Itachi Uchiha Collar con Colgantes Plata
 ---
 
 Tienes [Lackingone Naruto Itachi Uchiha Collar con Colgantes Plata](https://www.amazon.es/dp/B07NXTQXH7/?tag=tolees-21) con un 30.79 % de descuento con precio de oferta de 8.99 EUR (original: 12.99 EUR) en el siguiente enlace!

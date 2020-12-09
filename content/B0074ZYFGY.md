@@ -10,8 +10,11 @@ author: ring
 slug: B0074ZYFGY
 description:
 actualPrice: 47.79 EUR
+currency: EUR
+price: 47.79
 comparePrice: 69.0 EUR
 inStock: true
+prodname: Ventilador de pie de miniatura Tristar VE-5952 – 25 centímetros – Metálico
 ---
 
 Está [Ventilador de pie de miniatura Tristar VE-5952 – 25 centímetros – Metálico](https://www.amazon.es/dp/B0074ZYFGY/?tag=tolees-21) con 30.74 de descuento por 47.79 EUR (original: 69.0 EUR) en el siguiente enlace!

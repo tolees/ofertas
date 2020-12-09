@@ -10,8 +10,11 @@ author: ring
 slug: B00Y7LBBVK
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.23 EUR
 inStock: true
+prodname: Funko - Figurine Doctor Who 11e - Adipose Glow in the Dark Exclu Pop 10cm - 0849803057848
 ---
 
 Ahora mismo tienes [Funko - Figurine Doctor Who 11e - Adipose Glow in the Dark Exclu Pop 10cm - 0849803057848](https://www.amazon.es/dp/B00Y7LBBVK/?tag=tolees-21) a 13.99 EUR (original: 19.23 EUR) (27.25 %  de descuento) en el siguiente enlace!

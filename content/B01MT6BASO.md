@@ -10,8 +10,11 @@ author: ring
 slug: B01MT6BASO
 description:
 actualPrice: 149.0 EUR
+currency: EUR
+price: 149.0
 comparePrice: 275.0 EUR
 inStock: true
+prodname: Reloj Scuderia Ferrari para Hombre 0830387  Negro  Rojo/Negro 
 ---
 
 Está [Reloj Scuderia Ferrari para Hombre 0830387  Negro  Rojo/Negro ](https://www.amazon.es/dp/B01MT6BASO/?tag=tolees-21) con 45.82 de descuento por 149.0 EUR (original: 275.0 EUR) en el siguiente enlace!

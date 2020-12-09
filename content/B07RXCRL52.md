@@ -10,8 +10,11 @@ author: ring
 slug: B07RXCRL52
 description:
 actualPrice: 36.81 EUR
+currency: EUR
+price: 36.81
 comparePrice: 55.66 EUR
 inStock: true
+prodname: Bolsos de mano para mujer clásico estilo italiano grande diseñador Tote señoras multi bolsillo bolso de hombro  color Gris  talla Large
 ---
 
 Ahora mismo tienes [Bolsos de mano para mujer clásico estilo italiano grande diseñador Tote señoras multi bolsillo bolso de hombro  color Gris  talla Large](https://www.amazon.es/dp/B07RXCRL52/?tag=tolees-21) a 36.81 EUR (original: 55.66 EUR) (33.87 %  de descuento) en el siguiente enlace!

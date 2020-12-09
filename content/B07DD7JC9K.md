@@ -10,8 +10,11 @@ author: ring
 slug: B07DD7JC9K
 description:
 actualPrice: 17.63 EUR
+currency: EUR
+price: 17.63
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Refresh 64669  Botines para Mujer  Verde  Kaki   36 EU
 ---
 
 Está [Refresh 64669  Botines para Mujer  Verde  Kaki   36 EU](https://www.amazon.es/dp/B07DD7JC9K/?tag=tolees-21) con 64.70 de descuento por 17.63 EUR (original: 49.95 EUR) en el siguiente enlace!

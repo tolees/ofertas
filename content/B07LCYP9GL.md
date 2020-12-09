@@ -10,8 +10,11 @@ author: ring
 slug: B07LCYP9GL
 description:
 actualPrice: 15.96 EUR
+currency: EUR
+price: 15.96
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Pack Bd Rompe Ralph 1+2 [Blu-ray]
 ---
 
 Ahora mismo tienes [Pack Bd Rompe Ralph 1+2 [Blu-ray]](https://www.amazon.es/dp/B07LCYP9GL/?tag=tolees-21) a 15.96 EUR (original: 34.95 EUR) (54.33 %  de descuento) en el siguiente enlace!

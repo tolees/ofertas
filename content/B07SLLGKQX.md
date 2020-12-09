@@ -10,8 +10,11 @@ author: ring
 slug: B07SLLGKQX
 description:
 actualPrice: 16.5 EUR
+currency: EUR
+price: 16.5
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Monopoly - Ms Monopoly  Hasbro E8424105 
 ---
 
 Ahora mismo tienes [Monopoly - Ms Monopoly  Hasbro E8424105 ](https://www.amazon.es/dp/B07SLLGKQX/?tag=tolees-21) a 16.5 EUR (original: 27.99 EUR) (41.05 %  de descuento) en el siguiente enlace!

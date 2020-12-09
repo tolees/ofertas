@@ -10,8 +10,11 @@ author: ring
 slug: B01L4N1KGY
 description:
 actualPrice: 48.99 EUR
+currency: EUR
+price: 48.99
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Skechers Flex Advantage 2.0  Zapatillas de Deporte Exterior Hombre  Negro  BBK Black Engineered Mesh/Trim   39 EU
 ---
 
 Está [Skechers Flex Advantage 2.0  Zapatillas de Deporte Exterior Hombre  Negro  BBK Black Engineered Mesh/Trim   39 EU](https://www.amazon.es/dp/B01L4N1KGY/?tag=tolees-21) con 29.96 de descuento por 48.99 EUR (original: 69.95 EUR) en el siguiente enlace!

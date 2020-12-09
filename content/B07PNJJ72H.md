@@ -10,8 +10,11 @@ author: ring
 slug: B07PNJJ72H
 description:
 actualPrice: 9.95 EUR
+currency: EUR
+price: 9.95
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Six Collection - Figura Twitch
 ---
 
 Ahora mismo tienes [Six Collection - Figura Twitch](https://www.amazon.es/dp/B07PNJJ72H/?tag=tolees-21) a 9.95 EUR (original: 19.95 EUR) (50.13 %  de descuento) en el siguiente enlace!

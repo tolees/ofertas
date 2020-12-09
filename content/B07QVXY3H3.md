@@ -10,8 +10,11 @@ author: ring
 slug: B07QVXY3H3
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 34.36 EUR
 inStock: true
+prodname: KASTEWILL Telansic Máscara De Buceo  180°Vista Anti-Vaho Anti-Fugas con Soporte para Cámara Deportiva Tubo Respirador Plegable Cara Completa Fácil Respiración Tamaños para Adultos Niños  L/XL 
 ---
 
 Ahora mismo tienes [KASTEWILL Telansic Máscara De Buceo  180°Vista Anti-Vaho Anti-Fugas con Soporte para Cámara Deportiva Tubo Respirador Plegable Cara Completa Fácil Respiración Tamaños para Adultos Niños  L/XL ](https://www.amazon.es/dp/B07QVXY3H3/?tag=tolees-21) a 22.99 EUR (original: 34.36 EUR) (33.09 %  de descuento) en el siguiente enlace!

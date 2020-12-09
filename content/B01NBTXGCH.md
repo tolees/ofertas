@@ -10,8 +10,11 @@ author: ring
 slug: B01NBTXGCH
 description:
 actualPrice: 17.9 EUR
+currency: EUR
+price: 17.9
 comparePrice: 25.9 EUR
 inStock: true
+prodname: WITHLIN alargadas Profesional Set fotografía - ampliada Bandolera con Cadena de Seguridad para cámaras SLR réflex Digital  Canon Nikon Sony Olympus Pentax  etc  …
 ---
 
 Está [WITHLIN alargadas Profesional Set fotografía - ampliada Bandolera con Cadena de Seguridad para cámaras SLR réflex Digital  Canon Nikon Sony Olympus Pentax  etc  …](https://www.amazon.es/dp/B01NBTXGCH/?tag=tolees-21) con 30.89 de descuento por 17.9 EUR (original: 25.9 EUR) en el siguiente enlace!

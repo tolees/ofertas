@@ -10,8 +10,11 @@ author: ring
 slug: B07PP8Y3JF
 description:
 actualPrice: 529.0 EUR
+currency: EUR
+price: 529.0
 comparePrice: 799.0 EUR
 inStock: true
+prodname: Hisense WFGS1016VM - Lavadora Superior con Vapor  Carga Frontal 10 Kg  1600 RPM  Clase A+++ -20%  Motor Inverter  14 Programas  Puerta Extra Grande  Color Blanco Gran Display LED  Bloqueo Infantil
 ---
 
 Ahora mismo tienes [Hisense WFGS1016VM - Lavadora Superior con Vapor  Carga Frontal 10 Kg  1600 RPM  Clase A+++ -20%  Motor Inverter  14 Programas  Puerta Extra Grande  Color Blanco Gran Display LED  Bloqueo Infantil](https://www.amazon.es/dp/B07PP8Y3JF/?tag=tolees-21) a 529.0 EUR (original: 799.0 EUR) (33.79 %  de descuento) en el siguiente enlace!

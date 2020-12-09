@@ -10,8 +10,11 @@ author: ring
 slug: B07JZBLTSP
 description:
 actualPrice: 40.62 EUR
+currency: EUR
+price: 40.62
 comparePrice: 80 EUR
 inStock: true
+prodname: Emporio Armani Underwear 9p420 Bañador  Rojo  Rossol 00074   X-Large  Talla del Fabricante: 54  para Hombre
 ---
 
 Está [Emporio Armani Underwear 9p420 Bañador  Rojo  Rossol 00074   X-Large  Talla del Fabricante: 54  para Hombre](https://www.amazon.es/dp/B07JZBLTSP/?tag=tolees-21) con 49.23 de descuento por 40.62 EUR (original: 80 EUR) en el siguiente enlace!

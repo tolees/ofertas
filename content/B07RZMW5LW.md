@@ -10,8 +10,11 @@ author: ring
 slug: B07RZMW5LW
 description:
 actualPrice: 579.99 EUR
+currency: EUR
+price: 579.99
 comparePrice: 1003.16 EUR
 inStock: true
+prodname: AEG L8FEC962Q Lavadora de Libre Instalación  Carga Frontal  9 Kg / 1600 rpm  Serie 8000  AutoDose  Motor Inverter  Función Vapor  Programa Rápido  LCD  WiFi  Puerta XL Plateada  Blanca  A+++
 ---
 
 Está [AEG L8FEC962Q Lavadora de Libre Instalación  Carga Frontal  9 Kg / 1600 rpm  Serie 8000  AutoDose  Motor Inverter  Función Vapor  Programa Rápido  LCD  WiFi  Puerta XL Plateada  Blanca  A+++](https://www.amazon.es/dp/B07RZMW5LW/?tag=tolees-21) con 42.18 de descuento por 579.99 EUR (original: 1003.16 EUR) en el siguiente enlace!

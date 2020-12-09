@@ -10,8 +10,11 @@ author: ring
 slug: B00Z7TT7RG
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 89.99 EUR
 inStock: true
+prodname: OtterBox Defender - Funda anti caídas robusta para iPad 5a/6a Generación  color negro
 ---
 
 Ahora mismo tienes [OtterBox Defender - Funda anti caídas robusta para iPad 5a/6a Generación  color negro](https://www.amazon.es/dp/B00Z7TT7RG/?tag=tolees-21) a 9.9 EUR (original: 89.99 EUR) (89.00 %  de descuento) en el siguiente enlace!

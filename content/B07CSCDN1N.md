@@ -10,8 +10,11 @@ author: ring
 slug: B07CSCDN1N
 description:
 actualPrice: 46.22 EUR
+currency: EUR
+price: 46.22
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Puma Uprise Knit  Zapatillas Unisex Adults o  Blanco White-Gray Violet-Nimbus Cloud  42.5 EU
 ---
 
 Tienes [Puma Uprise Knit  Zapatillas Unisex Adults o  Blanco White-Gray Violet-Nimbus Cloud  42.5 EU](https://www.amazon.es/dp/B07CSCDN1N/?tag=tolees-21) con un 48.62 % de descuento con precio de oferta de 46.22 EUR (original: 89.95 EUR) en el siguiente enlace!

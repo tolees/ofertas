@@ -10,8 +10,11 @@ author: ring
 slug: B08D1KQ1TR
 description:
 actualPrice: 79.98 EUR
+currency: EUR
+price: 79.98
 comparePrice: 154.98 EUR
 inStock: true
+prodname: Echo Show 8  Tela de color antracita + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa
 ---
 
 Ahora mismo tienes [Echo Show 8  Tela de color antracita + Amazon Smart Plug  enchufe inteligente wifi   compatible con Alexa](https://www.amazon.es/dp/B08D1KQ1TR/?tag=tolees-21) a 79.98 EUR (original: 154.98 EUR) (48.39 %  de descuento) en el siguiente enlace!

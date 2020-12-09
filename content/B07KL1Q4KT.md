@@ -10,8 +10,11 @@ author: ring
 slug: B07KL1Q4KT
 description:
 actualPrice: 27.8 EUR
+currency: EUR
+price: 27.8
 comparePrice: 60 EUR
 inStock: true
+prodname: Naf Naf Kenr8d Vestido  Rosa  Framboise 391   38 para Mujer
 ---
 
 Está [Naf Naf Kenr8d Vestido  Rosa  Framboise 391   38 para Mujer](https://www.amazon.es/dp/B07KL1Q4KT/?tag=tolees-21) con 53.67 de descuento por 27.8 EUR (original: 60 EUR) en el siguiente enlace!

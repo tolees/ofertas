@@ -10,8 +10,11 @@ author: ring
 slug: B08CYN27YS
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 35.9 EUR
 inStock: true
+prodname: WWE 2K Battlegrounds
 ---
 
 Ahora mismo tienes [WWE 2K Battlegrounds](https://www.amazon.es/dp/B08CYN27YS/?tag=tolees-21) a 24.9 EUR (original: 35.9 EUR) (30.64 %  de descuento) en el siguiente enlace!

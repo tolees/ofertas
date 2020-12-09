@@ -10,8 +10,11 @@ author: ring
 slug: B07DPKXYYM
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Puma Ignite 3/4 Tight Pants  Hombre  Black  L
 ---
 
 Ahora mismo tienes [Puma Ignite 3/4 Tight Pants  Hombre  Black  L](https://www.amazon.es/dp/B07DPKXYYM/?tag=tolees-21) a 19.95 EUR (original: 44.95 EUR) (55.62 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08KLMJR4F
 description:
 actualPrice: 5.59 EUR
+currency: EUR
+price: 5.59
 comparePrice: 10.99 EUR
 inStock: true
+prodname: 5PCS Cara Mascarillas Reutilizables Lavables de Navidad Transpirables Face Cover Lavables Transpirable para Deportes Al Aire Libre  Escuelas  Oficinas Lonshell
 ---
 
 Está [5PCS Cara Mascarillas Reutilizables Lavables de Navidad Transpirables Face Cover Lavables Transpirable para Deportes Al Aire Libre  Escuelas  Oficinas Lonshell](https://www.amazon.es/dp/B08KLMJR4F/?tag=tolees-21) con 49.14 de descuento por 5.59 EUR (original: 10.99 EUR) en el siguiente enlace!

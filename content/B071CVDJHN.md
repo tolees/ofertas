@@ -10,8 +10,11 @@ author: ring
 slug: B071CVDJHN
 description:
 actualPrice: 33.78 EUR
+currency: EUR
+price: 33.78
 comparePrice: 80 EUR
 inStock: true
+prodname: Vans Old Skool  Zapatillas de Skateboarding para Mujer  Negro  2-Tone   36.5 EU
 ---
 
 Tienes [Vans Old Skool  Zapatillas de Skateboarding para Mujer  Negro  2-Tone   36.5 EU](https://www.amazon.es/dp/B071CVDJHN/?tag=tolees-21) con un 57.77 % de descuento con precio de oferta de 33.78 EUR (original: 80 EUR) en el siguiente enlace!

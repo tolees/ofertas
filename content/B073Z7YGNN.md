@@ -10,8 +10,11 @@ author: ring
 slug: B073Z7YGNN
 description:
 actualPrice: 69.95 EUR
+currency: EUR
+price: 69.95
 comparePrice: 136.67 EUR
 inStock: true
+prodname: Timberland Killington  Botas Clasicas para Hombre  Gris  Forged Iron Nubuck C64   44 EU
 ---
 
 Ahora mismo tienes [Timberland Killington  Botas Clasicas para Hombre  Gris  Forged Iron Nubuck C64   44 EU](https://www.amazon.es/dp/B073Z7YGNN/?tag=tolees-21) a 69.95 EUR (original: 136.67 EUR) (48.82 %  de descuento) en el siguiente enlace!

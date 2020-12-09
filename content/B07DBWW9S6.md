@@ -10,8 +10,11 @@ author: ring
 slug: B07DBWW9S6
 description:
 actualPrice: 56.95 EUR
+currency: EUR
+price: 56.95
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Puma Defy Wn s Zapatillas de Deporte Mujer  Morado  Elderberry-Puma White   40 EU  6.5 UK 
 ---
 
 Tienes [Puma Defy Wn s Zapatillas de Deporte Mujer  Morado  Elderberry-Puma White   40 EU  6.5 UK ](https://www.amazon.es/dp/B07DBWW9S6/?tag=tolees-21) con un 43.02 % de descuento con precio de oferta de 56.95 EUR (original: 99.95 EUR) en el siguiente enlace!

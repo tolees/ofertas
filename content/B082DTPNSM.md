@@ -10,8 +10,11 @@ author: ring
 slug: B082DTPNSM
 description:
 actualPrice: 9.74 EUR
+currency: EUR
+price: 9.74
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Beyblade- Hypersphere Ashindra  Hasbro E7712ES0 
 ---
 
 Tienes [Beyblade- Hypersphere Ashindra  Hasbro E7712ES0 ](https://www.amazon.es/dp/B082DTPNSM/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 9.74 EUR (original: 12.99 EUR) en el siguiente enlace!

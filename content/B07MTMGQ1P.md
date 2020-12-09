@@ -10,8 +10,11 @@ author: ring
 slug: B07MTMGQ1P
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 10.36 EUR
 inStock: true
+prodname: EXCITE Limpiador desinfectante de accesorios íntimos y copa menstrual. Antibacteriano y antiséptico con Aceite de Árbol de Té. Sin alcohol ni sulfatos. 100ml
 ---
 
 Está [EXCITE Limpiador desinfectante de accesorios íntimos y copa menstrual. Antibacteriano y antiséptico con Aceite de Árbol de Té. Sin alcohol ni sulfatos. 100ml](https://www.amazon.es/dp/B07MTMGQ1P/?tag=tolees-21) con 32.53 de descuento por 6.99 EUR (original: 10.36 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CQMV5YS
 description:
 actualPrice: 52.5 EUR
+currency: EUR
+price: 52.5
 comparePrice: 75 EUR
 inStock: true
+prodname: American Tourister Holiday Heat - Upright Equipaje de Mano  55 cm  42 l  Gris  Metal Grey 
 ---
 
 Tienes [American Tourister Holiday Heat - Upright Equipaje de Mano  55 cm  42 l  Gris  Metal Grey ](https://www.amazon.es/dp/B07CQMV5YS/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 52.5 EUR (original: 75 EUR) en el siguiente enlace!

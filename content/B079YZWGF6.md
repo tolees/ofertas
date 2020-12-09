@@ -10,8 +10,11 @@ author: ring
 slug: B079YZWGF6
 description:
 actualPrice: 37.19 EUR
+currency: EUR
+price: 37.19
 comparePrice: 159.99 EUR
 inStock: true
+prodname: Quiksilver Brooks 5K Chaqueta  Hombre  Gris  Light Grey Heather SJSH   Medium  Tamaño del Fabricante:M 
 ---
 
 Está [Quiksilver Brooks 5K Chaqueta  Hombre  Gris  Light Grey Heather SJSH   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B079YZWGF6/?tag=tolees-21) con 76.75 de descuento por 37.19 EUR (original: 159.99 EUR) en el siguiente enlace!

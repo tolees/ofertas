@@ -10,8 +10,11 @@ author: ring
 slug: B017DEB4PA
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 65 EUR
 inStock: true
+prodname: Geox Jr Snake Moc Boy a  Mocasines para Niños  Azul  Bleu   34 EU
 ---
 
 Tienes [Geox Jr Snake Moc Boy a  Mocasines para Niños  Azul  Bleu   34 EU](https://www.amazon.es/dp/B017DEB4PA/?tag=tolees-21) con un 53.92 % de descuento con precio de oferta de 29.95 EUR (original: 65 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MRXF63T
 description:
 actualPrice: 86.31 EUR
+currency: EUR
+price: 86.31
 comparePrice: 119.95 EUR
 inStock: true
+prodname: Thule TSLB315MIN - Mochila para Ordenador portátil 15"  Apple MacBook Pro de 15" o PC de 15.6"  Color Azul Marino
 ---
 
 Ahora mismo tienes [Thule TSLB315MIN - Mochila para Ordenador portátil 15"  Apple MacBook Pro de 15" o PC de 15.6"  Color Azul Marino](https://www.amazon.es/dp/B01MRXF63T/?tag=tolees-21) a 86.31 EUR (original: 119.95 EUR) (28.05 %  de descuento) en el siguiente enlace!

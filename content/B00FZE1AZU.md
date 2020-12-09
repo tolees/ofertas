@@ -10,8 +10,11 @@ author: ring
 slug: B00FZE1AZU
 description:
 actualPrice: 202.0 EUR
+currency: EUR
+price: 202.0
 comparePrice: 329.0 EUR
 inStock: true
+prodname: Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero Inoxidable MK5896
 ---
 
 Está [Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero Inoxidable MK5896](https://www.amazon.es/dp/B00FZE1AZU/?tag=tolees-21) con 38.60 de descuento por 202.0 EUR (original: 329.0 EUR) en el siguiente enlace!

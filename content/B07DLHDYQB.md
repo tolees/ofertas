@@ -10,8 +10,11 @@ author: ring
 slug: B07DLHDYQB
 description:
 actualPrice: 11.57 EUR
+currency: EUR
+price: 11.57
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield DS EC+Strech Print Camisa Casual  Hombre  Azul  Gama Azules 11   Medium  Tamaño del Fabricante:M 
 ---
 
 Está [Springfield DS EC+Strech Print Camisa Casual  Hombre  Azul  Gama Azules 11   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLHDYQB/?tag=tolees-21) con 61.42 de descuento por 11.57 EUR (original: 29.99 EUR) en el siguiente enlace!

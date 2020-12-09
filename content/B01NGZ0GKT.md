@@ -10,8 +10,11 @@ author: ring
 slug: B01NGZ0GKT
 description:
 actualPrice: 52.16 EUR
+currency: EUR
+price: 52.16
 comparePrice: 119 EUR
 inStock: true
+prodname: REPLAY Anbass Pantalones Vaqueros Delgados  Azul  Medium Blue Denim 007   W34/L34 para Hombre
 ---
 
 Está [REPLAY Anbass Pantalones Vaqueros Delgados  Azul  Medium Blue Denim 007   W34/L34 para Hombre](https://www.amazon.es/dp/B01NGZ0GKT/?tag=tolees-21) con 56.17 de descuento por 52.16 EUR (original: 119 EUR) en el siguiente enlace!

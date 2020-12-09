@@ -10,8 +10,11 @@ author: ring
 slug: B078SYWBPS
 description:
 actualPrice: 38.02 EUR
+currency: EUR
+price: 38.02
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Salomon TRAILSTER W  Calzado de Trail Running para Mujer  Azul  Crown Blue/Navy Blazer/Purple Opulence   36 2/3 EU
 ---
 
 Ahora mismo tienes [Salomon TRAILSTER W  Calzado de Trail Running para Mujer  Azul  Crown Blue/Navy Blazer/Purple Opulence   36 2/3 EU](https://www.amazon.es/dp/B078SYWBPS/?tag=tolees-21) a 38.02 EUR (original: 99.95 EUR) (61.96 %  de descuento) en el siguiente enlace!

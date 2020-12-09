@@ -10,8 +10,11 @@ author: ring
 slug: B06XG1M1PJ
 description:
 actualPrice: 14 EUR
+currency: EUR
+price: 14
 comparePrice: 28 EUR
 inStock: true
+prodname: FIND Zapatillas Estilo Bamba para Hombre  Negro  Black   40 EU
 ---
 
 Tienes [FIND Zapatillas Estilo Bamba para Hombre  Negro  Black   40 EU](https://www.amazon.es/dp/B06XG1M1PJ/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 14 EUR (original: 28 EUR) en el siguiente enlace!

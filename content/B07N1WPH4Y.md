@@ -10,8 +10,11 @@ author: ring
 slug: B07N1WPH4Y
 description:
 actualPrice: 235.44 EUR
+currency: EUR
+price: 235.44
 comparePrice: 350.0 EUR
 inStock: true
+prodname: Seiko Reloj Cronógrafo para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable SSC715P1
 ---
 
 Está [Seiko Reloj Cronógrafo para Unisex Adultos de Cuarzo con Correa en Acero Inoxidable SSC715P1](https://www.amazon.es/dp/B07N1WPH4Y/?tag=tolees-21) con 32.73 de descuento por 235.44 EUR (original: 350.0 EUR) en el siguiente enlace!

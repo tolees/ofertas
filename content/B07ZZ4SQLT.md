@@ -10,8 +10,11 @@ author: ring
 slug: B07ZZ4SQLT
 description:
 actualPrice: 50.55 EUR
+currency: EUR
+price: 50.55
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Helly Hansen HH Scout Duffel S Bolsa De Deporte  Unisex Adulto  Black  30L
 ---
 
 Está [Helly Hansen HH Scout Duffel S Bolsa De Deporte  Unisex Adulto  Black  30L](https://www.amazon.es/dp/B07ZZ4SQLT/?tag=tolees-21) con 27.79 de descuento por 50.55 EUR (original: 70.0 EUR) en el siguiente enlace!

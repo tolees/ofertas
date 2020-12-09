@@ -10,8 +10,11 @@ author: ring
 slug: B0777MTDPM
 description:
 actualPrice: 28.74 EUR
+currency: EUR
+price: 28.74
 comparePrice: 57.49 EUR
 inStock: true
+prodname: Under Armour UA Rapid  Zapatillas de Running para Hombre  Azul  Moroccan Blue   42.5 EU
 ---
 
 Ahora mismo tienes [Under Armour UA Rapid  Zapatillas de Running para Hombre  Azul  Moroccan Blue   42.5 EU](https://www.amazon.es/dp/B0777MTDPM/?tag=tolees-21) a 28.74 EUR (original: 57.49 EUR) (50.01 %  de descuento) en el siguiente enlace!

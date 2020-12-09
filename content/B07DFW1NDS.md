@@ -10,8 +10,11 @@ author: ring
 slug: B07DFW1NDS
 description:
 actualPrice: 35.94 EUR
+currency: EUR
+price: 35.94
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance 247v1  Zapatillas para Hombre  Negro  Black/White HH   45.5 EU
 ---
 
 Tienes [New Balance 247v1  Zapatillas para Hombre  Negro  Black/White HH   45.5 EU](https://www.amazon.es/dp/B07DFW1NDS/?tag=tolees-21) con un 60.07 % de descuento con precio de oferta de 35.94 EUR (original: 90 EUR) en el siguiente enlace!

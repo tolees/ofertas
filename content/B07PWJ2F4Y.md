@@ -10,8 +10,11 @@ author: ring
 slug: B07PWJ2F4Y
 description:
 actualPrice: 139.9 EUR
+currency: EUR
+price: 139.9
 comparePrice: 249 EUR
 inStock: true
+prodname: VARLION CAÑON Carbon TI 6 Limited Edition - Palas DE Padel
 ---
 
 Ahora mismo tienes [VARLION CAÑON Carbon TI 6 Limited Edition - Palas DE Padel](https://www.amazon.es/dp/B07PWJ2F4Y/?tag=tolees-21) a 139.9 EUR (original: 249 EUR) (43.82 %  de descuento) en el siguiente enlace!

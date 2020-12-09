@@ -10,8 +10,11 @@ author: ring
 slug: B07DJGSTS4
 description:
 actualPrice: 13.27 EUR
+currency: EUR
+price: 13.27
 comparePrice: 29.9 EUR
 inStock: true
+prodname: MARIA MARE Mariamare Eugenia  Bolso bandolera para Mujer   Scrubs Negro   7.5 x 21 x 23 cm
 ---
 
 Ahora mismo tienes [MARIA MARE Mariamare Eugenia  Bolso bandolera para Mujer   Scrubs Negro   7.5 x 21 x 23 cm](https://www.amazon.es/dp/B07DJGSTS4/?tag=tolees-21) a 13.27 EUR (original: 29.9 EUR) (55.62 %  de descuento) en el siguiente enlace!

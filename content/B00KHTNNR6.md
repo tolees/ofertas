@@ -10,8 +10,11 @@ author: ring
 slug: B00KHTNNR6
 description:
 actualPrice: 14.08 EUR
+currency: EUR
+price: 14.08
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Under Armour UA Heatgear Long Sleeve Camiseta De Manga Larga  Hombre  Blanco  White/Graphite 100   XXL
 ---
 
 Está [Under Armour UA Heatgear Long Sleeve Camiseta De Manga Larga  Hombre  Blanco  White/Graphite 100   XXL](https://www.amazon.es/dp/B00KHTNNR6/?tag=tolees-21) con 59.77 de descuento por 14.08 EUR (original: 35.0 EUR) en el siguiente enlace!

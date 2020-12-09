@@ -10,8 +10,11 @@ author: ring
 slug: B07DVXBM9T
 description:
 actualPrice: 21.48 EUR
+currency: EUR
+price: 21.48
 comparePrice: 50 EUR
 inStock: true
+prodname: LE COQ SPORTIF Nationale GS  Zapatillas Unisex Niños  Blanco Optical White  31 EU
 ---
 
 Está [LE COQ SPORTIF Nationale GS  Zapatillas Unisex Niños  Blanco Optical White  31 EU](https://www.amazon.es/dp/B07DVXBM9T/?tag=tolees-21) con 57.04 de descuento por 21.48 EUR (original: 50 EUR) en el siguiente enlace!

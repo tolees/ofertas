@@ -10,8 +10,11 @@ author: ring
 slug: B07KXXX6ZF
 description:
 actualPrice: 32.7 EUR
+currency: EUR
+price: 32.7
 comparePrice: 85.0 EUR
 inStock: true
+prodname: Black Diamond Trail Trek Poles Bastones de Senderismo  Unisex-Adult  Picante  64-140 cm
 ---
 
 Está [Black Diamond Trail Trek Poles Bastones de Senderismo  Unisex-Adult  Picante  64-140 cm](https://www.amazon.es/dp/B07KXXX6ZF/?tag=tolees-21) con 61.53 de descuento por 32.7 EUR (original: 85.0 EUR) en el siguiente enlace!

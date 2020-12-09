@@ -10,8 +10,11 @@ author: ring
 slug: B07VVPZ8Z2
 description:
 actualPrice: 21.0 EUR
+currency: EUR
+price: 21.0
 comparePrice: 28.16 EUR
 inStock: true
+prodname: ultima Pienso para Gatos Adultos con Pollo - Pack de 4 x 1.5 kg  Total: 6 kg
 ---
 
 Ahora mismo tienes [ultima Pienso para Gatos Adultos con Pollo - Pack de 4 x 1.5 kg  Total: 6 kg](https://www.amazon.es/dp/B07VVPZ8Z2/?tag=tolees-21) a 21.0 EUR (original: 28.16 EUR) (25.43 %  de descuento) en el siguiente enlace!

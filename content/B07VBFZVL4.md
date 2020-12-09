@@ -10,8 +10,11 @@ author: ring
 slug: B07VBFZVL4
 description:
 actualPrice: 39.96 EUR
+currency: EUR
+price: 39.96
 comparePrice: 55.0 EUR
 inStock: true
+prodname: Vans Filmore Decon  Sneaker Hombre  Tablero de ajedrez Multicolor  Negro  Blanco  5gx  43 EU
 ---
 
 Ahora mismo tienes [Vans Filmore Decon  Sneaker Hombre  Tablero de ajedrez Multicolor  Negro  Blanco  5gx  43 EU](https://www.amazon.es/dp/B07VBFZVL4/?tag=tolees-21) a 39.96 EUR (original: 55.0 EUR) (27.35 %  de descuento) en el siguiente enlace!

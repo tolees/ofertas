@@ -10,8 +10,11 @@ author: ring
 slug: B07CVJXF2C
 description:
 actualPrice: 29.02 EUR
+currency: EUR
+price: 29.02
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Skechers Recent-Meroso  Zapatillas para Hombre  Gris Charcoal  45 EU
 ---
 
 Está [Skechers Recent-Meroso  Zapatillas para Hombre  Gris Charcoal  45 EU](https://www.amazon.es/dp/B07CVJXF2C/?tag=tolees-21) con 58.51 de descuento por 29.02 EUR (original: 69.95 EUR) en el siguiente enlace!

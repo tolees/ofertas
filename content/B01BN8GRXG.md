@@ -10,8 +10,11 @@ author: ring
 slug: B01BN8GRXG
 description:
 actualPrice: 84.12 EUR
+currency: EUR
+price: 84.12
 comparePrice: 149 EUR
 inStock: true
+prodname: Lacoste 2010842 - Reloj analógico de pulsera para hombre  correa de silicona
 ---
 
 Ahora mismo tienes [Lacoste 2010842 - Reloj analógico de pulsera para hombre  correa de silicona](https://www.amazon.es/dp/B01BN8GRXG/?tag=tolees-21) a 84.12 EUR (original: 149 EUR) (43.54 %  de descuento) en el siguiente enlace!

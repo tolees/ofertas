@@ -10,8 +10,11 @@ author: ring
 slug: B07NNXDHBY
 description:
 actualPrice: 557.5 EUR
+currency: EUR
+price: 557.5
 comparePrice: 858.95 EUR
 inStock: true
+prodname: Sony Xperia XZ2  color plata + Marvel s Spider-Man  PS4 
 ---
 
 Ahora mismo tienes [Sony Xperia XZ2  color plata + Marvel s Spider-Man  PS4 ](https://www.amazon.es/dp/B07NNXDHBY/?tag=tolees-21) a 557.5 EUR (original: 858.95 EUR) (35.10 %  de descuento) en el siguiente enlace!

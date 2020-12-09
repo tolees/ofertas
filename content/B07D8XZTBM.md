@@ -10,8 +10,11 @@ author: ring
 slug: B07D8XZTBM
 description:
 actualPrice: 19.44 EUR
+currency: EUR
+price: 19.44
 comparePrice: 36.9 EUR
 inStock: true
+prodname: Tommy Hilfiger 2p Trunk Bóxer  Rosa  Tango Red/Navy Blazer 062   Large  Pack de 2 para Hombre
 ---
 
 Ahora mismo tienes [Tommy Hilfiger 2p Trunk Bóxer  Rosa  Tango Red/Navy Blazer 062   Large  Pack de 2 para Hombre](https://www.amazon.es/dp/B07D8XZTBM/?tag=tolees-21) a 19.44 EUR (original: 36.9 EUR) (47.32 %  de descuento) en el siguiente enlace!

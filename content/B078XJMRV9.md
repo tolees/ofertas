@@ -10,8 +10,11 @@ author: ring
 slug: B078XJMRV9
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 21.99 EUR
 inStock: true
+prodname: Pokemon JCC Colección Guzzlord-GX - Español The Pokemon Company POGX1801
 ---
 
 Está [Pokemon JCC Colección Guzzlord-GX - Español The Pokemon Company POGX1801](https://www.amazon.es/dp/B078XJMRV9/?tag=tolees-21) con 45.48 de descuento por 11.99 EUR (original: 21.99 EUR) en el siguiente enlace!

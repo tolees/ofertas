@@ -10,8 +10,11 @@ author: ring
 slug: B07SLTT65G
 description:
 actualPrice: 22.95 EUR
+currency: EUR
+price: 22.95
 comparePrice: 32.83 EUR
 inStock: true
+prodname: Funko Figura de Harry Potter Lord Voldemort con Nagini Pop No. 85 Vinilo 10cm
 ---
 
 Ahora mismo tienes [Funko Figura de Harry Potter Lord Voldemort con Nagini Pop No. 85 Vinilo 10cm](https://www.amazon.es/dp/B07SLTT65G/?tag=tolees-21) a 22.95 EUR (original: 32.83 EUR) (30.09 %  de descuento) en el siguiente enlace!

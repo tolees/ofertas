@@ -10,8 +10,11 @@ author: ring
 slug: B00DNAB4HC
 description:
 actualPrice: 6.4 EUR
+currency: EUR
+price: 6.4
 comparePrice: 10.7 EUR
 inStock: true
+prodname: Bolero Bebida Instantánea sin Azúcar  Sabor Frutas del Bosque - Paquete de 24 x 9 gr - Total: 216 gr
 ---
 
 Tienes [Bolero Bebida Instantánea sin Azúcar  Sabor Frutas del Bosque - Paquete de 24 x 9 gr - Total: 216 gr](https://www.amazon.es/dp/B00DNAB4HC/?tag=tolees-21) con un 40.19 % de descuento con precio de oferta de 6.4 EUR (original: 10.7 EUR) en el siguiente enlace!

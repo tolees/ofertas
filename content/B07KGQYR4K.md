@@ -10,8 +10,11 @@ author: ring
 slug: B07KGQYR4K
 description:
 actualPrice: 65 EUR
+currency: EUR
+price: 65
 comparePrice: 130 EUR
 inStock: true
+prodname: Diesel Sleenker L.32 Trousers Tejanos  32 
 ---
 
 Está [Diesel Sleenker L.32 Trousers Tejanos  32 ](https://www.amazon.es/dp/B07KGQYR4K/?tag=tolees-21) con 50.00 de descuento por 65 EUR (original: 130 EUR) en el siguiente enlace!

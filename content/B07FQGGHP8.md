@@ -10,8 +10,11 @@ author: ring
 slug: B07FQGGHP8
 description:
 actualPrice: 9.49 EUR
+currency: EUR
+price: 9.49
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Buff Mickey Cool Kids Original Disney Jr Tubular  Unisex niños  Talla Única
 ---
 
 Tienes [Buff Mickey Cool Kids Original Disney Jr Tubular  Unisex niños  Talla Única](https://www.amazon.es/dp/B07FQGGHP8/?tag=tolees-21) con un 47.13 % de descuento con precio de oferta de 9.49 EUR (original: 17.95 EUR) en el siguiente enlace!

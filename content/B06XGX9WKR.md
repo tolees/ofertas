@@ -10,8 +10,11 @@ author: ring
 slug: B06XGX9WKR
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 22.44 EUR
 inStock: true
+prodname: New Look Maternity Underbump Black Jegging  Vaqueros Skinny Mujer  Negro  Black   W34/L32  Talla del Fabricante: 16L32 
 ---
 
 Ahora mismo tienes [New Look Maternity Underbump Black Jegging  Vaqueros Skinny Mujer  Negro  Black   W34/L32  Talla del Fabricante: 16L32 ](https://www.amazon.es/dp/B06XGX9WKR/?tag=tolees-21) a 11.99 EUR (original: 22.44 EUR) (46.57 %  de descuento) en el siguiente enlace!

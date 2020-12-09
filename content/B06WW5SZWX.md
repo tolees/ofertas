@@ -10,8 +10,11 @@ author: ring
 slug: B06WW5SZWX
 description:
 actualPrice: 12.95 EUR
+currency: EUR
+price: 12.95
 comparePrice: 21.9 EUR
 inStock: true
+prodname: KRF Feel The Enemy 0016086 Bolsa Profesional para Fitness y musculación  Unisex Adulto  Negro  Talla Única
 ---
 
 Está [KRF Feel The Enemy 0016086 Bolsa Profesional para Fitness y musculación  Unisex Adulto  Negro  Talla Única](https://www.amazon.es/dp/B06WW5SZWX/?tag=tolees-21) con 40.87 de descuento por 12.95 EUR (original: 21.9 EUR) en el siguiente enlace!

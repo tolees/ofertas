@@ -10,8 +10,11 @@ author: ring
 slug: B01G6BFQ3C
 description:
 actualPrice: 58.39 EUR
+currency: EUR
+price: 58.39
 comparePrice: 187.5 EUR
 inStock: true
+prodname: New Puma Blaze Of Glory New York Knicks Mens Trainers Size UK 6  EU 39 
 ---
 
 Tienes [New Puma Blaze Of Glory New York Knicks Mens Trainers Size UK 6  EU 39 ](https://www.amazon.es/dp/B01G6BFQ3C/?tag=tolees-21) con un 68.86 % de descuento con precio de oferta de 58.39 EUR (original: 187.5 EUR) en el siguiente enlace!

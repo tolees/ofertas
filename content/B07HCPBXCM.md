@@ -10,8 +10,11 @@ author: ring
 slug: B07HCPBXCM
 description:
 actualPrice: 51.19 EUR
+currency: EUR
+price: 51.19
 comparePrice: 129.9 EUR
 inStock: true
+prodname: Tommy Hilfiger - Th Patch Slim Computer Bag  Bolsas para portátil Hombre  Azul  Tommy Navy/Black   5x26x38 cm  B x H T 
 ---
 
 Ahora mismo tienes [Tommy Hilfiger - Th Patch Slim Computer Bag  Bolsas para portátil Hombre  Azul  Tommy Navy/Black   5x26x38 cm  B x H T ](https://www.amazon.es/dp/B07HCPBXCM/?tag=tolees-21) a 51.19 EUR (original: 129.9 EUR) (60.59 %  de descuento) en el siguiente enlace!

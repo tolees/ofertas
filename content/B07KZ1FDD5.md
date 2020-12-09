@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ1FDD5
 description:
 actualPrice: 7.3 EUR
+currency: EUR
+price: 7.3
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Springfield 4.Pc.Collar Beads Jersey  Mujer  Blanco  Blanco 99   X-Large  Tamaño del Fabricante:XL 
 ---
 
 Ahora mismo tienes [Springfield 4.Pc.Collar Beads Jersey  Mujer  Blanco  Blanco 99   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KZ1FDD5/?tag=tolees-21) a 7.3 EUR (original: 19.99 EUR) (63.48 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06XFXRDTX
 description:
 actualPrice: 510.2 EUR
+currency: EUR
+price: 510.2
 comparePrice: 949 EUR
 inStock: true
+prodname: Optoma dh401 – Proyector DLP  1080P Proyector  1920 x 1080 Pixeles  4000 Lúmenes ANSI  Contraste 15000: 1  Full HD  HDMI  1 6 x Zoom   Color Blanco/Negro
 ---
 
 Está [Optoma dh401 – Proyector DLP  1080P Proyector  1920 x 1080 Pixeles  4000 Lúmenes ANSI  Contraste 15000: 1  Full HD  HDMI  1 6 x Zoom   Color Blanco/Negro](https://www.amazon.es/dp/B06XFXRDTX/?tag=tolees-21) con 46.24 de descuento por 510.2 EUR (original: 949 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B083ZJMZBY
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 149.0 EUR
 inStock: true
+prodname: ghd Air Kit - Secador de pelo profesional con tecnología iónica  difusor  cepillo cerámico y 2 clips ghd  color negro
 ---
 
 Tienes [ghd Air Kit - Secador de pelo profesional con tecnología iónica  difusor  cepillo cerámico y 2 clips ghd  color negro](https://www.amazon.es/dp/B083ZJMZBY/?tag=tolees-21) con un 32.89 % de descuento con precio de oferta de 99.99 EUR (original: 149.0 EUR) en el siguiente enlace!

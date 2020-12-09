@@ -10,8 +10,11 @@ author: ring
 slug: B089Z3JFJW
 description:
 actualPrice: 31.0 EUR
+currency: EUR
+price: 31.0
 comparePrice: 43.9 EUR
 inStock: true
+prodname: Project Cars 3
 ---
 
 Tienes [Project Cars 3](https://www.amazon.es/dp/B089Z3JFJW/?tag=tolees-21) con un 29.38 % de descuento con precio de oferta de 31.0 EUR (original: 43.9 EUR) en el siguiente enlace!

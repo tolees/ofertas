@@ -10,8 +10,11 @@ author: ring
 slug: B07DKTVN16
 description:
 actualPrice: 52.5 EUR
+currency: EUR
+price: 52.5
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance ML574EGN  Zapatillas Hombre  Naranja  Dark Oxide/White Esl   41.5 EU
 ---
 
 Está [New Balance ML574EGN  Zapatillas Hombre  Naranja  Dark Oxide/White Esl   41.5 EU](https://www.amazon.es/dp/B07DKTVN16/?tag=tolees-21) con 41.67 de descuento por 52.5 EUR (original: 90 EUR) en el siguiente enlace!

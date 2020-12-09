@@ -10,8 +10,11 @@ author: ring
 slug: B01N6EUAU6
 description:
 actualPrice: 66.88 EUR
+currency: EUR
+price: 66.88
 comparePrice: 199 EUR
 inStock: true
+prodname: Jacob Jensen Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Caucho New Series NO. 739
 ---
 
 Tienes [Jacob Jensen Reloj Analógico para Unisex Adultos de Cuarzo con Correa en Caucho New Series NO. 739](https://www.amazon.es/dp/B01N6EUAU6/?tag=tolees-21) con un 66.39 % de descuento con precio de oferta de 66.88 EUR (original: 199 EUR) en el siguiente enlace!

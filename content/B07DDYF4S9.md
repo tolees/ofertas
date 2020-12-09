@@ -10,8 +10,11 @@ author: ring
 slug: B07DDYF4S9
 description:
 actualPrice: 22.85 EUR
+currency: EUR
+price: 22.85
 comparePrice: 85 EUR
 inStock: true
+prodname: Converse Chuck Taylor All Star Becca  Zapatillas para Mujer  Verde Utility Green 316  36 EU
 ---
 
 Tienes [Converse Chuck Taylor All Star Becca  Zapatillas para Mujer  Verde Utility Green 316  36 EU](https://www.amazon.es/dp/B07DDYF4S9/?tag=tolees-21) con un 73.12 % de descuento con precio de oferta de 22.85 EUR (original: 85 EUR) en el siguiente enlace!

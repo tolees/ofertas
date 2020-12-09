@@ -10,8 +10,11 @@ author: ring
 slug: B07LFGBVYK
 description:
 actualPrice: 17.0 EUR
+currency: EUR
+price: 17.0
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Levi s 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Slim Crew Dress Blues/White 0002   X-Small  Pack de 2  para Hombre
 ---
 
 Tienes [Levi s 2pk Crewneck 1 Camiseta  Multicolor  2 Pack Slim Crew Dress Blues/White 0002   X-Small  Pack de 2  para Hombre](https://www.amazon.es/dp/B07LFGBVYK/?tag=tolees-21) con un 51.43 % de descuento con precio de oferta de 17.0 EUR (original: 35.0 EUR) en el siguiente enlace!

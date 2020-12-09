@@ -10,8 +10,11 @@ author: ring
 slug: B07KKSQY2B
 description:
 actualPrice: 29.59 EUR
+currency: EUR
+price: 29.59
 comparePrice: 99.95 EUR
 inStock: true
+prodname: HUGO Ero3-w Camisa  Azul  Dark Blue 405   Small para Hombre
 ---
 
 Está [HUGO Ero3-w Camisa  Azul  Dark Blue 405   Small para Hombre](https://www.amazon.es/dp/B07KKSQY2B/?tag=tolees-21) con 70.40 de descuento por 29.59 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08LQB5LX6
 description:
 actualPrice: 119.98 EUR
+currency: EUR
+price: 119.98
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Tablet 10 Pulgadas - TOSCIDO Android 10.0 Certificado por Google GMS 4G LTE Tablet 4GB de RAM y 64 GB Dobles SIM  GPS WiFi Teclado Bluetooth，Ratón，Funda para Tableta y Más Incluidos - Gold
 ---
 
 Tienes [Tablet 10 Pulgadas - TOSCIDO Android 10.0 Certificado por Google GMS 4G LTE Tablet 4GB de RAM y 64 GB Dobles SIM  GPS WiFi Teclado Bluetooth，Ratón，Funda para Tableta y Más Incluidos - Gold](https://www.amazon.es/dp/B08LQB5LX6/?tag=tolees-21) con un 39.71 % de descuento con precio de oferta de 119.98 EUR (original: 199.0 EUR) en el siguiente enlace!

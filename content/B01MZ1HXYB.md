@@ -10,8 +10,11 @@ author: ring
 slug: B01MZ1HXYB
 description:
 actualPrice: 6.96 EUR
+currency: EUR
+price: 6.96
 comparePrice: 24.46 EUR
 inStock: true
+prodname: Jack & Jones Jorjohan Shirt Ls  Camisa para Hombre  Multicolor  Navy Blazer Fit:REG   Small
 ---
 
 Tienes [Jack & Jones Jorjohan Shirt Ls  Camisa para Hombre  Multicolor  Navy Blazer Fit:REG   Small](https://www.amazon.es/dp/B01MZ1HXYB/?tag=tolees-21) con un 71.55 % de descuento con precio de oferta de 6.96 EUR (original: 24.46 EUR) en el siguiente enlace!

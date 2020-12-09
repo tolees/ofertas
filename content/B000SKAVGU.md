@@ -10,8 +10,11 @@ author: ring
 slug: B000SKAVGU
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 11.99 EUR
 inStock: true
+prodname: Melissa & Doug 13722 - Rompecabezas grande de madera - animales de safari
 ---
 
 Está [Melissa & Doug 13722 - Rompecabezas grande de madera - animales de safari](https://www.amazon.es/dp/B000SKAVGU/?tag=tolees-21) con 58.38 de descuento por 4.99 EUR (original: 11.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00SZIFNWY
 description:
 actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
 comparePrice: 37.98 EUR
 inStock: true
+prodname: Joma 1184.12.002 - Set de equipación de Manga Corta  Color Negro  Talla L
 ---
 
 Está [Joma 1184.12.002 - Set de equipación de Manga Corta  Color Negro  Talla L](https://www.amazon.es/dp/B00SZIFNWY/?tag=tolees-21) con 68.54 de descuento por 11.95 EUR (original: 37.98 EUR) en el siguiente enlace!

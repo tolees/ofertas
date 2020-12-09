@@ -10,8 +10,11 @@ author: ring
 slug: B07K6LGP3Z
 description:
 actualPrice: 28.95 EUR
+currency: EUR
+price: 28.95
 comparePrice: 65 EUR
 inStock: true
+prodname: Asics Aaron  Zapatillas de Gimnasia para Hombre  Verde  Aloe/Khaki 201   44 EU
 ---
 
 Ahora mismo tienes [Asics Aaron  Zapatillas de Gimnasia para Hombre  Verde  Aloe/Khaki 201   44 EU](https://www.amazon.es/dp/B07K6LGP3Z/?tag=tolees-21) a 28.95 EUR (original: 65 EUR) (55.46 %  de descuento) en el siguiente enlace!

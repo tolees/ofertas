@@ -10,8 +10,11 @@ author: ring
 slug: B079RJ2DJQ
 description:
 actualPrice: 15 EUR
+currency: EUR
+price: 15
 comparePrice: 28.32 EUR
 inStock: true
+prodname: Kounga Little Diver Traje de Surf  Unisex niños  Azul/Verde  10
 ---
 
 Está [Kounga Little Diver Traje de Surf  Unisex niños  Azul/Verde  10](https://www.amazon.es/dp/B079RJ2DJQ/?tag=tolees-21) con 47.03 de descuento por 15 EUR (original: 28.32 EUR) en el siguiente enlace!

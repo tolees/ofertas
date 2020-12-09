@@ -10,8 +10,11 @@ author: ring
 slug: B072JMCSH5
 description:
 actualPrice: 16.47 EUR
+currency: EUR
+price: 16.47
 comparePrice: 30 EUR
 inStock: true
+prodname: FIND DC3375S vaqueros mujer cintura alta   Azul  Mid Wash   W26/L32  Talla del Fabricante: 36 
 ---
 
 Está [FIND DC3375S vaqueros mujer cintura alta   Azul  Mid Wash   W26/L32  Talla del Fabricante: 36 ](https://www.amazon.es/dp/B072JMCSH5/?tag=tolees-21) con 45.10 de descuento por 16.47 EUR (original: 30 EUR) en el siguiente enlace!

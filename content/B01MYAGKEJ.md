@@ -10,8 +10,11 @@ author: ring
 slug: B01MYAGKEJ
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 17.49 EUR
 inStock: true
+prodname: AmazonBasics - Tirador de armario  con bases triangulares  13 97 cm de longitud  centro del orificio de 9 52 cm   Bronce antiguo  Paquete de 10
 ---
 
 Ahora mismo tienes [AmazonBasics - Tirador de armario  con bases triangulares  13 97 cm de longitud  centro del orificio de 9 52 cm   Bronce antiguo  Paquete de 10](https://www.amazon.es/dp/B01MYAGKEJ/?tag=tolees-21) a 9.99 EUR (original: 17.49 EUR) (42.88 %  de descuento) en el siguiente enlace!

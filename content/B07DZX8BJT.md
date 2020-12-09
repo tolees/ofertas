@@ -10,8 +10,11 @@ author: ring
 slug: B07DZX8BJT
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 50.0 EUR
 inStock: true
+prodname: Levi s Turner  Zapatillas para Hombre  Azul  Navy Blue 17   40 EU
 ---
 
 Está [Levi s Turner  Zapatillas para Hombre  Azul  Navy Blue 17   40 EU](https://www.amazon.es/dp/B07DZX8BJT/?tag=tolees-21) con 36.02 de descuento por 31.99 EUR (original: 50.0 EUR) en el siguiente enlace!

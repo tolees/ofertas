@@ -10,8 +10,11 @@ author: ring
 slug: B00STL6PJW
 description:
 actualPrice: 9.54 EUR
+currency: EUR
+price: 9.54
 comparePrice: 15.0 EUR
 inStock: true
+prodname: Hasbro Gaming Gaming Clasico Pictureka  Versión Española   B0731105 
 ---
 
 Está [Hasbro Gaming Gaming Clasico Pictureka  Versión Española   B0731105 ](https://www.amazon.es/dp/B00STL6PJW/?tag=tolees-21) con 36.40 de descuento por 9.54 EUR (original: 15.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B078SFVKVF
 description:
 actualPrice: 9.45 EUR
+currency: EUR
+price: 9.45
 comparePrice: 16.95 EUR
 inStock: true
+prodname: Set Saquito térmico anti cólicos  extra-pequeño para recién nacidos y normal   Flores 
 ---
 
 Tienes [Set Saquito térmico anti cólicos  extra-pequeño para recién nacidos y normal   Flores ](https://www.amazon.es/dp/B078SFVKVF/?tag=tolees-21) con un 44.25 % de descuento con precio de oferta de 9.45 EUR (original: 16.95 EUR) en el siguiente enlace!

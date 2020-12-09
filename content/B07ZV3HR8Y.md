@@ -10,8 +10,11 @@ author: ring
 slug: B07ZV3HR8Y
 description:
 actualPrice: 18.62 EUR
+currency: EUR
+price: 18.62
 comparePrice: 40.0 EUR
 inStock: true
+prodname: Helly Hansen W HH LIFA Active Solen T-Shirt Camiseta  Mujer  White  XL
 ---
 
 Ahora mismo tienes [Helly Hansen W HH LIFA Active Solen T-Shirt Camiseta  Mujer  White  XL](https://www.amazon.es/dp/B07ZV3HR8Y/?tag=tolees-21) a 18.62 EUR (original: 40.0 EUR) (53.45 %  de descuento) en el siguiente enlace!

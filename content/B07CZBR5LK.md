@@ -10,8 +10,11 @@ author: ring
 slug: B07CZBR5LK
 description:
 actualPrice: 48.99 EUR
+currency: EUR
+price: 48.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Under Armour UA Own The Gym Duffel Bolsa Deportiva  Unisex Adulto  Negro Black/Jet Gray 001  Talla única
 ---
 
 Está [Under Armour UA Own The Gym Duffel Bolsa Deportiva  Unisex Adulto  Negro Black/Jet Gray 001  Talla única](https://www.amazon.es/dp/B07CZBR5LK/?tag=tolees-21) con 45.56 de descuento por 48.99 EUR (original: 89.99 EUR) en el siguiente enlace!

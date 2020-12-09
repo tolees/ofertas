@@ -10,8 +10,11 @@ author: ring
 slug: B07CZKT8JK
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Mascarilla Glow Addict UFO - Activada de FOREO
 ---
 
 Está [Mascarilla Glow Addict UFO - Activada de FOREO](https://www.amazon.es/dp/B07CZKT8JK/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

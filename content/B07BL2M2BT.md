@@ -10,8 +10,11 @@ author: ring
 slug: B07BL2M2BT
 description:
 actualPrice: 56 EUR
+currency: EUR
+price: 56
 comparePrice: 74.99 EUR
 inStock: true
+prodname: New Balance Ml373bss  Zapatillas para Hombre  Negro  Black/Veg Tan Bss   44 EU
 ---
 
 Está [New Balance Ml373bss  Zapatillas para Hombre  Negro  Black/Veg Tan Bss   44 EU](https://www.amazon.es/dp/B07BL2M2BT/?tag=tolees-21) con 25.32 de descuento por 56 EUR (original: 74.99 EUR) en el siguiente enlace!

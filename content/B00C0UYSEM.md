@@ -10,8 +10,11 @@ author: ring
 slug: B00C0UYSEM
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 43.99 EUR
 inStock: true
+prodname: deAO Taller Mecánico Plegable Maletín Herramientas y Accesorios de Juguete Playset Portátil Juego de Imitación Conjunto Incluye 60 Accesorios y Taladro
 ---
 
 Tienes [deAO Taller Mecánico Plegable Maletín Herramientas y Accesorios de Juguete Playset Portátil Juego de Imitación Conjunto Incluye 60 Accesorios y Taladro](https://www.amazon.es/dp/B00C0UYSEM/?tag=tolees-21) con un 40.92 % de descuento con precio de oferta de 25.99 EUR (original: 43.99 EUR) en el siguiente enlace!

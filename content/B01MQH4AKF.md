@@ -10,8 +10,11 @@ author: ring
 slug: B01MQH4AKF
 description:
 actualPrice: 16.5 EUR
+currency: EUR
+price: 16.5
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Tamaris 22144  Bailarinas para Mujer  Negro  Black 001   39 EU
 ---
 
 Tienes [Tamaris 22144  Bailarinas para Mujer  Negro  Black 001   39 EU](https://www.amazon.es/dp/B01MQH4AKF/?tag=tolees-21) con un 66.97 % de descuento con precio de oferta de 16.5 EUR (original: 49.95 EUR) en el siguiente enlace!

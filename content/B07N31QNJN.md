@@ -10,8 +10,11 @@ author: ring
 slug: B07N31QNJN
 description:
 actualPrice: 9.95 EUR
+currency: EUR
+price: 9.95
 comparePrice: 14.95 EUR
 inStock: true
+prodname: PEKITAS Cojín Cuña Inclinada Antireflujo Bebe  Fabricado En España  40 cm Ancho 
 ---
 
 Ahora mismo tienes [PEKITAS Cojín Cuña Inclinada Antireflujo Bebe  Fabricado En España  40 cm Ancho ](https://www.amazon.es/dp/B07N31QNJN/?tag=tolees-21) a 9.95 EUR (original: 14.95 EUR) (33.44 %  de descuento) en el siguiente enlace!

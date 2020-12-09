@@ -10,8 +10,11 @@ author: ring
 slug: B06Y5RZGKH
 description:
 actualPrice: 34.2 EUR
+currency: EUR
+price: 34.2
 comparePrice: 150.31 EUR
 inStock: true
+prodname: Ralph Lauren 0Rl8155  Gafas de Sol para Hombre  Jerry Havana  57
 ---
 
 Tienes [Ralph Lauren 0Rl8155  Gafas de Sol para Hombre  Jerry Havana  57](https://www.amazon.es/dp/B06Y5RZGKH/?tag=tolees-21) con un 77.25 % de descuento con precio de oferta de 34.2 EUR (original: 150.31 EUR) en el siguiente enlace!

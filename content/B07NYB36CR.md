@@ -10,8 +10,11 @@ author: ring
 slug: B07NYB36CR
 description:
 actualPrice: 39 EUR
+currency: EUR
+price: 39
 comparePrice: 79 EUR
 inStock: true
+prodname: Tous BILLETERA M. K UNIQUE MARINO-MULTI
 ---
 
 Ahora mismo tienes [Tous BILLETERA M. K UNIQUE MARINO-MULTI](https://www.amazon.es/dp/B07NYB36CR/?tag=tolees-21) a 39 EUR (original: 79 EUR) (50.63 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07XL9Y9WJ
 description:
 actualPrice: 34.05 EUR
+currency: EUR
+price: 34.05
 comparePrice: 49.99 EUR
 inStock: true
+prodname: DEADLY PREMONITION ORIGINS: COLLECTOR EDITION
 ---
 
 Ahora mismo tienes [DEADLY PREMONITION ORIGINS: COLLECTOR EDITION](https://www.amazon.es/dp/B07XL9Y9WJ/?tag=tolees-21) a 34.05 EUR (original: 49.99 EUR) (31.89 %  de descuento) en el siguiente enlace!

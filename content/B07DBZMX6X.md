@@ -10,8 +10,11 @@ author: ring
 slug: B07DBZMX6X
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Puma Cabana Racer SL V PS  Zapatillas Unisex Niños  Blanco White-Gray Violet-Ponderosa Pine  30 EU
 ---
 
 Está [Puma Cabana Racer SL V PS  Zapatillas Unisex Niños  Blanco White-Gray Violet-Ponderosa Pine  30 EU](https://www.amazon.es/dp/B07DBZMX6X/?tag=tolees-21) con 33.39 de descuento por 19.95 EUR (original: 29.95 EUR) en el siguiente enlace!

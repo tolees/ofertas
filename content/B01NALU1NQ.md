@@ -10,8 +10,11 @@ author: ring
 slug: B01NALU1NQ
 description:
 actualPrice: 11.55 EUR
+currency: EUR
+price: 11.55
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Rii RK100+ Novedoso Teclado USB Retroiluminado Colores Rainbow y Panel metálico Resistente Alta sensibilidad Ideal para Jugar  QWERTY con Layout Español Teclado espandido.
 ---
 
 Ahora mismo tienes [Rii RK100+ Novedoso Teclado USB Retroiluminado Colores Rainbow y Panel metálico Resistente Alta sensibilidad Ideal para Jugar  QWERTY con Layout Español Teclado espandido.](https://www.amazon.es/dp/B01NALU1NQ/?tag=tolees-21) a 11.55 EUR (original: 17.99 EUR) (35.80 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KJWBHB3
 description:
 actualPrice: 55.0 EUR
+currency: EUR
+price: 55.0
 comparePrice: 109.0 EUR
 inStock: true
+prodname: Olivia Burton Reloj Analógico para Mujer de Cuarzo con Correa en Cuero OB16CS17
 ---
 
 Ahora mismo tienes [Olivia Burton Reloj Analógico para Mujer de Cuarzo con Correa en Cuero OB16CS17](https://www.amazon.es/dp/B07KJWBHB3/?tag=tolees-21) a 55.0 EUR (original: 109.0 EUR) (49.54 %  de descuento) en el siguiente enlace!

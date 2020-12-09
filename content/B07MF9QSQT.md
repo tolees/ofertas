@@ -10,8 +10,11 @@ author: ring
 slug: B07MF9QSQT
 description:
 actualPrice: 159.0 EUR
+currency: EUR
+price: 159.0
 comparePrice: 260.0 EUR
 inStock: true
+prodname: Sony HT-S350 - Barra de Sonido 2.1  Bluetooth  subwoofer inalámbrico  320W  S-Force Pro Surround  Negro
 ---
 
 Tienes [Sony HT-S350 - Barra de Sonido 2.1  Bluetooth  subwoofer inalámbrico  320W  S-Force Pro Surround  Negro](https://www.amazon.es/dp/B07MF9QSQT/?tag=tolees-21) con un 38.85 % de descuento con precio de oferta de 159.0 EUR (original: 260.0 EUR) en el siguiente enlace!

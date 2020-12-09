@@ -10,8 +10,11 @@ author: ring
 slug: B019MKEKYA
 description:
 actualPrice: 8.5 EUR
+currency: EUR
+price: 8.5
 comparePrice: 14.99 EUR
 inStock: true
+prodname: POP! Vinilo - Disney: Cinderella: Cinderella
 ---
 
 Tienes [POP! Vinilo - Disney: Cinderella: Cinderella](https://www.amazon.es/dp/B019MKEKYA/?tag=tolees-21) con un 43.30 % de descuento con precio de oferta de 8.5 EUR (original: 14.99 EUR) en el siguiente enlace!

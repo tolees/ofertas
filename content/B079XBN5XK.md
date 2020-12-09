@@ -10,8 +10,11 @@ author: ring
 slug: B079XBN5XK
 description:
 actualPrice: 92.25 EUR
+currency: EUR
+price: 92.25
 comparePrice: 170 EUR
 inStock: true
+prodname: HUGO Dandy_MOCC_SD  Mocasines para Hombre  Rojo  Bright Red 620   43 EU
 ---
 
 Tienes [HUGO Dandy_MOCC_SD  Mocasines para Hombre  Rojo  Bright Red 620   43 EU](https://www.amazon.es/dp/B079XBN5XK/?tag=tolees-21) con un 45.74 % de descuento con precio de oferta de 92.25 EUR (original: 170 EUR) en el siguiente enlace!

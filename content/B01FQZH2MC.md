@@ -10,8 +10,11 @@ author: ring
 slug: B01FQZH2MC
 description:
 actualPrice: 27.5 EUR
+currency: EUR
+price: 27.5
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Cool Maker Estudio de Alfarería  BIZAK 61920700 
 ---
 
 Ahora mismo tienes [Cool Maker Estudio de Alfarería  BIZAK 61920700 ](https://www.amazon.es/dp/B01FQZH2MC/?tag=tolees-21) a 27.5 EUR (original: 49.99 EUR) (44.99 %  de descuento) en el siguiente enlace!

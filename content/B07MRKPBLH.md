@@ -10,8 +10,11 @@ author: ring
 slug: B07MRKPBLH
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: OMRON RS7 Intelli IT - Tensiómetro de muñeca con sensor de posición y conectividad Bluetooth para uso doméstico o externo  color negro
 ---
 
 Está [OMRON RS7 Intelli IT - Tensiómetro de muñeca con sensor de posición y conectividad Bluetooth para uso doméstico o externo  color negro](https://www.amazon.es/dp/B07MRKPBLH/?tag=tolees-21) con 44.45 de descuento por 49.99 EUR (original: 89.99 EUR) en el siguiente enlace!

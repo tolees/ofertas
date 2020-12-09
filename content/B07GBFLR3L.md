@@ -10,8 +10,11 @@ author: ring
 slug: B07GBFLR3L
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 50.01 EUR
 inStock: true
+prodname: OMRON C102 - Nebulizador Compresor con Aspirador Nasal para Niños y Adultos: alivia de manera eficaz la obstrucción nasal y los síntomas de alergia en niños y adultos
 ---
 
 Ahora mismo tienes [OMRON C102 - Nebulizador Compresor con Aspirador Nasal para Niños y Adultos: alivia de manera eficaz la obstrucción nasal y los síntomas de alergia en niños y adultos](https://www.amazon.es/dp/B07GBFLR3L/?tag=tolees-21) a 33.99 EUR (original: 50.01 EUR) (32.03 %  de descuento) en el siguiente enlace!

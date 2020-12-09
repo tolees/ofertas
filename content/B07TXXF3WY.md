@@ -10,8 +10,11 @@ author: ring
 slug: B07TXXF3WY
 description:
 actualPrice: 20.22 EUR
+currency: EUR
+price: 20.22
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Wrangler Stripe Shirt Blusa  Azul  Carribean Sea B13   Medium para Mujer
 ---
 
 Está [Wrangler Stripe Shirt Blusa  Azul  Carribean Sea B13   Medium para Mujer](https://www.amazon.es/dp/B07TXXF3WY/?tag=tolees-21) con 66.27 de descuento por 20.22 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00NBMK5IQ
 description:
 actualPrice: 8.06 EUR
+currency: EUR
+price: 8.06
 comparePrice: 19.75 EUR
 inStock: true
+prodname: KOH-I-NOOR 3822 Mona Lisa Artist s Coloured Pencils - Assorted Colour  Blister of 12 
 ---
 
 Está [KOH-I-NOOR 3822 Mona Lisa Artist s Coloured Pencils - Assorted Colour  Blister of 12 ](https://www.amazon.es/dp/B00NBMK5IQ/?tag=tolees-21) con 59.19 de descuento por 8.06 EUR (original: 19.75 EUR) en el siguiente enlace!

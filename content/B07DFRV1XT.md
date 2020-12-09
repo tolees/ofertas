@@ -10,8 +10,11 @@ author: ring
 slug: B07DFRV1XT
 description:
 actualPrice: 28.19 EUR
+currency: EUR
+price: 28.19
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Puma Rebel Block FL cl Pants  Hombre  Cotton Black  L
 ---
 
 Tienes [Puma Rebel Block FL cl Pants  Hombre  Cotton Black  L](https://www.amazon.es/dp/B07DFRV1XT/?tag=tolees-21) con un 43.56 % de descuento con precio de oferta de 28.19 EUR (original: 49.95 EUR) en el siguiente enlace!

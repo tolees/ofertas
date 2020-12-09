@@ -10,8 +10,11 @@ author: ring
 slug: B07DL6QGS3
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 18.99 EUR
 inStock: true
+prodname: FREETOO Riñonera de Marcha Riñonera Casual Bumbag Multifuncional Con 5 Bolsillos con Cremallera para móvil para Viaje Senderismo y Actividades al aire libre Para mujeres y hombres Ajustable  Gris 
 ---
 
 Está [FREETOO Riñonera de Marcha Riñonera Casual Bumbag Multifuncional Con 5 Bolsillos con Cremallera para móvil para Viaje Senderismo y Actividades al aire libre Para mujeres y hombres Ajustable  Gris ](https://www.amazon.es/dp/B07DL6QGS3/?tag=tolees-21) con 68.46 de descuento por 5.99 EUR (original: 18.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01IAFWP6S
 description:
 actualPrice: 18.59 EUR
+currency: EUR
+price: 18.59
 comparePrice: 75 EUR
 inStock: true
+prodname: Vans Ua Classic Slip-on  Zapatillas para Mujer  Negro  Metallic Dots Silver/black   36 EU
 ---
 
 Está [Vans Ua Classic Slip-on  Zapatillas para Mujer  Negro  Metallic Dots Silver/black   36 EU](https://www.amazon.es/dp/B01IAFWP6S/?tag=tolees-21) con 75.21 de descuento por 18.59 EUR (original: 75 EUR) en el siguiente enlace!

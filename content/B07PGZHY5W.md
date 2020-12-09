@@ -10,8 +10,11 @@ author: ring
 slug: B07PGZHY5W
 description:
 actualPrice: 9.68 EUR
+currency: EUR
+price: 9.68
 comparePrice: 21.9 EUR
 inStock: true
+prodname: Cuculo Comfort Media LAPDESK  Soporte para Laptop  Tablet  Movil  Escritorio para Laptop Micro-Pro Acolchado  Forma ergonómica Lap Desk Portable
 ---
 
 Tienes [Cuculo Comfort Media LAPDESK  Soporte para Laptop  Tablet  Movil  Escritorio para Laptop Micro-Pro Acolchado  Forma ergonómica Lap Desk Portable](https://www.amazon.es/dp/B07PGZHY5W/?tag=tolees-21) con un 55.80 % de descuento con precio de oferta de 9.68 EUR (original: 21.9 EUR) en el siguiente enlace!

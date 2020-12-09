@@ -10,8 +10,11 @@ author: ring
 slug: B07K1CMWX1
 description:
 actualPrice: 16.45 EUR
+currency: EUR
+price: 16.45
 comparePrice: 23.05 EUR
 inStock: true
+prodname: adidas DQ1083 - Mochila  Unisex Adulto  Black/White  Talla Única
 ---
 
 Está [adidas DQ1083 - Mochila  Unisex Adulto  Black/White  Talla Única](https://www.amazon.es/dp/B07K1CMWX1/?tag=tolees-21) con 28.63 de descuento por 16.45 EUR (original: 23.05 EUR) en el siguiente enlace!

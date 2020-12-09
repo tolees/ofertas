@@ -10,8 +10,11 @@ author: ring
 slug: B01ETFVUD2
 description:
 actualPrice: 70.1 EUR
+currency: EUR
+price: 70.1
 comparePrice: 95 EUR
 inStock: true
+prodname: Imperial Confort Oslo - Colchón viscosoft - 105 x 190 x 21 - Color blanco
 ---
 
 Ahora mismo tienes [Imperial Confort Oslo - Colchón viscosoft - 105 x 190 x 21 - Color blanco](https://www.amazon.es/dp/B01ETFVUD2/?tag=tolees-21) a 70.1 EUR (original: 95 EUR) (26.21 %  de descuento) en el siguiente enlace!

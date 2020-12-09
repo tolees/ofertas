@@ -10,8 +10,11 @@ author: ring
 slug: B07JBDBN8F
 description:
 actualPrice: 13.03 EUR
+currency: EUR
+price: 13.03
 comparePrice: 20.2 EUR
 inStock: true
+prodname: Cesar Recetas de Campo  Comida para Perro 150 g – 14 Bandejas
 ---
 
 Está [Cesar Recetas de Campo  Comida para Perro 150 g – 14 Bandejas](https://www.amazon.es/dp/B07JBDBN8F/?tag=tolees-21) con 35.50 de descuento por 13.03 EUR (original: 20.2 EUR) en el siguiente enlace!

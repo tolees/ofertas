@@ -10,8 +10,11 @@ author: ring
 slug: B07FQ3JNWC
 description:
 actualPrice: 12.34 EUR
+currency: EUR
+price: 12.34
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Project Cars
 ---
 
 Ahora mismo tienes [Project Cars](https://www.amazon.es/dp/B07FQ3JNWC/?tag=tolees-21) a 12.34 EUR (original: 19.99 EUR) (38.27 %  de descuento) en el siguiente enlace!

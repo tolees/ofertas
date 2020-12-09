@@ -10,8 +10,11 @@ author: ring
 slug: B07CZQGS2P
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Under Armour Featherweight Fleece Crop Capri  Mujer  Negro Black/Tonal 001  L
 ---
 
 Está [Under Armour Featherweight Fleece Crop Capri  Mujer  Negro Black/Tonal 001  L](https://www.amazon.es/dp/B07CZQGS2P/?tag=tolees-21) con 45.54 de descuento por 29.95 EUR (original: 54.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MQT7VAG
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Tristar VE-5996 - Ventilador de caja 12 pulgadas con Función de temporizador y Diseño cuadrado  Negro/Blanco
 ---
 
 Tienes [Tristar VE-5996 - Ventilador de caja 12 pulgadas con Función de temporizador y Diseño cuadrado  Negro/Blanco](https://www.amazon.es/dp/B01MQT7VAG/?tag=tolees-21) con un 28.84 % de descuento con precio de oferta de 24.9 EUR (original: 34.99 EUR) en el siguiente enlace!

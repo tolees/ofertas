@@ -10,8 +10,11 @@ author: ring
 slug: B077NHHGD9
 description:
 actualPrice: 59.14 EUR
+currency: EUR
+price: 59.14
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Brooklyn  Vaqueros Straight para Hombre  Azul  Jurassic Acmy   W32/L30
 ---
 
 Está [Lee Brooklyn  Vaqueros Straight para Hombre  Azul  Jurassic Acmy   W32/L30](https://www.amazon.es/dp/B077NHHGD9/?tag=tolees-21) con 40.83 de descuento por 59.14 EUR (original: 99.95 EUR) en el siguiente enlace!

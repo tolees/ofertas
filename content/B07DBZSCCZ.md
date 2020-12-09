@@ -10,8 +10,11 @@ author: ring
 slug: B07DBZSCCZ
 description:
 actualPrice: 47.95 EUR
+currency: EUR
+price: 47.95
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Puma Ignite Flash Evoknit Wn s  Zapatillas de Running para Mujer  Naranja  Bright Peach White 15   40 EU
 ---
 
 Tienes [Puma Ignite Flash Evoknit Wn s  Zapatillas de Running para Mujer  Naranja  Bright Peach White 15   40 EU](https://www.amazon.es/dp/B07DBZSCCZ/?tag=tolees-21) con un 40.03 % de descuento con precio de oferta de 47.95 EUR (original: 79.95 EUR) en el siguiente enlace!

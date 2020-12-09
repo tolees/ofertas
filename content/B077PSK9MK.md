@@ -10,8 +10,11 @@ author: ring
 slug: B077PSK9MK
 description:
 actualPrice: 24.6 EUR
+currency: EUR
+price: 24.6
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Scarlett High  Vaqueros Skinny para Mujer  Azul  Solid Blue Ahkt   W24/L31
 ---
 
 Ahora mismo tienes [Lee Scarlett High  Vaqueros Skinny para Mujer  Azul  Solid Blue Ahkt   W24/L31](https://www.amazon.es/dp/B077PSK9MK/?tag=tolees-21) a 24.6 EUR (original: 89.95 EUR) (72.65 %  de descuento) en el siguiente enlace!

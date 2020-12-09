@@ -10,8 +10,11 @@ author: ring
 slug: B07P67KHVN
 description:
 actualPrice: 13 EUR
+currency: EUR
+price: 13
 comparePrice: 26.82 EUR
 inStock: true
+prodname: New Look Petite Mixed Animal Vestido Marrón  Brown Pattern 29  34  Talla del Fabricante: 6  para Mujer
 ---
 
 Está [New Look Petite Mixed Animal Vestido Marrón  Brown Pattern 29  34  Talla del Fabricante: 6  para Mujer](https://www.amazon.es/dp/B07P67KHVN/?tag=tolees-21) con 51.53 de descuento por 13 EUR (original: 26.82 EUR) en el siguiente enlace!

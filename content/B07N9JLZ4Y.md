@@ -10,8 +10,11 @@ author: ring
 slug: B07N9JLZ4Y
 description:
 actualPrice: 17.95 EUR
+currency: EUR
+price: 17.95
 comparePrice: 35 EUR
 inStock: true
+prodname: Pepe Jeans Niko Camiseta  Blanco  Optic White 802   X-Large para Hombre
 ---
 
 Está [Pepe Jeans Niko Camiseta  Blanco  Optic White 802   X-Large para Hombre](https://www.amazon.es/dp/B07N9JLZ4Y/?tag=tolees-21) con 48.71 de descuento por 17.95 EUR (original: 35 EUR) en el siguiente enlace!

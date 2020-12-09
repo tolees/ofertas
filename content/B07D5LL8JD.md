@@ -10,8 +10,11 @@ author: ring
 slug: B07D5LL8JD
 description:
 actualPrice: 24.14 EUR
+currency: EUR
+price: 24.14
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Only & Sons Onssigurd Parka Jacket Noos  Hombre  Negro  Black Black   X-Large
 ---
 
 Está [Only & Sons Onssigurd Parka Jacket Noos  Hombre  Negro  Black Black   X-Large](https://www.amazon.es/dp/B07D5LL8JD/?tag=tolees-21) con 75.86 de descuento por 24.14 EUR (original: 99.99 EUR) en el siguiente enlace!

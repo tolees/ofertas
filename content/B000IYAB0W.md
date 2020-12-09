@@ -10,8 +10,11 @@ author: ring
 slug: B000IYAB0W
 description:
 actualPrice: 5.8 EUR
+currency: EUR
+price: 5.8
 comparePrice: 7.8 EUR
 inStock: true
+prodname: Bosch 242235776 buja
 ---
 
 Está [Bosch 242235776 buja](https://www.amazon.es/dp/B000IYAB0W/?tag=tolees-21) con 25.64 de descuento por 5.8 EUR (original: 7.8 EUR) en el siguiente enlace!

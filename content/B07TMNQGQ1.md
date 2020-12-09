@@ -10,8 +10,11 @@ author: ring
 slug: B07TMNQGQ1
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Superdry Classic SUPERSTATE S/S Polo  Negro  Black 02a   M para Hombre
 ---
 
 Está [Superdry Classic SUPERSTATE S/S Polo  Negro  Black 02a   M para Hombre](https://www.amazon.es/dp/B07TMNQGQ1/?tag=tolees-21) con 61.83 de descuento por 20.99 EUR (original: 54.99 EUR) en el siguiente enlace!

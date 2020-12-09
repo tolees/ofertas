@@ -10,8 +10,11 @@ author: ring
 slug: B07CHYWLT2
 description:
 actualPrice: 9.89 EUR
+currency: EUR
+price: 9.89
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Pop! Bobble: Marvel: Ant-Man & The Wasp: Ghost
 ---
 
 Está [Pop! Bobble: Marvel: Ant-Man & The Wasp: Ghost](https://www.amazon.es/dp/B07CHYWLT2/?tag=tolees-21) con 34.02 de descuento por 9.89 EUR (original: 14.99 EUR) en el siguiente enlace!

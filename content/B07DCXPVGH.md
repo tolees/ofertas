@@ -10,8 +10,11 @@ author: ring
 slug: B07DCXPVGH
 description:
 actualPrice: 27.5 EUR
+currency: EUR
+price: 27.5
 comparePrice: 74.5 EUR
 inStock: true
+prodname: El Ron Prohibido 12 Years Old Solera Blended Mexican Rum - 3 Paquetes de 3 Unidades
 ---
 
 Ahora mismo tienes [El Ron Prohibido 12 Years Old Solera Blended Mexican Rum - 3 Paquetes de 3 Unidades](https://www.amazon.es/dp/B07DCXPVGH/?tag=tolees-21) a 27.5 EUR (original: 74.5 EUR) (63.09 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B018SNSA2K
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Medion MD 15709 - Tostador  1.400 vatios  dos ranuras largas  4 tostadas  calentamiento  descongelación y botón de detención  color negro
 ---
 
 Tienes [Medion MD 15709 - Tostador  1.400 vatios  dos ranuras largas  4 tostadas  calentamiento  descongelación y botón de detención  color negro](https://www.amazon.es/dp/B018SNSA2K/?tag=tolees-21) con un 29.92 % de descuento con precio de oferta de 20.99 EUR (original: 29.95 EUR) en el siguiente enlace!

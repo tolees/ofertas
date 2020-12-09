@@ -10,8 +10,11 @@ author: ring
 slug: B07SZN1CS5
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 259.99 EUR
 inStock: true
+prodname: BERSIGAR Reloj multifunción para Hombre Relojes a Prueba de Agua Reloj de Pulsera con Correa de Acero Inoxidable Informal para Hombres
 ---
 
 Está [BERSIGAR Reloj multifunción para Hombre Relojes a Prueba de Agua Reloj de Pulsera con Correa de Acero Inoxidable Informal para Hombres](https://www.amazon.es/dp/B07SZN1CS5/?tag=tolees-21) con 61.54 de descuento por 99.99 EUR (original: 259.99 EUR) en el siguiente enlace!

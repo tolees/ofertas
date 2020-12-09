@@ -10,8 +10,11 @@ author: ring
 slug: B071ZSBBQZ
 description:
 actualPrice: 28.8 EUR
+currency: EUR
+price: 28.8
 comparePrice: 54.95 EUR
 inStock: true
+prodname: adidas Nemeziz 17.4 TR  Zapatillas de Deporte para Hombre  Negbas  45 1/3 EU
 ---
 
 Está [adidas Nemeziz 17.4 TR  Zapatillas de Deporte para Hombre  Negbas  45 1/3 EU](https://www.amazon.es/dp/B071ZSBBQZ/?tag=tolees-21) con 47.59 de descuento por 28.8 EUR (original: 54.95 EUR) en el siguiente enlace!

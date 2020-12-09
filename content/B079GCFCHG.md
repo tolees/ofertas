@@ -10,8 +10,11 @@ author: ring
 slug: B079GCFCHG
 description:
 actualPrice: 18.97 EUR
+currency: EUR
+price: 18.97
 comparePrice: 55 EUR
 inStock: true
+prodname: BILLABONG Lennox Shirt SS Camiseta Deporte  Hombre  Verde Khaki  Large
 ---
 
 Ahora mismo tienes [BILLABONG Lennox Shirt SS Camiseta Deporte  Hombre  Verde Khaki  Large](https://www.amazon.es/dp/B079GCFCHG/?tag=tolees-21) a 18.97 EUR (original: 55 EUR) (65.51 %  de descuento) en el siguiente enlace!

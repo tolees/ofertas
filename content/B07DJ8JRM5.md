@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ8JRM5
 description:
 actualPrice: 95.43 EUR
+currency: EUR
+price: 95.43
 comparePrice: 265 EUR
 inStock: true
+prodname: Diesel Larkee-beex SP  Vaqueros Straight para Hombre  Azul  01 Blue Denim 084xb  W30/L30
 ---
 
 Está [Diesel Larkee-beex SP  Vaqueros Straight para Hombre  Azul  01 Blue Denim 084xb  W30/L30](https://www.amazon.es/dp/B07DJ8JRM5/?tag=tolees-21) con 63.99 de descuento por 95.43 EUR (original: 265 EUR) en el siguiente enlace!

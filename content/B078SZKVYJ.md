@@ -10,8 +10,11 @@ author: ring
 slug: B078SZKVYJ
 description:
 actualPrice: 38.95 EUR
+currency: EUR
+price: 38.95
 comparePrice: 64.99 EUR
 inStock: true
+prodname: Columbia Peakfreak XCRSN WP  Zapatillas de Senderismo  Impermeable para Niños  Gris  Graphite  Heatwave   39 EU
 ---
 
 Ahora mismo tienes [Columbia Peakfreak XCRSN WP  Zapatillas de Senderismo  Impermeable para Niños  Gris  Graphite  Heatwave   39 EU](https://www.amazon.es/dp/B078SZKVYJ/?tag=tolees-21) a 38.95 EUR (original: 64.99 EUR) (40.07 %  de descuento) en el siguiente enlace!

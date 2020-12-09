@@ -10,8 +10,11 @@ author: ring
 slug: B004EAL1QE
 description:
 actualPrice: 27.9 EUR
+currency: EUR
+price: 27.9
 comparePrice: 42.98 EUR
 inStock: true
+prodname: Don Julio Blanco Tequila - 700 ml
 ---
 
 Tienes [Don Julio Blanco Tequila - 700 ml](https://www.amazon.es/dp/B004EAL1QE/?tag=tolees-21) con un 35.09 % de descuento con precio de oferta de 27.9 EUR (original: 42.98 EUR) en el siguiente enlace!

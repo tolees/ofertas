@@ -10,8 +10,11 @@ author: ring
 slug: B00IOWGH26
 description:
 actualPrice: 11.87 EUR
+currency: EUR
+price: 11.87
 comparePrice: 23.5 EUR
 inStock: true
+prodname: Bed Head by TIGI Máscara de tratamiento Colour Goddess 200 gr
 ---
 
 Ahora mismo tienes [Bed Head by TIGI Máscara de tratamiento Colour Goddess 200 gr](https://www.amazon.es/dp/B00IOWGH26/?tag=tolees-21) a 11.87 EUR (original: 23.5 EUR) (49.49 %  de descuento) en el siguiente enlace!

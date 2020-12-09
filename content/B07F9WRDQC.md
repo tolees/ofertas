@@ -10,8 +10,11 @@ author: ring
 slug: B07F9WRDQC
 description:
 actualPrice: 13.71 EUR
+currency: EUR
+price: 13.71
 comparePrice: 44 EUR
 inStock: true
+prodname: find. Feather Pattern Silky Jogger Pantalones  Negro  Black   W34/L32  Talla del fabricante: 44 
 ---
 
 Tienes [find. Feather Pattern Silky Jogger Pantalones  Negro  Black   W34/L32  Talla del fabricante: 44 ](https://www.amazon.es/dp/B07F9WRDQC/?tag=tolees-21) con un 68.84 % de descuento con precio de oferta de 13.71 EUR (original: 44 EUR) en el siguiente enlace!

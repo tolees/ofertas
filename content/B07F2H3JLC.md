@@ -10,8 +10,11 @@ author: ring
 slug: B07F2H3JLC
 description:
 actualPrice: 32.48 EUR
+currency: EUR
+price: 32.48
 comparePrice: 80 EUR
 inStock: true
+prodname: Levi s Neppy Crew  suéter para Hombre  Azul  Sky Captain Heather 0002  Small
 ---
 
 Ahora mismo tienes [Levi s Neppy Crew  suéter para Hombre  Azul  Sky Captain Heather 0002  Small](https://www.amazon.es/dp/B07F2H3JLC/?tag=tolees-21) a 32.48 EUR (original: 80 EUR) (59.40 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FP3BVLR
 description:
 actualPrice: 14.4 EUR
+currency: EUR
+price: 14.4
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Garcia B90206 Camiseta   Bosphorus 2864   X-Large para Mujer
 ---
 
 Tienes [Garcia B90206 Camiseta   Bosphorus 2864   X-Large para Mujer](https://www.amazon.es/dp/B07FP3BVLR/?tag=tolees-21) con un 59.99 % de descuento con precio de oferta de 14.4 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01HEXG27A
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 16.79 EUR
 inStock: true
+prodname: Crocs Classic Clog K  Zuecos Unisex Niños  Azul  Ocean   34/35 EU
 ---
 
 Ahora mismo tienes [Crocs Classic Clog K  Zuecos Unisex Niños  Azul  Ocean   34/35 EU](https://www.amazon.es/dp/B01HEXG27A/?tag=tolees-21) a 11.99 EUR (original: 16.79 EUR) (28.59 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07W8ZNLNH
 description:
 actualPrice: 9.67 EUR
+currency: EUR
+price: 9.67
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Star Wars E9 Figura Darth Vader  Hasbro E3810ES0 
 ---
 
 Está [Star Wars E9 Figura Darth Vader  Hasbro E3810ES0 ](https://www.amazon.es/dp/B07W8ZNLNH/?tag=tolees-21) con 25.56 de descuento por 9.67 EUR (original: 12.99 EUR) en el siguiente enlace!

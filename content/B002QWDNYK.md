@@ -10,8 +10,11 @@ author: ring
 slug: B002QWDNYK
 description:
 actualPrice: 12.56 EUR
+currency: EUR
+price: 12.56
 comparePrice: 37 EUR
 inStock: true
+prodname: Alessi Tonale - Ensaladera  color gris oscuro
 ---
 
 Ahora mismo tienes [Alessi Tonale - Ensaladera  color gris oscuro](https://www.amazon.es/dp/B002QWDNYK/?tag=tolees-21) a 12.56 EUR (original: 37 EUR) (66.05 %  de descuento) en el siguiente enlace!

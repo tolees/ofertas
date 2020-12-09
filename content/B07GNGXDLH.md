@@ -10,8 +10,11 @@ author: ring
 slug: B07GNGXDLH
 description:
 actualPrice: 12.54 EUR
+currency: EUR
+price: 12.54
 comparePrice: 39.99 EUR
 inStock: true
+prodname: JACK & JONES Jcocraft Knit Crew Neck  suéter Hombre  Azul  Small  Talla del Fabricante: 
 ---
 
 Tienes [JACK & JONES Jcocraft Knit Crew Neck  suéter Hombre  Azul  Small  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNGXDLH/?tag=tolees-21) con un 68.64 % de descuento con precio de oferta de 12.54 EUR (original: 39.99 EUR) en el siguiente enlace!

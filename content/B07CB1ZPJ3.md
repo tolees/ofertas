@@ -10,8 +10,11 @@ author: ring
 slug: B07CB1ZPJ3
 description:
 actualPrice: 140.06 EUR
+currency: EUR
+price: 140.06
 comparePrice: 230.55 EUR
 inStock: true
+prodname: Dormi Premium Elixir 30 - Colchón Viscoelástico  140 x 190 x 30 cm  Algodón/Poliuretano  Blanco/Gris  Matrimonio
 ---
 
 Tienes [Dormi Premium Elixir 30 - Colchón Viscoelástico  140 x 190 x 30 cm  Algodón/Poliuretano  Blanco/Gris  Matrimonio](https://www.amazon.es/dp/B07CB1ZPJ3/?tag=tolees-21) con un 39.25 % de descuento con precio de oferta de 140.06 EUR (original: 230.55 EUR) en el siguiente enlace!

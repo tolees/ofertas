@@ -10,8 +10,11 @@ author: ring
 slug: B0069RXHQW
 description:
 actualPrice: 51.35 EUR
+currency: EUR
+price: 51.35
 comparePrice: 98 EUR
 inStock: true
+prodname: Kingston KVR1333D3S9/8G - Memoria RAM DDR3  CL9 204-Pin SODIMM  1333  8 GB  KVR 
 ---
 
 Está [Kingston KVR1333D3S9/8G - Memoria RAM DDR3  CL9 204-Pin SODIMM  1333  8 GB  KVR ](https://www.amazon.es/dp/B0069RXHQW/?tag=tolees-21) con 47.60 de descuento por 51.35 EUR (original: 98 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NQJZF83
 description:
 actualPrice: 19.92 EUR
+currency: EUR
+price: 19.92
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Creatable World Figura Unisex  muñeco articulado  pelucas color negro y accesorios  Mattel GGG54    color/modelo surtido
 ---
 
 Ahora mismo tienes [Creatable World Figura Unisex  muñeco articulado  pelucas color negro y accesorios  Mattel GGG54    color/modelo surtido](https://www.amazon.es/dp/B07NQJZF83/?tag=tolees-21) a 19.92 EUR (original: 39.99 EUR) (50.19 %  de descuento) en el siguiente enlace!

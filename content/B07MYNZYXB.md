@@ -10,8 +10,11 @@ author: ring
 slug: B07MYNZYXB
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 99 EUR
 inStock: true
+prodname: Auriculares Bluetooth  AIJEESI I9 Auriculares Inalámbricos Bluetooth 5.0 Mini Estéreo In-Ear Bluetooth 5.0 con Caja de Carga Portátil Y Micrófono Integrado para iPhone y Android
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth  AIJEESI I9 Auriculares Inalámbricos Bluetooth 5.0 Mini Estéreo In-Ear Bluetooth 5.0 con Caja de Carga Portátil Y Micrófono Integrado para iPhone y Android](https://www.amazon.es/dp/B07MYNZYXB/?tag=tolees-21) a 25.99 EUR (original: 99 EUR) (73.75 %  de descuento) en el siguiente enlace!

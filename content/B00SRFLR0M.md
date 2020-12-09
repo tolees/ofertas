@@ -10,8 +10,11 @@ author: ring
 slug: B00SRFLR0M
 description:
 actualPrice: 9 EUR
+currency: EUR
+price: 9
 comparePrice: 30 EUR
 inStock: true
+prodname: Hugo Boss 61474 - Gel de ducha
 ---
 
 Está [Hugo Boss 61474 - Gel de ducha](https://www.amazon.es/dp/B00SRFLR0M/?tag=tolees-21) con 70.00 de descuento por 9 EUR (original: 30 EUR) en el siguiente enlace!

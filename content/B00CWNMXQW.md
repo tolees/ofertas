@@ -10,8 +10,11 @@ author: ring
 slug: B00CWNMXQW
 description:
 actualPrice: 8.24 EUR
+currency: EUR
+price: 8.24
 comparePrice: 11.66 EUR
 inStock: true
+prodname: AmazonBasics - Pilas AAA recargables  precargadas  paquete de 8  el aspecto puede variar 
 ---
 
 Ahora mismo tienes [AmazonBasics - Pilas AAA recargables  precargadas  paquete de 8  el aspecto puede variar ](https://www.amazon.es/dp/B00CWNMXQW/?tag=tolees-21) a 8.24 EUR (original: 11.66 EUR) (29.33 %  de descuento) en el siguiente enlace!

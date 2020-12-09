@@ -10,8 +10,11 @@ author: ring
 slug: B01N5HPPXQ
 description:
 actualPrice: 8 EUR
+currency: EUR
+price: 8
 comparePrice: 21 EUR
 inStock: true
+prodname: BIOtrue Solución de Mantenimiento - 1 unidad
 ---
 
 Tienes [BIOtrue Solución de Mantenimiento - 1 unidad](https://www.amazon.es/dp/B01N5HPPXQ/?tag=tolees-21) con un 61.90 % de descuento con precio de oferta de 8 EUR (original: 21 EUR) en el siguiente enlace!

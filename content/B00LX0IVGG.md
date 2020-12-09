@@ -10,8 +10,11 @@ author: ring
 slug: B00LX0IVGG
 description:
 actualPrice: 121.2 EUR
+currency: EUR
+price: 121.2
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Tommy Hilfiger Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 1791053
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 1791053](https://www.amazon.es/dp/B00LX0IVGG/?tag=tolees-21) a 121.2 EUR (original: 199.0 EUR) (39.10 %  de descuento) en el siguiente enlace!

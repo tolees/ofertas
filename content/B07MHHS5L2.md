@@ -10,8 +10,11 @@ author: ring
 slug: B07MHHS5L2
 description:
 actualPrice: 20.07 EUR
+currency: EUR
+price: 20.07
 comparePrice: 66.79 EUR
 inStock: true
+prodname: find. Hybrid Suede Zapatillas  Gris Grey  44 EU
 ---
 
 Está [find. Hybrid Suede Zapatillas  Gris Grey  44 EU](https://www.amazon.es/dp/B07MHHS5L2/?tag=tolees-21) con 69.95 de descuento por 20.07 EUR (original: 66.79 EUR) en el siguiente enlace!

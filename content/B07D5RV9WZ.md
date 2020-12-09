@@ -10,8 +10,11 @@ author: ring
 slug: B07D5RV9WZ
 description:
 actualPrice: 32.54 EUR
+currency: EUR
+price: 32.54
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Puma EVOSTRIPE Hoody Sweatshirt  Hombre  Forest Night  S
 ---
 
 Está [Puma EVOSTRIPE Hoody Sweatshirt  Hombre  Forest Night  S](https://www.amazon.es/dp/B07D5RV9WZ/?tag=tolees-21) con 53.48 de descuento por 32.54 EUR (original: 69.95 EUR) en el siguiente enlace!

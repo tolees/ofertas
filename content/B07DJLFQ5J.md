@@ -10,8 +10,11 @@ author: ring
 slug: B07DJLFQ5J
 description:
 actualPrice: 25.49 EUR
+currency: EUR
+price: 25.49
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Dockers by Gerli 43ha303  Botas Chukka para Mujer  Negro  Schwarz 100   39 EU
 ---
 
 Ahora mismo tienes [Dockers by Gerli 43ha303  Botas Chukka para Mujer  Negro  Schwarz 100   39 EU](https://www.amazon.es/dp/B07DJLFQ5J/?tag=tolees-21) a 25.49 EUR (original: 59.95 EUR) (57.48 %  de descuento) en el siguiente enlace!

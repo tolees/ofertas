@@ -10,8 +10,11 @@ author: ring
 slug: B07D9TMLBS
 description:
 actualPrice: 25.35 EUR
+currency: EUR
+price: 25.35
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Puma Future 2.4 MG Jr  Zapatillas de Fútbol para Niños  Negro Black-Shocking Orange 02  37.5 EU
 ---
 
 Ahora mismo tienes [Puma Future 2.4 MG Jr  Zapatillas de Fútbol para Niños  Negro Black-Shocking Orange 02  37.5 EU](https://www.amazon.es/dp/B07D9TMLBS/?tag=tolees-21) a 25.35 EUR (original: 44.95 EUR) (43.60 %  de descuento) en el siguiente enlace!

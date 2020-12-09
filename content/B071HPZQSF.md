@@ -10,8 +10,11 @@ author: ring
 slug: B071HPZQSF
 description:
 actualPrice: 5.93 EUR
+currency: EUR
+price: 5.93
 comparePrice: 20 EUR
 inStock: true
+prodname: find. Camiseta con Cremalleras Laterales Hombre  Verde  Khaki   Large
 ---
 
 Ahora mismo tienes [find. Camiseta con Cremalleras Laterales Hombre  Verde  Khaki   Large](https://www.amazon.es/dp/B071HPZQSF/?tag=tolees-21) a 5.93 EUR (original: 20 EUR) (70.35 %  de descuento) en el siguiente enlace!

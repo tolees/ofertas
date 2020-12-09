@@ -10,8 +10,11 @@ author: ring
 slug: B07DFT3CXB
 description:
 actualPrice: 57.56 EUR
+currency: EUR
+price: 57.56
 comparePrice: 110 EUR
 inStock: true
+prodname: New Balance 574S  Zapatillas para Hombre  Rojo  NB Burgundy/Munsell White Utw   44.5 EU
 ---
 
 Tienes [New Balance 574S  Zapatillas para Hombre  Rojo  NB Burgundy/Munsell White Utw   44.5 EU](https://www.amazon.es/dp/B07DFT3CXB/?tag=tolees-21) con un 47.67 % de descuento con precio de oferta de 57.56 EUR (original: 110 EUR) en el siguiente enlace!

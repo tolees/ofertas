@@ -10,8 +10,11 @@ author: ring
 slug: B07JNCNQQX
 description:
 actualPrice: 17.77 EUR
+currency: EUR
+price: 17.77
 comparePrice: 26 EUR
 inStock: true
+prodname: Lacoste Ramm211 Bóxer  Azul  Mood Indigo 405   Medium para Hombre
 ---
 
 Ahora mismo tienes [Lacoste Ramm211 Bóxer  Azul  Mood Indigo 405   Medium para Hombre](https://www.amazon.es/dp/B07JNCNQQX/?tag=tolees-21) a 17.77 EUR (original: 26 EUR) (31.65 %  de descuento) en el siguiente enlace!

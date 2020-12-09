@@ -10,8 +10,11 @@ author: ring
 slug: B0758MBWRY
 description:
 actualPrice: 10.46 EUR
+currency: EUR
+price: 10.46
 comparePrice: 14.07 EUR
 inStock: true
+prodname: SENSODYNE Pasta de Dientes para dientes sensibles Proesmalte 3 x 75 ml
 ---
 
 Tienes [SENSODYNE Pasta de Dientes para dientes sensibles Proesmalte 3 x 75 ml](https://www.amazon.es/dp/B0758MBWRY/?tag=tolees-21) con un 25.66 % de descuento con precio de oferta de 10.46 EUR (original: 14.07 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KTH7FPH
 description:
 actualPrice: 40.41 EUR
+currency: EUR
+price: 40.41
 comparePrice: 70 EUR
 inStock: true
+prodname: Volcom FRICKN MDRN Tap JGR Pantalones  Hombre  Army  L
 ---
 
 Tienes [Volcom FRICKN MDRN Tap JGR Pantalones  Hombre  Army  L](https://www.amazon.es/dp/B07KTH7FPH/?tag=tolees-21) con un 42.27 % de descuento con precio de oferta de 40.41 EUR (original: 70 EUR) en el siguiente enlace!

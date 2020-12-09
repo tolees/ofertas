@@ -10,8 +10,11 @@ author: ring
 slug: B07JZPH1DD
 description:
 actualPrice: 25.74 EUR
+currency: EUR
+price: 25.74
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Adidas N-5923  Zapatillas de Gimnasia para Hombre  Azul Collegiate Navy/FTWR White/Gum4   38 EU
 ---
 
 Está [Adidas N-5923  Zapatillas de Gimnasia para Hombre  Azul Collegiate Navy/FTWR White/Gum4   38 EU](https://www.amazon.es/dp/B07JZPH1DD/?tag=tolees-21) con 71.38 de descuento por 25.74 EUR (original: 89.95 EUR) en el siguiente enlace!

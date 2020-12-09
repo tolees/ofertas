@@ -10,8 +10,11 @@ author: ring
 slug: B07KPFXC7M
 description:
 actualPrice: 50.53 EUR
+currency: EUR
+price: 50.53
 comparePrice: 121.24 EUR
 inStock: true
+prodname: Gant O1. Boatneck Breton Stripe suéter  Azul  Persian Blue 423   46  Talla del Fabricante: XX-Large  para Mujer
 ---
 
 Ahora mismo tienes [Gant O1. Boatneck Breton Stripe suéter  Azul  Persian Blue 423   46  Talla del Fabricante: XX-Large  para Mujer](https://www.amazon.es/dp/B07KPFXC7M/?tag=tolees-21) a 50.53 EUR (original: 121.24 EUR) (58.32 %  de descuento) en el siguiente enlace!

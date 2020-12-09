@@ -10,8 +10,11 @@ author: ring
 slug: B071FT7JVC
 description:
 actualPrice: 27.14 EUR
+currency: EUR
+price: 27.14
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Only Onldarice Wool Coat Otw Abrigo  Azul Blue Graphite  38  Talla del Fabricante: Medium  para Mujer
 ---
 
 Tienes [Only Onldarice Wool Coat Otw Abrigo  Azul Blue Graphite  38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B071FT7JVC/?tag=tolees-21) con un 66.07 % de descuento con precio de oferta de 27.14 EUR (original: 79.99 EUR) en el siguiente enlace!

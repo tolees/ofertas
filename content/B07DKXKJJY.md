@@ -10,8 +10,11 @@ author: ring
 slug: B07DKXKJJY
 description:
 actualPrice: 13.45 EUR
+currency: EUR
+price: 13.45
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Columbia Schooner Bank Cachalot - Gorra de Nailon Unisex  Azul  Collegiate Navy   Talla Única
 ---
 
 Tienes [Columbia Schooner Bank Cachalot - Gorra de Nailon Unisex  Azul  Collegiate Navy   Talla Única](https://www.amazon.es/dp/B07DKXKJJY/?tag=tolees-21) con un 46.18 % de descuento con precio de oferta de 13.45 EUR (original: 24.99 EUR) en el siguiente enlace!

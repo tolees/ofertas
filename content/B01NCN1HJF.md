@@ -10,8 +10,11 @@ author: ring
 slug: B01NCN1HJF
 description:
 actualPrice: 42.2 EUR
+currency: EUR
+price: 42.2
 comparePrice: 149.95 EUR
 inStock: true
+prodname: Tommi 05105 Acuario Natur Biotope E-25 Blanco
 ---
 
 Está [Tommi 05105 Acuario Natur Biotope E-25 Blanco](https://www.amazon.es/dp/B01NCN1HJF/?tag=tolees-21) con 71.86 de descuento por 42.2 EUR (original: 149.95 EUR) en el siguiente enlace!

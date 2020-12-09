@@ -10,8 +10,11 @@ author: ring
 slug: B07DBWXW5H
 description:
 actualPrice: 45.98 EUR
+currency: EUR
+price: 45.98
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Puma BMW MMS Future Cat Ultra  Zapatillas Unisex Adults’o  Negro Black White-Gray Violet  40 EU
 ---
 
 Está [Puma BMW MMS Future Cat Ultra  Zapatillas Unisex Adults’o  Negro Black White-Gray Violet  40 EU](https://www.amazon.es/dp/B07DBWXW5H/?tag=tolees-21) con 58.18 de descuento por 45.98 EUR (original: 109.95 EUR) en el siguiente enlace!

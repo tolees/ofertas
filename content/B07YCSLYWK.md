@@ -10,8 +10,11 @@ author: ring
 slug: B07YCSLYWK
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Liberty Caffè - Café molido  100 % arábica  12 x 250 g 
 ---
 
 Está [Liberty Caffè - Café molido  100 % arábica  12 x 250 g ](https://www.amazon.es/dp/B07YCSLYWK/?tag=tolees-21) con 40.01 de descuento por 20.99 EUR (original: 34.99 EUR) en el siguiente enlace!

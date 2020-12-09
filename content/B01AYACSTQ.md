@@ -10,8 +10,11 @@ author: ring
 slug: B01AYACSTQ
 description:
 actualPrice: 23.23 EUR
+currency: EUR
+price: 23.23
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Philips Flite SHL4805RG - Auriculares de Diadema Cerrados  micrófono  diseño metálico  Ultraligero  Plegable   Color Oro Rosa
 ---
 
 Ahora mismo tienes [Philips Flite SHL4805RG - Auriculares de Diadema Cerrados  micrófono  diseño metálico  Ultraligero  Plegable   Color Oro Rosa](https://www.amazon.es/dp/B01AYACSTQ/?tag=tolees-21) a 23.23 EUR (original: 39.99 EUR) (41.91 %  de descuento) en el siguiente enlace!

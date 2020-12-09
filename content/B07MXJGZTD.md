@@ -10,8 +10,11 @@ author: ring
 slug: B07MXJGZTD
 description:
 actualPrice: 16.82 EUR
+currency: EUR
+price: 16.82
 comparePrice: 28 EUR
 inStock: true
+prodname: Salomon Coton Logo SS tee Camiseta  Hombre  Azul  Night Sky   XL
 ---
 
 Ahora mismo tienes [Salomon Coton Logo SS tee Camiseta  Hombre  Azul  Night Sky   XL](https://www.amazon.es/dp/B07MXJGZTD/?tag=tolees-21) a 16.82 EUR (original: 28 EUR) (39.93 %  de descuento) en el siguiente enlace!

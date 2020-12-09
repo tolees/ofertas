@@ -10,8 +10,11 @@ author: ring
 slug: B07MM67WGV
 description:
 actualPrice: 68.01 EUR
+currency: EUR
+price: 68.01
 comparePrice: 129 EUR
 inStock: true
+prodname: Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18633/1
 ---
 
 Tienes [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18633/1](https://www.amazon.es/dp/B07MM67WGV/?tag=tolees-21) con un 47.28 % de descuento con precio de oferta de 68.01 EUR (original: 129 EUR) en el siguiente enlace!

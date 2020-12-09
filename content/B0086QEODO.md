@@ -10,8 +10,11 @@ author: ring
 slug: B0086QEODO
 description:
 actualPrice: 7.17 EUR
+currency: EUR
+price: 7.17
 comparePrice: 11.18 EUR
 inStock: true
+prodname: Tangle Teezer The Original Blueberry Pop Peine - 150 gr
 ---
 
 Está [Tangle Teezer The Original Blueberry Pop Peine - 150 gr](https://www.amazon.es/dp/B0086QEODO/?tag=tolees-21) con 35.87 de descuento por 7.17 EUR (original: 11.18 EUR) en el siguiente enlace!

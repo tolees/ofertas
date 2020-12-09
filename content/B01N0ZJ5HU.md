@@ -10,8 +10,11 @@ author: ring
 slug: B01N0ZJ5HU
 description:
 actualPrice: 29.42 EUR
+currency: EUR
+price: 29.42
 comparePrice: 57.9 EUR
 inStock: true
+prodname: find. Zapatos Náuticos Hombre  Marrón  Cognac   44 EU
 ---
 
 Ahora mismo tienes [find. Zapatos Náuticos Hombre  Marrón  Cognac   44 EU](https://www.amazon.es/dp/B01N0ZJ5HU/?tag=tolees-21) a 29.42 EUR (original: 57.9 EUR) (49.19 %  de descuento) en el siguiente enlace!

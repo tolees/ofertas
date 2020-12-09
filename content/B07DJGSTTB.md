@@ -10,8 +10,11 @@ author: ring
 slug: B07DJGSTTB
 description:
 actualPrice: 10.91 EUR
+currency: EUR
+price: 10.91
 comparePrice: 24.9 EUR
 inStock: true
+prodname: MARIA MARE Mariamare Bruna  Bolso de Mano para Mujer  Rojo  Crarol Burdeos   3.5 x 14 x 26 cm
 ---
 
 Tienes [MARIA MARE Mariamare Bruna  Bolso de Mano para Mujer  Rojo  Crarol Burdeos   3.5 x 14 x 26 cm](https://www.amazon.es/dp/B07DJGSTTB/?tag=tolees-21) con un 56.18 % de descuento con precio de oferta de 10.91 EUR (original: 24.9 EUR) en el siguiente enlace!

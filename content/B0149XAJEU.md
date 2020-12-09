@@ -10,8 +10,11 @@ author: ring
 slug: B0149XAJEU
 description:
 actualPrice: 8.97 EUR
+currency: EUR
+price: 8.97
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Tamaris 24317  Mocasines para Mujer  Rojo  Bordeaux 549   40 EU
 ---
 
 Tienes [Tamaris 24317  Mocasines para Mujer  Rojo  Bordeaux 549   40 EU](https://www.amazon.es/dp/B0149XAJEU/?tag=tolees-21) con un 82.04 % de descuento con precio de oferta de 8.97 EUR (original: 49.95 EUR) en el siguiente enlace!

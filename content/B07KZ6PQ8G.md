@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ6PQ8G
 description:
 actualPrice: 31.63 EUR
+currency: EUR
+price: 31.63
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Cortefiel C1Bcc Canutillo Coolmax Pantalones Deportivos  Dorado  Gama Tostados 54   Tamaño del Fabricante:48 para Hombre
 ---
 
 Está [Cortefiel C1Bcc Canutillo Coolmax Pantalones Deportivos  Dorado  Gama Tostados 54   Tamaño del Fabricante:48 para Hombre](https://www.amazon.es/dp/B07KZ6PQ8G/?tag=tolees-21) con 47.27 de descuento por 31.63 EUR (original: 59.99 EUR) en el siguiente enlace!

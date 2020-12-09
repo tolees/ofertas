@@ -10,8 +10,11 @@ author: ring
 slug: B07D6QF9LM
 description:
 actualPrice: 32.92 EUR
+currency: EUR
+price: 32.92
 comparePrice: 120 EUR
 inStock: true
+prodname: Clarks Demi Beat  Botas Estilo Motero para Mujer  Beige  Sand Suede-   39.5 EU
 ---
 
 Tienes [Clarks Demi Beat  Botas Estilo Motero para Mujer  Beige  Sand Suede-   39.5 EU](https://www.amazon.es/dp/B07D6QF9LM/?tag=tolees-21) con un 72.57 % de descuento con precio de oferta de 32.92 EUR (original: 120 EUR) en el siguiente enlace!

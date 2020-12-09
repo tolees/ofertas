@@ -10,8 +10,11 @@ author: ring
 slug: B087J9VNWD
 description:
 actualPrice: 9.53 EUR
+currency: EUR
+price: 9.53
 comparePrice: 14.33 EUR
 inStock: true
+prodname: IUBEST Reemplazo para Brother LC3213 LC3211 cartuchos de tinta Compatible con MFC-J497DW DCP-J572dw DCP-J772DW DCP-J774DW MFC-J890DW MFC-J895DW  1 Negro  1 Cian  1 Magenta  1 Amarillo 
 ---
 
 Tienes [IUBEST Reemplazo para Brother LC3213 LC3211 cartuchos de tinta Compatible con MFC-J497DW DCP-J572dw DCP-J772DW DCP-J774DW MFC-J890DW MFC-J895DW  1 Negro  1 Cian  1 Magenta  1 Amarillo ](https://www.amazon.es/dp/B087J9VNWD/?tag=tolees-21) con un 33.50 % de descuento con precio de oferta de 9.53 EUR (original: 14.33 EUR) en el siguiente enlace!

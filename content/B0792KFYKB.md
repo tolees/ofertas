@@ -10,8 +10,11 @@ author: ring
 slug: B0792KFYKB
 description:
 actualPrice: 17.96 EUR
+currency: EUR
+price: 17.96
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Quiksilver - Camisa de Manga Corta - Hombre - M - Azul
 ---
 
 Ahora mismo tienes [Quiksilver - Camisa de Manga Corta - Hombre - M - Azul](https://www.amazon.es/dp/B0792KFYKB/?tag=tolees-21) a 17.96 EUR (original: 49.99 EUR) (64.07 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FQX5GQD
 description:
 actualPrice: 31.05 EUR
+currency: EUR
+price: 31.05
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Clarks Step Maro Sol  Zapatillas para Hombre  Negro  Black-   44 EU
 ---
 
 Está [Clarks Step Maro Sol  Zapatillas para Hombre  Negro  Black-   44 EU](https://www.amazon.es/dp/B07FQX5GQD/?tag=tolees-21) con 55.61 de descuento por 31.05 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B083VMSY1B
 description:
 actualPrice: 66.99 EUR
+currency: EUR
+price: 66.99
 comparePrice: 100.42 EUR
 inStock: true
+prodname: Crucial Ballistix BL2K8G32C16U4BL RGB  3200 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GBx2   CL16  Negro
 ---
 
 Tienes [Crucial Ballistix BL2K8G32C16U4BL RGB  3200 MHz  DDR4  DRAM  Memoria Gamer para Ordenadores de sobremesa  16GB  8GBx2   CL16  Negro](https://www.amazon.es/dp/B083VMSY1B/?tag=tolees-21) con un 33.29 % de descuento con precio de oferta de 66.99 EUR (original: 100.42 EUR) en el siguiente enlace!

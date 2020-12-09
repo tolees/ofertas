@@ -10,8 +10,11 @@ author: ring
 slug: B07HNKH7Q8
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Xnuoyo 20000mAh Batería Externa mit 2 USB Puertos Power Bank con Pantalla Digital LED  Cargador Movil Portátil para Samsung Galaxy y Otros Dispositivos  Rojo 
 ---
 
 Tienes [Xnuoyo 20000mAh Batería Externa mit 2 USB Puertos Power Bank con Pantalla Digital LED  Cargador Movil Portátil para Samsung Galaxy y Otros Dispositivos  Rojo ](https://www.amazon.es/dp/B07HNKH7Q8/?tag=tolees-21) con un 32.51 % de descuento con precio de oferta de 26.99 EUR (original: 39.99 EUR) en el siguiente enlace!

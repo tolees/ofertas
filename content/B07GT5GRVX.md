@@ -10,8 +10,11 @@ author: ring
 slug: B07GT5GRVX
 description:
 actualPrice: 27.72 EUR
+currency: EUR
+price: 27.72
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Desigual - Wallet Gipsy Mini Zip Women  Carteras Mujer  Rojo  Ketchup   2x9x15 cm  B x H T 
 ---
 
 Ahora mismo tienes [Desigual - Wallet Gipsy Mini Zip Women  Carteras Mujer  Rojo  Ketchup   2x9x15 cm  B x H T ](https://www.amazon.es/dp/B07GT5GRVX/?tag=tolees-21) a 27.72 EUR (original: 39.95 EUR) (30.61 %  de descuento) en el siguiente enlace!

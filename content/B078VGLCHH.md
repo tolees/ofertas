@@ -10,8 +10,11 @@ author: ring
 slug: B078VGLCHH
 description:
 actualPrice: 79.12 EUR
+currency: EUR
+price: 79.12
 comparePrice: 160 EUR
 inStock: true
+prodname: Sony WISP600NP.CE7 - Auriculares deportivos inalámbricos  modo sonido ambiente  cancelación de ruido  Bluetooth y NFC   color rosa
 ---
 
 Ahora mismo tienes [Sony WISP600NP.CE7 - Auriculares deportivos inalámbricos  modo sonido ambiente  cancelación de ruido  Bluetooth y NFC   color rosa](https://www.amazon.es/dp/B078VGLCHH/?tag=tolees-21) a 79.12 EUR (original: 160 EUR) (50.55 %  de descuento) en el siguiente enlace!

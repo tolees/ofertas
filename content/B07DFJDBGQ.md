@@ -10,8 +10,11 @@ author: ring
 slug: B07DFJDBGQ
 description:
 actualPrice: 13.48 EUR
+currency: EUR
+price: 13.48
 comparePrice: 19.48 EUR
 inStock: true
+prodname: Funko - Action Figure: Cuphead: The Devil  Multicolor  33424
 ---
 
 Ahora mismo tienes [Funko - Action Figure: Cuphead: The Devil  Multicolor  33424](https://www.amazon.es/dp/B07DFJDBGQ/?tag=tolees-21) a 13.48 EUR (original: 19.48 EUR) (30.80 %  de descuento) en el siguiente enlace!

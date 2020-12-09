@@ -10,8 +10,11 @@ author: ring
 slug: B07FCYTC28
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Máquina de Burbujas  Maquina Pompas de Jabon Forma de Rana  Haga más de 500 Burbujas por Minuto para niños Juguetes Fiesta de cumpleaños  Navidad
 ---
 
 Está [Máquina de Burbujas  Maquina Pompas de Jabon Forma de Rana  Haga más de 500 Burbujas por Minuto para niños Juguetes Fiesta de cumpleaños  Navidad](https://www.amazon.es/dp/B07FCYTC28/?tag=tolees-21) con 45.02 de descuento por 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

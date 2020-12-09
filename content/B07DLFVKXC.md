@@ -10,8 +10,11 @@ author: ring
 slug: B07DLFVKXC
 description:
 actualPrice: 13.53 EUR
+currency: EUR
+price: 13.53
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Springfield 2Ba Basic Polo  Sudadera para Hombre   Gama Azules 15   Large  Tamaño del Fabricante:L 
 ---
 
 Está [Springfield 2Ba Basic Polo  Sudadera para Hombre   Gama Azules 15   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLFVKXC/?tag=tolees-21) con 32.32 de descuento por 13.53 EUR (original: 19.99 EUR) en el siguiente enlace!

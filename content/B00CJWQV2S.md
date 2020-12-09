@@ -10,8 +10,11 @@ author: ring
 slug: B00CJWQV2S
 description:
 actualPrice: 40.99 EUR
+currency: EUR
+price: 40.99
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Vans Atwood Canvas  Sneaker Hombre  Rojo  Oxblood/White 8J3   39 EU
 ---
 
 Tienes [Vans Atwood Canvas  Sneaker Hombre  Rojo  Oxblood/White 8J3   39 EU](https://www.amazon.es/dp/B00CJWQV2S/?tag=tolees-21) con un 36.94 % de descuento con precio de oferta de 40.99 EUR (original: 65.0 EUR) en el siguiente enlace!

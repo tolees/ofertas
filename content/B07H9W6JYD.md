@@ -10,8 +10,11 @@ author: ring
 slug: B07H9W6JYD
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 60.99 EUR
 inStock: true
+prodname: Auriculares Bluetooth Auriculares Inalámbricos Kissral Bluetooth 5.0 Sencillo emparejamiento de Auriculares Bluetooth con Estuche de Carga de 500mAh para iPhone y Android
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth Auriculares Inalámbricos Kissral Bluetooth 5.0 Sencillo emparejamiento de Auriculares Bluetooth con Estuche de Carga de 500mAh para iPhone y Android](https://www.amazon.es/dp/B07H9W6JYD/?tag=tolees-21) a 35.99 EUR (original: 60.99 EUR) (40.99 %  de descuento) en el siguiente enlace!

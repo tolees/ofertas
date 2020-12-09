@@ -10,8 +10,11 @@ author: ring
 slug: B07CRF1XPZ
 description:
 actualPrice: 11.86 EUR
+currency: EUR
+price: 11.86
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Pepe Jeans Jaime Belt  Cinturón para Hombre    Tan 869  85
 ---
 
 Tienes [Pepe Jeans Jaime Belt  Cinturón para Hombre    Tan 869  85](https://www.amazon.es/dp/B07CRF1XPZ/?tag=tolees-21) con un 70.28 % de descuento con precio de oferta de 11.86 EUR (original: 39.9 EUR) en el siguiente enlace!

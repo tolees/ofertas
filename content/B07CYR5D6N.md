@@ -10,8 +10,11 @@ author: ring
 slug: B07CYR5D6N
 description:
 actualPrice: 48.45 EUR
+currency: EUR
+price: 48.45
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers Flex Appeal 3.0-Insiders  Zapatillas Deportivas Mujer  Multicolor  GYLP Black & Gray Mesh/Black Trim   37 EU
 ---
 
 Tienes [Skechers Flex Appeal 3.0-Insiders  Zapatillas Deportivas Mujer  Multicolor  GYLP Black & Gray Mesh/Black Trim   37 EU](https://www.amazon.es/dp/B07CYR5D6N/?tag=tolees-21) con un 25.40 % de descuento con precio de oferta de 48.45 EUR (original: 64.95 EUR) en el siguiente enlace!

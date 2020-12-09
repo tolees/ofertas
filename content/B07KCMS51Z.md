@@ -10,8 +10,11 @@ author: ring
 slug: B07KCMS51Z
 description:
 actualPrice: 14.18 EUR
+currency: EUR
+price: 14.18
 comparePrice: 31.5 EUR
 inStock: true
+prodname: David Jones - 5964-1  Bolsos bandolera Mujer  Rojo  Red   8x14x20 cm  W x H L 
 ---
 
 Tienes [David Jones - 5964-1  Bolsos bandolera Mujer  Rojo  Red   8x14x20 cm  W x H L ](https://www.amazon.es/dp/B07KCMS51Z/?tag=tolees-21) con un 54.98 % de descuento con precio de oferta de 14.18 EUR (original: 31.5 EUR) en el siguiente enlace!

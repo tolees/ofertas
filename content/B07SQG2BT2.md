@@ -10,8 +10,11 @@ author: ring
 slug: B07SQG2BT2
 description:
 actualPrice: 34.93 EUR
+currency: EUR
+price: 34.93
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Geox J ALBEN Boy C  Zapatillas para Niños  Azul  Navy/Red C0735   35 EU
 ---
 
 Está [Geox J ALBEN Boy C  Zapatillas para Niños  Azul  Navy/Red C0735   35 EU](https://www.amazon.es/dp/B07SQG2BT2/?tag=tolees-21) con 41.69 de descuento por 34.93 EUR (original: 59.9 EUR) en el siguiente enlace!

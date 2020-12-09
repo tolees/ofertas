@@ -10,8 +10,11 @@ author: ring
 slug: B06ZZJFCX9
 description:
 actualPrice: 26.58 EUR
+currency: EUR
+price: 26.58
 comparePrice: 37.78 EUR
 inStock: true
+prodname: Bialetti Moka Induction  Cafetera apta para inducción
 ---
 
 Ahora mismo tienes [Bialetti Moka Induction  Cafetera apta para inducción](https://www.amazon.es/dp/B06ZZJFCX9/?tag=tolees-21) a 26.58 EUR (original: 37.78 EUR) (29.65 %  de descuento) en el siguiente enlace!

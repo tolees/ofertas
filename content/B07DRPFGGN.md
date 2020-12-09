@@ -10,8 +10,11 @@ author: ring
 slug: B07DRPFGGN
 description:
 actualPrice: 27.95 EUR
+currency: EUR
+price: 27.95
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Skechers Go Run 600-Farrox  Zapatillas Hombre  Multicolor  BBLM Black & Lime Textile/Blue Trim   45.5 EU
 ---
 
 Tienes [Skechers Go Run 600-Farrox  Zapatillas Hombre  Multicolor  BBLM Black & Lime Textile/Blue Trim   45.5 EU](https://www.amazon.es/dp/B07DRPFGGN/?tag=tolees-21) con un 30.04 % de descuento con precio de oferta de 27.95 EUR (original: 39.95 EUR) en el siguiente enlace!

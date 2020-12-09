@@ -10,8 +10,11 @@ author: ring
 slug: B07RT1CZHG
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 38.47 EUR
 inStock: true
+prodname: NIVEA SUN Spray Solar Niños FP50 + Protege & Hidrata Spray Solar FP50 +  After Sun Loción Hidratante
 ---
 
 Ahora mismo tienes [NIVEA SUN Spray Solar Niños FP50 + Protege & Hidrata Spray Solar FP50 +  After Sun Loción Hidratante](https://www.amazon.es/dp/B07RT1CZHG/?tag=tolees-21) a 24.99 EUR (original: 38.47 EUR) (35.04 %  de descuento) en el siguiente enlace!

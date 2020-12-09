@@ -10,8 +10,11 @@ author: ring
 slug: B07F9QGPW1
 description:
 actualPrice: 69.62 EUR
+currency: EUR
+price: 69.62
 comparePrice: 129 EUR
 inStock: true
+prodname: Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F20381/1
 ---
 
 Ahora mismo tienes [Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F20381/1](https://www.amazon.es/dp/B07F9QGPW1/?tag=tolees-21) a 69.62 EUR (original: 129 EUR) (46.03 %  de descuento) en el siguiente enlace!

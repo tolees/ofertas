@@ -10,8 +10,11 @@ author: ring
 slug: B07FR3CQMV
 description:
 actualPrice: 81.14 EUR
+currency: EUR
+price: 81.14
 comparePrice: 110 EUR
 inStock: true
+prodname: Clarks Triverve Lace  Zapatillas para Hombre  Marrón  Ochre Nubuck-   43 EU
 ---
 
 Está [Clarks Triverve Lace  Zapatillas para Hombre  Marrón  Ochre Nubuck-   43 EU](https://www.amazon.es/dp/B07FR3CQMV/?tag=tolees-21) con 26.24 de descuento por 81.14 EUR (original: 110 EUR) en el siguiente enlace!

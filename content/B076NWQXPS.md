@@ -10,8 +10,11 @@ author: ring
 slug: B076NWQXPS
 description:
 actualPrice: 349.3 EUR
+currency: EUR
+price: 349.3
 comparePrice: 499 EUR
 inStock: true
+prodname: Sennheiser HD 660S - Auriculares dinámicos para audiófilos  Color Negro
 ---
 
 Ahora mismo tienes [Sennheiser HD 660S - Auriculares dinámicos para audiófilos  Color Negro](https://www.amazon.es/dp/B076NWQXPS/?tag=tolees-21) a 349.3 EUR (original: 499 EUR) (30.00 %  de descuento) en el siguiente enlace!

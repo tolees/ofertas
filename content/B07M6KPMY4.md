@@ -10,8 +10,11 @@ author: ring
 slug: B07M6KPMY4
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 49.95 EUR
 inStock: true
+prodname: adidas Originals Funda para portátiles 15 Inch - Negro/Blanco
 ---
 
 Tienes [adidas Originals Funda para portátiles 15 Inch - Negro/Blanco](https://www.amazon.es/dp/B07M6KPMY4/?tag=tolees-21) con un 59.98 % de descuento con precio de oferta de 19.99 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DQFVNFT
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: 10M RGB Tira de LED 12V con Chip SMD 5050  ESEYE IP65 Impermeable Flexibles Multicolor 300 LEDs Strip Tiras Con Mando a Distancia y Adaptador Corriente Luce de LEDPara TV/Fiestas/Luz Ambiental
 ---
 
 Ahora mismo tienes [10M RGB Tira de LED 12V con Chip SMD 5050  ESEYE IP65 Impermeable Flexibles Multicolor 300 LEDs Strip Tiras Con Mando a Distancia y Adaptador Corriente Luce de LEDPara TV/Fiestas/Luz Ambiental](https://www.amazon.es/dp/B07DQFVNFT/?tag=tolees-21) a 27.99 EUR (original: 49.99 EUR) (44.01 %  de descuento) en el siguiente enlace!

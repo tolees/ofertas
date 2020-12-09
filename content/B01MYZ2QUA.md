@@ -10,8 +10,11 @@ author: ring
 slug: B01MYZ2QUA
 description:
 actualPrice: 36.81 EUR
+currency: EUR
+price: 36.81
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Vans Sk8-hi  Zapatillas Altas para Mujer  Negro  Black VA2XSBOGG   39 EU
 ---
 
 Está [Vans Sk8-hi  Zapatillas Altas para Mujer  Negro  Black VA2XSBOGG   39 EU](https://www.amazon.es/dp/B01MYZ2QUA/?tag=tolees-21) con 63.19 de descuento por 36.81 EUR (original: 99.99 EUR) en el siguiente enlace!

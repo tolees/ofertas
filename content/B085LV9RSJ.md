@@ -10,8 +10,11 @@ author: ring
 slug: B085LV9RSJ
 description:
 actualPrice: 38.5 EUR
+currency: EUR
+price: 38.5
 comparePrice: 55.0 EUR
 inStock: true
+prodname: Munich One Indoor 33  Zapatillas Deportivas Unisex Adulto  Multicolor  39 EU
 ---
 
 Está [Munich One Indoor 33  Zapatillas Deportivas Unisex Adulto  Multicolor  39 EU](https://www.amazon.es/dp/B085LV9RSJ/?tag=tolees-21) con 30.00 de descuento por 38.5 EUR (original: 55.0 EUR) en el siguiente enlace!

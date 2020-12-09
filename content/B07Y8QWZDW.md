@@ -10,8 +10,11 @@ author: ring
 slug: B07Y8QWZDW
 description:
 actualPrice: 44.99 EUR
+currency: EUR
+price: 44.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Razer Basilisk X HyperSpeed - Ratón inalámbrico para juegos  con tecnología Razer HyperSpeed  inalámbrico  sensor óptico avanzado 5G y 6 botones configurables libremente 
 ---
 
 Tienes [Razer Basilisk X HyperSpeed - Ratón inalámbrico para juegos  con tecnología Razer HyperSpeed  inalámbrico  sensor óptico avanzado 5G y 6 botones configurables libremente ](https://www.amazon.es/dp/B07Y8QWZDW/?tag=tolees-21) con un 35.72 % de descuento con precio de oferta de 44.99 EUR (original: 69.99 EUR) en el siguiente enlace!

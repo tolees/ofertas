@@ -10,8 +10,11 @@ author: ring
 slug: B08ND2FK2V
 description:
 actualPrice: 69.95 EUR
+currency: EUR
+price: 69.95
 comparePrice: 269.95 EUR
 inStock: true
+prodname: Dunlop Sonic NH
 ---
 
 Está [Dunlop Sonic NH](https://www.amazon.es/dp/B08ND2FK2V/?tag=tolees-21) con 74.09 de descuento por 69.95 EUR (original: 269.95 EUR) en el siguiente enlace!

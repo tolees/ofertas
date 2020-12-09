@@ -10,8 +10,11 @@ author: ring
 slug: B077MG6DKS
 description:
 actualPrice: 25.16 EUR
+currency: EUR
+price: 25.16
 comparePrice: 49.95 EUR
 inStock: true
+prodname: PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco White Black  37.5 EU
 ---
 
 Tienes [PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco White Black  37.5 EU](https://www.amazon.es/dp/B077MG6DKS/?tag=tolees-21) con un 49.63 % de descuento con precio de oferta de 25.16 EUR (original: 49.95 EUR) en el siguiente enlace!

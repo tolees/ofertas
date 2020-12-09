@@ -10,8 +10,11 @@ author: ring
 slug: B07JP5Y3TW
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Jack & Jones Jjimarco Jjbowie Sa Pantalones  Beige  Beige Beige   W33/L32  Talla del Fabricante: 33  para Hombre
 ---
 
 Está [Jack & Jones Jjimarco Jjbowie Sa Pantalones  Beige  Beige Beige   W33/L32  Talla del Fabricante: 33  para Hombre](https://www.amazon.es/dp/B07JP5Y3TW/?tag=tolees-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

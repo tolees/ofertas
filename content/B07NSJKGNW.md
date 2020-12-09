@@ -10,8 +10,11 @@ author: ring
 slug: B07NSJKGNW
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 10.0 EUR
 inStock: true
+prodname: MOJIPOPS - Blister 8 figuras  6 figuras MojiPops y 2 exclusivas figuras Glitter    color/modelo surtido
 ---
 
 Tienes [MOJIPOPS - Blister 8 figuras  6 figuras MojiPops y 2 exclusivas figuras Glitter    color/modelo surtido](https://www.amazon.es/dp/B07NSJKGNW/?tag=tolees-21) con un 50.10 % de descuento con precio de oferta de 4.99 EUR (original: 10.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08BDYBCK8
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Tiburón  4K UHD + BD  [Blu-ray]
 ---
 
 Tienes [Tiburón  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B08BDYBCK8/?tag=tolees-21) con un 43.50 % de descuento con precio de oferta de 12.99 EUR (original: 22.99 EUR) en el siguiente enlace!

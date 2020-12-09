@@ -10,8 +10,11 @@ author: ring
 slug: B07N6GKGQW
 description:
 actualPrice: 73.5 EUR
+currency: EUR
+price: 73.5
 comparePrice: 179.0 EUR
 inStock: true
+prodname: Panama Jack Piola  Botas Altas para Mujer  Marrón  Cuero B8   42 EU
 ---
 
 Ahora mismo tienes [Panama Jack Piola  Botas Altas para Mujer  Marrón  Cuero B8   42 EU](https://www.amazon.es/dp/B07N6GKGQW/?tag=tolees-21) a 73.5 EUR (original: 179.0 EUR) (58.94 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NQDCN5M
 description:
 actualPrice: 39.61 EUR
+currency: EUR
+price: 39.61
 comparePrice: 55.55 EUR
 inStock: true
+prodname: XITAI 45Wh 11.4V VR03XL Repuesto Batería para HP Envy 13-D 13-D046TU 13-D025TU 13-D024TU 13-D056TU 816497-1C1 HSTNN-IB7E
 ---
 
 Tienes [XITAI 45Wh 11.4V VR03XL Repuesto Batería para HP Envy 13-D 13-D046TU 13-D025TU 13-D024TU 13-D056TU 816497-1C1 HSTNN-IB7E](https://www.amazon.es/dp/B07NQDCN5M/?tag=tolees-21) con un 28.69 % de descuento con precio de oferta de 39.61 EUR (original: 55.55 EUR) en el siguiente enlace!

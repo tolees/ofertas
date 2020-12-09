@@ -10,8 +10,11 @@ author: ring
 slug: B07TS8WQLW
 description:
 actualPrice: 14.73 EUR
+currency: EUR
+price: 14.73
 comparePrice: 59.0 EUR
 inStock: true
+prodname: Superga 2750-cot3strapu  Zapatillas de Gimnasia  Negro  Black 999   35 EU
 ---
 
 Ahora mismo tienes [Superga 2750-cot3strapu  Zapatillas de Gimnasia  Negro  Black 999   35 EU](https://www.amazon.es/dp/B07TS8WQLW/?tag=tolees-21) a 14.73 EUR (original: 59.0 EUR) (75.03 %  de descuento) en el siguiente enlace!

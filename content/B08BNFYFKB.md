@@ -10,8 +10,11 @@ author: ring
 slug: B08BNFYFKB
 description:
 actualPrice: 11.19 EUR
+currency: EUR
+price: 11.19
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Reiie Altavoces para ordenador. Altavoz multimedia  sonido estéreo  parlantes para PC alimentados por USB con luz LED multicolor. Ideal para computadora portátil  de escritorio  incluye dos altavoces 
 ---
 
 Ahora mismo tienes [Reiie Altavoces para ordenador. Altavoz multimedia  sonido estéreo  parlantes para PC alimentados por USB con luz LED multicolor. Ideal para computadora portátil  de escritorio  incluye dos altavoces ](https://www.amazon.es/dp/B08BNFYFKB/?tag=tolees-21) a 11.19 EUR (original: 14.99 EUR) (25.35 %  de descuento) en el siguiente enlace!

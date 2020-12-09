@@ -10,8 +10,11 @@ author: ring
 slug: B013EB4YXA
 description:
 actualPrice: 4.45 EUR
+currency: EUR
+price: 4.45
 comparePrice: 8.99 EUR
 inStock: true
+prodname: Star Wars - Casco de Stormtrooper para niños  accesorio disfraz  Rubie s 32529 
 ---
 
 Tienes [Star Wars - Casco de Stormtrooper para niños  accesorio disfraz  Rubie s 32529 ](https://www.amazon.es/dp/B013EB4YXA/?tag=tolees-21) con un 50.50 % de descuento con precio de oferta de 4.45 EUR (original: 8.99 EUR) en el siguiente enlace!

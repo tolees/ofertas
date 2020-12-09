@@ -10,8 +10,11 @@ author: ring
 slug: B01NBVQDUF
 description:
 actualPrice: 230.3 EUR
+currency: EUR
+price: 230.3
 comparePrice: 329.0 EUR
 inStock: true
+prodname: Hugo BOSS Reloj para hombre 1513476
 ---
 
 Ahora mismo tienes [Hugo BOSS Reloj para hombre 1513476](https://www.amazon.es/dp/B01NBVQDUF/?tag=tolees-21) a 230.3 EUR (original: 329.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

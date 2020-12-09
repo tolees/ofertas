@@ -10,8 +10,11 @@ author: ring
 slug: B075LJWKCY
 description:
 actualPrice: 119.9 EUR
+currency: EUR
+price: 119.9
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Bissell 1558N Limpiador a Mano para Manchas y alfombras  750 W  6.4 litros  84 Decibelios  Plastic  Rojo/Negro
 ---
 
 Ahora mismo tienes [Bissell 1558N Limpiador a Mano para Manchas y alfombras  750 W  6.4 litros  84 Decibelios  Plastic  Rojo/Negro](https://www.amazon.es/dp/B075LJWKCY/?tag=tolees-21) a 119.9 EUR (original: 199.99 EUR) (40.05 %  de descuento) en el siguiente enlace!

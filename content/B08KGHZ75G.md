@@ -10,8 +10,11 @@ author: ring
 slug: B08KGHZ75G
 description:
 actualPrice: 41.82 EUR
+currency: EUR
+price: 41.82
 comparePrice: 59.77 EUR
 inStock: true
+prodname: 10 unidades de memoria USB de 1 GB  USB 2.0  USB 2.0  con 10 unidades de Lanyards giratorias  plegable  USB de 1 GB  color negro
 ---
 
 Está [10 unidades de memoria USB de 1 GB  USB 2.0  USB 2.0  con 10 unidades de Lanyards giratorias  plegable  USB de 1 GB  color negro](https://www.amazon.es/dp/B08KGHZ75G/?tag=tolees-21) con 30.03 de descuento por 41.82 EUR (original: 59.77 EUR) en el siguiente enlace!

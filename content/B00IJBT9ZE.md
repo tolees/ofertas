@@ -10,8 +10,11 @@ author: ring
 slug: B00IJBT9ZE
 description:
 actualPrice: 18.7 EUR
+currency: EUR
+price: 18.7
 comparePrice: 24.95 EUR
 inStock: true
+prodname: TASSIMO L Or Café Lungo Profondo - 5 paquetes de 16 cápsulas: Total 80 unidades
 ---
 
 Está [TASSIMO L Or Café Lungo Profondo - 5 paquetes de 16 cápsulas: Total 80 unidades](https://www.amazon.es/dp/B00IJBT9ZE/?tag=tolees-21) con 25.05 de descuento por 18.7 EUR (original: 24.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B075G4SHGK
 description:
 actualPrice: 100.15 EUR
+currency: EUR
+price: 100.15
 comparePrice: 212.81 EUR
 inStock: true
+prodname: Gipsy by Mauritius Young SF LAWOV  Chaqueta para Hombre  Negro  Black 000  Large
 ---
 
 Ahora mismo tienes [Gipsy by Mauritius Young SF LAWOV  Chaqueta para Hombre  Negro  Black 000  Large](https://www.amazon.es/dp/B075G4SHGK/?tag=tolees-21) a 100.15 EUR (original: 212.81 EUR) (52.94 %  de descuento) en el siguiente enlace!

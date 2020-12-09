@@ -10,8 +10,11 @@ author: ring
 slug: B07FXT5RH4
 description:
 actualPrice: 20.36 EUR
+currency: EUR
+price: 20.36
 comparePrice: 28.49 EUR
 inStock: true
+prodname: Nivea Sun Protege & Hidrata - Leche solar FP50+  hidratante  resistente al agua  protección UVA/UVB - 400 ml + Crema solar facial con protección solar FP50 - 50 ml
 ---
 
 Tienes [Nivea Sun Protege & Hidrata - Leche solar FP50+  hidratante  resistente al agua  protección UVA/UVB - 400 ml + Crema solar facial con protección solar FP50 - 50 ml](https://www.amazon.es/dp/B07FXT5RH4/?tag=tolees-21) con un 28.54 % de descuento con precio de oferta de 20.36 EUR (original: 28.49 EUR) en el siguiente enlace!

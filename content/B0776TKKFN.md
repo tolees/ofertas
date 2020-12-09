@@ -10,8 +10,11 @@ author: ring
 slug: B0776TKKFN
 description:
 actualPrice: 41.99 EUR
+currency: EUR
+price: 41.99
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Adidas Daily 2.0  Zapatillas para Hombre  Gris  Grey/Footwear White/Footwear White 0   40 2/3 EU
 ---
 
 Tienes [Adidas Daily 2.0  Zapatillas para Hombre  Gris  Grey/Footwear White/Footwear White 0   40 2/3 EU](https://www.amazon.es/dp/B0776TKKFN/?tag=tolees-21) con un 29.96 % de descuento con precio de oferta de 41.99 EUR (original: 59.95 EUR) en el siguiente enlace!

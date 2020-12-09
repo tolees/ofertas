@@ -10,8 +10,11 @@ author: ring
 slug: B0043ZUEPE
 description:
 actualPrice: 12.2 EUR
+currency: EUR
+price: 12.2
 comparePrice: 19.6 EUR
 inStock: true
+prodname: Duracell Ultra AA con Powerchek  Pilas Alcalinas  Paquete de 12  1.5 Voltios LR06 MX1500
 ---
 
 Ahora mismo tienes [Duracell Ultra AA con Powerchek  Pilas Alcalinas  Paquete de 12  1.5 Voltios LR06 MX1500](https://www.amazon.es/dp/B0043ZUEPE/?tag=tolees-21) a 12.2 EUR (original: 19.6 EUR) (37.76 %  de descuento) en el siguiente enlace!

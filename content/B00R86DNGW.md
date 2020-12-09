@@ -10,8 +10,11 @@ author: ring
 slug: B00R86DNGW
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 43.13 EUR
 inStock: true
+prodname: Joseph Joseph Escurreplatos  Metal  Escurridor
 ---
 
 Está [Joseph Joseph Escurreplatos  Metal  Escurridor](https://www.amazon.es/dp/B00R86DNGW/?tag=tolees-21) con 25.83 de descuento por 31.99 EUR (original: 43.13 EUR) en el siguiente enlace!

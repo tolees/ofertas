@@ -10,8 +10,11 @@ author: ring
 slug: B07HCYP9Y3
 description:
 actualPrice: 6.89 EUR
+currency: EUR
+price: 6.89
 comparePrice: 11.24 EUR
 inStock: true
+prodname: New Look - Card Holder  Carteras Hombre  Negro  Black   4x7x12 cm  W x H L 
 ---
 
 Tienes [New Look - Card Holder  Carteras Hombre  Negro  Black   4x7x12 cm  W x H L ](https://www.amazon.es/dp/B07HCYP9Y3/?tag=tolees-21) con un 38.70 % de descuento con precio de oferta de 6.89 EUR (original: 11.24 EUR) en el siguiente enlace!

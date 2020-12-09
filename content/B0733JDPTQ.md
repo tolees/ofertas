@@ -10,8 +10,11 @@ author: ring
 slug: B0733JDPTQ
 description:
 actualPrice: 8.89 EUR
+currency: EUR
+price: 8.89
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Desires Lola Hybrid Vaqueros Slim  Mujer  Azul  Light Used   WNA/L34  Tamaño del Fabricante:31 
 ---
 
 Ahora mismo tienes [Desires Lola Hybrid Vaqueros Slim  Mujer  Azul  Light Used   WNA/L34  Tamaño del Fabricante:31 ](https://www.amazon.es/dp/B0733JDPTQ/?tag=tolees-21) a 8.89 EUR (original: 49.95 EUR) (82.20 %  de descuento) en el siguiente enlace!

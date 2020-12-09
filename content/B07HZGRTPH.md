@@ -10,8 +10,11 @@ author: ring
 slug: B07HZGRTPH
 description:
 actualPrice: 27.45 EUR
+currency: EUR
+price: 27.45
 comparePrice: 49 EUR
 inStock: true
+prodname: Dickies Harrison Sudadera  Amarillo  Custard Cus   X-Large  Talla del Fabricante: XLrge  para Hombre
 ---
 
 Tienes [Dickies Harrison Sudadera  Amarillo  Custard Cus   X-Large  Talla del Fabricante: XLrge  para Hombre](https://www.amazon.es/dp/B07HZGRTPH/?tag=tolees-21) con un 43.98 % de descuento con precio de oferta de 27.45 EUR (original: 49 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B086DKVS1P
 description:
 actualPrice: 77.99 EUR
+currency: EUR
+price: 77.99
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Nueva Blink Outdoor | Cámara de seguridad HD inalámbrica y resistente a la intemperie  con 2 años de autonomía y detección de movimiento | 1 cámara
 ---
 
 Ahora mismo tienes [Nueva Blink Outdoor | Cámara de seguridad HD inalámbrica y resistente a la intemperie  con 2 años de autonomía y detección de movimiento | 1 cámara](https://www.amazon.es/dp/B086DKVS1P/?tag=tolees-21) a 77.99 EUR (original: 119.99 EUR) (35.00 %  de descuento) en el siguiente enlace!

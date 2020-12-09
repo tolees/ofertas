@@ -10,8 +10,11 @@ author: ring
 slug: B07KXBSD4L
 description:
 actualPrice: 7.66 EUR
+currency: EUR
+price: 7.66
 comparePrice: 11.79 EUR
 inStock: true
+prodname: Apisérum Vitalidad Cápsulas - Jalea Real con Vitamina C - Multivitamínico - Vitaminas A C D E H y grupo B - Ayuda a reforzar el sistema inmunitario* - Tratamiento para 1 mes
 ---
 
 Está [Apisérum Vitalidad Cápsulas - Jalea Real con Vitamina C - Multivitamínico - Vitaminas A C D E H y grupo B - Ayuda a reforzar el sistema inmunitario* - Tratamiento para 1 mes](https://www.amazon.es/dp/B07KXBSD4L/?tag=tolees-21) con 35.03 de descuento por 7.66 EUR (original: 11.79 EUR) en el siguiente enlace!

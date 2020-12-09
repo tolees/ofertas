@@ -10,8 +10,11 @@ author: ring
 slug: B07MZJDWQ7
 description:
 actualPrice: 46.74 EUR
+currency: EUR
+price: 46.74
 comparePrice: 89.9 EUR
 inStock: true
+prodname: Superdry Parachute Cargo Short Bañador  Verde  Olive Alpine Camo R2d   42 para Hombre
 ---
 
 Está [Superdry Parachute Cargo Short Bañador  Verde  Olive Alpine Camo R2d   42 para Hombre](https://www.amazon.es/dp/B07MZJDWQ7/?tag=tolees-21) con 48.01 de descuento por 46.74 EUR (original: 89.9 EUR) en el siguiente enlace!

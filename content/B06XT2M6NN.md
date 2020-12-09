@@ -10,8 +10,11 @@ author: ring
 slug: B06XT2M6NN
 description:
 actualPrice: 32 EUR
+currency: EUR
+price: 32
 comparePrice: 80 EUR
 inStock: true
+prodname: Pepe Jeans Teresa PL580535  Sudadera para Mujer  Azul  Dulwich 594  X-Small
 ---
 
 Ahora mismo tienes [Pepe Jeans Teresa PL580535  Sudadera para Mujer  Azul  Dulwich 594  X-Small](https://www.amazon.es/dp/B06XT2M6NN/?tag=tolees-21) a 32 EUR (original: 80 EUR) (60.00 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00AGF8H2W
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Razer Destructor 2 - Alfombrilla para ratón  Color Gris
 ---
 
 Está [Razer Destructor 2 - Alfombrilla para ratón  Color Gris](https://www.amazon.es/dp/B00AGF8H2W/?tag=tolees-21) con 70.09 de descuento por 14.95 EUR (original: 49.99 EUR) en el siguiente enlace!

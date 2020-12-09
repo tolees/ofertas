@@ -10,8 +10,11 @@ author: ring
 slug: B078WTNK6K
 description:
 actualPrice: 22.6 EUR
+currency: EUR
+price: 22.6
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Cortefiel Falda Corta  Gama Verdes 21  XL
 ---
 
 Ahora mismo tienes [Cortefiel Falda Corta  Gama Verdes 21  XL](https://www.amazon.es/dp/B078WTNK6K/?tag=tolees-21) a 22.6 EUR (original: 49.99 EUR) (54.79 %  de descuento) en el siguiente enlace!

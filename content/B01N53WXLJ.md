@@ -10,8 +10,11 @@ author: ring
 slug: B01N53WXLJ
 description:
 actualPrice: 25.68 EUR
+currency: EUR
+price: 25.68
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Puma Speed 100 R Ignite Wn  Zapatillas de Running para Mujer  Rosa  Knockout Pink-True Blue White 03   39 EU
 ---
 
 Ahora mismo tienes [Puma Speed 100 R Ignite Wn  Zapatillas de Running para Mujer  Rosa  Knockout Pink-True Blue White 03   39 EU](https://www.amazon.es/dp/B01N53WXLJ/?tag=tolees-21) a 25.68 EUR (original: 109.95 EUR) (76.64 %  de descuento) en el siguiente enlace!

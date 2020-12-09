@@ -10,8 +10,11 @@ author: ring
 slug: B07RV4NSLR
 description:
 actualPrice: 54.2 EUR
+currency: EUR
+price: 54.2
 comparePrice: 72.56 EUR
 inStock: true
+prodname: LUCK Zapatilla de Ciclismo MTB ÍCARO con Suela de Carbono y Sistema rotativo de precisión acompañada de un Velcro.  42 EU  Rojo 
 ---
 
 Tienes [LUCK Zapatilla de Ciclismo MTB ÍCARO con Suela de Carbono y Sistema rotativo de precisión acompañada de un Velcro.  42 EU  Rojo ](https://www.amazon.es/dp/B07RV4NSLR/?tag=tolees-21) con un 25.30 % de descuento con precio de oferta de 54.2 EUR (original: 72.56 EUR) en el siguiente enlace!

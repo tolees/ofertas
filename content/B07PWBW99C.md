@@ -10,8 +10,11 @@ author: ring
 slug: B07PWBW99C
 description:
 actualPrice: 11.55 EUR
+currency: EUR
+price: 11.55
 comparePrice: 15.99 EUR
 inStock: true
+prodname: SMARTOMI - 2 Cartuchos de tóner Negro compatibles con Cartuchos TN1050 para impresoras Brother de Las Series HL-1110 HL-1112 HL-1212 HL-1210 DCP-1510 DCP-1610 DCP-1612 DCP-1512 MFC-1810 y MFC-1910
 ---
 
 Tienes [SMARTOMI - 2 Cartuchos de tóner Negro compatibles con Cartuchos TN1050 para impresoras Brother de Las Series HL-1110 HL-1112 HL-1212 HL-1210 DCP-1510 DCP-1610 DCP-1612 DCP-1512 MFC-1810 y MFC-1910](https://www.amazon.es/dp/B07PWBW99C/?tag=tolees-21) con un 27.77 % de descuento con precio de oferta de 11.55 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B004DMZ9HK
 description:
 actualPrice: 14.49 EUR
+currency: EUR
+price: 14.49
 comparePrice: 19.8 EUR
 inStock: true
+prodname: Metaltex Pisa- Carro multiuso con ruedas  Blanco  4 Cestos
 ---
 
 Está [Metaltex Pisa- Carro multiuso con ruedas  Blanco  4 Cestos](https://www.amazon.es/dp/B004DMZ9HK/?tag=tolees-21) con 26.82 de descuento por 14.49 EUR (original: 19.8 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DFS3GQ9
 description:
 actualPrice: 34.37 EUR
+currency: EUR
+price: 34.37
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Puma Varsity Cover Up T-Shirt  Mujer  Black  S
 ---
 
 Tienes [Puma Varsity Cover Up T-Shirt  Mujer  Black  S](https://www.amazon.es/dp/B07DFS3GQ9/?tag=tolees-21) con un 50.86 % de descuento con precio de oferta de 34.37 EUR (original: 69.95 EUR) en el siguiente enlace!

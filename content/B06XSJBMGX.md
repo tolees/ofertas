@@ -10,8 +10,11 @@ author: ring
 slug: B06XSJBMGX
 description:
 actualPrice: 1.5 EUR
+currency: EUR
+price: 1.5
 comparePrice: 2.12 EUR
 inStock: true
+prodname: Bolero Sticks  12 x 3g 
 ---
 
 Está [Bolero Sticks  12 x 3g ](https://www.amazon.es/dp/B06XSJBMGX/?tag=tolees-21) con 29.25 de descuento por 1.5 EUR (original: 2.12 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01F4CS0EG
 description:
 actualPrice: 26.9 EUR
+currency: EUR
+price: 26.9
 comparePrice: 99 EUR
 inStock: true
+prodname: Pepe Jeans London Cash  Vaqueros para Hombre  Azul  12Oz Retro Ring Open End N27   W30/L34
 ---
 
 Está [Pepe Jeans London Cash  Vaqueros para Hombre  Azul  12Oz Retro Ring Open End N27   W30/L34](https://www.amazon.es/dp/B01F4CS0EG/?tag=tolees-21) con 72.83 de descuento por 26.9 EUR (original: 99 EUR) en el siguiente enlace!

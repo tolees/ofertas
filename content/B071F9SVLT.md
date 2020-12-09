@@ -10,8 +10,11 @@ author: ring
 slug: B071F9SVLT
 description:
 actualPrice: 14.18 EUR
+currency: EUR
+price: 14.18
 comparePrice: 70 EUR
 inStock: true
+prodname: Under Armour Magnetico Select FG Jr  Botas de fútbol Unisex Niños  Negro  Black//Metallic Silver 001   36.5 EU
 ---
 
 Ahora mismo tienes [Under Armour Magnetico Select FG Jr  Botas de fútbol Unisex Niños  Negro  Black//Metallic Silver 001   36.5 EU](https://www.amazon.es/dp/B071F9SVLT/?tag=tolees-21) a 14.18 EUR (original: 70 EUR) (79.74 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01BI7QMDW
 description:
 actualPrice: 8.4 EUR
+currency: EUR
+price: 8.4
 comparePrice: 22.45 EUR
 inStock: true
+prodname: Lisciani – 53384 – Juegos Educatifs – la Granja – Carotina Baby
 ---
 
 Está [Lisciani – 53384 – Juegos Educatifs – la Granja – Carotina Baby](https://www.amazon.es/dp/B01BI7QMDW/?tag=tolees-21) con 62.58 de descuento por 8.4 EUR (original: 22.45 EUR) en el siguiente enlace!

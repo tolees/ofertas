@@ -10,8 +10,11 @@ author: ring
 slug: B07FZZX3BN
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 26.61 EUR
 inStock: true
+prodname: Muñeca Oficial Aurora Disney de la Bella Durmiente con Anillo a Juego de tamaño Natural
 ---
 
 Está [Muñeca Oficial Aurora Disney de la Bella Durmiente con Anillo a Juego de tamaño Natural](https://www.amazon.es/dp/B07FZZX3BN/?tag=tolees-21) con 25.03 de descuento por 19.95 EUR (original: 26.61 EUR) en el siguiente enlace!

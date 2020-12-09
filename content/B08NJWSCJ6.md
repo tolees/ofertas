@@ -10,8 +10,11 @@ author: ring
 slug: B08NJWSCJ6
 description:
 actualPrice: 5.89 EUR
+currency: EUR
+price: 5.89
 comparePrice: 9.59 EUR
 inStock: true
+prodname: Reshias Funda para Samsung A42  Uno Suave Transparente Dos Cinco Piezas Vistoso  Negro Blanco Azul Rojo Rosado  TPU Silicona Protectora Carcasa Samsung Galaxy A42 5G  6 6 Pulgadas 
 ---
 
 Ahora mismo tienes [Reshias Funda para Samsung A42  Uno Suave Transparente Dos Cinco Piezas Vistoso  Negro Blanco Azul Rojo Rosado  TPU Silicona Protectora Carcasa Samsung Galaxy A42 5G  6 6 Pulgadas ](https://www.amazon.es/dp/B08NJWSCJ6/?tag=tolees-21) a 5.89 EUR (original: 9.59 EUR) (38.58 %  de descuento) en el siguiente enlace!

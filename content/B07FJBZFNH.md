@@ -10,8 +10,11 @@ author: ring
 slug: B07FJBZFNH
 description:
 actualPrice: 47.12 EUR
+currency: EUR
+price: 47.12
 comparePrice: 110 EUR
 inStock: true
+prodname: Burton Elite Cargo Pantalón de Snowboard  Niñas  Azul  Aruba   S
 ---
 
 Tienes [Burton Elite Cargo Pantalón de Snowboard  Niñas  Azul  Aruba   S](https://www.amazon.es/dp/B07FJBZFNH/?tag=tolees-21) con un 57.16 % de descuento con precio de oferta de 47.12 EUR (original: 110 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08BSDMQY3
 description:
 actualPrice: 20.0 EUR
+currency: EUR
+price: 20.0
 comparePrice: 28.38 EUR
 inStock: true
+prodname: Toy Bags Mochila  Unisex niños  Multicolor  31X43X13
 ---
 
 Está [Toy Bags Mochila  Unisex niños  Multicolor  31X43X13](https://www.amazon.es/dp/B08BSDMQY3/?tag=tolees-21) con 29.53 de descuento por 20.0 EUR (original: 28.38 EUR) en el siguiente enlace!

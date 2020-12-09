@@ -10,8 +10,11 @@ author: ring
 slug: B00HF49WXK
 description:
 actualPrice: 40.0 EUR
+currency: EUR
+price: 40.0
 comparePrice: 79.0 EUR
 inStock: true
+prodname: Timex Reloj análogico para Hombre de cuarzo con correa de cuero T49963
 ---
 
 Tienes [Timex Reloj análogico para Hombre de cuarzo con correa de cuero T49963](https://www.amazon.es/dp/B00HF49WXK/?tag=tolees-21) con un 49.37 % de descuento con precio de oferta de 40.0 EUR (original: 79.0 EUR) en el siguiente enlace!

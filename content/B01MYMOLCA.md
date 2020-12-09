@@ -10,8 +10,11 @@ author: ring
 slug: B01MYMOLCA
 description:
 actualPrice: 16.44 EUR
+currency: EUR
+price: 16.44
 comparePrice: 40.53 EUR
 inStock: true
+prodname: Lacor - 27625 - Grill Stilo 24x24cm Aluminio - Gris
 ---
 
 Está [Lacor - 27625 - Grill Stilo 24x24cm Aluminio - Gris](https://www.amazon.es/dp/B01MYMOLCA/?tag=tolees-21) con 59.44 de descuento por 16.44 EUR (original: 40.53 EUR) en el siguiente enlace!

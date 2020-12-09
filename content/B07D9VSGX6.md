@@ -10,8 +10,11 @@ author: ring
 slug: B07D9VSGX6
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 84.95 EUR
 inStock: true
+prodname: Puma Suede Classic+  Zapatillas Unisex Adulto  Negro Black-Firecracker White 38  47 EU
 ---
 
 Ahora mismo tienes [Puma Suede Classic+  Zapatillas Unisex Adulto  Negro Black-Firecracker White 38  47 EU](https://www.amazon.es/dp/B07D9VSGX6/?tag=tolees-21) a 29.95 EUR (original: 84.95 EUR) (64.74 %  de descuento) en el siguiente enlace!

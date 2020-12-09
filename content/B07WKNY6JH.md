@@ -10,8 +10,11 @@ author: ring
 slug: B07WKNY6JH
 description:
 actualPrice: 50.66 EUR
+currency: EUR
+price: 50.66
 comparePrice: 89.95 EUR
 inStock: true
+prodname: MARTINELLI Blucher de Piel Lenny 1384
 ---
 
 Tienes [MARTINELLI Blucher de Piel Lenny 1384](https://www.amazon.es/dp/B07WKNY6JH/?tag=tolees-21) con un 43.68 % de descuento con precio de oferta de 50.66 EUR (original: 89.95 EUR) en el siguiente enlace!

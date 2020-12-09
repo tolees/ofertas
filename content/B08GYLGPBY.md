@@ -10,8 +10,11 @@ author: ring
 slug: B08GYLGPBY
 description:
 actualPrice: 20.49 EUR
+currency: EUR
+price: 20.49
 comparePrice: 50.0 EUR
 inStock: true
+prodname: Hurley M One&Only Crew  L
 ---
 
 Tienes [Hurley M One&Only Crew  L](https://www.amazon.es/dp/B08GYLGPBY/?tag=tolees-21) con un 59.02 % de descuento con precio de oferta de 20.49 EUR (original: 50.0 EUR) en el siguiente enlace!

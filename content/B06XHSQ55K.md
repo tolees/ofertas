@@ -10,8 +10,11 @@ author: ring
 slug: B06XHSQ55K
 description:
 actualPrice: 5.87 EUR
+currency: EUR
+price: 5.87
 comparePrice: 10.95 EUR
 inStock: true
+prodname: Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Blanco/Azul Royal   S
 ---
 
 Está [Joma Tokio II Pantalones Cortos  Hombre  Multicolor  Blanco/Azul Royal   S](https://www.amazon.es/dp/B06XHSQ55K/?tag=tolees-21) con 46.39 de descuento por 5.87 EUR (original: 10.95 EUR) en el siguiente enlace!

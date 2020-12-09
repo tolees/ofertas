@@ -10,8 +10,11 @@ author: ring
 slug: B01B61YOQW
 description:
 actualPrice: 274.87 EUR
+currency: EUR
+price: 274.87
 comparePrice: 590 EUR
 inStock: true
+prodname: FLEX Colchón muelles continuos Habana  90 x 200 cm
 ---
 
 Está [FLEX Colchón muelles continuos Habana  90 x 200 cm](https://www.amazon.es/dp/B01B61YOQW/?tag=tolees-21) con 53.41 de descuento por 274.87 EUR (original: 590 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07YQDSM64
 description:
 actualPrice: 26.66 EUR
+currency: EUR
+price: 26.66
 comparePrice: 95.0 EUR
 inStock: true
+prodname: Kipling Seoul Mochila Escolar  Azul  Robot Camo Pink 
 ---
 
 Tienes [Kipling Seoul Mochila Escolar  Azul  Robot Camo Pink ](https://www.amazon.es/dp/B07YQDSM64/?tag=tolees-21) con un 71.94 % de descuento con precio de oferta de 26.66 EUR (original: 95.0 EUR) en el siguiente enlace!

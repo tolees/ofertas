@@ -10,8 +10,11 @@ author: ring
 slug: B07D7QRRTP
 description:
 actualPrice: 17.73 EUR
+currency: EUR
+price: 17.73
 comparePrice: 49.95 EUR
 inStock: true
+prodname: BOSS Casual Troupe 2  Camiseta Hombre  Blanco  White 100   XX-Large
 ---
 
 Ahora mismo tienes [BOSS Casual Troupe 2  Camiseta Hombre  Blanco  White 100   XX-Large](https://www.amazon.es/dp/B07D7QRRTP/?tag=tolees-21) a 17.73 EUR (original: 49.95 EUR) (64.50 %  de descuento) en el siguiente enlace!

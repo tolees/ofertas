@@ -10,8 +10,11 @@ author: ring
 slug: B07CZQGKM7
 description:
 actualPrice: 15.68 EUR
+currency: EUR
+price: 15.68
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Under Armour UA Big Logo SS Camiseta  Hombre  Gris  Steel Light Heather/Black 036   XL
 ---
 
 Ahora mismo tienes [Under Armour UA Big Logo SS Camiseta  Hombre  Gris  Steel Light Heather/Black 036   XL](https://www.amazon.es/dp/B07CZQGKM7/?tag=tolees-21) a 15.68 EUR (original: 25.99 EUR) (39.67 %  de descuento) en el siguiente enlace!

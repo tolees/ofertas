@@ -10,8 +10,11 @@ author: ring
 slug: B00AWBHD2A
 description:
 actualPrice: 29 EUR
+currency: EUR
+price: 29
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Vulkan Tensión Dinámica Faja Lumbar Ligera  Unisex_Adulto  Negro  L
 ---
 
 Ahora mismo tienes [Vulkan Tensión Dinámica Faja Lumbar Ligera  Unisex_Adulto  Negro  L](https://www.amazon.es/dp/B00AWBHD2A/?tag=tolees-21) a 29 EUR (original: 54.95 EUR) (47.22 %  de descuento) en el siguiente enlace!

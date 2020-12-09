@@ -10,8 +10,11 @@ author: ring
 slug: B01BGTOE78
 description:
 actualPrice: 31.01 EUR
+currency: EUR
+price: 31.01
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-Star Raw Bronson  Pantalones Para Hombre  Azul  Blue Mazarine Blue   W27/L32
 ---
 
 Tienes [G-Star Raw Bronson  Pantalones Para Hombre  Azul  Blue Mazarine Blue   W27/L32](https://www.amazon.es/dp/B01BGTOE78/?tag=tolees-21) con un 68.97 % de descuento con precio de oferta de 31.01 EUR (original: 99.95 EUR) en el siguiente enlace!

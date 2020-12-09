@@ -10,8 +10,11 @@ author: ring
 slug: B074ZHK5SZ
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Unbox - Newbie s Adventure
 ---
 
 Ahora mismo tienes [Unbox - Newbie s Adventure](https://www.amazon.es/dp/B074ZHK5SZ/?tag=tolees-21) a 19.95 EUR (original: 39.99 EUR) (50.11 %  de descuento) en el siguiente enlace!

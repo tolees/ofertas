@@ -10,8 +10,11 @@ author: ring
 slug: B07DHSY6H6
 description:
 actualPrice: 19.86 EUR
+currency: EUR
+price: 19.86
 comparePrice: 49.99 EUR
 inStock: true
+prodname: DC Shoes EDYFB03055_XXL Pants  Hombre  Black
 ---
 
 Está [DC Shoes EDYFB03055_XXL Pants  Hombre  Black](https://www.amazon.es/dp/B07DHSY6H6/?tag=tolees-21) con 60.27 de descuento por 19.86 EUR (original: 49.99 EUR) en el siguiente enlace!

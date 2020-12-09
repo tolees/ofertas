@@ -10,8 +10,11 @@ author: ring
 slug: B07FN5NWNM
 description:
 actualPrice: 28.84 EUR
+currency: EUR
+price: 28.84
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Clarks - The Reed  Shoppers y bolsos de hombro Hombre  Azul  Navy Canvas 
 ---
 
 Ahora mismo tienes [Clarks - The Reed  Shoppers y bolsos de hombro Hombre  Azul  Navy Canvas ](https://www.amazon.es/dp/B07FN5NWNM/?tag=tolees-21) a 28.84 EUR (original: 89.95 EUR) (67.94 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01GGHN4BW
 description:
 actualPrice: 26.59 EUR
+currency: EUR
+price: 26.59
 comparePrice: 82 EUR
 inStock: true
+prodname: Ocean Eye Gafas de Sol  Unisex Adulto   Marrone   52
 ---
 
 Ahora mismo tienes [Ocean Eye Gafas de Sol  Unisex Adulto   Marrone   52](https://www.amazon.es/dp/B01GGHN4BW/?tag=tolees-21) a 26.59 EUR (original: 82 EUR) (67.57 %  de descuento) en el siguiente enlace!

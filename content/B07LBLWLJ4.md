@@ -10,8 +10,11 @@ author: ring
 slug: B07LBLWLJ4
 description:
 actualPrice: 14.48 EUR
+currency: EUR
+price: 14.48
 comparePrice: 29 EUR
 inStock: true
+prodname: Tommy Jeans TJM Box Logo tee Camiseta  Azul  Limoges 434   S para Hombre
 ---
 
 Ahora mismo tienes [Tommy Jeans TJM Box Logo tee Camiseta  Azul  Limoges 434   S para Hombre](https://www.amazon.es/dp/B07LBLWLJ4/?tag=tolees-21) a 14.48 EUR (original: 29 EUR) (50.07 %  de descuento) en el siguiente enlace!

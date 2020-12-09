@@ -10,8 +10,11 @@ author: ring
 slug: B01IP7Z2BQ
 description:
 actualPrice: 34.28 EUR
+currency: EUR
+price: 34.28
 comparePrice: 149 EUR
 inStock: true
+prodname: Benetton 2KN553395  Chaqueta Mujer  Verde  Khaki   44 UK 
 ---
 
 Ahora mismo tienes [Benetton 2KN553395  Chaqueta Mujer  Verde  Khaki   44 UK ](https://www.amazon.es/dp/B01IP7Z2BQ/?tag=tolees-21) a 34.28 EUR (original: 149 EUR) (76.99 %  de descuento) en el siguiente enlace!

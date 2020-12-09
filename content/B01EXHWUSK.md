@@ -10,8 +10,11 @@ author: ring
 slug: B01EXHWUSK
 description:
 actualPrice: 7.58 EUR
+currency: EUR
+price: 7.58
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Scitec Nutrition Gold Standard Curcuminoids vitamina 60 cápsulas
 ---
 
 Tienes [Scitec Nutrition Gold Standard Curcuminoids vitamina 60 cápsulas](https://www.amazon.es/dp/B01EXHWUSK/?tag=tolees-21) con un 49.43 % de descuento con precio de oferta de 7.58 EUR (original: 14.99 EUR) en el siguiente enlace!

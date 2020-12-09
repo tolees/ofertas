@@ -10,8 +10,11 @@ author: ring
 slug: B06XSFJKY3
 description:
 actualPrice: 16.62 EUR
+currency: EUR
+price: 16.62
 comparePrice: 47 EUR
 inStock: true
+prodname: MicroConnect IC-1621-P-1/BL - Cable de Red Flexible  100 m  Color Negro
 ---
 
 Tienes [MicroConnect IC-1621-P-1/BL - Cable de Red Flexible  100 m  Color Negro](https://www.amazon.es/dp/B06XSFJKY3/?tag=tolees-21) con un 64.64 % de descuento con precio de oferta de 16.62 EUR (original: 47 EUR) en el siguiente enlace!

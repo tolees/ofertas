@@ -10,8 +10,11 @@ author: ring
 slug: B07L3GBFD5
 description:
 actualPrice: 22.05 EUR
+currency: EUR
+price: 22.05
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Hilfiger Denim Tommy Jeans Moulded Beach Sandal  Chanclas para Hombre  Azul  Black Iris 431   43 EU
 ---
 
 Ahora mismo tienes [Hilfiger Denim Tommy Jeans Moulded Beach Sandal  Chanclas para Hombre  Azul  Black Iris 431   43 EU](https://www.amazon.es/dp/B07L3GBFD5/?tag=tolees-21) a 22.05 EUR (original: 39.9 EUR) (44.74 %  de descuento) en el siguiente enlace!

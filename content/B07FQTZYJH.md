@@ -10,8 +10,11 @@ author: ring
 slug: B07FQTZYJH
 description:
 actualPrice: 34.57 EUR
+currency: EUR
+price: 34.57
 comparePrice: 110 EUR
 inStock: true
+prodname: Clarks Un Adorn Strap  Mocasines para Mujer  Azul  Navy Combi-   41 EU
 ---
 
 Está [Clarks Un Adorn Strap  Mocasines para Mujer  Azul  Navy Combi-   41 EU](https://www.amazon.es/dp/B07FQTZYJH/?tag=tolees-21) con 68.57 de descuento por 34.57 EUR (original: 110 EUR) en el siguiente enlace!

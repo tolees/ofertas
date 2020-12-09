@@ -10,8 +10,11 @@ author: ring
 slug: B076VNXVDS
 description:
 actualPrice: 27.71 EUR
+currency: EUR
+price: 27.71
 comparePrice: 60 EUR
 inStock: true
+prodname: Under Armour UA Surge  Zapatillas de Running para Hombre  Negro  Black/White/Red   40.5 EU
 ---
 
 Ahora mismo tienes [Under Armour UA Surge  Zapatillas de Running para Hombre  Negro  Black/White/Red   40.5 EU](https://www.amazon.es/dp/B076VNXVDS/?tag=tolees-21) a 27.71 EUR (original: 60 EUR) (53.82 %  de descuento) en el siguiente enlace!

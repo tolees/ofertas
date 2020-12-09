@@ -10,8 +10,11 @@ author: ring
 slug: B07HPCD8ND
 description:
 actualPrice: 43.95 EUR
+currency: EUR
+price: 43.95
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Fila Disruptor  Zapatillas Unisex niños  Blanco  White   34 EU
 ---
 
 Está [Fila Disruptor  Zapatillas Unisex niños  Blanco  White   34 EU](https://www.amazon.es/dp/B07HPCD8ND/?tag=tolees-21) con 26.69 de descuento por 43.95 EUR (original: 59.95 EUR) en el siguiente enlace!

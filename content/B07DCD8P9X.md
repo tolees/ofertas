@@ -10,8 +10,11 @@ author: ring
 slug: B07DCD8P9X
 description:
 actualPrice: 25.06 EUR
+currency: EUR
+price: 25.06
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Puma Breaker LTH  Zapatillas Unisex Adulto  Negro Black White-Indigo Bunting  42.5 EU
 ---
 
 Ahora mismo tienes [Puma Breaker LTH  Zapatillas Unisex Adulto  Negro Black White-Indigo Bunting  42.5 EU](https://www.amazon.es/dp/B07DCD8P9X/?tag=tolees-21) a 25.06 EUR (original: 89.95 EUR) (72.14 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NNZRGCM
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: ENKEEO Silla Hamaca Colgante con 2 Cojínes  Carga Máxima 127kg  Algodón y Poliéster  Columpio Resistente 129.5 x 99 x 114 cm   Kit de Montaje Incluido
 ---
 
 Tienes [ENKEEO Silla Hamaca Colgante con 2 Cojínes  Carga Máxima 127kg  Algodón y Poliéster  Columpio Resistente 129.5 x 99 x 114 cm   Kit de Montaje Incluido](https://www.amazon.es/dp/B07NNZRGCM/?tag=tolees-21) con un 32.01 % de descuento con precio de oferta de 33.99 EUR (original: 49.99 EUR) en el siguiente enlace!

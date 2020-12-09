@@ -10,8 +10,11 @@ author: ring
 slug: B01FIEZU8Y
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Funko Vinyl: A Clockwork Orange: Alex Talla única 10127
 ---
 
 Está [Funko Vinyl: A Clockwork Orange: Alex Talla única 10127](https://www.amazon.es/dp/B01FIEZU8Y/?tag=tolees-21) con 40.03 de descuento por 8.99 EUR (original: 14.99 EUR) en el siguiente enlace!

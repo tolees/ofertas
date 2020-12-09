@@ -10,8 +10,11 @@ author: ring
 slug: B07G4VST1K
 description:
 actualPrice: 46.99 EUR
+currency: EUR
+price: 46.99
 comparePrice: 84.99 EUR
 inStock: true
+prodname: URCERI Amoladora angular con 5 discos de 125 mm  11000rpm  220V  protector de rueda y mango auxiliar regulable de 2 posiciones
 ---
 
 Está [URCERI Amoladora angular con 5 discos de 125 mm  11000rpm  220V  protector de rueda y mango auxiliar regulable de 2 posiciones](https://www.amazon.es/dp/B07G4VST1K/?tag=tolees-21) con 44.71 de descuento por 46.99 EUR (original: 84.99 EUR) en el siguiente enlace!

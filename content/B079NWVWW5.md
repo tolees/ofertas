@@ -10,8 +10,11 @@ author: ring
 slug: B079NWVWW5
 description:
 actualPrice: 104.3 EUR
+currency: EUR
+price: 104.3
 comparePrice: 149 EUR
 inStock: true
+prodname: Hugo Boss Orange Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1550064
 ---
 
 Está [Hugo Boss Orange Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 1550064](https://www.amazon.es/dp/B079NWVWW5/?tag=tolees-21) con 30.00 de descuento por 104.3 EUR (original: 149 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B076XBQXDJ
 description:
 actualPrice: 28.17 EUR
+currency: EUR
+price: 28.17
 comparePrice: 55 EUR
 inStock: true
+prodname: Geox J Kilwi M  Zapatillas para Niñas  Azul  Navy   38 EU
 ---
 
 Ahora mismo tienes [Geox J Kilwi M  Zapatillas para Niñas  Azul  Navy   38 EU](https://www.amazon.es/dp/B076XBQXDJ/?tag=tolees-21) a 28.17 EUR (original: 55 EUR) (48.78 %  de descuento) en el siguiente enlace!

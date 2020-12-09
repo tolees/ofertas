@@ -10,8 +10,11 @@ author: ring
 slug: B06XNWX5S9
 description:
 actualPrice: 11.08 EUR
+currency: EUR
+price: 11.08
 comparePrice: 21.95 EUR
 inStock: true
+prodname: Joma 100761.102 Pantalones  Hombre  Negro/Blanco  XL
 ---
 
 Tienes [Joma 100761.102 Pantalones  Hombre  Negro/Blanco  XL](https://www.amazon.es/dp/B06XNWX5S9/?tag=tolees-21) con un 49.52 % de descuento con precio de oferta de 11.08 EUR (original: 21.95 EUR) en el siguiente enlace!

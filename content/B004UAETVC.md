@@ -10,8 +10,11 @@ author: ring
 slug: B004UAETVC
 description:
 actualPrice: 9.95 EUR
+currency: EUR
+price: 9.95
 comparePrice: 18.16 EUR
 inStock: true
+prodname: Spalding Mid Cut Calcetines  3 Pares  Sin género  Blanco  36-40
 ---
 
 Está [Spalding Mid Cut Calcetines  3 Pares  Sin género  Blanco  36-40](https://www.amazon.es/dp/B004UAETVC/?tag=tolees-21) con 45.21 de descuento por 9.95 EUR (original: 18.16 EUR) en el siguiente enlace!

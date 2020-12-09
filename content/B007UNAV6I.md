@@ -10,8 +10,11 @@ author: ring
 slug: B007UNAV6I
 description:
 actualPrice: 27.88 EUR
+currency: EUR
+price: 27.88
 comparePrice: 50.63 EUR
 inStock: true
+prodname: Casio Reloj de Pulsera LA670WEA-7EF
 ---
 
 Ahora mismo tienes [Casio Reloj de Pulsera LA670WEA-7EF](https://www.amazon.es/dp/B007UNAV6I/?tag=tolees-21) a 27.88 EUR (original: 50.63 EUR) (44.93 %  de descuento) en el siguiente enlace!

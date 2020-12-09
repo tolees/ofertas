@@ -10,8 +10,11 @@ author: ring
 slug: B07KGG6YPC
 description:
 actualPrice: 2.58 EUR
+currency: EUR
+price: 2.58
 comparePrice: 3.99 EUR
 inStock: true
+prodname: Valor  Cacao Ne gro Soluble 70% - 300 gr
 ---
 
 Está [Valor  Cacao Ne gro Soluble 70% - 300 gr](https://www.amazon.es/dp/B07KGG6YPC/?tag=tolees-21) con 35.34 de descuento por 2.58 EUR (original: 3.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07H8VQHJQ
 description:
 actualPrice: 170.99 EUR
+currency: EUR
+price: 170.99
 comparePrice: 249.99 EUR
 inStock: true
+prodname: CUBOT P20 Smartphone 4G Móviles Libres Android 8.0 LTE Pantalla IPS de 6.18" Cámara 20.0 MP + 2 MP Dual SIM Standby ROM 4GB RAM 64GB Bluetooth/GPS/WLAN  Colores 
 ---
 
 Tienes [CUBOT P20 Smartphone 4G Móviles Libres Android 8.0 LTE Pantalla IPS de 6.18" Cámara 20.0 MP + 2 MP Dual SIM Standby ROM 4GB RAM 64GB Bluetooth/GPS/WLAN  Colores ](https://www.amazon.es/dp/B07H8VQHJQ/?tag=tolees-21) con un 31.60 % de descuento con precio de oferta de 170.99 EUR (original: 249.99 EUR) en el siguiente enlace!

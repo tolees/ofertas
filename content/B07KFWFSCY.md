@@ -10,8 +10,11 @@ author: ring
 slug: B07KFWFSCY
 description:
 actualPrice: 23.28 EUR
+currency: EUR
+price: 23.28
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Esprit 019ee2k014  Polo para Hombre  Azul  Navy 400   XX-Large
 ---
 
 Tienes [Esprit 019ee2k014  Polo para Hombre  Azul  Navy 400   XX-Large](https://www.amazon.es/dp/B07KFWFSCY/?tag=tolees-21) con un 35.32 % de descuento con precio de oferta de 23.28 EUR (original: 35.99 EUR) en el siguiente enlace!

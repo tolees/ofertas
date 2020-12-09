@@ -10,8 +10,11 @@ author: ring
 slug: B08HZYGHQM
 description:
 actualPrice: 9.55 EUR
+currency: EUR
+price: 9.55
 comparePrice: 12.75 EUR
 inStock: true
+prodname: Garnier Fructis Tratamiento Nutri Rizos Secado al Aire Crema Sin Aclarado  indicada para Pelo Rizado u Ondulado - Pack de 3 x 400 ml
 ---
 
 Tienes [Garnier Fructis Tratamiento Nutri Rizos Secado al Aire Crema Sin Aclarado  indicada para Pelo Rizado u Ondulado - Pack de 3 x 400 ml](https://www.amazon.es/dp/B08HZYGHQM/?tag=tolees-21) con un 25.10 % de descuento con precio de oferta de 9.55 EUR (original: 12.75 EUR) en el siguiente enlace!

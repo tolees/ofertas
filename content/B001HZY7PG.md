@@ -10,8 +10,11 @@ author: ring
 slug: B001HZY7PG
 description:
 actualPrice: 11.02 EUR
+currency: EUR
+price: 11.02
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Shunga Aceite Afrodisíaco  Aroma de Fresas con Champagne  Color Rosa - 100 ml
 ---
 
 Tienes [Shunga Aceite Afrodisíaco  Aroma de Fresas con Champagne  Color Rosa - 100 ml](https://www.amazon.es/dp/B001HZY7PG/?tag=tolees-21) con un 30.91 % de descuento con precio de oferta de 11.02 EUR (original: 15.95 EUR) en el siguiente enlace!

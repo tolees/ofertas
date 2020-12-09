@@ -10,8 +10,11 @@ author: ring
 slug: B01DUXKANK
 description:
 actualPrice: 4.95 EUR
+currency: EUR
+price: 4.95
 comparePrice: 7.95 EUR
 inStock: true
+prodname: L Oreal Paris Active Antirrugas Colágeno - Crema hidratante de día  50 ml
 ---
 
 Tienes [L Oreal Paris Active Antirrugas Colágeno - Crema hidratante de día  50 ml](https://www.amazon.es/dp/B01DUXKANK/?tag=tolees-21) con un 37.74 % de descuento con precio de oferta de 4.95 EUR (original: 7.95 EUR) en el siguiente enlace!

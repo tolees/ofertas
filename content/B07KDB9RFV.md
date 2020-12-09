@@ -10,8 +10,11 @@ author: ring
 slug: B07KDB9RFV
 description:
 actualPrice: 19.98 EUR
+currency: EUR
+price: 19.98
 comparePrice: 39.95 EUR
 inStock: true
+prodname: adidas Convertible 3 Stripes Duffel Bag S Womens Graphic  Unisex Adulto  Black White  NS
 ---
 
 Tienes [adidas Convertible 3 Stripes Duffel Bag S Womens Graphic  Unisex Adulto  Black White  NS](https://www.amazon.es/dp/B07KDB9RFV/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

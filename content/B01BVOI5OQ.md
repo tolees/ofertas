@@ -10,8 +10,11 @@ author: ring
 slug: B01BVOI5OQ
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Anokay aluminio Bandeja de horno rectangular Torta bandeja ajustable antiadherente para grandes letras alfabeto números DIY bicarbonato formas set cortadores boda bautizo cumpleaños
 ---
 
 Tienes [Anokay aluminio Bandeja de horno rectangular Torta bandeja ajustable antiadherente para grandes letras alfabeto números DIY bicarbonato formas set cortadores boda bautizo cumpleaños](https://www.amazon.es/dp/B01BVOI5OQ/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!

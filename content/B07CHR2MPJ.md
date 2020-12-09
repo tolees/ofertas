@@ -10,8 +10,11 @@ author: ring
 slug: B07CHR2MPJ
 description:
 actualPrice: 18.85 EUR
+currency: EUR
+price: 18.85
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Chupa Chups Original  Caramelo con Palo de Sabores Variados  Lata de 150 unidades de 12 gr.  Total 1.800 gr. 
 ---
 
 Está [Chupa Chups Original  Caramelo con Palo de Sabores Variados  Lata de 150 unidades de 12 gr.  Total 1.800 gr. ](https://www.amazon.es/dp/B07CHR2MPJ/?tag=tolees-21) con 30.16 de descuento por 18.85 EUR (original: 26.99 EUR) en el siguiente enlace!

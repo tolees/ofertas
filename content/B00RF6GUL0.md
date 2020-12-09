@@ -10,8 +10,11 @@ author: ring
 slug: B00RF6GUL0
 description:
 actualPrice: 137.99 EUR
+currency: EUR
+price: 137.99
 comparePrice: 279.0 EUR
 inStock: true
+prodname: Michael Kors Watch MK3192
 ---
 
 Ahora mismo tienes [Michael Kors Watch MK3192](https://www.amazon.es/dp/B00RF6GUL0/?tag=tolees-21) a 137.99 EUR (original: 279.0 EUR) (50.54 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DFDS69G
 description:
 actualPrice: 9.95 EUR
+currency: EUR
+price: 9.95
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Funko – Disney Color Wreck-It-Ralph 2 Color Pop 8   33418 
 ---
 
 Tienes [Funko – Disney Color Wreck-It-Ralph 2 Color Pop 8   33418 ](https://www.amazon.es/dp/B07DFDS69G/?tag=tolees-21) con un 37.62 % de descuento con precio de oferta de 9.95 EUR (original: 15.95 EUR) en el siguiente enlace!

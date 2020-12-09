@@ -10,8 +10,11 @@ author: ring
 slug: B01B6EDZKU
 description:
 actualPrice: 89.99 EUR
+currency: EUR
+price: 89.99
 comparePrice: 178 EUR
 inStock: true
+prodname: Ryobi RSDS750-K
 ---
 
 Tienes [Ryobi RSDS750-K](https://www.amazon.es/dp/B01B6EDZKU/?tag=tolees-21) con un 49.44 % de descuento con precio de oferta de 89.99 EUR (original: 178 EUR) en el siguiente enlace!

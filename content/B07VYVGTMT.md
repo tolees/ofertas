@@ -10,8 +10,11 @@ author: ring
 slug: B07VYVGTMT
 description:
 actualPrice: 25.61 EUR
+currency: EUR
+price: 25.61
 comparePrice: 95.0 EUR
 inStock: true
+prodname: El Naturalista Wakataua  Sandalias con Punta Abierta para Mujer  Amarillo  Curry Curry   36 EU
 ---
 
 Tienes [El Naturalista Wakataua  Sandalias con Punta Abierta para Mujer  Amarillo  Curry Curry   36 EU](https://www.amazon.es/dp/B07VYVGTMT/?tag=tolees-21) con un 73.04 % de descuento con precio de oferta de 25.61 EUR (original: 95.0 EUR) en el siguiente enlace!

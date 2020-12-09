@@ -10,8 +10,11 @@ author: ring
 slug: B07DYTCNK8
 description:
 actualPrice: 12.02 EUR
+currency: EUR
+price: 12.02
 comparePrice: 16.73 EUR
 inStock: true
+prodname: Nike G NP Tank Top  Niñas  White/ Black   c/O   L
 ---
 
 Tienes [Nike G NP Tank Top  Niñas  White/ Black   c/O   L](https://www.amazon.es/dp/B07DYTCNK8/?tag=tolees-21) con un 28.15 % de descuento con precio de oferta de 12.02 EUR (original: 16.73 EUR) en el siguiente enlace!

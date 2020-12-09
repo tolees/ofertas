@@ -10,8 +10,11 @@ author: ring
 slug: B00J4JKOX6
 description:
 actualPrice: 80.0 EUR
+currency: EUR
+price: 80.0
 comparePrice: 115.53 EUR
 inStock: true
+prodname: Invicta 8927OB Pro Diver Reloj Unisex acero inoxidable Automático Esfera negro
 ---
 
 Ahora mismo tienes [Invicta 8927OB Pro Diver Reloj Unisex acero inoxidable Automático Esfera negro](https://www.amazon.es/dp/B00J4JKOX6/?tag=tolees-21) a 80.0 EUR (original: 115.53 EUR) (30.75 %  de descuento) en el siguiente enlace!

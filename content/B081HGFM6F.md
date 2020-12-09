@@ -10,8 +10,11 @@ author: ring
 slug: B081HGFM6F
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Panasonic ER-GC63-H503 - Recortadora eléctrica de precisión para barba  cabello y cuerpo  39 ajustes  con o sin cable  limpieza fácil  acero inoxidable  negro
 ---
 
 Está [Panasonic ER-GC63-H503 - Recortadora eléctrica de precisión para barba  cabello y cuerpo  39 ajustes  con o sin cable  limpieza fácil  acero inoxidable  negro](https://www.amazon.es/dp/B081HGFM6F/?tag=tolees-21) con 41.67 de descuento por 34.99 EUR (original: 59.99 EUR) en el siguiente enlace!

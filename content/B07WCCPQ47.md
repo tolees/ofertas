@@ -10,8 +10,11 @@ author: ring
 slug: B07WCCPQ47
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 44.9 EUR
 inStock: true
+prodname: BaByliss MS22E Multistyle - set moldeador de pelo 10 en 1 para hacer todo tipo de peinados  alisar  ondular  moldear  crimpar  ondas al agua  rizos marcados  ondas abiertas con recubrimiento cerámico
 ---
 
 Ahora mismo tienes [BaByliss MS22E Multistyle - set moldeador de pelo 10 en 1 para hacer todo tipo de peinados  alisar  ondular  moldear  crimpar  ondas al agua  rizos marcados  ondas abiertas con recubrimiento cerámico](https://www.amazon.es/dp/B07WCCPQ47/?tag=tolees-21) a 24.99 EUR (original: 44.9 EUR) (44.34 %  de descuento) en el siguiente enlace!

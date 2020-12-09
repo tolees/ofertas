@@ -10,8 +10,11 @@ author: ring
 slug: B01BMVP9GK
 description:
 actualPrice: 60.05 EUR
+currency: EUR
+price: 60.05
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Béaba Préparateur de Biberon Instantané Bib Expresso  Néon
 ---
 
 Está [Béaba Préparateur de Biberon Instantané Bib Expresso  Néon](https://www.amazon.es/dp/B01BMVP9GK/?tag=tolees-21) con 39.89 de descuento por 60.05 EUR (original: 99.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00U91FNWU
 description:
 actualPrice: 45.99 EUR
+currency: EUR
+price: 45.99
 comparePrice: 75 EUR
 inStock: true
+prodname: Braun MultiMix3 HM3100WH - Batidora de varillas  500 W  5 Velocidades  acero inoxidable  color blanco
 ---
 
 Ahora mismo tienes [Braun MultiMix3 HM3100WH - Batidora de varillas  500 W  5 Velocidades  acero inoxidable  color blanco](https://www.amazon.es/dp/B00U91FNWU/?tag=tolees-21) a 45.99 EUR (original: 75 EUR) (38.68 %  de descuento) en el siguiente enlace!

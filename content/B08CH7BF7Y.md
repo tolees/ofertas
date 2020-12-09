@@ -10,8 +10,11 @@ author: ring
 slug: B08CH7BF7Y
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: Termometro Infrarrojos  KKmier Termómetro Digitales Médico sin Contacto con Pantalla LCD  Termómetro de frente y oído para Bebé  Adultos  Hospital  ℃ y ℉ Conmutable  Alarma de Fiebre
 ---
 
 Ahora mismo tienes [Termometro Infrarrojos  KKmier Termómetro Digitales Médico sin Contacto con Pantalla LCD  Termómetro de frente y oído para Bebé  Adultos  Hospital  ℃ y ℉ Conmutable  Alarma de Fiebre](https://www.amazon.es/dp/B08CH7BF7Y/?tag=tolees-21) a 31.99 EUR (original: 45.99 EUR) (30.44 %  de descuento) en el siguiente enlace!

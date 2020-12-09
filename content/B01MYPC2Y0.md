@@ -10,8 +10,11 @@ author: ring
 slug: B01MYPC2Y0
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 48 EUR
 inStock: true
+prodname: SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno para Mujer Verde ES:105D  EU 90D 
 ---
 
 Ahora mismo tienes [SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno para Mujer Verde ES:105D  EU 90D ](https://www.amazon.es/dp/B01MYPC2Y0/?tag=tolees-21) a 20.99 EUR (original: 48 EUR) (56.27 %  de descuento) en el siguiente enlace!

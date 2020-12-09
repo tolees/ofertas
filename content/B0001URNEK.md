@@ -10,8 +10,11 @@ author: ring
 slug: B0001URNEK
 description:
 actualPrice: 11.34 EUR
+currency: EUR
+price: 11.34
 comparePrice: 18.99 EUR
 inStock: true
+prodname: Wildlife World LBT - Pajarera
 ---
 
 Ahora mismo tienes [Wildlife World LBT - Pajarera](https://www.amazon.es/dp/B0001URNEK/?tag=tolees-21) a 11.34 EUR (original: 18.99 EUR) (40.28 %  de descuento) en el siguiente enlace!

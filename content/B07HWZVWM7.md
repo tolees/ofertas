@@ -10,8 +10,11 @@ author: ring
 slug: B07HWZVWM7
 description:
 actualPrice: 73.64 EUR
+currency: EUR
+price: 73.64
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable EU6073-53A
 ---
 
 Ahora mismo tienes [Citizen Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable EU6073-53A](https://www.amazon.es/dp/B07HWZVWM7/?tag=tolees-21) a 73.64 EUR (original: 99.0 EUR) (25.62 %  de descuento) en el siguiente enlace!

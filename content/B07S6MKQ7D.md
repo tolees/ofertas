@@ -10,8 +10,11 @@ author: ring
 slug: B07S6MKQ7D
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: LaLaAreal Faja Reductora Adelgazante Hombre Neopreno Camiseta Reductora Compresion de Sauna Deportivo
 ---
 
 Está [LaLaAreal Faja Reductora Adelgazante Hombre Neopreno Camiseta Reductora Compresion de Sauna Deportivo](https://www.amazon.es/dp/B07S6MKQ7D/?tag=tolees-21) con 52.02 de descuento por 11.99 EUR (original: 24.99 EUR) en el siguiente enlace!

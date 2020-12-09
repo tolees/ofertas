@@ -10,8 +10,11 @@ author: ring
 slug: B01AVADUIM
 description:
 actualPrice: 3.55 EUR
+currency: EUR
+price: 3.55
 comparePrice: 4.99 EUR
 inStock: true
+prodname: Play-Doh-B6510 Pack 4 Botes  Hasbro B5517    color/modelo surtido
 ---
 
 Ahora mismo tienes [Play-Doh-B6510 Pack 4 Botes  Hasbro B5517    color/modelo surtido](https://www.amazon.es/dp/B01AVADUIM/?tag=tolees-21) a 3.55 EUR (original: 4.99 EUR) (28.86 %  de descuento) en el siguiente enlace!

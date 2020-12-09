@@ -10,8 +10,11 @@ author: ring
 slug: B00TDSL35Q
 description:
 actualPrice: 48.97 EUR
+currency: EUR
+price: 48.97
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Taylor Shine  Botas Estilo Chelsea Mujer  Negro  Black Leather   37 EU
 ---
 
 Está [Clarks Taylor Shine  Botas Estilo Chelsea Mujer  Negro  Black Leather   37 EU](https://www.amazon.es/dp/B00TDSL35Q/?tag=tolees-21) con 51.01 de descuento por 48.97 EUR (original: 99.95 EUR) en el siguiente enlace!

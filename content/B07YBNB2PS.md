@@ -10,8 +10,11 @@ author: ring
 slug: B07YBNB2PS
 description:
 actualPrice: 111.99 EUR
+currency: EUR
+price: 111.99
 comparePrice: 159.95 EUR
 inStock: true
+prodname: Bose SoundLink Mini II  Edición Especial- Altavoz Bluetooth  color Negro
 ---
 
 Está [Bose SoundLink Mini II  Edición Especial- Altavoz Bluetooth  color Negro](https://www.amazon.es/dp/B07YBNB2PS/?tag=tolees-21) con 29.98 de descuento por 111.99 EUR (original: 159.95 EUR) en el siguiente enlace!

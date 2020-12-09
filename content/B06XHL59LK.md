@@ -10,8 +10,11 @@ author: ring
 slug: B06XHL59LK
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 16.7 EUR
 inStock: true
+prodname: Luanvi Gama Polo  Hombre  Negro  XXL
 ---
 
 Ahora mismo tienes [Luanvi Gama Polo  Hombre  Negro  XXL](https://www.amazon.es/dp/B06XHL59LK/?tag=tolees-21) a 4.99 EUR (original: 16.7 EUR) (70.12 %  de descuento) en el siguiente enlace!

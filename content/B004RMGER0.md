@@ -10,8 +10,11 @@ author: ring
 slug: B004RMGER0
 description:
 actualPrice: 19.0 EUR
+currency: EUR
+price: 19.0
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Fossil Joyas para Hombre JF85832040
 ---
 
 Está [Fossil Joyas para Hombre JF85832040](https://www.amazon.es/dp/B004RMGER0/?tag=tolees-21) con 57.78 de descuento por 19.0 EUR (original: 45.0 EUR) en el siguiente enlace!

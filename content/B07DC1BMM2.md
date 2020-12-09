@@ -10,8 +10,11 @@ author: ring
 slug: B07DC1BMM2
 description:
 actualPrice: 29.28 EUR
+currency: EUR
+price: 29.28
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Puma Smash V2 L  Zapatillas Unisex Adulto  Gris  Quarry White   42 EU
 ---
 
 Ahora mismo tienes [Puma Smash V2 L  Zapatillas Unisex Adulto  Gris  Quarry White   42 EU](https://www.amazon.es/dp/B07DC1BMM2/?tag=tolees-21) a 29.28 EUR (original: 49.95 EUR) (41.38 %  de descuento) en el siguiente enlace!

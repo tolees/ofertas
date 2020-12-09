@@ -10,8 +10,11 @@ author: ring
 slug: B07P8P6NYP
 description:
 actualPrice: 118.29 EUR
+currency: EUR
+price: 118.29
 comparePrice: 158.9 EUR
 inStock: true
+prodname: PLAYMOBIL Novelmore Gran Castillo de Novelmore  Entre 5 y 10 Años de edad  70220 
 ---
 
 Está [PLAYMOBIL Novelmore Gran Castillo de Novelmore  Entre 5 y 10 Años de edad  70220 ](https://www.amazon.es/dp/B07P8P6NYP/?tag=tolees-21) con 25.56 de descuento por 118.29 EUR (original: 158.9 EUR) en el siguiente enlace!

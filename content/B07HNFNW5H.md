@@ -10,8 +10,11 @@ author: ring
 slug: B07HNFNW5H
 description:
 actualPrice: 15.59 EUR
+currency: EUR
+price: 15.59
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Sicario Blu-Ray + Uhd 4k [Blu-ray]
 ---
 
 Ahora mismo tienes [Sicario Blu-Ray + Uhd 4k [Blu-ray]](https://www.amazon.es/dp/B07HNFNW5H/?tag=tolees-21) a 15.59 EUR (original: 25.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

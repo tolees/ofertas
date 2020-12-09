@@ -10,8 +10,11 @@ author: ring
 slug: B07F1RYHWN
 description:
 actualPrice: 14.27 EUR
+currency: EUR
+price: 14.27
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Celio Modestaire  Vaqueros Slim para Hombre  Negro Blue Black  W34/L34  Talla del Fabricante: 44 
 ---
 
 Ahora mismo tienes [Celio Modestaire  Vaqueros Slim para Hombre  Negro Blue Black  W34/L34  Talla del Fabricante: 44 ](https://www.amazon.es/dp/B07F1RYHWN/?tag=tolees-21) a 14.27 EUR (original: 29.99 EUR) (52.42 %  de descuento) en el siguiente enlace!

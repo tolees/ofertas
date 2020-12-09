@@ -10,8 +10,11 @@ author: ring
 slug: B074TLFS1F
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 44.99 EUR
 inStock: true
+prodname: AmazonBasics - Balón medicinal  6 kg
 ---
 
 Está [AmazonBasics - Balón medicinal  6 kg](https://www.amazon.es/dp/B074TLFS1F/?tag=tolees-21) con 28.90 de descuento por 31.99 EUR (original: 44.99 EUR) en el siguiente enlace!

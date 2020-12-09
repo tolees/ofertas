@@ -10,8 +10,11 @@ author: ring
 slug: B001O9APXS
 description:
 actualPrice: 83.15 EUR
+currency: EUR
+price: 83.15
 comparePrice: 155 EUR
 inStock: true
+prodname: Panama Jack Panama 03 Wool  Náuticos para Hombre  Marrón  Brown C2   47 EU
 ---
 
 Ahora mismo tienes [Panama Jack Panama 03 Wool  Náuticos para Hombre  Marrón  Brown C2   47 EU](https://www.amazon.es/dp/B001O9APXS/?tag=tolees-21) a 83.15 EUR (original: 155 EUR) (46.35 %  de descuento) en el siguiente enlace!

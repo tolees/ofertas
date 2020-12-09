@@ -10,8 +10,11 @@ author: ring
 slug: B07SWV24HX
 description:
 actualPrice: 26.69 EUR
+currency: EUR
+price: 26.69
 comparePrice: 95.0 EUR
 inStock: true
+prodname: Geox D Sandal Hiver A  Zapatillas sin Cordones Mujer  Gris  Lt Grey C1010   36 EU
 ---
 
 Tienes [Geox D Sandal Hiver A  Zapatillas sin Cordones Mujer  Gris  Lt Grey C1010   36 EU](https://www.amazon.es/dp/B07SWV24HX/?tag=tolees-21) con un 71.91 % de descuento con precio de oferta de 26.69 EUR (original: 95.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07D1KLWL6
 description:
 actualPrice: 31.09 EUR
+currency: EUR
+price: 31.09
 comparePrice: 90 EUR
 inStock: true
+prodname: Asics Fuzetora Twist  Zapatillas de Entrenamiento para Hombre  Gris  Grey/Black 021   42 EU
 ---
 
 Ahora mismo tienes [Asics Fuzetora Twist  Zapatillas de Entrenamiento para Hombre  Gris  Grey/Black 021   42 EU](https://www.amazon.es/dp/B07D1KLWL6/?tag=tolees-21) a 31.09 EUR (original: 90 EUR) (65.46 %  de descuento) en el siguiente enlace!

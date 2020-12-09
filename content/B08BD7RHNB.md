@@ -10,8 +10,11 @@ author: ring
 slug: B08BD7RHNB
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 9.85 EUR
 inStock: true
+prodname: Bourjois Contour Clubbing  Delineador De Ojos  Tono 73 Plum Berry 21 g  99350054008 
 ---
 
 Tienes [Bourjois Contour Clubbing  Delineador De Ojos  Tono 73 Plum Berry 21 g  99350054008 ](https://www.amazon.es/dp/B08BD7RHNB/?tag=tolees-21) con un 39.59 % de descuento con precio de oferta de 5.95 EUR (original: 9.85 EUR) en el siguiente enlace!

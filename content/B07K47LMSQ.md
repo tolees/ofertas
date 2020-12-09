@@ -10,8 +10,11 @@ author: ring
 slug: B07K47LMSQ
 description:
 actualPrice: 3.69 EUR
+currency: EUR
+price: 3.69
 comparePrice: 5.35 EUR
 inStock: true
+prodname: Formulaone Baby Children s Caps Baby Cotton Hats Boys Girls Double-Angle Spring and Autumn Hats Milk Lovely Ox Horn Cap Knitting Baby Hat - Gray
 ---
 
 Ahora mismo tienes [Formulaone Baby Children s Caps Baby Cotton Hats Boys Girls Double-Angle Spring and Autumn Hats Milk Lovely Ox Horn Cap Knitting Baby Hat - Gray](https://www.amazon.es/dp/B07K47LMSQ/?tag=tolees-21) a 3.69 EUR (original: 5.35 EUR) (31.03 %  de descuento) en el siguiente enlace!

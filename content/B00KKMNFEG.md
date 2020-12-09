@@ -10,8 +10,11 @@ author: ring
 slug: B00KKMNFEG
 description:
 actualPrice: 5.01 EUR
+currency: EUR
+price: 5.01
 comparePrice: 16.77 EUR
 inStock: true
+prodname: Edge of Tomorrow - Senza domani [Italia] [Blu-ray]
 ---
 
 Tienes [Edge of Tomorrow - Senza domani [Italia] [Blu-ray]](https://www.amazon.es/dp/B00KKMNFEG/?tag=tolees-21) con un 70.13 % de descuento con precio de oferta de 5.01 EUR (original: 16.77 EUR) en el siguiente enlace!

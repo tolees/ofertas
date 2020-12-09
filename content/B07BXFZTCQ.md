@@ -10,8 +10,11 @@ author: ring
 slug: B07BXFZTCQ
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 30 EUR
 inStock: true
+prodname: SYROKAN Sujetador Deportivo Pecho Cinturón Pecho Soporte de Banda Negro L
 ---
 
 Tienes [SYROKAN Sujetador Deportivo Pecho Cinturón Pecho Soporte de Banda Negro L](https://www.amazon.es/dp/B07BXFZTCQ/?tag=tolees-21) con un 43.37 % de descuento con precio de oferta de 16.99 EUR (original: 30 EUR) en el siguiente enlace!

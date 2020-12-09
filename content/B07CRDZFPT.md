@@ -10,8 +10,11 @@ author: ring
 slug: B07CRDZFPT
 description:
 actualPrice: 15.29 EUR
+currency: EUR
+price: 15.29
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Pepe Jeans Downing suéter    Vert Woods 671   Large para Hombre
 ---
 
 Ahora mismo tienes [Pepe Jeans Downing suéter    Vert Woods 671   Large para Hombre](https://www.amazon.es/dp/B07CRDZFPT/?tag=tolees-21) a 15.29 EUR (original: 69.9 EUR) (78.13 %  de descuento) en el siguiente enlace!

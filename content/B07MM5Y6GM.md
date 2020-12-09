@@ -10,8 +10,11 @@ author: ring
 slug: B07MM5Y6GM
 description:
 actualPrice: 41.59 EUR
+currency: EUR
+price: 41.59
 comparePrice: 100 EUR
 inStock: true
+prodname: Westt® Storm · Casco Moto Integral Motocicleta Ciclomotor y Scooter en Negro Mate · Cascos de Moto Integrales Mujer y Hombre - ECE Homologado
 ---
 
 Ahora mismo tienes [Westt® Storm · Casco Moto Integral Motocicleta Ciclomotor y Scooter en Negro Mate · Cascos de Moto Integrales Mujer y Hombre - ECE Homologado](https://www.amazon.es/dp/B07MM5Y6GM/?tag=tolees-21) a 41.59 EUR (original: 100 EUR) (58.41 %  de descuento) en el siguiente enlace!

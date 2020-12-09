@@ -10,8 +10,11 @@ author: ring
 slug: B07DL2GW2C
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 46.99 EUR
 inStock: true
+prodname: TUOKING Camouflage  Zapatillas de Deporte Unisex Adulto
 ---
 
 Tienes [TUOKING Camouflage  Zapatillas de Deporte Unisex Adulto](https://www.amazon.es/dp/B07DL2GW2C/?tag=tolees-21) con un 29.79 % de descuento con precio de oferta de 32.99 EUR (original: 46.99 EUR) en el siguiente enlace!

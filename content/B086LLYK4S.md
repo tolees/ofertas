@@ -10,8 +10,11 @@ author: ring
 slug: B086LLYK4S
 description:
 actualPrice: 109.52 EUR
+currency: EUR
+price: 109.52
 comparePrice: 150.0 EUR
 inStock: true
+prodname: Sony WHCH710NB - Auriculares inalámbricos Noise Cancelling  Batería 35 h  Carga rápida  Llamadas Manos Libres  diseño Compacto Alrededor de la Oreja  óptimo para Trabajar en casa   Negro
 ---
 
 Tienes [Sony WHCH710NB - Auriculares inalámbricos Noise Cancelling  Batería 35 h  Carga rápida  Llamadas Manos Libres  diseño Compacto Alrededor de la Oreja  óptimo para Trabajar en casa   Negro](https://www.amazon.es/dp/B086LLYK4S/?tag=tolees-21) con un 26.99 % de descuento con precio de oferta de 109.52 EUR (original: 150.0 EUR) en el siguiente enlace!

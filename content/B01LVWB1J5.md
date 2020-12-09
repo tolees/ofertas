@@ -10,8 +10,11 @@ author: ring
 slug: B01LVWB1J5
 description:
 actualPrice: 39.26 EUR
+currency: EUR
+price: 39.26
 comparePrice: 110 EUR
 inStock: true
+prodname: Vans Sk8-hi Reissue  Zapatillas altas Unisex adulto  Negro  Premium Leather   36.5 EU  4 UK 
 ---
 
 Ahora mismo tienes [Vans Sk8-hi Reissue  Zapatillas altas Unisex adulto  Negro  Premium Leather   36.5 EU  4 UK ](https://www.amazon.es/dp/B01LVWB1J5/?tag=tolees-21) a 39.26 EUR (original: 110 EUR) (64.31 %  de descuento) en el siguiente enlace!

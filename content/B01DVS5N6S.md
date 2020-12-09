@@ -10,8 +10,11 @@ author: ring
 slug: B01DVS5N6S
 description:
 actualPrice: 12.91 EUR
+currency: EUR
+price: 12.91
 comparePrice: 18.99 EUR
 inStock: true
+prodname: Joopin Redondas Gafas de sol Polarizadas Retro Vintage John Lennon Círculo Metálico Hippie Steampunk para Hombres y Mujeres UV400 Gris Plateado
 ---
 
 Ahora mismo tienes [Joopin Redondas Gafas de sol Polarizadas Retro Vintage John Lennon Círculo Metálico Hippie Steampunk para Hombres y Mujeres UV400 Gris Plateado](https://www.amazon.es/dp/B01DVS5N6S/?tag=tolees-21) a 12.91 EUR (original: 18.99 EUR) (32.02 %  de descuento) en el siguiente enlace!

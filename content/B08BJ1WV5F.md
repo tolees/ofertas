@@ -10,8 +10,11 @@ author: ring
 slug: B08BJ1WV5F
 description:
 actualPrice: 70.99 EUR
+currency: EUR
+price: 70.99
 comparePrice: 104.41 EUR
 inStock: true
+prodname: SIMPDIY Organizador Zapatos Modular 32 Cubos para 32 Pares Zapatos Organizador  Estantería de Gabinete Modular para Ahorro de Espacio 32 Cubos Negro 35x22x17cm 
 ---
 
 Está [SIMPDIY Organizador Zapatos Modular 32 Cubos para 32 Pares Zapatos Organizador  Estantería de Gabinete Modular para Ahorro de Espacio 32 Cubos Negro 35x22x17cm ](https://www.amazon.es/dp/B08BJ1WV5F/?tag=tolees-21) con 32.01 de descuento por 70.99 EUR (original: 104.41 EUR) en el siguiente enlace!

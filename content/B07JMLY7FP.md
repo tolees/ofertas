@@ -10,8 +10,11 @@ author: ring
 slug: B07JMLY7FP
 description:
 actualPrice: 13 EUR
+currency: EUR
+price: 13
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 32055  Zapatos con Tira de Tobillo para Mujer  Marrón Taupe  39 EU
 ---
 
 Tienes [XTI 32055  Zapatos con Tira de Tobillo para Mujer  Marrón Taupe  39 EU](https://www.amazon.es/dp/B07JMLY7FP/?tag=tolees-21) con un 73.97 % de descuento con precio de oferta de 13 EUR (original: 49.95 EUR) en el siguiente enlace!

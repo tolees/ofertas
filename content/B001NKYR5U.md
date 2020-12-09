@@ -10,8 +10,11 @@ author: ring
 slug: B001NKYR5U
 description:
 actualPrice: 18.61 EUR
+currency: EUR
+price: 18.61
 comparePrice: 25.39 EUR
 inStock: true
+prodname: Brennenstuhl Primera-Line regleta enchufes con 10 tomas corriente y 2 interruptores individuales  cable de 2 m  interruptor iluminado  montable  negro
 ---
 
 Ahora mismo tienes [Brennenstuhl Primera-Line regleta enchufes con 10 tomas corriente y 2 interruptores individuales  cable de 2 m  interruptor iluminado  montable  negro](https://www.amazon.es/dp/B001NKYR5U/?tag=tolees-21) a 18.61 EUR (original: 25.39 EUR) (26.70 %  de descuento) en el siguiente enlace!

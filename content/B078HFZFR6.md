@@ -10,8 +10,11 @@ author: ring
 slug: B078HFZFR6
 description:
 actualPrice: 17.62 EUR
+currency: EUR
+price: 17.62
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Springfield Blazer Flor Hombro Chaqueta de Traje   Varios   40  Tamaño del Fabricante:L  para Mujer
 ---
 
 Tienes [Springfield Blazer Flor Hombro Chaqueta de Traje   Varios   40  Tamaño del Fabricante:L  para Mujer](https://www.amazon.es/dp/B078HFZFR6/?tag=tolees-21) con un 51.04 % de descuento con precio de oferta de 17.62 EUR (original: 35.99 EUR) en el siguiente enlace!

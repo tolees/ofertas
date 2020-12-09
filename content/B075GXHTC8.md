@@ -10,8 +10,11 @@ author: ring
 slug: B075GXHTC8
 description:
 actualPrice: 9.0 EUR
+currency: EUR
+price: 9.0
 comparePrice: 12.0 EUR
 inStock: true
+prodname: winfun - Peluche Gato para bebés que habla y luces de colores  Idioma: Español  85176 
 ---
 
 Ahora mismo tienes [winfun - Peluche Gato para bebés que habla y luces de colores  Idioma: Español  85176 ](https://www.amazon.es/dp/B075GXHTC8/?tag=tolees-21) a 9.0 EUR (original: 12.0 EUR) (25.00 %  de descuento) en el siguiente enlace!

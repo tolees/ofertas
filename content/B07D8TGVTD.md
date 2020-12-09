@@ -10,8 +10,11 @@ author: ring
 slug: B07D8TGVTD
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Eono Essentials 6 Set Cubos de embalaje  3 tamaños diferentes Equipaje de viaje Organizadores de embalaje Borgoña
 ---
 
 Está [Eono Essentials 6 Set Cubos de embalaje  3 tamaños diferentes Equipaje de viaje Organizadores de embalaje Borgoña](https://www.amazon.es/dp/B07D8TGVTD/?tag=tolees-21) con 62.01 de descuento por 18.99 EUR (original: 49.99 EUR) en el siguiente enlace!

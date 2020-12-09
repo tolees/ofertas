@@ -10,8 +10,11 @@ author: ring
 slug: B01DIJICIQ
 description:
 actualPrice: 12.5 EUR
+currency: EUR
+price: 12.5
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Logitech G640 - Alfombrillas de ratón Gaming
 ---
 
 Tienes [Logitech G640 - Alfombrillas de ratón Gaming](https://www.amazon.es/dp/B01DIJICIQ/?tag=tolees-21) con un 49.98 % de descuento con precio de oferta de 12.5 EUR (original: 24.99 EUR) en el siguiente enlace!

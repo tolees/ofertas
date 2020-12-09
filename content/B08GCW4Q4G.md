@@ -10,8 +10,11 @@ author: ring
 slug: B08GCW4Q4G
 description:
 actualPrice: 67.46 EUR
+currency: EUR
+price: 67.46
 comparePrice: 89.95 EUR
 inStock: true
+prodname: IKOHS THERA Easy Latte - Cafetera Express Semiautomática 20b  para Espresso  Cappucino  Macchiato  1100W  Vaporizador Orientable Capacidad 1 5l  Bandeja Goteo Extraíble  Bandeja Calienta Tazas
 ---
 
 Ahora mismo tienes [IKOHS THERA Easy Latte - Cafetera Express Semiautomática 20b  para Espresso  Cappucino  Macchiato  1100W  Vaporizador Orientable Capacidad 1 5l  Bandeja Goteo Extraíble  Bandeja Calienta Tazas](https://www.amazon.es/dp/B08GCW4Q4G/?tag=tolees-21) a 67.46 EUR (original: 89.95 EUR) (25.00 %  de descuento) en el siguiente enlace!

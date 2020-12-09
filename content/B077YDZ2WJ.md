@@ -10,8 +10,11 @@ author: ring
 slug: B077YDZ2WJ
 description:
 actualPrice: 7.78 EUR
+currency: EUR
+price: 7.78
 comparePrice: 17.95 EUR
 inStock: true
+prodname: HIKARO Camiseta con Botones Hombre  Rojo  Burgundy   54  Talla del fabricante: X-Large 
 ---
 
 Ahora mismo tienes [HIKARO Camiseta con Botones Hombre  Rojo  Burgundy   54  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B077YDZ2WJ/?tag=tolees-21) a 7.78 EUR (original: 17.95 EUR) (56.66 %  de descuento) en el siguiente enlace!

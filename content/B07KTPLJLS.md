@@ -10,8 +10,11 @@ author: ring
 slug: B07KTPLJLS
 description:
 actualPrice: 89.0 EUR
+currency: EUR
+price: 89.0
 comparePrice: 121.0 EUR
 inStock: true
+prodname: Tommy Hilfiger Reloj de Pulsera 1782035
 ---
 
 Está [Tommy Hilfiger Reloj de Pulsera 1782035](https://www.amazon.es/dp/B07KTPLJLS/?tag=tolees-21) con 26.45 de descuento por 89.0 EUR (original: 121.0 EUR) en el siguiente enlace!

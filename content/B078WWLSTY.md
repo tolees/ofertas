@@ -10,8 +10,11 @@ author: ring
 slug: B078WWLSTY
 description:
 actualPrice: 249.99 EUR
+currency: EUR
+price: 249.99
 comparePrice: 450.0 EUR
 inStock: true
+prodname: Maclaren Techno XLR WD1G150092 Silla de Paseo  Recién Nacidos hasta los 25 kg  Negro/Plata
 ---
 
 Está [Maclaren Techno XLR WD1G150092 Silla de Paseo  Recién Nacidos hasta los 25 kg  Negro/Plata](https://www.amazon.es/dp/B078WWLSTY/?tag=tolees-21) con 44.45 de descuento por 249.99 EUR (original: 450.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B018PGKUXW
 description:
 actualPrice: 16.44 EUR
+currency: EUR
+price: 16.44
 comparePrice: 23.99 EUR
 inStock: true
+prodname: Weider Vegan Protein  sabor vainilla  proteína 100% vegetal de guisantes  PISANE  y arroz  sin gluten  sin lactosa  sin aceite de palma  750 g 
 ---
 
 Ahora mismo tienes [Weider Vegan Protein  sabor vainilla  proteína 100% vegetal de guisantes  PISANE  y arroz  sin gluten  sin lactosa  sin aceite de palma  750 g ](https://www.amazon.es/dp/B018PGKUXW/?tag=tolees-21) a 16.44 EUR (original: 23.99 EUR) (31.47 %  de descuento) en el siguiente enlace!

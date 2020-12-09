@@ -10,8 +10,11 @@ author: ring
 slug: B07SDH7PC7
 description:
 actualPrice: 11.5 EUR
+currency: EUR
+price: 11.5
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Crocs Literide Stretch Sandal Women  Sandalias de Punta Descubierta para Mujer  Negro  Black/White 066   42/43 EU
 ---
 
 Está [Crocs Literide Stretch Sandal Women  Sandalias de Punta Descubierta para Mujer  Negro  Black/White 066   42/43 EU](https://www.amazon.es/dp/B07SDH7PC7/?tag=tolees-21) con 74.44 de descuento por 11.5 EUR (original: 44.99 EUR) en el siguiente enlace!

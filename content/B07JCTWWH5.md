@@ -10,8 +10,11 @@ author: ring
 slug: B07JCTWWH5
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 54.95 EUR
 inStock: true
+prodname: melysEU Auriculares Inalámbricos Bluetooth con Micrófono Hi-Fi Deep Bass Auriculares Inalámbricos Sobre El Oído  Almohadillas de Protección Cómodo  Blanco 
 ---
 
 Tienes [melysEU Auriculares Inalámbricos Bluetooth con Micrófono Hi-Fi Deep Bass Auriculares Inalámbricos Sobre El Oído  Almohadillas de Protección Cómodo  Blanco ](https://www.amazon.es/dp/B07JCTWWH5/?tag=tolees-21) con un 78.18 % de descuento con precio de oferta de 11.99 EUR (original: 54.95 EUR) en el siguiente enlace!

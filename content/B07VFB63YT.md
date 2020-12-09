@@ -10,8 +10,11 @@ author: ring
 slug: B07VFB63YT
 description:
 actualPrice: 15.97 EUR
+currency: EUR
+price: 15.97
 comparePrice: 30.99 EUR
 inStock: true
+prodname: Romanda - Afeitadora eléctrica para hombre  color morado
 ---
 
 Está [Romanda - Afeitadora eléctrica para hombre  color morado](https://www.amazon.es/dp/B07VFB63YT/?tag=tolees-21) con 48.47 de descuento por 15.97 EUR (original: 30.99 EUR) en el siguiente enlace!

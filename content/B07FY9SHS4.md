@@ -10,8 +10,11 @@ author: ring
 slug: B07FY9SHS4
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 23.9 EUR
 inStock: true
+prodname: Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene  Verde  Olive Green   39/40 EU
 ---
 
 Está [Havaianas Brasil Logo Zehentrenner Unisex-Erwachsene  Verde  Olive Green   39/40 EU](https://www.amazon.es/dp/B07FY9SHS4/?tag=tolees-21) con 37.45 de descuento por 14.95 EUR (original: 23.9 EUR) en el siguiente enlace!

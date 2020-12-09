@@ -10,8 +10,11 @@ author: ring
 slug: B07CZFXFCD
 description:
 actualPrice: 20.0 EUR
+currency: EUR
+price: 20.0
 comparePrice: 40.0 EUR
 inStock: true
+prodname: Under Armour  UNDKU Sportstyle Terry Pantalón  Hombre  Negro  LG
 ---
 
 Está [Under Armour  UNDKU Sportstyle Terry Pantalón  Hombre  Negro  LG](https://www.amazon.es/dp/B07CZFXFCD/?tag=tolees-21) con 50.00 de descuento por 20.0 EUR (original: 40.0 EUR) en el siguiente enlace!

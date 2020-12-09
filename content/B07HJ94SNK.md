@@ -10,8 +10,11 @@ author: ring
 slug: B07HJ94SNK
 description:
 actualPrice: 54.98 EUR
+currency: EUR
+price: 54.98
 comparePrice: 79.99 EUR
 inStock: true
+prodname: MaxKare Masajeador Shiatsu Inalámbrico para Cervicales  Cuello  Hombro  Cintura y Espalda  Batería Recargable  con funcion de calor para uso en Viajes  Hogar y Oficina
 ---
 
 Ahora mismo tienes [MaxKare Masajeador Shiatsu Inalámbrico para Cervicales  Cuello  Hombro  Cintura y Espalda  Batería Recargable  con funcion de calor para uso en Viajes  Hogar y Oficina](https://www.amazon.es/dp/B07HJ94SNK/?tag=tolees-21) a 54.98 EUR (original: 79.99 EUR) (31.27 %  de descuento) en el siguiente enlace!

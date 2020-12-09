@@ -10,8 +10,11 @@ author: ring
 slug: B07TSK31ZZ
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 146.95 EUR
 inStock: true
+prodname: Metaltex XPERT- Batería de Cocina 5 Piezas Alumino Fundido 5 piezas. Antiadherente de Triple Capa ILAG Válida Para Todo Tipo de Cocinas Incluída Inducción
 ---
 
 Ahora mismo tienes [Metaltex XPERT- Batería de Cocina 5 Piezas Alumino Fundido 5 piezas. Antiadherente de Triple Capa ILAG Válida Para Todo Tipo de Cocinas Incluída Inducción](https://www.amazon.es/dp/B07TSK31ZZ/?tag=tolees-21) a 79.99 EUR (original: 146.95 EUR) (45.57 %  de descuento) en el siguiente enlace!

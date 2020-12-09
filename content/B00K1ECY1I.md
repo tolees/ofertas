@@ -10,8 +10,11 @@ author: ring
 slug: B00K1ECY1I
 description:
 actualPrice: 62.37 EUR
+currency: EUR
+price: 62.37
 comparePrice: 84.71 EUR
 inStock: true
+prodname: Disney Store - Figura parlante Darth Vader  La Guerra de las Galaxias
 ---
 
 Ahora mismo tienes [Disney Store - Figura parlante Darth Vader  La Guerra de las Galaxias](https://www.amazon.es/dp/B00K1ECY1I/?tag=tolees-21) a 62.37 EUR (original: 84.71 EUR) (26.37 %  de descuento) en el siguiente enlace!

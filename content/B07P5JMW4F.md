@@ -10,8 +10,11 @@ author: ring
 slug: B07P5JMW4F
 description:
 actualPrice: 9.74 EUR
+currency: EUR
+price: 9.74
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Sabrent Ratón inalámbrico Recargable de 2 4 GHz con resolución Ajustable  MS-RCWM 
 ---
 
 Ahora mismo tienes [Sabrent Ratón inalámbrico Recargable de 2 4 GHz con resolución Ajustable  MS-RCWM ](https://www.amazon.es/dp/B07P5JMW4F/?tag=tolees-21) a 9.74 EUR (original: 12.99 EUR) (25.02 %  de descuento) en el siguiente enlace!

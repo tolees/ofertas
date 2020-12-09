@@ -10,8 +10,11 @@ author: ring
 slug: B01M3NMEZO
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 43.29 EUR
 inStock: true
+prodname: HP  X7W50AA  USB-C Travel Power Adapter 65W Interior 65W Negro adaptador e inversor de corriente - Fuente de alimentación  100-240  50/60  65 W  Interior  Portátil  Negro 
 ---
 
 Está [HP  X7W50AA  USB-C Travel Power Adapter 65W Interior 65W Negro adaptador e inversor de corriente - Fuente de alimentación  100-240  50/60  65 W  Interior  Portátil  Negro ](https://www.amazon.es/dp/B01M3NMEZO/?tag=tolees-21) con 26.10 de descuento por 31.99 EUR (original: 43.29 EUR) en el siguiente enlace!

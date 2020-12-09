@@ -10,8 +10,11 @@ author: ring
 slug: B01LNLN0TM
 description:
 actualPrice: 101 EUR
+currency: EUR
+price: 101
 comparePrice: 195 EUR
 inStock: true
+prodname: Lacoste 2010886 - Reloj de pulsera para hombre
 ---
 
 Tienes [Lacoste 2010886 - Reloj de pulsera para hombre](https://www.amazon.es/dp/B01LNLN0TM/?tag=tolees-21) con un 48.21 % de descuento con precio de oferta de 101 EUR (original: 195 EUR) en el siguiente enlace!

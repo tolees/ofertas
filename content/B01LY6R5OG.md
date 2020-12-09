@@ -10,8 +10,11 @@ author: ring
 slug: B01LY6R5OG
 description:
 actualPrice: 8.35 EUR
+currency: EUR
+price: 8.35
 comparePrice: 25 EUR
 inStock: true
+prodname: Double Agent Short Skirt with Opening ON Front  Falda para Mujer  820 Gris Vigore Oscuro  XS
 ---
 
 Está [Double Agent Short Skirt with Opening ON Front  Falda para Mujer  820 Gris Vigore Oscuro  XS](https://www.amazon.es/dp/B01LY6R5OG/?tag=tolees-21) con 66.60 de descuento por 8.35 EUR (original: 25 EUR) en el siguiente enlace!

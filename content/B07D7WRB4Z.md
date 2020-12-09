@@ -10,8 +10,11 @@ author: ring
 slug: B07D7WRB4Z
 description:
 actualPrice: 33.35 EUR
+currency: EUR
+price: 33.35
 comparePrice: 120.0 EUR
 inStock: true
+prodname: Levi s 512 Slim Taper Vaqueros  Rock Cod  29W / 34L para Hombre
 ---
 
 Está [Levi s 512 Slim Taper Vaqueros  Rock Cod  29W / 34L para Hombre](https://www.amazon.es/dp/B07D7WRB4Z/?tag=tolees-21) con 72.21 de descuento por 33.35 EUR (original: 120.0 EUR) en el siguiente enlace!

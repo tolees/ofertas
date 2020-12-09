@@ -10,8 +10,11 @@ author: ring
 slug: B0799NCKND
 description:
 actualPrice: 18.58 EUR
+currency: EUR
+price: 18.58
 comparePrice: 32.89 EUR
 inStock: true
+prodname: BerryKing soporte de espalda negro Soporte recto para corregir la postura del hombro trasero
 ---
 
 Está [BerryKing soporte de espalda negro Soporte recto para corregir la postura del hombro trasero](https://www.amazon.es/dp/B0799NCKND/?tag=tolees-21) con 43.51 de descuento por 18.58 EUR (original: 32.89 EUR) en el siguiente enlace!

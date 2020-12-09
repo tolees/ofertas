@@ -10,8 +10,11 @@ author: ring
 slug: B079KBB7SX
 description:
 actualPrice: 142.25 EUR
+currency: EUR
+price: 142.25
 comparePrice: 449 EUR
 inStock: true
+prodname: Napapijri Skidoo  Chaqueta  Azul  Plastic B56   Large para Hombre
 ---
 
 Está [Napapijri Skidoo  Chaqueta  Azul  Plastic B56   Large para Hombre](https://www.amazon.es/dp/B079KBB7SX/?tag=tolees-21) con 68.32 de descuento por 142.25 EUR (original: 449 EUR) en el siguiente enlace!

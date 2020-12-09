@@ -10,8 +10,11 @@ author: ring
 slug: B0792FTZYF
 description:
 actualPrice: 48.55 EUR
+currency: EUR
+price: 48.55
 comparePrice: 130 EUR
 inStock: true
+prodname: Asics Gel-Lyte V  Zapatillas para Mujer  Beige Birch 0202  37.5 EU
 ---
 
 Tienes [Asics Gel-Lyte V  Zapatillas para Mujer  Beige Birch 0202  37.5 EU](https://www.amazon.es/dp/B0792FTZYF/?tag=tolees-21) con un 62.65 % de descuento con precio de oferta de 48.55 EUR (original: 130 EUR) en el siguiente enlace!

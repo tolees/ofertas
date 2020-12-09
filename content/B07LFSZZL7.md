@@ -10,8 +10,11 @@ author: ring
 slug: B07LFSZZL7
 description:
 actualPrice: 11.42 EUR
+currency: EUR
+price: 11.42
 comparePrice: 15.84 EUR
 inStock: true
+prodname: Super Wings - Vehículo Transformador | Serie 3 | Avión | BOT | Figura de 5 Pulgadas
 ---
 
 Ahora mismo tienes [Super Wings - Vehículo Transformador | Serie 3 | Avión | BOT | Figura de 5 Pulgadas](https://www.amazon.es/dp/B07LFSZZL7/?tag=tolees-21) a 11.42 EUR (original: 15.84 EUR) (27.90 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07L3FTK4L
 description:
 actualPrice: 69 EUR
+currency: EUR
+price: 69
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Iconic Elba Corporate Ribbon  Sandalias con Plataforma para Mujer  Rojo  RWB 020   38 EU
 ---
 
 Está [Tommy Hilfiger Iconic Elba Corporate Ribbon  Sandalias con Plataforma para Mujer  Rojo  RWB 020   38 EU](https://www.amazon.es/dp/B07L3FTK4L/?tag=tolees-21) con 30.93 de descuento por 69 EUR (original: 99.9 EUR) en el siguiente enlace!

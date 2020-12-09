@@ -10,8 +10,11 @@ author: ring
 slug: B00TXC0MGI
 description:
 actualPrice: 13.91 EUR
+currency: EUR
+price: 13.91
 comparePrice: 39 EUR
 inStock: true
+prodname: Tuscany Silver - Pendiente de plata en forma de serpiente
 ---
 
 Ahora mismo tienes [Tuscany Silver - Pendiente de plata en forma de serpiente](https://www.amazon.es/dp/B00TXC0MGI/?tag=tolees-21) a 13.91 EUR (original: 39 EUR) (64.33 %  de descuento) en el siguiente enlace!

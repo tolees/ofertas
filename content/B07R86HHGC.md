@@ -10,8 +10,11 @@ author: ring
 slug: B07R86HHGC
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Alcatel 5033D 1 2019  Smartphone - Pantalla 5" - Cámara trasera 5MP y frontal  selfie  2MP - Memoria 8GB ROM + 1 RAM - Azul
 ---
 
 Está [Alcatel 5033D 1 2019  Smartphone - Pantalla 5" - Cámara trasera 5MP y frontal  selfie  2MP - Memoria 8GB ROM + 1 RAM - Azul](https://www.amazon.es/dp/B07R86HHGC/?tag=tolees-21) con 27.28 de descuento por 39.99 EUR (original: 54.99 EUR) en el siguiente enlace!

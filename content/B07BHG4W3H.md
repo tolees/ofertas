@@ -10,8 +10,11 @@ author: ring
 slug: B07BHG4W3H
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Blazblue Cross Tag Battle Day One
 ---
 
 Tienes [Blazblue Cross Tag Battle Day One](https://www.amazon.es/dp/B07BHG4W3H/?tag=tolees-21) con un 37.73 % de descuento con precio de oferta de 24.9 EUR (original: 39.99 EUR) en el siguiente enlace!

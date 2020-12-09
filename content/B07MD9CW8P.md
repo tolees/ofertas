@@ -10,8 +10,11 @@ author: ring
 slug: B07MD9CW8P
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 55.99 EUR
 inStock: true
+prodname: Auriculares bluetooth  Auriculares inalámbricos Bluetooth 5.0 Sonido Estéreo Auricular Mini Twins In-Ear Auriculares con Caja de Carga Portátil Y Micrófono Integrado para iPhone y Android
 ---
 
 Está [Auriculares bluetooth  Auriculares inalámbricos Bluetooth 5.0 Sonido Estéreo Auricular Mini Twins In-Ear Auriculares con Caja de Carga Portátil Y Micrófono Integrado para iPhone y Android](https://www.amazon.es/dp/B07MD9CW8P/?tag=tolees-21) con 50.01 de descuento por 27.99 EUR (original: 55.99 EUR) en el siguiente enlace!

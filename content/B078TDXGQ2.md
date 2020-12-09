@@ -10,8 +10,11 @@ author: ring
 slug: B078TDXGQ2
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 36.99 EUR
 inStock: true
+prodname: Mochila cordón KAUKKO Bolsa deportiva unisex para nadar / surfear / viajar / hacer senderismo / yoga  azul 
 ---
 
 Tienes [Mochila cordón KAUKKO Bolsa deportiva unisex para nadar / surfear / viajar / hacer senderismo / yoga  azul ](https://www.amazon.es/dp/B078TDXGQ2/?tag=tolees-21) con un 43.25 % de descuento con precio de oferta de 20.99 EUR (original: 36.99 EUR) en el siguiente enlace!

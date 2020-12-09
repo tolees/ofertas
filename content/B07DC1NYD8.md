@@ -10,8 +10,11 @@ author: ring
 slug: B07DC1NYD8
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 41.99 EUR
 inStock: true
+prodname: DYLH Camiseta Básica para Mujer con Sujetador Incorporado para IR a Gimnasio Fitness Deportes Yoga
 ---
 
 Ahora mismo tienes [DYLH Camiseta Básica para Mujer con Sujetador Incorporado para IR a Gimnasio Fitness Deportes Yoga](https://www.amazon.es/dp/B07DC1NYD8/?tag=tolees-21) a 22.99 EUR (original: 41.99 EUR) (45.25 %  de descuento) en el siguiente enlace!

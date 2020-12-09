@@ -10,8 +10,11 @@ author: ring
 slug: B07KW4B3QX
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 42.99 EUR
 inStock: true
+prodname: Difusor de Aceites Esenciales 300 ml  MENGK Humidificador de Aire Ultrasónico Niebla Congeladores Aromatizante Difusor Aromaterapia con 7-couleurs Cambiantes  parada Automática para Spa/Masaje/Yoga
 ---
 
 Está [Difusor de Aceites Esenciales 300 ml  MENGK Humidificador de Aire Ultrasónico Niebla Congeladores Aromatizante Difusor Aromaterapia con 7-couleurs Cambiantes  parada Automática para Spa/Masaje/Yoga](https://www.amazon.es/dp/B07KW4B3QX/?tag=tolees-21) con 53.50 de descuento por 19.99 EUR (original: 42.99 EUR) en el siguiente enlace!

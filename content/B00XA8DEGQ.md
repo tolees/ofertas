@@ -10,8 +10,11 @@ author: ring
 slug: B00XA8DEGQ
 description:
 actualPrice: 6.77 EUR
+currency: EUR
+price: 6.77
 comparePrice: 10.99 EUR
 inStock: true
+prodname: NIVEA Q10 Power Antiarrugas Cuidado de Día FP15  1 x 50 ml   crema antiarrugas facial  crema hidratante con protector solar 15  crema de día antiedad
 ---
 
 Tienes [NIVEA Q10 Power Antiarrugas Cuidado de Día FP15  1 x 50 ml   crema antiarrugas facial  crema hidratante con protector solar 15  crema de día antiedad](https://www.amazon.es/dp/B00XA8DEGQ/?tag=tolees-21) con un 38.40 % de descuento con precio de oferta de 6.77 EUR (original: 10.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01ESRYAGA
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: ENKEEO Juego de 5 Bandas Elásticas Resistencia 11 Piezas  Cinta Ejercicio  Material de Látex Natural  Vario Nivel Resistencia  Accesorios Completos para Entrenamiento 
 ---
 
 Tienes [ENKEEO Juego de 5 Bandas Elásticas Resistencia 11 Piezas  Cinta Ejercicio  Material de Látex Natural  Vario Nivel Resistencia  Accesorios Completos para Entrenamiento ](https://www.amazon.es/dp/B01ESRYAGA/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

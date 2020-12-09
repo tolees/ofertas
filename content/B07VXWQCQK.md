@@ -10,8 +10,11 @@ author: ring
 slug: B07VXWQCQK
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Pepe Jeans Vestido  Beige  Champagne 835   Large para Mujer
 ---
 
 Ahora mismo tienes [Pepe Jeans Vestido  Beige  Champagne 835   Large para Mujer](https://www.amazon.es/dp/B07VXWQCQK/?tag=tolees-21) a 19.95 EUR (original: 99.0 EUR) (79.85 %  de descuento) en el siguiente enlace!

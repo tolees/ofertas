@@ -10,8 +10,11 @@ author: ring
 slug: B07GSNRY1M
 description:
 actualPrice: 5.43 EUR
+currency: EUR
+price: 5.43
 comparePrice: 7.69 EUR
 inStock: true
+prodname: Yizhet 50 Piezas Imanes de Nevera de Cilindro de neodimio Imanes de Disco de Tierra RARA para artesanías  Manualidades  Hobbies y organización de oficinas  10 * 2 mm 
 ---
 
 Está [Yizhet 50 Piezas Imanes de Nevera de Cilindro de neodimio Imanes de Disco de Tierra RARA para artesanías  Manualidades  Hobbies y organización de oficinas  10 * 2 mm ](https://www.amazon.es/dp/B07GSNRY1M/?tag=tolees-21) con 29.39 de descuento por 5.43 EUR (original: 7.69 EUR) en el siguiente enlace!

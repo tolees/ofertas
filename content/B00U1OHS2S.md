@@ -10,8 +10,11 @@ author: ring
 slug: B00U1OHS2S
 description:
 actualPrice: 61.52 EUR
+currency: EUR
+price: 61.52
 comparePrice: 109.65 EUR
 inStock: true
+prodname: Tesa Assa Abloy 3010286 Cilindro Tesa Seguridad Tx85 /70/ Latonado  35 x 35 mm
 ---
 
 Ahora mismo tienes [Tesa Assa Abloy 3010286 Cilindro Tesa Seguridad Tx85 /70/ Latonado  35 x 35 mm](https://www.amazon.es/dp/B00U1OHS2S/?tag=tolees-21) a 61.52 EUR (original: 109.65 EUR) (43.89 %  de descuento) en el siguiente enlace!

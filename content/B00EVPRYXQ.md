@@ -10,8 +10,11 @@ author: ring
 slug: B00EVPRYXQ
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 15.5 EUR
 inStock: true
+prodname: Calvin Klein Tanga  Negro  Black   Small para Mujer
 ---
 
 Ahora mismo tienes [Calvin Klein Tanga  Negro  Black   Small para Mujer](https://www.amazon.es/dp/B00EVPRYXQ/?tag=tolees-21) a 9.99 EUR (original: 15.5 EUR) (35.55 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B076B2HSKV
 description:
 actualPrice: 165 EUR
+currency: EUR
+price: 165
 comparePrice: 279 EUR
 inStock: true
+prodname: Bébé Confort Axiss Silla infantil giratoria para coche del grupo 1  ajuste extraseguro  reclinable  9 meses - 4 años  9 - 18 kg  rojo  Vivid Red 
 ---
 
 Ahora mismo tienes [Bébé Confort Axiss Silla infantil giratoria para coche del grupo 1  ajuste extraseguro  reclinable  9 meses - 4 años  9 - 18 kg  rojo  Vivid Red ](https://www.amazon.es/dp/B076B2HSKV/?tag=tolees-21) a 165 EUR (original: 279 EUR) (40.86 %  de descuento) en el siguiente enlace!

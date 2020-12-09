@@ -10,8 +10,11 @@ author: ring
 slug: B085C7QGZG
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 30.99 EUR
 inStock: true
+prodname: Yaspark Correa para Runner 2/Runner 3/Spark/Spark 3/Adventurer/Golfer 2  Correa de Silicona Pulsera Deportiva de Repuesto para Correa
 ---
 
 Tienes [Yaspark Correa para Runner 2/Runner 3/Spark/Spark 3/Adventurer/Golfer 2  Correa de Silicona Pulsera Deportiva de Repuesto para Correa](https://www.amazon.es/dp/B085C7QGZG/?tag=tolees-21) con un 25.81 % de descuento con precio de oferta de 22.99 EUR (original: 30.99 EUR) en el siguiente enlace!

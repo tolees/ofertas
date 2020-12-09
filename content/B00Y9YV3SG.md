@@ -10,8 +10,11 @@ author: ring
 slug: B00Y9YV3SG
 description:
 actualPrice: 28.51 EUR
+currency: EUR
+price: 28.51
 comparePrice: 47.91 EUR
 inStock: true
+prodname: Tubo aire raccordato 15 m 10 mm x 17 mm.
 ---
 
 Ahora mismo tienes [Tubo aire raccordato 15 m 10 mm x 17 mm.](https://www.amazon.es/dp/B00Y9YV3SG/?tag=tolees-21) a 28.51 EUR (original: 47.91 EUR) (40.49 %  de descuento) en el siguiente enlace!

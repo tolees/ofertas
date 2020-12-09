@@ -10,8 +10,11 @@ author: ring
 slug: B00IJZYS4W
 description:
 actualPrice: 11.66 EUR
+currency: EUR
+price: 11.66
 comparePrice: 17.59 EUR
 inStock: true
+prodname: Campingaz MiniMaxi - Nevera portátil  30 cm  18 cm  24 cm  Rojo  Amarillo 
 ---
 
 Ahora mismo tienes [Campingaz MiniMaxi - Nevera portátil  30 cm  18 cm  24 cm  Rojo  Amarillo ](https://www.amazon.es/dp/B00IJZYS4W/?tag=tolees-21) a 11.66 EUR (original: 17.59 EUR) (33.71 %  de descuento) en el siguiente enlace!

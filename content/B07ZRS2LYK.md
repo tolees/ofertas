@@ -10,8 +10,11 @@ author: ring
 slug: B07ZRS2LYK
 description:
 actualPrice: 168.99 EUR
+currency: EUR
+price: 168.99
 comparePrice: 259.9 EUR
 inStock: true
+prodname: Samsung Galaxy Watch Active 2 - Smartwatch de Aluminio  40mm  Under Armour  Bluetooth [Versión española]  Color Blanco
 ---
 
 Está [Samsung Galaxy Watch Active 2 - Smartwatch de Aluminio  40mm  Under Armour  Bluetooth [Versión española]  Color Blanco](https://www.amazon.es/dp/B07ZRS2LYK/?tag=tolees-21) con 34.98 de descuento por 168.99 EUR (original: 259.9 EUR) en el siguiente enlace!

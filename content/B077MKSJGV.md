@@ -10,8 +10,11 @@ author: ring
 slug: B077MKSJGV
 description:
 actualPrice: 39.4 EUR
+currency: EUR
+price: 39.4
 comparePrice: 79 EUR
 inStock: true
+prodname: Fossil Unisex adulto FOS 3069/S Gafas de sol  Marrón  GOLD HAVN   51
 ---
 
 Está [Fossil Unisex adulto FOS 3069/S Gafas de sol  Marrón  GOLD HAVN   51](https://www.amazon.es/dp/B077MKSJGV/?tag=tolees-21) con 50.13 de descuento por 39.4 EUR (original: 79 EUR) en el siguiente enlace!

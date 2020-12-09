@@ -10,8 +10,11 @@ author: ring
 slug: B07TNVMGKJ
 description:
 actualPrice: 15.11 EUR
+currency: EUR
+price: 15.11
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Abigail Daisy  Sandalias con Tira Vertical para Mujer  Azul  Blush Leather Blush Leather   41 EU
 ---
 
 Está [Clarks Abigail Daisy  Sandalias con Tira Vertical para Mujer  Azul  Blush Leather Blush Leather   41 EU](https://www.amazon.es/dp/B07TNVMGKJ/?tag=tolees-21) con 81.10 de descuento por 15.11 EUR (original: 79.95 EUR) en el siguiente enlace!

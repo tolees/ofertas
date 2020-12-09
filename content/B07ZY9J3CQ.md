@@ -10,8 +10,11 @@ author: ring
 slug: B07ZY9J3CQ
 description:
 actualPrice: 3.69 EUR
+currency: EUR
+price: 3.69
 comparePrice: 7.79 EUR
 inStock: true
+prodname: Bruni Película Protectora Compatible con Fossil Sport 43mm Protector Película  Claro Lámina Protectora  2X 
 ---
 
 Tienes [Bruni Película Protectora Compatible con Fossil Sport 43mm Protector Película  Claro Lámina Protectora  2X ](https://www.amazon.es/dp/B07ZY9J3CQ/?tag=tolees-21) con un 52.63 % de descuento con precio de oferta de 3.69 EUR (original: 7.79 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NSJL2LX
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 21.6 EUR
 inStock: true
+prodname: MOJIPOPS - Display de 24 figuras coleccionables MojiPops   color/modelo surtido
 ---
 
 Ahora mismo tienes [MOJIPOPS - Display de 24 figuras coleccionables MojiPops   color/modelo surtido](https://www.amazon.es/dp/B07NSJL2LX/?tag=tolees-21) a 15.99 EUR (original: 21.6 EUR) (25.97 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00ACU7OH0
 description:
 actualPrice: 2.9 EUR
+currency: EUR
+price: 2.9
 comparePrice: 4.97 EUR
 inStock: true
+prodname: LogiLink AU0029 - Adaptador USB 2.0  Micro B macho a USB A hembra
 ---
 
 Tienes [LogiLink AU0029 - Adaptador USB 2.0  Micro B macho a USB A hembra](https://www.amazon.es/dp/B00ACU7OH0/?tag=tolees-21) con un 41.65 % de descuento con precio de oferta de 2.9 EUR (original: 4.97 EUR) en el siguiente enlace!

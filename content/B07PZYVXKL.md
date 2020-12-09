@@ -10,8 +10,11 @@ author: ring
 slug: B07PZYVXKL
 description:
 actualPrice: 10.18 EUR
+currency: EUR
+price: 10.18
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Magicfun Alfombrilla de Baño  Extralargo Alfombra para Bañera Antideslizante con 200 Potentes Ventosas  Antibacterial Resistente al Moho  Lavable a Máquina  para Niños Ancianos 100 * 40cm
 ---
 
 Ahora mismo tienes [Magicfun Alfombrilla de Baño  Extralargo Alfombra para Bañera Antideslizante con 200 Potentes Ventosas  Antibacterial Resistente al Moho  Lavable a Máquina  para Niños Ancianos 100 * 40cm](https://www.amazon.es/dp/B07PZYVXKL/?tag=tolees-21) a 10.18 EUR (original: 13.99 EUR) (27.23 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DYWQB19
 description:
 actualPrice: 49.95 EUR
+currency: EUR
+price: 49.95
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Columbia 1562211_M Conjunto de Nieve con Chaqueta para niños  Buga  Azul  Dark Mountain Arrow Print   Talla M
 ---
 
 Está [Columbia 1562211_M Conjunto de Nieve con Chaqueta para niños  Buga  Azul  Dark Mountain Arrow Print   Talla M](https://www.amazon.es/dp/B07DYWQB19/?tag=tolees-21) con 50.05 de descuento por 49.95 EUR (original: 99.99 EUR) en el siguiente enlace!

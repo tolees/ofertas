@@ -10,8 +10,11 @@ author: ring
 slug: B07DKHD5NG
 description:
 actualPrice: 14.5 EUR
+currency: EUR
+price: 14.5
 comparePrice: 29 EUR
 inStock: true
+prodname: Kipling - Creativity L  Monederos Mujer  Multicolor  Dynamic Dots 
 ---
 
 Ahora mismo tienes [Kipling - Creativity L  Monederos Mujer  Multicolor  Dynamic Dots ](https://www.amazon.es/dp/B07DKHD5NG/?tag=tolees-21) a 14.5 EUR (original: 29 EUR) (50.00 %  de descuento) en el siguiente enlace!

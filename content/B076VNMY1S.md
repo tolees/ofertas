@@ -10,8 +10,11 @@ author: ring
 slug: B076VNMY1S
 description:
 actualPrice: 69 EUR
+currency: EUR
+price: 69
 comparePrice: 129.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Slim  Jeans para Hombre  Azul  Ultra Dk Aged 8968-9112   31W/32L
 ---
 
 Está [G-STAR RAW 3301 Slim  Jeans para Hombre  Azul  Ultra Dk Aged 8968-9112   31W/32L](https://www.amazon.es/dp/B076VNMY1S/?tag=tolees-21) con 46.90 de descuento por 69 EUR (original: 129.95 EUR) en el siguiente enlace!

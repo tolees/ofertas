@@ -10,8 +10,11 @@ author: ring
 slug: B000WFBC6E
 description:
 actualPrice: 120.12 EUR
+currency: EUR
+price: 120.12
 comparePrice: 199 EUR
 inStock: true
+prodname: Mondaine A990.CLOCK.16SBB Reloj de pared Analogue
 ---
 
 Tienes [Mondaine A990.CLOCK.16SBB Reloj de pared Analogue](https://www.amazon.es/dp/B000WFBC6E/?tag=tolees-21) con un 39.64 % de descuento con precio de oferta de 120.12 EUR (original: 199 EUR) en el siguiente enlace!

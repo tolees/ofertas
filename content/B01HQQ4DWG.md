@@ -10,8 +10,11 @@ author: ring
 slug: B01HQQ4DWG
 description:
 actualPrice: 108.15 EUR
+currency: EUR
+price: 108.15
 comparePrice: 200 EUR
 inStock: true
+prodname: The North Face Chaqueta Dryzzle  Hombre  Negro  TNF Black   XL
 ---
 
 Está [The North Face Chaqueta Dryzzle  Hombre  Negro  TNF Black   XL](https://www.amazon.es/dp/B01HQQ4DWG/?tag=tolees-21) con 45.92 de descuento por 108.15 EUR (original: 200 EUR) en el siguiente enlace!

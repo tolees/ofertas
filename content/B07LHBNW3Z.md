@@ -10,8 +10,11 @@ author: ring
 slug: B07LHBNW3Z
 description:
 actualPrice: 18.45 EUR
+currency: EUR
+price: 18.45
 comparePrice: 30 EUR
 inStock: true
+prodname: The North Face Reaxion Amp Camiseta de Cuello Redondo  Hombre  Rojo  TNF Red Heather   M
 ---
 
 Está [The North Face Reaxion Amp Camiseta de Cuello Redondo  Hombre  Rojo  TNF Red Heather   M](https://www.amazon.es/dp/B07LHBNW3Z/?tag=tolees-21) con 38.50 de descuento por 18.45 EUR (original: 30 EUR) en el siguiente enlace!

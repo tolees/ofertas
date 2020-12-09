@@ -10,8 +10,11 @@ author: ring
 slug: B08DJ4KNMW
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 53.99 EUR
 inStock: true
+prodname: Hattahh Disco Duro Externo Portátil 2TB  Type C USB3.1 Disco Duro Externo para PC  Mac  Desktop  Laptop  Chromebook  Xbox  Xbox One  2 TB  Azul 
 ---
 
 Tienes [Hattahh Disco Duro Externo Portátil 2TB  Type C USB3.1 Disco Duro Externo para PC  Mac  Desktop  Laptop  Chromebook  Xbox  Xbox One  2 TB  Azul ](https://www.amazon.es/dp/B08DJ4KNMW/?tag=tolees-21) con un 25.93 % de descuento con precio de oferta de 39.99 EUR (original: 53.99 EUR) en el siguiente enlace!

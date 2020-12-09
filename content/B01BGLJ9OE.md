@@ -10,8 +10,11 @@ author: ring
 slug: B01BGLJ9OE
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Trust Urban Primo Powerbank - Batería externa portátil de 8800 mAh  negro
 ---
 
 Ahora mismo tienes [Trust Urban Primo Powerbank - Batería externa portátil de 8800 mAh  negro](https://www.amazon.es/dp/B01BGLJ9OE/?tag=tolees-21) a 9.99 EUR (original: 24.99 EUR) (60.02 %  de descuento) en el siguiente enlace!

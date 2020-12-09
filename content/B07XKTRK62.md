@@ -10,8 +10,11 @@ author: ring
 slug: B07XKTRK62
 description:
 actualPrice: 15.49 EUR
+currency: EUR
+price: 15.49
 comparePrice: 24.95 EUR
 inStock: true
+prodname: PUMA teamGOAL 23 Teambag S Bolsa Deporte  Unisex-Adult  Black  OSFA
 ---
 
 Tienes [PUMA teamGOAL 23 Teambag S Bolsa Deporte  Unisex-Adult  Black  OSFA](https://www.amazon.es/dp/B07XKTRK62/?tag=tolees-21) con un 37.92 % de descuento con precio de oferta de 15.49 EUR (original: 24.95 EUR) en el siguiente enlace!

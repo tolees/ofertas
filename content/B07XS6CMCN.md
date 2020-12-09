@@ -10,8 +10,11 @@ author: ring
 slug: B07XS6CMCN
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Football Manager 2020
 ---
 
 Está [Football Manager 2020](https://www.amazon.es/dp/B07XS6CMCN/?tag=tolees-21) con 61.83 de descuento por 20.99 EUR (original: 54.99 EUR) en el siguiente enlace!

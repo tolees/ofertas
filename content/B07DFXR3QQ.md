@@ -10,8 +10,11 @@ author: ring
 slug: B07DFXR3QQ
 description:
 actualPrice: 20.52 EUR
+currency: EUR
+price: 20.52
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Puma A.C.E. Woven Pants  Hombre  Black  M
 ---
 
 Ahora mismo tienes [Puma A.C.E. Woven Pants  Hombre  Black  M](https://www.amazon.es/dp/B07DFXR3QQ/?tag=tolees-21) a 20.52 EUR (original: 29.95 EUR) (31.49 %  de descuento) en el siguiente enlace!

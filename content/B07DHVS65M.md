@@ -10,8 +10,11 @@ author: ring
 slug: B07DHVS65M
 description:
 actualPrice: 66.93 EUR
+currency: EUR
+price: 66.93
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Quiksilver Estate Snow Pant  Hombre  Daphne  L
 ---
 
 Está [Quiksilver Estate Snow Pant  Hombre  Daphne  L](https://www.amazon.es/dp/B07DHVS65M/?tag=tolees-21) con 48.51 de descuento por 66.93 EUR (original: 129.99 EUR) en el siguiente enlace!

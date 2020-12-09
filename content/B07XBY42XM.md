@@ -10,8 +10,11 @@ author: ring
 slug: B07XBY42XM
 description:
 actualPrice: 76.95 EUR
+currency: EUR
+price: 76.95
 comparePrice: 115.95 EUR
 inStock: true
+prodname: IKOHS THERA Retro - Cafetera Express para Espresso y Cappucino  1100W  15 Bares  Vaporizador Orientable  Capacidad 1.25l  Café Molido y Monodosis  con Doble Salida  Rojo 
 ---
 
 Ahora mismo tienes [IKOHS THERA Retro - Cafetera Express para Espresso y Cappucino  1100W  15 Bares  Vaporizador Orientable  Capacidad 1.25l  Café Molido y Monodosis  con Doble Salida  Rojo ](https://www.amazon.es/dp/B07XBY42XM/?tag=tolees-21) a 76.95 EUR (original: 115.95 EUR) (33.64 %  de descuento) en el siguiente enlace!

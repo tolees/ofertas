@@ -10,8 +10,11 @@ author: ring
 slug: B00VXMQNFK
 description:
 actualPrice: 34.98 EUR
+currency: EUR
+price: 34.98
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR 3301 Tapered - Pantalones Vaqueros Hombre  color negro  talla W32/L32
 ---
 
 Tienes [G-STAR 3301 Tapered - Pantalones Vaqueros Hombre  color negro  talla W32/L32](https://www.amazon.es/dp/B00VXMQNFK/?tag=tolees-21) con un 65.00 % de descuento con precio de oferta de 34.98 EUR (original: 99.95 EUR) en el siguiente enlace!

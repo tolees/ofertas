@@ -10,8 +10,11 @@ author: ring
 slug: B00JGNZWDM
 description:
 actualPrice: 39.6 EUR
+currency: EUR
+price: 39.6
 comparePrice: 89 EUR
 inStock: true
+prodname: Pikolinos Oviedo 08F  Zapatos de Cordones Oxford para Hombre  Marrón Olmo  47 EU
 ---
 
 Está [Pikolinos Oviedo 08F  Zapatos de Cordones Oxford para Hombre  Marrón Olmo  47 EU](https://www.amazon.es/dp/B00JGNZWDM/?tag=tolees-21) con 55.51 de descuento por 39.6 EUR (original: 89 EUR) en el siguiente enlace!

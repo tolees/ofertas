@@ -10,8 +10,11 @@ author: ring
 slug: B00XWV7PIO
 description:
 actualPrice: 89.0 EUR
+currency: EUR
+price: 89.0
 comparePrice: 149.0 EUR
 inStock: true
+prodname: Festina Reloj de Vestir F16865/1
 ---
 
 Tienes [Festina Reloj de Vestir F16865/1](https://www.amazon.es/dp/B00XWV7PIO/?tag=tolees-21) con un 40.27 % de descuento con precio de oferta de 89.0 EUR (original: 149.0 EUR) en el siguiente enlace!

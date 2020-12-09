@@ -10,8 +10,11 @@ author: ring
 slug: B01LZAOXT8
 description:
 actualPrice: 36.29 EUR
+currency: EUR
+price: 36.29
 comparePrice: 100.87 EUR
 inStock: true
+prodname: HS Rice Paper Vietnamese - Paquete de 40 x 500 gr - Total: 20000 gr
 ---
 
 Está [HS Rice Paper Vietnamese - Paquete de 40 x 500 gr - Total: 20000 gr](https://www.amazon.es/dp/B01LZAOXT8/?tag=tolees-21) con 64.02 de descuento por 36.29 EUR (original: 100.87 EUR) en el siguiente enlace!

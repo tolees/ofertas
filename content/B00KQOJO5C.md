@@ -10,8 +10,11 @@ author: ring
 slug: B00KQOJO5C
 description:
 actualPrice: 7.07 EUR
+currency: EUR
+price: 7.07
 comparePrice: 15.68 EUR
 inStock: true
+prodname: SEAC SUB Seacsub - Haway Plus Beach Shoes  color 0  talla EU 26-27
 ---
 
 Ahora mismo tienes [SEAC SUB Seacsub - Haway Plus Beach Shoes  color 0  talla EU 26-27](https://www.amazon.es/dp/B00KQOJO5C/?tag=tolees-21) a 7.07 EUR (original: 15.68 EUR) (54.91 %  de descuento) en el siguiente enlace!

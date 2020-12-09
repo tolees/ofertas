@@ -10,8 +10,11 @@ author: ring
 slug: B077MTKN4V
 description:
 actualPrice: 28.18 EUR
+currency: EUR
+price: 28.18
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Puma Enzo Strap Mesh  Zapatillas de Cross para Hombre  Rojo  Red Dahlia Black   43 EU
 ---
 
 Está [Puma Enzo Strap Mesh  Zapatillas de Cross para Hombre  Rojo  Red Dahlia Black   43 EU](https://www.amazon.es/dp/B077MTKN4V/?tag=tolees-21) con 59.71 de descuento por 28.18 EUR (original: 69.95 EUR) en el siguiente enlace!

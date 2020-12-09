@@ -10,8 +10,11 @@ author: ring
 slug: B000K2PDSW
 description:
 actualPrice: 15.7 EUR
+currency: EUR
+price: 15.7
 comparePrice: 25 EUR
 inStock: true
+prodname: Mannesmann - M27405 - Juego de llaves de carraca
 ---
 
 Está [Mannesmann - M27405 - Juego de llaves de carraca](https://www.amazon.es/dp/B000K2PDSW/?tag=tolees-21) con 37.20 de descuento por 15.7 EUR (original: 25 EUR) en el siguiente enlace!

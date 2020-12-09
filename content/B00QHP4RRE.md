@@ -10,8 +10,11 @@ author: ring
 slug: B00QHP4RRE
 description:
 actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
 comparePrice: 17.9 EUR
 inStock: true
+prodname: Joma Victory Chaqueta Chándal  Niños  Multicolor  Azul Marino/Rojo   4 años
 ---
 
 Tienes [Joma Victory Chaqueta Chándal  Niños  Multicolor  Azul Marino/Rojo   4 años](https://www.amazon.es/dp/B00QHP4RRE/?tag=tolees-21) con un 55.59 % de descuento con precio de oferta de 7.95 EUR (original: 17.9 EUR) en el siguiente enlace!

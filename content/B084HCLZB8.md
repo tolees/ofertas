@@ -10,8 +10,11 @@ author: ring
 slug: B084HCLZB8
 description:
 actualPrice: 7.25 EUR
+currency: EUR
+price: 7.25
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Educa- Animales Disney 5 Puzzles Orogresivos de 3 a 5 Piezas  Multicolor  18591 
 ---
 
 Tienes [Educa- Animales Disney 5 Puzzles Orogresivos de 3 a 5 Piezas  Multicolor  18591 ](https://www.amazon.es/dp/B084HCLZB8/?tag=tolees-21) con un 27.43 % de descuento con precio de oferta de 7.25 EUR (original: 9.99 EUR) en el siguiente enlace!

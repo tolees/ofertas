@@ -10,8 +10,11 @@ author: ring
 slug: B07KQ9WV8F
 description:
 actualPrice: 13.6 EUR
+currency: EUR
+price: 13.6
 comparePrice: 24.99 EUR
 inStock: true
+prodname: adidas Essentials AOP Tights  1/1   Niñas  Grey Five/Black/White  14-15A
 ---
 
 Ahora mismo tienes [adidas Essentials AOP Tights  1/1   Niñas  Grey Five/Black/White  14-15A](https://www.amazon.es/dp/B07KQ9WV8F/?tag=tolees-21) a 13.6 EUR (original: 24.99 EUR) (45.58 %  de descuento) en el siguiente enlace!

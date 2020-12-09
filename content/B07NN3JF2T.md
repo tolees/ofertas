@@ -10,8 +10,11 @@ author: ring
 slug: B07NN3JF2T
 description:
 actualPrice: 9.1 EUR
+currency: EUR
+price: 9.1
 comparePrice: 14.9 EUR
 inStock: true
+prodname: L Oréal Paris Revitalift Filler Ampollas Rellenadoras  Para 7 Días  Con Ácido Hialurónico Puro  7 Unidades  1 3 ml
 ---
 
 Ahora mismo tienes [L Oréal Paris Revitalift Filler Ampollas Rellenadoras  Para 7 Días  Con Ácido Hialurónico Puro  7 Unidades  1 3 ml](https://www.amazon.es/dp/B07NN3JF2T/?tag=tolees-21) a 9.1 EUR (original: 14.9 EUR) (38.93 %  de descuento) en el siguiente enlace!

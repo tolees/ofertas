@@ -10,8 +10,11 @@ author: ring
 slug: B01HFSZ8JC
 description:
 actualPrice: 38.89 EUR
+currency: EUR
+price: 38.89
 comparePrice: 57.49 EUR
 inStock: true
+prodname: Adidas Sneakers  Zapatillas para Hombre  Negro  Core Black/Blue/Footwear White 0   41 1/3 EU
 ---
 
 Tienes [Adidas Sneakers  Zapatillas para Hombre  Negro  Core Black/Blue/Footwear White 0   41 1/3 EU](https://www.amazon.es/dp/B01HFSZ8JC/?tag=tolees-21) con un 32.35 % de descuento con precio de oferta de 38.89 EUR (original: 57.49 EUR) en el siguiente enlace!

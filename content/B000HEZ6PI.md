@@ -10,8 +10,11 @@ author: ring
 slug: B000HEZ6PI
 description:
 actualPrice: 179.99 EUR
+currency: EUR
+price: 179.99
 comparePrice: 600 EUR
 inStock: true
+prodname: Nobo 1901956 - Pantalla de proyección portátil 160 x 120 cm
 ---
 
 Está [Nobo 1901956 - Pantalla de proyección portátil 160 x 120 cm](https://www.amazon.es/dp/B000HEZ6PI/?tag=tolees-21) con 70.00 de descuento por 179.99 EUR (original: 600 EUR) en el siguiente enlace!

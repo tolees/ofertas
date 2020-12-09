@@ -10,8 +10,11 @@ author: ring
 slug: B07D9TV6HS
 description:
 actualPrice: 33.67 EUR
+currency: EUR
+price: 33.67
 comparePrice: 74.95 EUR
 inStock: true
+prodname: adidas CF Advantage Cl  Zapatillas para Hombre  Blanco  Footwear White/Maroon/Gum 0   44 2/3 EU
 ---
 
 Está [adidas CF Advantage Cl  Zapatillas para Hombre  Blanco  Footwear White/Maroon/Gum 0   44 2/3 EU](https://www.amazon.es/dp/B07D9TV6HS/?tag=tolees-21) con 55.08 de descuento por 33.67 EUR (original: 74.95 EUR) en el siguiente enlace!

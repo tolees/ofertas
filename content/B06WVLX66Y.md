@@ -10,8 +10,11 @@ author: ring
 slug: B06WVLX66Y
 description:
 actualPrice: 11.96 EUR
+currency: EUR
+price: 11.96
 comparePrice: 22.2 EUR
 inStock: true
+prodname: PLAYMOBIL City Life Habitación Infantil  a Partir de 4 Años  9270 
 ---
 
 Está [PLAYMOBIL City Life Habitación Infantil  a Partir de 4 Años  9270 ](https://www.amazon.es/dp/B06WVLX66Y/?tag=tolees-21) con 46.13 de descuento por 11.96 EUR (original: 22.2 EUR) en el siguiente enlace!

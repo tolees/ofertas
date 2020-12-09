@@ -10,8 +10,11 @@ author: ring
 slug: B07B6Z7KKX
 description:
 actualPrice: 48.28 EUR
+currency: EUR
+price: 48.28
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance Nitrel v2  Zapatillas de Running para Asfalto para Hombre  Rojo  Team Red/Black/Magnet Lr2   42.5 EU
 ---
 
 Está [New Balance Nitrel v2  Zapatillas de Running para Asfalto para Hombre  Rojo  Team Red/Black/Magnet Lr2   42.5 EU](https://www.amazon.es/dp/B07B6Z7KKX/?tag=tolees-21) con 46.36 de descuento por 48.28 EUR (original: 90 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JVL5BVV
 description:
 actualPrice: 8.14 EUR
+currency: EUR
+price: 8.14
 comparePrice: 14.95 EUR
 inStock: true
+prodname: Funko - 5 Star: Fortnite Zoey Vinyl Figure  Multicolor  Estándar
 ---
 
 Está [Funko - 5 Star: Fortnite Zoey Vinyl Figure  Multicolor  Estándar](https://www.amazon.es/dp/B07JVL5BVV/?tag=tolees-21) con 45.55 de descuento por 8.14 EUR (original: 14.95 EUR) en el siguiente enlace!

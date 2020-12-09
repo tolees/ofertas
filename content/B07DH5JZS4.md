@@ -10,8 +10,11 @@ author: ring
 slug: B07DH5JZS4
 description:
 actualPrice: 30.91 EUR
+currency: EUR
+price: 30.91
 comparePrice: 69.95 EUR
 inStock: true
+prodname: adidas RUN70S  Zapatillas de Running para Hombre  Rojo Hi/Res Red S18/Ftwr White/Scarlet  44 EU
 ---
 
 Ahora mismo tienes [adidas RUN70S  Zapatillas de Running para Hombre  Rojo Hi/Res Red S18/Ftwr White/Scarlet  44 EU](https://www.amazon.es/dp/B07DH5JZS4/?tag=tolees-21) a 30.91 EUR (original: 69.95 EUR) (55.81 %  de descuento) en el siguiente enlace!

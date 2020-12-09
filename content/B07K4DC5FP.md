@@ -10,8 +10,11 @@ author: ring
 slug: B07K4DC5FP
 description:
 actualPrice: 15.3 EUR
+currency: EUR
+price: 15.3
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Tom Tailor Casual 1007929 Camisa  Azul  Navy Aral Blue Glenc 15766   X-Large para Hombre
 ---
 
 Tienes [Tom Tailor Casual 1007929 Camisa  Azul  Navy Aral Blue Glenc 15766   X-Large para Hombre](https://www.amazon.es/dp/B07K4DC5FP/?tag=tolees-21) con un 61.74 % de descuento con precio de oferta de 15.3 EUR (original: 39.99 EUR) en el siguiente enlace!

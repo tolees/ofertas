@@ -10,8 +10,11 @@ author: ring
 slug: B005I3QLDO
 description:
 actualPrice: 1.29 EUR
+currency: EUR
+price: 1.29
 comparePrice: 2.01 EUR
 inStock: true
+prodname: Gullón - Galleta sin azúcar Digestive Diet Nature 400g
 ---
 
 Tienes [Gullón - Galleta sin azúcar Digestive Diet Nature 400g](https://www.amazon.es/dp/B005I3QLDO/?tag=tolees-21) con un 35.82 % de descuento con precio de oferta de 1.29 EUR (original: 2.01 EUR) en el siguiente enlace!

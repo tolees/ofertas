@@ -10,8 +10,11 @@ author: ring
 slug: B01GFXXDTU
 description:
 actualPrice: 31.16 EUR
+currency: EUR
+price: 31.16
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox Donna Euxo  Mocasines para Mujer  Marrón  Chestnut C6004   36.5 EU
 ---
 
 Está [Geox Donna Euxo  Mocasines para Mujer  Marrón  Chestnut C6004   36.5 EU](https://www.amazon.es/dp/B01GFXXDTU/?tag=tolees-21) con 68.81 de descuento por 31.16 EUR (original: 99.9 EUR) en el siguiente enlace!

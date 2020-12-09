@@ -10,8 +10,11 @@ author: ring
 slug: B082WGGVVX
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 50.0 EUR
 inStock: true
+prodname: GREAT ART Juego de 2 Carteles XXL habitación niños - Animales de la Selva - Cada uno ilustración Selva Aventura Elefante Mono león Cartel fotográfico Mural cómico  140 x 100 cm 
 ---
 
 Tienes [GREAT ART Juego de 2 Carteles XXL habitación niños - Animales de la Selva - Cada uno ilustración Selva Aventura Elefante Mono león Cartel fotográfico Mural cómico  140 x 100 cm ](https://www.amazon.es/dp/B082WGGVVX/?tag=tolees-21) con un 40.20 % de descuento con precio de oferta de 29.9 EUR (original: 50.0 EUR) en el siguiente enlace!

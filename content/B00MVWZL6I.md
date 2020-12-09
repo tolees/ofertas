@@ -10,8 +10,11 @@ author: ring
 slug: B00MVWZL6I
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Crock-Pot SCV400RD Olla de cocción Lenta Manual para Preparar Multitud de Recetas  210 W  3.5 litros  Acero Inoxidable  Rojo
 ---
 
 Ahora mismo tienes [Crock-Pot SCV400RD Olla de cocción Lenta Manual para Preparar Multitud de Recetas  210 W  3.5 litros  Acero Inoxidable  Rojo](https://www.amazon.es/dp/B00MVWZL6I/?tag=tolees-21) a 25.99 EUR (original: 44.99 EUR) (42.23 %  de descuento) en el siguiente enlace!

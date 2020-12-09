@@ -10,8 +10,11 @@ author: ring
 slug: B07D9DKSXB
 description:
 actualPrice: 60.91 EUR
+currency: EUR
+price: 60.91
 comparePrice: 119.98 EUR
 inStock: true
+prodname: Bizak - Luvabella Muñeca Interactiva
 ---
 
 Está [Bizak - Luvabella Muñeca Interactiva](https://www.amazon.es/dp/B07D9DKSXB/?tag=tolees-21) con 49.23 de descuento por 60.91 EUR (original: 119.98 EUR) en el siguiente enlace!

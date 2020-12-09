@@ -10,8 +10,11 @@ author: ring
 slug: B01LZJMAP8
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Rhodesy 28 en 1 Caso del Capítulo de Xiaomi Yi 4K/4K+ Yi Lite Vivienda de Protección Accesorios Bundle para Xiaomi Yi Acción 4K/4K+ Yi Lite Cámara 2
 ---
 
 Está [Rhodesy 28 en 1 Caso del Capítulo de Xiaomi Yi 4K/4K+ Yi Lite Vivienda de Protección Accesorios Bundle para Xiaomi Yi Acción 4K/4K+ Yi Lite Cámara 2](https://www.amazon.es/dp/B01LZJMAP8/?tag=tolees-21) con 33.35 de descuento por 17.99 EUR (original: 26.99 EUR) en el siguiente enlace!

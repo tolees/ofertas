@@ -10,8 +10,11 @@ author: ring
 slug: B085XVX7ZZ
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Exfoliante Pies  Mascarilla de Pies  Foot Peel Mask  Natural Exfoliantes de Pies Peeling Quita Callos Elimina Piel Muerta Soft Baby Feet para Hombres y Mujeres
 ---
 
 Está [Exfoliante Pies  Mascarilla de Pies  Foot Peel Mask  Natural Exfoliantes de Pies Peeling Quita Callos Elimina Piel Muerta Soft Baby Feet para Hombres y Mujeres](https://www.amazon.es/dp/B085XVX7ZZ/?tag=tolees-21) con 25.02 de descuento por 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!

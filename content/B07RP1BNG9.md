@@ -10,8 +10,11 @@ author: ring
 slug: B07RP1BNG9
 description:
 actualPrice: 16.9 EUR
+currency: EUR
+price: 16.9
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Ghost Recon - Figura Nomad Breakpoint
 ---
 
 Ahora mismo tienes [Ghost Recon - Figura Nomad Breakpoint](https://www.amazon.es/dp/B07RP1BNG9/?tag=tolees-21) a 16.9 EUR (original: 59.95 EUR) (71.81 %  de descuento) en el siguiente enlace!

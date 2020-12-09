@@ -10,8 +10,11 @@ author: ring
 slug: B087VHCTK6
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Columbia Roffe Ridge II Forro Polar  Mujer  Azul  Canyon Blue  Dark Nocturnal   M
 ---
 
 Ahora mismo tienes [Columbia Roffe Ridge II Forro Polar  Mujer  Azul  Canyon Blue  Dark Nocturnal   M](https://www.amazon.es/dp/B087VHCTK6/?tag=tolees-21) a 33.99 EUR (original: 79.99 EUR) (57.51 %  de descuento) en el siguiente enlace!

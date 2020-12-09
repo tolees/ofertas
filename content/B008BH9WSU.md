@@ -10,8 +10,11 @@ author: ring
 slug: B008BH9WSU
 description:
 actualPrice: 8.95 EUR
+currency: EUR
+price: 8.95
 comparePrice: 22.24 EUR
 inStock: true
+prodname: Spalding MVP Shorts - Pantalones cortos de baloncesto unisex  color rojo/blanco  talla XS
 ---
 
 Tienes [Spalding MVP Shorts - Pantalones cortos de baloncesto unisex  color rojo/blanco  talla XS](https://www.amazon.es/dp/B008BH9WSU/?tag=tolees-21) con un 59.76 % de descuento con precio de oferta de 8.95 EUR (original: 22.24 EUR) en el siguiente enlace!

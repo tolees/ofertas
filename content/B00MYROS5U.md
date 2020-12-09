@@ -10,8 +10,11 @@ author: ring
 slug: B00MYROS5U
 description:
 actualPrice: 20.69 EUR
+currency: EUR
+price: 20.69
 comparePrice: 32.13 EUR
 inStock: true
+prodname: Intel 3160.HMWWB.R - Adaptador para Bluetooth Dual Band WiFi AC 3160
 ---
 
 Tienes [Intel 3160.HMWWB.R - Adaptador para Bluetooth Dual Band WiFi AC 3160](https://www.amazon.es/dp/B00MYROS5U/?tag=tolees-21) con un 35.61 % de descuento con precio de oferta de 20.69 EUR (original: 32.13 EUR) en el siguiente enlace!

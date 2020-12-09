@@ -10,8 +10,11 @@ author: ring
 slug: B07HFF9WBR
 description:
 actualPrice: 1.97 EUR
+currency: EUR
+price: 1.97
 comparePrice: 3.55 EUR
 inStock: true
+prodname: 1 Pieza Vainas de Filtro de Café Recargable Reutilizable Productos de Cafeteras
 ---
 
 Ahora mismo tienes [1 Pieza Vainas de Filtro de Café Recargable Reutilizable Productos de Cafeteras](https://www.amazon.es/dp/B07HFF9WBR/?tag=tolees-21) a 1.97 EUR (original: 3.55 EUR) (44.51 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07M7DVKCN
 description:
 actualPrice: 22.17 EUR
+currency: EUR
+price: 22.17
 comparePrice: 30.0 EUR
 inStock: true
+prodname: NIKE Club19 Camiseta de Manga Corta  Hombre  Charcoal Heathr/White  S
 ---
 
 Tienes [NIKE Club19 Camiseta de Manga Corta  Hombre  Charcoal Heathr/White  S](https://www.amazon.es/dp/B07M7DVKCN/?tag=tolees-21) con un 26.10 % de descuento con precio de oferta de 22.17 EUR (original: 30.0 EUR) en el siguiente enlace!

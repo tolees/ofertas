@@ -10,8 +10,11 @@ author: ring
 slug: B07S57QRPB
 description:
 actualPrice: 89.99 EUR
+currency: EUR
+price: 89.99
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Philips Sonicare ExpertClean HX9601/02 - Cepillo de dientes eléctrico con sensor de presión  reconocimiento inteligente de cabezal  3 modos de limpieza y estuche de viaje  color negro
 ---
 
 Está [Philips Sonicare ExpertClean HX9601/02 - Cepillo de dientes eléctrico con sensor de presión  reconocimiento inteligente de cabezal  3 modos de limpieza y estuche de viaje  color negro](https://www.amazon.es/dp/B07S57QRPB/?tag=tolees-21) con 40.00 de descuento por 89.99 EUR (original: 149.99 EUR) en el siguiente enlace!

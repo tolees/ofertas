@@ -10,8 +10,11 @@ author: ring
 slug: B07CZDDMNJ
 description:
 actualPrice: 41.95 EUR
+currency: EUR
+price: 41.95
 comparePrice: 74.95 EUR
 inStock: true
+prodname: Salomon XA Pro 3D CSWP J  Zapatillas Unisex Infantil  Negro Black/High Risk Red  37 EU
 ---
 
 Tienes [Salomon XA Pro 3D CSWP J  Zapatillas Unisex Infantil  Negro Black/High Risk Red  37 EU](https://www.amazon.es/dp/B07CZDDMNJ/?tag=tolees-21) con un 44.03 % de descuento con precio de oferta de 41.95 EUR (original: 74.95 EUR) en el siguiente enlace!

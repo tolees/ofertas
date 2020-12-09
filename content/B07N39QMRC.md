@@ -10,8 +10,11 @@ author: ring
 slug: B07N39QMRC
 description:
 actualPrice: 45 EUR
+currency: EUR
+price: 45
 comparePrice: 90 EUR
 inStock: true
+prodname: The North Face W Litewave Fastpack II  Zapatillas de Senderismo para Mujer  Gris  Ebony Grey/Atomic Pink C3c   38.5 EU
 ---
 
 Está [The North Face W Litewave Fastpack II  Zapatillas de Senderismo para Mujer  Gris  Ebony Grey/Atomic Pink C3c   38.5 EU](https://www.amazon.es/dp/B07N39QMRC/?tag=tolees-21) con 50.00 de descuento por 45 EUR (original: 90 EUR) en el siguiente enlace!

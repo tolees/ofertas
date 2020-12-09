@@ -10,8 +10,11 @@ author: ring
 slug: B07CS9WTN3
 description:
 actualPrice: 19.2 EUR
+currency: EUR
+price: 19.2
 comparePrice: 55 EUR
 inStock: true
+prodname: Pepe Jeans Cashed Jeans  Azul  Denim GL6   16 años para Niños
 ---
 
 Ahora mismo tienes [Pepe Jeans Cashed Jeans  Azul  Denim GL6   16 años para Niños](https://www.amazon.es/dp/B07CS9WTN3/?tag=tolees-21) a 19.2 EUR (original: 55 EUR) (65.09 %  de descuento) en el siguiente enlace!

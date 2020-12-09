@@ -10,8 +10,11 @@ author: ring
 slug: B07DK4VLB3
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Geox J Alben Boy B  Zapatillas para Niños  Navy/Red C0735  36 EU
 ---
 
 Está [Geox J Alben Boy B  Zapatillas para Niños  Navy/Red C0735  36 EU](https://www.amazon.es/dp/B07DK4VLB3/?tag=tolees-21) con 50.00 de descuento por 29.95 EUR (original: 59.9 EUR) en el siguiente enlace!

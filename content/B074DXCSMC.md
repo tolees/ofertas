@@ -10,8 +10,11 @@ author: ring
 slug: B074DXCSMC
 description:
 actualPrice: 3.37 EUR
+currency: EUR
+price: 3.37
 comparePrice: 27.39 EUR
 inStock: true
+prodname: Dicora Urban Fit® Hand Sanitizer Gel Aloe Vera 500Ml
 ---
 
 Está [Dicora Urban Fit® Hand Sanitizer Gel Aloe Vera 500Ml](https://www.amazon.es/dp/B074DXCSMC/?tag=tolees-21) con 87.70 de descuento por 3.37 EUR (original: 27.39 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B005TI5XYQ
 description:
 actualPrice: 131.99 EUR
+currency: EUR
+price: 131.99
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Francis Francis illycaffè X7.1 Iperpresso - Máquina de café en cápsulas  color negro
 ---
 
 Ahora mismo tienes [Francis Francis illycaffè X7.1 Iperpresso - Máquina de café en cápsulas  color negro](https://www.amazon.es/dp/B005TI5XYQ/?tag=tolees-21) a 131.99 EUR (original: 199.0 EUR) (33.67 %  de descuento) en el siguiente enlace!

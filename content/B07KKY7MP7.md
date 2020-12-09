@@ -10,8 +10,11 @@ author: ring
 slug: B07KKY7MP7
 description:
 actualPrice: 11.83 EUR
+currency: EUR
+price: 11.83
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Giochi Preziosi LLU63000 L.O.L Surprise Hairgoals  Modelos surtidos
 ---
 
 Está [Giochi Preziosi LLU63000 L.O.L Surprise Hairgoals  Modelos surtidos](https://www.amazon.es/dp/B07KKY7MP7/?tag=tolees-21) con 57.73 de descuento por 11.83 EUR (original: 27.99 EUR) en el siguiente enlace!

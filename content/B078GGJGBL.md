@@ -10,8 +10,11 @@ author: ring
 slug: B078GGJGBL
 description:
 actualPrice: 3.65 EUR
+currency: EUR
+price: 3.65
 comparePrice: 4.95 EUR
 inStock: true
+prodname: L Oréal Paris Stylista Serum Sleek 200ml
 ---
 
 Ahora mismo tienes [L Oréal Paris Stylista Serum Sleek 200ml](https://www.amazon.es/dp/B078GGJGBL/?tag=tolees-21) a 3.65 EUR (original: 4.95 EUR) (26.26 %  de descuento) en el siguiente enlace!

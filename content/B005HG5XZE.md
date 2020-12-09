@@ -10,8 +10,11 @@ author: ring
 slug: B005HG5XZE
 description:
 actualPrice: 13.16 EUR
+currency: EUR
+price: 13.16
 comparePrice: 26.25 EUR
 inStock: true
+prodname: Schwarzkopf Nordic Blonde M1 Mechas Radiantes - Pack de 3
 ---
 
 Tienes [Schwarzkopf Nordic Blonde M1 Mechas Radiantes - Pack de 3](https://www.amazon.es/dp/B005HG5XZE/?tag=tolees-21) con un 49.87 % de descuento con precio de oferta de 13.16 EUR (original: 26.25 EUR) en el siguiente enlace!

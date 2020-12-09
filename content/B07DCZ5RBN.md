@@ -10,8 +10,11 @@ author: ring
 slug: B07DCZ5RBN
 description:
 actualPrice: 10.36 EUR
+currency: EUR
+price: 10.36
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Puma Future Pulse Ball  Unisex Adulto  Silver/Peacoat/Black  5
 ---
 
 Tienes [Puma Future Pulse Ball  Unisex Adulto  Silver/Peacoat/Black  5](https://www.amazon.es/dp/B07DCZ5RBN/?tag=tolees-21) con un 42.28 % de descuento con precio de oferta de 10.36 EUR (original: 17.95 EUR) en el siguiente enlace!

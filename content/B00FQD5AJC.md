@@ -10,8 +10,11 @@ author: ring
 slug: B00FQD5AJC
 description:
 actualPrice: 13.22 EUR
+currency: EUR
+price: 13.22
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Bestway - Pisc.Cobertor Piscina Rect.410x226cm.
 ---
 
 Tienes [Bestway - Pisc.Cobertor Piscina Rect.410x226cm.](https://www.amazon.es/dp/B00FQD5AJC/?tag=tolees-21) con un 33.73 % de descuento con precio de oferta de 13.22 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B002W7JKDW
 description:
 actualPrice: 43.88 EUR
+currency: EUR
+price: 43.88
 comparePrice: 61.0 EUR
 inStock: true
+prodname: Converse Chuck Taylor All Star Hi Top  Zapatillas Mujer  Negro  Black/White   38 EU
 ---
 
 Está [Converse Chuck Taylor All Star Hi Top  Zapatillas Mujer  Negro  Black/White   38 EU](https://www.amazon.es/dp/B002W7JKDW/?tag=tolees-21) con 28.07 de descuento por 43.88 EUR (original: 61.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BMM97XP
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 12.1 EUR
 inStock: true
+prodname: FUNKO Pop! Disney: Incredibles 2 - Dash
 ---
 
 Ahora mismo tienes [FUNKO Pop! Disney: Incredibles 2 - Dash](https://www.amazon.es/dp/B07BMM97XP/?tag=tolees-21) a 8.99 EUR (original: 12.1 EUR) (25.70 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DBZLBLZ
 description:
 actualPrice: 62.95 EUR
+currency: EUR
+price: 62.95
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Puma Hybrid NX  Zapatillas de Running para Hombre  Azul  Peacoat-High Risk Red White   44 EU
 ---
 
 Está [Puma Hybrid NX  Zapatillas de Running para Hombre  Azul  Peacoat-High Risk Red White   44 EU](https://www.amazon.es/dp/B07DBZLBLZ/?tag=tolees-21) con 30.02 de descuento por 62.95 EUR (original: 89.95 EUR) en el siguiente enlace!

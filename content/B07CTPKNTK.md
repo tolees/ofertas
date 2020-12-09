@@ -10,8 +10,11 @@ author: ring
 slug: B07CTPKNTK
 description:
 actualPrice: 32.74 EUR
+currency: EUR
+price: 32.74
 comparePrice: 70 EUR
 inStock: true
+prodname: Under Armour Micro G Pursuit Se  Zapatillas de Running para Mujer  Gris  Pitch Gray/White/Coded Blue 102   38 EU
 ---
 
 Ahora mismo tienes [Under Armour Micro G Pursuit Se  Zapatillas de Running para Mujer  Gris  Pitch Gray/White/Coded Blue 102   38 EU](https://www.amazon.es/dp/B07CTPKNTK/?tag=tolees-21) a 32.74 EUR (original: 70 EUR) (53.23 %  de descuento) en el siguiente enlace!

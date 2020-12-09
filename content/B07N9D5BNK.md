@@ -10,8 +10,11 @@ author: ring
 slug: B07N9D5BNK
 description:
 actualPrice: 13.35 EUR
+currency: EUR
+price: 13.35
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Pepe Jeans Vincent Polo  Azul  Navy 595   X-Small para Hombre
 ---
 
 Está [Pepe Jeans Vincent Polo  Azul  Navy 595   X-Small para Hombre](https://www.amazon.es/dp/B07N9D5BNK/?tag=tolees-21) con 66.54 de descuento por 13.35 EUR (original: 39.9 EUR) en el siguiente enlace!

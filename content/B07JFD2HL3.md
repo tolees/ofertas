@@ -10,8 +10,11 @@ author: ring
 slug: B07JFD2HL3
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: AGM Escobilla de Baño Elegante  Limpieza de Baño WC  Cepillo de Tocador  Escobilla WC  Cepillo de WC  Cepillo de Baño  Escobilleros de baño con Soporte de Acero Inoxidable y Base ABS
 ---
 
 Está [AGM Escobilla de Baño Elegante  Limpieza de Baño WC  Cepillo de Tocador  Escobilla WC  Cepillo de WC  Cepillo de Baño  Escobilleros de baño con Soporte de Acero Inoxidable y Base ABS](https://www.amazon.es/dp/B07JFD2HL3/?tag=tolees-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

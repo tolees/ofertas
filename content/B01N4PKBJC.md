@@ -10,8 +10,11 @@ author: ring
 slug: B01N4PKBJC
 description:
 actualPrice: 8.41 EUR
+currency: EUR
+price: 8.41
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Esprit 047ee2c039 - Mit Gürtel  Pantalones Cortos Hombre  Azul  Blue Medium Wash   XX-Small  Talla del Fabricante: 27 
 ---
 
 Ahora mismo tienes [Esprit 047ee2c039 - Mit Gürtel  Pantalones Cortos Hombre  Azul  Blue Medium Wash   XX-Small  Talla del Fabricante: 27 ](https://www.amazon.es/dp/B01N4PKBJC/?tag=tolees-21) a 8.41 EUR (original: 39.99 EUR) (78.97 %  de descuento) en el siguiente enlace!

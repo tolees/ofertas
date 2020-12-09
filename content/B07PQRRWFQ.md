@@ -10,8 +10,11 @@ author: ring
 slug: B07PQRRWFQ
 description:
 actualPrice: 14.0 EUR
+currency: EUR
+price: 14.0
 comparePrice: 24.37 EUR
 inStock: true
+prodname: adidas Adilette Aqua  Slide Sandal Unisex Adulto  Footwear White Platin Metallic Footwear White  37 EU
 ---
 
 Tienes [adidas Adilette Aqua  Slide Sandal Unisex Adulto  Footwear White Platin Metallic Footwear White  37 EU](https://www.amazon.es/dp/B07PQRRWFQ/?tag=tolees-21) con un 42.55 % de descuento con precio de oferta de 14.0 EUR (original: 24.37 EUR) en el siguiente enlace!

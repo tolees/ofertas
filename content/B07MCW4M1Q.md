@@ -10,8 +10,11 @@ author: ring
 slug: B07MCW4M1Q
 description:
 actualPrice: 21.7 EUR
+currency: EUR
+price: 21.7
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Under Armour Rival Fleece Sportstyle Logo Jogger Pantalón  Hombre  Azul  XL
 ---
 
 Ahora mismo tienes [Under Armour Rival Fleece Sportstyle Logo Jogger Pantalón  Hombre  Azul  XL](https://www.amazon.es/dp/B07MCW4M1Q/?tag=tolees-21) a 21.7 EUR (original: 60.0 EUR) (63.83 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0072SKAPI
 description:
 actualPrice: 4.54 EUR
+currency: EUR
+price: 4.54
 comparePrice: 9.8 EUR
 inStock: true
+prodname: The Platinum Collection  3cd
 ---
 
 Tienes [The Platinum Collection  3cd](https://www.amazon.es/dp/B0072SKAPI/?tag=tolees-21) con un 53.67 % de descuento con precio de oferta de 4.54 EUR (original: 9.8 EUR) en el siguiente enlace!

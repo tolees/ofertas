@@ -10,8 +10,11 @@ author: ring
 slug: B07K1NDZ7H
 description:
 actualPrice: 55.11 EUR
+currency: EUR
+price: 55.11
 comparePrice: 90 EUR
 inStock: true
+prodname: Emporio Armani Underwear Mens Woven Boxer Bañador  Azul  Turchese 00032   Medium  Talla del Fabricante: 50  para Hombre
 ---
 
 Está [Emporio Armani Underwear Mens Woven Boxer Bañador  Azul  Turchese 00032   Medium  Talla del Fabricante: 50  para Hombre](https://www.amazon.es/dp/B07K1NDZ7H/?tag=tolees-21) con 38.77 de descuento por 55.11 EUR (original: 90 EUR) en el siguiente enlace!

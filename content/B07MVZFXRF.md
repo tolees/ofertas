@@ -10,8 +10,11 @@ author: ring
 slug: B07MVZFXRF
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 51.09 EUR
 inStock: true
+prodname: WOSTOO Crayones  12 Colores Crayones de Huevo para Niños  Agarre de Palma de la Mano  Crayones de Pintura Coloridos Juguetes  Producto Seguro y No Tóxico
 ---
 
 Está [WOSTOO Crayones  12 Colores Crayones de Huevo para Niños  Agarre de Palma de la Mano  Crayones de Pintura Coloridos Juguetes  Producto Seguro y No Tóxico](https://www.amazon.es/dp/B07MVZFXRF/?tag=tolees-21) con 80.45 de descuento por 9.99 EUR (original: 51.09 EUR) en el siguiente enlace!

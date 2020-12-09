@@ -10,8 +10,11 @@ author: ring
 slug: B01N0ODDNP
 description:
 actualPrice: 25.2 EUR
+currency: EUR
+price: 25.2
 comparePrice: 45.82 EUR
 inStock: true
+prodname: Triumph Beauty-Full Darling W02 Sujetador Cotidiana  Blanco  White 0003   110DD  Talla del Fabricante: 42DD  para Mujer
 ---
 
 Tienes [Triumph Beauty-Full Darling W02 Sujetador Cotidiana  Blanco  White 0003   110DD  Talla del Fabricante: 42DD  para Mujer](https://www.amazon.es/dp/B01N0ODDNP/?tag=tolees-21) con un 45.00 % de descuento con precio de oferta de 25.2 EUR (original: 45.82 EUR) en el siguiente enlace!

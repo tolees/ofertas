@@ -10,8 +10,11 @@ author: ring
 slug: B07HYZ92LK
 description:
 actualPrice: 31.78 EUR
+currency: EUR
+price: 31.78
 comparePrice: 55 EUR
 inStock: true
+prodname: Nike Court Royale  Zapatillas de Deporte para Hombre   Blue Void/White/Gum Light Brown 403   47.5 EU
 ---
 
 Está [Nike Court Royale  Zapatillas de Deporte para Hombre   Blue Void/White/Gum Light Brown 403   47.5 EU](https://www.amazon.es/dp/B07HYZ92LK/?tag=tolees-21) con 42.22 de descuento por 31.78 EUR (original: 55 EUR) en el siguiente enlace!

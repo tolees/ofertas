@@ -10,8 +10,11 @@ author: ring
 slug: B00HGP3CCU
 description:
 actualPrice: 12.95 EUR
+currency: EUR
+price: 12.95
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Joma Suez Pantalón  Hombre  Negro  XL
 ---
 
 Ahora mismo tienes [Joma Suez Pantalón  Hombre  Negro  XL](https://www.amazon.es/dp/B00HGP3CCU/?tag=tolees-21) a 12.95 EUR (original: 17.95 EUR) (27.86 %  de descuento) en el siguiente enlace!

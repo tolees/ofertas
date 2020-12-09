@@ -10,8 +10,11 @@ author: ring
 slug: B01DLCBCUK
 description:
 actualPrice: 39.76 EUR
+currency: EUR
+price: 39.76
 comparePrice: 110 EUR
 inStock: true
+prodname: Nike 833258-002  Zapatillas de Deporte para Hombre  Negro  Black/White-Action Red   42 EU
 ---
 
 Tienes [Nike 833258-002  Zapatillas de Deporte para Hombre  Negro  Black/White-Action Red   42 EU](https://www.amazon.es/dp/B01DLCBCUK/?tag=tolees-21) con un 63.85 % de descuento con precio de oferta de 39.76 EUR (original: 110 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07QJ95HKH
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: KEEPOW 3 Pack Mopas para Vileda Turbo 2 en 1  Recambios de Mopas Microfibras  Color Rojo y Blanco
 ---
 
 Está [KEEPOW 3 Pack Mopas para Vileda Turbo 2 en 1  Recambios de Mopas Microfibras  Color Rojo y Blanco](https://www.amazon.es/dp/B07QJ95HKH/?tag=tolees-21) con 62.01 de descuento por 18.99 EUR (original: 49.99 EUR) en el siguiente enlace!

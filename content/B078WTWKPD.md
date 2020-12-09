@@ -10,8 +10,11 @@ author: ring
 slug: B078WTWKPD
 description:
 actualPrice: 21.95 EUR
+currency: EUR
+price: 21.95
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Cortefiel Vaquero  Pantalones para Hombre  Verde  Gama Verdes 24   50  Tamaño del fabricante:50 
 ---
 
 Ahora mismo tienes [Cortefiel Vaquero  Pantalones para Hombre  Verde  Gama Verdes 24   50  Tamaño del fabricante:50 ](https://www.amazon.es/dp/B078WTWKPD/?tag=tolees-21) a 21.95 EUR (original: 39.99 EUR) (45.11 %  de descuento) en el siguiente enlace!

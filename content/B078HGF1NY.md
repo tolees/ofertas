@@ -10,8 +10,11 @@ author: ring
 slug: B078HGF1NY
 description:
 actualPrice: 8.32 EUR
+currency: EUR
+price: 8.32
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Springfield 263818 Camiseta  Hombre  Azul  Gama Azules   Small  Tamaño del Fabricante:S 
 ---
 
 Está [Springfield 263818 Camiseta  Hombre  Azul  Gama Azules   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078HGF1NY/?tag=tolees-21) con 47.97 de descuento por 8.32 EUR (original: 15.99 EUR) en el siguiente enlace!

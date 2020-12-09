@@ -10,8 +10,11 @@ author: ring
 slug: B07DLHG57X
 description:
 actualPrice: 9.06 EUR
+currency: EUR
+price: 9.06
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Springfield 5P Slim Daily Structure Pantalones  Hombre  Gris  Gama Grises 44    Tamaño del Fabricante:32 
 ---
 
 Ahora mismo tienes [Springfield 5P Slim Daily Structure Pantalones  Hombre  Gris  Gama Grises 44    Tamaño del Fabricante:32 ](https://www.amazon.es/dp/B07DLHG57X/?tag=tolees-21) a 9.06 EUR (original: 35.99 EUR) (74.83 %  de descuento) en el siguiente enlace!

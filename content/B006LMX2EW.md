@@ -10,8 +10,11 @@ author: ring
 slug: B006LMX2EW
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 27.33 EUR
 inStock: true
+prodname: Arcos Universal Cuchillo  Acero Inoxidable  Negro  280 mm
 ---
 
 Ahora mismo tienes [Arcos Universal Cuchillo  Acero Inoxidable  Negro  280 mm](https://www.amazon.es/dp/B006LMX2EW/?tag=tolees-21) a 13.99 EUR (original: 27.33 EUR) (48.81 %  de descuento) en el siguiente enlace!

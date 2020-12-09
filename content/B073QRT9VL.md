@@ -10,8 +10,11 @@ author: ring
 slug: B073QRT9VL
 description:
 actualPrice: 9.35 EUR
+currency: EUR
+price: 9.35
 comparePrice: 14.14 EUR
 inStock: true
+prodname: find. Botines de Tacón para Mujer  Plateado  Silver   36 EU
 ---
 
 Ahora mismo tienes [find. Botines de Tacón para Mujer  Plateado  Silver   36 EU](https://www.amazon.es/dp/B073QRT9VL/?tag=tolees-21) a 9.35 EUR (original: 14.14 EUR) (33.88 %  de descuento) en el siguiente enlace!

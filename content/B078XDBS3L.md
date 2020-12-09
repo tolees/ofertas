@@ -10,8 +10,11 @@ author: ring
 slug: B078XDBS3L
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 55 EUR
 inStock: true
+prodname: Adidas Match 1.8
 ---
 
 Ahora mismo tienes [Adidas Match 1.8](https://www.amazon.es/dp/B078XDBS3L/?tag=tolees-21) a 34.95 EUR (original: 55 EUR) (36.45 %  de descuento) en el siguiente enlace!

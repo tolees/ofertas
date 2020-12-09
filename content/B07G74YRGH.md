@@ -10,8 +10,11 @@ author: ring
 slug: B07G74YRGH
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 31.99 EUR
 inStock: true
+prodname: XLTOK Cargador Inalámbrico Rápido 10W  Fast Wireless Charger para iPhone XS/XS MAX/X / 8/8 Plus Samsung Galaxy S9 Plus / S9 / S8 / Note 8 Negro 
 ---
 
 Ahora mismo tienes [XLTOK Cargador Inalámbrico Rápido 10W  Fast Wireless Charger para iPhone XS/XS MAX/X / 8/8 Plus Samsung Galaxy S9 Plus / S9 / S8 / Note 8 Negro ](https://www.amazon.es/dp/B07G74YRGH/?tag=tolees-21) a 14.99 EUR (original: 31.99 EUR) (53.14 %  de descuento) en el siguiente enlace!

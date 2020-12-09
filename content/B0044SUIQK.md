@@ -10,8 +10,11 @@ author: ring
 slug: B0044SUIQK
 description:
 actualPrice: 35.39 EUR
+currency: EUR
+price: 35.39
 comparePrice: 99 EUR
 inStock: true
+prodname: Morellato SRR01 - Eclipse - Collar de Mujer de Acero Inoxidable  50 cm
 ---
 
 Está [Morellato SRR01 - Eclipse - Collar de Mujer de Acero Inoxidable  50 cm](https://www.amazon.es/dp/B0044SUIQK/?tag=tolees-21) con 64.25 de descuento por 35.39 EUR (original: 99 EUR) en el siguiente enlace!

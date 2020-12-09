@@ -10,8 +10,11 @@ author: ring
 slug: B08MJRR9HV
 description:
 actualPrice: 1.59 EUR
+currency: EUR
+price: 1.59
 comparePrice: 2.39 EUR
 inStock: true
+prodname: LIANQI Profesional Dedo De Acero Inoxidable Dedo Dedo Pinza De Cutícula Cortadora De Uñas Cortadora Cortadora Alicates Tijeras Belleza Nail Art Manicure Tool - Negro
 ---
 
 Ahora mismo tienes [LIANQI Profesional Dedo De Acero Inoxidable Dedo Dedo Pinza De Cutícula Cortadora De Uñas Cortadora Cortadora Alicates Tijeras Belleza Nail Art Manicure Tool - Negro](https://www.amazon.es/dp/B08MJRR9HV/?tag=tolees-21) a 1.59 EUR (original: 2.39 EUR) (33.47 %  de descuento) en el siguiente enlace!

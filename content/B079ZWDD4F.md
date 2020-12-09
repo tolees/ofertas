@@ -10,8 +10,11 @@ author: ring
 slug: B079ZWDD4F
 description:
 actualPrice: 41.99 EUR
+currency: EUR
+price: 41.99
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Edge Entertainment-Arcadia Quest Mascotas-Español  Color  Edge Entertaiment EECMAQ19 
 ---
 
 Ahora mismo tienes [Edge Entertainment-Arcadia Quest Mascotas-Español  Color  Edge Entertaiment EECMAQ19 ](https://www.amazon.es/dp/B079ZWDD4F/?tag=tolees-21) a 41.99 EUR (original: 59.95 EUR) (29.96 %  de descuento) en el siguiente enlace!

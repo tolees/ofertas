@@ -10,8 +10,11 @@ author: ring
 slug: B07CJM9GWD
 description:
 actualPrice: 20.77 EUR
+currency: EUR
+price: 20.77
 comparePrice: 29.35 EUR
 inStock: true
+prodname: Clementoni-55215 Laboratorio de Mecánica Formula 1  Multicolor  Talla Única  552153 
 ---
 
 Está [Clementoni-55215 Laboratorio de Mecánica Formula 1  Multicolor  Talla Única  552153 ](https://www.amazon.es/dp/B07CJM9GWD/?tag=tolees-21) con 29.23 de descuento por 20.77 EUR (original: 29.35 EUR) en el siguiente enlace!

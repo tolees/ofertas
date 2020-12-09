@@ -10,8 +10,11 @@ author: ring
 slug: B071NMY2XK
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 21.77 EUR
 inStock: true
+prodname: GreeSuit 150mm / 6 pulgadas vernier métrica LCD pinza digital en acero inoxidable electrónica micrómetro de profundidad medidor de herramienta de medición con batería y estuche rígido
 ---
 
 Ahora mismo tienes [GreeSuit 150mm / 6 pulgadas vernier métrica LCD pinza digital en acero inoxidable electrónica micrómetro de profundidad medidor de herramienta de medición con batería y estuche rígido](https://www.amazon.es/dp/B071NMY2XK/?tag=tolees-21) a 14.99 EUR (original: 21.77 EUR) (31.14 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07N14WHHS
 description:
 actualPrice: 50.45 EUR
+currency: EUR
+price: 50.45
 comparePrice: 119.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Slim Fit Vaqueros  Antic Charcoal  27W / 32L para Hombre
 ---
 
 Tienes [G-STAR RAW 3301 Slim Fit Vaqueros  Antic Charcoal  27W / 32L para Hombre](https://www.amazon.es/dp/B07N14WHHS/?tag=tolees-21) con un 57.94 % de descuento con precio de oferta de 50.45 EUR (original: 119.95 EUR) en el siguiente enlace!

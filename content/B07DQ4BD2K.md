@@ -10,8 +10,11 @@ author: ring
 slug: B07DQ4BD2K
 description:
 actualPrice: 56.09 EUR
+currency: EUR
+price: 56.09
 comparePrice: 110 EUR
 inStock: true
+prodname: Burton Exile Cargo Pantalón de Snowboard  Niños  Rojo  Bitters   L
 ---
 
 Tienes [Burton Exile Cargo Pantalón de Snowboard  Niños  Rojo  Bitters   L](https://www.amazon.es/dp/B07DQ4BD2K/?tag=tolees-21) con un 49.01 % de descuento con precio de oferta de 56.09 EUR (original: 110 EUR) en el siguiente enlace!

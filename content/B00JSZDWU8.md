@@ -10,8 +10,11 @@ author: ring
 slug: B00JSZDWU8
 description:
 actualPrice: 27.84 EUR
+currency: EUR
+price: 27.84
 comparePrice: 47.1 EUR
 inStock: true
+prodname: Vulli Sophie la girafe 240113 - Cojín 2 en 1
 ---
 
 Está [Vulli Sophie la girafe 240113 - Cojín 2 en 1](https://www.amazon.es/dp/B00JSZDWU8/?tag=tolees-21) con 40.89 de descuento por 27.84 EUR (original: 47.1 EUR) en el siguiente enlace!

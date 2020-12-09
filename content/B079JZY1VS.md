@@ -10,8 +10,11 @@ author: ring
 slug: B079JZY1VS
 description:
 actualPrice: 129.57 EUR
+currency: EUR
+price: 129.57
 comparePrice: 349 EUR
 inStock: true
+prodname: Napapijri Articage Jacke Chaqueta  Dark Beige Nb8  Medium para Hombre
 ---
 
 Está [Napapijri Articage Jacke Chaqueta  Dark Beige Nb8  Medium para Hombre](https://www.amazon.es/dp/B079JZY1VS/?tag=tolees-21) con 62.87 de descuento por 129.57 EUR (original: 349 EUR) en el siguiente enlace!

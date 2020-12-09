@@ -10,8 +10,11 @@ author: ring
 slug: B07FQ2LPJP
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: The Conjuring - Halloween Blu-Ray [Blu-ray]
 ---
 
 Ahora mismo tienes [The Conjuring - Halloween Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07FQ2LPJP/?tag=tolees-21) a 8.99 EUR (original: 12.99 EUR) (30.79 %  de descuento) en el siguiente enlace!

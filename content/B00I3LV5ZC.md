@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 27.86 % en Sony MDR-AS700BT - Auriculares de Contor'
+title: 'Sony MDR-AS700BT - Auriculares de Contor al 27.86 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41AEDYkvORL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41AEDYkvORL._SL200_.jpg' ]
@@ -10,15 +10,18 @@ author: ring
 slug: B00I3LV5ZC
 description:
 actualPrice: 72.14 EUR
+currency: EUR
+price: 72.14
 comparePrice: 100 EUR
 inStock: true
+prodname: Sony MDR-AS700BT - Auriculares de Contorno de Cuello Bluetooth  Negro y Naranja
 ---
 
-Tienes [Sony MDR-AS700BT - Auriculares de Contorno de Cuello Bluetooth  Negro y Naranja](https://www.amazon.es/dp/B00I3LV5ZC/?tag=tolees-21) con un 27.86 % de descuento con precio de oferta de 72.14 EUR (original: 100 EUR) en el siguiente enlace!
+Está [Sony MDR-AS700BT - Auriculares de Contorno de Cuello Bluetooth  Negro y Naranja](https://www.amazon.es/dp/B00I3LV5ZC/?tag=tolees-21) con 27.86 de descuento por 72.14 EUR (original: 100 EUR) en el siguiente enlace!
 
 [![Sony MDR-AS700BT - Auriculares de Contor](https://images-eu.ssl-images-amazon.com/images/I/41AEDYkvORL._SL200_.jpg)](https://www.amazon.es/dp/B00I3LV5ZC/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00I3LV5ZC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00I3LV5ZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

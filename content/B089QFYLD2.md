@@ -10,8 +10,11 @@ author: ring
 slug: B089QFYLD2
 description:
 actualPrice: 30.49 EUR
+currency: EUR
+price: 30.49
 comparePrice: 40.99 EUR
 inStock: true
+prodname: adidas Lite Racer CLN  Zapatillas Hombre  Ftwbla Ftwbla Negbás  42 2/3 EU
 ---
 
 Ahora mismo tienes [adidas Lite Racer CLN  Zapatillas Hombre  Ftwbla Ftwbla Negbás  42 2/3 EU](https://www.amazon.es/dp/B089QFYLD2/?tag=tolees-21) a 30.49 EUR (original: 40.99 EUR) (25.62 %  de descuento) en el siguiente enlace!

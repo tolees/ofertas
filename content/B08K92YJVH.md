@@ -10,8 +10,11 @@ author: ring
 slug: B08K92YJVH
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 13.99 EUR
 inStock: true
+prodname: TATAFUN Calendario de Adviento  Set de 24 Bolsas de Yute para Rellenar con 24 Chapas Botón Calendario de Adviento Casero  Bolsa de Regalo Navidad Decoración  24 Pcs -3 Patrones 
 ---
 
 Tienes [TATAFUN Calendario de Adviento  Set de 24 Bolsas de Yute para Rellenar con 24 Chapas Botón Calendario de Adviento Casero  Bolsa de Regalo Navidad Decoración  24 Pcs -3 Patrones ](https://www.amazon.es/dp/B08K92YJVH/?tag=tolees-21) con un 28.59 % de descuento con precio de oferta de 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

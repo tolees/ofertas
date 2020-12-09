@@ -10,8 +10,11 @@ author: ring
 slug: B00KJ8FB1Q
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 49.0 EUR
 inStock: true
+prodname: OMRON M2 BASIC Tensiómetro de Brazo digital  Blanco y Azul
 ---
 
 Ahora mismo tienes [OMRON M2 BASIC Tensiómetro de Brazo digital  Blanco y Azul](https://www.amazon.es/dp/B00KJ8FB1Q/?tag=tolees-21) a 34.95 EUR (original: 49.0 EUR) (28.67 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B073GTTDHC
 description:
 actualPrice: 16 EUR
+currency: EUR
+price: 16
 comparePrice: 32 EUR
 inStock: true
+prodname: FIND Jersey con Volumen en las Mangas para Mujer  Azul  Navy   48  Talla del Fabricante: 3X-Large 
 ---
 
 Tienes [FIND Jersey con Volumen en las Mangas para Mujer  Azul  Navy   48  Talla del Fabricante: 3X-Large ](https://www.amazon.es/dp/B073GTTDHC/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 16 EUR (original: 32 EUR) en el siguiente enlace!

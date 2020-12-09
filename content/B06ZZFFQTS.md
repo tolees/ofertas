@@ -10,8 +10,11 @@ author: ring
 slug: B06ZZFFQTS
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Skechers 58356  Zapatillas para Hombre  Negro  Black   43 EU
 ---
 
 Ahora mismo tienes [Skechers 58356  Zapatillas para Hombre  Negro  Black   43 EU](https://www.amazon.es/dp/B06ZZFFQTS/?tag=tolees-21) a 29.95 EUR (original: 49.95 EUR) (40.04 %  de descuento) en el siguiente enlace!

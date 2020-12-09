@@ -10,8 +10,11 @@ author: ring
 slug: B07BTF5JVQ
 description:
 actualPrice: 34.09 EUR
+currency: EUR
+price: 34.09
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Skechers Bobs Squad 2-Shot Caller  Zapatillas para Mujer  Gris  Slate Grey Slt   39 EU
 ---
 
 Está [Skechers Bobs Squad 2-Shot Caller  Zapatillas para Mujer  Gris  Slate Grey Slt   39 EU](https://www.amazon.es/dp/B07BTF5JVQ/?tag=tolees-21) con 31.75 de descuento por 34.09 EUR (original: 49.95 EUR) en el siguiente enlace!

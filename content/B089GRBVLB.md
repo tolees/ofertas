@@ -10,8 +10,11 @@ author: ring
 slug: B089GRBVLB
 description:
 actualPrice: 10.0 EUR
+currency: EUR
+price: 10.0
 comparePrice: 18.99 EUR
 inStock: true
+prodname: B.Catcher Mujer Collar Corazón Colgante 925 Plata de Ley con San Valentín Regalo Originales Cadena 45cm Longitud
 ---
 
 Está [B.Catcher Mujer Collar Corazón Colgante 925 Plata de Ley con San Valentín Regalo Originales Cadena 45cm Longitud](https://www.amazon.es/dp/B089GRBVLB/?tag=tolees-21) con 47.34 de descuento por 10.0 EUR (original: 18.99 EUR) en el siguiente enlace!

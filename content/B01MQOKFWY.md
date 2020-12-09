@@ -10,8 +10,11 @@ author: ring
 slug: B01MQOKFWY
 description:
 actualPrice: 32.86 EUR
+currency: EUR
+price: 32.86
 comparePrice: 78 EUR
 inStock: true
+prodname: Calvin Klein Jeans Dora Canvas  Zapatillas para Mujer  Azul  Chambray   36 EU
 ---
 
 Ahora mismo tienes [Calvin Klein Jeans Dora Canvas  Zapatillas para Mujer  Azul  Chambray   36 EU](https://www.amazon.es/dp/B01MQOKFWY/?tag=tolees-21) a 32.86 EUR (original: 78 EUR) (57.87 %  de descuento) en el siguiente enlace!

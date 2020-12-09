@@ -10,8 +10,11 @@ author: ring
 slug: B071JF2ZKD
 description:
 actualPrice: 10.53 EUR
+currency: EUR
+price: 10.53
 comparePrice: 49.99 EUR
 inStock: true
+prodname: ONLY 15136161  Parka Para Mujer  Verde  Peat Peat   42  Talla del fabricante: X-Large 
 ---
 
 Está [ONLY 15136161  Parka Para Mujer  Verde  Peat Peat   42  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B071JF2ZKD/?tag=tolees-21) con 78.94 de descuento por 10.53 EUR (original: 49.99 EUR) en el siguiente enlace!

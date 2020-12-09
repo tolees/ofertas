@@ -10,8 +10,11 @@ author: ring
 slug: B08J7SHW3F
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Juguete negro de silicona inflable  duradero y controlable a distancia  te permite pasar una noche llena de amor y locura
 ---
 
 Está [Juguete negro de silicona inflable  duradero y controlable a distancia  te permite pasar una noche llena de amor y locura](https://www.amazon.es/dp/B08J7SHW3F/?tag=tolees-21) con 30.01 de descuento por 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

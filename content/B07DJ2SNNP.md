@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ2SNNP
 description:
 actualPrice: 37.45 EUR
+currency: EUR
+price: 37.45
 comparePrice: 80 EUR
 inStock: true
+prodname: New Balance 220  Zapatillas Unisex Adulto  Negro  Black/Steel Fe   43 EU
 ---
 
 Tienes [New Balance 220  Zapatillas Unisex Adulto  Negro  Black/Steel Fe   43 EU](https://www.amazon.es/dp/B07DJ2SNNP/?tag=tolees-21) con un 53.19 % de descuento con precio de oferta de 37.45 EUR (original: 80 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07Z3YL3BQ
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Trust GXT 239 Nepa Micrófono para Gaming para PC  Color Negro
 ---
 
 Ahora mismo tienes [Trust GXT 239 Nepa Micrófono para Gaming para PC  Color Negro](https://www.amazon.es/dp/B07Z3YL3BQ/?tag=tolees-21) a 9.99 EUR (original: 13.99 EUR) (28.59 %  de descuento) en el siguiente enlace!

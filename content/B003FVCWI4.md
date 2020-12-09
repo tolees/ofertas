@@ -10,8 +10,11 @@ author: ring
 slug: B003FVCWI4
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 9.96 EUR
 inStock: true
+prodname: SKS  racor Vp/Vs inflador reversible  Unisex Adulto  Negro  Talla Única
 ---
 
 Tienes [SKS  racor Vp/Vs inflador reversible  Unisex Adulto  Negro  Talla Única](https://www.amazon.es/dp/B003FVCWI4/?tag=tolees-21) con un 40.26 % de descuento con precio de oferta de 5.95 EUR (original: 9.96 EUR) en el siguiente enlace!

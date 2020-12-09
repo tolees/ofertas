@@ -10,8 +10,11 @@ author: ring
 slug: B01CVG90WE
 description:
 actualPrice: 15.95 EUR
+currency: EUR
+price: 15.95
 comparePrice: 25.18 EUR
 inStock: true
+prodname: Tribe - Juguete Educativos de madera y pizarra Blanca con tablero magnéticos  puzzle para Niños Infantil de 3 4 5 Años 
 ---
 
 Está [Tribe - Juguete Educativos de madera y pizarra Blanca con tablero magnéticos  puzzle para Niños Infantil de 3 4 5 Años ](https://www.amazon.es/dp/B01CVG90WE/?tag=tolees-21) con 36.66 de descuento por 15.95 EUR (original: 25.18 EUR) en el siguiente enlace!

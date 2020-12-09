@@ -10,8 +10,11 @@ author: ring
 slug: B071L1RPSD
 description:
 actualPrice: 62.62 EUR
+currency: EUR
+price: 62.62
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Quiksilver Wanna Chaqueta Impermeable  Hombre  Azul  Navy Blazer Solid   S
 ---
 
 Está [Quiksilver Wanna Chaqueta Impermeable  Hombre  Azul  Navy Blazer Solid   S](https://www.amazon.es/dp/B071L1RPSD/?tag=tolees-21) con 51.83 de descuento por 62.62 EUR (original: 129.99 EUR) en el siguiente enlace!

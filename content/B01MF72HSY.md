@@ -10,8 +10,11 @@ author: ring
 slug: B01MF72HSY
 description:
 actualPrice: 23.24 EUR
+currency: EUR
+price: 23.24
 comparePrice: 30.99 EUR
 inStock: true
+prodname: Greatest Hits [Vinilo]
 ---
 
 Ahora mismo tienes [Greatest Hits [Vinilo]](https://www.amazon.es/dp/B01MF72HSY/?tag=tolees-21) a 23.24 EUR (original: 30.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

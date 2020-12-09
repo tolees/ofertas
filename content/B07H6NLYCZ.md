@@ -10,8 +10,11 @@ author: ring
 slug: B07H6NLYCZ
 description:
 actualPrice: 8.5 EUR
+currency: EUR
+price: 8.5
 comparePrice: 21.98 EUR
 inStock: true
+prodname: Gorjuss JW-25M-G Joyero con Candado The Secret
 ---
 
 Está [Gorjuss JW-25M-G Joyero con Candado The Secret](https://www.amazon.es/dp/B07H6NLYCZ/?tag=tolees-21) con 61.33 de descuento por 8.5 EUR (original: 21.98 EUR) en el siguiente enlace!

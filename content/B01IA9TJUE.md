@@ -10,8 +10,11 @@ author: ring
 slug: B01IA9TJUE
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 18.0 EUR
 inStock: true
+prodname: Julieta  2016  [Blu-ray]
 ---
 
 Está [Julieta  2016  [Blu-ray]](https://www.amazon.es/dp/B01IA9TJUE/?tag=tolees-21) con 50.06 de descuento por 8.99 EUR (original: 18.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0046TDFIU
 description:
 actualPrice: 125.08 EUR
+currency: EUR
+price: 125.08
 comparePrice: 169.0 EUR
 inStock: true
+prodname: Bering Classic - Reloj analógico de caballero de cuarzo con correa de piel negra - sumergible a 50 metros
 ---
 
 Está [Bering Classic - Reloj analógico de caballero de cuarzo con correa de piel negra - sumergible a 50 metros](https://www.amazon.es/dp/B0046TDFIU/?tag=tolees-21) con 25.99 de descuento por 125.08 EUR (original: 169.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BHBX22G
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 46 EUR
 inStock: true
+prodname: Oflamn Mochila para Mochila portátil Bolsa de Escuela de Lona Unisex Vintage Daypack para Hombres y Mujeres  Colegio y niños  3.0 Red/Blue 
 ---
 
 Está [Oflamn Mochila para Mochila portátil Bolsa de Escuela de Lona Unisex Vintage Daypack para Hombres y Mujeres  Colegio y niños  3.0 Red/Blue ](https://www.amazon.es/dp/B07BHBX22G/?tag=tolees-21) con 78.28 de descuento por 9.99 EUR (original: 46 EUR) en el siguiente enlace!

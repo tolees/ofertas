@@ -10,8 +10,11 @@ author: ring
 slug: B06XC1XPKJ
 description:
 actualPrice: 19.82 EUR
+currency: EUR
+price: 19.82
 comparePrice: 32.99 EUR
 inStock: true
+prodname: Trolls Cooper Bolsa de Cuerdas para el Gimnasio
 ---
 
 Está [Trolls Cooper Bolsa de Cuerdas para el Gimnasio](https://www.amazon.es/dp/B06XC1XPKJ/?tag=tolees-21) con 39.92 de descuento por 19.82 EUR (original: 32.99 EUR) en el siguiente enlace!

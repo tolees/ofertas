@@ -10,8 +10,11 @@ author: ring
 slug: B07CV4DNBT
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Lahtak Toalla Playa Grande - Toalla Microfibra - Toalla Playa Microfibra - Ideal como Piscina Camping Yoga Viaje Deporte Pesca Baño Gym  Azul Marino 140 x 80 cm 
 ---
 
 Tienes [Lahtak Toalla Playa Grande - Toalla Microfibra - Toalla Playa Microfibra - Ideal como Piscina Camping Yoga Viaje Deporte Pesca Baño Gym  Azul Marino 140 x 80 cm ](https://www.amazon.es/dp/B07CV4DNBT/?tag=tolees-21) con un 28.01 % de descuento con precio de oferta de 17.99 EUR (original: 24.99 EUR) en el siguiente enlace!

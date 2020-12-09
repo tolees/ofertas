@@ -10,8 +10,11 @@ author: ring
 slug: B08KFXRXSW
 description:
 actualPrice: 398.99 EUR
+currency: EUR
+price: 398.99
 comparePrice: 811.64 EUR
 inStock: true
+prodname: iRobot Roomba 981 - Robot Aspirador  WiFi  Aspiración de Alta Potencia  Dirt Detect  Recarga y Sigue la Limpieza + Echo Dot  3.ª generación  - Altavoz Inteligente con Alexa  Tela de Color Antracita
 ---
 
 Está [iRobot Roomba 981 - Robot Aspirador  WiFi  Aspiración de Alta Potencia  Dirt Detect  Recarga y Sigue la Limpieza + Echo Dot  3.ª generación  - Altavoz Inteligente con Alexa  Tela de Color Antracita](https://www.amazon.es/dp/B08KFXRXSW/?tag=tolees-21) con 50.84 de descuento por 398.99 EUR (original: 811.64 EUR) en el siguiente enlace!

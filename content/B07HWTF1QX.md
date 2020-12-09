@@ -10,8 +10,11 @@ author: ring
 slug: B07HWTF1QX
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 11.99 EUR
 inStock: true
+prodname: Copa Menstrual Clásica - Certificada por la FDA - Bolsa de algodón de regalo - Alternativa a los tampones y compresas - Protección de la Higiene Femenina - Talla Pequeña - Color Negro
 ---
 
 Ahora mismo tienes [Copa Menstrual Clásica - Certificada por la FDA - Bolsa de algodón de regalo - Alternativa a los tampones y compresas - Protección de la Higiene Femenina - Talla Pequeña - Color Negro](https://www.amazon.es/dp/B07HWTF1QX/?tag=tolees-21) a 7.99 EUR (original: 11.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

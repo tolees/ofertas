@@ -10,8 +10,11 @@ author: ring
 slug: B07FQMP9HT
 description:
 actualPrice: 24.48 EUR
+currency: EUR
+price: 24.48
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Landry Step  Mocasines para Hombre  Negro  Black Suede-   42 EU
 ---
 
 Ahora mismo tienes [Clarks Landry Step  Mocasines para Hombre  Negro  Black Suede-   42 EU](https://www.amazon.es/dp/B07FQMP9HT/?tag=tolees-21) a 24.48 EUR (original: 79.95 EUR) (69.38 %  de descuento) en el siguiente enlace!

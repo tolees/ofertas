@@ -10,8 +10,11 @@ author: ring
 slug: B00BI0VPIW
 description:
 actualPrice: 199.0 EUR
+currency: EUR
+price: 199.0
 comparePrice: 289.0 EUR
 inStock: true
+prodname: Keter - Caseta Manor 4x3
 ---
 
 Está [Keter - Caseta Manor 4x3](https://www.amazon.es/dp/B00BI0VPIW/?tag=tolees-21) con 31.14 de descuento por 199.0 EUR (original: 289.0 EUR) en el siguiente enlace!

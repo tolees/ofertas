@@ -10,8 +10,11 @@ author: ring
 slug: B01HFR96OQ
 description:
 actualPrice: 113.82 EUR
+currency: EUR
+price: 113.82
 comparePrice: 230.75 EUR
 inStock: true
+prodname: G. Skill 16 GB DDR4 RAM F4-3200C16D-16GTZKW
 ---
 
 Tienes [G. Skill 16 GB DDR4 RAM F4-3200C16D-16GTZKW](https://www.amazon.es/dp/B01HFR96OQ/?tag=tolees-21) con un 50.67 % de descuento con precio de oferta de 113.82 EUR (original: 230.75 EUR) en el siguiente enlace!

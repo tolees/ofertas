@@ -10,8 +10,11 @@ author: ring
 slug: B07WHLDQ65
 description:
 actualPrice: 25.0 EUR
+currency: EUR
+price: 25.0
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Pepe Jeans Miller Bolso de Mano con Bandolera Negro 19x13x4 5 cms Piel Sintética
 ---
 
 Está [Pepe Jeans Miller Bolso de Mano con Bandolera Negro 19x13x4 5 cms Piel Sintética](https://www.amazon.es/dp/B07WHLDQ65/?tag=tolees-21) con 28.57 de descuento por 25.0 EUR (original: 35.0 EUR) en el siguiente enlace!

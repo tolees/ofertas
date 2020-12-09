@@ -10,8 +10,11 @@ author: ring
 slug: B07CRJ32KX
 description:
 actualPrice: 39.65 EUR
+currency: EUR
+price: 39.65
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Pepe Jeans Taylor Falda    Denim Cn6   Medium para Mujer
 ---
 
 Tienes [Pepe Jeans Taylor Falda    Denim Cn6   Medium para Mujer](https://www.amazon.es/dp/B07CRJ32KX/?tag=tolees-21) con un 43.28 % de descuento con precio de oferta de 39.65 EUR (original: 69.9 EUR) en el siguiente enlace!

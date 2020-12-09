@@ -10,8 +10,11 @@ author: ring
 slug: B07L8KPLS9
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Generation Zero
 ---
 
 Ahora mismo tienes [Generation Zero](https://www.amazon.es/dp/B07L8KPLS9/?tag=tolees-21) a 19.95 EUR (original: 39.99 EUR) (50.11 %  de descuento) en el siguiente enlace!

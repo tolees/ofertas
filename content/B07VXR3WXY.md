@@ -10,8 +10,11 @@ author: ring
 slug: B07VXR3WXY
 description:
 actualPrice: 44.9 EUR
+currency: EUR
+price: 44.9
 comparePrice: 59.95 EUR
 inStock: true
+prodname: JEVX Bascula Comercial Digital de 40kg 2 EN 1 con BATERIA Recargable y Fuente de Alimentacion - Precision 5 Gramos Comercio Balanza Inalambrica para Fruteria 40 Kilos Peso Industrial Medidor de Peso
 ---
 
 Está [JEVX Bascula Comercial Digital de 40kg 2 EN 1 con BATERIA Recargable y Fuente de Alimentacion - Precision 5 Gramos Comercio Balanza Inalambrica para Fruteria 40 Kilos Peso Industrial Medidor de Peso](https://www.amazon.es/dp/B07VXR3WXY/?tag=tolees-21) con 25.10 de descuento por 44.9 EUR (original: 59.95 EUR) en el siguiente enlace!

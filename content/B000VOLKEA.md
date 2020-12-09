@@ -10,8 +10,11 @@ author: ring
 slug: B000VOLKEA
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 57.4 EUR
 inStock: true
+prodname: Calvin Klein - Eau De Toilette Ckin2U Hombre  100 ml
 ---
 
 Está [Calvin Klein - Eau De Toilette Ckin2U Hombre  100 ml](https://www.amazon.es/dp/B000VOLKEA/?tag=tolees-21) con 72.14 de descuento por 15.99 EUR (original: 57.4 EUR) en el siguiente enlace!

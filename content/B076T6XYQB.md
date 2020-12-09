@@ -10,8 +10,11 @@ author: ring
 slug: B076T6XYQB
 description:
 actualPrice: 12 EUR
+currency: EUR
+price: 12
 comparePrice: 17 EUR
 inStock: true
+prodname: MERAKI Camiseta Mujer de Tirantes  Pack de 2  Azul  Cashmere Blue/white   Medium
 ---
 
 Tienes [MERAKI Camiseta Mujer de Tirantes  Pack de 2  Azul  Cashmere Blue/white   Medium](https://www.amazon.es/dp/B076T6XYQB/?tag=tolees-21) con un 29.41 % de descuento con precio de oferta de 12 EUR (original: 17 EUR) en el siguiente enlace!

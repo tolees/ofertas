@@ -10,8 +10,11 @@ author: ring
 slug: B072LQ3HKJ
 description:
 actualPrice: 15.5 EUR
+currency: EUR
+price: 15.5
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Crocs Swiftwater Deck Flip Men  Hombre Sandalia  Negro  Black/Light Grey   45-46 EU
 ---
 
 Ahora mismo tienes [Crocs Swiftwater Deck Flip Men  Hombre Sandalia  Negro  Black/Light Grey   45-46 EU](https://www.amazon.es/dp/B072LQ3HKJ/?tag=tolees-21) a 15.5 EUR (original: 34.99 EUR) (55.70 %  de descuento) en el siguiente enlace!

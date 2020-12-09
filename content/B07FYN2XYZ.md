@@ -10,8 +10,11 @@ author: ring
 slug: B07FYN2XYZ
 description:
 actualPrice: 22.58 EUR
+currency: EUR
+price: 22.58
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Wrangler Sign Off Sweat Sudadera  Azul  Turkish Sea A86   X-Large para Hombre
 ---
 
 Tienes [Wrangler Sign Off Sweat Sudadera  Azul  Turkish Sea A86   X-Large para Hombre](https://www.amazon.es/dp/B07FYN2XYZ/?tag=tolees-21) con un 62.34 % de descuento con precio de oferta de 22.58 EUR (original: 59.95 EUR) en el siguiente enlace!

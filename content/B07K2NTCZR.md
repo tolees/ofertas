@@ -10,8 +10,11 @@ author: ring
 slug: B07K2NTCZR
 description:
 actualPrice: 33.23 EUR
+currency: EUR
+price: 33.23
 comparePrice: 44.95 EUR
 inStock: true
+prodname: adidas Continental 80 I  Zapatillas de Deporte Unisex niños  Blanco  Ftwbla/Escarl/Maruni 000   23 EU
 ---
 
 Está [adidas Continental 80 I  Zapatillas de Deporte Unisex niños  Blanco  Ftwbla/Escarl/Maruni 000   23 EU](https://www.amazon.es/dp/B07K2NTCZR/?tag=tolees-21) con 26.07 de descuento por 33.23 EUR (original: 44.95 EUR) en el siguiente enlace!

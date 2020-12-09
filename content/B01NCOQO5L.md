@@ -10,8 +10,11 @@ author: ring
 slug: B01NCOQO5L
 description:
 actualPrice: 11.45 EUR
+currency: EUR
+price: 11.45
 comparePrice: 18.14 EUR
 inStock: true
+prodname: adidas Squad 17 JSY W Camiseta  Mujer  Verde  Verfue/Blanco   S
 ---
 
 Tienes [adidas Squad 17 JSY W Camiseta  Mujer  Verde  Verfue/Blanco   S](https://www.amazon.es/dp/B01NCOQO5L/?tag=tolees-21) con un 36.88 % de descuento con precio de oferta de 11.45 EUR (original: 18.14 EUR) en el siguiente enlace!

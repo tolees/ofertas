@@ -10,8 +10,11 @@ author: ring
 slug: B07CVCW3ZB
 description:
 actualPrice: 3.86 EUR
+currency: EUR
+price: 3.86
 comparePrice: 10 EUR
 inStock: true
+prodname: FIND - Weekend Getaway- Esmalte de uñas  n.3 unidades   n.4  n.13  n.14 
 ---
 
 Está [FIND - Weekend Getaway- Esmalte de uñas  n.3 unidades   n.4  n.13  n.14 ](https://www.amazon.es/dp/B07CVCW3ZB/?tag=tolees-21) con 61.40 de descuento por 3.86 EUR (original: 10 EUR) en el siguiente enlace!

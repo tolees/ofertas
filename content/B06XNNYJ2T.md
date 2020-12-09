@@ -10,8 +10,11 @@ author: ring
 slug: B06XNNYJ2T
 description:
 actualPrice: 13.09 EUR
+currency: EUR
+price: 13.09
 comparePrice: 32.95 EUR
 inStock: true
+prodname: Desigual TS_calonge  Camisa Manga Larga para Niñas  Gris  Carbon 2017  128  Talla del Fabricante: 7/8 
 ---
 
 Tienes [Desigual TS_calonge  Camisa Manga Larga para Niñas  Gris  Carbon 2017  128  Talla del Fabricante: 7/8 ](https://www.amazon.es/dp/B06XNNYJ2T/?tag=tolees-21) con un 60.27 % de descuento con precio de oferta de 13.09 EUR (original: 32.95 EUR) en el siguiente enlace!

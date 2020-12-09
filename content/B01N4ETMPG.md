@@ -10,8 +10,11 @@ author: ring
 slug: B01N4ETMPG
 description:
 actualPrice: 20.69 EUR
+currency: EUR
+price: 20.69
 comparePrice: 39.99 EUR
 inStock: true
+prodname: ESPRIT Collection 037eo1k012 Camiseta  Rosa  Nude   38  Talla del Fabricante: Medium  para Mujer
 ---
 
 Está [ESPRIT Collection 037eo1k012 Camiseta  Rosa  Nude   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B01N4ETMPG/?tag=tolees-21) con 48.26 de descuento por 20.69 EUR (original: 39.99 EUR) en el siguiente enlace!

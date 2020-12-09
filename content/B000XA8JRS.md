@@ -10,8 +10,11 @@ author: ring
 slug: B000XA8JRS
 description:
 actualPrice: 7.28 EUR
+currency: EUR
+price: 7.28
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Alimento básico Tetra Rubin  diferentes tamaños
 ---
 
 Ahora mismo tienes [Alimento básico Tetra Rubin  diferentes tamaños](https://www.amazon.es/dp/B000XA8JRS/?tag=tolees-21) a 7.28 EUR (original: 12.99 EUR) (43.96 %  de descuento) en el siguiente enlace!

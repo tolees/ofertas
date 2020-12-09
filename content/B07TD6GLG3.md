@@ -10,8 +10,11 @@ author: ring
 slug: B07TD6GLG3
 description:
 actualPrice: 5.07 EUR
+currency: EUR
+price: 5.07
 comparePrice: 6.84 EUR
 inStock: true
+prodname: Meraki Ra1029m jersey hombre  Rojo  Wine   S
 ---
 
 Tienes [Meraki Ra1029m jersey hombre  Rojo  Wine   S](https://www.amazon.es/dp/B07TD6GLG3/?tag=tolees-21) con un 25.88 % de descuento con precio de oferta de 5.07 EUR (original: 6.84 EUR) en el siguiente enlace!

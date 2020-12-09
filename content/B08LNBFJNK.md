@@ -10,8 +10,11 @@ author: ring
 slug: B08LNBFJNK
 description:
 actualPrice: 99.37 EUR
+currency: EUR
+price: 99.37
 comparePrice: 141.95 EUR
 inStock: true
+prodname: CREATE IKOHS ELECTRIC FIRE - Chimenea Eléctrica de pantalla curva  Electric fire - M 28" 
 ---
 
 Está [CREATE IKOHS ELECTRIC FIRE - Chimenea Eléctrica de pantalla curva  Electric fire - M 28" ](https://www.amazon.es/dp/B08LNBFJNK/?tag=tolees-21) con 30.00 de descuento por 99.37 EUR (original: 141.95 EUR) en el siguiente enlace!

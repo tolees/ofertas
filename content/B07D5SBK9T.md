@@ -10,8 +10,11 @@ author: ring
 slug: B07D5SBK9T
 description:
 actualPrice: 14.51 EUR
+currency: EUR
+price: 14.51
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Puma Active Interlock Chándal  Hombre  Black  XXL
 ---
 
 Ahora mismo tienes [Puma Active Interlock Chándal  Hombre  Black  XXL](https://www.amazon.es/dp/B07D5SBK9T/?tag=tolees-21) a 14.51 EUR (original: 19.95 EUR) (27.27 %  de descuento) en el siguiente enlace!

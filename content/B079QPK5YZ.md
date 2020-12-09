@@ -10,8 +10,11 @@ author: ring
 slug: B079QPK5YZ
 description:
 actualPrice: 31.65 EUR
+currency: EUR
+price: 31.65
 comparePrice: 79 EUR
 inStock: true
+prodname: Hackett London Tie Trim PIQ  Polo para Niños  Azul 7 Años
 ---
 
 Está [Hackett London Tie Trim PIQ  Polo para Niños  Azul 7 Años](https://www.amazon.es/dp/B079QPK5YZ/?tag=tolees-21) con 59.94 de descuento por 31.65 EUR (original: 79 EUR) en el siguiente enlace!

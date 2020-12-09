@@ -10,8 +10,11 @@ author: ring
 slug: B07TPW2M4W
 description:
 actualPrice: 33.29 EUR
+currency: EUR
+price: 33.29
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Superdry Highwayman Trucker Chaqueta Vaquera  Gris  Silver City Grey P1p   XL para Hombre
 ---
 
 Ahora mismo tienes [Superdry Highwayman Trucker Chaqueta Vaquera  Gris  Silver City Grey P1p   XL para Hombre](https://www.amazon.es/dp/B07TPW2M4W/?tag=tolees-21) a 33.29 EUR (original: 89.99 EUR) (63.01 %  de descuento) en el siguiente enlace!

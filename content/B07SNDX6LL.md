@@ -10,8 +10,11 @@ author: ring
 slug: B07SNDX6LL
 description:
 actualPrice: 23.36 EUR
+currency: EUR
+price: 23.36
 comparePrice: 80.0 EUR
 inStock: true
+prodname: Dockers Alpha Original Khaki Skinny Vaqueros  Gris  Gray Breeze 0249   W36/L32  Talla del Fabricante: 36 32  para Hombre
 ---
 
 Tienes [Dockers Alpha Original Khaki Skinny Vaqueros  Gris  Gray Breeze 0249   W36/L32  Talla del Fabricante: 36 32  para Hombre](https://www.amazon.es/dp/B07SNDX6LL/?tag=tolees-21) con un 70.80 % de descuento con precio de oferta de 23.36 EUR (original: 80.0 EUR) en el siguiente enlace!

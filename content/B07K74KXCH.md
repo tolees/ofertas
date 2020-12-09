@@ -10,8 +10,11 @@ author: ring
 slug: B07K74KXCH
 description:
 actualPrice: 41.95 EUR
+currency: EUR
+price: 41.95
 comparePrice: 60 EUR
 inStock: true
+prodname: Asics Patriot 10  Zapatillas de Running para Hombre  Azul  Imperial/White 402   40 EU
 ---
 
 Ahora mismo tienes [Asics Patriot 10  Zapatillas de Running para Hombre  Azul  Imperial/White 402   40 EU](https://www.amazon.es/dp/B07K74KXCH/?tag=tolees-21) a 41.95 EUR (original: 60 EUR) (30.08 %  de descuento) en el siguiente enlace!

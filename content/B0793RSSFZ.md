@@ -10,8 +10,11 @@ author: ring
 slug: B0793RSSFZ
 description:
 actualPrice: 6.88 EUR
+currency: EUR
+price: 6.88
 comparePrice: 11.99 EUR
 inStock: true
+prodname: GreeSuit Pegatinas Antideslizantes Adhesivos de bañera - Apliques de Ducha para niños Calcas Apliques de baño Petaca  2-Pack Fish 
 ---
 
 Ahora mismo tienes [GreeSuit Pegatinas Antideslizantes Adhesivos de bañera - Apliques de Ducha para niños Calcas Apliques de baño Petaca  2-Pack Fish ](https://www.amazon.es/dp/B0793RSSFZ/?tag=tolees-21) a 6.88 EUR (original: 11.99 EUR) (42.62 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B079GRZTZ6
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Pokemon JCC Colección Especial Raichu-GX de Leyendas Luminosas - Español Color  Pokemon Company POGX1802
 ---
 
 Tienes [Pokemon JCC Colección Especial Raichu-GX de Leyendas Luminosas - Español Color  Pokemon Company POGX1802](https://www.amazon.es/dp/B079GRZTZ6/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

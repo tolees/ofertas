@@ -10,8 +10,11 @@ author: ring
 slug: B07N7P4LQZ
 description:
 actualPrice: 129.0 EUR
+currency: EUR
+price: 129.0
 comparePrice: 299.0 EUR
 inStock: true
+prodname: HUGO Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 1530028
 ---
 
 Ahora mismo tienes [HUGO Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 1530028](https://www.amazon.es/dp/B07N7P4LQZ/?tag=tolees-21) a 129.0 EUR (original: 299.0 EUR) (56.86 %  de descuento) en el siguiente enlace!

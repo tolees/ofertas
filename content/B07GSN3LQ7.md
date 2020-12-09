@@ -10,8 +10,11 @@ author: ring
 slug: B07GSN3LQ7
 description:
 actualPrice: 23.7 EUR
+currency: EUR
+price: 23.7
 comparePrice: 35.46 EUR
 inStock: true
+prodname: NIVEA Bajo la Ducha Loción Reafirmante Q10Plus en pack de 6  6 x 400 ml   loción corporal para piel seca y normal  acondicionador de piel de rápida absorción
 ---
 
 Está [NIVEA Bajo la Ducha Loción Reafirmante Q10Plus en pack de 6  6 x 400 ml   loción corporal para piel seca y normal  acondicionador de piel de rápida absorción](https://www.amazon.es/dp/B07GSN3LQ7/?tag=tolees-21) con 33.16 de descuento por 23.7 EUR (original: 35.46 EUR) en el siguiente enlace!

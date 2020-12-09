@@ -10,8 +10,11 @@ author: ring
 slug: B07JPFMSN2
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Belkin PowerHouse  Base de carga inalámbrica para Apple iPhone 11/11 Pro/11 Pro Max  X/XS/XS Max/XR  SE  8/8 Plus  Apple Watch 5 4 3 2 1 y Airpods  blanco
 ---
 
 Tienes [Belkin PowerHouse  Base de carga inalámbrica para Apple iPhone 11/11 Pro/11 Pro Max  X/XS/XS Max/XR  SE  8/8 Plus  Apple Watch 5 4 3 2 1 y Airpods  blanco](https://www.amazon.es/dp/B07JPFMSN2/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 99.99 EUR (original: 149.99 EUR) en el siguiente enlace!

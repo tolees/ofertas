@@ -10,8 +10,11 @@ author: ring
 slug: B07HWYX1Z2
 description:
 actualPrice: 202 EUR
+currency: EUR
+price: 202
 comparePrice: 279 EUR
 inStock: true
+prodname: Leonhard Heyden Chicago Mochila para portátil 15.6? Negro
 ---
 
 Tienes [Leonhard Heyden Chicago Mochila para portátil 15.6? Negro](https://www.amazon.es/dp/B07HWYX1Z2/?tag=tolees-21) con un 27.60 % de descuento con precio de oferta de 202 EUR (original: 279 EUR) en el siguiente enlace!

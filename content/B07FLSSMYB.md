@@ -10,8 +10,11 @@ author: ring
 slug: B07FLSSMYB
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 4599 EUR
 inStock: true
+prodname: Pulsera Actividad  Reloj deportivo Inteligente Fitness Tracker con Monitor de Ritmo Cardíaco las 24 Horas / Impermeable IP68 / Monitor de Sueño / SMS/ Mensajes para Facebook WhatsApp Twitter y Más
 ---
 
 Está [Pulsera Actividad  Reloj deportivo Inteligente Fitness Tracker con Monitor de Ritmo Cardíaco las 24 Horas / Impermeable IP68 / Monitor de Sueño / SMS/ Mensajes para Facebook WhatsApp Twitter y Más](https://www.amazon.es/dp/B07FLSSMYB/?tag=tolees-21) con 99.57 de descuento por 19.99 EUR (original: 4599 EUR) en el siguiente enlace!

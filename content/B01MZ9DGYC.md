@@ -10,8 +10,11 @@ author: ring
 slug: B01MZ9DGYC
 description:
 actualPrice: 98.36 EUR
+currency: EUR
+price: 98.36
 comparePrice: 374 EUR
 inStock: true
+prodname: Jimmy Choo Mask/S M3 138  Gafas de Sol para Mujer  Gris  Rosegold Silver Grey Speckled   99
 ---
 
 Tienes [Jimmy Choo Mask/S M3 138  Gafas de Sol para Mujer  Gris  Rosegold Silver Grey Speckled   99](https://www.amazon.es/dp/B01MZ9DGYC/?tag=tolees-21) con un 73.70 % de descuento con precio de oferta de 98.36 EUR (original: 374 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B008AGPOOS
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Ultrasport  Pantalones deportivos 3/4 para Mujer  Negro/Naranja  XS
 ---
 
 Está [Ultrasport  Pantalones deportivos 3/4 para Mujer  Negro/Naranja  XS](https://www.amazon.es/dp/B008AGPOOS/?tag=tolees-21) con 71.42 de descuento por 9.99 EUR (original: 34.95 EUR) en el siguiente enlace!

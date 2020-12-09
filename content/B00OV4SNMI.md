@@ -10,8 +10,11 @@ author: ring
 slug: B00OV4SNMI
 description:
 actualPrice: 23.5 EUR
+currency: EUR
+price: 23.5
 comparePrice: 36.9 EUR
 inStock: true
+prodname: Lékué Kit Libro + Estuche de Vapor  Verde  3-4 Personas
 ---
 
 Ahora mismo tienes [Lékué Kit Libro + Estuche de Vapor  Verde  3-4 Personas](https://www.amazon.es/dp/B00OV4SNMI/?tag=tolees-21) a 23.5 EUR (original: 36.9 EUR) (36.31 %  de descuento) en el siguiente enlace!

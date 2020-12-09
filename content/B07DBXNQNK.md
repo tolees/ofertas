@@ -10,8 +10,11 @@ author: ring
 slug: B07DBXNQNK
 description:
 actualPrice: 24.01 EUR
+currency: EUR
+price: 24.01
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Puma Urban Plus SD  Zapatillas Unisex Adults o  Beige Taos Taupe  38 EU
 ---
 
 Está [Puma Urban Plus SD  Zapatillas Unisex Adults o  Beige Taos Taupe  38 EU](https://www.amazon.es/dp/B07DBXNQNK/?tag=tolees-21) con 56.31 de descuento por 24.01 EUR (original: 54.95 EUR) en el siguiente enlace!

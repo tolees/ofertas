@@ -10,8 +10,11 @@ author: ring
 slug: B08K8QKMQG
 description:
 actualPrice: 94.99 EUR
+currency: EUR
+price: 94.99
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Victure AC920 Cámara Deportiva 4K 60FPS 20MP Wi-Fi  Cámara de Acción Pantalla Táctil Zoom 8X  Micrófono Dual  Control Remoto  EIS Mejorado  Camara Subacuática 40M Modo de Buceo  Baterías 2x1350mAh 
 ---
 
 Ahora mismo tienes [Victure AC920 Cámara Deportiva 4K 60FPS 20MP Wi-Fi  Cámara de Acción Pantalla Táctil Zoom 8X  Micrófono Dual  Control Remoto  EIS Mejorado  Camara Subacuática 40M Modo de Buceo  Baterías 2x1350mAh ](https://www.amazon.es/dp/B08K8QKMQG/?tag=tolees-21) a 94.99 EUR (original: 129.99 EUR) (26.93 %  de descuento) en el siguiente enlace!

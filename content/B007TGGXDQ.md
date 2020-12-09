@@ -10,8 +10,11 @@ author: ring
 slug: B007TGGXDQ
 description:
 actualPrice: 11.06 EUR
+currency: EUR
+price: 11.06
 comparePrice: 22.21 EUR
 inStock: true
+prodname: Eryplast Lutsine E45 - Pasta al Agua Crema Pañal Bebé - 200 gr
 ---
 
 Tienes [Eryplast Lutsine E45 - Pasta al Agua Crema Pañal Bebé - 200 gr](https://www.amazon.es/dp/B007TGGXDQ/?tag=tolees-21) con un 50.20 % de descuento con precio de oferta de 11.06 EUR (original: 22.21 EUR) en el siguiente enlace!

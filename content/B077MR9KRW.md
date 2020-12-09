@@ -10,8 +10,11 @@ author: ring
 slug: B077MR9KRW
 description:
 actualPrice: 26 EUR
+currency: EUR
+price: 26
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Puma Tsugi Apex Wn s  Zapatillas para Mujer  Negro Black White  38 EU
 ---
 
 Está [Puma Tsugi Apex Wn s  Zapatillas para Mujer  Negro Black White  38 EU](https://www.amazon.es/dp/B077MR9KRW/?tag=tolees-21) con 73.99 de descuento por 26 EUR (original: 99.95 EUR) en el siguiente enlace!

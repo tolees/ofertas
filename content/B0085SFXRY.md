@@ -10,8 +10,11 @@ author: ring
 slug: B0085SFXRY
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 12.95 EUR
 inStock: true
+prodname: Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  Grau  LIGHT GREY MELANGE JJ LIGHT GREY MELANGE   Medium
 ---
 
 Está [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para hombre  Grau  LIGHT GREY MELANGE JJ LIGHT GREY MELANGE   Medium](https://www.amazon.es/dp/B0085SFXRY/?tag=tolees-21) con 46.02 de descuento por 6.99 EUR (original: 12.95 EUR) en el siguiente enlace!

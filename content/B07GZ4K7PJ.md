@@ -10,8 +10,11 @@ author: ring
 slug: B07GZ4K7PJ
 description:
 actualPrice: 27.41 EUR
+currency: EUR
+price: 27.41
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Desigual Girl Knit Dress Sleeveless  Vest_Bamako   Vestido Niñas  Azul  Navy 5000   116  Talla del Fabricante: 5/6 
 ---
 
 Está [Desigual Girl Knit Dress Sleeveless  Vest_Bamako   Vestido Niñas  Azul  Navy 5000   116  Talla del Fabricante: 5/6 ](https://www.amazon.es/dp/B07GZ4K7PJ/?tag=tolees-21) con 45.13 de descuento por 27.41 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07WTBZ4M9
 description:
 actualPrice: 3.09 EUR
+currency: EUR
+price: 3.09
 comparePrice: 6.21 EUR
 inStock: true
+prodname: Amazon Brand - Happy Belly - Albahaca seca - 4x15g
 ---
 
 Tienes [Amazon Brand - Happy Belly - Albahaca seca - 4x15g](https://www.amazon.es/dp/B07WTBZ4M9/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 3.09 EUR (original: 6.21 EUR) en el siguiente enlace!

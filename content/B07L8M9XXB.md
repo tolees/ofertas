@@ -10,8 +10,11 @@ author: ring
 slug: B07L8M9XXB
 description:
 actualPrice: 6.52 EUR
+currency: EUR
+price: 6.52
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Edge Entertainment Munchkin Navidades Light - Español
 ---
 
 Tienes [Edge Entertainment Munchkin Navidades Light - Español](https://www.amazon.es/dp/B07L8M9XXB/?tag=tolees-21) con un 67.32 % de descuento con precio de oferta de 6.52 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07G9WMC8P
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Sexy Conjuntos Lencería Mujer erótico Transparente Lace Lenceria Erotica Babydoll Interior Ropa de Dormir Mujer Sexy Pijama Vestido Corto Encaje Floral Kimono Bata
 ---
 
 Ahora mismo tienes [Sexy Conjuntos Lencería Mujer erótico Transparente Lace Lenceria Erotica Babydoll Interior Ropa de Dormir Mujer Sexy Pijama Vestido Corto Encaje Floral Kimono Bata](https://www.amazon.es/dp/B07G9WMC8P/?tag=tolees-21) a 4.99 EUR (original: 9.99 EUR) (50.05 %  de descuento) en el siguiente enlace!

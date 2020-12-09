@@ -10,8 +10,11 @@ author: ring
 slug: B07M8R1SBX
 description:
 actualPrice: 24 EUR
+currency: EUR
+price: 24
 comparePrice: 39.99 EUR
 inStock: true
+prodname: MTNG Collection 51091  Sandalia con Pulsera para Mujer  Marfil  Nobuk Nude C44969   37 EU
 ---
 
 Tienes [MTNG Collection 51091  Sandalia con Pulsera para Mujer  Marfil  Nobuk Nude C44969   37 EU](https://www.amazon.es/dp/B07M8R1SBX/?tag=tolees-21) con un 39.98 % de descuento con precio de oferta de 24 EUR (original: 39.99 EUR) en el siguiente enlace!

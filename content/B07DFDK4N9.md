@@ -10,8 +10,11 @@ author: ring
 slug: B07DFDK4N9
 description:
 actualPrice: 9.75 EUR
+currency: EUR
+price: 9.75
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Funko - Space Invaders Statue   32454 
 ---
 
 Ahora mismo tienes [Funko - Space Invaders Statue   32454 ](https://www.amazon.es/dp/B07DFDK4N9/?tag=tolees-21) a 9.75 EUR (original: 15.95 EUR) (38.87 %  de descuento) en el siguiente enlace!

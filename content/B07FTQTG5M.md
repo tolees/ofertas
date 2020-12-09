@@ -10,8 +10,11 @@ author: ring
 slug: B07FTQTG5M
 description:
 actualPrice: 69.97 EUR
+currency: EUR
+price: 69.97
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Slim Rider Chaqueta Vaquera  Marfil  Light Rugged GE   38  Talla del Fabricante: X-Small  para Mujer
 ---
 
 Ahora mismo tienes [Lee Slim Rider Chaqueta Vaquera  Marfil  Light Rugged GE   38  Talla del Fabricante: X-Small  para Mujer](https://www.amazon.es/dp/B07FTQTG5M/?tag=tolees-21) a 69.97 EUR (original: 99.95 EUR) (29.99 %  de descuento) en el siguiente enlace!

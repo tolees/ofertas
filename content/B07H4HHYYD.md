@@ -10,8 +10,11 @@ author: ring
 slug: B07H4HHYYD
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: ValueHall Manguera de Ducha 1.5m Flexible Acero inoxidable Tubo de manguera de ducha Acabado cromado V7052
 ---
 
 Tienes [ValueHall Manguera de Ducha 1.5m Flexible Acero inoxidable Tubo de manguera de ducha Acabado cromado V7052](https://www.amazon.es/dp/B07H4HHYYD/?tag=tolees-21) con un 34.80 % de descuento con precio de oferta de 14.99 EUR (original: 22.99 EUR) en el siguiente enlace!

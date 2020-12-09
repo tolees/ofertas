@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.02 % en THE G-LAB K-Pad Thorium Mando Gaming PC '
+title: 'THE G-LAB K-Pad Thorium Mando Gaming PC  al 35.02 % de descuento'
 date: 2020-12-08 13:34:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RL7IXVVJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RL7IXVVJL._SL200_.jpg' ]
@@ -10,15 +10,18 @@ author: ring
 slug: B07X5DZ8QS
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: THE G-LAB K-Pad Thorium Mando Gaming PC & PS3 con USB - Vibración Incorporada - Joystick para PC con Windows XP-7-8-10  PS3  Android  Negro 
 ---
 
-Tienes [THE G-LAB K-Pad Thorium Mando Gaming PC & PS3 con USB - Vibración Incorporada - Joystick para PC con Windows XP-7-8-10  PS3  Android  Negro ](https://www.amazon.es/dp/B07X5DZ8QS/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+Está [THE G-LAB K-Pad Thorium Mando Gaming PC & PS3 con USB - Vibración Incorporada - Joystick para PC con Windows XP-7-8-10  PS3  Android  Negro ](https://www.amazon.es/dp/B07X5DZ8QS/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![THE G-LAB K-Pad Thorium Mando Gaming PC ](https://m.media-amazon.com/images/I/41RL7IXVVJL._SL200_.jpg)](https://www.amazon.es/dp/B07X5DZ8QS/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B07X5DZ8QS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07X5DZ8QS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

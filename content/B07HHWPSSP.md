@@ -10,8 +10,11 @@ author: ring
 slug: B07HHWPSSP
 description:
 actualPrice: 10.87 EUR
+currency: EUR
+price: 10.87
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Timbre Inalámbrico sin Pilas  OMERIL Timbres Inalámbricos Exterior Impermeable  150M de Alcance  5 Niveles de Volumen  0dB - 110dB   52 Melodías  Indicadores LED - Autoalimentado
 ---
 
 Tienes [Timbre Inalámbrico sin Pilas  OMERIL Timbres Inalámbricos Exterior Impermeable  150M de Alcance  5 Niveles de Volumen  0dB - 110dB   52 Melodías  Indicadores LED - Autoalimentado](https://www.amazon.es/dp/B07HHWPSSP/?tag=tolees-21) con un 32.02 % de descuento con precio de oferta de 10.87 EUR (original: 15.99 EUR) en el siguiente enlace!

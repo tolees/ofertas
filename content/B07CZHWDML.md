@@ -10,8 +10,11 @@ author: ring
 slug: B07CZHWDML
 description:
 actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
 comparePrice: 20.0 EUR
 inStock: true
+prodname: Under Armour Men s Golf Headline Cap 3.0 Visera Clásica  Gorra para Hombre  Academy/Mod Gray  408   M/L
 ---
 
 Está [Under Armour Men s Golf Headline Cap 3.0 Visera Clásica  Gorra para Hombre  Academy/Mod Gray  408   M/L](https://www.amazon.es/dp/B07CZHWDML/?tag=tolees-21) con 40.25 de descuento por 11.95 EUR (original: 20.0 EUR) en el siguiente enlace!

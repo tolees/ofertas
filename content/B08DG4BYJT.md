@@ -10,8 +10,11 @@ author: ring
 slug: B08DG4BYJT
 description:
 actualPrice: 29.41 EUR
+currency: EUR
+price: 29.41
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Ravensburger Regreso al futuro - Versión española  Light Strategy Game  2-4 Jugadores  Edad recomendada 10+  26894 
 ---
 
 Ahora mismo tienes [Ravensburger Regreso al futuro - Versión española  Light Strategy Game  2-4 Jugadores  Edad recomendada 10+  26894 ](https://www.amazon.es/dp/B08DG4BYJT/?tag=tolees-21) a 29.41 EUR (original: 39.99 EUR) (26.46 %  de descuento) en el siguiente enlace!

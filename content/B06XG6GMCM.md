@@ -10,8 +10,11 @@ author: ring
 slug: B06XG6GMCM
 description:
 actualPrice: 22.31 EUR
+currency: EUR
+price: 22.31
 comparePrice: 55 EUR
 inStock: true
+prodname: FIND Mocasines Borlas Texturizado en Piel para Hombre  Negro  Black   47 EU
 ---
 
 Está [FIND Mocasines Borlas Texturizado en Piel para Hombre  Negro  Black   47 EU](https://www.amazon.es/dp/B06XG6GMCM/?tag=tolees-21) con 59.44 de descuento por 22.31 EUR (original: 55 EUR) en el siguiente enlace!

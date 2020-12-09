@@ -10,8 +10,11 @@ author: ring
 slug: B07R64LGRZ
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: HAMSWAN Depiladora Facial Electronica Cuidado sin Dolor 4 en 1  [2019 Versión] Afeitadora Mujer USB Recargable con 4 Cabezales Impermeables para Vello  Cejas  Piernas  Nariz Barbilla y Bikini etc.
 ---
 
 Está [HAMSWAN Depiladora Facial Electronica Cuidado sin Dolor 4 en 1  [2019 Versión] Afeitadora Mujer USB Recargable con 4 Cabezales Impermeables para Vello  Cejas  Piernas  Nariz Barbilla y Bikini etc.](https://www.amazon.es/dp/B07R64LGRZ/?tag=tolees-21) con 63.06 de descuento por 16.99 EUR (original: 45.99 EUR) en el siguiente enlace!

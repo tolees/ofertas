@@ -10,8 +10,11 @@ author: ring
 slug: B07GXNMHWX
 description:
 actualPrice: 89.0 EUR
+currency: EUR
+price: 89.0
 comparePrice: 159.0 EUR
 inStock: true
+prodname: Chicco Polly2Star - Trona y hamaca transformable y compacta  con 4 ruedas y freno  de 0 a 3 años  diseño gato rosa  Miss Pink 
 ---
 
 Está [Chicco Polly2Star - Trona y hamaca transformable y compacta  con 4 ruedas y freno  de 0 a 3 años  diseño gato rosa  Miss Pink ](https://www.amazon.es/dp/B07GXNMHWX/?tag=tolees-21) con 44.03 de descuento por 89.0 EUR (original: 159.0 EUR) en el siguiente enlace!

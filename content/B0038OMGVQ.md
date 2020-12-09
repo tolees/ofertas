@@ -10,8 +10,11 @@ author: ring
 slug: B0038OMGVQ
 description:
 actualPrice: 76.0 EUR
+currency: EUR
+price: 76.0
 comparePrice: 160.0 EUR
 inStock: true
+prodname: CAMPER  Peu Cami  Damen Sneakers  Schwarz  Black   37 EU
 ---
 
 Ahora mismo tienes [CAMPER  Peu Cami  Damen Sneakers  Schwarz  Black   37 EU](https://www.amazon.es/dp/B0038OMGVQ/?tag=tolees-21) a 76.0 EUR (original: 160.0 EUR) (52.50 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B015DJARL4
 description:
 actualPrice: 11 EUR
+currency: EUR
+price: 11
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Camelbak- Eddy Cardinal  Botella de agua  750 ml
 ---
 
 Tienes [Camelbak- Eddy Cardinal  Botella de agua  750 ml](https://www.amazon.es/dp/B015DJARL4/?tag=tolees-21) con un 38.72 % de descuento con precio de oferta de 11 EUR (original: 17.95 EUR) en el siguiente enlace!

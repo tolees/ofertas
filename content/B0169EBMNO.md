@@ -10,8 +10,11 @@ author: ring
 slug: B0169EBMNO
 description:
 actualPrice: 82.88 EUR
+currency: EUR
+price: 82.88
 comparePrice: 149.0 EUR
 inStock: true
+prodname: Lodel RA6 - Emisor Térmico Digital Bajo Consumo  900 de Potencia  6 Elementos  Programable  Diseño Ultrafino y Ligero
 ---
 
 Está [Lodel RA6 - Emisor Térmico Digital Bajo Consumo  900 de Potencia  6 Elementos  Programable  Diseño Ultrafino y Ligero](https://www.amazon.es/dp/B0169EBMNO/?tag=tolees-21) con 44.38 de descuento por 82.88 EUR (original: 149.0 EUR) en el siguiente enlace!

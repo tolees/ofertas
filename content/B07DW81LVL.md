@@ -10,8 +10,11 @@ author: ring
 slug: B07DW81LVL
 description:
 actualPrice: 11.49 EUR
+currency: EUR
+price: 11.49
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Hummel Hmlangel S/S Top  Unisex niños  Azul  Total Eclipse   128
 ---
 
 Ahora mismo tienes [Hummel Hmlangel S/S Top  Unisex niños  Azul  Total Eclipse   128](https://www.amazon.es/dp/B07DW81LVL/?tag=tolees-21) a 11.49 EUR (original: 24.95 EUR) (53.95 %  de descuento) en el siguiente enlace!

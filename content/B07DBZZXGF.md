@@ -10,8 +10,11 @@ author: ring
 slug: B07DBZZXGF
 description:
 actualPrice: 35.56 EUR
+currency: EUR
+price: 35.56
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Puma Persist XT  Zapatillas de Deporte para Hombre  Negro Black  44 EU
 ---
 
 Ahora mismo tienes [Puma Persist XT  Zapatillas de Deporte para Hombre  Negro Black  44 EU](https://www.amazon.es/dp/B07DBZZXGF/?tag=tolees-21) a 35.56 EUR (original: 59.95 EUR) (40.68 %  de descuento) en el siguiente enlace!

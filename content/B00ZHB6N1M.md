@@ -10,8 +10,11 @@ author: ring
 slug: B00ZHB6N1M
 description:
 actualPrice: 58.0 EUR
+currency: EUR
+price: 58.0
 comparePrice: 96.99 EUR
 inStock: true
+prodname: Braun Series 3 ProSkin 3020s Afeitadora Eléctrica Hombre  Afeitadora Barba Inalámbrica y Recargable  Máquina de Afeitar para Hombre  Negro
 ---
 
 Ahora mismo tienes [Braun Series 3 ProSkin 3020s Afeitadora Eléctrica Hombre  Afeitadora Barba Inalámbrica y Recargable  Máquina de Afeitar para Hombre  Negro](https://www.amazon.es/dp/B00ZHB6N1M/?tag=tolees-21) a 58.0 EUR (original: 96.99 EUR) (40.20 %  de descuento) en el siguiente enlace!

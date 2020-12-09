@@ -10,8 +10,11 @@ author: ring
 slug: B01MU1K4IC
 description:
 actualPrice: 14.2 EUR
+currency: EUR
+price: 14.2
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Kappa Kickoff  Zapatillas de Deporte Interior Unisex Niños  Amarillo  Yellow/Black 4011   37 EU
 ---
 
 Ahora mismo tienes [Kappa Kickoff  Zapatillas de Deporte Interior Unisex Niños  Amarillo  Yellow/Black 4011   37 EU](https://www.amazon.es/dp/B01MU1K4IC/?tag=tolees-21) a 14.2 EUR (original: 39.95 EUR) (64.46 %  de descuento) en el siguiente enlace!

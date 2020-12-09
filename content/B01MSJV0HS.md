@@ -10,8 +10,11 @@ author: ring
 slug: B01MSJV0HS
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 9 EUR
 inStock: true
+prodname: Umbro King Jnr Pantalones de Fútbol  Niños   Negro 001   158 cm
 ---
 
 Ahora mismo tienes [Umbro King Jnr Pantalones de Fútbol  Niños   Negro 001   158 cm](https://www.amazon.es/dp/B01MSJV0HS/?tag=tolees-21) a 5.95 EUR (original: 9 EUR) (33.89 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07THTQHWV
 description:
 actualPrice: 149.0 EUR
+currency: EUR
+price: 149.0
 comparePrice: 259.0 EUR
 inStock: true
+prodname: Cecotec Robot Aspirador y Fregasuelos Conga Serie 1099 Connected. 1400 Pa  Aspira  Barre  Friega y Pasa la Mopa  Cepillo Especial Mascotas  Mando a Distancia  Compatible con Alexa y Google Home  Muro Magnético
 ---
 
 Está [Cecotec Robot Aspirador y Fregasuelos Conga Serie 1099 Connected. 1400 Pa  Aspira  Barre  Friega y Pasa la Mopa  Cepillo Especial Mascotas  Mando a Distancia  Compatible con Alexa y Google Home  Muro Magnético](https://www.amazon.es/dp/B07THTQHWV/?tag=tolees-21) con 42.47 de descuento por 149.0 EUR (original: 259.0 EUR) en el siguiente enlace!

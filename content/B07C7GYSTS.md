@@ -10,14 +10,19 @@ author: ring
 slug: B07C7GYSTS
 description:
 actualPrice: 74.99 EUR
+currency: EUR
+price: 74.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: WORX WG894E Serrucho Multifunción  20 V
 ---
 
-Ahora mismo tienes [WORX WG894E Serrucho Multifunción  20 V](https://www.amazon.es/dp/B07C7GYSTS/?tag=tolees-21) a 74.99 EUR (original: 99.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
+Está [WORX WG894E Serrucho Multifunción  20 V](https://www.amazon.es/dp/B07C7GYSTS/?tag=tolees-21) con 25.00 de descuento por 74.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![WORX WG894E Serrucho Multifunción  20 V](https://m.media-amazon.com/images/I/41goNcM-8DL._SL200_.jpg)](https://www.amazon.es/dp/B07C7GYSTS/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07C7GYSTS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07C7GYSTS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -10,8 +10,11 @@ author: ring
 slug: B01E7MPYAW
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 11.9 EUR
 inStock: true
+prodname: Lékué Espátula Smart Tool  Silicona  Azul  0 cm
 ---
 
 Tienes [Lékué Espátula Smart Tool  Silicona  Azul  0 cm](https://www.amazon.es/dp/B01E7MPYAW/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 5.95 EUR (original: 11.9 EUR) en el siguiente enlace!

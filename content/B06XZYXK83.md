@@ -10,8 +10,11 @@ author: ring
 slug: B06XZYXK83
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Marco Tozzi 25308  Botas para Mujer  Rojo  Chianti A.c.   37 EU
 ---
 
 Ahora mismo tienes [Marco Tozzi 25308  Botas para Mujer  Rojo  Chianti A.c.   37 EU](https://www.amazon.es/dp/B06XZYXK83/?tag=tolees-21) a 22.99 EUR (original: 49.95 EUR) (53.97 %  de descuento) en el siguiente enlace!

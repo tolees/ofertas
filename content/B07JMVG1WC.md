@@ -10,8 +10,11 @@ author: ring
 slug: B07JMVG1WC
 description:
 actualPrice: 104.94 EUR
+currency: EUR
+price: 104.94
 comparePrice: 145.24 EUR
 inStock: true
+prodname: Bresser Profesional Centro METEOROLÓGICO Color 5-EN-1 Sensor-P  Negro
 ---
 
 Tienes [Bresser Profesional Centro METEOROLÓGICO Color 5-EN-1 Sensor-P  Negro](https://www.amazon.es/dp/B07JMVG1WC/?tag=tolees-21) con un 27.75 % de descuento con precio de oferta de 104.94 EUR (original: 145.24 EUR) en el siguiente enlace!

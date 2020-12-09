@@ -10,8 +10,11 @@ author: ring
 slug: B07F1VQGPN
 description:
 actualPrice: 24.14 EUR
+currency: EUR
+price: 24.14
 comparePrice: 49.99 EUR
 inStock: true
+prodname: K-Swiss Bridgeport II  Zapatillas Unisex Adulto  Negro  Black/Charcoal/Stingray 047   46 EU
 ---
 
 Ahora mismo tienes [K-Swiss Bridgeport II  Zapatillas Unisex Adulto  Negro  Black/Charcoal/Stingray 047   46 EU](https://www.amazon.es/dp/B07F1VQGPN/?tag=tolees-21) a 24.14 EUR (original: 49.99 EUR) (51.71 %  de descuento) en el siguiente enlace!

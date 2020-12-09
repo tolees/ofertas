@@ -10,8 +10,11 @@ author: ring
 slug: B00B2YHE4I
 description:
 actualPrice: 29.49 EUR
+currency: EUR
+price: 29.49
 comparePrice: 49 EUR
 inStock: true
+prodname: OMRON BF212 - Báscula de baño digital con análisis de composición corporal  porcentaje de grasa corporal  IMC  memoria para 4 personas
 ---
 
 Tienes [OMRON BF212 - Báscula de baño digital con análisis de composición corporal  porcentaje de grasa corporal  IMC  memoria para 4 personas](https://www.amazon.es/dp/B00B2YHE4I/?tag=tolees-21) con un 39.82 % de descuento con precio de oferta de 29.49 EUR (original: 49 EUR) en el siguiente enlace!

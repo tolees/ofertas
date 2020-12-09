@@ -10,8 +10,11 @@ author: ring
 slug: B00BHHNDB8
 description:
 actualPrice: 36.75 EUR
+currency: EUR
+price: 36.75
 comparePrice: 49.51 EUR
 inStock: true
+prodname: Bahco 4128-JT-H - Serrucho Poda 28 Cm + Funda
 ---
 
 Tienes [Bahco 4128-JT-H - Serrucho Poda 28 Cm + Funda](https://www.amazon.es/dp/B00BHHNDB8/?tag=tolees-21) con un 25.77 % de descuento con precio de oferta de 36.75 EUR (original: 49.51 EUR) en el siguiente enlace!

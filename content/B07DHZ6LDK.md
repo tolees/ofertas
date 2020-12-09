@@ -10,8 +10,11 @@ author: ring
 slug: B07DHZ6LDK
 description:
 actualPrice: 66.17 EUR
+currency: EUR
+price: 66.17
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D Sukie a  Zapatillas para Mujer  Beige  Lt Grey C1010   38 EU
 ---
 
 Ahora mismo tienes [Geox D Sukie a  Zapatillas para Mujer  Beige  Lt Grey C1010   38 EU](https://www.amazon.es/dp/B07DHZ6LDK/?tag=tolees-21) a 66.17 EUR (original: 99.9 EUR) (33.76 %  de descuento) en el siguiente enlace!

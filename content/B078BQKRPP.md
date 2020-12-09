@@ -10,8 +10,11 @@ author: ring
 slug: B078BQKRPP
 description:
 actualPrice: 118.9 EUR
+currency: EUR
+price: 118.9
 comparePrice: 170 EUR
 inStock: true
+prodname: Brooks Glycerin 16  Zapatillas de Running para Hombre   Black/Orange/Grey 069   44 EU
 ---
 
 Está [Brooks Glycerin 16  Zapatillas de Running para Hombre   Black/Orange/Grey 069   44 EU](https://www.amazon.es/dp/B078BQKRPP/?tag=tolees-21) con 30.06 de descuento por 118.9 EUR (original: 170 EUR) en el siguiente enlace!

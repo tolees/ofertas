@@ -10,8 +10,11 @@ author: ring
 slug: B089VN7FCJ
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 22.2 EUR
 inStock: true
+prodname: EVQ Ice Cream Scoop  Cuchara para Helado Antiadherente 3pcs Cuchara Helado 304 Acero Inoxidable  Dosificador Racionador para Helado Frutas Galletas de Mash Alimentación Cuchara Cocina Herramienta
 ---
 
 Está [EVQ Ice Cream Scoop  Cuchara para Helado Antiadherente 3pcs Cuchara Helado 304 Acero Inoxidable  Dosificador Racionador para Helado Frutas Galletas de Mash Alimentación Cuchara Cocina Herramienta](https://www.amazon.es/dp/B089VN7FCJ/?tag=tolees-21) con 41.49 de descuento por 12.99 EUR (original: 22.2 EUR) en el siguiente enlace!

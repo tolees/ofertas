@@ -10,8 +10,11 @@ author: ring
 slug: B07N3XJ7CT
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 15 EUR
 inStock: true
+prodname: SYOSS - Hair Mascara - Cubre Canas - Color Castaño Chocolate - 2 uds de 16ml
 ---
 
 Está [SYOSS - Hair Mascara - Cubre Canas - Color Castaño Chocolate - 2 uds de 16ml](https://www.amazon.es/dp/B07N3XJ7CT/?tag=tolees-21) con 60.07 de descuento por 5.99 EUR (original: 15 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BDQVNYW
 description:
 actualPrice: 16.09 EUR
+currency: EUR
+price: 16.09
 comparePrice: 22.99 EUR
 inStock: true
+prodname: ThinkFun 76368  Escape The Room: Misterio en la Mansión del Observatorio  Juego de mesa  Versión en Español  3-8 Jugadores  Edad Recomendada 10+
 ---
 
 Ahora mismo tienes [ThinkFun 76368  Escape The Room: Misterio en la Mansión del Observatorio  Juego de mesa  Versión en Español  3-8 Jugadores  Edad Recomendada 10+](https://www.amazon.es/dp/B07BDQVNYW/?tag=tolees-21) a 16.09 EUR (original: 22.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ2FGTB
 description:
 actualPrice: 31.29 EUR
+currency: EUR
+price: 31.29
 comparePrice: 75 EUR
 inStock: true
+prodname: New Balance Gw500v1  Zapatillas de Deporte para Mujer  Blanco  Munsell White/Dark Violet Glo/Platinum Sky Swv   36 EU
 ---
 
 Ahora mismo tienes [New Balance Gw500v1  Zapatillas de Deporte para Mujer  Blanco  Munsell White/Dark Violet Glo/Platinum Sky Swv   36 EU](https://www.amazon.es/dp/B07DJ2FGTB/?tag=tolees-21) a 31.29 EUR (original: 75 EUR) (58.28 %  de descuento) en el siguiente enlace!

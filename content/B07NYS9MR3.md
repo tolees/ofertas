@@ -10,8 +10,11 @@ author: ring
 slug: B07NYS9MR3
 description:
 actualPrice: 16.46 EUR
+currency: EUR
+price: 16.46
 comparePrice: 21.95 EUR
 inStock: true
+prodname: Crema facial de noche para mujer con sérum de ácido hialurónico y retinol - crema de cara hidratante para el contorno de ojos antiarrugas - cosmética natural  fabricada en Alemania
 ---
 
 Está [Crema facial de noche para mujer con sérum de ácido hialurónico y retinol - crema de cara hidratante para el contorno de ojos antiarrugas - cosmética natural  fabricada en Alemania](https://www.amazon.es/dp/B07NYS9MR3/?tag=tolees-21) con 25.01 de descuento por 16.46 EUR (original: 21.95 EUR) en el siguiente enlace!

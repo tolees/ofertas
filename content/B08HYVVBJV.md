@@ -10,8 +10,11 @@ author: ring
 slug: B08HYVVBJV
 description:
 actualPrice: 16.14 EUR
+currency: EUR
+price: 16.14
 comparePrice: 32.28 EUR
 inStock: true
+prodname: WOWOWO muñeco de gnomo Sueco Hecho a Mano de Navidad Adornos Extensible de pie figurita de Juguete
 ---
 
 Tienes [WOWOWO muñeco de gnomo Sueco Hecho a Mano de Navidad Adornos Extensible de pie figurita de Juguete](https://www.amazon.es/dp/B08HYVVBJV/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 16.14 EUR (original: 32.28 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B016BJ7KZQ
 description:
 actualPrice: 62.46 EUR
+currency: EUR
+price: 62.46
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Oregon Scientific RAR-502 Estación meteorológica multizona  Negro  6x21x15 cm
 ---
 
 Está [Oregon Scientific RAR-502 Estación meteorológica multizona  Negro  6x21x15 cm](https://www.amazon.es/dp/B016BJ7KZQ/?tag=tolees-21) con 30.59 de descuento por 62.46 EUR (original: 89.99 EUR) en el siguiente enlace!

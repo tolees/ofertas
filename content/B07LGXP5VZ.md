@@ -10,8 +10,11 @@ author: ring
 slug: B07LGXP5VZ
 description:
 actualPrice: 35 EUR
+currency: EUR
+price: 35
 comparePrice: 70 EUR
 inStock: true
+prodname: The North Face Drew Peak Crew Light - Sudadera Ligera  Hombre  TNF White  M
 ---
 
 Tienes [The North Face Drew Peak Crew Light - Sudadera Ligera  Hombre  TNF White  M](https://www.amazon.es/dp/B07LGXP5VZ/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 35 EUR (original: 70 EUR) en el siguiente enlace!

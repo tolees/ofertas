@@ -10,8 +10,11 @@ author: ring
 slug: B005T3GRNW
 description:
 actualPrice: 45 EUR
+currency: EUR
+price: 45
 comparePrice: 60.35 EUR
 inStock: true
+prodname: Seagate Barracuda ST1000DM003 - Disco duro interno de 1 TB  SATA III  7200 RPM  3.5" 
 ---
 
 Ahora mismo tienes [Seagate Barracuda ST1000DM003 - Disco duro interno de 1 TB  SATA III  7200 RPM  3.5" ](https://www.amazon.es/dp/B005T3GRNW/?tag=tolees-21) a 45 EUR (original: 60.35 EUR) (25.43 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KGL15JF
 description:
 actualPrice: 14.97 EUR
+currency: EUR
+price: 14.97
 comparePrice: 44.95 EUR
 inStock: true
+prodname: BOSS Teribbed Camiseta  Plateado  Silver 040   X-Large para Mujer
 ---
 
 Ahora mismo tienes [BOSS Teribbed Camiseta  Plateado  Silver 040   X-Large para Mujer](https://www.amazon.es/dp/B07KGL15JF/?tag=tolees-21) a 14.97 EUR (original: 44.95 EUR) (66.70 %  de descuento) en el siguiente enlace!

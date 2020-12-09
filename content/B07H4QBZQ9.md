@@ -10,8 +10,11 @@ author: ring
 slug: B07H4QBZQ9
 description:
 actualPrice: 44.06 EUR
+currency: EUR
+price: 44.06
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers Status 2.0 Lorano  Náuticos Hombre  Azul  Navy Canvas Nvy   41 EU
 ---
 
 Tienes [Skechers Status 2.0 Lorano  Náuticos Hombre  Azul  Navy Canvas Nvy   41 EU](https://www.amazon.es/dp/B07H4QBZQ9/?tag=tolees-21) con un 32.16 % de descuento con precio de oferta de 44.06 EUR (original: 64.95 EUR) en el siguiente enlace!

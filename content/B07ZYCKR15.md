@@ -10,8 +10,11 @@ author: ring
 slug: B07ZYCKR15
 description:
 actualPrice: 13.72 EUR
+currency: EUR
+price: 13.72
 comparePrice: 20.99 EUR
 inStock: true
+prodname: Play-Doh - Maquina de Pasta - Hasbro E77765L0
 ---
 
 Tienes [Play-Doh - Maquina de Pasta - Hasbro E77765L0](https://www.amazon.es/dp/B07ZYCKR15/?tag=tolees-21) con un 34.64 % de descuento con precio de oferta de 13.72 EUR (original: 20.99 EUR) en el siguiente enlace!

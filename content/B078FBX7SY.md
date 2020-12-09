@@ -10,8 +10,11 @@ author: ring
 slug: B078FBX7SY
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 60 EUR
 inStock: true
+prodname: Salomon Sudadera  agile hz mid  mezcla de sintéticos  azul  Surf The Web Heather   hombre  talla: S
 ---
 
 Ahora mismo tienes [Salomon Sudadera  agile hz mid  mezcla de sintéticos  azul  Surf The Web Heather   hombre  talla: S](https://www.amazon.es/dp/B078FBX7SY/?tag=tolees-21) a 34.95 EUR (original: 60 EUR) (41.75 %  de descuento) en el siguiente enlace!

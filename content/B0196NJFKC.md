@@ -10,8 +10,11 @@ author: ring
 slug: B0196NJFKC
 description:
 actualPrice: 47.6 EUR
+currency: EUR
+price: 47.6
 comparePrice: 119.99 EUR
 inStock: true
+prodname: bollé Jude Gafas  Unisex Adulto  Morado  Matte Violet   M
 ---
 
 Ahora mismo tienes [bollé Jude Gafas  Unisex Adulto  Morado  Matte Violet   M](https://www.amazon.es/dp/B0196NJFKC/?tag=tolees-21) a 47.6 EUR (original: 119.99 EUR) (60.33 %  de descuento) en el siguiente enlace!

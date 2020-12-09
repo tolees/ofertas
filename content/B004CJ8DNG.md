@@ -10,8 +10,11 @@ author: ring
 slug: B004CJ8DNG
 description:
 actualPrice: 8.09 EUR
+currency: EUR
+price: 8.09
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Case Logic QHDC-101 - Funda para discos duros  85 g  Rojo  EVA
 ---
 
 Tienes [Case Logic QHDC-101 - Funda para discos duros  85 g  Rojo  EVA](https://www.amazon.es/dp/B004CJ8DNG/?tag=tolees-21) con un 37.72 % de descuento con precio de oferta de 8.09 EUR (original: 12.99 EUR) en el siguiente enlace!

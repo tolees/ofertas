@@ -10,8 +10,11 @@ author: ring
 slug: B001TH8JFQ
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 16.91 EUR
 inStock: true
+prodname: Wenko Jabonera  Acero Inoxidable  11 5 x 3 5 cm
 ---
 
 Está [Wenko Jabonera  Acero Inoxidable  11 5 x 3 5 cm](https://www.amazon.es/dp/B001TH8JFQ/?tag=tolees-21) con 40.92 de descuento por 9.99 EUR (original: 16.91 EUR) en el siguiente enlace!

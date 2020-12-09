@@ -10,8 +10,11 @@ author: ring
 slug: B01LXNXPIB
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 53.99 EUR
 inStock: true
+prodname: Ruicer Toallero Barra Acero Inoxidable Fijar Sin Taladrar 55cm
 ---
 
 Ahora mismo tienes [Ruicer Toallero Barra Acero Inoxidable Fijar Sin Taladrar 55cm](https://www.amazon.es/dp/B01LXNXPIB/?tag=tolees-21) a 17.99 EUR (original: 53.99 EUR) (66.68 %  de descuento) en el siguiente enlace!

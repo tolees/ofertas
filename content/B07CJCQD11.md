@@ -10,8 +10,11 @@ author: ring
 slug: B07CJCQD11
 description:
 actualPrice: 11.02 EUR
+currency: EUR
+price: 11.02
 comparePrice: 41.56 EUR
 inStock: true
+prodname: Miquel Rius Miquelrius-16919 Mochila Triple  Espiga 16919
 ---
 
 Ahora mismo tienes [Miquel Rius Miquelrius-16919 Mochila Triple  Espiga 16919](https://www.amazon.es/dp/B07CJCQD11/?tag=tolees-21) a 11.02 EUR (original: 41.56 EUR) (73.48 %  de descuento) en el siguiente enlace!

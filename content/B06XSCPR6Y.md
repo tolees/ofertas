@@ -10,8 +10,11 @@ author: ring
 slug: B06XSCPR6Y
 description:
 actualPrice: 49.14 EUR
+currency: EUR
+price: 49.14
 comparePrice: 89.95 EUR
 inStock: true
+prodname: New Balance Fresh Foam Cruz  Zapatillas de Entrenamiento para Hombre  Azul Blau/Weiß  44 EU
 ---
 
 Tienes [New Balance Fresh Foam Cruz  Zapatillas de Entrenamiento para Hombre  Azul Blau/Weiß  44 EU](https://www.amazon.es/dp/B06XSCPR6Y/?tag=tolees-21) con un 45.37 % de descuento con precio de oferta de 49.14 EUR (original: 89.95 EUR) en el siguiente enlace!

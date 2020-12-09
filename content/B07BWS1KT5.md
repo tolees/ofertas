@@ -10,8 +10,11 @@ author: ring
 slug: B07BWS1KT5
 description:
 actualPrice: 35.49 EUR
+currency: EUR
+price: 35.49
 comparePrice: 54.13 EUR
 inStock: true
+prodname: Bosch EasyHeat 500 - Decapador  1600 W  en caja de cartón 
 ---
 
 Ahora mismo tienes [Bosch EasyHeat 500 - Decapador  1600 W  en caja de cartón ](https://www.amazon.es/dp/B07BWS1KT5/?tag=tolees-21) a 35.49 EUR (original: 54.13 EUR) (34.44 %  de descuento) en el siguiente enlace!

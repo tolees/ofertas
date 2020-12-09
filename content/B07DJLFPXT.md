@@ -10,8 +10,11 @@ author: ring
 slug: B07DJLFPXT
 description:
 actualPrice: 18.14 EUR
+currency: EUR
+price: 18.14
 comparePrice: 42 EUR
 inStock: true
+prodname: MARIA MARE Mariamare ABY  Shopper para Mujer  Negro  Naps   13 x 32 x 34 cm
 ---
 
 Está [MARIA MARE Mariamare ABY  Shopper para Mujer  Negro  Naps   13 x 32 x 34 cm](https://www.amazon.es/dp/B07DJLFPXT/?tag=tolees-21) con 56.81 de descuento por 18.14 EUR (original: 42 EUR) en el siguiente enlace!

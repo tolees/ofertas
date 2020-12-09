@@ -10,8 +10,11 @@ author: ring
 slug: B07N8MNVZW
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Jack & Jones Jjialvin Jjjacket Sa 002 Noos Chaqueta de jean  Azul  Denim   L para Hombre
 ---
 
 Tienes [Jack & Jones Jjialvin Jjjacket Sa 002 Noos Chaqueta de jean  Azul  Denim   L para Hombre](https://www.amazon.es/dp/B07N8MNVZW/?tag=tolees-21) con un 36.01 % de descuento con precio de oferta de 31.99 EUR (original: 49.99 EUR) en el siguiente enlace!

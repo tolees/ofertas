@@ -10,8 +10,11 @@ author: ring
 slug: B07DWYKP1V
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: SIMMAX Memorias USB 2 Piezas 16GB USB 2.0 Stick Giratoria Flash Drive Pendrives Almacenamiento Datos  16GB Rojo Púrpura 
 ---
 
 Tienes [SIMMAX Memorias USB 2 Piezas 16GB USB 2.0 Stick Giratoria Flash Drive Pendrives Almacenamiento Datos  16GB Rojo Púrpura ](https://www.amazon.es/dp/B07DWYKP1V/?tag=tolees-21) con un 45.02 % de descuento con precio de oferta de 10.99 EUR (original: 19.99 EUR) en el siguiente enlace!

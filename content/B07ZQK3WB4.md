@@ -10,8 +10,11 @@ author: ring
 slug: B07ZQK3WB4
 description:
 actualPrice: 9.49 EUR
+currency: EUR
+price: 9.49
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Midsommar  BD  [Blu-ray]
 ---
 
 Ahora mismo tienes [Midsommar  BD  [Blu-ray]](https://www.amazon.es/dp/B07ZQK3WB4/?tag=tolees-21) a 9.49 EUR (original: 16.99 EUR) (44.14 %  de descuento) en el siguiente enlace!

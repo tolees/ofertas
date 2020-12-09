@@ -10,8 +10,11 @@ author: ring
 slug: B075QGPMML
 description:
 actualPrice: 4.66 EUR
+currency: EUR
+price: 4.66
 comparePrice: 16 EUR
 inStock: true
+prodname: find. Camiseta de Deporte con Paneles de Rejilla Hombre  Azul  Harbor Blue   X-Large
 ---
 
 Ahora mismo tienes [find. Camiseta de Deporte con Paneles de Rejilla Hombre  Azul  Harbor Blue   X-Large](https://www.amazon.es/dp/B075QGPMML/?tag=tolees-21) a 4.66 EUR (original: 16 EUR) (70.88 %  de descuento) en el siguiente enlace!

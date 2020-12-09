@@ -10,8 +10,11 @@ author: ring
 slug: B08FY57SRL
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 42.99 EUR
 inStock: true
+prodname: Báscula de Baño Digital de Alta Medición Precisa  Bascula Grasa Corporal  GRDE Balanza Bluetooth Inteligente con App  Balanza Digital Baño con Análisis Corporal por iOS y Android
 ---
 
 Ahora mismo tienes [Báscula de Baño Digital de Alta Medición Precisa  Bascula Grasa Corporal  GRDE Balanza Bluetooth Inteligente con App  Balanza Digital Baño con Análisis Corporal por iOS y Android](https://www.amazon.es/dp/B08FY57SRL/?tag=tolees-21) a 29.99 EUR (original: 42.99 EUR) (30.24 %  de descuento) en el siguiente enlace!

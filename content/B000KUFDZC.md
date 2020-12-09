@@ -10,8 +10,11 @@ author: ring
 slug: B000KUFDZC
 description:
 actualPrice: 48.94 EUR
+currency: EUR
+price: 48.94
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Converse Chuck Taylor All Star  Zapatillas de Tela Unisex  Negro  Black   42.5 EU
 ---
 
 Está [Converse Chuck Taylor All Star  Zapatillas de Tela Unisex  Negro  Black   42.5 EU](https://www.amazon.es/dp/B000KUFDZC/?tag=tolees-21) con 30.09 de descuento por 48.94 EUR (original: 70.0 EUR) en el siguiente enlace!

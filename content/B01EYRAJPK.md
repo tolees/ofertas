@@ -10,8 +10,11 @@ author: ring
 slug: B01EYRAJPK
 description:
 actualPrice: 8.86 EUR
+currency: EUR
+price: 8.86
 comparePrice: 15.75 EUR
 inStock: true
+prodname: Renberg Vaso ISOTERMICO  Acero Inoxidable
 ---
 
 Está [Renberg Vaso ISOTERMICO  Acero Inoxidable](https://www.amazon.es/dp/B01EYRAJPK/?tag=tolees-21) con 43.75 de descuento por 8.86 EUR (original: 15.75 EUR) en el siguiente enlace!

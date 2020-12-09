@@ -10,8 +10,11 @@ author: ring
 slug: B07CN7HWM8
 description:
 actualPrice: 17.72 EUR
+currency: EUR
+price: 17.72
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Crocs Freesail Clog Women  Zuecos para Mujer  Rosa  Melon 737   36/37 EU
 ---
 
 Tienes [Crocs Freesail Clog Women  Zuecos para Mujer  Rosa  Melon 737   36/37 EU](https://www.amazon.es/dp/B07CN7HWM8/?tag=tolees-21) con un 40.91 % de descuento con precio de oferta de 17.72 EUR (original: 29.99 EUR) en el siguiente enlace!

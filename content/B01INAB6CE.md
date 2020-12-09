@@ -10,8 +10,11 @@ author: ring
 slug: B01INAB6CE
 description:
 actualPrice: 18.7 EUR
+currency: EUR
+price: 18.7
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Cortefiel Otoman Coderas Mujer  Azul  Blau   M
 ---
 
 Ahora mismo tienes [Cortefiel Otoman Coderas Mujer  Azul  Blau   M](https://www.amazon.es/dp/B01INAB6CE/?tag=tolees-21) a 18.7 EUR (original: 39.99 EUR) (53.24 %  de descuento) en el siguiente enlace!

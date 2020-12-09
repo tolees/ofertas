@@ -10,8 +10,11 @@ author: ring
 slug: B073WFF3JM
 description:
 actualPrice: 18.95 EUR
+currency: EUR
+price: 18.95
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Puma Buzz Mochila  Unisex Adulto  Azul  Limoges   Talla Única
 ---
 
 Tienes [Puma Buzz Mochila  Unisex Adulto  Azul  Limoges   Talla Única](https://www.amazon.es/dp/B073WFF3JM/?tag=tolees-21) con un 36.73 % de descuento con precio de oferta de 18.95 EUR (original: 29.95 EUR) en el siguiente enlace!

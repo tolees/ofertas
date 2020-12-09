@@ -10,8 +10,11 @@ author: ring
 slug: B07DJPKYF4
 description:
 actualPrice: 6.44 EUR
+currency: EUR
+price: 6.44
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Only Onlbilla L/s Cardigan Jrs  Chaqueta Punto Mujer  Marrón  Dark Grey Melange Dark Melange   36  Talla del Fabricante: X-Small 
 ---
 
 Está [Only Onlbilla L/s Cardigan Jrs  Chaqueta Punto Mujer  Marrón  Dark Grey Melange Dark Melange   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07DJPKYF4/?tag=tolees-21) con 76.14 de descuento por 6.44 EUR (original: 26.99 EUR) en el siguiente enlace!

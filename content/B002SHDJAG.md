@@ -10,8 +10,11 @@ author: ring
 slug: B002SHDJAG
 description:
 actualPrice: 29.97 EUR
+currency: EUR
+price: 29.97
 comparePrice: 47.52 EUR
 inStock: true
+prodname: MASTER LOCK Caja fuerte para llaves [Extragrande] [Montaje mural] - 5412EURD - Caja de seguridad
 ---
 
 Ahora mismo tienes [MASTER LOCK Caja fuerte para llaves [Extragrande] [Montaje mural] - 5412EURD - Caja de seguridad](https://www.amazon.es/dp/B002SHDJAG/?tag=tolees-21) a 29.97 EUR (original: 47.52 EUR) (36.93 %  de descuento) en el siguiente enlace!

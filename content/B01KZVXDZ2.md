@@ -10,8 +10,11 @@ author: ring
 slug: B01KZVXDZ2
 description:
 actualPrice: 59.9 EUR
+currency: EUR
+price: 59.9
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Stafford Park5  Zapatos de Cordones Derby para Hombre  Negro  Black Nubuck   45 EU
 ---
 
 Ahora mismo tienes [Clarks Stafford Park5  Zapatos de Cordones Derby para Hombre  Negro  Black Nubuck   45 EU](https://www.amazon.es/dp/B01KZVXDZ2/?tag=tolees-21) a 59.9 EUR (original: 99.95 EUR) (40.07 %  de descuento) en el siguiente enlace!

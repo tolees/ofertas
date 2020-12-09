@@ -10,8 +10,11 @@ author: ring
 slug: B078RSDSY6
 description:
 actualPrice: 30.52 EUR
+currency: EUR
+price: 30.52
 comparePrice: 91 EUR
 inStock: true
+prodname: Nike Air MAX Nostalgic  Zapatillas de Gimnasia para Hombre  Blanco  Whiteblackwolf Greynoise Aq 100   40.5 EU
 ---
 
 Ahora mismo tienes [Nike Air MAX Nostalgic  Zapatillas de Gimnasia para Hombre  Blanco  Whiteblackwolf Greynoise Aq 100   40.5 EU](https://www.amazon.es/dp/B078RSDSY6/?tag=tolees-21) a 30.52 EUR (original: 91 EUR) (66.46 %  de descuento) en el siguiente enlace!

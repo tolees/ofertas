@@ -10,8 +10,11 @@ author: ring
 slug: B07BJGP4MS
 description:
 actualPrice: 7.96 EUR
+currency: EUR
+price: 7.96
 comparePrice: 13.68 EUR
 inStock: true
+prodname: AXE Desodorante You Duplo Ahorro - 2 Paquetes de 2 x 150 ml: Total: 600 ml
 ---
 
 Tienes [AXE Desodorante You Duplo Ahorro - 2 Paquetes de 2 x 150 ml: Total: 600 ml](https://www.amazon.es/dp/B07BJGP4MS/?tag=tolees-21) con un 41.81 % de descuento con precio de oferta de 7.96 EUR (original: 13.68 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01N7IHJK4
 description:
 actualPrice: 12.4 EUR
+currency: EUR
+price: 12.4
 comparePrice: 30 EUR
 inStock: true
+prodname: find. Funnel Neck Suéter para Mujer  Mangas 3/4  Rojo  Classic Red   40  Talla del Fabricante: Medium 
 ---
 
 Está [find. Funnel Neck Suéter para Mujer  Mangas 3/4  Rojo  Classic Red   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N7IHJK4/?tag=tolees-21) con 58.67 de descuento por 12.4 EUR (original: 30 EUR) en el siguiente enlace!

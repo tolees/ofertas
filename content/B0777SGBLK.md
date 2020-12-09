@@ -10,8 +10,11 @@ author: ring
 slug: B0777SGBLK
 description:
 actualPrice: 24.63 EUR
+currency: EUR
+price: 24.63
 comparePrice: 55 EUR
 inStock: true
+prodname: Under Armour UA W Rapid  Zapatillas de Running para Mujer  Azul  Bass Blue   36.5 EU
 ---
 
 Tienes [Under Armour UA W Rapid  Zapatillas de Running para Mujer  Azul  Bass Blue   36.5 EU](https://www.amazon.es/dp/B0777SGBLK/?tag=tolees-21) con un 55.22 % de descuento con precio de oferta de 24.63 EUR (original: 55 EUR) en el siguiente enlace!

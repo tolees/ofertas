@@ -10,8 +10,11 @@ author: ring
 slug: B07KJY9RGQ
 description:
 actualPrice: 14 EUR
+currency: EUR
+price: 14
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Quiksilver Everyday Shorts  Hombre  High Risk Red  XXL
 ---
 
 Tienes [Quiksilver Everyday Shorts  Hombre  High Risk Red  XXL](https://www.amazon.es/dp/B07KJY9RGQ/?tag=tolees-21) con un 53.32 % de descuento con precio de oferta de 14 EUR (original: 29.99 EUR) en el siguiente enlace!

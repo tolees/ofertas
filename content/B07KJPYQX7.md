@@ -10,8 +10,11 @@ author: ring
 slug: B07KJPYQX7
 description:
 actualPrice: 25.37 EUR
+currency: EUR
+price: 25.37
 comparePrice: 119 EUR
 inStock: true
+prodname: REPLAY Zackie  Vaqueros Skinny para Mujer  Negro  Black 7  W23/L28  Talla del Fabricante: 23 
 ---
 
 Está [REPLAY Zackie  Vaqueros Skinny para Mujer  Negro  Black 7  W23/L28  Talla del Fabricante: 23 ](https://www.amazon.es/dp/B07KJPYQX7/?tag=tolees-21) con 78.68 de descuento por 25.37 EUR (original: 119 EUR) en el siguiente enlace!

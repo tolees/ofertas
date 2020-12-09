@@ -10,8 +10,11 @@ author: ring
 slug: B00NWUVGDK
 description:
 actualPrice: 17.1 EUR
+currency: EUR
+price: 17.1
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Medisana BW310 51070  Tensiómetro de Muñeca  para 2 usuarios x 60 espacios de memoria
 ---
 
 Ahora mismo tienes [Medisana BW310 51070  Tensiómetro de Muñeca  para 2 usuarios x 60 espacios de memoria](https://www.amazon.es/dp/B00NWUVGDK/?tag=tolees-21) a 17.1 EUR (original: 24.95 EUR) (31.46 %  de descuento) en el siguiente enlace!

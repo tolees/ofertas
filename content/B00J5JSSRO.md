@@ -10,8 +10,11 @@ author: ring
 slug: B00J5JSSRO
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Tetra pH/KH Plus 250 ml
 ---
 
 Está [Tetra pH/KH Plus 250 ml](https://www.amazon.es/dp/B00J5JSSRO/?tag=tolees-21) con 36.40 de descuento por 6.99 EUR (original: 10.99 EUR) en el siguiente enlace!

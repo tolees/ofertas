@@ -10,8 +10,11 @@ author: ring
 slug: B07HHMQQM5
 description:
 actualPrice: 15.17 EUR
+currency: EUR
+price: 15.17
 comparePrice: 26.4 EUR
 inStock: true
+prodname: La Tita Sangría Lata - 24 latas x 330 ml
 ---
 
 Está [La Tita Sangría Lata - 24 latas x 330 ml](https://www.amazon.es/dp/B07HHMQQM5/?tag=tolees-21) con 42.54 de descuento por 15.17 EUR (original: 26.4 EUR) en el siguiente enlace!

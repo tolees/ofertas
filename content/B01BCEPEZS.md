@@ -10,8 +10,11 @@ author: ring
 slug: B01BCEPEZS
 description:
 actualPrice: 91.35 EUR
+currency: EUR
+price: 91.35
 comparePrice: 159 EUR
 inStock: true
+prodname: Skagen Reloj analogico para Hombre de Cuarzo con Correa en Piel SKW6282
 ---
 
 Está [Skagen Reloj analogico para Hombre de Cuarzo con Correa en Piel SKW6282](https://www.amazon.es/dp/B01BCEPEZS/?tag=tolees-21) con 42.55 de descuento por 91.35 EUR (original: 159 EUR) en el siguiente enlace!

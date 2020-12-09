@@ -10,8 +10,11 @@ author: ring
 slug: B01FDTJWXS
 description:
 actualPrice: 17.95 EUR
+currency: EUR
+price: 17.95
 comparePrice: 29.33 EUR
 inStock: true
+prodname: LEDKIA LIGHTING Aplique LED Rubí Iluminación Doble Cara
 ---
 
 Está [LEDKIA LIGHTING Aplique LED Rubí Iluminación Doble Cara](https://www.amazon.es/dp/B01FDTJWXS/?tag=tolees-21) con 38.80 de descuento por 17.95 EUR (original: 29.33 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B006JYDIBO
 description:
 actualPrice: 119.8 EUR
+currency: EUR
+price: 119.8
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Elite Novo Force - Rodillo magnético de ciclismo  sistema de fijación rápida  máxima estabilidad   8 niveles de resistencia
 ---
 
 Tienes [Elite Novo Force - Rodillo magnético de ciclismo  sistema de fijación rápida  máxima estabilidad   8 niveles de resistencia](https://www.amazon.es/dp/B006JYDIBO/?tag=tolees-21) con un 40.10 % de descuento con precio de oferta de 119.8 EUR (original: 199.99 EUR) en el siguiente enlace!

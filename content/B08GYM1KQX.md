@@ -10,8 +10,11 @@ author: ring
 slug: B08GYM1KQX
 description:
 actualPrice: 46.49 EUR
+currency: EUR
+price: 46.49
 comparePrice: 106.03 EUR
 inStock: true
+prodname: Hurley M Work Trucker Jacket  Negro
 ---
 
 Ahora mismo tienes [Hurley M Work Trucker Jacket  Negro](https://www.amazon.es/dp/B08GYM1KQX/?tag=tolees-21) a 46.49 EUR (original: 106.03 EUR) (56.15 %  de descuento) en el siguiente enlace!

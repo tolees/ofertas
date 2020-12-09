@@ -10,8 +10,11 @@ author: ring
 slug: B07KRG7XV3
 description:
 actualPrice: 16.8 EUR
+currency: EUR
+price: 16.8
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Gioseppo 49032  Shopper para Mujer  Azul  Marino  16x34x46 cm  W x H x L 
 ---
 
 Está [Gioseppo 49032  Shopper para Mujer  Azul  Marino  16x34x46 cm  W x H x L ](https://www.amazon.es/dp/B07KRG7XV3/?tag=tolees-21) con 62.63 de descuento por 16.8 EUR (original: 44.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JQNHW3J
 description:
 actualPrice: 36.57 EUR
+currency: EUR
+price: 36.57
 comparePrice: 99 EUR
 inStock: true
+prodname: Pepe Jeans Core Jacket Chaqueta Vaquera  Azul  Wiser Wash Medium Used Denim Wx6   XX-Small para Mujer
 ---
 
 Está [Pepe Jeans Core Jacket Chaqueta Vaquera  Azul  Wiser Wash Medium Used Denim Wx6   XX-Small para Mujer](https://www.amazon.es/dp/B07JQNHW3J/?tag=tolees-21) con 63.06 de descuento por 36.57 EUR (original: 99 EUR) en el siguiente enlace!

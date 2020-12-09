@@ -10,8 +10,11 @@ author: ring
 slug: B07BCSD1KX
 description:
 actualPrice: 26.5 EUR
+currency: EUR
+price: 26.5
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Step Allenabay  Zapatillas para Mujer  Morado  Aubergine   39.5 EU
 ---
 
 Tienes [Clarks Step Allenabay  Zapatillas para Mujer  Morado  Aubergine   39.5 EU](https://www.amazon.es/dp/B07BCSD1KX/?tag=tolees-21) con un 66.85 % de descuento con precio de oferta de 26.5 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01N5FOW5R
 description:
 actualPrice: 17.79 EUR
+currency: EUR
+price: 17.79
 comparePrice: 60 EUR
 inStock: true
+prodname: find. 13649 vestidos mujer  Negro  Black   40  Talla del Fabricante: Medium 
 ---
 
 Ahora mismo tienes [find. 13649 vestidos mujer  Negro  Black   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N5FOW5R/?tag=tolees-21) a 17.79 EUR (original: 60 EUR) (70.35 %  de descuento) en el siguiente enlace!

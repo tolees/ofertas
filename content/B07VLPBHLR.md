@@ -10,8 +10,11 @@ author: ring
 slug: B07VLPBHLR
 description:
 actualPrice: 49.49 EUR
+currency: EUR
+price: 49.49
 comparePrice: 129.95 EUR
 inStock: true
+prodname: Lee Luke Vaqueros  Jackson Moon Za  30W / 30L para Hombre
 ---
 
 Ahora mismo tienes [Lee Luke Vaqueros  Jackson Moon Za  30W / 30L para Hombre](https://www.amazon.es/dp/B07VLPBHLR/?tag=tolees-21) a 49.49 EUR (original: 129.95 EUR) (61.92 %  de descuento) en el siguiente enlace!

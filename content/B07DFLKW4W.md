@@ -10,8 +10,11 @@ author: ring
 slug: B07DFLKW4W
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 25 EUR
 inStock: true
+prodname: INTEY Chaira Diamante  Afilador de Cuchillos  Ideal Para Cuchillos de Chef Profesional y Hogar - 26 cm / 10 Pulgada（40cm total）
 ---
 
 Está [INTEY Chaira Diamante  Afilador de Cuchillos  Ideal Para Cuchillos de Chef Profesional y Hogar - 26 cm / 10 Pulgada（40cm total）](https://www.amazon.es/dp/B07DFLKW4W/?tag=tolees-21) con 40.04 de descuento por 14.99 EUR (original: 25 EUR) en el siguiente enlace!

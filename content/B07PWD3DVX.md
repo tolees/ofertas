@@ -10,8 +10,11 @@ author: ring
 slug: B07PWD3DVX
 description:
 actualPrice: 7.47 EUR
+currency: EUR
+price: 7.47
 comparePrice: 10.99 EUR
 inStock: true
+prodname: OUSFOT Luz Armario con Sensor de Movimiento Luz Sensor para Armario USB Recargable LED Armario con 2 Tiras Magnéticas Pegadas Lámpara Nocturna Ideal para Armario Garaje Gabinete Escalera
 ---
 
 Tienes [OUSFOT Luz Armario con Sensor de Movimiento Luz Sensor para Armario USB Recargable LED Armario con 2 Tiras Magnéticas Pegadas Lámpara Nocturna Ideal para Armario Garaje Gabinete Escalera](https://www.amazon.es/dp/B07PWD3DVX/?tag=tolees-21) con un 32.03 % de descuento con precio de oferta de 7.47 EUR (original: 10.99 EUR) en el siguiente enlace!

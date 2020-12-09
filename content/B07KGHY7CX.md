@@ -10,8 +10,11 @@ author: ring
 slug: B07KGHY7CX
 description:
 actualPrice: 10.84 EUR
+currency: EUR
+price: 10.84
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Buff Brany Gorra Trucker  Niños  Denim  Talla única
 ---
 
 Tienes [Buff Brany Gorra Trucker  Niños  Denim  Talla única](https://www.amazon.es/dp/B07KGHY7CX/?tag=tolees-21) con un 45.66 % de descuento con precio de oferta de 10.84 EUR (original: 19.95 EUR) en el siguiente enlace!

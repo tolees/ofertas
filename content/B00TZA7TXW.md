@@ -10,8 +10,11 @@ author: ring
 slug: B00TZA7TXW
 description:
 actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
 comparePrice: 29.15 EUR
 inStock: true
+prodname: Kempa Emotion Shorts Pantalones cortos  Hombre  Azul Marino  2XS/XS
 ---
 
 Ahora mismo tienes [Kempa Emotion Shorts Pantalones cortos  Hombre  Azul Marino  2XS/XS](https://www.amazon.es/dp/B00TZA7TXW/?tag=tolees-21) a 7.95 EUR (original: 29.15 EUR) (72.73 %  de descuento) en el siguiente enlace!

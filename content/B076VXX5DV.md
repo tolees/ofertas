@@ -10,8 +10,11 @@ author: ring
 slug: B076VXX5DV
 description:
 actualPrice: 64.85 EUR
+currency: EUR
+price: 64.85
 comparePrice: 89.95 EUR
 inStock: true
+prodname: G-STAR RAW Rovic Zip Relaxed 1/2-length Shorts Pantalones Cortos  Negro  Sage 724   Talla del Fabricante: 32 para Hombre
 ---
 
 Ahora mismo tienes [G-STAR RAW Rovic Zip Relaxed 1/2-length Shorts Pantalones Cortos  Negro  Sage 724   Talla del Fabricante: 32 para Hombre](https://www.amazon.es/dp/B076VXX5DV/?tag=tolees-21) a 64.85 EUR (original: 89.95 EUR) (27.90 %  de descuento) en el siguiente enlace!

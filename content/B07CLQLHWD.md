@@ -10,8 +10,11 @@ author: ring
 slug: B07CLQLHWD
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: 66LEDs Focos Solares con Sensor de Movimiento Rango de 8-10m  Impermeable  Gran Ángulo 120°  Proporcionar Hasta 12 HORAS 900 Lúmenes Con 3 Modos Para Jardín  Terraza  Garaje
 ---
 
 Está [66LEDs Focos Solares con Sensor de Movimiento Rango de 8-10m  Impermeable  Gran Ángulo 120°  Proporcionar Hasta 12 HORAS 900 Lúmenes Con 3 Modos Para Jardín  Terraza  Garaje](https://www.amazon.es/dp/B07CLQLHWD/?tag=tolees-21) con 69.58 de descuento por 13.99 EUR (original: 45.99 EUR) en el siguiente enlace!

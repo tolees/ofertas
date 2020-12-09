@@ -10,8 +10,11 @@ author: ring
 slug: B01IBI9NN2
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  Marrón  Black Coffee   80 cm  Talla del fabricante: 80 
 ---
 
 Está [JACK & JONES JJIPAUL JJLEATHER BELT NOOS  Cinturón Hombre  Marrón  Black Coffee   80 cm  Talla del fabricante: 80 ](https://www.amazon.es/dp/B01IBI9NN2/?tag=tolees-21) con 44.02 de descuento por 13.99 EUR (original: 24.99 EUR) en el siguiente enlace!

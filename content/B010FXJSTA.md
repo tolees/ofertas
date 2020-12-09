@@ -10,8 +10,11 @@ author: ring
 slug: B010FXJSTA
 description:
 actualPrice: 6.95 EUR
+currency: EUR
+price: 6.95
 comparePrice: 15 EUR
 inStock: true
+prodname: Joma - Katy S/S  Color Yellow  Talla L
 ---
 
 Ahora mismo tienes [Joma - Katy S/S  Color Yellow  Talla L](https://www.amazon.es/dp/B010FXJSTA/?tag=tolees-21) a 6.95 EUR (original: 15 EUR) (53.67 %  de descuento) en el siguiente enlace!

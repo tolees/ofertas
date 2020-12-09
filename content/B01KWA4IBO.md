@@ -10,8 +10,11 @@ author: ring
 slug: B01KWA4IBO
 description:
 actualPrice: 7.14 EUR
+currency: EUR
+price: 7.14
 comparePrice: 12.25 EUR
 inStock: true
+prodname: Phantasma II [Blu-ray]
 ---
 
 Tienes [Phantasma II [Blu-ray]](https://www.amazon.es/dp/B01KWA4IBO/?tag=tolees-21) con un 41.71 % de descuento con precio de oferta de 7.14 EUR (original: 12.25 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DXW2QBT
 description:
 actualPrice: 23.45 EUR
+currency: EUR
+price: 23.45
 comparePrice: 45 EUR
 inStock: true
+prodname: Under Armour HG Print Pantalones Pirata  Mujer  Static/Halogen Blue/Metallic Silver  M
 ---
 
 Está [Under Armour HG Print Pantalones Pirata  Mujer  Static/Halogen Blue/Metallic Silver  M](https://www.amazon.es/dp/B07DXW2QBT/?tag=tolees-21) con 47.89 de descuento por 23.45 EUR (original: 45 EUR) en el siguiente enlace!

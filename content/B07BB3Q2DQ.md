@@ -10,8 +10,11 @@ author: ring
 slug: B07BB3Q2DQ
 description:
 actualPrice: 65.95 EUR
+currency: EUR
+price: 65.95
 comparePrice: 120 EUR
 inStock: true
+prodname: The North Face Litewave Fastpack Mid Gore-Tex  Botas de Senderismo para Hombre  Negro  TNF Black/Lime Green Kw2   44 EU
 ---
 
 Ahora mismo tienes [The North Face Litewave Fastpack Mid Gore-Tex  Botas de Senderismo para Hombre  Negro  TNF Black/Lime Green Kw2   44 EU](https://www.amazon.es/dp/B07BB3Q2DQ/?tag=tolees-21) a 65.95 EUR (original: 120 EUR) (45.04 %  de descuento) en el siguiente enlace!

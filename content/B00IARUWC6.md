@@ -10,8 +10,11 @@ author: ring
 slug: B00IARUWC6
 description:
 actualPrice: 109.98 EUR
+currency: EUR
+price: 109.98
 comparePrice: 219 EUR
 inStock: true
+prodname: MAGLITE RL4019 Linterna  Unisex Adulto  Negro
 ---
 
 Está [MAGLITE RL4019 Linterna  Unisex Adulto  Negro](https://www.amazon.es/dp/B00IARUWC6/?tag=tolees-21) con 49.78 de descuento por 109.98 EUR (original: 219 EUR) en el siguiente enlace!

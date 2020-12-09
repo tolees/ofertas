@@ -10,8 +10,11 @@ author: ring
 slug: B07K7XFJC7
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 32.95 EUR
 inStock: true
+prodname: Reebok Almotio 4.0 2V  Zapatillas de Gimnasia para Niños  Azul Collegiate Navy/Light Pink  34 EU
 ---
 
 Ahora mismo tienes [Reebok Almotio 4.0 2V  Zapatillas de Gimnasia para Niños  Azul Collegiate Navy/Light Pink  34 EU](https://www.amazon.es/dp/B07K7XFJC7/?tag=tolees-21) a 14.9 EUR (original: 32.95 EUR) (54.78 %  de descuento) en el siguiente enlace!

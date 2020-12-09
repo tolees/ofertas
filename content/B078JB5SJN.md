@@ -10,8 +10,11 @@ author: ring
 slug: B078JB5SJN
 description:
 actualPrice: 80 EUR
+currency: EUR
+price: 80
 comparePrice: 120 EUR
 inStock: true
+prodname: Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre  Azul  Cobalt Blaze/Light Bone-Sail-Blue Void 402   41 EU
 ---
 
 Tienes [Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre  Azul  Cobalt Blaze/Light Bone-Sail-Blue Void 402   41 EU](https://www.amazon.es/dp/B078JB5SJN/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 80 EUR (original: 120 EUR) en el siguiente enlace!

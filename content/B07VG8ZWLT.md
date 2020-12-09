@@ -10,8 +10,11 @@ author: ring
 slug: B07VG8ZWLT
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 24.5 EUR
 inStock: true
+prodname: Goliath Unicornio Party. Giralo para marearlo y Que Lance arcoíris  Multicolor  31261 
 ---
 
 Está [Goliath Unicornio Party. Giralo para marearlo y Que Lance arcoíris  Multicolor  31261 ](https://www.amazon.es/dp/B07VG8ZWLT/?tag=tolees-21) con 28.57 de descuento por 17.5 EUR (original: 24.5 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08KT87BHT
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Limpiador de Oídos  Ear Wax Cleaner  Limpador Cera Oidos  Kit de herramientas para limpieza de oídos  espiral inteligente  con 16 puntas lavables  Seguro y Suave  Adecuado para Bebés y Adultos
 ---
 
 Tienes [Limpiador de Oídos  Ear Wax Cleaner  Limpador Cera Oidos  Kit de herramientas para limpieza de oídos  espiral inteligente  con 16 puntas lavables  Seguro y Suave  Adecuado para Bebés y Adultos](https://www.amazon.es/dp/B08KT87BHT/?tag=tolees-21) con un 37.52 % de descuento con precio de oferta de 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

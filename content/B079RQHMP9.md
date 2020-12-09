@@ -10,8 +10,11 @@ author: ring
 slug: B079RQHMP9
 description:
 actualPrice: 26.41 EUR
+currency: EUR
+price: 26.41
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Pepe Jeans Lupe Suéter  Negro  Black 999   L para Mujer
 ---
 
 Está [Pepe Jeans Lupe Suéter  Negro  Black 999   L para Mujer](https://www.amazon.es/dp/B079RQHMP9/?tag=tolees-21) con 55.91 de descuento por 26.41 EUR (original: 59.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08HLLMMTL
 description:
 actualPrice: 1.58 EUR
+currency: EUR
+price: 1.58
 comparePrice: 2.26 EUR
 inStock: true
+prodname: #NA Batidor de Huevos Compacto de Metal portátil para Huevos
 ---
 
 Está [#NA Batidor de Huevos Compacto de Metal portátil para Huevos](https://www.amazon.es/dp/B08HLLMMTL/?tag=tolees-21) con 30.09 de descuento por 1.58 EUR (original: 2.26 EUR) en el siguiente enlace!

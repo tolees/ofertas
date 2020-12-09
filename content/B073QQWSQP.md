@@ -10,8 +10,11 @@ author: ring
 slug: B073QQWSQP
 description:
 actualPrice: 9.57 EUR
+currency: EUR
+price: 9.57
 comparePrice: 30 EUR
 inStock: true
+prodname: find. Jersey con Cuello de Pico para Hombre  Beige  Sable   Large
 ---
 
 Ahora mismo tienes [find. Jersey con Cuello de Pico para Hombre  Beige  Sable   Large](https://www.amazon.es/dp/B073QQWSQP/?tag=tolees-21) a 9.57 EUR (original: 30 EUR) (68.10 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07QK7SVTL
 description:
 actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Mi vecino Totoro [Blu-ray]
 ---
 
 Ahora mismo tienes [Mi vecino Totoro [Blu-ray]](https://www.amazon.es/dp/B07QK7SVTL/?tag=tolees-21) a 6.5 EUR (original: 13.99 EUR) (53.54 %  de descuento) en el siguiente enlace!

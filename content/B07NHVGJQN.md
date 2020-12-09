@@ -10,8 +10,11 @@ author: ring
 slug: B07NHVGJQN
 description:
 actualPrice: 7.92 EUR
+currency: EUR
+price: 7.92
 comparePrice: 14.99 EUR
 inStock: true
+prodname: JACK & JONES Jcobooster tee SS Crew Neck March 19 Camiseta Blanco  White Fit: Slim  Small para Hombre
 ---
 
 Está [JACK & JONES Jcobooster tee SS Crew Neck March 19 Camiseta Blanco  White Fit: Slim  Small para Hombre](https://www.amazon.es/dp/B07NHVGJQN/?tag=tolees-21) con 47.16 de descuento por 7.92 EUR (original: 14.99 EUR) en el siguiente enlace!

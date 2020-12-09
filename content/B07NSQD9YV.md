@@ -10,8 +10,11 @@ author: ring
 slug: B07NSQD9YV
 description:
 actualPrice: 10.73 EUR
+currency: EUR
+price: 10.73
 comparePrice: 14.95 EUR
 inStock: true
+prodname: Pop! Vinilo: Ghostbusters: Dr. Egon Spengler
 ---
 
 Tienes [Pop! Vinilo: Ghostbusters: Dr. Egon Spengler](https://www.amazon.es/dp/B07NSQD9YV/?tag=tolees-21) con un 28.23 % de descuento con precio de oferta de 10.73 EUR (original: 14.95 EUR) en el siguiente enlace!

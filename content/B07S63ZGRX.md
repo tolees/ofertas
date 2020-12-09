@@ -10,8 +10,11 @@ author: ring
 slug: B07S63ZGRX
 description:
 actualPrice: 13.49 EUR
+currency: EUR
+price: 13.49
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Crocs Classic Clog K  Zuecos Unisex Niños  Naranja  Cantaloupe   27/28 EU
 ---
 
 Tienes [Crocs Classic Clog K  Zuecos Unisex Niños  Naranja  Cantaloupe   27/28 EU](https://www.amazon.es/dp/B07S63ZGRX/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 13.49 EUR (original: 26.99 EUR) en el siguiente enlace!

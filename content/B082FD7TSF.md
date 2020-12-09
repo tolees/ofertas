@@ -10,8 +10,11 @@ author: ring
 slug: B082FD7TSF
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 30.99 EUR
 inStock: true
+prodname: OUSFOT Luz Solar Exterior 56 LED Foco Solar con Sensor de Movimiento Lámpara Solar de Seguridad Impermeable IP65 360 ° Ajustable para Entrada Garaje Patio y Jardín
 ---
 
 Tienes [OUSFOT Luz Solar Exterior 56 LED Foco Solar con Sensor de Movimiento Lámpara Solar de Seguridad Impermeable IP65 360 ° Ajustable para Entrada Garaje Patio y Jardín](https://www.amazon.es/dp/B082FD7TSF/?tag=tolees-21) con un 29.04 % de descuento con precio de oferta de 21.99 EUR (original: 30.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PVXFYNT
 description:
 actualPrice: 8.57 EUR
+currency: EUR
+price: 8.57
 comparePrice: 12.88 EUR
 inStock: true
+prodname: TTMOW Vinilo Pet Película Adhesiva Lámina de Espejo para Ventanas Cristal Unidireccional Protector de Privacidad Anti 99% UV y Anti 85% IR para Hogar y Oficina  40 * 200cm 
 ---
 
 Ahora mismo tienes [TTMOW Vinilo Pet Película Adhesiva Lámina de Espejo para Ventanas Cristal Unidireccional Protector de Privacidad Anti 99% UV y Anti 85% IR para Hogar y Oficina  40 * 200cm ](https://www.amazon.es/dp/B07PVXFYNT/?tag=tolees-21) a 8.57 EUR (original: 12.88 EUR) (33.46 %  de descuento) en el siguiente enlace!

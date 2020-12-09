@@ -10,8 +10,11 @@ author: ring
 slug: B07FKDC43N
 description:
 actualPrice: 73.95 EUR
+currency: EUR
+price: 73.95
 comparePrice: 120 EUR
 inStock: true
+prodname: Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre   Black/White/Burgundy Ash/Lime Blast 016  42 EU
 ---
 
 Tienes [Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre   Black/White/Burgundy Ash/Lime Blast 016  42 EU](https://www.amazon.es/dp/B07FKDC43N/?tag=tolees-21) con un 38.37 % de descuento con precio de oferta de 73.95 EUR (original: 120 EUR) en el siguiente enlace!

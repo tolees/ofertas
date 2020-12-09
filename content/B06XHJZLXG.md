@@ -10,8 +10,11 @@ author: ring
 slug: B06XHJZLXG
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 74.99 EUR
 inStock: true
+prodname: GoPro El Grande - Vara de Extensión  hasta 97 cm  para Cámara GoPro  Color Negro
 ---
 
 Está [GoPro El Grande - Vara de Extensión  hasta 97 cm  para Cámara GoPro  Color Negro](https://www.amazon.es/dp/B06XHJZLXG/?tag=tolees-21) con 73.34 de descuento por 19.99 EUR (original: 74.99 EUR) en el siguiente enlace!

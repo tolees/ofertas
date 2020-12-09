@@ -10,8 +10,11 @@ author: ring
 slug: B00LW78IOK
 description:
 actualPrice: 22.3 EUR
+currency: EUR
+price: 22.3
 comparePrice: 63.99 EUR
 inStock: true
+prodname: Breville VCF050X - Cafetera de goteo con vaso térmico incluido
 ---
 
 Está [Breville VCF050X - Cafetera de goteo con vaso térmico incluido](https://www.amazon.es/dp/B00LW78IOK/?tag=tolees-21) con 65.15 de descuento por 22.3 EUR (original: 63.99 EUR) en el siguiente enlace!

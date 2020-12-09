@@ -10,8 +10,11 @@ author: ring
 slug: B08NSX71BJ
 description:
 actualPrice: 103.69 EUR
+currency: EUR
+price: 103.69
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Tablet 10 Pulgadas 4GB de RAM 64GB/128GB de ROM Android 10.0 Certificado por Google GMS Tablet PC Barats y Buenas Batería 8000mAh Quad Core 4G Dual SIM 8MP Cámara Netflix WIFI Bluetooth GPS OTG Verde 
 ---
 
 Está [Tablet 10 Pulgadas 4GB de RAM 64GB/128GB de ROM Android 10.0 Certificado por Google GMS Tablet PC Barats y Buenas Batería 8000mAh Quad Core 4G Dual SIM 8MP Cámara Netflix WIFI Bluetooth GPS OTG Verde ](https://www.amazon.es/dp/B08NSX71BJ/?tag=tolees-21) con 47.89 de descuento por 103.69 EUR (original: 199.0 EUR) en el siguiente enlace!

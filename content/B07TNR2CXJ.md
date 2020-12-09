@@ -10,8 +10,11 @@ author: ring
 slug: B07TNR2CXJ
 description:
 actualPrice: 288.99 EUR
+currency: EUR
+price: 288.99
 comparePrice: 516.52 EUR
 inStock: true
+prodname: SanDisk Extreme Pro - Portable SSD de 2 TB y hasta 1050 MB/s con USB-C  de diseño robusto y resistente al agua
 ---
 
 Está [SanDisk Extreme Pro - Portable SSD de 2 TB y hasta 1050 MB/s con USB-C  de diseño robusto y resistente al agua](https://www.amazon.es/dp/B07TNR2CXJ/?tag=tolees-21) con 44.05 de descuento por 288.99 EUR (original: 516.52 EUR) en el siguiente enlace!

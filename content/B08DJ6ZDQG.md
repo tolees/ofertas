@@ -10,8 +10,11 @@ author: ring
 slug: B08DJ6ZDQG
 description:
 actualPrice: 15.17 EUR
+currency: EUR
+price: 15.17
 comparePrice: 22.87 EUR
 inStock: true
+prodname: Grsta Botella Agua - Botella de Agua Deportes 800ml Botella Deportiva Tritan de Plástico Sin BPA con Filtro & Marcador de Tiempo para Niños y Adultos  Hogar y Exterior
 ---
 
 Ahora mismo tienes [Grsta Botella Agua - Botella de Agua Deportes 800ml Botella Deportiva Tritan de Plástico Sin BPA con Filtro & Marcador de Tiempo para Niños y Adultos  Hogar y Exterior](https://www.amazon.es/dp/B08DJ6ZDQG/?tag=tolees-21) a 15.17 EUR (original: 22.87 EUR) (33.67 %  de descuento) en el siguiente enlace!

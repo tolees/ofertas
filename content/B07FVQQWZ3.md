@@ -10,8 +10,11 @@ author: ring
 slug: B07FVQQWZ3
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Shinymod Sports Manguitos de enfriamiento Manguitos de jardinería Unisex Solar Protección UV Manguito de Brazo Larga para Todas Las Actividades al Aire Libre Protección de la Piel
 ---
 
 Tienes [Shinymod Sports Manguitos de enfriamiento Manguitos de jardinería Unisex Solar Protección UV Manguito de Brazo Larga para Todas Las Actividades al Aire Libre Protección de la Piel](https://www.amazon.es/dp/B07FVQQWZ3/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

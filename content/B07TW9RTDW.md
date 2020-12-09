@@ -10,8 +10,11 @@ author: ring
 slug: B07TW9RTDW
 description:
 actualPrice: 8.95 EUR
+currency: EUR
+price: 8.95
 comparePrice: 20.99 EUR
 inStock: true
+prodname: TSUPY HUB USB 3.0  Adaptador USB 3.0 con 3 Puertos USB 3.0 y Lector de Tarjetas SD/Micro SD Transferencia de Datos 5Gbps para PC y Tabletas de Mac OS  Linux y Windows XP  Vista  7  8  10 y etc.
 ---
 
 Tienes [TSUPY HUB USB 3.0  Adaptador USB 3.0 con 3 Puertos USB 3.0 y Lector de Tarjetas SD/Micro SD Transferencia de Datos 5Gbps para PC y Tabletas de Mac OS  Linux y Windows XP  Vista  7  8  10 y etc.](https://www.amazon.es/dp/B07TW9RTDW/?tag=tolees-21) con un 57.36 % de descuento con precio de oferta de 8.95 EUR (original: 20.99 EUR) en el siguiente enlace!

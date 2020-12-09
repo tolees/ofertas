@@ -10,8 +10,11 @@ author: ring
 slug: B078SFGFZY
 description:
 actualPrice: 38.43 EUR
+currency: EUR
+price: 38.43
 comparePrice: 120 EUR
 inStock: true
+prodname: Nike Wmns Air MAX Thea  Zapatillas para Mujer  Azul  Navy/White-Black 419   38.5 EU
 ---
 
 Ahora mismo tienes [Nike Wmns Air MAX Thea  Zapatillas para Mujer  Azul  Navy/White-Black 419   38.5 EU](https://www.amazon.es/dp/B078SFGFZY/?tag=tolees-21) a 38.43 EUR (original: 120 EUR) (67.98 %  de descuento) en el siguiente enlace!

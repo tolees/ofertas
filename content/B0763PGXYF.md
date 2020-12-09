@@ -10,8 +10,11 @@ author: ring
 slug: B0763PGXYF
 description:
 actualPrice: 75 EUR
+currency: EUR
+price: 75
 comparePrice: 189 EUR
 inStock: true
+prodname: Timberland Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TBL15254JS.13A
 ---
 
 Ahora mismo tienes [Timberland Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TBL15254JS.13A](https://www.amazon.es/dp/B0763PGXYF/?tag=tolees-21) a 75 EUR (original: 189 EUR) (60.32 %  de descuento) en el siguiente enlace!

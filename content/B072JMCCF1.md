@@ -10,8 +10,11 @@ author: ring
 slug: B072JMCCF1
 description:
 actualPrice: 11.2 EUR
+currency: EUR
+price: 11.2
 comparePrice: 26.72 EUR
 inStock: true
+prodname: La casa de papel - Parte 1 y 2 [Blu-ray]
 ---
 
 Ahora mismo tienes [La casa de papel - Parte 1 y 2 [Blu-ray]](https://www.amazon.es/dp/B072JMCCF1/?tag=tolees-21) a 11.2 EUR (original: 26.72 EUR) (58.08 %  de descuento) en el siguiente enlace!

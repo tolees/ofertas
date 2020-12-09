@@ -10,8 +10,11 @@ author: ring
 slug: B07W5MZWQK
 description:
 actualPrice: 29.55 EUR
+currency: EUR
+price: 29.55
 comparePrice: 82.14 EUR
 inStock: true
+prodname: Tommy Hilfiger Hilfiger Intarsia Sweatshort Jersey de Deporte  Blanco  Large  Talla del Fabricante:  para Hombre
 ---
 
 Está [Tommy Hilfiger Hilfiger Intarsia Sweatshort Jersey de Deporte  Blanco  Large  Talla del Fabricante:  para Hombre](https://www.amazon.es/dp/B07W5MZWQK/?tag=tolees-21) con 64.02 de descuento por 29.55 EUR (original: 82.14 EUR) en el siguiente enlace!

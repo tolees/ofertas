@@ -10,8 +10,11 @@ author: ring
 slug: B07J6QW9TF
 description:
 actualPrice: 93.4 EUR
+currency: EUR
+price: 93.4
 comparePrice: 169.9 EUR
 inStock: true
+prodname: Liu Jo - Tiberina  cartera Mujer  Azul  Midnight   11x19x27 cm  B x H T 
 ---
 
 Está [Liu Jo - Tiberina  cartera Mujer  Azul  Midnight   11x19x27 cm  B x H T ](https://www.amazon.es/dp/B07J6QW9TF/?tag=tolees-21) con 45.03 de descuento por 93.4 EUR (original: 169.9 EUR) en el siguiente enlace!

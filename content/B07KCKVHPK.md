@@ -10,8 +10,11 @@ author: ring
 slug: B07KCKVHPK
 description:
 actualPrice: 20.88 EUR
+currency: EUR
+price: 20.88
 comparePrice: 37.5 EUR
 inStock: true
+prodname: David Jones - 5728-2a  Bolsos de mano Mujer  Verde  Khaki   13x26x32 cm  W x H L 
 ---
 
 Está [David Jones - 5728-2a  Bolsos de mano Mujer  Verde  Khaki   13x26x32 cm  W x H L ](https://www.amazon.es/dp/B07KCKVHPK/?tag=tolees-21) con 44.32 de descuento por 20.88 EUR (original: 37.5 EUR) en el siguiente enlace!

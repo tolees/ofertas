@@ -10,8 +10,11 @@ author: ring
 slug: B07JH1HMK2
 description:
 actualPrice: 24.6 EUR
+currency: EUR
+price: 24.6
 comparePrice: 44.99 EUR
 inStock: true
+prodname: JACK & JONES Jfweuston Combo  Zapatillas para Hombre  Gris Grey Melange  43 EU
 ---
 
 Está [JACK & JONES Jfweuston Combo  Zapatillas para Hombre  Gris Grey Melange  43 EU](https://www.amazon.es/dp/B07JH1HMK2/?tag=tolees-21) con 45.32 de descuento por 24.6 EUR (original: 44.99 EUR) en el siguiente enlace!

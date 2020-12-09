@@ -10,8 +10,11 @@ author: ring
 slug: B07FVHZNSR
 description:
 actualPrice: 25.95 EUR
+currency: EUR
+price: 25.95
 comparePrice: 76.56 EUR
 inStock: true
+prodname: Reebok Royal Ultra SL  Zapatillas de Deporte para Mujer   Lavender Luck/Rose Gold/White 000   36 EU
 ---
 
 Tienes [Reebok Royal Ultra SL  Zapatillas de Deporte para Mujer   Lavender Luck/Rose Gold/White 000   36 EU](https://www.amazon.es/dp/B07FVHZNSR/?tag=tolees-21) con un 66.11 % de descuento con precio de oferta de 25.95 EUR (original: 76.56 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00H0BKHN2
 description:
 actualPrice: 38.43 EUR
+currency: EUR
+price: 38.43
 comparePrice: 58.9 EUR
 inStock: true
+prodname: Joseph Joseph - Nest   Juego de Tuppers/Fiambreras integradas
 ---
 
 Tienes [Joseph Joseph - Nest   Juego de Tuppers/Fiambreras integradas](https://www.amazon.es/dp/B00H0BKHN2/?tag=tolees-21) con un 34.75 % de descuento con precio de oferta de 38.43 EUR (original: 58.9 EUR) en el siguiente enlace!

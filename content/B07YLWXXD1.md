@@ -10,8 +10,11 @@ author: ring
 slug: B07YLWXXD1
 description:
 actualPrice: 56.1 EUR
+currency: EUR
+price: 56.1
 comparePrice: 75.35 EUR
 inStock: true
+prodname: Superdry Tech Colourblock Elite Chaqueta  Azul  Nautical Navy 09s   2XL para Hombre
 ---
 
 Tienes [Superdry Tech Colourblock Elite Chaqueta  Azul  Nautical Navy 09s   2XL para Hombre](https://www.amazon.es/dp/B07YLWXXD1/?tag=tolees-21) con un 25.55 % de descuento con precio de oferta de 56.1 EUR (original: 75.35 EUR) en el siguiente enlace!

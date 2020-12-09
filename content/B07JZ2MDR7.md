@@ -10,8 +10,11 @@ author: ring
 slug: B07JZ2MDR7
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Columbia Watch Cap  Gorro Unisex
 ---
 
 Está [Columbia Watch Cap  Gorro Unisex](https://www.amazon.es/dp/B07JZ2MDR7/?tag=tolees-21) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

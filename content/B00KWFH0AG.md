@@ -10,8 +10,11 @@ author: ring
 slug: B00KWFH0AG
 description:
 actualPrice: 64.99 EUR
+currency: EUR
+price: 64.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Columbia Woodburn II  Zapatos Impermeables Hombre  Negro  Black Caramel   42.5 EU
 ---
 
 Tienes [Columbia Woodburn II  Zapatos Impermeables Hombre  Negro  Black Caramel   42.5 EU](https://www.amazon.es/dp/B00KWFH0AG/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 64.99 EUR (original: 99.99 EUR) en el siguiente enlace!

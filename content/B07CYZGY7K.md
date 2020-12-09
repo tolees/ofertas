@@ -10,8 +10,11 @@ author: ring
 slug: B07CYZGY7K
 description:
 actualPrice: 54.01 EUR
+currency: EUR
+price: 54.01
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Salomon Sense Escape 2  Zapatillas de Trail Running para Hombre  Gris  Ebony/Stormy Weather/Pearl Blue   48 EU
 ---
 
 Tienes [Salomon Sense Escape 2  Zapatillas de Trail Running para Hombre  Gris  Ebony/Stormy Weather/Pearl Blue   48 EU](https://www.amazon.es/dp/B07CYZGY7K/?tag=tolees-21) con un 50.88 % de descuento con precio de oferta de 54.01 EUR (original: 109.95 EUR) en el siguiente enlace!

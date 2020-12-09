@@ -10,8 +10,11 @@ author: ring
 slug: B07C8MX2XC
 description:
 actualPrice: 79.9 EUR
+currency: EUR
+price: 79.9
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Solac SW8230 Cotton 16.0 Máquina de Coser Mecánica con 16 Puntadas  Blanco
 ---
 
 Está [Solac SW8230 Cotton 16.0 Máquina de Coser Mecánica con 16 Puntadas  Blanco](https://www.amazon.es/dp/B07C8MX2XC/?tag=tolees-21) con 38.53 de descuento por 79.9 EUR (original: 129.99 EUR) en el siguiente enlace!

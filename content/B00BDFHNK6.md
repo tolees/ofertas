@@ -10,8 +10,11 @@ author: ring
 slug: B00BDFHNK6
 description:
 actualPrice: 51.99 EUR
+currency: EUR
+price: 51.99
 comparePrice: 89.9 EUR
 inStock: true
+prodname: D-Link DHP-W311AV - Kit PLC WiFi N300 Extensor de Red por Cable eléctrico  PLC a 500 Mbps Phy  WiFi hasta 300 Mbps  Fast Ethernet 10/100 Mbps  WPS  WPA2 
 ---
 
 Tienes [D-Link DHP-W311AV - Kit PLC WiFi N300 Extensor de Red por Cable eléctrico  PLC a 500 Mbps Phy  WiFi hasta 300 Mbps  Fast Ethernet 10/100 Mbps  WPS  WPA2 ](https://www.amazon.es/dp/B00BDFHNK6/?tag=tolees-21) con un 42.17 % de descuento con precio de oferta de 51.99 EUR (original: 89.9 EUR) en el siguiente enlace!

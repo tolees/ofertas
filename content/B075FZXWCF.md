@@ -10,8 +10,11 @@ author: ring
 slug: B075FZXWCF
 description:
 actualPrice: 10.73 EUR
+currency: EUR
+price: 10.73
 comparePrice: 16.62 EUR
 inStock: true
+prodname: Probios Compota para Untar con Naranja y Jengibre - Paquete de 6 x 220 gr - Total: 1320 gr
 ---
 
 Ahora mismo tienes [Probios Compota para Untar con Naranja y Jengibre - Paquete de 6 x 220 gr - Total: 1320 gr](https://www.amazon.es/dp/B075FZXWCF/?tag=tolees-21) a 10.73 EUR (original: 16.62 EUR) (35.44 %  de descuento) en el siguiente enlace!

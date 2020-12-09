@@ -10,8 +10,11 @@ author: ring
 slug: B078SYKHH4
 description:
 actualPrice: 47.03 EUR
+currency: EUR
+price: 47.03
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Salomon Trailster  Zaptillas de Running para Hombre  Azul Black/Indigo Bunting  40 2/3 EU
 ---
 
 Ahora mismo tienes [Salomon Trailster  Zaptillas de Running para Hombre  Azul Black/Indigo Bunting  40 2/3 EU](https://www.amazon.es/dp/B078SYKHH4/?tag=tolees-21) a 47.03 EUR (original: 99.95 EUR) (52.95 %  de descuento) en el siguiente enlace!

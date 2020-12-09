@@ -10,8 +10,11 @@ author: ring
 slug: B003NE4USI
 description:
 actualPrice: 32.36 EUR
+currency: EUR
+price: 32.36
 comparePrice: 49.9 EUR
 inStock: true
+prodname: BLACK+DECKER A7063-QZ - Kit de 76 herramientas para coche
 ---
 
 Está [BLACK+DECKER A7063-QZ - Kit de 76 herramientas para coche](https://www.amazon.es/dp/B003NE4USI/?tag=tolees-21) con 35.15 de descuento por 32.36 EUR (original: 49.9 EUR) en el siguiente enlace!

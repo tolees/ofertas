@@ -10,8 +10,11 @@ author: ring
 slug: B00CRMZA8Q
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 36.09 EUR
 inStock: true
+prodname: Arcos Accesorios - Sacacorchos Eléctrico Abrebotellas Eléctrico - Hecho de ABS con bateria interna recargable - Color Negro  Incluye Cargador y Cortacápsulas 
 ---
 
 Tienes [Arcos Accesorios - Sacacorchos Eléctrico Abrebotellas Eléctrico - Hecho de ABS con bateria interna recargable - Color Negro  Incluye Cargador y Cortacápsulas ](https://www.amazon.es/dp/B00CRMZA8Q/?tag=tolees-21) con un 25.21 % de descuento con precio de oferta de 26.99 EUR (original: 36.09 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KXF7LSD
 description:
 actualPrice: 9.4 EUR
+currency: EUR
+price: 9.4
 comparePrice: 19.1 EUR
 inStock: true
+prodname: Marca Amazon - find. Chaqueta con Cuello Redondo Mujer  Gris  Silver Grey   38  Label: S
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Chaqueta con Cuello Redondo Mujer  Gris  Silver Grey   38  Label: S](https://www.amazon.es/dp/B07KXF7LSD/?tag=tolees-21) a 9.4 EUR (original: 19.1 EUR) (50.79 %  de descuento) en el siguiente enlace!

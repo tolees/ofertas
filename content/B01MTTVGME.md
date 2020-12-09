@@ -10,8 +10,11 @@ author: ring
 slug: B01MTTVGME
 description:
 actualPrice: 15.95 EUR
+currency: EUR
+price: 15.95
 comparePrice: 50 EUR
 inStock: true
+prodname: Dakine Mission Mini Mochila  Unisex niños  Negro  Talla Única
 ---
 
 Ahora mismo tienes [Dakine Mission Mini Mochila  Unisex niños  Negro  Talla Única](https://www.amazon.es/dp/B01MTTVGME/?tag=tolees-21) a 15.95 EUR (original: 50 EUR) (68.10 %  de descuento) en el siguiente enlace!

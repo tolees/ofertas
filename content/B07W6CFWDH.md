@@ -10,8 +10,11 @@ author: ring
 slug: B07W6CFWDH
 description:
 actualPrice: 28.99 EUR
+currency: EUR
+price: 28.99
 comparePrice: 44.99 EUR
 inStock: true
+prodname: BRIKSMAX Kit de Iluminación Led para Lego Ideas Doctor Who  Compatible con Ladrillos de Construcción Lego Modelo 21304  Juego de Legos no Incluido
 ---
 
 Ahora mismo tienes [BRIKSMAX Kit de Iluminación Led para Lego Ideas Doctor Who  Compatible con Ladrillos de Construcción Lego Modelo 21304  Juego de Legos no Incluido](https://www.amazon.es/dp/B07W6CFWDH/?tag=tolees-21) a 28.99 EUR (original: 44.99 EUR) (35.56 %  de descuento) en el siguiente enlace!

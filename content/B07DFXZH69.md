@@ -10,8 +10,11 @@ author: ring
 slug: B07DFXZH69
 description:
 actualPrice: 24.45 EUR
+currency: EUR
+price: 24.45
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Puma Ignite 7  Pants  Hombre  Black  XXL
 ---
 
 Ahora mismo tienes [Puma Ignite 7  Pants  Hombre  Black  XXL](https://www.amazon.es/dp/B07DFXZH69/?tag=tolees-21) a 24.45 EUR (original: 34.95 EUR) (30.04 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B082VFYF5T
 description:
 actualPrice: 99.95 EUR
+currency: EUR
+price: 99.95
 comparePrice: 142.95 EUR
 inStock: true
+prodname: IKOHS SMARTCARE Pressure SCS - Centro de Planchado a Vapor  7 Bar de Presión  1 8L  2 Programas  Eco  Acero Inoxidable  150 g/min de Golpe de Vapor  Revestimiento Antiadherente Cerámico  Blanco 
 ---
 
 Ahora mismo tienes [IKOHS SMARTCARE Pressure SCS - Centro de Planchado a Vapor  7 Bar de Presión  1 8L  2 Programas  Eco  Acero Inoxidable  150 g/min de Golpe de Vapor  Revestimiento Antiadherente Cerámico  Blanco ](https://www.amazon.es/dp/B082VFYF5T/?tag=tolees-21) a 99.95 EUR (original: 142.95 EUR) (30.08 %  de descuento) en el siguiente enlace!

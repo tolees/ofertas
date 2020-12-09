@@ -10,8 +10,11 @@ author: ring
 slug: B07KYT2JYD
 description:
 actualPrice: 17.91 EUR
+currency: EUR
+price: 17.91
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Cortefiel C5Bck Polo Oxford Polo  Hombre  Rojo  Gama Rojo 65   X-Large  Tamaño del Fabricante:XL 
 ---
 
 Tienes [Cortefiel C5Bck Polo Oxford Polo  Hombre  Rojo  Gama Rojo 65   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KYT2JYD/?tag=tolees-21) con un 50.24 % de descuento con precio de oferta de 17.91 EUR (original: 35.99 EUR) en el siguiente enlace!

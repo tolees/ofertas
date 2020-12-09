@@ -10,8 +10,11 @@ author: ring
 slug: B07KXKFXWD
 description:
 actualPrice: 23.76 EUR
+currency: EUR
+price: 23.76
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Olay Total Effects Whip Light as Air Hidratante SPF30  Crema vitamina C y E para una piel de aspecto saludable  50 ml
 ---
 
 Está [Olay Total Effects Whip Light as Air Hidratante SPF30  Crema vitamina C y E para una piel de aspecto saludable  50 ml](https://www.amazon.es/dp/B07KXKFXWD/?tag=tolees-21) con 40.59 de descuento por 23.76 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07QMKMKH2
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 32.99 EUR
 inStock: true
+prodname: Shayson Ventilador de Mano Portátil Ventilador USB Batería Recargable de 3 Velocidad Silencioso con Base para Regalo Hogar  Oficina  Dormitorio y Viajes al Aire Libre（Rosa）
 ---
 
 Tienes [Shayson Ventilador de Mano Portátil Ventilador USB Batería Recargable de 3 Velocidad Silencioso con Base para Regalo Hogar  Oficina  Dormitorio y Viajes al Aire Libre（Rosa）](https://www.amazon.es/dp/B07QMKMKH2/?tag=tolees-21) con un 39.41 % de descuento con precio de oferta de 19.99 EUR (original: 32.99 EUR) en el siguiente enlace!

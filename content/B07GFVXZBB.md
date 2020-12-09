@@ -10,8 +10,11 @@ author: ring
 slug: B07GFVXZBB
 description:
 actualPrice: 14 EUR
+currency: EUR
+price: 14
 comparePrice: 27 EUR
 inStock: true
+prodname: FC Barcelona 611826672 2018 Bolso Bandolera 22 cm  Azul
 ---
 
 Tienes [FC Barcelona 611826672 2018 Bolso Bandolera 22 cm  Azul](https://www.amazon.es/dp/B07GFVXZBB/?tag=tolees-21) con un 48.15 % de descuento con precio de oferta de 14 EUR (original: 27 EUR) en el siguiente enlace!

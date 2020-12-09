@@ -10,8 +10,11 @@ author: ring
 slug: B07HZ6LVR7
 description:
 actualPrice: 13.69 EUR
+currency: EUR
+price: 13.69
 comparePrice: 32.02 EUR
 inStock: true
+prodname: New Look Camo Animal  Mono para Mujer  Negro  Black Pattern  46  Talla del Fabricante: 18 
 ---
 
 Ahora mismo tienes [New Look Camo Animal  Mono para Mujer  Negro  Black Pattern  46  Talla del Fabricante: 18 ](https://www.amazon.es/dp/B07HZ6LVR7/?tag=tolees-21) a 13.69 EUR (original: 32.02 EUR) (57.25 %  de descuento) en el siguiente enlace!

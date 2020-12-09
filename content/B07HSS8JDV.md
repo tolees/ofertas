@@ -10,8 +10,11 @@ author: ring
 slug: B07HSS8JDV
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Spigen Thin Fit Compatible con Apple Watch Funda para 44 mm Series 6/SE/5/4 - Negro
 ---
 
 Está [Spigen Thin Fit Compatible con Apple Watch Funda para 44 mm Series 6/SE/5/4 - Negro](https://www.amazon.es/dp/B07HSS8JDV/?tag=tolees-21) con 26.68 de descuento por 10.99 EUR (original: 14.99 EUR) en el siguiente enlace!

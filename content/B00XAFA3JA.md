@@ -10,8 +10,11 @@ author: ring
 slug: B00XAFA3JA
 description:
 actualPrice: 1.95 EUR
+currency: EUR
+price: 1.95
 comparePrice: 2.99 EUR
 inStock: true
+prodname: Adidas 6 in 1 Desodorante para Hombre - 200 ml.
 ---
 
 Tienes [Adidas 6 in 1 Desodorante para Hombre - 200 ml.](https://www.amazon.es/dp/B00XAFA3JA/?tag=tolees-21) con un 34.78 % de descuento con precio de oferta de 1.95 EUR (original: 2.99 EUR) en el siguiente enlace!

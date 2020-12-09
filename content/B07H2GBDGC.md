@@ -10,8 +10,11 @@ author: ring
 slug: B07H2GBDGC
 description:
 actualPrice: 23.49 EUR
+currency: EUR
+price: 23.49
 comparePrice: 36.99 EUR
 inStock: true
+prodname: TiaoBug 4Pcs Disfraz de Anime Mujer Cosplay de Marinero Chica Mujer para Fiesta Halloween Carnaval Actuación Cumpleaños Fotografía Morado Small
 ---
 
 Está [TiaoBug 4Pcs Disfraz de Anime Mujer Cosplay de Marinero Chica Mujer para Fiesta Halloween Carnaval Actuación Cumpleaños Fotografía Morado Small](https://www.amazon.es/dp/B07H2GBDGC/?tag=tolees-21) con 36.50 de descuento por 23.49 EUR (original: 36.99 EUR) en el siguiente enlace!

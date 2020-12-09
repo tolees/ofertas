@@ -10,8 +10,11 @@ author: ring
 slug: B078WVZQXX
 description:
 actualPrice: 42.45 EUR
+currency: EUR
+price: 42.45
 comparePrice: 85 EUR
 inStock: true
+prodname: Nike Wmns Classic Cortez Leather  Zapatillas para Mujer  Negro White-Black 016  39 EU
 ---
 
 Está [Nike Wmns Classic Cortez Leather  Zapatillas para Mujer  Negro White-Black 016  39 EU](https://www.amazon.es/dp/B078WVZQXX/?tag=tolees-21) con 50.06 de descuento por 42.45 EUR (original: 85 EUR) en el siguiente enlace!

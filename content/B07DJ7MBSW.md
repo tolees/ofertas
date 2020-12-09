@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ7MBSW
 description:
 actualPrice: 35.95 EUR
+currency: EUR
+price: 35.95
 comparePrice: 89.9 EUR
 inStock: true
+prodname: Geox D Annytah D  Bailarinas para Mujer  Rosa  Coral C7008   38 EU
 ---
 
 Tienes [Geox D Annytah D  Bailarinas para Mujer  Rosa  Coral C7008   38 EU](https://www.amazon.es/dp/B07DJ7MBSW/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 35.95 EUR (original: 89.9 EUR) en el siguiente enlace!

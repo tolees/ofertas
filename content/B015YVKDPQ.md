@@ -10,8 +10,11 @@ author: ring
 slug: B015YVKDPQ
 description:
 actualPrice: 51.08 EUR
+currency: EUR
+price: 51.08
 comparePrice: 160 EUR
 inStock: true
+prodname: ECCO Jared  Mocasines para Hombre  Negro  BLACK1001   47 EU
 ---
 
 Está [ECCO Jared  Mocasines para Hombre  Negro  BLACK1001   47 EU](https://www.amazon.es/dp/B015YVKDPQ/?tag=tolees-21) con 68.08 de descuento por 51.08 EUR (original: 160 EUR) en el siguiente enlace!

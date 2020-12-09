@@ -10,8 +10,11 @@ author: ring
 slug: B01K9JSGZ2
 description:
 actualPrice: 20.04 EUR
+currency: EUR
+price: 20.04
 comparePrice: 27.9 EUR
 inStock: true
+prodname: Vino Rosado Gazela  DOC Vinho Verde  - 6 botellas de 750 ml - Total: 4500 ml
 ---
 
 Ahora mismo tienes [Vino Rosado Gazela  DOC Vinho Verde  - 6 botellas de 750 ml - Total: 4500 ml](https://www.amazon.es/dp/B01K9JSGZ2/?tag=tolees-21) a 20.04 EUR (original: 27.9 EUR) (28.17 %  de descuento) en el siguiente enlace!

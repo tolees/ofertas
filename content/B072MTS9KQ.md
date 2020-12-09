@@ -10,8 +10,11 @@ author: ring
 slug: B072MTS9KQ
 description:
 actualPrice: 9.71 EUR
+currency: EUR
+price: 9.71
 comparePrice: 13.65 EUR
 inStock: true
+prodname: find. Botas Safari para Hombre  Marrón  Choc   41 EU
 ---
 
 Tienes [find. Botas Safari para Hombre  Marrón  Choc   41 EU](https://www.amazon.es/dp/B072MTS9KQ/?tag=tolees-21) con un 28.86 % de descuento con precio de oferta de 9.71 EUR (original: 13.65 EUR) en el siguiente enlace!

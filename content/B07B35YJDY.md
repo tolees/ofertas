@@ -10,8 +10,11 @@ author: ring
 slug: B07B35YJDY
 description:
 actualPrice: 24.3 EUR
+currency: EUR
+price: 24.3
 comparePrice: 48.0 EUR
 inStock: true
+prodname: Jaume Serra Chardonnay Brut Cava – 6 Botellas x 750 ml - Total : 4500 ml
 ---
 
 Ahora mismo tienes [Jaume Serra Chardonnay Brut Cava – 6 Botellas x 750 ml - Total : 4500 ml](https://www.amazon.es/dp/B07B35YJDY/?tag=tolees-21) a 24.3 EUR (original: 48.0 EUR) (49.38 %  de descuento) en el siguiente enlace!

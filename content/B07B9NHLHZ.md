@@ -10,8 +10,11 @@ author: ring
 slug: B07B9NHLHZ
 description:
 actualPrice: 88.17 EUR
+currency: EUR
+price: 88.17
 comparePrice: 169.0 EUR
 inStock: true
+prodname: LG XBOOM PK5 - Altavoz Portátil  20 W  Inalámbrico  aptX HD  15h de batería  Resistencia al agua IPX5  Iluminación  Bluetooth  Color Negro
 ---
 
 Está [LG XBOOM PK5 - Altavoz Portátil  20 W  Inalámbrico  aptX HD  15h de batería  Resistencia al agua IPX5  Iluminación  Bluetooth  Color Negro](https://www.amazon.es/dp/B07B9NHLHZ/?tag=tolees-21) con 47.83 de descuento por 88.17 EUR (original: 169.0 EUR) en el siguiente enlace!

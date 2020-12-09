@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ5CYWM
 description:
 actualPrice: 35.28 EUR
+currency: EUR
+price: 35.28
 comparePrice: 80 EUR
 inStock: true
+prodname: New Balance 220  Zapatillas Unisex Adulto  Gris  Lead/White FK   36 EU
 ---
 
 Tienes [New Balance 220  Zapatillas Unisex Adulto  Gris  Lead/White FK   36 EU](https://www.amazon.es/dp/B07DJ5CYWM/?tag=tolees-21) con un 55.90 % de descuento con precio de oferta de 35.28 EUR (original: 80 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01FNRWNPO
 description:
 actualPrice: 29.93 EUR
+currency: EUR
+price: 29.93
 comparePrice: 39.99 EUR
 inStock: true
+prodname: HP Z5000 - Ratón inalámbrico Bluetooth  Negro
 ---
 
 Está [HP Z5000 - Ratón inalámbrico Bluetooth  Negro](https://www.amazon.es/dp/B01FNRWNPO/?tag=tolees-21) con 25.16 de descuento por 29.93 EUR (original: 39.99 EUR) en el siguiente enlace!

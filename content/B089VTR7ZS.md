@@ -10,8 +10,11 @@ author: ring
 slug: B089VTR7ZS
 description:
 actualPrice: 36.79 EUR
+currency: EUR
+price: 36.79
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Tronsmart Alpha-glary Auriculares Gaming PS4 50mm Estéreo Envolventes con Micrófono Plegable-Ajustables Espuma-RGB Cascos Gaming 3 5 mm-Cancelación del Ruido para PC PSP Xbox One Switch y móviles
 ---
 
 Ahora mismo tienes [Tronsmart Alpha-glary Auriculares Gaming PS4 50mm Estéreo Envolventes con Micrófono Plegable-Ajustables Espuma-RGB Cascos Gaming 3 5 mm-Cancelación del Ruido para PC PSP Xbox One Switch y móviles](https://www.amazon.es/dp/B089VTR7ZS/?tag=tolees-21) a 36.79 EUR (original: 49.99 EUR) (26.41 %  de descuento) en el siguiente enlace!

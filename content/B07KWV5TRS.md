@@ -10,8 +10,11 @@ author: ring
 slug: B07KWV5TRS
 description:
 actualPrice: 11.54 EUR
+currency: EUR
+price: 11.54
 comparePrice: 15.49 EUR
 inStock: true
+prodname: Aigostar -10 x E27 Bombilla LED G45  Casquillo gordo 5W  Bajo consumo  400lm  Luz calida 3000K  Ahorro de energía  no regulable - Caja de 10 unidades
 ---
 
 Tienes [Aigostar -10 x E27 Bombilla LED G45  Casquillo gordo 5W  Bajo consumo  400lm  Luz calida 3000K  Ahorro de energía  no regulable - Caja de 10 unidades](https://www.amazon.es/dp/B07KWV5TRS/?tag=tolees-21) con un 25.50 % de descuento con precio de oferta de 11.54 EUR (original: 15.49 EUR) en el siguiente enlace!

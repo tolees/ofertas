@@ -10,8 +10,11 @@ author: ring
 slug: B07N95NZZZ
 description:
 actualPrice: 11.26 EUR
+currency: EUR
+price: 11.26
 comparePrice: 15.95 EUR
 inStock: true
+prodname: No Game Over- Juego de Mesa 3 Pack Expansiones  Multicolor  0710535488104 
 ---
 
 Ahora mismo tienes [No Game Over- Juego de Mesa 3 Pack Expansiones  Multicolor  0710535488104 ](https://www.amazon.es/dp/B07N95NZZZ/?tag=tolees-21) a 11.26 EUR (original: 15.95 EUR) (29.40 %  de descuento) en el siguiente enlace!

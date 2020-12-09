@@ -10,8 +10,11 @@ author: ring
 slug: B08KH2L8DH
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 25.8 EUR
 inStock: true
+prodname: Power Up [Vinilo]
 ---
 
 Ahora mismo tienes [Power Up [Vinilo]](https://www.amazon.es/dp/B08KH2L8DH/?tag=tolees-21) a 18.99 EUR (original: 25.8 EUR) (26.40 %  de descuento) en el siguiente enlace!

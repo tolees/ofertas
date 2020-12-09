@@ -10,8 +10,11 @@ author: ring
 slug: B087WG4TRJ
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: FirstE Altavoz Bluetooth Flotante con Luz de 7 Modos  Altavoz Portatil Bluetooth  Impermeable IPX7 Altavozs Inalámbrico  Manos Libres  Altavoz de Ducha para Piscina  Jacuzzi  Hogar  Aire Libre  Viajes
 ---
 
 Tienes [FirstE Altavoz Bluetooth Flotante con Luz de 7 Modos  Altavoz Portatil Bluetooth  Impermeable IPX7 Altavozs Inalámbrico  Manos Libres  Altavoz de Ducha para Piscina  Jacuzzi  Hogar  Aire Libre  Viajes](https://www.amazon.es/dp/B087WG4TRJ/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

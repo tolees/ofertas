@@ -10,8 +10,11 @@ author: ring
 slug: B08DTG9VFD
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Ertisa 6 Bolsas de Vino de Navidad  Bolsa de Regalo de Vino  muñeco de Nieve  Reno  Papá Noel  Fundas para Botellas de Vino  Decorativas para Botellas de Vino en la Cena de Navidad  Fiesta en casa
 ---
 
 Ahora mismo tienes [Ertisa 6 Bolsas de Vino de Navidad  Bolsa de Regalo de Vino  muñeco de Nieve  Reno  Papá Noel  Fundas para Botellas de Vino  Decorativas para Botellas de Vino en la Cena de Navidad  Fiesta en casa](https://www.amazon.es/dp/B08DTG9VFD/?tag=tolees-21) a 9.99 EUR (original: 13.99 EUR) (28.59 %  de descuento) en el siguiente enlace!

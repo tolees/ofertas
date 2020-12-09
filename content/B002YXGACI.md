@@ -10,8 +10,11 @@ author: ring
 slug: B002YXGACI
 description:
 actualPrice: 8.92 EUR
+currency: EUR
+price: 8.92
 comparePrice: 13.28 EUR
 inStock: true
+prodname: Tayg Maleta para herramienta eléctrica n. 42  Verde  Transparente  Amarillo  385 x 330 x 130 mm
 ---
 
 Está [Tayg Maleta para herramienta eléctrica n. 42  Verde  Transparente  Amarillo  385 x 330 x 130 mm](https://www.amazon.es/dp/B002YXGACI/?tag=tolees-21) con 32.83 de descuento por 8.92 EUR (original: 13.28 EUR) en el siguiente enlace!

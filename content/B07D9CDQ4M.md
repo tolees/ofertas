@@ -10,8 +10,11 @@ author: ring
 slug: B07D9CDQ4M
 description:
 actualPrice: 30.88 EUR
+currency: EUR
+price: 30.88
 comparePrice: 54.95 EUR
 inStock: true
+prodname: adidas X 18.4 FG  Zapatillas de Fútbol para Hombre  Amarillo  Solar Yellow/Core Black/Footwear White 0   42 2/3 EU
 ---
 
 Tienes [adidas X 18.4 FG  Zapatillas de Fútbol para Hombre  Amarillo  Solar Yellow/Core Black/Footwear White 0   42 2/3 EU](https://www.amazon.es/dp/B07D9CDQ4M/?tag=tolees-21) con un 43.80 % de descuento con precio de oferta de 30.88 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B003QMZSHE
 description:
 actualPrice: 34.46 EUR
+currency: EUR
+price: 34.46
 comparePrice: 45.95 EUR
 inStock: true
+prodname: GORE BIKE WEAR Guantes de Hombre  Ciclismo en carretera  Dedos cortos  Transpirable  GORE Selected Fabrics  OXYGEN Gloves  Talla 9  Negro  GOXYGE990007
 ---
 
 Ahora mismo tienes [GORE BIKE WEAR Guantes de Hombre  Ciclismo en carretera  Dedos cortos  Transpirable  GORE Selected Fabrics  OXYGEN Gloves  Talla 9  Negro  GOXYGE990007](https://www.amazon.es/dp/B003QMZSHE/?tag=tolees-21) a 34.46 EUR (original: 45.95 EUR) (25.01 %  de descuento) en el siguiente enlace!

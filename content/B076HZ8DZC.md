@@ -10,8 +10,11 @@ author: ring
 slug: B076HZ8DZC
 description:
 actualPrice: 14.4 EUR
+currency: EUR
+price: 14.4
 comparePrice: 23.09 EUR
 inStock: true
+prodname: find. 59699 vaqueros mujer  Azul  Mid Blue   W28/L32
 ---
 
 Ahora mismo tienes [find. 59699 vaqueros mujer  Azul  Mid Blue   W28/L32](https://www.amazon.es/dp/B076HZ8DZC/?tag=tolees-21) a 14.4 EUR (original: 23.09 EUR) (37.64 %  de descuento) en el siguiente enlace!

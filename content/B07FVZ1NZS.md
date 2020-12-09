@@ -10,8 +10,11 @@ author: ring
 slug: B07FVZ1NZS
 description:
 actualPrice: 12.52 EUR
+currency: EUR
+price: 12.52
 comparePrice: 24.99 EUR
 inStock: true
+prodname: SELECTED HOMME Slhnewseason SS Polo W Noos  Hombre  Verde  Quetzal Green   Large
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhnewseason SS Polo W Noos  Hombre  Verde  Quetzal Green   Large](https://www.amazon.es/dp/B07FVZ1NZS/?tag=tolees-21) a 12.52 EUR (original: 24.99 EUR) (49.90 %  de descuento) en el siguiente enlace!

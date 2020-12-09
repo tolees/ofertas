@@ -10,8 +10,11 @@ author: ring
 slug: B01NARXSY5
 description:
 actualPrice: 152.34 EUR
+currency: EUR
+price: 152.34
 comparePrice: 219 EUR
 inStock: true
+prodname: Fujifilm FinePix XP120 - Cámara acuatíca de 16.4 MP  Pantalla de 3"  estabilizador óptico  Video Full HD  WiFi  Azul
 ---
 
 Ahora mismo tienes [Fujifilm FinePix XP120 - Cámara acuatíca de 16.4 MP  Pantalla de 3"  estabilizador óptico  Video Full HD  WiFi  Azul](https://www.amazon.es/dp/B01NARXSY5/?tag=tolees-21) a 152.34 EUR (original: 219 EUR) (30.44 %  de descuento) en el siguiente enlace!

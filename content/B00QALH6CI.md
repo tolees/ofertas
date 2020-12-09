@@ -10,8 +10,11 @@ author: ring
 slug: B00QALH6CI
 description:
 actualPrice: 224.91 EUR
+currency: EUR
+price: 224.91
 comparePrice: 618.99 EUR
 inStock: true
+prodname: Brother RJ3050 - Impresora portátil de Tickets de hasta 3" de Ancho  conexión USB  Bluetooth y WiFi 
 ---
 
 Ahora mismo tienes [Brother RJ3050 - Impresora portátil de Tickets de hasta 3" de Ancho  conexión USB  Bluetooth y WiFi ](https://www.amazon.es/dp/B00QALH6CI/?tag=tolees-21) a 224.91 EUR (original: 618.99 EUR) (63.67 %  de descuento) en el siguiente enlace!

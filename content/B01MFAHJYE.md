@@ -10,8 +10,11 @@ author: ring
 slug: B01MFAHJYE
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.95 EUR
 inStock: true
+prodname: G-STAR RAW Classic Trunk Pantalones Cortos  Negro  Black 990   L para Hombre
 ---
 
 Tienes [G-STAR RAW Classic Trunk Pantalones Cortos  Negro  Black 990   L para Hombre](https://www.amazon.es/dp/B01MFAHJYE/?tag=tolees-21) con un 34.89 % de descuento con precio de oferta de 12.99 EUR (original: 19.95 EUR) en el siguiente enlace!

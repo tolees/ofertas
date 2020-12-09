@@ -10,8 +10,11 @@ author: ring
 slug: B07DB1GKH3
 description:
 actualPrice: 24.97 EUR
+currency: EUR
+price: 24.97
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Puma Nrgy Comet  Zapatillas de Running Unisex Adulto  Rojo  Ribbon Red-Iron Gate 11   37 EU
 ---
 
 Tienes [Puma Nrgy Comet  Zapatillas de Running Unisex Adulto  Rojo  Ribbon Red-Iron Gate 11   37 EU](https://www.amazon.es/dp/B07DB1GKH3/?tag=tolees-21) con un 54.56 % de descuento con precio de oferta de 24.97 EUR (original: 54.95 EUR) en el siguiente enlace!

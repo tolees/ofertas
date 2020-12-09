@@ -10,8 +10,11 @@ author: ring
 slug: B07KYYWXQ9
 description:
 actualPrice: 7.34 EUR
+currency: EUR
+price: 7.34
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Springfield 4.T.Daily.Ap.Pv19.Polo FK Blusa  Mujer  Beige  Crudo 96   One Size  Tamaño del Fabricante:XL 
 ---
 
 Tienes [Springfield 4.T.Daily.Ap.Pv19.Polo FK Blusa  Mujer  Beige  Crudo 96   One Size  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07KYYWXQ9/?tag=tolees-21) con un 54.10 % de descuento con precio de oferta de 7.34 EUR (original: 15.99 EUR) en el siguiente enlace!

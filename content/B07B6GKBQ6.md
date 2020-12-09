@@ -10,8 +10,11 @@ author: ring
 slug: B07B6GKBQ6
 description:
 actualPrice: 39.17 EUR
+currency: EUR
+price: 39.17
 comparePrice: 70 EUR
 inStock: true
+prodname: Dockers Washed Khaki Skinny-Stretch Twill Pantalones  C00085 Safari Beige 0015  W31/L32  Talla del Fabricante: 31 32  para Hombre
 ---
 
 Está [Dockers Washed Khaki Skinny-Stretch Twill Pantalones  C00085 Safari Beige 0015  W31/L32  Talla del Fabricante: 31 32  para Hombre](https://www.amazon.es/dp/B07B6GKBQ6/?tag=tolees-21) con 44.04 de descuento por 39.17 EUR (original: 70 EUR) en el siguiente enlace!

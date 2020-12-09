@@ -10,8 +10,11 @@ author: ring
 slug: B07SGJ7P9J
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Pinypon Action- Emergencia en el avión con Dos Figuras y de Accesorios  para niños y niñas de 4 a 8 años   Famosa 700015149    color/modelo surtido
 ---
 
 Está [Pinypon Action- Emergencia en el avión con Dos Figuras y de Accesorios  para niños y niñas de 4 a 8 años   Famosa 700015149    color/modelo surtido](https://www.amazon.es/dp/B07SGJ7P9J/?tag=tolees-21) con 29.94 de descuento por 27.99 EUR (original: 39.95 EUR) en el siguiente enlace!

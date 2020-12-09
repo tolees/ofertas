@@ -10,8 +10,11 @@ author: ring
 slug: B079YFCSFB
 description:
 actualPrice: 14 EUR
+currency: EUR
+price: 14
 comparePrice: 20 EUR
 inStock: true
+prodname: AURIQUE Capri Stripe Leggings deporte  Azul  Navy/white   36  Talla del Fabricante: X-Small 
 ---
 
 Ahora mismo tienes [AURIQUE Capri Stripe Leggings deporte  Azul  Navy/white   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B079YFCSFB/?tag=tolees-21) a 14 EUR (original: 20 EUR) (30.00 %  de descuento) en el siguiente enlace!

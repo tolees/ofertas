@@ -10,8 +10,11 @@ author: ring
 slug: B07VF6JQ6S
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 95.0 EUR
 inStock: true
+prodname: Hackett London Coral Swim Trim Polo  Verde  603spearmint 603   Medium para Hombre
 ---
 
 Está [Hackett London Coral Swim Trim Polo  Verde  603spearmint 603   Medium para Hombre](https://www.amazon.es/dp/B07VF6JQ6S/?tag=tolees-21) con 66.33 de descuento por 31.99 EUR (original: 95.0 EUR) en el siguiente enlace!

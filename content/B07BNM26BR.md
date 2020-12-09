@@ -10,8 +10,11 @@ author: ring
 slug: B07BNM26BR
 description:
 actualPrice: 26.67 EUR
+currency: EUR
+price: 26.67
 comparePrice: 72.3 EUR
 inStock: true
+prodname: ASICS Seamless - Calcetines de Deporte  Sportswear Tights  Adulto  Femenino  S  Negro  Gris  1 Pieza s  
 ---
 
 Ahora mismo tienes [ASICS Seamless - Calcetines de Deporte  Sportswear Tights  Adulto  Femenino  S  Negro  Gris  1 Pieza s  ](https://www.amazon.es/dp/B07BNM26BR/?tag=tolees-21) a 26.67 EUR (original: 72.3 EUR) (63.11 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06W2PL7LX
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 22.58 EUR
 inStock: true
+prodname: Electric Magnetic Pesca de Juego de Mesa de Música de Rotación de Juguete Desarrollo Educativo Temprano para Niños 3 4 5 Años  Style B 
 ---
 
 Está [Electric Magnetic Pesca de Juego de Mesa de Música de Rotación de Juguete Desarrollo Educativo Temprano para Niños 3 4 5 Años  Style B ](https://www.amazon.es/dp/B06W2PL7LX/?tag=tolees-21) con 51.33 de descuento por 10.99 EUR (original: 22.58 EUR) en el siguiente enlace!

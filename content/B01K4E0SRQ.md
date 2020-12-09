@@ -10,8 +10,11 @@ author: ring
 slug: B01K4E0SRQ
 description:
 actualPrice: 19.53 EUR
+currency: EUR
+price: 19.53
 comparePrice: 32.1 EUR
 inStock: true
+prodname: Juego de Pesca Doble Capas Juguete de Electrónico Musical Juego de Mesa Con Luz Música para Niños 3+ Años
 ---
 
 Tienes [Juego de Pesca Doble Capas Juguete de Electrónico Musical Juego de Mesa Con Luz Música para Niños 3+ Años](https://www.amazon.es/dp/B01K4E0SRQ/?tag=tolees-21) con un 39.16 % de descuento con precio de oferta de 19.53 EUR (original: 32.1 EUR) en el siguiente enlace!

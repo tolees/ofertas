@@ -10,8 +10,11 @@ author: ring
 slug: B079RJFJM9
 description:
 actualPrice: 22.88 EUR
+currency: EUR
+price: 22.88
 comparePrice: 65 EUR
 inStock: true
+prodname: Geox J Xunday Boy H  Botas Chukka para Niños   Brown/Navy C0947   31 EU
 ---
 
 Tienes [Geox J Xunday Boy H  Botas Chukka para Niños   Brown/Navy C0947   31 EU](https://www.amazon.es/dp/B079RJFJM9/?tag=tolees-21) con un 64.80 % de descuento con precio de oferta de 22.88 EUR (original: 65 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07XS7VKFY
 description:
 actualPrice: 529.05 EUR
+currency: EUR
+price: 529.05
 comparePrice: 799.0 EUR
 inStock: true
+prodname: Apple Watch Series 5  GPS + Cellular  44 mm  Acero Inoxidable - Correa Deportiva Blanco
 ---
 
 Ahora mismo tienes [Apple Watch Series 5  GPS + Cellular  44 mm  Acero Inoxidable - Correa Deportiva Blanco](https://www.amazon.es/dp/B07XS7VKFY/?tag=tolees-21) a 529.05 EUR (original: 799.0 EUR) (33.79 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01N0RQQ2U
 description:
 actualPrice: 30.35 EUR
+currency: EUR
+price: 30.35
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Kappa Olymp  Zapatillas Unisex Adulto  Negro  Black/White 1110   43 EU
 ---
 
 Tienes [Kappa Olymp  Zapatillas Unisex Adulto  Negro  Black/White 1110   43 EU](https://www.amazon.es/dp/B01N0RQQ2U/?tag=tolees-21) con un 49.37 % de descuento con precio de oferta de 30.35 EUR (original: 59.95 EUR) en el siguiente enlace!

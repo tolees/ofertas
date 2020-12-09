@@ -10,8 +10,11 @@ author: ring
 slug: B01NA7VIOY
 description:
 actualPrice: 25.45 EUR
+currency: EUR
+price: 25.45
 comparePrice: 149.85 EUR
 inStock: true
+prodname: Asics Noosa Ff  Zapatillas de running Mujer  Multicolor  Black/Bay/Viridian Green   38 EU
 ---
 
 Ahora mismo tienes [Asics Noosa Ff  Zapatillas de running Mujer  Multicolor  Black/Bay/Viridian Green   38 EU](https://www.amazon.es/dp/B01NA7VIOY/?tag=tolees-21) a 25.45 EUR (original: 149.85 EUR) (83.02 %  de descuento) en el siguiente enlace!

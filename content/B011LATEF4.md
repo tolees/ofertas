@@ -10,8 +10,11 @@ author: ring
 slug: B011LATEF4
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 32.95 EUR
 inStock: true
+prodname: Lúdilo-678403 5 Segundos  Miscelanea  678403 
 ---
 
 Tienes [Lúdilo-678403 5 Segundos  Miscelanea  678403 ](https://www.amazon.es/dp/B011LATEF4/?tag=tolees-21) con un 46.89 % de descuento con precio de oferta de 17.5 EUR (original: 32.95 EUR) en el siguiente enlace!

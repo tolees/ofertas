@@ -10,8 +10,11 @@ author: ring
 slug: B00VXD0R4M
 description:
 actualPrice: 58.5 EUR
+currency: EUR
+price: 58.5
 comparePrice: 129.95 EUR
 inStock: true
+prodname: G-STAR arc 3d slim - hydrite denim - Vaqueros para hombre  Blau - Blue  Dark Aged   34W/38L
 ---
 
 Tienes [G-STAR arc 3d slim - hydrite denim - Vaqueros para hombre  Blau - Blue  Dark Aged   34W/38L](https://www.amazon.es/dp/B00VXD0R4M/?tag=tolees-21) con un 54.98 % de descuento con precio de oferta de 58.5 EUR (original: 129.95 EUR) en el siguiente enlace!

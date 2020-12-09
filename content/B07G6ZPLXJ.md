@@ -10,8 +10,11 @@ author: ring
 slug: B07G6ZPLXJ
 description:
 actualPrice: 9.55 EUR
+currency: EUR
+price: 9.55
 comparePrice: 23.88 EUR
 inStock: true
+prodname: Marca Amazon - MERAKI Rib Crew Neck - suéter Mujer  Negro  Black Black   36  Label: XS
 ---
 
 Está [Marca Amazon - MERAKI Rib Crew Neck - suéter Mujer  Negro  Black Black   36  Label: XS](https://www.amazon.es/dp/B07G6ZPLXJ/?tag=tolees-21) con 60.01 de descuento por 9.55 EUR (original: 23.88 EUR) en el siguiente enlace!

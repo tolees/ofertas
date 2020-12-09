@@ -10,8 +10,11 @@ author: ring
 slug: B01CK2HDJQ
 description:
 actualPrice: 3.99 EUR
+currency: EUR
+price: 3.99
 comparePrice: 7.9 EUR
 inStock: true
+prodname: Contact LXCDU1 - Cargador de RED  con USB  color negro
 ---
 
 Está [Contact LXCDU1 - Cargador de RED  con USB  color negro](https://www.amazon.es/dp/B01CK2HDJQ/?tag=tolees-21) con 49.49 de descuento por 3.99 EUR (original: 7.9 EUR) en el siguiente enlace!

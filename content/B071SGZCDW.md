@@ -10,8 +10,11 @@ author: ring
 slug: B071SGZCDW
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 76.91 EUR
 inStock: true
+prodname: Giorgio Armani Stronger With You Homme Eau de Toilette - 30 ml
 ---
 
 Tienes [Giorgio Armani Stronger With You Homme Eau de Toilette - 30 ml](https://www.amazon.es/dp/B071SGZCDW/?tag=tolees-21) con un 54.56 % de descuento con precio de oferta de 34.95 EUR (original: 76.91 EUR) en el siguiente enlace!

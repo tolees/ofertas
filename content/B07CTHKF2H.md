@@ -10,8 +10,11 @@ author: ring
 slug: B07CTHKF2H
 description:
 actualPrice: 60.99 EUR
+currency: EUR
+price: 60.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: JACK & JONES JFWALBANY Leather STS  Biker Boots para Hombre  Marrón Brown Stone Brown Stone   40 EU
 ---
 
 Está [JACK & JONES JFWALBANY Leather STS  Biker Boots para Hombre  Marrón Brown Stone Brown Stone   40 EU](https://www.amazon.es/dp/B07CTHKF2H/?tag=tolees-21) con 39.00 de descuento por 60.99 EUR (original: 99.99 EUR) en el siguiente enlace!

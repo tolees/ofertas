@@ -10,8 +10,11 @@ author: ring
 slug: B07KFTZYN7
 description:
 actualPrice: 28.44 EUR
+currency: EUR
+price: 28.44
 comparePrice: 60 EUR
 inStock: true
+prodname: Burton Prospect Mochilas  Unisex Adulto  Gray Heather
 ---
 
 Tienes [Burton Prospect Mochilas  Unisex Adulto  Gray Heather](https://www.amazon.es/dp/B07KFTZYN7/?tag=tolees-21) con un 52.60 % de descuento con precio de oferta de 28.44 EUR (original: 60 EUR) en el siguiente enlace!

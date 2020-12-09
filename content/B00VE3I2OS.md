@@ -10,8 +10,11 @@ author: ring
 slug: B00VE3I2OS
 description:
 actualPrice: 26.61 EUR
+currency: EUR
+price: 26.61
 comparePrice: 36.0 EUR
 inStock: true
+prodname: Emsa Travel Mug Taza térmica de Acero Inoxidable con Base Antideslizante  4-8h Perseverancia   Rojo  0.5 L
 ---
 
 Ahora mismo tienes [Emsa Travel Mug Taza térmica de Acero Inoxidable con Base Antideslizante  4-8h Perseverancia   Rojo  0.5 L](https://www.amazon.es/dp/B00VE3I2OS/?tag=tolees-21) a 26.61 EUR (original: 36.0 EUR) (26.08 %  de descuento) en el siguiente enlace!

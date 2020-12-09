@@ -10,8 +10,11 @@ author: ring
 slug: B07HFWDQXD
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 21.99 EUR
 inStock: true
+prodname: Guantes de Invierno Cooolla Cálidos guantes de Moto al Aire Libre Guantes para Pantalla Táctil
 ---
 
 Tienes [Guantes de Invierno Cooolla Cálidos guantes de Moto al Aire Libre Guantes para Pantalla Táctil](https://www.amazon.es/dp/B07HFWDQXD/?tag=tolees-21) con un 54.57 % de descuento con precio de oferta de 9.99 EUR (original: 21.99 EUR) en el siguiente enlace!

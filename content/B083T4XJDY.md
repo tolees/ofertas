@@ -10,8 +10,11 @@ author: ring
 slug: B083T4XJDY
 description:
 actualPrice: 99.0 EUR
+currency: EUR
+price: 99.0
 comparePrice: 179.0 EUR
 inStock: true
+prodname: Sennheiser HD 450BT - Auricular Wireless  con Cancelación de Ruido Activa  Circumaural  Negro
 ---
 
 Ahora mismo tienes [Sennheiser HD 450BT - Auricular Wireless  con Cancelación de Ruido Activa  Circumaural  Negro](https://www.amazon.es/dp/B083T4XJDY/?tag=tolees-21) a 99.0 EUR (original: 179.0 EUR) (44.69 %  de descuento) en el siguiente enlace!

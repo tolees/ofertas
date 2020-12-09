@@ -10,8 +10,11 @@ author: ring
 slug: B07BB3N3SG
 description:
 actualPrice: 85.45 EUR
+currency: EUR
+price: 85.45
 comparePrice: 160 EUR
 inStock: true
+prodname: The North Face M Jacket Chaqueta Stratos  Hombre  Verde  Primary Green/l   S
 ---
 
 Tienes [The North Face M Jacket Chaqueta Stratos  Hombre  Verde  Primary Green/l   S](https://www.amazon.es/dp/B07BB3N3SG/?tag=tolees-21) con un 46.59 % de descuento con precio de oferta de 85.45 EUR (original: 160 EUR) en el siguiente enlace!

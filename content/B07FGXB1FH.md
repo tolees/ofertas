@@ -10,8 +10,11 @@ author: ring
 slug: B07FGXB1FH
 description:
 actualPrice: 44.43 EUR
+currency: EUR
+price: 44.43
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Columbia Chaqueta Impermeable con Capucha para Mujer  Powder Lite Hooded  Beige  Light Cloud   XS
 ---
 
 Tienes [Columbia Chaqueta Impermeable con Capucha para Mujer  Powder Lite Hooded  Beige  Light Cloud   XS](https://www.amazon.es/dp/B07FGXB1FH/?tag=tolees-21) con un 65.82 % de descuento con precio de oferta de 44.43 EUR (original: 129.99 EUR) en el siguiente enlace!

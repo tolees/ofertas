@@ -10,8 +10,11 @@ author: ring
 slug: B07CRHCDK2
 description:
 actualPrice: 21.57 EUR
+currency: EUR
+price: 21.57
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Puma One 3 Illuminate FG  Zapatillas de Fútbol para Hombre  Morado  Color Shift-Biscay Green White Black 01   41 EU
 ---
 
 Ahora mismo tienes [Puma One 3 Illuminate FG  Zapatillas de Fútbol para Hombre  Morado  Color Shift-Biscay Green White Black 01   41 EU](https://www.amazon.es/dp/B07CRHCDK2/?tag=tolees-21) a 21.57 EUR (original: 79.95 EUR) (73.02 %  de descuento) en el siguiente enlace!

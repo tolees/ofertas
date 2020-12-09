@@ -10,8 +10,11 @@ author: ring
 slug: B07FFFR4GX
 description:
 actualPrice: 19.65 EUR
+currency: EUR
+price: 19.65
 comparePrice: 94.24 EUR
 inStock: true
+prodname: Reebok Royal Glide LX  Zapatillas de Deporte para Niños   Collegiate Navy/White/Gum/SS 000   36 EU
 ---
 
 Está [Reebok Royal Glide LX  Zapatillas de Deporte para Niños   Collegiate Navy/White/Gum/SS 000   36 EU](https://www.amazon.es/dp/B07FFFR4GX/?tag=tolees-21) con 79.15 de descuento por 19.65 EUR (original: 94.24 EUR) en el siguiente enlace!

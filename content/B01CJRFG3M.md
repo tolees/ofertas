@@ -10,8 +10,11 @@ author: ring
 slug: B01CJRFG3M
 description:
 actualPrice: 14.91 EUR
+currency: EUR
+price: 14.91
 comparePrice: 49.5 EUR
 inStock: true
+prodname: PEACE&LOVE BY CALAO Vestido Marrón S
 ---
 
 Tienes [PEACE&LOVE BY CALAO Vestido Marrón S](https://www.amazon.es/dp/B01CJRFG3M/?tag=tolees-21) con un 69.88 % de descuento con precio de oferta de 14.91 EUR (original: 49.5 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FNQ2SZD
 description:
 actualPrice: 50.89 EUR
+currency: EUR
+price: 50.89
 comparePrice: 190 EUR
 inStock: true
+prodname: The North Face Sport Jacket Chaqueta Deportiva Thermoball  Mujer  Black/TNF White  XL
 ---
 
 Ahora mismo tienes [The North Face Sport Jacket Chaqueta Deportiva Thermoball  Mujer  Black/TNF White  XL](https://www.amazon.es/dp/B07FNQ2SZD/?tag=tolees-21) a 50.89 EUR (original: 190 EUR) (73.22 %  de descuento) en el siguiente enlace!

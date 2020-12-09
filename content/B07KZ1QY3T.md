@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ1QY3T
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Springfield 5DS Mao S.Jersey Mel  Jersey para Hombre   Gama Grises 43   Large  Tamaño del Fabricante:L 
 ---
 
 Tienes [Springfield 5DS Mao S.Jersey Mel  Jersey para Hombre   Gama Grises 43   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KZ1QY3T/?tag=tolees-21) con un 56.55 % de descuento con precio de oferta de 9.99 EUR (original: 22.99 EUR) en el siguiente enlace!

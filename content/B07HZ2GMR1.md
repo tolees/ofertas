@@ -10,8 +10,11 @@ author: ring
 slug: B07HZ2GMR1
 description:
 actualPrice: 80.7 EUR
+currency: EUR
+price: 80.7
 comparePrice: 269 EUR
 inStock: true
+prodname: TECNOCOLCHÓN Colchón Viscoelástico Visco Clinic 140 x 190 cm. y 20 cm. de Altura | Termosensible Transpirable | Reversible
 ---
 
 Tienes [TECNOCOLCHÓN Colchón Viscoelástico Visco Clinic 140 x 190 cm. y 20 cm. de Altura | Termosensible Transpirable | Reversible](https://www.amazon.es/dp/B07HZ2GMR1/?tag=tolees-21) con un 70.00 % de descuento con precio de oferta de 80.7 EUR (original: 269 EUR) en el siguiente enlace!

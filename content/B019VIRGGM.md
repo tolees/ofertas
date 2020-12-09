@@ -10,8 +10,11 @@ author: ring
 slug: B019VIRGGM
 description:
 actualPrice: 24.71 EUR
+currency: EUR
+price: 24.71
 comparePrice: 42.51 EUR
 inStock: true
+prodname: Cecotec Conga Crystal Clear - Aspirador limpiacristales eléctrico. Limpia cristales 3 piezas. Limpia ventanas Potente. Aspirador sin cables. Ligero. Boquilla 28 cm. Batería de litio
 ---
 
 Ahora mismo tienes [Cecotec Conga Crystal Clear - Aspirador limpiacristales eléctrico. Limpia cristales 3 piezas. Limpia ventanas Potente. Aspirador sin cables. Ligero. Boquilla 28 cm. Batería de litio](https://www.amazon.es/dp/B019VIRGGM/?tag=tolees-21) a 24.71 EUR (original: 42.51 EUR) (41.87 %  de descuento) en el siguiente enlace!

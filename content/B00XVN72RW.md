@@ -10,8 +10,11 @@ author: ring
 slug: B00XVN72RW
 description:
 actualPrice: 9 EUR
+currency: EUR
+price: 9
 comparePrice: 12 EUR
 inStock: true
+prodname: NGS Grid 500 - Regleta con 5 enchufes
 ---
 
 Ahora mismo tienes [NGS Grid 500 - Regleta con 5 enchufes](https://www.amazon.es/dp/B00XVN72RW/?tag=tolees-21) a 9 EUR (original: 12 EUR) (25.00 %  de descuento) en el siguiente enlace!

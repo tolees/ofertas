@@ -10,8 +10,11 @@ author: ring
 slug: B07FFQ4Z3X
 description:
 actualPrice: 221.4 EUR
+currency: EUR
+price: 221.4
 comparePrice: 369 EUR
 inStock: true
+prodname: Michael Kors MKT5046 - Smartwatch
 ---
 
 Está [Michael Kors MKT5046 - Smartwatch](https://www.amazon.es/dp/B07FFQ4Z3X/?tag=tolees-21) con 40.00 de descuento por 221.4 EUR (original: 369 EUR) en el siguiente enlace!

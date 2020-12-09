@@ -10,8 +10,11 @@ author: ring
 slug: B01MQGUEHN
 description:
 actualPrice: 42.17 EUR
+currency: EUR
+price: 42.17
 comparePrice: 177.01 EUR
 inStock: true
+prodname: Chatham Lewis II  Zapatos de Cordones Brogue para Hombre  Marrón  Tan 001   41 EU
 ---
 
 Tienes [Chatham Lewis II  Zapatos de Cordones Brogue para Hombre  Marrón  Tan 001   41 EU](https://www.amazon.es/dp/B01MQGUEHN/?tag=tolees-21) con un 76.18 % de descuento con precio de oferta de 42.17 EUR (original: 177.01 EUR) en el siguiente enlace!

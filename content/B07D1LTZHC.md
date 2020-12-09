@@ -10,8 +10,11 @@ author: ring
 slug: B07D1LTZHC
 description:
 actualPrice: 39 EUR
+currency: EUR
+price: 39
 comparePrice: 65 EUR
 inStock: true
+prodname: Asics Aaron  Zapatillas para Hombre  Gris  Dark Grey/Sand 020   42 EU
 ---
 
 Ahora mismo tienes [Asics Aaron  Zapatillas para Hombre  Gris  Dark Grey/Sand 020   42 EU](https://www.amazon.es/dp/B07D1LTZHC/?tag=tolees-21) a 39 EUR (original: 65 EUR) (40.00 %  de descuento) en el siguiente enlace!

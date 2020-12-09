@@ -10,8 +10,11 @@ author: ring
 slug: B07CFS5CZZ
 description:
 actualPrice: 8.1 EUR
+currency: EUR
+price: 8.1
 comparePrice: 20.48 EUR
 inStock: true
+prodname: Vero Moda Vmmalena LS Dress Exp Noos  Vestido Mujer  Gris  Light Grey Melange Light Melange   42  Talla del Fabricante: X-Large 
 ---
 
 Ahora mismo tienes [Vero Moda Vmmalena LS Dress Exp Noos  Vestido Mujer  Gris  Light Grey Melange Light Melange   42  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07CFS5CZZ/?tag=tolees-21) a 8.1 EUR (original: 20.48 EUR) (60.45 %  de descuento) en el siguiente enlace!

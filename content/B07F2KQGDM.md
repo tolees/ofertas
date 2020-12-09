@@ -10,8 +10,11 @@ author: ring
 slug: B07F2KQGDM
 description:
 actualPrice: 18.88 EUR
+currency: EUR
+price: 18.88
 comparePrice: 30 EUR
 inStock: true
+prodname: Salomon Agile Tank  Hombre  Rojo  Fiery Red   M
 ---
 
 Ahora mismo tienes [Salomon Agile Tank  Hombre  Rojo  Fiery Red   M](https://www.amazon.es/dp/B07F2KQGDM/?tag=tolees-21) a 18.88 EUR (original: 30 EUR) (37.07 %  de descuento) en el siguiente enlace!

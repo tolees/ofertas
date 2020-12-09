@@ -10,8 +10,11 @@ author: ring
 slug: B073X2LGDJ
 description:
 actualPrice: 9.47 EUR
+currency: EUR
+price: 9.47
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Vila Clothes Viflary L/s Turtleneck Knit Top/TB  suéter Mujer  Rosa  Renaissance Rose Renaissance Rose   36  Talla del Fabricante: Small 
 ---
 
 Está [Vila Clothes Viflary L/s Turtleneck Knit Top/TB  suéter Mujer  Rosa  Renaissance Rose Renaissance Rose   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B073X2LGDJ/?tag=tolees-21) con 64.91 de descuento por 9.47 EUR (original: 26.99 EUR) en el siguiente enlace!

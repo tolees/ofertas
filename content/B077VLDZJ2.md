@@ -10,8 +10,11 @@ author: ring
 slug: B077VLDZJ2
 description:
 actualPrice: 34.15 EUR
+currency: EUR
+price: 34.15
 comparePrice: 74.95 EUR
 inStock: true
+prodname: Adidas CF Advantage CL  Zapatillas de Deporte para Hombre  Gris Carbon/Ftwbla 000  42 EU
 ---
 
 Ahora mismo tienes [Adidas CF Advantage CL  Zapatillas de Deporte para Hombre  Gris Carbon/Ftwbla 000  42 EU](https://www.amazon.es/dp/B077VLDZJ2/?tag=tolees-21) a 34.15 EUR (original: 74.95 EUR) (54.44 %  de descuento) en el siguiente enlace!

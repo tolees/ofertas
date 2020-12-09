@@ -10,8 +10,11 @@ author: ring
 slug: B00LHVG9RY
 description:
 actualPrice: 25.48 EUR
+currency: EUR
+price: 25.48
 comparePrice: 35.88 EUR
 inStock: true
+prodname: Pikolin Home - Protecton de colchón cutí  100% algodón  150 x 200 cm - Cama 150  Todas las medidas 
 ---
 
 Está [Pikolin Home - Protecton de colchón cutí  100% algodón  150 x 200 cm - Cama 150  Todas las medidas ](https://www.amazon.es/dp/B00LHVG9RY/?tag=tolees-21) con 28.99 de descuento por 25.48 EUR (original: 35.88 EUR) en el siguiente enlace!

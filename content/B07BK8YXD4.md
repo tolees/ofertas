@@ -10,8 +10,11 @@ author: ring
 slug: B07BK8YXD4
 description:
 actualPrice: 9.49 EUR
+currency: EUR
+price: 9.49
 comparePrice: 13.8 EUR
 inStock: true
+prodname: Hellmann S Mayonesa Light - Paquete de 12 x 225 ml: Total: 2700 ml
 ---
 
 Tienes [Hellmann S Mayonesa Light - Paquete de 12 x 225 ml: Total: 2700 ml](https://www.amazon.es/dp/B07BK8YXD4/?tag=tolees-21) con un 31.23 % de descuento con precio de oferta de 9.49 EUR (original: 13.8 EUR) en el siguiente enlace!

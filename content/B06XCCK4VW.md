@@ -10,8 +10,11 @@ author: ring
 slug: B06XCCK4VW
 description:
 actualPrice: 22 EUR
+currency: EUR
+price: 22
 comparePrice: 31.9 EUR
 inStock: true
+prodname: D-Link DAP-1325 - Repetidor Amplificador Extensor de Red WiFi N300  802.11n hasta 300 Mbps  2.4 GHz  Puerto Ethernet RJ-45 10/100 Mbps  Modo Punto de Acceso  WPA2  WPS  2 Antenas externas   Blanco
 ---
 
 Ahora mismo tienes [D-Link DAP-1325 - Repetidor Amplificador Extensor de Red WiFi N300  802.11n hasta 300 Mbps  2.4 GHz  Puerto Ethernet RJ-45 10/100 Mbps  Modo Punto de Acceso  WPA2  WPS  2 Antenas externas   Blanco](https://www.amazon.es/dp/B06XCCK4VW/?tag=tolees-21) a 22 EUR (original: 31.9 EUR) (31.03 %  de descuento) en el siguiente enlace!

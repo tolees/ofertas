@@ -10,8 +10,11 @@ author: ring
 slug: B07DK3QND8
 description:
 actualPrice: 23.95 EUR
+currency: EUR
+price: 23.95
 comparePrice: 65 EUR
 inStock: true
+prodname: Geox Jr Sandal Roxanne B  Sandalias Punta Cerrada para Niñas  Fuchsia C8002  36 EU
 ---
 
 Ahora mismo tienes [Geox Jr Sandal Roxanne B  Sandalias Punta Cerrada para Niñas  Fuchsia C8002  36 EU](https://www.amazon.es/dp/B07DK3QND8/?tag=tolees-21) a 23.95 EUR (original: 65 EUR) (63.15 %  de descuento) en el siguiente enlace!

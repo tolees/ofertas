@@ -10,8 +10,11 @@ author: ring
 slug: B01BPEA9PA
 description:
 actualPrice: 21.74 EUR
+currency: EUR
+price: 21.74
 comparePrice: 28.99 EUR
 inStock: true
+prodname: Bombas De Baño ORGÁNICAS con Aceites Esenciales 7 Piezas – Regalo de Navidad para Mujer - Vegano de Alta Calidad - Hecho a Mano - Caja Premium con Envoltorio y Lazo de Satén - Hecho en Europa
 ---
 
 Tienes [Bombas De Baño ORGÁNICAS con Aceites Esenciales 7 Piezas – Regalo de Navidad para Mujer - Vegano de Alta Calidad - Hecho a Mano - Caja Premium con Envoltorio y Lazo de Satén - Hecho en Europa](https://www.amazon.es/dp/B01BPEA9PA/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 21.74 EUR (original: 28.99 EUR) en el siguiente enlace!

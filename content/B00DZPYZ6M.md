@@ -10,8 +10,11 @@ author: ring
 slug: B00DZPYZ6M
 description:
 actualPrice: 6.92 EUR
+currency: EUR
+price: 6.92
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Trust 19347 - Cargador de coche con micro USB
 ---
 
 Tienes [Trust 19347 - Cargador de coche con micro USB](https://www.amazon.es/dp/B00DZPYZ6M/?tag=tolees-21) con un 65.38 % de descuento con precio de oferta de 6.92 EUR (original: 19.99 EUR) en el siguiente enlace!

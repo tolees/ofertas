@@ -10,8 +10,11 @@ author: ring
 slug: B01JGFD28G
 description:
 actualPrice: 3.36 EUR
+currency: EUR
+price: 3.36
 comparePrice: 9.63 EUR
 inStock: true
+prodname: Bourjois Velvet Barra de Labios Líquida Tono 19 Jolie-de-vin - 28 gr
 ---
 
 Ahora mismo tienes [Bourjois Velvet Barra de Labios Líquida Tono 19 Jolie-de-vin - 28 gr](https://www.amazon.es/dp/B01JGFD28G/?tag=tolees-21) a 3.36 EUR (original: 9.63 EUR) (65.11 %  de descuento) en el siguiente enlace!

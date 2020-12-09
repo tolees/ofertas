@@ -10,8 +10,11 @@ author: ring
 slug: B017WD5PZC
 description:
 actualPrice: 336.48 EUR
+currency: EUR
+price: 336.48
 comparePrice: 507.96 EUR
 inStock: true
+prodname: BLACK+DECKER CLMA4820L2-QW - Cortacésped Autosense 36V  ancho de corte 48 cm  incluye 2 baterías litio de 2Ah
 ---
 
 Está [BLACK+DECKER CLMA4820L2-QW - Cortacésped Autosense 36V  ancho de corte 48 cm  incluye 2 baterías litio de 2Ah](https://www.amazon.es/dp/B017WD5PZC/?tag=tolees-21) con 33.76 de descuento por 336.48 EUR (original: 507.96 EUR) en el siguiente enlace!

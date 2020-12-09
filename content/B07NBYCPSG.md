@@ -10,8 +10,11 @@ author: ring
 slug: B07NBYCPSG
 description:
 actualPrice: 82.27 EUR
+currency: EUR
+price: 82.27
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Tous Sherton  Bolso Bandolera para Mujer   Rosa 995890535   19x14x5 cm  W x H x L 
 ---
 
 Está [Tous Sherton  Bolso Bandolera para Mujer   Rosa 995890535   19x14x5 cm  W x H x L ](https://www.amazon.es/dp/B07NBYCPSG/?tag=tolees-21) con 25.21 de descuento por 82.27 EUR (original: 110.0 EUR) en el siguiente enlace!

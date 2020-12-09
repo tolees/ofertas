@@ -10,8 +10,11 @@ author: ring
 slug: B0018OUGZQ
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 46.99 EUR
 inStock: true
+prodname: deAO Mesita Cajón de Arena y Agua con Accesorios y Tapa Protectora Actividades de Verano Infantil
 ---
 
 Ahora mismo tienes [deAO Mesita Cajón de Arena y Agua con Accesorios y Tapa Protectora Actividades de Verano Infantil](https://www.amazon.es/dp/B0018OUGZQ/?tag=tolees-21) a 29.99 EUR (original: 46.99 EUR) (36.18 %  de descuento) en el siguiente enlace!

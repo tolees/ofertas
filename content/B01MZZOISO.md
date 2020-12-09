@@ -10,8 +10,11 @@ author: ring
 slug: B01MZZOISO
 description:
 actualPrice: 6.49 EUR
+currency: EUR
+price: 6.49
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Rotulador STABILO Pen 68 - Estuche con 8 colores
 ---
 
 Ahora mismo tienes [Rotulador STABILO Pen 68 - Estuche con 8 colores](https://www.amazon.es/dp/B01MZZOISO/?tag=tolees-21) a 6.49 EUR (original: 9.99 EUR) (35.04 %  de descuento) en el siguiente enlace!

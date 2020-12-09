@@ -10,8 +10,11 @@ author: ring
 slug: B07GHC8WN7
 description:
 actualPrice: 7.18 EUR
+currency: EUR
+price: 7.18
 comparePrice: 10.0 EUR
 inStock: true
+prodname: Jazwares Figura Fortnite Omega Coleccionable  Multicolor  Talla única  FNT0016 
 ---
 
 Ahora mismo tienes [Jazwares Figura Fortnite Omega Coleccionable  Multicolor  Talla única  FNT0016 ](https://www.amazon.es/dp/B07GHC8WN7/?tag=tolees-21) a 7.18 EUR (original: 10.0 EUR) (28.20 %  de descuento) en el siguiente enlace!

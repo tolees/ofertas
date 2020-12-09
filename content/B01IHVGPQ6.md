@@ -10,8 +10,11 @@ author: ring
 slug: B01IHVGPQ6
 description:
 actualPrice: 71.16 EUR
+currency: EUR
+price: 71.16
 comparePrice: 129.98 EUR
 inStock: true
+prodname: PodoWell Patrouille  Zapatillas Unisex Adulto  Negro  Schwarz 7150010-42   42 EU
 ---
 
 Está [PodoWell Patrouille  Zapatillas Unisex Adulto  Negro  Schwarz 7150010-42   42 EU](https://www.amazon.es/dp/B01IHVGPQ6/?tag=tolees-21) con 45.25 de descuento por 71.16 EUR (original: 129.98 EUR) en el siguiente enlace!

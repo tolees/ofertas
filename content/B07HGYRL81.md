@@ -10,8 +10,11 @@ author: ring
 slug: B07HGYRL81
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 46.99 EUR
 inStock: true
+prodname: Plancha Ropa Vapor viaje  Sevjoy Planchado vertical y plano Portátil de Plancha Vapor  para hogar y viaje
 ---
 
 Tienes [Plancha Ropa Vapor viaje  Sevjoy Planchado vertical y plano Portátil de Plancha Vapor  para hogar y viaje](https://www.amazon.es/dp/B07HGYRL81/?tag=tolees-21) con un 42.56 % de descuento con precio de oferta de 26.99 EUR (original: 46.99 EUR) en el siguiente enlace!

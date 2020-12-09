@@ -10,8 +10,11 @@ author: ring
 slug: B0863WLDSZ
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Extensor Grifo  Sink Handle Extender  Niños Grifo Alargador  Niños Grifo Extender  Diseño Animal Accesorio de Extensión de Grifo Seguro Infantil
 ---
 
 Está [Extensor Grifo  Sink Handle Extender  Niños Grifo Alargador  Niños Grifo Extender  Diseño Animal Accesorio de Extensión de Grifo Seguro Infantil](https://www.amazon.es/dp/B0863WLDSZ/?tag=tolees-21) con 60.02 de descuento por 11.99 EUR (original: 29.99 EUR) en el siguiente enlace!

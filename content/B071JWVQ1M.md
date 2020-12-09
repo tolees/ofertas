@@ -10,8 +10,11 @@ author: ring
 slug: B071JWVQ1M
 description:
 actualPrice: 32.56 EUR
+currency: EUR
+price: 32.56
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Skechers Go Walk Joy-Paradise  Zapatillas para Mujer  Gris  Charcoal   38.5 EU
 ---
 
 Está [Skechers Go Walk Joy-Paradise  Zapatillas para Mujer  Gris  Charcoal   38.5 EU](https://www.amazon.es/dp/B071JWVQ1M/?tag=tolees-21) con 40.75 de descuento por 32.56 EUR (original: 54.95 EUR) en el siguiente enlace!

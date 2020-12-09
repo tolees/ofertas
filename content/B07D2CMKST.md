@@ -10,8 +10,11 @@ author: ring
 slug: B07D2CMKST
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Portabebé Asiento de Cadera Cintura de Taburete Baby Waist Stool Posiciones Asiento Multifunción Mochila de Honda Seguro Hebilla para 0 - 36 meses Niños  Rojo 
 ---
 
 Está [Portabebé Asiento de Cadera Cintura de Taburete Baby Waist Stool Posiciones Asiento Multifunción Mochila de Honda Seguro Hebilla para 0 - 36 meses Niños  Rojo ](https://www.amazon.es/dp/B07D2CMKST/?tag=tolees-21) con 60.02 de descuento por 15.99 EUR (original: 39.99 EUR) en el siguiente enlace!

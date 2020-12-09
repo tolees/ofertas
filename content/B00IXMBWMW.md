@@ -10,8 +10,11 @@ author: ring
 slug: B00IXMBWMW
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 8.95 EUR
 inStock: true
+prodname: Joma Nobel Pantalón de equipación  Negro  XL
 ---
 
 Está [Joma Nobel Pantalón de equipación  Negro  XL](https://www.amazon.es/dp/B00IXMBWMW/?tag=tolees-21) con 33.52 de descuento por 5.95 EUR (original: 8.95 EUR) en el siguiente enlace!

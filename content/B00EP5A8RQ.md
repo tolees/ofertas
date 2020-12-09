@@ -10,8 +10,11 @@ author: ring
 slug: B00EP5A8RQ
 description:
 actualPrice: 100.17 EUR
+currency: EUR
+price: 100.17
 comparePrice: 320 EUR
 inStock: true
+prodname: Thomas Earnshaw Smart Watch Armbanduhr ES-8006-02
 ---
 
 Tienes [Thomas Earnshaw Smart Watch Armbanduhr ES-8006-02](https://www.amazon.es/dp/B00EP5A8RQ/?tag=tolees-21) con un 68.70 % de descuento con precio de oferta de 100.17 EUR (original: 320 EUR) en el siguiente enlace!

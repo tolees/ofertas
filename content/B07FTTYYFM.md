@@ -10,8 +10,11 @@ author: ring
 slug: B07FTTYYFM
 description:
 actualPrice: 14.86 EUR
+currency: EUR
+price: 14.86
 comparePrice: 99.99 EUR
 inStock: true
+prodname: JACK & JONES Jjiglenn Jjfox Bl 840 FFL STS Vaqueros Slim  Azul Blue Denim  W28/L30 para Hombre
 ---
 
 Ahora mismo tienes [JACK & JONES Jjiglenn Jjfox Bl 840 FFL STS Vaqueros Slim  Azul Blue Denim  W28/L30 para Hombre](https://www.amazon.es/dp/B07FTTYYFM/?tag=tolees-21) a 14.86 EUR (original: 99.99 EUR) (85.14 %  de descuento) en el siguiente enlace!

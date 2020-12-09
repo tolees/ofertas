@@ -10,8 +10,11 @@ author: ring
 slug: B06XGFKJNX
 description:
 actualPrice: 28 EUR
+currency: EUR
+price: 28
 comparePrice: 40 EUR
 inStock: true
+prodname: FIND Zapatillas estilo Basket para Hombre  Azul  Navy   44 EU
 ---
 
 Ahora mismo tienes [FIND Zapatillas estilo Basket para Hombre  Azul  Navy   44 EU](https://www.amazon.es/dp/B06XGFKJNX/?tag=tolees-21) a 28 EUR (original: 40 EUR) (30.00 %  de descuento) en el siguiente enlace!

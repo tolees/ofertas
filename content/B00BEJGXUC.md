@@ -10,8 +10,11 @@ author: ring
 slug: B00BEJGXUC
 description:
 actualPrice: 18.78 EUR
+currency: EUR
+price: 18.78
 comparePrice: 26.75 EUR
 inStock: true
+prodname: AFTER SHAVE EUCALIPTO 400 ML.
 ---
 
 Tienes [AFTER SHAVE EUCALIPTO 400 ML.](https://www.amazon.es/dp/B00BEJGXUC/?tag=tolees-21) con un 29.79 % de descuento con precio de oferta de 18.78 EUR (original: 26.75 EUR) en el siguiente enlace!

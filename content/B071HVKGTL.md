@@ -10,8 +10,11 @@ author: ring
 slug: B071HVKGTL
 description:
 actualPrice: 20.55 EUR
+currency: EUR
+price: 20.55
 comparePrice: 79.99 EUR
 inStock: true
+prodname: MTNG Elsa  Botas Mujer  Marrón  Suede Chocolate   39 EU
 ---
 
 Está [MTNG Elsa  Botas Mujer  Marrón  Suede Chocolate   39 EU](https://www.amazon.es/dp/B071HVKGTL/?tag=tolees-21) con 74.31 de descuento por 20.55 EUR (original: 79.99 EUR) en el siguiente enlace!

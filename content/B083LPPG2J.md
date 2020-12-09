@@ -10,8 +10,11 @@ author: ring
 slug: B083LPPG2J
 description:
 actualPrice: 28.84 EUR
+currency: EUR
+price: 28.84
 comparePrice: 42.99 EUR
 inStock: true
+prodname: Prismaticos Profesionales  12x50 HD Prismaticos Vision Nocturna Débil con Adaptador de Teléfono  Prismas BAK4 y FMC. Ideales para Evento Deportivo  Observación Animales  Astronomía y Camping
 ---
 
 Ahora mismo tienes [Prismaticos Profesionales  12x50 HD Prismaticos Vision Nocturna Débil con Adaptador de Teléfono  Prismas BAK4 y FMC. Ideales para Evento Deportivo  Observación Animales  Astronomía y Camping](https://www.amazon.es/dp/B083LPPG2J/?tag=tolees-21) a 28.84 EUR (original: 42.99 EUR) (32.91 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07QVLCHFT
 description:
 actualPrice: 154.27 EUR
+currency: EUR
+price: 154.27
 comparePrice: 219.0 EUR
 inStock: true
+prodname: DYNASONIC - Dynapro 15 - Altavoz Inalámbrico Sistema Audio Profesional Megafonia Portátil | Lector USB Bluetooth Radio FM y Micrófonos  Color Negro  DYNAPRO 15 
 ---
 
 Está [DYNASONIC - Dynapro 15 - Altavoz Inalámbrico Sistema Audio Profesional Megafonia Portátil | Lector USB Bluetooth Radio FM y Micrófonos  Color Negro  DYNAPRO 15 ](https://www.amazon.es/dp/B07QVLCHFT/?tag=tolees-21) con 29.56 de descuento por 154.27 EUR (original: 219.0 EUR) en el siguiente enlace!

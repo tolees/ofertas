@@ -10,8 +10,11 @@ author: ring
 slug: B07SHHF6DP
 description:
 actualPrice: 17.0 EUR
+currency: EUR
+price: 17.0
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Juegos Bizak Atrapa Monsters  BIZAK 64011060    color/modelo surtido
 ---
 
 Tienes [Juegos Bizak Atrapa Monsters  BIZAK 64011060    color/modelo surtido](https://www.amazon.es/dp/B07SHHF6DP/?tag=tolees-21) con un 51.41 % de descuento con precio de oferta de 17.0 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00KHTQCII
 description:
 actualPrice: 13.12 EUR
+currency: EUR
+price: 13.12
 comparePrice: 19.34 EUR
 inStock: true
+prodname: Curver 216582 Mystyle Cesta De Ropa  43x33x60 Centimeter  Blanco Vintage
 ---
 
 Tienes [Curver 216582 Mystyle Cesta De Ropa  43x33x60 Centimeter  Blanco Vintage](https://www.amazon.es/dp/B00KHTQCII/?tag=tolees-21) con un 32.16 % de descuento con precio de oferta de 13.12 EUR (original: 19.34 EUR) en el siguiente enlace!

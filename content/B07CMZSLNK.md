@@ -10,8 +10,11 @@ author: ring
 slug: B07CMZSLNK
 description:
 actualPrice: 19.21 EUR
+currency: EUR
+price: 19.21
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Crocs Serena Slide Women  Sandalias de Punta Descubierta para Mujer  Blanco Oyster 12u  37/38 EU
 ---
 
 Está [Crocs Serena Slide Women  Sandalias de Punta Descubierta para Mujer  Blanco Oyster 12u  37/38 EU](https://www.amazon.es/dp/B07CMZSLNK/?tag=tolees-21) con 35.95 de descuento por 19.21 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08CWBFB3Y
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 9.99 EUR
 inStock: true
+prodname: FUGA DE ALCATRAZ - EDICIÓN HORIZONTAL  BD  [Blu-ray]
 ---
 
 Tienes [FUGA DE ALCATRAZ - EDICIÓN HORIZONTAL  BD  [Blu-ray]](https://www.amazon.es/dp/B08CWBFB3Y/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!

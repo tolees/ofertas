@@ -10,8 +10,11 @@ author: ring
 slug: B074BZVWCL
 description:
 actualPrice: 34.53 EUR
+currency: EUR
+price: 34.53
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Pepe Jeans Spike Vaqueros  Negro  Black Used   29W/30L para Hombre
 ---
 
 Ahora mismo tienes [Pepe Jeans Spike Vaqueros  Negro  Black Used   29W/30L para Hombre](https://www.amazon.es/dp/B074BZVWCL/?tag=tolees-21) a 34.53 EUR (original: 99.0 EUR) (65.12 %  de descuento) en el siguiente enlace!

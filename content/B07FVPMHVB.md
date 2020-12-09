@@ -10,8 +10,11 @@ author: ring
 slug: B07FVPMHVB
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Luces Navidad a Pilas  2 x 4M Cadena de Luces 40 LEDs  Guirnaldas Luminosas LED para Exterior e Interior Impermeables Navidad Decorativas Blanco Cálido 
 ---
 
 Ahora mismo tienes [Luces Navidad a Pilas  2 x 4M Cadena de Luces 40 LEDs  Guirnaldas Luminosas LED para Exterior e Interior Impermeables Navidad Decorativas Blanco Cálido ](https://www.amazon.es/dp/B07FVPMHVB/?tag=tolees-21) a 10.99 EUR (original: 15.99 EUR) (31.27 %  de descuento) en el siguiente enlace!

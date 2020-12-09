@@ -10,8 +10,11 @@ author: ring
 slug: B076Y7JJYF
 description:
 actualPrice: 19.25 EUR
+currency: EUR
+price: 19.25
 comparePrice: 35 EUR
 inStock: true
+prodname: Levi s Graphic tee-B Camiseta  Blanco  Hm LS Better White 0010   Large para Hombre
 ---
 
 Ahora mismo tienes [Levi s Graphic tee-B Camiseta  Blanco  Hm LS Better White 0010   Large para Hombre](https://www.amazon.es/dp/B076Y7JJYF/?tag=tolees-21) a 19.25 EUR (original: 35 EUR) (45.00 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TNLY8HJ
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Levi s Relaxed Graphic tee Camiseta  White  90 s Serif Logo D3 White 0038   Large para Hombre
 ---
 
 Ahora mismo tienes [Levi s Relaxed Graphic tee Camiseta  White  90 s Serif Logo D3 White 0038   Large para Hombre](https://www.amazon.es/dp/B07TNLY8HJ/?tag=tolees-21) a 14.99 EUR (original: 25.0 EUR) (40.04 %  de descuento) en el siguiente enlace!

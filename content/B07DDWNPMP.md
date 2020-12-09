@@ -10,8 +10,11 @@ author: ring
 slug: B07DDWNPMP
 description:
 actualPrice: 14.85 EUR
+currency: EUR
+price: 14.85
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Cable guy Battery  soporte de sujeción y carga para mando de consola y smartphone de con personaje favorito con licencia de Call of duty. Producto con licencia oficial. Exquisite Gaming
 ---
 
 Tienes [Cable guy Battery  soporte de sujeción y carga para mando de consola y smartphone de con personaje favorito con licencia de Call of duty. Producto con licencia oficial. Exquisite Gaming](https://www.amazon.es/dp/B07DDWNPMP/?tag=tolees-21) con un 40.58 % de descuento con precio de oferta de 14.85 EUR (original: 24.99 EUR) en el siguiente enlace!

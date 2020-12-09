@@ -10,8 +10,11 @@ author: ring
 slug: B06VT8H9ML
 description:
 actualPrice: 23.68 EUR
+currency: EUR
+price: 23.68
 comparePrice: 85.95 EUR
 inStock: true
+prodname: s.Oliver 25204  Botas Militar para Mujer  Beige  Champagner   40 EU
 ---
 
 Está [s.Oliver 25204  Botas Militar para Mujer  Beige  Champagner   40 EU](https://www.amazon.es/dp/B06VT8H9ML/?tag=tolees-21) con 72.45 de descuento por 23.68 EUR (original: 85.95 EUR) en el siguiente enlace!

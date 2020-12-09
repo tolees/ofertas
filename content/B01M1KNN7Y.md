@@ -10,8 +10,11 @@ author: ring
 slug: B01M1KNN7Y
 description:
 actualPrice: 5.4 EUR
+currency: EUR
+price: 5.4
 comparePrice: 17.99 EUR
 inStock: true
+prodname: RED WAGON Twill Trouser - Pantalones Niños  Azul  Navy   9 años
 ---
 
 Tienes [RED WAGON Twill Trouser - Pantalones Niños  Azul  Navy   9 años](https://www.amazon.es/dp/B01M1KNN7Y/?tag=tolees-21) con un 69.98 % de descuento con precio de oferta de 5.4 EUR (original: 17.99 EUR) en el siguiente enlace!

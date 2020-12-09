@@ -10,8 +10,11 @@ author: ring
 slug: B07VHQDL6Z
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 17.68 EUR
 inStock: true
+prodname: Tangle Teezer Cepillo Para El Pelo  Color Plata
 ---
 
 Está [Tangle Teezer Cepillo Para El Pelo  Color Plata](https://www.amazon.es/dp/B07VHQDL6Z/?tag=tolees-21) con 54.81 de descuento por 7.99 EUR (original: 17.68 EUR) en el siguiente enlace!

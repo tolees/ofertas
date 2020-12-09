@@ -10,8 +10,11 @@ author: ring
 slug: B07F3BHMTQ
 description:
 actualPrice: 76.47 EUR
+currency: EUR
+price: 76.47
 comparePrice: 197.52 EUR
 inStock: true
+prodname: Michael Kors Addie Lace Up  Zapatillas para Mujer   Blk/Opticwht 012   40 EU
 ---
 
 Ahora mismo tienes [Michael Kors Addie Lace Up  Zapatillas para Mujer   Blk/Opticwht 012   40 EU](https://www.amazon.es/dp/B07F3BHMTQ/?tag=tolees-21) a 76.47 EUR (original: 197.52 EUR) (61.28 %  de descuento) en el siguiente enlace!

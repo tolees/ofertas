@@ -10,8 +10,11 @@ author: ring
 slug: B07F38NPTG
 description:
 actualPrice: 10.66 EUR
+currency: EUR
+price: 10.66
 comparePrice: 39.99 EUR
 inStock: true
+prodname: JACK & JONES Jcovincent Shawl Neck suéter  Gris  Dark Grey Melange Knit Fit   Small para Hombre
 ---
 
 Tienes [JACK & JONES Jcovincent Shawl Neck suéter  Gris  Dark Grey Melange Knit Fit   Small para Hombre](https://www.amazon.es/dp/B07F38NPTG/?tag=tolees-21) con un 73.34 % de descuento con precio de oferta de 10.66 EUR (original: 39.99 EUR) en el siguiente enlace!

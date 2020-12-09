@@ -10,8 +10,11 @@ author: ring
 slug: B01LYMUU49
 description:
 actualPrice: 5.6 EUR
+currency: EUR
+price: 5.6
 comparePrice: 16.4 EUR
 inStock: true
+prodname: oodji Collection Mujer Sudadera Estampada de Manga Corta  46 / XXL
 ---
 
 Ahora mismo tienes [oodji Collection Mujer Sudadera Estampada de Manga Corta  46 / XXL](https://www.amazon.es/dp/B01LYMUU49/?tag=tolees-21) a 5.6 EUR (original: 16.4 EUR) (65.85 %  de descuento) en el siguiente enlace!

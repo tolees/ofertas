@@ -10,8 +10,11 @@ author: ring
 slug: B07BHBJV2F
 description:
 actualPrice: 12.8 EUR
+currency: EUR
+price: 12.8
 comparePrice: 19.9 EUR
 inStock: true
+prodname: Kipling - Trix  Monederos Mujer  Azul  Spark Night   4.5x10.5x7 cm  B x H T 
 ---
 
 Ahora mismo tienes [Kipling - Trix  Monederos Mujer  Azul  Spark Night   4.5x10.5x7 cm  B x H T ](https://www.amazon.es/dp/B07BHBJV2F/?tag=tolees-21) a 12.8 EUR (original: 19.9 EUR) (35.68 %  de descuento) en el siguiente enlace!

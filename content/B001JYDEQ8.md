@@ -10,8 +10,11 @@ author: ring
 slug: B001JYDEQ8
 description:
 actualPrice: 54.95 EUR
+currency: EUR
+price: 54.95
 comparePrice: 85 EUR
 inStock: true
+prodname: Vibram FiveFingers KSO  Zapatillas de Cross para Hombre  Gris Taupe/Palm/Grey  43 EU
 ---
 
 Está [Vibram FiveFingers KSO  Zapatillas de Cross para Hombre  Gris Taupe/Palm/Grey  43 EU](https://www.amazon.es/dp/B001JYDEQ8/?tag=tolees-21) con 35.35 de descuento por 54.95 EUR (original: 85 EUR) en el siguiente enlace!

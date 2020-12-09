@@ -10,8 +10,11 @@ author: ring
 slug: B07BBXS9Q4
 description:
 actualPrice: 20.7 EUR
+currency: EUR
+price: 20.7
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Esprit 998ee1f803 Blusa  Azul  Navy 400   44 para Mujer
 ---
 
 Ahora mismo tienes [Esprit 998ee1f803 Blusa  Azul  Navy 400   44 para Mujer](https://www.amazon.es/dp/B07BBXS9Q4/?tag=tolees-21) a 20.7 EUR (original: 29.99 EUR) (30.98 %  de descuento) en el siguiente enlace!

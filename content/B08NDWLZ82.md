@@ -10,8 +10,11 @@ author: ring
 slug: B08NDWLZ82
 description:
 actualPrice: 1.13 EUR
+currency: EUR
+price: 1.13
 comparePrice: 1.7 EUR
 inStock: true
+prodname: LIANQI Infusor de té Esfera de Acero Inoxidable Colador de té Filtro de Especias Hierbas de café Mango Difusor Herramientas de Bolas de té - Astilla
 ---
 
 Tienes [LIANQI Infusor de té Esfera de Acero Inoxidable Colador de té Filtro de Especias Hierbas de café Mango Difusor Herramientas de Bolas de té - Astilla](https://www.amazon.es/dp/B08NDWLZ82/?tag=tolees-21) con un 33.53 % de descuento con precio de oferta de 1.13 EUR (original: 1.7 EUR) en el siguiente enlace!

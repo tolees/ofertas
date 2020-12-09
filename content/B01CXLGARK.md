@@ -10,8 +10,11 @@ author: ring
 slug: B01CXLGARK
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Libellud- Loony Quest: The Lost City - español  Color  Asmodee LOO02ES 
 ---
 
 Está [Libellud- Loony Quest: The Lost City - español  Color  Asmodee LOO02ES ](https://www.amazon.es/dp/B01CXLGARK/?tag=tolees-21) con 46.70 de descuento por 7.99 EUR (original: 14.99 EUR) en el siguiente enlace!

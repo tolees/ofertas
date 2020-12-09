@@ -10,8 +10,11 @@ author: ring
 slug: B007GX5FSG
 description:
 actualPrice: 20.8 EUR
+currency: EUR
+price: 20.8
 comparePrice: 42.0 EUR
 inStock: true
+prodname: Police To Be Or Not To Be Men 125 Ml Eau De Toilette
 ---
 
 Tienes [Police To Be Or Not To Be Men 125 Ml Eau De Toilette](https://www.amazon.es/dp/B007GX5FSG/?tag=tolees-21) con un 50.48 % de descuento con precio de oferta de 20.8 EUR (original: 42.0 EUR) en el siguiente enlace!

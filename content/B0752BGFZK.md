@@ -10,8 +10,11 @@ author: ring
 slug: B0752BGFZK
 description:
 actualPrice: 23.13 EUR
+currency: EUR
+price: 23.13
 comparePrice: 119.95 EUR
 inStock: true
+prodname: G-STAR RAW D-STAQ 5-Pocket Mid Waist Skinny Vaqueros  Azul  Medium Aged Restored 9136-8918   24W / 28L para Mujer
 ---
 
 Tienes [G-STAR RAW D-STAQ 5-Pocket Mid Waist Skinny Vaqueros  Azul  Medium Aged Restored 9136-8918   24W / 28L para Mujer](https://www.amazon.es/dp/B0752BGFZK/?tag=tolees-21) con un 80.72 % de descuento con precio de oferta de 23.13 EUR (original: 119.95 EUR) en el siguiente enlace!

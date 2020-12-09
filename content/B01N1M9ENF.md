@@ -10,8 +10,11 @@ author: ring
 slug: B01N1M9ENF
 description:
 actualPrice: 18.88 EUR
+currency: EUR
+price: 18.88
 comparePrice: 68.88 EUR
 inStock: true
+prodname: Mujeres Moda Pendientes Collar Circonita Cúbica Talla Redonda Stud Cuelgan aretes Collar Sistema de la Joyería
 ---
 
 Ahora mismo tienes [Mujeres Moda Pendientes Collar Circonita Cúbica Talla Redonda Stud Cuelgan aretes Collar Sistema de la Joyería](https://www.amazon.es/dp/B01N1M9ENF/?tag=tolees-21) a 18.88 EUR (original: 68.88 EUR) (72.59 %  de descuento) en el siguiente enlace!

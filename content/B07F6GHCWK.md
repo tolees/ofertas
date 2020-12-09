@@ -10,8 +10,11 @@ author: ring
 slug: B07F6GHCWK
 description:
 actualPrice: 14.15 EUR
+currency: EUR
+price: 14.15
 comparePrice: 20.08 EUR
 inStock: true
+prodname: Bañador Tiger M
 ---
 
 Está [Bañador Tiger M](https://www.amazon.es/dp/B07F6GHCWK/?tag=tolees-21) con 29.53 de descuento por 14.15 EUR (original: 20.08 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B001PMIOS2
 description:
 actualPrice: 97.99 EUR
+currency: EUR
+price: 97.99
 comparePrice: 189.97 EUR
 inStock: true
+prodname: Bosch Professional GSB 16 RE - Taladro percutor  750 W  0 – 2800 rpm  Ø max perforación hormigón 16 mm  en maletín 
 ---
 
 Tienes [Bosch Professional GSB 16 RE - Taladro percutor  750 W  0 – 2800 rpm  Ø max perforación hormigón 16 mm  en maletín ](https://www.amazon.es/dp/B001PMIOS2/?tag=tolees-21) con un 48.42 % de descuento con precio de oferta de 97.99 EUR (original: 189.97 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01FK9YYLG
 description:
 actualPrice: 4.7 EUR
+currency: EUR
+price: 4.7
 comparePrice: 11.6 EUR
 inStock: true
+prodname: oodji Ultra Mujer Sujetador Bikini Bandeau  sin Tirantes   Morado  70B / 32B
 ---
 
 Está [oodji Ultra Mujer Sujetador Bikini Bandeau  sin Tirantes   Morado  70B / 32B](https://www.amazon.es/dp/B01FK9YYLG/?tag=tolees-21) con 59.48 de descuento por 4.7 EUR (original: 11.6 EUR) en el siguiente enlace!

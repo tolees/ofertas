@@ -10,8 +10,11 @@ author: ring
 slug: B01F3KGSUW
 description:
 actualPrice: 22.35 EUR
+currency: EUR
+price: 22.35
 comparePrice: 49.94 EUR
 inStock: true
+prodname: Rieker Y9020  Botines para Mujer  Gris  Rauch / 45   38 EU
 ---
 
 Ahora mismo tienes [Rieker Y9020  Botines para Mujer  Gris  Rauch / 45   38 EU](https://www.amazon.es/dp/B01F3KGSUW/?tag=tolees-21) a 22.35 EUR (original: 49.94 EUR) (55.25 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00BKQT6WQ
 description:
 actualPrice: 99.95 EUR
+currency: EUR
+price: 99.95
 comparePrice: 169.0 EUR
 inStock: true
+prodname: Daniel Wellington Classic St Mawes Reloj   Unisex  Cuero  Marrón/Oro Rosado  36mm
 ---
 
 Ahora mismo tienes [Daniel Wellington Classic St Mawes Reloj   Unisex  Cuero  Marrón/Oro Rosado  36mm](https://www.amazon.es/dp/B00BKQT6WQ/?tag=tolees-21) a 99.95 EUR (original: 169.0 EUR) (40.86 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00DSVWTVQ
 description:
 actualPrice: 20.61 EUR
+currency: EUR
+price: 20.61
 comparePrice: 32.52 EUR
 inStock: true
+prodname: HP - Maletín negro de hasta 16" con ratón con cable
 ---
 
 Está [HP - Maletín negro de hasta 16" con ratón con cable](https://www.amazon.es/dp/B00DSVWTVQ/?tag=tolees-21) con 36.62 de descuento por 20.61 EUR (original: 32.52 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B071WFQBT8
 description:
 actualPrice: 12.48 EUR
+currency: EUR
+price: 12.48
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Only Onlnew Cose L/s Pullover Knt suéter  Marrón  Indian Tan Detail:w. Mixed Melange   40  Talla del Fabricante: Large  para Mujer
 ---
 
 Está [Only Onlnew Cose L/s Pullover Knt suéter  Marrón  Indian Tan Detail:w. Mixed Melange   40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B071WFQBT8/?tag=tolees-21) con 58.39 de descuento por 12.48 EUR (original: 29.99 EUR) en el siguiente enlace!

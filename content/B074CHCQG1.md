@@ -10,8 +10,11 @@ author: ring
 slug: B074CHCQG1
 description:
 actualPrice: 79.97 EUR
+currency: EUR
+price: 79.97
 comparePrice: 349 EUR
 inStock: true
+prodname: TW Steel Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TWMC43
 ---
 
 Ahora mismo tienes [TW Steel Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TWMC43](https://www.amazon.es/dp/B074CHCQG1/?tag=tolees-21) a 79.97 EUR (original: 349 EUR) (77.09 %  de descuento) en el siguiente enlace!

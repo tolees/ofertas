@@ -10,8 +10,11 @@ author: ring
 slug: B07DG4ZB6Q
 description:
 actualPrice: 20.95 EUR
+currency: EUR
+price: 20.95
 comparePrice: 51.91 EUR
 inStock: true
+prodname: Puma Amplified Big Logo tee Camiseta  Hombre  Verde  Olivine   XL
 ---
 
 Tienes [Puma Amplified Big Logo tee Camiseta  Hombre  Verde  Olivine   XL](https://www.amazon.es/dp/B07DG4ZB6Q/?tag=tolees-21) con un 59.64 % de descuento con precio de oferta de 20.95 EUR (original: 51.91 EUR) en el siguiente enlace!

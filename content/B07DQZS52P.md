@@ -10,8 +10,11 @@ author: ring
 slug: B07DQZS52P
 description:
 actualPrice: 55.22 EUR
+currency: EUR
+price: 55.22
 comparePrice: 75 EUR
 inStock: true
+prodname: Burton Raider Cascos  Hombre  Rojo  L
 ---
 
 Está [Burton Raider Cascos  Hombre  Rojo  L](https://www.amazon.es/dp/B07DQZS52P/?tag=tolees-21) con 26.37 de descuento por 55.22 EUR (original: 75 EUR) en el siguiente enlace!

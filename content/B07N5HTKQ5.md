@@ -10,8 +10,11 @@ author: ring
 slug: B07N5HTKQ5
 description:
 actualPrice: 18.0 EUR
+currency: EUR
+price: 18.0
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Banpresto One Punch Man estatuas  Idea Regalo  Personaje  Multicolor  85177 
 ---
 
 Tienes [Banpresto One Punch Man estatuas  Idea Regalo  Personaje  Multicolor  85177 ](https://www.amazon.es/dp/B07N5HTKQ5/?tag=tolees-21) con un 28.00 % de descuento con precio de oferta de 18.0 EUR (original: 25.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00TPOZUOI
 description:
 actualPrice: 15.12 EUR
+currency: EUR
+price: 15.12
 comparePrice: 20.91 EUR
 inStock: true
+prodname: SONAX Xtreme Llanta Limpiador y Cepillo para Llantas
 ---
 
 Ahora mismo tienes [SONAX Xtreme Llanta Limpiador y Cepillo para Llantas](https://www.amazon.es/dp/B00TPOZUOI/?tag=tolees-21) a 15.12 EUR (original: 20.91 EUR) (27.69 %  de descuento) en el siguiente enlace!

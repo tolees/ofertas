@@ -10,8 +10,11 @@ author: ring
 slug: B00KMVM2EO
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Columbia Klamath Range II Forro Polar con Media Cremallera  Hombre  Gris  Grill   M
 ---
 
 Está [Columbia Klamath Range II Forro Polar con Media Cremallera  Hombre  Gris  Grill   M](https://www.amazon.es/dp/B00KMVM2EO/?tag=tolees-21) con 33.48 de descuento por 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!

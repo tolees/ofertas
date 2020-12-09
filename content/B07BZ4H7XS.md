@@ -10,8 +10,11 @@ author: ring
 slug: B07BZ4H7XS
 description:
 actualPrice: 23.9 EUR
+currency: EUR
+price: 23.9
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Desigual Ginko 2000 Tops de Manga Larga  Mujer  Negro  M
 ---
 
 Tienes [Desigual Ginko 2000 Tops de Manga Larga  Mujer  Negro  M](https://www.amazon.es/dp/B07BZ4H7XS/?tag=tolees-21) con un 52.15 % de descuento con precio de oferta de 23.9 EUR (original: 49.95 EUR) en el siguiente enlace!

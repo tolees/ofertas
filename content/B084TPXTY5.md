@@ -10,8 +10,11 @@ author: ring
 slug: B084TPXTY5
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 50.0 EUR
 inStock: true
+prodname: GREAT ART Set de 2 Posters XXL - Motivos de EE.UU. Route 66 & Brooklyn Bridge de Noche - Imágenes de América del Norte Mural póster fotográfico Foto decoración  140 x 100 cm 
 ---
 
 Ahora mismo tienes [GREAT ART Set de 2 Posters XXL - Motivos de EE.UU. Route 66 & Brooklyn Bridge de Noche - Imágenes de América del Norte Mural póster fotográfico Foto decoración  140 x 100 cm ](https://www.amazon.es/dp/B084TPXTY5/?tag=tolees-21) a 29.9 EUR (original: 50.0 EUR) (40.20 %  de descuento) en el siguiente enlace!

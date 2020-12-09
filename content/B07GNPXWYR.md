@@ -10,8 +10,11 @@ author: ring
 slug: B07GNPXWYR
 description:
 actualPrice: 13.5 EUR
+currency: EUR
+price: 13.5
 comparePrice: 29.99 EUR
 inStock: true
+prodname: JACK & JONES Jcoten Shirt LS One Pocket  Camisa para Hombre  Azul  X-Large
 ---
 
 Tienes [JACK & JONES Jcoten Shirt LS One Pocket  Camisa para Hombre  Azul  X-Large](https://www.amazon.es/dp/B07GNPXWYR/?tag=tolees-21) con un 54.98 % de descuento con precio de oferta de 13.5 EUR (original: 29.99 EUR) en el siguiente enlace!

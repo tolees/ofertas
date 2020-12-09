@@ -10,8 +10,11 @@ author: ring
 slug: B01M1PADFW
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Princess 103050 Table Chef Hot-Zone - Plancha con Zona Supercaliente  No se Deforma
 ---
 
 Está [Princess 103050 Table Chef Hot-Zone - Plancha con Zona Supercaliente  No se Deforma](https://www.amazon.es/dp/B01M1PADFW/?tag=tolees-21) con 42.86 de descuento por 39.99 EUR (original: 69.99 EUR) en el siguiente enlace!

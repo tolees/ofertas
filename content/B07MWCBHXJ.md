@@ -10,8 +10,11 @@ author: ring
 slug: B07MWCBHXJ
 description:
 actualPrice: 102.99 EUR
+currency: EUR
+price: 102.99
 comparePrice: 162.68 EUR
 inStock: true
+prodname: Invicta Reloj de Pulsera 28952
 ---
 
 Ahora mismo tienes [Invicta Reloj de Pulsera 28952](https://www.amazon.es/dp/B07MWCBHXJ/?tag=tolees-21) a 102.99 EUR (original: 162.68 EUR) (36.69 %  de descuento) en el siguiente enlace!

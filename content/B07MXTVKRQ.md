@@ -10,8 +10,11 @@ author: ring
 slug: B07MXTVKRQ
 description:
 actualPrice: 8.58 EUR
+currency: EUR
+price: 8.58
 comparePrice: 13.9 EUR
 inStock: true
+prodname: Garnier BIO Bálsamo Reparador con Aceite de Argán y Manteca de Karité Ecológicos y Vitamina E - 2 de 50 ml  Total: 100 ml 
 ---
 
 Tienes [Garnier BIO Bálsamo Reparador con Aceite de Argán y Manteca de Karité Ecológicos y Vitamina E - 2 de 50 ml  Total: 100 ml ](https://www.amazon.es/dp/B07MXTVKRQ/?tag=tolees-21) con un 38.27 % de descuento con precio de oferta de 8.58 EUR (original: 13.9 EUR) en el siguiente enlace!

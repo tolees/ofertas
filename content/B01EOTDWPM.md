@@ -10,8 +10,11 @@ author: ring
 slug: B01EOTDWPM
 description:
 actualPrice: 61.6 EUR
+currency: EUR
+price: 61.6
 comparePrice: 159 EUR
 inStock: true
+prodname: Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F16952-1
 ---
 
 Tienes [Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable F16952-1](https://www.amazon.es/dp/B01EOTDWPM/?tag=tolees-21) con un 61.26 % de descuento con precio de oferta de 61.6 EUR (original: 159 EUR) en el siguiente enlace!

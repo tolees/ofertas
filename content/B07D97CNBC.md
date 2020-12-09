@@ -10,8 +10,11 @@ author: ring
 slug: B07D97CNBC
 description:
 actualPrice: 13.79 EUR
+currency: EUR
+price: 13.79
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 48433  Botines para Mujer  Marrón Camel  37 EU
 ---
 
 Está [XTI 48433  Botines para Mujer  Marrón Camel  37 EU](https://www.amazon.es/dp/B07D97CNBC/?tag=tolees-21) con 72.39 de descuento por 13.79 EUR (original: 49.95 EUR) en el siguiente enlace!

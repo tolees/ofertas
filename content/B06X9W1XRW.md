@@ -10,8 +10,11 @@ author: ring
 slug: B06X9W1XRW
 description:
 actualPrice: 25.21 EUR
+currency: EUR
+price: 25.21
 comparePrice: 75 EUR
 inStock: true
+prodname: find. Sandalias de Cuña Mujer  Marrón  Nude   40 EU
 ---
 
 Ahora mismo tienes [find. Sandalias de Cuña Mujer  Marrón  Nude   40 EU](https://www.amazon.es/dp/B06X9W1XRW/?tag=tolees-21) a 25.21 EUR (original: 75 EUR) (66.39 %  de descuento) en el siguiente enlace!

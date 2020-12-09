@@ -10,8 +10,11 @@ author: ring
 slug: B01N6FG6RB
 description:
 actualPrice: 5.51 EUR
+currency: EUR
+price: 5.51
 comparePrice: 10.26 EUR
 inStock: true
+prodname: BGS 1900-M10X1.25-S | Terraja | M10 x 1 25 x 25 mm
 ---
 
 Tienes [BGS 1900-M10X1.25-S | Terraja | M10 x 1 25 x 25 mm](https://www.amazon.es/dp/B01N6FG6RB/?tag=tolees-21) con un 46.30 % de descuento con precio de oferta de 5.51 EUR (original: 10.26 EUR) en el siguiente enlace!

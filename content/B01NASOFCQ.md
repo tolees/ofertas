@@ -10,8 +10,11 @@ author: ring
 slug: B01NASOFCQ
 description:
 actualPrice: 33.95 EUR
+currency: EUR
+price: 33.95
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Adidas Superstar  Primeros Pasos Bebé-niños  Negro  Core Black/Footwear White/Footwear White   24 EU
 ---
 
 Está [Adidas Superstar  Primeros Pasos Bebé-niños  Negro  Core Black/Footwear White/Footwear White   24 EU](https://www.amazon.es/dp/B01NASOFCQ/?tag=tolees-21) con 38.22 de descuento por 33.95 EUR (original: 54.95 EUR) en el siguiente enlace!

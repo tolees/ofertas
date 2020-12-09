@@ -10,8 +10,11 @@ author: ring
 slug: B07LFMMSHK
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Crash Team Racing Nitro Fueled
 ---
 
 Ahora mismo tienes [Crash Team Racing Nitro Fueled](https://www.amazon.es/dp/B07LFMMSHK/?tag=tolees-21) a 19.9 EUR (original: 39.99 EUR) (50.24 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07J57JJFM
 description:
 actualPrice: 16.09 EUR
+currency: EUR
+price: 16.09
 comparePrice: 22.99 EUR
 inStock: true
+prodname: IRIS & LILLY Kt106 bañadores  Negro  Black   38  Talla del fabricante: Small 
 ---
 
 Está [IRIS & LILLY Kt106 bañadores  Negro  Black   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B07J57JJFM/?tag=tolees-21) con 30.01 de descuento por 16.09 EUR (original: 22.99 EUR) en el siguiente enlace!

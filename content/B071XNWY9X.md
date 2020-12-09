@@ -10,8 +10,11 @@ author: ring
 slug: B071XNWY9X
 description:
 actualPrice: 586.48 EUR
+currency: EUR
+price: 586.48
 comparePrice: 1092.95 EUR
 inStock: true
+prodname: VIBOX FX-27 - Ordenador de sobremesa Gaming  USB  Intel Core i5  RAM de 8 GB  Disco Duro de 1 TB  3.0 GHz  Windows 10 Home  Color Verde
 ---
 
 Tienes [VIBOX FX-27 - Ordenador de sobremesa Gaming  USB  Intel Core i5  RAM de 8 GB  Disco Duro de 1 TB  3.0 GHz  Windows 10 Home  Color Verde](https://www.amazon.es/dp/B071XNWY9X/?tag=tolees-21) con un 46.34 % de descuento con precio de oferta de 586.48 EUR (original: 1092.95 EUR) en el siguiente enlace!

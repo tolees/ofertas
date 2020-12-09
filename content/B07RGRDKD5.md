@@ -10,8 +10,11 @@ author: ring
 slug: B07RGRDKD5
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Under Armour UA Undeniable 4.0 Duffle MD Bolsa De Deportes  Bolsa De Entrenamiento Unisex Azul OSFA
 ---
 
 Está [Under Armour UA Undeniable 4.0 Duffle MD Bolsa De Deportes  Bolsa De Entrenamiento Unisex Azul OSFA](https://www.amazon.es/dp/B07RGRDKD5/?tag=tolees-21) con 50.00 de descuento por 17.5 EUR (original: 35.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GXLX8WW
 description:
 actualPrice: 0.72 EUR
+currency: EUR
+price: 0.72
 comparePrice: 1.1 EUR
 inStock: true
+prodname: SMILEAT fruta variada pouch 100 gr
 ---
 
 Tienes [SMILEAT fruta variada pouch 100 gr](https://www.amazon.es/dp/B07GXLX8WW/?tag=tolees-21) con un 34.55 % de descuento con precio de oferta de 0.72 EUR (original: 1.1 EUR) en el siguiente enlace!

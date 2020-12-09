@@ -10,8 +10,11 @@ author: ring
 slug: B06XKN1JG1
 description:
 actualPrice: 13.45 EUR
+currency: EUR
+price: 13.45
 comparePrice: 40 EUR
 inStock: true
+prodname: find. Alpargata de Cuero con Tiras Cruzadas para Mujer  Negro  Black   37 EU
 ---
 
 Ahora mismo tienes [find. Alpargata de Cuero con Tiras Cruzadas para Mujer  Negro  Black   37 EU](https://www.amazon.es/dp/B06XKN1JG1/?tag=tolees-21) a 13.45 EUR (original: 40 EUR) (66.38 %  de descuento) en el siguiente enlace!

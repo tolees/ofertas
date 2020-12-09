@@ -10,8 +10,11 @@ author: ring
 slug: B07CWWRD4Z
 description:
 actualPrice: 9.59 EUR
+currency: EUR
+price: 9.59
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Tvird Guantes para Barbacoa  Guantes para Horno  Resistencia Térmica hasta 800 ° C  Forro de Algodón de Punto  Silicona Antideslizante y Antebrazo Protector para Cocina  Chimenea y Carbón  1 par 
 ---
 
 Está [Tvird Guantes para Barbacoa  Guantes para Horno  Resistencia Térmica hasta 800 ° C  Forro de Algodón de Punto  Silicona Antideslizante y Antebrazo Protector para Cocina  Chimenea y Carbón  1 par ](https://www.amazon.es/dp/B07CWWRD4Z/?tag=tolees-21) con 31.45 de descuento por 9.59 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B019RIYXS0
 description:
 actualPrice: 14.96 EUR
+currency: EUR
+price: 14.96
 comparePrice: 36.07 EUR
 inStock: true
+prodname: Taste of the Wild Canine Pacific Stream Puppy Salmon - 6000 gr
 ---
 
 Está [Taste of the Wild Canine Pacific Stream Puppy Salmon - 6000 gr](https://www.amazon.es/dp/B019RIYXS0/?tag=tolees-21) con 58.53 de descuento por 14.96 EUR (original: 36.07 EUR) en el siguiente enlace!

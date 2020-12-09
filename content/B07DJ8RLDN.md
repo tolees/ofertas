@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ8RLDN
 description:
 actualPrice: 37.4 EUR
+currency: EUR
+price: 37.4
 comparePrice: 115 EUR
 inStock: true
+prodname: Geox U Vincit C  Zapatillas para Hombre  Negro  Black/Dk Grey   43 EU
 ---
 
 Está [Geox U Vincit C  Zapatillas para Hombre  Negro  Black/Dk Grey   43 EU](https://www.amazon.es/dp/B07DJ8RLDN/?tag=tolees-21) con 67.48 de descuento por 37.4 EUR (original: 115 EUR) en el siguiente enlace!

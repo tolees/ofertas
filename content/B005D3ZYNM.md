@@ -10,8 +10,11 @@ author: ring
 slug: B005D3ZYNM
 description:
 actualPrice: 94.95 EUR
+currency: EUR
+price: 94.95
 comparePrice: 163.0 EUR
 inStock: true
+prodname: CATWALK COLLECTION - ALEX - Bolso de hombro - Cuero - Grande - Negro
 ---
 
 Ahora mismo tienes [CATWALK COLLECTION - ALEX - Bolso de hombro - Cuero - Grande - Negro](https://www.amazon.es/dp/B005D3ZYNM/?tag=tolees-21) a 94.95 EUR (original: 163.0 EUR) (41.75 %  de descuento) en el siguiente enlace!

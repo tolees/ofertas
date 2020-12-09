@@ -10,8 +10,11 @@ author: ring
 slug: B072JMVDT7
 description:
 actualPrice: 20.64 EUR
+currency: EUR
+price: 20.64
 comparePrice: 69.95 EUR
 inStock: true
+prodname: s.Oliver 25243  Botas Chukka para Mujer  Marrón  Pepper Flower   37 EU
 ---
 
 Ahora mismo tienes [s.Oliver 25243  Botas Chukka para Mujer  Marrón  Pepper Flower   37 EU](https://www.amazon.es/dp/B072JMVDT7/?tag=tolees-21) a 20.64 EUR (original: 69.95 EUR) (70.49 %  de descuento) en el siguiente enlace!

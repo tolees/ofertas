@@ -10,8 +10,11 @@ author: ring
 slug: B08NJTFSJW
 description:
 actualPrice: 30.99 EUR
+currency: EUR
+price: 30.99
 comparePrice: 59.76 EUR
 inStock: true
+prodname: Probador de Calidad del Aire Multifuncional Medidor de CO2 TVOC Dispositivo de medición de Temperatura y Humedad
 ---
 
 Tienes [Probador de Calidad del Aire Multifuncional Medidor de CO2 TVOC Dispositivo de medición de Temperatura y Humedad](https://www.amazon.es/dp/B08NJTFSJW/?tag=tolees-21) con un 48.14 % de descuento con precio de oferta de 30.99 EUR (original: 59.76 EUR) en el siguiente enlace!

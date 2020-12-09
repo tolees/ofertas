@@ -10,8 +10,11 @@ author: ring
 slug: B00OKEYXKK
 description:
 actualPrice: 9.94 EUR
+currency: EUR
+price: 9.94
 comparePrice: 21 EUR
 inStock: true
+prodname: Revlon Intragen S.O.S Calm Champú - 250 ml
 ---
 
 Ahora mismo tienes [Revlon Intragen S.O.S Calm Champú - 250 ml](https://www.amazon.es/dp/B00OKEYXKK/?tag=tolees-21) a 9.94 EUR (original: 21 EUR) (52.67 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HBJ9X6L
 description:
 actualPrice: 53.19 EUR
+currency: EUR
+price: 53.19
 comparePrice: 151.79 EUR
 inStock: true
+prodname: KAREN MILLEN Fashions Limited Studded Heeled Sandals  Zapatos de tacón con Punta Abierta para Mujer  Negro  Black 01   38 EU
 ---
 
 Ahora mismo tienes [KAREN MILLEN Fashions Limited Studded Heeled Sandals  Zapatos de tacón con Punta Abierta para Mujer  Negro  Black 01   38 EU](https://www.amazon.es/dp/B07HBJ9X6L/?tag=tolees-21) a 53.19 EUR (original: 151.79 EUR) (64.96 %  de descuento) en el siguiente enlace!

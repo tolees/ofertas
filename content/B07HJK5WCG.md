@@ -10,8 +10,11 @@ author: ring
 slug: B07HJK5WCG
 description:
 actualPrice: 299.0 EUR
+currency: EUR
+price: 299.0
 comparePrice: 449.0 EUR
 inStock: true
+prodname: JBL PartyBox 300 - Altavoz inalámbrico portátil con Bluetooth  parlantes con efectos de luces  resistente al agua  hasta 18h de reproducción  negro
 ---
 
 Ahora mismo tienes [JBL PartyBox 300 - Altavoz inalámbrico portátil con Bluetooth  parlantes con efectos de luces  resistente al agua  hasta 18h de reproducción  negro](https://www.amazon.es/dp/B07HJK5WCG/?tag=tolees-21) a 299.0 EUR (original: 449.0 EUR) (33.41 %  de descuento) en el siguiente enlace!

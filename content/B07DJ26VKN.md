@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ26VKN
 description:
 actualPrice: 53.17 EUR
+currency: EUR
+price: 53.17
 comparePrice: 75 EUR
 inStock: true
+prodname: New Balance 500  Zapatillas para Hombre  Azul  Pigment/Light Aluminum/Tempo Red SGR   43 EU
 ---
 
 Tienes [New Balance 500  Zapatillas para Hombre  Azul  Pigment/Light Aluminum/Tempo Red SGR   43 EU](https://www.amazon.es/dp/B07DJ26VKN/?tag=tolees-21) con un 29.11 % de descuento con precio de oferta de 53.17 EUR (original: 75 EUR) en el siguiente enlace!

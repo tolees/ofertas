@@ -10,8 +10,11 @@ author: ring
 slug: B07L9DCGZD
 description:
 actualPrice: 126.15 EUR
+currency: EUR
+price: 126.15
 comparePrice: 219.01 EUR
 inStock: true
+prodname: ROYAL SLEEP Colchón viscoelástico 140x200 firmeza Media  adaptabilidad y Calidad Alta  Altura 21m - Colchones Xfresh Premium
 ---
 
 Tienes [ROYAL SLEEP Colchón viscoelástico 140x200 firmeza Media  adaptabilidad y Calidad Alta  Altura 21m - Colchones Xfresh Premium](https://www.amazon.es/dp/B07L9DCGZD/?tag=tolees-21) con un 42.40 % de descuento con precio de oferta de 126.15 EUR (original: 219.01 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KGFQG6V
 description:
 actualPrice: 62.17 EUR
+currency: EUR
+price: 62.17
 comparePrice: 139 EUR
 inStock: true
+prodname: BOSS Wardor Sudadera sin Capucha  Azul  Dark Blue 404   Medium para Hombre
 ---
 
 Tienes [BOSS Wardor Sudadera sin Capucha  Azul  Dark Blue 404   Medium para Hombre](https://www.amazon.es/dp/B07KGFQG6V/?tag=tolees-21) con un 55.27 % de descuento con precio de oferta de 62.17 EUR (original: 139 EUR) en el siguiente enlace!

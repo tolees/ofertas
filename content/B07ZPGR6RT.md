@@ -10,8 +10,11 @@ author: ring
 slug: B07ZPGR6RT
 description:
 actualPrice: 6.77 EUR
+currency: EUR
+price: 6.77
 comparePrice: 11.28 EUR
 inStock: true
+prodname: Marca Amazon - Solimo - Bandas de cera faciales con aroma de vainilla con 4 toallitas posdepilación  4x20 bandas de cera 
 ---
 
 Tienes [Marca Amazon - Solimo - Bandas de cera faciales con aroma de vainilla con 4 toallitas posdepilación  4x20 bandas de cera ](https://www.amazon.es/dp/B07ZPGR6RT/?tag=tolees-21) con un 39.98 % de descuento con precio de oferta de 6.77 EUR (original: 11.28 EUR) en el siguiente enlace!

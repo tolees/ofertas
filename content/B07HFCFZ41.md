@@ -10,8 +10,11 @@ author: ring
 slug: B07HFCFZ41
 description:
 actualPrice: 27.63 EUR
+currency: EUR
+price: 27.63
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Th Round Belt 3.0  Cinturón Mujer  Verde  Dark Tan 265   105  Talla del fabricante: 90 
 ---
 
 Está [Tommy Hilfiger Th Round Belt 3.0  Cinturón Mujer  Verde  Dark Tan 265   105  Talla del fabricante: 90 ](https://www.amazon.es/dp/B07HFCFZ41/?tag=tolees-21) con 53.87 de descuento por 27.63 EUR (original: 59.9 EUR) en el siguiente enlace!

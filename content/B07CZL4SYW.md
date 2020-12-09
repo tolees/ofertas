@@ -10,8 +10,11 @@ author: ring
 slug: B07CZL4SYW
 description:
 actualPrice: 42.94 EUR
+currency: EUR
+price: 42.94
 comparePrice: 75 EUR
 inStock: true
+prodname: Lacoste Explorateur Classic3181cai  Zapatillas Unisex Niños  Azul  Nvy/Dk Tan Nt3   24 EU
 ---
 
 Está [Lacoste Explorateur Classic3181cai  Zapatillas Unisex Niños  Azul  Nvy/Dk Tan Nt3   24 EU](https://www.amazon.es/dp/B07CZL4SYW/?tag=tolees-21) con 42.75 de descuento por 42.94 EUR (original: 75 EUR) en el siguiente enlace!

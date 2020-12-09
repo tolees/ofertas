@@ -10,8 +10,11 @@ author: ring
 slug: B07LBVV5J7
 description:
 actualPrice: 25.95 EUR
+currency: EUR
+price: 25.95
 comparePrice: 42.5 EUR
 inStock: true
+prodname: Calvin Klein Low Rise Trunk 3PK Bóxer  Schwarz  B - Black/Cayenne/Airforce WB Hjx   S para Hombre
 ---
 
 Ahora mismo tienes [Calvin Klein Low Rise Trunk 3PK Bóxer  Schwarz  B - Black/Cayenne/Airforce WB Hjx   S para Hombre](https://www.amazon.es/dp/B07LBVV5J7/?tag=tolees-21) a 25.95 EUR (original: 42.5 EUR) (38.94 %  de descuento) en el siguiente enlace!

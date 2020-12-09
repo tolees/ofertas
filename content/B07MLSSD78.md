@@ -10,8 +10,11 @@ author: ring
 slug: B07MLSSD78
 description:
 actualPrice: 35.16 EUR
+currency: EUR
+price: 35.16
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Clarks Tunsil Grove  Botas clásicas. Hombre  Color Negro  41.5 EU
 ---
 
 Ahora mismo tienes [Clarks Tunsil Grove  Botas clásicas. Hombre  Color Negro  41.5 EU](https://www.amazon.es/dp/B07MLSSD78/?tag=tolees-21) a 35.16 EUR (original: 69.95 EUR) (49.74 %  de descuento) en el siguiente enlace!

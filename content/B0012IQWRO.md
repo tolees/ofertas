@@ -10,8 +10,11 @@ author: ring
 slug: B0012IQWRO
 description:
 actualPrice: 28.2 EUR
+currency: EUR
+price: 28.2
 comparePrice: 39.89 EUR
 inStock: true
+prodname: Valira Termo para Sólidos de 1 L con 2 Contenedores Inte  Gris
 ---
 
 Tienes [Valira Termo para Sólidos de 1 L con 2 Contenedores Inte  Gris](https://www.amazon.es/dp/B0012IQWRO/?tag=tolees-21) con un 29.31 % de descuento con precio de oferta de 28.2 EUR (original: 39.89 EUR) en el siguiente enlace!

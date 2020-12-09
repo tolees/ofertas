@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ3KRDJ
 description:
 actualPrice: 38.92 EUR
+currency: EUR
+price: 38.92
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox U Nebula L B  Sandalias con Punta Abierta para Hombre  Black/Dk Royal C0242  43 EU
 ---
 
 Tienes [Geox U Nebula L B  Sandalias con Punta Abierta para Hombre  Black/Dk Royal C0242  43 EU](https://www.amazon.es/dp/B07DJ3KRDJ/?tag=tolees-21) con un 61.04 % de descuento con precio de oferta de 38.92 EUR (original: 99.9 EUR) en el siguiente enlace!

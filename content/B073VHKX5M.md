@@ -10,8 +10,11 @@ author: ring
 slug: B073VHKX5M
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 11.99 EUR
 inStock: true
+prodname: AMEITECH Marcos de Foto Acrílicos  9x13 cm Marco de Imagen Transparente de Doble Cara  Pantalla de Escritorio sin Forma de Tarjeta Postal
 ---
 
 Ahora mismo tienes [AMEITECH Marcos de Foto Acrílicos  9x13 cm Marco de Imagen Transparente de Doble Cara  Pantalla de Escritorio sin Forma de Tarjeta Postal](https://www.amazon.es/dp/B073VHKX5M/?tag=tolees-21) a 6.99 EUR (original: 11.99 EUR) (41.70 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B077YC1NGV
 description:
 actualPrice: 9.3 EUR
+currency: EUR
+price: 9.3
 comparePrice: 23.01 EUR
 inStock: true
+prodname: HIKARO Sudadera Logo Mujer  Rosa  Lavender   38  Talla del fabricante: Small 
 ---
 
 Está [HIKARO Sudadera Logo Mujer  Rosa  Lavender   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B077YC1NGV/?tag=tolees-21) con 59.58 de descuento por 9.3 EUR (original: 23.01 EUR) en el siguiente enlace!

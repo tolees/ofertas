@@ -10,8 +10,11 @@ author: ring
 slug: B071RXSWBK
 description:
 actualPrice: 11.45 EUR
+currency: EUR
+price: 11.45
 comparePrice: 24.53 EUR
 inStock: true
+prodname: Inside 4SOGC10 Sudadera  Blanco  Small  Tamaño del Fabricante:S  para Mujer
 ---
 
 Está [Inside 4SOGC10 Sudadera  Blanco  Small  Tamaño del Fabricante:S  para Mujer](https://www.amazon.es/dp/B071RXSWBK/?tag=tolees-21) con 53.32 de descuento por 11.45 EUR (original: 24.53 EUR) en el siguiente enlace!

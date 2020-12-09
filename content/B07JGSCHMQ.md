@@ -10,8 +10,11 @@ author: ring
 slug: B07JGSCHMQ
 description:
 actualPrice: 33.93 EUR
+currency: EUR
+price: 33.93
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Fila Men Sport&Style Controll II Low  Zapatillas Altas para Hombre  Blanco  White 1fg   46 EU
 ---
 
 Tienes [Fila Men Sport&Style Controll II Low  Zapatillas Altas para Hombre  Blanco  White 1fg   46 EU](https://www.amazon.es/dp/B07JGSCHMQ/?tag=tolees-21) con un 43.40 % de descuento con precio de oferta de 33.93 EUR (original: 59.95 EUR) en el siguiente enlace!

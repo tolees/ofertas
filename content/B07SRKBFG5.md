@@ -10,8 +10,11 @@ author: ring
 slug: B07SRKBFG5
 description:
 actualPrice: 54.8 EUR
+currency: EUR
+price: 54.8
 comparePrice: 109.9 EUR
 inStock: true
+prodname: Geox D PONTOISE D  Zapatillas para Mujer  Negro  Black/Lt Gold C9258   35 EU
 ---
 
 Tienes [Geox D PONTOISE D  Zapatillas para Mujer  Negro  Black/Lt Gold C9258   35 EU](https://www.amazon.es/dp/B07SRKBFG5/?tag=tolees-21) con un 50.14 % de descuento con precio de oferta de 54.8 EUR (original: 109.9 EUR) en el siguiente enlace!

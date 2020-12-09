@@ -10,8 +10,11 @@ author: ring
 slug: B07WC29XYT
 description:
 actualPrice: 66.71 EUR
+currency: EUR
+price: 66.71
 comparePrice: 88.95 EUR
 inStock: true
+prodname: IKOHS Microondas MW700 - Microondas  700W Capacidad de 20L  6 Niveles de Potencia  Temporizador hasta 30 minutos  33.5x45.0x25.0 cm
 ---
 
 Ahora mismo tienes [IKOHS Microondas MW700 - Microondas  700W Capacidad de 20L  6 Niveles de Potencia  Temporizador hasta 30 minutos  33.5x45.0x25.0 cm](https://www.amazon.es/dp/B07WC29XYT/?tag=tolees-21) a 66.71 EUR (original: 88.95 EUR) (25.00 %  de descuento) en el siguiente enlace!

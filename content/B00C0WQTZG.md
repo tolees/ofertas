@@ -10,8 +10,11 @@ author: ring
 slug: B00C0WQTZG
 description:
 actualPrice: 160 EUR
+currency: EUR
+price: 160
 comparePrice: 245.96 EUR
 inStock: true
+prodname: Medela Swing Maxi - Sacaleches eléctrico doble   automático con tetina Calma
 ---
 
 Tienes [Medela Swing Maxi - Sacaleches eléctrico doble   automático con tetina Calma](https://www.amazon.es/dp/B00C0WQTZG/?tag=tolees-21) con un 34.95 % de descuento con precio de oferta de 160 EUR (original: 245.96 EUR) en el siguiente enlace!

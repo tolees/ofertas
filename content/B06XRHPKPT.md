@@ -10,8 +10,11 @@ author: ring
 slug: B06XRHPKPT
 description:
 actualPrice: 13.53 EUR
+currency: EUR
+price: 13.53
 comparePrice: 59 EUR
 inStock: true
+prodname: Pepe Jeans Dave JR PB300948  Blusa para Niños   Multi 0Aa  14 años
 ---
 
 Ahora mismo tienes [Pepe Jeans Dave JR PB300948  Blusa para Niños   Multi 0Aa  14 años](https://www.amazon.es/dp/B06XRHPKPT/?tag=tolees-21) a 13.53 EUR (original: 59 EUR) (77.07 %  de descuento) en el siguiente enlace!

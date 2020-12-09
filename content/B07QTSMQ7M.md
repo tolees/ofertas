@@ -10,8 +10,11 @@ author: ring
 slug: B07QTSMQ7M
 description:
 actualPrice: 257.0 EUR
+currency: EUR
+price: 257.0
 comparePrice: 349.0 EUR
 inStock: true
+prodname: Samsung MG22M8074CT Microondas de Integración  22 Litros  850W/1100W  Color inox
 ---
 
 Está [Samsung MG22M8074CT Microondas de Integración  22 Litros  850W/1100W  Color inox](https://www.amazon.es/dp/B07QTSMQ7M/?tag=tolees-21) con 26.36 de descuento por 257.0 EUR (original: 349.0 EUR) en el siguiente enlace!

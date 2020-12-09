@@ -10,8 +10,11 @@ author: ring
 slug: B01M2XLF9I
 description:
 actualPrice: 182.23 EUR
+currency: EUR
+price: 182.23
 comparePrice: 512.44 EUR
 inStock: true
+prodname: OKI C612N - Impresora con tecnología laser LED  color blanco
 ---
 
 Está [OKI C612N - Impresora con tecnología laser LED  color blanco](https://www.amazon.es/dp/B01M2XLF9I/?tag=tolees-21) con 64.44 de descuento por 182.23 EUR (original: 512.44 EUR) en el siguiente enlace!

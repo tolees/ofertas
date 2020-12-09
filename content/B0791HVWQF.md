@@ -10,8 +10,11 @@ author: ring
 slug: B0791HVWQF
 description:
 actualPrice: 5 EUR
+currency: EUR
+price: 5
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Half Moon Bay z888010 Harry Potter 3D Caldera Taza XL Gryffindor
 ---
 
 Está [Half Moon Bay z888010 Harry Potter 3D Caldera Taza XL Gryffindor](https://www.amazon.es/dp/B0791HVWQF/?tag=tolees-21) con 68.73 de descuento por 5 EUR (original: 15.99 EUR) en el siguiente enlace!

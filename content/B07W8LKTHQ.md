@@ -10,8 +10,11 @@ author: ring
 slug: B07W8LKTHQ
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 13.29 EUR
 inStock: true
+prodname: El Hogar De Miss Peregrine Para Niños Peculiares Steelbook 2019 Blu-Ray [Blu-ray]
 ---
 
 Tienes [El Hogar De Miss Peregrine Para Niños Peculiares Steelbook 2019 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07W8LKTHQ/?tag=tolees-21) con un 47.40 % de descuento con precio de oferta de 6.99 EUR (original: 13.29 EUR) en el siguiente enlace!

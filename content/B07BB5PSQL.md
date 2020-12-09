@@ -10,8 +10,11 @@ author: ring
 slug: B07BB5PSQL
 description:
 actualPrice: 13.51 EUR
+currency: EUR
+price: 13.51
 comparePrice: 35 EUR
 inStock: true
+prodname: The North Face Y 1/4 Zip Forro Polar Glacier  Unisex niños  New Taupe Green  XS
 ---
 
 Está [The North Face Y 1/4 Zip Forro Polar Glacier  Unisex niños  New Taupe Green  XS](https://www.amazon.es/dp/B07BB5PSQL/?tag=tolees-21) con 61.40 de descuento por 13.51 EUR (original: 35 EUR) en el siguiente enlace!

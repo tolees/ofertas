@@ -10,8 +10,11 @@ author: ring
 slug: B01K4RMYO8
 description:
 actualPrice: 84.71 EUR
+currency: EUR
+price: 84.71
 comparePrice: 130.0 EUR
 inStock: true
+prodname: Helly-Hansen Crew Chaqueta deportiva  Hombre  Azul  Azul Navy   Small  Tamaño del fabricante:S 
 ---
 
 Está [Helly-Hansen Crew Chaqueta deportiva  Hombre  Azul  Azul Navy   Small  Tamaño del fabricante:S ](https://www.amazon.es/dp/B01K4RMYO8/?tag=tolees-21) con 34.84 de descuento por 84.71 EUR (original: 130.0 EUR) en el siguiente enlace!

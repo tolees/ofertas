@@ -10,8 +10,11 @@ author: ring
 slug: B07NLX68NG
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 55.0 EUR
 inStock: true
+prodname: NIKE Revolution 5   Zapatillas Hombre  Black/White/Anthracite  40 EU
 ---
 
 Está [NIKE Revolution 5   Zapatillas Hombre  Black/White/Anthracite  40 EU](https://www.amazon.es/dp/B07NLX68NG/?tag=tolees-21) con 27.29 de descuento por 39.99 EUR (original: 55.0 EUR) en el siguiente enlace!

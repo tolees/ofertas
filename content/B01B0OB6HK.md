@@ -10,8 +10,11 @@ author: ring
 slug: B01B0OB6HK
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 27.27 EUR
 inStock: true
+prodname: Gillette Mach3 Maquinilla de Afeitar + 11 Cuchillas de Recambio
 ---
 
 Ahora mismo tienes [Gillette Mach3 Maquinilla de Afeitar + 11 Cuchillas de Recambio](https://www.amazon.es/dp/B01B0OB6HK/?tag=tolees-21) a 18.99 EUR (original: 27.27 EUR) (30.36 %  de descuento) en el siguiente enlace!

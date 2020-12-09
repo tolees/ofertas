@@ -10,8 +10,11 @@ author: ring
 slug: B071ZSPPH7
 description:
 actualPrice: 32.55 EUR
+currency: EUR
+price: 32.55
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Reebok Astroride Duo Edge  Zapatillas de Running para Mujer  Negro  Black/Solar Pink/Silver Met/White/Alloy   37 EU
 ---
 
 Ahora mismo tienes [Reebok Astroride Duo Edge  Zapatillas de Running para Mujer  Negro  Black/Solar Pink/Silver Met/White/Alloy   37 EU](https://www.amazon.es/dp/B071ZSPPH7/?tag=tolees-21) a 32.55 EUR (original: 69.95 EUR) (53.47 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PRLJ6MC
 description:
 actualPrice: 13.98 EUR
+currency: EUR
+price: 13.98
 comparePrice: 24.98 EUR
 inStock: true
+prodname: KAILH Gafas de Natación  Antiniebla Gafas Natacion  Protección UV sin Fugas  Gafas para Nadar para Adulto Hombre Mujer y Niños
 ---
 
 Tienes [KAILH Gafas de Natación  Antiniebla Gafas Natacion  Protección UV sin Fugas  Gafas para Nadar para Adulto Hombre Mujer y Niños](https://www.amazon.es/dp/B07PRLJ6MC/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 13.98 EUR (original: 24.98 EUR) en el siguiente enlace!

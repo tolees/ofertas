@@ -10,8 +10,11 @@ author: ring
 slug: B08BPDNJCR
 description:
 actualPrice: 19.75 EUR
+currency: EUR
+price: 19.75
 comparePrice: 33.99 EUR
 inStock: true
+prodname: Jack & Jones JJELOGO Blocking Sweat Hood STS Sudadera con Capucha  Azul  China Blue   XL para Hombre
 ---
 
 Ahora mismo tienes [Jack & Jones JJELOGO Blocking Sweat Hood STS Sudadera con Capucha  Azul  China Blue   XL para Hombre](https://www.amazon.es/dp/B08BPDNJCR/?tag=tolees-21) a 19.75 EUR (original: 33.99 EUR) (41.89 %  de descuento) en el siguiente enlace!

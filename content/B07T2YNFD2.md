@@ -10,8 +10,11 @@ author: ring
 slug: B07T2YNFD2
 description:
 actualPrice: 53.5 EUR
+currency: EUR
+price: 53.5
 comparePrice: 89.0 EUR
 inStock: true
+prodname: Festina Reloj Analógico para Hombre de Cuarzo con Correa en Cuero F6857/7
 ---
 
 Tienes [Festina Reloj Analógico para Hombre de Cuarzo con Correa en Cuero F6857/7](https://www.amazon.es/dp/B07T2YNFD2/?tag=tolees-21) con un 39.89 % de descuento con precio de oferta de 53.5 EUR (original: 89.0 EUR) en el siguiente enlace!

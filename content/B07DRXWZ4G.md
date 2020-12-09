@@ -10,8 +10,11 @@ author: ring
 slug: B07DRXWZ4G
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Levi s kids Sweat Shirt  Sudadera Niños  Gris  China Grey 20   4 años  Talla del Fabricante: 4A 
 ---
 
 Tienes [Levi s kids Sweat Shirt  Sudadera Niños  Gris  China Grey 20   4 años  Talla del Fabricante: 4A ](https://www.amazon.es/dp/B07DRXWZ4G/?tag=tolees-21) con un 57.18 % de descuento con precio de oferta de 29.95 EUR (original: 69.95 EUR) en el siguiente enlace!

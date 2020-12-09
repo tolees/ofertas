@@ -10,8 +10,11 @@ author: ring
 slug: B07FH3P7QK
 description:
 actualPrice: 3.84 EUR
+currency: EUR
+price: 3.84
 comparePrice: 10.0 EUR
 inStock: true
+prodname: Rimmel London Magnifeyes Palette Paleta de Sombras Electric Violet Edition - 14.16 gr
 ---
 
 Tienes [Rimmel London Magnifeyes Palette Paleta de Sombras Electric Violet Edition - 14.16 gr](https://www.amazon.es/dp/B07FH3P7QK/?tag=tolees-21) con un 61.60 % de descuento con precio de oferta de 3.84 EUR (original: 10.0 EUR) en el siguiente enlace!

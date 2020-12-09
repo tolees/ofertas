@@ -10,8 +10,11 @@ author: ring
 slug: B07NFLQBK1
 description:
 actualPrice: 57.14 EUR
+currency: EUR
+price: 57.14
 comparePrice: 89.95 EUR
 inStock: true
+prodname: s.Oliver Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SO-3733-LQ
 ---
 
 Está [s.Oliver Reloj Analógico para Mujer de Cuarzo con Correa en Cuero SO-3733-LQ](https://www.amazon.es/dp/B07NFLQBK1/?tag=tolees-21) con 36.48 de descuento por 57.14 EUR (original: 89.95 EUR) en el siguiente enlace!

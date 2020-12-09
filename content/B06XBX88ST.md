@@ -10,8 +10,11 @@ author: ring
 slug: B06XBX88ST
 description:
 actualPrice: 38.58 EUR
+currency: EUR
+price: 38.58
 comparePrice: 150 EUR
 inStock: true
+prodname: Clarks Glickasha GTX  Botas para Mujer  Marrón  Dark Brown Suede   37 EU
 ---
 
 Está [Clarks Glickasha GTX  Botas para Mujer  Marrón  Dark Brown Suede   37 EU](https://www.amazon.es/dp/B06XBX88ST/?tag=tolees-21) con 74.28 de descuento por 38.58 EUR (original: 150 EUR) en el siguiente enlace!

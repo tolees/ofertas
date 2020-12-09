@@ -10,8 +10,11 @@ author: ring
 slug: B07KGBVYL1
 description:
 actualPrice: 21.68 EUR
+currency: EUR
+price: 21.68
 comparePrice: 59.95 EUR
 inStock: true
+prodname: BOSS Tephoto Camiseta  Blanco  White 100   Medium para Mujer
 ---
 
 Tienes [BOSS Tephoto Camiseta  Blanco  White 100   Medium para Mujer](https://www.amazon.es/dp/B07KGBVYL1/?tag=tolees-21) con un 63.84 % de descuento con precio de oferta de 21.68 EUR (original: 59.95 EUR) en el siguiente enlace!

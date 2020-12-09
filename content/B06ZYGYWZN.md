@@ -10,8 +10,11 @@ author: ring
 slug: B06ZYGYWZN
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Zecti Caja de luz regulable Caja de luz fotográfica 30 x 30cm Softbox con el imán extraíble 2 Tiras de luces LED ajustables de 10 niveles y 2 Telones de fondo  Blanco y Negro 
 ---
 
 Ahora mismo tienes [Zecti Caja de luz regulable Caja de luz fotográfica 30 x 30cm Softbox con el imán extraíble 2 Tiras de luces LED ajustables de 10 niveles y 2 Telones de fondo  Blanco y Negro ](https://www.amazon.es/dp/B06ZYGYWZN/?tag=tolees-21) a 29.99 EUR (original: 69.99 EUR) (57.15 %  de descuento) en el siguiente enlace!

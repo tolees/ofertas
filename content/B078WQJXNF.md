@@ -10,8 +10,11 @@ author: ring
 slug: B078WQJXNF
 description:
 actualPrice: 43.7 EUR
+currency: EUR
+price: 43.7
 comparePrice: 78.99 EUR
 inStock: true
+prodname: Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno de 250 GB   color negro
 ---
 
 Está [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno de 250 GB   color negro](https://www.amazon.es/dp/B078WQJXNF/?tag=tolees-21) con 44.68 de descuento por 43.7 EUR (original: 78.99 EUR) en el siguiente enlace!

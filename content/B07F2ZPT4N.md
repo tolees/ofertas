@@ -10,8 +10,11 @@ author: ring
 slug: B07F2ZPT4N
 description:
 actualPrice: 9.95 EUR
+currency: EUR
+price: 9.95
 comparePrice: 19.95 EUR
 inStock: true
+prodname: adidas Adultos Run gurteltasche  Raw ámbar/Anti-Reflective  5.5 x 27 cm
 ---
 
 Ahora mismo tienes [adidas Adultos Run gurteltasche  Raw ámbar/Anti-Reflective  5.5 x 27 cm](https://www.amazon.es/dp/B07F2ZPT4N/?tag=tolees-21) a 9.95 EUR (original: 19.95 EUR) (50.13 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01D17JOHI
 description:
 actualPrice: 54.5 EUR
+currency: EUR
+price: 54.5
 comparePrice: 109 EUR
 inStock: true
+prodname: Samsonite Paradiver Light  L  61cm-84L   Azul  Jeans Azul 
 ---
 
 Está [Samsonite Paradiver Light  L  61cm-84L   Azul  Jeans Azul ](https://www.amazon.es/dp/B01D17JOHI/?tag=tolees-21) con 50.00 de descuento por 54.5 EUR (original: 109 EUR) en el siguiente enlace!

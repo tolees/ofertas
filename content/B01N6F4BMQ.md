@@ -10,8 +10,11 @@ author: ring
 slug: B01N6F4BMQ
 description:
 actualPrice: 6 EUR
+currency: EUR
+price: 6
 comparePrice: 12.53 EUR
 inStock: true
+prodname: find. 17AMZ031 camisetas mujer fiesta   Negro  Black/white Striped   40  Talla del Fabricante: Medium 
 ---
 
 Está [find. 17AMZ031 camisetas mujer fiesta   Negro  Black/white Striped   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N6F4BMQ/?tag=tolees-21) con 52.11 de descuento por 6 EUR (original: 12.53 EUR) en el siguiente enlace!

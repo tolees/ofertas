@@ -10,8 +10,11 @@ author: ring
 slug: B01HZPQYRA
 description:
 actualPrice: 50.01 EUR
+currency: EUR
+price: 50.01
 comparePrice: 85 EUR
 inStock: true
+prodname: Merrell - sandalias de Cuero mujer  Beige  Taupe   37 EU
 ---
 
 Tienes [Merrell - sandalias de Cuero mujer  Beige  Taupe   37 EU](https://www.amazon.es/dp/B01HZPQYRA/?tag=tolees-21) con un 41.16 % de descuento con precio de oferta de 50.01 EUR (original: 85 EUR) en el siguiente enlace!

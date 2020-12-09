@@ -10,8 +10,11 @@ author: ring
 slug: B00UMH2CA2
 description:
 actualPrice: 110 EUR
+currency: EUR
+price: 110
 comparePrice: 164.95 EUR
 inStock: true
+prodname: DeWalt DWE4237-QS Mini-Amoladora 125 mm 1.400W 11.500 RPM  Negro y amarillo
 ---
 
 Está [DeWalt DWE4237-QS Mini-Amoladora 125 mm 1.400W 11.500 RPM  Negro y amarillo](https://www.amazon.es/dp/B00UMH2CA2/?tag=tolees-21) con 33.31 de descuento por 110 EUR (original: 164.95 EUR) en el siguiente enlace!

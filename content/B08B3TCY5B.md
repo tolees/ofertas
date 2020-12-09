@@ -10,8 +10,11 @@ author: ring
 slug: B08B3TCY5B
 description:
 actualPrice: 40.99 EUR
+currency: EUR
+price: 40.99
 comparePrice: 78.99 EUR
 inStock: true
+prodname: UNITED COLORS OF BENETTON. PK2000 Set cristalería 12 Piezas de Vasos de Vidrio  Decorados  33 cl  Cristal  Negro
 ---
 
 Está [UNITED COLORS OF BENETTON. PK2000 Set cristalería 12 Piezas de Vasos de Vidrio  Decorados  33 cl  Cristal  Negro](https://www.amazon.es/dp/B08B3TCY5B/?tag=tolees-21) con 48.11 de descuento por 40.99 EUR (original: 78.99 EUR) en el siguiente enlace!

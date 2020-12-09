@@ -10,8 +10,11 @@ author: ring
 slug: B07FWMJYZC
 description:
 actualPrice: 22.62 EUR
+currency: EUR
+price: 22.62
 comparePrice: 31.17 EUR
 inStock: true
+prodname: Mattel Disney Toy Story 4 Pack de 4 Figuras Básicas de La Película  Juguetes Niños +3 Años  GDP75 
 ---
 
 Ahora mismo tienes [Mattel Disney Toy Story 4 Pack de 4 Figuras Básicas de La Película  Juguetes Niños +3 Años  GDP75 ](https://www.amazon.es/dp/B07FWMJYZC/?tag=tolees-21) a 22.62 EUR (original: 31.17 EUR) (27.43 %  de descuento) en el siguiente enlace!

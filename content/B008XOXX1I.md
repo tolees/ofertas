@@ -10,8 +10,11 @@ author: ring
 slug: B008XOXX1I
 description:
 actualPrice: 16.3 EUR
+currency: EUR
+price: 16.3
 comparePrice: 42.0 EUR
 inStock: true
+prodname: Sensilis Upgrade Chrono Lift Crema de Día Antiedad y Reafirmante  SPF20  50 ml
 ---
 
 Tienes [Sensilis Upgrade Chrono Lift Crema de Día Antiedad y Reafirmante  SPF20  50 ml](https://www.amazon.es/dp/B008XOXX1I/?tag=tolees-21) con un 61.19 % de descuento con precio de oferta de 16.3 EUR (original: 42.0 EUR) en el siguiente enlace!

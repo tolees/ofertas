@@ -10,8 +10,11 @@ author: ring
 slug: B075NFNBDQ
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Max The Curse Of Brotherhood
 ---
 
 Ahora mismo tienes [Max The Curse Of Brotherhood](https://www.amazon.es/dp/B075NFNBDQ/?tag=tolees-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!

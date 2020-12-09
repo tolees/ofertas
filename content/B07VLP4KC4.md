@@ -10,8 +10,11 @@ author: ring
 slug: B07VLP4KC4
 description:
 actualPrice: 41.49 EUR
+currency: EUR
+price: 41.49
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Scarlett Vaqueros Skinny  Gris  Grey Camino Os   29W / 31L para Mujer
 ---
 
 Tienes [Lee Scarlett Vaqueros Skinny  Gris  Grey Camino Os   29W / 31L para Mujer](https://www.amazon.es/dp/B07VLP4KC4/?tag=tolees-21) con un 58.49 % de descuento con precio de oferta de 41.49 EUR (original: 99.95 EUR) en el siguiente enlace!

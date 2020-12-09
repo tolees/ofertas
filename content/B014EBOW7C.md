@@ -10,8 +10,11 @@ author: ring
 slug: B014EBOW7C
 description:
 actualPrice: 40.19 EUR
+currency: EUR
+price: 40.19
 comparePrice: 65 EUR
 inStock: true
+prodname: Salomon Trail 20 Backpack  Unisex Adulto  Negro  Black/Bright Red   20 L
 ---
 
 Tienes [Salomon Trail 20 Backpack  Unisex Adulto  Negro  Black/Bright Red   20 L](https://www.amazon.es/dp/B014EBOW7C/?tag=tolees-21) con un 38.17 % de descuento con precio de oferta de 40.19 EUR (original: 65 EUR) en el siguiente enlace!

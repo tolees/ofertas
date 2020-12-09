@@ -10,8 +10,11 @@ author: ring
 slug: B086WZDX2Z
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 20.0 EUR
 inStock: true
+prodname: glo hyper Cigarrillo electrónico | Sin Nicotina Sin Tabaco - Azul
 ---
 
 Ahora mismo tienes [glo hyper Cigarrillo electrónico | Sin Nicotina Sin Tabaco - Azul](https://www.amazon.es/dp/B086WZDX2Z/?tag=tolees-21) a 4.99 EUR (original: 20.0 EUR) (75.05 %  de descuento) en el siguiente enlace!

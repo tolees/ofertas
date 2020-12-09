@@ -10,8 +10,11 @@ author: ring
 slug: B07JH2ZLJ9
 description:
 actualPrice: 18.93 EUR
+currency: EUR
+price: 18.93
 comparePrice: 34.95 EUR
 inStock: true
+prodname: PUMA Modern Sports Leggings G Leggins  Mädchen  Black  5  Tamaño del Fabricante: XXS 
 ---
 
 Está [PUMA Modern Sports Leggings G Leggins  Mädchen  Black  5  Tamaño del Fabricante: XXS ](https://www.amazon.es/dp/B07JH2ZLJ9/?tag=tolees-21) con 45.84 de descuento por 18.93 EUR (original: 34.95 EUR) en el siguiente enlace!

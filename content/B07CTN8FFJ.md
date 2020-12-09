@@ -10,8 +10,11 @@ author: ring
 slug: B07CTN8FFJ
 description:
 actualPrice: 26.21 EUR
+currency: EUR
+price: 26.21
 comparePrice: 35.24 EUR
 inStock: true
+prodname: Under Armour Tr96 Zapatillas Deportivas para Interior Hombre  Negro  Black/White/White  002  002   40 EU
 ---
 
 Ahora mismo tienes [Under Armour Tr96 Zapatillas Deportivas para Interior Hombre  Negro  Black/White/White  002  002   40 EU](https://www.amazon.es/dp/B07CTN8FFJ/?tag=tolees-21) a 26.21 EUR (original: 35.24 EUR) (25.62 %  de descuento) en el siguiente enlace!

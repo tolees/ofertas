@@ -10,8 +10,11 @@ author: ring
 slug: B07DK1XNWB
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Geox B Kilwi Boy C  Zapatillas para Bebés  Azul  Navy/White C4211   21 EU
 ---
 
 Tienes [Geox B Kilwi Boy C  Zapatillas para Bebés  Azul  Navy/White C4211   21 EU](https://www.amazon.es/dp/B07DK1XNWB/?tag=tolees-21) con un 60.02 % de descuento con precio de oferta de 19.95 EUR (original: 49.9 EUR) en el siguiente enlace!

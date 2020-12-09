@@ -10,8 +10,11 @@ author: ring
 slug: B084ZHXNW2
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 12.0 EUR
 inStock: true
+prodname: Educa- Aprender es Divertido: Crear Historias Juego Educativo para niños  a Partir de 5 años  18694 
 ---
 
 Está [Educa- Aprender es Divertido: Crear Historias Juego Educativo para niños  a Partir de 5 años  18694 ](https://www.amazon.es/dp/B084ZHXNW2/?tag=tolees-21) con 41.75 de descuento por 6.99 EUR (original: 12.0 EUR) en el siguiente enlace!

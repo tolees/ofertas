@@ -10,8 +10,11 @@ author: ring
 slug: B00DV51UAU
 description:
 actualPrice: 40.8 EUR
+currency: EUR
+price: 40.8
 comparePrice: 59.0 EUR
 inStock: true
+prodname: Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Total Navy C43  40 EU
 ---
 
 Está [Superga 2750 COTU Classic  Zapatillas Unisex Adulto  Total Navy C43  40 EU](https://www.amazon.es/dp/B00DV51UAU/?tag=tolees-21) con 30.85 de descuento por 40.8 EUR (original: 59.0 EUR) en el siguiente enlace!

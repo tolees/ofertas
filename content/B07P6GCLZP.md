@@ -10,8 +10,11 @@ author: ring
 slug: B07P6GCLZP
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 32.0 EUR
 inStock: true
+prodname: SuperZings - Serie 4 - Display de 8 Vehículos MegaJet  PSZ4D068IN01  con Figuras  Colección Completa
 ---
 
 Ahora mismo tienes [SuperZings - Serie 4 - Display de 8 Vehículos MegaJet  PSZ4D068IN01  con Figuras  Colección Completa](https://www.amazon.es/dp/B07P6GCLZP/?tag=tolees-21) a 21.99 EUR (original: 32.0 EUR) (31.28 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BFLSBR1
 description:
 actualPrice: 22.29 EUR
+currency: EUR
+price: 22.29
 comparePrice: 79.99 EUR
 inStock: true
+prodname: ESPRIT Landy Bootie  Botines para Mujer  Marrón  Camel 230   38 EU
 ---
 
 Ahora mismo tienes [ESPRIT Landy Bootie  Botines para Mujer  Marrón  Camel 230   38 EU](https://www.amazon.es/dp/B07BFLSBR1/?tag=tolees-21) a 22.29 EUR (original: 79.99 EUR) (72.13 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07H7LNZPL
 description:
 actualPrice: 14.44 EUR
+currency: EUR
+price: 14.44
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Atornillador Inalámbrico TACKLIFE SDP70DC  3 Nm Par Máx 3.6V Mini Taladro Eléctrico 2.0 AH Atornillador Bateria Biela de Carga USB  LED  32 Puntas  Para Montaje de Mueble y Encuadernación Mural
 ---
 
 Está [Atornillador Inalámbrico TACKLIFE SDP70DC  3 Nm Par Máx 3.6V Mini Taladro Eléctrico 2.0 AH Atornillador Bateria Biela de Carga USB  LED  32 Puntas  Para Montaje de Mueble y Encuadernación Mural](https://www.amazon.es/dp/B07H7LNZPL/?tag=tolees-21) con 51.85 de descuento por 14.44 EUR (original: 29.99 EUR) en el siguiente enlace!

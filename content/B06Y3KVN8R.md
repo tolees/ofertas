@@ -10,8 +10,11 @@ author: ring
 slug: B06Y3KVN8R
 description:
 actualPrice: 83.14 EUR
+currency: EUR
+price: 83.14
 comparePrice: 159 EUR
 inStock: true
+prodname: Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F6864/1
 ---
 
 Ahora mismo tienes [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F6864/1](https://www.amazon.es/dp/B06Y3KVN8R/?tag=tolees-21) a 83.14 EUR (original: 159 EUR) (47.71 %  de descuento) en el siguiente enlace!

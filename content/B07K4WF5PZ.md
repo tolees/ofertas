@@ -10,8 +10,11 @@ author: ring
 slug: B07K4WF5PZ
 description:
 actualPrice: 20.95 EUR
+currency: EUR
+price: 20.95
 comparePrice: 29.99 EUR
 inStock: true
+prodname: JACK & JONES Jorantwon Sweat Hood Capucha  Gris  Light Grey Melange Fit: Reg Originals   Small para Hombre
 ---
 
 Tienes [JACK & JONES Jorantwon Sweat Hood Capucha  Gris  Light Grey Melange Fit: Reg Originals   Small para Hombre](https://www.amazon.es/dp/B07K4WF5PZ/?tag=tolees-21) con un 30.14 % de descuento con precio de oferta de 20.95 EUR (original: 29.99 EUR) en el siguiente enlace!

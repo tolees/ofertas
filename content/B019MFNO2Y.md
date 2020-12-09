@@ -10,8 +10,11 @@ author: ring
 slug: B019MFNO2Y
 description:
 actualPrice: 31.39 EUR
+currency: EUR
+price: 31.39
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Rollei Actioncam Accesorios Set Outdoor | Set de 23 piezas | Ideal para escalada  senderismo y otras actividades al aire libre | Para Rollei Actioncams y GoPro
 ---
 
 Está [Rollei Actioncam Accesorios Set Outdoor | Set de 23 piezas | Ideal para escalada  senderismo y otras actividades al aire libre | Para Rollei Actioncams y GoPro](https://www.amazon.es/dp/B019MFNO2Y/?tag=tolees-21) con 30.23 de descuento por 31.39 EUR (original: 44.99 EUR) en el siguiente enlace!

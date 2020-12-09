@@ -10,8 +10,11 @@ author: ring
 slug: B086NFFQXQ
 description:
 actualPrice: 49.44 EUR
+currency: EUR
+price: 49.44
 comparePrice: 68.77 EUR
 inStock: true
+prodname: Mesa Consola Recibidor Taline en Madera y Metal Color Marrón Claro y Blanco
 ---
 
 Está [Mesa Consola Recibidor Taline en Madera y Metal Color Marrón Claro y Blanco](https://www.amazon.es/dp/B086NFFQXQ/?tag=tolees-21) con 28.11 de descuento por 49.44 EUR (original: 68.77 EUR) en el siguiente enlace!

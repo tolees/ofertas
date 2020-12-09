@@ -10,8 +10,11 @@ author: ring
 slug: B07SRSTKTD
 description:
 actualPrice: 10.87 EUR
+currency: EUR
+price: 10.87
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Luz Nocturna de LED  Amouhom Lámpara de Mesita de Noche  Luz del humor Luz de noche para niños Control Remoto  Control Tactil  Regulable  USB Recargable  Cambio de Colores  Corredor Habitación Cámping
 ---
 
 Está [Luz Nocturna de LED  Amouhom Lámpara de Mesita de Noche  Luz del humor Luz de noche para niños Control Remoto  Control Tactil  Regulable  USB Recargable  Cambio de Colores  Corredor Habitación Cámping](https://www.amazon.es/dp/B07SRSTKTD/?tag=tolees-21) con 45.62 de descuento por 10.87 EUR (original: 19.99 EUR) en el siguiente enlace!

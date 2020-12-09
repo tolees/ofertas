@@ -10,8 +10,11 @@ author: ring
 slug: B07CYSTBFS
 description:
 actualPrice: 159.99 EUR
+currency: EUR
+price: 159.99
 comparePrice: 284.99 EUR
 inStock: true
+prodname: Klarstein Brilliance Pro 43 • Microondas 1000 W • Función grill 1250 W • Convección 2150 W • 43 L de volumen • 9 programas • Panel táctil • 20 kg • Incluye accesorios • Acero inoxidable • Plateado
 ---
 
 Tienes [Klarstein Brilliance Pro 43 • Microondas 1000 W • Función grill 1250 W • Convección 2150 W • 43 L de volumen • 9 programas • Panel táctil • 20 kg • Incluye accesorios • Acero inoxidable • Plateado](https://www.amazon.es/dp/B07CYSTBFS/?tag=tolees-21) con un 43.86 % de descuento con precio de oferta de 159.99 EUR (original: 284.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07L9SP2GT
 description:
 actualPrice: 45.44 EUR
+currency: EUR
+price: 45.44
 comparePrice: 109.0 EUR
 inStock: true
+prodname: Lacoste Partner Retro 319 1 SMA  Zapatillas para Hombre  Verde  Dk Grn/Off Wht   42 EU
 ---
 
 Tienes [Lacoste Partner Retro 319 1 SMA  Zapatillas para Hombre  Verde  Dk Grn/Off Wht   42 EU](https://www.amazon.es/dp/B07L9SP2GT/?tag=tolees-21) con un 58.31 % de descuento con precio de oferta de 45.44 EUR (original: 109.0 EUR) en el siguiente enlace!

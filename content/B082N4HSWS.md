@@ -10,8 +10,11 @@ author: ring
 slug: B082N4HSWS
 description:
 actualPrice: 38.17 EUR
+currency: EUR
+price: 38.17
 comparePrice: 54.53 EUR
 inStock: true
+prodname: Skechers Delson 2.0-Planton  Zapatillas Hombre  Brn Black Leather  45.5 EU
 ---
 
 Está [Skechers Delson 2.0-Planton  Zapatillas Hombre  Brn Black Leather  45.5 EU](https://www.amazon.es/dp/B082N4HSWS/?tag=tolees-21) con 30.00 de descuento por 38.17 EUR (original: 54.53 EUR) en el siguiente enlace!

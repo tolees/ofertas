@@ -10,8 +10,11 @@ author: ring
 slug: B082FYDL8C
 description:
 actualPrice: 8.67 EUR
+currency: EUR
+price: 8.67
 comparePrice: 12.59 EUR
 inStock: true
+prodname: Wilson Calzoncillos para Hombre  Bóxers Value Cotton Range  Pack de 3   NEGRO/GRIS  M
 ---
 
 Tienes [Wilson Calzoncillos para Hombre  Bóxers Value Cotton Range  Pack de 3   NEGRO/GRIS  M](https://www.amazon.es/dp/B082FYDL8C/?tag=tolees-21) con un 31.14 % de descuento con precio de oferta de 8.67 EUR (original: 12.59 EUR) en el siguiente enlace!

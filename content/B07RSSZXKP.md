@@ -10,8 +10,11 @@ author: ring
 slug: B07RSSZXKP
 description:
 actualPrice: 85.0 EUR
+currency: EUR
+price: 85.0
 comparePrice: 160.37 EUR
 inStock: true
+prodname: Casio Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Resina GA-2000-2AER
 ---
 
 Tienes [Casio Reloj Analógico-Digital para Hombre de Cuarzo con Correa en Resina GA-2000-2AER](https://www.amazon.es/dp/B07RSSZXKP/?tag=tolees-21) con un 47.00 % de descuento con precio de oferta de 85.0 EUR (original: 160.37 EUR) en el siguiente enlace!

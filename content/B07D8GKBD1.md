@@ -10,8 +10,11 @@ author: ring
 slug: B07D8GKBD1
 description:
 actualPrice: 259 EUR
+currency: EUR
+price: 259
 comparePrice: 359 EUR
 inStock: true
+prodname: Medion Akoya E2221T - Ordenador portátil de 11.6" FHD  Intel Atom x5-Z8350  4 GB RAM  128 GB eMMC  Intel HD Graphics  Windows 10  Negro - Teclado QWERTY Español
 ---
 
 Ahora mismo tienes [Medion Akoya E2221T - Ordenador portátil de 11.6" FHD  Intel Atom x5-Z8350  4 GB RAM  128 GB eMMC  Intel HD Graphics  Windows 10  Negro - Teclado QWERTY Español](https://www.amazon.es/dp/B07D8GKBD1/?tag=tolees-21) a 259 EUR (original: 359 EUR) (27.86 %  de descuento) en el siguiente enlace!

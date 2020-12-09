@@ -10,8 +10,11 @@ author: ring
 slug: B077YZ5BHC
 description:
 actualPrice: 52.95 EUR
+currency: EUR
+price: 52.95
 comparePrice: 79.95 EUR
 inStock: true
+prodname: BOSS Athleisure Piro  Polo para Hombre  Azul  Navy 410   2XL
 ---
 
 Está [BOSS Athleisure Piro  Polo para Hombre  Azul  Navy 410   2XL](https://www.amazon.es/dp/B077YZ5BHC/?tag=tolees-21) con 33.77 de descuento por 52.95 EUR (original: 79.95 EUR) en el siguiente enlace!

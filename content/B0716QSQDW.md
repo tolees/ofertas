@@ -10,8 +10,11 @@ author: ring
 slug: B0716QSQDW
 description:
 actualPrice: 30.25 EUR
+currency: EUR
+price: 30.25
 comparePrice: 120 EUR
 inStock: true
+prodname: Under Armour UA W Blur  Zapatillas de Entrenamiento para Mujer  Negro  Black 001   38.5 EU
 ---
 
 Ahora mismo tienes [Under Armour UA W Blur  Zapatillas de Entrenamiento para Mujer  Negro  Black 001   38.5 EU](https://www.amazon.es/dp/B0716QSQDW/?tag=tolees-21) a 30.25 EUR (original: 120 EUR) (74.79 %  de descuento) en el siguiente enlace!

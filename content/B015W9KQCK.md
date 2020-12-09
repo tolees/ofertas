@@ -10,8 +10,11 @@ author: ring
 slug: B015W9KQCK
 description:
 actualPrice: 13.77 EUR
+currency: EUR
+price: 13.77
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Levi s N91005H  Camiseta para Niños  Blanco  White   8 años
 ---
 
 Está [Levi s N91005H  Camiseta para Niños  Blanco  White   8 años](https://www.amazon.es/dp/B015W9KQCK/?tag=tolees-21) con 30.98 de descuento por 13.77 EUR (original: 19.95 EUR) en el siguiente enlace!

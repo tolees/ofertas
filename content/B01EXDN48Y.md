@@ -10,8 +10,11 @@ author: ring
 slug: B01EXDN48Y
 description:
 actualPrice: 14.72 EUR
+currency: EUR
+price: 14.72
 comparePrice: 28.7 EUR
 inStock: true
+prodname: Schwarzkopf Igora ColorWorx Tinta  Tono Azul - 100 ml
 ---
 
 Está [Schwarzkopf Igora ColorWorx Tinta  Tono Azul - 100 ml](https://www.amazon.es/dp/B01EXDN48Y/?tag=tolees-21) con 48.71 de descuento por 14.72 EUR (original: 28.7 EUR) en el siguiente enlace!

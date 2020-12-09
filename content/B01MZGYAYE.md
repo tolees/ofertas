@@ -10,8 +10,11 @@ author: ring
 slug: B01MZGYAYE
 description:
 actualPrice: 13.11 EUR
+currency: EUR
+price: 13.11
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Calvin Klein Demi Unlined  Sujetador para Mujer  Beige  Bare 20n   70A  Talla del Fabricante: 0A32 
 ---
 
 Ahora mismo tienes [Calvin Klein Demi Unlined  Sujetador para Mujer  Beige  Bare 20n   70A  Talla del Fabricante: 0A32 ](https://www.amazon.es/dp/B01MZGYAYE/?tag=tolees-21) a 13.11 EUR (original: 34.95 EUR) (62.49 %  de descuento) en el siguiente enlace!

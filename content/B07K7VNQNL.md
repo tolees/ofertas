@@ -10,8 +10,11 @@ author: ring
 slug: B07K7VNQNL
 description:
 actualPrice: 25.95 EUR
+currency: EUR
+price: 25.95
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Reebok Royal Cljog 2  Zapatillas de Gimnasia para Mujer  color Multicolor  New Metallic/White/Silver 000   talla 38
 ---
 
 Tienes [Reebok Royal Cljog 2  Zapatillas de Gimnasia para Mujer  color Multicolor  New Metallic/White/Silver 000   talla 38](https://www.amazon.es/dp/B07K7VNQNL/?tag=tolees-21) con un 25.75 % de descuento con precio de oferta de 25.95 EUR (original: 34.95 EUR) en el siguiente enlace!

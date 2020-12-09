@@ -10,8 +10,11 @@ author: ring
 slug: B00DN9FD4I
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 17.99 EUR
 inStock: true
+prodname: ESI Relaxerbe Complemento Alimenticio - 30 Cápsulas
 ---
 
 Tienes [ESI Relaxerbe Complemento Alimenticio - 30 Cápsulas](https://www.amazon.es/dp/B00DN9FD4I/?tag=tolees-21) con un 38.91 % de descuento con precio de oferta de 10.99 EUR (original: 17.99 EUR) en el siguiente enlace!

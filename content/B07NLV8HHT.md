@@ -10,8 +10,11 @@ author: ring
 slug: B07NLV8HHT
 description:
 actualPrice: 37.99 EUR
+currency: EUR
+price: 37.99
 comparePrice: 55.0 EUR
 inStock: true
+prodname: Nike Revolution 5  Zapatillas de Atletismo Hombre  Multicolor Black Anthracite 001  42 EU
 ---
 
 Ahora mismo tienes [Nike Revolution 5  Zapatillas de Atletismo Hombre  Multicolor Black Anthracite 001  42 EU](https://www.amazon.es/dp/B07NLV8HHT/?tag=tolees-21) a 37.99 EUR (original: 55.0 EUR) (30.93 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07H14HLRF
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 41.99 EUR
 inStock: true
+prodname: Taurus Tropicano 5C Termoventilador cerámico  calefactor  2 velocidades de calor  función ventilador  750/1500W  compacto  asa de transporte  termostato  sensor anticaída  Multicolor
 ---
 
 Está [Taurus Tropicano 5C Termoventilador cerámico  calefactor  2 velocidades de calor  función ventilador  750/1500W  compacto  asa de transporte  termostato  sensor anticaída  Multicolor](https://www.amazon.es/dp/B07H14HLRF/?tag=tolees-21) con 40.70 de descuento por 24.9 EUR (original: 41.99 EUR) en el siguiente enlace!

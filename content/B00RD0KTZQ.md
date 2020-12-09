@@ -10,8 +10,11 @@ author: ring
 slug: B00RD0KTZQ
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 22.0 EUR
 inStock: true
+prodname: Spear & Jackson - Pulverizador a presión con bomba 5L
 ---
 
 Ahora mismo tienes [Spear & Jackson - Pulverizador a presión con bomba 5L](https://www.amazon.es/dp/B00RD0KTZQ/?tag=tolees-21) a 14.9 EUR (original: 22.0 EUR) (32.27 %  de descuento) en el siguiente enlace!

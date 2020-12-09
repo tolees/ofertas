@@ -10,8 +10,11 @@ author: ring
 slug: B01MS3FRFP
 description:
 actualPrice: 34.44 EUR
+currency: EUR
+price: 34.44
 comparePrice: 49.95 EUR
 inStock: true
+prodname: adidas Vs Set  Zapatillas de Deporte para Hombre  Azul  Collegiate Navy FTWR White   47 1/3 EU
 ---
 
 Ahora mismo tienes [adidas Vs Set  Zapatillas de Deporte para Hombre  Azul  Collegiate Navy FTWR White   47 1/3 EU](https://www.amazon.es/dp/B01MS3FRFP/?tag=tolees-21) a 34.44 EUR (original: 49.95 EUR) (31.05 %  de descuento) en el siguiente enlace!

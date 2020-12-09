@@ -10,8 +10,11 @@ author: ring
 slug: B07MBDVVJC
 description:
 actualPrice: 10.89 EUR
+currency: EUR
+price: 10.89
 comparePrice: 15.56 EUR
 inStock: true
+prodname: Janolia Caja para Armario  Bolsa Plegables para Ropa  Bolsa Organizadora con Tela Ecológica de Bambú No Tejida  Transpirable Antibacteriano  Anti Ácaros y Moho
 ---
 
 Tienes [Janolia Caja para Armario  Bolsa Plegables para Ropa  Bolsa Organizadora con Tela Ecológica de Bambú No Tejida  Transpirable Antibacteriano  Anti Ácaros y Moho](https://www.amazon.es/dp/B07MBDVVJC/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 10.89 EUR (original: 15.56 EUR) en el siguiente enlace!

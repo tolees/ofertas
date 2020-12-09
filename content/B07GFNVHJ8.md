@@ -10,8 +10,11 @@ author: ring
 slug: B07GFNVHJ8
 description:
 actualPrice: 70.7 EUR
+currency: EUR
+price: 70.7
 comparePrice: 129 EUR
 inStock: true
+prodname: Pioneer Altavoces Coaxiales TS-A6990F 5 vías  6X9  120W RMS  Negro
 ---
 
 Ahora mismo tienes [Pioneer Altavoces Coaxiales TS-A6990F 5 vías  6X9  120W RMS  Negro](https://www.amazon.es/dp/B07GFNVHJ8/?tag=tolees-21) a 70.7 EUR (original: 129 EUR) (45.19 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00JE5OKQM
 description:
 actualPrice: 4.97 EUR
+currency: EUR
+price: 4.97
 comparePrice: 36.7 EUR
 inStock: true
+prodname: Sony MicroVault X 3.0 - Memoria USB de 32 GB  Azul
 ---
 
 Ahora mismo tienes [Sony MicroVault X 3.0 - Memoria USB de 32 GB  Azul](https://www.amazon.es/dp/B00JE5OKQM/?tag=tolees-21) a 4.97 EUR (original: 36.7 EUR) (86.46 %  de descuento) en el siguiente enlace!

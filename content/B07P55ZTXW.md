@@ -10,8 +10,11 @@ author: ring
 slug: B07P55ZTXW
 description:
 actualPrice: 0.01 EUR
+currency: EUR
+price: 0.01
 comparePrice: 22.84 EUR
 inStock: true
+prodname: DoreenBow - Juego de 3 herramientas de extracción de destornilladores con mango de máquina de juego  herramienta de desmontaje de consola de juego Xbox 360 T6 T8
 ---
 
 Tienes [DoreenBow - Juego de 3 herramientas de extracción de destornilladores con mango de máquina de juego  herramienta de desmontaje de consola de juego Xbox 360 T6 T8](https://www.amazon.es/dp/B07P55ZTXW/?tag=tolees-21) con un 99.96 % de descuento con precio de oferta de 0.01 EUR (original: 22.84 EUR) en el siguiente enlace!

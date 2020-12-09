@@ -10,8 +10,11 @@ author: ring
 slug: B0785SWTBM
 description:
 actualPrice: 18.57 EUR
+currency: EUR
+price: 18.57
 comparePrice: 30.95 EUR
 inStock: true
+prodname: HIKARO Pantalón Deportivo Estilo Jogger Hombre  Rojo  Burgundy   48  Talla del fabricante: Small 
 ---
 
 Ahora mismo tienes [HIKARO Pantalón Deportivo Estilo Jogger Hombre  Rojo  Burgundy   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B0785SWTBM/?tag=tolees-21) a 18.57 EUR (original: 30.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

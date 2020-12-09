@@ -10,8 +10,11 @@ author: ring
 slug: B07DWF5YTK
 description:
 actualPrice: 16.47 EUR
+currency: EUR
+price: 16.47
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Jurassic World 2 El Reino Caido  BD 3D + BD + Dvd Extras  - Edición Metálica [Blu-ray]
 ---
 
 Está [Jurassic World 2 El Reino Caido  BD 3D + BD + Dvd Extras  - Edición Metálica [Blu-ray]](https://www.amazon.es/dp/B07DWF5YTK/?tag=tolees-21) con 45.01 de descuento por 16.47 EUR (original: 29.95 EUR) en el siguiente enlace!

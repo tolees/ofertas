@@ -10,8 +10,11 @@ author: ring
 slug: B07DJR4H1F
 description:
 actualPrice: 15.16 EUR
+currency: EUR
+price: 15.16
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Only Onlnew Skylar Fur Parka CC Otw  Chaqueta para Mujer  Rosa Misty Rose  38  Talla del Fabricante: Small 
 ---
 
 Ahora mismo tienes [Only Onlnew Skylar Fur Parka CC Otw  Chaqueta para Mujer  Rosa Misty Rose  38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07DJR4H1F/?tag=tolees-21) a 15.16 EUR (original: 49.99 EUR) (69.67 %  de descuento) en el siguiente enlace!

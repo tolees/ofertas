@@ -10,8 +10,11 @@ author: ring
 slug: B078XQ9CBG
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Bovon - Soporte Móvil Multiángulo  Ajustable para iPad Mini  Base de Teléfono e Smartphones  E-reader  libros electrónicos  4-7.9 pulgadas  Gris
 ---
 
 Tienes [Bovon - Soporte Móvil Multiángulo  Ajustable para iPad Mini  Base de Teléfono e Smartphones  E-reader  libros electrónicos  4-7.9 pulgadas  Gris](https://www.amazon.es/dp/B078XQ9CBG/?tag=tolees-21) con un 41.20 % de descuento con precio de oferta de 9.99 EUR (original: 16.99 EUR) en el siguiente enlace!

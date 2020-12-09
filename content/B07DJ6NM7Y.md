@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ6NM7Y
 description:
 actualPrice: 32.6 EUR
+currency: EUR
+price: 32.6
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Geox Strada H  Sandalias con Punta Abierta para Hombre  Marrón  Coffee/Orange C0607   46 EU
 ---
 
 Está [Geox Strada H  Sandalias con Punta Abierta para Hombre  Marrón  Coffee/Orange C0607   46 EU](https://www.amazon.es/dp/B07DJ6NM7Y/?tag=tolees-21) con 53.36 de descuento por 32.6 EUR (original: 69.9 EUR) en el siguiente enlace!

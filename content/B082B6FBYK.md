@@ -10,8 +10,11 @@ author: ring
 slug: B082B6FBYK
 description:
 actualPrice: 19.19 EUR
+currency: EUR
+price: 19.19
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Brazo de Monitor Individual HUANUO  Base de Monitor de Altura Ajustable para Pantallas LCD LED de 13"- 32"  2 Opciones de Montaje  Dimensiones VESA 75/100  Capacidad de Peso de hasta 10 kg
 ---
 
 Está [Brazo de Monitor Individual HUANUO  Base de Monitor de Altura Ajustable para Pantallas LCD LED de 13"- 32"  2 Opciones de Montaje  Dimensiones VESA 75/100  Capacidad de Peso de hasta 10 kg](https://www.amazon.es/dp/B082B6FBYK/?tag=tolees-21) con 26.16 de descuento por 19.19 EUR (original: 25.99 EUR) en el siguiente enlace!

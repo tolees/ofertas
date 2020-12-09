@@ -10,8 +10,11 @@ author: ring
 slug: B07CRGLJSM
 description:
 actualPrice: 26.27 EUR
+currency: EUR
+price: 26.27
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Puma Uprise Mesh  Zapatillas Unisex Adults’o  Gris  Gray Violet White   37.5 EU
 ---
 
 Tienes [Puma Uprise Mesh  Zapatillas Unisex Adults’o  Gris  Gray Violet White   37.5 EU](https://www.amazon.es/dp/B07CRGLJSM/?tag=tolees-21) con un 70.79 % de descuento con precio de oferta de 26.27 EUR (original: 89.95 EUR) en el siguiente enlace!

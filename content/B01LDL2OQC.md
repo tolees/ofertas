@@ -10,8 +10,11 @@ author: ring
 slug: B01LDL2OQC
 description:
 actualPrice: 25.2 EUR
+currency: EUR
+price: 25.2
 comparePrice: 40 EUR
 inStock: true
+prodname: Sony MDRAS410APW.CE7 - Auriculares Deportivos in-Ear  Resistente a Salpicaduras  Agarre al oído  Manos Libres Compatible con Apple iPhone y Android  Incluye Funda   Color Blanco
 ---
 
 Tienes [Sony MDRAS410APW.CE7 - Auriculares Deportivos in-Ear  Resistente a Salpicaduras  Agarre al oído  Manos Libres Compatible con Apple iPhone y Android  Incluye Funda   Color Blanco](https://www.amazon.es/dp/B01LDL2OQC/?tag=tolees-21) con un 37.00 % de descuento con precio de oferta de 25.2 EUR (original: 40 EUR) en el siguiente enlace!

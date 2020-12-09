@@ -10,8 +10,11 @@ author: ring
 slug: B07BH77PWC
 description:
 actualPrice: 8.48 EUR
+currency: EUR
+price: 8.48
 comparePrice: 16.95 EUR
 inStock: true
+prodname: Mr. Wonderful MRW15 - Planificador
 ---
 
 Tienes [Mr. Wonderful MRW15 - Planificador](https://www.amazon.es/dp/B07BH77PWC/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 8.48 EUR (original: 16.95 EUR) en el siguiente enlace!

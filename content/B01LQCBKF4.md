@@ -10,8 +10,11 @@ author: ring
 slug: B01LQCBKF4
 description:
 actualPrice: 14.45 EUR
+currency: EUR
+price: 14.45
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Buff Original  113264.555.10.00 Tubular de Microfibra y Forro Polar  Ninos  Multicolor  outdoor   Talla Única
 ---
 
 Está [Buff Original  113264.555.10.00 Tubular de Microfibra y Forro Polar  Ninos  Multicolor  outdoor   Talla Única](https://www.amazon.es/dp/B01LQCBKF4/?tag=tolees-21) con 42.08 de descuento por 14.45 EUR (original: 24.95 EUR) en el siguiente enlace!

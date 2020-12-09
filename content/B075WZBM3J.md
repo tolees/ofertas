@@ -10,8 +10,11 @@ author: ring
 slug: B075WZBM3J
 description:
 actualPrice: 65.92 EUR
+currency: EUR
+price: 65.92
 comparePrice: 197 EUR
 inStock: true
+prodname: Carrera 4005/S 7F 807 65  Gafas de Sol para Hombre  Negro  Black/Rd Red 
 ---
 
 Tienes [Carrera 4005/S 7F 807 65  Gafas de Sol para Hombre  Negro  Black/Rd Red ](https://www.amazon.es/dp/B075WZBM3J/?tag=tolees-21) con un 66.54 % de descuento con precio de oferta de 65.92 EUR (original: 197 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07D8TH7XP
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Alloyseed Compresor de Aire Portátil Digital Bomba de Aire Eléctrica Auto Pantalla con Digital Inflado de Neumático 12 V 150 PSI de neumáticos de Bomba para con 7 Grandes LED Luz de la Pantalla
 ---
 
 Está [Alloyseed Compresor de Aire Portátil Digital Bomba de Aire Eléctrica Auto Pantalla con Digital Inflado de Neumático 12 V 150 PSI de neumáticos de Bomba para con 7 Grandes LED Luz de la Pantalla](https://www.amazon.es/dp/B07D8TH7XP/?tag=tolees-21) con 67.01 de descuento por 32.99 EUR (original: 99.99 EUR) en el siguiente enlace!

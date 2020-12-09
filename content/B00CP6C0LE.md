@@ -10,8 +10,11 @@ author: ring
 slug: B00CP6C0LE
 description:
 actualPrice: 78.73 EUR
+currency: EUR
+price: 78.73
 comparePrice: 109.37 EUR
 inStock: true
+prodname: Grohe StartEdge - Grifo de baño visto Ref. 23348000
 ---
 
 Está [Grohe StartEdge - Grifo de baño visto Ref. 23348000](https://www.amazon.es/dp/B00CP6C0LE/?tag=tolees-21) con 28.01 de descuento por 78.73 EUR (original: 109.37 EUR) en el siguiente enlace!

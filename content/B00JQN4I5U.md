@@ -10,8 +10,11 @@ author: ring
 slug: B00JQN4I5U
 description:
 actualPrice: 3.99 EUR
+currency: EUR
+price: 3.99
 comparePrice: 7.99 EUR
 inStock: true
+prodname: La pasión turca [DVD]
 ---
 
 Ahora mismo tienes [La pasión turca [DVD]](https://www.amazon.es/dp/B00JQN4I5U/?tag=tolees-21) a 3.99 EUR (original: 7.99 EUR) (50.06 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B071HPJTSB
 description:
 actualPrice: 18.68 EUR
+currency: EUR
+price: 18.68
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Azul  Navy Blazer 416   Large para Hombre
 ---
 
 Está [Tommy Hilfiger Core Stretch Slim Vneck tee Camiseta  Azul  Navy Blazer 416   Large para Hombre](https://www.amazon.es/dp/B071HPJTSB/?tag=tolees-21) con 53.18 de descuento por 18.68 EUR (original: 39.9 EUR) en el siguiente enlace!

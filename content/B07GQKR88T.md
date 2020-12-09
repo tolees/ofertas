@@ -10,8 +10,11 @@ author: ring
 slug: B07GQKR88T
 description:
 actualPrice: 29.0 EUR
+currency: EUR
+price: 29.0
 comparePrice: 79.0 EUR
 inStock: true
+prodname: Bosch TAS1003 TASSIMO Happy Cafetera de cápsulas  1400 W  color rojo y negro
 ---
 
 Está [Bosch TAS1003 TASSIMO Happy Cafetera de cápsulas  1400 W  color rojo y negro](https://www.amazon.es/dp/B07GQKR88T/?tag=tolees-21) con 63.29 de descuento por 29.0 EUR (original: 79.0 EUR) en el siguiente enlace!

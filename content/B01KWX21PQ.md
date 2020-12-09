@@ -10,8 +10,11 @@ author: ring
 slug: B01KWX21PQ
 description:
 actualPrice: 4.04 EUR
+currency: EUR
+price: 4.04
 comparePrice: 8.5 EUR
 inStock: true
+prodname: Philips Avent Classic - Chupete para 0-6 meses  surtido: modelos/colores aleatorios
 ---
 
 Está [Philips Avent Classic - Chupete para 0-6 meses  surtido: modelos/colores aleatorios](https://www.amazon.es/dp/B01KWX21PQ/?tag=tolees-21) con 52.47 de descuento por 4.04 EUR (original: 8.5 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07P9FGSBM
 description:
 actualPrice: 12 EUR
+currency: EUR
+price: 12
 comparePrice: 32.66 EUR
 inStock: true
+prodname: New Look Snake Print Vestido Gris  Grey Pattern 8  44  Talla del Fabricante: 16  para Mujer
 ---
 
 Está [New Look Snake Print Vestido Gris  Grey Pattern 8  44  Talla del Fabricante: 16  para Mujer](https://www.amazon.es/dp/B07P9FGSBM/?tag=tolees-21) con 63.26 de descuento por 12 EUR (original: 32.66 EUR) en el siguiente enlace!

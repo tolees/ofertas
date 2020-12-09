@@ -10,8 +10,11 @@ author: ring
 slug: B07RXJDF6N
 description:
 actualPrice: 46.95 EUR
+currency: EUR
+price: 46.95
 comparePrice: 80.0 EUR
 inStock: true
+prodname: New Balance 373v2  Zapatillas Mujer  Gris  Grey/White Gc2   37 EU
 ---
 
 Ahora mismo tienes [New Balance 373v2  Zapatillas Mujer  Gris  Grey/White Gc2   37 EU](https://www.amazon.es/dp/B07RXJDF6N/?tag=tolees-21) a 46.95 EUR (original: 80.0 EUR) (41.31 %  de descuento) en el siguiente enlace!

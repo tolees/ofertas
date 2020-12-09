@@ -10,8 +10,11 @@ author: ring
 slug: B06XJLNRLP
 description:
 actualPrice: 49.93 EUR
+currency: EUR
+price: 49.93
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Braun FaceSpa 851 - Sistema 3 en 1 de depiladora facial  cepillo limpiador facial extrasuave y masaje facial  blanco
 ---
 
 Está [Braun FaceSpa 851 - Sistema 3 en 1 de depiladora facial  cepillo limpiador facial extrasuave y masaje facial  blanco](https://www.amazon.es/dp/B06XJLNRLP/?tag=tolees-21) con 50.07 de descuento por 49.93 EUR (original: 99.99 EUR) en el siguiente enlace!

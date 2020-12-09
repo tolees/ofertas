@@ -10,8 +10,11 @@ author: ring
 slug: B005TFU8CG
 description:
 actualPrice: 86.32 EUR
+currency: EUR
+price: 86.32
 comparePrice: 129.21 EUR
 inStock: true
+prodname: Tiffen 72VND Filtro de Lente de cámara 7 2 cm Variable Density Camera Filter - Filtro para cámara  7 2 cm  Variable Density Camera Filter  1 Pieza s  
 ---
 
 Tienes [Tiffen 72VND Filtro de Lente de cámara 7 2 cm Variable Density Camera Filter - Filtro para cámara  7 2 cm  Variable Density Camera Filter  1 Pieza s  ](https://www.amazon.es/dp/B005TFU8CG/?tag=tolees-21) con un 33.19 % de descuento con precio de oferta de 86.32 EUR (original: 129.21 EUR) en el siguiente enlace!

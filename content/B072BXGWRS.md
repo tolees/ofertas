@@ -10,8 +10,11 @@ author: ring
 slug: B072BXGWRS
 description:
 actualPrice: 12.0 EUR
+currency: EUR
+price: 12.0
 comparePrice: 24.0 EUR
 inStock: true
+prodname: Under Armour Woven Graphic Wordmark Shorts Pantalones de hombre  pantalón corto ultraligero y transpirable  cómodo y ancho pantalón de deporte  Royal/Steel  400   XXL
 ---
 
 Tienes [Under Armour Woven Graphic Wordmark Shorts Pantalones de hombre  pantalón corto ultraligero y transpirable  cómodo y ancho pantalón de deporte  Royal/Steel  400   XXL](https://www.amazon.es/dp/B072BXGWRS/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 12.0 EUR (original: 24.0 EUR) en el siguiente enlace!

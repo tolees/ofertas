@@ -10,8 +10,11 @@ author: ring
 slug: B07RVM1RCF
 description:
 actualPrice: 10.65 EUR
+currency: EUR
+price: 10.65
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Funko Pop Disney: Kingdom Hearts 3-Kairi w/Hood Figura Coleccionable  Multicolor  39940 
 ---
 
 Tienes [Funko Pop Disney: Kingdom Hearts 3-Kairi w/Hood Figura Coleccionable  Multicolor  39940 ](https://www.amazon.es/dp/B07RVM1RCF/?tag=tolees-21) con un 33.23 % de descuento con precio de oferta de 10.65 EUR (original: 15.95 EUR) en el siguiente enlace!

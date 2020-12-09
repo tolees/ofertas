@@ -10,8 +10,11 @@ author: ring
 slug: B07DLV4GV8
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Springfield 1.T.Ap.Texto Bordado Flores Print Camiseta  Mujer  Azul  Azul Marino 10   Medium  Tamaño del Fabricante:M 
 ---
 
 Ahora mismo tienes [Springfield 1.T.Ap.Texto Bordado Flores Print Camiseta  Mujer  Azul  Azul Marino 10   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLV4GV8/?tag=tolees-21) a 5.99 EUR (original: 12.99 EUR) (53.89 %  de descuento) en el siguiente enlace!

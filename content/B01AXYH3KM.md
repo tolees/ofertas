@@ -10,8 +10,11 @@ author: ring
 slug: B01AXYH3KM
 description:
 actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
 comparePrice: 16.8 EUR
 inStock: true
+prodname: Joma 100005.550 - Camiseta de equipación de Manga Larga para Mujer  Color Morado  Talla S
 ---
 
 Tienes [Joma 100005.550 - Camiseta de equipación de Manga Larga para Mujer  Color Morado  Talla S](https://www.amazon.es/dp/B01AXYH3KM/?tag=tolees-21) con un 52.68 % de descuento con precio de oferta de 7.95 EUR (original: 16.8 EUR) en el siguiente enlace!

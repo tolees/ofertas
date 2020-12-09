@@ -10,8 +10,11 @@ author: ring
 slug: B08FJQ6CMD
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Ancestors Legacy - Day One Edition
 ---
 
 Ahora mismo tienes [Ancestors Legacy - Day One Edition](https://www.amazon.es/dp/B08FJQ6CMD/?tag=tolees-21) a 29.9 EUR (original: 39.99 EUR) (25.23 %  de descuento) en el siguiente enlace!

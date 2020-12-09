@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ1HY2D
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Springfield 4.T.F.Blusa Topo Nudo Blusa  Mujer  Azul  Gama Azules 19   38  Tamaño del Fabricante:38 
 ---
 
 Ahora mismo tienes [Springfield 4.T.F.Blusa Topo Nudo Blusa  Mujer  Azul  Gama Azules 19   38  Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07KZ1HY2D/?tag=tolees-21) a 9.99 EUR (original: 22.99 EUR) (56.55 %  de descuento) en el siguiente enlace!

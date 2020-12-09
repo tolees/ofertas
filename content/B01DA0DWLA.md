@@ -10,8 +10,11 @@ author: ring
 slug: B01DA0DWLA
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Tsing Auriculares Cascos Gaming de Diadema Abiertos Estéreo con Micrófono para PC Computadoras  Negro+Azul 
 ---
 
 Está [Tsing Auriculares Cascos Gaming de Diadema Abiertos Estéreo con Micrófono para PC Computadoras  Negro+Azul ](https://www.amazon.es/dp/B01DA0DWLA/?tag=tolees-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

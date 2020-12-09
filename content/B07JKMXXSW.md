@@ -10,8 +10,11 @@ author: ring
 slug: B07JKMXXSW
 description:
 actualPrice: 12.49 EUR
+currency: EUR
+price: 12.49
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Ellis Harper Masajeador Eléctrico de Mano Inalámbrico Recargable Magic Wand Massager | Función de Memoria | Varita de Masaje Corporal Vibratorio Silencioso y Potente Para Aliviar el Estrés Personal
 ---
 
 Está [Ellis Harper Masajeador Eléctrico de Mano Inalámbrico Recargable Magic Wand Massager | Función de Memoria | Varita de Masaje Corporal Vibratorio Silencioso y Potente Para Aliviar el Estrés Personal](https://www.amazon.es/dp/B07JKMXXSW/?tag=tolees-21) con 50.02 de descuento por 12.49 EUR (original: 24.99 EUR) en el siguiente enlace!

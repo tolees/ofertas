@@ -10,8 +10,11 @@ author: ring
 slug: B07DHTHB7G
 description:
 actualPrice: 10.25 EUR
+currency: EUR
+price: 10.25
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Quiksilver Under Water Camiseta  Niños  Azul  Tapestry BPH0    Tamaño del Fabricante:M/12 
 ---
 
 Está [Quiksilver Under Water Camiseta  Niños  Azul  Tapestry BPH0    Tamaño del Fabricante:M/12 ](https://www.amazon.es/dp/B07DHTHB7G/?tag=tolees-21) con 60.56 de descuento por 10.25 EUR (original: 25.99 EUR) en el siguiente enlace!

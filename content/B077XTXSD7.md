@@ -10,8 +10,11 @@ author: ring
 slug: B077XTXSD7
 description:
 actualPrice: 11.85 EUR
+currency: EUR
+price: 11.85
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Under Armour Rival Full Zip Parte Superior del Calentamiento  Niñas  Negro  Black/Silver 001   M
 ---
 
 Está [Under Armour Rival Full Zip Parte Superior del Calentamiento  Niñas  Negro  Black/Silver 001   M](https://www.amazon.es/dp/B077XTXSD7/?tag=tolees-21) con 73.66 de descuento por 11.85 EUR (original: 44.99 EUR) en el siguiente enlace!

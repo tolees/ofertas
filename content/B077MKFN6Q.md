@@ -10,8 +10,11 @@ author: ring
 slug: B077MKFN6Q
 description:
 actualPrice: 8.86 EUR
+currency: EUR
+price: 8.86
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Only Onlecco Short Emb. Utility Jacket Otw  Chaqueta Mujer  Verde  Gothic Olive Gothic Olive   40  Talla del Fabricante: Medium 
 ---
 
 Está [Only Onlecco Short Emb. Utility Jacket Otw  Chaqueta Mujer  Verde  Gothic Olive Gothic Olive   40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B077MKFN6Q/?tag=tolees-21) con 82.28 de descuento por 8.86 EUR (original: 49.99 EUR) en el siguiente enlace!

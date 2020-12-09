@@ -10,8 +10,11 @@ author: ring
 slug: B07FYJWDWT
 description:
 actualPrice: 18.87 EUR
+currency: EUR
+price: 18.87
 comparePrice: 37.14 EUR
 inStock: true
+prodname: THE PROTEIN WORKS Vegan Mass Gainer | 100% a Base de Plantas | Alto en Calorías Para el Aumento de Masa | Chocolate Suave | 2kg
 ---
 
 Tienes [THE PROTEIN WORKS Vegan Mass Gainer | 100% a Base de Plantas | Alto en Calorías Para el Aumento de Masa | Chocolate Suave | 2kg](https://www.amazon.es/dp/B07FYJWDWT/?tag=tolees-21) con un 49.19 % de descuento con precio de oferta de 18.87 EUR (original: 37.14 EUR) en el siguiente enlace!

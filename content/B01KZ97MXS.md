@@ -10,8 +10,11 @@ author: ring
 slug: B01KZ97MXS
 description:
 actualPrice: 53.69 EUR
+currency: EUR
+price: 53.69
 comparePrice: 90.0 EUR
 inStock: true
+prodname: Onitsuka Tiger Mexico 66 Dl408-0490  Zapatillas Unisex Adulto  Amarillo Yellow Black 0490  36 EU
 ---
 
 Tienes [Onitsuka Tiger Mexico 66 Dl408-0490  Zapatillas Unisex Adulto  Amarillo Yellow Black 0490  36 EU](https://www.amazon.es/dp/B01KZ97MXS/?tag=tolees-21) con un 40.34 % de descuento con precio de oferta de 53.69 EUR (original: 90.0 EUR) en el siguiente enlace!

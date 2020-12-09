@@ -10,8 +10,11 @@ author: ring
 slug: B07MPR9VN8
 description:
 actualPrice: 17.65 EUR
+currency: EUR
+price: 17.65
 comparePrice: 24.1 EUR
 inStock: true
+prodname: Jagermeister Jagermeister Licor 35º - 1000 ml
 ---
 
 Está [Jagermeister Jagermeister Licor 35º - 1000 ml](https://www.amazon.es/dp/B07MPR9VN8/?tag=tolees-21) con 26.76 de descuento por 17.65 EUR (original: 24.1 EUR) en el siguiente enlace!

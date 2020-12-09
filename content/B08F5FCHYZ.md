@@ -10,8 +10,11 @@ author: ring
 slug: B08F5FCHYZ
 description:
 actualPrice: 2.14 EUR
+currency: EUR
+price: 2.14
 comparePrice: 3.22 EUR
 inStock: true
+prodname: Dengc Taza de cápsula de café Adecuada para DOLCEGUSTO Taza de Filtro marrón 2 Piezas con Cuchara en Caja Blanca
 ---
 
 Ahora mismo tienes [Dengc Taza de cápsula de café Adecuada para DOLCEGUSTO Taza de Filtro marrón 2 Piezas con Cuchara en Caja Blanca](https://www.amazon.es/dp/B08F5FCHYZ/?tag=tolees-21) a 2.14 EUR (original: 3.22 EUR) (33.54 %  de descuento) en el siguiente enlace!

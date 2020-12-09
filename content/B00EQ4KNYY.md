@@ -10,8 +10,11 @@ author: ring
 slug: B00EQ4KNYY
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 7.99 EUR
 inStock: true
+prodname: Puma Sport 3P  Calcetines de Deporte Para Hombre  Pack de 3  Multicolor  Multicolore   43-46
 ---
 
 Está [Puma Sport 3P  Calcetines de Deporte Para Hombre  Pack de 3  Multicolor  Multicolore   43-46](https://www.amazon.es/dp/B00EQ4KNYY/?tag=tolees-21) con 37.55 de descuento por 4.99 EUR (original: 7.99 EUR) en el siguiente enlace!

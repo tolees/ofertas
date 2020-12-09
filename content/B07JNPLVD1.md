@@ -10,8 +10,11 @@ author: ring
 slug: B07JNPLVD1
 description:
 actualPrice: 8.98 EUR
+currency: EUR
+price: 8.98
 comparePrice: 14.98 EUR
 inStock: true
+prodname: BoxLegend Bolsa de lavandería de Malla  Paquete de 6 Bolsas de Lavado con Cremallera para Lavadora  5 tamaños Bolsas de Lavado de Red Reutilizable con Cremallera
 ---
 
 Está [BoxLegend Bolsa de lavandería de Malla  Paquete de 6 Bolsas de Lavado con Cremallera para Lavadora  5 tamaños Bolsas de Lavado de Red Reutilizable con Cremallera](https://www.amazon.es/dp/B07JNPLVD1/?tag=tolees-21) con 40.05 de descuento por 8.98 EUR (original: 14.98 EUR) en el siguiente enlace!

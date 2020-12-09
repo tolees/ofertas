@@ -10,8 +10,11 @@ author: ring
 slug: B07GSBKVWD
 description:
 actualPrice: 103.49 EUR
+currency: EUR
+price: 103.49
 comparePrice: 139.0 EUR
 inStock: true
+prodname: Vibram Fivefingers 19M7601 V 2.0  Zapatillas de Trail Running Hombre  Negro Y Amarillo  38 EU
 ---
 
 Está [Vibram Fivefingers 19M7601 V 2.0  Zapatillas de Trail Running Hombre  Negro Y Amarillo  38 EU](https://www.amazon.es/dp/B07GSBKVWD/?tag=tolees-21) con 25.55 de descuento por 103.49 EUR (original: 139.0 EUR) en el siguiente enlace!

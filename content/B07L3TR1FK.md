@@ -10,8 +10,11 @@ author: ring
 slug: B07L3TR1FK
 description:
 actualPrice: 7.65 EUR
+currency: EUR
+price: 7.65
 comparePrice: 13.95 EUR
 inStock: true
+prodname: Educa Borras - Serie World Heritage  Puzzle 1.000 piezas  Catedral de San Basilio  Moscú  17998 
 ---
 
 Tienes [Educa Borras - Serie World Heritage  Puzzle 1.000 piezas  Catedral de San Basilio  Moscú  17998 ](https://www.amazon.es/dp/B07L3TR1FK/?tag=tolees-21) con un 45.16 % de descuento con precio de oferta de 7.65 EUR (original: 13.95 EUR) en el siguiente enlace!

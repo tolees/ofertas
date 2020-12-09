@@ -10,8 +10,11 @@ author: ring
 slug: B078W3DLRM
 description:
 actualPrice: 15.92 EUR
+currency: EUR
+price: 15.92
 comparePrice: 65 EUR
 inStock: true
+prodname: Vans Chauffeur SF  Zapatillas Unisex Adulto  Azul  Dress Blues/Gum Fs1   36.5 EU
 ---
 
 Está [Vans Chauffeur SF  Zapatillas Unisex Adulto  Azul  Dress Blues/Gum Fs1   36.5 EU](https://www.amazon.es/dp/B078W3DLRM/?tag=tolees-21) con 75.51 de descuento por 15.92 EUR (original: 65 EUR) en el siguiente enlace!

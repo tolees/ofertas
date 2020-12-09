@@ -10,8 +10,11 @@ author: ring
 slug: B07FWY7SGL
 description:
 actualPrice: 12.18 EUR
+currency: EUR
+price: 12.18
 comparePrice: 29.99 EUR
 inStock: true
+prodname: edc by Esprit 108cc1f018 Blusa  Negro  Black 001   Small para Mujer
 ---
 
 Está [edc by Esprit 108cc1f018 Blusa  Negro  Black 001   Small para Mujer](https://www.amazon.es/dp/B07FWY7SGL/?tag=tolees-21) con 59.39 de descuento por 12.18 EUR (original: 29.99 EUR) en el siguiente enlace!

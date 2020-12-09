@@ -10,8 +10,11 @@ author: ring
 slug: B01MPZYLGJ
 description:
 actualPrice: 78.9 EUR
+currency: EUR
+price: 78.9
 comparePrice: 106.5 EUR
 inStock: true
+prodname: Orbegozo RRE 510 Emisor Térmico Bajo Consumo  3 Elementos de Calor  Pantalla Digital LCD  Mando a Distancia  Funcionamiento Programable  500 W  Negro
 ---
 
 Ahora mismo tienes [Orbegozo RRE 510 Emisor Térmico Bajo Consumo  3 Elementos de Calor  Pantalla Digital LCD  Mando a Distancia  Funcionamiento Programable  500 W  Negro](https://www.amazon.es/dp/B01MPZYLGJ/?tag=tolees-21) a 78.9 EUR (original: 106.5 EUR) (25.92 %  de descuento) en el siguiente enlace!

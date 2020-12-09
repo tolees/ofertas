@@ -10,8 +10,11 @@ author: ring
 slug: B00U1FUW2U
 description:
 actualPrice: 4.1 EUR
+currency: EUR
+price: 4.1
 comparePrice: 6.09 EUR
 inStock: true
+prodname: Faber-Castell 183526 – Sacapuntas doble  Mariquita Incluye Borrador
 ---
 
 Está [Faber-Castell 183526 – Sacapuntas doble  Mariquita Incluye Borrador](https://www.amazon.es/dp/B00U1FUW2U/?tag=tolees-21) con 32.68 de descuento por 4.1 EUR (original: 6.09 EUR) en el siguiente enlace!

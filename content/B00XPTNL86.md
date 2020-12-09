@@ -10,8 +10,11 @@ author: ring
 slug: B00XPTNL86
 description:
 actualPrice: 26.49 EUR
+currency: EUR
+price: 26.49
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Columbia Fast Trek II Forro Polar con Cremallera  Mujer  Azul  Nocturnal   M
 ---
 
 Ahora mismo tienes [Columbia Fast Trek II Forro Polar con Cremallera  Mujer  Azul  Nocturnal   M](https://www.amazon.es/dp/B00XPTNL86/?tag=tolees-21) a 26.49 EUR (original: 49.99 EUR) (47.01 %  de descuento) en el siguiente enlace!

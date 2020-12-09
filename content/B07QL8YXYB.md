@@ -10,8 +10,11 @@ author: ring
 slug: B07QL8YXYB
 description:
 actualPrice: 10.3 EUR
+currency: EUR
+price: 10.3
 comparePrice: 13.74 EUR
 inStock: true
+prodname: Rexona Desodorante Antitranspirante Shower Fresh - Pack de 6 x 200 ml  Total: 1200 ml 
 ---
 
 Ahora mismo tienes [Rexona Desodorante Antitranspirante Shower Fresh - Pack de 6 x 200 ml  Total: 1200 ml ](https://www.amazon.es/dp/B07QL8YXYB/?tag=tolees-21) a 10.3 EUR (original: 13.74 EUR) (25.04 %  de descuento) en el siguiente enlace!

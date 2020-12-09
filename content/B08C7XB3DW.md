@@ -10,8 +10,11 @@ author: ring
 slug: B08C7XB3DW
 description:
 actualPrice: 35.88 EUR
+currency: EUR
+price: 35.88
 comparePrice: 71.76 EUR
 inStock: true
+prodname: IKOHS EOLUS TURBO PRO - Ventilador de suelo Industrial  120 W  Potente flujo de aire  Ligero  Ajustable  Con Patas Antideslizantes  3 hélices  3 velocidades  Motor Cobre  Negro - 20" 
 ---
 
 Ahora mismo tienes [IKOHS EOLUS TURBO PRO - Ventilador de suelo Industrial  120 W  Potente flujo de aire  Ligero  Ajustable  Con Patas Antideslizantes  3 hélices  3 velocidades  Motor Cobre  Negro - 20" ](https://www.amazon.es/dp/B08C7XB3DW/?tag=tolees-21) a 35.88 EUR (original: 71.76 EUR) (50.00 %  de descuento) en el siguiente enlace!

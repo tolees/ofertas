@@ -10,8 +10,11 @@ author: ring
 slug: B076T5YTYL
 description:
 actualPrice: 34.97 EUR
+currency: EUR
+price: 34.97
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers Empress-Solo Mood  Zapatillas sin Cordones para Mujer  Gris  Grey   37.5 EU
 ---
 
 Tienes [Skechers Empress-Solo Mood  Zapatillas sin Cordones para Mujer  Gris  Grey   37.5 EU](https://www.amazon.es/dp/B076T5YTYL/?tag=tolees-21) con un 46.16 % de descuento con precio de oferta de 34.97 EUR (original: 64.95 EUR) en el siguiente enlace!

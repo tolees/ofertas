@@ -10,8 +10,11 @@ author: ring
 slug: B07KPXHWVV
 description:
 actualPrice: 15.2 EUR
+currency: EUR
+price: 15.2
 comparePrice: 119 EUR
 inStock: true
+prodname: REPLAY Luz Vaqueros Skinny  Azul  Dark Blue 7   W24/L32  Talla del Fabricante: 24  para Mujer
 ---
 
 Tienes [REPLAY Luz Vaqueros Skinny  Azul  Dark Blue 7   W24/L32  Talla del Fabricante: 24  para Mujer](https://www.amazon.es/dp/B07KPXHWVV/?tag=tolees-21) con un 87.23 % de descuento con precio de oferta de 15.2 EUR (original: 119 EUR) en el siguiente enlace!

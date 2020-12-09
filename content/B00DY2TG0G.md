@@ -10,8 +10,11 @@ author: ring
 slug: B00DY2TG0G
 description:
 actualPrice: 59.25 EUR
+currency: EUR
+price: 59.25
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox Uomo Snake L  Zapatos para Hombre  Beige  Beige/Dk Orange C0845   42 EU
 ---
 
 Tienes [Geox Uomo Snake L  Zapatos para Hombre  Beige  Beige/Dk Orange C0845   42 EU](https://www.amazon.es/dp/B00DY2TG0G/?tag=tolees-21) con un 40.69 % de descuento con precio de oferta de 59.25 EUR (original: 99.9 EUR) en el siguiente enlace!

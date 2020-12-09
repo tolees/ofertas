@@ -10,8 +10,11 @@ author: ring
 slug: B003JZCFJ2
 description:
 actualPrice: 81.77 EUR
+currency: EUR
+price: 81.77
 comparePrice: 130.0 EUR
 inStock: true
+prodname: Clarks Nature Three 20340682 - Zapatos casual de cuero nobuck para hombre  color marrón  Ebony Oily   talla 46
 ---
 
 Tienes [Clarks Nature Three 20340682 - Zapatos casual de cuero nobuck para hombre  color marrón  Ebony Oily   talla 46](https://www.amazon.es/dp/B003JZCFJ2/?tag=tolees-21) con un 37.10 % de descuento con precio de oferta de 81.77 EUR (original: 130.0 EUR) en el siguiente enlace!

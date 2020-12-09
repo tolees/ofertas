@@ -10,8 +10,11 @@ author: ring
 slug: B072WPTGT4
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 25 EUR
 inStock: true
+prodname: ELINKUME LED Bolas de algodón luces de hadas  20 LEDs 10 8 pies  Operado con pilas  blanco cálido bola de algodón iluminación de humor para balcón  ventana  fiesta  boda  navidad
 ---
 
 Tienes [ELINKUME LED Bolas de algodón luces de hadas  20 LEDs 10 8 pies  Operado con pilas  blanco cálido bola de algodón iluminación de humor para balcón  ventana  fiesta  boda  navidad](https://www.amazon.es/dp/B072WPTGT4/?tag=tolees-21) con un 44.04 % de descuento con precio de oferta de 13.99 EUR (original: 25 EUR) en el siguiente enlace!

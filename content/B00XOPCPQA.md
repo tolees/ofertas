@@ -10,8 +10,11 @@ author: ring
 slug: B00XOPCPQA
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: WMF Gourmet Afilador de Cuchillos con Dos Niveles de Afilado de Acero Ioxidable Cromargan 18/10 y Material Sintético  Negro  25 x 9 x 6.8 cm
 ---
 
 Ahora mismo tienes [WMF Gourmet Afilador de Cuchillos con Dos Niveles de Afilado de Acero Ioxidable Cromargan 18/10 y Material Sintético  Negro  25 x 9 x 6.8 cm](https://www.amazon.es/dp/B00XOPCPQA/?tag=tolees-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

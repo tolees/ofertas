@@ -10,8 +10,11 @@ author: ring
 slug: B07D6YLJJ4
 description:
 actualPrice: 44.98 EUR
+currency: EUR
+price: 44.98
 comparePrice: 89.95 EUR
 inStock: true
+prodname: adidas X_PLR  Zapatillas para Hombre  Azul  Collegiate Navy/Aero Blue/Footwear White 0   42 2/3 EU
 ---
 
 Está [adidas X_PLR  Zapatillas para Hombre  Azul  Collegiate Navy/Aero Blue/Footwear White 0   42 2/3 EU](https://www.amazon.es/dp/B07D6YLJJ4/?tag=tolees-21) con 49.99 de descuento por 44.98 EUR (original: 89.95 EUR) en el siguiente enlace!

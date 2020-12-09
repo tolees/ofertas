@@ -10,8 +10,11 @@ author: ring
 slug: B073D7ZPVV
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 8.99 EUR
 inStock: true
+prodname: Puma Quarter Plain  Calcetín Unisex Adulto  Negro  Black/Red   43-46   Pack de 3 
 ---
 
 Tienes [Puma Quarter Plain  Calcetín Unisex Adulto  Negro  Black/Red   43-46   Pack de 3 ](https://www.amazon.es/dp/B073D7ZPVV/?tag=tolees-21) con un 44.49 % de descuento con precio de oferta de 4.99 EUR (original: 8.99 EUR) en el siguiente enlace!

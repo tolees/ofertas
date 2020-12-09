@@ -10,8 +10,11 @@ author: ring
 slug: B01IP5Z0VA
 description:
 actualPrice: 55.0 EUR
+currency: EUR
+price: 55.0
 comparePrice: 149.0 EUR
 inStock: true
+prodname: Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES4079
 ---
 
 Tienes [Fossil Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable ES4079](https://www.amazon.es/dp/B01IP5Z0VA/?tag=tolees-21) con un 63.09 % de descuento con precio de oferta de 55.0 EUR (original: 149.0 EUR) en el siguiente enlace!

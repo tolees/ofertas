@@ -10,8 +10,11 @@ author: ring
 slug: B075FRHFQ4
 description:
 actualPrice: 36.88 EUR
+currency: EUR
+price: 36.88
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Kipling Mini Backpack  Mochila para Mujer  Multicolor  Herridage Fl   17x19x21.5 cm  B x H x T 
 ---
 
 Está [Kipling Mini Backpack  Mochila para Mujer  Multicolor  Herridage Fl   17x19x21.5 cm  B x H x T ](https://www.amazon.es/dp/B075FRHFQ4/?tag=tolees-21) con 38.43 de descuento por 36.88 EUR (original: 59.9 EUR) en el siguiente enlace!

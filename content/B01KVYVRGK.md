@@ -10,8 +10,11 @@ author: ring
 slug: B01KVYVRGK
 description:
 actualPrice: 7.0 EUR
+currency: EUR
+price: 7.0
 comparePrice: 9.95 EUR
 inStock: true
+prodname: Fantasy Flight Games- Star Wars Sw Imperial Assault: aliado contrabandista de la Alianza - español  Color  Fantsy Flight Games EDFEDGSWI17 
 ---
 
 Ahora mismo tienes [Fantasy Flight Games- Star Wars Sw Imperial Assault: aliado contrabandista de la Alianza - español  Color  Fantsy Flight Games EDFEDGSWI17 ](https://www.amazon.es/dp/B01KVYVRGK/?tag=tolees-21) a 7.0 EUR (original: 9.95 EUR) (29.65 %  de descuento) en el siguiente enlace!

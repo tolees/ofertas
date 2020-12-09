@@ -10,8 +10,11 @@ author: ring
 slug: B019D9TPYK
 description:
 actualPrice: 31.38 EUR
+currency: EUR
+price: 31.38
 comparePrice: 80 EUR
 inStock: true
+prodname: Vans Brigata  Zapatillas Unisex Adulto  Rojo  Suede   44.5 EU
 ---
 
 Está [Vans Brigata  Zapatillas Unisex Adulto  Rojo  Suede   44.5 EU](https://www.amazon.es/dp/B019D9TPYK/?tag=tolees-21) con 60.77 de descuento por 31.38 EUR (original: 80 EUR) en el siguiente enlace!

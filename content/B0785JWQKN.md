@@ -10,8 +10,11 @@ author: ring
 slug: B0785JWQKN
 description:
 actualPrice: 44 EUR
+currency: EUR
+price: 44
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Under Armour Unstoppable 2X Knit FZ Parte Superior del Calentamiento  Hombre  Negro Black 001  L
 ---
 
 Tienes [Under Armour Unstoppable 2X Knit FZ Parte Superior del Calentamiento  Hombre  Negro Black 001  L](https://www.amazon.es/dp/B0785JWQKN/?tag=tolees-21) con un 37.13 % de descuento con precio de oferta de 44 EUR (original: 69.99 EUR) en el siguiente enlace!

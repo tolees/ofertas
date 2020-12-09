@@ -10,8 +10,11 @@ author: ring
 slug: B07DNTPZZ6
 description:
 actualPrice: 15.57 EUR
+currency: EUR
+price: 15.57
 comparePrice: 50.0 EUR
 inStock: true
+prodname: find. Chaqueta Hombre  Azul  Blue Blue   XL  Label: XL
 ---
 
 Ahora mismo tienes [find. Chaqueta Hombre  Azul  Blue Blue   XL  Label: XL](https://www.amazon.es/dp/B07DNTPZZ6/?tag=tolees-21) a 15.57 EUR (original: 50.0 EUR) (68.86 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DPH2S5R
 description:
 actualPrice: 9.93 EUR
+currency: EUR
+price: 9.93
 comparePrice: 17.95 EUR
 inStock: true
+prodname: POWER DOUGH Unicornios  multicolor  Canal Toys Amazon ES1 DP018    color/modelo surtido
 ---
 
 Está [POWER DOUGH Unicornios  multicolor  Canal Toys Amazon ES1 DP018    color/modelo surtido](https://www.amazon.es/dp/B07DPH2S5R/?tag=tolees-21) con 44.68 de descuento por 9.93 EUR (original: 17.95 EUR) en el siguiente enlace!

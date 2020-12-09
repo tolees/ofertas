@@ -10,8 +10,11 @@ author: ring
 slug: B073JQLH7W
 description:
 actualPrice: 12.48 EUR
+currency: EUR
+price: 12.48
 comparePrice: 34.12 EUR
 inStock: true
+prodname: Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Negro  Schwarz   L  Label: L
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Negro  Schwarz   L  Label: L](https://www.amazon.es/dp/B073JQLH7W/?tag=tolees-21) a 12.48 EUR (original: 34.12 EUR) (63.42 %  de descuento) en el siguiente enlace!

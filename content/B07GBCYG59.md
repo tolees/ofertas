@@ -10,8 +10,11 @@ author: ring
 slug: B07GBCYG59
 description:
 actualPrice: 8.82 EUR
+currency: EUR
+price: 8.82
 comparePrice: 20.15 EUR
 inStock: true
+prodname: New Look Rib Stripe Cardi  Chaqueta Punto para Mujer  Verde  Green Pattern  36  Talla del Fabricante: 8 
 ---
 
 Ahora mismo tienes [New Look Rib Stripe Cardi  Chaqueta Punto para Mujer  Verde  Green Pattern  36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07GBCYG59/?tag=tolees-21) a 8.82 EUR (original: 20.15 EUR) (56.23 %  de descuento) en el siguiente enlace!

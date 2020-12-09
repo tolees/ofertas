@@ -10,8 +10,11 @@ author: ring
 slug: B07DG1TFGG
 description:
 actualPrice: 25.53 EUR
+currency: EUR
+price: 25.53
 comparePrice: 46 EUR
 inStock: true
+prodname: Calvin Klein Lightly Lined Demi  Sujetador para Camiseta para Mujer  Rosa  Silver Rose SVR   80D  Talla del Fabricante: 0D30 
 ---
 
 Ahora mismo tienes [Calvin Klein Lightly Lined Demi  Sujetador para Camiseta para Mujer  Rosa  Silver Rose SVR   80D  Talla del Fabricante: 0D30 ](https://www.amazon.es/dp/B07DG1TFGG/?tag=tolees-21) a 25.53 EUR (original: 46 EUR) (44.50 %  de descuento) en el siguiente enlace!

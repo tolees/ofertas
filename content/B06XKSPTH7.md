@@ -10,8 +10,11 @@ author: ring
 slug: B06XKSPTH7
 description:
 actualPrice: 47.41 EUR
+currency: EUR
+price: 47.41
 comparePrice: 118.99 EUR
 inStock: true
+prodname: HyperX Fury - Memoria RAM de 8 GB  DDR4  2400 MHz  CL15  DIMM XMP  HX424C15FR2/8  Color Rojo
 ---
 
 Está [HyperX Fury - Memoria RAM de 8 GB  DDR4  2400 MHz  CL15  DIMM XMP  HX424C15FR2/8  Color Rojo](https://www.amazon.es/dp/B06XKSPTH7/?tag=tolees-21) con 60.16 de descuento por 47.41 EUR (original: 118.99 EUR) en el siguiente enlace!

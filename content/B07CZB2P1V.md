@@ -10,8 +10,11 @@ author: ring
 slug: B07CZB2P1V
 description:
 actualPrice: 32.01 EUR
+currency: EUR
+price: 32.01
 comparePrice: 90 EUR
 inStock: true
+prodname: Asics Onitsuka Tiger California 78 Ex  Zapatillas Unisex Adulto  Negro Black 001  39.5 EU
 ---
 
 Tienes [Asics Onitsuka Tiger California 78 Ex  Zapatillas Unisex Adulto  Negro Black 001  39.5 EU](https://www.amazon.es/dp/B07CZB2P1V/?tag=tolees-21) con un 64.43 % de descuento con precio de oferta de 32.01 EUR (original: 90 EUR) en el siguiente enlace!

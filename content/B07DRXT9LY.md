@@ -10,8 +10,11 @@ author: ring
 slug: B07DRXT9LY
 description:
 actualPrice: 22.44 EUR
+currency: EUR
+price: 22.44
 comparePrice: 50 EUR
 inStock: true
+prodname: Diadora Shape 10 SL  Zapatillas de Running Unisex Adulto  Negro Nero C0200  41 EU
 ---
 
 Ahora mismo tienes [Diadora Shape 10 SL  Zapatillas de Running Unisex Adulto  Negro Nero C0200  41 EU](https://www.amazon.es/dp/B07DRXT9LY/?tag=tolees-21) a 22.44 EUR (original: 50 EUR) (55.12 %  de descuento) en el siguiente enlace!

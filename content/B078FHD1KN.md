@@ -10,8 +10,11 @@ author: ring
 slug: B078FHD1KN
 description:
 actualPrice: 14.0 EUR
+currency: EUR
+price: 14.0
 comparePrice: 26.0 EUR
 inStock: true
+prodname: Camiseta/UNDER ARMOUR:Boxed Sportstyle S Azul
 ---
 
 Tienes [Camiseta/UNDER ARMOUR:Boxed Sportstyle S Azul](https://www.amazon.es/dp/B078FHD1KN/?tag=tolees-21) con un 46.15 % de descuento con precio de oferta de 14.0 EUR (original: 26.0 EUR) en el siguiente enlace!

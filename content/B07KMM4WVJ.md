@@ -10,8 +10,11 @@ author: ring
 slug: B07KMM4WVJ
 description:
 actualPrice: 189.0 EUR
+currency: EUR
+price: 189.0
 comparePrice: 299.0 EUR
 inStock: true
+prodname: Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable MK8663
 ---
 
 Tienes [Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable MK8663](https://www.amazon.es/dp/B07KMM4WVJ/?tag=tolees-21) con un 36.79 % de descuento con precio de oferta de 189.0 EUR (original: 299.0 EUR) en el siguiente enlace!

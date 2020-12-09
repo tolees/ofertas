@@ -10,8 +10,11 @@ author: ring
 slug: B07FDCNBVT
 description:
 actualPrice: 32.28 EUR
+currency: EUR
+price: 32.28
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Skechers Wave-Lite-On My Level  Zapatillas para Mujer  Negro  Black White BKW   38 EU
 ---
 
 Tienes [Skechers Wave-Lite-On My Level  Zapatillas para Mujer  Negro  Black White BKW   38 EU](https://www.amazon.es/dp/B07FDCNBVT/?tag=tolees-21) con un 53.85 % de descuento con precio de oferta de 32.28 EUR (original: 69.95 EUR) en el siguiente enlace!

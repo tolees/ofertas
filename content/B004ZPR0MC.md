@@ -10,8 +10,11 @@ author: ring
 slug: B004ZPR0MC
 description:
 actualPrice: 16.9 EUR
+currency: EUR
+price: 16.9
 comparePrice: 27.5 EUR
 inStock: true
+prodname: Victor Hombre Pantalón Corto Longfighter  Blanco  M
 ---
 
 Está [Victor Hombre Pantalón Corto Longfighter  Blanco  M](https://www.amazon.es/dp/B004ZPR0MC/?tag=tolees-21) con 38.55 de descuento por 16.9 EUR (original: 27.5 EUR) en el siguiente enlace!

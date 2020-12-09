@@ -10,8 +10,11 @@ author: ring
 slug: B01N2IPSAR
 description:
 actualPrice: 199 EUR
+currency: EUR
+price: 199
 comparePrice: 1899 EUR
 inStock: true
+prodname: Colchón Viscografeno Imperial Deluxe 30cm Todas las Medidas  140x190 
 ---
 
 Tienes [Colchón Viscografeno Imperial Deluxe 30cm Todas las Medidas  140x190 ](https://www.amazon.es/dp/B01N2IPSAR/?tag=tolees-21) con un 89.52 % de descuento con precio de oferta de 199 EUR (original: 1899 EUR) en el siguiente enlace!

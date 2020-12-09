@@ -10,8 +10,11 @@ author: ring
 slug: B07JWVWSV6
 description:
 actualPrice: 18.93 EUR
+currency: EUR
+price: 18.93
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Puma Athletics Pants TR cl Pantalones  Hombre  Medium Gray Heather  XL
 ---
 
 Tienes [Puma Athletics Pants TR cl Pantalones  Hombre  Medium Gray Heather  XL](https://www.amazon.es/dp/B07JWVWSV6/?tag=tolees-21) con un 65.55 % de descuento con precio de oferta de 18.93 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B009LEOSKO
 description:
 actualPrice: 23.94 EUR
+currency: EUR
+price: 23.94
 comparePrice: 32.34 EUR
 inStock: true
+prodname: Altos de Tamaron - Ribera del Duero - Roble  Vino Pinto - Pack de 6 uds x 750 ml
 ---
 
 Tienes [Altos de Tamaron - Ribera del Duero - Roble  Vino Pinto - Pack de 6 uds x 750 ml](https://www.amazon.es/dp/B009LEOSKO/?tag=tolees-21) con un 25.97 % de descuento con precio de oferta de 23.94 EUR (original: 32.34 EUR) en el siguiente enlace!

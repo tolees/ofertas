@@ -10,8 +10,11 @@ author: ring
 slug: B00MKCI0YO
 description:
 actualPrice: 40.39 EUR
+currency: EUR
+price: 40.39
 comparePrice: 110 EUR
 inStock: true
+prodname: Nike Wmns Air MAX Axis  Zapatillas de Running para Mujer  Negro  Black/Anthracite 006   38 EU
 ---
 
 Tienes [Nike Wmns Air MAX Axis  Zapatillas de Running para Mujer  Negro  Black/Anthracite 006   38 EU](https://www.amazon.es/dp/B00MKCI0YO/?tag=tolees-21) con un 63.28 % de descuento con precio de oferta de 40.39 EUR (original: 110 EUR) en el siguiente enlace!

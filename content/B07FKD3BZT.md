@@ -10,8 +10,11 @@ author: ring
 slug: B07FKD3BZT
 description:
 actualPrice: 23.66 EUR
+currency: EUR
+price: 23.66
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Only Onlpeyton AW Short Fur Jacket CC Otw  Chaqueta Mujer  Rosa  Cameo Rose Cameo Rose   44  Talla del Fabricante: X-Large 
 ---
 
 Ahora mismo tienes [Only Onlpeyton AW Short Fur Jacket CC Otw  Chaqueta Mujer  Rosa  Cameo Rose Cameo Rose   44  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07FKD3BZT/?tag=tolees-21) a 23.66 EUR (original: 59.99 EUR) (60.56 %  de descuento) en el siguiente enlace!

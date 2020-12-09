@@ -10,8 +10,11 @@ author: ring
 slug: B07FFQ2GYR
 description:
 actualPrice: 46.99 EUR
+currency: EUR
+price: 46.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Roxy Rock Peak-Chaqueta Acolchada Impermeable para Mujer  True Black  S
 ---
 
 Tienes [Roxy Rock Peak-Chaqueta Acolchada Impermeable para Mujer  True Black  S](https://www.amazon.es/dp/B07FFQ2GYR/?tag=tolees-21) con un 47.78 % de descuento con precio de oferta de 46.99 EUR (original: 89.99 EUR) en el siguiente enlace!

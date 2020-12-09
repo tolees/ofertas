@@ -10,8 +10,11 @@ author: ring
 slug: B01MQDQGUD
 description:
 actualPrice: 27.7 EUR
+currency: EUR
+price: 27.7
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Gardena 18424-20 - Manguera espiral  10 m  multicolor
 ---
 
 Ahora mismo tienes [Gardena 18424-20 - Manguera espiral  10 m  multicolor](https://www.amazon.es/dp/B01MQDQGUD/?tag=tolees-21) a 27.7 EUR (original: 39.95 EUR) (30.66 %  de descuento) en el siguiente enlace!

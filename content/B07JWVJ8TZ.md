@@ -10,8 +10,11 @@ author: ring
 slug: B07JWVJ8TZ
 description:
 actualPrice: 14.28 EUR
+currency: EUR
+price: 14.28
 comparePrice: 34.95 EUR
 inStock: true
+prodname: PUMA Cup Sideline Camiseta Polo  Hombre  Black/Asphalt  L
 ---
 
 Está [PUMA Cup Sideline Camiseta Polo  Hombre  Black/Asphalt  L](https://www.amazon.es/dp/B07JWVJ8TZ/?tag=tolees-21) con 59.14 de descuento por 14.28 EUR (original: 34.95 EUR) en el siguiente enlace!

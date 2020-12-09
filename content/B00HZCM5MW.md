@@ -10,8 +10,11 @@ author: ring
 slug: B00HZCM5MW
 description:
 actualPrice: 32.45 EUR
+currency: EUR
+price: 32.45
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Camper Pelotas Ariel - Zapatillas  color Negro  31 EU
 ---
 
 Tienes [Camper Pelotas Ariel - Zapatillas  color Negro  31 EU](https://www.amazon.es/dp/B00HZCM5MW/?tag=tolees-21) con un 40.95 % de descuento con precio de oferta de 32.45 EUR (original: 54.95 EUR) en el siguiente enlace!

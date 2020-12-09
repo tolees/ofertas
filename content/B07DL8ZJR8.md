@@ -10,8 +10,11 @@ author: ring
 slug: B07DL8ZJR8
 description:
 actualPrice: 18.32 EUR
+currency: EUR
+price: 18.32
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield Frq Satin Solid  Camisa Casual para Hombre   Gama Azules 11   Small  Tamaño del Fabricante:S 
 ---
 
 Está [Springfield Frq Satin Solid  Camisa Casual para Hombre   Gama Azules 11   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DL8ZJR8/?tag=tolees-21) con 38.91 de descuento por 18.32 EUR (original: 29.99 EUR) en el siguiente enlace!

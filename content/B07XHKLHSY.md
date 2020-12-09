@@ -10,8 +10,11 @@ author: ring
 slug: B07XHKLHSY
 description:
 actualPrice: 19.48 EUR
+currency: EUR
+price: 19.48
 comparePrice: 41.99 EUR
 inStock: true
+prodname: Pack Spider-Man: Homecoming + Lejos de casa  4K UHD + BD  [Blu-ray]
 ---
 
 Tienes [Pack Spider-Man: Homecoming + Lejos de casa  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07XHKLHSY/?tag=tolees-21) con un 53.61 % de descuento con precio de oferta de 19.48 EUR (original: 41.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B078YHB8VW
 description:
 actualPrice: 50.0 EUR
+currency: EUR
+price: 50.0
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 830482
 ---
 
 Tienes [Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con Correa en Silicona 830482](https://www.amazon.es/dp/B078YHB8VW/?tag=tolees-21) con un 49.49 % de descuento con precio de oferta de 50.0 EUR (original: 99.0 EUR) en el siguiente enlace!

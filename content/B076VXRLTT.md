@@ -10,8 +10,11 @@ author: ring
 slug: B076VXRLTT
 description:
 actualPrice: 16.56 EUR
+currency: EUR
+price: 16.56
 comparePrice: 23.68 EUR
 inStock: true
+prodname: AmazonBasics - Bolsa mejorada para heces de perro con aditivos EPI y dispensador y pinza para correa - 810 unidades  mango brasileño
 ---
 
 Ahora mismo tienes [AmazonBasics - Bolsa mejorada para heces de perro con aditivos EPI y dispensador y pinza para correa - 810 unidades  mango brasileño](https://www.amazon.es/dp/B076VXRLTT/?tag=tolees-21) a 16.56 EUR (original: 23.68 EUR) (30.07 %  de descuento) en el siguiente enlace!

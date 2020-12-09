@@ -10,8 +10,11 @@ author: ring
 slug: B079SS8RSF
 description:
 actualPrice: 27.2 EUR
+currency: EUR
+price: 27.2
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Desigual TS_kunik  suéter para Mujer    Gris Vigore Oscuro 2043  Medium
 ---
 
 Tienes [Desigual TS_kunik  suéter para Mujer    Gris Vigore Oscuro 2043  Medium](https://www.amazon.es/dp/B079SS8RSF/?tag=tolees-21) con un 61.12 % de descuento con precio de oferta de 27.2 EUR (original: 69.95 EUR) en el siguiente enlace!

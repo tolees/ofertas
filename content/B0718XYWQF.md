@@ -10,8 +10,11 @@ author: ring
 slug: B0718XYWQF
 description:
 actualPrice: 22.54 EUR
+currency: EUR
+price: 22.54
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Puma Suede XL Lace VR  Zapatillas para Mujer  Verde  Olive Night-Avocado   38 EU
 ---
 
 Tienes [Puma Suede XL Lace VR  Zapatillas para Mujer  Verde  Olive Night-Avocado   38 EU](https://www.amazon.es/dp/B0718XYWQF/?tag=tolees-21) con un 77.45 % de descuento con precio de oferta de 22.54 EUR (original: 99.95 EUR) en el siguiente enlace!

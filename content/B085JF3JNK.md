@@ -10,8 +10,11 @@ author: ring
 slug: B085JF3JNK
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 35.99 EUR
 inStock: true
+prodname: ADVANCE Adult Sterilized - Pienso Para Gatos Adultos Esterilizados Con Pavo Y Cebada - Pack De 3 X 3kg - Total 9 Kg
 ---
 
 Tienes [ADVANCE Adult Sterilized - Pienso Para Gatos Adultos Esterilizados Con Pavo Y Cebada - Pack De 3 X 3kg - Total 9 Kg](https://www.amazon.es/dp/B085JF3JNK/?tag=tolees-21) con un 27.79 % de descuento con precio de oferta de 25.99 EUR (original: 35.99 EUR) en el siguiente enlace!

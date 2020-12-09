@@ -10,8 +10,11 @@ author: ring
 slug: B007HQWUP8
 description:
 actualPrice: 257.8 EUR
+currency: EUR
+price: 257.8
 comparePrice: 404.14 EUR
 inStock: true
+prodname: Bosch Professional GKS 65 GCE - Sierra circular  1800 W  Ø Disco 190 mm  velocidad variable  en caja 
 ---
 
 Tienes [Bosch Professional GKS 65 GCE - Sierra circular  1800 W  Ø Disco 190 mm  velocidad variable  en caja ](https://www.amazon.es/dp/B007HQWUP8/?tag=tolees-21) con un 36.21 % de descuento con precio de oferta de 257.8 EUR (original: 404.14 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MFYPWBL
 description:
 actualPrice: 45.99 EUR
+currency: EUR
+price: 45.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Android TV Box 8.1  2019 Newest Android Box with 4GB RAM 32GB ROM Amlogic S905X2 Quad Core Bluetooth 4.1 4K Full HD 3D Dual WiFi 2.4G/5G Web TV Box
 ---
 
 Ahora mismo tienes [Android TV Box 8.1  2019 Newest Android Box with 4GB RAM 32GB ROM Amlogic S905X2 Quad Core Bluetooth 4.1 4K Full HD 3D Dual WiFi 2.4G/5G Web TV Box](https://www.amazon.es/dp/B07MFYPWBL/?tag=tolees-21) a 45.99 EUR (original: 89.99 EUR) (48.89 %  de descuento) en el siguiente enlace!

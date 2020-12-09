@@ -10,8 +10,11 @@ author: ring
 slug: B07K11SMCZ
 description:
 actualPrice: 29.98 EUR
+currency: EUR
+price: 29.98
 comparePrice: 59.95 EUR
 inStock: true
+prodname: adidas Gazelle J  Zapatillas de Gimnasia Unisex Niños  Azul Legend Marine/FTWR White  38 EU
 ---
 
 Está [adidas Gazelle J  Zapatillas de Gimnasia Unisex Niños  Azul Legend Marine/FTWR White  38 EU](https://www.amazon.es/dp/B07K11SMCZ/?tag=tolees-21) con 49.99 de descuento por 29.98 EUR (original: 59.95 EUR) en el siguiente enlace!

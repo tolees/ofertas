@@ -10,8 +10,11 @@ author: ring
 slug: B0728LKSQY
 description:
 actualPrice: 69 EUR
+currency: EUR
+price: 69
 comparePrice: 129 EUR
 inStock: true
+prodname: Carrera Hombre 1007/S 9O 807 Gafas de sol  Negro  BLACK/DARK GREY SF   62
 ---
 
 Ahora mismo tienes [Carrera Hombre 1007/S 9O 807 Gafas de sol  Negro  BLACK/DARK GREY SF   62](https://www.amazon.es/dp/B0728LKSQY/?tag=tolees-21) a 69 EUR (original: 129 EUR) (46.51 %  de descuento) en el siguiente enlace!

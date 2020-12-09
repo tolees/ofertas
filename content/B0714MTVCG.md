@@ -10,8 +10,11 @@ author: ring
 slug: B0714MTVCG
 description:
 actualPrice: 13.58 EUR
+currency: EUR
+price: 13.58
 comparePrice: 33.96 EUR
 inStock: true
+prodname: Khanomak - Pantalón Corto Deportivo - para Mujer Azul Azul Oscuro Small
 ---
 
 Tienes [Khanomak - Pantalón Corto Deportivo - para Mujer Azul Azul Oscuro Small](https://www.amazon.es/dp/B0714MTVCG/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 13.58 EUR (original: 33.96 EUR) en el siguiente enlace!

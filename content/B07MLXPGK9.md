@@ -10,8 +10,11 @@ author: ring
 slug: B07MLXPGK9
 description:
 actualPrice: 21.13 EUR
+currency: EUR
+price: 21.13
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Cressi Sandal  Gris Azul  44 EU
 ---
 
 Ahora mismo tienes [Cressi Sandal  Gris Azul  44 EU](https://www.amazon.es/dp/B07MLXPGK9/?tag=tolees-21) a 21.13 EUR (original: 29.99 EUR) (29.54 %  de descuento) en el siguiente enlace!

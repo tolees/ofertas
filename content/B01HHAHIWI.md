@@ -10,8 +10,11 @@ author: ring
 slug: B01HHAHIWI
 description:
 actualPrice: 39.64 EUR
+currency: EUR
+price: 39.64
 comparePrice: 130 EUR
 inStock: true
+prodname: Merrell Avalaunch Tough  Zapatillas de Running para Asfalto para Hombre  Naranja  Mudder Orange   7.5 UK 41 1/2 EU
 ---
 
 Ahora mismo tienes [Merrell Avalaunch Tough  Zapatillas de Running para Asfalto para Hombre  Naranja  Mudder Orange   7.5 UK 41 1/2 EU](https://www.amazon.es/dp/B01HHAHIWI/?tag=tolees-21) a 39.64 EUR (original: 130 EUR) (69.51 %  de descuento) en el siguiente enlace!

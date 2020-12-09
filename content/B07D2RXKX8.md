@@ -10,8 +10,11 @@ author: ring
 slug: B07D2RXKX8
 description:
 actualPrice: 7.42 EUR
+currency: EUR
+price: 7.42
 comparePrice: 29 EUR
 inStock: true
+prodname: Gant Premium Trunk Yarn-dyed Stripe  Bañador para Hombre  Blanco  White  Small
 ---
 
 Está [Gant Premium Trunk Yarn-dyed Stripe  Bañador para Hombre  Blanco  White  Small](https://www.amazon.es/dp/B07D2RXKX8/?tag=tolees-21) con 74.41 de descuento por 7.42 EUR (original: 29 EUR) en el siguiente enlace!

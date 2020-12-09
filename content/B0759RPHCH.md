@@ -10,8 +10,11 @@ author: ring
 slug: B0759RPHCH
 description:
 actualPrice: 66 EUR
+currency: EUR
+price: 66
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Tri Caitlin  Zapatillas para Mujer  Beige  Sand Combi   42 EU
 ---
 
 Está [Clarks Tri Caitlin  Zapatillas para Mujer  Beige  Sand Combi   42 EU](https://www.amazon.es/dp/B0759RPHCH/?tag=tolees-21) con 33.97 de descuento por 66 EUR (original: 99.95 EUR) en el siguiente enlace!

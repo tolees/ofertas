@@ -10,8 +10,11 @@ author: ring
 slug: B07SL9ZKX6
 description:
 actualPrice: 89 EUR
+currency: EUR
+price: 89
 comparePrice: 149 EUR
 inStock: true
+prodname: Tous MOCHILA VERA JEANS
 ---
 
 Tienes [Tous MOCHILA VERA JEANS](https://www.amazon.es/dp/B07SL9ZKX6/?tag=tolees-21) con un 40.27 % de descuento con precio de oferta de 89 EUR (original: 149 EUR) en el siguiente enlace!

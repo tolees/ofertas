@@ -10,8 +10,11 @@ author: ring
 slug: B071NWDN1M
 description:
 actualPrice: 35.63 EUR
+currency: EUR
+price: 35.63
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Under Armour Armour Fly Fast Capri Leggings  Mujer  Negro Black/Reflective 001  L
 ---
 
 Está [Under Armour Armour Fly Fast Capri Leggings  Mujer  Negro Black/Reflective 001  L](https://www.amazon.es/dp/B071NWDN1M/?tag=tolees-21) con 35.21 de descuento por 35.63 EUR (original: 54.99 EUR) en el siguiente enlace!

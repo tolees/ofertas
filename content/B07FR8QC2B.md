@@ -10,8 +10,11 @@ author: ring
 slug: B07FR8QC2B
 description:
 actualPrice: 5.91 EUR
+currency: EUR
+price: 5.91
 comparePrice: 9.56 EUR
 inStock: true
+prodname: Andis Peine negro Clipper
 ---
 
 Tienes [Andis Peine negro Clipper](https://www.amazon.es/dp/B07FR8QC2B/?tag=tolees-21) con un 38.18 % de descuento con precio de oferta de 5.91 EUR (original: 9.56 EUR) en el siguiente enlace!

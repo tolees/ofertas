@@ -10,8 +10,11 @@ author: ring
 slug: B07QJ1P6BG
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Umbro Silo Rolltop Mochila Tipo Casual  65 cm  40 litros  Black/Silver
 ---
 
 Está [Umbro Silo Rolltop Mochila Tipo Casual  65 cm  40 litros  Black/Silver](https://www.amazon.es/dp/B07QJ1P6BG/?tag=tolees-21) con 30.00 de descuento por 17.5 EUR (original: 25.0 EUR) en el siguiente enlace!

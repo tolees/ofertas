@@ -10,8 +10,11 @@ author: ring
 slug: B08JB2ZKSD
 description:
 actualPrice: 5.9 EUR
+currency: EUR
+price: 5.9
 comparePrice: 8.99 EUR
 inStock: true
+prodname: Xinmeng Bolas Arbol Navidad 24pcs Bolas navideñas 4cm bolas de árbol de navidad adorno Decoración de Bolas Navideños Adornos Arbol Navidad Regalos de Colgantes de Navidad  rojo .
 ---
 
 Tienes [Xinmeng Bolas Arbol Navidad 24pcs Bolas navideñas 4cm bolas de árbol de navidad adorno Decoración de Bolas Navideños Adornos Arbol Navidad Regalos de Colgantes de Navidad  rojo .](https://www.amazon.es/dp/B08JB2ZKSD/?tag=tolees-21) con un 34.37 % de descuento con precio de oferta de 5.9 EUR (original: 8.99 EUR) en el siguiente enlace!

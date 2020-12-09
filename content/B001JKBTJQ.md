@@ -10,8 +10,11 @@ author: ring
 slug: B001JKBTJQ
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 16.14 EUR
 inStock: true
+prodname: BIC 1721 Whiteboard Verde - Marcador  Verde  De plástico  1 5 mm 
 ---
 
 Ahora mismo tienes [BIC 1721 Whiteboard Verde - Marcador  Verde  De plástico  1 5 mm ](https://www.amazon.es/dp/B001JKBTJQ/?tag=tolees-21) a 9.9 EUR (original: 16.14 EUR) (38.66 %  de descuento) en el siguiente enlace!

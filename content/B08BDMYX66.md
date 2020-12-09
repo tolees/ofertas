@@ -10,8 +10,11 @@ author: ring
 slug: B08BDMYX66
 description:
 actualPrice: 199.99 EUR
+currency: EUR
+price: 199.99
 comparePrice: 299.0 EUR
 inStock: true
+prodname: Belkin Altavoz Inteligente Hi-Fi + Cargador inalámbrico SoundForm Elite  Google Assistant  Bluetooth  Devialet   Negro
 ---
 
 Está [Belkin Altavoz Inteligente Hi-Fi + Cargador inalámbrico SoundForm Elite  Google Assistant  Bluetooth  Devialet   Negro](https://www.amazon.es/dp/B08BDMYX66/?tag=tolees-21) con 33.11 de descuento por 199.99 EUR (original: 299.0 EUR) en el siguiente enlace!

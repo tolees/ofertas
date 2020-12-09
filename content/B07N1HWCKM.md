@@ -10,8 +10,11 @@ author: ring
 slug: B07N1HWCKM
 description:
 actualPrice: 49.95 EUR
+currency: EUR
+price: 49.95
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Un Maui Lace  Zapatillas para Mujer  Negro  Black Leather Black Leather   41 EU
 ---
 
 Está [Clarks Un Maui Lace  Zapatillas para Mujer  Negro  Black Leather Black Leather   41 EU](https://www.amazon.es/dp/B07N1HWCKM/?tag=tolees-21) con 50.03 de descuento por 49.95 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B006WZNIT2
 description:
 actualPrice: 37.03 EUR
+currency: EUR
+price: 37.03
 comparePrice: 66.54 EUR
 inStock: true
+prodname: Hape - Garaje de juguete  HAP-E3002  [Importado]   color/modelo surtido
 ---
 
 Está [Hape - Garaje de juguete  HAP-E3002  [Importado]   color/modelo surtido](https://www.amazon.es/dp/B006WZNIT2/?tag=tolees-21) con 44.35 de descuento por 37.03 EUR (original: 66.54 EUR) en el siguiente enlace!

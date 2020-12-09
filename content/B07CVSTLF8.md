@@ -10,8 +10,11 @@ author: ring
 slug: B07CVSTLF8
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 159.99 EUR
 inStock: true
+prodname: XuanPad Proyector  2020 Mini Proyector Multimedia Vídeo Proyector LCD  55000 Horas Proyector de Cine en casa  Compatible con Full HD 1080P HDMI  VGA  USB
 ---
 
 Ahora mismo tienes [XuanPad Proyector  2020 Mini Proyector Multimedia Vídeo Proyector LCD  55000 Horas Proyector de Cine en casa  Compatible con Full HD 1080P HDMI  VGA  USB](https://www.amazon.es/dp/B07CVSTLF8/?tag=tolees-21) a 69.99 EUR (original: 159.99 EUR) (56.25 %  de descuento) en el siguiente enlace!

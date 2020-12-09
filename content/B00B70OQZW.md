@@ -10,8 +10,11 @@ author: ring
 slug: B00B70OQZW
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 130 EUR
 inStock: true
+prodname: Rollei Compact Traveler No. 1 - Trípode Ligero de Aluminio de Viaje y Exterior  Cabezal Esférico  ARCA SWISS compatible  Función Macro Fotografia  Capacidad de carga máx. 5kg  Color Titanio
 ---
 
 Tienes [Rollei Compact Traveler No. 1 - Trípode Ligero de Aluminio de Viaje y Exterior  Cabezal Esférico  ARCA SWISS compatible  Función Macro Fotografia  Capacidad de carga máx. 5kg  Color Titanio](https://www.amazon.es/dp/B00B70OQZW/?tag=tolees-21) con un 46.16 % de descuento con precio de oferta de 69.99 EUR (original: 130 EUR) en el siguiente enlace!

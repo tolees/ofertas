@@ -10,8 +10,11 @@ author: ring
 slug: B07MKBGXT4
 description:
 actualPrice: 53.83 EUR
+currency: EUR
+price: 53.83
 comparePrice: 170 EUR
 inStock: true
+prodname: BOSS Rumba_Tenn_sd2  Zapatillas para Hombre  Gris  Light/Pastel Grey 050   44 EU
 ---
 
 Tienes [BOSS Rumba_Tenn_sd2  Zapatillas para Hombre  Gris  Light/Pastel Grey 050   44 EU](https://www.amazon.es/dp/B07MKBGXT4/?tag=tolees-21) con un 68.34 % de descuento con precio de oferta de 53.83 EUR (original: 170 EUR) en el siguiente enlace!

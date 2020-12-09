@@ -10,8 +10,11 @@ author: ring
 slug: B07KWLRRSN
 description:
 actualPrice: 63.0 EUR
+currency: EUR
+price: 63.0
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Swarovski pulsera Lifelong Bow  Blanco  Combinación de Acabados Metálicos
 ---
 
 Está [Swarovski pulsera Lifelong Bow  Blanco  Combinación de Acabados Metálicos](https://www.amazon.es/dp/B07KWLRRSN/?tag=tolees-21) con 36.36 de descuento por 63.0 EUR (original: 99.0 EUR) en el siguiente enlace!

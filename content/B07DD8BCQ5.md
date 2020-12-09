@@ -10,8 +10,11 @@ author: ring
 slug: B07DD8BCQ5
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Famogames - Pulsa y Expulsa  Famosa 700014664 
 ---
 
 Ahora mismo tienes [Famogames - Pulsa y Expulsa  Famosa 700014664 ](https://www.amazon.es/dp/B07DD8BCQ5/?tag=tolees-21) a 12.99 EUR (original: 29.95 EUR) (56.63 %  de descuento) en el siguiente enlace!

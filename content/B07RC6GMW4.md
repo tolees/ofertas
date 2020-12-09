@@ -10,8 +10,11 @@ author: ring
 slug: B07RC6GMW4
 description:
 actualPrice: 8.74 EUR
+currency: EUR
+price: 8.74
 comparePrice: 15.95 EUR
 inStock: true
+prodname: PUMA Laliga 1 Hybrid Balón de Fútbol  Unisex Adulto  Rosa  Pink Alert-Yellow Alert-Green Glimmer   5
 ---
 
 Ahora mismo tienes [PUMA Laliga 1 Hybrid Balón de Fútbol  Unisex Adulto  Rosa  Pink Alert-Yellow Alert-Green Glimmer   5](https://www.amazon.es/dp/B07RC6GMW4/?tag=tolees-21) a 8.74 EUR (original: 15.95 EUR) (45.20 %  de descuento) en el siguiente enlace!

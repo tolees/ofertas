@@ -10,8 +10,11 @@ author: ring
 slug: B073RPGDN6
 description:
 actualPrice: 65.79 EUR
+currency: EUR
+price: 65.79
 comparePrice: 220 EUR
 inStock: true
+prodname: Helly Hansen W Pier Jacket  Mujer  Alert Red  XL
 ---
 
 Está [Helly Hansen W Pier Jacket  Mujer  Alert Red  XL](https://www.amazon.es/dp/B073RPGDN6/?tag=tolees-21) con 70.10 de descuento por 65.79 EUR (original: 220 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B000CRDB5M
 description:
 actualPrice: 30 EUR
+currency: EUR
+price: 30
 comparePrice: 60 EUR
 inStock: true
+prodname: Eastpak Delegate Bolso bandolera  20 L  38.5 cm  Negro  Black 
 ---
 
 Está [Eastpak Delegate Bolso bandolera  20 L  38.5 cm  Negro  Black ](https://www.amazon.es/dp/B000CRDB5M/?tag=tolees-21) con 50.00 de descuento por 30 EUR (original: 60 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NZWNHLN
 description:
 actualPrice: 46.99 EUR
+currency: EUR
+price: 46.99
 comparePrice: 121.99 EUR
 inStock: true
+prodname: San Ignacio Professional Chef Copper Set de 3 sartenes + 4 recipientes herméticos + 4 Cuchillos de Cocina
 ---
 
 Tienes [San Ignacio Professional Chef Copper Set de 3 sartenes + 4 recipientes herméticos + 4 Cuchillos de Cocina](https://www.amazon.es/dp/B07NZWNHLN/?tag=tolees-21) con un 61.48 % de descuento con precio de oferta de 46.99 EUR (original: 121.99 EUR) en el siguiente enlace!

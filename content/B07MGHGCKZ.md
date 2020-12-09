@@ -10,8 +10,11 @@ author: ring
 slug: B07MGHGCKZ
 description:
 actualPrice: 73.69 EUR
+currency: EUR
+price: 73.69
 comparePrice: 129.99 EUR
 inStock: true
+prodname: GANT Cotton Cable Crew suéter  Azul  Evening Blue 433   Small para Hombre
 ---
 
 Está [GANT Cotton Cable Crew suéter  Azul  Evening Blue 433   Small para Hombre](https://www.amazon.es/dp/B07MGHGCKZ/?tag=tolees-21) con 43.31 de descuento por 73.69 EUR (original: 129.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B073S9XVCS
 description:
 actualPrice: 22.88 EUR
+currency: EUR
+price: 22.88
 comparePrice: 89.99 EUR
 inStock: true
+prodname: JACK & JONES Jcoexnine Jacket  Chaqueta para Hombre  Verde  Rosin Fit:One   Small
 ---
 
 Está [JACK & JONES Jcoexnine Jacket  Chaqueta para Hombre  Verde  Rosin Fit:One   Small](https://www.amazon.es/dp/B073S9XVCS/?tag=tolees-21) con 74.57 de descuento por 22.88 EUR (original: 89.99 EUR) en el siguiente enlace!

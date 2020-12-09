@@ -10,8 +10,11 @@ author: ring
 slug: B079KKH4BS
 description:
 actualPrice: 19.1 EUR
+currency: EUR
+price: 19.1
 comparePrice: 55 EUR
 inStock: true
+prodname: BILLABONG All Day OG Stripe 18 Bañador  Hombre   Azul 20   X/Small
 ---
 
 Está [BILLABONG All Day OG Stripe 18 Bañador  Hombre   Azul 20   X/Small](https://www.amazon.es/dp/B079KKH4BS/?tag=tolees-21) con 65.27 de descuento por 19.1 EUR (original: 55 EUR) en el siguiente enlace!

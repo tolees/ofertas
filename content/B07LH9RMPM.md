@@ -10,8 +10,11 @@ author: ring
 slug: B07LH9RMPM
 description:
 actualPrice: 17.62 EUR
+currency: EUR
+price: 17.62
 comparePrice: 30 EUR
 inStock: true
+prodname: The North Face S/S Celebration Easy tee Camiseta  Hombre  Asphalt Grey  M
 ---
 
 Ahora mismo tienes [The North Face S/S Celebration Easy tee Camiseta  Hombre  Asphalt Grey  M](https://www.amazon.es/dp/B07LH9RMPM/?tag=tolees-21) a 17.62 EUR (original: 30 EUR) (41.27 %  de descuento) en el siguiente enlace!

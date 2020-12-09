@@ -10,8 +10,11 @@ author: ring
 slug: B01N6J0RLB
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Triumph Triaction Wellness F Sujetador  Blanco  White 03   85C para Mujer
 ---
 
 Ahora mismo tienes [Triumph Triaction Wellness F Sujetador  Blanco  White 03   85C para Mujer](https://www.amazon.es/dp/B01N6J0RLB/?tag=tolees-21) a 17.5 EUR (original: 34.95 EUR) (49.93 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08HXSTFV7
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Huker 24 Calendario de Adviento  Cajas de Regalo Navidad  Bolsa para Calendario de Adviento  Cajas de Almohadas Papel Kraft con 24 Pegatinas para Navidad  DIY Calendarios Adviento  Color Retro 
 ---
 
 Está [Huker 24 Calendario de Adviento  Cajas de Regalo Navidad  Bolsa para Calendario de Adviento  Cajas de Almohadas Papel Kraft con 24 Pegatinas para Navidad  DIY Calendarios Adviento  Color Retro ](https://www.amazon.es/dp/B08HXSTFV7/?tag=tolees-21) con 46.19 de descuento por 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!

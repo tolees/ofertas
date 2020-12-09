@@ -10,8 +10,11 @@ author: ring
 slug: B07CRD8WK6
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 120 EUR
 inStock: true
+prodname: Pepe Jeans Mafi Chaqueta   Black 999   Large para Mujer
 ---
 
 Tienes [Pepe Jeans Mafi Chaqueta   Black 999   Large para Mujer](https://www.amazon.es/dp/B07CRD8WK6/?tag=tolees-21) con un 78.34 % de descuento con precio de oferta de 25.99 EUR (original: 120 EUR) en el siguiente enlace!

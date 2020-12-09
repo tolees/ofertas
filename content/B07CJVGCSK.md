@@ -10,8 +10,11 @@ author: ring
 slug: B07CJVGCSK
 description:
 actualPrice: 19.02 EUR
+currency: EUR
+price: 19.02
 comparePrice: 59 EUR
 inStock: true
+prodname: REPLAY M3661 .000.22450v  Polo Hombre  Azul  Blue 85   Small
 ---
 
 Ahora mismo tienes [REPLAY M3661 .000.22450v  Polo Hombre  Azul  Blue 85   Small](https://www.amazon.es/dp/B07CJVGCSK/?tag=tolees-21) a 19.02 EUR (original: 59 EUR) (67.76 %  de descuento) en el siguiente enlace!

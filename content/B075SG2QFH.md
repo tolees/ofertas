@@ -10,8 +10,11 @@ author: ring
 slug: B075SG2QFH
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Collar Mujer Plata de Ley 925 Brillante Cristal Colgante Collares joyería regalo
 ---
 
 Está [Collar Mujer Plata de Ley 925 Brillante Cristal Colgante Collares joyería regalo](https://www.amazon.es/dp/B075SG2QFH/?tag=tolees-21) con 77.15 de descuento por 15.99 EUR (original: 69.99 EUR) en el siguiente enlace!

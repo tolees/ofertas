@@ -10,8 +10,11 @@ author: ring
 slug: B07W7F2GBY
 description:
 actualPrice: 10.84 EUR
+currency: EUR
+price: 10.84
 comparePrice: 14.95 EUR
 inStock: true
+prodname: Funko- Pop Animation: Dragon Ball Z-Training Vegeta Collectible Toy  Multicolor  44258 
 ---
 
 Tienes [Funko- Pop Animation: Dragon Ball Z-Training Vegeta Collectible Toy  Multicolor  44258 ](https://www.amazon.es/dp/B07W7F2GBY/?tag=tolees-21) con un 27.49 % de descuento con precio de oferta de 10.84 EUR (original: 14.95 EUR) en el siguiente enlace!

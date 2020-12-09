@@ -10,8 +10,11 @@ author: ring
 slug: B00O4B8ISW
 description:
 actualPrice: 5.31 EUR
+currency: EUR
+price: 5.31
 comparePrice: 11.55 EUR
 inStock: true
+prodname: SANICAT clumping unscented 10L
 ---
 
 Ahora mismo tienes [SANICAT clumping unscented 10L](https://www.amazon.es/dp/B00O4B8ISW/?tag=tolees-21) a 5.31 EUR (original: 11.55 EUR) (54.03 %  de descuento) en el siguiente enlace!

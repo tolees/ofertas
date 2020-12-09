@@ -10,8 +10,11 @@ author: ring
 slug: B07D97CHWS
 description:
 actualPrice: 13.31 EUR
+currency: EUR
+price: 13.31
 comparePrice: 35 EUR
 inStock: true
+prodname: XTI 55835  Botas Clasicas para Niños  Negro  Black   31 EU
 ---
 
 Está [XTI 55835  Botas Clasicas para Niños  Negro  Black   31 EU](https://www.amazon.es/dp/B07D97CHWS/?tag=tolees-21) con 61.97 de descuento por 13.31 EUR (original: 35 EUR) en el siguiente enlace!

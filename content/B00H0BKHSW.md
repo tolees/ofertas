@@ -10,8 +10,11 @@ author: ring
 slug: B00H0BKHSW
 description:
 actualPrice: 21.83 EUR
+currency: EUR
+price: 21.83
 comparePrice: 37.5 EUR
 inStock: true
+prodname: Joseph&Joseph JJ360 Nido Conjunto de Almacenamiento
 ---
 
 Ahora mismo tienes [Joseph&Joseph JJ360 Nido Conjunto de Almacenamiento](https://www.amazon.es/dp/B00H0BKHSW/?tag=tolees-21) a 21.83 EUR (original: 37.5 EUR) (41.79 %  de descuento) en el siguiente enlace!

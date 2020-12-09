@@ -10,8 +10,11 @@ author: ring
 slug: B07NPGDV31
 description:
 actualPrice: 34.9 EUR
+currency: EUR
+price: 34.9
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Scalpers Basic Polo  Rojo  Burgundy 18033   Large  Tamaño del Fabricante:L  para Hombre
 ---
 
 Está [Scalpers Basic Polo  Rojo  Burgundy 18033   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07NPGDV31/?tag=tolees-21) con 30.06 de descuento por 34.9 EUR (original: 49.9 EUR) en el siguiente enlace!

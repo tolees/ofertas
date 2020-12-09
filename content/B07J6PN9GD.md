@@ -10,8 +10,11 @@ author: ring
 slug: B07J6PN9GD
 description:
 actualPrice: 32.38 EUR
+currency: EUR
+price: 32.38
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Skechers Skech-Air Ultra Flex  Zapatillas para Mujer  Gris  39 EU
 ---
 
 Tienes [Skechers Skech-Air Ultra Flex  Zapatillas para Mujer  Gris  39 EU](https://www.amazon.es/dp/B07J6PN9GD/?tag=tolees-21) con un 59.50 % de descuento con precio de oferta de 32.38 EUR (original: 79.95 EUR) en el siguiente enlace!

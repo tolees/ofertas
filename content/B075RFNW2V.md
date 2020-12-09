@@ -10,8 +10,11 @@ author: ring
 slug: B075RFNW2V
 description:
 actualPrice: 7.42 EUR
+currency: EUR
+price: 7.42
 comparePrice: 15.99 EUR
 inStock: true
+prodname: SHANA 73885 Jersey  Gris Perla    Tamaño del Fabricante:M  para Mujer
 ---
 
 Ahora mismo tienes [SHANA 73885 Jersey  Gris Perla    Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B075RFNW2V/?tag=tolees-21) a 7.42 EUR (original: 15.99 EUR) (53.60 %  de descuento) en el siguiente enlace!

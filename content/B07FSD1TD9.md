@@ -10,8 +10,11 @@ author: ring
 slug: B07FSD1TD9
 description:
 actualPrice: 28.97 EUR
+currency: EUR
+price: 28.97
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Clarks Leisa Brody  Sandalias de Talón Abierto para Mujer  Rojo  Red-   38 EU
 ---
 
 Está [Clarks Leisa Brody  Sandalias de Talón Abierto para Mujer  Rojo  Red-   38 EU](https://www.amazon.es/dp/B07FSD1TD9/?tag=tolees-21) con 58.58 de descuento por 28.97 EUR (original: 69.95 EUR) en el siguiente enlace!

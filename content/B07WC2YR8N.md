@@ -10,8 +10,11 @@ author: ring
 slug: B07WC2YR8N
 description:
 actualPrice: 64.09 EUR
+currency: EUR
+price: 64.09
 comparePrice: 89.95 EUR
 inStock: true
+prodname: IKOHS Microondas MW700S Plateado - Microondas  700W Capacidad de 20L  5 Niveles de Potencia  Temporizador hasta 30 minutos  Menú Automático  Cocción Multifrecuencia  Dispone de Reloj Digital
 ---
 
 Tienes [IKOHS Microondas MW700S Plateado - Microondas  700W Capacidad de 20L  5 Niveles de Potencia  Temporizador hasta 30 minutos  Menú Automático  Cocción Multifrecuencia  Dispone de Reloj Digital](https://www.amazon.es/dp/B07WC2YR8N/?tag=tolees-21) con un 28.75 % de descuento con precio de oferta de 64.09 EUR (original: 89.95 EUR) en el siguiente enlace!

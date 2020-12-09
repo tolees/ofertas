@@ -10,8 +10,11 @@ author: ring
 slug: B07F8W7LVF
 description:
 actualPrice: 28.32 EUR
+currency: EUR
+price: 28.32
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Igi&Co Die 21965  Zapatos de tacón con Punta Cerrada para Mujer  Marrón  T.Moro 20   37 EU
 ---
 
 Está [Igi&Co Die 21965  Zapatos de tacón con Punta Cerrada para Mujer  Marrón  T.Moro 20   37 EU](https://www.amazon.es/dp/B07F8W7LVF/?tag=tolees-21) con 71.65 de descuento por 28.32 EUR (original: 99.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07B6CYCBT
 description:
 actualPrice: 29.4 EUR
+currency: EUR
+price: 29.4
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Skechers Go 600-fun Run  Zapatillas para Niñas  Negro  Black/Multi Bkmt   27.5 EU
 ---
 
 Está [Skechers Go 600-fun Run  Zapatillas para Niñas  Negro  Black/Multi Bkmt   27.5 EU](https://www.amazon.es/dp/B07B6CYCBT/?tag=tolees-21) con 26.41 de descuento por 29.4 EUR (original: 39.95 EUR) en el siguiente enlace!

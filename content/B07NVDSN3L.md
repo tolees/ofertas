@@ -10,8 +10,11 @@ author: ring
 slug: B07NVDSN3L
 description:
 actualPrice: 3.59 EUR
+currency: EUR
+price: 3.59
 comparePrice: 6.46 EUR
 inStock: true
+prodname: Baoblaze Memoria Flash 8 GB 16 GB 32 GB 64 GB 128 GB USB 2.0 Stick U Disco Cartoon Drive Carino - 8g
 ---
 
 Está [Baoblaze Memoria Flash 8 GB 16 GB 32 GB 64 GB 128 GB USB 2.0 Stick U Disco Cartoon Drive Carino - 8g](https://www.amazon.es/dp/B07NVDSN3L/?tag=tolees-21) con 44.43 de descuento por 3.59 EUR (original: 6.46 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07D7RFXHG
 description:
 actualPrice: 25.18 EUR
+currency: EUR
+price: 25.18
 comparePrice: 82 EUR
 inStock: true
+prodname: Guess Abito Corto Samantha Dress  Vestido para Mujer  Negro  Jet Black A996 Jblk  Medium
 ---
 
 Está [Guess Abito Corto Samantha Dress  Vestido para Mujer  Negro  Jet Black A996 Jblk  Medium](https://www.amazon.es/dp/B07D7RFXHG/?tag=tolees-21) con 69.29 de descuento por 25.18 EUR (original: 82 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01B2X2YVQ
 description:
 actualPrice: 64 EUR
+currency: EUR
+price: 64
 comparePrice: 135 EUR
 inStock: true
+prodname: Rotary Reloj de Pulsera GB05017/04
 ---
 
 Tienes [Rotary Reloj de Pulsera GB05017/04](https://www.amazon.es/dp/B01B2X2YVQ/?tag=tolees-21) con un 52.59 % de descuento con precio de oferta de 64 EUR (original: 135 EUR) en el siguiente enlace!

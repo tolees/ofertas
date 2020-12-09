@@ -10,8 +10,11 @@ author: ring
 slug: B07VHDLPZN
 description:
 actualPrice: 26.49 EUR
+currency: EUR
+price: 26.49
 comparePrice: 69.0 EUR
 inStock: true
+prodname: HKT by Hackett Hkt Super Ox Camisa  Blanco  800white 800   44  Talla del Fabricante: X-Large  para Hombre
 ---
 
 Está [HKT by Hackett Hkt Super Ox Camisa  Blanco  800white 800   44  Talla del Fabricante: X-Large  para Hombre](https://www.amazon.es/dp/B07VHDLPZN/?tag=tolees-21) con 61.61 de descuento por 26.49 EUR (original: 69.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GQ2Q9VX
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 32.8 EUR
 inStock: true
+prodname: Hello Neighbor
 ---
 
 Ahora mismo tienes [Hello Neighbor](https://www.amazon.es/dp/B07GQ2Q9VX/?tag=tolees-21) a 19.95 EUR (original: 32.8 EUR) (39.18 %  de descuento) en el siguiente enlace!

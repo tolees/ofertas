@@ -10,8 +10,11 @@ author: ring
 slug: B078JNZS9T
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 41.58 EUR
 inStock: true
+prodname: Arcos Set De Cuchillos  Acero Inoxidable  Negro  45x20x5 cm  3 Unidades
 ---
 
 Tienes [Arcos Set De Cuchillos  Acero Inoxidable  Negro  45x20x5 cm  3 Unidades](https://www.amazon.es/dp/B078JNZS9T/?tag=tolees-21) con un 27.87 % de descuento con precio de oferta de 29.99 EUR (original: 41.58 EUR) en el siguiente enlace!

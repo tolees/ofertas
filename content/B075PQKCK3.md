@@ -10,8 +10,11 @@ author: ring
 slug: B075PQKCK3
 description:
 actualPrice: 10.98 EUR
+currency: EUR
+price: 10.98
 comparePrice: 20.98 EUR
 inStock: true
+prodname: HelpCuisine infusor de te/infusionador/colador te/filtro te/infusores de te  hecho de silicona 100% alimentaria libre de BPA  Púrpura y rojo 
 ---
 
 Ahora mismo tienes [HelpCuisine infusor de te/infusionador/colador te/filtro te/infusores de te  hecho de silicona 100% alimentaria libre de BPA  Púrpura y rojo ](https://www.amazon.es/dp/B075PQKCK3/?tag=tolees-21) a 10.98 EUR (original: 20.98 EUR) (47.66 %  de descuento) en el siguiente enlace!

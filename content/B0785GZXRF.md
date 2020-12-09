@@ -10,8 +10,11 @@ author: ring
 slug: B0785GZXRF
 description:
 actualPrice: 78 EUR
+currency: EUR
+price: 78
 comparePrice: 129.95 EUR
 inStock: true
+prodname: Gore Wear 100355 Mallas  Mujer  Negro  Hibiscus Pink   40
 ---
 
 Ahora mismo tienes [Gore Wear 100355 Mallas  Mujer  Negro  Hibiscus Pink   40](https://www.amazon.es/dp/B0785GZXRF/?tag=tolees-21) a 78 EUR (original: 129.95 EUR) (39.98 %  de descuento) en el siguiente enlace!

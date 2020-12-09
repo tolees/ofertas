@@ -10,8 +10,11 @@ author: ring
 slug: B072HJ7WCF
 description:
 actualPrice: 26.19 EUR
+currency: EUR
+price: 26.19
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Vileda Surprise - Tendedero Extensible de Acero y Aluminio  Espacio de Tendido de 11 hasta 20m  Soporte para Artículos Pequeños  Dimensiones Abierto  color Blanco  110-187 x 61 x 94 cm
 ---
 
 Ahora mismo tienes [Vileda Surprise - Tendedero Extensible de Acero y Aluminio  Espacio de Tendido de 11 hasta 20m  Soporte para Artículos Pequeños  Dimensiones Abierto  color Blanco  110-187 x 61 x 94 cm](https://www.amazon.es/dp/B072HJ7WCF/?tag=tolees-21) a 26.19 EUR (original: 39.99 EUR) (34.51 %  de descuento) en el siguiente enlace!

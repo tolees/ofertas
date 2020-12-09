@@ -10,8 +10,11 @@ author: ring
 slug: B083QDTVTM
 description:
 actualPrice: 0.99 EUR
+currency: EUR
+price: 0.99
 comparePrice: 1.66 EUR
 inStock: true
+prodname: 1 conector coaxial SMA macho RF para LMR300 recto chapado en oro
 ---
 
 Ahora mismo tienes [1 conector coaxial SMA macho RF para LMR300 recto chapado en oro](https://www.amazon.es/dp/B083QDTVTM/?tag=tolees-21) a 0.99 EUR (original: 1.66 EUR) (40.36 %  de descuento) en el siguiente enlace!

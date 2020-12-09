@@ -10,8 +10,11 @@ author: ring
 slug: B07DHZ6D2P
 description:
 actualPrice: 35.41 EUR
+currency: EUR
+price: 35.41
 comparePrice: 50.0 EUR
 inStock: true
+prodname: New Balance 411  Zapatillas de Running para Niñas  Negro  Triple Black   35 EU
 ---
 
 Tienes [New Balance 411  Zapatillas de Running para Niñas  Negro  Triple Black   35 EU](https://www.amazon.es/dp/B07DHZ6D2P/?tag=tolees-21) con un 29.18 % de descuento con precio de oferta de 35.41 EUR (original: 50.0 EUR) en el siguiente enlace!

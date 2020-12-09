@@ -10,8 +10,11 @@ author: ring
 slug: B077MPJSSD
 description:
 actualPrice: 29.34 EUR
+currency: EUR
+price: 29.34
 comparePrice: 54.95 EUR
 inStock: true
+prodname: PUMA St Runner V2 NL  Zapatillas Unisex Adulto  Negro Black White  48.5 EU
 ---
 
 Tienes [PUMA St Runner V2 NL  Zapatillas Unisex Adulto  Negro Black White  48.5 EU](https://www.amazon.es/dp/B077MPJSSD/?tag=tolees-21) con un 46.61 % de descuento con precio de oferta de 29.34 EUR (original: 54.95 EUR) en el siguiente enlace!

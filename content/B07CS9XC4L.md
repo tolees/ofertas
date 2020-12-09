@@ -10,8 +10,11 @@ author: ring
 slug: B07CS9XC4L
 description:
 actualPrice: 22.27 EUR
+currency: EUR
+price: 22.27
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Pepe Jeans Downing suéter    Blueing 565   X-Large para Hombre
 ---
 
 Tienes [Pepe Jeans Downing suéter    Blueing 565   X-Large para Hombre](https://www.amazon.es/dp/B07CS9XC4L/?tag=tolees-21) con un 68.14 % de descuento con precio de oferta de 22.27 EUR (original: 69.9 EUR) en el siguiente enlace!

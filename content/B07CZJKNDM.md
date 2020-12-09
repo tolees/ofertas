@@ -10,8 +10,11 @@ author: ring
 slug: B07CZJKNDM
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 85.99 EUR
 inStock: true
+prodname: Rowenta DW8215D1 ProMaster Plancha de Ropa con Golpe 200 Vapor Continuo de 40 g/min  Suela Microsteam 400 HD Profile  Modo Eco y Sistema antical Integrado  2800 W  0.3 litros  Acero Inoxidable  Azul
 ---
 
 Ahora mismo tienes [Rowenta DW8215D1 ProMaster Plancha de Ropa con Golpe 200 Vapor Continuo de 40 g/min  Suela Microsteam 400 HD Profile  Modo Eco y Sistema antical Integrado  2800 W  0.3 litros  Acero Inoxidable  Azul](https://www.amazon.es/dp/B07CZJKNDM/?tag=tolees-21) a 63.99 EUR (original: 85.99 EUR) (25.58 %  de descuento) en el siguiente enlace!

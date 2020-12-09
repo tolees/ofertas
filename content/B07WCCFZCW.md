@@ -10,8 +10,11 @@ author: ring
 slug: B07WCCFZCW
 description:
 actualPrice: 8.02 EUR
+currency: EUR
+price: 8.02
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Springfield 5Ba Mao AOP Slim-c/99 Polo  Blanco  White 99   L  Tamaño del Fabricante: L  para Hombre
 ---
 
 Ahora mismo tienes [Springfield 5Ba Mao AOP Slim-c/99 Polo  Blanco  White 99   L  Tamaño del Fabricante: L  para Hombre](https://www.amazon.es/dp/B07WCCFZCW/?tag=tolees-21) a 8.02 EUR (original: 25.99 EUR) (69.14 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BQQDSSB
 description:
 actualPrice: 28.89 EUR
+currency: EUR
+price: 28.89
 comparePrice: 56.99 EUR
 inStock: true
+prodname: Auriculares Inalámbricos con Cancelación Activa de Ruido Bluetooth 5.0 - Srhythm NC75 Pro con Micrófono CVC8.0  Carga Rápida  Hi-Fi  40+ horas de Reproducción - Baja Latencia
 ---
 
 Tienes [Auriculares Inalámbricos con Cancelación Activa de Ruido Bluetooth 5.0 - Srhythm NC75 Pro con Micrófono CVC8.0  Carga Rápida  Hi-Fi  40+ horas de Reproducción - Baja Latencia](https://www.amazon.es/dp/B07BQQDSSB/?tag=tolees-21) con un 49.31 % de descuento con precio de oferta de 28.89 EUR (original: 56.99 EUR) en el siguiente enlace!

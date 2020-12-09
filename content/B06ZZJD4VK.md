@@ -10,8 +10,11 @@ author: ring
 slug: B06ZZJD4VK
 description:
 actualPrice: 25.59 EUR
+currency: EUR
+price: 25.59
 comparePrice: 100 EUR
 inStock: true
+prodname: POC POCito VPD Spine Vest Protecciones  Unisex niños  Rosa  Fluorescente Pink   Small
 ---
 
 Ahora mismo tienes [POC POCito VPD Spine Vest Protecciones  Unisex niños  Rosa  Fluorescente Pink   Small](https://www.amazon.es/dp/B06ZZJD4VK/?tag=tolees-21) a 25.59 EUR (original: 100 EUR) (74.41 %  de descuento) en el siguiente enlace!

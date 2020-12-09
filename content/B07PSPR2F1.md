@@ -10,8 +10,11 @@ author: ring
 slug: B07PSPR2F1
 description:
 actualPrice: 3.93 EUR
+currency: EUR
+price: 3.93
 comparePrice: 11.94 EUR
 inStock: true
+prodname: Bourjois Velvet The Pencil - Pintalabios Tono 16 Rouge Di vin  3g
 ---
 
 Está [Bourjois Velvet The Pencil - Pintalabios Tono 16 Rouge Di vin  3g](https://www.amazon.es/dp/B07PSPR2F1/?tag=tolees-21) con 67.09 de descuento por 3.93 EUR (original: 11.94 EUR) en el siguiente enlace!

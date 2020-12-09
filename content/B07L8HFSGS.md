@@ -10,8 +10,11 @@ author: ring
 slug: B07L8HFSGS
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 45.95 EUR
 inStock: true
+prodname: Montse Interiors Funda nórdica Estampada  Triangle  para Cama de 90x190/200  Nórdico de 150  
 ---
 
 Está [Montse Interiors Funda nórdica Estampada  Triangle  para Cama de 90x190/200  Nórdico de 150  ](https://www.amazon.es/dp/B07L8HFSGS/?tag=tolees-21) con 34.82 de descuento por 29.95 EUR (original: 45.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GNPPCWR
 description:
 actualPrice: 31.5 EUR
+currency: EUR
+price: 31.5
 comparePrice: 50 EUR
 inStock: true
+prodname: find. Rib Cardigan Chaqueta Punto Gris Grey  48  Talla del Fabricante: XXX-Large 
 ---
 
 Está [find. Rib Cardigan Chaqueta Punto Gris Grey  48  Talla del Fabricante: XXX-Large ](https://www.amazon.es/dp/B07GNPPCWR/?tag=tolees-21) con 37.00 de descuento por 31.5 EUR (original: 50 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00FXKJPKI
 description:
 actualPrice: 56.54 EUR
+currency: EUR
+price: 56.54
 comparePrice: 131 EUR
 inStock: true
+prodname: Nike W Air Zoom Fearless FK 2  Zapatillas de Cross para Mujer   Black/White 001   37.5 EU
 ---
 
 Está [Nike W Air Zoom Fearless FK 2  Zapatillas de Cross para Mujer   Black/White 001   37.5 EU](https://www.amazon.es/dp/B00FXKJPKI/?tag=tolees-21) con 56.84 de descuento por 56.54 EUR (original: 131 EUR) en el siguiente enlace!

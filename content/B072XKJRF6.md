@@ -10,8 +10,11 @@ author: ring
 slug: B072XKJRF6
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: dodocool Reproductor Música Alta Resolución de Audio HiFi Music Player 8GB Sonido Digital con Grabadora de Voz y FM Radio 30 Horas 2" LCD
 ---
 
 Está [dodocool Reproductor Música Alta Resolución de Audio HiFi Music Player 8GB Sonido Digital con Grabadora de Voz y FM Radio 30 Horas 2" LCD](https://www.amazon.es/dp/B072XKJRF6/?tag=tolees-21) con 28.58 de descuento por 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

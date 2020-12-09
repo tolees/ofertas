@@ -10,8 +10,11 @@ author: ring
 slug: B00DWAEEN4
 description:
 actualPrice: 72.93 EUR
+currency: EUR
+price: 72.93
 comparePrice: 125.44 EUR
 inStock: true
+prodname: SimonRack G07100220212602 - Huerto urbano  200 l  850 x 1200 x 600 mm  color verde/galvanizado
 ---
 
 Está [SimonRack G07100220212602 - Huerto urbano  200 l  850 x 1200 x 600 mm  color verde/galvanizado](https://www.amazon.es/dp/B00DWAEEN4/?tag=tolees-21) con 41.86 de descuento por 72.93 EUR (original: 125.44 EUR) en el siguiente enlace!

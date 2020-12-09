@@ -10,8 +10,11 @@ author: ring
 slug: B074HQG8CB
 description:
 actualPrice: 53.53 EUR
+currency: EUR
+price: 53.53
 comparePrice: 109.95 EUR
 inStock: true
+prodname: Skechers Performance Go Run 6  Zapatillas Deportivas para Interior para Hombre  Gris  Charcoal   41 EU
 ---
 
 Está [Skechers Performance Go Run 6  Zapatillas Deportivas para Interior para Hombre  Gris  Charcoal   41 EU](https://www.amazon.es/dp/B074HQG8CB/?tag=tolees-21) con 51.31 de descuento por 53.53 EUR (original: 109.95 EUR) en el siguiente enlace!

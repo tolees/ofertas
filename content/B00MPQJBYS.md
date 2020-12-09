@@ -10,8 +10,11 @@ author: ring
 slug: B00MPQJBYS
 description:
 actualPrice: 49.95 EUR
+currency: EUR
+price: 49.95
 comparePrice: 67.44 EUR
 inStock: true
+prodname: Cluse Reloj Analógico de Cuarzo para Mujer con Correa de Cuero – CL18001
 ---
 
 Está [Cluse Reloj Analógico de Cuarzo para Mujer con Correa de Cuero – CL18001](https://www.amazon.es/dp/B00MPQJBYS/?tag=tolees-21) con 25.93 de descuento por 49.95 EUR (original: 67.44 EUR) en el siguiente enlace!

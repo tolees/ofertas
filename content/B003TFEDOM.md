@@ -10,8 +10,11 @@ author: ring
 slug: B003TFEDOM
 description:
 actualPrice: 39.9 EUR
+currency: EUR
+price: 39.9
 comparePrice: 120 EUR
 inStock: true
+prodname: Timberland Authentic 6" - Botas para Niños  Marrón  Medium Brown   35 EU
 ---
 
 Ahora mismo tienes [Timberland Authentic 6" - Botas para Niños  Marrón  Medium Brown   35 EU](https://www.amazon.es/dp/B003TFEDOM/?tag=tolees-21) a 39.9 EUR (original: 120 EUR) (66.75 %  de descuento) en el siguiente enlace!

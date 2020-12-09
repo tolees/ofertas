@@ -10,8 +10,11 @@ author: ring
 slug: B07NM2MWHW
 description:
 actualPrice: 33.65 EUR
+currency: EUR
+price: 33.65
 comparePrice: 44.99 EUR
 inStock: true
+prodname: NIKE Revolution 5  Zapatillas  Negro  37.5 EU
 ---
 
 Tienes [NIKE Revolution 5  Zapatillas  Negro  37.5 EU](https://www.amazon.es/dp/B07NM2MWHW/?tag=tolees-21) con un 25.21 % de descuento con precio de oferta de 33.65 EUR (original: 44.99 EUR) en el siguiente enlace!

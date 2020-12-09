@@ -10,8 +10,11 @@ author: ring
 slug: B07KFG4BQK
 description:
 actualPrice: 45.45 EUR
+currency: EUR
+price: 45.45
 comparePrice: 65 EUR
 inStock: true
+prodname: Asics Curreo II  Zapatillas de Running para Hombre   Midnight/White 401   44 EU
 ---
 
 Ahora mismo tienes [Asics Curreo II  Zapatillas de Running para Hombre   Midnight/White 401   44 EU](https://www.amazon.es/dp/B07KFG4BQK/?tag=tolees-21) a 45.45 EUR (original: 65 EUR) (30.08 %  de descuento) en el siguiente enlace!

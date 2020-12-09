@@ -10,8 +10,11 @@ author: ring
 slug: B07BFNXXNC
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Houzetek Purificador de Aire Portátil  Mini Purificador y ionizador para Coche  Ambientador  Iones Negativos Limpiador de Aire para Coche  Automóvil  360 Grados Eliminar PM2.5  Alergias  Bacterias
 ---
 
 Ahora mismo tienes [Houzetek Purificador de Aire Portátil  Mini Purificador y ionizador para Coche  Ambientador  Iones Negativos Limpiador de Aire para Coche  Automóvil  360 Grados Eliminar PM2.5  Alergias  Bacterias](https://www.amazon.es/dp/B07BFNXXNC/?tag=tolees-21) a 16.99 EUR (original: 39.99 EUR) (57.51 %  de descuento) en el siguiente enlace!

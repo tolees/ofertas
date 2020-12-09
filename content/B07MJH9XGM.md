@@ -10,8 +10,11 @@ author: ring
 slug: B07MJH9XGM
 description:
 actualPrice: 61.03 EUR
+currency: EUR
+price: 61.03
 comparePrice: 130 EUR
 inStock: true
+prodname: Michael Kors Cambria Mule  Zapatos de Boda para Mujer  Negro  Black 001   40 EU  9 US 
 ---
 
 Ahora mismo tienes [Michael Kors Cambria Mule  Zapatos de Boda para Mujer  Negro  Black 001   40 EU  9 US ](https://www.amazon.es/dp/B07MJH9XGM/?tag=tolees-21) a 61.03 EUR (original: 130 EUR) (53.05 %  de descuento) en el siguiente enlace!

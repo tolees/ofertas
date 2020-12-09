@@ -10,8 +10,11 @@ author: ring
 slug: B07FDGRRLN
 description:
 actualPrice: 17.34 EUR
+currency: EUR
+price: 17.34
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Blend Denim Jogg shorts  Bañador Hombre  Gris  Denim Grey 76205   W32  Talla fabricante: L 
 ---
 
 Está [Blend Denim Jogg shorts  Bañador Hombre  Gris  Denim Grey 76205   W32  Talla fabricante: L ](https://www.amazon.es/dp/B07FDGRRLN/?tag=tolees-21) con 56.60 de descuento por 17.34 EUR (original: 39.95 EUR) en el siguiente enlace!

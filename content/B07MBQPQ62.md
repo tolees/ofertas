@@ -10,8 +10,11 @@ author: ring
 slug: B07MBQPQ62
 description:
 actualPrice: 172.57 EUR
+currency: EUR
+price: 172.57
 comparePrice: 254.99 EUR
 inStock: true
+prodname: Samsung 970 Evo Plus  Unidad de Estado Sólido M.2 1000GB V-NAND MLC  PCI Express 3.0  Negro
 ---
 
 Ahora mismo tienes [Samsung 970 Evo Plus  Unidad de Estado Sólido M.2 1000GB V-NAND MLC  PCI Express 3.0  Negro](https://www.amazon.es/dp/B07MBQPQ62/?tag=tolees-21) a 172.57 EUR (original: 254.99 EUR) (32.32 %  de descuento) en el siguiente enlace!

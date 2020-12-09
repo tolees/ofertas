@@ -10,8 +10,11 @@ author: ring
 slug: B01MS5ZTRI
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Atornillador  TACKLIFE SDH13DC Destornillador Eléctrico Par de Salida 4Nm Máx  Taladro sin Cable  Cabeza Extraíble  Luz LED  6 Velocidad Giratoria Ajustable 
 ---
 
 Tienes [Atornillador  TACKLIFE SDH13DC Destornillador Eléctrico Par de Salida 4Nm Máx  Taladro sin Cable  Cabeza Extraíble  Luz LED  6 Velocidad Giratoria Ajustable ](https://www.amazon.es/dp/B01MS5ZTRI/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KJ8D5KL
 description:
 actualPrice: 18.95 EUR
+currency: EUR
+price: 18.95
 comparePrice: 29.95 EUR
 inStock: true
+prodname: adidas W E 3S Mallas  Mujer  brgros/rosaut  L
 ---
 
 Tienes [adidas W E 3S Mallas  Mujer  brgros/rosaut  L](https://www.amazon.es/dp/B07KJ8D5KL/?tag=tolees-21) con un 36.73 % de descuento con precio de oferta de 18.95 EUR (original: 29.95 EUR) en el siguiente enlace!

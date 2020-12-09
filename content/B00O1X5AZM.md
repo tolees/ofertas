@@ -10,8 +10,11 @@ author: ring
 slug: B00O1X5AZM
 description:
 actualPrice: 16.82 EUR
+currency: EUR
+price: 16.82
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Blend Twister - Vaqueros para hombre  Azul  76203 Denim clearblue   W33 / L30  ES 44 
 ---
 
 Ahora mismo tienes [Blend Twister - Vaqueros para hombre  Azul  76203 Denim clearblue   W33 / L30  ES 44 ](https://www.amazon.es/dp/B00O1X5AZM/?tag=tolees-21) a 16.82 EUR (original: 39.95 EUR) (57.90 %  de descuento) en el siguiente enlace!

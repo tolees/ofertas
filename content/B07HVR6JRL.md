@@ -10,8 +10,11 @@ author: ring
 slug: B07HVR6JRL
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 20 EUR
 inStock: true
+prodname: ETSAMOR Caja de Almacenamiento de Plástico 5pcs Cajas y organizadores de Joyas 15 Cuadrícula con Deflector Extraíble para Anillos Collares Pendientes
 ---
 
 Ahora mismo tienes [ETSAMOR Caja de Almacenamiento de Plástico 5pcs Cajas y organizadores de Joyas 15 Cuadrícula con Deflector Extraíble para Anillos Collares Pendientes](https://www.amazon.es/dp/B07HVR6JRL/?tag=tolees-21) a 10.99 EUR (original: 20 EUR) (45.05 %  de descuento) en el siguiente enlace!

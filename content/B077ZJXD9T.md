@@ -10,8 +10,11 @@ author: ring
 slug: B077ZJXD9T
 description:
 actualPrice: 9.87 EUR
+currency: EUR
+price: 9.87
 comparePrice: 22 EUR
 inStock: true
+prodname: find. Sudadera Manga Abullonada Mujer  Negro  Black   Small
 ---
 
 Está [find. Sudadera Manga Abullonada Mujer  Negro  Black   Small](https://www.amazon.es/dp/B077ZJXD9T/?tag=tolees-21) con 55.14 de descuento por 9.87 EUR (original: 22 EUR) en el siguiente enlace!

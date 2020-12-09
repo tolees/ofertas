@@ -10,8 +10,11 @@ author: ring
 slug: B07W4DG8RF
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 62.0 EUR
 inStock: true
+prodname: Logitech G332 Auriculares Gaming con Cable  Audio Estéreo  Transductores 50 mm  3.5 mm Jack  Micrófono Volteable para Silenciar  Ligero  PC/Mac/Xbox One/PS4/Nintendo Switch  Negro/Blanco
 ---
 
 Está [Logitech G332 Auriculares Gaming con Cable  Audio Estéreo  Transductores 50 mm  3.5 mm Jack  Micrófono Volteable para Silenciar  Ligero  PC/Mac/Xbox One/PS4/Nintendo Switch  Negro/Blanco](https://www.amazon.es/dp/B07W4DG8RF/?tag=tolees-21) con 35.50 de descuento por 39.99 EUR (original: 62.0 EUR) en el siguiente enlace!

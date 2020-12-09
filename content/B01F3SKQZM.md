@@ -10,8 +10,11 @@ author: ring
 slug: B01F3SKQZM
 description:
 actualPrice: 4.5 EUR
+currency: EUR
+price: 4.5
 comparePrice: 12.88 EUR
 inStock: true
+prodname: Star Trek 5: L ultima Frontiera  Steelbook   Blu-Ray  [Italia] [Blu-ray]
 ---
 
 Ahora mismo tienes [Star Trek 5: L ultima Frontiera  Steelbook   Blu-Ray  [Italia] [Blu-ray]](https://www.amazon.es/dp/B01F3SKQZM/?tag=tolees-21) a 4.5 EUR (original: 12.88 EUR) (65.06 %  de descuento) en el siguiente enlace!

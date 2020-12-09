@@ -10,8 +10,11 @@ author: ring
 slug: B07FDT8P4X
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 49.99 EUR
 inStock: true
+prodname: 428: Shibuya Scramble - Edición Estándar
 ---
 
 Ahora mismo tienes [428: Shibuya Scramble - Edición Estándar](https://www.amazon.es/dp/B07FDT8P4X/?tag=tolees-21) a 29.9 EUR (original: 49.99 EUR) (40.19 %  de descuento) en el siguiente enlace!

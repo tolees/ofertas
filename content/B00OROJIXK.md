@@ -10,14 +10,19 @@ author: ring
 slug: B00OROJIXK
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Tenga Air Tech Strong  Funda Masturbadora  6.9 × 15.5 x 6.9 cm  Color Rojo / Negro - 235 gr
 ---
 
-Ahora mismo tienes [Tenga Air Tech Strong  Funda Masturbadora  6.9 × 15.5 x 6.9 cm  Color Rojo / Negro - 235 gr](https://www.amazon.es/dp/B00OROJIXK/?tag=tolees-21) a 17.5 EUR (original: 25.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [Tenga Air Tech Strong  Funda Masturbadora  6.9 × 15.5 x 6.9 cm  Color Rojo / Negro - 235 gr](https://www.amazon.es/dp/B00OROJIXK/?tag=tolees-21) con 30.00 de descuento por 17.5 EUR (original: 25.0 EUR) en el siguiente enlace!
 
 [![Tenga Air Tech Strong  Funda Masturbador](https://m.media-amazon.com/images/I/41WeGOUF9FL._SL200_.jpg)](https://www.amazon.es/dp/B00OROJIXK/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00OROJIXK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00OROJIXK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

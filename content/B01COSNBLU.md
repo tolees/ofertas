@@ -10,8 +10,11 @@ author: ring
 slug: B01COSNBLU
 description:
 actualPrice: 39.47 EUR
+currency: EUR
+price: 39.47
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Gant Barstripe Pique Rugger  Polo para Hombre  Blanco  White 110   Medium
 ---
 
 Ahora mismo tienes [Gant Barstripe Pique Rugger  Polo para Hombre  Blanco  White 110   Medium](https://www.amazon.es/dp/B01COSNBLU/?tag=tolees-21) a 39.47 EUR (original: 99.99 EUR) (60.53 %  de descuento) en el siguiente enlace!

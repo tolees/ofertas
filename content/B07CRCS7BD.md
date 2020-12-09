@@ -10,8 +10,11 @@ author: ring
 slug: B07CRCS7BD
 description:
 actualPrice: 16.07 EUR
+currency: EUR
+price: 16.07
 comparePrice: 79.9 EUR
 inStock: true
+prodname: Pepe Jeans Aurelie Pantalones    Blue 551   W32 Taille Fabricant XL para Mujer
 ---
 
 Tienes [Pepe Jeans Aurelie Pantalones    Blue 551   W32 Taille Fabricant XL para Mujer](https://www.amazon.es/dp/B07CRCS7BD/?tag=tolees-21) con un 79.89 % de descuento con precio de oferta de 16.07 EUR (original: 79.9 EUR) en el siguiente enlace!

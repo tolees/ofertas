@@ -10,8 +10,11 @@ author: ring
 slug: B01KMP8IYM
 description:
 actualPrice: 19.98 EUR
+currency: EUR
+price: 19.98
 comparePrice: 35 EUR
 inStock: true
+prodname: Levi s - Constructed Basics Mini Crossbody  Bolsos bandolera Unisex adulto  Bleu  Navy Blue 
 ---
 
 Está [Levi s - Constructed Basics Mini Crossbody  Bolsos bandolera Unisex adulto  Bleu  Navy Blue ](https://www.amazon.es/dp/B01KMP8IYM/?tag=tolees-21) con 42.91 de descuento por 19.98 EUR (original: 35 EUR) en el siguiente enlace!

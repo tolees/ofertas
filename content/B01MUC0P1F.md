@@ -10,8 +10,11 @@ author: ring
 slug: B01MUC0P1F
 description:
 actualPrice: 11.08 EUR
+currency: EUR
+price: 11.08
 comparePrice: 29.99 EUR
 inStock: true
+prodname: edc by Esprit 057cc1k012  Camiseta Mujer  Gris  Light Grey   40  Talla del Fabricante: Large 
 ---
 
 Está [edc by Esprit 057cc1k012  Camiseta Mujer  Gris  Light Grey   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01MUC0P1F/?tag=tolees-21) con 63.05 de descuento por 11.08 EUR (original: 29.99 EUR) en el siguiente enlace!

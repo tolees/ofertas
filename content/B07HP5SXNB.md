@@ -10,8 +10,11 @@ author: ring
 slug: B07HP5SXNB
 description:
 actualPrice: 21.6 EUR
+currency: EUR
+price: 21.6
 comparePrice: 50 EUR
 inStock: true
+prodname: Volcom Men s Frickin Modern Stretch Chino Shorts  Hombre  Blue  33
 ---
 
 Ahora mismo tienes [Volcom Men s Frickin Modern Stretch Chino Shorts  Hombre  Blue  33](https://www.amazon.es/dp/B07HP5SXNB/?tag=tolees-21) a 21.6 EUR (original: 50 EUR) (56.80 %  de descuento) en el siguiente enlace!

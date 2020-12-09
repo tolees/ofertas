@@ -10,8 +10,11 @@ author: ring
 slug: B01N80YZEK
 description:
 actualPrice: 61.78 EUR
+currency: EUR
+price: 61.78
 comparePrice: 190 EUR
 inStock: true
+prodname: Camper Peu Cami  Botas altas para Mujer  Negro  Black 001   36 EU
 ---
 
 Tienes [Camper Peu Cami  Botas altas para Mujer  Negro  Black 001   36 EU](https://www.amazon.es/dp/B01N80YZEK/?tag=tolees-21) con un 67.48 % de descuento con precio de oferta de 61.78 EUR (original: 190 EUR) en el siguiente enlace!

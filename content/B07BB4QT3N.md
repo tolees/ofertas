@@ -10,8 +10,11 @@ author: ring
 slug: B07BB4QT3N
 description:
 actualPrice: 15 EUR
+currency: EUR
+price: 15
 comparePrice: 30 EUR
 inStock: true
+prodname: The North Face T93L6M Camiseta De Manga Corta  Unisex niños  Cosmic Blue  S
 ---
 
 Tienes [The North Face T93L6M Camiseta De Manga Corta  Unisex niños  Cosmic Blue  S](https://www.amazon.es/dp/B07BB4QT3N/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 15 EUR (original: 30 EUR) en el siguiente enlace!

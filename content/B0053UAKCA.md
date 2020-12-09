@@ -10,8 +10,11 @@ author: ring
 slug: B0053UAKCA
 description:
 actualPrice: 15.21 EUR
+currency: EUR
+price: 15.21
 comparePrice: 33 EUR
 inStock: true
+prodname: Schwarzkopf Bc Oil Miracle Finishing - Cuidado capilar  100 ml
 ---
 
 Está [Schwarzkopf Bc Oil Miracle Finishing - Cuidado capilar  100 ml](https://www.amazon.es/dp/B0053UAKCA/?tag=tolees-21) con 53.91 de descuento por 15.21 EUR (original: 33 EUR) en el siguiente enlace!

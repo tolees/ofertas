@@ -10,8 +10,11 @@ author: ring
 slug: B07M8QC4KR
 description:
 actualPrice: 33.3 EUR
+currency: EUR
+price: 33.3
 comparePrice: 90.0 EUR
 inStock: true
+prodname: Asics GELSAGA SOU  Running Shoe Mens  White/White  44.5 EU
 ---
 
 Tienes [Asics GELSAGA SOU  Running Shoe Mens  White/White  44.5 EU](https://www.amazon.es/dp/B07M8QC4KR/?tag=tolees-21) con un 63.00 % de descuento con precio de oferta de 33.3 EUR (original: 90.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01LZ7UYM5
 description:
 actualPrice: 19.03 EUR
+currency: EUR
+price: 19.03
 comparePrice: 54 EUR
 inStock: true
+prodname: Lorus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable RG217LX9
 ---
 
 Ahora mismo tienes [Lorus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable RG217LX9](https://www.amazon.es/dp/B01LZ7UYM5/?tag=tolees-21) a 19.03 EUR (original: 54 EUR) (64.76 %  de descuento) en el siguiente enlace!

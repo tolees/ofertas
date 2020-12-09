@@ -10,8 +10,11 @@ author: ring
 slug: B07F3VRTKW
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 28.5 EUR
 inStock: true
+prodname: BLDEN Gafas de Sol Polarizadas Mujer  Moda Casual Estilo Gafas de Sol Oval Elegante UV 400 Protection
 ---
 
 Ahora mismo tienes [BLDEN Gafas de Sol Polarizadas Mujer  Moda Casual Estilo Gafas de Sol Oval Elegante UV 400 Protection](https://www.amazon.es/dp/B07F3VRTKW/?tag=tolees-21) a 13.99 EUR (original: 28.5 EUR) (50.91 %  de descuento) en el siguiente enlace!

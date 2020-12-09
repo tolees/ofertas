@@ -10,8 +10,11 @@ author: ring
 slug: B071S5PCZZ
 description:
 actualPrice: 80.27 EUR
+currency: EUR
+price: 80.27
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Columbia Chaqueta Impermeable para Mujer  Largo Medio  Powder Lite Mid Jacket  Negro  Black   Talla L
 ---
 
 Tienes [Columbia Chaqueta Impermeable para Mujer  Largo Medio  Powder Lite Mid Jacket  Negro  Black   Talla L](https://www.amazon.es/dp/B071S5PCZZ/?tag=tolees-21) con un 46.48 % de descuento con precio de oferta de 80.27 EUR (original: 149.99 EUR) en el siguiente enlace!

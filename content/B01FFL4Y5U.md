@@ -10,8 +10,11 @@ author: ring
 slug: B01FFL4Y5U
 description:
 actualPrice: 16.49 EUR
+currency: EUR
+price: 16.49
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Under Armour HG Armour 2.0 Long Short Pantalón Corto  Hombre  Blanco  White/Graphite 100   XL
 ---
 
 Ahora mismo tienes [Under Armour HG Armour 2.0 Long Short Pantalón Corto  Hombre  Blanco  White/Graphite 100   XL](https://www.amazon.es/dp/B01FFL4Y5U/?tag=tolees-21) a 16.49 EUR (original: 29.99 EUR) (45.02 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0791TJWRP
 description:
 actualPrice: 28.27 EUR
+currency: EUR
+price: 28.27
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Gris  Shark Skin/Magnet/White CG   45 EU
 ---
 
 Tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Gris  Shark Skin/Magnet/White CG   45 EU](https://www.amazon.es/dp/B0791TJWRP/?tag=tolees-21) con un 68.59 % de descuento con precio de oferta de 28.27 EUR (original: 90 EUR) en el siguiente enlace!

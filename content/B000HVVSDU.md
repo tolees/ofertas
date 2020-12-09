@@ -10,8 +10,11 @@ author: ring
 slug: B000HVVSDU
 description:
 actualPrice: 22.52 EUR
+currency: EUR
+price: 22.52
 comparePrice: 35.82 EUR
 inStock: true
+prodname: Magna Cart MCX Carretilla Plegable  Aluminio
 ---
 
 Ahora mismo tienes [Magna Cart MCX Carretilla Plegable  Aluminio](https://www.amazon.es/dp/B000HVVSDU/?tag=tolees-21) a 22.52 EUR (original: 35.82 EUR) (37.13 %  de descuento) en el siguiente enlace!

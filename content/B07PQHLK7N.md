@@ -10,8 +10,11 @@ author: ring
 slug: B07PQHLK7N
 description:
 actualPrice: 62.59 EUR
+currency: EUR
+price: 62.59
 comparePrice: 109.95 EUR
 inStock: true
+prodname: MARTINELLI Bota de Piel Warren 1456
 ---
 
 Está [MARTINELLI Bota de Piel Warren 1456](https://www.amazon.es/dp/B07PQHLK7N/?tag=tolees-21) con 43.07 de descuento por 62.59 EUR (original: 109.95 EUR) en el siguiente enlace!

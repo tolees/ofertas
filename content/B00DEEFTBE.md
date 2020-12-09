@@ -10,8 +10,11 @@ author: ring
 slug: B00DEEFTBE
 description:
 actualPrice: 18.4 EUR
+currency: EUR
+price: 18.4
 comparePrice: 45 EUR
 inStock: true
+prodname: Radiant Reloj analogico para Hombre de Cuarzo con Correa en Caucho RA179202
 ---
 
 Está [Radiant Reloj analogico para Hombre de Cuarzo con Correa en Caucho RA179202](https://www.amazon.es/dp/B00DEEFTBE/?tag=tolees-21) con 59.11 de descuento por 18.4 EUR (original: 45 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07QD1DG9Z
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Corsair Glaive RGB Pro - Ratón cómodo para Juegos FPS/MOBA  agarres Intercambiables  Aluminio  retroiluminación LED RGB  18.000 PPP  óptico  Negro
 ---
 
 Está [Corsair Glaive RGB Pro - Ratón cómodo para Juegos FPS/MOBA  agarres Intercambiables  Aluminio  retroiluminación LED RGB  18.000 PPP  óptico  Negro](https://www.amazon.es/dp/B07QD1DG9Z/?tag=tolees-21) con 25.00 de descuento por 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!

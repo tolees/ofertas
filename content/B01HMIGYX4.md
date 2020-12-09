@@ -10,8 +10,11 @@ author: ring
 slug: B01HMIGYX4
 description:
 actualPrice: 90.45 EUR
+currency: EUR
+price: 90.45
 comparePrice: 170 EUR
 inStock: true
+prodname: The North Face M Quest Insulated Jacket - Chaqueta para hombre  Azul  Urban Navy   M
 ---
 
 Tienes [The North Face M Quest Insulated Jacket - Chaqueta para hombre  Azul  Urban Navy   M](https://www.amazon.es/dp/B01HMIGYX4/?tag=tolees-21) con un 46.79 % de descuento con precio de oferta de 90.45 EUR (original: 170 EUR) en el siguiente enlace!

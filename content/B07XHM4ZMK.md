@@ -10,8 +10,11 @@ author: ring
 slug: B07XHM4ZMK
 description:
 actualPrice: 18.96 EUR
+currency: EUR
+price: 18.96
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Skechers DARLOW REMEGO   Zapatillas para Hombre  Tela Vaquera Azul  45 EU
 ---
 
 Tienes [Skechers DARLOW REMEGO   Zapatillas para Hombre  Tela Vaquera Azul  45 EU](https://www.amazon.es/dp/B07XHM4ZMK/?tag=tolees-21) con un 72.89 % de descuento con precio de oferta de 18.96 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FDN2P5G
 description:
 actualPrice: 12.5 EUR
+currency: EUR
+price: 12.5
 comparePrice: 25.98 EUR
 inStock: true
+prodname: Cristal Oscuro  4K UHD + BD  [Blu-ray]
 ---
 
 Ahora mismo tienes [Cristal Oscuro  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07FDN2P5G/?tag=tolees-21) a 12.5 EUR (original: 25.98 EUR) (51.89 %  de descuento) en el siguiente enlace!

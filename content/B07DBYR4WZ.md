@@ -10,8 +10,11 @@ author: ring
 slug: B07DBYR4WZ
 description:
 actualPrice: 31.47 EUR
+currency: EUR
+price: 31.47
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Puma Puma Vikky v2 Zapatillas Mujer  Gris  Silver Gray-White-Puma Silver   40 EU  6.5 UK 
 ---
 
 Tienes [Puma Puma Vikky v2 Zapatillas Mujer  Gris  Silver Gray-White-Puma Silver   40 EU  6.5 UK ](https://www.amazon.es/dp/B07DBYR4WZ/?tag=tolees-21) con un 42.73 % de descuento con precio de oferta de 31.47 EUR (original: 54.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07P2BCMSJ
 description:
 actualPrice: 17.49 EUR
+currency: EUR
+price: 17.49
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Superdry Classic Lite Micro Pique Polo  Verde  Oxidised Green Z6h   M para Hombre
 ---
 
 Ahora mismo tienes [Superdry Classic Lite Micro Pique Polo  Verde  Oxidised Green Z6h   M para Hombre](https://www.amazon.es/dp/B07P2BCMSJ/?tag=tolees-21) a 17.49 EUR (original: 49.99 EUR) (65.01 %  de descuento) en el siguiente enlace!

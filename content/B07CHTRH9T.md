@@ -10,8 +10,11 @@ author: ring
 slug: B07CHTRH9T
 description:
 actualPrice: 22.51 EUR
+currency: EUR
+price: 22.51
 comparePrice: 49.14 EUR
 inStock: true
+prodname: BOSS Casual Teedog 2  Camiseta Hombre  Blanco  White 100   Large
 ---
 
 Tienes [BOSS Casual Teedog 2  Camiseta Hombre  Blanco  White 100   Large](https://www.amazon.es/dp/B07CHTRH9T/?tag=tolees-21) con un 54.19 % de descuento con precio de oferta de 22.51 EUR (original: 49.14 EUR) en el siguiente enlace!

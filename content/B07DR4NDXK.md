@@ -10,8 +10,11 @@ author: ring
 slug: B07DR4NDXK
 description:
 actualPrice: 35.78 EUR
+currency: EUR
+price: 35.78
 comparePrice: 99.95 EUR
 inStock: true
+prodname: hummel Marathona  Zapatillas Unisex Adulto  Azul  Black Iris 1009   44 EU
 ---
 
 Está [hummel Marathona  Zapatillas Unisex Adulto  Azul  Black Iris 1009   44 EU](https://www.amazon.es/dp/B07DR4NDXK/?tag=tolees-21) con 64.20 de descuento por 35.78 EUR (original: 99.95 EUR) en el siguiente enlace!

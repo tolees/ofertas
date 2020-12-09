@@ -10,8 +10,11 @@ author: ring
 slug: B07DNJT3PY
 description:
 actualPrice: 9.82 EUR
+currency: EUR
+price: 9.82
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Lico Fondation  Zapatillas Unisex Adulto  Negro Schwarz  36 EU
 ---
 
 Está [Lico Fondation  Zapatillas Unisex Adulto  Negro Schwarz  36 EU](https://www.amazon.es/dp/B07DNJT3PY/?tag=tolees-21) con 75.42 de descuento por 9.82 EUR (original: 39.95 EUR) en el siguiente enlace!

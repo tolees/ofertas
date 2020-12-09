@@ -10,8 +10,11 @@ author: ring
 slug: B078BJTPN6
 description:
 actualPrice: 11.45 EUR
+currency: EUR
+price: 11.45
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Under Armour UA Boxed Sportstyle SS Camiseta  Hombre  Rojo  Red/Steel 600   XXL
 ---
 
 Está [Under Armour UA Boxed Sportstyle SS Camiseta  Hombre  Rojo  Red/Steel 600   XXL](https://www.amazon.es/dp/B078BJTPN6/?tag=tolees-21) con 55.94 de descuento por 11.45 EUR (original: 25.99 EUR) en el siguiente enlace!

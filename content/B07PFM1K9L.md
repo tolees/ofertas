@@ -10,8 +10,11 @@ author: ring
 slug: B07PFM1K9L
 description:
 actualPrice: 13.28 EUR
+currency: EUR
+price: 13.28
 comparePrice: 20.99 EUR
 inStock: true
+prodname: TiMOVO Funda para Nuevo iPad 8a Generación 2020 Nuevo iPad 7a Generación 10.2" 2019 iPad Air 2019  10.5"  3rd Generación  Resistente de Golpe Protector de EVA para Niño con Soporte de Maneja - Magenta
 ---
 
 Está [TiMOVO Funda para Nuevo iPad 8a Generación 2020 Nuevo iPad 7a Generación 10.2" 2019 iPad Air 2019  10.5"  3rd Generación  Resistente de Golpe Protector de EVA para Niño con Soporte de Maneja - Magenta](https://www.amazon.es/dp/B07PFM1K9L/?tag=tolees-21) con 36.73 de descuento por 13.28 EUR (original: 20.99 EUR) en el siguiente enlace!

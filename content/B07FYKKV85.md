@@ -10,8 +10,11 @@ author: ring
 slug: B07FYKKV85
 description:
 actualPrice: 21.73 EUR
+currency: EUR
+price: 21.73
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Wrangler LS 2pkt Flap Shir Camisa  Azul  Light Indigo P4e   Medium para Hombre
 ---
 
 Está [Wrangler LS 2pkt Flap Shir Camisa  Azul  Light Indigo P4e   Medium para Hombre](https://www.amazon.es/dp/B07FYKKV85/?tag=tolees-21) con 66.54 de descuento por 21.73 EUR (original: 64.95 EUR) en el siguiente enlace!

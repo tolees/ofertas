@@ -10,8 +10,11 @@ author: ring
 slug: B07DWFGG62
 description:
 actualPrice: 9.76 EUR
+currency: EUR
+price: 9.76
 comparePrice: 14.79 EUR
 inStock: true
+prodname: find. Suede Mocasines  Verde Khaki  44 EU
 ---
 
 Ahora mismo tienes [find. Suede Mocasines  Verde Khaki  44 EU](https://www.amazon.es/dp/B07DWFGG62/?tag=tolees-21) a 9.76 EUR (original: 14.79 EUR) (34.01 %  de descuento) en el siguiente enlace!

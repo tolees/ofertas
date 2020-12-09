@@ -10,8 +10,11 @@ author: ring
 slug: B01LW9KKGI
 description:
 actualPrice: 4.79 EUR
+currency: EUR
+price: 4.79
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Mick Morrison Vinko  sudadera Hombre  Negro  Schwarz   Large
 ---
 
 Está [Mick Morrison Vinko  sudadera Hombre  Negro  Schwarz   Large](https://www.amazon.es/dp/B01LW9KKGI/?tag=tolees-21) con 69.97 de descuento por 4.79 EUR (original: 15.95 EUR) en el siguiente enlace!

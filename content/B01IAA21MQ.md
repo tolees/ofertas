@@ -10,8 +10,11 @@ author: ring
 slug: B01IAA21MQ
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 38.31 EUR
 inStock: true
+prodname: Volcom Thrills Zehentrenner  Chanclas para Mujer   Gold   38 EU
 ---
 
 Tienes [Volcom Thrills Zehentrenner  Chanclas para Mujer   Gold   38 EU](https://www.amazon.es/dp/B01IAA21MQ/?tag=tolees-21) con un 63.59 % de descuento con precio de oferta de 13.95 EUR (original: 38.31 EUR) en el siguiente enlace!

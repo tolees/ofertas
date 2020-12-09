@@ -10,8 +10,11 @@ author: ring
 slug: B01J7VIUAY
 description:
 actualPrice: 20.0 EUR
+currency: EUR
+price: 20.0
 comparePrice: 40.97 EUR
 inStock: true
+prodname: X-Men: Saga Completa Blu-Ray [Blu-ray]
 ---
 
 Está [X-Men: Saga Completa Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B01J7VIUAY/?tag=tolees-21) con 51.18 de descuento por 20.0 EUR (original: 40.97 EUR) en el siguiente enlace!

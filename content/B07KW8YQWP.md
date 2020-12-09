@@ -10,8 +10,11 @@ author: ring
 slug: B07KW8YQWP
 description:
 actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
 comparePrice: 39.99 EUR
 inStock: true
+prodname: NAME IT Nlfpil Dnmtia 5151 Ancle Pant Noos Jeans  Gris Medium Grey Denim  176 para Niñas
 ---
 
 Está [NAME IT Nlfpil Dnmtia 5151 Ancle Pant Noos Jeans  Gris Medium Grey Denim  176 para Niñas](https://www.amazon.es/dp/B07KW8YQWP/?tag=tolees-21) con 80.12 de descuento por 7.95 EUR (original: 39.99 EUR) en el siguiente enlace!

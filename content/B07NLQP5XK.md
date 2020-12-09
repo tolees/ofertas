@@ -10,8 +10,11 @@ author: ring
 slug: B07NLQP5XK
 description:
 actualPrice: 7.49 EUR
+currency: EUR
+price: 7.49
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Veet Bandas de Cera Fria Depilatoria para Depilación Facial con Aceite de Almendras y Aroma de Aciano  Easy Gelwax  Pieles Sensibles  3 x 20 Bandas  Total 60 Unidades
 ---
 
 Está [Veet Bandas de Cera Fria Depilatoria para Depilación Facial con Aceite de Almendras y Aroma de Aciano  Easy Gelwax  Pieles Sensibles  3 x 20 Bandas  Total 60 Unidades](https://www.amazon.es/dp/B07NLQP5XK/?tag=tolees-21) con 31.85 de descuento por 7.49 EUR (original: 10.99 EUR) en el siguiente enlace!

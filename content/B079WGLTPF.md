@@ -10,8 +10,11 @@ author: ring
 slug: B079WGLTPF
 description:
 actualPrice: 35.45 EUR
+currency: EUR
+price: 35.45
 comparePrice: 65 EUR
 inStock: true
+prodname: Pepe Jeans Sloane PM210564 Pantalones  Marrón  Truffle 886   33W / 32L para Hombre
 ---
 
 Tienes [Pepe Jeans Sloane PM210564 Pantalones  Marrón  Truffle 886   33W / 32L para Hombre](https://www.amazon.es/dp/B079WGLTPF/?tag=tolees-21) con un 45.46 % de descuento con precio de oferta de 35.45 EUR (original: 65 EUR) en el siguiente enlace!

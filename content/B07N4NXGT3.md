@@ -10,8 +10,11 @@ author: ring
 slug: B07N4NXGT3
 description:
 actualPrice: 43.11 EUR
+currency: EUR
+price: 43.11
 comparePrice: 89 EUR
 inStock: true
+prodname: Superga 2790-SYNTCROCODILEW  Zapatillas para Mujer  Rosa  Pink Quartz 940   40 EU
 ---
 
 Está [Superga 2790-SYNTCROCODILEW  Zapatillas para Mujer  Rosa  Pink Quartz 940   40 EU](https://www.amazon.es/dp/B07N4NXGT3/?tag=tolees-21) con 51.56 de descuento por 43.11 EUR (original: 89 EUR) en el siguiente enlace!

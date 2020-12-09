@@ -10,8 +10,11 @@ author: ring
 slug: B071KZS3MJ
 description:
 actualPrice: 34.2 EUR
+currency: EUR
+price: 34.2
 comparePrice: 51.99 EUR
 inStock: true
+prodname: Logitech Silent M590 - Ratón inalámbrico  con Bluetooth  para Varios Dispositivos para Windows/Mac   Color Gris
 ---
 
 Tienes [Logitech Silent M590 - Ratón inalámbrico  con Bluetooth  para Varios Dispositivos para Windows/Mac   Color Gris](https://www.amazon.es/dp/B071KZS3MJ/?tag=tolees-21) con un 34.22 % de descuento con precio de oferta de 34.2 EUR (original: 51.99 EUR) en el siguiente enlace!

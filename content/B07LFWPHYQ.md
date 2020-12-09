@@ -10,8 +10,11 @@ author: ring
 slug: B07LFWPHYQ
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 78.66 EUR
 inStock: true
+prodname: Death Note. Edicion Shinigami Blu-Ray  Serie Tv + Death Note Relight 1 Y 2 + Bso + Libro  [Blu-ray]
 ---
 
 Está [Death Note. Edicion Shinigami Blu-Ray  Serie Tv + Death Note Relight 1 Y 2 + Bso + Libro  [Blu-ray]](https://www.amazon.es/dp/B07LFWPHYQ/?tag=tolees-21) con 49.16 de descuento por 39.99 EUR (original: 78.66 EUR) en el siguiente enlace!

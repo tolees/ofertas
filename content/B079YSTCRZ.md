@@ -10,8 +10,11 @@ author: ring
 slug: B079YSTCRZ
 description:
 actualPrice: 28.95 EUR
+currency: EUR
+price: 28.95
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Medium Drawstring  Bañador para Hombre  Azul  Navy Blazer 416   XX-Large
 ---
 
 Está [Tommy Hilfiger Medium Drawstring  Bañador para Hombre  Azul  Navy Blazer 416   XX-Large](https://www.amazon.es/dp/B079YSTCRZ/?tag=tolees-21) con 41.98 de descuento por 28.95 EUR (original: 49.9 EUR) en el siguiente enlace!

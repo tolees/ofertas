@@ -10,8 +10,11 @@ author: ring
 slug: B07DFQYSFJ
 description:
 actualPrice: 10.37 EUR
+currency: EUR
+price: 10.37
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Puma Evostripe Warm T-Shirt  Hombre  Sodalite Blue  XL
 ---
 
 Está [Puma Evostripe Warm T-Shirt  Hombre  Sodalite Blue  XL](https://www.amazon.es/dp/B07DFQYSFJ/?tag=tolees-21) con 58.44 de descuento por 10.37 EUR (original: 24.95 EUR) en el siguiente enlace!

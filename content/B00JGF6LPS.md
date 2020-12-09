@@ -10,8 +10,11 @@ author: ring
 slug: B00JGF6LPS
 description:
 actualPrice: 83.0 EUR
+currency: EUR
+price: 83.0
 comparePrice: 129.9 EUR
 inStock: true
+prodname: SEVERIN Microondas  Incl. Plato Giratorio  Ø 31 5 cm   con Temporizador  900 W  MW 7873  Blanco
 ---
 
 Está [SEVERIN Microondas  Incl. Plato Giratorio  Ø 31 5 cm   con Temporizador  900 W  MW 7873  Blanco](https://www.amazon.es/dp/B00JGF6LPS/?tag=tolees-21) con 36.10 de descuento por 83.0 EUR (original: 129.9 EUR) en el siguiente enlace!

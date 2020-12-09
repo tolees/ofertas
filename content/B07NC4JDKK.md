@@ -10,8 +10,11 @@ author: ring
 slug: B07NC4JDKK
 description:
 actualPrice: 10.23 EUR
+currency: EUR
+price: 10.23
 comparePrice: 26.82 EUR
 inStock: true
+prodname: New Look Petite Wrap Mini 6178899 Vestido  Amarillo  Mid Yellow 86   40  Talla del Fabricante: 12  para Mujer
 ---
 
 Está [New Look Petite Wrap Mini 6178899 Vestido  Amarillo  Mid Yellow 86   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07NC4JDKK/?tag=tolees-21) con 61.86 de descuento por 10.23 EUR (original: 26.82 EUR) en el siguiente enlace!

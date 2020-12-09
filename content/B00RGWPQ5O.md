@@ -10,8 +10,11 @@ author: ring
 slug: B00RGWPQ5O
 description:
 actualPrice: 28.62 EUR
+currency: EUR
+price: 28.62
 comparePrice: 50 EUR
 inStock: true
+prodname: Polaroid PLD 6009/S M C3 PRK  Gafas de sol Unisex Adulto  Azul  Bluette Campus/Grey Pz  50
 ---
 
 Tienes [Polaroid PLD 6009/S M C3 PRK  Gafas de sol Unisex Adulto  Azul  Bluette Campus/Grey Pz  50](https://www.amazon.es/dp/B00RGWPQ5O/?tag=tolees-21) con un 42.76 % de descuento con precio de oferta de 28.62 EUR (original: 50 EUR) en el siguiente enlace!

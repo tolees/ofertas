@@ -10,8 +10,11 @@ author: ring
 slug: B07KJT8JLR
 description:
 actualPrice: 21.14 EUR
+currency: EUR
+price: 21.14
 comparePrice: 139 EUR
 inStock: true
+prodname: REPLAY Luz Coin Zip Vaqueros Skinny  Azul  Light Blue 10   W23/L32  Talla del Fabricante: 23  para Mujer
 ---
 
 Ahora mismo tienes [REPLAY Luz Coin Zip Vaqueros Skinny  Azul  Light Blue 10   W23/L32  Talla del Fabricante: 23  para Mujer](https://www.amazon.es/dp/B07KJT8JLR/?tag=tolees-21) a 21.14 EUR (original: 139 EUR) (84.79 %  de descuento) en el siguiente enlace!

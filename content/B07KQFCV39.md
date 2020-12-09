@@ -10,8 +10,11 @@ author: ring
 slug: B07KQFCV39
 description:
 actualPrice: 57.99 EUR
+currency: EUR
+price: 57.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Asus TUF Gaming H5 Lite Diadema Negro - Auriculares con micrófono  PC/Juegos  Diadema  Negro  Acero Inoxidable  Alámbrico  20-20000 Hz 
 ---
 
 Tienes [Asus TUF Gaming H5 Lite Diadema Negro - Auriculares con micrófono  PC/Juegos  Diadema  Negro  Acero Inoxidable  Alámbrico  20-20000 Hz ](https://www.amazon.es/dp/B07KQFCV39/?tag=tolees-21) con un 35.56 % de descuento con precio de oferta de 57.99 EUR (original: 89.99 EUR) en el siguiente enlace!

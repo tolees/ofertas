@@ -10,8 +10,11 @@ author: ring
 slug: B073HGNMH2
 description:
 actualPrice: 5.33 EUR
+currency: EUR
+price: 5.33
 comparePrice: 8.99 EUR
 inStock: true
+prodname: Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 5 Loyalist
 ---
 
 Ahora mismo tienes [Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 5 Loyalist](https://www.amazon.es/dp/B073HGNMH2/?tag=tolees-21) a 5.33 EUR (original: 8.99 EUR) (40.71 %  de descuento) en el siguiente enlace!

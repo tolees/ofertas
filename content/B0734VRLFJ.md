@@ -10,8 +10,11 @@ author: ring
 slug: B0734VRLFJ
 description:
 actualPrice: 13.6 EUR
+currency: EUR
+price: 13.6
 comparePrice: 69.95 EUR
 inStock: true
+prodname: !Solid Kris Pantalones  Hombre  Azul  Insignia Blue   W45  Tamaño del Fabricante:L 
 ---
 
 Está [!Solid Kris Pantalones  Hombre  Azul  Insignia Blue   W45  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B0734VRLFJ/?tag=tolees-21) con 80.56 de descuento por 13.6 EUR (original: 69.95 EUR) en el siguiente enlace!

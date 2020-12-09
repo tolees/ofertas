@@ -10,8 +10,11 @@ author: ring
 slug: B003UTAIPU
 description:
 actualPrice: 4.63 EUR
+currency: EUR
+price: 4.63
 comparePrice: 8.95 EUR
 inStock: true
+prodname: Crazy Color Peacook Blue Nº 45 Crema Colorante del Cabello Semi-permanente
 ---
 
 Ahora mismo tienes [Crazy Color Peacook Blue Nº 45 Crema Colorante del Cabello Semi-permanente](https://www.amazon.es/dp/B003UTAIPU/?tag=tolees-21) a 4.63 EUR (original: 8.95 EUR) (48.27 %  de descuento) en el siguiente enlace!

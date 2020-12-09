@@ -10,8 +10,11 @@ author: ring
 slug: B07DRLFHP4
 description:
 actualPrice: 10.81 EUR
+currency: EUR
+price: 10.81
 comparePrice: 20.04 EUR
 inStock: true
+prodname: New Look Unspec Crew  Camiseta para Hombre   Light Grey 2   Medium
 ---
 
 Está [New Look Unspec Crew  Camiseta para Hombre   Light Grey 2   Medium](https://www.amazon.es/dp/B07DRLFHP4/?tag=tolees-21) con 46.06 de descuento por 10.81 EUR (original: 20.04 EUR) en el siguiente enlace!

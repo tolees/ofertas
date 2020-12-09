@@ -10,8 +10,11 @@ author: ring
 slug: B07DXY3FBG
 description:
 actualPrice: 99.8 EUR
+currency: EUR
+price: 99.8
 comparePrice: 298 EUR
 inStock: true
+prodname: LAD WEATHER Reloj Radio-Control Energía-Solar Batería-Recargable Automático-Corrección-de-Tiempo Varios-Husos-Horarios
 ---
 
 Tienes [LAD WEATHER Reloj Radio-Control Energía-Solar Batería-Recargable Automático-Corrección-de-Tiempo Varios-Husos-Horarios](https://www.amazon.es/dp/B07DXY3FBG/?tag=tolees-21) con un 66.51 % de descuento con precio de oferta de 99.8 EUR (original: 298 EUR) en el siguiente enlace!

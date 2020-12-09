@@ -10,8 +10,11 @@ author: ring
 slug: B007JRWUO6
 description:
 actualPrice: 39.95 EUR
+currency: EUR
+price: 39.95
 comparePrice: 64 EUR
 inStock: true
+prodname: Diesel Only The Brave Tattoo Eau de Toilette - 75 ml
 ---
 
 Está [Diesel Only The Brave Tattoo Eau de Toilette - 75 ml](https://www.amazon.es/dp/B007JRWUO6/?tag=tolees-21) con 37.58 de descuento por 39.95 EUR (original: 64 EUR) en el siguiente enlace!

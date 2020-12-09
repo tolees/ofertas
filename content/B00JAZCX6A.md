@@ -10,8 +10,11 @@ author: ring
 slug: B00JAZCX6A
 description:
 actualPrice: 94.74 EUR
+currency: EUR
+price: 94.74
 comparePrice: 303 EUR
 inStock: true
+prodname: Lacor 69314 - Máquina para cubitos de hielo  150 W  1 5 litros
 ---
 
 Ahora mismo tienes [Lacor 69314 - Máquina para cubitos de hielo  150 W  1 5 litros](https://www.amazon.es/dp/B00JAZCX6A/?tag=tolees-21) a 94.74 EUR (original: 303 EUR) (68.73 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07L9ZVDBD
 description:
 actualPrice: 199.0 EUR
+currency: EUR
+price: 199.0
 comparePrice: 389.99 EUR
 inStock: true
+prodname: ASUS VM45-GC072Z - Mini Ordenador de sobremesa  Intel Celeron 3865U  4 GB RAM 64 GB SSD  Intel HD Graphics 610  Windows 10 Original  Gris Hierro
 ---
 
 Tienes [ASUS VM45-GC072Z - Mini Ordenador de sobremesa  Intel Celeron 3865U  4 GB RAM 64 GB SSD  Intel HD Graphics 610  Windows 10 Original  Gris Hierro](https://www.amazon.es/dp/B07L9ZVDBD/?tag=tolees-21) con un 48.97 % de descuento con precio de oferta de 199.0 EUR (original: 389.99 EUR) en el siguiente enlace!

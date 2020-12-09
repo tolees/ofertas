@@ -10,8 +10,11 @@ author: ring
 slug: B07FYVBZDR
 description:
 actualPrice: 35.41 EUR
+currency: EUR
+price: 35.41
 comparePrice: 65 EUR
 inStock: true
+prodname: Lee Mid Skirt  Falda para Mujer  Marfil  Raw Off White Xq   32  Talla del Fabricante: 25 
 ---
 
 Ahora mismo tienes [Lee Mid Skirt  Falda para Mujer  Marfil  Raw Off White Xq   32  Talla del Fabricante: 25 ](https://www.amazon.es/dp/B07FYVBZDR/?tag=tolees-21) a 35.41 EUR (original: 65 EUR) (45.52 %  de descuento) en el siguiente enlace!

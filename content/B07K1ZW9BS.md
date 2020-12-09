@@ -10,8 +10,11 @@ author: ring
 slug: B07K1ZW9BS
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 35.3 EUR
 inStock: true
+prodname: Eono Essentials - Neceser unisex para llevar de viaje o ir al gimnasio con gancho para colgar  gris 
 ---
 
 Tienes [Eono Essentials - Neceser unisex para llevar de viaje o ir al gimnasio con gancho para colgar  gris ](https://www.amazon.es/dp/B07K1ZW9BS/?tag=tolees-21) con un 66.03 % de descuento con precio de oferta de 11.99 EUR (original: 35.3 EUR) en el siguiente enlace!

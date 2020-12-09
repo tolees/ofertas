@@ -10,8 +10,11 @@ author: ring
 slug: B016K4GQVG
 description:
 actualPrice: 81.9 EUR
+currency: EUR
+price: 81.9
 comparePrice: 117.42 EUR
 inStock: true
+prodname: Ubiquiti UAP-AC-LITE - Punto de acceso dual radio  Blanco
 ---
 
 Está [Ubiquiti UAP-AC-LITE - Punto de acceso dual radio  Blanco](https://www.amazon.es/dp/B016K4GQVG/?tag=tolees-21) con 30.25 de descuento por 81.9 EUR (original: 117.42 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DJMN8H3
 description:
 actualPrice: 19.61 EUR
+currency: EUR
+price: 19.61
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Only Onlnew Skylar Fur Parka CC Otw Chaqueta  Rojo Scooter  38  Talla del Fabricante: Small  para Mujer
 ---
 
 Está [Only Onlnew Skylar Fur Parka CC Otw Chaqueta  Rojo Scooter  38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07DJMN8H3/?tag=tolees-21) con 60.77 de descuento por 19.61 EUR (original: 49.99 EUR) en el siguiente enlace!

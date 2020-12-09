@@ -10,8 +10,11 @@ author: ring
 slug: B075BKMNLH
 description:
 actualPrice: 14.16 EUR
+currency: EUR
+price: 14.16
 comparePrice: 21 EUR
 inStock: true
+prodname: MERAKI Vestido Camiseta Slim Fit Mujer  Negro  Black   Medium
 ---
 
 Ahora mismo tienes [MERAKI Vestido Camiseta Slim Fit Mujer  Negro  Black   Medium](https://www.amazon.es/dp/B075BKMNLH/?tag=tolees-21) a 14.16 EUR (original: 21 EUR) (32.57 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06XB7LXYS
 description:
 actualPrice: 50.15 EUR
+currency: EUR
+price: 50.15
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Skechers Men Elite Flex-Hartnell Trainers  Blue  Navy/Blue   42 EU  8 UK 
 ---
 
 Está [Skechers Men Elite Flex-Hartnell Trainers  Blue  Navy/Blue   42 EU  8 UK ](https://www.amazon.es/dp/B06XB7LXYS/?tag=tolees-21) con 28.31 de descuento por 50.15 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B073RPYC8R
 description:
 actualPrice: 20.49 EUR
+currency: EUR
+price: 20.49
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Rip Curl Roadie 24/7 Mochilas de a Diario  47 cm  22 litros  Red
 ---
 
 Ahora mismo tienes [Rip Curl Roadie 24/7 Mochilas de a Diario  47 cm  22 litros  Red](https://www.amazon.es/dp/B073RPYC8R/?tag=tolees-21) a 20.49 EUR (original: 49.99 EUR) (59.01 %  de descuento) en el siguiente enlace!

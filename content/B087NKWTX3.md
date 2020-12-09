@@ -10,8 +10,11 @@ author: ring
 slug: B087NKWTX3
 description:
 actualPrice: 18.44 EUR
+currency: EUR
+price: 18.44
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Weily 15M Rgb Tiras Led Multicolor Control Remoto Tiras Led
 ---
 
 Está [Weily 15M Rgb Tiras Led Multicolor Control Remoto Tiras Led](https://www.amazon.es/dp/B087NKWTX3/?tag=tolees-21) con 34.12 de descuento por 18.44 EUR (original: 27.99 EUR) en el siguiente enlace!

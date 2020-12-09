@@ -10,8 +10,11 @@ author: ring
 slug: B07LFWFGT1
 description:
 actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Shovel Knight: Treasure Trove
 ---
 
 Tienes [Shovel Knight: Treasure Trove](https://www.amazon.es/dp/B07LFWFGT1/?tag=tolees-21) con un 44.54 % de descuento con precio de oferta de 24.95 EUR (original: 44.99 EUR) en el siguiente enlace!

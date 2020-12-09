@@ -10,8 +10,11 @@ author: ring
 slug: B07TMNV7XB
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Superdry Collective tee Camiseta  Azul  Rich Navy Adq   XS para Hombre
 ---
 
 Ahora mismo tienes [Superdry Collective tee Camiseta  Azul  Rich Navy Adq   XS para Hombre](https://www.amazon.es/dp/B07TMNV7XB/?tag=tolees-21) a 11.99 EUR (original: 29.99 EUR) (60.02 %  de descuento) en el siguiente enlace!

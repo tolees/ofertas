@@ -10,8 +10,11 @@ author: ring
 slug: B01ATBR66U
 description:
 actualPrice: 49.8 EUR
+currency: EUR
+price: 49.8
 comparePrice: 95 EUR
 inStock: true
+prodname: The North Face Hose W Exploration Convertible Pants  Pantalones Mujer  Beige  Dune Beige   10 Regular
 ---
 
 Está [The North Face Hose W Exploration Convertible Pants  Pantalones Mujer  Beige  Dune Beige   10 Regular](https://www.amazon.es/dp/B01ATBR66U/?tag=tolees-21) con 47.58 de descuento por 49.8 EUR (original: 95 EUR) en el siguiente enlace!

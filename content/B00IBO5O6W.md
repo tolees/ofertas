@@ -10,8 +10,11 @@ author: ring
 slug: B00IBO5O6W
 description:
 actualPrice: 12.65 EUR
+currency: EUR
+price: 12.65
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Munchkin - Alfombrilla de baño de lunares  multicolor
 ---
 
 Ahora mismo tienes [Munchkin - Alfombrilla de baño de lunares  multicolor](https://www.amazon.es/dp/B00IBO5O6W/?tag=tolees-21) a 12.65 EUR (original: 17.95 EUR) (29.53 %  de descuento) en el siguiente enlace!

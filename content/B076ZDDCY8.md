@@ -10,8 +10,11 @@ author: ring
 slug: B076ZDDCY8
 description:
 actualPrice: 35 EUR
+currency: EUR
+price: 35
 comparePrice: 50 EUR
 inStock: true
+prodname: TRUTH & FABLE 13840 vestido fiesta mujer  Negro  Black   44  Talla del fabricante: X-Large 
 ---
 
 Está [TRUTH & FABLE 13840 vestido fiesta mujer  Negro  Black   44  Talla del fabricante: X-Large ](https://www.amazon.es/dp/B076ZDDCY8/?tag=tolees-21) con 30.00 de descuento por 35 EUR (original: 50 EUR) en el siguiente enlace!

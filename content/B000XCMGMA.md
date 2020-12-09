@@ -10,8 +10,11 @@ author: ring
 slug: B000XCMGMA
 description:
 actualPrice: 566.08 EUR
+currency: EUR
+price: 566.08
 comparePrice: 1299 EUR
 inStock: true
+prodname: Olympus 50-200 mm f/2.8-3.5 ED Zuiko Digital - Objetivo para Cuatro tercios  Distancia Focal 50-200mm  Apertura f/2.8  Color Negro
 ---
 
 Ahora mismo tienes [Olympus 50-200 mm f/2.8-3.5 ED Zuiko Digital - Objetivo para Cuatro tercios  Distancia Focal 50-200mm  Apertura f/2.8  Color Negro](https://www.amazon.es/dp/B000XCMGMA/?tag=tolees-21) a 566.08 EUR (original: 1299 EUR) (56.42 %  de descuento) en el siguiente enlace!

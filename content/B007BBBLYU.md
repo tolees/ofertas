@@ -10,8 +10,11 @@ author: ring
 slug: B007BBBLYU
 description:
 actualPrice: 16.55 EUR
+currency: EUR
+price: 16.55
 comparePrice: 70.97 EUR
 inStock: true
+prodname: RAU AMROS0333 Alfombrillas de Coche sin FijaciÃ³n  Color Negro
 ---
 
 Ahora mismo tienes [RAU AMROS0333 Alfombrillas de Coche sin FijaciÃ³n  Color Negro](https://www.amazon.es/dp/B007BBBLYU/?tag=tolees-21) a 16.55 EUR (original: 70.97 EUR) (76.68 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HYY9VRS
 description:
 actualPrice: 26.15 EUR
+currency: EUR
+price: 26.15
 comparePrice: 55 EUR
 inStock: true
+prodname: Nike Flex Experience RN 7  GS   Zapatillas de Deporte para Hombre  Void Force/Diffused Blue 402  39 EU
 ---
 
 Ahora mismo tienes [Nike Flex Experience RN 7  GS   Zapatillas de Deporte para Hombre  Void Force/Diffused Blue 402  39 EU](https://www.amazon.es/dp/B07HYY9VRS/?tag=tolees-21) a 26.15 EUR (original: 55 EUR) (52.45 %  de descuento) en el siguiente enlace!

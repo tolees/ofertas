@@ -10,8 +10,11 @@ author: ring
 slug: B07Z6W7CMK
 description:
 actualPrice: 129.0 EUR
+currency: EUR
+price: 129.0
 comparePrice: 199.0 EUR
 inStock: true
+prodname: OPPO A5 2020 - Smartphone de 6.5" HD+  4G Dual SIM  3 GB/ 64 GB  Qualcomm Snapdragon 665 Octacore  cámara trasera 12 Mpx + 8 Mpx  gran angular  + 2 Mpx + 2 Mpx  5.000 mAh  Android 9  Blanco
 ---
 
 Tienes [OPPO A5 2020 - Smartphone de 6.5" HD+  4G Dual SIM  3 GB/ 64 GB  Qualcomm Snapdragon 665 Octacore  cámara trasera 12 Mpx + 8 Mpx  gran angular  + 2 Mpx + 2 Mpx  5.000 mAh  Android 9  Blanco](https://www.amazon.es/dp/B07Z6W7CMK/?tag=tolees-21) con un 35.18 % de descuento con precio de oferta de 129.0 EUR (original: 199.0 EUR) en el siguiente enlace!

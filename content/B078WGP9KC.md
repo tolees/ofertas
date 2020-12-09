@@ -10,8 +10,11 @@ author: ring
 slug: B078WGP9KC
 description:
 actualPrice: 19.72 EUR
+currency: EUR
+price: 19.72
 comparePrice: 49.95 EUR
 inStock: true
+prodname: PUMA Liga Sideline Jacket Jr Camiseta de equipación  Unisex niños  Negro Black White  116
 ---
 
 Está [PUMA Liga Sideline Jacket Jr Camiseta de equipación  Unisex niños  Negro Black White  116](https://www.amazon.es/dp/B078WGP9KC/?tag=tolees-21) con 60.52 de descuento por 19.72 EUR (original: 49.95 EUR) en el siguiente enlace!

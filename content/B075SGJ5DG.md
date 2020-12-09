@@ -10,8 +10,11 @@ author: ring
 slug: B075SGJ5DG
 description:
 actualPrice: 7.58 EUR
+currency: EUR
+price: 7.58
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Springfield 92517 Camiseta  Gris  Grey   Small  Tamaño del Fabricante:S  para Hombre
 ---
 
 Está [Springfield 92517 Camiseta  Gris  Grey   Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B075SGJ5DG/?tag=tolees-21) con 70.83 de descuento por 7.58 EUR (original: 25.99 EUR) en el siguiente enlace!

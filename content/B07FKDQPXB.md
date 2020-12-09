@@ -10,8 +10,11 @@ author: ring
 slug: B07FKDQPXB
 description:
 actualPrice: 56.69 EUR
+currency: EUR
+price: 56.69
 comparePrice: 81 EUR
 inStock: true
+prodname: Nike Phantom Venom Academy TF  Zapatillas de Fútbol Unisex Adulto  Black/Bright Crimson 600  38.5 EU
 ---
 
 Tienes [Nike Phantom Venom Academy TF  Zapatillas de Fútbol Unisex Adulto  Black/Bright Crimson 600  38.5 EU](https://www.amazon.es/dp/B07FKDQPXB/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 56.69 EUR (original: 81 EUR) en el siguiente enlace!

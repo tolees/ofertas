@@ -10,8 +10,11 @@ author: ring
 slug: B07FYYV2R2
 description:
 actualPrice: 11.12 EUR
+currency: EUR
+price: 11.12
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Wrangler Kabel tee Camiseta  Azul  Turkish Sea 386   Medium para Hombre
 ---
 
 Ahora mismo tienes [Wrangler Kabel tee Camiseta  Azul  Turkish Sea 386   Medium para Hombre](https://www.amazon.es/dp/B07FYYV2R2/?tag=tolees-21) a 11.12 EUR (original: 29.95 EUR) (62.87 %  de descuento) en el siguiente enlace!

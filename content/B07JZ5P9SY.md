@@ -10,8 +10,11 @@ author: ring
 slug: B07JZ5P9SY
 description:
 actualPrice: 21.63 EUR
+currency: EUR
+price: 21.63
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Adidas Forest Grove C  Zapatillas de Gimnasia Unisex para Niños  Naranja FTWR White/Clear Orange  32 EU
 ---
 
 Está [Adidas Forest Grove C  Zapatillas de Gimnasia Unisex para Niños  Naranja FTWR White/Clear Orange  32 EU](https://www.amazon.es/dp/B07JZ5P9SY/?tag=tolees-21) con 56.70 de descuento por 21.63 EUR (original: 49.95 EUR) en el siguiente enlace!

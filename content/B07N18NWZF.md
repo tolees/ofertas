@@ -10,8 +10,11 @@ author: ring
 slug: B07N18NWZF
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: Aigoss S4 Altavoz Bluetooth Portátil Inalámbrico V4 2 Estéreo Premium de Entrada Audio  HiFi Potente los Bajos Apoyo Manos Libres para Smartphones  TF FM Radio - Negro
 ---
 
 Está [Aigoss S4 Altavoz Bluetooth Portátil Inalámbrico V4 2 Estéreo Premium de Entrada Audio  HiFi Potente los Bajos Apoyo Manos Libres para Smartphones  TF FM Radio - Negro](https://www.amazon.es/dp/B07N18NWZF/?tag=tolees-21) con 78.28 de descuento por 9.99 EUR (original: 45.99 EUR) en el siguiente enlace!

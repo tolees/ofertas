@@ -10,8 +10,11 @@ author: ring
 slug: B07DFCM5R9
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 16.7 EUR
 inStock: true
+prodname: Funko Pop: The Bunch: Peter Brady  Multicolor  33964
 ---
 
 Está [Funko Pop: The Bunch: Peter Brady  Multicolor  33964](https://www.amazon.es/dp/B07DFCM5R9/?tag=tolees-21) con 64.13 de descuento por 5.99 EUR (original: 16.7 EUR) en el siguiente enlace!

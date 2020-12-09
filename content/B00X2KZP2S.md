@@ -10,8 +10,11 @@ author: ring
 slug: B00X2KZP2S
 description:
 actualPrice: 10.26 EUR
+currency: EUR
+price: 10.26
 comparePrice: 27.95 EUR
 inStock: true
+prodname: DC Shoes Numbers Camiseta  Hombre  Blanco  L
 ---
 
 Está [DC Shoes Numbers Camiseta  Hombre  Blanco  L](https://www.amazon.es/dp/B00X2KZP2S/?tag=tolees-21) con 63.29 de descuento por 10.26 EUR (original: 27.95 EUR) en el siguiente enlace!

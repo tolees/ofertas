@@ -10,8 +10,11 @@ author: ring
 slug: B003WIZE5S
 description:
 actualPrice: 5.94 EUR
+currency: EUR
+price: 5.94
 comparePrice: 8.99 EUR
 inStock: true
+prodname: Puma Ring Formstripe  Calcetines unisex  Multicolor  852 Black White Red   35-38
 ---
 
 Ahora mismo tienes [Puma Ring Formstripe  Calcetines unisex  Multicolor  852 Black White Red   35-38](https://www.amazon.es/dp/B003WIZE5S/?tag=tolees-21) a 5.94 EUR (original: 8.99 EUR) (33.93 %  de descuento) en el siguiente enlace!

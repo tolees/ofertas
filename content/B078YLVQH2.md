@@ -10,8 +10,11 @@ author: ring
 slug: B078YLVQH2
 description:
 actualPrice: 13.26 EUR
+currency: EUR
+price: 13.26
 comparePrice: 44 EUR
 inStock: true
+prodname: Emporio Armani Underwear 111210  Pantalones Cortos para Hombre   Nero/Rubino 02520  Medium
 ---
 
 Está [Emporio Armani Underwear 111210  Pantalones Cortos para Hombre   Nero/Rubino 02520  Medium](https://www.amazon.es/dp/B078YLVQH2/?tag=tolees-21) con 69.86 de descuento por 13.26 EUR (original: 44 EUR) en el siguiente enlace!

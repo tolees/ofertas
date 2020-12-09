@@ -10,8 +10,11 @@ author: ring
 slug: B07JC7MPM8
 description:
 actualPrice: 55 EUR
+currency: EUR
+price: 55
 comparePrice: 110 EUR
 inStock: true
+prodname: Timberland Bradstreet Fabric/Leather  Zapatillas para Hombre  Marrón  Iced Coffee Qbk   44.5 EU
 ---
 
 Está [Timberland Bradstreet Fabric/Leather  Zapatillas para Hombre  Marrón  Iced Coffee Qbk   44.5 EU](https://www.amazon.es/dp/B07JC7MPM8/?tag=tolees-21) con 50.00 de descuento por 55 EUR (original: 110 EUR) en el siguiente enlace!

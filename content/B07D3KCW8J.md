@@ -10,8 +10,11 @@ author: ring
 slug: B07D3KCW8J
 description:
 actualPrice: 79.95 EUR
+currency: EUR
+price: 79.95
 comparePrice: 154.23 EUR
 inStock: true
+prodname: Steve Madden Geneva Ankleboot  Botines para Mujer   Black Leather 017   38 EU
 ---
 
 Tienes [Steve Madden Geneva Ankleboot  Botines para Mujer   Black Leather 017   38 EU](https://www.amazon.es/dp/B07D3KCW8J/?tag=tolees-21) con un 48.16 % de descuento con precio de oferta de 79.95 EUR (original: 154.23 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00GKBQKKC
 description:
 actualPrice: 0.45 EUR
+currency: EUR
+price: 0.45
 comparePrice: 1.99 EUR
 inStock: true
+prodname: APLI - Barra de pegamento adhesivo
 ---
 
 Ahora mismo tienes [APLI - Barra de pegamento adhesivo](https://www.amazon.es/dp/B00GKBQKKC/?tag=tolees-21) a 0.45 EUR (original: 1.99 EUR) (77.39 %  de descuento) en el siguiente enlace!

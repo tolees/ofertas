@@ -10,8 +10,11 @@ author: ring
 slug: B07SNT8MWJ
 description:
 actualPrice: 24.64 EUR
+currency: EUR
+price: 24.64
 comparePrice: 32.99 EUR
 inStock: true
+prodname: Soporte de Montaje de Pared para TV Brazo Articulado Único de Movimiento Completo para la Mayoría de 26-55" TV de Plasma con Inclinación  Giro y Rotación de hasta 27 kg VESA 400x400mm
 ---
 
 Ahora mismo tienes [Soporte de Montaje de Pared para TV Brazo Articulado Único de Movimiento Completo para la Mayoría de 26-55" TV de Plasma con Inclinación  Giro y Rotación de hasta 27 kg VESA 400x400mm](https://www.amazon.es/dp/B07SNT8MWJ/?tag=tolees-21) a 24.64 EUR (original: 32.99 EUR) (25.31 %  de descuento) en el siguiente enlace!

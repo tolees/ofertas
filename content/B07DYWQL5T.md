@@ -10,8 +10,11 @@ author: ring
 slug: B07DYWQL5T
 description:
 actualPrice: 61.49 EUR
+currency: EUR
+price: 61.49
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Columbia Pike Lake  Chaqueta forrada con capucha  Hombre  Verde  Olive Green   Talla M
 ---
 
 Está [Columbia Pike Lake  Chaqueta forrada con capucha  Hombre  Verde  Olive Green   Talla M](https://www.amazon.es/dp/B07DYWQL5T/?tag=tolees-21) con 59.00 de descuento por 61.49 EUR (original: 149.99 EUR) en el siguiente enlace!

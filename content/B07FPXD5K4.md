@@ -10,8 +10,11 @@ author: ring
 slug: B07FPXD5K4
 description:
 actualPrice: 7.69 EUR
+currency: EUR
+price: 7.69
 comparePrice: 29.99 EUR
 inStock: true
+prodname: JACK & JONES Jcostanford Knit Crew Neck Camp suéter para Hombre  Verde Rosin  Medium
 ---
 
 Ahora mismo tienes [JACK & JONES Jcostanford Knit Crew Neck Camp suéter para Hombre  Verde Rosin  Medium](https://www.amazon.es/dp/B07FPXD5K4/?tag=tolees-21) a 7.69 EUR (original: 29.99 EUR) (74.36 %  de descuento) en el siguiente enlace!

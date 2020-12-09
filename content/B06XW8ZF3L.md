@@ -10,8 +10,11 @@ author: ring
 slug: B06XW8ZF3L
 description:
 actualPrice: 45.68 EUR
+currency: EUR
+price: 45.68
 comparePrice: 62.0 EUR
 inStock: true
+prodname: INJUICY Loft Madera Base Steampunk Lámpara Escritorio Hierro Tubo Lámpara de Mesa de Luz del Escritorio Lámpara de Mesilla Noche para Estudio de Luz Nocturna de la Cabecera
 ---
 
 Está [INJUICY Loft Madera Base Steampunk Lámpara Escritorio Hierro Tubo Lámpara de Mesa de Luz del Escritorio Lámpara de Mesilla Noche para Estudio de Luz Nocturna de la Cabecera](https://www.amazon.es/dp/B06XW8ZF3L/?tag=tolees-21) con 26.32 de descuento por 45.68 EUR (original: 62.0 EUR) en el siguiente enlace!

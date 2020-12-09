@@ -10,8 +10,11 @@ author: ring
 slug: B07QGDY44M
 description:
 actualPrice: 20.42 EUR
+currency: EUR
+price: 20.42
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Monopoly Fortnite  Hasbro E6603546 
 ---
 
 Ahora mismo tienes [Monopoly Fortnite  Hasbro E6603546 ](https://www.amazon.es/dp/B07QGDY44M/?tag=tolees-21) a 20.42 EUR (original: 29.99 EUR) (31.91 %  de descuento) en el siguiente enlace!

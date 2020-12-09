@@ -10,8 +10,11 @@ author: ring
 slug: B07M92LDLT
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 36.99 EUR
 inStock: true
+prodname: Spider-Man - Traje lanzaredes  Hasbro E3567EU4 
 ---
 
 Está [Spider-Man - Traje lanzaredes  Hasbro E3567EU4 ](https://www.amazon.es/dp/B07M92LDLT/?tag=tolees-21) con 32.44 de descuento por 24.99 EUR (original: 36.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JJ6TR8N
 description:
 actualPrice: 73.8 EUR
+currency: EUR
+price: 73.8
 comparePrice: 120 EUR
 inStock: true
+prodname: Lacoste Ph4241 Polo  Azul  Farine Blanc-Marin Az7   XXXX-Large  Talla del Fabricante: 9  para Hombre
 ---
 
 Ahora mismo tienes [Lacoste Ph4241 Polo  Azul  Farine Blanc-Marin Az7   XXXX-Large  Talla del Fabricante: 9  para Hombre](https://www.amazon.es/dp/B07JJ6TR8N/?tag=tolees-21) a 73.8 EUR (original: 120 EUR) (38.50 %  de descuento) en el siguiente enlace!

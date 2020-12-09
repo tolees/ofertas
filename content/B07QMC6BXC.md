@@ -10,8 +10,11 @@ author: ring
 slug: B07QMC6BXC
 description:
 actualPrice: 66.08 EUR
+currency: EUR
+price: 66.08
 comparePrice: 106.13 EUR
 inStock: true
+prodname: Cámara de Coche Dash CAM 4 Pulgadas Camara Delantera y Trasera 1080P Full HD 170° Cámara para Lente G  grabación de Ciclo  WDR  monitoreo de estacionamiento  Movimiento de detección
 ---
 
 Tienes [Cámara de Coche Dash CAM 4 Pulgadas Camara Delantera y Trasera 1080P Full HD 170° Cámara para Lente G  grabación de Ciclo  WDR  monitoreo de estacionamiento  Movimiento de detección](https://www.amazon.es/dp/B07QMC6BXC/?tag=tolees-21) con un 37.74 % de descuento con precio de oferta de 66.08 EUR (original: 106.13 EUR) en el siguiente enlace!

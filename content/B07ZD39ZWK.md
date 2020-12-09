@@ -10,8 +10,11 @@ author: ring
 slug: B07ZD39ZWK
 description:
 actualPrice: 23.03 EUR
+currency: EUR
+price: 23.03
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Jelly Comb Webcam 1080p/30fps Enfoque Automático con Micrófono Estéreo  Cámara Web con Tapa de Privacidad para Skype  Videollamada  Streaming De Juegos  Conferencia  PC/Mac/Portátil/Macbook-Negro
 ---
 
 Ahora mismo tienes [Jelly Comb Webcam 1080p/30fps Enfoque Automático con Micrófono Estéreo  Cámara Web con Tapa de Privacidad para Skype  Videollamada  Streaming De Juegos  Conferencia  PC/Mac/Portátil/Macbook-Negro](https://www.amazon.es/dp/B07ZD39ZWK/?tag=tolees-21) a 23.03 EUR (original: 35.99 EUR) (36.01 %  de descuento) en el siguiente enlace!

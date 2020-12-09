@@ -10,8 +10,11 @@ author: ring
 slug: B00STFE9UA
 description:
 actualPrice: 47.24 EUR
+currency: EUR
+price: 47.24
 comparePrice: 70 EUR
 inStock: true
+prodname: Cressi Neoprene Traje de Snorkeling  Mujer  Negro/Aguamarina  L/4
 ---
 
 Está [Cressi Neoprene Traje de Snorkeling  Mujer  Negro/Aguamarina  L/4](https://www.amazon.es/dp/B00STFE9UA/?tag=tolees-21) con 32.51 de descuento por 47.24 EUR (original: 70 EUR) en el siguiente enlace!

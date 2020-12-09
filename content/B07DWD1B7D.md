@@ -10,8 +10,11 @@ author: ring
 slug: B07DWD1B7D
 description:
 actualPrice: 50.0 EUR
+currency: EUR
+price: 50.0
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Parque Jurásico 1-5  4K Uhd + Bd  [Blu-ray]
 ---
 
 Ahora mismo tienes [Parque Jurásico 1-5  4K Uhd + Bd  [Blu-ray]](https://www.amazon.es/dp/B07DWD1B7D/?tag=tolees-21) a 50.0 EUR (original: 99.95 EUR) (49.97 %  de descuento) en el siguiente enlace!

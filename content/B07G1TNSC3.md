@@ -10,8 +10,11 @@ author: ring
 slug: B07G1TNSC3
 description:
 actualPrice: 23.41 EUR
+currency: EUR
+price: 23.41
 comparePrice: 43.33 EUR
 inStock: true
+prodname: find. Unlined Western Leather Botines  Marrón Brown  36 EU
 ---
 
 Tienes [find. Unlined Western Leather Botines  Marrón Brown  36 EU](https://www.amazon.es/dp/B07G1TNSC3/?tag=tolees-21) con un 45.97 % de descuento con precio de oferta de 23.41 EUR (original: 43.33 EUR) en el siguiente enlace!

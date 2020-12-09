@@ -10,8 +10,11 @@ author: ring
 slug: B00T33QGOO
 description:
 actualPrice: 54 EUR
+currency: EUR
+price: 54
 comparePrice: 89.9 EUR
 inStock: true
+prodname: Tuc Tuc Niña Kimono - Cuna de viaje  color fucsia
 ---
 
 Está [Tuc Tuc Niña Kimono - Cuna de viaje  color fucsia](https://www.amazon.es/dp/B00T33QGOO/?tag=tolees-21) con 39.93 de descuento por 54 EUR (original: 89.9 EUR) en el siguiente enlace!

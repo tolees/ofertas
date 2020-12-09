@@ -10,8 +10,11 @@ author: ring
 slug: B076VPVWK5
 description:
 actualPrice: 50 EUR
+currency: EUR
+price: 50
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW Bronson Mid Waist Sport Chino Pantalones  Mehrfarbig  Milk/dk saru Blue ao 9797-9280   28W / 34L para Mujer
 ---
 
 Tienes [G-STAR RAW Bronson Mid Waist Sport Chino Pantalones  Mehrfarbig  Milk/dk saru Blue ao 9797-9280   28W / 34L para Mujer](https://www.amazon.es/dp/B076VPVWK5/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 50 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00XDM3FMM
 description:
 actualPrice: 4.95 EUR
+currency: EUR
+price: 4.95
 comparePrice: 7.43 EUR
 inStock: true
+prodname: Beechfield - Gorra / Visera Piel melocoton Modelo Snapback Unisex Hombre/Mujer  Talla Única/Negro Vintage 
 ---
 
 Tienes [Beechfield - Gorra / Visera Piel melocoton Modelo Snapback Unisex Hombre/Mujer  Talla Única/Negro Vintage ](https://www.amazon.es/dp/B00XDM3FMM/?tag=tolees-21) con un 33.38 % de descuento con precio de oferta de 4.95 EUR (original: 7.43 EUR) en el siguiente enlace!

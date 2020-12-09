@@ -10,8 +10,11 @@ author: ring
 slug: B01EFPX9XA
 description:
 actualPrice: 9.59 EUR
+currency: EUR
+price: 9.59
 comparePrice: 18.99 EUR
 inStock: true
+prodname: UGREEN USB 3.0 Lector Tarjetas SD  Lector Tarjetas Leer Simultánea SD  Micro SD  TF  SDXC  SDHC  MMC  RS-MMC  Micro SDXC  Micro SDHC Super Rapída 5 GBP/s  para PS4  PS4 Pro  Xbox One  iMac etc
 ---
 
 Ahora mismo tienes [UGREEN USB 3.0 Lector Tarjetas SD  Lector Tarjetas Leer Simultánea SD  Micro SD  TF  SDXC  SDHC  MMC  RS-MMC  Micro SDXC  Micro SDHC Super Rapída 5 GBP/s  para PS4  PS4 Pro  Xbox One  iMac etc](https://www.amazon.es/dp/B01EFPX9XA/?tag=tolees-21) a 9.59 EUR (original: 18.99 EUR) (49.50 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NYNJZXY
 description:
 actualPrice: 18.5 EUR
+currency: EUR
+price: 18.5
 comparePrice: 45.6 EUR
 inStock: true
+prodname: KristLand - S925 Plata Esterlina Cadena Mujer Pendientes Colgados de Borlas Largas Drop Stud Para Fiestas Bodas Borlas Doradas
 ---
 
 Tienes [KristLand - S925 Plata Esterlina Cadena Mujer Pendientes Colgados de Borlas Largas Drop Stud Para Fiestas Bodas Borlas Doradas](https://www.amazon.es/dp/B07NYNJZXY/?tag=tolees-21) con un 59.43 % de descuento con precio de oferta de 18.5 EUR (original: 45.6 EUR) en el siguiente enlace!

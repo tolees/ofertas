@@ -10,8 +10,11 @@ author: ring
 slug: B07B6X6GLR
 description:
 actualPrice: 28.44 EUR
+currency: EUR
+price: 28.44
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Azul  NB Navy/Deep Porcelain Blue/White Cn   42 EU
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Azul  NB Navy/Deep Porcelain Blue/White Cn   42 EU](https://www.amazon.es/dp/B07B6X6GLR/?tag=tolees-21) a 28.44 EUR (original: 90 EUR) (68.40 %  de descuento) en el siguiente enlace!

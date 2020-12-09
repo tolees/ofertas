@@ -10,8 +10,11 @@ author: ring
 slug: B01EBPVJAE
 description:
 actualPrice: 19.0 EUR
+currency: EUR
+price: 19.0
 comparePrice: 49.0 EUR
 inStock: true
+prodname: Fossil Pulsera de Hombre con Acero Inoxidable
 ---
 
 Tienes [Fossil Pulsera de Hombre con Acero Inoxidable](https://www.amazon.es/dp/B01EBPVJAE/?tag=tolees-21) con un 61.22 % de descuento con precio de oferta de 19.0 EUR (original: 49.0 EUR) en el siguiente enlace!

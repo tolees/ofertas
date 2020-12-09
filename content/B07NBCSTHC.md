@@ -10,8 +10,11 @@ author: ring
 slug: B07NBCSTHC
 description:
 actualPrice: 39.47 EUR
+currency: EUR
+price: 39.47
 comparePrice: 78.93 EUR
 inStock: true
+prodname: House Of Cards - Temporadas 1-6 [Blu-ray]
 ---
 
 Ahora mismo tienes [House Of Cards - Temporadas 1-6 [Blu-ray]](https://www.amazon.es/dp/B07NBCSTHC/?tag=tolees-21) a 39.47 EUR (original: 78.93 EUR) (49.99 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01GEOM06W
 description:
 actualPrice: 25.9 EUR
+currency: EUR
+price: 25.9
 comparePrice: 54.75 EUR
 inStock: true
+prodname: Thunder X3 TK40- Teclado gaming Híbrido Mecánico-   Efecto LED  Mayor precisión  respuesta ultra rápida  capacidad- anti-ghosting  Color Negro
 ---
 
 Ahora mismo tienes [Thunder X3 TK40- Teclado gaming Híbrido Mecánico-   Efecto LED  Mayor precisión  respuesta ultra rápida  capacidad- anti-ghosting  Color Negro](https://www.amazon.es/dp/B01GEOM06W/?tag=tolees-21) a 25.9 EUR (original: 54.75 EUR) (52.69 %  de descuento) en el siguiente enlace!

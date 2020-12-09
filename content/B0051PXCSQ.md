@@ -10,8 +10,11 @@ author: ring
 slug: B0051PXCSQ
 description:
 actualPrice: 16.34 EUR
+currency: EUR
+price: 16.34
 comparePrice: 24 EUR
 inStock: true
+prodname: Atkinsons English Lavander Eau de Toilette Vaporizador 75 ml
 ---
 
 Ahora mismo tienes [Atkinsons English Lavander Eau de Toilette Vaporizador 75 ml](https://www.amazon.es/dp/B0051PXCSQ/?tag=tolees-21) a 16.34 EUR (original: 24 EUR) (31.92 %  de descuento) en el siguiente enlace!

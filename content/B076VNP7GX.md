@@ -10,8 +10,11 @@ author: ring
 slug: B076VNP7GX
 description:
 actualPrice: 44.44 EUR
+currency: EUR
+price: 44.44
 comparePrice: 85 EUR
 inStock: true
+prodname: Under Armour Charged Escape 2  Zapatillas de Running para Hombre  Negro  Black 3020333/002   45 EU
 ---
 
 Está [Under Armour Charged Escape 2  Zapatillas de Running para Hombre  Negro  Black 3020333/002   45 EU](https://www.amazon.es/dp/B076VNP7GX/?tag=tolees-21) con 47.72 de descuento por 44.44 EUR (original: 85 EUR) en el siguiente enlace!

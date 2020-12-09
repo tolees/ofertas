@@ -10,8 +10,11 @@ author: ring
 slug: B07TT5YTBB
 description:
 actualPrice: 61.0 EUR
+currency: EUR
+price: 61.0
 comparePrice: 129.0 EUR
 inStock: true
+prodname: Daniel Wellington Petite Dover  Reloj Blanco/Oro Rosado  32mm  NATO  para Mujer
 ---
 
 Ahora mismo tienes [Daniel Wellington Petite Dover  Reloj Blanco/Oro Rosado  32mm  NATO  para Mujer](https://www.amazon.es/dp/B07TT5YTBB/?tag=tolees-21) a 61.0 EUR (original: 129.0 EUR) (52.71 %  de descuento) en el siguiente enlace!

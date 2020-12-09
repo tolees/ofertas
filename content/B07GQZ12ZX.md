@@ -10,8 +10,11 @@ author: ring
 slug: B07GQZ12ZX
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 23.99 EUR
 inStock: true
+prodname: Cubierta de Equipaje Funda de Maleta 18-32 Pulgadas de Fibra de carbón de bambú Cubierta de Equipaje Poliéster Equipaje de Viaje Cubierta de la Caja Protectora  Color 12  L 
 ---
 
 Tienes [Cubierta de Equipaje Funda de Maleta 18-32 Pulgadas de Fibra de carbón de bambú Cubierta de Equipaje Poliéster Equipaje de Viaje Cubierta de la Caja Protectora  Color 12  L ](https://www.amazon.es/dp/B07GQZ12ZX/?tag=tolees-21) con un 29.18 % de descuento con precio de oferta de 16.99 EUR (original: 23.99 EUR) en el siguiente enlace!

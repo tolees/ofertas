@@ -10,8 +10,11 @@ author: ring
 slug: B07DHT13ZV
 description:
 actualPrice: 19.64 EUR
+currency: EUR
+price: 19.64
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Quiksilver Everyday Poster M BKPK BYL0 Mochila Mediana  Hombre  Vintage Indigo  One Size
 ---
 
 Está [Quiksilver Everyday Poster M BKPK BYL0 Mochila Mediana  Hombre  Vintage Indigo  One Size](https://www.amazon.es/dp/B07DHT13ZV/?tag=tolees-21) con 45.43 de descuento por 19.64 EUR (original: 35.99 EUR) en el siguiente enlace!

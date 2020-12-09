@@ -10,8 +10,11 @@ author: ring
 slug: B07CCVZ9N2
 description:
 actualPrice: 20.23 EUR
+currency: EUR
+price: 20.23
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Scarlett Vaqueros Skinny  Azul  Blue Drop Em   27W / 35L para Mujer
 ---
 
 Ahora mismo tienes [Lee Scarlett Vaqueros Skinny  Azul  Blue Drop Em   27W / 35L para Mujer](https://www.amazon.es/dp/B07CCVZ9N2/?tag=tolees-21) a 20.23 EUR (original: 99.95 EUR) (79.76 %  de descuento) en el siguiente enlace!

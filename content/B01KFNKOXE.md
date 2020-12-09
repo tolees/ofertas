@@ -10,8 +10,11 @@ author: ring
 slug: B01KFNKOXE
 description:
 actualPrice: 34.85 EUR
+currency: EUR
+price: 34.85
 comparePrice: 59.95 EUR
 inStock: true
+prodname: BLACK+DECKER CS3652LKA-QW - Atornillador 3.6V  batería 1.5Ah  incluye 99 accesorios y maletín
 ---
 
 Tienes [BLACK+DECKER CS3652LKA-QW - Atornillador 3.6V  batería 1.5Ah  incluye 99 accesorios y maletín](https://www.amazon.es/dp/B01KFNKOXE/?tag=tolees-21) con un 41.87 % de descuento con precio de oferta de 34.85 EUR (original: 59.95 EUR) en el siguiente enlace!

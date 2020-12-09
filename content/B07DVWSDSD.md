@@ -10,8 +10,11 @@ author: ring
 slug: B07DVWSDSD
 description:
 actualPrice: 37.5 EUR
+currency: EUR
+price: 37.5
 comparePrice: 75 EUR
 inStock: true
+prodname: LE COQ SPORTIF Alpha II  Zapatillas para Hombre  Azul Dress Blue  44 EU
 ---
 
 Tienes [LE COQ SPORTIF Alpha II  Zapatillas para Hombre  Azul Dress Blue  44 EU](https://www.amazon.es/dp/B07DVWSDSD/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 37.5 EUR (original: 75 EUR) en el siguiente enlace!

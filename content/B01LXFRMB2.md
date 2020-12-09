@@ -10,8 +10,11 @@ author: ring
 slug: B01LXFRMB2
 description:
 actualPrice: 16.57 EUR
+currency: EUR
+price: 16.57
 comparePrice: 65 EUR
 inStock: true
+prodname: Superga
 ---
 
 Ahora mismo tienes [Superga](https://www.amazon.es/dp/B01LXFRMB2/?tag=tolees-21) a 16.57 EUR (original: 65 EUR) (74.51 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B073RJW6SG
 description:
 actualPrice: 31.36 EUR
+currency: EUR
+price: 31.36
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Adidas Athletics 24/7 W  Zapatillas de Deporte para Mujer  Blanco Ftwbla/Rostra 000  39 1/3 EU
 ---
 
 Está [Adidas Athletics 24/7 W  Zapatillas de Deporte para Mujer  Blanco Ftwbla/Rostra 000  39 1/3 EU](https://www.amazon.es/dp/B073RJW6SG/?tag=tolees-21) con 68.62 de descuento por 31.36 EUR (original: 99.95 EUR) en el siguiente enlace!

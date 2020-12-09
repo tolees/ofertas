@@ -10,8 +10,11 @@ author: ring
 slug: B07BSLLS9Q
 description:
 actualPrice: 15 EUR
+currency: EUR
+price: 15
 comparePrice: 30 EUR
 inStock: true
+prodname: REPLAY M3594 .000.2660  Camiseta para Hombre  Azul  Midnight Blue. 576   Medium
 ---
 
 Está [REPLAY M3594 .000.2660  Camiseta para Hombre  Azul  Midnight Blue. 576   Medium](https://www.amazon.es/dp/B07BSLLS9Q/?tag=tolees-21) con 50.00 de descuento por 15 EUR (original: 30 EUR) en el siguiente enlace!

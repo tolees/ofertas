@@ -10,8 +10,11 @@ author: ring
 slug: B07BSK4PTH
 description:
 actualPrice: 31.34 EUR
+currency: EUR
+price: 31.34
 comparePrice: 71 EUR
 inStock: true
+prodname: Nike Wmns Md Runner 2 Eng Mesh  Zapatillas de Running para Mujer  Negro  Black/Black/Igloo/White 003   36.5 EU
 ---
 
 Tienes [Nike Wmns Md Runner 2 Eng Mesh  Zapatillas de Running para Mujer  Negro  Black/Black/Igloo/White 003   36.5 EU](https://www.amazon.es/dp/B07BSK4PTH/?tag=tolees-21) con un 55.86 % de descuento con precio de oferta de 31.34 EUR (original: 71 EUR) en el siguiente enlace!

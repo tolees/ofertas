@@ -10,8 +10,11 @@ author: ring
 slug: B07SJT6LPZ
 description:
 actualPrice: 5.71 EUR
+currency: EUR
+price: 5.71
 comparePrice: 9.99 EUR
 inStock: true
+prodname: La Granja de Zenón - Puzzles Juega y Aprende con la Vaca Lola
 ---
 
 Está [La Granja de Zenón - Puzzles Juega y Aprende con la Vaca Lola](https://www.amazon.es/dp/B07SJT6LPZ/?tag=tolees-21) con 42.84 de descuento por 5.71 EUR (original: 9.99 EUR) en el siguiente enlace!

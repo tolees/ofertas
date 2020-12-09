@@ -10,8 +10,11 @@ author: ring
 slug: B07BB4Q8KW
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 50.0 EUR
 inStock: true
+prodname: Levi s Declan Millstone 2 Tone  Zapatillas para Hombre  Blanco  R White 51   41 EU
 ---
 
 Ahora mismo tienes [Levi s Declan Millstone 2 Tone  Zapatillas para Hombre  Blanco  R White 51   41 EU](https://www.amazon.es/dp/B07BB4Q8KW/?tag=tolees-21) a 31.99 EUR (original: 50.0 EUR) (36.02 %  de descuento) en el siguiente enlace!

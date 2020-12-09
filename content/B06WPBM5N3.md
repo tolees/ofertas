@@ -10,8 +10,11 @@ author: ring
 slug: B06WPBM5N3
 description:
 actualPrice: 24.0 EUR
+currency: EUR
+price: 24.0
 comparePrice: 35.25 EUR
 inStock: true
+prodname: Bosch TAS1404 Tassimo Vivy 2 - Cafetera Multibebidas Automática de Cápsulas  Diseño Compacto  color Blanco  Única
 ---
 
 Está [Bosch TAS1404 Tassimo Vivy 2 - Cafetera Multibebidas Automática de Cápsulas  Diseño Compacto  color Blanco  Única](https://www.amazon.es/dp/B06WPBM5N3/?tag=tolees-21) con 31.91 de descuento por 24.0 EUR (original: 35.25 EUR) en el siguiente enlace!

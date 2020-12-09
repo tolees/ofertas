@@ -10,8 +10,11 @@ author: ring
 slug: B07JDGD43Z
 description:
 actualPrice: 43.99 EUR
+currency: EUR
+price: 43.99
 comparePrice: 80.5 EUR
 inStock: true
+prodname: Botines Hombre Invierno Forrado Lace Up 4 Pulgadas Impermeables Calentar Botas Martin de Cuero - GENBOOTS BX38 
 ---
 
 Está [Botines Hombre Invierno Forrado Lace Up 4 Pulgadas Impermeables Calentar Botas Martin de Cuero - GENBOOTS BX38 ](https://www.amazon.es/dp/B07JDGD43Z/?tag=tolees-21) con 45.35 de descuento por 43.99 EUR (original: 80.5 EUR) en el siguiente enlace!

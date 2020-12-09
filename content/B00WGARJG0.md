@@ -10,8 +10,11 @@ author: ring
 slug: B00WGARJG0
 description:
 actualPrice: 74.22 EUR
+currency: EUR
+price: 74.22
 comparePrice: 198.9 EUR
 inStock: true
+prodname: Transcend JetDrive Lite 350 - 256GBTarjeta para MacBook Pro Retina 15" Mediados 2012 - Principios 2013
 ---
 
 Ahora mismo tienes [Transcend JetDrive Lite 350 - 256GBTarjeta para MacBook Pro Retina 15" Mediados 2012 - Principios 2013](https://www.amazon.es/dp/B00WGARJG0/?tag=tolees-21) a 74.22 EUR (original: 198.9 EUR) (62.68 %  de descuento) en el siguiente enlace!

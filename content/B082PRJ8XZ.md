@@ -10,8 +10,11 @@ author: ring
 slug: B082PRJ8XZ
 description:
 actualPrice: 11.5 EUR
+currency: EUR
+price: 11.5
 comparePrice: 22.51 EUR
 inStock: true
+prodname: Joker Blu-Ray Steelbook Teaser [Blu-ray]
 ---
 
 Tienes [Joker Blu-Ray Steelbook Teaser [Blu-ray]](https://www.amazon.es/dp/B082PRJ8XZ/?tag=tolees-21) con un 48.91 % de descuento con precio de oferta de 11.5 EUR (original: 22.51 EUR) en el siguiente enlace!

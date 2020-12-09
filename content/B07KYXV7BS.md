@@ -10,8 +10,11 @@ author: ring
 slug: B07KYXV7BS
 description:
 actualPrice: 5.48 EUR
+currency: EUR
+price: 5.48
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Springfield 2.T.Ap.Pv19.Flor Print Camiseta  Rojo  Gama Rojos 65   Medium  Tamaño del Fabricante:M  para Mujer
 ---
 
 Está [Springfield 2.T.Ap.Pv19.Flor Print Camiseta  Rojo  Gama Rojos 65   Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B07KYXV7BS/?tag=tolees-21) con 57.81 de descuento por 5.48 EUR (original: 12.99 EUR) en el siguiente enlace!

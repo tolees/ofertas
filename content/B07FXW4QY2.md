@@ -10,8 +10,11 @@ author: ring
 slug: B07FXW4QY2
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Cúter profesional Powerdelux Cúter Plegable de Cambio Rápido Cortador con Mango Cómodo Cuchillo Profesional para Uso Diario y Trabajo Pesado 5 Hojas Incluidas Cuchillo Multiuso XD004
 ---
 
 Está [Cúter profesional Powerdelux Cúter Plegable de Cambio Rápido Cortador con Mango Cómodo Cuchillo Profesional para Uso Diario y Trabajo Pesado 5 Hojas Incluidas Cuchillo Multiuso XD004](https://www.amazon.es/dp/B07FXW4QY2/?tag=tolees-21) con 80.01 de descuento por 13.99 EUR (original: 69.99 EUR) en el siguiente enlace!

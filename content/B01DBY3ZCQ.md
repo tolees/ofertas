@@ -10,8 +10,11 @@ author: ring
 slug: B01DBY3ZCQ
 description:
 actualPrice: 11.96 EUR
+currency: EUR
+price: 11.96
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Izas Gabin Bermuda Montaña  Hombre  Gris  Dark Grey/Black   S
 ---
 
 Ahora mismo tienes [Izas Gabin Bermuda Montaña  Hombre  Gris  Dark Grey/Black   S](https://www.amazon.es/dp/B01DBY3ZCQ/?tag=tolees-21) a 11.96 EUR (original: 59.95 EUR) (80.05 %  de descuento) en el siguiente enlace!

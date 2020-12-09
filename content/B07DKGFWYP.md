@@ -10,8 +10,11 @@ author: ring
 slug: B07DKGFWYP
 description:
 actualPrice: 47.4 EUR
+currency: EUR
+price: 47.4
 comparePrice: 79 EUR
 inStock: true
+prodname: Kipling - City Pack Mini  Mochilas Mujer  Azul  Active Blue 
 ---
 
 Está [Kipling - City Pack Mini  Mochilas Mujer  Azul  Active Blue ](https://www.amazon.es/dp/B07DKGFWYP/?tag=tolees-21) con 40.00 de descuento por 47.4 EUR (original: 79 EUR) en el siguiente enlace!

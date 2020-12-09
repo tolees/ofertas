@@ -10,8 +10,11 @@ author: ring
 slug: B07CRDZJL1
 description:
 actualPrice: 18.85 EUR
+currency: EUR
+price: 18.85
 comparePrice: 79.9 EUR
 inStock: true
+prodname: Pepe Jeans Clifford Camisa   Indigo 561   XX-Large para Hombre
 ---
 
 Está [Pepe Jeans Clifford Camisa   Indigo 561   XX-Large para Hombre](https://www.amazon.es/dp/B07CRDZJL1/?tag=tolees-21) con 76.41 de descuento por 18.85 EUR (original: 79.9 EUR) en el siguiente enlace!

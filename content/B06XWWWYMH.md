@@ -10,8 +10,11 @@ author: ring
 slug: B06XWWWYMH
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Auriculares  GGMM Auriculares con Cable Micrófono Bajo Potente Casco de Metal Headphone Cancelación de Ruido Clase 3.5mm Negro
 ---
 
 Ahora mismo tienes [Auriculares  GGMM Auriculares con Cable Micrófono Bajo Potente Casco de Metal Headphone Cancelación de Ruido Clase 3.5mm Negro](https://www.amazon.es/dp/B06XWWWYMH/?tag=tolees-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

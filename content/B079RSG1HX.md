@@ -10,8 +10,11 @@ author: ring
 slug: B079RSG1HX
 description:
 actualPrice: 16.54 EUR
+currency: EUR
+price: 16.54
 comparePrice: 65 EUR
 inStock: true
+prodname: Pepe Jeans Sprinter  Jeans para Niños  Negro  Black Wk1   4 años
 ---
 
 Está [Pepe Jeans Sprinter  Jeans para Niños  Negro  Black Wk1   4 años](https://www.amazon.es/dp/B079RSG1HX/?tag=tolees-21) con 74.55 de descuento por 16.54 EUR (original: 65 EUR) en el siguiente enlace!

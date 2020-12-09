@@ -10,8 +10,11 @@ author: ring
 slug: B003RJTTE4
 description:
 actualPrice: 8.36 EUR
+currency: EUR
+price: 8.36
 comparePrice: 21 EUR
 inStock: true
+prodname: Schwarzkopf OSiS Thrill Fibre Gum  100 ml  1 unidad
 ---
 
 Ahora mismo tienes [Schwarzkopf OSiS Thrill Fibre Gum  100 ml  1 unidad](https://www.amazon.es/dp/B003RJTTE4/?tag=tolees-21) a 8.36 EUR (original: 21 EUR) (60.19 %  de descuento) en el siguiente enlace!

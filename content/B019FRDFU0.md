@@ -10,8 +10,11 @@ author: ring
 slug: B019FRDFU0
 description:
 actualPrice: 16.93 EUR
+currency: EUR
+price: 16.93
 comparePrice: 22.98 EUR
 inStock: true
+prodname: Crucial CT4G4DFS824A - Memoria RAM de 4 GB  DDR4  2400 MT/s  PC4-19200  Single Rank x 8  DIMM  288-Pin 
 ---
 
 Está [Crucial CT4G4DFS824A - Memoria RAM de 4 GB  DDR4  2400 MT/s  PC4-19200  Single Rank x 8  DIMM  288-Pin ](https://www.amazon.es/dp/B019FRDFU0/?tag=tolees-21) con 26.33 de descuento por 16.93 EUR (original: 22.98 EUR) en el siguiente enlace!

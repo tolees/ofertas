@@ -10,8 +10,11 @@ author: ring
 slug: B00UNNUHZC
 description:
 actualPrice: 103.0 EUR
+currency: EUR
+price: 103.0
 comparePrice: 269.0 EUR
 inStock: true
+prodname: BERING Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 32339-707
 ---
 
 Tienes [BERING Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 32339-707](https://www.amazon.es/dp/B00UNNUHZC/?tag=tolees-21) con un 61.71 % de descuento con precio de oferta de 103.0 EUR (original: 269.0 EUR) en el siguiente enlace!

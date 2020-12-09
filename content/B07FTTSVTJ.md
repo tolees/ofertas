@@ -10,8 +10,11 @@ author: ring
 slug: B07FTTSVTJ
 description:
 actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
 comparePrice: 19.1 EUR
 inStock: true
+prodname: Bestway 58037 Cobertor Invierno para Piscina Desmontable  366 cm
 ---
 
 Tienes [Bestway 58037 Cobertor Invierno para Piscina Desmontable  366 cm](https://www.amazon.es/dp/B07FTTSVTJ/?tag=tolees-21) con un 37.43 % de descuento con precio de oferta de 11.95 EUR (original: 19.1 EUR) en el siguiente enlace!

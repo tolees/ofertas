@@ -10,8 +10,11 @@ author: ring
 slug: B07FXXYWRH
 description:
 actualPrice: 27.95 EUR
+currency: EUR
+price: 27.95
 comparePrice: 55 EUR
 inStock: true
+prodname: Superdry - Fresh International Montana  Mochilas Hombre  Negro  Nero   30x45x15 cm  W x H L 
 ---
 
 Está [Superdry - Fresh International Montana  Mochilas Hombre  Negro  Nero   30x45x15 cm  W x H L ](https://www.amazon.es/dp/B07FXXYWRH/?tag=tolees-21) con 49.18 de descuento por 27.95 EUR (original: 55 EUR) en el siguiente enlace!

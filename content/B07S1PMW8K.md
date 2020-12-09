@@ -10,8 +10,11 @@ author: ring
 slug: B07S1PMW8K
 description:
 actualPrice: 52.72 EUR
+currency: EUR
+price: 52.72
 comparePrice: 80.0 EUR
 inStock: true
+prodname: New Balance 373 Core  Zapatillas Bajas para Hombre  Verde  Green/White Cb2   36 EU
 ---
 
 Ahora mismo tienes [New Balance 373 Core  Zapatillas Bajas para Hombre  Verde  Green/White Cb2   36 EU](https://www.amazon.es/dp/B07S1PMW8K/?tag=tolees-21) a 52.72 EUR (original: 80.0 EUR) (34.10 %  de descuento) en el siguiente enlace!

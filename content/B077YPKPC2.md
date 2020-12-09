@@ -10,8 +10,11 @@ author: ring
 slug: B077YPKPC2
 description:
 actualPrice: 27.57 EUR
+currency: EUR
+price: 27.57
 comparePrice: 45.95 EUR
 inStock: true
+prodname: HIKARO Chaleco de Plumas con Capucha Hombre  Rojo  Red   48  Talla del fabricante: Small 
 ---
 
 Ahora mismo tienes [HIKARO Chaleco de Plumas con Capucha Hombre  Rojo  Red   48  Talla del fabricante: Small ](https://www.amazon.es/dp/B077YPKPC2/?tag=tolees-21) a 27.57 EUR (original: 45.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

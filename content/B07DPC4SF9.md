@@ -10,8 +10,11 @@ author: ring
 slug: B07DPC4SF9
 description:
 actualPrice: 15.72 EUR
+currency: EUR
+price: 15.72
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Puma 4Keeps Bra M Top  Mujer  Rosa  Orchid   XS
 ---
 
 Tienes [Puma 4Keeps Bra M Top  Mujer  Rosa  Orchid   XS](https://www.amazon.es/dp/B07DPC4SF9/?tag=tolees-21) con un 47.51 % de descuento con precio de oferta de 15.72 EUR (original: 29.95 EUR) en el siguiente enlace!

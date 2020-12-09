@@ -10,8 +10,11 @@ author: ring
 slug: B07V1HVS7F
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 28.75 EUR
 inStock: true
+prodname: Metaltex Easy-Lote 3 Sartenes Aluminio 18+22+26 cm. Mango Soft Touch y Doble Capa Antiadherente. Full Induction
 ---
 
 Está [Metaltex Easy-Lote 3 Sartenes Aluminio 18+22+26 cm. Mango Soft Touch y Doble Capa Antiadherente. Full Induction](https://www.amazon.es/dp/B07V1HVS7F/?tag=tolees-21) con 26.99 de descuento por 20.99 EUR (original: 28.75 EUR) en el siguiente enlace!

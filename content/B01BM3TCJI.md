@@ -10,8 +10,11 @@ author: ring
 slug: B01BM3TCJI
 description:
 actualPrice: 389.53 EUR
+currency: EUR
+price: 389.53
 comparePrice: 554.58 EUR
 inStock: true
+prodname: Parker Duofold Classic - Pluma Estilográfica  Negro  Black - Gold Plated Finish   Plumín Fino
 ---
 
 Está [Parker Duofold Classic - Pluma Estilográfica  Negro  Black - Gold Plated Finish   Plumín Fino](https://www.amazon.es/dp/B01BM3TCJI/?tag=tolees-21) con 29.76 de descuento por 389.53 EUR (original: 554.58 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MHHSNQ5
 description:
 actualPrice: 16.01 EUR
+currency: EUR
+price: 16.01
 comparePrice: 62.9 EUR
 inStock: true
+prodname: find. Leather Mocassin Botas Clasicas  Gris Grey  46 EU
 ---
 
 Está [find. Leather Mocassin Botas Clasicas  Gris Grey  46 EU](https://www.amazon.es/dp/B07MHHSNQ5/?tag=tolees-21) con 74.55 de descuento por 16.01 EUR (original: 62.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00UGK3K9C
 description:
 actualPrice: 7.2 EUR
+currency: EUR
+price: 7.2
 comparePrice: 14.73 EUR
 inStock: true
+prodname: L Oréal Expert Professionnel Vitamino Color A-Ox Champú 250 ml
 ---
 
 Tienes [L Oréal Expert Professionnel Vitamino Color A-Ox Champú 250 ml](https://www.amazon.es/dp/B00UGK3K9C/?tag=tolees-21) con un 51.12 % de descuento con precio de oferta de 7.2 EUR (original: 14.73 EUR) en el siguiente enlace!

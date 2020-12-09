@@ -10,8 +10,11 @@ author: ring
 slug: B07Q6S4KDQ
 description:
 actualPrice: 20.77 EUR
+currency: EUR
+price: 20.77
 comparePrice: 28.77 EUR
 inStock: true
+prodname: Sedhoom 23 Piezas Cortador de Verdura Mandolina de Verduras Multifuncional Mandolina de Cocina Slicer Espiral Rallador de Cuchillas Acero Inoxidable Pelador
 ---
 
 Tienes [Sedhoom 23 Piezas Cortador de Verdura Mandolina de Verduras Multifuncional Mandolina de Cocina Slicer Espiral Rallador de Cuchillas Acero Inoxidable Pelador](https://www.amazon.es/dp/B07Q6S4KDQ/?tag=tolees-21) con un 27.81 % de descuento con precio de oferta de 20.77 EUR (original: 28.77 EUR) en el siguiente enlace!

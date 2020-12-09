@@ -10,8 +10,11 @@ author: ring
 slug: B01CZRKKJG
 description:
 actualPrice: 22.95 EUR
+currency: EUR
+price: 22.95
 comparePrice: 42.24 EUR
 inStock: true
+prodname: Kempa Bekleidung Teamsport Sweathose Negro Negro Talla:XX-Large
 ---
 
 Tienes [Kempa Bekleidung Teamsport Sweathose Negro Negro Talla:XX-Large](https://www.amazon.es/dp/B01CZRKKJG/?tag=tolees-21) con un 45.67 % de descuento con precio de oferta de 22.95 EUR (original: 42.24 EUR) en el siguiente enlace!

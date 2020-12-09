@@ -10,8 +10,11 @@ author: ring
 slug: B07B92LTGW
 description:
 actualPrice: 115.64 EUR
+currency: EUR
+price: 115.64
 comparePrice: 183.91 EUR
 inStock: true
+prodname: Ballistix Tactical Tracer BLT2C8G4D26BFT4K - Memoria DDR4 de 16 GB Kit  8 GB x 2  para Juegos  2666 MT/s  PC4-21300  DR x8  DIMM  288-Pin 
 ---
 
 Está [Ballistix Tactical Tracer BLT2C8G4D26BFT4K - Memoria DDR4 de 16 GB Kit  8 GB x 2  para Juegos  2666 MT/s  PC4-21300  DR x8  DIMM  288-Pin ](https://www.amazon.es/dp/B07B92LTGW/?tag=tolees-21) con 37.12 de descuento por 115.64 EUR (original: 183.91 EUR) en el siguiente enlace!

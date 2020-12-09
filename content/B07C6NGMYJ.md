@@ -10,8 +10,11 @@ author: ring
 slug: B07C6NGMYJ
 description:
 actualPrice: 100.58 EUR
+currency: EUR
+price: 100.58
 comparePrice: 149.0 EUR
 inStock: true
+prodname: Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 10137/1
 ---
 
 Está [Lotus Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable 10137/1](https://www.amazon.es/dp/B07C6NGMYJ/?tag=tolees-21) con 32.50 de descuento por 100.58 EUR (original: 149.0 EUR) en el siguiente enlace!

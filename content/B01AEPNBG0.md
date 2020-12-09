@@ -10,8 +10,11 @@ author: ring
 slug: B01AEPNBG0
 description:
 actualPrice: 23.95 EUR
+currency: EUR
+price: 23.95
 comparePrice: 51.99 EUR
 inStock: true
+prodname: LarKoo Ultra Portable Wireles Rechargeable Handsfree Bracket Bluetooth Speaker Stereo System Phone Holder Mount Stand for Android Smartphones and Tablets iPad iPhone 5S 6 6S 7 8 Plus X  Black 
 ---
 
 Ahora mismo tienes [LarKoo Ultra Portable Wireles Rechargeable Handsfree Bracket Bluetooth Speaker Stereo System Phone Holder Mount Stand for Android Smartphones and Tablets iPad iPhone 5S 6 6S 7 8 Plus X  Black ](https://www.amazon.es/dp/B01AEPNBG0/?tag=tolees-21) a 23.95 EUR (original: 51.99 EUR) (53.93 %  de descuento) en el siguiente enlace!

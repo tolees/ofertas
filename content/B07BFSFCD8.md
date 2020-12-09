@@ -10,8 +10,11 @@ author: ring
 slug: B07BFSFCD8
 description:
 actualPrice: 42.45 EUR
+currency: EUR
+price: 42.45
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Clarks Comet Moon GTX  Botas Clasicas para Niños  Negro  Black Leather   28 EU
 ---
 
 Está [Clarks Comet Moon GTX  Botas Clasicas para Niños  Negro  Black Leather   28 EU](https://www.amazon.es/dp/B07BFSFCD8/?tag=tolees-21) con 52.81 de descuento por 42.45 EUR (original: 89.95 EUR) en el siguiente enlace!

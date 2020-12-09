@@ -10,8 +10,11 @@ author: ring
 slug: B07FKT2W3W
 description:
 actualPrice: 24.21 EUR
+currency: EUR
+price: 24.21
 comparePrice: 33.98 EUR
 inStock: true
+prodname: Joma Academy Chandal Caballero  Hombre  Amarillo/Negro  M
 ---
 
 Está [Joma Academy Chandal Caballero  Hombre  Amarillo/Negro  M](https://www.amazon.es/dp/B07FKT2W3W/?tag=tolees-21) con 28.75 de descuento por 24.21 EUR (original: 33.98 EUR) en el siguiente enlace!

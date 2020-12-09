@@ -10,8 +10,11 @@ author: ring
 slug: B085XJ2BWL
 description:
 actualPrice: 8.55 EUR
+currency: EUR
+price: 8.55
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Aspirador removedor de espinillas Limpiador de poros AONESY 5 modos y 5 sondas multifuncionales Herramienta de eliminación de espinillas eléctrica con cuidado en frío y caliente USB recargable
 ---
 
 Está [Aspirador removedor de espinillas Limpiador de poros AONESY 5 modos y 5 sondas multifuncionales Herramienta de eliminación de espinillas eléctrica con cuidado en frío y caliente USB recargable](https://www.amazon.es/dp/B085XJ2BWL/?tag=tolees-21) con 62.81 de descuento por 8.55 EUR (original: 22.99 EUR) en el siguiente enlace!

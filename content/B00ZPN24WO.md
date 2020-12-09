@@ -10,8 +10,11 @@ author: ring
 slug: B00ZPN24WO
 description:
 actualPrice: 7.28 EUR
+currency: EUR
+price: 7.28
 comparePrice: 13.2 EUR
 inStock: true
+prodname: Biberon système anti-coliques 300 ml
 ---
 
 Ahora mismo tienes [Biberon système anti-coliques 300 ml](https://www.amazon.es/dp/B00ZPN24WO/?tag=tolees-21) a 7.28 EUR (original: 13.2 EUR) (44.85 %  de descuento) en el siguiente enlace!

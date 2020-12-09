@@ -10,8 +10,11 @@ author: ring
 slug: B01MF7CLRP
 description:
 actualPrice: 15 EUR
+currency: EUR
+price: 15
 comparePrice: 25.49 EUR
 inStock: true
+prodname: JBL T450 - Auriculares supraaurales con micrófono incluido y cable  control remoto de un solo botón  sonido Pure Bass  azul
 ---
 
 Tienes [JBL T450 - Auriculares supraaurales con micrófono incluido y cable  control remoto de un solo botón  sonido Pure Bass  azul](https://www.amazon.es/dp/B01MF7CLRP/?tag=tolees-21) con un 41.15 % de descuento con precio de oferta de 15 EUR (original: 25.49 EUR) en el siguiente enlace!

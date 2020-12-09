@@ -10,8 +10,11 @@ author: ring
 slug: B01DDVMZ64
 description:
 actualPrice: 4.9 EUR
+currency: EUR
+price: 4.9
 comparePrice: 7.5 EUR
 inStock: true
+prodname: adidas Pádel OV - Set overgrip  Color Rosa  Talla única
 ---
 
 Ahora mismo tienes [adidas Pádel OV - Set overgrip  Color Rosa  Talla única](https://www.amazon.es/dp/B01DDVMZ64/?tag=tolees-21) a 4.9 EUR (original: 7.5 EUR) (34.67 %  de descuento) en el siguiente enlace!

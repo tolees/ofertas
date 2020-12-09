@@ -10,8 +10,11 @@ author: ring
 slug: B00OBKQLN0
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 62.99 EUR
 inStock: true
+prodname: Ultrasport Everest  Chaqueta Softshell para hombre  Azul  Viktoria Blau/Shamrock   S
 ---
 
 Ahora mismo tienes [Ultrasport Everest  Chaqueta Softshell para hombre  Azul  Viktoria Blau/Shamrock   S](https://www.amazon.es/dp/B00OBKQLN0/?tag=tolees-21) a 38.99 EUR (original: 62.99 EUR) (38.10 %  de descuento) en el siguiente enlace!

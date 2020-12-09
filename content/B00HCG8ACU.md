@@ -10,8 +10,11 @@ author: ring
 slug: B00HCG8ACU
 description:
 actualPrice: 119.95 EUR
+currency: EUR
+price: 119.95
 comparePrice: 507.99 EUR
 inStock: true
+prodname: Feber Range Rover - Coche eléctrico de batería sport  12 V  Famosa 8008660 
 ---
 
 Está [Feber Range Rover - Coche eléctrico de batería sport  12 V  Famosa 8008660 ](https://www.amazon.es/dp/B00HCG8ACU/?tag=tolees-21) con 76.39 de descuento por 119.95 EUR (original: 507.99 EUR) en el siguiente enlace!

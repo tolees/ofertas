@@ -10,8 +10,11 @@ author: ring
 slug: B01C8XHDUQ
 description:
 actualPrice: 50.1 EUR
+currency: EUR
+price: 50.1
 comparePrice: 79.9 EUR
 inStock: true
+prodname: BOXEUR DES RUES BXT-T100 Chándal Deportivo  Hombre  Royal  M
 ---
 
 Ahora mismo tienes [BOXEUR DES RUES BXT-T100 Chándal Deportivo  Hombre  Royal  M](https://www.amazon.es/dp/B01C8XHDUQ/?tag=tolees-21) a 50.1 EUR (original: 79.9 EUR) (37.30 %  de descuento) en el siguiente enlace!

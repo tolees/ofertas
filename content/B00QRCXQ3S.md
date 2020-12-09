@@ -10,8 +10,11 @@ author: ring
 slug: B00QRCXQ3S
 description:
 actualPrice: 12.31 EUR
+currency: EUR
+price: 12.31
 comparePrice: 24 EUR
 inStock: true
+prodname: Under Armour UA M ATLANTICDUNE T - Zapatillas De Agua de goma hombre Verde  Black/Artillery green   41 EU  US: 8 
 ---
 
 Está [Under Armour UA M ATLANTICDUNE T - Zapatillas De Agua de goma hombre Verde  Black/Artillery green   41 EU  US: 8 ](https://www.amazon.es/dp/B00QRCXQ3S/?tag=tolees-21) con 48.71 de descuento por 12.31 EUR (original: 24 EUR) en el siguiente enlace!

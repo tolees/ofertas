@@ -10,8 +10,11 @@ author: ring
 slug: B071HQS9RJ
 description:
 actualPrice: 119 EUR
+currency: EUR
+price: 119
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Taurus DH101 Deshumificador de aire por condension
 ---
 
 Ahora mismo tienes [Taurus DH101 Deshumificador de aire por condension](https://www.amazon.es/dp/B071HQS9RJ/?tag=tolees-21) a 119 EUR (original: 199.99 EUR) (40.50 %  de descuento) en el siguiente enlace!

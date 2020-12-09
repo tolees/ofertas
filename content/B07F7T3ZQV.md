@@ -10,8 +10,11 @@ author: ring
 slug: B07F7T3ZQV
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 226.14 EUR
 inStock: true
+prodname: Reloj - SUNWH - Para  - W-3654
 ---
 
 Está [Reloj - SUNWH - Para  - W-3654](https://www.amazon.es/dp/B07F7T3ZQV/?tag=tolees-21) con 88.06 de descuento por 26.99 EUR (original: 226.14 EUR) en el siguiente enlace!

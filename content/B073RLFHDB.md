@@ -10,8 +10,11 @@ author: ring
 slug: B073RLFHDB
 description:
 actualPrice: 34.23 EUR
+currency: EUR
+price: 34.23
 comparePrice: 64.95 EUR
 inStock: true
+prodname: adidas Cosmic 2  Zapatillas de Entrenamiento para Hombre  Blanco  Crystal Footwear White/Grey 0   44 2/3 EU
 ---
 
 Tienes [adidas Cosmic 2  Zapatillas de Entrenamiento para Hombre  Blanco  Crystal Footwear White/Grey 0   44 2/3 EU](https://www.amazon.es/dp/B073RLFHDB/?tag=tolees-21) con un 47.30 % de descuento con precio de oferta de 34.23 EUR (original: 64.95 EUR) en el siguiente enlace!

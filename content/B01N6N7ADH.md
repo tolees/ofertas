@@ -10,8 +10,11 @@ author: ring
 slug: B01N6N7ADH
 description:
 actualPrice: 54.9 EUR
+currency: EUR
+price: 54.9
 comparePrice: 74 EUR
 inStock: true
+prodname: Aspirador sin bolsa potente. Aspirador Ciclónico Silencioso. Eficiencia energética A. Máxima potencia de succión. Gran capacidad 3 5L. Filtros HEPA. Aspirador trineo Conga Multiciclonic de Cecotec.
 ---
 
 Ahora mismo tienes [Aspirador sin bolsa potente. Aspirador Ciclónico Silencioso. Eficiencia energética A. Máxima potencia de succión. Gran capacidad 3 5L. Filtros HEPA. Aspirador trineo Conga Multiciclonic de Cecotec.](https://www.amazon.es/dp/B01N6N7ADH/?tag=tolees-21) a 54.9 EUR (original: 74 EUR) (25.81 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01GOGHBAU
 description:
 actualPrice: 6.06 EUR
+currency: EUR
+price: 6.06
 comparePrice: 15.11 EUR
 inStock: true
+prodname: Warcraft - L inizio  Steelbook   DVD  [Italia] [Blu-ray]
 ---
 
 Tienes [Warcraft - L inizio  Steelbook   DVD  [Italia] [Blu-ray]](https://www.amazon.es/dp/B01GOGHBAU/?tag=tolees-21) con un 59.89 % de descuento con precio de oferta de 6.06 EUR (original: 15.11 EUR) en el siguiente enlace!

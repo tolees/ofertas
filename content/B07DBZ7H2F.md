@@ -10,8 +10,11 @@ author: ring
 slug: B07DBZ7H2F
 description:
 actualPrice: 24.93 EUR
+currency: EUR
+price: 24.93
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Puma Hybrid Runner Wns  Zapatillas de Running para Mujer  Azul Black-Fair Aqua  36 EU
 ---
 
 Ahora mismo tienes [Puma Hybrid Runner Wns  Zapatillas de Running para Mujer  Azul Black-Fair Aqua  36 EU](https://www.amazon.es/dp/B07DBZ7H2F/?tag=tolees-21) a 24.93 EUR (original: 99.95 EUR) (75.06 %  de descuento) en el siguiente enlace!

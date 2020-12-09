@@ -10,8 +10,11 @@ author: ring
 slug: B07JMQ68MJ
 description:
 actualPrice: 14.76 EUR
+currency: EUR
+price: 14.76
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 49009  Zapatillas para Mujer  Beige  36 EU
 ---
 
 Está [XTI 49009  Zapatillas para Mujer  Beige  36 EU](https://www.amazon.es/dp/B07JMQ68MJ/?tag=tolees-21) con 70.45 de descuento por 14.76 EUR (original: 49.95 EUR) en el siguiente enlace!

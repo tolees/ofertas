@@ -10,8 +10,11 @@ author: ring
 slug: B07DX11DWK
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: SIMMAX Memorias USB 2 Piezas 16GB USB 2.0 Stick Giratoria Flash Drive Pendrives Almacenamiento Datos  16GB Negro Rojo 
 ---
 
 Ahora mismo tienes [SIMMAX Memorias USB 2 Piezas 16GB USB 2.0 Stick Giratoria Flash Drive Pendrives Almacenamiento Datos  16GB Negro Rojo ](https://www.amazon.es/dp/B07DX11DWK/?tag=tolees-21) a 10.99 EUR (original: 19.99 EUR) (45.02 %  de descuento) en el siguiente enlace!

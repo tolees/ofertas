@@ -10,8 +10,11 @@ author: ring
 slug: B01AUM9RG0
 description:
 actualPrice: 147.46 EUR
+currency: EUR
+price: 147.46
 comparePrice: 525.14 EUR
 inStock: true
+prodname: Garland 45-0039 Hidrolavadora eléctrica
 ---
 
 Está [Garland 45-0039 Hidrolavadora eléctrica](https://www.amazon.es/dp/B01AUM9RG0/?tag=tolees-21) con 71.92 de descuento por 147.46 EUR (original: 525.14 EUR) en el siguiente enlace!

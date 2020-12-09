@@ -10,8 +10,11 @@ author: ring
 slug: B089NSJRMV
 description:
 actualPrice: 19.97 EUR
+currency: EUR
+price: 19.97
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Trust Mico PC Micrófono de Condensador  Conexiones de 3 5 mm y USB  Cable de 1.80 m  Soporte de Trípode  para Computadoras Portátiles  PC  Podcasting  Skype  Twitch  Streaming  Youtube  Teams  Zoom
 ---
 
 Está [Trust Mico PC Micrófono de Condensador  Conexiones de 3 5 mm y USB  Cable de 1.80 m  Soporte de Trípode  para Computadoras Portátiles  PC  Podcasting  Skype  Twitch  Streaming  Youtube  Teams  Zoom](https://www.amazon.es/dp/B089NSJRMV/?tag=tolees-21) con 33.41 de descuento por 19.97 EUR (original: 29.99 EUR) en el siguiente enlace!

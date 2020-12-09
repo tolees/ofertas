@@ -10,8 +10,11 @@ author: ring
 slug: B00PVVTFNQ
 description:
 actualPrice: 15.5 EUR
+currency: EUR
+price: 15.5
 comparePrice: 21.99 EUR
 inStock: true
+prodname: Taurus 955100 Afeitadora Quita Pelusas  2 W  Negro  Color Blanco
 ---
 
 Ahora mismo tienes [Taurus 955100 Afeitadora Quita Pelusas  2 W  Negro  Color Blanco](https://www.amazon.es/dp/B00PVVTFNQ/?tag=tolees-21) a 15.5 EUR (original: 21.99 EUR) (29.51 %  de descuento) en el siguiente enlace!

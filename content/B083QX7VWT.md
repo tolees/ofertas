@@ -10,8 +10,11 @@ author: ring
 slug: B083QX7VWT
 description:
 actualPrice: 14.7 EUR
+currency: EUR
+price: 14.7
 comparePrice: 22.99 EUR
 inStock: true
+prodname: ONLYU Reemplazo de Cartucho de Tinta Compatible para Epson 29XL para Epson Expression Home XP-235 XP-245 XP-247 XP-330 XP-332 XP-335 XP-342 XP-345 XP-430 XP-432 XP-435  Paquete de 15 
 ---
 
 Ahora mismo tienes [ONLYU Reemplazo de Cartucho de Tinta Compatible para Epson 29XL para Epson Expression Home XP-235 XP-245 XP-247 XP-330 XP-332 XP-335 XP-342 XP-345 XP-430 XP-432 XP-435  Paquete de 15 ](https://www.amazon.es/dp/B083QX7VWT/?tag=tolees-21) a 14.7 EUR (original: 22.99 EUR) (36.06 %  de descuento) en el siguiente enlace!

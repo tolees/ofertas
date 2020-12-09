@@ -10,8 +10,11 @@ author: ring
 slug: B07D1XCKWW
 description:
 actualPrice: 89.99 EUR
+currency: EUR
+price: 89.99
 comparePrice: 161.75 EUR
 inStock: true
+prodname: Corsair Vengeance RGB PRO 16 GB  2 x 8 GB  DDR4 3200 MHz C16 XMP 2.0 RGB LED Iluminación Módulo de Memoria de Alto Rendimiento  Negro
 ---
 
 Ahora mismo tienes [Corsair Vengeance RGB PRO 16 GB  2 x 8 GB  DDR4 3200 MHz C16 XMP 2.0 RGB LED Iluminación Módulo de Memoria de Alto Rendimiento  Negro](https://www.amazon.es/dp/B07D1XCKWW/?tag=tolees-21) a 89.99 EUR (original: 161.75 EUR) (44.36 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KXRGM8X
 description:
 actualPrice: 21.29 EUR
+currency: EUR
+price: 21.29
 comparePrice: 34.19 EUR
 inStock: true
+prodname: Tarjeta SanDisk microSDXC UHS-I para Nintendo Switch 64GB  Producto con Licencia de Nintendo
 ---
 
 Está [Tarjeta SanDisk microSDXC UHS-I para Nintendo Switch 64GB  Producto con Licencia de Nintendo](https://www.amazon.es/dp/B07KXRGM8X/?tag=tolees-21) con 37.73 de descuento por 21.29 EUR (original: 34.19 EUR) en el siguiente enlace!

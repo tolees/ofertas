@@ -10,8 +10,11 @@ author: ring
 slug: B014KPLSO2
 description:
 actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Reebok Tube de Resistencia - Ligero
 ---
 
 Está [Reebok Tube de Resistencia - Ligero](https://www.amazon.es/dp/B014KPLSO2/?tag=tolees-21) con 38.80 de descuento por 7.95 EUR (original: 12.99 EUR) en el siguiente enlace!

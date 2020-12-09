@@ -10,8 +10,11 @@ author: ring
 slug: B07YG3VDQY
 description:
 actualPrice: 156.95 EUR
+currency: EUR
+price: 156.95
 comparePrice: 299.95 EUR
 inStock: true
+prodname: IKOHS CHEFBOT Compact STEAMPRO - Robot de Cocina Multifunción  Cocina al Vapor  23 Funciones  10 Velocidades con Turbo  Bol Acero Inoxidable 2 3 L  Libre BPA  con Vaporera y Recetario - Blanco 
 ---
 
 Tienes [IKOHS CHEFBOT Compact STEAMPRO - Robot de Cocina Multifunción  Cocina al Vapor  23 Funciones  10 Velocidades con Turbo  Bol Acero Inoxidable 2 3 L  Libre BPA  con Vaporera y Recetario - Blanco ](https://www.amazon.es/dp/B07YG3VDQY/?tag=tolees-21) con un 47.67 % de descuento con precio de oferta de 156.95 EUR (original: 299.95 EUR) en el siguiente enlace!

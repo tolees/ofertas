@@ -10,8 +10,11 @@ author: ring
 slug: B074FZDRSN
 description:
 actualPrice: 98.88 EUR
+currency: EUR
+price: 98.88
 comparePrice: 199.95 EUR
 inStock: true
+prodname: Cybex Gold - Portabebé Aton M  en contra de la marcha  incluye reductor para recién nacido  desde el nacimiento hasta aprox. 18 meses  max. 13 kg  passion pink
 ---
 
 Está [Cybex Gold - Portabebé Aton M  en contra de la marcha  incluye reductor para recién nacido  desde el nacimiento hasta aprox. 18 meses  max. 13 kg  passion pink](https://www.amazon.es/dp/B074FZDRSN/?tag=tolees-21) con 50.55 de descuento por 98.88 EUR (original: 199.95 EUR) en el siguiente enlace!

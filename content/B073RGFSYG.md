@@ -10,8 +10,11 @@ author: ring
 slug: B073RGFSYG
 description:
 actualPrice: 47.93 EUR
+currency: EUR
+price: 47.93
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Adidas Aerobounce ST m  Zapatillas de Trail Running para Hombre  Naranja  Narsol/Negbás/Gricin 000  42 EU
 ---
 
 Está [Adidas Aerobounce ST m  Zapatillas de Trail Running para Hombre  Naranja  Narsol/Negbás/Gricin 000  42 EU](https://www.amazon.es/dp/B073RGFSYG/?tag=tolees-21) con 52.05 de descuento por 47.93 EUR (original: 99.95 EUR) en el siguiente enlace!

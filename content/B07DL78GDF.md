@@ -10,8 +10,11 @@ author: ring
 slug: B07DL78GDF
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 43.12 EUR
 inStock: true
+prodname: Element Cornell Classic Ho-Sudadera para Hombre Capucha  Gris  Charcoal Heathe   M
 ---
 
 Tienes [Element Cornell Classic Ho-Sudadera para Hombre Capucha  Gris  Charcoal Heathe   M](https://www.amazon.es/dp/B07DL78GDF/?tag=tolees-21) con un 46.68 % de descuento con precio de oferta de 22.99 EUR (original: 43.12 EUR) en el siguiente enlace!

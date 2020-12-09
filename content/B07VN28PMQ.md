@@ -10,8 +10,11 @@ author: ring
 slug: B07VN28PMQ
 description:
 actualPrice: 39.53 EUR
+currency: EUR
+price: 39.53
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers GO Run Fast  Zapatillas Mujer  Azul Azul Azul Textil Turquesa Ribete Bltq  41 EU
 ---
 
 Tienes [Skechers GO Run Fast  Zapatillas Mujer  Azul Azul Azul Textil Turquesa Ribete Bltq  41 EU](https://www.amazon.es/dp/B07VN28PMQ/?tag=tolees-21) con un 39.14 % de descuento con precio de oferta de 39.53 EUR (original: 64.95 EUR) en el siguiente enlace!

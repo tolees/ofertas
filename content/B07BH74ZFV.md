@@ -10,8 +10,11 @@ author: ring
 slug: B07BH74ZFV
 description:
 actualPrice: 16.07 EUR
+currency: EUR
+price: 16.07
 comparePrice: 24.94 EUR
 inStock: true
+prodname: Mr; Wonderful Woa08976Es Set De Regalo Para Recién Casados  24.4X5.9X15.5 Cm
 ---
 
 Tienes [Mr; Wonderful Woa08976Es Set De Regalo Para Recién Casados  24.4X5.9X15.5 Cm](https://www.amazon.es/dp/B07BH74ZFV/?tag=tolees-21) con un 35.57 % de descuento con precio de oferta de 16.07 EUR (original: 24.94 EUR) en el siguiente enlace!

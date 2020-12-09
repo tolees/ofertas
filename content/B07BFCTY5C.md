@@ -10,8 +10,11 @@ author: ring
 slug: B07BFCTY5C
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: BXIO Color de los Hombres con Ropa de Ciclo del Babero 5D Gel Pad XXL Mulit
 ---
 
 Está [BXIO Color de los Hombres con Ropa de Ciclo del Babero 5D Gel Pad XXL Mulit](https://www.amazon.es/dp/B07BFCTY5C/?tag=tolees-21) con 28.01 de descuento por 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!

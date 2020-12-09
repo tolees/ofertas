@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVRZLHF
 description:
 actualPrice: 10.07 EUR
+currency: EUR
+price: 10.07
 comparePrice: 55.0 EUR
 inStock: true
+prodname: Levi s Plus Size Pl 501 Original Short Pantalones Cortos de Mezclilla  Charleston Erosion  24 para Mujer
 ---
 
 Ahora mismo tienes [Levi s Plus Size Pl 501 Original Short Pantalones Cortos de Mezclilla  Charleston Erosion  24 para Mujer](https://www.amazon.es/dp/B07ZVRZLHF/?tag=tolees-21) a 10.07 EUR (original: 55.0 EUR) (81.69 %  de descuento) en el siguiente enlace!

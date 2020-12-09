@@ -10,8 +10,11 @@ author: ring
 slug: B075SCFLSH
 description:
 actualPrice: 8.49 EUR
+currency: EUR
+price: 8.49
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Springfield 1512021  Camisa casual para Hombre  Blanco  White 99   Small  Tamaño del fabricante:S 
 ---
 
 Tienes [Springfield 1512021  Camisa casual para Hombre  Blanco  White 99   Small  Tamaño del fabricante:S ](https://www.amazon.es/dp/B075SCFLSH/?tag=tolees-21) con un 67.33 % de descuento con precio de oferta de 8.49 EUR (original: 25.99 EUR) en el siguiente enlace!

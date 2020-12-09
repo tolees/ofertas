@@ -10,8 +10,11 @@ author: ring
 slug: B01NCYNVRA
 description:
 actualPrice: 18.95 EUR
+currency: EUR
+price: 18.95
 comparePrice: 30 EUR
 inStock: true
+prodname: The North Face S/S Wood Dome tee Camiseta de Manga Corta  Hombre  TNF Medium Grey Heather  M
 ---
 
 Está [The North Face S/S Wood Dome tee Camiseta de Manga Corta  Hombre  TNF Medium Grey Heather  M](https://www.amazon.es/dp/B01NCYNVRA/?tag=tolees-21) con 36.83 de descuento por 18.95 EUR (original: 30 EUR) en el siguiente enlace!

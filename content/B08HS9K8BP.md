@@ -10,8 +10,11 @@ author: ring
 slug: B08HS9K8BP
 description:
 actualPrice: 8.75 EUR
+currency: EUR
+price: 8.75
 comparePrice: 12.5 EUR
 inStock: true
+prodname: Monedero pequeño de Mujer de Cuero Estampado con Labios Rosa Cierre con Cremallera Agatha Ruiz de la Prada
 ---
 
 Está [Monedero pequeño de Mujer de Cuero Estampado con Labios Rosa Cierre con Cremallera Agatha Ruiz de la Prada](https://www.amazon.es/dp/B08HS9K8BP/?tag=tolees-21) con 30.00 de descuento por 8.75 EUR (original: 12.5 EUR) en el siguiente enlace!

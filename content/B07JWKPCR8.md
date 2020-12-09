@@ -10,8 +10,11 @@ author: ring
 slug: B07JWKPCR8
 description:
 actualPrice: 44.95 EUR
+currency: EUR
+price: 44.95
 comparePrice: 65 EUR
 inStock: true
+prodname: Lacoste Mh7092 Bañador  Rojo  Salvia/Iberis 79v   Medium para Hombre
 ---
 
 Tienes [Lacoste Mh7092 Bañador  Rojo  Salvia/Iberis 79v   Medium para Hombre](https://www.amazon.es/dp/B07JWKPCR8/?tag=tolees-21) con un 30.85 % de descuento con precio de oferta de 44.95 EUR (original: 65 EUR) en el siguiente enlace!

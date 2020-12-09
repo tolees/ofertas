@@ -10,8 +10,11 @@ author: ring
 slug: B07VYZLWH2
 description:
 actualPrice: 12.51 EUR
+currency: EUR
+price: 12.51
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Pepe Jeans Jerrod Camiseta  Azul  Indigo 561   X-Small para Hombre
 ---
 
 Tienes [Pepe Jeans Jerrod Camiseta  Azul  Indigo 561   X-Small para Hombre](https://www.amazon.es/dp/B07VYZLWH2/?tag=tolees-21) con un 68.65 % de descuento con precio de oferta de 12.51 EUR (original: 39.9 EUR) en el siguiente enlace!

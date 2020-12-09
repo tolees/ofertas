@@ -10,8 +10,11 @@ author: ring
 slug: B07FK4N2QC
 description:
 actualPrice: 30.14 EUR
+currency: EUR
+price: 30.14
 comparePrice: 85 EUR
 inStock: true
+prodname: Vans Ward Hi Suede  Zapatillas Altas para Mujer  Gris   MTE  Antarctica/Shearling Utm   38.5 EU
 ---
 
 Ahora mismo tienes [Vans Ward Hi Suede  Zapatillas Altas para Mujer  Gris   MTE  Antarctica/Shearling Utm   38.5 EU](https://www.amazon.es/dp/B07FK4N2QC/?tag=tolees-21) a 30.14 EUR (original: 85 EUR) (64.54 %  de descuento) en el siguiente enlace!

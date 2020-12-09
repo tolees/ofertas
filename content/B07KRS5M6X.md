@@ -10,8 +10,11 @@ author: ring
 slug: B07KRS5M6X
 description:
 actualPrice: 119.24 EUR
+currency: EUR
+price: 119.24
 comparePrice: 158.99 EUR
 inStock: true
+prodname: Ultrasport F-Bike 250 bicicleta estática con ordenador y App  sensor de pulsaciones  plegable  Mate Negro
 ---
 
 Está [Ultrasport F-Bike 250 bicicleta estática con ordenador y App  sensor de pulsaciones  plegable  Mate Negro](https://www.amazon.es/dp/B07KRS5M6X/?tag=tolees-21) con 25.00 de descuento por 119.24 EUR (original: 158.99 EUR) en el siguiente enlace!

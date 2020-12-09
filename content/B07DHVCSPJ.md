@@ -10,8 +10,11 @@ author: ring
 slug: B07DHVCSPJ
 description:
 actualPrice: 64.24 EUR
+currency: EUR
+price: 64.24
 comparePrice: 85.99 EUR
 inStock: true
+prodname: Quiksilver Verant Deluxe  Zapatillas Altas para Hombre  Gris Grey-Combo Xsss  39 EU
 ---
 
 Ahora mismo tienes [Quiksilver Verant Deluxe  Zapatillas Altas para Hombre  Gris Grey-Combo Xsss  39 EU](https://www.amazon.es/dp/B07DHVCSPJ/?tag=tolees-21) a 64.24 EUR (original: 85.99 EUR) (25.29 %  de descuento) en el siguiente enlace!

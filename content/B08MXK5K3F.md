@@ -10,8 +10,11 @@ author: ring
 slug: B08MXK5K3F
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos Bluetooth Headphone Deportivos Estéreo con Mic y Cancelación de Ruido TWS i12 Auriculares Estéreo Compatibles con Smartphones
 ---
 
 Ahora mismo tienes [Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos Bluetooth Headphone Deportivos Estéreo con Mic y Cancelación de Ruido TWS i12 Auriculares Estéreo Compatibles con Smartphones](https://www.amazon.es/dp/B08MXK5K3F/?tag=tolees-21) a 22.99 EUR (original: 79.99 EUR) (71.26 %  de descuento) en el siguiente enlace!

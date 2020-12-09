@@ -10,8 +10,11 @@ author: ring
 slug: B00H2FJVVA
 description:
 actualPrice: 12.69 EUR
+currency: EUR
+price: 12.69
 comparePrice: 45 EUR
 inStock: true
+prodname: New Balance 410 Hook and Loop  Zapatillas de deporte Unisex Niños  Multicolor  Grey/Pink   18.5 EU
 ---
 
 Está [New Balance 410 Hook and Loop  Zapatillas de deporte Unisex Niños  Multicolor  Grey/Pink   18.5 EU](https://www.amazon.es/dp/B00H2FJVVA/?tag=tolees-21) con 71.80 de descuento por 12.69 EUR (original: 45 EUR) en el siguiente enlace!

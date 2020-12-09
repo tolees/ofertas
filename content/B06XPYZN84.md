@@ -10,8 +10,11 @@ author: ring
 slug: B06XPYZN84
 description:
 actualPrice: 13.61 EUR
+currency: EUR
+price: 13.61
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Desigual Jers_gaea suéter  Negro 2000  X-Small para Mujer
 ---
 
 Está [Desigual Jers_gaea suéter  Negro 2000  X-Small para Mujer](https://www.amazon.es/dp/B06XPYZN84/?tag=tolees-21) con 80.54 de descuento por 13.61 EUR (original: 69.95 EUR) en el siguiente enlace!

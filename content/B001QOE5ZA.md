@@ -10,8 +10,11 @@ author: ring
 slug: B001QOE5ZA
 description:
 actualPrice: 46.29 EUR
+currency: EUR
+price: 46.29
 comparePrice: 99 EUR
 inStock: true
+prodname: Levi s 501 Original Vaqueros  Negro  Black 0165   W34/L34 para Hombre
 ---
 
 Está [Levi s 501 Original Vaqueros  Negro  Black 0165   W34/L34 para Hombre](https://www.amazon.es/dp/B001QOE5ZA/?tag=tolees-21) con 53.24 de descuento por 46.29 EUR (original: 99 EUR) en el siguiente enlace!

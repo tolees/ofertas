@@ -10,8 +10,11 @@ author: ring
 slug: B0796CPCHD
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 18.15 EUR
 inStock: true
+prodname: Marca Amazon - Solimo - Té English Breakfast a granel - Pack de 6   6 x 125 gr 
 ---
 
 Tienes [Marca Amazon - Solimo - Té English Breakfast a granel - Pack de 6   6 x 125 gr ](https://www.amazon.es/dp/B0796CPCHD/?tag=tolees-21) con un 45.45 % de descuento con precio de oferta de 9.9 EUR (original: 18.15 EUR) en el siguiente enlace!

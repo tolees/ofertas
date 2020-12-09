@@ -10,8 +10,11 @@ author: ring
 slug: B07DR1WJWV
 description:
 actualPrice: 35 EUR
+currency: EUR
+price: 35
 comparePrice: 91.32 EUR
 inStock: true
+prodname: adidas Forest Grove  Zapatillas de Deporte para Mujer  Naranja  Narcla/Blanub/Negbás 000   38 EU
 ---
 
 Tienes [adidas Forest Grove  Zapatillas de Deporte para Mujer  Naranja  Narcla/Blanub/Negbás 000   38 EU](https://www.amazon.es/dp/B07DR1WJWV/?tag=tolees-21) con un 61.67 % de descuento con precio de oferta de 35 EUR (original: 91.32 EUR) en el siguiente enlace!

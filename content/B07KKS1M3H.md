@@ -10,8 +10,11 @@ author: ring
 slug: B07KKS1M3H
 description:
 actualPrice: 14.05 EUR
+currency: EUR
+price: 14.05
 comparePrice: 25 EUR
 inStock: true
+prodname: Naf Naf Kent18 Camiseta  Azul  Bleu Marine 567   Small para Mujer
 ---
 
 Ahora mismo tienes [Naf Naf Kent18 Camiseta  Azul  Bleu Marine 567   Small para Mujer](https://www.amazon.es/dp/B07KKS1M3H/?tag=tolees-21) a 14.05 EUR (original: 25 EUR) (43.80 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01NATWFDG
 description:
 actualPrice: 12 EUR
+currency: EUR
+price: 12
 comparePrice: 29.99 EUR
 inStock: true
+prodname: RED WAGON Bfa001amz02001170210  Sandalia con Pulsera Niñas  Blanco  White   22  Label size:21.5  /5 UK  
 ---
 
 Tienes [RED WAGON Bfa001amz02001170210  Sandalia con Pulsera Niñas  Blanco  White   22  Label size:21.5  /5 UK  ](https://www.amazon.es/dp/B01NATWFDG/?tag=tolees-21) con un 59.99 % de descuento con precio de oferta de 12 EUR (original: 29.99 EUR) en el siguiente enlace!

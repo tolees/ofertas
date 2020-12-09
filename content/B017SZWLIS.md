@@ -10,8 +10,11 @@ author: ring
 slug: B017SZWLIS
 description:
 actualPrice: 14.96 EUR
+currency: EUR
+price: 14.96
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Newskill Atami Control Tamaño XL - Alfombrilla Gaming Profesional  Borde Cosido  Superficie Control microperforada   Negro
 ---
 
 Está [Newskill Atami Control Tamaño XL - Alfombrilla Gaming Profesional  Borde Cosido  Superficie Control microperforada   Negro](https://www.amazon.es/dp/B017SZWLIS/?tag=tolees-21) con 40.04 de descuento por 14.96 EUR (original: 24.95 EUR) en el siguiente enlace!

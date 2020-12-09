@@ -10,8 +10,11 @@ author: ring
 slug: B07TSLL6TR
 description:
 actualPrice: 16.0 EUR
+currency: EUR
+price: 16.0
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Wrangler SS Pique Polo  Blanco  White 989   XXXX-Large para Hombre
 ---
 
 Ahora mismo tienes [Wrangler SS Pique Polo  Blanco  White 989   XXXX-Large para Hombre](https://www.amazon.es/dp/B07TSLL6TR/?tag=tolees-21) a 16.0 EUR (original: 34.95 EUR) (54.22 %  de descuento) en el siguiente enlace!

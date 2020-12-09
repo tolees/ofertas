@@ -10,8 +10,11 @@ author: ring
 slug: B07KTPDHY4
 description:
 actualPrice: 153.0 EUR
+currency: EUR
+price: 153.0
 comparePrice: 249.0 EUR
 inStock: true
+prodname: Hugo BOSS Reloj de pulsera 1513683
 ---
 
 Está [Hugo BOSS Reloj de pulsera 1513683](https://www.amazon.es/dp/B07KTPDHY4/?tag=tolees-21) con 38.55 de descuento por 153.0 EUR (original: 249.0 EUR) en el siguiente enlace!

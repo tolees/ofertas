@@ -10,8 +10,11 @@ author: ring
 slug: B076SDSCDZ
 description:
 actualPrice: 12.74 EUR
+currency: EUR
+price: 12.74
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Iris & Lilly Bata Ligera Mujer  Gris  Grey Heather   Large
 ---
 
 Está [Iris & Lilly Bata Ligera Mujer  Gris  Grey Heather   Large](https://www.amazon.es/dp/B076SDSCDZ/?tag=tolees-21) con 25.01 de descuento por 12.74 EUR (original: 16.99 EUR) en el siguiente enlace!

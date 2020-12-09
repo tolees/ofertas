@@ -10,8 +10,11 @@ author: ring
 slug: B07FMXTWHY
 description:
 actualPrice: 22.07 EUR
+currency: EUR
+price: 22.07
 comparePrice: 75 EUR
 inStock: true
+prodname: Superdry Vintage Logo Panel Stripe Crew  Sudadera para Hombre  Verde  Pitch Green 13e   X-Large
 ---
 
 Tienes [Superdry Vintage Logo Panel Stripe Crew  Sudadera para Hombre  Verde  Pitch Green 13e   X-Large](https://www.amazon.es/dp/B07FMXTWHY/?tag=tolees-21) con un 70.57 % de descuento con precio de oferta de 22.07 EUR (original: 75 EUR) en el siguiente enlace!

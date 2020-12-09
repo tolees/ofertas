@@ -10,8 +10,11 @@ author: ring
 slug: B00QM9ZM0Q
 description:
 actualPrice: 11.48 EUR
+currency: EUR
+price: 11.48
 comparePrice: 22.67 EUR
 inStock: true
+prodname: Speedo Atami II MAX  Chanclas para Mujer   Azul Marino Blanco 7879   38 EU
 ---
 
 Ahora mismo tienes [Speedo Atami II MAX  Chanclas para Mujer   Azul Marino Blanco 7879   38 EU](https://www.amazon.es/dp/B00QM9ZM0Q/?tag=tolees-21) a 11.48 EUR (original: 22.67 EUR) (49.36 %  de descuento) en el siguiente enlace!

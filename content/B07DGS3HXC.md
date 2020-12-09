@@ -10,8 +10,11 @@ author: ring
 slug: B07DGS3HXC
 description:
 actualPrice: 12.15 EUR
+currency: EUR
+price: 12.15
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Trswyop - Juego de 2 lámparas solares para exterior  33 ledes  con sensor de movimiento  3 modos  impermeables 
 ---
 
 Está [Trswyop - Juego de 2 lámparas solares para exterior  33 ledes  con sensor de movimiento  3 modos  impermeables ](https://www.amazon.es/dp/B07DGS3HXC/?tag=tolees-21) con 75.70 de descuento por 12.15 EUR (original: 49.99 EUR) en el siguiente enlace!

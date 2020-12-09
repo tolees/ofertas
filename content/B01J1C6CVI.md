@@ -10,8 +10,11 @@ author: ring
 slug: B01J1C6CVI
 description:
 actualPrice: 7.01 EUR
+currency: EUR
+price: 7.01
 comparePrice: 49.99 EUR
 inStock: true
+prodname: JACK & JONES PREMIUM JPRMARK KNIT CREW NECK NOOS  suéter Hombre  Azul  Maritime Navy   XX-Large
 ---
 
 Está [JACK & JONES PREMIUM JPRMARK KNIT CREW NECK NOOS  suéter Hombre  Azul  Maritime Navy   XX-Large](https://www.amazon.es/dp/B01J1C6CVI/?tag=tolees-21) con 85.98 de descuento por 7.01 EUR (original: 49.99 EUR) en el siguiente enlace!

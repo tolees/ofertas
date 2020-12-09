@@ -10,8 +10,11 @@ author: ring
 slug: B07MQ4FMVT
 description:
 actualPrice: 19.36 EUR
+currency: EUR
+price: 19.36
 comparePrice: 59.26 EUR
 inStock: true
+prodname: Plextone 24 colores impermeable sensor de movimiento LED inodoro luz de noche  2 unidades  decoración perfecta para la casa abierta de la familia de Navidad.
 ---
 
 Ahora mismo tienes [Plextone 24 colores impermeable sensor de movimiento LED inodoro luz de noche  2 unidades  decoración perfecta para la casa abierta de la familia de Navidad.](https://www.amazon.es/dp/B07MQ4FMVT/?tag=tolees-21) a 19.36 EUR (original: 59.26 EUR) (67.33 %  de descuento) en el siguiente enlace!

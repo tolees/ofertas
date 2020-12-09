@@ -10,8 +10,11 @@ author: ring
 slug: B07NBZB79Y
 description:
 actualPrice: 9.95 EUR
+currency: EUR
+price: 9.95
 comparePrice: 15.9 EUR
 inStock: true
+prodname: U&I Entertainment - Shovel Knight Gold Amiibo  Dorado  Nintendo 3Ds 
 ---
 
 Ahora mismo tienes [U&I Entertainment - Shovel Knight Gold Amiibo  Dorado  Nintendo 3Ds ](https://www.amazon.es/dp/B07NBZB79Y/?tag=tolees-21) a 9.95 EUR (original: 15.9 EUR) (37.42 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07N3XQHGP
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 98.99 EUR
 inStock: true
+prodname: Potensic Drone con cámara HD  Quadcopter 2.4G 6 Ejes Control Remoto  Altitude Hold  Modo sin Cabeza  Plantear Ruta  Un Botón de Despegue / Aterrizaje  A30W Azul
 ---
 
 Tienes [Potensic Drone con cámara HD  Quadcopter 2.4G 6 Ejes Control Remoto  Altitude Hold  Modo sin Cabeza  Plantear Ruta  Un Botón de Despegue / Aterrizaje  A30W Azul](https://www.amazon.es/dp/B07N3XQHGP/?tag=tolees-21) con un 39.40 % de descuento con precio de oferta de 59.99 EUR (original: 98.99 EUR) en el siguiente enlace!

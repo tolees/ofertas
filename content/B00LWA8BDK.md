@@ -10,8 +10,11 @@ author: ring
 slug: B00LWA8BDK
 description:
 actualPrice: 38.75 EUR
+currency: EUR
+price: 38.75
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Daren - Strong Hand para hombre  Azul  W30 / L30  ES 40 
 ---
 
 Está [Lee Daren - Strong Hand para hombre  Azul  W30 / L30  ES 40 ](https://www.amazon.es/dp/B00LWA8BDK/?tag=tolees-21) con 61.23 de descuento por 38.75 EUR (original: 99.95 EUR) en el siguiente enlace!

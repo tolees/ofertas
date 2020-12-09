@@ -10,8 +10,11 @@ author: ring
 slug: B00MRR20BQ
 description:
 actualPrice: 32.08 EUR
+currency: EUR
+price: 32.08
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Esprit 5 Pocket mit Stretchanteil Pantalones  Blau  Horizon Blue 519   W31/L32 para Hombre
 ---
 
 Ahora mismo tienes [Esprit 5 Pocket mit Stretchanteil Pantalones  Blau  Horizon Blue 519   W31/L32 para Hombre](https://www.amazon.es/dp/B00MRR20BQ/?tag=tolees-21) a 32.08 EUR (original: 59.99 EUR) (46.52 %  de descuento) en el siguiente enlace!

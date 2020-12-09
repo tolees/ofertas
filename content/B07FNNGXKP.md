@@ -10,8 +10,11 @@ author: ring
 slug: B07FNNGXKP
 description:
 actualPrice: 8.33 EUR
+currency: EUR
+price: 8.33
 comparePrice: 12.99 EUR
 inStock: true
+prodname: JACK & JONES Jacpeter Trunks Noos. Bóxer  Negro Black  Large para Hombre
 ---
 
 Tienes [JACK & JONES Jacpeter Trunks Noos. Bóxer  Negro Black  Large para Hombre](https://www.amazon.es/dp/B07FNNGXKP/?tag=tolees-21) con un 35.87 % de descuento con precio de oferta de 8.33 EUR (original: 12.99 EUR) en el siguiente enlace!

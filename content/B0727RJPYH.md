@@ -10,8 +10,11 @@ author: ring
 slug: B0727RJPYH
 description:
 actualPrice: 26.66 EUR
+currency: EUR
+price: 26.66
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Reebok Royal Smash SDE  Zapatillas para Hombre  Gris  Urban Grey/Stucco/Sand Stone/White/Silver   41 EU
 ---
 
 Ahora mismo tienes [Reebok Royal Smash SDE  Zapatillas para Hombre  Gris  Urban Grey/Stucco/Sand Stone/White/Silver   41 EU](https://www.amazon.es/dp/B0727RJPYH/?tag=tolees-21) a 26.66 EUR (original: 59.95 EUR) (55.53 %  de descuento) en el siguiente enlace!

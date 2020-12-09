@@ -10,8 +10,11 @@ author: ring
 slug: B07DCCHXR4
 description:
 actualPrice: 42.51 EUR
+currency: EUR
+price: 42.51
 comparePrice: 74.95 EUR
 inStock: true
+prodname: Puma SHOKU Non-Knit BT  Zapatillas Unisex Adulto  Blanco White  44.5 EU
 ---
 
 Está [Puma SHOKU Non-Knit BT  Zapatillas Unisex Adulto  Blanco White  44.5 EU](https://www.amazon.es/dp/B07DCCHXR4/?tag=tolees-21) con 43.28 de descuento por 42.51 EUR (original: 74.95 EUR) en el siguiente enlace!

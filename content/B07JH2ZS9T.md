@@ -10,8 +10,11 @@ author: ring
 slug: B07JH2ZS9T
 description:
 actualPrice: 33.71 EUR
+currency: EUR
+price: 33.71
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Puma Evostripe Move Sudadera  Hombre  Azul  Peacoat   M
 ---
 
 Ahora mismo tienes [Puma Evostripe Move Sudadera  Hombre  Azul  Peacoat   M](https://www.amazon.es/dp/B07JH2ZS9T/?tag=tolees-21) a 33.71 EUR (original: 69.95 EUR) (51.81 %  de descuento) en el siguiente enlace!

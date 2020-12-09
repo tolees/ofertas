@@ -10,8 +10,11 @@ author: ring
 slug: B07GDSF2Q1
 description:
 actualPrice: 18.07 EUR
+currency: EUR
+price: 18.07
 comparePrice: 124.68 EUR
 inStock: true
+prodname: Marca Amazon - Rivet - Mesa Auxiliar Con Dos Niveles  Nogal Y Estructura Metálica Negra
 ---
 
 Ahora mismo tienes [Marca Amazon - Rivet - Mesa Auxiliar Con Dos Niveles  Nogal Y Estructura Metálica Negra](https://www.amazon.es/dp/B07GDSF2Q1/?tag=tolees-21) a 18.07 EUR (original: 124.68 EUR) (85.51 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KJWQJVT
 description:
 actualPrice: 10.95 EUR
+currency: EUR
+price: 10.95
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Quiksilver Secret Ingredient T-Shirt  Hombre  Blue Nights  L
 ---
 
 Ahora mismo tienes [Quiksilver Secret Ingredient T-Shirt  Hombre  Blue Nights  L](https://www.amazon.es/dp/B07KJWQJVT/?tag=tolees-21) a 10.95 EUR (original: 19.99 EUR) (45.22 %  de descuento) en el siguiente enlace!

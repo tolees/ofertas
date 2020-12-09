@@ -10,8 +10,11 @@ author: ring
 slug: B07FY3F9PD
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Otterbox Symmetry Clear - Funda Anti caídas Fina para iPhone XR  Transparente
 ---
 
 Tienes [Otterbox Symmetry Clear - Funda Anti caídas Fina para iPhone XR  Transparente](https://www.amazon.es/dp/B07FY3F9PD/?tag=tolees-21) con un 71.45 % de descuento con precio de oferta de 9.99 EUR (original: 34.99 EUR) en el siguiente enlace!

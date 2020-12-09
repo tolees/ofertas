@@ -10,8 +10,11 @@ author: ring
 slug: B01KZVQB42
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 71.99 EUR
 inStock: true
+prodname: Logitech M720 Triathlon Ratón Inalámbrico  Multi-Dispositivo  2 4 GHz o Bluetooth Receptor Unifying  1000 DPI  8 Botones  Batería 24 Meses  Portátil/PC/Mac/iPad OS  color Negro
 ---
 
 Está [Logitech M720 Triathlon Ratón Inalámbrico  Multi-Dispositivo  2 4 GHz o Bluetooth Receptor Unifying  1000 DPI  8 Botones  Batería 24 Meses  Portátil/PC/Mac/iPad OS  color Negro](https://www.amazon.es/dp/B01KZVQB42/?tag=tolees-21) con 30.56 de descuento por 49.99 EUR (original: 71.99 EUR) en el siguiente enlace!

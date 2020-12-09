@@ -10,8 +10,11 @@ author: ring
 slug: B07BLBRNFJ
 description:
 actualPrice: 25.41 EUR
+currency: EUR
+price: 25.41
 comparePrice: 110 EUR
 inStock: true
+prodname: Clarks Sharon Pearl  Botines para Mujer  Negro  Black Leather   37.5 EU
 ---
 
 Tienes [Clarks Sharon Pearl  Botines para Mujer  Negro  Black Leather   37.5 EU](https://www.amazon.es/dp/B07BLBRNFJ/?tag=tolees-21) con un 76.90 % de descuento con precio de oferta de 25.41 EUR (original: 110 EUR) en el siguiente enlace!

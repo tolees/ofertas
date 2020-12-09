@@ -10,8 +10,11 @@ author: ring
 slug: B07C3TSHZF
 description:
 actualPrice: 44 EUR
+currency: EUR
+price: 44
 comparePrice: 120 EUR
 inStock: true
+prodname: Pepe Jeans Aviary  Chaqueta para Hombre  Azul  Large
 ---
 
 Tienes [Pepe Jeans Aviary  Chaqueta para Hombre  Azul  Large](https://www.amazon.es/dp/B07C3TSHZF/?tag=tolees-21) con un 63.33 % de descuento con precio de oferta de 44 EUR (original: 120 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08FZBJHJF
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: CINMOK 4pcs Cinta de Regalo de Navidad  Rollo de Cinta Dorada para Globos  Emvolver Regalos  Bolsitas de Bombón  Fiestas de Cumpleaños  Boda  Aniversario y Celebración  Oro y Plata  Rizada.  Metálico 
 ---
 
 Ahora mismo tienes [CINMOK 4pcs Cinta de Regalo de Navidad  Rollo de Cinta Dorada para Globos  Emvolver Regalos  Bolsitas de Bombón  Fiestas de Cumpleaños  Boda  Aniversario y Celebración  Oro y Plata  Rizada.  Metálico ](https://www.amazon.es/dp/B08FZBJHJF/?tag=tolees-21) a 10.99 EUR (original: 14.99 EUR) (26.68 %  de descuento) en el siguiente enlace!

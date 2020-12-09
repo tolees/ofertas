@@ -10,8 +10,11 @@ author: ring
 slug: B00R8RCLC8
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 8.5 EUR
 inStock: true
+prodname: Floid Masaje Genuino Vigoroso - 150 ml
 ---
 
 Está [Floid Masaje Genuino Vigoroso - 150 ml](https://www.amazon.es/dp/B00R8RCLC8/?tag=tolees-21) con 41.29 de descuento por 4.99 EUR (original: 8.5 EUR) en el siguiente enlace!

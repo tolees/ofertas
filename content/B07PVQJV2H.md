@@ -10,8 +10,11 @@ author: ring
 slug: B07PVQJV2H
 description:
 actualPrice: 24.52 EUR
+currency: EUR
+price: 24.52
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Under Armour GS Charged Rogue 2  Zapatillas para Correr  Negro  Black/Halo Gray/White   35.5 EU
 ---
 
 Tienes [Under Armour GS Charged Rogue 2  Zapatillas para Correr  Negro  Black/Halo Gray/White   35.5 EU](https://www.amazon.es/dp/B07PVQJV2H/?tag=tolees-21) con un 64.95 % de descuento con precio de oferta de 24.52 EUR (original: 69.95 EUR) en el siguiente enlace!

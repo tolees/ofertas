@@ -10,8 +10,11 @@ author: ring
 slug: B07WN36YHM
 description:
 actualPrice: 14.28 EUR
+currency: EUR
+price: 14.28
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Garfield Kart Furious Racing
 ---
 
 Ahora mismo tienes [Garfield Kart Furious Racing](https://www.amazon.es/dp/B07WN36YHM/?tag=tolees-21) a 14.28 EUR (original: 29.99 EUR) (52.38 %  de descuento) en el siguiente enlace!

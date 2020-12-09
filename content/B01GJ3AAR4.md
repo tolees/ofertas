@@ -10,8 +10,11 @@ author: ring
 slug: B01GJ3AAR4
 description:
 actualPrice: 159.2 EUR
+currency: EUR
+price: 159.2
 comparePrice: 298.0 EUR
 inStock: true
+prodname: Wenger Roadster Black Night 01.0853.106 - Reloj de pulsera unisex  Negro
 ---
 
 Ahora mismo tienes [Wenger Roadster Black Night 01.0853.106 - Reloj de pulsera unisex  Negro](https://www.amazon.es/dp/B01GJ3AAR4/?tag=tolees-21) a 159.2 EUR (original: 298.0 EUR) (46.58 %  de descuento) en el siguiente enlace!

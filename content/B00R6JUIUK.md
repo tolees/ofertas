@@ -10,8 +10,11 @@ author: ring
 slug: B00R6JUIUK
 description:
 actualPrice: 2.88 EUR
+currency: EUR
+price: 2.88
 comparePrice: 7.5 EUR
 inStock: true
+prodname: Arcos Serie Latina - Cuchillo chuletero - Hoja de Acero Inoxidable NITRUM de 105 mm - Mango de Madera comprimida Color marrón
 ---
 
 Está [Arcos Serie Latina - Cuchillo chuletero - Hoja de Acero Inoxidable NITRUM de 105 mm - Mango de Madera comprimida Color marrón](https://www.amazon.es/dp/B00R6JUIUK/?tag=tolees-21) con 61.60 de descuento por 2.88 EUR (original: 7.5 EUR) en el siguiente enlace!

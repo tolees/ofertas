@@ -10,8 +10,11 @@ author: ring
 slug: B07GGXX4VW
 description:
 actualPrice: 20 EUR
+currency: EUR
+price: 20
 comparePrice: 39.99 EUR
 inStock: true
+prodname: ZAFUL Suéter Mujer Ancho Jersey de Invierno Casual Jerséis Cuello Alto Sweater Acanalado de Perlas Camiseta Manga Acampanadas de Otoño  S - L
 ---
 
 Ahora mismo tienes [ZAFUL Suéter Mujer Ancho Jersey de Invierno Casual Jerséis Cuello Alto Sweater Acanalado de Perlas Camiseta Manga Acampanadas de Otoño  S - L](https://www.amazon.es/dp/B07GGXX4VW/?tag=tolees-21) a 20 EUR (original: 39.99 EUR) (49.99 %  de descuento) en el siguiente enlace!

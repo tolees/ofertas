@@ -10,8 +10,11 @@ author: ring
 slug: B00FS7SV1U
 description:
 actualPrice: 63.51 EUR
+currency: EUR
+price: 63.51
 comparePrice: 249 EUR
 inStock: true
+prodname: Parrot AR.Drone 2.0 Elite Edition Jungle - Dron cuadricóptero  12 minutos de vuelo  cámara HD  50 metros de alcance  pilotaje con Smartphone o Tablet 
 ---
 
 Está [Parrot AR.Drone 2.0 Elite Edition Jungle - Dron cuadricóptero  12 minutos de vuelo  cámara HD  50 metros de alcance  pilotaje con Smartphone o Tablet ](https://www.amazon.es/dp/B00FS7SV1U/?tag=tolees-21) con 74.49 de descuento por 63.51 EUR (original: 249 EUR) en el siguiente enlace!

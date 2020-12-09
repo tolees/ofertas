@@ -10,8 +10,11 @@ author: ring
 slug: B072L2DFRT
 description:
 actualPrice: 10.34 EUR
+currency: EUR
+price: 10.34
 comparePrice: 20.69 EUR
 inStock: true
+prodname: Runderwear Chafe-Free Performance Underwear Ropa Interior  Hombre  Azul Marino  X-Large
 ---
 
 Ahora mismo tienes [Runderwear Chafe-Free Performance Underwear Ropa Interior  Hombre  Azul Marino  X-Large](https://www.amazon.es/dp/B072L2DFRT/?tag=tolees-21) a 10.34 EUR (original: 20.69 EUR) (50.02 %  de descuento) en el siguiente enlace!

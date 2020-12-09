@@ -10,8 +10,11 @@ author: ring
 slug: B073SBQM9W
 description:
 actualPrice: 6.7 EUR
+currency: EUR
+price: 6.7
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Trucco - Camiseta para mujer  color naranja medio  talla M
 ---
 
 Está [Trucco - Camiseta para mujer  color naranja medio  talla M](https://www.amazon.es/dp/B073SBQM9W/?tag=tolees-21) con 77.63 de descuento por 6.7 EUR (original: 29.95 EUR) en el siguiente enlace!

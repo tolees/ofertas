@@ -10,8 +10,11 @@ author: ring
 slug: B078GCTKWN
 description:
 actualPrice: 14.57 EUR
+currency: EUR
+price: 14.57
 comparePrice: 19.9 EUR
 inStock: true
+prodname: BQ Easy Go - Filamento PLA de 1.75 mm  100% PLA  resistente a la acetona  rápido endurecimiento  color transparente
 ---
 
 Ahora mismo tienes [BQ Easy Go - Filamento PLA de 1.75 mm  100% PLA  resistente a la acetona  rápido endurecimiento  color transparente](https://www.amazon.es/dp/B078GCTKWN/?tag=tolees-21) a 14.57 EUR (original: 19.9 EUR) (26.78 %  de descuento) en el siguiente enlace!

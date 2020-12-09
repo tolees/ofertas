@@ -10,8 +10,11 @@ author: ring
 slug: B00K6VQ8LI
 description:
 actualPrice: 79 EUR
+currency: EUR
+price: 79
 comparePrice: 110 EUR
 inStock: true
+prodname: American Tourister Bon Air Equipaje de mano  S  55cm  31.5 L  Blanco
 ---
 
 Está [American Tourister Bon Air Equipaje de mano  S  55cm  31.5 L  Blanco](https://www.amazon.es/dp/B00K6VQ8LI/?tag=tolees-21) con 28.18 de descuento por 79 EUR (original: 110 EUR) en el siguiente enlace!

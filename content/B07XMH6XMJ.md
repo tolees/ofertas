@@ -10,8 +10,11 @@ author: ring
 slug: B07XMH6XMJ
 description:
 actualPrice: 16.79 EUR
+currency: EUR
+price: 16.79
 comparePrice: 25.9 EUR
 inStock: true
+prodname: Lékué Estuche de Vapor Green Shopper Kit  Silicona
 ---
 
 Tienes [Lékué Estuche de Vapor Green Shopper Kit  Silicona](https://www.amazon.es/dp/B07XMH6XMJ/?tag=tolees-21) con un 35.17 % de descuento con precio de oferta de 16.79 EUR (original: 25.9 EUR) en el siguiente enlace!

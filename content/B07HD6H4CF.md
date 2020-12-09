@@ -10,8 +10,11 @@ author: ring
 slug: B07HD6H4CF
 description:
 actualPrice: 38 EUR
+currency: EUR
+price: 38
 comparePrice: 67.25 EUR
 inStock: true
+prodname: adidas 3Mc  Zapatillas para Hombre  Negro  Black B22713   42 EU
 ---
 
 Ahora mismo tienes [adidas 3Mc  Zapatillas para Hombre  Negro  Black B22713   42 EU](https://www.amazon.es/dp/B07HD6H4CF/?tag=tolees-21) a 38 EUR (original: 67.25 EUR) (43.49 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01LYT6SRC
 description:
 actualPrice: 299 EUR
+currency: EUR
+price: 299
 comparePrice: 407 EUR
 inStock: true
+prodname: Apple iPhone 6s  de 32GB  - Gris espacial
 ---
 
 Tienes [Apple iPhone 6s  de 32GB  - Gris espacial](https://www.amazon.es/dp/B01LYT6SRC/?tag=tolees-21) con un 26.54 % de descuento con precio de oferta de 299 EUR (original: 407 EUR) en el siguiente enlace!

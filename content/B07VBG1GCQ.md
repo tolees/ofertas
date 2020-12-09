@@ -10,8 +10,11 @@ author: ring
 slug: B07VBG1GCQ
 description:
 actualPrice: 33.54 EUR
+currency: EUR
+price: 33.54
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Vans Seldan  Sneaker Hombre  Lienzo Negro Blanco 187  44 EU
 ---
 
 Ahora mismo tienes [Vans Seldan  Sneaker Hombre  Lienzo Negro Blanco 187  44 EU](https://www.amazon.es/dp/B07VBG1GCQ/?tag=tolees-21) a 33.54 EUR (original: 60.0 EUR) (44.10 %  de descuento) en el siguiente enlace!

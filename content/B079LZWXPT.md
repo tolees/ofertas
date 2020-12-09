@@ -10,8 +10,11 @@ author: ring
 slug: B079LZWXPT
 description:
 actualPrice: 39.95 EUR
+currency: EUR
+price: 39.95
 comparePrice: 280 EUR
 inStock: true
+prodname: Dunlop FLASH PRO - Pala de pádel 38mm  2018  nivel iniciación  color amarillo
 ---
 
 Tienes [Dunlop FLASH PRO - Pala de pádel 38mm  2018  nivel iniciación  color amarillo](https://www.amazon.es/dp/B079LZWXPT/?tag=tolees-21) con un 85.73 % de descuento con precio de oferta de 39.95 EUR (original: 280 EUR) en el siguiente enlace!

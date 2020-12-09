@@ -10,8 +10,11 @@ author: ring
 slug: B01B6KTI1O
 description:
 actualPrice: 34.49 EUR
+currency: EUR
+price: 34.49
 comparePrice: 91.99 EUR
 inStock: true
+prodname: Puma IGNITE XT v2 - Zapatillas de deporte Unisex Adulto  Rojo  Red Blast-Safety Yellow 02    44 EU  9.5 UK 
 ---
 
 Tienes [Puma IGNITE XT v2 - Zapatillas de deporte Unisex Adulto  Rojo  Red Blast-Safety Yellow 02    44 EU  9.5 UK ](https://www.amazon.es/dp/B01B6KTI1O/?tag=tolees-21) con un 62.51 % de descuento con precio de oferta de 34.49 EUR (original: 91.99 EUR) en el siguiente enlace!

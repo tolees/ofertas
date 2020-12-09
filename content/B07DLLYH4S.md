@@ -10,8 +10,11 @@ author: ring
 slug: B07DLLYH4S
 description:
 actualPrice: 45.99 EUR
+currency: EUR
+price: 45.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Soradoo 40L Mochila de Senderismo Impermeable Ergonómica Casual Deportiva morral con Cubierta de Lluvia Sistema de transporte Extraíble para Viaje Trekking Marcha Excursiones Acampada Escalada Macutos
 ---
 
 Tienes [Soradoo 40L Mochila de Senderismo Impermeable Ergonómica Casual Deportiva morral con Cubierta de Lluvia Sistema de transporte Extraíble para Viaje Trekking Marcha Excursiones Acampada Escalada Macutos](https://www.amazon.es/dp/B07DLLYH4S/?tag=tolees-21) con un 48.89 % de descuento con precio de oferta de 45.99 EUR (original: 89.99 EUR) en el siguiente enlace!

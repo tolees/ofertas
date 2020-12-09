@@ -10,8 +10,11 @@ author: ring
 slug: B074KFNJQG
 description:
 actualPrice: 149.0 EUR
+currency: EUR
+price: 149.0
 comparePrice: 209.0 EUR
 inStock: true
+prodname: Logitech Craft Teclado Inalámbrico  2 4 GHz/Bluetooth  Disco Selector Creativo  Multi-Dispositivos  Teclas Retroiluminadas Automáticas  Recargable  PC/Mac/Portátil  Disposición QWERTY Español - Negro
 ---
 
 Tienes [Logitech Craft Teclado Inalámbrico  2 4 GHz/Bluetooth  Disco Selector Creativo  Multi-Dispositivos  Teclas Retroiluminadas Automáticas  Recargable  PC/Mac/Portátil  Disposición QWERTY Español - Negro](https://www.amazon.es/dp/B074KFNJQG/?tag=tolees-21) con un 28.71 % de descuento con precio de oferta de 149.0 EUR (original: 209.0 EUR) en el siguiente enlace!

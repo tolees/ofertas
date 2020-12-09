@@ -10,8 +10,11 @@ author: ring
 slug: B01N3L4KQN
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 9.95 EUR
 inStock: true
+prodname: Game of Thrones Serie TV Pin la Mano de la Reina  Dark Horse DKHHBO00047 
 ---
 
 Está [Game of Thrones Serie TV Pin la Mano de la Reina  Dark Horse DKHHBO00047 ](https://www.amazon.es/dp/B01N3L4KQN/?tag=tolees-21) con 39.80 de descuento por 5.99 EUR (original: 9.95 EUR) en el siguiente enlace!

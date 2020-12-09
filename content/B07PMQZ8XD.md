@@ -10,8 +10,11 @@ author: ring
 slug: B07PMQZ8XD
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: SAWAKE Mini Ventilador de Mano 2600mAh  Ventilador Portátil Recargable con Carga USB y Base  Hand Fan Personal con 3 Velocidades Ajustable de 3-10H para Oficina Hogar Exterior Viaje Acampada Gris 
 ---
 
 Tienes [SAWAKE Mini Ventilador de Mano 2600mAh  Ventilador Portátil Recargable con Carga USB y Base  Hand Fan Personal con 3 Velocidades Ajustable de 3-10H para Oficina Hogar Exterior Viaje Acampada Gris ](https://www.amazon.es/dp/B07PMQZ8XD/?tag=tolees-21) con un 53.89 % de descuento con precio de oferta de 5.99 EUR (original: 12.99 EUR) en el siguiente enlace!

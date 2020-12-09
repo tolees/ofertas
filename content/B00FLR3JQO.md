@@ -10,8 +10,11 @@ author: ring
 slug: B00FLR3JQO
 description:
 actualPrice: 18.32 EUR
+currency: EUR
+price: 18.32
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Hummel Slimmer Stadil Low  Zapatillas Unisex Adulto  Negro  Black/Blue/Red/Gum   38 EU
 ---
 
 Ahora mismo tienes [Hummel Slimmer Stadil Low  Zapatillas Unisex Adulto  Negro  Black/Blue/Red/Gum   38 EU](https://www.amazon.es/dp/B00FLR3JQO/?tag=tolees-21) a 18.32 EUR (original: 59.95 EUR) (69.44 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B081SCKJFG
 description:
 actualPrice: 7.42 EUR
+currency: EUR
+price: 7.42
 comparePrice: 12.37 EUR
 inStock: true
+prodname: Marca Amazon - Happy Belly - Galletas de avena para el desayuno  5 x 300 g
 ---
 
 Está [Marca Amazon - Happy Belly - Galletas de avena para el desayuno  5 x 300 g](https://www.amazon.es/dp/B081SCKJFG/?tag=tolees-21) con 40.02 de descuento por 7.42 EUR (original: 12.37 EUR) en el siguiente enlace!

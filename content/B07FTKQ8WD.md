@@ -10,8 +10,11 @@ author: ring
 slug: B07FTKQ8WD
 description:
 actualPrice: 19.98 EUR
+currency: EUR
+price: 19.98
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Lee Pique Polo  Verde  Faded Green Lf   2XL para Hombre
 ---
 
 Ahora mismo tienes [Lee Pique Polo  Verde  Faded Green Lf   2XL para Hombre](https://www.amazon.es/dp/B07FTKQ8WD/?tag=tolees-21) a 19.98 EUR (original: 39.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

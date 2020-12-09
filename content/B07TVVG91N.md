@@ -10,8 +10,11 @@ author: ring
 slug: B07TVVG91N
 description:
 actualPrice: 37.45 EUR
+currency: EUR
+price: 37.45
 comparePrice: 74.95 EUR
 inStock: true
+prodname: Skechers Skech-Air Stratus  Zapatillas Hombre  Gris  Charcoal Textile/Synthetic/Black Trim Charcoal   39 EU
 ---
 
 Está [Skechers Skech-Air Stratus  Zapatillas Hombre  Gris  Charcoal Textile/Synthetic/Black Trim Charcoal   39 EU](https://www.amazon.es/dp/B07TVVG91N/?tag=tolees-21) con 50.03 de descuento por 37.45 EUR (original: 74.95 EUR) en el siguiente enlace!

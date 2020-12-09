@@ -10,8 +10,11 @@ author: ring
 slug: B078LY1LLV
 description:
 actualPrice: 32.06 EUR
+currency: EUR
+price: 32.06
 comparePrice: 49.95 EUR
 inStock: true
+prodname: adidas Easy Vulc 2.0  Zapatillas de Skateboard para Hombre  Negro Core Black/FTWR White/Grey Three F17  43 1/3 EU
 ---
 
 Ahora mismo tienes [adidas Easy Vulc 2.0  Zapatillas de Skateboard para Hombre  Negro Core Black/FTWR White/Grey Three F17  43 1/3 EU](https://www.amazon.es/dp/B078LY1LLV/?tag=tolees-21) a 32.06 EUR (original: 49.95 EUR) (35.82 %  de descuento) en el siguiente enlace!

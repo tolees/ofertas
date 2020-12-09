@@ -10,8 +10,11 @@ author: ring
 slug: B0792NTMVR
 description:
 actualPrice: 92.5 EUR
+currency: EUR
+price: 92.5
 comparePrice: 185 EUR
 inStock: true
+prodname: Geox D Felicity C  Botas Altas para Mujer  Marrón  Brown C0013   40 EU
 ---
 
 Está [Geox D Felicity C  Botas Altas para Mujer  Marrón  Brown C0013   40 EU](https://www.amazon.es/dp/B0792NTMVR/?tag=tolees-21) con 50.00 de descuento por 92.5 EUR (original: 185 EUR) en el siguiente enlace!

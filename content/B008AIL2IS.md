@@ -10,8 +10,11 @@ author: ring
 slug: B008AIL2IS
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 10.2 EUR
 inStock: true
+prodname: Blade [Blu-ray]
 ---
 
 Está [Blade [Blu-ray]](https://www.amazon.es/dp/B008AIL2IS/?tag=tolees-21) con 31.47 de descuento por 6.99 EUR (original: 10.2 EUR) en el siguiente enlace!

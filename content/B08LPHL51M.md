@@ -10,8 +10,11 @@ author: ring
 slug: B08LPHL51M
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 52.99 EUR
 inStock: true
+prodname: Disco duro externo  delgado disco duro externo portátil compatible con PC  portátil y Mac  2TB  rojo 
 ---
 
 Ahora mismo tienes [Disco duro externo  delgado disco duro externo portátil compatible con PC  portátil y Mac  2TB  rojo ](https://www.amazon.es/dp/B08LPHL51M/?tag=tolees-21) a 38.99 EUR (original: 52.99 EUR) (26.42 %  de descuento) en el siguiente enlace!

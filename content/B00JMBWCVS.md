@@ -10,8 +10,11 @@ author: ring
 slug: B00JMBWCVS
 description:
 actualPrice: 42.21 EUR
+currency: EUR
+price: 42.21
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Maison Lejaby Gaby - Sujetador - Blanco - 85C
 ---
 
 Está [Maison Lejaby Gaby - Sujetador - Blanco - 85C](https://www.amazon.es/dp/B00JMBWCVS/?tag=tolees-21) con 29.53 de descuento por 42.21 EUR (original: 59.9 EUR) en el siguiente enlace!

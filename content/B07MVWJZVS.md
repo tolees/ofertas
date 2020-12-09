@@ -10,8 +10,11 @@ author: ring
 slug: B07MVWJZVS
 description:
 actualPrice: 77.95 EUR
+currency: EUR
+price: 77.95
 comparePrice: 112.39 EUR
 inStock: true
+prodname: WD My Passport Go 500 GB  disco duro sólido externo - acabado cobalto
 ---
 
 Tienes [WD My Passport Go 500 GB  disco duro sólido externo - acabado cobalto](https://www.amazon.es/dp/B07MVWJZVS/?tag=tolees-21) con un 30.64 % de descuento con precio de oferta de 77.95 EUR (original: 112.39 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07RFN1K9K
 description:
 actualPrice: 61.44 EUR
+currency: EUR
+price: 61.44
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Salomon Sense Feel W  Zapatillas para Correr para Mujer  Azul  India Ink/White/Flint Stone   36 EU
 ---
 
 Ahora mismo tienes [Salomon Sense Feel W  Zapatillas para Correr para Mujer  Azul  India Ink/White/Flint Stone   36 EU](https://www.amazon.es/dp/B07RFN1K9K/?tag=tolees-21) a 61.44 EUR (original: 89.99 EUR) (31.73 %  de descuento) en el siguiente enlace!

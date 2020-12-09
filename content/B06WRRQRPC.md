@@ -10,8 +10,11 @@ author: ring
 slug: B06WRRQRPC
 description:
 actualPrice: 54.6 EUR
+currency: EUR
+price: 54.6
 comparePrice: 130 EUR
 inStock: true
+prodname: Nike Air Zoom Cage 3 HC  Zapatillas para Hombre  Negro  Black/White/Anthracite 001   41 EU
 ---
 
 Tienes [Nike Air Zoom Cage 3 HC  Zapatillas para Hombre  Negro  Black/White/Anthracite 001   41 EU](https://www.amazon.es/dp/B06WRRQRPC/?tag=tolees-21) con un 58.00 % de descuento con precio de oferta de 54.6 EUR (original: 130 EUR) en el siguiente enlace!

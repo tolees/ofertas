@@ -10,8 +10,11 @@ author: ring
 slug: B07L44RZNS
 description:
 actualPrice: 32.48 EUR
+currency: EUR
+price: 32.48
 comparePrice: 65 EUR
 inStock: true
+prodname: Asics Aaron  Zapatillas de Gimnasia para Hombre  Negro  Black/White 002   46.5 EU
 ---
 
 Tienes [Asics Aaron  Zapatillas de Gimnasia para Hombre  Negro  Black/White 002   46.5 EU](https://www.amazon.es/dp/B07L44RZNS/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 32.48 EUR (original: 65 EUR) en el siguiente enlace!

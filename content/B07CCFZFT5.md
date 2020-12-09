@@ -10,8 +10,11 @@ author: ring
 slug: B07CCFZFT5
 description:
 actualPrice: 18.4 EUR
+currency: EUR
+price: 18.4
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Juego De Tronos Temporada 1 Blu-Ray Uhd [Blu-ray]
 ---
 
 Ahora mismo tienes [Juego De Tronos Temporada 1 Blu-Ray Uhd [Blu-ray]](https://www.amazon.es/dp/B07CCFZFT5/?tag=tolees-21) a 18.4 EUR (original: 39.99 EUR) (53.99 %  de descuento) en el siguiente enlace!

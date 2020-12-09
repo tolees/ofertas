@@ -10,8 +10,11 @@ author: ring
 slug: B08GX1BRRM
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 31.99 EUR
 inStock: true
+prodname: Vino Ecológico DO Méntrida  4 botellas x 75cl  - Vino Tinto Ecológico - Vino Orgánico - Vino Biológico - Caja De Vino Tinto - Cajas De Vino Tinto - Vino Tinto Caja - Vino Tinto Regalo
 ---
 
 Está [Vino Ecológico DO Méntrida  4 botellas x 75cl  - Vino Tinto Ecológico - Vino Orgánico - Vino Biológico - Caja De Vino Tinto - Cajas De Vino Tinto - Vino Tinto Caja - Vino Tinto Regalo](https://www.amazon.es/dp/B08GX1BRRM/?tag=tolees-21) con 50.02 de descuento por 15.99 EUR (original: 31.99 EUR) en el siguiente enlace!

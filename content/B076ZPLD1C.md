@@ -10,8 +10,11 @@ author: ring
 slug: B076ZPLD1C
 description:
 actualPrice: 12 EUR
+currency: EUR
+price: 12
 comparePrice: 69.99 EUR
 inStock: true
+prodname: SELECTED HOMME Shdslim-mathcole D. Grey TRS Noos Pantalones  Gris Dark    Talla del Fabricante: 29  para Hombre
 ---
 
 Tienes [SELECTED HOMME Shdslim-mathcole D. Grey TRS Noos Pantalones  Gris Dark    Talla del Fabricante: 29  para Hombre](https://www.amazon.es/dp/B076ZPLD1C/?tag=tolees-21) con un 82.85 % de descuento con precio de oferta de 12 EUR (original: 69.99 EUR) en el siguiente enlace!

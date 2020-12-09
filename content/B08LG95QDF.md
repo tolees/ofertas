@@ -10,8 +10,11 @@ author: ring
 slug: B08LG95QDF
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 112.2 EUR
 inStock: true
+prodname: Disco Duro Externo 2 TB USB3.0 Disco Duro Externo 2.5" HDD para PC  Mac Xbox  MacBook  Chromebook  2TB Azul 
 ---
 
 Está [Disco Duro Externo 2 TB USB3.0 Disco Duro Externo 2.5" HDD para PC  Mac Xbox  MacBook  Chromebook  2TB Azul ](https://www.amazon.es/dp/B08LG95QDF/?tag=tolees-21) con 42.97 de descuento por 63.99 EUR (original: 112.2 EUR) en el siguiente enlace!

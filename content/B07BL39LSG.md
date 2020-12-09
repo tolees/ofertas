@@ -10,8 +10,11 @@ author: ring
 slug: B07BL39LSG
 description:
 actualPrice: 117.95 EUR
+currency: EUR
+price: 117.95
 comparePrice: 170 EUR
 inStock: true
+prodname: New Balance Fresh Foam 1080v9  Zapatillas de Running para Hombre  Blanco  White/Black/Deep Ozone Blue   45 EU
 ---
 
 Está [New Balance Fresh Foam 1080v9  Zapatillas de Running para Hombre  Blanco  White/Black/Deep Ozone Blue   45 EU](https://www.amazon.es/dp/B07BL39LSG/?tag=tolees-21) con 30.62 de descuento por 117.95 EUR (original: 170 EUR) en el siguiente enlace!

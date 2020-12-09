@@ -10,8 +10,11 @@ author: ring
 slug: B07DJTJ9T7
 description:
 actualPrice: 23.21 EUR
+currency: EUR
+price: 23.21
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Dockers by Gerli 43st301  Botas Militar para Mujer  Gris  Hellgrau 210   40 EU
 ---
 
 Ahora mismo tienes [Dockers by Gerli 43st301  Botas Militar para Mujer  Gris  Hellgrau 210   40 EU](https://www.amazon.es/dp/B07DJTJ9T7/?tag=tolees-21) a 23.21 EUR (original: 59.95 EUR) (61.28 %  de descuento) en el siguiente enlace!

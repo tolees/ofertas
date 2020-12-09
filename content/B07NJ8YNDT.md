@@ -10,8 +10,11 @@ author: ring
 slug: B07NJ8YNDT
 description:
 actualPrice: 31.45 EUR
+currency: EUR
+price: 31.45
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Pokémon Mando inalámbrico para Nintendo Switch - Estilo GameCube: Espeon
 ---
 
 Está [Pokémon Mando inalámbrico para Nintendo Switch - Estilo GameCube: Espeon](https://www.amazon.es/dp/B07NJ8YNDT/?tag=tolees-21) con 37.09 de descuento por 31.45 EUR (original: 49.99 EUR) en el siguiente enlace!

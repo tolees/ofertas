@@ -10,8 +10,11 @@ author: ring
 slug: B07KCMD89T
 description:
 actualPrice: 17.81 EUR
+currency: EUR
+price: 17.81
 comparePrice: 24 EUR
 inStock: true
+prodname: David Jones - 5926-1  Bolsos bandolera Mujer  Gris  Creamy Grey   8x18x22 cm  W x H L 
 ---
 
 Está [David Jones - 5926-1  Bolsos bandolera Mujer  Gris  Creamy Grey   8x18x22 cm  W x H L ](https://www.amazon.es/dp/B07KCMD89T/?tag=tolees-21) con 25.79 de descuento por 17.81 EUR (original: 24 EUR) en el siguiente enlace!

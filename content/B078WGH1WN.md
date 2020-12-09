@@ -10,8 +10,11 @@ author: ring
 slug: B078WGH1WN
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 20.95 EUR
 inStock: true
+prodname: Nike Large Bottle Belt 22OZ Cinturón de hidratación Running Unisex Adulto  Talla Única
 ---
 
 Está [Nike Large Bottle Belt 22OZ Cinturón de hidratación Running Unisex Adulto  Talla Única](https://www.amazon.es/dp/B078WGH1WN/?tag=tolees-21) con 28.64 de descuento por 14.95 EUR (original: 20.95 EUR) en el siguiente enlace!

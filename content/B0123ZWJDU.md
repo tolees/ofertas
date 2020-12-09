@@ -10,8 +10,11 @@ author: ring
 slug: B0123ZWJDU
 description:
 actualPrice: 29.8 EUR
+currency: EUR
+price: 29.8
 comparePrice: 54.49 EUR
 inStock: true
+prodname: Bra A401740 - Plancha Asar  Aluminio  Negro  40 cm
 ---
 
 Está [Bra A401740 - Plancha Asar  Aluminio  Negro  40 cm](https://www.amazon.es/dp/B0123ZWJDU/?tag=tolees-21) con 45.31 de descuento por 29.8 EUR (original: 54.49 EUR) en el siguiente enlace!

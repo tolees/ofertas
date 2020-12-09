@@ -10,8 +10,11 @@ author: ring
 slug: B07FHDR2CS
 description:
 actualPrice: 34.27 EUR
+currency: EUR
+price: 34.27
 comparePrice: 75 EUR
 inStock: true
+prodname: Helly Hansen Brono Short  Hombre  Ebony  2XL
 ---
 
 Tienes [Helly Hansen Brono Short  Hombre  Ebony  2XL](https://www.amazon.es/dp/B07FHDR2CS/?tag=tolees-21) con un 54.31 % de descuento con precio de oferta de 34.27 EUR (original: 75 EUR) en el siguiente enlace!

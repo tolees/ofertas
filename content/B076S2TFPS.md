@@ -10,8 +10,11 @@ author: ring
 slug: B076S2TFPS
 description:
 actualPrice: 11.44 EUR
+currency: EUR
+price: 11.44
 comparePrice: 35 EUR
 inStock: true
+prodname: find. Camisa de Rayas Mujer  Blanco  White/black Stripe   38  Talla del fabricante: Small 
 ---
 
 Ahora mismo tienes [find. Camisa de Rayas Mujer  Blanco  White/black Stripe   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B076S2TFPS/?tag=tolees-21) a 11.44 EUR (original: 35 EUR) (67.31 %  de descuento) en el siguiente enlace!

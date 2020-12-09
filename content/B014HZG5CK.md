@@ -10,8 +10,11 @@ author: ring
 slug: B014HZG5CK
 description:
 actualPrice: 19.77 EUR
+currency: EUR
+price: 19.77
 comparePrice: 39 EUR
 inStock: true
+prodname: Casio Reloj con Movimiento Cuarzo japonés Woman Ltp-V005L-7A 30.0 mm
 ---
 
 Está [Casio Reloj con Movimiento Cuarzo japonés Woman Ltp-V005L-7A 30.0 mm](https://www.amazon.es/dp/B014HZG5CK/?tag=tolees-21) con 49.31 de descuento por 19.77 EUR (original: 39 EUR) en el siguiente enlace!

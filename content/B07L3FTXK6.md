@@ -10,8 +10,11 @@ author: ring
 slug: B07L3FTXK6
 description:
 actualPrice: 51.95 EUR
+currency: EUR
+price: 51.95
 comparePrice: 74.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Essential Flag Detail Sneaker  Zapatillas para Hombre  Blanco  White 100   44 EU
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Essential Flag Detail Sneaker  Zapatillas para Hombre  Blanco  White 100   44 EU](https://www.amazon.es/dp/B07L3FTXK6/?tag=tolees-21) a 51.95 EUR (original: 74.9 EUR) (30.64 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08B5Y9PJD
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: Lightess Lámpara Proyector Estrellas Infantil Música Altavoz Bluetooth 360° Rotación Proyector Estrellas Bebé USB Luz Nocturna Control Remoto por Regalo para Navidad  9 Patrones de Proyección  Rosa 
 ---
 
 Ahora mismo tienes [Lightess Lámpara Proyector Estrellas Infantil Música Altavoz Bluetooth 360° Rotación Proyector Estrellas Bebé USB Luz Nocturna Control Remoto por Regalo para Navidad  9 Patrones de Proyección  Rosa ](https://www.amazon.es/dp/B08B5Y9PJD/?tag=tolees-21) a 31.99 EUR (original: 45.99 EUR) (30.44 %  de descuento) en el siguiente enlace!

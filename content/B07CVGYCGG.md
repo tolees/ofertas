@@ -10,8 +10,11 @@ author: ring
 slug: B07CVGYCGG
 description:
 actualPrice: 74.98 EUR
+currency: EUR
+price: 74.98
 comparePrice: 99.98 EUR
 inStock: true
+prodname: Aicok Purificador de Aire  Filtro HEPA  Bajo Decibelio  Eliminar el Bacterias  Polen  Polvo  Humo del Cigarrillo y Olor a Cocina  Purificador de Aire para Hogar
 ---
 
 Está [Aicok Purificador de Aire  Filtro HEPA  Bajo Decibelio  Eliminar el Bacterias  Polen  Polvo  Humo del Cigarrillo y Olor a Cocina  Purificador de Aire para Hogar](https://www.amazon.es/dp/B07CVGYCGG/?tag=tolees-21) con 25.01 de descuento por 74.98 EUR (original: 99.98 EUR) en el siguiente enlace!

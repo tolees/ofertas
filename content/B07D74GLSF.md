@@ -10,8 +10,11 @@ author: ring
 slug: B07D74GLSF
 description:
 actualPrice: 46.62 EUR
+currency: EUR
+price: 46.62
 comparePrice: 94.74 EUR
 inStock: true
+prodname: Adidas Swift Run Aq0863  Zapatillas para Hombre  Negro Core Black/Footwear White 0  44 2/3 EU
 ---
 
 Ahora mismo tienes [Adidas Swift Run Aq0863  Zapatillas para Hombre  Negro Core Black/Footwear White 0  44 2/3 EU](https://www.amazon.es/dp/B07D74GLSF/?tag=tolees-21) a 46.62 EUR (original: 94.74 EUR) (50.79 %  de descuento) en el siguiente enlace!

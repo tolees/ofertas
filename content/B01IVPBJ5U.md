@@ -10,8 +10,11 @@ author: ring
 slug: B01IVPBJ5U
 description:
 actualPrice: 8.09 EUR
+currency: EUR
+price: 8.09
 comparePrice: 11.95 EUR
 inStock: true
+prodname: Melatonina Epaplus Sueño Liberación prolongada 60 comprimidos
 ---
 
 Está [Melatonina Epaplus Sueño Liberación prolongada 60 comprimidos](https://www.amazon.es/dp/B01IVPBJ5U/?tag=tolees-21) con 32.30 de descuento por 8.09 EUR (original: 11.95 EUR) en el siguiente enlace!

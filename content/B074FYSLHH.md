@@ -10,8 +10,11 @@ author: ring
 slug: B074FYSLHH
 description:
 actualPrice: 9.59 EUR
+currency: EUR
+price: 9.59
 comparePrice: 30 EUR
 inStock: true
+prodname: find. Jersey de Punto para Mujer  Rosa  Bright Pink   38  Talla del Fabricante: Small 
 ---
 
 Está [find. Jersey de Punto para Mujer  Rosa  Bright Pink   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B074FYSLHH/?tag=tolees-21) con 68.03 de descuento por 9.59 EUR (original: 30 EUR) en el siguiente enlace!

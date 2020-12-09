@@ -10,8 +10,11 @@ author: ring
 slug: B00D9KCJJ8
 description:
 actualPrice: 5.0 EUR
+currency: EUR
+price: 5.0
 comparePrice: 9.95 EUR
 inStock: true
+prodname: Kill Bill - Volumen 2 [DVD]
 ---
 
 Ahora mismo tienes [Kill Bill - Volumen 2 [DVD]](https://www.amazon.es/dp/B00D9KCJJ8/?tag=tolees-21) a 5.0 EUR (original: 9.95 EUR) (49.75 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07VCCJKQQ
 description:
 actualPrice: 66.28 EUR
+currency: EUR
+price: 66.28
 comparePrice: 149.0 EUR
 inStock: true
+prodname: Napapijri Acalmar W Vest 2 Chaqueta  Azul  Blu Marine 1761   Small para Mujer
 ---
 
 Tienes [Napapijri Acalmar W Vest 2 Chaqueta  Azul  Blu Marine 1761   Small para Mujer](https://www.amazon.es/dp/B07VCCJKQQ/?tag=tolees-21) con un 55.52 % de descuento con precio de oferta de 66.28 EUR (original: 149.0 EUR) en el siguiente enlace!

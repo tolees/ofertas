@@ -10,8 +10,11 @@ author: ring
 slug: B00K11UHVA
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: TP-Link TL-WA860RE - Repetidor de red Wifi extensor amplificador de cobertura Puerto Ethernet  10/100 mbps  con enchufe  300 Mbps  2 antenas 
 ---
 
 Está [TP-Link TL-WA860RE - Repetidor de red Wifi extensor amplificador de cobertura Puerto Ethernet  10/100 mbps  con enchufe  300 Mbps  2 antenas ](https://www.amazon.es/dp/B00K11UHVA/?tag=tolees-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

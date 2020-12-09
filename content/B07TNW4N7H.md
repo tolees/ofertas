@@ -10,8 +10,11 @@ author: ring
 slug: B07TNW4N7H
 description:
 actualPrice: 8.62 EUR
+currency: EUR
+price: 8.62
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Havaianas Origine Free  Mules Mujer  Negro  Black 0090   40 EU
 ---
 
 Tienes [Havaianas Origine Free  Mules Mujer  Negro  Black 0090   40 EU](https://www.amazon.es/dp/B07TNW4N7H/?tag=tolees-21) con un 71.17 % de descuento con precio de oferta de 8.62 EUR (original: 29.9 EUR) en el siguiente enlace!

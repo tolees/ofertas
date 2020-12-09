@@ -10,8 +10,11 @@ author: ring
 slug: B07H5HDHF8
 description:
 actualPrice: 10.18 EUR
+currency: EUR
+price: 10.18
 comparePrice: 20.58 EUR
 inStock: true
+prodname: Lavuky - Cortapelos de pelo para hombre con cable de bajo ruido inalámbrico para hombres eléctrico recortador de pelo recargable para hombres barba afeitadora Kit de corte de pelo eléctrico - Negro
 ---
 
 Está [Lavuky - Cortapelos de pelo para hombre con cable de bajo ruido inalámbrico para hombres eléctrico recortador de pelo recargable para hombres barba afeitadora Kit de corte de pelo eléctrico - Negro](https://www.amazon.es/dp/B07H5HDHF8/?tag=tolees-21) con 50.53 de descuento por 10.18 EUR (original: 20.58 EUR) en el siguiente enlace!

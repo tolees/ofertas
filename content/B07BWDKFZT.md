@@ -10,8 +10,11 @@ author: ring
 slug: B07BWDKFZT
 description:
 actualPrice: 7.43 EUR
+currency: EUR
+price: 7.43
 comparePrice: 61.9 EUR
 inStock: true
+prodname: MSI B360M PRO-VD - Placa Base PRO Series
 ---
 
 Está [MSI B360M PRO-VD - Placa Base PRO Series](https://www.amazon.es/dp/B07BWDKFZT/?tag=tolees-21) con 88.00 de descuento por 7.43 EUR (original: 61.9 EUR) en el siguiente enlace!

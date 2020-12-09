@@ -10,8 +10,11 @@ author: ring
 slug: B07SJGRC5S
 description:
 actualPrice: 34.35 EUR
+currency: EUR
+price: 34.35
 comparePrice: 48.67 EUR
 inStock: true
+prodname: Clarks 
 ---
 
 Ahora mismo tienes [Clarks ](https://www.amazon.es/dp/B07SJGRC5S/?tag=tolees-21) a 34.35 EUR (original: 48.67 EUR) (29.42 %  de descuento) en el siguiente enlace!

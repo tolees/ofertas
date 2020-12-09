@@ -10,8 +10,11 @@ author: ring
 slug: B00HRIQSQI
 description:
 actualPrice: 29.15 EUR
+currency: EUR
+price: 29.15
 comparePrice: 50.0 EUR
 inStock: true
+prodname: Timberland - Patucos y casquillo para bebés  Multicolor  Amarillo/ Blanco   14.5
 ---
 
 Tienes [Timberland - Patucos y casquillo para bebés  Multicolor  Amarillo/ Blanco   14.5](https://www.amazon.es/dp/B00HRIQSQI/?tag=tolees-21) con un 41.70 % de descuento con precio de oferta de 29.15 EUR (original: 50.0 EUR) en el siguiente enlace!

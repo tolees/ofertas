@@ -10,8 +10,11 @@ author: ring
 slug: B081CQWCM3
 description:
 actualPrice: 16.97 EUR
+currency: EUR
+price: 16.97
 comparePrice: 23.72 EUR
 inStock: true
+prodname: Marca Amazon - find. Jersey de Algodón con Cuello Cisne Hombre  Gris  Light Grey Marl   L  Label: L
 ---
 
 Ahora mismo tienes [Marca Amazon - find. Jersey de Algodón con Cuello Cisne Hombre  Gris  Light Grey Marl   L  Label: L](https://www.amazon.es/dp/B081CQWCM3/?tag=tolees-21) a 16.97 EUR (original: 23.72 EUR) (28.46 %  de descuento) en el siguiente enlace!

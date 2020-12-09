@@ -10,8 +10,11 @@ author: ring
 slug: B00MWZOMMS
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 39.91 EUR
 inStock: true
+prodname: Energy Sistem Music Box BZ3 Altavoz portatil Bluetooth 6W  Radio FM  Lector USB/SD  Display retroiluminado  - Negro
 ---
 
 Tienes [Energy Sistem Music Box BZ3 Altavoz portatil Bluetooth 6W  Radio FM  Lector USB/SD  Display retroiluminado  - Negro](https://www.amazon.es/dp/B00MWZOMMS/?tag=tolees-21) con un 37.61 % de descuento con precio de oferta de 24.9 EUR (original: 39.91 EUR) en el siguiente enlace!

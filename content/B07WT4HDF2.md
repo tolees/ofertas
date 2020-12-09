@@ -10,8 +10,11 @@ author: ring
 slug: B07WT4HDF2
 description:
 actualPrice: 24.74 EUR
+currency: EUR
+price: 24.74
 comparePrice: 32.99 EUR
 inStock: true
+prodname: Aigostar Mona - Lámpara de escritorio  Flexo led táctil 5W  Base para carga inalámbrica  Vuelta al cole  3 modos de iluminación de luz blanca a cálida  2700K-6500K   200lm. Plata
 ---
 
 Está [Aigostar Mona - Lámpara de escritorio  Flexo led táctil 5W  Base para carga inalámbrica  Vuelta al cole  3 modos de iluminación de luz blanca a cálida  2700K-6500K   200lm. Plata](https://www.amazon.es/dp/B07WT4HDF2/?tag=tolees-21) con 25.01 de descuento por 24.74 EUR (original: 32.99 EUR) en el siguiente enlace!

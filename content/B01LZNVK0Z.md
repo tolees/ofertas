@@ -10,8 +10,11 @@ author: ring
 slug: B01LZNVK0Z
 description:
 actualPrice: 56.68 EUR
+currency: EUR
+price: 56.68
 comparePrice: 100.0 EUR
 inStock: true
+prodname: Hackett Clothing End On End Single Cuff  Camisa Hombre  Azul  Blue   16.5 UK 
 ---
 
 Ahora mismo tienes [Hackett Clothing End On End Single Cuff  Camisa Hombre  Azul  Blue   16.5 UK ](https://www.amazon.es/dp/B01LZNVK0Z/?tag=tolees-21) a 56.68 EUR (original: 100.0 EUR) (43.32 %  de descuento) en el siguiente enlace!

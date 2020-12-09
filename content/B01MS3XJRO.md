@@ -10,8 +10,11 @@ author: ring
 slug: B01MS3XJRO
 description:
 actualPrice: 22.3 EUR
+currency: EUR
+price: 22.3
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Salomon PULSE BELT Riñonera
 ---
 
 Tienes [Salomon PULSE BELT Riñonera](https://www.amazon.es/dp/B01MS3XJRO/?tag=tolees-21) con un 25.67 % de descuento con precio de oferta de 22.3 EUR (original: 30.0 EUR) en el siguiente enlace!

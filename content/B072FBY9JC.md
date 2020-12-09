@@ -10,8 +10,11 @@ author: ring
 slug: B072FBY9JC
 description:
 actualPrice: 5.07 EUR
+currency: EUR
+price: 5.07
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Vero Moda Vmmilan Nille 3/4 Deep V-Neck Blouse suéter  Azul  Navy Blazer   Small para Mujer
 ---
 
 Ahora mismo tienes [Vero Moda Vmmilan Nille 3/4 Deep V-Neck Blouse suéter  Azul  Navy Blazer   Small para Mujer](https://www.amazon.es/dp/B072FBY9JC/?tag=tolees-21) a 5.07 EUR (original: 16.99 EUR) (70.16 %  de descuento) en el siguiente enlace!

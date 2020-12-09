@@ -10,8 +10,11 @@ author: ring
 slug: B08FFKHGHD
 description:
 actualPrice: 7.97 EUR
+currency: EUR
+price: 7.97
 comparePrice: 10.99 EUR
 inStock: true
+prodname: CINMOK 2pcs Cinta Manualidades Decorativas  Navidad  Cinta rollo Brillante  Decoración de Papel de Regalo Decorativas para Árboles  Embalaje  Bodas.
 ---
 
 Tienes [CINMOK 2pcs Cinta Manualidades Decorativas  Navidad  Cinta rollo Brillante  Decoración de Papel de Regalo Decorativas para Árboles  Embalaje  Bodas.](https://www.amazon.es/dp/B08FFKHGHD/?tag=tolees-21) con un 27.48 % de descuento con precio de oferta de 7.97 EUR (original: 10.99 EUR) en el siguiente enlace!

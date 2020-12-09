@@ -10,8 +10,11 @@ author: ring
 slug: B07KMMW98X
 description:
 actualPrice: 24.65 EUR
+currency: EUR
+price: 24.65
 comparePrice: 45.99 EUR
 inStock: true
+prodname: Roxy Feel Happy - Petate Deportivo Mediano para Mujer  Heritage Heather  1SZ
 ---
 
 Tienes [Roxy Feel Happy - Petate Deportivo Mediano para Mujer  Heritage Heather  1SZ](https://www.amazon.es/dp/B07KMMW98X/?tag=tolees-21) con un 46.40 % de descuento con precio de oferta de 24.65 EUR (original: 45.99 EUR) en el siguiente enlace!

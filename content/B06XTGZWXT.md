@@ -10,8 +10,11 @@ author: ring
 slug: B06XTGZWXT
 description:
 actualPrice: 22.26 EUR
+currency: EUR
+price: 22.26
 comparePrice: 36.09 EUR
 inStock: true
+prodname: Bellota 81301000N 8130-1000N-Hacha Vizcaina con Mango  Negro y madera  1000 gramos
 ---
 
 Ahora mismo tienes [Bellota 81301000N 8130-1000N-Hacha Vizcaina con Mango  Negro y madera  1000 gramos](https://www.amazon.es/dp/B06XTGZWXT/?tag=tolees-21) a 22.26 EUR (original: 36.09 EUR) (38.32 %  de descuento) en el siguiente enlace!

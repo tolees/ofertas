@@ -10,8 +10,11 @@ author: ring
 slug: B06Y1MJQD5
 description:
 actualPrice: 139.45 EUR
+currency: EUR
+price: 139.45
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 1791366
 ---
 
 Está [Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 1791366](https://www.amazon.es/dp/B06Y1MJQD5/?tag=tolees-21) con 29.92 de descuento por 139.45 EUR (original: 199.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NLCQ3YH
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 55.0 EUR
 inStock: true
+prodname: Nike Revolution 5  Zapatillas de Atletismo Hombre  Rojo/Blanco  Gym Red/White/Black 600   42.5 EU
 ---
 
 Tienes [Nike Revolution 5  Zapatillas de Atletismo Hombre  Rojo/Blanco  Gym Red/White/Black 600   42.5 EU](https://www.amazon.es/dp/B07NLCQ3YH/?tag=tolees-21) con un 27.29 % de descuento con precio de oferta de 39.99 EUR (original: 55.0 EUR) en el siguiente enlace!

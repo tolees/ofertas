@@ -10,8 +10,11 @@ author: ring
 slug: B06XGH5HLZ
 description:
 actualPrice: 4.49 EUR
+currency: EUR
+price: 4.49
 comparePrice: 5.99 EUR
 inStock: true
+prodname: Maybelline New York Fit Me - Polvos Compactos Matificantes y Sin Brillos  Tono 115 Ivory
 ---
 
 Tienes [Maybelline New York Fit Me - Polvos Compactos Matificantes y Sin Brillos  Tono 115 Ivory](https://www.amazon.es/dp/B06XGH5HLZ/?tag=tolees-21) con un 25.04 % de descuento con precio de oferta de 4.49 EUR (original: 5.99 EUR) en el siguiente enlace!

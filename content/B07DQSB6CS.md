@@ -10,8 +10,11 @@ author: ring
 slug: B07DQSB6CS
 description:
 actualPrice: 13.45 EUR
+currency: EUR
+price: 13.45
 comparePrice: 30 EUR
 inStock: true
+prodname: Volcom Stence BSC SS Camiseta  Hombre  Rojo  Engine Red   S
 ---
 
 Está [Volcom Stence BSC SS Camiseta  Hombre  Rojo  Engine Red   S](https://www.amazon.es/dp/B07DQSB6CS/?tag=tolees-21) con 55.17 de descuento por 13.45 EUR (original: 30 EUR) en el siguiente enlace!

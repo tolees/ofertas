@@ -10,8 +10,11 @@ author: ring
 slug: B07W6MF1TG
 description:
 actualPrice: 219.99 EUR
+currency: EUR
+price: 219.99
 comparePrice: 299.99 EUR
 inStock: true
+prodname: ORICO Aluminio 3.5 Pulgadas 5 Bahías Gabinete Disco Duro Externo - Libre de Herramientas para USB 3.0 a SATA HDD/SSD - Soporte 5X 16TB - LED Indicador
 ---
 
 Tienes [ORICO Aluminio 3.5 Pulgadas 5 Bahías Gabinete Disco Duro Externo - Libre de Herramientas para USB 3.0 a SATA HDD/SSD - Soporte 5X 16TB - LED Indicador](https://www.amazon.es/dp/B07W6MF1TG/?tag=tolees-21) con un 26.67 % de descuento con precio de oferta de 219.99 EUR (original: 299.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B084DRXVMF
 description:
 actualPrice: 3.45 EUR
+currency: EUR
+price: 3.45
 comparePrice: 4.9 EUR
 inStock: true
+prodname: Lékué 8420460013914 Molde Donut helado  Silicona  Coral
 ---
 
 Ahora mismo tienes [Lékué 8420460013914 Molde Donut helado  Silicona  Coral](https://www.amazon.es/dp/B084DRXVMF/?tag=tolees-21) a 3.45 EUR (original: 4.9 EUR) (29.59 %  de descuento) en el siguiente enlace!

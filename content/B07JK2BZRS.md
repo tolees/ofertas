@@ -10,8 +10,11 @@ author: ring
 slug: B07JK2BZRS
 description:
 actualPrice: 36.39 EUR
+currency: EUR
+price: 36.39
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Trilogía El Señor De Los Anillos Extendida [DVD]
 ---
 
 Ahora mismo tienes [Trilogía El Señor De Los Anillos Extendida [DVD]](https://www.amazon.es/dp/B07JK2BZRS/?tag=tolees-21) a 36.39 EUR (original: 49.99 EUR) (27.21 %  de descuento) en el siguiente enlace!

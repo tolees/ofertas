@@ -10,8 +10,11 @@ author: ring
 slug: B01IN1SXE2
 description:
 actualPrice: 9.49 EUR
+currency: EUR
+price: 9.49
 comparePrice: 31.39 EUR
 inStock: true
+prodname: Rinat Short Moyá Pantalón Corto  Unisex Adulto  Negro  M
 ---
 
 Está [Rinat Short Moyá Pantalón Corto  Unisex Adulto  Negro  M](https://www.amazon.es/dp/B01IN1SXE2/?tag=tolees-21) con 69.77 de descuento por 9.49 EUR (original: 31.39 EUR) en el siguiente enlace!

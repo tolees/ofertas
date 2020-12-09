@@ -10,8 +10,11 @@ author: ring
 slug: B06XSPNVSL
 description:
 actualPrice: 14.79 EUR
+currency: EUR
+price: 14.79
 comparePrice: 22 EUR
 inStock: true
+prodname: FIND DC1930L vaqueros mujer  Azul  Indigo   W30/L32  Talla del Fabricante: Medium 
 ---
 
 Está [FIND DC1930L vaqueros mujer  Azul  Indigo   W30/L32  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B06XSPNVSL/?tag=tolees-21) con 32.77 de descuento por 14.79 EUR (original: 22 EUR) en el siguiente enlace!

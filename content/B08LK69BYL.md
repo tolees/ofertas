@@ -10,8 +10,11 @@ author: ring
 slug: B08LK69BYL
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 28.87 EUR
 inStock: true
+prodname: VISLONE Luz Solar Exterior 48/54LED con Sensor de Movimiento  LED Foco Solar Exterior Lámpara Solar IP65 Impermeable 3 con Modos para Patio  Jardín  Balcón  Garaje
 ---
 
 Está [VISLONE Luz Solar Exterior 48/54LED con Sensor de Movimiento  LED Foco Solar Exterior Lámpara Solar IP65 Impermeable 3 con Modos para Patio  Jardín  Balcón  Garaje](https://www.amazon.es/dp/B08LK69BYL/?tag=tolees-21) con 51.54 de descuento por 13.99 EUR (original: 28.87 EUR) en el siguiente enlace!

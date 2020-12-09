@@ -10,8 +10,11 @@ author: ring
 slug: B07L4JVQVZ
 description:
 actualPrice: 7.33 EUR
+currency: EUR
+price: 7.33
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Funko Pop! Fortnite 463 Valor Vinyl Figure
 ---
 
 Tienes [Funko Pop! Fortnite 463 Valor Vinyl Figure](https://www.amazon.es/dp/B07L4JVQVZ/?tag=tolees-21) con un 54.04 % de descuento con precio de oferta de 7.33 EUR (original: 15.95 EUR) en el siguiente enlace!

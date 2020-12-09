@@ -10,8 +10,11 @@ author: ring
 slug: B07LGSL85S
 description:
 actualPrice: 115.78 EUR
+currency: EUR
+price: 115.78
 comparePrice: 166 EUR
 inStock: true
+prodname: Guess Lelani  Sandal /Leathe  Zapatos de tacón con Punta Abierta para Mujer  Blanco White  36 EU
 ---
 
 Tienes [Guess Lelani  Sandal /Leathe  Zapatos de tacón con Punta Abierta para Mujer  Blanco White  36 EU](https://www.amazon.es/dp/B07LGSL85S/?tag=tolees-21) con un 30.25 % de descuento con precio de oferta de 115.78 EUR (original: 166 EUR) en el siguiente enlace!

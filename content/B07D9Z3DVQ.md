@@ -10,8 +10,11 @@ author: ring
 slug: B07D9Z3DVQ
 description:
 actualPrice: 24.83 EUR
+currency: EUR
+price: 24.83
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Puma Smash V2 Mid Sd  Zapatillas altas Unisex adulto  Negro  Puma Black-Puma White 01   36 EU
 ---
 
 Ahora mismo tienes [Puma Smash V2 Mid Sd  Zapatillas altas Unisex adulto  Negro  Puma Black-Puma White 01   36 EU](https://www.amazon.es/dp/B07D9Z3DVQ/?tag=tolees-21) a 24.83 EUR (original: 64.95 EUR) (61.77 %  de descuento) en el siguiente enlace!

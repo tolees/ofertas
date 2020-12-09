@@ -10,8 +10,11 @@ author: ring
 slug: B08KTYLJ92
 description:
 actualPrice: 5.49 EUR
+currency: EUR
+price: 5.49
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Lo que el viento se llevó [Blu-ray]
 ---
 
 Ahora mismo tienes [Lo que el viento se llevó [Blu-ray]](https://www.amazon.es/dp/B08KTYLJ92/?tag=tolees-21) a 5.49 EUR (original: 10.99 EUR) (50.05 %  de descuento) en el siguiente enlace!

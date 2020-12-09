@@ -10,8 +10,11 @@ author: ring
 slug: B07W8XYTQ8
 description:
 actualPrice: 38.5 EUR
+currency: EUR
+price: 38.5
 comparePrice: 64.99 EUR
 inStock: true
+prodname: LEGO Friends - Hospital de Heartlake City  Juguete de Construcción  Incluye Muñeca de Emma  la Doctora Maria y Ethan  a Partir de 6 Años  41394 
 ---
 
 Está [LEGO Friends - Hospital de Heartlake City  Juguete de Construcción  Incluye Muñeca de Emma  la Doctora Maria y Ethan  a Partir de 6 Años  41394 ](https://www.amazon.es/dp/B07W8XYTQ8/?tag=tolees-21) con 40.76 de descuento por 38.5 EUR (original: 64.99 EUR) en el siguiente enlace!

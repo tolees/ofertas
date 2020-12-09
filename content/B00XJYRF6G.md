@@ -10,8 +10,11 @@ author: ring
 slug: B00XJYRF6G
 description:
 actualPrice: 38.83 EUR
+currency: EUR
+price: 38.83
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Reebok Classic Leather Zapatillas  Mujer  Blanco  Int-White / Gum   36 EU
 ---
 
 Está [Reebok Classic Leather Zapatillas  Mujer  Blanco  Int-White / Gum   36 EU](https://www.amazon.es/dp/B00XJYRF6G/?tag=tolees-21) con 56.83 de descuento por 38.83 EUR (original: 89.95 EUR) en el siguiente enlace!

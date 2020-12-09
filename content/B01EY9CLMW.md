@@ -10,8 +10,11 @@ author: ring
 slug: B01EY9CLMW
 description:
 actualPrice: 43.16 EUR
+currency: EUR
+price: 43.16
 comparePrice: 89.0 EUR
 inStock: true
+prodname: Superga 2750 UKFGLU  Zapatillas Unisex adulto  Blanco  White 900   42.5 EU
 ---
 
 Ahora mismo tienes [Superga 2750 UKFGLU  Zapatillas Unisex adulto  Blanco  White 900   42.5 EU](https://www.amazon.es/dp/B01EY9CLMW/?tag=tolees-21) a 43.16 EUR (original: 89.0 EUR) (51.51 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FNWQ2L3
 description:
 actualPrice: 43 EUR
+currency: EUR
+price: 43
 comparePrice: 85 EUR
 inStock: true
+prodname: The North Face M Jacket Chaqueta Ambition  Hombre  TNF Dark Grey Heather  S
 ---
 
 Ahora mismo tienes [The North Face M Jacket Chaqueta Ambition  Hombre  TNF Dark Grey Heather  S](https://www.amazon.es/dp/B07FNWQ2L3/?tag=tolees-21) a 43 EUR (original: 85 EUR) (49.41 %  de descuento) en el siguiente enlace!

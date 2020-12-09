@@ -10,8 +10,11 @@ author: ring
 slug: B07J57GSGN
 description:
 actualPrice: 10.49 EUR
+currency: EUR
+price: 10.49
 comparePrice: 18.99 EUR
 inStock: true
+prodname: Pack: Mamma Mia 1 + Mamma Mia 2 [Blu-ray]
 ---
 
 Ahora mismo tienes [Pack: Mamma Mia 1 + Mamma Mia 2 [Blu-ray]](https://www.amazon.es/dp/B07J57GSGN/?tag=tolees-21) a 10.49 EUR (original: 18.99 EUR) (44.76 %  de descuento) en el siguiente enlace!

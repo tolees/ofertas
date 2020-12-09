@@ -10,8 +10,11 @@ author: ring
 slug: B07GNPSD3M
 description:
 actualPrice: 17.49 EUR
+currency: EUR
+price: 17.49
 comparePrice: 34.99 EUR
 inStock: true
+prodname: JACK & JONES Jorart Muller Sweat Hood  Capucha para Hombre  Gris Medium  Talla del Fabricante: 
 ---
 
 Tienes [JACK & JONES Jorart Muller Sweat Hood  Capucha para Hombre  Gris Medium  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNPSD3M/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 17.49 EUR (original: 34.99 EUR) en el siguiente enlace!

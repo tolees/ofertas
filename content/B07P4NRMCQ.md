@@ -10,8 +10,11 @@ author: ring
 slug: B07P4NRMCQ
 description:
 actualPrice: 88.99 EUR
+currency: EUR
+price: 88.99
 comparePrice: 139.27 EUR
 inStock: true
+prodname: Invicta Reloj de Pulsera 29394
 ---
 
 Está [Invicta Reloj de Pulsera 29394](https://www.amazon.es/dp/B07P4NRMCQ/?tag=tolees-21) con 36.10 de descuento por 88.99 EUR (original: 139.27 EUR) en el siguiente enlace!

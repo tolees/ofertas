@@ -10,8 +10,11 @@ author: ring
 slug: B08K4CTQL7
 description:
 actualPrice: 5.44 EUR
+currency: EUR
+price: 5.44
 comparePrice: 9.95 EUR
 inStock: true
+prodname: Warner Bros. Interactive Spain - Set de papelería LEGO  Nintendo Switch 
 ---
 
 Ahora mismo tienes [Warner Bros. Interactive Spain - Set de papelería LEGO  Nintendo Switch ](https://www.amazon.es/dp/B08K4CTQL7/?tag=tolees-21) a 5.44 EUR (original: 9.95 EUR) (45.33 %  de descuento) en el siguiente enlace!

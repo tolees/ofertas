@@ -10,8 +10,11 @@ author: ring
 slug: B009RJLWR0
 description:
 actualPrice: 7.2 EUR
+currency: EUR
+price: 7.2
 comparePrice: 13.49 EUR
 inStock: true
+prodname: Max Factor  Base de maquillaje  tono 50 natural  piel sensible  tono de piel medio 
 ---
 
 Está [Max Factor  Base de maquillaje  tono 50 natural  piel sensible  tono de piel medio ](https://www.amazon.es/dp/B009RJLWR0/?tag=tolees-21) con 46.63 de descuento por 7.2 EUR (original: 13.49 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B001AIMYT6
 description:
 actualPrice: 6.95 EUR
+currency: EUR
+price: 6.95
 comparePrice: 12.74 EUR
 inStock: true
+prodname: Cressi Water Shoes Escarpines  Unisex Adulto  Azul  Aquamarina   36 EU
 ---
 
 Ahora mismo tienes [Cressi Water Shoes Escarpines  Unisex Adulto  Azul  Aquamarina   36 EU](https://www.amazon.es/dp/B001AIMYT6/?tag=tolees-21) a 6.95 EUR (original: 12.74 EUR) (45.45 %  de descuento) en el siguiente enlace!

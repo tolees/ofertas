@@ -10,8 +10,11 @@ author: ring
 slug: B00I8MHK3W
 description:
 actualPrice: 71.15 EUR
+currency: EUR
+price: 71.15
 comparePrice: 108.9 EUR
 inStock: true
+prodname: Bahco BH4S20 - Gato De Botella 20T
 ---
 
 Está [Bahco BH4S20 - Gato De Botella 20T](https://www.amazon.es/dp/B00I8MHK3W/?tag=tolees-21) con 34.66 de descuento por 71.15 EUR (original: 108.9 EUR) en el siguiente enlace!

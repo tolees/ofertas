@@ -10,8 +10,11 @@ author: ring
 slug: B06X9PYF9C
 description:
 actualPrice: 8.4 EUR
+currency: EUR
+price: 8.4
 comparePrice: 28 EUR
 inStock: true
+prodname: FIND Frill Overlay Sudadera para Mujer  Rosa  Old Rose   36  Talla del Fabricante: X-Small 
 ---
 
 Está [FIND Frill Overlay Sudadera para Mujer  Rosa  Old Rose   36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B06X9PYF9C/?tag=tolees-21) con 70.00 de descuento por 8.4 EUR (original: 28 EUR) en el siguiente enlace!

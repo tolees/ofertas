@@ -10,8 +10,11 @@ author: ring
 slug: B07MN9XC6V
 description:
 actualPrice: 11.7 EUR
+currency: EUR
+price: 11.7
 comparePrice: 25 EUR
 inStock: true
+prodname: The North Face Flex Tank Top  Mujer  Azul  Dazzling Blue   L
 ---
 
 Ahora mismo tienes [The North Face Flex Tank Top  Mujer  Azul  Dazzling Blue   L](https://www.amazon.es/dp/B07MN9XC6V/?tag=tolees-21) a 11.7 EUR (original: 25 EUR) (53.20 %  de descuento) en el siguiente enlace!

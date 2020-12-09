@@ -10,8 +10,11 @@ author: ring
 slug: B012NOWNZ0
 description:
 actualPrice: 33.95 EUR
+currency: EUR
+price: 33.95
 comparePrice: 68.0 EUR
 inStock: true
+prodname: Hugo Boss Agua de Colonia para Hombres - 50 gr/ 50 ml
 ---
 
 Está [Hugo Boss Agua de Colonia para Hombres - 50 gr/ 50 ml](https://www.amazon.es/dp/B012NOWNZ0/?tag=tolees-21) con 50.07 de descuento por 33.95 EUR (original: 68.0 EUR) en el siguiente enlace!

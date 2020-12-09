@@ -10,16 +10,17 @@ author: ring
 slug: B07DFF25XY
 description:
 actualPrice: 8.49 EUR
+currency: EUR
+price: 8.49
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Pop! Macgyver  -  Figura de Vinilo Macgyver
 ---
 
-Está [Pop! Macgyver  -  Figura de Vinilo Macgyver](https://www.amazon.es/dp/B07DFF25XY/?tag=tolees-21) con 46.77 de descuento por 8.49 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pop! Macgyver  -  Figura de Vinilo Macgyver](https://www.amazon.es/dp/B07DFF25XY/?tag=tolees-21) a 8.49 EUR (original: 15.95 EUR) (46.77 %  de descuento) en el siguiente enlace!
 
 [![Pop! Macgyver  -  Figura de Vinilo Macgy](https://images-eu.ssl-images-amazon.com/images/I/41IKXQxFzOL._SL200_.jpg)](https://www.amazon.es/dp/B07DFF25XY/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07DFF25XY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07DFF25XY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

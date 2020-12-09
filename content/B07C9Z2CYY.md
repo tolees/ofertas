@@ -10,8 +10,11 @@ author: ring
 slug: B07C9Z2CYY
 description:
 actualPrice: 15.89 EUR
+currency: EUR
+price: 15.89
 comparePrice: 28.87 EUR
 inStock: true
+prodname: OCYCLONE Fundas Samsung Galaxy S9 Plus Púrpura Purpurina Brillante Fundas Galaxy S9 Plus para Mujer con Glitter Diamante Anillo Ultrafina Soft Funda Protector Samsung Galaxy S9 Plus Púrpura
 ---
 
 Ahora mismo tienes [OCYCLONE Fundas Samsung Galaxy S9 Plus Púrpura Purpurina Brillante Fundas Galaxy S9 Plus para Mujer con Glitter Diamante Anillo Ultrafina Soft Funda Protector Samsung Galaxy S9 Plus Púrpura](https://www.amazon.es/dp/B07C9Z2CYY/?tag=tolees-21) a 15.89 EUR (original: 28.87 EUR) (44.96 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07W8NJL1M
 description:
 actualPrice: 22.51 EUR
+currency: EUR
+price: 22.51
 comparePrice: 44.99 EUR
 inStock: true
+prodname: HAWKERS X Paula ECHEVARRIA · Milady Gafas de sol  Pink · Lilac  One Size Womens
 ---
 
 Está [HAWKERS X Paula ECHEVARRIA · Milady Gafas de sol  Pink · Lilac  One Size Womens](https://www.amazon.es/dp/B07W8NJL1M/?tag=tolees-21) con 49.97 de descuento por 22.51 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07F25QHDL
 description:
 actualPrice: 25.51 EUR
+currency: EUR
+price: 25.51
 comparePrice: 59.99 EUR
 inStock: true
+prodname: K-Swiss Court Clarkson S Se  Zapatillas para Mujer  Blanco  Wht/Ultviolt/Vlt 191   38 EU
 ---
 
 Está [K-Swiss Court Clarkson S Se  Zapatillas para Mujer  Blanco  Wht/Ultviolt/Vlt 191   38 EU](https://www.amazon.es/dp/B07F25QHDL/?tag=tolees-21) con 57.48 de descuento por 25.51 EUR (original: 59.99 EUR) en el siguiente enlace!

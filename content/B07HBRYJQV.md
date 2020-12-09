@@ -10,8 +10,11 @@ author: ring
 slug: B07HBRYJQV
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 34.99 EUR
 inStock: true
+prodname: HORI - Battle Pad Peach  Nintendo Switch 
 ---
 
 Tienes [HORI - Battle Pad Peach  Nintendo Switch ](https://www.amazon.es/dp/B07HBRYJQV/?tag=tolees-21) con un 42.98 % de descuento con precio de oferta de 19.95 EUR (original: 34.99 EUR) en el siguiente enlace!

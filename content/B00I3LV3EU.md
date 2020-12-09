@@ -10,8 +10,11 @@ author: ring
 slug: B00I3LV3EU
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Sony MDR-ZX310APR - Auriculares de diadema cerrados  con micrófono  control remoto integrado   rojo
 ---
 
 Ahora mismo tienes [Sony MDR-ZX310APR - Auriculares de diadema cerrados  con micrófono  control remoto integrado   rojo](https://www.amazon.es/dp/B00I3LV3EU/?tag=tolees-21) a 19.9 EUR (original: 35.0 EUR) (43.14 %  de descuento) en el siguiente enlace!

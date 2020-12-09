@@ -10,8 +10,11 @@ author: ring
 slug: B078SGHDV8
 description:
 actualPrice: 59.5 EUR
+currency: EUR
+price: 59.5
 comparePrice: 119 EUR
 inStock: true
+prodname: Swarovski Pendientes de aro Lifelong  blanco  baño de rodio
 ---
 
 Está [Swarovski Pendientes de aro Lifelong  blanco  baño de rodio](https://www.amazon.es/dp/B078SGHDV8/?tag=tolees-21) con 50.00 de descuento por 59.5 EUR (original: 119 EUR) en el siguiente enlace!

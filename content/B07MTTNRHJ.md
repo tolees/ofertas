@@ -10,8 +10,11 @@ author: ring
 slug: B07MTTNRHJ
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Saco de dormir con cremallera y saco de compresión  ligero viaje y hoja de camping para exteriores  albergues  mochileros  picnic  aviones  trenes para evitar la suciedad  30 pulgadas x 85 pulgadas 
 ---
 
 Ahora mismo tienes [Saco de dormir con cremallera y saco de compresión  ligero viaje y hoja de camping para exteriores  albergues  mochileros  picnic  aviones  trenes para evitar la suciedad  30 pulgadas x 85 pulgadas ](https://www.amazon.es/dp/B07MTTNRHJ/?tag=tolees-21) a 17.99 EUR (original: 35.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00OSE8E0C
 description:
 actualPrice: 42.63 EUR
+currency: EUR
+price: 42.63
 comparePrice: 70 EUR
 inStock: true
+prodname: The North Face Vault Mochila  Unisex Adulto  Negro  TNF Black   Talla Única
 ---
 
 Está [The North Face Vault Mochila  Unisex Adulto  Negro  TNF Black   Talla Única](https://www.amazon.es/dp/B00OSE8E0C/?tag=tolees-21) con 39.10 de descuento por 42.63 EUR (original: 70 EUR) en el siguiente enlace!

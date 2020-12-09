@@ -10,8 +10,11 @@ author: ring
 slug: B009K4OPKS
 description:
 actualPrice: 3.99 EUR
+currency: EUR
+price: 3.99
 comparePrice: 5.65 EUR
 inStock: true
+prodname: TRESemmé - Liso Keratina - Mascarilla para cabello rebelde - 300 ml
 ---
 
 Está [TRESemmé - Liso Keratina - Mascarilla para cabello rebelde - 300 ml](https://www.amazon.es/dp/B009K4OPKS/?tag=tolees-21) con 29.38 de descuento por 3.99 EUR (original: 5.65 EUR) en el siguiente enlace!

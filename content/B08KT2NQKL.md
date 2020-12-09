@@ -10,8 +10,11 @@ author: ring
 slug: B08KT2NQKL
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 110.38 EUR
 inStock: true
+prodname: Disco Duro Externo 2 TB  Type C USB3.1 Portable HDD para PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook.  2TB Plata 
 ---
 
 Está [Disco Duro Externo 2 TB  Type C USB3.1 Portable HDD para PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook.  2TB Plata ](https://www.amazon.es/dp/B08KT2NQKL/?tag=tolees-21) con 42.03 de descuento por 63.99 EUR (original: 110.38 EUR) en el siguiente enlace!

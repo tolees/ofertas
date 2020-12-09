@@ -10,8 +10,11 @@ author: ring
 slug: B07HCPM2JJ
 description:
 actualPrice: 118.66 EUR
+currency: EUR
+price: 118.66
 comparePrice: 188.99 EUR
 inStock: true
+prodname: HyperX SAVAGE EXO SHSX100/480G - Unidad de estado sólido portátil  SSD 
 ---
 
 Ahora mismo tienes [HyperX SAVAGE EXO SHSX100/480G - Unidad de estado sólido portátil  SSD ](https://www.amazon.es/dp/B07HCPM2JJ/?tag=tolees-21) a 118.66 EUR (original: 188.99 EUR) (37.21 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PQ5PR8N
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: 1080P Cámara IP WiFi  Camara de Vigilancia Inalámbrico  Cámara Interior de Seguridad con Visión Nocturna  Detección de Movimiento  Audio de 2 Vías  Compatible con iOS  Android  Alexa
 ---
 
 Está [1080P Cámara IP WiFi  Camara de Vigilancia Inalámbrico  Cámara Interior de Seguridad con Visión Nocturna  Detección de Movimiento  Audio de 2 Vías  Compatible con iOS  Android  Alexa](https://www.amazon.es/dp/B07PQ5PR8N/?tag=tolees-21) con 29.10 de descuento por 38.99 EUR (original: 54.99 EUR) en el siguiente enlace!

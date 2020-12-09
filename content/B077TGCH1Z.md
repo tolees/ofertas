@@ -10,8 +10,11 @@ author: ring
 slug: B077TGCH1Z
 description:
 actualPrice: 13.64 EUR
+currency: EUR
+price: 13.64
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Refresh 64404  Sandalias con Punta Abierta para Mujer  Negro  Black   38 EU
 ---
 
 Ahora mismo tienes [Refresh 64404  Sandalias con Punta Abierta para Mujer  Negro  Black   38 EU](https://www.amazon.es/dp/B077TGCH1Z/?tag=tolees-21) a 13.64 EUR (original: 39.95 EUR) (65.86 %  de descuento) en el siguiente enlace!

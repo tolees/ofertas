@@ -10,8 +10,11 @@ author: ring
 slug: B07D9MZMLP
 description:
 actualPrice: 30.95 EUR
+currency: EUR
+price: 30.95
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Adidas Duramo Lite 2.0  Zapatillas de Entrenamiento para Mujer  Blanco  Footwear White/Grey/Light Granite 0   38 2/3 EU
 ---
 
 Tienes [Adidas Duramo Lite 2.0  Zapatillas de Entrenamiento para Mujer  Blanco  Footwear White/Grey/Light Granite 0   38 2/3 EU](https://www.amazon.es/dp/B07D9MZMLP/?tag=tolees-21) con un 31.15 % de descuento con precio de oferta de 30.95 EUR (original: 44.95 EUR) en el siguiente enlace!

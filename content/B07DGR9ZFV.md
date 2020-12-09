@@ -10,8 +10,11 @@ author: ring
 slug: B07DGR9ZFV
 description:
 actualPrice: 4.95 EUR
+currency: EUR
+price: 4.95
 comparePrice: 7.27 EUR
 inStock: true
+prodname: 433 MHz RF 4 canales clonación Duplicator Key Fob Un controlador de puerta de garaje eléctrico de aprendizaje a distancia IC modelo 2262 2260 1527 2240
 ---
 
 Está [433 MHz RF 4 canales clonación Duplicator Key Fob Un controlador de puerta de garaje eléctrico de aprendizaje a distancia IC modelo 2262 2260 1527 2240](https://www.amazon.es/dp/B07DGR9ZFV/?tag=tolees-21) con 31.91 de descuento por 4.95 EUR (original: 7.27 EUR) en el siguiente enlace!

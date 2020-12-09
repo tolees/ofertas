@@ -10,8 +10,11 @@ author: ring
 slug: B07QYNQLD7
 description:
 actualPrice: 9.66 EUR
+currency: EUR
+price: 9.66
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Funda para Samsung Galaxy S10 Plus  Samsung S10  flexible  silicona TPU  diseño de flores  transparente
 ---
 
 Ahora mismo tienes [Funda para Samsung Galaxy S10 Plus  Samsung S10  flexible  silicona TPU  diseño de flores  transparente](https://www.amazon.es/dp/B07QYNQLD7/?tag=tolees-21) a 9.66 EUR (original: 15.99 EUR) (39.59 %  de descuento) en el siguiente enlace!

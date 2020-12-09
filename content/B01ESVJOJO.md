@@ -10,8 +10,11 @@ author: ring
 slug: B01ESVJOJO
 description:
 actualPrice: 18.76 EUR
+currency: EUR
+price: 18.76
 comparePrice: 160 EUR
 inStock: true
+prodname: SHOE THE BEAR Emmy Fringes  Zapatillas Altas para Mujer  Beige  Taupe   39 EU
 ---
 
 Tienes [SHOE THE BEAR Emmy Fringes  Zapatillas Altas para Mujer  Beige  Taupe   39 EU](https://www.amazon.es/dp/B01ESVJOJO/?tag=tolees-21) con un 88.28 % de descuento con precio de oferta de 18.76 EUR (original: 160 EUR) en el siguiente enlace!

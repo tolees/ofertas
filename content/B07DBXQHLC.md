@@ -10,8 +10,11 @@ author: ring
 slug: B07DBXQHLC
 description:
 actualPrice: 27.1 EUR
+currency: EUR
+price: 27.1
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Puma Zeta Suede  Zapatillas Unisex Adulto  Blanco White-Glacier Gray  41 EU
 ---
 
 Tienes [Puma Zeta Suede  Zapatillas Unisex Adulto  Blanco White-Glacier Gray  41 EU](https://www.amazon.es/dp/B07DBXQHLC/?tag=tolees-21) con un 69.87 % de descuento con precio de oferta de 27.1 EUR (original: 89.95 EUR) en el siguiente enlace!

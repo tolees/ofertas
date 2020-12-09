@@ -10,8 +10,11 @@ author: ring
 slug: B073V6FYKX
 description:
 actualPrice: 27.89 EUR
+currency: EUR
+price: 27.89
 comparePrice: 52 EUR
 inStock: true
+prodname: Canterbury Cuffed Stadium Pantalón con Dobladillo  Uomo  Negro  12
 ---
 
 Tienes [Canterbury Cuffed Stadium Pantalón con Dobladillo  Uomo  Negro  12](https://www.amazon.es/dp/B073V6FYKX/?tag=tolees-21) con un 46.37 % de descuento con precio de oferta de 27.89 EUR (original: 52 EUR) en el siguiente enlace!

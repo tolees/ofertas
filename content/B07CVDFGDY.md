@@ -10,8 +10,11 @@ author: ring
 slug: B07CVDFGDY
 description:
 actualPrice: 69.98 EUR
+currency: EUR
+price: 69.98
 comparePrice: 99.98 EUR
 inStock: true
+prodname: AICOK Purificador de Aire Para el Hogar  Filtro de Aire con Filtro HEPA Verdadero  Ideal Para Fumadores  Polvo  con Luz Nocturna Opcional  Blanco
 ---
 
 Ahora mismo tienes [AICOK Purificador de Aire Para el Hogar  Filtro de Aire con Filtro HEPA Verdadero  Ideal Para Fumadores  Polvo  con Luz Nocturna Opcional  Blanco](https://www.amazon.es/dp/B07CVDFGDY/?tag=tolees-21) a 69.98 EUR (original: 99.98 EUR) (30.01 %  de descuento) en el siguiente enlace!

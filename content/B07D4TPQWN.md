@@ -10,8 +10,11 @@ author: ring
 slug: B07D4TPQWN
 description:
 actualPrice: 25.08 EUR
+currency: EUR
+price: 25.08
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Kappa Follow OC  Zapatillas Unisex Adulto  Azul  Navy/Grey 6716   45 EU
 ---
 
 Ahora mismo tienes [Kappa Follow OC  Zapatillas Unisex Adulto  Azul  Navy/Grey 6716   45 EU](https://www.amazon.es/dp/B07D4TPQWN/?tag=tolees-21) a 25.08 EUR (original: 44.95 EUR) (44.20 %  de descuento) en el siguiente enlace!

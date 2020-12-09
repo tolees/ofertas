@@ -10,8 +10,11 @@ author: ring
 slug: B01N43HANK
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 48 EUR
 inStock: true
+prodname: SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno para Mujer Verde ES:100E  EU 85E 
 ---
 
 Tienes [SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno para Mujer Verde ES:100E  EU 85E ](https://www.amazon.es/dp/B01N43HANK/?tag=tolees-21) con un 56.27 % de descuento con precio de oferta de 20.99 EUR (original: 48 EUR) en el siguiente enlace!

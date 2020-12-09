@@ -10,8 +10,11 @@ author: ring
 slug: B01FILDSRM
 description:
 actualPrice: 8.5 EUR
+currency: EUR
+price: 8.5
 comparePrice: 35.01 EUR
 inStock: true
+prodname: Sublevel H7000N10704A  Camisa para Hombre  Blanco  White  L
 ---
 
 Está [Sublevel H7000N10704A  Camisa para Hombre  Blanco  White  L](https://www.amazon.es/dp/B01FILDSRM/?tag=tolees-21) con 75.72 de descuento por 8.5 EUR (original: 35.01 EUR) en el siguiente enlace!

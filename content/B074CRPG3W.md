@@ -10,8 +10,11 @@ author: ring
 slug: B074CRPG3W
 description:
 actualPrice: 167.96 EUR
+currency: EUR
+price: 167.96
 comparePrice: 270.0 EUR
 inStock: true
+prodname: Orient Reloj Analógico para Unisex Adultos de Automático con Correa en Cuero FAC0000AB0
 ---
 
 Tienes [Orient Reloj Analógico para Unisex Adultos de Automático con Correa en Cuero FAC0000AB0](https://www.amazon.es/dp/B074CRPG3W/?tag=tolees-21) con un 37.79 % de descuento con precio de oferta de 167.96 EUR (original: 270.0 EUR) en el siguiente enlace!

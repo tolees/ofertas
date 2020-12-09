@@ -10,8 +10,11 @@ author: ring
 slug: B07KTM6QH6
 description:
 actualPrice: 82.53 EUR
+currency: EUR
+price: 82.53
 comparePrice: 207 EUR
 inStock: true
+prodname: Versace Jeans Couture Shoes  Zapatillas de Gimnasia para Mujer  Plateado  Argento 900   40 EU
 ---
 
 Está [Versace Jeans Couture Shoes  Zapatillas de Gimnasia para Mujer  Plateado  Argento 900   40 EU](https://www.amazon.es/dp/B07KTM6QH6/?tag=tolees-21) con 60.13 de descuento por 82.53 EUR (original: 207 EUR) en el siguiente enlace!

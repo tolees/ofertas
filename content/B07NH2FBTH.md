@@ -10,8 +10,11 @@ author: ring
 slug: B07NH2FBTH
 description:
 actualPrice: 11.51 EUR
+currency: EUR
+price: 11.51
 comparePrice: 21.33 EUR
 inStock: true
+prodname: Rescue Runts 18137 Babies Spaniel
 ---
 
 Ahora mismo tienes [Rescue Runts 18137 Babies Spaniel](https://www.amazon.es/dp/B07NH2FBTH/?tag=tolees-21) a 11.51 EUR (original: 21.33 EUR) (46.04 %  de descuento) en el siguiente enlace!

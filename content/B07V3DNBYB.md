@@ -10,8 +10,11 @@ author: ring
 slug: B07V3DNBYB
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 37.96 EUR
 inStock: true
+prodname: Vampyr
 ---
 
 Tienes [Vampyr](https://www.amazon.es/dp/B07V3DNBYB/?tag=tolees-21) con un 34.40 % de descuento con precio de oferta de 24.9 EUR (original: 37.96 EUR) en el siguiente enlace!

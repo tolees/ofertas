@@ -10,8 +10,11 @@ author: ring
 slug: B07NGGR9J4
 description:
 actualPrice: 29.5 EUR
+currency: EUR
+price: 29.5
 comparePrice: 50.37 EUR
 inStock: true
+prodname: Bra Premiere - Lote de sartenes 20 y 24 cm de aluminio fundido con antiadherente  apta para todo tipo de cocinas incluso inducción  incluye un salvamanteles Bra Safe rojo
 ---
 
 Está [Bra Premiere - Lote de sartenes 20 y 24 cm de aluminio fundido con antiadherente  apta para todo tipo de cocinas incluso inducción  incluye un salvamanteles Bra Safe rojo](https://www.amazon.es/dp/B07NGGR9J4/?tag=tolees-21) con 41.43 de descuento por 29.5 EUR (original: 50.37 EUR) en el siguiente enlace!

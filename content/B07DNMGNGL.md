@@ -10,8 +10,11 @@ author: ring
 slug: B07DNMGNGL
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Umbro Set de 3 boxers multicolor-100% algodón-color negro x2 /rojo 1  Bóxer  PACK 03 T041-1  S 5 para Hombre
 ---
 
 Ahora mismo tienes [Umbro Set de 3 boxers multicolor-100% algodón-color negro x2 /rojo 1  Bóxer  PACK 03 T041-1  S 5 para Hombre](https://www.amazon.es/dp/B07DNMGNGL/?tag=tolees-21) a 14.9 EUR (original: 39.99 EUR) (62.74 %  de descuento) en el siguiente enlace!

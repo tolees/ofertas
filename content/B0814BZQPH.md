@@ -10,8 +10,11 @@ author: ring
 slug: B0814BZQPH
 description:
 actualPrice: 97.99 EUR
+currency: EUR
+price: 97.99
 comparePrice: 239.99 EUR
 inStock: true
+prodname: Columbia Carson Pass IC Jacket Chaqueta Interchange con Forro extraíble  Mujer  elk  M
 ---
 
 Ahora mismo tienes [Columbia Carson Pass IC Jacket Chaqueta Interchange con Forro extraíble  Mujer  elk  M](https://www.amazon.es/dp/B0814BZQPH/?tag=tolees-21) a 97.99 EUR (original: 239.99 EUR) (59.17 %  de descuento) en el siguiente enlace!

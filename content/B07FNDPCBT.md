@@ -10,8 +10,11 @@ author: ring
 slug: B07FNDPCBT
 description:
 actualPrice: 9.84 EUR
+currency: EUR
+price: 9.84
 comparePrice: 39.99 EUR
 inStock: true
+prodname: edc by Esprit 108cc2f006  Camisa Hombre  Verde  Bottle Green 385   Large
 ---
 
 Tienes [edc by Esprit 108cc2f006  Camisa Hombre  Verde  Bottle Green 385   Large](https://www.amazon.es/dp/B07FNDPCBT/?tag=tolees-21) con un 75.39 % de descuento con precio de oferta de 9.84 EUR (original: 39.99 EUR) en el siguiente enlace!

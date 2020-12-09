@@ -10,8 +10,11 @@ author: ring
 slug: B07WSV1XSN
 description:
 actualPrice: 15.95 EUR
+currency: EUR
+price: 15.95
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Disney Princess - Paquete con Princesas Cenicienta & Mulan  Hasbro E7414ES0 
 ---
 
 Está [Disney Princess - Paquete con Princesas Cenicienta & Mulan  Hasbro E7414ES0 ](https://www.amazon.es/dp/B07WSV1XSN/?tag=tolees-21) con 54.42 de descuento por 15.95 EUR (original: 34.99 EUR) en el siguiente enlace!

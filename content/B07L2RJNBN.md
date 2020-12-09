@@ -10,8 +10,11 @@ author: ring
 slug: B07L2RJNBN
 description:
 actualPrice: 27.49 EUR
+currency: EUR
+price: 27.49
 comparePrice: 64.99 EUR
 inStock: true
+prodname: Columbia Silver Ridge II Pantalones Cargo  Hombre  Gris  Grill   W32/L34
 ---
 
 Ahora mismo tienes [Columbia Silver Ridge II Pantalones Cargo  Hombre  Gris  Grill   W32/L34](https://www.amazon.es/dp/B07L2RJNBN/?tag=tolees-21) a 27.49 EUR (original: 64.99 EUR) (57.70 %  de descuento) en el siguiente enlace!

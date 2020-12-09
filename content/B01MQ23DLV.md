@@ -10,8 +10,11 @@ author: ring
 slug: B01MQ23DLV
 description:
 actualPrice: 18.56 EUR
+currency: EUR
+price: 18.56
 comparePrice: 36 EUR
 inStock: true
+prodname: Varsbaby Mujer Transparente Push up Sujetador Conjuntos de lencería  ES:100C = EU:85B  Beige 
 ---
 
 Ahora mismo tienes [Varsbaby Mujer Transparente Push up Sujetador Conjuntos de lencería  ES:100C = EU:85B  Beige ](https://www.amazon.es/dp/B01MQ23DLV/?tag=tolees-21) a 18.56 EUR (original: 36 EUR) (48.44 %  de descuento) en el siguiente enlace!

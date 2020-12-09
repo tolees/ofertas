@@ -10,8 +10,11 @@ author: ring
 slug: B07FCGNV55
 description:
 actualPrice: 64.34 EUR
+currency: EUR
+price: 64.34
 comparePrice: 125 EUR
 inStock: true
+prodname: Guess - Britta  Bolsos de mano Mujer  Rosa  Nude/Nud   28.5x22.5x12 cm  W x H L 
 ---
 
 Está [Guess - Britta  Bolsos de mano Mujer  Rosa  Nude/Nud   28.5x22.5x12 cm  W x H L ](https://www.amazon.es/dp/B07FCGNV55/?tag=tolees-21) con 48.53 de descuento por 64.34 EUR (original: 125 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B078NVYQNC
 description:
 actualPrice: 7.01 EUR
+currency: EUR
+price: 7.01
 comparePrice: 12.95 EUR
 inStock: true
+prodname: SKYEE [3 Unidades Adaptador USB C a USB 3.0 con OTG  Aluminio Conector Adaptador USB Tipo c para MacBook Pro 2017/2016  ChromeBook Pixel  Samsung Galaxy S9  Xiaomi Mi 6 y Otros
 ---
 
 Está [SKYEE [3 Unidades Adaptador USB C a USB 3.0 con OTG  Aluminio Conector Adaptador USB Tipo c para MacBook Pro 2017/2016  ChromeBook Pixel  Samsung Galaxy S9  Xiaomi Mi 6 y Otros](https://www.amazon.es/dp/B078NVYQNC/?tag=tolees-21) con 45.87 de descuento por 7.01 EUR (original: 12.95 EUR) en el siguiente enlace!

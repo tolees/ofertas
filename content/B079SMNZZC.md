@@ -10,8 +10,11 @@ author: ring
 slug: B079SMNZZC
 description:
 actualPrice: 36.53 EUR
+currency: EUR
+price: 36.53
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Desigual kentya Vaqueros Skinny    Denim Dark Blue 5008   W29 para Mujer
 ---
 
 Ahora mismo tienes [Desigual kentya Vaqueros Skinny    Denim Dark Blue 5008   W29 para Mujer](https://www.amazon.es/dp/B079SMNZZC/?tag=tolees-21) a 36.53 EUR (original: 69.95 EUR) (47.78 %  de descuento) en el siguiente enlace!

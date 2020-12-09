@@ -10,8 +10,11 @@ author: ring
 slug: B01M16WUAV
 description:
 actualPrice: 40.61 EUR
+currency: EUR
+price: 40.61
 comparePrice: 70 EUR
 inStock: true
+prodname: Under Armour UA CF Force 3.0 TF  Zapatillas de Fútbol para Hombre  Negro  Black   41 EU
 ---
 
 Está [Under Armour UA CF Force 3.0 TF  Zapatillas de Fútbol para Hombre  Negro  Black   41 EU](https://www.amazon.es/dp/B01M16WUAV/?tag=tolees-21) con 41.99 de descuento por 40.61 EUR (original: 70 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MN9DFN4
 description:
 actualPrice: 13.31 EUR
+currency: EUR
+price: 13.31
 comparePrice: 25.99 EUR
 inStock: true
+prodname: MTNG Attitude 84229  Zapatillas para Hombre  Azul  Suede Mesh Marino C19503   43 EU
 ---
 
 Está [MTNG Attitude 84229  Zapatillas para Hombre  Azul  Suede Mesh Marino C19503   43 EU](https://www.amazon.es/dp/B07MN9DFN4/?tag=tolees-21) con 48.79 de descuento por 13.31 EUR (original: 25.99 EUR) en el siguiente enlace!

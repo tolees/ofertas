@@ -10,8 +10,11 @@ author: ring
 slug: B07DNZBY7W
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 15.9 EUR
 inStock: true
+prodname: Motorola Dect C1001 Lite
 ---
 
 Tienes [Motorola Dect C1001 Lite](https://www.amazon.es/dp/B07DNZBY7W/?tag=tolees-21) con un 37.74 % de descuento con precio de oferta de 9.9 EUR (original: 15.9 EUR) en el siguiente enlace!

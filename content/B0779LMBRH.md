@@ -10,8 +10,11 @@ author: ring
 slug: B0779LMBRH
 description:
 actualPrice: 14.57 EUR
+currency: EUR
+price: 14.57
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Pepe Jeans Brent PL502821  Camiseta para Mujer  Gris  Grey Marl 933  Small
 ---
 
 Está [Pepe Jeans Brent PL502821  Camiseta para Mujer  Gris  Grey Marl 933  Small](https://www.amazon.es/dp/B0779LMBRH/?tag=tolees-21) con 51.27 de descuento por 14.57 EUR (original: 29.9 EUR) en el siguiente enlace!

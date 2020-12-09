@@ -10,8 +10,11 @@ author: ring
 slug: B007NYEHI2
 description:
 actualPrice: 299.99 EUR
+currency: EUR
+price: 299.99
 comparePrice: 499.0 EUR
 inStock: true
+prodname: Zwilling Prime - Batería de cocina de 5 piezas  Acero Inoxidable  Tapas de Cristal  Apta para Todo Tipo de Cocinas
 ---
 
 Está [Zwilling Prime - Batería de cocina de 5 piezas  Acero Inoxidable  Tapas de Cristal  Apta para Todo Tipo de Cocinas](https://www.amazon.es/dp/B007NYEHI2/?tag=tolees-21) con 39.88 de descuento por 299.99 EUR (original: 499.0 EUR) en el siguiente enlace!

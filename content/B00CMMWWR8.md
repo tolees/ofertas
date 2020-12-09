@@ -10,8 +10,11 @@ author: ring
 slug: B00CMMWWR8
 description:
 actualPrice: 4.23 EUR
+currency: EUR
+price: 4.23
 comparePrice: 9.55 EUR
 inStock: true
+prodname: Jovi- Maquillaje en Barra HIPO alergénico  6 Sticks  Unica  8412027028530 
 ---
 
 Está [Jovi- Maquillaje en Barra HIPO alergénico  6 Sticks  Unica  8412027028530 ](https://www.amazon.es/dp/B00CMMWWR8/?tag=tolees-21) con 55.71 de descuento por 4.23 EUR (original: 9.55 EUR) en el siguiente enlace!

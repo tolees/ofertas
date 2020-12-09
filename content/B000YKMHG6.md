@@ -10,8 +10,11 @@ author: ring
 slug: B000YKMHG6
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 17.9 EUR
 inStock: true
+prodname: Havaianas Top  Chanclas Unisex Adulto  Negro  Black   43/44 EU
 ---
 
 Tienes [Havaianas Top  Chanclas Unisex Adulto  Negro  Black   43/44 EU](https://www.amazon.es/dp/B000YKMHG6/?tag=tolees-21) con un 33.02 % de descuento con precio de oferta de 11.99 EUR (original: 17.9 EUR) en el siguiente enlace!

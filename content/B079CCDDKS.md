@@ -10,8 +10,11 @@ author: ring
 slug: B079CCDDKS
 description:
 actualPrice: 9.45 EUR
+currency: EUR
+price: 9.45
 comparePrice: 12.99 EUR
 inStock: true
+prodname: JACK & JONES Jjejeans Print tee SS Crew Neck Noos  Camiseta para Hombre  Azul  Navy Blazer Detail: Slim Fit   X-Small
 ---
 
 Está [JACK & JONES Jjejeans Print tee SS Crew Neck Noos  Camiseta para Hombre  Azul  Navy Blazer Detail: Slim Fit   X-Small](https://www.amazon.es/dp/B079CCDDKS/?tag=tolees-21) con 27.25 de descuento por 9.45 EUR (original: 12.99 EUR) en el siguiente enlace!

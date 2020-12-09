@@ -10,8 +10,11 @@ author: ring
 slug: B07SH6LGJJ
 description:
 actualPrice: 15.29 EUR
+currency: EUR
+price: 15.29
 comparePrice: 21.99 EUR
 inStock: true
+prodname: Gerutek Funda Anticaída para Samsung Galaxy Tab A 10.1" 2019  SM-T510/SM-T515   Carcasa Rugosa con Soporte Rotación  Correa de Mano/Hombro  Funda Antichoque para Galaxy Tab A Tablet 10.1" 2019  Negro
 ---
 
 Ahora mismo tienes [Gerutek Funda Anticaída para Samsung Galaxy Tab A 10.1" 2019  SM-T510/SM-T515   Carcasa Rugosa con Soporte Rotación  Correa de Mano/Hombro  Funda Antichoque para Galaxy Tab A Tablet 10.1" 2019  Negro](https://www.amazon.es/dp/B07SH6LGJJ/?tag=tolees-21) a 15.29 EUR (original: 21.99 EUR) (30.47 %  de descuento) en el siguiente enlace!

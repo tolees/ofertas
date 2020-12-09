@@ -10,8 +10,11 @@ author: ring
 slug: B00MEP27FA
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Clatronic RK 3566 Arrocera  capacidad 3 litros para 2 5 kg arroz hervido  700 W  2000 W  2.5 litros  Edelstahl  Blanco
 ---
 
 Está [Clatronic RK 3566 Arrocera  capacidad 3 litros para 2 5 kg arroz hervido  700 W  2000 W  2.5 litros  Edelstahl  Blanco](https://www.amazon.es/dp/B00MEP27FA/?tag=tolees-21) con 25.06 de descuento por 29.9 EUR (original: 39.9 EUR) en el siguiente enlace!

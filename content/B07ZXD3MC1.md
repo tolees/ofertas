@@ -10,8 +10,11 @@ author: ring
 slug: B07ZXD3MC1
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: MÁS ESTILOS DISPONIBLES - Cesta de lavandería plegable grande de 72L - Cesta de almacenamiento de lona gruesa de primera calidad - Incluye varillas de soporte  base sólida y tapa superior
 ---
 
 Está [MÁS ESTILOS DISPONIBLES - Cesta de lavandería plegable grande de 72L - Cesta de almacenamiento de lona gruesa de primera calidad - Incluye varillas de soporte  base sólida y tapa superior](https://www.amazon.es/dp/B07ZXD3MC1/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

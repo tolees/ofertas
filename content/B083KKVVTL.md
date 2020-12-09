@@ -10,8 +10,11 @@ author: ring
 slug: B083KKVVTL
 description:
 actualPrice: 396.0 EUR
+currency: EUR
+price: 396.0
 comparePrice: 609.0 EUR
 inStock: true
+prodname: Samsung Galaxy Note 10 Lite - Smartphone de 6.7" FHD+  4G  Dual SIM  6GB RAM  128GB ROM  cámara trasera 12MP W +12 MP UW +12MP  cámara frontal 32MP  Octacore Exynos 9810  Aura Red [Versión española]
 ---
 
 Está [Samsung Galaxy Note 10 Lite - Smartphone de 6.7" FHD+  4G  Dual SIM  6GB RAM  128GB ROM  cámara trasera 12MP W +12 MP UW +12MP  cámara frontal 32MP  Octacore Exynos 9810  Aura Red [Versión española]](https://www.amazon.es/dp/B083KKVVTL/?tag=tolees-21) con 34.98 de descuento por 396.0 EUR (original: 609.0 EUR) en el siguiente enlace!

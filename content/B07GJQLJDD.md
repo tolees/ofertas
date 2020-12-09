@@ -10,8 +10,11 @@ author: ring
 slug: B07GJQLJDD
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: SUAOKI 20A Controlador de Carga Solar  con 12V/24V interruptor automático  Inteligente regulador de carga de seguridad de batería panel solar  multiprotección  5V USB dual  LCD Pantalla
 ---
 
 Tienes [SUAOKI 20A Controlador de Carga Solar  con 12V/24V interruptor automático  Inteligente regulador de carga de seguridad de batería panel solar  multiprotección  5V USB dual  LCD Pantalla](https://www.amazon.es/dp/B07GJQLJDD/?tag=tolees-21) con un 45.01 % de descuento con precio de oferta de 21.99 EUR (original: 39.99 EUR) en el siguiente enlace!

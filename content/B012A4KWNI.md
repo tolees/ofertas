@@ -10,8 +10,11 @@ author: ring
 slug: B012A4KWNI
 description:
 actualPrice: 35.45 EUR
+currency: EUR
+price: 35.45
 comparePrice: 64.95 EUR
 inStock: true
+prodname: SkechersEqualizer Double Play - Zapatillas De Deporte Para Exterior hombre  Gris  Ccor   48.5 EU
 ---
 
 Tienes [SkechersEqualizer Double Play - Zapatillas De Deporte Para Exterior hombre  Gris  Ccor   48.5 EU](https://www.amazon.es/dp/B012A4KWNI/?tag=tolees-21) con un 45.42 % de descuento con precio de oferta de 35.45 EUR (original: 64.95 EUR) en el siguiente enlace!

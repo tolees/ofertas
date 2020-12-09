@@ -10,8 +10,11 @@ author: ring
 slug: B01EHQ7FRI
 description:
 actualPrice: 7.16 EUR
+currency: EUR
+price: 7.16
 comparePrice: 17.9 EUR
 inStock: true
+prodname: Lékué Helado colapsable Surtido 4 un  Silicona  Unidades
 ---
 
 Tienes [Lékué Helado colapsable Surtido 4 un  Silicona  Unidades](https://www.amazon.es/dp/B01EHQ7FRI/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 7.16 EUR (original: 17.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07GP39ZBH
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Android TV Box-M8R TV Box Quad Core 2GB RAM+8GB ROM/Dual-WiFi/BT4.0/4K H.265 Smart TV Box
 ---
 
 Ahora mismo tienes [Android TV Box-M8R TV Box Quad Core 2GB RAM+8GB ROM/Dual-WiFi/BT4.0/4K H.265 Smart TV Box](https://www.amazon.es/dp/B07GP39ZBH/?tag=tolees-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B072PX2LYM
 description:
 actualPrice: 32.23 EUR
+currency: EUR
+price: 32.23
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Straight Tapered Jeans  Azul  medium aged 8595-071   30W / 36L para Hombre
 ---
 
 Está [G-STAR RAW 3301 Straight Tapered Jeans  Azul  medium aged 8595-071   30W / 36L para Hombre](https://www.amazon.es/dp/B072PX2LYM/?tag=tolees-21) con 67.75 de descuento por 32.23 EUR (original: 99.95 EUR) en el siguiente enlace!

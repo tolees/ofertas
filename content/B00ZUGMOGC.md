@@ -10,8 +10,11 @@ author: ring
 slug: B00ZUGMOGC
 description:
 actualPrice: 10.47 EUR
+currency: EUR
+price: 10.47
 comparePrice: 14.95 EUR
 inStock: true
+prodname: Champion Socken Crew Socks Calcetines de Deporte  Blanco  35-38 Unisex
 ---
 
 Tienes [Champion Socken Crew Socks Calcetines de Deporte  Blanco  35-38 Unisex](https://www.amazon.es/dp/B00ZUGMOGC/?tag=tolees-21) con un 29.97 % de descuento con precio de oferta de 10.47 EUR (original: 14.95 EUR) en el siguiente enlace!

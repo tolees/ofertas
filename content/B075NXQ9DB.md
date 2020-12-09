@@ -10,8 +10,11 @@ author: ring
 slug: B075NXQ9DB
 description:
 actualPrice: 11.2 EUR
+currency: EUR
+price: 11.2
 comparePrice: 15.95 EUR
 inStock: true
+prodname: GORE WEAR C3 Calcetines para ciclismo unisex  Talla: 35-37  Color: rojo/negro
 ---
 
 Está [GORE WEAR C3 Calcetines para ciclismo unisex  Talla: 35-37  Color: rojo/negro](https://www.amazon.es/dp/B075NXQ9DB/?tag=tolees-21) con 29.78 de descuento por 11.2 EUR (original: 15.95 EUR) en el siguiente enlace!

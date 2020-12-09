@@ -10,8 +10,11 @@ author: ring
 slug: B074KDHMKJ
 description:
 actualPrice: 119.24 EUR
+currency: EUR
+price: 119.24
 comparePrice: 158.99 EUR
 inStock: true
+prodname: AmazonBasics - Caja fuerte ignífuga  35 l
 ---
 
 Está [AmazonBasics - Caja fuerte ignífuga  35 l](https://www.amazon.es/dp/B074KDHMKJ/?tag=tolees-21) con 25.00 de descuento por 119.24 EUR (original: 158.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DHSN1WS
 description:
 actualPrice: 30.07 EUR
+currency: EUR
+price: 30.07
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Quiksilver Mission Block Chaqueta de Nieve  Niños  Negro  tannenbaum   8/S
 ---
 
 Tienes [Quiksilver Mission Block Chaqueta de Nieve  Niños  Negro  tannenbaum   8/S](https://www.amazon.es/dp/B07DHSN1WS/?tag=tolees-21) con un 76.87 % de descuento con precio de oferta de 30.07 EUR (original: 129.99 EUR) en el siguiente enlace!

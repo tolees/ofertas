@@ -10,8 +10,11 @@ author: ring
 slug: B07BJGBS9L
 description:
 actualPrice: 3.75 EUR
+currency: EUR
+price: 3.75
 comparePrice: 14.97 EUR
 inStock: true
+prodname: Dove Loción Aguacate - 3 Paquetes de 400 ml - Total: 1200 ml
 ---
 
 Ahora mismo tienes [Dove Loción Aguacate - 3 Paquetes de 400 ml - Total: 1200 ml](https://www.amazon.es/dp/B07BJGBS9L/?tag=tolees-21) a 3.75 EUR (original: 14.97 EUR) (74.95 %  de descuento) en el siguiente enlace!

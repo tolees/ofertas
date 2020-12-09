@@ -10,8 +10,11 @@ author: ring
 slug: B000KJKGIC
 description:
 actualPrice: 16.46 EUR
+currency: EUR
+price: 16.46
 comparePrice: 30.1 EUR
 inStock: true
+prodname: Apli 1294 - Etiquetas  100 hojas
 ---
 
 Está [Apli 1294 - Etiquetas  100 hojas](https://www.amazon.es/dp/B000KJKGIC/?tag=tolees-21) con 45.32 de descuento por 16.46 EUR (original: 30.1 EUR) en el siguiente enlace!

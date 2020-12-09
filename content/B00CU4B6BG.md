@@ -10,8 +10,11 @@ author: ring
 slug: B00CU4B6BG
 description:
 actualPrice: 27.1 EUR
+currency: EUR
+price: 27.1
 comparePrice: 39.21 EUR
 inStock: true
+prodname: BE NOMAD SE970B - Mochila para pícnic  aislamiento térmico  para 4 personas  talla única rojo/gris
 ---
 
 Está [BE NOMAD SE970B - Mochila para pícnic  aislamiento térmico  para 4 personas  talla única rojo/gris](https://www.amazon.es/dp/B00CU4B6BG/?tag=tolees-21) con 30.88 de descuento por 27.1 EUR (original: 39.21 EUR) en el siguiente enlace!

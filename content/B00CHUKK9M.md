@@ -10,8 +10,11 @@ author: ring
 slug: B00CHUKK9M
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: caseable - Funda para Kindle y Kindle Paperwhite  diseño de París
 ---
 
 Ahora mismo tienes [caseable - Funda para Kindle y Kindle Paperwhite  diseño de París](https://www.amazon.es/dp/B00CHUKK9M/?tag=tolees-21) a 24.99 EUR (original: 39.99 EUR) (37.51 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01IH74CZQ
 description:
 actualPrice: 7.79 EUR
+currency: EUR
+price: 7.79
 comparePrice: 10.51 EUR
 inStock: true
+prodname: Monix M281703 M281703-Cafetera Italiana  3 Tazas  Color Fresa  Aluminio  9 cm
 ---
 
 Está [Monix M281703 M281703-Cafetera Italiana  3 Tazas  Color Fresa  Aluminio  9 cm](https://www.amazon.es/dp/B01IH74CZQ/?tag=tolees-21) con 25.88 de descuento por 7.79 EUR (original: 10.51 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B004CCRY4W
 description:
 actualPrice: 51.69 EUR
+currency: EUR
+price: 51.69
 comparePrice: 95 EUR
 inStock: true
+prodname: Leatherman LTG8602251N - Cortador
 ---
 
 Ahora mismo tienes [Leatherman LTG8602251N - Cortador](https://www.amazon.es/dp/B004CCRY4W/?tag=tolees-21) a 51.69 EUR (original: 95 EUR) (45.59 %  de descuento) en el siguiente enlace!

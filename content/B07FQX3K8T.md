@@ -10,8 +10,11 @@ author: ring
 slug: B07FQX3K8T
 description:
 actualPrice: 38.19 EUR
+currency: EUR
+price: 38.19
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Clarks Step Allenasun  Zapatillas para Mujer  Negro  Black-   37 EU
 ---
 
 Tienes [Clarks Step Allenasun  Zapatillas para Mujer  Negro  Black-   37 EU](https://www.amazon.es/dp/B07FQX3K8T/?tag=tolees-21) con un 45.40 % de descuento con precio de oferta de 38.19 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07Q11SYWY
 description:
 actualPrice: 133.96 EUR
+currency: EUR
+price: 133.96
 comparePrice: 189.0 EUR
 inStock: true
+prodname: Foppapedretti Dinamyk 9-36  Silla de Coche Grupo 1/2/3  Red
 ---
 
 Está [Foppapedretti Dinamyk 9-36  Silla de Coche Grupo 1/2/3  Red](https://www.amazon.es/dp/B07Q11SYWY/?tag=tolees-21) con 29.12 de descuento por 133.96 EUR (original: 189.0 EUR) en el siguiente enlace!

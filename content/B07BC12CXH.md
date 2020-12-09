@@ -10,8 +10,11 @@ author: ring
 slug: B07BC12CXH
 description:
 actualPrice: 15.25 EUR
+currency: EUR
+price: 15.25
 comparePrice: 39.99 EUR
 inStock: true
+prodname: ESPRIT Collection 998eo1k806 Camisa Manga Larga  Azul  Navy 400   Large para Mujer
 ---
 
 Está [ESPRIT Collection 998eo1k806 Camisa Manga Larga  Azul  Navy 400   Large para Mujer](https://www.amazon.es/dp/B07BC12CXH/?tag=tolees-21) con 61.87 de descuento por 15.25 EUR (original: 39.99 EUR) en el siguiente enlace!

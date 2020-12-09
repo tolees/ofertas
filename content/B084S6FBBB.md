@@ -10,8 +10,11 @@ author: ring
 slug: B084S6FBBB
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Tommee Tippee AKA0061 Grofriend Recargable USB  con Sensor de Llanto  Pip el Panda
 ---
 
 Ahora mismo tienes [Tommee Tippee AKA0061 Grofriend Recargable USB  con Sensor de Llanto  Pip el Panda](https://www.amazon.es/dp/B084S6FBBB/?tag=tolees-21) a 26.99 EUR (original: 44.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

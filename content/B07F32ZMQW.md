@@ -10,8 +10,11 @@ author: ring
 slug: B07F32ZMQW
 description:
 actualPrice: 32.45 EUR
+currency: EUR
+price: 32.45
 comparePrice: 50 EUR
 inStock: true
+prodname: Salomon XA Short  Mujer  Negro  XL
 ---
 
 Ahora mismo tienes [Salomon XA Short  Mujer  Negro  XL](https://www.amazon.es/dp/B07F32ZMQW/?tag=tolees-21) a 32.45 EUR (original: 50 EUR) (35.10 %  de descuento) en el siguiente enlace!

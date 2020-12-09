@@ -10,8 +10,11 @@ author: ring
 slug: B01DWF2LB0
 description:
 actualPrice: 19.96 EUR
+currency: EUR
+price: 19.96
 comparePrice: 59.99 EUR
 inStock: true
+prodname: ONLY onlKATE SHORT CANVAS PARKA OTW  Chaqueta Mujer  Azul  Blue Graphite   34  Talla del fabricante: X-Small 
 ---
 
 Ahora mismo tienes [ONLY onlKATE SHORT CANVAS PARKA OTW  Chaqueta Mujer  Azul  Blue Graphite   34  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B01DWF2LB0/?tag=tolees-21) a 19.96 EUR (original: 59.99 EUR) (66.73 %  de descuento) en el siguiente enlace!

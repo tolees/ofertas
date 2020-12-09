@@ -10,8 +10,11 @@ author: ring
 slug: B07KKRRDR6
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 55 EUR
 inStock: true
+prodname: Naf Naf Kenr14d Vestido  Azul  Bleu Marine 567   Small para Mujer
 ---
 
 Ahora mismo tienes [Naf Naf Kenr14d Vestido  Azul  Bleu Marine 567   Small para Mujer](https://www.amazon.es/dp/B07KKRRDR6/?tag=tolees-21) a 34.95 EUR (original: 55 EUR) (36.45 %  de descuento) en el siguiente enlace!

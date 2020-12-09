@@ -10,8 +10,11 @@ author: ring
 slug: B007Y9XFHU
 description:
 actualPrice: 19.6 EUR
+currency: EUR
+price: 19.6
 comparePrice: 30 EUR
 inStock: true
+prodname: Nike Pico 4 Zapatillas para niño  32 EU  1Y US   Blanco / Azul marino
 ---
 
 Tienes [Nike Pico 4 Zapatillas para niño  32 EU  1Y US   Blanco / Azul marino](https://www.amazon.es/dp/B007Y9XFHU/?tag=tolees-21) con un 34.67 % de descuento con precio de oferta de 19.6 EUR (original: 30 EUR) en el siguiente enlace!

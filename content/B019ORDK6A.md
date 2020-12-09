@@ -10,8 +10,11 @@ author: ring
 slug: B019ORDK6A
 description:
 actualPrice: 5.53 EUR
+currency: EUR
+price: 5.53
 comparePrice: 25.48 EUR
 inStock: true
+prodname: L Oréal  Maquillaje en polvo - 15 gr.
 ---
 
 Ahora mismo tienes [L Oréal  Maquillaje en polvo - 15 gr.](https://www.amazon.es/dp/B019ORDK6A/?tag=tolees-21) a 5.53 EUR (original: 25.48 EUR) (78.30 %  de descuento) en el siguiente enlace!

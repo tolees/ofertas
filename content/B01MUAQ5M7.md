@@ -10,8 +10,11 @@ author: ring
 slug: B01MUAQ5M7
 description:
 actualPrice: 36.65 EUR
+currency: EUR
+price: 36.65
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers Go Walk 4-Reward  Entrenadores para Mujer  Rojo  Burgundy   39.5 EU
 ---
 
 Ahora mismo tienes [Skechers Go Walk 4-Reward  Entrenadores para Mujer  Rojo  Burgundy   39.5 EU](https://www.amazon.es/dp/B01MUAQ5M7/?tag=tolees-21) a 36.65 EUR (original: 64.95 EUR) (43.57 %  de descuento) en el siguiente enlace!

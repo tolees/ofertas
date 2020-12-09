@@ -10,8 +10,11 @@ author: ring
 slug: B07HFHJYTK
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 64.95 EUR
 inStock: true
+prodname: urBeats3 con conector de 3 5 mm - Auriculares  cable antienredos  auriculares magnéticos  controles y micrófono integrados - Negro
 ---
 
 Está [urBeats3 con conector de 3 5 mm - Auriculares  cable antienredos  auriculares magnéticos  controles y micrófono integrados - Negro](https://www.amazon.es/dp/B07HFHJYTK/?tag=tolees-21) con 49.21 de descuento por 32.99 EUR (original: 64.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00HXG6ZZ8
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Ultrasport AB Roller Aparato de abdominales  práctico aparato de fitness para entrenar musculatura y espalda  rodillo de abdominales con esterilla para las rodillas Unisex adulto Negro
 ---
 
 Está [Ultrasport AB Roller Aparato de abdominales  práctico aparato de fitness para entrenar musculatura y espalda  rodillo de abdominales con esterilla para las rodillas Unisex adulto Negro](https://www.amazon.es/dp/B00HXG6ZZ8/?tag=tolees-21) con 30.79 de descuento por 8.99 EUR (original: 12.99 EUR) en el siguiente enlace!

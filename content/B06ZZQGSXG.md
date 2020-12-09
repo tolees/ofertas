@@ -10,8 +10,11 @@ author: ring
 slug: B06ZZQGSXG
 description:
 actualPrice: 8.5 EUR
+currency: EUR
+price: 8.5
 comparePrice: 29.99 EUR
 inStock: true
+prodname: REYLEO Mochila Viaje Casual Impermeable del Ocio Camping Deporte Aire Libre - 19L Azul y Naranja
 ---
 
 Está [REYLEO Mochila Viaje Casual Impermeable del Ocio Camping Deporte Aire Libre - 19L Azul y Naranja](https://www.amazon.es/dp/B06ZZQGSXG/?tag=tolees-21) con 71.66 de descuento por 8.5 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CYZZJ4P
 description:
 actualPrice: 29.93 EUR
+currency: EUR
+price: 29.93
 comparePrice: 70 EUR
 inStock: true
+prodname: Nike Tanjun Racer  Zapatillas para Hombre  Azul  Gym Blackened Blue-White 404   44 EU
 ---
 
 Ahora mismo tienes [Nike Tanjun Racer  Zapatillas para Hombre  Azul  Gym Blackened Blue-White 404   44 EU](https://www.amazon.es/dp/B07CYZZJ4P/?tag=tolees-21) a 29.93 EUR (original: 70 EUR) (57.24 %  de descuento) en el siguiente enlace!

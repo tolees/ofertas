@@ -10,8 +10,11 @@ author: ring
 slug: B01NCLZG0H
 description:
 actualPrice: 11.91 EUR
+currency: EUR
+price: 11.91
 comparePrice: 20.99 EUR
 inStock: true
+prodname: arena M Dynamo 5.5cm Brief  Hombre  Navy  95
 ---
 
 Ahora mismo tienes [arena M Dynamo 5.5cm Brief  Hombre  Navy  95](https://www.amazon.es/dp/B01NCLZG0H/?tag=tolees-21) a 11.91 EUR (original: 20.99 EUR) (43.26 %  de descuento) en el siguiente enlace!

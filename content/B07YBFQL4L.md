@@ -10,8 +10,11 @@ author: ring
 slug: B07YBFQL4L
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Vans Classic Camiseta  Amarillo  Sulphur Spring/Asphalt Ync   X-Small para Hombre
 ---
 
 Tienes [Vans Classic Camiseta  Amarillo  Sulphur Spring/Asphalt Ync   X-Small para Hombre](https://www.amazon.es/dp/B07YBFQL4L/?tag=tolees-21) con un 36.70 % de descuento con precio de oferta de 18.99 EUR (original: 30.0 EUR) en el siguiente enlace!

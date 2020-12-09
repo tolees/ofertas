@@ -10,8 +10,11 @@ author: ring
 slug: B07KKQZSSZ
 description:
 actualPrice: 16.62 EUR
+currency: EUR
+price: 16.62
 comparePrice: 55 EUR
 inStock: true
+prodname: Naf Naf Kenp13 Pantalones  Negro  Noir/Blanc 627   W34  Talla del Fabricante: 34  para Mujer
 ---
 
 Está [Naf Naf Kenp13 Pantalones  Negro  Noir/Blanc 627   W34  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B07KKQZSSZ/?tag=tolees-21) con 69.78 de descuento por 16.62 EUR (original: 55 EUR) en el siguiente enlace!

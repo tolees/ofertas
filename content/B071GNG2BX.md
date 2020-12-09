@@ -10,8 +10,11 @@ author: ring
 slug: B071GNG2BX
 description:
 actualPrice: 45.44 EUR
+currency: EUR
+price: 45.44
 comparePrice: 99.95 EUR
 inStock: true
+prodname: adidas Munchen  Zapatillas de Deporte para Hombre  Azul  Azuhie/Ftwbla/Dormet   46 2/3 EU
 ---
 
 Tienes [adidas Munchen  Zapatillas de Deporte para Hombre  Azul  Azuhie/Ftwbla/Dormet   46 2/3 EU](https://www.amazon.es/dp/B071GNG2BX/?tag=tolees-21) con un 54.54 % de descuento con precio de oferta de 45.44 EUR (original: 99.95 EUR) en el siguiente enlace!

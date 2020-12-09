@@ -10,8 +10,11 @@ author: ring
 slug: B077XQMCCH
 description:
 actualPrice: 11.36 EUR
+currency: EUR
+price: 11.36
 comparePrice: 45 EUR
 inStock: true
+prodname: Under Armour SC30 MVP Pant Pantalones  Infantil  Negro Y Dorado  YS
 ---
 
 Tienes [Under Armour SC30 MVP Pant Pantalones  Infantil  Negro Y Dorado  YS](https://www.amazon.es/dp/B077XQMCCH/?tag=tolees-21) con un 74.76 % de descuento con precio de oferta de 11.36 EUR (original: 45 EUR) en el siguiente enlace!

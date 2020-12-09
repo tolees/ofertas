@@ -10,8 +10,11 @@ author: ring
 slug: B07D9YYPWF
 description:
 actualPrice: 21.82 EUR
+currency: EUR
+price: 21.82
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Puma Suede Heart Street 2 Wn s  Zapatillas para Mujer  Gris Laurel Wreath 02  40 EU
 ---
 
 Tienes [Puma Suede Heart Street 2 Wn s  Zapatillas para Mujer  Gris Laurel Wreath 02  40 EU](https://www.amazon.es/dp/B07D9YYPWF/?tag=tolees-21) con un 78.17 % de descuento con precio de oferta de 21.82 EUR (original: 99.95 EUR) en el siguiente enlace!

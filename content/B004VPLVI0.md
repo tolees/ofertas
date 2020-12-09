@@ -10,8 +10,11 @@ author: ring
 slug: B004VPLVI0
 description:
 actualPrice: 24.55 EUR
+currency: EUR
+price: 24.55
 comparePrice: 34.98 EUR
 inStock: true
+prodname: Logitech M325 Ratón Inalámbrico  2.4 GHz con Mini Receptor USB Unifying  Seguimiento Óptico 1000 DPI  Batería 18 Meses  PC/Mac/Portátil  Negro
 ---
 
 Tienes [Logitech M325 Ratón Inalámbrico  2.4 GHz con Mini Receptor USB Unifying  Seguimiento Óptico 1000 DPI  Batería 18 Meses  PC/Mac/Portátil  Negro](https://www.amazon.es/dp/B004VPLVI0/?tag=tolees-21) con un 29.82 % de descuento con precio de oferta de 24.55 EUR (original: 34.98 EUR) en el siguiente enlace!

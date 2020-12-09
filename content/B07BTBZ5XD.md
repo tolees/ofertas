@@ -10,8 +10,11 @@ author: ring
 slug: B07BTBZ5XD
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Vibrador Dual Masajeador con 96 Modos Recargable de USB para Relajación  Púrpura 
 ---
 
 Tienes [Vibrador Dual Masajeador con 96 Modos Recargable de USB para Relajación  Púrpura ](https://www.amazon.es/dp/B07BTBZ5XD/?tag=tolees-21) con un 66.68 % de descuento con precio de oferta de 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!

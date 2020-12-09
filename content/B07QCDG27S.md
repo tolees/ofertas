@@ -10,8 +10,11 @@ author: ring
 slug: B07QCDG27S
 description:
 actualPrice: 8.22 EUR
+currency: EUR
+price: 8.22
 comparePrice: 19.39 EUR
 inStock: true
+prodname: Super Sparrow Botella de Agua aislada al vacío de Acero Inoxidable  diseño de Pared Doble  Boca estándar - 620ml - Eco Friendly & BPA Gratis - para Correr  Gimnasio  Yoga  Ciclismo
 ---
 
 Ahora mismo tienes [Super Sparrow Botella de Agua aislada al vacío de Acero Inoxidable  diseño de Pared Doble  Boca estándar - 620ml - Eco Friendly & BPA Gratis - para Correr  Gimnasio  Yoga  Ciclismo](https://www.amazon.es/dp/B07QCDG27S/?tag=tolees-21) a 8.22 EUR (original: 19.39 EUR) (57.61 %  de descuento) en el siguiente enlace!

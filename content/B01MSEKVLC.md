@@ -10,8 +10,11 @@ author: ring
 slug: B01MSEKVLC
 description:
 actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Miss Saigón  El Musical  [Blu-ray]
 ---
 
 Ahora mismo tienes [Miss Saigón  El Musical  [Blu-ray]](https://www.amazon.es/dp/B01MSEKVLC/?tag=tolees-21) a 6.5 EUR (original: 12.99 EUR) (49.96 %  de descuento) en el siguiente enlace!

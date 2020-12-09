@@ -10,8 +10,11 @@ author: ring
 slug: B07JB8YHZC
 description:
 actualPrice: 239.0 EUR
+currency: EUR
+price: 239.0
 comparePrice: 329.0 EUR
 inStock: true
+prodname: Kenwood kMix KMX75AB - Robot de Cocina Multifunción  1000 W  Bol Metálico de 5 L con Asa  Gancho para Amasar  Varillas  Mezclado K  Acero Inoxidable  6 Velocidades  Color Negro
 ---
 
 Está [Kenwood kMix KMX75AB - Robot de Cocina Multifunción  1000 W  Bol Metálico de 5 L con Asa  Gancho para Amasar  Varillas  Mezclado K  Acero Inoxidable  6 Velocidades  Color Negro](https://www.amazon.es/dp/B07JB8YHZC/?tag=tolees-21) con 27.36 de descuento por 239.0 EUR (original: 329.0 EUR) en el siguiente enlace!

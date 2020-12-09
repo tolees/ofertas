@@ -10,8 +10,11 @@ author: ring
 slug: B077ZPZY8W
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 42 EUR
 inStock: true
+prodname: Anna Smith Las señoras Loose Fitting Tops  Womens Cute Pullover Dress Around Neck Elegantes Camisas Elegantes Acampanados Color Combination Túnicas para Polainas Sudaderas para niñas Purple L
 ---
 
 Ahora mismo tienes [Anna Smith Las señoras Loose Fitting Tops  Womens Cute Pullover Dress Around Neck Elegantes Camisas Elegantes Acampanados Color Combination Túnicas para Polainas Sudaderas para niñas Purple L](https://www.amazon.es/dp/B077ZPZY8W/?tag=tolees-21) a 8.99 EUR (original: 42 EUR) (78.60 %  de descuento) en el siguiente enlace!

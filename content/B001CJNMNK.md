@@ -10,8 +10,11 @@ author: ring
 slug: B001CJNMNK
 description:
 actualPrice: 19.01 EUR
+currency: EUR
+price: 19.01
 comparePrice: 26.87 EUR
 inStock: true
+prodname: Metaltex  Lugano- Carro multiuso con ruedas  Gris  3 cestos
 ---
 
 Ahora mismo tienes [Metaltex  Lugano- Carro multiuso con ruedas  Gris  3 cestos](https://www.amazon.es/dp/B001CJNMNK/?tag=tolees-21) a 19.01 EUR (original: 26.87 EUR) (29.25 %  de descuento) en el siguiente enlace!

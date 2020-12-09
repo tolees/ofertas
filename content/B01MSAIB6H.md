@@ -10,8 +10,11 @@ author: ring
 slug: B01MSAIB6H
 description:
 actualPrice: 58.95 EUR
+currency: EUR
+price: 58.95
 comparePrice: 100 EUR
 inStock: true
+prodname: Merrell Vapor Glove 3  Zapatillas Deportivas para Interior para Mujer  Rosa Azalea  37.5 EU
 ---
 
 Ahora mismo tienes [Merrell Vapor Glove 3  Zapatillas Deportivas para Interior para Mujer  Rosa Azalea  37.5 EU](https://www.amazon.es/dp/B01MSAIB6H/?tag=tolees-21) a 58.95 EUR (original: 100 EUR) (41.05 %  de descuento) en el siguiente enlace!

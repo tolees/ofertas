@@ -10,8 +10,11 @@ author: ring
 slug: B01H5IUL1C
 description:
 actualPrice: 6.7 EUR
+currency: EUR
+price: 6.7
 comparePrice: 23.11 EUR
 inStock: true
+prodname: Colorado Denim 18328-001-Camiseta Hombre Azul  Nightshadow  L
 ---
 
 Ahora mismo tienes [Colorado Denim 18328-001-Camiseta Hombre Azul  Nightshadow  L](https://www.amazon.es/dp/B01H5IUL1C/?tag=tolees-21) a 6.7 EUR (original: 23.11 EUR) (71.01 %  de descuento) en el siguiente enlace!

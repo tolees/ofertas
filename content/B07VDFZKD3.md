@@ -10,8 +10,11 @@ author: ring
 slug: B07VDFZKD3
 description:
 actualPrice: 19.14 EUR
+currency: EUR
+price: 19.14
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Desigual TS Tropic Thoughts Camiseta  Amarillo  Blazing 8035   Medium para Mujer
 ---
 
 Ahora mismo tienes [Desigual TS Tropic Thoughts Camiseta  Amarillo  Blazing 8035   Medium para Mujer](https://www.amazon.es/dp/B07VDFZKD3/?tag=tolees-21) a 19.14 EUR (original: 49.95 EUR) (61.68 %  de descuento) en el siguiente enlace!

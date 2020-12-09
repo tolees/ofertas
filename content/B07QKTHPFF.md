@@ -10,8 +10,11 @@ author: ring
 slug: B07QKTHPFF
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 299 EUR
 inStock: true
+prodname: Reloj automático analógico Resistente al Agua Pagani Design para Hombre con Correa de Acero Inoxidable
 ---
 
 Está [Reloj automático analógico Resistente al Agua Pagani Design para Hombre con Correa de Acero Inoxidable](https://www.amazon.es/dp/B07QKTHPFF/?tag=tolees-21) con 66.56 de descuento por 99.99 EUR (original: 299 EUR) en el siguiente enlace!

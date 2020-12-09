@@ -10,8 +10,11 @@ author: ring
 slug: B07KSBTNBV
 description:
 actualPrice: 17.56 EUR
+currency: EUR
+price: 17.56
 comparePrice: 49.95 EUR
 inStock: true
+prodname: hummel HMLMATEO Hoodies  Hombre  Gris  Grey Melange   L
 ---
 
 Está [hummel HMLMATEO Hoodies  Hombre  Gris  Grey Melange   L](https://www.amazon.es/dp/B07KSBTNBV/?tag=tolees-21) con 64.84 de descuento por 17.56 EUR (original: 49.95 EUR) en el siguiente enlace!

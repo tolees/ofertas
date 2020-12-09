@@ -10,8 +10,11 @@ author: ring
 slug: B0792GRVSV
 description:
 actualPrice: 19.28 EUR
+currency: EUR
+price: 19.28
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Geox JR Plie  B  Bailarinas Niñas  Negro  Black C9999   26 EU
 ---
 
 Tienes [Geox JR Plie  B  Bailarinas Niñas  Negro  Black C9999   26 EU](https://www.amazon.es/dp/B0792GRVSV/?tag=tolees-21) con un 61.36 % de descuento con precio de oferta de 19.28 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KR9RGZS
 description:
 actualPrice: 18.98 EUR
+currency: EUR
+price: 18.98
 comparePrice: 70.0 EUR
 inStock: true
+prodname: New Balance 624v5  Zapatillas Deportivas para Interior para Mujer  Blanco  White White   44 EU
 ---
 
 Ahora mismo tienes [New Balance 624v5  Zapatillas Deportivas para Interior para Mujer  Blanco  White White   44 EU](https://www.amazon.es/dp/B07KR9RGZS/?tag=tolees-21) a 18.98 EUR (original: 70.0 EUR) (72.89 %  de descuento) en el siguiente enlace!

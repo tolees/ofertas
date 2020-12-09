@@ -10,8 +10,11 @@ author: ring
 slug: B07DQ1KQLY
 description:
 actualPrice: 11.04 EUR
+currency: EUR
+price: 11.04
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Urban Classics Ladies Soft Sherpa Coat  Abrigos Hombre para Mujer  Negro  Black 00007  Medium
 ---
 
 Tienes [Urban Classics Ladies Soft Sherpa Coat  Abrigos Hombre para Mujer  Negro  Black 00007  Medium](https://www.amazon.es/dp/B07DQ1KQLY/?tag=tolees-21) con un 84.21 % de descuento con precio de oferta de 11.04 EUR (original: 69.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00GDETFY4
 description:
 actualPrice: 30 EUR
+currency: EUR
+price: 30
 comparePrice: 60 EUR
 inStock: true
+prodname: Nike SB Check Solar - Zapatillas para Hombre  Negro  Black   43 EU
 ---
 
 Está [Nike SB Check Solar - Zapatillas para Hombre  Negro  Black   43 EU](https://www.amazon.es/dp/B00GDETFY4/?tag=tolees-21) con 50.00 de descuento por 30 EUR (original: 60 EUR) en el siguiente enlace!

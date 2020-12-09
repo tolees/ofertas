@@ -10,8 +10,11 @@ author: ring
 slug: B01N15HZST
 description:
 actualPrice: 83.39 EUR
+currency: EUR
+price: 83.39
 comparePrice: 199.95 EUR
 inStock: true
+prodname: Head Alpha Elite Pala de Pádel  Hombre  Gris/Azul  Talla Única
 ---
 
 Está [Head Alpha Elite Pala de Pádel  Hombre  Gris/Azul  Talla Única](https://www.amazon.es/dp/B01N15HZST/?tag=tolees-21) con 58.29 de descuento por 83.39 EUR (original: 199.95 EUR) en el siguiente enlace!

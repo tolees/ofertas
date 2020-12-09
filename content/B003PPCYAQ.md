@@ -10,8 +10,11 @@ author: ring
 slug: B003PPCYAQ
 description:
 actualPrice: 15.75 EUR
+currency: EUR
+price: 15.75
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Eastpak Orbit Mini Mochila  34 cm  10 L  Gris  Sunday Grey   33.5 x 15 x 23 cm
 ---
 
 Ahora mismo tienes [Eastpak Orbit Mini Mochila  34 cm  10 L  Gris  Sunday Grey   33.5 x 15 x 23 cm](https://www.amazon.es/dp/B003PPCYAQ/?tag=tolees-21) a 15.75 EUR (original: 45.0 EUR) (65.00 %  de descuento) en el siguiente enlace!

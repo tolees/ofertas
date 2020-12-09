@@ -10,8 +10,11 @@ author: ring
 slug: B078SYBBVQ
 description:
 actualPrice: 10.67 EUR
+currency: EUR
+price: 10.67
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Women’secret Pijama Corto Pijama de una Pieza  Mujer   Several 98   Medium  Tamaño del Fabricante:M 
 ---
 
 Está [Women’secret Pijama Corto Pijama de una Pieza  Mujer   Several 98   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078SYBBVQ/?tag=tolees-21) con 53.59 de descuento por 10.67 EUR (original: 22.99 EUR) en el siguiente enlace!

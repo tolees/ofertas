@@ -10,8 +10,11 @@ author: ring
 slug: B07VQW5YYX
 description:
 actualPrice: 6.59 EUR
+currency: EUR
+price: 6.59
 comparePrice: 14.95 EUR
 inStock: true
+prodname: Funko- Pop Games: Apex Legends-Bangalore Collectible Toy  Multicolor  43290 
 ---
 
 Tienes [Funko- Pop Games: Apex Legends-Bangalore Collectible Toy  Multicolor  43290 ](https://www.amazon.es/dp/B07VQW5YYX/?tag=tolees-21) con un 55.92 % de descuento con precio de oferta de 6.59 EUR (original: 14.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07B6FZ1QV
 description:
 actualPrice: 30.37 EUR
+currency: EUR
+price: 30.37
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Pepe Jeans Olivia Blue Tote Handbag
 ---
 
 Ahora mismo tienes [Pepe Jeans Olivia Blue Tote Handbag](https://www.amazon.es/dp/B07B6FZ1QV/?tag=tolees-21) a 30.37 EUR (original: 49.99 EUR) (39.25 %  de descuento) en el siguiente enlace!

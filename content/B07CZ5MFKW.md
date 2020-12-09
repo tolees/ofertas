@@ -10,8 +10,11 @@ author: ring
 slug: B07CZ5MFKW
 description:
 actualPrice: 25.74 EUR
+currency: EUR
+price: 25.74
 comparePrice: 45 EUR
 inStock: true
+prodname: New Balance L Challenge Mallas  Hombre  Pigment  XL
 ---
 
 Está [New Balance L Challenge Mallas  Hombre  Pigment  XL](https://www.amazon.es/dp/B07CZ5MFKW/?tag=tolees-21) con 42.80 de descuento por 25.74 EUR (original: 45 EUR) en el siguiente enlace!

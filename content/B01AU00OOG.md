@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.98 % en Saint Young Men [Blu-ray]'
+title: 'Saint Young Men [Blu-ray] al 50.98 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/61AFWpDWvyL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/61AFWpDWvyL._SL200_.jpg' ]
@@ -10,15 +10,18 @@ author: ring
 slug: B01AU00OOG
 description:
 actualPrice: 5 EUR
+currency: EUR
+price: 5
 comparePrice: 10.2 EUR
 inStock: true
+prodname: Saint Young Men [Blu-ray]
 ---
 
-Tienes [Saint Young Men [Blu-ray]](https://www.amazon.es/dp/B01AU00OOG/?tag=tolees-21) con un 50.98 % de descuento con precio de oferta de 5 EUR (original: 10.2 EUR) en el siguiente enlace!
+Está [Saint Young Men [Blu-ray]](https://www.amazon.es/dp/B01AU00OOG/?tag=tolees-21) con 50.98 de descuento por 5 EUR (original: 10.2 EUR) en el siguiente enlace!
 
 [![Saint Young Men [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/61AFWpDWvyL._SL200_.jpg)](https://www.amazon.es/dp/B01AU00OOG/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01AU00OOG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01AU00OOG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

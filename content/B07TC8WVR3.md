@@ -10,8 +10,11 @@ author: ring
 slug: B07TC8WVR3
 description:
 actualPrice: 6.95 EUR
+currency: EUR
+price: 6.95
 comparePrice: 10.95 EUR
 inStock: true
+prodname: Max Factor Colour Elixir Lipstick  Barra de labios Tono 30  29 ml
 ---
 
 Ahora mismo tienes [Max Factor Colour Elixir Lipstick  Barra de labios Tono 30  29 ml](https://www.amazon.es/dp/B07TC8WVR3/?tag=tolees-21) a 6.95 EUR (original: 10.95 EUR) (36.53 %  de descuento) en el siguiente enlace!

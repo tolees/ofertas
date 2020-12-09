@@ -10,8 +10,11 @@ author: ring
 slug: B07GHNBYFT
 description:
 actualPrice: 4.51 EUR
+currency: EUR
+price: 4.51
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Jazwares- Fortnite Figura coleccionables Raptor  Multicolor  FNT0014    color/modelo surtido
 ---
 
 Ahora mismo tienes [Jazwares- Fortnite Figura coleccionables Raptor  Multicolor  FNT0014    color/modelo surtido](https://www.amazon.es/dp/B07GHNBYFT/?tag=tolees-21) a 4.51 EUR (original: 19.99 EUR) (77.44 %  de descuento) en el siguiente enlace!

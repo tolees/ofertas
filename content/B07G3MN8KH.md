@@ -10,8 +10,11 @@ author: ring
 slug: B07G3MN8KH
 description:
 actualPrice: 31.08 EUR
+currency: EUR
+price: 31.08
 comparePrice: 50 EUR
 inStock: true
+prodname: Hurley M One&Only Box 2.0 Pullover Sudaderas  Hombre  Black Heather  XL
 ---
 
 Ahora mismo tienes [Hurley M One&Only Box 2.0 Pullover Sudaderas  Hombre  Black Heather  XL](https://www.amazon.es/dp/B07G3MN8KH/?tag=tolees-21) a 31.08 EUR (original: 50 EUR) (37.84 %  de descuento) en el siguiente enlace!

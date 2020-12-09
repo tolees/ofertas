@@ -10,8 +10,11 @@ author: ring
 slug: B076MSL2QG
 description:
 actualPrice: 11.9 EUR
+currency: EUR
+price: 11.9
 comparePrice: 30.79 EUR
 inStock: true
+prodname: Bella Aurora Eyes Crema Contorno de Ojos Anti-ojeras | Anti-manchas Cara | Anti-edad | Reduce bolsas y ojeras  15 ml
 ---
 
 Está [Bella Aurora Eyes Crema Contorno de Ojos Anti-ojeras | Anti-manchas Cara | Anti-edad | Reduce bolsas y ojeras  15 ml](https://www.amazon.es/dp/B076MSL2QG/?tag=tolees-21) con 61.35 de descuento por 11.9 EUR (original: 30.79 EUR) en el siguiente enlace!

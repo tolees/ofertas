@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ26QHZ
 description:
 actualPrice: 75 EUR
+currency: EUR
+price: 75
 comparePrice: 150 EUR
 inStock: true
+prodname: New Balance Fresh Foam Vongo v3  Zapatillas de Running para Hombre  Blanco  Light Aluminum/Orca/Deep Ozone Blue Dm3   47 EU
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Vongo v3  Zapatillas de Running para Hombre  Blanco  Light Aluminum/Orca/Deep Ozone Blue Dm3   47 EU](https://www.amazon.es/dp/B07DJ26QHZ/?tag=tolees-21) a 75 EUR (original: 150 EUR) (50.00 %  de descuento) en el siguiente enlace!

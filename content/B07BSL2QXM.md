@@ -10,8 +10,11 @@ author: ring
 slug: B07BSL2QXM
 description:
 actualPrice: 3.61 EUR
+currency: EUR
+price: 3.61
 comparePrice: 6.5 EUR
 inStock: true
+prodname: Homyl USB2.0 Unidad Flash Drive PenDrive para Guardar Memoria Datos Forma de Helado de Goma de Dibujos Animados - Verde-8gb
 ---
 
 Tienes [Homyl USB2.0 Unidad Flash Drive PenDrive para Guardar Memoria Datos Forma de Helado de Goma de Dibujos Animados - Verde-8gb](https://www.amazon.es/dp/B07BSL2QXM/?tag=tolees-21) con un 44.46 % de descuento con precio de oferta de 3.61 EUR (original: 6.5 EUR) en el siguiente enlace!

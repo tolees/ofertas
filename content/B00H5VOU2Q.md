@@ -10,8 +10,11 @@ author: ring
 slug: B00H5VOU2Q
 description:
 actualPrice: 51.16 EUR
+currency: EUR
+price: 51.16
 comparePrice: 72.0 EUR
 inStock: true
+prodname: Superga 2750-lamew  Zapatillas de Estar por casa  Dorado  Yellow Gold 174   35.5 EU
 ---
 
 Ahora mismo tienes [Superga 2750-lamew  Zapatillas de Estar por casa  Dorado  Yellow Gold 174   35.5 EU](https://www.amazon.es/dp/B00H5VOU2Q/?tag=tolees-21) a 51.16 EUR (original: 72.0 EUR) (28.94 %  de descuento) en el siguiente enlace!

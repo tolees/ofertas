@@ -10,8 +10,11 @@ author: ring
 slug: B01LCQB3G0
 description:
 actualPrice: 16.79 EUR
+currency: EUR
+price: 16.79
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Star Wars - Vehículo Medio Episodio 7  Modelos Surtidos  Hasbro B3675 
 ---
 
 Ahora mismo tienes [Star Wars - Vehículo Medio Episodio 7  Modelos Surtidos  Hasbro B3675 ](https://www.amazon.es/dp/B01LCQB3G0/?tag=tolees-21) a 16.79 EUR (original: 29.9 EUR) (43.85 %  de descuento) en el siguiente enlace!

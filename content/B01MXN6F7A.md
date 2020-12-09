@@ -10,8 +10,11 @@ author: ring
 slug: B01MXN6F7A
 description:
 actualPrice: 189 EUR
+currency: EUR
+price: 189
 comparePrice: 1874 EUR
 inStock: true
+prodname: Colchón Viscografeno Imperial Deluxe 30cm Todas las Medidas  135x180 
 ---
 
 Tienes [Colchón Viscografeno Imperial Deluxe 30cm Todas las Medidas  135x180 ](https://www.amazon.es/dp/B01MXN6F7A/?tag=tolees-21) con un 89.91 % de descuento con precio de oferta de 189 EUR (original: 1874 EUR) en el siguiente enlace!

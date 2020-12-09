@@ -10,16 +10,17 @@ author: ring
 slug: B07K1SP1MW
 description:
 actualPrice: 49.93 EUR
+currency: EUR
+price: 49.93
 comparePrice: 100.0 EUR
 inStock: true
+prodname: Adidas Continental 80  Zapatillas Hombre  Blanco  FTWR White/Scarlet/Collegiate Navy FTWR White/Scarlet/Collegiate Navy   42 2/3 EU
 ---
 
-Está [Adidas Continental 80  Zapatillas Hombre  Blanco  FTWR White/Scarlet/Collegiate Navy FTWR White/Scarlet/Collegiate Navy   42 2/3 EU](https://www.amazon.es/dp/B07K1SP1MW/?tag=tolees-21) con 50.07 de descuento por 49.93 EUR (original: 100.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Adidas Continental 80  Zapatillas Hombre  Blanco  FTWR White/Scarlet/Collegiate Navy FTWR White/Scarlet/Collegiate Navy   42 2/3 EU](https://www.amazon.es/dp/B07K1SP1MW/?tag=tolees-21) a 49.93 EUR (original: 100.0 EUR) (50.07 %  de descuento) en el siguiente enlace!
 
 [![Adidas Continental 80  Zapatillas Hombre](https://m.media-amazon.com/images/I/41tq68h7FmL._SL200_.jpg)](https://www.amazon.es/dp/B07K1SP1MW/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07K1SP1MW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07K1SP1MW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

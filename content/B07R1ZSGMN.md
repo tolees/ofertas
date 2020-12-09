@@ -10,8 +10,11 @@ author: ring
 slug: B07R1ZSGMN
 description:
 actualPrice: 20.12 EUR
+currency: EUR
+price: 20.12
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Under Armour Accelerate Premier Pantalón  Hombre  Negro  LG
 ---
 
 Ahora mismo tienes [Under Armour Accelerate Premier Pantalón  Hombre  Negro  LG](https://www.amazon.es/dp/B07R1ZSGMN/?tag=tolees-21) a 20.12 EUR (original: 65.0 EUR) (69.05 %  de descuento) en el siguiente enlace!

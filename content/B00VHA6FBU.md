@@ -10,8 +10,11 @@ author: ring
 slug: B00VHA6FBU
 description:
 actualPrice: 44.5 EUR
+currency: EUR
+price: 44.5
 comparePrice: 89 EUR
 inStock: true
+prodname: Dickies TW357  Sudadera con Capucha para Hombre  Negro  Black  XX-Large  Tamaño del Fabricante:XXL 
 ---
 
 Está [Dickies TW357  Sudadera con Capucha para Hombre  Negro  Black  XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B00VHA6FBU/?tag=tolees-21) con 50.00 de descuento por 44.5 EUR (original: 89 EUR) en el siguiente enlace!

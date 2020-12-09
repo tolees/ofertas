@@ -10,8 +10,11 @@ author: ring
 slug: B01N9HKB0K
 description:
 actualPrice: 7.08 EUR
+currency: EUR
+price: 7.08
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Esprit 037ee1j010  Sudadera Mujer   Off White   38  Talla del Fabricante: Medium 
 ---
 
 Ahora mismo tienes [Esprit 037ee1j010  Sudadera Mujer   Off White   38  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B01N9HKB0K/?tag=tolees-21) a 7.08 EUR (original: 39.99 EUR) (82.30 %  de descuento) en el siguiente enlace!

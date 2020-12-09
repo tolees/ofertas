@@ -10,8 +10,11 @@ author: ring
 slug: B00SHKW7PG
 description:
 actualPrice: 0.59 EUR
+currency: EUR
+price: 0.59
 comparePrice: 19.51 EUR
 inStock: true
+prodname: Milan P1-Touch - Bolígrafos engomados de color  24 unidades 
 ---
 
 Ahora mismo tienes [Milan P1-Touch - Bolígrafos engomados de color  24 unidades ](https://www.amazon.es/dp/B00SHKW7PG/?tag=tolees-21) a 0.59 EUR (original: 19.51 EUR) (96.98 %  de descuento) en el siguiente enlace!

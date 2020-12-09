@@ -10,8 +10,11 @@ author: ring
 slug: B074CLS8WT
 description:
 actualPrice: 79.97 EUR
+currency: EUR
+price: 79.97
 comparePrice: 439 EUR
 inStock: true
+prodname: TW Steel Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TWMC30
 ---
 
 Tienes [TW Steel Reloj Analógico para Hombre de Cuarzo con Correa en Cuero TWMC30](https://www.amazon.es/dp/B074CLS8WT/?tag=tolees-21) con un 81.78 % de descuento con precio de oferta de 79.97 EUR (original: 439 EUR) en el siguiente enlace!

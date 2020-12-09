@@ -10,8 +10,11 @@ author: ring
 slug: B07JHX15GQ
 description:
 actualPrice: 17.34 EUR
+currency: EUR
+price: 17.34
 comparePrice: 54.95 EUR
 inStock: true
+prodname: PUMA Bold Graphic FullTight Mallas Deporte  Mujer  Black/Emboss  XL
 ---
 
 Tienes [PUMA Bold Graphic FullTight Mallas Deporte  Mujer  Black/Emboss  XL](https://www.amazon.es/dp/B07JHX15GQ/?tag=tolees-21) con un 68.44 % de descuento con precio de oferta de 17.34 EUR (original: 54.95 EUR) en el siguiente enlace!

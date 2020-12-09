@@ -10,8 +10,11 @@ author: ring
 slug: B004SGJRQK
 description:
 actualPrice: 50.32 EUR
+currency: EUR
+price: 50.32
 comparePrice: 84.95 EUR
 inStock: true
+prodname: PUMA Suede Classic+  Zapatillas Bajas Unisex Adulto  Negro  Black/White   39 EU
 ---
 
 Ahora mismo tienes [PUMA Suede Classic+  Zapatillas Bajas Unisex Adulto  Negro  Black/White   39 EU](https://www.amazon.es/dp/B004SGJRQK/?tag=tolees-21) a 50.32 EUR (original: 84.95 EUR) (40.77 %  de descuento) en el siguiente enlace!

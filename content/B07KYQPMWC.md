@@ -10,8 +10,11 @@ author: ring
 slug: B07KYQPMWC
 description:
 actualPrice: 6.15 EUR
+currency: EUR
+price: 6.15
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Springfield 690 Naming SPF Org Tricol Camiseta   Gama Azules 12   Medium  Tamaño del Fabricante:M  para Hombre
 ---
 
 Ahora mismo tienes [Springfield 690 Naming SPF Org Tricol Camiseta   Gama Azules 12   Medium  Tamaño del Fabricante:M  para Hombre](https://www.amazon.es/dp/B07KYQPMWC/?tag=tolees-21) a 6.15 EUR (original: 12.99 EUR) (52.66 %  de descuento) en el siguiente enlace!

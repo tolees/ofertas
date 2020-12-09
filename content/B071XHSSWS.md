@@ -10,8 +10,11 @@ author: ring
 slug: B071XHSSWS
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Eudora Plata de ley 925 Aojo Mano de Hamsa Fátima Buena suerte Claro CZ Vendimia Collar colgante  Cadena de 18"
 ---
 
 Ahora mismo tienes [Eudora Plata de ley 925 Aojo Mano de Hamsa Fátima Buena suerte Claro CZ Vendimia Collar colgante  Cadena de 18"](https://www.amazon.es/dp/B071XHSSWS/?tag=tolees-21) a 24.99 EUR (original: 44.99 EUR) (44.45 %  de descuento) en el siguiente enlace!

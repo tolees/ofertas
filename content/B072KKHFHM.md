@@ -10,8 +10,11 @@ author: ring
 slug: B072KKHFHM
 description:
 actualPrice: 34 EUR
+currency: EUR
+price: 34
 comparePrice: 60.99 EUR
 inStock: true
+prodname: Mario + Rabbids Kingdom Battle - Nintendo Switch [Importación italiana]
 ---
 
 Ahora mismo tienes [Mario + Rabbids Kingdom Battle - Nintendo Switch [Importación italiana]](https://www.amazon.es/dp/B072KKHFHM/?tag=tolees-21) a 34 EUR (original: 60.99 EUR) (44.25 %  de descuento) en el siguiente enlace!

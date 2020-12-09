@@ -10,8 +10,11 @@ author: ring
 slug: B07MTDSMQ6
 description:
 actualPrice: 26.09 EUR
+currency: EUR
+price: 26.09
 comparePrice: 119.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Deconstructed Skinny Vaqueros  Negro  Medium Aged 9882/071   W30/L34  Talla del Fabricante: 30W/ 34L  para Hombre
 ---
 
 Está [G-STAR RAW 3301 Deconstructed Skinny Vaqueros  Negro  Medium Aged 9882/071   W30/L34  Talla del Fabricante: 30W/ 34L  para Hombre](https://www.amazon.es/dp/B07MTDSMQ6/?tag=tolees-21) con 78.25 de descuento por 26.09 EUR (original: 119.95 EUR) en el siguiente enlace!

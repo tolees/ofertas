@@ -10,8 +10,11 @@ author: ring
 slug: B07DJGJ3DM
 description:
 actualPrice: 18.21 EUR
+currency: EUR
+price: 18.21
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Dockers by Gerli 43ca301  Botas Militar para Mujer  Gris  Ice 260   41 EU
 ---
 
 Está [Dockers by Gerli 43ca301  Botas Militar para Mujer  Gris  Ice 260   41 EU](https://www.amazon.es/dp/B07DJGJ3DM/?tag=tolees-21) con 69.62 de descuento por 18.21 EUR (original: 59.95 EUR) en el siguiente enlace!

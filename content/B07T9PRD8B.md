@@ -10,8 +10,11 @@ author: ring
 slug: B07T9PRD8B
 description:
 actualPrice: 2.88 EUR
+currency: EUR
+price: 2.88
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Jebester Naruto Leaf Village - Diadema para Disfraz de Ninja  2 Unidades 
 ---
 
 Está [Jebester Naruto Leaf Village - Diadema para Disfraz de Ninja  2 Unidades ](https://www.amazon.es/dp/B07T9PRD8B/?tag=tolees-21) con 71.17 de descuento por 2.88 EUR (original: 9.99 EUR) en el siguiente enlace!

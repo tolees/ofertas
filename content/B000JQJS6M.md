@@ -10,8 +10,11 @@ author: ring
 slug: B000JQJS6M
 description:
 actualPrice: 80.0 EUR
+currency: EUR
+price: 80.0
 comparePrice: 115.53 EUR
 inStock: true
+prodname: Invicta 8928OB Pro Diver Reloj Unisex acero inoxidable Automático Esfera azul
 ---
 
 Está [Invicta 8928OB Pro Diver Reloj Unisex acero inoxidable Automático Esfera azul](https://www.amazon.es/dp/B000JQJS6M/?tag=tolees-21) con 30.75 de descuento por 80.0 EUR (original: 115.53 EUR) en el siguiente enlace!

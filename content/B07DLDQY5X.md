@@ -10,8 +10,11 @@ author: ring
 slug: B07DLDQY5X
 description:
 actualPrice: 18.2 EUR
+currency: EUR
+price: 18.2
 comparePrice: 26 EUR
 inStock: true
+prodname: AURIQUE GTQ3_05 Mallas de Entrenamiento Rojo Port Royale  36  Talla del Fabricante: X-Small 
 ---
 
 Está [AURIQUE GTQ3_05 Mallas de Entrenamiento Rojo Port Royale  36  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07DLDQY5X/?tag=tolees-21) con 30.00 de descuento por 18.2 EUR (original: 26 EUR) en el siguiente enlace!

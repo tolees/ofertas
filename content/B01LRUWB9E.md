@@ -10,8 +10,11 @@ author: ring
 slug: B01LRUWB9E
 description:
 actualPrice: 100 EUR
+currency: EUR
+price: 100
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Hauck Rapid 4 - Sillita compacta y deportiva  de 0 meses a 25 kg  manillar ajustable en altura  respaldo reclinable  compatible con capazo blando Hauck  plegado fácil con una mano  negro rojo
 ---
 
 Ahora mismo tienes [Hauck Rapid 4 - Sillita compacta y deportiva  de 0 meses a 25 kg  manillar ajustable en altura  respaldo reclinable  compatible con capazo blando Hauck  plegado fácil con una mano  negro rojo](https://www.amazon.es/dp/B01LRUWB9E/?tag=tolees-21) a 100 EUR (original: 149.99 EUR) (33.33 %  de descuento) en el siguiente enlace!

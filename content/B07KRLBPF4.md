@@ -10,8 +10,11 @@ author: ring
 slug: B07KRLBPF4
 description:
 actualPrice: 47.85 EUR
+currency: EUR
+price: 47.85
 comparePrice: 100.0 EUR
 inStock: true
+prodname: New Balance 574v2  Zapatillas Hombre  Negro  Black/White Black/White   37 EU
 ---
 
 Ahora mismo tienes [New Balance 574v2  Zapatillas Hombre  Negro  Black/White Black/White   37 EU](https://www.amazon.es/dp/B07KRLBPF4/?tag=tolees-21) a 47.85 EUR (original: 100.0 EUR) (52.15 %  de descuento) en el siguiente enlace!

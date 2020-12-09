@@ -10,8 +10,11 @@ author: ring
 slug: B01N9UNCD0
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Russell Hobbs 21396-56 Adventure - Tostadora  Ranura Larga y Ancha  para 2 Rebanadas  Acero Inoxidable
 ---
 
 Tienes [Russell Hobbs 21396-56 Adventure - Tostadora  Ranura Larga y Ancha  para 2 Rebanadas  Acero Inoxidable](https://www.amazon.es/dp/B01N9UNCD0/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!

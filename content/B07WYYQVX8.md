@@ -10,8 +10,11 @@ author: ring
 slug: B07WYYQVX8
 description:
 actualPrice: 16.27 EUR
+currency: EUR
+price: 16.27
 comparePrice: 31.9 EUR
 inStock: true
+prodname: Playtex Flower Elegance Full Cup Sujetador con Aros  Verde  Vert Palmier 0bj   90D para Mujer
 ---
 
 Está [Playtex Flower Elegance Full Cup Sujetador con Aros  Verde  Vert Palmier 0bj   90D para Mujer](https://www.amazon.es/dp/B07WYYQVX8/?tag=tolees-21) con 49.00 de descuento por 16.27 EUR (original: 31.9 EUR) en el siguiente enlace!

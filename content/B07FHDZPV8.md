@@ -10,8 +10,11 @@ author: ring
 slug: B07FHDZPV8
 description:
 actualPrice: 15 EUR
+currency: EUR
+price: 15
 comparePrice: 25 EUR
 inStock: true
+prodname: Vans Checker Co. II Camiseta  Gris  Ash Heather Rkz   X-Large para Hombre
 ---
 
 Tienes [Vans Checker Co. II Camiseta  Gris  Ash Heather Rkz   X-Large para Hombre](https://www.amazon.es/dp/B07FHDZPV8/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 15 EUR (original: 25 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B073RKZ3SC
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 16.2 EUR
 inStock: true
+prodname: The Scottish Fine Soaps Coconut & Lime Tambor de Regalo - 4 Piezas
 ---
 
 Está [The Scottish Fine Soaps Coconut & Lime Tambor de Regalo - 4 Piezas](https://www.amazon.es/dp/B073RKZ3SC/?tag=tolees-21) con 44.51 de descuento por 8.99 EUR (original: 16.2 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B072BVY4VP
 description:
 actualPrice: 18.15 EUR
+currency: EUR
+price: 18.15
 comparePrice: 49.99 EUR
 inStock: true
+prodname: MTNG Marta  Botas Mujer  Negro  Monty Negro   40 EU
 ---
 
 Ahora mismo tienes [MTNG Marta  Botas Mujer  Negro  Monty Negro   40 EU](https://www.amazon.es/dp/B072BVY4VP/?tag=tolees-21) a 18.15 EUR (original: 49.99 EUR) (63.69 %  de descuento) en el siguiente enlace!

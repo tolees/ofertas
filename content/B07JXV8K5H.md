@@ -10,8 +10,11 @@ author: ring
 slug: B07JXV8K5H
 description:
 actualPrice: 33.73 EUR
+currency: EUR
+price: 33.73
 comparePrice: 82 EUR
 inStock: true
+prodname: Guess LS Cn Jaguars Swtr  Jersey para Hombre  Negro  Jet Black A996 Jblk  Large
 ---
 
 Tienes [Guess LS Cn Jaguars Swtr  Jersey para Hombre  Negro  Jet Black A996 Jblk  Large](https://www.amazon.es/dp/B07JXV8K5H/?tag=tolees-21) con un 58.87 % de descuento con precio de oferta de 33.73 EUR (original: 82 EUR) en el siguiente enlace!

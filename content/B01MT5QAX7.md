@@ -10,8 +10,11 @@ author: ring
 slug: B01MT5QAX7
 description:
 actualPrice: 98.98 EUR
+currency: EUR
+price: 98.98
 comparePrice: 159.0 EUR
 inStock: true
+prodname: Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 2010900
 ---
 
 Tienes [Lacoste Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 2010900](https://www.amazon.es/dp/B01MT5QAX7/?tag=tolees-21) con un 37.75 % de descuento con precio de oferta de 98.98 EUR (original: 159.0 EUR) en el siguiente enlace!

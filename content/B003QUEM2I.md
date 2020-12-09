@@ -10,8 +10,11 @@ author: ring
 slug: B003QUEM2I
 description:
 actualPrice: 52.03 EUR
+currency: EUR
+price: 52.03
 comparePrice: 98 EUR
 inStock: true
+prodname: Elizabeth Arden 33833 - Loción anti-imperfecciones
 ---
 
 Ahora mismo tienes [Elizabeth Arden 33833 - Loción anti-imperfecciones](https://www.amazon.es/dp/B003QUEM2I/?tag=tolees-21) a 52.03 EUR (original: 98 EUR) (46.91 %  de descuento) en el siguiente enlace!

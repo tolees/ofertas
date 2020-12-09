@@ -10,8 +10,11 @@ author: ring
 slug: B08LSFCCP7
 description:
 actualPrice: 19.19 EUR
+currency: EUR
+price: 19.19
 comparePrice: 28.86 EUR
 inStock: true
+prodname: JIAJU Mini Ventiladores creativos USB para Exteriores Ventilador portátil sin Cuchillas Mini Enfriador de Mano Sin Hojas Ventilador de enfriamiento práctico-Blanco
 ---
 
 Ahora mismo tienes [JIAJU Mini Ventiladores creativos USB para Exteriores Ventilador portátil sin Cuchillas Mini Enfriador de Mano Sin Hojas Ventilador de enfriamiento práctico-Blanco](https://www.amazon.es/dp/B08LSFCCP7/?tag=tolees-21) a 19.19 EUR (original: 28.86 EUR) (33.51 %  de descuento) en el siguiente enlace!

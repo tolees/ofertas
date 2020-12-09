@@ -10,8 +10,11 @@ author: ring
 slug: B07RV33LMJ
 description:
 actualPrice: 9.89 EUR
+currency: EUR
+price: 9.89
 comparePrice: 29.69 EUR
 inStock: true
+prodname: Buen masajeador para mujer.
 ---
 
 Ahora mismo tienes [Buen masajeador para mujer.](https://www.amazon.es/dp/B07RV33LMJ/?tag=tolees-21) a 9.89 EUR (original: 29.69 EUR) (66.69 %  de descuento) en el siguiente enlace!

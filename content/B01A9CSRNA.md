@@ -10,8 +10,11 @@ author: ring
 slug: B01A9CSRNA
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 11.99 EUR
 inStock: true
+prodname: Esposas bondage mono para puerta
 ---
 
 Ahora mismo tienes [Esposas bondage mono para puerta](https://www.amazon.es/dp/B01A9CSRNA/?tag=tolees-21) a 5.99 EUR (original: 11.99 EUR) (50.04 %  de descuento) en el siguiente enlace!

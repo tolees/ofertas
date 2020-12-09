@@ -10,8 +10,11 @@ author: ring
 slug: B071RWNY6F
 description:
 actualPrice: 44.92 EUR
+currency: EUR
+price: 44.92
 comparePrice: 160 EUR
 inStock: true
+prodname: Hackett London Ashby Chino Pantalones  Azul  Deep Blue 5EI   34W / 34L para Hombre
 ---
 
 Está [Hackett London Ashby Chino Pantalones  Azul  Deep Blue 5EI   34W / 34L para Hombre](https://www.amazon.es/dp/B071RWNY6F/?tag=tolees-21) con 71.92 de descuento por 44.92 EUR (original: 160 EUR) en el siguiente enlace!

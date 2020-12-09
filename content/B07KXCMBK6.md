@@ -10,8 +10,11 @@ author: ring
 slug: B07KXCMBK6
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 23.99 EUR
 inStock: true
+prodname: YaYuu Forerunner 235/220 / 230/620 / 630/735 Correa Reemplazo Suave Silicona Watch Band Deportiva Accessorios de Reloj Pulsera Ajustable con Cierre de Clip para Garmin Forerunner 235 SmartWatch
 ---
 
 Tienes [YaYuu Forerunner 235/220 / 230/620 / 630/735 Correa Reemplazo Suave Silicona Watch Band Deportiva Accessorios de Reloj Pulsera Ajustable con Cierre de Clip para Garmin Forerunner 235 SmartWatch](https://www.amazon.es/dp/B07KXCMBK6/?tag=tolees-21) con un 45.85 % de descuento con precio de oferta de 12.99 EUR (original: 23.99 EUR) en el siguiente enlace!

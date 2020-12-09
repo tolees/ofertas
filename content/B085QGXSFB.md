@@ -10,8 +10,11 @@ author: ring
 slug: B085QGXSFB
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Plancha de pelo 2 en 1 Rowenta Liss&Curl Ultimate Shine SF6221F0 - 5 ajustes de 130 a 200 °C  pantalla LED  Cable rotatorio 360º  placas flotantes  revestimiento nanocerámico  Reacondicionado 
 ---
 
 Tienes [Plancha de pelo 2 en 1 Rowenta Liss&Curl Ultimate Shine SF6221F0 - 5 ajustes de 130 a 200 °C  pantalla LED  Cable rotatorio 360º  placas flotantes  revestimiento nanocerámico  Reacondicionado ](https://www.amazon.es/dp/B085QGXSFB/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

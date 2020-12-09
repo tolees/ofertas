@@ -10,8 +10,11 @@ author: ring
 slug: B07S75XRRT
 description:
 actualPrice: 12.5 EUR
+currency: EUR
+price: 12.5
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Crocs Swiftwater Expedition Sandal Kids  Sandalia con Pulsera Unisex Niños  Negro  Black/Slate Grey 0dd   34/35 EU
 ---
 
 Está [Crocs Swiftwater Expedition Sandal Kids  Sandalia con Pulsera Unisex Niños  Negro  Black/Slate Grey 0dd   34/35 EU](https://www.amazon.es/dp/B07S75XRRT/?tag=tolees-21) con 49.98 de descuento por 12.5 EUR (original: 24.99 EUR) en el siguiente enlace!

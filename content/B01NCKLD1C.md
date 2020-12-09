@@ -10,8 +10,11 @@ author: ring
 slug: B01NCKLD1C
 description:
 actualPrice: 50.83 EUR
+currency: EUR
+price: 50.83
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW 5620 3D Tapered Colored Jeans  Beige  Khaki 8442-367   38W / 34L para Hombre
 ---
 
 Tienes [G-STAR RAW 5620 3D Tapered Colored Jeans  Beige  Khaki 8442-367   38W / 34L para Hombre](https://www.amazon.es/dp/B01NCKLD1C/?tag=tolees-21) con un 49.14 % de descuento con precio de oferta de 50.83 EUR (original: 99.95 EUR) en el siguiente enlace!

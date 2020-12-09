@@ -10,8 +10,11 @@ author: ring
 slug: B00HWRFBUS
 description:
 actualPrice: 7.97 EUR
+currency: EUR
+price: 7.97
 comparePrice: 18.17 EUR
 inStock: true
+prodname: Maurer 19041415 Linterna LED  72  con Colgador e imán Grande
 ---
 
 Está [Maurer 19041415 Linterna LED  72  con Colgador e imán Grande](https://www.amazon.es/dp/B00HWRFBUS/?tag=tolees-21) con 56.14 de descuento por 7.97 EUR (original: 18.17 EUR) en el siguiente enlace!

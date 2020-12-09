@@ -10,8 +10,11 @@ author: ring
 slug: B07V9WTM2J
 description:
 actualPrice: 74.8 EUR
+currency: EUR
+price: 74.8
 comparePrice: 119.95 EUR
 inStock: true
+prodname: BOSS Hadiko X Pantalones de Deporte  Azul  Navy 410   Talla Única  Talla del Fabricante: X-Small  para Hombre
 ---
 
 Está [BOSS Hadiko X Pantalones de Deporte  Azul  Navy 410   Talla Única  Talla del Fabricante: X-Small  para Hombre](https://www.amazon.es/dp/B07V9WTM2J/?tag=tolees-21) con 37.64 de descuento por 74.8 EUR (original: 119.95 EUR) en el siguiente enlace!

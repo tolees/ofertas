@@ -10,8 +10,11 @@ author: ring
 slug: B07FRC6LJZ
 description:
 actualPrice: 32.03 EUR
+currency: EUR
+price: 32.03
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Clarks Step Urban Mix  Zapatillas para Hombre  Rojo  Burgundy-   44.5 EU
 ---
 
 Tienes [Clarks Step Urban Mix  Zapatillas para Hombre  Rojo  Burgundy-   44.5 EU](https://www.amazon.es/dp/B07FRC6LJZ/?tag=tolees-21) con un 54.21 % de descuento con precio de oferta de 32.03 EUR (original: 69.95 EUR) en el siguiente enlace!

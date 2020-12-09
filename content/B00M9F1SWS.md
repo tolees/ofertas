@@ -10,8 +10,11 @@ author: ring
 slug: B00M9F1SWS
 description:
 actualPrice: 37 EUR
+currency: EUR
+price: 37
 comparePrice: 57 EUR
 inStock: true
+prodname: Issey Miyake Nuit D Issey Eau de Toilette Vaporizador 75 ml
 ---
 
 Tienes [Issey Miyake Nuit D Issey Eau de Toilette Vaporizador 75 ml](https://www.amazon.es/dp/B00M9F1SWS/?tag=tolees-21) con un 35.09 % de descuento con precio de oferta de 37 EUR (original: 57 EUR) en el siguiente enlace!

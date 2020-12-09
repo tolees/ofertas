@@ -10,8 +10,11 @@ author: ring
 slug: B07P1TLLLY
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: UTTORA Barbacoa de Carbón Portátil BBQ  con Parillas y Pies Plegables  Matriales Saludables y Seguros  Fácil de Usar y Limpiar  Diseño de Ventilación  perfecta para BBQ  Picnic  Acampadas  Camping
 ---
 
 Está [UTTORA Barbacoa de Carbón Portátil BBQ  con Parillas y Pies Plegables  Matriales Saludables y Seguros  Fácil de Usar y Limpiar  Diseño de Ventilación  perfecta para BBQ  Picnic  Acampadas  Camping](https://www.amazon.es/dp/B07P1TLLLY/?tag=tolees-21) con 46.68 de descuento por 15.99 EUR (original: 29.99 EUR) en el siguiente enlace!

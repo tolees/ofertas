@@ -10,8 +10,11 @@ author: ring
 slug: B00ON6CW9E
 description:
 actualPrice: 22.02 EUR
+currency: EUR
+price: 22.02
 comparePrice: 119.95 EUR
 inStock: true
+prodname: MenburDominiquea - Cartera de mano Mujer  color Negro  talla 24x17x5 cm  B x H x T 
 ---
 
 Tienes [MenburDominiquea - Cartera de mano Mujer  color Negro  talla 24x17x5 cm  B x H x T ](https://www.amazon.es/dp/B00ON6CW9E/?tag=tolees-21) con un 81.64 % de descuento con precio de oferta de 22.02 EUR (original: 119.95 EUR) en el siguiente enlace!

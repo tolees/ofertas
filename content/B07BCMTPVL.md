@@ -10,8 +10,11 @@ author: ring
 slug: B07BCMTPVL
 description:
 actualPrice: 21.94 EUR
+currency: EUR
+price: 21.94
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Columbia Nelson Point Polo de Manga Corta  Hombre  Azul  Collegiate Navy   XS
 ---
 
 Está [Columbia Nelson Point Polo de Manga Corta  Hombre  Azul  Collegiate Navy   XS](https://www.amazon.es/dp/B07BCMTPVL/?tag=tolees-21) con 56.11 de descuento por 21.94 EUR (original: 49.99 EUR) en el siguiente enlace!

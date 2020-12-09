@@ -10,8 +10,11 @@ author: ring
 slug: B07HYX81WH
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Case Logic Reflect Laptop Sleeve 13.3    Funda para portátiles con Pantalla de hasta 13 3"  Acolchado Memory Foam  Interior de Felpa   Azul
 ---
 
 Está [Case Logic Reflect Laptop Sleeve 13.3    Funda para portátiles con Pantalla de hasta 13 3"  Acolchado Memory Foam  Interior de Felpa   Azul](https://www.amazon.es/dp/B07HYX81WH/?tag=tolees-21) con 56.69 de descuento por 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

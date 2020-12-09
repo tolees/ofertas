@@ -10,8 +10,11 @@ author: ring
 slug: B08HZYFP1V
 description:
 actualPrice: 10.5 EUR
+currency: EUR
+price: 10.5
 comparePrice: 14.0 EUR
 inStock: true
+prodname: Garnier Original Remedies Ultra Suave Champú Albaricoque para Niños indicado para cabellos fácil de desenredar- Pack de 4uds x400 ml
 ---
 
 Ahora mismo tienes [Garnier Original Remedies Ultra Suave Champú Albaricoque para Niños indicado para cabellos fácil de desenredar- Pack de 4uds x400 ml](https://www.amazon.es/dp/B08HZYFP1V/?tag=tolees-21) a 10.5 EUR (original: 14.0 EUR) (25.00 %  de descuento) en el siguiente enlace!

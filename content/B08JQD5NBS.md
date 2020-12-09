@@ -10,8 +10,11 @@ author: ring
 slug: B08JQD5NBS
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 44.9 EUR
 inStock: true
+prodname: FLYFLY Adorno Navideño Adorno Familiar Sobrevivido Adornos para Árboles de Navidad  Familia de superviviente de cuarentena 2020 decoración navideña Personalizado Regalo  3 Personas 
 ---
 
 Ahora mismo tienes [FLYFLY Adorno Navideño Adorno Familiar Sobrevivido Adornos para Árboles de Navidad  Familia de superviviente de cuarentena 2020 decoración navideña Personalizado Regalo  3 Personas ](https://www.amazon.es/dp/B08JQD5NBS/?tag=tolees-21) a 8.99 EUR (original: 44.9 EUR) (79.98 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07K8BRCML
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Luz Nocturna Infantil  Cocoda Proyector Océano Lámpara de Noche 7 Modos de Iluminación con Reproductor de Música Incorporado  LED Lámparas para Niños  Bebés  Dormitorio  Habitación  Navidad  Blanco 
 ---
 
 Tienes [Luz Nocturna Infantil  Cocoda Proyector Océano Lámpara de Noche 7 Modos de Iluminación con Reproductor de Música Incorporado  LED Lámparas para Niños  Bebés  Dormitorio  Habitación  Navidad  Blanco ](https://www.amazon.es/dp/B07K8BRCML/?tag=tolees-21) con un 28.58 % de descuento con precio de oferta de 19.99 EUR (original: 27.99 EUR) en el siguiente enlace!

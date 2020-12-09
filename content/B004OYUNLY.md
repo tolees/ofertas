@@ -10,8 +10,11 @@ author: ring
 slug: B004OYUNLY
 description:
 actualPrice: 71.54 EUR
+currency: EUR
+price: 71.54
 comparePrice: 129 EUR
 inStock: true
+prodname: Casio Reloj de Pulsera GD-100MS-3ER
 ---
 
 Ahora mismo tienes [Casio Reloj de Pulsera GD-100MS-3ER](https://www.amazon.es/dp/B004OYUNLY/?tag=tolees-21) a 71.54 EUR (original: 129 EUR) (44.54 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B075TXY1NM
 description:
 actualPrice: 2.99 EUR
+currency: EUR
+price: 2.99
 comparePrice: 7.9 EUR
 inStock: true
+prodname: Silver HT 93036 - Cable impresora USB tipo A y B de 1.5 m  color negro
 ---
 
 Está [Silver HT 93036 - Cable impresora USB tipo A y B de 1.5 m  color negro](https://www.amazon.es/dp/B075TXY1NM/?tag=tolees-21) con 62.15 de descuento por 2.99 EUR (original: 7.9 EUR) en el siguiente enlace!

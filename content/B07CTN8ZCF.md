@@ -10,8 +10,11 @@ author: ring
 slug: B07CTN8ZCF
 description:
 actualPrice: 7 EUR
+currency: EUR
+price: 7
 comparePrice: 14.42 EUR
 inStock: true
+prodname: FIND - Orchid Love - Paleta de sombras de ojos de 10 tonos n.3
 ---
 
 Está [FIND - Orchid Love - Paleta de sombras de ojos de 10 tonos n.3](https://www.amazon.es/dp/B07CTN8ZCF/?tag=tolees-21) con 51.46 de descuento por 7 EUR (original: 14.42 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TC4MCKW
 description:
 actualPrice: 8.0 EUR
+currency: EUR
+price: 8.0
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Los Hermanos Sisters [Blu-ray]
 ---
 
 Ahora mismo tienes [Los Hermanos Sisters [Blu-ray]](https://www.amazon.es/dp/B07TC4MCKW/?tag=tolees-21) a 8.0 EUR (original: 15.99 EUR) (49.97 %  de descuento) en el siguiente enlace!

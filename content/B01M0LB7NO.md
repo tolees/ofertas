@@ -10,8 +10,11 @@ author: ring
 slug: B01M0LB7NO
 description:
 actualPrice: 124.81 EUR
+currency: EUR
+price: 124.81
 comparePrice: 375 EUR
 inStock: true
+prodname: Maclaren Ace Silla de paseo - super ligera  compacta
 ---
 
 Está [Maclaren Ace Silla de paseo - super ligera  compacta](https://www.amazon.es/dp/B01M0LB7NO/?tag=tolees-21) con 66.72 de descuento por 124.81 EUR (original: 375 EUR) en el siguiente enlace!

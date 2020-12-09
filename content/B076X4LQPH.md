@@ -10,8 +10,11 @@ author: ring
 slug: B076X4LQPH
 description:
 actualPrice: 32.61 EUR
+currency: EUR
+price: 32.61
 comparePrice: 115 EUR
 inStock: true
+prodname: Geox U Damocle A  Zapatos de Cordones Derby para Hombre  Beige  Taupe   45 EU
 ---
 
 Ahora mismo tienes [Geox U Damocle A  Zapatos de Cordones Derby para Hombre  Beige  Taupe   45 EU](https://www.amazon.es/dp/B076X4LQPH/?tag=tolees-21) a 32.61 EUR (original: 115 EUR) (71.64 %  de descuento) en el siguiente enlace!

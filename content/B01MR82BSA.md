@@ -10,8 +10,11 @@ author: ring
 slug: B01MR82BSA
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia Wifi Interior 360° Compatible con Alexa Detección de Movimiento  Visión Nocturna  Audio de 2 Vias y Nube con App para iOS y Android Blanco
 ---
 
 Ahora mismo tienes [YI Camara Vigilancia 1080p Camara IP Camaras de Vigilancia Wifi Interior 360° Compatible con Alexa Detección de Movimiento  Visión Nocturna  Audio de 2 Vias y Nube con App para iOS y Android Blanco](https://www.amazon.es/dp/B01MR82BSA/?tag=tolees-21) a 39.99 EUR (original: 59.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

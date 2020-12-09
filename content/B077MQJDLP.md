@@ -10,8 +10,11 @@ author: ring
 slug: B077MQJDLP
 description:
 actualPrice: 18.21 EUR
+currency: EUR
+price: 18.21
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Puma Platform Slide EP  Zapatos de Playa y Piscina para Mujer   Peach Beige-Pearl   38 EU
 ---
 
 Tienes [Puma Platform Slide EP  Zapatos de Playa y Piscina para Mujer   Peach Beige-Pearl   38 EU](https://www.amazon.es/dp/B077MQJDLP/?tag=tolees-21) con un 69.62 % de descuento con precio de oferta de 18.21 EUR (original: 59.95 EUR) en el siguiente enlace!

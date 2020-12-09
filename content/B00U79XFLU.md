@@ -10,8 +10,11 @@ author: ring
 slug: B00U79XFLU
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 28.99 EUR
 inStock: true
+prodname: ThorFire C8S - Linternas LED Alta Potencia 900 Lúmenes Aluminio Linterna Táctica Militar Utiliza Batería 18650  No Incluida  para Ciclismo  Camping  Montañismo  Senderismo  Negro
 ---
 
 Ahora mismo tienes [ThorFire C8S - Linternas LED Alta Potencia 900 Lúmenes Aluminio Linterna Táctica Militar Utiliza Batería 18650  No Incluida  para Ciclismo  Camping  Montañismo  Senderismo  Negro](https://www.amazon.es/dp/B00U79XFLU/?tag=tolees-21) a 15.99 EUR (original: 28.99 EUR) (44.84 %  de descuento) en el siguiente enlace!

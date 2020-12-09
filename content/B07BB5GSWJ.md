@@ -10,8 +10,11 @@ author: ring
 slug: B07BB5GSWJ
 description:
 actualPrice: 38.43 EUR
+currency: EUR
+price: 38.43
 comparePrice: 80 EUR
 inStock: true
+prodname: The North Face T0A8MU Sudadera  Mujer  Blue Wing Teal/Peyote Beige  M
 ---
 
 Ahora mismo tienes [The North Face T0A8MU Sudadera  Mujer  Blue Wing Teal/Peyote Beige  M](https://www.amazon.es/dp/B07BB5GSWJ/?tag=tolees-21) a 38.43 EUR (original: 80 EUR) (51.96 %  de descuento) en el siguiente enlace!

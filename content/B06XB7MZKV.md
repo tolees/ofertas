@@ -10,8 +10,11 @@ author: ring
 slug: B06XB7MZKV
 description:
 actualPrice: 35.95 EUR
+currency: EUR
+price: 35.95
 comparePrice: 59.99 EUR
 inStock: true
+prodname: JACK & JONES Jjiglenn Jjfelix Am 046 50 SPS Noos Vaqueros Slim  Negro  Black Denim   W32/L30  Talla del Fabricante: 32  para Hombre
 ---
 
 Tienes [JACK & JONES Jjiglenn Jjfelix Am 046 50 SPS Noos Vaqueros Slim  Negro  Black Denim   W32/L30  Talla del Fabricante: 32  para Hombre](https://www.amazon.es/dp/B06XB7MZKV/?tag=tolees-21) con un 40.07 % de descuento con precio de oferta de 35.95 EUR (original: 59.99 EUR) en el siguiente enlace!

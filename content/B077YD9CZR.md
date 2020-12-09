@@ -10,8 +10,11 @@ author: ring
 slug: B077YD9CZR
 description:
 actualPrice: 9.81 EUR
+currency: EUR
+price: 9.81
 comparePrice: 26.95 EUR
 inStock: true
+prodname: HIKARO Sudadera con Print Mujer  Gris  Charcoal   46  Talla del fabricante: XX-Large 
 ---
 
 Tienes [HIKARO Sudadera con Print Mujer  Gris  Charcoal   46  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B077YD9CZR/?tag=tolees-21) con un 63.60 % de descuento con precio de oferta de 9.81 EUR (original: 26.95 EUR) en el siguiente enlace!

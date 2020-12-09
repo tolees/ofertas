@@ -10,8 +10,11 @@ author: ring
 slug: B07LC4JWQV
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Botella Agua para Deportes  SHENKEY Botellas de Agua a Prueba de Fugas de Plástico a Prueba de Fugas  Libres de BPA y Respetuosas del Medio Ambiente con Filtro para Ciclismo  Carrera  Senderismo
 ---
 
 Está [Botella Agua para Deportes  SHENKEY Botellas de Agua a Prueba de Fugas de Plástico a Prueba de Fugas  Libres de BPA y Respetuosas del Medio Ambiente con Filtro para Ciclismo  Carrera  Senderismo](https://www.amazon.es/dp/B07LC4JWQV/?tag=tolees-21) con 38.48 de descuento por 15.99 EUR (original: 25.99 EUR) en el siguiente enlace!

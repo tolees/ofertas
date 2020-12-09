@@ -10,8 +10,11 @@ author: ring
 slug: B01FUP0ED2
 description:
 actualPrice: 0.85 EUR
+currency: EUR
+price: 0.85
 comparePrice: 2.7 EUR
 inStock: true
+prodname: INSTITUTO ESPAÑOL crema corporal reparadora urea formato viaje 50 ml
 ---
 
 Ahora mismo tienes [INSTITUTO ESPAÑOL crema corporal reparadora urea formato viaje 50 ml](https://www.amazon.es/dp/B01FUP0ED2/?tag=tolees-21) a 0.85 EUR (original: 2.7 EUR) (68.52 %  de descuento) en el siguiente enlace!

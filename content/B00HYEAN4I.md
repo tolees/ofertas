@@ -10,8 +10,11 @@ author: ring
 slug: B00HYEAN4I
 description:
 actualPrice: 136.77 EUR
+currency: EUR
+price: 136.77
 comparePrice: 240.54 EUR
 inStock: true
+prodname: Makita DKP180Z - Cepillo Makita
 ---
 
 Tienes [Makita DKP180Z - Cepillo Makita](https://www.amazon.es/dp/B00HYEAN4I/?tag=tolees-21) con un 43.14 % de descuento con precio de oferta de 136.77 EUR (original: 240.54 EUR) en el siguiente enlace!

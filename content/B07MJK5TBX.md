@@ -10,8 +10,11 @@ author: ring
 slug: B07MJK5TBX
 description:
 actualPrice: 30.4 EUR
+currency: EUR
+price: 30.4
 comparePrice: 40.96 EUR
 inStock: true
+prodname: Pablosky 462500 - Sandalias para Niñas  Blanco  32 EU
 ---
 
 Está [Pablosky 462500 - Sandalias para Niñas  Blanco  32 EU](https://www.amazon.es/dp/B07MJK5TBX/?tag=tolees-21) con 25.78 de descuento por 30.4 EUR (original: 40.96 EUR) en el siguiente enlace!

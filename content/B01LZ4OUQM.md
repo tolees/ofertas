@@ -10,8 +10,11 @@ author: ring
 slug: B01LZ4OUQM
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: LANGRIA Caja Joyero Octogonal de Piel Sintética  Cierre con Llave  Revestimiento de Terciopelo y con Espejo  Estuche Tama?o Compacto de Viaje para Joyas  Bisuter¨ªa  Accesorios  Maquillaje  Gris 
 ---
 
 Está [LANGRIA Caja Joyero Octogonal de Piel Sintética  Cierre con Llave  Revestimiento de Terciopelo y con Espejo  Estuche Tama?o Compacto de Viaje para Joyas  Bisuter¨ªa  Accesorios  Maquillaje  Gris ](https://www.amazon.es/dp/B01LZ4OUQM/?tag=tolees-21) con 50.02 de descuento por 12.99 EUR (original: 25.99 EUR) en el siguiente enlace!

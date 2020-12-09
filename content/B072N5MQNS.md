@@ -10,8 +10,11 @@ author: ring
 slug: B072N5MQNS
 description:
 actualPrice: 8.85 EUR
+currency: EUR
+price: 8.85
 comparePrice: 13.5 EUR
 inStock: true
+prodname: La Toja Hidrotermal Crema de Afeitar Classic - 6 Unidades
 ---
 
 Tienes [La Toja Hidrotermal Crema de Afeitar Classic - 6 Unidades](https://www.amazon.es/dp/B072N5MQNS/?tag=tolees-21) con un 34.44 % de descuento con precio de oferta de 8.85 EUR (original: 13.5 EUR) en el siguiente enlace!

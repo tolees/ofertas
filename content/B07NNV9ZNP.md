@@ -10,8 +10,11 @@ author: ring
 slug: B07NNV9ZNP
 description:
 actualPrice: 12.53 EUR
+currency: EUR
+price: 12.53
 comparePrice: 19.9 EUR
 inStock: true
+prodname: Colágeno + Ácido Hialurónico + Coenzima Q10 + Vitaminas A  C  D y B12 + Zinc | Energía y Articulaciones Fuertes | Colágeno Hidrolizado en 60 cápsulas | Nutralie
 ---
 
 Está [Colágeno + Ácido Hialurónico + Coenzima Q10 + Vitaminas A  C  D y B12 + Zinc | Energía y Articulaciones Fuertes | Colágeno Hidrolizado en 60 cápsulas | Nutralie](https://www.amazon.es/dp/B07NNV9ZNP/?tag=tolees-21) con 37.04 de descuento por 12.53 EUR (original: 19.9 EUR) en el siguiente enlace!

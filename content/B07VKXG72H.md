@@ -10,8 +10,11 @@ author: ring
 slug: B07VKXG72H
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 95.0 EUR
 inStock: true
+prodname: Hackett Coral Swim Trim Polo  Rosa  368rose 368   X-Small para Hombre
 ---
 
 Ahora mismo tienes [Hackett Coral Swim Trim Polo  Rosa  368rose 368   X-Small para Hombre](https://www.amazon.es/dp/B07VKXG72H/?tag=tolees-21) a 27.99 EUR (original: 95.0 EUR) (70.54 %  de descuento) en el siguiente enlace!

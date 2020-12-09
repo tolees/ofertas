@@ -10,8 +10,11 @@ author: ring
 slug: B07KN2GCQX
 description:
 actualPrice: 1 EUR
+currency: EUR
+price: 1
 comparePrice: 11.95 EUR
 inStock: true
+prodname: adidas Linear Core  Mochila Unisex Adulto  Azul  True Blue/White   1x37x47 centimeters  W x H x L 
 ---
 
 Ahora mismo tienes [adidas Linear Core  Mochila Unisex Adulto  Azul  True Blue/White   1x37x47 centimeters  W x H x L ](https://www.amazon.es/dp/B07KN2GCQX/?tag=tolees-21) a 1 EUR (original: 11.95 EUR) (91.63 %  de descuento) en el siguiente enlace!

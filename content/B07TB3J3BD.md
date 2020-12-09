@@ -10,8 +10,11 @@ author: ring
 slug: B07TB3J3BD
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Levi s LEVIS FOOTWEAR AND ACCESSORIES New Duncan Cinturón  Marrón  Dark Brown   75 para Hombre
 ---
 
 Ahora mismo tienes [Levi s LEVIS FOOTWEAR AND ACCESSORIES New Duncan Cinturón  Marrón  Dark Brown   75 para Hombre](https://www.amazon.es/dp/B07TB3J3BD/?tag=tolees-21) a 22.99 EUR (original: 35.0 EUR) (34.31 %  de descuento) en el siguiente enlace!

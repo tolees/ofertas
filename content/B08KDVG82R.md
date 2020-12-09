@@ -10,8 +10,11 @@ author: ring
 slug: B08KDVG82R
 description:
 actualPrice: 26.51 EUR
+currency: EUR
+price: 26.51
 comparePrice: 53.02 EUR
 inStock: true
+prodname: Cortapelos eléctrico profesional  multifunción  recargable  portátil  sin cables  para hombre  negro 
 ---
 
 Está [Cortapelos eléctrico profesional  multifunción  recargable  portátil  sin cables  para hombre  negro ](https://www.amazon.es/dp/B08KDVG82R/?tag=tolees-21) con 50.00 de descuento por 26.51 EUR (original: 53.02 EUR) en el siguiente enlace!

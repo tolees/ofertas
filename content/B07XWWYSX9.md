@@ -10,8 +10,11 @@ author: ring
 slug: B07XWWYSX9
 description:
 actualPrice: 10.19 EUR
+currency: EUR
+price: 10.19
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Consuelo - Cápsulas de café de Colombia compatibles con cafetera Nespresso*  100 unidades  5 cajas de 20 cápsulas 
 ---
 
 Ahora mismo tienes [Consuelo - Cápsulas de café de Colombia compatibles con cafetera Nespresso*  100 unidades  5 cajas de 20 cápsulas ](https://www.amazon.es/dp/B07XWWYSX9/?tag=tolees-21) a 10.19 EUR (original: 16.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

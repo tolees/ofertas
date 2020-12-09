@@ -10,8 +10,11 @@ author: ring
 slug: B010SRKIRO
 description:
 actualPrice: 11.9 EUR
+currency: EUR
+price: 11.9
 comparePrice: 18.8 EUR
 inStock: true
+prodname: Korg PitchCrow-G - Afinadores y metrónomos
 ---
 
 Está [Korg PitchCrow-G - Afinadores y metrónomos](https://www.amazon.es/dp/B010SRKIRO/?tag=tolees-21) con 36.70 de descuento por 11.9 EUR (original: 18.8 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B072LNJPRX
 description:
 actualPrice: 31.67 EUR
+currency: EUR
+price: 31.67
 comparePrice: 100 EUR
 inStock: true
+prodname: Under Armour Ua Ultimate Speed Zapatillas de deporte Hombre  Azul  Moroccan Blue 400   47.5 EU
 ---
 
 Tienes [Under Armour Ua Ultimate Speed Zapatillas de deporte Hombre  Azul  Moroccan Blue 400   47.5 EU](https://www.amazon.es/dp/B072LNJPRX/?tag=tolees-21) con un 68.33 % de descuento con precio de oferta de 31.67 EUR (original: 100 EUR) en el siguiente enlace!

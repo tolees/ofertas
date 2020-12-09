@@ -10,8 +10,11 @@ author: ring
 slug: B075ZYFCRD
 description:
 actualPrice: 34.74 EUR
+currency: EUR
+price: 34.74
 comparePrice: 91 EUR
 inStock: true
+prodname: Nike Lunarsolo  Zapatillas de Running para Mujer  Beige  Lt Cream/Mtlc Gold Star/Lemon 202   37.5 EU
 ---
 
 Tienes [Nike Lunarsolo  Zapatillas de Running para Mujer  Beige  Lt Cream/Mtlc Gold Star/Lemon 202   37.5 EU](https://www.amazon.es/dp/B075ZYFCRD/?tag=tolees-21) con un 61.82 % de descuento con precio de oferta de 34.74 EUR (original: 91 EUR) en el siguiente enlace!

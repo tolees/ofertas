@@ -10,8 +10,11 @@ author: ring
 slug: B001FSKOC0
 description:
 actualPrice: 9.17 EUR
+currency: EUR
+price: 9.17
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Aquaglide Lubricante intimo  200 ml
 ---
 
 Está [Aquaglide Lubricante intimo  200 ml](https://www.amazon.es/dp/B001FSKOC0/?tag=tolees-21) con 38.83 de descuento por 9.17 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MSC3TZW
 description:
 actualPrice: 16.6 EUR
+currency: EUR
+price: 16.6
 comparePrice: 45.9 EUR
 inStock: true
+prodname: MTNG Alison  Sandalias con Plataforma Plana para Mujer  Hueso  Aviator Maquillaje   41 EU
 ---
 
 Tienes [MTNG Alison  Sandalias con Plataforma Plana para Mujer  Hueso  Aviator Maquillaje   41 EU](https://www.amazon.es/dp/B01MSC3TZW/?tag=tolees-21) con un 63.83 % de descuento con precio de oferta de 16.6 EUR (original: 45.9 EUR) en el siguiente enlace!

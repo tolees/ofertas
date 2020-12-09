@@ -10,8 +10,11 @@ author: ring
 slug: B071JSC4CW
 description:
 actualPrice: 6.98 EUR
+currency: EUR
+price: 6.98
 comparePrice: 13.95 EUR
 inStock: true
+prodname: FABTASTICS Paw Patrol  Pijama para Niños  Gris  Grey 001   3 Años/98 cm
 ---
 
 Ahora mismo tienes [FABTASTICS Paw Patrol  Pijama para Niños  Gris  Grey 001   3 Años/98 cm](https://www.amazon.es/dp/B071JSC4CW/?tag=tolees-21) a 6.98 EUR (original: 13.95 EUR) (49.96 %  de descuento) en el siguiente enlace!

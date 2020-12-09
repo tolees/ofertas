@@ -10,8 +10,11 @@ author: ring
 slug: B07KFSZJ73
 description:
 actualPrice: 39.98 EUR
+currency: EUR
+price: 39.98
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Adidas Solar Lt Trainer W  Zapatillas de Deporte para Mujer   Rojact/Ftwbla/Ciasho 000   36 EU
 ---
 
 Ahora mismo tienes [Adidas Solar Lt Trainer W  Zapatillas de Deporte para Mujer   Rojact/Ftwbla/Ciasho 000   36 EU](https://www.amazon.es/dp/B07KFSZJ73/?tag=tolees-21) a 39.98 EUR (original: 79.95 EUR) (49.99 %  de descuento) en el siguiente enlace!

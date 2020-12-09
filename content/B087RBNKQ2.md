@@ -10,8 +10,11 @@ author: ring
 slug: B087RBNKQ2
 description:
 actualPrice: 229.99 EUR
+currency: EUR
+price: 229.99
 comparePrice: 399.99 EUR
 inStock: true
+prodname: AOTTOM 8CH 1080P WiFi Système de Vidéosurveillance NVR Sans Fil l écran LCD 12   4 Caméras 2MP  économiseur d’écran Automatique  Détection de Mouvement  Alarme Email  App pour P2P  Pas de Disque Dur
 ---
 
 Tienes [AOTTOM 8CH 1080P WiFi Système de Vidéosurveillance NVR Sans Fil l écran LCD 12   4 Caméras 2MP  économiseur d’écran Automatique  Détection de Mouvement  Alarme Email  App pour P2P  Pas de Disque Dur](https://www.amazon.es/dp/B087RBNKQ2/?tag=tolees-21) con un 42.50 % de descuento con precio de oferta de 229.99 EUR (original: 399.99 EUR) en el siguiente enlace!

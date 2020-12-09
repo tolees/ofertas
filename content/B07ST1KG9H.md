@@ -10,8 +10,11 @@ author: ring
 slug: B07ST1KG9H
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 61.99 EUR
 inStock: true
+prodname: Marvel s Avengers - Windows  Edición Estándar 
 ---
 
 Ahora mismo tienes [Marvel s Avengers - Windows  Edición Estándar ](https://www.amazon.es/dp/B07ST1KG9H/?tag=tolees-21) a 29.95 EUR (original: 61.99 EUR) (51.69 %  de descuento) en el siguiente enlace!

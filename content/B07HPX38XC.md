@@ -10,8 +10,11 @@ author: ring
 slug: B07HPX38XC
 description:
 actualPrice: 34.9 EUR
+currency: EUR
+price: 34.9
 comparePrice: 56.99 EUR
 inStock: true
+prodname: Samsung FIT Plus MUF-256AB/APC - Memoria USB 3.1  256 GB  Tipo A  400 MB/s 
 ---
 
 Ahora mismo tienes [Samsung FIT Plus MUF-256AB/APC - Memoria USB 3.1  256 GB  Tipo A  400 MB/s ](https://www.amazon.es/dp/B07HPX38XC/?tag=tolees-21) a 34.9 EUR (original: 56.99 EUR) (38.76 %  de descuento) en el siguiente enlace!

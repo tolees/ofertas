@@ -10,8 +10,11 @@ author: ring
 slug: B089GCYQCJ
 description:
 actualPrice: 17.64 EUR
+currency: EUR
+price: 17.64
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Hysure Deshumidificador Compacto y portátil  500 ml  Protege Frente a la Humedad  la Suciedad y el Moho en casa  en la Cocina  en dormitorios  caravanas  oficinas y garajes
 ---
 
 Ahora mismo tienes [Hysure Deshumidificador Compacto y portátil  500 ml  Protege Frente a la Humedad  la Suciedad y el Moho en casa  en la Cocina  en dormitorios  caravanas  oficinas y garajes](https://www.amazon.es/dp/B089GCYQCJ/?tag=tolees-21) a 17.64 EUR (original: 29.99 EUR) (41.18 %  de descuento) en el siguiente enlace!

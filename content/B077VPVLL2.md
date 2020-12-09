@@ -10,8 +10,11 @@ author: ring
 slug: B077VPVLL2
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 20.98 EUR
 inStock: true
+prodname: KEXIN 16GB Memoria USB 2.0 Pendrive 16GB Flash Drive Memory Stick para Computadoras  Tabletas y Otros Dispositivos  Corazón Azul 
 ---
 
 Está [KEXIN 16GB Memoria USB 2.0 Pendrive 16GB Flash Drive Memory Stick para Computadoras  Tabletas y Otros Dispositivos  Corazón Azul ](https://www.amazon.es/dp/B077VPVLL2/?tag=tolees-21) con 47.62 de descuento por 10.99 EUR (original: 20.98 EUR) en el siguiente enlace!

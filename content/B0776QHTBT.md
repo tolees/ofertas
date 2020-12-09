@@ -10,8 +10,11 @@ author: ring
 slug: B0776QHTBT
 description:
 actualPrice: 18.49 EUR
+currency: EUR
+price: 18.49
 comparePrice: 52.83 EUR
 inStock: true
+prodname: PROSTEEL Cadena para Hombre  Cadena Cubana 6mm de Ancho  Negro 71cm
 ---
 
 Tienes [PROSTEEL Cadena para Hombre  Cadena Cubana 6mm de Ancho  Negro 71cm](https://www.amazon.es/dp/B0776QHTBT/?tag=tolees-21) con un 65.00 % de descuento con precio de oferta de 18.49 EUR (original: 52.83 EUR) en el siguiente enlace!

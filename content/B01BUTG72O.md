@@ -10,8 +10,11 @@ author: ring
 slug: B01BUTG72O
 description:
 actualPrice: 9.47 EUR
+currency: EUR
+price: 9.47
 comparePrice: 24.5 EUR
 inStock: true
+prodname: Revlon  Accesorio de coloración - 250 ml.
 ---
 
 Tienes [Revlon  Accesorio de coloración - 250 ml.](https://www.amazon.es/dp/B01BUTG72O/?tag=tolees-21) con un 61.35 % de descuento con precio de oferta de 9.47 EUR (original: 24.5 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00QXSAJXG
 description:
 actualPrice: 13.46 EUR
+currency: EUR
+price: 13.46
 comparePrice: 88.94 EUR
 inStock: true
+prodname: Imation 945231 - Cargador
 ---
 
 Está [Imation 945231 - Cargador](https://www.amazon.es/dp/B00QXSAJXG/?tag=tolees-21) con 84.87 de descuento por 13.46 EUR (original: 88.94 EUR) en el siguiente enlace!

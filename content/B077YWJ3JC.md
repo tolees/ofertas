@@ -10,8 +10,11 @@ author: ring
 slug: B077YWJ3JC
 description:
 actualPrice: 17.97 EUR
+currency: EUR
+price: 17.97
 comparePrice: 29.95 EUR
 inStock: true
+prodname: HIKARO Sudadera con Capucha Hombre  Gris  Grey Marl   56  Talla del fabricante: XX-Large 
 ---
 
 Está [HIKARO Sudadera con Capucha Hombre  Gris  Grey Marl   56  Talla del fabricante: XX-Large ](https://www.amazon.es/dp/B077YWJ3JC/?tag=tolees-21) con 40.00 de descuento por 17.97 EUR (original: 29.95 EUR) en el siguiente enlace!

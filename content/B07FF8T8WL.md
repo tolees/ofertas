@@ -10,8 +10,11 @@ author: ring
 slug: B07FF8T8WL
 description:
 actualPrice: 28.79 EUR
+currency: EUR
+price: 28.79
 comparePrice: 60 EUR
 inStock: true
+prodname: Hurley M CRONE Blocked Pullover Sudaderas  Hombre  Olive Canvas htr  S
 ---
 
 Tienes [Hurley M CRONE Blocked Pullover Sudaderas  Hombre  Olive Canvas htr  S](https://www.amazon.es/dp/B07FF8T8WL/?tag=tolees-21) con un 52.02 % de descuento con precio de oferta de 28.79 EUR (original: 60 EUR) en el siguiente enlace!

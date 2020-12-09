@@ -10,8 +10,11 @@ author: ring
 slug: B0096BQKVM
 description:
 actualPrice: 67.82 EUR
+currency: EUR
+price: 67.82
 comparePrice: 115 EUR
 inStock: true
+prodname: Dolce & Gabbana 38932 - Agua de perfume
 ---
 
 Tienes [Dolce & Gabbana 38932 - Agua de perfume](https://www.amazon.es/dp/B0096BQKVM/?tag=tolees-21) con un 41.03 % de descuento con precio de oferta de 67.82 EUR (original: 115 EUR) en el siguiente enlace!

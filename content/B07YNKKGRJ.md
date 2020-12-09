@@ -10,8 +10,11 @@ author: ring
 slug: B07YNKKGRJ
 description:
 actualPrice: 14.69 EUR
+currency: EUR
+price: 14.69
 comparePrice: 20.99 EUR
 inStock: true
+prodname: Hasbro- Simon  E93835L0    color/modelo surtido
 ---
 
 Está [Hasbro- Simon  E93835L0    color/modelo surtido](https://www.amazon.es/dp/B07YNKKGRJ/?tag=tolees-21) con 30.01 de descuento por 14.69 EUR (original: 20.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00X5FH3EI
 description:
 actualPrice: 8.41 EUR
+currency: EUR
+price: 8.41
 comparePrice: 14.07 EUR
 inStock: true
+prodname: Disney Infinity 3.0 - Star Wars: Starter Pack  Incluye Figura Anakin Y Ashoka 
 ---
 
 Tienes [Disney Infinity 3.0 - Star Wars: Starter Pack  Incluye Figura Anakin Y Ashoka ](https://www.amazon.es/dp/B00X5FH3EI/?tag=tolees-21) con un 40.23 % de descuento con precio de oferta de 8.41 EUR (original: 14.07 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01ET4MTRO
 description:
 actualPrice: 56.49 EUR
+currency: EUR
+price: 56.49
 comparePrice: 130.0 EUR
 inStock: true
+prodname: Helly Hansen W Aden Long Coat Jacket  Mujer  White  M
 ---
 
 Está [Helly Hansen W Aden Long Coat Jacket  Mujer  White  M](https://www.amazon.es/dp/B01ET4MTRO/?tag=tolees-21) con 56.55 de descuento por 56.49 EUR (original: 130.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00XABRW34
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 25.65 EUR
 inStock: true
+prodname: Chivas Regal 12 años Whisky Escocés de Mezcla - 700 ml
 ---
 
 Tienes [Chivas Regal 12 años Whisky Escocés de Mezcla - 700 ml](https://www.amazon.es/dp/B00XABRW34/?tag=tolees-21) con un 29.86 % de descuento con precio de oferta de 17.99 EUR (original: 25.65 EUR) en el siguiente enlace!

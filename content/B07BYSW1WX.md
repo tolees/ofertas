@@ -10,8 +10,11 @@ author: ring
 slug: B07BYSW1WX
 description:
 actualPrice: 7.65 EUR
+currency: EUR
+price: 7.65
 comparePrice: 15.0 EUR
 inStock: true
+prodname: L Oréal Paris Men Expert - Vitalift Gel anti arrugas de absorción rápida - 50 ml
 ---
 
 Tienes [L Oréal Paris Men Expert - Vitalift Gel anti arrugas de absorción rápida - 50 ml](https://www.amazon.es/dp/B07BYSW1WX/?tag=tolees-21) con un 49.00 % de descuento con precio de oferta de 7.65 EUR (original: 15.0 EUR) en el siguiente enlace!

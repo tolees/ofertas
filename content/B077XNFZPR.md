@@ -10,8 +10,11 @@ author: ring
 slug: B077XNFZPR
 description:
 actualPrice: 12.54 EUR
+currency: EUR
+price: 12.54
 comparePrice: 35 EUR
 inStock: true
+prodname: Under Armour Raid 3/4 Leggin  Niños  Black/Steel/Graphite  YS
 ---
 
 Tienes [Under Armour Raid 3/4 Leggin  Niños  Black/Steel/Graphite  YS](https://www.amazon.es/dp/B077XNFZPR/?tag=tolees-21) con un 64.17 % de descuento con precio de oferta de 12.54 EUR (original: 35 EUR) en el siguiente enlace!

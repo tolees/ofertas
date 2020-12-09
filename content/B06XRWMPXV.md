@@ -10,8 +10,11 @@ author: ring
 slug: B06XRWMPXV
 description:
 actualPrice: 50 EUR
+currency: EUR
+price: 50
 comparePrice: 89.95 EUR
 inStock: true
+prodname: New Balance Fresh Foam Cruz Hoody Pack  Zapatillas de Entrenamiento para Hombre  Azul Blau/Weiß  42.5 EU
 ---
 
 Tienes [New Balance Fresh Foam Cruz Hoody Pack  Zapatillas de Entrenamiento para Hombre  Azul Blau/Weiß  42.5 EU](https://www.amazon.es/dp/B06XRWMPXV/?tag=tolees-21) con un 44.41 % de descuento con precio de oferta de 50 EUR (original: 89.95 EUR) en el siguiente enlace!

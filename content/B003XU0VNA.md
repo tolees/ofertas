@@ -10,8 +10,11 @@ author: ring
 slug: B003XU0VNA
 description:
 actualPrice: 15.05 EUR
+currency: EUR
+price: 15.05
 comparePrice: 22.02 EUR
 inStock: true
+prodname: Vichy Normaderm Deep Cleansing Gel Purificante - 400 ml
 ---
 
 Tienes [Vichy Normaderm Deep Cleansing Gel Purificante - 400 ml](https://www.amazon.es/dp/B003XU0VNA/?tag=tolees-21) con un 31.65 % de descuento con precio de oferta de 15.05 EUR (original: 22.02 EUR) en el siguiente enlace!

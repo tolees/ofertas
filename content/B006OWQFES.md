@@ -10,8 +10,11 @@ author: ring
 slug: B006OWQFES
 description:
 actualPrice: 7.78 EUR
+currency: EUR
+price: 7.78
 comparePrice: 12.79 EUR
 inStock: true
+prodname: Polisport Profex - Botella isotérmica  500 ml  Blanco Blanco Talla:500 ml
 ---
 
 Tienes [Polisport Profex - Botella isotérmica  500 ml  Blanco Blanco Talla:500 ml](https://www.amazon.es/dp/B006OWQFES/?tag=tolees-21) con un 39.17 % de descuento con precio de oferta de 7.78 EUR (original: 12.79 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0774HZTBP
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Esnow 120 pedazos de aceite de madera de caña difusor Sticks reed ratán de recambio para fragancia de aroma  9.45 pulgadas
 ---
 
 Ahora mismo tienes [Esnow 120 pedazos de aceite de madera de caña difusor Sticks reed ratán de recambio para fragancia de aroma  9.45 pulgadas](https://www.amazon.es/dp/B0774HZTBP/?tag=tolees-21) a 6.99 EUR (original: 10.99 EUR) (36.40 %  de descuento) en el siguiente enlace!

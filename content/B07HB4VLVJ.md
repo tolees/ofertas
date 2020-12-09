@@ -10,8 +10,11 @@ author: ring
 slug: B07HB4VLVJ
 description:
 actualPrice: 11.89 EUR
+currency: EUR
+price: 11.89
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Figura Pop Fantastic Beast 2 : NAGINI
 ---
 
 Ahora mismo tienes [Figura Pop Fantastic Beast 2 : NAGINI](https://www.amazon.es/dp/B07HB4VLVJ/?tag=tolees-21) a 11.89 EUR (original: 15.95 EUR) (25.45 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CN4H1ZF
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Crocs Classic II Slide  Sandalias de Punta Descubierta Unisex Adulto  Verde  Army Green 309   42/43 EU
 ---
 
 Ahora mismo tienes [Crocs Classic II Slide  Sandalias de Punta Descubierta Unisex Adulto  Verde  Army Green 309   42/43 EU](https://www.amazon.es/dp/B07CN4H1ZF/?tag=tolees-21) a 13.95 EUR (original: 19.99 EUR) (30.22 %  de descuento) en el siguiente enlace!

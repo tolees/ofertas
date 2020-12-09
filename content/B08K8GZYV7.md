@@ -10,8 +10,11 @@ author: ring
 slug: B08K8GZYV7
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 28.82 EUR
 inStock: true
+prodname: DazSpirit 24 Calendario De Adviento Navidad  Bolsa De Regalo Navidad  24 Bolsas De Yute Calendario Adviento para Rellenar  Bricolaje Calendario Adviento  para Decoración Navideñaa De Cuenta Atrás
 ---
 
 Está [DazSpirit 24 Calendario De Adviento Navidad  Bolsa De Regalo Navidad  24 Bolsas De Yute Calendario Adviento para Rellenar  Bricolaje Calendario Adviento  para Decoración Navideñaa De Cuenta Atrás](https://www.amazon.es/dp/B08K8GZYV7/?tag=tolees-21) con 61.87 de descuento por 10.99 EUR (original: 28.82 EUR) en el siguiente enlace!

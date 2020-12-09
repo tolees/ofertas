@@ -10,8 +10,11 @@ author: ring
 slug: B07RH6RLK8
 description:
 actualPrice: 42.34 EUR
+currency: EUR
+price: 42.34
 comparePrice: 76.59 EUR
 inStock: true
+prodname: Diamond Select  Color Figure
 ---
 
 Tienes [Diamond Select  Color Figure](https://www.amazon.es/dp/B07RH6RLK8/?tag=tolees-21) con un 44.72 % de descuento con precio de oferta de 42.34 EUR (original: 76.59 EUR) en el siguiente enlace!

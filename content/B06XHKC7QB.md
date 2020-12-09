@@ -10,8 +10,11 @@ author: ring
 slug: B06XHKC7QB
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 18 EUR
 inStock: true
+prodname: Luanvi Olimpia - Polo de manga corta Hombre  Verde  L
 ---
 
 Ahora mismo tienes [Luanvi Olimpia - Polo de manga corta Hombre  Verde  L](https://www.amazon.es/dp/B06XHKC7QB/?tag=tolees-21) a 7.99 EUR (original: 18 EUR) (55.61 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HM5ZNPL
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Lovelysi Mujers Moda Retro Chunky Zapatillas de Deportivo Sneakers Running Cordones Zapatos para Correr Malla Calzado Atletismo Alta Talón Plataforma Fitness Casual Invierno Otoño Senderismo
 ---
 
 Ahora mismo tienes [Lovelysi Mujers Moda Retro Chunky Zapatillas de Deportivo Sneakers Running Cordones Zapatos para Correr Malla Calzado Atletismo Alta Talón Plataforma Fitness Casual Invierno Otoño Senderismo](https://www.amazon.es/dp/B07HM5ZNPL/?tag=tolees-21) a 21.99 EUR (original: 59.99 EUR) (63.34 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JHX3LWL
 description:
 actualPrice: 19.94 EUR
+currency: EUR
+price: 19.94
 comparePrice: 39.95 EUR
 inStock: true
+prodname: PUMA Evostripe Evoknit tee Camiseta  Hombre  Negro Black  M
 ---
 
 Está [PUMA Evostripe Evoknit tee Camiseta  Hombre  Negro Black  M](https://www.amazon.es/dp/B07JHX3LWL/?tag=tolees-21) con 50.09 de descuento por 19.94 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07SQGW4Y3
 description:
 actualPrice: 44.14 EUR
+currency: EUR
+price: 44.14
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D AIRELL C  Zapatillas Mujer  Blanco  White C1000   36 EU
 ---
 
 Está [Geox D AIRELL C  Zapatillas Mujer  Blanco  White C1000   36 EU](https://www.amazon.es/dp/B07SQGW4Y3/?tag=tolees-21) con 55.82 de descuento por 44.14 EUR (original: 99.9 EUR) en el siguiente enlace!

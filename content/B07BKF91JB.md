@@ -10,8 +10,11 @@ author: ring
 slug: B07BKF91JB
 description:
 actualPrice: 7.25 EUR
+currency: EUR
+price: 7.25
 comparePrice: 37.5 EUR
 inStock: true
+prodname: Conguitos IIC30000 Leggings  Niñas  Rosa  Rosa 11   128  Tamaño del Fabricante:8A 
 ---
 
 Tienes [Conguitos IIC30000 Leggings  Niñas  Rosa  Rosa 11   128  Tamaño del Fabricante:8A ](https://www.amazon.es/dp/B07BKF91JB/?tag=tolees-21) con un 80.67 % de descuento con precio de oferta de 7.25 EUR (original: 37.5 EUR) en el siguiente enlace!

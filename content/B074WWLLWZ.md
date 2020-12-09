@@ -10,8 +10,11 @@ author: ring
 slug: B074WWLLWZ
 description:
 actualPrice: 19.5 EUR
+currency: EUR
+price: 19.5
 comparePrice: 34.71 EUR
 inStock: true
+prodname: Pandora Abalorios Mujer plata - 792053CZ
 ---
 
 Está [Pandora Abalorios Mujer plata - 792053CZ](https://www.amazon.es/dp/B074WWLLWZ/?tag=tolees-21) con 43.82 de descuento por 19.5 EUR (original: 34.71 EUR) en el siguiente enlace!

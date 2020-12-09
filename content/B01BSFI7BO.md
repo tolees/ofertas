@@ -10,8 +10,11 @@ author: ring
 slug: B01BSFI7BO
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Baul Moto Universal 35L con Llaves y Soporte Caja de Moto Topbox Topcase Casco
 ---
 
 Está [Baul Moto Universal 35L con Llaves y Soporte Caja de Moto Topbox Topcase Casco](https://www.amazon.es/dp/B01BSFI7BO/?tag=tolees-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

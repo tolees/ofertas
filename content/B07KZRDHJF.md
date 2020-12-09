@@ -10,8 +10,11 @@ author: ring
 slug: B07KZRDHJF
 description:
 actualPrice: 48.65 EUR
+currency: EUR
+price: 48.65
 comparePrice: 64.88 EUR
 inStock: true
+prodname: CMCMCMCM Cartucho de tóner Compatible con Samsung CLT-K504S CLT-C504S CLT-Y504S CLT-M504S para Impresora Samsung Xpress SL-C1860FW SL-C1810W/XAA CLX-4195FW CLX-4195FN
 ---
 
 Está [CMCMCMCM Cartucho de tóner Compatible con Samsung CLT-K504S CLT-C504S CLT-Y504S CLT-M504S para Impresora Samsung Xpress SL-C1860FW SL-C1810W/XAA CLX-4195FW CLX-4195FN](https://www.amazon.es/dp/B07KZRDHJF/?tag=tolees-21) con 25.02 de descuento por 48.65 EUR (original: 64.88 EUR) en el siguiente enlace!

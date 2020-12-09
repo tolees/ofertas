@@ -10,8 +10,11 @@ author: ring
 slug: B07MCD89HY
 description:
 actualPrice: 39.9 EUR
+currency: EUR
+price: 39.9
 comparePrice: 89.95 EUR
 inStock: true
+prodname: XOMAX XM-2R421 Radio de Coche con Bluetooth I RDS I Am  FM I USB  AUX I 7 Colores de luz Ajustables I 2 DIN
 ---
 
 Está [XOMAX XM-2R421 Radio de Coche con Bluetooth I RDS I Am  FM I USB  AUX I 7 Colores de luz Ajustables I 2 DIN](https://www.amazon.es/dp/B07MCD89HY/?tag=tolees-21) con 55.64 de descuento por 39.9 EUR (original: 89.95 EUR) en el siguiente enlace!

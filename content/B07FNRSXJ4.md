@@ -10,8 +10,11 @@ author: ring
 slug: B07FNRSXJ4
 description:
 actualPrice: 71.55 EUR
+currency: EUR
+price: 71.55
 comparePrice: 179.99 EUR
 inStock: true
+prodname: RIP CURL Montauk Parka Jacket Chaqueta  Mujer  Major Brown  XS
 ---
 
 Está [RIP CURL Montauk Parka Jacket Chaqueta  Mujer  Major Brown  XS](https://www.amazon.es/dp/B07FNRSXJ4/?tag=tolees-21) con 60.25 de descuento por 71.55 EUR (original: 179.99 EUR) en el siguiente enlace!

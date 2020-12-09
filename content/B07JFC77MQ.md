@@ -10,8 +10,11 @@ author: ring
 slug: B07JFC77MQ
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Calzado de Trabajo Hombre Mujer Zapatillas de Seguridad con Puntera de Acero Antideslizante Transpirables Unisex Rojo 42
 ---
 
 Está [Calzado de Trabajo Hombre Mujer Zapatillas de Seguridad con Puntera de Acero Antideslizante Transpirables Unisex Rojo 42](https://www.amazon.es/dp/B07JFC77MQ/?tag=tolees-21) con 28.01 de descuento por 35.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JDHPPV6
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 32.98 EUR
 inStock: true
+prodname: UliX Sele Auriculares On-Ear Cable Trenzado Sin Nudos Compatibles Teléfonos Móvil Smartphone Ordenador 
 ---
 
 Ahora mismo tienes [UliX Sele Auriculares On-Ear Cable Trenzado Sin Nudos Compatibles Teléfonos Móvil Smartphone Ordenador ](https://www.amazon.es/dp/B07JDHPPV6/?tag=tolees-21) a 14.99 EUR (original: 32.98 EUR) (54.55 %  de descuento) en el siguiente enlace!

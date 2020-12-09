@@ -10,8 +10,11 @@ author: ring
 slug: B07SVPVXXF
 description:
 actualPrice: 50.08 EUR
+currency: EUR
+price: 50.08
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D ANNYTAH C  Bailarinas para Mujer  Azul  Blue C4000   39 EU
 ---
 
 Ahora mismo tienes [Geox D ANNYTAH C  Bailarinas para Mujer  Azul  Blue C4000   39 EU](https://www.amazon.es/dp/B07SVPVXXF/?tag=tolees-21) a 50.08 EUR (original: 99.9 EUR) (49.87 %  de descuento) en el siguiente enlace!

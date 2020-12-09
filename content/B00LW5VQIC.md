@@ -10,8 +10,11 @@ author: ring
 slug: B00LW5VQIC
 description:
 actualPrice: 81.41 EUR
+currency: EUR
+price: 81.41
 comparePrice: 176.66 EUR
 inStock: true
+prodname: Acer Consumo - Monitor de 21.5"
 ---
 
 Ahora mismo tienes [Acer Consumo - Monitor de 21.5"](https://www.amazon.es/dp/B00LW5VQIC/?tag=tolees-21) a 81.41 EUR (original: 176.66 EUR) (53.92 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07X9TZQCJ
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 41.1 EUR
 inStock: true
+prodname: LEGO-tbd-PT-IP-2-4 PT IP 2 2020 Juego de construcción  Multicolor  75549 
 ---
 
 Tienes [LEGO-tbd-PT-IP-2-4 PT IP 2 2020 Juego de construcción  Multicolor  75549 ](https://www.amazon.es/dp/B07X9TZQCJ/?tag=tolees-21) con un 51.36 % de descuento con precio de oferta de 19.99 EUR (original: 41.1 EUR) en el siguiente enlace!

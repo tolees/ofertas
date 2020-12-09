@@ -10,8 +10,11 @@ author: ring
 slug: B07DLG9M4V
 description:
 actualPrice: 31.29 EUR
+currency: EUR
+price: 31.29
 comparePrice: 60 EUR
 inStock: true
+prodname: Element Blazin Crew Fleece  Hombre  Charcoal Heather  L
 ---
 
 Ahora mismo tienes [Element Blazin Crew Fleece  Hombre  Charcoal Heather  L](https://www.amazon.es/dp/B07DLG9M4V/?tag=tolees-21) a 31.29 EUR (original: 60 EUR) (47.85 %  de descuento) en el siguiente enlace!

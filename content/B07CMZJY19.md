@@ -10,8 +10,11 @@ author: ring
 slug: B07CMZJY19
 description:
 actualPrice: 9.97 EUR
+currency: EUR
+price: 9.97
 comparePrice: 23.99 EUR
 inStock: true
+prodname: Dust Daddy Cepillo de Limpieza para Aspirador Universal vacuumax perfecto Para Carros/Ventilas/Mascotas/Esquinas/Cajones -PISKY
 ---
 
 Tienes [Dust Daddy Cepillo de Limpieza para Aspirador Universal vacuumax perfecto Para Carros/Ventilas/Mascotas/Esquinas/Cajones -PISKY](https://www.amazon.es/dp/B07CMZJY19/?tag=tolees-21) con un 58.44 % de descuento con precio de oferta de 9.97 EUR (original: 23.99 EUR) en el siguiente enlace!

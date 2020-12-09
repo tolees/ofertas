@@ -10,8 +10,11 @@ author: ring
 slug: B07FXVXQB1
 description:
 actualPrice: 59.55 EUR
+currency: EUR
+price: 59.55
 comparePrice: 120.0 EUR
 inStock: true
+prodname: Levi s 502 Taper Jeans  Rock Cod  31W / 32L para Hombre
 ---
 
 Tienes [Levi s 502 Taper Jeans  Rock Cod  31W / 32L para Hombre](https://www.amazon.es/dp/B07FXVXQB1/?tag=tolees-21) con un 50.38 % de descuento con precio de oferta de 59.55 EUR (original: 120.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B082L6NNLL
 description:
 actualPrice: 11.2 EUR
+currency: EUR
+price: 11.2
 comparePrice: 15.4 EUR
 inStock: true
+prodname: Neutrogena Spot Controlling Limpiador Facial  Granos Persistentes  200ml
 ---
 
 Está [Neutrogena Spot Controlling Limpiador Facial  Granos Persistentes  200ml](https://www.amazon.es/dp/B082L6NNLL/?tag=tolees-21) con 27.27 de descuento por 11.2 EUR (original: 15.4 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01M9APFW9
 description:
 actualPrice: 41.32 EUR
+currency: EUR
+price: 41.32
 comparePrice: 110 EUR
 inStock: true
+prodname: Nike Free Rn 2018  Zapatillas de Running para Mujer  Negro  Black/White 001   37.5 EU
 ---
 
 Ahora mismo tienes [Nike Free Rn 2018  Zapatillas de Running para Mujer  Negro  Black/White 001   37.5 EU](https://www.amazon.es/dp/B01M9APFW9/?tag=tolees-21) a 41.32 EUR (original: 110 EUR) (62.44 %  de descuento) en el siguiente enlace!

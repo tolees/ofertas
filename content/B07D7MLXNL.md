@@ -10,8 +10,11 @@ author: ring
 slug: B07D7MLXNL
 description:
 actualPrice: 13.33 EUR
+currency: EUR
+price: 13.33
 comparePrice: 59 EUR
 inStock: true
+prodname: Diesel 00SJ3U  Camiseta para Hombre   Blanco 100   Small  Tamaño del Fabricante:S 
 ---
 
 Está [Diesel 00SJ3U  Camiseta para Hombre   Blanco 100   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07D7MLXNL/?tag=tolees-21) con 77.41 de descuento por 13.33 EUR (original: 59 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08NSMD3N9
 description:
 actualPrice: 11.89 EUR
+currency: EUR
+price: 11.89
 comparePrice: 23.78 EUR
 inStock: true
+prodname: Ocobudbxw Ventilador USB Clip para teléfono móvil Ventilador Portátil para Exteriores Portátil con cordón
 ---
 
 Tienes [Ocobudbxw Ventilador USB Clip para teléfono móvil Ventilador Portátil para Exteriores Portátil con cordón](https://www.amazon.es/dp/B08NSMD3N9/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 11.89 EUR (original: 23.78 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B073RJXKPD
 description:
 actualPrice: 24.23 EUR
+currency: EUR
+price: 24.23
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Reebok Trainflex Lite  Zapatillas de Deporte para Mujer  Gris  Cloud Grey/Electric Flash/White  37.5 EU
 ---
 
 Tienes [Reebok Trainflex Lite  Zapatillas de Deporte para Mujer  Gris  Cloud Grey/Electric Flash/White  37.5 EU](https://www.amazon.es/dp/B073RJXKPD/?tag=tolees-21) con un 62.69 % de descuento con precio de oferta de 24.23 EUR (original: 64.95 EUR) en el siguiente enlace!

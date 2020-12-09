@@ -10,8 +10,11 @@ author: ring
 slug: B01LNSRME4
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: SUENOSZZZ - Cabecero Dakota  Cama90  100X57 Cms. Color Plata.
 ---
 
 Está [SUENOSZZZ - Cabecero Dakota  Cama90  100X57 Cms. Color Plata.](https://www.amazon.es/dp/B01LNSRME4/?tag=tolees-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

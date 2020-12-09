@@ -10,8 +10,11 @@ author: ring
 slug: B07CZHXNXH
 description:
 actualPrice: 25.21 EUR
+currency: EUR
+price: 25.21
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Under Armour Sportstyle Wind Parte Superior del Calentamiento  Hombre  Blanco  SM
 ---
 
 Ahora mismo tienes [Under Armour Sportstyle Wind Parte Superior del Calentamiento  Hombre  Blanco  SM](https://www.amazon.es/dp/B07CZHXNXH/?tag=tolees-21) a 25.21 EUR (original: 60.0 EUR) (57.98 %  de descuento) en el siguiente enlace!

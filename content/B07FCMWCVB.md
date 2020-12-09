@@ -10,8 +10,11 @@ author: ring
 slug: B07FCMWCVB
 description:
 actualPrice: 18.49 EUR
+currency: EUR
+price: 18.49
 comparePrice: 30.99 EUR
 inStock: true
+prodname: SanDisk SDSQXBZ-064G-GN6MA Extreme Plus - Tarjeta de Memoria microSDXC de 64 GB con Adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30  Oro/Rojo
 ---
 
 Tienes [SanDisk SDSQXBZ-064G-GN6MA Extreme Plus - Tarjeta de Memoria microSDXC de 64 GB con Adaptador SD  A2  hasta 170 MB/s  Class 10  U3 y V30  Oro/Rojo](https://www.amazon.es/dp/B07FCMWCVB/?tag=tolees-21) con un 40.34 % de descuento con precio de oferta de 18.49 EUR (original: 30.99 EUR) en el siguiente enlace!

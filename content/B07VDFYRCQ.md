@@ -10,8 +10,11 @@ author: ring
 slug: B07VDFYRCQ
 description:
 actualPrice: 17.65 EUR
+currency: EUR
+price: 17.65
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Desigual TS Julia Camiseta  Negro  Negro 2000   Large para Mujer
 ---
 
 Ahora mismo tienes [Desigual TS Julia Camiseta  Negro  Negro 2000   Large para Mujer](https://www.amazon.es/dp/B07VDFYRCQ/?tag=tolees-21) a 17.65 EUR (original: 39.95 EUR) (55.82 %  de descuento) en el siguiente enlace!

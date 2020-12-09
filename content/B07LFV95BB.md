@@ -10,8 +10,11 @@ author: ring
 slug: B07LFV95BB
 description:
 actualPrice: 33.56 EUR
+currency: EUR
+price: 33.56
 comparePrice: 119.9 EUR
 inStock: true
+prodname: Geox D BIBBIANA A  Zapatos de Tacón para Mujer  Negro  Black C9997   36 EU
 ---
 
 Está [Geox D BIBBIANA A  Zapatos de Tacón para Mujer  Negro  Black C9997   36 EU](https://www.amazon.es/dp/B07LFV95BB/?tag=tolees-21) con 72.01 de descuento por 33.56 EUR (original: 119.9 EUR) en el siguiente enlace!

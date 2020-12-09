@@ -10,8 +10,11 @@ author: ring
 slug: B07BQVHVN5
 description:
 actualPrice: 32.95 EUR
+currency: EUR
+price: 32.95
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Calzado de Trabajo Hombre Mujer Zapatillas de Seguridad con Puntera de Acero Antideslizante Transpirables Unisex Ejército Verde 40
 ---
 
 Está [Calzado de Trabajo Hombre Mujer Zapatillas de Seguridad con Puntera de Acero Antideslizante Transpirables Unisex Ejército Verde 40](https://www.amazon.es/dp/B07BQVHVN5/?tag=tolees-21) con 34.09 de descuento por 32.95 EUR (original: 49.99 EUR) en el siguiente enlace!

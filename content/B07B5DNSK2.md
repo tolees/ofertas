@@ -10,8 +10,11 @@ author: ring
 slug: B07B5DNSK2
 description:
 actualPrice: 89.99 EUR
+currency: EUR
+price: 89.99
 comparePrice: 123.0 EUR
 inStock: true
+prodname: Oral-B Smart 5000 Estación de Cuidado Bucal: Mango de Cepillo Eléctrico + Oxyjet Irrigador con Tecnología Braun  4 Cabezales Oxyjet  6 Cabezales de Recambio  con conexión Bluetooth
 ---
 
 Está [Oral-B Smart 5000 Estación de Cuidado Bucal: Mango de Cepillo Eléctrico + Oxyjet Irrigador con Tecnología Braun  4 Cabezales Oxyjet  6 Cabezales de Recambio  con conexión Bluetooth](https://www.amazon.es/dp/B07B5DNSK2/?tag=tolees-21) con 26.84 de descuento por 89.99 EUR (original: 123.0 EUR) en el siguiente enlace!

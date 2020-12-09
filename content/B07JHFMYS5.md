@@ -10,8 +10,11 @@ author: ring
 slug: B07JHFMYS5
 description:
 actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
 comparePrice: 13.42 EUR
 inStock: true
+prodname: KINTRADE Ceramic Buddha Backflow Horno de aromaterapia reflujo Quemador de Incienso cónico
 ---
 
 Está [KINTRADE Ceramic Buddha Backflow Horno de aromaterapia reflujo Quemador de Incienso cónico](https://www.amazon.es/dp/B07JHFMYS5/?tag=tolees-21) con 51.56 de descuento por 6.5 EUR (original: 13.42 EUR) en el siguiente enlace!

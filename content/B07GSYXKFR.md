@@ -10,8 +10,11 @@ author: ring
 slug: B07GSYXKFR
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 15.69 EUR
 inStock: true
+prodname: Juego de brújula  Brújula de Muscccm para geometría Kit de geometría matemática 8 piezas - Brújula de dibujo de suministros de estudiantes  transportador  reglas  recambios de plomo a lápiz
 ---
 
 Tienes [Juego de brújula  Brújula de Muscccm para geometría Kit de geometría matemática 8 piezas - Brújula de dibujo de suministros de estudiantes  transportador  reglas  recambios de plomo a lápiz](https://www.amazon.es/dp/B07GSYXKFR/?tag=tolees-21) con un 29.96 % de descuento con precio de oferta de 10.99 EUR (original: 15.69 EUR) en el siguiente enlace!

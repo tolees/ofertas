@@ -10,8 +10,11 @@ author: ring
 slug: B017BCW0LQ
 description:
 actualPrice: 48.37 EUR
+currency: EUR
+price: 48.37
 comparePrice: 87.11 EUR
 inStock: true
+prodname: Hijos De La Anarquia Temporada 1-7 [DVD]
 ---
 
 Tienes [Hijos De La Anarquia Temporada 1-7 [DVD]](https://www.amazon.es/dp/B017BCW0LQ/?tag=tolees-21) con un 44.47 % de descuento con precio de oferta de 48.37 EUR (original: 87.11 EUR) en el siguiente enlace!

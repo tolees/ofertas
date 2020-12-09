@@ -10,8 +10,11 @@ author: ring
 slug: B08L4JY1PW
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 30.0 EUR
 inStock: true
+prodname: FITTOO Leggings Push Up Mujer Mallas Pantalones Deportivos Alta Cintura Elásticos Yoga Fitness  Amarillo 2XL
 ---
 
 Ahora mismo tienes [FITTOO Leggings Push Up Mujer Mallas Pantalones Deportivos Alta Cintura Elásticos Yoga Fitness  Amarillo 2XL](https://www.amazon.es/dp/B08L4JY1PW/?tag=tolees-21) a 19.99 EUR (original: 30.0 EUR) (33.37 %  de descuento) en el siguiente enlace!

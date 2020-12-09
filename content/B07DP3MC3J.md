@@ -10,8 +10,11 @@ author: ring
 slug: B07DP3MC3J
 description:
 actualPrice: 11.51 EUR
+currency: EUR
+price: 11.51
 comparePrice: 25 EUR
 inStock: true
+prodname: Eastpak Buddy Bolso Bandolera  18 cm  0.5 Liters  Turquesa  Brize Surf 
 ---
 
 Tienes [Eastpak Buddy Bolso Bandolera  18 cm  0.5 Liters  Turquesa  Brize Surf ](https://www.amazon.es/dp/B07DP3MC3J/?tag=tolees-21) con un 53.96 % de descuento con precio de oferta de 11.51 EUR (original: 25 EUR) en el siguiente enlace!

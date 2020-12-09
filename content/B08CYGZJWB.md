@@ -10,8 +10,11 @@ author: ring
 slug: B08CYGZJWB
 description:
 actualPrice: 15.0 EUR
+currency: EUR
+price: 15.0
 comparePrice: 20.94 EUR
 inStock: true
+prodname: Mimosín Intense Suavizante Éxtasis Tropical 52 Lavados Pack de 6
 ---
 
 Está [Mimosín Intense Suavizante Éxtasis Tropical 52 Lavados Pack de 6](https://www.amazon.es/dp/B08CYGZJWB/?tag=tolees-21) con 28.37 de descuento por 15.0 EUR (original: 20.94 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07ZQLDGG1
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 19.31 EUR
 inStock: true
+prodname: DeFacto - Cárdigan con capucha y cremallera para mujer D.yellow. S
 ---
 
 Ahora mismo tienes [DeFacto - Cárdigan con capucha y cremallera para mujer D.yellow. S](https://www.amazon.es/dp/B07ZQLDGG1/?tag=tolees-21) a 9.99 EUR (original: 19.31 EUR) (48.27 %  de descuento) en el siguiente enlace!

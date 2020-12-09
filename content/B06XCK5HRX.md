@@ -10,8 +10,11 @@ author: ring
 slug: B06XCK5HRX
 description:
 actualPrice: 19.6 EUR
+currency: EUR
+price: 19.6
 comparePrice: 50 EUR
 inStock: true
+prodname: find. Naúticos de Piel para Hombre  Marrón  Tan   45 EU
 ---
 
 Está [find. Naúticos de Piel para Hombre  Marrón  Tan   45 EU](https://www.amazon.es/dp/B06XCK5HRX/?tag=tolees-21) con 60.80 de descuento por 19.6 EUR (original: 50 EUR) en el siguiente enlace!

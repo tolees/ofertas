@@ -10,8 +10,11 @@ author: ring
 slug: B07GTJHK4R
 description:
 actualPrice: 15.35 EUR
+currency: EUR
+price: 15.35
 comparePrice: 23.99 EUR
 inStock: true
+prodname: TECKIN Bombilla LED Inteligente WiFi Luces Cálidas RGB 2800k-6200k Ajustable y Lámpara E27 Multicolor Funciona con Alexa  Google Home  Equivale 7.5W  2 Paquete
 ---
 
 Ahora mismo tienes [TECKIN Bombilla LED Inteligente WiFi Luces Cálidas RGB 2800k-6200k Ajustable y Lámpara E27 Multicolor Funciona con Alexa  Google Home  Equivale 7.5W  2 Paquete](https://www.amazon.es/dp/B07GTJHK4R/?tag=tolees-21) a 15.35 EUR (original: 23.99 EUR) (36.02 %  de descuento) en el siguiente enlace!

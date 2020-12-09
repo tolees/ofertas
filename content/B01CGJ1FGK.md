@@ -10,8 +10,11 @@ author: ring
 slug: B01CGJ1FGK
 description:
 actualPrice: 28.9 EUR
+currency: EUR
+price: 28.9
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Taurus Miami Premium Sandwichera intercambiable  900 W  0 Decibeles  Plastique  Negro
 ---
 
 Ahora mismo tienes [Taurus Miami Premium Sandwichera intercambiable  900 W  0 Decibeles  Plastique  Negro](https://www.amazon.es/dp/B01CGJ1FGK/?tag=tolees-21) a 28.9 EUR (original: 49.99 EUR) (42.19 %  de descuento) en el siguiente enlace!

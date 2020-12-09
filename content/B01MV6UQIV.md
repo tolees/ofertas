@@ -10,8 +10,11 @@ author: ring
 slug: B01MV6UQIV
 description:
 actualPrice: 38.68 EUR
+currency: EUR
+price: 38.68
 comparePrice: 89.95 EUR
 inStock: true
+prodname: TomTom Touch Cardio Fitness Pulsera de Actividad  Unisex  Negro  S
 ---
 
 Tienes [TomTom Touch Cardio Fitness Pulsera de Actividad  Unisex  Negro  S](https://www.amazon.es/dp/B01MV6UQIV/?tag=tolees-21) con un 57.00 % de descuento con precio de oferta de 38.68 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08MF2SF3M
 description:
 actualPrice: 1.24 EUR
+currency: EUR
+price: 1.24
 comparePrice: 1.91 EUR
 inStock: true
+prodname: LIGH Atrapasue?os Accesorios Pluma Colgante Decoración Ornamento CircularWhiteOC-2008 - Blanco
 ---
 
 Ahora mismo tienes [LIGH Atrapasue?os Accesorios Pluma Colgante Decoración Ornamento CircularWhiteOC-2008 - Blanco](https://www.amazon.es/dp/B08MF2SF3M/?tag=tolees-21) a 1.24 EUR (original: 1.91 EUR) (35.08 %  de descuento) en el siguiente enlace!

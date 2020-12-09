@@ -10,8 +10,11 @@ author: ring
 slug: B000RXKR6M
 description:
 actualPrice: 8.11 EUR
+currency: EUR
+price: 8.11
 comparePrice: 14.17 EUR
 inStock: true
+prodname: Meguiar´s X3002 Guante Lavado de Microfibra  7 B M  US
 ---
 
 Está [Meguiar´s X3002 Guante Lavado de Microfibra  7 B M  US](https://www.amazon.es/dp/B000RXKR6M/?tag=tolees-21) con 42.77 de descuento por 8.11 EUR (original: 14.17 EUR) en el siguiente enlace!

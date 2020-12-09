@@ -10,8 +10,11 @@ author: ring
 slug: B08DTJ5KGY
 description:
 actualPrice: 599.0 EUR
+currency: EUR
+price: 599.0
 comparePrice: 890.0 EUR
 inStock: true
+prodname: Taurus Mycook Touch Unlimited Edition - Robot de Cocina  wifi  1600W  2L  hasta 140 grados  multifunción  más de 10.000 recetas  Vaporera 2 niveles y cestillo  Blanca
 ---
 
 Ahora mismo tienes [Taurus Mycook Touch Unlimited Edition - Robot de Cocina  wifi  1600W  2L  hasta 140 grados  multifunción  más de 10.000 recetas  Vaporera 2 niveles y cestillo  Blanca](https://www.amazon.es/dp/B08DTJ5KGY/?tag=tolees-21) a 599.0 EUR (original: 890.0 EUR) (32.70 %  de descuento) en el siguiente enlace!

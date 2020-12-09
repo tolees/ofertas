@@ -10,8 +10,11 @@ author: ring
 slug: B079KBC2CX
 description:
 actualPrice: 22.9 EUR
+currency: EUR
+price: 22.9
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Cars 3 - Circuito Florida 500 para Coches de Juguete  Mattel FWL70 
 ---
 
 Ahora mismo tienes [Cars 3 - Circuito Florida 500 para Coches de Juguete  Mattel FWL70 ](https://www.amazon.es/dp/B079KBC2CX/?tag=tolees-21) a 22.9 EUR (original: 39.99 EUR) (42.74 %  de descuento) en el siguiente enlace!

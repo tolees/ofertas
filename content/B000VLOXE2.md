@@ -10,8 +10,11 @@ author: ring
 slug: B000VLOXE2
 description:
 actualPrice: 41.16 EUR
+currency: EUR
+price: 41.16
 comparePrice: 59 EUR
 inStock: true
+prodname: Cressi Reaction - Aletas de buceo de surf y natación  tamaño 42/43  color azul
 ---
 
 Ahora mismo tienes [Cressi Reaction - Aletas de buceo de surf y natación  tamaño 42/43  color azul](https://www.amazon.es/dp/B000VLOXE2/?tag=tolees-21) a 41.16 EUR (original: 59 EUR) (30.24 %  de descuento) en el siguiente enlace!

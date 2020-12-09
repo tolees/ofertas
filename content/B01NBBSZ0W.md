@@ -10,8 +10,11 @@ author: ring
 slug: B01NBBSZ0W
 description:
 actualPrice: 4.95 EUR
+currency: EUR
+price: 4.95
 comparePrice: 6.68 EUR
 inStock: true
+prodname: Stabilo Point 88 Rotulador Punta Fina - Estuche con 6 Colores Neón
 ---
 
 Ahora mismo tienes [Stabilo Point 88 Rotulador Punta Fina - Estuche con 6 Colores Neón](https://www.amazon.es/dp/B01NBBSZ0W/?tag=tolees-21) a 4.95 EUR (original: 6.68 EUR) (25.90 %  de descuento) en el siguiente enlace!

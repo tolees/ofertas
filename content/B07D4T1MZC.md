@@ -10,8 +10,11 @@ author: ring
 slug: B07D4T1MZC
 description:
 actualPrice: 6.96 EUR
+currency: EUR
+price: 6.96
 comparePrice: 10.18 EUR
 inStock: true
+prodname: Marca Amazon - find. Stitched Crew - suéter Hombre  Rojo  Mulberry   S  Label: S
 ---
 
 Tienes [Marca Amazon - find. Stitched Crew - suéter Hombre  Rojo  Mulberry   S  Label: S](https://www.amazon.es/dp/B07D4T1MZC/?tag=tolees-21) con un 31.63 % de descuento con precio de oferta de 6.96 EUR (original: 10.18 EUR) en el siguiente enlace!

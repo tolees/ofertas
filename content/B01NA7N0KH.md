@@ -10,8 +10,11 @@ author: ring
 slug: B01NA7N0KH
 description:
 actualPrice: 65 EUR
+currency: EUR
+price: 65
 comparePrice: 149.85 EUR
 inStock: true
+prodname: Asics T722n 9085  Zapatillas de Running para Hombre  Negro  Black /         Green Gecko /         Safety Yellow   43.5 EU
 ---
 
 Tienes [Asics T722n 9085  Zapatillas de Running para Hombre  Negro  Black /         Green Gecko /         Safety Yellow   43.5 EU](https://www.amazon.es/dp/B01NA7N0KH/?tag=tolees-21) con un 56.62 % de descuento con precio de oferta de 65 EUR (original: 149.85 EUR) en el siguiente enlace!

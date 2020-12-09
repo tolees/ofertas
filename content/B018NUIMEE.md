@@ -10,8 +10,11 @@ author: ring
 slug: B018NUIMEE
 description:
 actualPrice: 46.99 EUR
+currency: EUR
+price: 46.99
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Medisana MBH 88375 - Alfombra de Hidromasaje  Dispensador de Aroma  2 Niveles de Intensidad  450 V  2 Niveles de Intensidad  Programa de Combinación
 ---
 
 Está [Medisana MBH 88375 - Alfombra de Hidromasaje  Dispensador de Aroma  2 Niveles de Intensidad  450 V  2 Niveles de Intensidad  Programa de Combinación](https://www.amazon.es/dp/B018NUIMEE/?tag=tolees-21) con 52.99 de descuento por 46.99 EUR (original: 99.95 EUR) en el siguiente enlace!

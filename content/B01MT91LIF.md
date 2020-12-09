@@ -10,8 +10,11 @@ author: ring
 slug: B01MT91LIF
 description:
 actualPrice: 74.22 EUR
+currency: EUR
+price: 74.22
 comparePrice: 139 EUR
 inStock: true
+prodname: Vibram FiveFingers Mid-Boot New Yorker  Botas Clasicas Unisex Adulto  Negro  Black   42/43 EU
 ---
 
 Tienes [Vibram FiveFingers Mid-Boot New Yorker  Botas Clasicas Unisex Adulto  Negro  Black   42/43 EU](https://www.amazon.es/dp/B01MT91LIF/?tag=tolees-21) con un 46.60 % de descuento con precio de oferta de 74.22 EUR (original: 139 EUR) en el siguiente enlace!

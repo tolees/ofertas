@@ -10,8 +10,11 @@ author: ring
 slug: B073SBW3VD
 description:
 actualPrice: 179.0 EUR
+currency: EUR
+price: 179.0
 comparePrice: 302.0 EUR
 inStock: true
+prodname: Western Digital WDS200T2B0B WD Blue 2TB 3D NAND Internal SSD M.2 SATA
 ---
 
 Está [Western Digital WDS200T2B0B WD Blue 2TB 3D NAND Internal SSD M.2 SATA](https://www.amazon.es/dp/B073SBW3VD/?tag=tolees-21) con 40.73 de descuento por 179.0 EUR (original: 302.0 EUR) en el siguiente enlace!

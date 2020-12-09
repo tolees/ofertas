@@ -10,8 +10,11 @@ author: ring
 slug: B07NC1MQDD
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: A Plague Tale: Innocence
 ---
 
 Ahora mismo tienes [A Plague Tale: Innocence](https://www.amazon.es/dp/B07NC1MQDD/?tag=tolees-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

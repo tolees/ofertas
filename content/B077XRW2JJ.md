@@ -10,8 +10,11 @@ author: ring
 slug: B077XRW2JJ
 description:
 actualPrice: 42.69 EUR
+currency: EUR
+price: 42.69
 comparePrice: 60 EUR
 inStock: true
+prodname: Under Armour Spectrum Po - Sudadera con capucha para hombre  Negro  L
 ---
 
 Está [Under Armour Spectrum Po - Sudadera con capucha para hombre  Negro  L](https://www.amazon.es/dp/B077XRW2JJ/?tag=tolees-21) con 28.85 de descuento por 42.69 EUR (original: 60 EUR) en el siguiente enlace!

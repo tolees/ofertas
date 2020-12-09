@@ -10,8 +10,11 @@ author: ring
 slug: B07DCJPNDP
 description:
 actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Puma Epic Flip v2  Chanclas Unisex Adulto  Verde  Ponderosa Pine White   44.5 EU
 ---
 
 Ahora mismo tienes [Puma Epic Flip v2  Chanclas Unisex Adulto  Verde  Ponderosa Pine White   44.5 EU](https://www.amazon.es/dp/B07DCJPNDP/?tag=tolees-21) a 11.95 EUR (original: 19.95 EUR) (40.10 %  de descuento) en el siguiente enlace!

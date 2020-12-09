@@ -10,8 +10,11 @@ author: ring
 slug: B07FK7RWDW
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Superdry Vintage Logo Tri tee Camiseta de Tirantes  Azul  Eclipse Navy 98t   XL para Hombre
 ---
 
 Tienes [Superdry Vintage Logo Tri tee Camiseta de Tirantes  Azul  Eclipse Navy 98t   XL para Hombre](https://www.amazon.es/dp/B07FK7RWDW/?tag=tolees-21) con un 57.16 % de descuento con precio de oferta de 14.99 EUR (original: 34.99 EUR) en el siguiente enlace!

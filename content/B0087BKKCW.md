@@ -10,8 +10,11 @@ author: ring
 slug: B0087BKKCW
 description:
 actualPrice: 231.31 EUR
+currency: EUR
+price: 231.31
 comparePrice: 352.92 EUR
 inStock: true
+prodname: Zeno Watch Basel 6221Q-a15 - Reloj analógico de Cuarzo para Hombre con Correa de Piel  Color Negro
 ---
 
 Tienes [Zeno Watch Basel 6221Q-a15 - Reloj analógico de Cuarzo para Hombre con Correa de Piel  Color Negro](https://www.amazon.es/dp/B0087BKKCW/?tag=tolees-21) con un 34.46 % de descuento con precio de oferta de 231.31 EUR (original: 352.92 EUR) en el siguiente enlace!

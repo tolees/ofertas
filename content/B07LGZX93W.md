@@ -10,8 +10,11 @@ author: ring
 slug: B07LGZX93W
 description:
 actualPrice: 65.97 EUR
+currency: EUR
+price: 65.97
 comparePrice: 120 EUR
 inStock: true
+prodname: Guess Mujer SWSOLAL9246 Monedero Negro Size: 20.5x10x2 cm  W x H x L 
 ---
 
 Está [Guess Mujer SWSOLAL9246 Monedero Negro Size: 20.5x10x2 cm  W x H x L ](https://www.amazon.es/dp/B07LGZX93W/?tag=tolees-21) con 45.03 de descuento por 65.97 EUR (original: 120 EUR) en el siguiente enlace!

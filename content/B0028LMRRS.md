@@ -10,8 +10,11 @@ author: ring
 slug: B0028LMRRS
 description:
 actualPrice: 16.65 EUR
+currency: EUR
+price: 16.65
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Tetra IN 300 plus Filtro interior - Filtros interiores potentes y confortables para la filtración mecánica  biológica y química
 ---
 
 Ahora mismo tienes [Tetra IN 300 plus Filtro interior - Filtros interiores potentes y confortables para la filtración mecánica  biológica y química](https://www.amazon.es/dp/B0028LMRRS/?tag=tolees-21) a 16.65 EUR (original: 29.99 EUR) (44.48 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07RNW3HRF
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 30.99 EUR
 inStock: true
+prodname: Hot Wheels Mario Kart Piraña  pistas de coches con vehículo para niños + 3 años  Mattel GFY47 
 ---
 
 Ahora mismo tienes [Hot Wheels Mario Kart Piraña  pistas de coches con vehículo para niños + 3 años  Mattel GFY47 ](https://www.amazon.es/dp/B07RNW3HRF/?tag=tolees-21) a 19.99 EUR (original: 30.99 EUR) (35.50 %  de descuento) en el siguiente enlace!

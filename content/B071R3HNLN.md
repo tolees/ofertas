@@ -10,8 +10,11 @@ author: ring
 slug: B071R3HNLN
 description:
 actualPrice: 14.76 EUR
+currency: EUR
+price: 14.76
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Tom Tailor Printed Sweatie Sudadera  Azul  Real Navy Blue 6593   42  Talla del Fabricante: X-Large  para Mujer
 ---
 
 Ahora mismo tienes [Tom Tailor Printed Sweatie Sudadera  Azul  Real Navy Blue 6593   42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B071R3HNLN/?tag=tolees-21) a 14.76 EUR (original: 39.99 EUR) (63.09 %  de descuento) en el siguiente enlace!

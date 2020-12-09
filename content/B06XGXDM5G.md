@@ -10,8 +10,11 @@ author: ring
 slug: B06XGXDM5G
 description:
 actualPrice: 28.95 EUR
+currency: EUR
+price: 28.95
 comparePrice: 50 EUR
 inStock: true
+prodname: Helly Hansen Daybreaker 1/2 Zip Fleece  Hombre  Azul  Evening Blue   2XL
 ---
 
 Tienes [Helly Hansen Daybreaker 1/2 Zip Fleece  Hombre  Azul  Evening Blue   2XL](https://www.amazon.es/dp/B06XGXDM5G/?tag=tolees-21) con un 42.10 % de descuento con precio de oferta de 28.95 EUR (original: 50 EUR) en el siguiente enlace!

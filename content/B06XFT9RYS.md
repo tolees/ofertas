@@ -10,8 +10,11 @@ author: ring
 slug: B06XFT9RYS
 description:
 actualPrice: 8.53 EUR
+currency: EUR
+price: 8.53
 comparePrice: 29.51 EUR
 inStock: true
+prodname: Marca Amazon - find. Regular Oxford - Camisa Hombre  Morado  Fuchsia   S  Label: S
 ---
 
 Está [Marca Amazon - find. Regular Oxford - Camisa Hombre  Morado  Fuchsia   S  Label: S](https://www.amazon.es/dp/B06XFT9RYS/?tag=tolees-21) con 71.09 de descuento por 8.53 EUR (original: 29.51 EUR) en el siguiente enlace!

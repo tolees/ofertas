@@ -10,8 +10,11 @@ author: ring
 slug: B004VHY2AM
 description:
 actualPrice: 34.2 EUR
+currency: EUR
+price: 34.2
 comparePrice: 54 EUR
 inStock: true
+prodname: Clarins Lift Fermete Crema 200 ml
 ---
 
 Ahora mismo tienes [Clarins Lift Fermete Crema 200 ml](https://www.amazon.es/dp/B004VHY2AM/?tag=tolees-21) a 34.2 EUR (original: 54 EUR) (36.67 %  de descuento) en el siguiente enlace!

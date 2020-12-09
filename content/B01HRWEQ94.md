@@ -10,8 +10,11 @@ author: ring
 slug: B01HRWEQ94
 description:
 actualPrice: 23.19 EUR
+currency: EUR
+price: 23.19
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers Unity-Go Big  Entrenadores para Mujer  Gris  Grey   36 EU
 ---
 
 Está [Skechers Unity-Go Big  Entrenadores para Mujer  Gris  Grey   36 EU](https://www.amazon.es/dp/B01HRWEQ94/?tag=tolees-21) con 64.30 de descuento por 23.19 EUR (original: 64.95 EUR) en el siguiente enlace!

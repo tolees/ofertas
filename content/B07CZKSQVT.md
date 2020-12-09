@@ -10,8 +10,11 @@ author: ring
 slug: B07CZKSQVT
 description:
 actualPrice: 33.09 EUR
+currency: EUR
+price: 33.09
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Salomon XA Pro 3D J  Zapatillas de Trail Running para Niños  Rojo  Red Dahlia/Barbados Cherry/Spectra   32 EU
 ---
 
 Ahora mismo tienes [Salomon XA Pro 3D J  Zapatillas de Trail Running para Niños  Rojo  Red Dahlia/Barbados Cherry/Spectra   32 EU](https://www.amazon.es/dp/B07CZKSQVT/?tag=tolees-21) a 33.09 EUR (original: 64.95 EUR) (49.05 %  de descuento) en el siguiente enlace!

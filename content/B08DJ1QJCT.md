@@ -10,8 +10,11 @@ author: ring
 slug: B08DJ1QJCT
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 39.98 EUR
 inStock: true
+prodname: J.Endéar Pulsera Mujer Piedras Naturales  Pulseras de Cuentas Piedras Preciosas Naturales 8mm  Pulsera Arbol de La Vida Amistad con Charm en Plata de Ley Raíces Familiares
 ---
 
 Está [J.Endéar Pulsera Mujer Piedras Naturales  Pulseras de Cuentas Piedras Preciosas Naturales 8mm  Pulsera Arbol de La Vida Amistad con Charm en Plata de Ley Raíces Familiares](https://www.amazon.es/dp/B08DJ1QJCT/?tag=tolees-21) con 47.50 de descuento por 20.99 EUR (original: 39.98 EUR) en el siguiente enlace!

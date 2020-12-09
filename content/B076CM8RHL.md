@@ -10,8 +10,11 @@ author: ring
 slug: B076CM8RHL
 description:
 actualPrice: 6.74 EUR
+currency: EUR
+price: 6.74
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Blend 20705356 Polo  Rosa  Rose Red   Large  Tamaño del Fabricante:L  para Hombre
 ---
 
 Está [Blend 20705356 Polo  Rosa  Rose Red   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B076CM8RHL/?tag=tolees-21) con 72.99 de descuento por 6.74 EUR (original: 24.95 EUR) en el siguiente enlace!

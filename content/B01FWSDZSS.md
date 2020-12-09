@@ -10,8 +10,11 @@ author: ring
 slug: B01FWSDZSS
 description:
 actualPrice: 23.14 EUR
+currency: EUR
+price: 23.14
 comparePrice: 49.95 EUR
 inStock: true
+prodname: adidas Ace 16.4 FxG  Botas de fútbol para Hombre  Amarillo  Amasol/Negbas/Plamet   41 1/3 EU
 ---
 
 Está [adidas Ace 16.4 FxG  Botas de fútbol para Hombre  Amarillo  Amasol/Negbas/Plamet   41 1/3 EU](https://www.amazon.es/dp/B01FWSDZSS/?tag=tolees-21) con 53.67 de descuento por 23.14 EUR (original: 49.95 EUR) en el siguiente enlace!

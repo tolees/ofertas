@@ -10,8 +10,11 @@ author: ring
 slug: B08HRWWFJC
 description:
 actualPrice: 12.98 EUR
+currency: EUR
+price: 12.98
 comparePrice: 19.76 EUR
 inStock: true
+prodname: Auriculares Inalámbricos Bluetooth 5.0  Auriculares Bluetooth Deportivos IPX5 Impermeable  In-Ear Cascos Bluetooth Inalámbricos con Microfono Dual y Caja de Carga para airpods/Samsung/Huawei/Xiaomi
 ---
 
 Tienes [Auriculares Inalámbricos Bluetooth 5.0  Auriculares Bluetooth Deportivos IPX5 Impermeable  In-Ear Cascos Bluetooth Inalámbricos con Microfono Dual y Caja de Carga para airpods/Samsung/Huawei/Xiaomi](https://www.amazon.es/dp/B08HRWWFJC/?tag=tolees-21) con un 34.31 % de descuento con precio de oferta de 12.98 EUR (original: 19.76 EUR) en el siguiente enlace!

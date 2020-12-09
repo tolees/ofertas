@@ -10,8 +10,11 @@ author: ring
 slug: B07DQXH8BJ
 description:
 actualPrice: 30.66 EUR
+currency: EUR
+price: 30.66
 comparePrice: 79.95 EUR
 inStock: true
+prodname: hummel HB Team  Zapatillas para Mujer  Rosa  Pale Liliac 3333   36 EU
 ---
 
 Tienes [hummel HB Team  Zapatillas para Mujer  Rosa  Pale Liliac 3333   36 EU](https://www.amazon.es/dp/B07DQXH8BJ/?tag=tolees-21) con un 61.65 % de descuento con precio de oferta de 30.66 EUR (original: 79.95 EUR) en el siguiente enlace!

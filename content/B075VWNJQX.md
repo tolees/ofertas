@@ -10,8 +10,11 @@ author: ring
 slug: B075VWNJQX
 description:
 actualPrice: 2.1 EUR
+currency: EUR
+price: 2.1
 comparePrice: 3 EUR
 inStock: true
+prodname: Shave it - Kit de maquinilla de afeitar y 1 cuchilla  tamaño de muestra 
 ---
 
 Ahora mismo tienes [Shave it - Kit de maquinilla de afeitar y 1 cuchilla  tamaño de muestra ](https://www.amazon.es/dp/B075VWNJQX/?tag=tolees-21) a 2.1 EUR (original: 3 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B076JDKPT9
 description:
 actualPrice: 43.72 EUR
+currency: EUR
+price: 43.72
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Bugatti 321467611500  Mocasines para Hombre  Azul  Dark Blue   41 EU
 ---
 
 Tienes [Bugatti 321467611500  Mocasines para Hombre  Azul  Dark Blue   41 EU](https://www.amazon.es/dp/B076JDKPT9/?tag=tolees-21) con un 45.32 % de descuento con precio de oferta de 43.72 EUR (original: 79.95 EUR) en el siguiente enlace!

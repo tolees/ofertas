@@ -10,8 +10,11 @@ author: ring
 slug: B00J0QD0OS
 description:
 actualPrice: 6.23 EUR
+currency: EUR
+price: 6.23
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Ultrasport T-Shirt V-Ausschnitt Camiseta  Hombre  Negro  S
 ---
 
 Ahora mismo tienes [Ultrasport T-Shirt V-Ausschnitt Camiseta  Hombre  Negro  S](https://www.amazon.es/dp/B00J0QD0OS/?tag=tolees-21) a 6.23 EUR (original: 14.99 EUR) (58.44 %  de descuento) en el siguiente enlace!

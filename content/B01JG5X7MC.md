@@ -10,8 +10,11 @@ author: ring
 slug: B01JG5X7MC
 description:
 actualPrice: 27.34 EUR
+currency: EUR
+price: 27.34
 comparePrice: 68 EUR
 inStock: true
+prodname: Shiseido Ever Bloom Perfume Mujer - 50 ml
 ---
 
 Ahora mismo tienes [Shiseido Ever Bloom Perfume Mujer - 50 ml](https://www.amazon.es/dp/B01JG5X7MC/?tag=tolees-21) a 27.34 EUR (original: 68 EUR) (59.79 %  de descuento) en el siguiente enlace!

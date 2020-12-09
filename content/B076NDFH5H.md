@@ -10,14 +10,19 @@ author: ring
 slug: B076NDFH5H
 description:
 actualPrice: 104.9 EUR
+currency: EUR
+price: 104.9
 comparePrice: 159.9 EUR
 inStock: true
+prodname: K2 F.I.T. 80 Boa – Patines en línea negro  44.5 EU
 ---
 
-Ahora mismo tienes [K2 F.I.T. 80 Boa – Patines en línea negro  44.5 EU](https://www.amazon.es/dp/B076NDFH5H/?tag=tolees-21) a 104.9 EUR (original: 159.9 EUR) (34.40 %  de descuento) en el siguiente enlace!
+Está [K2 F.I.T. 80 Boa – Patines en línea negro  44.5 EU](https://www.amazon.es/dp/B076NDFH5H/?tag=tolees-21) con 34.40 de descuento por 104.9 EUR (original: 159.9 EUR) en el siguiente enlace!
 
 [![K2 F.I.T. 80 Boa – Patines en línea negr](https://images-eu.ssl-images-amazon.com/images/I/41Y0iRoBy0L._SL200_.jpg)](https://www.amazon.es/dp/B076NDFH5H/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B076NDFH5H/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B076NDFH5H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

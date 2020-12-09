@@ -10,8 +10,11 @@ author: ring
 slug: B016DP0KFU
 description:
 actualPrice: 133.65 EUR
+currency: EUR
+price: 133.65
 comparePrice: 210.74 EUR
 inStock: true
+prodname: Fendi Brillengestelle FF 0067 NER/21-47-21-140 Monturas de gafas  Multicolor  Mehrfarbig   47.0 para Mujer
 ---
 
 Ahora mismo tienes [Fendi Brillengestelle FF 0067 NER/21-47-21-140 Monturas de gafas  Multicolor  Mehrfarbig   47.0 para Mujer](https://www.amazon.es/dp/B016DP0KFU/?tag=tolees-21) a 133.65 EUR (original: 210.74 EUR) (36.58 %  de descuento) en el siguiente enlace!

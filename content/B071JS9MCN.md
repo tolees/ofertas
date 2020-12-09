@@ -10,8 +10,11 @@ author: ring
 slug: B071JS9MCN
 description:
 actualPrice: 11.24 EUR
+currency: EUR
+price: 11.24
 comparePrice: 15.61 EUR
 inStock: true
+prodname: STANLEY STHT0-51309 - Martillo Fibra vidrio 450g
 ---
 
 Ahora mismo tienes [STANLEY STHT0-51309 - Martillo Fibra vidrio 450g](https://www.amazon.es/dp/B071JS9MCN/?tag=tolees-21) a 11.24 EUR (original: 15.61 EUR) (27.99 %  de descuento) en el siguiente enlace!

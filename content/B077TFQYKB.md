@@ -10,8 +10,11 @@ author: ring
 slug: B077TFQYKB
 description:
 actualPrice: 10.48 EUR
+currency: EUR
+price: 10.48
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Gocco S82JJECA402  Jersey para Niños   Azul  4 años
 ---
 
 Ahora mismo tienes [Gocco S82JJECA402  Jersey para Niños   Azul  4 años](https://www.amazon.es/dp/B077TFQYKB/?tag=tolees-21) a 10.48 EUR (original: 29.99 EUR) (65.06 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B077VQC9BF
 description:
 actualPrice: 53.97 EUR
+currency: EUR
+price: 53.97
 comparePrice: 129 EUR
 inStock: true
+prodname: Gant Summer Chinos  Short Hombre  Azul  Lava Blue    Talla del Fabricante: 38 
 ---
 
 Ahora mismo tienes [Gant Summer Chinos  Short Hombre  Azul  Lava Blue    Talla del Fabricante: 38 ](https://www.amazon.es/dp/B077VQC9BF/?tag=tolees-21) a 53.97 EUR (original: 129 EUR) (58.16 %  de descuento) en el siguiente enlace!

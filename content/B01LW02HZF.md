@@ -10,8 +10,11 @@ author: ring
 slug: B01LW02HZF
 description:
 actualPrice: 147 EUR
+currency: EUR
+price: 147
 comparePrice: 369 EUR
 inStock: true
+prodname: ASUS ZE520KL-1B011WW Zenfone 3 - Smartphone de 5.2"  WiFi  Dual SIM  grabación Video 4K  RAM de 4 GB  memoria interna de 64 GB  cámara de 16 Mp  Android 6.0   blanco
 ---
 
 Ahora mismo tienes [ASUS ZE520KL-1B011WW Zenfone 3 - Smartphone de 5.2"  WiFi  Dual SIM  grabación Video 4K  RAM de 4 GB  memoria interna de 64 GB  cámara de 16 Mp  Android 6.0   blanco](https://www.amazon.es/dp/B01LW02HZF/?tag=tolees-21) a 147 EUR (original: 369 EUR) (60.16 %  de descuento) en el siguiente enlace!

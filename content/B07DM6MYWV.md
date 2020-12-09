@@ -10,8 +10,11 @@ author: ring
 slug: B07DM6MYWV
 description:
 actualPrice: 25.9 EUR
+currency: EUR
+price: 25.9
 comparePrice: 43.99 EUR
 inStock: true
+prodname: Bohell TALI12 – Taladro atornillador sin cable con batería de litio de 12 V  ligero  velocidad electrónica regulable 0-750 rpm  par máximo 15Nm  portabrocas automático y luz led
 ---
 
 Está [Bohell TALI12 – Taladro atornillador sin cable con batería de litio de 12 V  ligero  velocidad electrónica regulable 0-750 rpm  par máximo 15Nm  portabrocas automático y luz led](https://www.amazon.es/dp/B07DM6MYWV/?tag=tolees-21) con 41.12 de descuento por 25.9 EUR (original: 43.99 EUR) en el siguiente enlace!

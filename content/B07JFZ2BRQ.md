@@ -10,8 +10,11 @@ author: ring
 slug: B07JFZ2BRQ
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 17.99 EUR
 inStock: true
+prodname: DOMISO 11-11 6 Pulgadas Funda Resistente al Agua Bolsa Protectora para Ordenador Portátil/Tablet / 11.6" MacBook Air/Microsoft Surface Pro 5  4  3 / ASUS/HP/Acer/MSI/Lenovo  Rojo
 ---
 
 Está [DOMISO 11-11 6 Pulgadas Funda Resistente al Agua Bolsa Protectora para Ordenador Portátil/Tablet / 11.6" MacBook Air/Microsoft Surface Pro 5  4  3 / ASUS/HP/Acer/MSI/Lenovo  Rojo](https://www.amazon.es/dp/B07JFZ2BRQ/?tag=tolees-21) con 27.79 de descuento por 12.99 EUR (original: 17.99 EUR) en el siguiente enlace!

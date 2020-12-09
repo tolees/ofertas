@@ -10,8 +10,11 @@ author: ring
 slug: B08CBN5JSR
 description:
 actualPrice: 61.69 EUR
+currency: EUR
+price: 61.69
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Real Madrid Temporada 2020/21 Camiseta Primera Equipación Oficial  Unisex  Blanco  M
 ---
 
 Tienes [Real Madrid Temporada 2020/21 Camiseta Primera Equipación Oficial  Unisex  Blanco  M](https://www.amazon.es/dp/B08CBN5JSR/?tag=tolees-21) con un 31.42 % de descuento con precio de oferta de 61.69 EUR (original: 89.95 EUR) en el siguiente enlace!

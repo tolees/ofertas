@@ -10,8 +10,11 @@ author: ring
 slug: B0757QNDXS
 description:
 actualPrice: 25.59 EUR
+currency: EUR
+price: 25.59
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Coronel Tapioca Botin Sport SERPE Plata SEÑORA  Mujer  Plateado  39 EU
 ---
 
 Tienes [Coronel Tapioca Botin Sport SERPE Plata SEÑORA  Mujer  Plateado  39 EU](https://www.amazon.es/dp/B0757QNDXS/?tag=tolees-21) con un 60.60 % de descuento con precio de oferta de 25.59 EUR (original: 64.95 EUR) en el siguiente enlace!

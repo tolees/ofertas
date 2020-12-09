@@ -10,8 +10,11 @@ author: ring
 slug: B07HZL64TD
 description:
 actualPrice: 29.44 EUR
+currency: EUR
+price: 29.44
 comparePrice: 55.78 EUR
 inStock: true
+prodname: Pack Dan Brown: Ángeles Y Demonios + El Código Da Vinci + Inferno  4K UHD + BD  [Blu-ray]
 ---
 
 Ahora mismo tienes [Pack Dan Brown: Ángeles Y Demonios + El Código Da Vinci + Inferno  4K UHD + BD  [Blu-ray]](https://www.amazon.es/dp/B07HZL64TD/?tag=tolees-21) a 29.44 EUR (original: 55.78 EUR) (47.22 %  de descuento) en el siguiente enlace!

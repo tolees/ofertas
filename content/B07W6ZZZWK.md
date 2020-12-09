@@ -10,8 +10,11 @@ author: ring
 slug: B07W6ZZZWK
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 36.99 EUR
 inStock: true
+prodname: TONOR Micrófono PC Micrófono de Condensador Computadora USB Plug & Play con Soporte Trípode & Filtro Pop para Grabación Vocal  Podcasting  Transmisión  Video de Youtube para Laptop Desktop iMac PC
 ---
 
 Está [TONOR Micrófono PC Micrófono de Condensador Computadora USB Plug & Play con Soporte Trípode & Filtro Pop para Grabación Vocal  Podcasting  Transmisión  Video de Youtube para Laptop Desktop iMac PC](https://www.amazon.es/dp/B07W6ZZZWK/?tag=tolees-21) con 32.44 de descuento por 24.99 EUR (original: 36.99 EUR) en el siguiente enlace!

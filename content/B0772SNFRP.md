@@ -10,8 +10,11 @@ author: ring
 slug: B0772SNFRP
 description:
 actualPrice: 24.04 EUR
+currency: EUR
+price: 24.04
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Attack On Titan 2  XBOX ONE
 ---
 
 Tienes [Attack On Titan 2  XBOX ONE](https://www.amazon.es/dp/B0772SNFRP/?tag=tolees-21) con un 65.65 % de descuento con precio de oferta de 24.04 EUR (original: 69.99 EUR) en el siguiente enlace!

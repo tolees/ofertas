@@ -10,8 +10,11 @@ author: ring
 slug: B072MN4JCW
 description:
 actualPrice: 16 EUR
+currency: EUR
+price: 16
 comparePrice: 65.95 EUR
 inStock: true
+prodname: s.Oliver 26218  Botas para Mujer  Marrón  Muscat Comb   41 EU
 ---
 
 Tienes [s.Oliver 26218  Botas para Mujer  Marrón  Muscat Comb   41 EU](https://www.amazon.es/dp/B072MN4JCW/?tag=tolees-21) con un 75.74 % de descuento con precio de oferta de 16 EUR (original: 65.95 EUR) en el siguiente enlace!

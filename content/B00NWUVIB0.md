@@ -10,8 +10,11 @@ author: ring
 slug: B00NWUVIB0
 description:
 actualPrice: 24.49 EUR
+currency: EUR
+price: 24.49
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Medisana BW 333 51075 Monitor de Presión Arterial para la Muñeca  Visualización de Arritmias  Escala de Colores  Semáforo de la OMS  Pantalla de Fácil Lectura
 ---
 
 Tienes [Medisana BW 333 51075 Monitor de Presión Arterial para la Muñeca  Visualización de Arritmias  Escala de Colores  Semáforo de la OMS  Pantalla de Fácil Lectura](https://www.amazon.es/dp/B00NWUVIB0/?tag=tolees-21) con un 50.92 % de descuento con precio de oferta de 24.49 EUR (original: 49.9 EUR) en el siguiente enlace!

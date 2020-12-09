@@ -10,8 +10,11 @@ author: ring
 slug: B08LCYZ3JW
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: eXtremeRate Soporte de estación para Mando Playstation 4 Accesorios Gamepad Escritorio Soporte Tacto Suave Holder para Controlador PS4 Slim Controles PS4 Pro con Almohadilla de Goma Blanco 
 ---
 
 Está [eXtremeRate Soporte de estación para Mando Playstation 4 Accesorios Gamepad Escritorio Soporte Tacto Suave Holder para Controlador PS4 Slim Controles PS4 Pro con Almohadilla de Goma Blanco ](https://www.amazon.es/dp/B08LCYZ3JW/?tag=tolees-21) con 43.50 de descuento por 12.99 EUR (original: 22.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BCSK9N8
 description:
 actualPrice: 48.03 EUR
+currency: EUR
+price: 48.03
 comparePrice: 68 EUR
 inStock: true
+prodname: Shiseido Men Total Revitalizer Eye
 ---
 
 Ahora mismo tienes [Shiseido Men Total Revitalizer Eye](https://www.amazon.es/dp/B07BCSK9N8/?tag=tolees-21) a 48.03 EUR (original: 68 EUR) (29.37 %  de descuento) en el siguiente enlace!

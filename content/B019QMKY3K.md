@@ -10,8 +10,11 @@ author: ring
 slug: B019QMKY3K
 description:
 actualPrice: 171.5 EUR
+currency: EUR
+price: 171.5
 comparePrice: 402.67 EUR
 inStock: true
+prodname: Tesa Assa Abloy ENTRKIT1T603535 Cerradura Inteligente Motorizada  Blanco  35 x 35 mm
 ---
 
 Está [Tesa Assa Abloy ENTRKIT1T603535 Cerradura Inteligente Motorizada  Blanco  35 x 35 mm](https://www.amazon.es/dp/B019QMKY3K/?tag=tolees-21) con 57.41 de descuento por 171.5 EUR (original: 402.67 EUR) en el siguiente enlace!

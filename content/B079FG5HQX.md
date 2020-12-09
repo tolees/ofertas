@@ -10,8 +10,11 @@ author: ring
 slug: B079FG5HQX
 description:
 actualPrice: 32.03 EUR
+currency: EUR
+price: 32.03
 comparePrice: 95 EUR
 inStock: true
+prodname: New Balance 247v2  Zapatillas para Hombre  Negro  Black/Bone Mr   47.5 EU
 ---
 
 Ahora mismo tienes [New Balance 247v2  Zapatillas para Hombre  Negro  Black/Bone Mr   47.5 EU](https://www.amazon.es/dp/B079FG5HQX/?tag=tolees-21) a 32.03 EUR (original: 95 EUR) (66.28 %  de descuento) en el siguiente enlace!

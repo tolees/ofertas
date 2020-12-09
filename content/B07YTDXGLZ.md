@@ -10,8 +10,11 @@ author: ring
 slug: B07YTDXGLZ
 description:
 actualPrice: 11.62 EUR
+currency: EUR
+price: 11.62
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Aphos - The Art of Andrew mar  Caurette Edition 
 ---
 
 Está [Aphos - The Art of Andrew mar  Caurette Edition ](https://www.amazon.es/dp/B07YTDXGLZ/?tag=tolees-21) con 61.27 de descuento por 11.62 EUR (original: 30.0 EUR) en el siguiente enlace!

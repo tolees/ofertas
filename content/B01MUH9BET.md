@@ -10,8 +10,11 @@ author: ring
 slug: B01MUH9BET
 description:
 actualPrice: 92.22 EUR
+currency: EUR
+price: 92.22
 comparePrice: 204.99 EUR
 inStock: true
+prodname: Sandisk SDIX30N-256G-GN6NE Memoria Flash USB SanDisk iXpand de 256 GB para iPhone y iPad
 ---
 
 Tienes [Sandisk SDIX30N-256G-GN6NE Memoria Flash USB SanDisk iXpand de 256 GB para iPhone y iPad](https://www.amazon.es/dp/B01MUH9BET/?tag=tolees-21) con un 55.01 % de descuento con precio de oferta de 92.22 EUR (original: 204.99 EUR) en el siguiente enlace!

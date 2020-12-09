@@ -10,8 +10,11 @@ author: ring
 slug: B07CRD97WH
 description:
 actualPrice: 23.35 EUR
+currency: EUR
+price: 23.35
 comparePrice: 55.0 EUR
 inStock: true
+prodname: Pepe Jeans PIXLETTE Jeans  Negro  Black Denim Wl0   17-18 años  Talla del Fabricante: 18  para Niñas
 ---
 
 Tienes [Pepe Jeans PIXLETTE Jeans  Negro  Black Denim Wl0   17-18 años  Talla del Fabricante: 18  para Niñas](https://www.amazon.es/dp/B07CRD97WH/?tag=tolees-21) con un 57.55 % de descuento con precio de oferta de 23.35 EUR (original: 55.0 EUR) en el siguiente enlace!

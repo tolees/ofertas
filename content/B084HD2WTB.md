@@ -10,8 +10,11 @@ author: ring
 slug: B084HD2WTB
 description:
 actualPrice: 10.02 EUR
+currency: EUR
+price: 10.02
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Educa Borras - Serie Dragon Ball Z  Puzzle 1.000 piezas Dragon Ball Z  18496 
 ---
 
 Ahora mismo tienes [Educa Borras - Serie Dragon Ball Z  Puzzle 1.000 piezas Dragon Ball Z  18496 ](https://www.amazon.es/dp/B084HD2WTB/?tag=tolees-21) a 10.02 EUR (original: 14.99 EUR) (33.16 %  de descuento) en el siguiente enlace!

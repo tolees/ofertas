@@ -10,8 +10,11 @@ author: ring
 slug: B07MMW1JZH
 description:
 actualPrice: 81.95 EUR
+currency: EUR
+price: 81.95
 comparePrice: 141 EUR
 inStock: true
+prodname: Nike Air Zoom Vomero 14  Zapatillas de Running para Hombre  Gris  Gunsmokesea/White/Oil Atmosphere Grey 003   42 EU
 ---
 
 Tienes [Nike Air Zoom Vomero 14  Zapatillas de Running para Hombre  Gris  Gunsmokesea/White/Oil Atmosphere Grey 003   42 EU](https://www.amazon.es/dp/B07MMW1JZH/?tag=tolees-21) con un 41.88 % de descuento con precio de oferta de 81.95 EUR (original: 141 EUR) en el siguiente enlace!

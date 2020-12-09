@@ -10,8 +10,11 @@ author: ring
 slug: B07JH2ZZRC
 description:
 actualPrice: 31.69 EUR
+currency: EUR
+price: 31.69
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Puma Always On Solid 7/8 Tight Mallas Deporte  Mujer  Azul  Peacoat   M
 ---
 
 Está [Puma Always On Solid 7/8 Tight Mallas Deporte  Mujer  Azul  Peacoat   M](https://www.amazon.es/dp/B07JH2ZZRC/?tag=tolees-21) con 36.56 de descuento por 31.69 EUR (original: 49.95 EUR) en el siguiente enlace!

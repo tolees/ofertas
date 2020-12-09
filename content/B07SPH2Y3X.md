@@ -10,8 +10,11 @@ author: ring
 slug: B07SPH2Y3X
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 43.56 EUR
 inStock: true
+prodname: Xiaomi MUE4093GL Lampara mesilla de Noche  9 W  Bianco
 ---
 
 Está [Xiaomi MUE4093GL Lampara mesilla de Noche  9 W  Bianco](https://www.amazon.es/dp/B07SPH2Y3X/?tag=tolees-21) con 31.15 de descuento por 29.99 EUR (original: 43.56 EUR) en el siguiente enlace!

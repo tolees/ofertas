@@ -10,8 +10,11 @@ author: ring
 slug: B01A6LX3EW
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 32.24 EUR
 inStock: true
+prodname: Crocs Classic Slipper  Zapatillas de Estar por casa Unisex Adulto  Negro  Black/Black   45/46 EU
 ---
 
 Está [Crocs Classic Slipper  Zapatillas de Estar por casa Unisex Adulto  Negro  Black/Black   45/46 EU](https://www.amazon.es/dp/B01A6LX3EW/?tag=tolees-21) con 53.50 de descuento por 14.99 EUR (original: 32.24 EUR) en el siguiente enlace!

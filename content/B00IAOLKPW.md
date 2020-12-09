@@ -10,8 +10,11 @@ author: ring
 slug: B00IAOLKPW
 description:
 actualPrice: 21.5 EUR
+currency: EUR
+price: 21.5
 comparePrice: 43.88 EUR
 inStock: true
+prodname: Casio Reloj de Pulsera LRW-200H-4BVEF
 ---
 
 Tienes [Casio Reloj de Pulsera LRW-200H-4BVEF](https://www.amazon.es/dp/B00IAOLKPW/?tag=tolees-21) con un 51.00 % de descuento con precio de oferta de 21.5 EUR (original: 43.88 EUR) en el siguiente enlace!

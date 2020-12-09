@@ -10,8 +10,11 @@ author: ring
 slug: B075FQPMTV
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 9.67 EUR
 inStock: true
+prodname: LED Net Lights USB 5V Led Luces de cadena Fiesta al aire libre Navidad Navidad Bodas Home Garden Decorations 8 modos de flasheo 3m x 2m 200 luces LED  Blanco cálido 
 ---
 
 Tienes [LED Net Lights USB 5V Led Luces de cadena Fiesta al aire libre Navidad Navidad Bodas Home Garden Decorations 8 modos de flasheo 3m x 2m 200 luces LED  Blanco cálido ](https://www.amazon.es/dp/B075FQPMTV/?tag=tolees-21) con un 27.71 % de descuento con precio de oferta de 6.99 EUR (original: 9.67 EUR) en el siguiente enlace!

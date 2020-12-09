@@ -10,8 +10,11 @@ author: ring
 slug: B07CZ3M5DQ
 description:
 actualPrice: 37.47 EUR
+currency: EUR
+price: 37.47
 comparePrice: 54.95 EUR
 inStock: true
+prodname: PUMA Turin II  Zapatillas Unisex Adulto  Blanco White Black  44 EU
 ---
 
 Ahora mismo tienes [PUMA Turin II  Zapatillas Unisex Adulto  Blanco White Black  44 EU](https://www.amazon.es/dp/B07CZ3M5DQ/?tag=tolees-21) a 37.47 EUR (original: 54.95 EUR) (31.81 %  de descuento) en el siguiente enlace!

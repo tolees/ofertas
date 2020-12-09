@@ -10,8 +10,11 @@ author: ring
 slug: B07FTWK62J
 description:
 actualPrice: 27.34 EUR
+currency: EUR
+price: 27.34
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Broken Blue Sx   31W/36L para Hombre
 ---
 
 Está [Lee Daren Zip Fly Vaqueros rectors Rectos  Azul  Broken Blue Sx   31W/36L para Hombre](https://www.amazon.es/dp/B07FTWK62J/?tag=tolees-21) con 69.61 de descuento por 27.34 EUR (original: 89.95 EUR) en el siguiente enlace!

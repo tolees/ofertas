@@ -10,8 +10,11 @@ author: ring
 slug: B07DC2H2GG
 description:
 actualPrice: 15.98 EUR
+currency: EUR
+price: 15.98
 comparePrice: 26.99 EUR
 inStock: true
+prodname: flintronic ® Tarjetas de Crédito  Cartera Piel RFID Billetera Hombre Cuero Monedero Tarjetero Slim Suave Moda y Casual  Negro con Caja
 ---
 
 Está [flintronic ® Tarjetas de Crédito  Cartera Piel RFID Billetera Hombre Cuero Monedero Tarjetero Slim Suave Moda y Casual  Negro con Caja](https://www.amazon.es/dp/B07DC2H2GG/?tag=tolees-21) con 40.79 de descuento por 15.98 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06Y2QHBXD
 description:
 actualPrice: 34.9 EUR
+currency: EUR
+price: 34.9
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   36 EU  3.5 UK 
 ---
 
 Está [New Balance 574 Core Zapatillas Hombre  Rojo  Burgundy   36 EU  3.5 UK ](https://www.amazon.es/dp/B06Y2QHBXD/?tag=tolees-21) con 61.22 de descuento por 34.9 EUR (original: 90 EUR) en el siguiente enlace!

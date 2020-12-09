@@ -10,8 +10,11 @@ author: ring
 slug: B07KXR92NJ
 description:
 actualPrice: 153.99 EUR
+currency: EUR
+price: 153.99
 comparePrice: 229.99 EUR
 inStock: true
+prodname: eufy  BoostIQ RoboVac 15C  Robot Aspirador  Wi-Fi  Ultra Fino  1300 Pa de Potencia de succión  Silencioso  Robot Aspirador con Auto Recarga  aspira y Limpia Suelos y alfombras.
 ---
 
 Ahora mismo tienes [eufy  BoostIQ RoboVac 15C  Robot Aspirador  Wi-Fi  Ultra Fino  1300 Pa de Potencia de succión  Silencioso  Robot Aspirador con Auto Recarga  aspira y Limpia Suelos y alfombras.](https://www.amazon.es/dp/B07KXR92NJ/?tag=tolees-21) a 153.99 EUR (original: 229.99 EUR) (33.04 %  de descuento) en el siguiente enlace!

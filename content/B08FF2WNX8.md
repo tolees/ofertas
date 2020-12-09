@@ -10,8 +10,11 @@ author: ring
 slug: B08FF2WNX8
 description:
 actualPrice: 30.78 EUR
+currency: EUR
+price: 30.78
 comparePrice: 46.9 EUR
 inStock: true
+prodname: Taurus Steakmax 2200 Plancha de asar  W  Superficie Antiadherente  Negro
 ---
 
 Ahora mismo tienes [Taurus Steakmax 2200 Plancha de asar  W  Superficie Antiadherente  Negro](https://www.amazon.es/dp/B08FF2WNX8/?tag=tolees-21) a 30.78 EUR (original: 46.9 EUR) (34.37 %  de descuento) en el siguiente enlace!

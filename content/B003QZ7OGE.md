@@ -10,8 +10,11 @@ author: ring
 slug: B003QZ7OGE
 description:
 actualPrice: 35.45 EUR
+currency: EUR
+price: 35.45
 comparePrice: 69.95 EUR
 inStock: true
+prodname: adidas Originals Samba  Zapatillas de Fútbol para Hombre  Negro Black Running White  42 2/3 EU
 ---
 
 Tienes [adidas Originals Samba  Zapatillas de Fútbol para Hombre  Negro Black Running White  42 2/3 EU](https://www.amazon.es/dp/B003QZ7OGE/?tag=tolees-21) con un 49.32 % de descuento con precio de oferta de 35.45 EUR (original: 69.95 EUR) en el siguiente enlace!

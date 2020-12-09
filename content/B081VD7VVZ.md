@@ -10,8 +10,11 @@ author: ring
 slug: B081VD7VVZ
 description:
 actualPrice: 139.99 EUR
+currency: EUR
+price: 139.99
 comparePrice: 199.99 EUR
 inStock: true
+prodname: eufy Security  Video timbre inalámbrico con batería  2K HD  sin cuotas mensuales  reconocimiento inteligente de personas  función de audio en ambos lados  muy fácil de instalar
 ---
 
 Está [eufy Security  Video timbre inalámbrico con batería  2K HD  sin cuotas mensuales  reconocimiento inteligente de personas  función de audio en ambos lados  muy fácil de instalar](https://www.amazon.es/dp/B081VD7VVZ/?tag=tolees-21) con 30.00 de descuento por 139.99 EUR (original: 199.99 EUR) en el siguiente enlace!

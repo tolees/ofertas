@@ -10,8 +10,11 @@ author: ring
 slug: B07DLFTXPH
 description:
 actualPrice: 8.52 EUR
+currency: EUR
+price: 8.52
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Springfield 4Ba Abiert Capu Pique Gr Sudadera  Hombre  Rojo  Gama Rojos 68   Large  Tamaño del Fabricante:L 
 ---
 
 Tienes [Springfield 4Ba Abiert Capu Pique Gr Sudadera  Hombre  Rojo  Gama Rojos 68   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLFTXPH/?tag=tolees-21) con un 67.22 % de descuento con precio de oferta de 8.52 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B079RPD5VR
 description:
 actualPrice: 16.03 EUR
+currency: EUR
+price: 16.03
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Pepe Jeans Flag Logo LS  Camiseta de Manga Larga para Hombre  Azul  Sailor 580  XX-Large
 ---
 
 Está [Pepe Jeans Flag Logo LS  Camiseta de Manga Larga para Hombre  Azul  Sailor 580  XX-Large](https://www.amazon.es/dp/B079RPD5VR/?tag=tolees-21) con 46.39 de descuento por 16.03 EUR (original: 29.9 EUR) en el siguiente enlace!

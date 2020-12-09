@@ -10,8 +10,11 @@ author: ring
 slug: B071ZSPY5R
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 69.0 EUR
 inStock: true
+prodname: EasySMX Mandos para Switch  [2020 Versión] Mandos Bluetooth con Batería para Nintendo Switch Pro  Gamepad for Switch con Vibración Doble  LED Ajustable y Turbo para Switch  Windows XP/10/7/8/8.1
 ---
 
 Está [EasySMX Mandos para Switch  [2020 Versión] Mandos Bluetooth con Batería para Nintendo Switch Pro  Gamepad for Switch con Vibración Doble  LED Ajustable y Turbo para Switch  Windows XP/10/7/8/8.1](https://www.amazon.es/dp/B071ZSPY5R/?tag=tolees-21) con 60.88 de descuento por 26.99 EUR (original: 69.0 EUR) en el siguiente enlace!

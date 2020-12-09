@@ -10,8 +10,11 @@ author: ring
 slug: B005ZAJYNY
 description:
 actualPrice: 10.0 EUR
+currency: EUR
+price: 10.0
 comparePrice: 15.0 EUR
 inStock: true
+prodname: Tefal X9010101 Junta para Olla a presión Secure V  Plástico
 ---
 
 Ahora mismo tienes [Tefal X9010101 Junta para Olla a presión Secure V  Plástico](https://www.amazon.es/dp/B005ZAJYNY/?tag=tolees-21) a 10.0 EUR (original: 15.0 EUR) (33.33 %  de descuento) en el siguiente enlace!

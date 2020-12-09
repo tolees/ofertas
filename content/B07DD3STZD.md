@@ -10,8 +10,11 @@ author: ring
 slug: B07DD3STZD
 description:
 actualPrice: 17.49 EUR
+currency: EUR
+price: 17.49
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Scholl Gel Activ  pack de 2 plantillas  uso diario y sport  para hombre  talla 40-46.5  total 4 plantillas
 ---
 
 Tienes [Scholl Gel Activ  pack de 2 plantillas  uso diario y sport  para hombre  talla 40-46.5  total 4 plantillas](https://www.amazon.es/dp/B07DD3STZD/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 17.49 EUR (original: 24.99 EUR) en el siguiente enlace!

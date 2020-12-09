@@ -10,8 +10,11 @@ author: ring
 slug: B01D4YVY8K
 description:
 actualPrice: 27 EUR
+currency: EUR
+price: 27
 comparePrice: 39.74 EUR
 inStock: true
+prodname: Orbegozo 16716 Ventilador de pie  45 W  Negro
 ---
 
 Está [Orbegozo 16716 Ventilador de pie  45 W  Negro](https://www.amazon.es/dp/B01D4YVY8K/?tag=tolees-21) con 32.06 de descuento por 27 EUR (original: 39.74 EUR) en el siguiente enlace!

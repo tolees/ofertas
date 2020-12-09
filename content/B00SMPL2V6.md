@@ -10,8 +10,11 @@ author: ring
 slug: B00SMPL2V6
 description:
 actualPrice: 471.0 EUR
+currency: EUR
+price: 471.0
 comparePrice: 649.0 EUR
 inStock: true
+prodname: Olympus M.Zuiko - Objetivo Digital ED 14-150 mm F4-5.6 II  zoom estándar  apto para todas las cámaras MFT  modelos Olympus OM-D & PEN  serie G de Panasonic   negro
 ---
 
 Ahora mismo tienes [Olympus M.Zuiko - Objetivo Digital ED 14-150 mm F4-5.6 II  zoom estándar  apto para todas las cámaras MFT  modelos Olympus OM-D & PEN  serie G de Panasonic   negro](https://www.amazon.es/dp/B00SMPL2V6/?tag=tolees-21) a 471.0 EUR (original: 649.0 EUR) (27.43 %  de descuento) en el siguiente enlace!

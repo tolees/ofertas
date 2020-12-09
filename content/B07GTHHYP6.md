@@ -10,8 +10,11 @@ author: ring
 slug: B07GTHHYP6
 description:
 actualPrice: 35.73 EUR
+currency: EUR
+price: 35.73
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Berg Outdoor LAPELA Polar Fleece Jacket  Mujer  Scooter  L
 ---
 
 Tienes [Berg Outdoor LAPELA Polar Fleece Jacket  Mujer  Scooter  L](https://www.amazon.es/dp/B07GTHHYP6/?tag=tolees-21) con un 60.28 % de descuento con precio de oferta de 35.73 EUR (original: 89.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00JQ1VWC4
 description:
 actualPrice: 8.59 EUR
+currency: EUR
+price: 8.59
 comparePrice: 22.55 EUR
 inStock: true
+prodname: Pack: Pre-Code RKO [DVD]
 ---
 
 Tienes [Pack: Pre-Code RKO [DVD]](https://www.amazon.es/dp/B00JQ1VWC4/?tag=tolees-21) con un 61.91 % de descuento con precio de oferta de 8.59 EUR (original: 22.55 EUR) en el siguiente enlace!

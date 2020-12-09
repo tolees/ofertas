@@ -10,8 +10,11 @@ author: ring
 slug: B01LXX27SV
 description:
 actualPrice: 18.39 EUR
+currency: EUR
+price: 18.39
 comparePrice: 35.08 EUR
 inStock: true
+prodname: Julius-K9 16IDC-BR-M IDC Power Harness  Tamaño Mini  Borgoña  Burdeos
 ---
 
 Ahora mismo tienes [Julius-K9 16IDC-BR-M IDC Power Harness  Tamaño Mini  Borgoña  Burdeos](https://www.amazon.es/dp/B01LXX27SV/?tag=tolees-21) a 18.39 EUR (original: 35.08 EUR) (47.58 %  de descuento) en el siguiente enlace!

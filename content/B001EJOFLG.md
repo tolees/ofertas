@@ -10,8 +10,11 @@ author: ring
 slug: B001EJOFLG
 description:
 actualPrice: 8.39 EUR
+currency: EUR
+price: 8.39
 comparePrice: 11.99 EUR
 inStock: true
+prodname: NIVEA SUN Protege & Hidrata Spray Solar FP15  1 x 200 ml   protector hidratante y resistente al agua con protección UVA/UVB  protección solar media
 ---
 
 Está [NIVEA SUN Protege & Hidrata Spray Solar FP15  1 x 200 ml   protector hidratante y resistente al agua con protección UVA/UVB  protección solar media](https://www.amazon.es/dp/B001EJOFLG/?tag=tolees-21) con 30.03 de descuento por 8.39 EUR (original: 11.99 EUR) en el siguiente enlace!

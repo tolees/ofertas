@@ -10,8 +10,11 @@ author: ring
 slug: B00CUSDN9K
 description:
 actualPrice: 1.5 EUR
+currency: EUR
+price: 1.5
 comparePrice: 3.64 EUR
 inStock: true
+prodname: Rexona Desodorante Antitranspirante Cobalt Venus Roll On 50Ml
 ---
 
 Tienes [Rexona Desodorante Antitranspirante Cobalt Venus Roll On 50Ml](https://www.amazon.es/dp/B00CUSDN9K/?tag=tolees-21) con un 58.79 % de descuento con precio de oferta de 1.5 EUR (original: 3.64 EUR) en el siguiente enlace!

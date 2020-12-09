@@ -10,8 +10,11 @@ author: ring
 slug: B07NSKPN21
 description:
 actualPrice: 6.27 EUR
+currency: EUR
+price: 6.27
 comparePrice: 8.95 EUR
 inStock: true
+prodname: Pato - Matic limpiador y ambientador para inodoro  pastilla para cisterna  1 Pack of 6 unidades
 ---
 
 Ahora mismo tienes [Pato - Matic limpiador y ambientador para inodoro  pastilla para cisterna  1 Pack of 6 unidades](https://www.amazon.es/dp/B07NSKPN21/?tag=tolees-21) a 6.27 EUR (original: 8.95 EUR) (29.94 %  de descuento) en el siguiente enlace!

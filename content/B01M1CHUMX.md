@@ -10,8 +10,11 @@ author: ring
 slug: B01M1CHUMX
 description:
 actualPrice: 5.7 EUR
+currency: EUR
+price: 5.7
 comparePrice: 9.79 EUR
 inStock: true
+prodname: Chinchon Anis Chinchon Dulce - 1 l
 ---
 
 Está [Chinchon Anis Chinchon Dulce - 1 l](https://www.amazon.es/dp/B01M1CHUMX/?tag=tolees-21) con 41.78 de descuento por 5.7 EUR (original: 9.79 EUR) en el siguiente enlace!

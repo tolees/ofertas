@@ -10,8 +10,11 @@ author: ring
 slug: B01E5PJ7IQ
 description:
 actualPrice: 8.78 EUR
+currency: EUR
+price: 8.78
 comparePrice: 21.95 EUR
 inStock: true
+prodname: Miami Beach Swimwear Rosa  Bikini Mujer  Azul  aquarius   36
 ---
 
 Tienes [Miami Beach Swimwear Rosa  Bikini Mujer  Azul  aquarius   36](https://www.amazon.es/dp/B01E5PJ7IQ/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 8.78 EUR (original: 21.95 EUR) en el siguiente enlace!

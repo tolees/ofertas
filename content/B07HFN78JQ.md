@@ -10,8 +10,11 @@ author: ring
 slug: B07HFN78JQ
 description:
 actualPrice: 18.92 EUR
+currency: EUR
+price: 18.92
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Tommy Hilfiger T-Script Logo tee  Camiseta Hombre  Azul  Surf The Web 432   Medium
 ---
 
 Tienes [Tommy Hilfiger T-Script Logo tee  Camiseta Hombre  Azul  Surf The Web 432   Medium](https://www.amazon.es/dp/B07HFN78JQ/?tag=tolees-21) con un 52.58 % de descuento con precio de oferta de 18.92 EUR (original: 39.9 EUR) en el siguiente enlace!

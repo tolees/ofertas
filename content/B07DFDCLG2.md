@@ -10,8 +10,11 @@ author: ring
 slug: B07DFDCLG2
 description:
 actualPrice: 34.97 EUR
+currency: EUR
+price: 34.97
 comparePrice: 49.95 EUR
 inStock: true
+prodname: adidas VS Advantage  Zapatillas de Tenis para Hombre  Blanco FTWR White/Green/Core Black  45 EU
 ---
 
 Ahora mismo tienes [adidas VS Advantage  Zapatillas de Tenis para Hombre  Blanco FTWR White/Green/Core Black  45 EU](https://www.amazon.es/dp/B07DFDCLG2/?tag=tolees-21) a 34.97 EUR (original: 49.95 EUR) (29.99 %  de descuento) en el siguiente enlace!

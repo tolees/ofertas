@@ -10,8 +10,11 @@ author: ring
 slug: B07DJLFPLR
 description:
 actualPrice: 15.74 EUR
+currency: EUR
+price: 15.74
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Dockers by Gerli 43fa301  Botas Militar para Mujer  Marrón  Taupe/Braun 433   38 EU
 ---
 
 Tienes [Dockers by Gerli 43fa301  Botas Militar para Mujer  Marrón  Taupe/Braun 433   38 EU](https://www.amazon.es/dp/B07DJLFPLR/?tag=tolees-21) con un 73.74 % de descuento con precio de oferta de 15.74 EUR (original: 59.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FR6FCX7
 description:
 actualPrice: 30.83 EUR
+currency: EUR
+price: 30.83
 comparePrice: 41.18 EUR
 inStock: true
+prodname: Clarks Step Beat Dune  Zapatos de Cordones Derby para Hombre  Marrón  Brown-   42.5 EU
 ---
 
 Ahora mismo tienes [Clarks Step Beat Dune  Zapatos de Cordones Derby para Hombre  Marrón  Brown-   42.5 EU](https://www.amazon.es/dp/B07FR6FCX7/?tag=tolees-21) a 30.83 EUR (original: 41.18 EUR) (25.13 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06ZYCL9WT
 description:
 actualPrice: 182.26 EUR
+currency: EUR
+price: 182.26
 comparePrice: 336.38 EUR
 inStock: true
+prodname: Bosch Professional Nivel láser combinado GCL 2-50 C con función de App  4 pilas AA  soporte RM2  caja de cartón  alcance: 50 m con receptor 
 ---
 
 Tienes [Bosch Professional Nivel láser combinado GCL 2-50 C con función de App  4 pilas AA  soporte RM2  caja de cartón  alcance: 50 m con receptor ](https://www.amazon.es/dp/B06ZYCL9WT/?tag=tolees-21) con un 45.82 % de descuento con precio de oferta de 182.26 EUR (original: 336.38 EUR) en el siguiente enlace!

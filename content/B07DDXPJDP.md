@@ -10,8 +10,11 @@ author: ring
 slug: B07DDXPJDP
 description:
 actualPrice: 10.41 EUR
+currency: EUR
+price: 10.41
 comparePrice: 39.95 EUR
 inStock: true
+prodname: bass3d 41573  Zapatillas para Mujer  Gris  36 EU
 ---
 
 Está [bass3d 41573  Zapatillas para Mujer  Gris  36 EU](https://www.amazon.es/dp/B07DDXPJDP/?tag=tolees-21) con 73.94 de descuento por 10.41 EUR (original: 39.95 EUR) en el siguiente enlace!

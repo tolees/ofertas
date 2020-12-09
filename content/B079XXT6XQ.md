@@ -10,8 +10,11 @@ author: ring
 slug: B079XXT6XQ
 description:
 actualPrice: 66 EUR
+currency: EUR
+price: 66
 comparePrice: 92 EUR
 inStock: true
+prodname: Paco Rabanne  Agua de colonia para mujeres - 1 set
 ---
 
 Tienes [Paco Rabanne  Agua de colonia para mujeres - 1 set](https://www.amazon.es/dp/B079XXT6XQ/?tag=tolees-21) con un 28.26 % de descuento con precio de oferta de 66 EUR (original: 92 EUR) en el siguiente enlace!

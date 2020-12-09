@@ -10,8 +10,11 @@ author: ring
 slug: B07DLFVNF9
 description:
 actualPrice: 13.71 EUR
+currency: EUR
+price: 13.71
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield 5Ba Crew Lambs.Wash  Jersey para Hombre   Gama Grises 44   Small  Tamaño del Fabricante:S 
 ---
 
 Ahora mismo tienes [Springfield 5Ba Crew Lambs.Wash  Jersey para Hombre   Gama Grises 44   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLFVNF9/?tag=tolees-21) a 13.71 EUR (original: 29.99 EUR) (54.28 %  de descuento) en el siguiente enlace!

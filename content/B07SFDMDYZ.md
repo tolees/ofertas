@@ -10,8 +10,11 @@ author: ring
 slug: B07SFDMDYZ
 description:
 actualPrice: 56.99 EUR
+currency: EUR
+price: 56.99
 comparePrice: 94.74 EUR
 inStock: true
+prodname: adidas Falcon W  Zapatillas de Gimnasio Mujer  Ecru Tint S18/Icey Pink F17/True Pink  40 2/3 EU
 ---
 
 Ahora mismo tienes [adidas Falcon W  Zapatillas de Gimnasio Mujer  Ecru Tint S18/Icey Pink F17/True Pink  40 2/3 EU](https://www.amazon.es/dp/B07SFDMDYZ/?tag=tolees-21) a 56.99 EUR (original: 94.74 EUR) (39.85 %  de descuento) en el siguiente enlace!

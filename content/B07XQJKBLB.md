@@ -10,8 +10,11 @@ author: ring
 slug: B07XQJKBLB
 description:
 actualPrice: 149.0 EUR
+currency: EUR
+price: 149.0
 comparePrice: 239.0 EUR
 inStock: true
+prodname: Huawei Watch GT 2 Classic - Smartwatch con Caja de 42 mm  Hasta 2 Semanas de Batería  Pantalla Táctil AMOLED de 1.39"  GPS  15 Modos Deportivos   marrón/ Gravel Beige
 ---
 
 Tienes [Huawei Watch GT 2 Classic - Smartwatch con Caja de 42 mm  Hasta 2 Semanas de Batería  Pantalla Táctil AMOLED de 1.39"  GPS  15 Modos Deportivos   marrón/ Gravel Beige](https://www.amazon.es/dp/B07XQJKBLB/?tag=tolees-21) con un 37.66 % de descuento con precio de oferta de 149.0 EUR (original: 239.0 EUR) en el siguiente enlace!

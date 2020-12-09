@@ -10,8 +10,11 @@ author: ring
 slug: B072KGF2TB
 description:
 actualPrice: 34.12 EUR
+currency: EUR
+price: 34.12
 comparePrice: 129.95 EUR
 inStock: true
+prodname: adidas Eqt Support Adv  Zapatillas para Hombre  Negro  Negbas/Negbas/Versub   44 2/3 EU
 ---
 
 Está [adidas Eqt Support Adv  Zapatillas para Hombre  Negro  Negbas/Negbas/Versub   44 2/3 EU](https://www.amazon.es/dp/B072KGF2TB/?tag=tolees-21) con 73.74 de descuento por 34.12 EUR (original: 129.95 EUR) en el siguiente enlace!

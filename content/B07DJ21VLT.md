@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ21VLT
 description:
 actualPrice: 53.88 EUR
+currency: EUR
+price: 53.88
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance 247v2  Zapatillas para Hombre  Azul  Eclipse/Silver Fd   44 EU
 ---
 
 Ahora mismo tienes [New Balance 247v2  Zapatillas para Hombre  Azul  Eclipse/Silver Fd   44 EU](https://www.amazon.es/dp/B07DJ21VLT/?tag=tolees-21) a 53.88 EUR (original: 90 EUR) (40.13 %  de descuento) en el siguiente enlace!

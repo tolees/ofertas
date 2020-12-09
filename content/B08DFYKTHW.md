@@ -10,8 +10,11 @@ author: ring
 slug: B08DFYKTHW
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 33.99 EUR
 inStock: true
+prodname: J.Endéar Pulsera Mujer Piedras Naturales  Pulseras Ágata Negro Cuentas Piedras Preciosas Naturales 8mm  Pulsera Corazón Amistad con Charm Corazón en Plata de Primera Ley
 ---
 
 Ahora mismo tienes [J.Endéar Pulsera Mujer Piedras Naturales  Pulseras Ágata Negro Cuentas Piedras Preciosas Naturales 8mm  Pulsera Corazón Amistad con Charm Corazón en Plata de Primera Ley](https://www.amazon.es/dp/B08DFYKTHW/?tag=tolees-21) a 18.99 EUR (original: 33.99 EUR) (44.13 %  de descuento) en el siguiente enlace!

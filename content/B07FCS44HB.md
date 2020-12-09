@@ -10,8 +10,11 @@ author: ring
 slug: B07FCS44HB
 description:
 actualPrice: 83.27 EUR
+currency: EUR
+price: 83.27
 comparePrice: 135 EUR
 inStock: true
+prodname: Guess - Kamryn  Bolsos totes Mujer  Multicolor  Black Stripe/Bsp   42x26.5x15 cm  W x H L 
 ---
 
 Ahora mismo tienes [Guess - Kamryn  Bolsos totes Mujer  Multicolor  Black Stripe/Bsp   42x26.5x15 cm  W x H L ](https://www.amazon.es/dp/B07FCS44HB/?tag=tolees-21) a 83.27 EUR (original: 135 EUR) (38.32 %  de descuento) en el siguiente enlace!

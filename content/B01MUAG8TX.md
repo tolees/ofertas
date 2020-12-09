@@ -10,8 +10,11 @@ author: ring
 slug: B01MUAG8TX
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Alcachofa Para Ducha   Marsoul ducha 7 LED de color cabezal de ducha de baño del aerosol fuerte anión doble filtración alcachofas de ducha  22*6 
 ---
 
 Ahora mismo tienes [Alcachofa Para Ducha   Marsoul ducha 7 LED de color cabezal de ducha de baño del aerosol fuerte anión doble filtración alcachofas de ducha  22*6 ](https://www.amazon.es/dp/B01MUAG8TX/?tag=tolees-21) a 9.99 EUR (original: 27.99 EUR) (64.31 %  de descuento) en el siguiente enlace!

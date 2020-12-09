@@ -10,8 +10,11 @@ author: ring
 slug: B07SDPLV9S
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 62.9 EUR
 inStock: true
+prodname: Watch Dogs Legion - Limited Edition  Exclusiva Amazon 
 ---
 
 Tienes [Watch Dogs Legion - Limited Edition  Exclusiva Amazon ](https://www.amazon.es/dp/B07SDPLV9S/?tag=tolees-21) con un 36.42 % de descuento con precio de oferta de 39.99 EUR (original: 62.9 EUR) en el siguiente enlace!

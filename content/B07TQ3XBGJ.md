@@ -10,8 +10,11 @@ author: ring
 slug: B07TQ3XBGJ
 description:
 actualPrice: 23.03 EUR
+currency: EUR
+price: 23.03
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Clarks Lexi Carmen  Sandalias de Talón Abierto para Mujer  Negro  Black Leather Black Leather   42 EU
 ---
 
 Ahora mismo tienes [Clarks Lexi Carmen  Sandalias de Talón Abierto para Mujer  Negro  Black Leather Black Leather   42 EU](https://www.amazon.es/dp/B07TQ3XBGJ/?tag=tolees-21) a 23.03 EUR (original: 69.95 EUR) (67.08 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MS23SNN
 description:
 actualPrice: 39.53 EUR
+currency: EUR
+price: 39.53
 comparePrice: 63.87 EUR
 inStock: true
+prodname: Adidas Ace Tango 17.2 TR  Botas de fútbol para Hombre  Multicolor  Multicolour Multicolour   42 2/3 EU
 ---
 
 Está [Adidas Ace Tango 17.2 TR  Botas de fútbol para Hombre  Multicolor  Multicolour Multicolour   42 2/3 EU](https://www.amazon.es/dp/B01MS23SNN/?tag=tolees-21) con 38.11 de descuento por 39.53 EUR (original: 63.87 EUR) en el siguiente enlace!

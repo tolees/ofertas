@@ -10,8 +10,11 @@ author: ring
 slug: B00FLNJHYQ
 description:
 actualPrice: 85.06 EUR
+currency: EUR
+price: 85.06
 comparePrice: 131.89 EUR
 inStock: true
+prodname: Detectalia D7X - Detector automático de billetes falsos con 100% detección y listo para los nuevos billetes - 14 x 12 x 6 cm
 ---
 
 Está [Detectalia D7X - Detector automático de billetes falsos con 100% detección y listo para los nuevos billetes - 14 x 12 x 6 cm](https://www.amazon.es/dp/B00FLNJHYQ/?tag=tolees-21) con 35.51 de descuento por 85.06 EUR (original: 131.89 EUR) en el siguiente enlace!

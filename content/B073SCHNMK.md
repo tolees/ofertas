@@ -10,8 +10,11 @@ author: ring
 slug: B073SCHNMK
 description:
 actualPrice: 5.4 EUR
+currency: EUR
+price: 5.4
 comparePrice: 12.6 EUR
 inStock: true
+prodname: FIND Camiseta Mensaje para Hombre  Blanco  White 001   Medium
 ---
 
 Ahora mismo tienes [FIND Camiseta Mensaje para Hombre  Blanco  White 001   Medium](https://www.amazon.es/dp/B073SCHNMK/?tag=tolees-21) a 5.4 EUR (original: 12.6 EUR) (57.14 %  de descuento) en el siguiente enlace!

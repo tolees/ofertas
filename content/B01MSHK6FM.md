@@ -10,8 +10,11 @@ author: ring
 slug: B01MSHK6FM
 description:
 actualPrice: 15 EUR
+currency: EUR
+price: 15
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Ziu Smart Items - Sevilla Fútbol Club  Altavoz con Bluetooth. Blanco / Rojo
 ---
 
 Está [Ziu Smart Items - Sevilla Fútbol Club  Altavoz con Bluetooth. Blanco / Rojo](https://www.amazon.es/dp/B01MSHK6FM/?tag=tolees-21) con 49.83 de descuento por 15 EUR (original: 29.9 EUR) en el siguiente enlace!

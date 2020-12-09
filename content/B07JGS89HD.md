@@ -10,8 +10,11 @@ author: ring
 slug: B07JGS89HD
 description:
 actualPrice: 45.94 EUR
+currency: EUR
+price: 45.94
 comparePrice: 84.95 EUR
 inStock: true
+prodname: Skechers Uno  Zapatillas para Hombre  Negro  Black Blk   47.5 EU
 ---
 
 Ahora mismo tienes [Skechers Uno  Zapatillas para Hombre  Negro  Black Blk   47.5 EU](https://www.amazon.es/dp/B07JGS89HD/?tag=tolees-21) a 45.94 EUR (original: 84.95 EUR) (45.92 %  de descuento) en el siguiente enlace!

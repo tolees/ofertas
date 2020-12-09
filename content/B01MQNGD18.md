@@ -10,8 +10,11 @@ author: ring
 slug: B01MQNGD18
 description:
 actualPrice: 39.6 EUR
+currency: EUR
+price: 39.6
 comparePrice: 55 EUR
 inStock: true
+prodname: Under Armour Ua Thrill 3 Zapatillas de Running Hombre  Negro  Black 001   41 EU  7 UK 
 ---
 
 Ahora mismo tienes [Under Armour Ua Thrill 3 Zapatillas de Running Hombre  Negro  Black 001   41 EU  7 UK ](https://www.amazon.es/dp/B01MQNGD18/?tag=tolees-21) a 39.6 EUR (original: 55 EUR) (28.00 %  de descuento) en el siguiente enlace!

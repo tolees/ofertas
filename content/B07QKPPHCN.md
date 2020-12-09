@@ -10,8 +10,11 @@ author: ring
 slug: B07QKPPHCN
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 67.2 EUR
 inStock: true
+prodname: Noragami + Noragami Aragoto. Serie Completa Bluray Coleccionistas [Blu-ray]
 ---
 
 Ahora mismo tienes [Noragami + Noragami Aragoto. Serie Completa Bluray Coleccionistas [Blu-ray]](https://www.amazon.es/dp/B07QKPPHCN/?tag=tolees-21) a 33.99 EUR (original: 67.2 EUR) (49.42 %  de descuento) en el siguiente enlace!

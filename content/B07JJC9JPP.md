@@ -10,8 +10,11 @@ author: ring
 slug: B07JJC9JPP
 description:
 actualPrice: 43.25 EUR
+currency: EUR
+price: 43.25
 comparePrice: 110 EUR
 inStock: true
+prodname: Armani Exchange Indaco Denim J16 Straight Vaqueros  Azul 1500  W33/L34  Talla del Fabricante: 33  para Hombre
 ---
 
 Ahora mismo tienes [Armani Exchange Indaco Denim J16 Straight Vaqueros  Azul 1500  W33/L34  Talla del Fabricante: 33  para Hombre](https://www.amazon.es/dp/B07JJC9JPP/?tag=tolees-21) a 43.25 EUR (original: 110 EUR) (60.68 %  de descuento) en el siguiente enlace!

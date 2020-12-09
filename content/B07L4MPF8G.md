@@ -10,8 +10,11 @@ author: ring
 slug: B07L4MPF8G
 description:
 actualPrice: 95.99 EUR
+currency: EUR
+price: 95.99
 comparePrice: 139.95 EUR
 inStock: true
+prodname: Adidas Terrex AX3 Mid GTX  Zapatillas de Deporte para Hombre  Multicolor  Gricin/Negbás/Mesa 000   46 EU
 ---
 
 Tienes [Adidas Terrex AX3 Mid GTX  Zapatillas de Deporte para Hombre  Multicolor  Gricin/Negbás/Mesa 000   46 EU](https://www.amazon.es/dp/B07L4MPF8G/?tag=tolees-21) con un 31.41 % de descuento con precio de oferta de 95.99 EUR (original: 139.95 EUR) en el siguiente enlace!

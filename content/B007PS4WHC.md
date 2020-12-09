@@ -10,8 +10,11 @@ author: ring
 slug: B007PS4WHC
 description:
 actualPrice: 40.52 EUR
+currency: EUR
+price: 40.52
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Taurus Babel RC - Ventilador de torre con control remoto  3 velocidades  45W  color gris
 ---
 
 Está [Taurus Babel RC - Ventilador de torre con control remoto  3 velocidades  45W  color gris](https://www.amazon.es/dp/B007PS4WHC/?tag=tolees-21) con 32.46 de descuento por 40.52 EUR (original: 59.99 EUR) en el siguiente enlace!

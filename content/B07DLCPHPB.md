@@ -10,8 +10,11 @@ author: ring
 slug: B07DLCPHPB
 description:
 actualPrice: 15.31 EUR
+currency: EUR
+price: 15.31
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Women s Secret TF Ecru Dots Nd  Camisón para Mujer   Varios 98  Large  Tamaño del Fabricante:L 
 ---
 
 Ahora mismo tienes [Women s Secret TF Ecru Dots Nd  Camisón para Mujer   Varios 98  Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07DLCPHPB/?tag=tolees-21) a 15.31 EUR (original: 29.99 EUR) (48.95 %  de descuento) en el siguiente enlace!

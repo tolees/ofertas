@@ -10,8 +10,11 @@ author: ring
 slug: B07KMQYZZG
 description:
 actualPrice: 8.9 EUR
+currency: EUR
+price: 8.9
 comparePrice: 13.95 EUR
 inStock: true
+prodname: L Oréal Paris Rouge Signature 110 I Deserve Pintalabios Mate Permanente Nude - 7 ml
 ---
 
 Tienes [L Oréal Paris Rouge Signature 110 I Deserve Pintalabios Mate Permanente Nude - 7 ml](https://www.amazon.es/dp/B07KMQYZZG/?tag=tolees-21) con un 36.20 % de descuento con precio de oferta de 8.9 EUR (original: 13.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KTH5CDD
 description:
 actualPrice: 101.47 EUR
+currency: EUR
+price: 101.47
 comparePrice: 149.0 EUR
 inStock: true
+prodname: Tommy Hilfiger Reloj de Pulsera 1782071
 ---
 
 Está [Tommy Hilfiger Reloj de Pulsera 1782071](https://www.amazon.es/dp/B07KTH5CDD/?tag=tolees-21) con 31.90 de descuento por 101.47 EUR (original: 149.0 EUR) en el siguiente enlace!

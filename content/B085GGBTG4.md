@@ -10,8 +10,11 @@ author: ring
 slug: B085GGBTG4
 description:
 actualPrice: 102.27 EUR
+currency: EUR
+price: 102.27
 comparePrice: 179.0 EUR
 inStock: true
+prodname: Huawei Watch GT 2e Active - Smartwatch de AMOLED pantalla de 1.39 pulgadas  2 semanas de Batería  GPS  Color Verde  Mint Green  46 mm  55025279 
 ---
 
 Está [Huawei Watch GT 2e Active - Smartwatch de AMOLED pantalla de 1.39 pulgadas  2 semanas de Batería  GPS  Color Verde  Mint Green  46 mm  55025279 ](https://www.amazon.es/dp/B085GGBTG4/?tag=tolees-21) con 42.87 de descuento por 102.27 EUR (original: 179.0 EUR) en el siguiente enlace!

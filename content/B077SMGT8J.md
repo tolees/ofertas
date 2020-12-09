@@ -10,8 +10,11 @@ author: ring
 slug: B077SMGT8J
 description:
 actualPrice: 16.11 EUR
+currency: EUR
+price: 16.11
 comparePrice: 65.95 EUR
 inStock: true
+prodname: Marco Tozzi Premio 23749  Zapatillas para Mujer  Beige  Dune Met.Comb   39 EU
 ---
 
 Ahora mismo tienes [Marco Tozzi Premio 23749  Zapatillas para Mujer  Beige  Dune Met.Comb   39 EU](https://www.amazon.es/dp/B077SMGT8J/?tag=tolees-21) a 16.11 EUR (original: 65.95 EUR) (75.57 %  de descuento) en el siguiente enlace!

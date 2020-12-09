@@ -10,8 +10,11 @@ author: ring
 slug: B078WSSCHW
 description:
 actualPrice: 110 EUR
+currency: EUR
+price: 110
 comparePrice: 170 EUR
 inStock: true
+prodname: Sony SRSXB31L - Altavoz portátil Bluetooth  Extra Bass  Modo Sonido Live  Party Booster  Luces de Fiesta llamativas  Conector USB para Cargar Smartphone   Color Azul
 ---
 
 Está [Sony SRSXB31L - Altavoz portátil Bluetooth  Extra Bass  Modo Sonido Live  Party Booster  Luces de Fiesta llamativas  Conector USB para Cargar Smartphone   Color Azul](https://www.amazon.es/dp/B078WSSCHW/?tag=tolees-21) con 35.29 de descuento por 110 EUR (original: 170 EUR) en el siguiente enlace!

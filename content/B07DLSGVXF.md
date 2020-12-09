@@ -10,8 +10,11 @@ author: ring
 slug: B07DLSGVXF
 description:
 actualPrice: 14.05 EUR
+currency: EUR
+price: 14.05
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Springfield 4.Pa. Detalle Cintas Esco Camiseta de Manga Larga  Mujer  Rosa  Gama Rosas/morados 79   X-Large  Tamaño del Fabricante:XL 
 ---
 
 Ahora mismo tienes [Springfield 4.Pa. Detalle Cintas Esco Camiseta de Manga Larga  Mujer  Rosa  Gama Rosas/morados 79   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLSGVXF/?tag=tolees-21) a 14.05 EUR (original: 19.99 EUR) (29.71 %  de descuento) en el siguiente enlace!

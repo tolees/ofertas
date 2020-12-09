@@ -10,8 +10,11 @@ author: ring
 slug: B0784XCKNQ
 description:
 actualPrice: 38.58 EUR
+currency: EUR
+price: 38.58
 comparePrice: 74.95 EUR
 inStock: true
+prodname: adidas Cloudfoam Racer TR  Zapatillas de Running para Asfalto para Hombre  Negro Cblack/Greone 000  44 EU
 ---
 
 Ahora mismo tienes [adidas Cloudfoam Racer TR  Zapatillas de Running para Asfalto para Hombre  Negro Cblack/Greone 000  44 EU](https://www.amazon.es/dp/B0784XCKNQ/?tag=tolees-21) a 38.58 EUR (original: 74.95 EUR) (48.53 %  de descuento) en el siguiente enlace!

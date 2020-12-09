@@ -10,8 +10,11 @@ author: ring
 slug: B00PI0J7YC
 description:
 actualPrice: 21.49 EUR
+currency: EUR
+price: 21.49
 comparePrice: 28.99 EUR
 inStock: true
+prodname: Fisher-Price Cojín de actividades para bebé recién nacido  Mattel CDR52 
 ---
 
 Tienes [Fisher-Price Cojín de actividades para bebé recién nacido  Mattel CDR52 ](https://www.amazon.es/dp/B00PI0J7YC/?tag=tolees-21) con un 25.87 % de descuento con precio de oferta de 21.49 EUR (original: 28.99 EUR) en el siguiente enlace!

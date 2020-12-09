@@ -10,8 +10,11 @@ author: ring
 slug: B01DLMD5O6
 description:
 actualPrice: 188.91 EUR
+currency: EUR
+price: 188.91
 comparePrice: 330.0 EUR
 inStock: true
+prodname: Sony SEL50F18F.SYX Objetivo Fijo  FE 50 mm  F1.8   Negro  solo Objetivo
 ---
 
 Está [Sony SEL50F18F.SYX Objetivo Fijo  FE 50 mm  F1.8   Negro  solo Objetivo](https://www.amazon.es/dp/B01DLMD5O6/?tag=tolees-21) con 42.75 de descuento por 188.91 EUR (original: 330.0 EUR) en el siguiente enlace!

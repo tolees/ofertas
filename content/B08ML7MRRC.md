@@ -10,8 +10,11 @@ author: ring
 slug: B08ML7MRRC
 description:
 actualPrice: 136.99 EUR
+currency: EUR
+price: 136.99
 comparePrice: 239.0 EUR
 inStock: true
+prodname: Radio Coche Android para VW  Hodozzy Autoradio Bluetooth con Pantalla Táctil HD de 9"  Soporte Estéreo Doble DIN para Coche WiFi  FM  Enlace Espejo  Navegación GPS  Cámara de Marcha Atrás
 ---
 
 Está [Radio Coche Android para VW  Hodozzy Autoradio Bluetooth con Pantalla Táctil HD de 9"  Soporte Estéreo Doble DIN para Coche WiFi  FM  Enlace Espejo  Navegación GPS  Cámara de Marcha Atrás](https://www.amazon.es/dp/B08ML7MRRC/?tag=tolees-21) con 42.68 de descuento por 136.99 EUR (original: 239.0 EUR) en el siguiente enlace!

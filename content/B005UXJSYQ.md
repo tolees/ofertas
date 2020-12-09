@@ -10,8 +10,11 @@ author: ring
 slug: B005UXJSYQ
 description:
 actualPrice: 17.15 EUR
+currency: EUR
+price: 17.15
 comparePrice: 22.87 EUR
 inStock: true
+prodname: Cardenal Mendoza - Brandy De Jerez  70 cl
 ---
 
 Está [Cardenal Mendoza - Brandy De Jerez  70 cl](https://www.amazon.es/dp/B005UXJSYQ/?tag=tolees-21) con 25.01 de descuento por 17.15 EUR (original: 22.87 EUR) en el siguiente enlace!

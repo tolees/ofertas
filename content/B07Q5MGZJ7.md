@@ -10,8 +10,11 @@ author: ring
 slug: B07Q5MGZJ7
 description:
 actualPrice: 11.24 EUR
+currency: EUR
+price: 11.24
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Máscara para los ojos  Parches para los ojos  Ojos Parches  Contorno de Ojos Antiarrugas  Anti edad para ojeras bolsas patas de gallo e hinchazón  30 pares
 ---
 
 Está [Máscara para los ojos  Parches para los ojos  Ojos Parches  Contorno de Ojos Antiarrugas  Anti edad para ojeras bolsas patas de gallo e hinchazón  30 pares](https://www.amazon.es/dp/B07Q5MGZJ7/?tag=tolees-21) con 25.02 de descuento por 11.24 EUR (original: 14.99 EUR) en el siguiente enlace!

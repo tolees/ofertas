@@ -10,8 +10,11 @@ author: ring
 slug: B06XJX5DW2
 description:
 actualPrice: 113.73 EUR
+currency: EUR
+price: 113.73
 comparePrice: 249 EUR
 inStock: true
+prodname: TW steel-men de watch-vs37
 ---
 
 Ahora mismo tienes [TW steel-men de watch-vs37](https://www.amazon.es/dp/B06XJX5DW2/?tag=tolees-21) a 113.73 EUR (original: 249 EUR) (54.33 %  de descuento) en el siguiente enlace!

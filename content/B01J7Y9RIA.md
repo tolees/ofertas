@@ -10,8 +10,11 @@ author: ring
 slug: B01J7Y9RIA
 description:
 actualPrice: 145.1 EUR
+currency: EUR
+price: 145.1
 comparePrice: 269.99 EUR
 inStock: true
+prodname: Columbia Salcantay Long Hooded Interchange Jkt Chaqueta Impermeable  Poliéster  Mujer  Negro  Talla S
 ---
 
 Está [Columbia Salcantay Long Hooded Interchange Jkt Chaqueta Impermeable  Poliéster  Mujer  Negro  Talla S](https://www.amazon.es/dp/B01J7Y9RIA/?tag=tolees-21) con 46.26 de descuento por 145.1 EUR (original: 269.99 EUR) en el siguiente enlace!

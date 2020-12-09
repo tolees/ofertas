@@ -10,8 +10,11 @@ author: ring
 slug: B000VPF2KW
 description:
 actualPrice: 10.19 EUR
+currency: EUR
+price: 10.19
 comparePrice: 13.88 EUR
 inStock: true
+prodname: Goki-57849 Puzzles de Madera Encaje Círculo   4013594578493 
 ---
 
 Ahora mismo tienes [Goki-57849 Puzzles de Madera Encaje Círculo   4013594578493 ](https://www.amazon.es/dp/B000VPF2KW/?tag=tolees-21) a 10.19 EUR (original: 13.88 EUR) (26.59 %  de descuento) en el siguiente enlace!

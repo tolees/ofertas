@@ -10,8 +10,11 @@ author: ring
 slug: B01GH40NMW
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 30.99 EUR
 inStock: true
+prodname: Controlador de goma adhesiva conductora Timorn para Microsoft Xbox 360 sustitución de los contactos de ratones Botones Fix  Gray-10 juegos 
 ---
 
 Está [Controlador de goma adhesiva conductora Timorn para Microsoft Xbox 360 sustitución de los contactos de ratones Botones Fix  Gray-10 juegos ](https://www.amazon.es/dp/B01GH40NMW/?tag=tolees-21) con 45.18 de descuento por 16.99 EUR (original: 30.99 EUR) en el siguiente enlace!

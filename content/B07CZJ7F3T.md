@@ -10,8 +10,11 @@ author: ring
 slug: B07CZJ7F3T
 description:
 actualPrice: 16.3 EUR
+currency: EUR
+price: 16.3
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Under Armour UA Tech Graphic Short Nov Pantalón Corto  Hombre  Azul  Thunder/Petrol Blue 407   S
 ---
 
 Está [Under Armour UA Tech Graphic Short Nov Pantalón Corto  Hombre  Azul  Thunder/Petrol Blue 407   S](https://www.amazon.es/dp/B07CZJ7F3T/?tag=tolees-21) con 45.65 de descuento por 16.3 EUR (original: 29.99 EUR) en el siguiente enlace!

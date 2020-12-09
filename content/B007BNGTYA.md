@@ -10,8 +10,11 @@ author: ring
 slug: B007BNGTYA
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 14.9 EUR
 inStock: true
+prodname: Beurer JBY 32 -Luz de noche infantil  portátil  11 horas autonomía  forma animada para niños
 ---
 
 Ahora mismo tienes [Beurer JBY 32 -Luz de noche infantil  portátil  11 horas autonomía  forma animada para niños](https://www.amazon.es/dp/B007BNGTYA/?tag=tolees-21) a 9.99 EUR (original: 14.9 EUR) (32.95 %  de descuento) en el siguiente enlace!

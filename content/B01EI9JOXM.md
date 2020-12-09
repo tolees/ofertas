@@ -10,8 +10,11 @@ author: ring
 slug: B01EI9JOXM
 description:
 actualPrice: 66.49 EUR
+currency: EUR
+price: 66.49
 comparePrice: 99.74 EUR
 inStock: true
+prodname: adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Core Black/White/Gold Metalic   41 1/3 EU
 ---
 
 Ahora mismo tienes [adidas Gazelle  Zapatillas de deporte Unisex Adulto  Varios colores  Core Black/White/Gold Metalic   41 1/3 EU](https://www.amazon.es/dp/B01EI9JOXM/?tag=tolees-21) a 66.49 EUR (original: 99.74 EUR) (33.34 %  de descuento) en el siguiente enlace!

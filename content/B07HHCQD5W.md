@@ -10,8 +10,11 @@ author: ring
 slug: B07HHCQD5W
 description:
 actualPrice: 18.95 EUR
+currency: EUR
+price: 18.95
 comparePrice: 27.95 EUR
 inStock: true
+prodname: IKOHS Batidora de Vaso MOI - Batidora de Vaso Individual para Smoothies y Batidos  230 W  Individual  Portátil  Cuchillas de Acero Inoxidable  230W  Libre de BPA  Diseño Exclusivo  Color Beige
 ---
 
 Ahora mismo tienes [IKOHS Batidora de Vaso MOI - Batidora de Vaso Individual para Smoothies y Batidos  230 W  Individual  Portátil  Cuchillas de Acero Inoxidable  230W  Libre de BPA  Diseño Exclusivo  Color Beige](https://www.amazon.es/dp/B07HHCQD5W/?tag=tolees-21) a 18.95 EUR (original: 27.95 EUR) (32.20 %  de descuento) en el siguiente enlace!

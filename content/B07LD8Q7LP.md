@@ -10,8 +10,11 @@ author: ring
 slug: B07LD8Q7LP
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 67.99 EUR
 inStock: true
+prodname: Made In Abyss Episodios 1 A 13  Serie Completa  Blu-Ray Edición Coleccionistas [Blu-ray]
 ---
 
 Ahora mismo tienes [Made In Abyss Episodios 1 A 13  Serie Completa  Blu-Ray Edición Coleccionistas [Blu-ray]](https://www.amazon.es/dp/B07LD8Q7LP/?tag=tolees-21) a 33.99 EUR (original: 67.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

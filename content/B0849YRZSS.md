@@ -10,8 +10,11 @@ author: ring
 slug: B0849YRZSS
 description:
 actualPrice: 19.59 EUR
+currency: EUR
+price: 19.59
 comparePrice: 27.9 EUR
 inStock: true
+prodname: 1917  4K Ultra HD + BD  [Blu-ray]
 ---
 
 Tienes [1917  4K Ultra HD + BD  [Blu-ray]](https://www.amazon.es/dp/B0849YRZSS/?tag=tolees-21) con un 29.78 % de descuento con precio de oferta de 19.59 EUR (original: 27.9 EUR) en el siguiente enlace!

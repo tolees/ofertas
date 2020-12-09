@@ -10,8 +10,11 @@ author: ring
 slug: B07DHSYL6X
 description:
 actualPrice: 55.19 EUR
+currency: EUR
+price: 55.19
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Quiksilver Sierra Chaqueta de Nieve  Hombre  Rojo  Flame   XXL
 ---
 
 Ahora mismo tienes [Quiksilver Sierra Chaqueta de Nieve  Hombre  Rojo  Flame   XXL](https://www.amazon.es/dp/B07DHSYL6X/?tag=tolees-21) a 55.19 EUR (original: 199.99 EUR) (72.40 %  de descuento) en el siguiente enlace!

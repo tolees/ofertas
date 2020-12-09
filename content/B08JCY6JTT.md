@@ -10,8 +10,11 @@ author: ring
 slug: B08JCY6JTT
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 13.14 EUR
 inStock: true
+prodname: EGV [Paquete de 4 Protector de Pantalla para xiaomi Poco x3 NFC  4 de Vidrio Templado  fácil instalación  Ultrafino  antiarañazos  Anti-Burbujas
 ---
 
 Está [EGV [Paquete de 4 Protector de Pantalla para xiaomi Poco x3 NFC  4 de Vidrio Templado  fácil instalación  Ultrafino  antiarañazos  Anti-Burbujas](https://www.amazon.es/dp/B08JCY6JTT/?tag=tolees-21) con 39.19 de descuento por 7.99 EUR (original: 13.14 EUR) en el siguiente enlace!

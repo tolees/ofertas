@@ -10,8 +10,11 @@ author: ring
 slug: B01MTB55WH
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: Altavoz inalámbrico Bluetooth Anker SoundCore 2  batería de 24 horas  protección contra el agua IPX7  graves enormes con dos controladores de graves
 ---
 
 Ahora mismo tienes [Altavoz inalámbrico Bluetooth Anker SoundCore 2  batería de 24 horas  protección contra el agua IPX7  graves enormes con dos controladores de graves](https://www.amazon.es/dp/B01MTB55WH/?tag=tolees-21) a 27.99 EUR (original: 45.99 EUR) (39.14 %  de descuento) en el siguiente enlace!

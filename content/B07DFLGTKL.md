@@ -10,8 +10,11 @@ author: ring
 slug: B07DFLGTKL
 description:
 actualPrice: 19.16 EUR
+currency: EUR
+price: 19.16
 comparePrice: 44.95 EUR
 inStock: true
+prodname: adidas Cy5606 Bolsa de Deporte Infantil  58 cm  Blabas/Negro
 ---
 
 Está [adidas Cy5606 Bolsa de Deporte Infantil  58 cm  Blabas/Negro](https://www.amazon.es/dp/B07DFLGTKL/?tag=tolees-21) con 57.37 de descuento por 19.16 EUR (original: 44.95 EUR) en el siguiente enlace!

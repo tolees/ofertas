@@ -10,8 +10,11 @@ author: ring
 slug: B06XSLDQC2
 description:
 actualPrice: 9 EUR
+currency: EUR
+price: 9
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Iris & Lilly BLICR001 sujetadores  Beige  Black/nude   100A  Talla del fabricante: 38A 
 ---
 
 Tienes [Iris & Lilly BLICR001 sujetadores  Beige  Black/nude   100A  Talla del fabricante: 38A ](https://www.amazon.es/dp/B06XSLDQC2/?tag=tolees-21) con un 49.97 % de descuento con precio de oferta de 9 EUR (original: 17.99 EUR) en el siguiente enlace!

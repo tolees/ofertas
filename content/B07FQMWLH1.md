@@ -10,8 +10,11 @@ author: ring
 slug: B07FQMWLH1
 description:
 actualPrice: 25.54 EUR
+currency: EUR
+price: 25.54
 comparePrice: 50 EUR
 inStock: true
+prodname: Hurley M Hanoi 20  BAÑADORES  Hombre  Black  30
 ---
 
 Tienes [Hurley M Hanoi 20  BAÑADORES  Hombre  Black  30](https://www.amazon.es/dp/B07FQMWLH1/?tag=tolees-21) con un 48.92 % de descuento con precio de oferta de 25.54 EUR (original: 50 EUR) en el siguiente enlace!

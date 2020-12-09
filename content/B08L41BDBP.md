@@ -10,8 +10,11 @@ author: ring
 slug: B08L41BDBP
 description:
 actualPrice: 10.25 EUR
+currency: EUR
+price: 10.25
 comparePrice: 16.99 EUR
 inStock: true
+prodname: positions  CD 
 ---
 
 Está [positions  CD ](https://www.amazon.es/dp/B08L41BDBP/?tag=tolees-21) con 39.67 de descuento por 10.25 EUR (original: 16.99 EUR) en el siguiente enlace!

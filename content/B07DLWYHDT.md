@@ -10,8 +10,11 @@ author: ring
 slug: B07DLWYHDT
 description:
 actualPrice: 3.99 EUR
+currency: EUR
+price: 3.99
 comparePrice: 5.95 EUR
 inStock: true
+prodname: Energy Sistem Extra Battery 2200 Navy - Batería Externa de Carga rápida para Tus Dispositivos móviles  2200 mAh  indicador LED  Compacto  Cable Dual microUSB y Tipo C   Color Azul
 ---
 
 Está [Energy Sistem Extra Battery 2200 Navy - Batería Externa de Carga rápida para Tus Dispositivos móviles  2200 mAh  indicador LED  Compacto  Cable Dual microUSB y Tipo C   Color Azul](https://www.amazon.es/dp/B07DLWYHDT/?tag=tolees-21) con 32.94 de descuento por 3.99 EUR (original: 5.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B073JTCW1L
 description:
 actualPrice: 18.16 EUR
+currency: EUR
+price: 18.16
 comparePrice: 34.12 EUR
 inStock: true
+prodname: Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Rojo  Burgundy   M  Label: M
 ---
 
 Está [Marca Amazon - find. Cazadora Estilo Bomber para Hombre  Rojo  Burgundy   M  Label: M](https://www.amazon.es/dp/B073JTCW1L/?tag=tolees-21) con 46.78 de descuento por 18.16 EUR (original: 34.12 EUR) en el siguiente enlace!

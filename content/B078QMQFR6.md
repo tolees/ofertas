@@ -10,8 +10,11 @@ author: ring
 slug: B078QMQFR6
 description:
 actualPrice: 59.42 EUR
+currency: EUR
+price: 59.42
 comparePrice: 100 EUR
 inStock: true
+prodname: The North Face Kids TNF Chaquetas  Niñas  Periscope Grey  XL
 ---
 
 Está [The North Face Kids TNF Chaquetas  Niñas  Periscope Grey  XL](https://www.amazon.es/dp/B078QMQFR6/?tag=tolees-21) con 40.58 de descuento por 59.42 EUR (original: 100 EUR) en el siguiente enlace!

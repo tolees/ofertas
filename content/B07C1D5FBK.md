@@ -10,8 +10,11 @@ author: ring
 slug: B07C1D5FBK
 description:
 actualPrice: 66.6 EUR
+currency: EUR
+price: 66.6
 comparePrice: 99.99 EUR
 inStock: true
+prodname: JBL Reflect Mini 2 Sport - Auriculares deportivos con Bluetooth y cancelación de ruido  cascos inalámbricos resistentes al agua  IPX5   hasta 10 h de música  negro
 ---
 
 Ahora mismo tienes [JBL Reflect Mini 2 Sport - Auriculares deportivos con Bluetooth y cancelación de ruido  cascos inalámbricos resistentes al agua  IPX5   hasta 10 h de música  negro](https://www.amazon.es/dp/B07C1D5FBK/?tag=tolees-21) a 66.6 EUR (original: 99.99 EUR) (33.39 %  de descuento) en el siguiente enlace!

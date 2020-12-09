@@ -10,8 +10,11 @@ author: ring
 slug: B07FTYLBF4
 description:
 actualPrice: 10.33 EUR
+currency: EUR
+price: 10.33
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Vero Moda Vmward Feather LS O-Neck Blouse suéter   Misty Rose AOP:W. Silver Lurex   40  Talla del Fabricante: Medium  para Mujer
 ---
 
 Tienes [Vero Moda Vmward Feather LS O-Neck Blouse suéter   Misty Rose AOP:W. Silver Lurex   40  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07FTYLBF4/?tag=tolees-21) con un 65.56 % de descuento con precio de oferta de 10.33 EUR (original: 29.99 EUR) en el siguiente enlace!

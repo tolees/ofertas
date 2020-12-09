@@ -10,8 +10,11 @@ author: ring
 slug: B07KCGNBS4
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Altavoz Bluetooth Portatiles  20W Multifuncional IPX67 Altavoz Impermeable Bluetooth 4.2 Extra Bass  360 Grados de Sonido Envolvente  Altavoz Portatil con HD Mic  SD  FM  AUX  12H
 ---
 
 Está [Altavoz Bluetooth Portatiles  20W Multifuncional IPX67 Altavoz Impermeable Bluetooth 4.2 Extra Bass  360 Grados de Sonido Envolvente  Altavoz Portatil con HD Mic  SD  FM  AUX  12H](https://www.amazon.es/dp/B07KCGNBS4/?tag=tolees-21) con 75.01 de descuento por 29.99 EUR (original: 119.99 EUR) en el siguiente enlace!

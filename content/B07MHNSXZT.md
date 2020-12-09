@@ -10,8 +10,11 @@ author: ring
 slug: B07MHNSXZT
 description:
 actualPrice: 61.15 EUR
+currency: EUR
+price: 61.15
 comparePrice: 84.78 EUR
 inStock: true
+prodname: Bosch Professional 2607017472 Juego de 15 fresas para ranurar  rebajar  unir  recortar y perfilar madera  para fresadoras con vástago de 8 mm  Color Plata
 ---
 
 Tienes [Bosch Professional 2607017472 Juego de 15 fresas para ranurar  rebajar  unir  recortar y perfilar madera  para fresadoras con vástago de 8 mm  Color Plata](https://www.amazon.es/dp/B07MHNSXZT/?tag=tolees-21) con un 27.87 % de descuento con precio de oferta de 61.15 EUR (original: 84.78 EUR) en el siguiente enlace!

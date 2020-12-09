@@ -10,8 +10,11 @@ author: ring
 slug: B074L6NSLL
 description:
 actualPrice: 23.0 EUR
+currency: EUR
+price: 23.0
 comparePrice: 40.0 EUR
 inStock: true
+prodname: BEAST 20oz acero inoxidable vaso aislado al vacío Rambler taza de café doble pared taza frasco con la tapa prueba del chapoteo  2 pitillos  cepillo de pipa y regalo caja paquete por Greens Steel
 ---
 
 Ahora mismo tienes [BEAST 20oz acero inoxidable vaso aislado al vacío Rambler taza de café doble pared taza frasco con la tapa prueba del chapoteo  2 pitillos  cepillo de pipa y regalo caja paquete por Greens Steel](https://www.amazon.es/dp/B074L6NSLL/?tag=tolees-21) a 23.0 EUR (original: 40.0 EUR) (42.50 %  de descuento) en el siguiente enlace!

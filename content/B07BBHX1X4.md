@@ -10,8 +10,11 @@ author: ring
 slug: B07BBHX1X4
 description:
 actualPrice: 11.93 EUR
+currency: EUR
+price: 11.93
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Softline 25469-21  Botines para Mujer  Verde  Olive 722   41 EU
 ---
 
 Ahora mismo tienes [Softline 25469-21  Botines para Mujer  Verde  Olive 722   41 EU](https://www.amazon.es/dp/B07BBHX1X4/?tag=tolees-21) a 11.93 EUR (original: 49.95 EUR) (76.12 %  de descuento) en el siguiente enlace!

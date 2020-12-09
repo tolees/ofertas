@@ -10,8 +10,11 @@ author: ring
 slug: B07VJ3NBQP
 description:
 actualPrice: 11.0 EUR
+currency: EUR
+price: 11.0
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Hurley M O&O Gradient 2.0 S/S tee Camiseta  Hombre  Oil Grey  S
 ---
 
 Está [Hurley M O&O Gradient 2.0 S/S tee Camiseta  Hombre  Oil Grey  S](https://www.amazon.es/dp/B07VJ3NBQP/?tag=tolees-21) con 63.33 de descuento por 11.0 EUR (original: 30.0 EUR) en el siguiente enlace!

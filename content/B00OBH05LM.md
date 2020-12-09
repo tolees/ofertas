@@ -10,8 +10,11 @@ author: ring
 slug: B00OBH05LM
 description:
 actualPrice: 18.49 EUR
+currency: EUR
+price: 18.49
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Only Onlroyal Reg Skinny Jeans Pim504 Noos Pantalones  Azul  Medium Blue Denim   42/L34  Talla Fabricante: XL  para Mujer
 ---
 
 Tienes [Only Onlroyal Reg Skinny Jeans Pim504 Noos Pantalones  Azul  Medium Blue Denim   42/L34  Talla Fabricante: XL  para Mujer](https://www.amazon.es/dp/B00OBH05LM/?tag=tolees-21) con un 38.26 % de descuento con precio de oferta de 18.49 EUR (original: 29.95 EUR) en el siguiente enlace!

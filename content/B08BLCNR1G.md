@@ -10,8 +10,11 @@ author: ring
 slug: B08BLCNR1G
 description:
 actualPrice: 144.9 EUR
+currency: EUR
+price: 144.9
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Cecotec Aspirador Escoba Conga Rockstar 500 X-Treme ErgoFlex. Motor Digital Brushless  Potencia 430 W  Presión succión 24KPa  Autonomía hasta 65 min
 ---
 
 Está [Cecotec Aspirador Escoba Conga Rockstar 500 X-Treme ErgoFlex. Motor Digital Brushless  Potencia 430 W  Presión succión 24KPa  Autonomía hasta 65 min](https://www.amazon.es/dp/B08BLCNR1G/?tag=tolees-21) con 27.19 de descuento por 144.9 EUR (original: 199.0 EUR) en el siguiente enlace!

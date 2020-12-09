@@ -10,8 +10,11 @@ author: ring
 slug: B000SSFPFE
 description:
 actualPrice: 55.99 EUR
+currency: EUR
+price: 55.99
 comparePrice: 98 EUR
 inStock: true
+prodname: Michael Kors 1-29-19-02 - EDP Spray  100 ml
 ---
 
 Ahora mismo tienes [Michael Kors 1-29-19-02 - EDP Spray  100 ml](https://www.amazon.es/dp/B000SSFPFE/?tag=tolees-21) a 55.99 EUR (original: 98 EUR) (42.87 %  de descuento) en el siguiente enlace!

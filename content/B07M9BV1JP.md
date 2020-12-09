@@ -10,8 +10,11 @@ author: ring
 slug: B07M9BV1JP
 description:
 actualPrice: 7.42 EUR
+currency: EUR
+price: 7.42
 comparePrice: 19.43 EUR
 inStock: true
+prodname: Mula Blu-Ray [Blu-ray]
 ---
 
 Tienes [Mula Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07M9BV1JP/?tag=tolees-21) con un 61.81 % de descuento con precio de oferta de 7.42 EUR (original: 19.43 EUR) en el siguiente enlace!

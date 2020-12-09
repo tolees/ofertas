@@ -10,8 +10,11 @@ author: ring
 slug: B07K2G6FZC
 description:
 actualPrice: 20.48 EUR
+currency: EUR
+price: 20.48
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Blend Shorts  Pantalones cortos para Hombre  Marrón  Sand Brown 75107    Small
 ---
 
 Está [Blend Shorts  Pantalones cortos para Hombre  Marrón  Sand Brown 75107    Small](https://www.amazon.es/dp/B07K2G6FZC/?tag=tolees-21) con 48.74 de descuento por 20.48 EUR (original: 39.95 EUR) en el siguiente enlace!

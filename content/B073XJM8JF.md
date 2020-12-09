@@ -10,8 +10,11 @@ author: ring
 slug: B073XJM8JF
 description:
 actualPrice: 62.99 EUR
+currency: EUR
+price: 62.99
 comparePrice: 140.0 EUR
 inStock: true
+prodname: Timberland Nellie Chukka Leather SDE  Botas Mujer  Amarillo Wheat Nubuck  37 EU
 ---
 
 Ahora mismo tienes [Timberland Nellie Chukka Leather SDE  Botas Mujer  Amarillo Wheat Nubuck  37 EU](https://www.amazon.es/dp/B073XJM8JF/?tag=tolees-21) a 62.99 EUR (original: 140.0 EUR) (55.01 %  de descuento) en el siguiente enlace!

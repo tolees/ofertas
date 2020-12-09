@@ -10,8 +10,11 @@ author: ring
 slug: B07F9TNNW1
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 50.89 EUR
 inStock: true
+prodname: Tarjetas Lexar Professional 1000x SDHC/SDXC UHS-II 64 GB [Embalaje ecológico]
 ---
 
 Ahora mismo tienes [Tarjetas Lexar Professional 1000x SDHC/SDXC UHS-II 64 GB [Embalaje ecológico]](https://www.amazon.es/dp/B07F9TNNW1/?tag=tolees-21) a 29.99 EUR (original: 50.89 EUR) (41.07 %  de descuento) en el siguiente enlace!

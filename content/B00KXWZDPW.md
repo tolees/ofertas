@@ -10,8 +10,11 @@ author: ring
 slug: B00KXWZDPW
 description:
 actualPrice: 189.99 EUR
+currency: EUR
+price: 189.99
 comparePrice: 399 EUR
 inStock: true
+prodname: Hugo Boss 1513085 - Reloj
 ---
 
 Ahora mismo tienes [Hugo Boss 1513085 - Reloj](https://www.amazon.es/dp/B00KXWZDPW/?tag=tolees-21) a 189.99 EUR (original: 399 EUR) (52.38 %  de descuento) en el siguiente enlace!

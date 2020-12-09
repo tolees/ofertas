@@ -10,8 +10,11 @@ author: ring
 slug: B07K3XRQQN
 description:
 actualPrice: 16.49 EUR
+currency: EUR
+price: 16.49
 comparePrice: 21.99 EUR
 inStock: true
+prodname: Tatuaje Corrector Cicatriz Corrector Corrector impermeable Corrector Profesional cubierta para puntos de Vitiligo Marcas de nacimiento 30g+30g
 ---
 
 Ahora mismo tienes [Tatuaje Corrector Cicatriz Corrector Corrector impermeable Corrector Profesional cubierta para puntos de Vitiligo Marcas de nacimiento 30g+30g](https://www.amazon.es/dp/B07K3XRQQN/?tag=tolees-21) a 16.49 EUR (original: 21.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

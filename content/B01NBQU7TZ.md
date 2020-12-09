@@ -10,8 +10,11 @@ author: ring
 slug: B01NBQU7TZ
 description:
 actualPrice: 16.4 EUR
+currency: EUR
+price: 16.4
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Rieker 56466  Mocasines para Mujer  Marrón  Bronze   40 EU
 ---
 
 Está [Rieker 56466  Mocasines para Mujer  Marrón  Bronze   40 EU](https://www.amazon.es/dp/B01NBQU7TZ/?tag=tolees-21) con 70.15 de descuento por 16.4 EUR (original: 54.95 EUR) en el siguiente enlace!

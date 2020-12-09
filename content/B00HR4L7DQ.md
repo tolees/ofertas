@@ -10,8 +10,11 @@ author: ring
 slug: B00HR4L7DQ
 description:
 actualPrice: 107.59 EUR
+currency: EUR
+price: 107.59
 comparePrice: 149 EUR
 inStock: true
+prodname: Roca A5A1318C00 Mezclador Termostático Ducha  Modelo T-500  Cromado
 ---
 
 Ahora mismo tienes [Roca A5A1318C00 Mezclador Termostático Ducha  Modelo T-500  Cromado](https://www.amazon.es/dp/B00HR4L7DQ/?tag=tolees-21) a 107.59 EUR (original: 149 EUR) (27.79 %  de descuento) en el siguiente enlace!

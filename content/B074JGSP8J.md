@@ -10,8 +10,11 @@ author: ring
 slug: B074JGSP8J
 description:
 actualPrice: 43.53 EUR
+currency: EUR
+price: 43.53
 comparePrice: 89 EUR
 inStock: true
+prodname: Fred Perry Twin Tipped Shirt  Polo para Hombre  Beige  Ecru/Verde/Black F79  X-Small  Tamaño del Fabricante:XS 
 ---
 
 Tienes [Fred Perry Twin Tipped Shirt  Polo para Hombre  Beige  Ecru/Verde/Black F79  X-Small  Tamaño del Fabricante:XS ](https://www.amazon.es/dp/B074JGSP8J/?tag=tolees-21) con un 51.09 % de descuento con precio de oferta de 43.53 EUR (original: 89 EUR) en el siguiente enlace!

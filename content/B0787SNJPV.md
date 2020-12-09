@@ -10,8 +10,11 @@ author: ring
 slug: B0787SNJPV
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 109.99 EUR
 inStock: true
+prodname: LANGRIA Silla de Oficina Giratoria con Ruedas Respaldo de Rejilla Transpirable Asiento y Reposabrazos Acolchados Altura e Inclinación Regulables Peso Máximo 120 kg para Sala de Estudio Trabajo  Negro 
 ---
 
 Tienes [LANGRIA Silla de Oficina Giratoria con Ruedas Respaldo de Rejilla Transpirable Asiento y Reposabrazos Acolchados Altura e Inclinación Regulables Peso Máximo 120 kg para Sala de Estudio Trabajo  Negro ](https://www.amazon.es/dp/B0787SNJPV/?tag=tolees-21) con un 27.28 % de descuento con precio de oferta de 79.99 EUR (original: 109.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HFGC91L
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 49.99 EUR
 inStock: true
+prodname: ONLY NOS onlAVA Faux Leather Biker OTW Noos Chaqueta  Rojo High Risk Red  40 para Mujer
 ---
 
 Tienes [ONLY NOS onlAVA Faux Leather Biker OTW Noos Chaqueta  Rojo High Risk Red  40 para Mujer](https://www.amazon.es/dp/B07HFGC91L/?tag=tolees-21) con un 60.09 % de descuento con precio de oferta de 19.95 EUR (original: 49.99 EUR) en el siguiente enlace!

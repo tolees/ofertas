@@ -10,8 +10,11 @@ author: ring
 slug: B07JQ4NWKH
 description:
 actualPrice: 11.38 EUR
+currency: EUR
+price: 11.38
 comparePrice: 69.99 EUR
 inStock: true
+prodname: ESPRIT Collection 128eo1d004 Falda  Azul  Bright Blue 410   38  Talla del Fabricante: 36  para Mujer
 ---
 
 Tienes [ESPRIT Collection 128eo1d004 Falda  Azul  Bright Blue 410   38  Talla del Fabricante: 36  para Mujer](https://www.amazon.es/dp/B07JQ4NWKH/?tag=tolees-21) con un 83.74 % de descuento con precio de oferta de 11.38 EUR (original: 69.99 EUR) en el siguiente enlace!

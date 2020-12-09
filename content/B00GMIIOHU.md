@@ -10,8 +10,11 @@ author: ring
 slug: B00GMIIOHU
 description:
 actualPrice: 199 EUR
+currency: EUR
+price: 199
 comparePrice: 299 EUR
 inStock: true
+prodname: Bébé Confort Iseos  Silla de coche grupo 1 Isofix  rojo  Raspberry Red 
 ---
 
 Está [Bébé Confort Iseos  Silla de coche grupo 1 Isofix  rojo  Raspberry Red ](https://www.amazon.es/dp/B00GMIIOHU/?tag=tolees-21) con 33.44 de descuento por 199 EUR (original: 299 EUR) en el siguiente enlace!

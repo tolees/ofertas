@@ -10,8 +10,11 @@ author: ring
 slug: B01N6C7VWA
 description:
 actualPrice: 18.91 EUR
+currency: EUR
+price: 18.91
 comparePrice: 95 EUR
 inStock: true
+prodname: Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim M85   W28/L32
 ---
 
 Ahora mismo tienes [Pepe Jeans Hatch  Vaqueros Slim para Hombre  Azul  Denim M85   W28/L32](https://www.amazon.es/dp/B01N6C7VWA/?tag=tolees-21) a 18.91 EUR (original: 95 EUR) (80.09 %  de descuento) en el siguiente enlace!

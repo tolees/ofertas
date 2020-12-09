@@ -10,8 +10,11 @@ author: ring
 slug: B07N4K3KVD
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 23.79 EUR
 inStock: true
+prodname: KidKraft - Kit de juguetes de cocina y pastelería  compuesto por 11 unidades   Color Metálico  53535  
 ---
 
 Está [KidKraft - Kit de juguetes de cocina y pastelería  compuesto por 11 unidades   Color Metálico  53535  ](https://www.amazon.es/dp/B07N4K3KVD/?tag=tolees-21) con 36.99 de descuento por 14.99 EUR (original: 23.79 EUR) en el siguiente enlace!

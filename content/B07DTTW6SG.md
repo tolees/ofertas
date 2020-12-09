@@ -10,8 +10,11 @@ author: ring
 slug: B07DTTW6SG
 description:
 actualPrice: 18.9 EUR
+currency: EUR
+price: 18.9
 comparePrice: 27.83 EUR
 inStock: true
+prodname: REPSOL ANTICONGELANTE REFRI. MQ PURO 5L
 ---
 
 Tienes [REPSOL ANTICONGELANTE REFRI. MQ PURO 5L](https://www.amazon.es/dp/B07DTTW6SG/?tag=tolees-21) con un 32.09 % de descuento con precio de oferta de 18.9 EUR (original: 27.83 EUR) en el siguiente enlace!

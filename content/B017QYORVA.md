@@ -10,8 +10,11 @@ author: ring
 slug: B017QYORVA
 description:
 actualPrice: 43.95 EUR
+currency: EUR
+price: 43.95
 comparePrice: 79.0 EUR
 inStock: true
+prodname: Superga 2790-COTROPEW  Zapatillas Mujer  Blanco  901 White   35 EU  2.5 UK 
 ---
 
 Tienes [Superga 2790-COTROPEW  Zapatillas Mujer  Blanco  901 White   35 EU  2.5 UK ](https://www.amazon.es/dp/B017QYORVA/?tag=tolees-21) con un 44.37 % de descuento con precio de oferta de 43.95 EUR (original: 79.0 EUR) en el siguiente enlace!

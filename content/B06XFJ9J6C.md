@@ -10,8 +10,11 @@ author: ring
 slug: B06XFJ9J6C
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 16.95 EUR
 inStock: true
+prodname: Dcasa - Cortina de baño original poliester diseño mensaje "CANTANDO"
 ---
 
 Está [Dcasa - Cortina de baño original poliester diseño mensaje "CANTANDO"](https://www.amazon.es/dp/B06XFJ9J6C/?tag=tolees-21) con 29.26 de descuento por 11.99 EUR (original: 16.95 EUR) en el siguiente enlace!

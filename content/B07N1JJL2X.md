@@ -10,8 +10,11 @@ author: ring
 slug: B07N1JJL2X
 description:
 actualPrice: 96.96 EUR
+currency: EUR
+price: 96.96
 comparePrice: 226.8 EUR
 inStock: true
+prodname: BERSIGAR Hombre Negro Esfera Acero Inoxidable Pulsera Resistente Al Agua Análogo Automático Reloj con Transparente Caso Parte  360°
 ---
 
 Tienes [BERSIGAR Hombre Negro Esfera Acero Inoxidable Pulsera Resistente Al Agua Análogo Automático Reloj con Transparente Caso Parte  360°](https://www.amazon.es/dp/B07N1JJL2X/?tag=tolees-21) con un 57.25 % de descuento con precio de oferta de 96.96 EUR (original: 226.8 EUR) en el siguiente enlace!

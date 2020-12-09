@@ -10,8 +10,11 @@ author: ring
 slug: B00I1HREOO
 description:
 actualPrice: 1.0 EUR
+currency: EUR
+price: 1.0
 comparePrice: 1.49 EUR
 inStock: true
+prodname: Nestea Té Negro Limón - Refresco de té sin gas Bajo en calorías - botella 1 5L
 ---
 
 Ahora mismo tienes [Nestea Té Negro Limón - Refresco de té sin gas Bajo en calorías - botella 1 5L](https://www.amazon.es/dp/B00I1HREOO/?tag=tolees-21) a 1.0 EUR (original: 1.49 EUR) (32.89 %  de descuento) en el siguiente enlace!

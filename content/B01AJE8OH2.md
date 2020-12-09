@@ -10,8 +10,11 @@ author: ring
 slug: B01AJE8OH2
 description:
 actualPrice: 18.61 EUR
+currency: EUR
+price: 18.61
 comparePrice: 26.75 EUR
 inStock: true
+prodname: Campingaz 2000026173 - Soldador
 ---
 
 Tienes [Campingaz 2000026173 - Soldador](https://www.amazon.es/dp/B01AJE8OH2/?tag=tolees-21) con un 30.43 % de descuento con precio de oferta de 18.61 EUR (original: 26.75 EUR) en el siguiente enlace!

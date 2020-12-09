@@ -10,8 +10,11 @@ author: ring
 slug: B07F6MZLG3
 description:
 actualPrice: 27.45 EUR
+currency: EUR
+price: 27.45
 comparePrice: 50 EUR
 inStock: true
+prodname: Nike G NK Therma Hoodie FZ GX Chaqueta  Niñas  Lava Glow  XS
 ---
 
 Está [Nike G NK Therma Hoodie FZ GX Chaqueta  Niñas  Lava Glow  XS](https://www.amazon.es/dp/B07F6MZLG3/?tag=tolees-21) con 45.10 de descuento por 27.45 EUR (original: 50 EUR) en el siguiente enlace!

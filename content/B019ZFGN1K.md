@@ -10,8 +10,11 @@ author: ring
 slug: B019ZFGN1K
 description:
 actualPrice: 17.83 EUR
+currency: EUR
+price: 17.83
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Under Armour Tech Ssc-Twist - Camiseta de manga corta para mujer  Mujer  1277206-001  Gris  Small
 ---
 
 Está [Under Armour Tech Ssc-Twist - Camiseta de manga corta para mujer  Mujer  1277206-001  Gris  Small](https://www.amazon.es/dp/B019ZFGN1K/?tag=tolees-21) con 36.30 de descuento por 17.83 EUR (original: 27.99 EUR) en el siguiente enlace!

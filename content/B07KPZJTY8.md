@@ -10,8 +10,11 @@ author: ring
 slug: B07KPZJTY8
 description:
 actualPrice: 31.63 EUR
+currency: EUR
+price: 31.63
 comparePrice: 65 EUR
 inStock: true
+prodname: Asics Patriot 10 SP  Zapatillas de Running para Mujer  Blanco  White/Black 100   41.5 EU
 ---
 
 Está [Asics Patriot 10 SP  Zapatillas de Running para Mujer  Blanco  White/Black 100   41.5 EU](https://www.amazon.es/dp/B07KPZJTY8/?tag=tolees-21) con 51.34 de descuento por 31.63 EUR (original: 65 EUR) en el siguiente enlace!

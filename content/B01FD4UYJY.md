@@ -10,8 +10,11 @@ author: ring
 slug: B01FD4UYJY
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Reebok Royal Glide  Zapatillas de Deporte Unisex Adulto  Blanco  Blanco V53956   41 EU
 ---
 
 Está [Reebok Royal Glide  Zapatillas de Deporte Unisex Adulto  Blanco  Blanco V53956   41 EU](https://www.amazon.es/dp/B01FD4UYJY/?tag=tolees-21) con 53.83 de descuento por 29.99 EUR (original: 64.95 EUR) en el siguiente enlace!

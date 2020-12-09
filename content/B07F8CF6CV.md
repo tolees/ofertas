@@ -10,8 +10,11 @@ author: ring
 slug: B07F8CF6CV
 description:
 actualPrice: 87.72 EUR
+currency: EUR
+price: 87.72
 comparePrice: 180 EUR
 inStock: true
+prodname: Burton Vida Pantalón de Snowboard  Mujer  marrón  Camel   XL
 ---
 
 Ahora mismo tienes [Burton Vida Pantalón de Snowboard  Mujer  marrón  Camel   XL](https://www.amazon.es/dp/B07F8CF6CV/?tag=tolees-21) a 87.72 EUR (original: 180 EUR) (51.27 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TTTSPK1
 description:
 actualPrice: 40.0 EUR
+currency: EUR
+price: 40.0
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers Bounder Verkona  Zapatillas Hombre  Gris  White Mesh/Black Synthetic/Trim WBK   44 EU
 ---
 
 Tienes [Skechers Bounder Verkona  Zapatillas Hombre  Gris  White Mesh/Black Synthetic/Trim WBK   44 EU](https://www.amazon.es/dp/B07TTTSPK1/?tag=tolees-21) con un 38.41 % de descuento con precio de oferta de 40.0 EUR (original: 64.95 EUR) en el siguiente enlace!

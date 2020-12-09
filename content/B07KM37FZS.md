@@ -10,8 +10,11 @@ author: ring
 slug: B07KM37FZS
 description:
 actualPrice: 7.5 EUR
+currency: EUR
+price: 7.5
 comparePrice: 15.86 EUR
 inStock: true
+prodname: Todos Lo Saben  + BD  [Blu-ray]
 ---
 
 Tienes [Todos Lo Saben  + BD  [Blu-ray]](https://www.amazon.es/dp/B07KM37FZS/?tag=tolees-21) con un 52.71 % de descuento con precio de oferta de 7.5 EUR (original: 15.86 EUR) en el siguiente enlace!

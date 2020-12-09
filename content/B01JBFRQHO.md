@@ -10,8 +10,11 @@ author: ring
 slug: B01JBFRQHO
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 10.74 EUR
 inStock: true
+prodname: La Novia Cadáver [DVD]
 ---
 
 Tienes [La Novia Cadáver [DVD]](https://www.amazon.es/dp/B01JBFRQHO/?tag=tolees-21) con un 34.92 % de descuento con precio de oferta de 6.99 EUR (original: 10.74 EUR) en el siguiente enlace!

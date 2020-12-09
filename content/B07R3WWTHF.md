@@ -10,8 +10,11 @@ author: ring
 slug: B07R3WWTHF
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 77.65 EUR
 inStock: true
+prodname: Panasonic ER-GD61-K503 Recortadora de Barba Recargable para Hombre  Forma de Navaja  i-Shaper  Acero Inoxidable  Batería Larga Duración  Lavable  20 Longitudes de 0.1 a 10 mm  2 Peines y Funda  Negro
 ---
 
 Tienes [Panasonic ER-GD61-K503 Recortadora de Barba Recargable para Hombre  Forma de Navaja  i-Shaper  Acero Inoxidable  Batería Larga Duración  Lavable  20 Longitudes de 0.1 a 10 mm  2 Peines y Funda  Negro](https://www.amazon.es/dp/B07R3WWTHF/?tag=tolees-21) con un 35.62 % de descuento con precio de oferta de 49.99 EUR (original: 77.65 EUR) en el siguiente enlace!

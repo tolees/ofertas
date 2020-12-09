@@ -10,8 +10,11 @@ author: ring
 slug: B01MTJUGAQ
 description:
 actualPrice: 8.2 EUR
+currency: EUR
+price: 8.2
 comparePrice: 15.9 EUR
 inStock: true
+prodname: oodji Ultra Mujer Jersey Estampado de Manga 3/4  Rojo  ES 34 / XXS
 ---
 
 Ahora mismo tienes [oodji Ultra Mujer Jersey Estampado de Manga 3/4  Rojo  ES 34 / XXS](https://www.amazon.es/dp/B01MTJUGAQ/?tag=tolees-21) a 8.2 EUR (original: 15.9 EUR) (48.43 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B013SVAFES
 description:
 actualPrice: 47.46 EUR
+currency: EUR
+price: 47.46
 comparePrice: 78 EUR
 inStock: true
+prodname: Acqua Di Parma Colonia Club agua de colonia Vaporizador 50 ml
 ---
 
 Ahora mismo tienes [Acqua Di Parma Colonia Club agua de colonia Vaporizador 50 ml](https://www.amazon.es/dp/B013SVAFES/?tag=tolees-21) a 47.46 EUR (original: 78 EUR) (39.15 %  de descuento) en el siguiente enlace!

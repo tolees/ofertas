@@ -10,8 +10,11 @@ author: ring
 slug: B07GPRJR1R
 description:
 actualPrice: 6.64 EUR
+currency: EUR
+price: 6.64
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Recore - Edición Definitiva
 ---
 
 Está [Recore - Edición Definitiva](https://www.amazon.es/dp/B07GPRJR1R/?tag=tolees-21) con 66.78 de descuento por 6.64 EUR (original: 19.99 EUR) en el siguiente enlace!

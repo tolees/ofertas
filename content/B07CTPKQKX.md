@@ -10,8 +10,11 @@ author: ring
 slug: B07CTPKQKX
 description:
 actualPrice: 41.8 EUR
+currency: EUR
+price: 41.8
 comparePrice: 120 EUR
 inStock: true
+prodname: Under Armour UA HOVR Sonic 2  Zapatillas de Running para Hombre  Negro  Black White 002   40 EU
 ---
 
 Tienes [Under Armour UA HOVR Sonic 2  Zapatillas de Running para Hombre  Negro  Black White 002   40 EU](https://www.amazon.es/dp/B07CTPKQKX/?tag=tolees-21) con un 65.17 % de descuento con precio de oferta de 41.8 EUR (original: 120 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08FBW7BCV
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 47.88 EUR
 inStock: true
+prodname: Colgate Bambú Carbón  Cepillo De Dientes  Pack 12 uds
 ---
 
 Ahora mismo tienes [Colgate Bambú Carbón  Cepillo De Dientes  Pack 12 uds](https://www.amazon.es/dp/B08FBW7BCV/?tag=tolees-21) a 29.99 EUR (original: 47.88 EUR) (37.36 %  de descuento) en el siguiente enlace!

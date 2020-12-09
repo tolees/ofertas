@@ -10,8 +10,11 @@ author: ring
 slug: B07KTK1FN7
 description:
 actualPrice: 38.65 EUR
+currency: EUR
+price: 38.65
 comparePrice: 120 EUR
 inStock: true
+prodname: Clarks Originals Ashton  Zapatos de Cordones Derby para Mujer  Negro Black Nubuck  36 EU
 ---
 
 Está [Clarks Originals Ashton  Zapatos de Cordones Derby para Mujer  Negro Black Nubuck  36 EU](https://www.amazon.es/dp/B07KTK1FN7/?tag=tolees-21) con 67.79 de descuento por 38.65 EUR (original: 120 EUR) en el siguiente enlace!

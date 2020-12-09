@@ -10,8 +10,11 @@ author: ring
 slug: B07CHLWRQ9
 description:
 actualPrice: 179.99 EUR
+currency: EUR
+price: 179.99
 comparePrice: 259.99 EUR
 inStock: true
+prodname: Giradiscos JORLAI 33/45/78 con Bluetooth Reproductor de CD y Vinilo Grabación USB / SD y Juego de Casete  PLL Radio FM  Entrada AUX de y Conector para Auriculares  Salida de línea para Altavoz Externo
 ---
 
 Ahora mismo tienes [Giradiscos JORLAI 33/45/78 con Bluetooth Reproductor de CD y Vinilo Grabación USB / SD y Juego de Casete  PLL Radio FM  Entrada AUX de y Conector para Auriculares  Salida de línea para Altavoz Externo](https://www.amazon.es/dp/B07CHLWRQ9/?tag=tolees-21) a 179.99 EUR (original: 259.99 EUR) (30.77 %  de descuento) en el siguiente enlace!

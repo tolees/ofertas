@@ -10,8 +10,11 @@ author: ring
 slug: B07CG6QWLG
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 14.95 EUR
 inStock: true
+prodname: Muvit I/O MIOVRC001 - Gafas de Realidad Virtual
 ---
 
 Está [Muvit I/O MIOVRC001 - Gafas de Realidad Virtual](https://www.amazon.es/dp/B07CG6QWLG/?tag=tolees-21) con 33.18 de descuento por 9.99 EUR (original: 14.95 EUR) en el siguiente enlace!

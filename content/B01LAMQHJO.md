@@ -10,8 +10,11 @@ author: ring
 slug: B01LAMQHJO
 description:
 actualPrice: 11 EUR
+currency: EUR
+price: 11
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Funko Pop!- Dary Dixon lanzacohetes Figura de Vinilo  colección de Pop  seria The Walking Dead  11065 
 ---
 
 Ahora mismo tienes [Funko Pop!- Dary Dixon lanzacohetes Figura de Vinilo  colección de Pop  seria The Walking Dead  11065 ](https://www.amazon.es/dp/B01LAMQHJO/?tag=tolees-21) a 11 EUR (original: 15.95 EUR) (31.03 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DS7FKC1
 description:
 actualPrice: 25.33 EUR
+currency: EUR
+price: 25.33
 comparePrice: 58.88 EUR
 inStock: true
+prodname: Reebok Trainfusion Nine 3.0  Zapatillas de Deporte para Hombre   Bunker Vital Blue/White/Pewter 000   44 EU
 ---
 
 Tienes [Reebok Trainfusion Nine 3.0  Zapatillas de Deporte para Hombre   Bunker Vital Blue/White/Pewter 000   44 EU](https://www.amazon.es/dp/B07DS7FKC1/?tag=tolees-21) con un 56.98 % de descuento con precio de oferta de 25.33 EUR (original: 58.88 EUR) en el siguiente enlace!

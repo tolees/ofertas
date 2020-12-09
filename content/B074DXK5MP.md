@@ -10,8 +10,11 @@ author: ring
 slug: B074DXK5MP
 description:
 actualPrice: 135.0 EUR
+currency: EUR
+price: 135.0
 comparePrice: 229.99 EUR
 inStock: true
+prodname: Western Digital My Cloud Home - Almacenamiento En Red NAS de 3 TB  1 Bahía  Blanco y Gris
 ---
 
 Tienes [Western Digital My Cloud Home - Almacenamiento En Red NAS de 3 TB  1 Bahía  Blanco y Gris](https://www.amazon.es/dp/B074DXK5MP/?tag=tolees-21) con un 41.30 % de descuento con precio de oferta de 135.0 EUR (original: 229.99 EUR) en el siguiente enlace!

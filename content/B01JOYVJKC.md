@@ -10,8 +10,11 @@ author: ring
 slug: B01JOYVJKC
 description:
 actualPrice: 508.9 EUR
+currency: EUR
+price: 508.9
 comparePrice: 880.6 EUR
 inStock: true
+prodname: De Longhi Dinamica ECAM 350.35.SB Cafetera Independiente  Totalmente Automática  Pantalla LCD y Botones Táctiles  1450 W  15 Bares  Negro/ Plata
 ---
 
 Está [De Longhi Dinamica ECAM 350.35.SB Cafetera Independiente  Totalmente Automática  Pantalla LCD y Botones Táctiles  1450 W  15 Bares  Negro/ Plata](https://www.amazon.es/dp/B01JOYVJKC/?tag=tolees-21) con 42.21 de descuento por 508.9 EUR (original: 880.6 EUR) en el siguiente enlace!

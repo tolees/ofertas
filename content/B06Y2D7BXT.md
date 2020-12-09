@@ -10,8 +10,11 @@ author: ring
 slug: B06Y2D7BXT
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 42.95 EUR
 inStock: true
+prodname: Levi s Sweat Nos Batwi  Sudadera para Niños  Azul  Marine   14 años
 ---
 
 Está [Levi s Sweat Nos Batwi  Sudadera para Niños  Azul  Marine   14 años](https://www.amazon.es/dp/B06Y2D7BXT/?tag=tolees-21) con 30.27 de descuento por 29.95 EUR (original: 42.95 EUR) en el siguiente enlace!

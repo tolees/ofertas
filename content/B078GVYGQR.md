@@ -10,8 +10,11 @@ author: ring
 slug: B078GVYGQR
 description:
 actualPrice: 9.04 EUR
+currency: EUR
+price: 9.04
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Trucco TT15AD1 Camiseta  Mujer  Azul  Azul Oscuro   Small  Tamaño del Fabricante:S 
 ---
 
 Ahora mismo tienes [Trucco TT15AD1 Camiseta  Mujer  Azul  Azul Oscuro   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078GVYGQR/?tag=tolees-21) a 9.04 EUR (original: 29.95 EUR) (69.82 %  de descuento) en el siguiente enlace!

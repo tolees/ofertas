@@ -10,8 +10,11 @@ author: ring
 slug: B003RRYAZO
 description:
 actualPrice: 5.69 EUR
+currency: EUR
+price: 5.69
 comparePrice: 16.67 EUR
 inStock: true
+prodname: NUK almohadillas de lactancia materna | 60 unidades
 ---
 
 Está [NUK almohadillas de lactancia materna | 60 unidades](https://www.amazon.es/dp/B003RRYAZO/?tag=tolees-21) con 65.87 de descuento por 5.69 EUR (original: 16.67 EUR) en el siguiente enlace!

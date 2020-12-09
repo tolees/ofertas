@@ -10,8 +10,11 @@ author: ring
 slug: B07KK43FHH
 description:
 actualPrice: 58.49 EUR
+currency: EUR
+price: 58.49
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Columbia Redmond V2  Zapatillas de Senderismo Impermeables Mujer  Marrón  Espresso MHW  Deep Ocean   37.5 EU
 ---
 
 Tienes [Columbia Redmond V2  Zapatillas de Senderismo Impermeables Mujer  Marrón  Espresso MHW  Deep Ocean   37.5 EU](https://www.amazon.es/dp/B07KK43FHH/?tag=tolees-21) con un 35.00 % de descuento con precio de oferta de 58.49 EUR (original: 89.99 EUR) en el siguiente enlace!

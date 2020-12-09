@@ -10,8 +10,11 @@ author: ring
 slug: B0776PVTNK
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: ADORIC Báscula Digital para Cocina de Acero Inoxidable  5kg / 11 lbs  Balanza de Alimentos Multifuncional  Peso de Cocina  Color Plata  Baterías Incluidas 
 ---
 
 Ahora mismo tienes [ADORIC Báscula Digital para Cocina de Acero Inoxidable  5kg / 11 lbs  Balanza de Alimentos Multifuncional  Peso de Cocina  Color Plata  Baterías Incluidas ](https://www.amazon.es/dp/B0776PVTNK/?tag=tolees-21) a 10.99 EUR (original: 15.99 EUR) (31.27 %  de descuento) en el siguiente enlace!

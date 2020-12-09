@@ -10,8 +10,11 @@ author: ring
 slug: B07BN8QP2Z
 description:
 actualPrice: 10.51 EUR
+currency: EUR
+price: 10.51
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Seafolly Mujer Active Multi Strap Hipster Braguita de Bikini Not Applicable  Amarillo  Buttercup Buttercup   36  Talla del Fabricante: 8 
 ---
 
 Está [Seafolly Mujer Active Multi Strap Hipster Braguita de Bikini Not Applicable  Amarillo  Buttercup Buttercup   36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07BN8QP2Z/?tag=tolees-21) con 76.62 de descuento por 10.51 EUR (original: 44.95 EUR) en el siguiente enlace!

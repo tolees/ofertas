@@ -10,8 +10,11 @@ author: ring
 slug: B0797HNWWN
 description:
 actualPrice: 4.83 EUR
+currency: EUR
+price: 4.83
 comparePrice: 8.99 EUR
 inStock: true
+prodname: Funko Pop!- Hawthorne w/Hawk Figura de Vinilo  30106 
 ---
 
 Tienes [Funko Pop!- Hawthorne w/Hawk Figura de Vinilo  30106 ](https://www.amazon.es/dp/B0797HNWWN/?tag=tolees-21) con un 46.27 % de descuento con precio de oferta de 4.83 EUR (original: 8.99 EUR) en el siguiente enlace!

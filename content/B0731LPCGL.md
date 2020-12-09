@@ -10,8 +10,11 @@ author: ring
 slug: B0731LPCGL
 description:
 actualPrice: 19.86 EUR
+currency: EUR
+price: 19.86
 comparePrice: 40.2 EUR
 inStock: true
+prodname: Probios Arroz Carnaroli - Paquete de 12 x 500 gr - Total: 6000 gr
 ---
 
 Ahora mismo tienes [Probios Arroz Carnaroli - Paquete de 12 x 500 gr - Total: 6000 gr](https://www.amazon.es/dp/B0731LPCGL/?tag=tolees-21) a 19.86 EUR (original: 40.2 EUR) (50.60 %  de descuento) en el siguiente enlace!

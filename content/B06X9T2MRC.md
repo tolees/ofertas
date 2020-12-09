@@ -10,8 +10,11 @@ author: ring
 slug: B06X9T2MRC
 description:
 actualPrice: 18 EUR
+currency: EUR
+price: 18
 comparePrice: 38.49 EUR
 inStock: true
+prodname: find. Mocasines Abiertos Mujer  Negro  Black   37 EU
 ---
 
 Está [find. Mocasines Abiertos Mujer  Negro  Black   37 EU](https://www.amazon.es/dp/B06X9T2MRC/?tag=tolees-21) con 53.23 de descuento por 18 EUR (original: 38.49 EUR) en el siguiente enlace!

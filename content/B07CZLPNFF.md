@@ -10,8 +10,11 @@ author: ring
 slug: B07CZLPNFF
 description:
 actualPrice: 69.3 EUR
+currency: EUR
+price: 69.3
 comparePrice: 99.0 EUR
 inStock: true
+prodname: FOREO UFO mini - Tratamineto de Mascarilla Inteligente  Color Rosa  Peral Pink 
 ---
 
 Tienes [FOREO UFO mini - Tratamineto de Mascarilla Inteligente  Color Rosa  Peral Pink ](https://www.amazon.es/dp/B07CZLPNFF/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 69.3 EUR (original: 99.0 EUR) en el siguiente enlace!

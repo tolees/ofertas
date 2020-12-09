@@ -10,8 +10,11 @@ author: ring
 slug: B07HH4HG4F
 description:
 actualPrice: 48.64 EUR
+currency: EUR
+price: 48.64
 comparePrice: 75 EUR
 inStock: true
+prodname: Tommy Jeans Hombre Dobby  Camisa Manga Larga Normal Azul  Black Iris 002  Small
 ---
 
 Ahora mismo tienes [Tommy Jeans Hombre Dobby  Camisa Manga Larga Normal Azul  Black Iris 002  Small](https://www.amazon.es/dp/B07HH4HG4F/?tag=tolees-21) a 48.64 EUR (original: 75 EUR) (35.15 %  de descuento) en el siguiente enlace!

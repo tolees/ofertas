@@ -10,8 +10,11 @@ author: ring
 slug: B01M2ZPKRN
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 34.99 EUR
 inStock: true
+prodname: iTrunk Alfombrilla Banera Alfombra de Baño de Goma Natural Antideslizante con Ventosas de Alto Agarre 76 x 34 cm Azul
 ---
 
 Ahora mismo tienes [iTrunk Alfombrilla Banera Alfombra de Baño de Goma Natural Antideslizante con Ventosas de Alto Agarre 76 x 34 cm Azul](https://www.amazon.es/dp/B01M2ZPKRN/?tag=tolees-21) a 12.99 EUR (original: 34.99 EUR) (62.88 %  de descuento) en el siguiente enlace!

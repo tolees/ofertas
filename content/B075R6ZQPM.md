@@ -10,8 +10,11 @@ author: ring
 slug: B075R6ZQPM
 description:
 actualPrice: 75 EUR
+currency: EUR
+price: 75
 comparePrice: 150 EUR
 inStock: true
+prodname: New Balance Fresh Foam Vongo v3  Zapatillas de Running para Hombre  Negro  Black/White Bk3   42 EU
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Vongo v3  Zapatillas de Running para Hombre  Negro  Black/White Bk3   42 EU](https://www.amazon.es/dp/B075R6ZQPM/?tag=tolees-21) a 75 EUR (original: 150 EUR) (50.00 %  de descuento) en el siguiente enlace!

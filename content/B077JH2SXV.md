@@ -10,8 +10,11 @@ author: ring
 slug: B077JH2SXV
 description:
 actualPrice: 27.4 EUR
+currency: EUR
+price: 27.4
 comparePrice: 65 EUR
 inStock: true
+prodname: Volcom Sngl STN P/O Sudadera  Hombre  Gris  Storm   S
 ---
 
 Ahora mismo tienes [Volcom Sngl STN P/O Sudadera  Hombre  Gris  Storm   S](https://www.amazon.es/dp/B077JH2SXV/?tag=tolees-21) a 27.4 EUR (original: 65 EUR) (57.85 %  de descuento) en el siguiente enlace!

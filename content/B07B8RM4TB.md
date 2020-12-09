@@ -10,8 +10,11 @@ author: ring
 slug: B07B8RM4TB
 description:
 actualPrice: 38.45 EUR
+currency: EUR
+price: 38.45
 comparePrice: 54.95 EUR
 inStock: true
+prodname: PUMA ST Runner V2 Mesh  Zapatillas Unisex Adulto Black White  41 EU
 ---
 
 Ahora mismo tienes [PUMA ST Runner V2 Mesh  Zapatillas Unisex Adulto Black White  41 EU](https://www.amazon.es/dp/B07B8RM4TB/?tag=tolees-21) a 38.45 EUR (original: 54.95 EUR) (30.03 %  de descuento) en el siguiente enlace!

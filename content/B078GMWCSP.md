@@ -10,8 +10,11 @@ author: ring
 slug: B078GMWCSP
 description:
 actualPrice: 27.35 EUR
+currency: EUR
+price: 27.35
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Skechers Go Walk Joy-Hero  Zapatillas para Mujer  Negro  Black/White BKW   40 EU
 ---
 
 Tienes [Skechers Go Walk Joy-Hero  Zapatillas para Mujer  Negro  Black/White BKW   40 EU](https://www.amazon.es/dp/B078GMWCSP/?tag=tolees-21) con un 54.38 % de descuento con precio de oferta de 27.35 EUR (original: 59.95 EUR) en el siguiente enlace!

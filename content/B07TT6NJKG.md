@@ -10,8 +10,11 @@ author: ring
 slug: B07TT6NJKG
 description:
 actualPrice: 68.97 EUR
+currency: EUR
+price: 68.97
 comparePrice: 115.0 EUR
 inStock: true
+prodname: Levi s 711 Skinny Jeans  Believe It Or Not  23W / 28L Donna
 ---
 
 Ahora mismo tienes [Levi s 711 Skinny Jeans  Believe It Or Not  23W / 28L Donna](https://www.amazon.es/dp/B07TT6NJKG/?tag=tolees-21) a 68.97 EUR (original: 115.0 EUR) (40.03 %  de descuento) en el siguiente enlace!

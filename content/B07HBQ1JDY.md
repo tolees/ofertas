@@ -10,8 +10,11 @@ author: ring
 slug: B07HBQ1JDY
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 34.99 EUR
 inStock: true
+prodname: HORI - Battle Pad Luigi  Nintendo Switch 
 ---
 
 Ahora mismo tienes [HORI - Battle Pad Luigi  Nintendo Switch ](https://www.amazon.es/dp/B07HBQ1JDY/?tag=tolees-21) a 19.95 EUR (original: 34.99 EUR) (42.98 %  de descuento) en el siguiente enlace!

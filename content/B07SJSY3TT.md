@@ -10,8 +10,11 @@ author: ring
 slug: B07SJSY3TT
 description:
 actualPrice: 16 EUR
+currency: EUR
+price: 16
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Abadía de San Quirce Vino Tinto Crianza - Paquete de 3 x 750 ml - Total: 2250 ml
 ---
 
 Tienes [Abadía de San Quirce Vino Tinto Crianza - Paquete de 3 x 750 ml - Total: 2250 ml](https://www.amazon.es/dp/B07SJSY3TT/?tag=tolees-21) con un 67.97 % de descuento con precio de oferta de 16 EUR (original: 49.95 EUR) en el siguiente enlace!

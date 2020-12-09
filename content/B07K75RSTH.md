@@ -10,8 +10,11 @@ author: ring
 slug: B07K75RSTH
 description:
 actualPrice: 32.4 EUR
+currency: EUR
+price: 32.4
 comparePrice: 60 EUR
 inStock: true
+prodname: Asics Patriot 10  Zapatillas de Running para Hombre  Negro  Black/White 002   44 EU
 ---
 
 Ahora mismo tienes [Asics Patriot 10  Zapatillas de Running para Hombre  Negro  Black/White 002   44 EU](https://www.amazon.es/dp/B07K75RSTH/?tag=tolees-21) a 32.4 EUR (original: 60 EUR) (46.00 %  de descuento) en el siguiente enlace!

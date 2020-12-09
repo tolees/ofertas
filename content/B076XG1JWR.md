@@ -10,8 +10,11 @@ author: ring
 slug: B076XG1JWR
 description:
 actualPrice: 27.45 EUR
+currency: EUR
+price: 27.45
 comparePrice: 55 EUR
 inStock: true
+prodname: Geox J New Sandal Aloha B  Sandalias con Tira Vertical para Niñas  Beige  35 EU
 ---
 
 Está [Geox J New Sandal Aloha B  Sandalias con Tira Vertical para Niñas  Beige  35 EU](https://www.amazon.es/dp/B076XG1JWR/?tag=tolees-21) con 50.09 de descuento por 27.45 EUR (original: 55 EUR) en el siguiente enlace!

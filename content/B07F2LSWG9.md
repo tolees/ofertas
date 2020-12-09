@@ -10,8 +10,11 @@ author: ring
 slug: B07F2LSWG9
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Helly Hansen HH Logo Camiseta Manga Corto  Mujer  White  XS
 ---
 
 Ahora mismo tienes [Helly Hansen HH Logo Camiseta Manga Corto  Mujer  White  XS](https://www.amazon.es/dp/B07F2LSWG9/?tag=tolees-21) a 12.99 EUR (original: 30.0 EUR) (56.70 %  de descuento) en el siguiente enlace!

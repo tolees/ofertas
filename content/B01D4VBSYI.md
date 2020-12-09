@@ -10,8 +10,11 @@ author: ring
 slug: B01D4VBSYI
 description:
 actualPrice: 13.19 EUR
+currency: EUR
+price: 13.19
 comparePrice: 99 EUR
 inStock: true
+prodname: bollé Tsar Máscaras  Unisex Adulto  Rojo Mate Patch  M/L
 ---
 
 Está [bollé Tsar Máscaras  Unisex Adulto  Rojo Mate Patch  M/L](https://www.amazon.es/dp/B01D4VBSYI/?tag=tolees-21) con 86.68 de descuento por 13.19 EUR (original: 99 EUR) en el siguiente enlace!

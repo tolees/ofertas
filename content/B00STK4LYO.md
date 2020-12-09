@@ -10,8 +10,11 @@ author: ring
 slug: B00STK4LYO
 description:
 actualPrice: 42.39 EUR
+currency: EUR
+price: 42.39
 comparePrice: 69.0 EUR
 inStock: true
+prodname: Lotus Reloj Análogo clásico para niñas de Cuarzo con Correa en Cuero 18174/1
 ---
 
 Está [Lotus Reloj Análogo clásico para niñas de Cuarzo con Correa en Cuero 18174/1](https://www.amazon.es/dp/B00STK4LYO/?tag=tolees-21) con 38.57 de descuento por 42.39 EUR (original: 69.0 EUR) en el siguiente enlace!

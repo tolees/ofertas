@@ -10,8 +10,11 @@ author: ring
 slug: B00DTST27C
 description:
 actualPrice: 9.41 EUR
+currency: EUR
+price: 9.41
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Urban Classics Chaqueta Gris L
 ---
 
 Ahora mismo tienes [Urban Classics Chaqueta Gris L](https://www.amazon.es/dp/B00DTST27C/?tag=tolees-21) a 9.41 EUR (original: 49.9 EUR) (81.14 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07C4Q4SKT
 description:
 actualPrice: 93.75 EUR
+currency: EUR
+price: 93.75
 comparePrice: 150 EUR
 inStock: true
+prodname: BOSS Green - Pixel R_ns Zip  Shoppers y bolsos de hombro Hombre  Azul  Navy   7.5x23x21.5 cm  B x H T 
 ---
 
 Ahora mismo tienes [BOSS Green - Pixel R_ns Zip  Shoppers y bolsos de hombro Hombre  Azul  Navy   7.5x23x21.5 cm  B x H T ](https://www.amazon.es/dp/B07C4Q4SKT/?tag=tolees-21) a 93.75 EUR (original: 150 EUR) (37.50 %  de descuento) en el siguiente enlace!

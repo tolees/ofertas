@@ -10,8 +10,11 @@ author: ring
 slug: B07F7QMYDL
 description:
 actualPrice: 37.67 EUR
+currency: EUR
+price: 37.67
 comparePrice: 65.9 EUR
 inStock: true
+prodname: Auriculares Bluetooth Inalámbricos 5.0  Tronsmart TWS Auriculares Bluetooth Deportivos Estéreos con Micrófono  IPX5 Impermeable Teclas Táctiles y CVC 6.0 Cancelación de Ruido para iPhone y Android
 ---
 
 Está [Auriculares Bluetooth Inalámbricos 5.0  Tronsmart TWS Auriculares Bluetooth Deportivos Estéreos con Micrófono  IPX5 Impermeable Teclas Táctiles y CVC 6.0 Cancelación de Ruido para iPhone y Android](https://www.amazon.es/dp/B07F7QMYDL/?tag=tolees-21) con 42.84 de descuento por 37.67 EUR (original: 65.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PFLCZT1
 description:
 actualPrice: 15.88 EUR
+currency: EUR
+price: 15.88
 comparePrice: 41.35 EUR
 inStock: true
+prodname: Kayhan - Bañador - para Hombre Blau 03 6X-Large
 ---
 
 Está [Kayhan - Bañador - para Hombre Blau 03 6X-Large](https://www.amazon.es/dp/B07PFLCZT1/?tag=tolees-21) con 61.60 de descuento por 15.88 EUR (original: 41.35 EUR) en el siguiente enlace!

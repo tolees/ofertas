@@ -10,8 +10,11 @@ author: ring
 slug: B07PT7R9JW
 description:
 actualPrice: 52.99 EUR
+currency: EUR
+price: 52.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: BRIKSMAX Kit de Iluminación Led para Simpsons-Compatible con Ladrillos de Construcción Lego Modelo 71016-Juego de Legos no Incluido
 ---
 
 Está [BRIKSMAX Kit de Iluminación Led para Simpsons-Compatible con Ladrillos de Construcción Lego Modelo 71016-Juego de Legos no Incluido](https://www.amazon.es/dp/B07PT7R9JW/?tag=tolees-21) con 47.00 de descuento por 52.99 EUR (original: 99.99 EUR) en el siguiente enlace!

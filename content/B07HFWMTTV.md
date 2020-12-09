@@ -10,8 +10,11 @@ author: ring
 slug: B07HFWMTTV
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 65.99 EUR
 inStock: true
+prodname: URCERI Limpiacristales  2 en 1 windomatic aspirador de ventanas eléctrico 16W  3.7V batería de litio  con 70cm barra de extensión adecuado para cualquier superficie lisa  aspirador de ventanas
 ---
 
 Está [URCERI Limpiacristales  2 en 1 windomatic aspirador de ventanas eléctrico 16W  3.7V batería de litio  con 70cm barra de extensión adecuado para cualquier superficie lisa  aspirador de ventanas](https://www.amazon.es/dp/B07HFWMTTV/?tag=tolees-21) con 39.40 de descuento por 39.99 EUR (original: 65.99 EUR) en el siguiente enlace!

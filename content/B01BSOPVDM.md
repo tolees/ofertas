@@ -10,8 +10,11 @@ author: ring
 slug: B01BSOPVDM
 description:
 actualPrice: 35.59 EUR
+currency: EUR
+price: 35.59
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Samsung -  Cargador Rápido   Negro
 ---
 
 Está [Samsung -  Cargador Rápido   Negro](https://www.amazon.es/dp/B01BSOPVDM/?tag=tolees-21) con 40.58 de descuento por 35.59 EUR (original: 59.9 EUR) en el siguiente enlace!

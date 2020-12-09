@@ -10,8 +10,11 @@ author: ring
 slug: B07BH7MTP2
 description:
 actualPrice: 9 EUR
+currency: EUR
+price: 9
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Mr; Wonderful Woa08982Es Libreta Notas Perfectamente Imperfectas
 ---
 
 Está [Mr; Wonderful Woa08982Es Libreta Notas Perfectamente Imperfectas](https://www.amazon.es/dp/B07BH7MTP2/?tag=tolees-21) con 49.86 de descuento por 9 EUR (original: 17.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MQQOQML
 description:
 actualPrice: 17.65 EUR
+currency: EUR
+price: 17.65
 comparePrice: 27.95 EUR
 inStock: true
+prodname: adidas D2m Tank 3s Camiseta sin Mangas  Mujer  Negro  Black   S
 ---
 
 Está [adidas D2m Tank 3s Camiseta sin Mangas  Mujer  Negro  Black   S](https://www.amazon.es/dp/B01MQQOQML/?tag=tolees-21) con 36.85 de descuento por 17.65 EUR (original: 27.95 EUR) en el siguiente enlace!

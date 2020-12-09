@@ -10,8 +10,11 @@ author: ring
 slug: B079VW3XSD
 description:
 actualPrice: 34.78 EUR
+currency: EUR
+price: 34.78
 comparePrice: 139.95 EUR
 inStock: true
+prodname: Wrangler Puffer Jacket  Chaqueta para Hombre  Azul  Navy 435  X-Large
 ---
 
 Ahora mismo tienes [Wrangler Puffer Jacket  Chaqueta para Hombre  Azul  Navy 435  X-Large](https://www.amazon.es/dp/B079VW3XSD/?tag=tolees-21) a 34.78 EUR (original: 139.95 EUR) (75.15 %  de descuento) en el siguiente enlace!

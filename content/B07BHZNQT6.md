@@ -10,8 +10,11 @@ author: ring
 slug: B07BHZNQT6
 description:
 actualPrice: 9.85 EUR
+currency: EUR
+price: 9.85
 comparePrice: 14.48 EUR
 inStock: true
+prodname: Colon Detergente Vanish Whites 60 dosis
 ---
 
 Tienes [Colon Detergente Vanish Whites 60 dosis](https://www.amazon.es/dp/B07BHZNQT6/?tag=tolees-21) con un 31.98 % de descuento con precio de oferta de 9.85 EUR (original: 14.48 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01AXYN6TE
 description:
 actualPrice: 8.45 EUR
+currency: EUR
+price: 8.45
 comparePrice: 16 EUR
 inStock: true
+prodname: Joma 900140.550 - Camiseta para Mujer  Color Morado  Talla M
 ---
 
 Está [Joma 900140.550 - Camiseta para Mujer  Color Morado  Talla M](https://www.amazon.es/dp/B01AXYN6TE/?tag=tolees-21) con 47.19 de descuento por 8.45 EUR (original: 16 EUR) en el siguiente enlace!

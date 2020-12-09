@@ -10,8 +10,11 @@ author: ring
 slug: B073RGL4YR
 description:
 actualPrice: 7.86 EUR
+currency: EUR
+price: 7.86
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Only Onlmeredith Highneck L/s Dress Knt Noos  Vestido Mujer  Blanco  White Detail:w. Melange   40  Talla del Fabricante: Large 
 ---
 
 Tienes [Only Onlmeredith Highneck L/s Dress Knt Noos  Vestido Mujer  Blanco  White Detail:w. Melange   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B073RGL4YR/?tag=tolees-21) con un 80.35 % de descuento con precio de oferta de 7.86 EUR (original: 39.99 EUR) en el siguiente enlace!

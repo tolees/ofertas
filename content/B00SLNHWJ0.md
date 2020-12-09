@@ -10,8 +10,11 @@ author: ring
 slug: B00SLNHWJ0
 description:
 actualPrice: 4.9 EUR
+currency: EUR
+price: 4.9
 comparePrice: 8.13 EUR
 inStock: true
+prodname: Crazy Color Lime Twist Nº 68 Crema Colorante del Cabello Semi-permanente
 ---
 
 Ahora mismo tienes [Crazy Color Lime Twist Nº 68 Crema Colorante del Cabello Semi-permanente](https://www.amazon.es/dp/B00SLNHWJ0/?tag=tolees-21) a 4.9 EUR (original: 8.13 EUR) (39.73 %  de descuento) en el siguiente enlace!

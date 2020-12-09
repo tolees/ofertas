@@ -10,8 +10,11 @@ author: ring
 slug: B01MS3VWFI
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 56.99 EUR
 inStock: true
+prodname: SADES SA807 3.5mm nueva versión Multi-Plataforma Gaming Headset juego auriculares con micrófono para nueva Xbox One PS4 portátil Mac Tablet iPhone iPad iPod  negro&azul 
 ---
 
 Tienes [SADES SA807 3.5mm nueva versión Multi-Plataforma Gaming Headset juego auriculares con micrófono para nueva Xbox One PS4 portátil Mac Tablet iPhone iPad iPod  negro&azul ](https://www.amazon.es/dp/B01MS3VWFI/?tag=tolees-21) con un 64.92 % de descuento con precio de oferta de 19.99 EUR (original: 56.99 EUR) en el siguiente enlace!

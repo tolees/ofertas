@@ -10,8 +10,11 @@ author: ring
 slug: B00IRFCMAG
 description:
 actualPrice: 12.68 EUR
+currency: EUR
+price: 12.68
 comparePrice: 26 EUR
 inStock: true
+prodname: Collistar 32417 - Lápiz de ojos
 ---
 
 Está [Collistar 32417 - Lápiz de ojos](https://www.amazon.es/dp/B00IRFCMAG/?tag=tolees-21) con 51.23 de descuento por 12.68 EUR (original: 26 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07L3GBFK1
 description:
 actualPrice: 68.38 EUR
+currency: EUR
+price: 68.38
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Iconic Flat Strappy Sandal  Chanclas para Mujer  Rojo  RWB 020   41 EU
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Iconic Flat Strappy Sandal  Chanclas para Mujer  Rojo  RWB 020   41 EU](https://www.amazon.es/dp/B07L3GBFK1/?tag=tolees-21) a 68.38 EUR (original: 99.9 EUR) (31.55 %  de descuento) en el siguiente enlace!

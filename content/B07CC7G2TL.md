@@ -10,8 +10,11 @@ author: ring
 slug: B07CC7G2TL
 description:
 actualPrice: 22.44 EUR
+currency: EUR
+price: 22.44
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Marco Tozzi 2-2-25306-31  Botines para Mujer  Negro  Black Ant.Comb 096   36 EU
 ---
 
 Está [Marco Tozzi 2-2-25306-31  Botines para Mujer  Negro  Black Ant.Comb 096   36 EU](https://www.amazon.es/dp/B07CC7G2TL/?tag=tolees-21) con 55.08 de descuento por 22.44 EUR (original: 49.95 EUR) en el siguiente enlace!

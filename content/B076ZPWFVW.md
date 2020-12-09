@@ -10,8 +10,11 @@ author: ring
 slug: B076ZPWFVW
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 143.99 EUR
 inStock: true
+prodname: San Ignacio - Set de Sartenes SIP color cobre- Ø20/24/28 cms.  aluminio forjado  mango revestido con silicona atérmica  inducción
 ---
 
 Ahora mismo tienes [San Ignacio - Set de Sartenes SIP color cobre- Ø20/24/28 cms.  aluminio forjado  mango revestido con silicona atérmica  inducción](https://www.amazon.es/dp/B076ZPWFVW/?tag=tolees-21) a 32.99 EUR (original: 143.99 EUR) (77.09 %  de descuento) en el siguiente enlace!

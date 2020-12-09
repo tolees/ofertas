@@ -10,8 +10,11 @@ author: ring
 slug: B004INRNBO
 description:
 actualPrice: 5.9 EUR
+currency: EUR
+price: 5.9
 comparePrice: 8.53 EUR
 inStock: true
+prodname: Escobilla limpiaparabrisas Bosch Twin 550U  Longitud: 550mm – 1 escobilla limpiaparabrisas para el parabrisas frontal
 ---
 
 Ahora mismo tienes [Escobilla limpiaparabrisas Bosch Twin 550U  Longitud: 550mm – 1 escobilla limpiaparabrisas para el parabrisas frontal](https://www.amazon.es/dp/B004INRNBO/?tag=tolees-21) a 5.9 EUR (original: 8.53 EUR) (30.83 %  de descuento) en el siguiente enlace!

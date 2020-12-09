@@ -10,8 +10,11 @@ author: ring
 slug: B073WXQJ3W
 description:
 actualPrice: 27.19 EUR
+currency: EUR
+price: 27.19
 comparePrice: 80 EUR
 inStock: true
+prodname: find. Jersey de Cachemir para Mujer  Rosa  Flower Show Gp-6052   46  Talla del Fabricante: XX-Large 
 ---
 
 Tienes [find. Jersey de Cachemir para Mujer  Rosa  Flower Show Gp-6052   46  Talla del Fabricante: XX-Large ](https://www.amazon.es/dp/B073WXQJ3W/?tag=tolees-21) con un 66.01 % de descuento con precio de oferta de 27.19 EUR (original: 80 EUR) en el siguiente enlace!

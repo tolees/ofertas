@@ -10,8 +10,11 @@ author: ring
 slug: B07PKCHJCN
 description:
 actualPrice: 63.93 EUR
+currency: EUR
+price: 63.93
 comparePrice: 144.95 EUR
 inStock: true
+prodname: PIKOLINOS Botín de Piel York M2M
 ---
 
 Está [PIKOLINOS Botín de Piel York M2M](https://www.amazon.es/dp/B07PKCHJCN/?tag=tolees-21) con 55.90 de descuento por 63.93 EUR (original: 144.95 EUR) en el siguiente enlace!

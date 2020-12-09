@@ -10,8 +10,11 @@ author: ring
 slug: B07LBM6YLX
 description:
 actualPrice: 54.08 EUR
+currency: EUR
+price: 54.08
 comparePrice: 119 EUR
 inStock: true
+prodname: Napapijri Nellary Fantasy  Pantalones cortos Hombre  Multicolor  Fantasy F14   32  Talla fabricante: 32 
 ---
 
 Ahora mismo tienes [Napapijri Nellary Fantasy  Pantalones cortos Hombre  Multicolor  Fantasy F14   32  Talla fabricante: 32 ](https://www.amazon.es/dp/B07LBM6YLX/?tag=tolees-21) a 54.08 EUR (original: 119 EUR) (54.55 %  de descuento) en el siguiente enlace!

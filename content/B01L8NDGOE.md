@@ -10,8 +10,11 @@ author: ring
 slug: B01L8NDGOE
 description:
 actualPrice: 149.95 EUR
+currency: EUR
+price: 149.95
 comparePrice: 279.95 EUR
 inStock: true
+prodname: TomTom GO 620  GPS para coche  6 pulgadas  llamadas manos libres  Siri y Google Now  actualizaciones via Wi-Fi
 ---
 
 Ahora mismo tienes [TomTom GO 620  GPS para coche  6 pulgadas  llamadas manos libres  Siri y Google Now  actualizaciones via Wi-Fi](https://www.amazon.es/dp/B01L8NDGOE/?tag=tolees-21) a 149.95 EUR (original: 279.95 EUR) (46.44 %  de descuento) en el siguiente enlace!

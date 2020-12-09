@@ -10,8 +10,11 @@ author: ring
 slug: B07DJG4F2F
 description:
 actualPrice: 25.45 EUR
+currency: EUR
+price: 25.45
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Dockers by Gerli 41hl306  Botas Militar para Mujer  Marrón  Cafe 320   38 EU
 ---
 
 Está [Dockers by Gerli 41hl306  Botas Militar para Mujer  Marrón  Cafe 320   38 EU](https://www.amazon.es/dp/B07DJG4F2F/?tag=tolees-21) con 63.62 de descuento por 25.45 EUR (original: 69.95 EUR) en el siguiente enlace!

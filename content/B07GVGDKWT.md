@@ -10,8 +10,11 @@ author: ring
 slug: B07GVGDKWT
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 67.99 EUR
 inStock: true
+prodname: Báscula Grasa Corporal iTeknic Báscula Inteligente Bluetooth Báscula Digital Persona de Peso Profesional Analiza 13 Datos Masa Mascular BMI Grasa Visceral BMR con APP para Andriod y iOS
 ---
 
 Ahora mismo tienes [Báscula Grasa Corporal iTeknic Báscula Inteligente Bluetooth Báscula Digital Persona de Peso Profesional Analiza 13 Datos Masa Mascular BMI Grasa Visceral BMR con APP para Andriod y iOS](https://www.amazon.es/dp/B07GVGDKWT/?tag=tolees-21) a 27.99 EUR (original: 67.99 EUR) (58.83 %  de descuento) en el siguiente enlace!

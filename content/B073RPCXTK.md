@@ -10,8 +10,11 @@ author: ring
 slug: B073RPCXTK
 description:
 actualPrice: 30.49 EUR
+currency: EUR
+price: 30.49
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Helly Hansen W HH Logo Hoodie Hoodie  Mujer  Navy  S
 ---
 
 Tienes [Helly Hansen W HH Logo Hoodie Hoodie  Mujer  Navy  S](https://www.amazon.es/dp/B073RPCXTK/?tag=tolees-21) con un 56.44 % de descuento con precio de oferta de 30.49 EUR (original: 70.0 EUR) en el siguiente enlace!

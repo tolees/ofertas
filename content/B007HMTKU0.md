@@ -10,8 +10,11 @@ author: ring
 slug: B007HMTKU0
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Severin AT 2509 Tostadora Automática  2 Ranuras Largas  Hasta 4 Rebanadas de Pan  1400 W  Acero Inoxidable/Negro
 ---
 
 Tienes [Severin AT 2509 Tostadora Automática  2 Ranuras Largas  Hasta 4 Rebanadas de Pan  1400 W  Acero Inoxidable/Negro](https://www.amazon.es/dp/B007HMTKU0/?tag=tolees-21) con un 32.01 % de descuento con precio de oferta de 33.99 EUR (original: 49.99 EUR) en el siguiente enlace!

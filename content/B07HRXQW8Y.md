@@ -10,8 +10,11 @@ author: ring
 slug: B07HRXQW8Y
 description:
 actualPrice: 8.02 EUR
+currency: EUR
+price: 8.02
 comparePrice: 49.99 EUR
 inStock: true
+prodname: SELECTED HOMME Slhregcollect Shirt LS W Noos Camisa  Rosa  Bubblegum Stripes: White   Medium para Hombre
 ---
 
 Ahora mismo tienes [SELECTED HOMME Slhregcollect Shirt LS W Noos Camisa  Rosa  Bubblegum Stripes: White   Medium para Hombre](https://www.amazon.es/dp/B07HRXQW8Y/?tag=tolees-21) a 8.02 EUR (original: 49.99 EUR) (83.96 %  de descuento) en el siguiente enlace!

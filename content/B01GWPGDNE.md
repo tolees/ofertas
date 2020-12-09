@@ -10,8 +10,11 @@ author: ring
 slug: B01GWPGDNE
 description:
 actualPrice: 14.16 EUR
+currency: EUR
+price: 14.16
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Tamaris 22436  Zapatos de Tacón para Mujer  Gris  Platinum Stru. 949   38 EU
 ---
 
 Tienes [Tamaris 22436  Zapatos de Tacón para Mujer  Gris  Platinum Stru. 949   38 EU](https://www.amazon.es/dp/B01GWPGDNE/?tag=tolees-21) con un 71.65 % de descuento con precio de oferta de 14.16 EUR (original: 49.95 EUR) en el siguiente enlace!

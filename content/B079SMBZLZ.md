@@ -10,8 +10,11 @@ author: ring
 slug: B079SMBZLZ
 description:
 actualPrice: 25.95 EUR
+currency: EUR
+price: 25.95
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Desigual TS_Dalila  Camiseta para Mujer    Navy 5000  X-Large
 ---
 
 Ahora mismo tienes [Desigual TS_Dalila  Camiseta para Mujer    Navy 5000  X-Large](https://www.amazon.es/dp/B079SMBZLZ/?tag=tolees-21) a 25.95 EUR (original: 39.95 EUR) (35.04 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KQ2ZSHW
 description:
 actualPrice: 31.57 EUR
+currency: EUR
+price: 31.57
 comparePrice: 78.92 EUR
 inStock: true
+prodname: 2.7 Pulgadas de Pantalla de rotación Full HD 1080P Cámara de Video Digital 16X Zoom Digital 24MP Videocámara portátil de Uso doméstico
 ---
 
 Está [2.7 Pulgadas de Pantalla de rotación Full HD 1080P Cámara de Video Digital 16X Zoom Digital 24MP Videocámara portátil de Uso doméstico](https://www.amazon.es/dp/B07KQ2ZSHW/?tag=tolees-21) con 60.00 de descuento por 31.57 EUR (original: 78.92 EUR) en el siguiente enlace!

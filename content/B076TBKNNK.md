@@ -10,8 +10,11 @@ author: ring
 slug: B076TBKNNK
 description:
 actualPrice: 30.84 EUR
+currency: EUR
+price: 30.84
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers On-The-go Glide-Effusive  Zapatillas para Hombre  Azul  Navy  47 EU
 ---
 
 Está [Skechers On-The-go Glide-Effusive  Zapatillas para Hombre  Azul  Navy  47 EU](https://www.amazon.es/dp/B076TBKNNK/?tag=tolees-21) con 52.52 de descuento por 30.84 EUR (original: 64.95 EUR) en el siguiente enlace!

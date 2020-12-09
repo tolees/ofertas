@@ -10,8 +10,11 @@ author: ring
 slug: B085SQKVX1
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 32.0 EUR
 inStock: true
+prodname: Ultima Pienso Para Gatos Esterilizados Para Prevenir Bolas De Pelo Con Pavo - 4 x 1.5 kg
 ---
 
 Ahora mismo tienes [Ultima Pienso Para Gatos Esterilizados Para Prevenir Bolas De Pelo Con Pavo - 4 x 1.5 kg](https://www.amazon.es/dp/B085SQKVX1/?tag=tolees-21) a 19.99 EUR (original: 32.0 EUR) (37.53 %  de descuento) en el siguiente enlace!

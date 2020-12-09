@@ -10,8 +10,11 @@ author: ring
 slug: B07FVVXCZ5
 description:
 actualPrice: 75.99 EUR
+currency: EUR
+price: 75.99
 comparePrice: 159.99 EUR
 inStock: true
+prodname: homgeek horno de microondas con frontal de espejo  20L  700W  6 niveles  color negro
 ---
 
 Ahora mismo tienes [homgeek horno de microondas con frontal de espejo  20L  700W  6 niveles  color negro](https://www.amazon.es/dp/B07FVVXCZ5/?tag=tolees-21) a 75.99 EUR (original: 159.99 EUR) (52.50 %  de descuento) en el siguiente enlace!

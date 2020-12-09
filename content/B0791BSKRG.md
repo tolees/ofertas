@@ -10,8 +10,11 @@ author: ring
 slug: B0791BSKRG
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Excelvan 3-en-1 Batidora de Mano 800W DC Motor  con Función Turbo  Regulador Stepless de Velocidad  Picadora de 500ml  Vaso Graduado de 600ml  Accesorios Emulsionador Desmontables  Acero Inoxidable
 ---
 
 Tienes [Excelvan 3-en-1 Batidora de Mano 800W DC Motor  con Función Turbo  Regulador Stepless de Velocidad  Picadora de 500ml  Vaso Graduado de 600ml  Accesorios Emulsionador Desmontables  Acero Inoxidable](https://www.amazon.es/dp/B0791BSKRG/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

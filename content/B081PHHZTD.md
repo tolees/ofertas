@@ -10,8 +10,11 @@ author: ring
 slug: B081PHHZTD
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 42.99 EUR
 inStock: true
+prodname: KKmoon Kits de Restauración de Faros de Automóviles Herramienta de Reparación de Arañazos de Vidrio Renovación de faros，Capacidad 800g
 ---
 
 Está [KKmoon Kits de Restauración de Faros de Automóviles Herramienta de Reparación de Arañazos de Vidrio Renovación de faros，Capacidad 800g](https://www.amazon.es/dp/B081PHHZTD/?tag=tolees-21) con 25.59 de descuento por 31.99 EUR (original: 42.99 EUR) en el siguiente enlace!

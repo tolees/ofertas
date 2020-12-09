@@ -10,8 +10,11 @@ author: ring
 slug: B017SQWXZI
 description:
 actualPrice: 77.99 EUR
+currency: EUR
+price: 77.99
 comparePrice: 119.95 EUR
 inStock: true
+prodname: Salomon Speedcross 4  Zapatillas de Trail Running Hombre  Negro  Black/Black/Black Metallic   44 EU
 ---
 
 Tienes [Salomon Speedcross 4  Zapatillas de Trail Running Hombre  Negro  Black/Black/Black Metallic   44 EU](https://www.amazon.es/dp/B017SQWXZI/?tag=tolees-21) con un 34.98 % de descuento con precio de oferta de 77.99 EUR (original: 119.95 EUR) en el siguiente enlace!

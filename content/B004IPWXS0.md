@@ -10,8 +10,11 @@ author: ring
 slug: B004IPWXS0
 description:
 actualPrice: 6.25 EUR
+currency: EUR
+price: 6.25
 comparePrice: 14.01 EUR
 inStock: true
+prodname: Watchmen - Les gardiens [Francia] [Blu-ray]
 ---
 
 Ahora mismo tienes [Watchmen - Les gardiens [Francia] [Blu-ray]](https://www.amazon.es/dp/B004IPWXS0/?tag=tolees-21) a 6.25 EUR (original: 14.01 EUR) (55.39 %  de descuento) en el siguiente enlace!

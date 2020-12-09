@@ -10,8 +10,11 @@ author: ring
 slug: B07HMFNX6V
 description:
 actualPrice: 25.25 EUR
+currency: EUR
+price: 25.25
 comparePrice: 34.56 EUR
 inStock: true
+prodname: AmazonBasics – Maleta con ruedas flexible acolchada Belltown  52 cm  Azul marino
 ---
 
 Ahora mismo tienes [AmazonBasics – Maleta con ruedas flexible acolchada Belltown  52 cm  Azul marino](https://www.amazon.es/dp/B07HMFNX6V/?tag=tolees-21) a 25.25 EUR (original: 34.56 EUR) (26.94 %  de descuento) en el siguiente enlace!

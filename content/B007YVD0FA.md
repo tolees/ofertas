@@ -10,8 +10,11 @@ author: ring
 slug: B007YVD0FA
 description:
 actualPrice: 10.3 EUR
+currency: EUR
+price: 10.3
 comparePrice: 20.87 EUR
 inStock: true
+prodname: Spy Kids - Trilogía [Blu-ray]
 ---
 
 Tienes [Spy Kids - Trilogía [Blu-ray]](https://www.amazon.es/dp/B007YVD0FA/?tag=tolees-21) con un 50.65 % de descuento con precio de oferta de 10.3 EUR (original: 20.87 EUR) en el siguiente enlace!

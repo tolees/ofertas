@@ -10,8 +10,11 @@ author: ring
 slug: B07RN1N2PX
 description:
 actualPrice: 10.4 EUR
+currency: EUR
+price: 10.4
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Science4you-5600983608719 SPA Zen  Juguete Cientifico y Educativo para Niños +8 Años  Multicolor  Talla Única  5.60098E+12 
 ---
 
 Tienes [Science4you-5600983608719 SPA Zen  Juguete Cientifico y Educativo para Niños +8 Años  Multicolor  Talla Única  5.60098E+12 ](https://www.amazon.es/dp/B07RN1N2PX/?tag=tolees-21) con un 30.62 % de descuento con precio de oferta de 10.4 EUR (original: 14.99 EUR) en el siguiente enlace!

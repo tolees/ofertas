@@ -10,8 +10,11 @@ author: ring
 slug: B01B7MUMQQ
 description:
 actualPrice: 17.7 EUR
+currency: EUR
+price: 17.7
 comparePrice: 40.99 EUR
 inStock: true
+prodname: MegaTagmension Blanc + Neptune vs. Zombies
 ---
 
 Tienes [MegaTagmension Blanc + Neptune vs. Zombies](https://www.amazon.es/dp/B01B7MUMQQ/?tag=tolees-21) con un 56.82 % de descuento con precio de oferta de 17.7 EUR (original: 40.99 EUR) en el siguiente enlace!

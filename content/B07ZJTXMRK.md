@@ -10,8 +10,11 @@ author: ring
 slug: B07ZJTXMRK
 description:
 actualPrice: 12.77 EUR
+currency: EUR
+price: 12.77
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Levi s The tee Camiseta  Box Tab White+  M para Mujer
 ---
 
 Ahora mismo tienes [Levi s The tee Camiseta  Box Tab White+  M para Mujer](https://www.amazon.es/dp/B07ZJTXMRK/?tag=tolees-21) a 12.77 EUR (original: 25.0 EUR) (48.92 %  de descuento) en el siguiente enlace!

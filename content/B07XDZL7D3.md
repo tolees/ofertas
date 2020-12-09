@@ -10,8 +10,11 @@ author: ring
 slug: B07XDZL7D3
 description:
 actualPrice: 10.15 EUR
+currency: EUR
+price: 10.15
 comparePrice: 24.95 EUR
 inStock: true
+prodname: PUMA Öfb DNA tee Camiseta  Hombre  White  XXL
 ---
 
 Ahora mismo tienes [PUMA Öfb DNA tee Camiseta  Hombre  White  XXL](https://www.amazon.es/dp/B07XDZL7D3/?tag=tolees-21) a 10.15 EUR (original: 24.95 EUR) (59.32 %  de descuento) en el siguiente enlace!

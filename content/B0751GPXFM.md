@@ -10,8 +10,11 @@ author: ring
 slug: B0751GPXFM
 description:
 actualPrice: 39.19 EUR
+currency: EUR
+price: 39.19
 comparePrice: 85 EUR
 inStock: true
+prodname: New Balance Arishi Sport  Zapatillas de Running para Hombre  Verde Olive  42.5 EU
 ---
 
 Está [New Balance Arishi Sport  Zapatillas de Running para Hombre  Verde Olive  42.5 EU](https://www.amazon.es/dp/B0751GPXFM/?tag=tolees-21) con 53.89 de descuento por 39.19 EUR (original: 85 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07Q1S7NDD
 description:
 actualPrice: 23.04 EUR
+currency: EUR
+price: 23.04
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Simba- Muñeca de Masha 12cm con Peluche Oso 25cm 9301072  Multicolor
 ---
 
 Tienes [Simba- Muñeca de Masha 12cm con Peluche Oso 25cm 9301072  Multicolor](https://www.amazon.es/dp/B07Q1S7NDD/?tag=tolees-21) con un 42.33 % de descuento con precio de oferta de 23.04 EUR (original: 39.95 EUR) en el siguiente enlace!

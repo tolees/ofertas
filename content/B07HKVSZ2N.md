@@ -10,8 +10,11 @@ author: ring
 slug: B07HKVSZ2N
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 9.99 EUR
 inStock: true
+prodname: OurLeeme Multifunciã³n Prensa de ajo del Acero Inoxidable Jengibre Amoladora Cocina Que Cocina ajo Cortador
 ---
 
 Tienes [OurLeeme Multifunciã³n Prensa de ajo del Acero Inoxidable Jengibre Amoladora Cocina Que Cocina ajo Cortador](https://www.amazon.es/dp/B07HKVSZ2N/?tag=tolees-21) con un 50.05 % de descuento con precio de oferta de 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!

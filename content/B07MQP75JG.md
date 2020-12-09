@@ -10,8 +10,11 @@ author: ring
 slug: B07MQP75JG
 description:
 actualPrice: 14.49 EUR
+currency: EUR
+price: 14.49
 comparePrice: 19.35 EUR
 inStock: true
+prodname: Toy Partner- Fortnite Juguete  figura  Multicolor  FNT0063    color/modelo surtido
 ---
 
 Ahora mismo tienes [Toy Partner- Fortnite Juguete  figura  Multicolor  FNT0063    color/modelo surtido](https://www.amazon.es/dp/B07MQP75JG/?tag=tolees-21) a 14.49 EUR (original: 19.35 EUR) (25.12 %  de descuento) en el siguiente enlace!

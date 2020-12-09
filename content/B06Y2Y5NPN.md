@@ -10,8 +10,11 @@ author: ring
 slug: B06Y2Y5NPN
 description:
 actualPrice: 60.99 EUR
+currency: EUR
+price: 60.99
 comparePrice: 99.95 EUR
 inStock: true
+prodname: New Balance Hombre 574v2-core Trainers Zapatillas  Azul  Navy   45 EU
 ---
 
 Ahora mismo tienes [New Balance Hombre 574v2-core Trainers Zapatillas  Azul  Navy   45 EU](https://www.amazon.es/dp/B06Y2Y5NPN/?tag=tolees-21) a 60.99 EUR (original: 99.95 EUR) (38.98 %  de descuento) en el siguiente enlace!

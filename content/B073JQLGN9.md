@@ -10,8 +10,11 @@ author: ring
 slug: B073JQLGN9
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 11.04 EUR
 inStock: true
+prodname: Tangle Teezer TC-CR-010617 Thick y Curly Salsa Red  1 Pieza
 ---
 
 Tienes [Tangle Teezer TC-CR-010617 Thick y Curly Salsa Red  1 Pieza](https://www.amazon.es/dp/B073JQLGN9/?tag=tolees-21) con un 27.63 % de descuento con precio de oferta de 7.99 EUR (original: 11.04 EUR) en el siguiente enlace!

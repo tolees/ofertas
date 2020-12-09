@@ -10,8 +10,11 @@ author: ring
 slug: B07JJ3C6VK
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 35.99 EUR
 inStock: true
+prodname: FREESOO Filtros de ducha Filtro para Ducha Universal Purificador Ducha 10 Etapas reemplazables Reduce el Cloro Filtro Agua Ducha para Cuide Su Piel Cabello y Salud
 ---
 
 Tienes [FREESOO Filtros de ducha Filtro para Ducha Universal Purificador Ducha 10 Etapas reemplazables Reduce el Cloro Filtro Agua Ducha para Cuide Su Piel Cabello y Salud](https://www.amazon.es/dp/B07JJ3C6VK/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 17.99 EUR (original: 35.99 EUR) en el siguiente enlace!

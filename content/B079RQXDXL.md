@@ -10,8 +10,11 @@ author: ring
 slug: B079RQXDXL
 description:
 actualPrice: 17.76 EUR
+currency: EUR
+price: 17.76
 comparePrice: 75 EUR
 inStock: true
+prodname: Pepe Jeans Gala PL303160  Blusa para Mujer   Multi 0Aa   Medium
 ---
 
 Ahora mismo tienes [Pepe Jeans Gala PL303160  Blusa para Mujer   Multi 0Aa   Medium](https://www.amazon.es/dp/B079RQXDXL/?tag=tolees-21) a 17.76 EUR (original: 75 EUR) (76.32 %  de descuento) en el siguiente enlace!

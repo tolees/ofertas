@@ -10,8 +10,11 @@ author: ring
 slug: B07KYT2K1B
 description:
 actualPrice: 40.52 EUR
+currency: EUR
+price: 40.52
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Cortefiel C0Cbb Americana Punto Piqué  Azul Marino 10   50  Tamaño del Fabricante:L  para Hombre
 ---
 
 Ahora mismo tienes [Cortefiel C0Cbb Americana Punto Piqué  Azul Marino 10   50  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07KYT2K1B/?tag=tolees-21) a 40.52 EUR (original: 99.99 EUR) (59.48 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CRDJWVK
 description:
 actualPrice: 23.0 EUR
+currency: EUR
+price: 23.0
 comparePrice: 40.0 EUR
 inStock: true
+prodname: Greens Steel Beast Tumblers  20oz  Púrpura 
 ---
 
 Ahora mismo tienes [Greens Steel Beast Tumblers  20oz  Púrpura ](https://www.amazon.es/dp/B07CRDJWVK/?tag=tolees-21) a 23.0 EUR (original: 40.0 EUR) (42.50 %  de descuento) en el siguiente enlace!

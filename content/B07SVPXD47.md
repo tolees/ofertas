@@ -10,8 +10,11 @@ author: ring
 slug: B07SVPXD47
 description:
 actualPrice: 55.41 EUR
+currency: EUR
+price: 55.41
 comparePrice: 139.9 EUR
 inStock: true
+prodname: Geox D NYDAME D  Zapatillas para Mujer  Blanco  White/Off White C1352   41 EU
 ---
 
 Está [Geox D NYDAME D  Zapatillas para Mujer  Blanco  White/Off White C1352   41 EU](https://www.amazon.es/dp/B07SVPXD47/?tag=tolees-21) con 60.39 de descuento por 55.41 EUR (original: 139.9 EUR) en el siguiente enlace!

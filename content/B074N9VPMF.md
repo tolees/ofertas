@@ -10,8 +10,11 @@ author: ring
 slug: B074N9VPMF
 description:
 actualPrice: 14.57 EUR
+currency: EUR
+price: 14.57
 comparePrice: 59.99 EUR
 inStock: true
+prodname: edc by Esprit 107cc1i042  suéter Mujer  Blanco  Off White 110   Small
 ---
 
 Está [edc by Esprit 107cc1i042  suéter Mujer  Blanco  Off White 110   Small](https://www.amazon.es/dp/B074N9VPMF/?tag=tolees-21) con 75.71 de descuento por 14.57 EUR (original: 59.99 EUR) en el siguiente enlace!

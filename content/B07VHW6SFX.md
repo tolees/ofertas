@@ -10,8 +10,11 @@ author: ring
 slug: B07VHW6SFX
 description:
 actualPrice: 230.45 EUR
+currency: EUR
+price: 230.45
 comparePrice: 329.0 EUR
 inStock: true
+prodname: Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513710
 ---
 
 Ahora mismo tienes [Hugo BOSS Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 1513710](https://www.amazon.es/dp/B07VHW6SFX/?tag=tolees-21) a 230.45 EUR (original: 329.0 EUR) (29.95 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B088BWPXS2
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 13.99 EUR
 inStock: true
+prodname: YPSNH Compatible para Samsung Galaxy Active Correa Silicona Reemplazo Correas 20mm Banda Pulseras de Repuesto Correa Suave Compatible con Galaxy Active2/Galaxy Watch 42mm/Gear S2 Classic/Gear Sport
 ---
 
 Ahora mismo tienes [YPSNH Compatible para Samsung Galaxy Active Correa Silicona Reemplazo Correas 20mm Banda Pulseras de Repuesto Correa Suave Compatible con Galaxy Active2/Galaxy Watch 42mm/Gear S2 Classic/Gear Sport](https://www.amazon.es/dp/B088BWPXS2/?tag=tolees-21) a 8.99 EUR (original: 13.99 EUR) (35.74 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07J5HQD8W
 description:
 actualPrice: 37.75 EUR
+currency: EUR
+price: 37.75
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Adidas COURTSMASH  Zapatillas de Tenis Hombre  Blanco  Ftwbla/Negbás/Gridos 000   45 1/3 EU
 ---
 
 Está [Adidas COURTSMASH  Zapatillas de Tenis Hombre  Blanco  Ftwbla/Negbás/Gridos 000   45 1/3 EU](https://www.amazon.es/dp/B07J5HQD8W/?tag=tolees-21) con 31.30 de descuento por 37.75 EUR (original: 54.95 EUR) en el siguiente enlace!

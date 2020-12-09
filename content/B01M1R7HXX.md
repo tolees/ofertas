@@ -10,8 +10,11 @@ author: ring
 slug: B01M1R7HXX
 description:
 actualPrice: 46.26 EUR
+currency: EUR
+price: 46.26
 comparePrice: 119.9 EUR
 inStock: true
+prodname: Kipling - Artego  Bolsas para portátil Mujer  Schwarz  Dazz Black   One Size
 ---
 
 Ahora mismo tienes [Kipling - Artego  Bolsas para portátil Mujer  Schwarz  Dazz Black   One Size](https://www.amazon.es/dp/B01M1R7HXX/?tag=tolees-21) a 46.26 EUR (original: 119.9 EUR) (61.42 %  de descuento) en el siguiente enlace!

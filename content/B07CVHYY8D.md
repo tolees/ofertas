@@ -10,8 +10,11 @@ author: ring
 slug: B07CVHYY8D
 description:
 actualPrice: 41.94 EUR
+currency: EUR
+price: 41.94
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Skechers Go Walk MAX-Predict  Zapatillas sin Cordones para Hombre  Azul  Navy Grey Nvgy   43 EU
 ---
 
 Está [Skechers Go Walk MAX-Predict  Zapatillas sin Cordones para Hombre  Azul  Navy Grey Nvgy   43 EU](https://www.amazon.es/dp/B07CVHYY8D/?tag=tolees-21) con 30.04 de descuento por 41.94 EUR (original: 59.95 EUR) en el siguiente enlace!

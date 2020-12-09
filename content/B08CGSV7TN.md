@@ -10,8 +10,11 @@ author: ring
 slug: B08CGSV7TN
 description:
 actualPrice: 5.25 EUR
+currency: EUR
+price: 5.25
 comparePrice: 14.24 EUR
 inStock: true
+prodname: Uniqueheart Hobbylane Solar Fountain Floating Garden Water Fountain Pool Pond Decoration Solar Powered Fountain Water Pump
 ---
 
 Tienes [Uniqueheart Hobbylane Solar Fountain Floating Garden Water Fountain Pool Pond Decoration Solar Powered Fountain Water Pump](https://www.amazon.es/dp/B08CGSV7TN/?tag=tolees-21) con un 63.13 % de descuento con precio de oferta de 5.25 EUR (original: 14.24 EUR) en el siguiente enlace!

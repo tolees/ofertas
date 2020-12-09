@@ -10,8 +10,11 @@ author: ring
 slug: B004QZCB4S
 description:
 actualPrice: 29.82 EUR
+currency: EUR
+price: 29.82
 comparePrice: 52.9 EUR
 inStock: true
+prodname: Mantita"Pulpino"
 ---
 
 Tienes [Mantita"Pulpino"](https://www.amazon.es/dp/B004QZCB4S/?tag=tolees-21) con un 43.63 % de descuento con precio de oferta de 29.82 EUR (original: 52.9 EUR) en el siguiente enlace!

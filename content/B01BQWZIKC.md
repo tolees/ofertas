@@ -10,8 +10,11 @@ author: ring
 slug: B01BQWZIKC
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 17.89 EUR
 inStock: true
+prodname: Joma Galia  Chubasquero Para Mujer  Negro  2XL
 ---
 
 Está [Joma Galia  Chubasquero Para Mujer  Negro  2XL](https://www.amazon.es/dp/B01BQWZIKC/?tag=tolees-21) con 27.39 de descuento por 12.99 EUR (original: 17.89 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TKGLBL8
 description:
 actualPrice: 12.58 EUR
+currency: EUR
+price: 12.58
 comparePrice: 22.95 EUR
 inStock: true
+prodname: Bestway 91080 - Isla Hinchable Minnie Mouse 158 cm
 ---
 
 Está [Bestway 91080 - Isla Hinchable Minnie Mouse 158 cm](https://www.amazon.es/dp/B07TKGLBL8/?tag=tolees-21) con 45.19 de descuento por 12.58 EUR (original: 22.95 EUR) en el siguiente enlace!

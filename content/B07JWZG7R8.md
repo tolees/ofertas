@@ -10,8 +10,11 @@ author: ring
 slug: B07JWZG7R8
 description:
 actualPrice: 23.52 EUR
+currency: EUR
+price: 23.52
 comparePrice: 45.74 EUR
 inStock: true
+prodname: New Look Rizzo Colourblock  Chaqueta para Mujer  Rojo  Dark Burgundy 67  36  Talla del Fabricante: 8 
 ---
 
 Tienes [New Look Rizzo Colourblock  Chaqueta para Mujer  Rojo  Dark Burgundy 67  36  Talla del Fabricante: 8 ](https://www.amazon.es/dp/B07JWZG7R8/?tag=tolees-21) con un 48.58 % de descuento con precio de oferta de 23.52 EUR (original: 45.74 EUR) en el siguiente enlace!

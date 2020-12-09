@@ -10,8 +10,11 @@ author: ring
 slug: B07JGCM9QM
 description:
 actualPrice: 167.99 EUR
+currency: EUR
+price: 167.99
 comparePrice: 259.99 EUR
 inStock: true
+prodname: Logitech G Saitek Paquete de Equipo Pesado  Volante 900 Grados  más de 38 Botones Asignables  Dos Palancas Analógicas  USB  PC/Mac  color Negro
 ---
 
 Tienes [Logitech G Saitek Paquete de Equipo Pesado  Volante 900 Grados  más de 38 Botones Asignables  Dos Palancas Analógicas  USB  PC/Mac  color Negro](https://www.amazon.es/dp/B07JGCM9QM/?tag=tolees-21) con un 35.39 % de descuento con precio de oferta de 167.99 EUR (original: 259.99 EUR) en el siguiente enlace!

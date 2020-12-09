@@ -10,8 +10,11 @@ author: ring
 slug: B01M3RD4TM
 description:
 actualPrice: 1.77 EUR
+currency: EUR
+price: 1.77
 comparePrice: 2.7 EUR
 inStock: true
+prodname: Legrand  Marco interruptor  Marco enchufe  NILOE  Blanco
 ---
 
 Está [Legrand  Marco interruptor  Marco enchufe  NILOE  Blanco](https://www.amazon.es/dp/B01M3RD4TM/?tag=tolees-21) con 34.44 de descuento por 1.77 EUR (original: 2.7 EUR) en el siguiente enlace!

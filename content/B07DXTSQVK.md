@@ -10,8 +10,11 @@ author: ring
 slug: B07DXTSQVK
 description:
 actualPrice: 9.98 EUR
+currency: EUR
+price: 9.98
 comparePrice: 13.99 EUR
 inStock: true
+prodname: KEALIVE Traje de tres piezas  bolsa de zapatos
 ---
 
 Tienes [KEALIVE Traje de tres piezas  bolsa de zapatos](https://www.amazon.es/dp/B07DXTSQVK/?tag=tolees-21) con un 28.66 % de descuento con precio de oferta de 9.98 EUR (original: 13.99 EUR) en el siguiente enlace!

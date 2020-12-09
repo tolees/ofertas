@@ -10,8 +10,11 @@ author: ring
 slug: B0896YVJLW
 description:
 actualPrice: 199.0 EUR
+currency: EUR
+price: 199.0
 comparePrice: 329.0 EUR
 inStock: true
+prodname: Motorola Moto G Pro - Smartphone de 6 4" con lápiz táctil incorporado  4GB RAM + 128GB de ROM  dual Sim - Color Mystic Indigo [Versión Española  compatible con Portugal]
 ---
 
 Está [Motorola Moto G Pro - Smartphone de 6 4" con lápiz táctil incorporado  4GB RAM + 128GB de ROM  dual Sim - Color Mystic Indigo [Versión Española  compatible con Portugal]](https://www.amazon.es/dp/B0896YVJLW/?tag=tolees-21) con 39.51 de descuento por 199.0 EUR (original: 329.0 EUR) en el siguiente enlace!

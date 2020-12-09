@@ -10,8 +10,11 @@ author: ring
 slug: B07BHFF75D
 description:
 actualPrice: 21.13 EUR
+currency: EUR
+price: 21.13
 comparePrice: 79.9 EUR
 inStock: true
+prodname: Les Tropéziennes par M. Belarbi Lamiss  Botas Biker para Mujer  Negro  Noir 546   37 EU
 ---
 
 Tienes [Les Tropéziennes par M. Belarbi Lamiss  Botas Biker para Mujer  Negro  Noir 546   37 EU](https://www.amazon.es/dp/B07BHFF75D/?tag=tolees-21) con un 73.55 % de descuento con precio de oferta de 21.13 EUR (original: 79.9 EUR) en el siguiente enlace!

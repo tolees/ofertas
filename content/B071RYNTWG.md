@@ -10,8 +10,11 @@ author: ring
 slug: B071RYNTWG
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 16.6 EUR
 inStock: true
+prodname: Purina Gourmet Gold Bocaditos en Salsa comida para gatos con Pollo e Higado 24 x 85 g
 ---
 
 Tienes [Purina Gourmet Gold Bocaditos en Salsa comida para gatos con Pollo e Higado 24 x 85 g](https://www.amazon.es/dp/B071RYNTWG/?tag=tolees-21) con un 39.82 % de descuento con precio de oferta de 9.99 EUR (original: 16.6 EUR) en el siguiente enlace!

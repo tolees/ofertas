@@ -10,8 +10,11 @@ author: ring
 slug: B0834ZZZGW
 description:
 actualPrice: 5.04 EUR
+currency: EUR
+price: 5.04
 comparePrice: 6.99 EUR
 inStock: true
+prodname: Netac Tarjeta de Memoria de 32GB  Tarjeta Memoria microSDXC A1  U1  C10  V10  FHD  600X  UHS-I Velocidad de Lectura hasta 90 MB/s  Tarjeta TF para Móvil  Cámara Deportiva  Switch  Tableta  Dashcam
 ---
 
 Está [Netac Tarjeta de Memoria de 32GB  Tarjeta Memoria microSDXC A1  U1  C10  V10  FHD  600X  UHS-I Velocidad de Lectura hasta 90 MB/s  Tarjeta TF para Móvil  Cámara Deportiva  Switch  Tableta  Dashcam](https://www.amazon.es/dp/B0834ZZZGW/?tag=tolees-21) con 27.90 de descuento por 5.04 EUR (original: 6.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00LU7MLG8
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 140.0 EUR
 inStock: true
+prodname: Helly Hansen Crew Chaqueta  Hombre  Negro  Black   XL
 ---
 
 Tienes [Helly Hansen Crew Chaqueta  Hombre  Negro  Black   XL](https://www.amazon.es/dp/B00LU7MLG8/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 69.99 EUR (original: 140.0 EUR) en el siguiente enlace!

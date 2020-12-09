@@ -10,8 +10,11 @@ author: ring
 slug: B087MYZBGK
 description:
 actualPrice: 14.25 EUR
+currency: EUR
+price: 14.25
 comparePrice: 19.44 EUR
 inStock: true
+prodname: Funko- Pop TV: How I Met Your Mother-Ted Figura Coleccionable  Multicolor  51793 
 ---
 
 Está [Funko- Pop TV: How I Met Your Mother-Ted Figura Coleccionable  Multicolor  51793 ](https://www.amazon.es/dp/B087MYZBGK/?tag=tolees-21) con 26.70 de descuento por 14.25 EUR (original: 19.44 EUR) en el siguiente enlace!

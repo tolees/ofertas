@@ -10,8 +10,11 @@ author: ring
 slug: B00KI13ROW
 description:
 actualPrice: 35 EUR
+currency: EUR
+price: 35
 comparePrice: 47 EUR
 inStock: true
+prodname: Piscinas Toi 3153 Piscina Infantil Cuadrada  Azul  120x120x35 cm
 ---
 
 Tienes [Piscinas Toi 3153 Piscina Infantil Cuadrada  Azul  120x120x35 cm](https://www.amazon.es/dp/B00KI13ROW/?tag=tolees-21) con un 25.53 % de descuento con precio de oferta de 35 EUR (original: 47 EUR) en el siguiente enlace!

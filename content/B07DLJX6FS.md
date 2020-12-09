@@ -10,8 +10,11 @@ author: ring
 slug: B07DLJX6FS
 description:
 actualPrice: 9.96 EUR
+currency: EUR
+price: 9.96
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Springfield Pack 3 Tela Lisos Bóxer  Hombre  Azul  Gama Azules 12   X-Large  Tamaño del Fabricante:XL 
 ---
 
 Está [Springfield Pack 3 Tela Lisos Bóxer  Hombre  Azul  Gama Azules 12   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B07DLJX6FS/?tag=tolees-21) con 56.68 de descuento por 9.96 EUR (original: 22.99 EUR) en el siguiente enlace!

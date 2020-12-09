@@ -10,8 +10,11 @@ author: ring
 slug: B07HFLX4M8
 description:
 actualPrice: 10.86 EUR
+currency: EUR
+price: 10.86
 comparePrice: 74.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Signature Satin Stripe Skirt  Falda para Niñas  Azul  Black Iris/Multi 002   92
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Signature Satin Stripe Skirt  Falda para Niñas  Azul  Black Iris/Multi 002   92](https://www.amazon.es/dp/B07HFLX4M8/?tag=tolees-21) a 10.86 EUR (original: 74.9 EUR) (85.50 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B075SXSXHR
 description:
 actualPrice: 26.01 EUR
+currency: EUR
+price: 26.01
 comparePrice: 74.67 EUR
 inStock: true
+prodname: SEWOR Vintage mecánica mano viento reloj de bolsillo Luminosa Esfera lupa de cristal  Standup Bronze 
 ---
 
 Está [SEWOR Vintage mecánica mano viento reloj de bolsillo Luminosa Esfera lupa de cristal  Standup Bronze ](https://www.amazon.es/dp/B075SXSXHR/?tag=tolees-21) con 65.17 de descuento por 26.01 EUR (original: 74.67 EUR) en el siguiente enlace!

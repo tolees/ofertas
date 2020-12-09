@@ -10,8 +10,11 @@ author: ring
 slug: B01MZEKT3B
 description:
 actualPrice: 15.81 EUR
+currency: EUR
+price: 15.81
 comparePrice: 89.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Deconst Mid Skinny Wmn  jeans ajustados Mujer  Azul  Raw Denim 001   W23/L32
 ---
 
 Tienes [G-STAR RAW 3301 Deconst Mid Skinny Wmn  jeans ajustados Mujer  Azul  Raw Denim 001   W23/L32](https://www.amazon.es/dp/B01MZEKT3B/?tag=tolees-21) con un 82.42 % de descuento con precio de oferta de 15.81 EUR (original: 89.95 EUR) en el siguiente enlace!

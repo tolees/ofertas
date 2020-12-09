@@ -10,8 +10,11 @@ author: ring
 slug: B07J9LRQ3W
 description:
 actualPrice: 27.5 EUR
+currency: EUR
+price: 27.5
 comparePrice: 55.0 EUR
 inStock: true
+prodname: Under Armour Hustle 4.0 Accesorio Deportivo  Mochila para Portátil Resistente Al Agua  Unisex   Black/Black/Silver 001   Taglia Unica
 ---
 
 Está [Under Armour Hustle 4.0 Accesorio Deportivo  Mochila para Portátil Resistente Al Agua  Unisex   Black/Black/Silver 001   Taglia Unica](https://www.amazon.es/dp/B07J9LRQ3W/?tag=tolees-21) con 50.00 de descuento por 27.5 EUR (original: 55.0 EUR) en el siguiente enlace!

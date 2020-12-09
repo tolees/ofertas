@@ -10,8 +10,11 @@ author: ring
 slug: B07VRNRHPW
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 23.99 EUR
 inStock: true
+prodname: Aitsite 24PCS Bolas de Navidad 6 cm Bolas de árbol de Navidad Adorno de Pared Colgante de Pared Adornos Decoraciones Árbol Bolas Decorativas Boda de Fiesta Hogar Decoraciones para Festivales
 ---
 
 Ahora mismo tienes [Aitsite 24PCS Bolas de Navidad 6 cm Bolas de árbol de Navidad Adorno de Pared Colgante de Pared Adornos Decoraciones Árbol Bolas Decorativas Boda de Fiesta Hogar Decoraciones para Festivales](https://www.amazon.es/dp/B07VRNRHPW/?tag=tolees-21) a 10.99 EUR (original: 23.99 EUR) (54.19 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00VOAXNL8
 description:
 actualPrice: 10.52 EUR
+currency: EUR
+price: 10.52
 comparePrice: 21.14 EUR
 inStock: true
+prodname: Flexi Design S Cinta 5m. Azul
 ---
 
 Está [Flexi Design S Cinta 5m. Azul](https://www.amazon.es/dp/B00VOAXNL8/?tag=tolees-21) con 50.24 de descuento por 10.52 EUR (original: 21.14 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CVHX28H
 description:
 actualPrice: 32.8 EUR
+currency: EUR
+price: 32.8
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Skechers D Lite Ultra-at The Top  Zapatillas para Mujer  Negro  Black White BKW   37.5 EU
 ---
 
 Tienes [Skechers D Lite Ultra-at The Top  Zapatillas para Mujer  Negro  Black White BKW   37.5 EU](https://www.amazon.es/dp/B07CVHX28H/?tag=tolees-21) con un 53.11 % de descuento con precio de oferta de 32.8 EUR (original: 69.95 EUR) en el siguiente enlace!

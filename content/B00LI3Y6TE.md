@@ -10,8 +10,11 @@ author: ring
 slug: B00LI3Y6TE
 description:
 actualPrice: 36.46 EUR
+currency: EUR
+price: 36.46
 comparePrice: 54.9 EUR
 inStock: true
+prodname: TP-Link UH720 - USB 3.0  hub de 7 Puertos  2 Puertos de Carga exclusivos de 2.4A  con protección antiestática
 ---
 
 Ahora mismo tienes [TP-Link UH720 - USB 3.0  hub de 7 Puertos  2 Puertos de Carga exclusivos de 2.4A  con protección antiestática](https://www.amazon.es/dp/B00LI3Y6TE/?tag=tolees-21) a 36.46 EUR (original: 54.9 EUR) (33.59 %  de descuento) en el siguiente enlace!

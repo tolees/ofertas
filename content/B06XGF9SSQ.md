@@ -10,8 +10,11 @@ author: ring
 slug: B06XGF9SSQ
 description:
 actualPrice: 22.92 EUR
+currency: EUR
+price: 22.92
 comparePrice: 32.78 EUR
 inStock: true
+prodname: find. Mocasines para Hombre  Marrón  Brown   42 EU
 ---
 
 Está [find. Mocasines para Hombre  Marrón  Brown   42 EU](https://www.amazon.es/dp/B06XGF9SSQ/?tag=tolees-21) con 30.08 de descuento por 22.92 EUR (original: 32.78 EUR) en el siguiente enlace!

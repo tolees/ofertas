@@ -10,8 +10,11 @@ author: ring
 slug: B074SXBNN1
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 55 EUR
 inStock: true
+prodname: Hurley Phantom One&Only 18 Bañador  Hombre  Azul  Photo Blue   L/34
 ---
 
 Ahora mismo tienes [Hurley Phantom One&Only 18 Bañador  Hombre  Azul  Photo Blue   L/34](https://www.amazon.es/dp/B074SXBNN1/?tag=tolees-21) a 26.99 EUR (original: 55 EUR) (50.93 %  de descuento) en el siguiente enlace!

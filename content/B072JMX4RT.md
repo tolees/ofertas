@@ -10,8 +10,11 @@ author: ring
 slug: B072JMX4RT
 description:
 actualPrice: 30.87 EUR
+currency: EUR
+price: 30.87
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Reebok Classic Leather L Zapatillas  Mujer  Morado  Grit Lilac Glow / Sleek Met   38 EU  5 UK 
 ---
 
 Está [Reebok Classic Leather L Zapatillas  Mujer  Morado  Grit Lilac Glow / Sleek Met   38 EU  5 UK ](https://www.amazon.es/dp/B072JMX4RT/?tag=tolees-21) con 65.68 de descuento por 30.87 EUR (original: 89.95 EUR) en el siguiente enlace!

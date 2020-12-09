@@ -10,8 +10,11 @@ author: ring
 slug: B07RDYQC6B
 description:
 actualPrice: 8.7 EUR
+currency: EUR
+price: 8.7
 comparePrice: 14.51 EUR
 inStock: true
+prodname: Marca Amazon - find. Snaffle Leather Loafer Mocasines  Marrón Cloud Tan  36 EU
 ---
 
 Tienes [Marca Amazon - find. Snaffle Leather Loafer Mocasines  Marrón Cloud Tan  36 EU](https://www.amazon.es/dp/B07RDYQC6B/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 8.7 EUR (original: 14.51 EUR) en el siguiente enlace!

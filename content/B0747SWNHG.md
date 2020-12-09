@@ -10,8 +10,11 @@ author: ring
 slug: B0747SWNHG
 description:
 actualPrice: 8.4 EUR
+currency: EUR
+price: 8.4
 comparePrice: 18.92 EUR
 inStock: true
+prodname: find. BSK-S-498 vestido fiesta mujer  Verde  Green   48  Talla del Fabricante: 3X-Large 
 ---
 
 Tienes [find. BSK-S-498 vestido fiesta mujer  Verde  Green   48  Talla del Fabricante: 3X-Large ](https://www.amazon.es/dp/B0747SWNHG/?tag=tolees-21) con un 55.60 % de descuento con precio de oferta de 8.4 EUR (original: 18.92 EUR) en el siguiente enlace!

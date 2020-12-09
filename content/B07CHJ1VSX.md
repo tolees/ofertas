@@ -10,8 +10,11 @@ author: ring
 slug: B07CHJ1VSX
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: Báscula de Baño  ISENPENK Báscula Digital Con LCD Pantalla Retroiluminada  180 kg / 400lb para Medir Peso  Grasa Corporal  Agua Corporal  Masa Muscular y Hueso BMI con Plataforma Vidrio Templado
 ---
 
 Está [Báscula de Baño  ISENPENK Báscula Digital Con LCD Pantalla Retroiluminada  180 kg / 400lb para Medir Peso  Grasa Corporal  Agua Corporal  Masa Muscular y Hueso BMI con Plataforma Vidrio Templado](https://www.amazon.es/dp/B07CHJ1VSX/?tag=tolees-21) con 52.19 de descuento por 21.99 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B076JQKRXS
 description:
 actualPrice: 66.11 EUR
+currency: EUR
+price: 66.11
 comparePrice: 140 EUR
 inStock: true
+prodname: Salomon Mochila ligera  10 L  para running  senderismo o ciclismo  40 x 13 x 17 cm  SKIN PRO 10 SET  Azul  L40137000
 ---
 
 Ahora mismo tienes [Salomon Mochila ligera  10 L  para running  senderismo o ciclismo  40 x 13 x 17 cm  SKIN PRO 10 SET  Azul  L40137000](https://www.amazon.es/dp/B076JQKRXS/?tag=tolees-21) a 66.11 EUR (original: 140 EUR) (52.78 %  de descuento) en el siguiente enlace!

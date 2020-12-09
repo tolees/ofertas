@@ -10,8 +10,11 @@ author: ring
 slug: B07D95DNLX
 description:
 actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
 comparePrice: 42.9 EUR
 inStock: true
+prodname: Tommy Hilfiger 3p Trunk  Bóxers Para Hombre  Multicolor  Mykonos Blue/Pompeian Red/Peacot 064   Small   Pack de 3 
 ---
 
 Ahora mismo tienes [Tommy Hilfiger 3p Trunk  Bóxers Para Hombre  Multicolor  Mykonos Blue/Pompeian Red/Peacot 064   Small   Pack de 3 ](https://www.amazon.es/dp/B07D95DNLX/?tag=tolees-21) a 24.95 EUR (original: 42.9 EUR) (41.84 %  de descuento) en el siguiente enlace!

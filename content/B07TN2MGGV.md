@@ -10,8 +10,11 @@ author: ring
 slug: B07TN2MGGV
 description:
 actualPrice: 30.36 EUR
+currency: EUR
+price: 30.36
 comparePrice: 49.0 EUR
 inStock: true
+prodname: Samsonite Rewind Bolso Bandolera  23 cm  4.5 L  Azul  Navy Blue Stripes 
 ---
 
 Está [Samsonite Rewind Bolso Bandolera  23 cm  4.5 L  Azul  Navy Blue Stripes ](https://www.amazon.es/dp/B07TN2MGGV/?tag=tolees-21) con 38.04 de descuento por 30.36 EUR (original: 49.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00L5GQSR2
 description:
 actualPrice: 23.18 EUR
+currency: EUR
+price: 23.18
 comparePrice: 41.53 EUR
 inStock: true
+prodname: Illa bc3620 cazo con lo Especial Revestimiento Antiadherente  Aluminio  Blanco
 ---
 
 Ahora mismo tienes [Illa bc3620 cazo con lo Especial Revestimiento Antiadherente  Aluminio  Blanco](https://www.amazon.es/dp/B00L5GQSR2/?tag=tolees-21) a 23.18 EUR (original: 41.53 EUR) (44.18 %  de descuento) en el siguiente enlace!

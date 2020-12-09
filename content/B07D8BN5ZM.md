@@ -10,8 +10,11 @@ author: ring
 slug: B07D8BN5ZM
 description:
 actualPrice: 37.86 EUR
+currency: EUR
+price: 37.86
 comparePrice: 84 EUR
 inStock: true
+prodname: Munich BARRU  Zapatillas Unisex Adulto   Azul/Negro 34   40 EU
 ---
 
 Ahora mismo tienes [Munich BARRU  Zapatillas Unisex Adulto   Azul/Negro 34   40 EU](https://www.amazon.es/dp/B07D8BN5ZM/?tag=tolees-21) a 37.86 EUR (original: 84 EUR) (54.93 %  de descuento) en el siguiente enlace!

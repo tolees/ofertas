@@ -10,8 +10,11 @@ author: ring
 slug: B07FTH9ZSH
 description:
 actualPrice: 40.99 EUR
+currency: EUR
+price: 40.99
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Slim Rider Chaqueta de mezclilla  Azul  Flick Dark Ka   Large para Hombre
 ---
 
 Tienes [Lee Slim Rider Chaqueta de mezclilla  Azul  Flick Dark Ka   Large para Hombre](https://www.amazon.es/dp/B07FTH9ZSH/?tag=tolees-21) con un 58.99 % de descuento con precio de oferta de 40.99 EUR (original: 99.95 EUR) en el siguiente enlace!

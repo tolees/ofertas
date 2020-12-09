@@ -10,8 +10,11 @@ author: ring
 slug: B076HMRYMC
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: adidas CORE18 PES JKT Chaqueta de Deporte  Hombre  Azul  Azul/Blanco   M
 ---
 
 Tienes [adidas CORE18 PES JKT Chaqueta de Deporte  Hombre  Azul  Azul/Blanco   M](https://www.amazon.es/dp/B076HMRYMC/?tag=tolees-21) con un 36.68 % de descuento con precio de oferta de 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

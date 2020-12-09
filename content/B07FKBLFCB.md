@@ -10,8 +10,11 @@ author: ring
 slug: B07FKBLFCB
 description:
 actualPrice: 34.97 EUR
+currency: EUR
+price: 34.97
 comparePrice: 50 EUR
 inStock: true
+prodname: Nike W NP SPRT DSTRT TGHT Pants  Mujer  Black/Anthracite/White  M
 ---
 
 Tienes [Nike W NP SPRT DSTRT TGHT Pants  Mujer  Black/Anthracite/White  M](https://www.amazon.es/dp/B07FKBLFCB/?tag=tolees-21) con un 30.06 % de descuento con precio de oferta de 34.97 EUR (original: 50 EUR) en el siguiente enlace!

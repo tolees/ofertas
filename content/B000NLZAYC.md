@@ -10,14 +10,19 @@ author: ring
 slug: B000NLZAYC
 description:
 actualPrice: 3.54 EUR
+currency: EUR
+price: 3.54
 comparePrice: 4.99 EUR
 inStock: true
+prodname: Rapesco Documentos - Carpeta portafolios A4+ horizontal  en varios colores traslúcidos  5 unidades  polipropileno  foolscap
 ---
 
-Ahora mismo tienes [Rapesco Documentos - Carpeta portafolios A4+ horizontal  en varios colores traslúcidos  5 unidades  polipropileno  foolscap](https://www.amazon.es/dp/B000NLZAYC/?tag=tolees-21) a 3.54 EUR (original: 4.99 EUR) (29.06 %  de descuento) en el siguiente enlace!
+Está [Rapesco Documentos - Carpeta portafolios A4+ horizontal  en varios colores traslúcidos  5 unidades  polipropileno  foolscap](https://www.amazon.es/dp/B000NLZAYC/?tag=tolees-21) con 29.06 de descuento por 3.54 EUR (original: 4.99 EUR) en el siguiente enlace!
 
 [![Rapesco Documentos - Carpeta portafolios](https://m.media-amazon.com/images/I/41zRRUuBz8L._SL200_.jpg)](https://www.amazon.es/dp/B000NLZAYC/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000NLZAYC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000NLZAYC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

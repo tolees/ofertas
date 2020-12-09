@@ -10,8 +10,11 @@ author: ring
 slug: B06XTR3JKR
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 45.9 EUR
 inStock: true
+prodname: 3DS Fire Emblem Echoes: Shadows of Valentia
 ---
 
 Ahora mismo tienes [3DS Fire Emblem Echoes: Shadows of Valentia](https://www.amazon.es/dp/B06XTR3JKR/?tag=tolees-21) a 19.99 EUR (original: 45.9 EUR) (56.45 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06XHRCXXW
 description:
 actualPrice: 52.25 EUR
+currency: EUR
+price: 52.25
 comparePrice: 80.0 EUR
 inStock: true
+prodname: Vans Ward Hi  Sneaker para Hombre  Negro  Suede/Canvas  Black/White C4R  44 EU
 ---
 
 Está [Vans Ward Hi  Sneaker para Hombre  Negro  Suede/Canvas  Black/White C4R  44 EU](https://www.amazon.es/dp/B06XHRCXXW/?tag=tolees-21) con 34.69 de descuento por 52.25 EUR (original: 80.0 EUR) en el siguiente enlace!

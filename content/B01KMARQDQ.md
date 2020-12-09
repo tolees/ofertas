@@ -10,8 +10,11 @@ author: ring
 slug: B01KMARQDQ
 description:
 actualPrice: 172.42 EUR
+currency: EUR
+price: 172.42
 comparePrice: 280.85 EUR
 inStock: true
+prodname: KFA2 GeForce GTX 1060 EXOC Tarjeta gráfica
 ---
 
 Está [KFA2 GeForce GTX 1060 EXOC Tarjeta gráfica](https://www.amazon.es/dp/B01KMARQDQ/?tag=tolees-21) con 38.61 de descuento por 172.42 EUR (original: 280.85 EUR) en el siguiente enlace!

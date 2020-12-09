@@ -10,8 +10,11 @@ author: ring
 slug: B01IN7JU3O
 description:
 actualPrice: 22.78 EUR
+currency: EUR
+price: 22.78
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Gioseppo ARKADE - Botas para Mujer  Color Negro  Talla 36
 ---
 
 Tienes [Gioseppo ARKADE - Botas para Mujer  Color Negro  Talla 36](https://www.amazon.es/dp/B01IN7JU3O/?tag=tolees-21) con un 71.51 % de descuento con precio de oferta de 22.78 EUR (original: 79.95 EUR) en el siguiente enlace!

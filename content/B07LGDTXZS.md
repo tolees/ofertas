@@ -10,8 +10,11 @@ author: ring
 slug: B07LGDTXZS
 description:
 actualPrice: 14.04 EUR
+currency: EUR
+price: 14.04
 comparePrice: 18.99 EUR
 inStock: true
+prodname: Dodot Sensitive - Pañales Talla 3  56 Pañales  6-10 kg
 ---
 
 Tienes [Dodot Sensitive - Pañales Talla 3  56 Pañales  6-10 kg](https://www.amazon.es/dp/B07LGDTXZS/?tag=tolees-21) con un 26.07 % de descuento con precio de oferta de 14.04 EUR (original: 18.99 EUR) en el siguiente enlace!

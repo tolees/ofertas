@@ -10,8 +10,11 @@ author: ring
 slug: B07GYFVK8H
 description:
 actualPrice: 47.03 EUR
+currency: EUR
+price: 47.03
 comparePrice: 89.95 EUR
 inStock: true
+prodname: bugatti 311450604000  Mocasines para Hombre  Negro  Schwarz 1000   43 EU
 ---
 
 Está [bugatti 311450604000  Mocasines para Hombre  Negro  Schwarz 1000   43 EU](https://www.amazon.es/dp/B07GYFVK8H/?tag=tolees-21) con 47.72 de descuento por 47.03 EUR (original: 89.95 EUR) en el siguiente enlace!

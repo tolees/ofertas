@@ -10,8 +10,11 @@ author: ring
 slug: B07ZYBTFX4
 description:
 actualPrice: 11.04 EUR
+currency: EUR
+price: 11.04
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Beyblade- Hypersphere Fafnir  Hasbro E7711ES0 
 ---
 
 Está [Beyblade- Hypersphere Fafnir  Hasbro E7711ES0 ](https://www.amazon.es/dp/B07ZYBTFX4/?tag=tolees-21) con 30.96 de descuento por 11.04 EUR (original: 15.99 EUR) en el siguiente enlace!

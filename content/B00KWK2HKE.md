@@ -10,8 +10,11 @@ author: ring
 slug: B00KWK2HKE
 description:
 actualPrice: 86.84 EUR
+currency: EUR
+price: 86.84
 comparePrice: 139.9 EUR
 inStock: true
+prodname: Geox U Nebula B  Zapatillas para Hombre  Negro  40 EU
 ---
 
 Está [Geox U Nebula B  Zapatillas para Hombre  Negro  40 EU](https://www.amazon.es/dp/B00KWK2HKE/?tag=tolees-21) con 37.93 de descuento por 86.84 EUR (original: 139.9 EUR) en el siguiente enlace!

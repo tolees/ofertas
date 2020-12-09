@@ -10,8 +10,11 @@ author: ring
 slug: B07MYS4GGN
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 45.53 EUR
 inStock: true
+prodname: HERSITY Coche de Carreras Desmontable de Construccion Juguete con Taladro Electrico y Luces y Sonidos Regalo para Ninos Niñas
 ---
 
 Tienes [HERSITY Coche de Carreras Desmontable de Construccion Juguete con Taladro Electrico y Luces y Sonidos Regalo para Ninos Niñas](https://www.amazon.es/dp/B07MYS4GGN/?tag=tolees-21) con un 53.90 % de descuento con precio de oferta de 20.99 EUR (original: 45.53 EUR) en el siguiente enlace!

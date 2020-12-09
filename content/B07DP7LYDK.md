@@ -10,8 +10,11 @@ author: ring
 slug: B07DP7LYDK
 description:
 actualPrice: 11.74 EUR
+currency: EUR
+price: 11.74
 comparePrice: 30 EUR
 inStock: true
+prodname: Eastpak The One Bolso Bandolera  21 cm  2.5 Liters  Negro  Blakout Dark 
 ---
 
 Está [Eastpak The One Bolso Bandolera  21 cm  2.5 Liters  Negro  Blakout Dark ](https://www.amazon.es/dp/B07DP7LYDK/?tag=tolees-21) con 60.87 de descuento por 11.74 EUR (original: 30 EUR) en el siguiente enlace!

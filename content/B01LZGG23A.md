@@ -10,8 +10,11 @@ author: ring
 slug: B01LZGG23A
 description:
 actualPrice: 14.98 EUR
+currency: EUR
+price: 14.98
 comparePrice: 29.95 EUR
 inStock: true
+prodname: APPLE MMYJ2ZM/A - Funda Leather Case para el iPhone 7 Plus - Negro
 ---
 
 Ahora mismo tienes [APPLE MMYJ2ZM/A - Funda Leather Case para el iPhone 7 Plus - Negro](https://www.amazon.es/dp/B01LZGG23A/?tag=tolees-21) a 14.98 EUR (original: 29.95 EUR) (49.98 %  de descuento) en el siguiente enlace!

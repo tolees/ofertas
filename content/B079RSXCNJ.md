@@ -10,8 +10,11 @@ author: ring
 slug: B079RSXCNJ
 description:
 actualPrice: 23.59 EUR
+currency: EUR
+price: 23.59
 comparePrice: 75 EUR
 inStock: true
+prodname: Pepe Jeans Suna  Suéter para Mujer  Amarillo  Siena 089  M
 ---
 
 Está [Pepe Jeans Suna  Suéter para Mujer  Amarillo  Siena 089  M](https://www.amazon.es/dp/B079RSXCNJ/?tag=tolees-21) con 68.55 de descuento por 23.59 EUR (original: 75 EUR) en el siguiente enlace!

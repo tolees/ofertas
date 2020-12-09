@@ -10,8 +10,11 @@ author: ring
 slug: B082P5MVNR
 description:
 actualPrice: 11.34 EUR
+currency: EUR
+price: 11.34
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Hurley M Core O&O Boxed S/S tee Camiseta  Hombre  Aurora Green
 ---
 
 Está [Hurley M Core O&O Boxed S/S tee Camiseta  Hombre  Aurora Green](https://www.amazon.es/dp/B082P5MVNR/?tag=tolees-21) con 54.64 de descuento por 11.34 EUR (original: 25.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DNDBZ6M
 description:
 actualPrice: 18.5 EUR
+currency: EUR
+price: 18.5
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Esprit 098ee1i001 suéter  Azul  Bright Blue 410   Small para Mujer
 ---
 
 Tienes [Esprit 098ee1i001 suéter  Azul  Bright Blue 410   Small para Mujer](https://www.amazon.es/dp/B07DNDBZ6M/?tag=tolees-21) con un 53.74 % de descuento con precio de oferta de 18.5 EUR (original: 39.99 EUR) en el siguiente enlace!

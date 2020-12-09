@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ3H1JW
 description:
 actualPrice: 50.81 EUR
+currency: EUR
+price: 50.81
 comparePrice: 149.9 EUR
 inStock: true
+prodname: Geox U Nebula 4 X 4 B ABX a  Botas Chukka para Hombre  Navy C4002  45 EU
 ---
 
 Está [Geox U Nebula 4 X 4 B ABX a  Botas Chukka para Hombre  Navy C4002  45 EU](https://www.amazon.es/dp/B07DJ3H1JW/?tag=tolees-21) con 66.10 de descuento por 50.81 EUR (original: 149.9 EUR) en el siguiente enlace!

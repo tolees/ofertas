@@ -10,14 +10,19 @@ author: ring
 slug: B06XSHVMHQ
 description:
 actualPrice: 8.89 EUR
+currency: EUR
+price: 8.89
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Esprit 067ee1k034  Camiseta sin Mangas Mujer   Light Pink 690   Small
 ---
 
-Ahora mismo tienes [Esprit 067ee1k034  Camiseta sin Mangas Mujer   Light Pink 690   Small](https://www.amazon.es/dp/B06XSHVMHQ/?tag=tolees-21) a 8.89 EUR (original: 19.99 EUR) (55.53 %  de descuento) en el siguiente enlace!
+Está [Esprit 067ee1k034  Camiseta sin Mangas Mujer   Light Pink 690   Small](https://www.amazon.es/dp/B06XSHVMHQ/?tag=tolees-21) con 55.53 de descuento por 8.89 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Esprit 067ee1k034  Camiseta sin Mangas M](https://images-eu.ssl-images-amazon.com/images/I/41CU8kmjrFL._SL200_.jpg)](https://www.amazon.es/dp/B06XSHVMHQ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XSHVMHQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06XSHVMHQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

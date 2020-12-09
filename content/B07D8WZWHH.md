@@ -10,8 +10,11 @@ author: ring
 slug: B07D8WZWHH
 description:
 actualPrice: 26.95 EUR
+currency: EUR
+price: 26.95
 comparePrice: 37.95 EUR
 inStock: true
+prodname: Calcetines Ligeros de Senderismo y Trekking de Lana Merino 3 pares  Multicolor: 1 x Gris  1 x Verde  1 x Amarillo  EU 43-47 
 ---
 
 Está [Calcetines Ligeros de Senderismo y Trekking de Lana Merino 3 pares  Multicolor: 1 x Gris  1 x Verde  1 x Amarillo  EU 43-47 ](https://www.amazon.es/dp/B07D8WZWHH/?tag=tolees-21) con 28.99 de descuento por 26.95 EUR (original: 37.95 EUR) en el siguiente enlace!

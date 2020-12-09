@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ3T2KC
 description:
 actualPrice: 12.95 EUR
+currency: EUR
+price: 12.95
 comparePrice: 19.9 EUR
 inStock: true
+prodname: NYX Professional Makeup Paleta de sombra de ojos Ultimate Shadow Palette  Pigmentos compactos  16 sombras  Acabados mate  satinados y metalizados  Tono: Ash
 ---
 
 Está [NYX Professional Makeup Paleta de sombra de ojos Ultimate Shadow Palette  Pigmentos compactos  16 sombras  Acabados mate  satinados y metalizados  Tono: Ash](https://www.amazon.es/dp/B07KZ3T2KC/?tag=tolees-21) con 34.92 de descuento por 12.95 EUR (original: 19.9 EUR) en el siguiente enlace!

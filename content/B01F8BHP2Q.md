@@ -10,8 +10,11 @@ author: ring
 slug: B01F8BHP2Q
 description:
 actualPrice: 5.68 EUR
+currency: EUR
+price: 5.68
 comparePrice: 13.44 EUR
 inStock: true
+prodname: LifeWheel - Calcetines de deporte - para hombre multicolor Talla única
 ---
 
 Ahora mismo tienes [LifeWheel - Calcetines de deporte - para hombre multicolor Talla única](https://www.amazon.es/dp/B01F8BHP2Q/?tag=tolees-21) a 5.68 EUR (original: 13.44 EUR) (57.74 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B071YYZHZQ
 description:
 actualPrice: 2.37 EUR
+currency: EUR
+price: 2.37
 comparePrice: 18.64 EUR
 inStock: true
+prodname: X-Men - Trilogie [Alemania] [Blu-ray]
 ---
 
 Está [X-Men - Trilogie [Alemania] [Blu-ray]](https://www.amazon.es/dp/B071YYZHZQ/?tag=tolees-21) con 87.29 de descuento por 2.37 EUR (original: 18.64 EUR) en el siguiente enlace!

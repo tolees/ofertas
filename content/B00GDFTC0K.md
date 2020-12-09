@@ -10,8 +10,11 @@ author: ring
 slug: B00GDFTC0K
 description:
 actualPrice: 109.99 EUR
+currency: EUR
+price: 109.99
 comparePrice: 188.24 EUR
 inStock: true
+prodname: Makita DF347DWE - Taladro Atornillador 14.4V
 ---
 
 Ahora mismo tienes [Makita DF347DWE - Taladro Atornillador 14.4V](https://www.amazon.es/dp/B00GDFTC0K/?tag=tolees-21) a 109.99 EUR (original: 188.24 EUR) (41.57 %  de descuento) en el siguiente enlace!

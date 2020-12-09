@@ -10,8 +10,11 @@ author: ring
 slug: B0759RPHKX
 description:
 actualPrice: 45 EUR
+currency: EUR
+price: 45
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Clarks Orabella Shine  Sandalia con Pulsera Mujer  Azul  Ice Blue   38 EU
 ---
 
 Está [Clarks Orabella Shine  Sandalia con Pulsera Mujer  Azul  Ice Blue   38 EU](https://www.amazon.es/dp/B0759RPHKX/?tag=tolees-21) con 49.97 de descuento por 45 EUR (original: 89.95 EUR) en el siguiente enlace!

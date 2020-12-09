@@ -10,8 +10,11 @@ author: ring
 slug: B07DX11NHL
 description:
 actualPrice: 16.78 EUR
+currency: EUR
+price: 16.78
 comparePrice: 60 EUR
 inStock: true
+prodname: Emporio Armani Underwear Ladies Bra  Sujetador Estilo Bralette para Mujer  Negro  Nero 00020  85B  Talla del Fabricante: 32B 
 ---
 
 Está [Emporio Armani Underwear Ladies Bra  Sujetador Estilo Bralette para Mujer  Negro  Nero 00020  85B  Talla del Fabricante: 32B ](https://www.amazon.es/dp/B07DX11NHL/?tag=tolees-21) con 72.03 de descuento por 16.78 EUR (original: 60 EUR) en el siguiente enlace!

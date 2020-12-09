@@ -10,8 +10,11 @@ author: ring
 slug: B07WFJBJGL
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Tubbz - Destiny Lord Shaxx
 ---
 
 Ahora mismo tienes [Tubbz - Destiny Lord Shaxx](https://www.amazon.es/dp/B07WFJBJGL/?tag=tolees-21) a 5.95 EUR (original: 14.99 EUR) (60.31 %  de descuento) en el siguiente enlace!

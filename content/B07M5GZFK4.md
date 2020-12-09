@@ -10,8 +10,11 @@ author: ring
 slug: B07M5GZFK4
 description:
 actualPrice: 6.32 EUR
+currency: EUR
+price: 6.32
 comparePrice: 12.64 EUR
 inStock: true
+prodname: SimpleLife Bolsas de Maquillaje  Bolsa de Lavado  Bolsa de Maquillaje de Viaje  Bolsa de Aseo cosmética Impermeable  Organizador de Lavado  Bolsa de Almacenamiento
 ---
 
 Está [SimpleLife Bolsas de Maquillaje  Bolsa de Lavado  Bolsa de Maquillaje de Viaje  Bolsa de Aseo cosmética Impermeable  Organizador de Lavado  Bolsa de Almacenamiento](https://www.amazon.es/dp/B07M5GZFK4/?tag=tolees-21) con 50.00 de descuento por 6.32 EUR (original: 12.64 EUR) en el siguiente enlace!

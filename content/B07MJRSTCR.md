@@ -10,8 +10,11 @@ author: ring
 slug: B07MJRSTCR
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 40.0 EUR
 inStock: true
+prodname: HONCENMAX Funda Cubre Sofá - Protector para Sofás Acolchado - Anti-Sucio para Mascotas Protector de Sofá Muebles - 2 Plazas  90  X 75   
 ---
 
 Tienes [HONCENMAX Funda Cubre Sofá - Protector para Sofás Acolchado - Anti-Sucio para Mascotas Protector de Sofá Muebles - 2 Plazas  90  X 75   ](https://www.amazon.es/dp/B07MJRSTCR/?tag=tolees-21) con un 35.03 % de descuento con precio de oferta de 25.99 EUR (original: 40.0 EUR) en el siguiente enlace!

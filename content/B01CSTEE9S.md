@@ -10,8 +10,11 @@ author: ring
 slug: B01CSTEE9S
 description:
 actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
 comparePrice: 9.9 EUR
 inStock: true
+prodname: Joma 900248.200 Camiseta  Mujer  Blanco  S
 ---
 
 Está [Joma 900248.200 Camiseta  Mujer  Blanco  S](https://www.amazon.es/dp/B01CSTEE9S/?tag=tolees-21) con 34.34 de descuento por 6.5 EUR (original: 9.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HL3NHW3
 description:
 actualPrice: 46.73 EUR
+currency: EUR
+price: 46.73
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Targus Balance Ecosmart 14"  Unisex Adulto  Monotone  43 centimeters
 ---
 
 Está [Targus Balance Ecosmart 14"  Unisex Adulto  Monotone  43 centimeters](https://www.amazon.es/dp/B07HL3NHW3/?tag=tolees-21) con 33.23 de descuento por 46.73 EUR (original: 69.99 EUR) en el siguiente enlace!

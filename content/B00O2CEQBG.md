@@ -10,8 +10,11 @@ author: ring
 slug: B00O2CEQBG
 description:
 actualPrice: 8.19 EUR
+currency: EUR
+price: 8.19
 comparePrice: 14.95 EUR
 inStock: true
+prodname: POP! Vinilo - Game of Thrones: Jon Snow Castle Black
 ---
 
 Tienes [POP! Vinilo - Game of Thrones: Jon Snow Castle Black](https://www.amazon.es/dp/B00O2CEQBG/?tag=tolees-21) con un 45.22 % de descuento con precio de oferta de 8.19 EUR (original: 14.95 EUR) en el siguiente enlace!

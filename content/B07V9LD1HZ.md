@@ -10,8 +10,11 @@ author: ring
 slug: B07V9LD1HZ
 description:
 actualPrice: 699.0 EUR
+currency: EUR
+price: 699.0
 comparePrice: 999.0 EUR
 inStock: true
+prodname: Robot aspirador iRobot Roomba i7+  i7556  con Vaciado automático  Alta potencia  Para mascotas  Programa por habitación  Limpia por objeto  Sugerencias personalizadas  Compatible con asistentes voz
 ---
 
 Está [Robot aspirador iRobot Roomba i7+  i7556  con Vaciado automático  Alta potencia  Para mascotas  Programa por habitación  Limpia por objeto  Sugerencias personalizadas  Compatible con asistentes voz](https://www.amazon.es/dp/B07V9LD1HZ/?tag=tolees-21) con 30.03 de descuento por 699.0 EUR (original: 999.0 EUR) en el siguiente enlace!

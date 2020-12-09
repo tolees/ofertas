@@ -10,8 +10,11 @@ author: ring
 slug: B000U6URFW
 description:
 actualPrice: 50.0 EUR
+currency: EUR
+price: 50.0
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Funny Dream  Zapatos de Cordones Derby para Mujer  Negro  Black Leather   39 EU
 ---
 
 Está [Clarks Funny Dream  Zapatos de Cordones Derby para Mujer  Negro  Black Leather   39 EU](https://www.amazon.es/dp/B000U6URFW/?tag=tolees-21) con 49.97 de descuento por 50.0 EUR (original: 99.95 EUR) en el siguiente enlace!

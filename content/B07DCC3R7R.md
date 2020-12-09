@@ -10,8 +10,11 @@ author: ring
 slug: B07DCC3R7R
 description:
 actualPrice: 24.78 EUR
+currency: EUR
+price: 24.78
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Puma 365 FF CT  Zapatillas de Deporte Interior para Hombre  Negro Black White  43 EU
 ---
 
 Ahora mismo tienes [Puma 365 FF CT  Zapatillas de Deporte Interior para Hombre  Negro Black White  43 EU](https://www.amazon.es/dp/B07DCC3R7R/?tag=tolees-21) a 24.78 EUR (original: 59.95 EUR) (58.67 %  de descuento) en el siguiente enlace!

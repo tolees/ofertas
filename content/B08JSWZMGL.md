@@ -10,8 +10,11 @@ author: ring
 slug: B08JSWZMGL
 description:
 actualPrice: 56.99 EUR
+currency: EUR
+price: 56.99
 comparePrice: 88.89 EUR
 inStock: true
+prodname: Radio de Coche Bluetooth Pantalla táctil capacitiva Single DIN 4    Radio FM / Am / RDS Cámara Trasera Control Remoto del Volante con micrófono Externo con Salida de Audio de subwoofer
 ---
 
 Tienes [Radio de Coche Bluetooth Pantalla táctil capacitiva Single DIN 4    Radio FM / Am / RDS Cámara Trasera Control Remoto del Volante con micrófono Externo con Salida de Audio de subwoofer](https://www.amazon.es/dp/B08JSWZMGL/?tag=tolees-21) con un 35.89 % de descuento con precio de oferta de 56.99 EUR (original: 88.89 EUR) en el siguiente enlace!

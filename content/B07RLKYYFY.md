@@ -10,8 +10,11 @@ author: ring
 slug: B07RLKYYFY
 description:
 actualPrice: 15.6 EUR
+currency: EUR
+price: 15.6
 comparePrice: 22.48 EUR
 inStock: true
+prodname: Oxford Classic - Pack De 5 Recambios Color 1 Encolados 80 Hojas
 ---
 
 Ahora mismo tienes [Oxford Classic - Pack De 5 Recambios Color 1 Encolados 80 Hojas](https://www.amazon.es/dp/B07RLKYYFY/?tag=tolees-21) a 15.6 EUR (original: 22.48 EUR) (30.60 %  de descuento) en el siguiente enlace!

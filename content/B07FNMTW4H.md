@@ -10,8 +10,11 @@ author: ring
 slug: B07FNMTW4H
 description:
 actualPrice: 15.74 EUR
+currency: EUR
+price: 15.74
 comparePrice: 29.99 EUR
 inStock: true
+prodname: LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 
 ---
 
 Tienes [LEGO City - Police Policía Aérea: Arresto del Ladrón Paracaidista  Set de Aventuras para Construcción con Paracaídas  Avión y Moto de Juguete  60208 ](https://www.amazon.es/dp/B07FNMTW4H/?tag=tolees-21) con un 47.52 % de descuento con precio de oferta de 15.74 EUR (original: 29.99 EUR) en el siguiente enlace!

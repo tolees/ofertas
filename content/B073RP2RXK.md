@@ -10,8 +10,11 @@ author: ring
 slug: B073RP2RXK
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 50.0 EUR
 inStock: true
+prodname: Helly Hansen Women Daybreaker 1/2 Zip Fleece  Mujer  Blanco  S
 ---
 
 Ahora mismo tienes [Helly Hansen Women Daybreaker 1/2 Zip Fleece  Mujer  Blanco  S](https://www.amazon.es/dp/B073RP2RXK/?tag=tolees-21) a 35.99 EUR (original: 50.0 EUR) (28.02 %  de descuento) en el siguiente enlace!

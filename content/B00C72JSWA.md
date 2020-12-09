@@ -10,8 +10,11 @@ author: ring
 slug: B00C72JSWA
 description:
 actualPrice: 10.54 EUR
+currency: EUR
+price: 10.54
 comparePrice: 45.36 EUR
 inStock: true
+prodname: Lego City: Undercover - The Chase Begins [Importación Francesa]
 ---
 
 Ahora mismo tienes [Lego City: Undercover - The Chase Begins [Importación Francesa]](https://www.amazon.es/dp/B00C72JSWA/?tag=tolees-21) a 10.54 EUR (original: 45.36 EUR) (76.76 %  de descuento) en el siguiente enlace!

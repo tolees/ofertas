@@ -10,8 +10,11 @@ author: ring
 slug: B00AUQYI34
 description:
 actualPrice: 0.99 EUR
+currency: EUR
+price: 0.99
 comparePrice: 1.54 EUR
 inStock: true
+prodname: Gullón - Barquillos sin azúcar con chocolate Pack de 3  180g
 ---
 
 Ahora mismo tienes [Gullón - Barquillos sin azúcar con chocolate Pack de 3  180g](https://www.amazon.es/dp/B00AUQYI34/?tag=tolees-21) a 0.99 EUR (original: 1.54 EUR) (35.71 %  de descuento) en el siguiente enlace!

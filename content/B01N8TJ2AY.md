@@ -10,8 +10,11 @@ author: ring
 slug: B01N8TJ2AY
 description:
 actualPrice: 22.64 EUR
+currency: EUR
+price: 22.64
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Bugatti J7605pr6n  Zapatillas para Mujer  Negro  Schwarz/Weiss 111   41 EU
 ---
 
 Está [Bugatti J7605pr6n  Zapatillas para Mujer  Negro  Schwarz/Weiss 111   41 EU](https://www.amazon.es/dp/B01N8TJ2AY/?tag=tolees-21) con 67.63 de descuento por 22.64 EUR (original: 69.95 EUR) en el siguiente enlace!

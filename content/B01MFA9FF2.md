@@ -10,8 +10,11 @@ author: ring
 slug: B01MFA9FF2
 description:
 actualPrice: 15.27 EUR
+currency: EUR
+price: 15.27
 comparePrice: 28 EUR
 inStock: true
+prodname: Under Amour Exagerar Pantalones Cortos  Mujer  Gris  True Heather  / Azul  Infinity   S
 ---
 
 Tienes [Under Amour Exagerar Pantalones Cortos  Mujer  Gris  True Heather  / Azul  Infinity   S](https://www.amazon.es/dp/B01MFA9FF2/?tag=tolees-21) con un 45.46 % de descuento con precio de oferta de 15.27 EUR (original: 28 EUR) en el siguiente enlace!

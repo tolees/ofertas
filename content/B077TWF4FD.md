@@ -10,8 +10,11 @@ author: ring
 slug: B077TWF4FD
 description:
 actualPrice: 57.24 EUR
+currency: EUR
+price: 57.24
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Reebok F/S Hi  Zapatillas Altas para Mujer  Blanco  White/Gum 0   38 EU
 ---
 
 Ahora mismo tienes [Reebok F/S Hi  Zapatillas Altas para Mujer  Blanco  White/Gum 0   38 EU](https://www.amazon.es/dp/B077TWF4FD/?tag=tolees-21) a 57.24 EUR (original: 89.95 EUR) (36.36 %  de descuento) en el siguiente enlace!

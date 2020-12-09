@@ -10,8 +10,11 @@ author: ring
 slug: B07JDTF39D
 description:
 actualPrice: 60 EUR
+currency: EUR
+price: 60
 comparePrice: 120 EUR
 inStock: true
+prodname: Lacoste Sport Sh3542 Sudadera   Marine Forest-Blanc 847   Medium  Talla del Fabricante: 4  para Hombre
 ---
 
 Ahora mismo tienes [Lacoste Sport Sh3542 Sudadera   Marine Forest-Blanc 847   Medium  Talla del Fabricante: 4  para Hombre](https://www.amazon.es/dp/B07JDTF39D/?tag=tolees-21) a 60 EUR (original: 120 EUR) (50.00 %  de descuento) en el siguiente enlace!

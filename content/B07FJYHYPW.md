@@ -10,8 +10,11 @@ author: ring
 slug: B07FJYHYPW
 description:
 actualPrice: 25.2 EUR
+currency: EUR
+price: 25.2
 comparePrice: 45.49 EUR
 inStock: true
+prodname: Ipanema Charm Vi Sand Fem  Sandalias con Tira Vertical para Mujer   Light Pink 8673   35/36 EU
 ---
 
 Ahora mismo tienes [Ipanema Charm Vi Sand Fem  Sandalias con Tira Vertical para Mujer   Light Pink 8673   35/36 EU](https://www.amazon.es/dp/B07FJYHYPW/?tag=tolees-21) a 25.2 EUR (original: 45.49 EUR) (44.60 %  de descuento) en el siguiente enlace!

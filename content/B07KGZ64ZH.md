@@ -10,8 +10,11 @@ author: ring
 slug: B07KGZ64ZH
 description:
 actualPrice: 29.35 EUR
+currency: EUR
+price: 29.35
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Under Armour Warp Knit High Impact Bra Sujetador Deportivo  Mujer  Rosa  Impulse Pink/Ash Taupe/Reflective 671   38DD
 ---
 
 Tienes [Under Armour Warp Knit High Impact Bra Sujetador Deportivo  Mujer  Rosa  Impulse Pink/Ash Taupe/Reflective 671   38DD](https://www.amazon.es/dp/B07KGZ64ZH/?tag=tolees-21) con un 46.63 % de descuento con precio de oferta de 29.35 EUR (original: 54.99 EUR) en el siguiente enlace!

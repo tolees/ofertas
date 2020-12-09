@@ -10,8 +10,11 @@ author: ring
 slug: B00Q5X2DZG
 description:
 actualPrice: 19.14 EUR
+currency: EUR
+price: 19.14
 comparePrice: 29.95 EUR
 inStock: true
+prodname: AmazonBasics - Vajilla para 4 personas  16 piezas   diseño de rayas  color negro
 ---
 
 Está [AmazonBasics - Vajilla para 4 personas  16 piezas   diseño de rayas  color negro](https://www.amazon.es/dp/B00Q5X2DZG/?tag=tolees-21) con 36.09 de descuento por 19.14 EUR (original: 29.95 EUR) en el siguiente enlace!

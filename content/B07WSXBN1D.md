@@ -10,8 +10,11 @@ author: ring
 slug: B07WSXBN1D
 description:
 actualPrice: 20.89 EUR
+currency: EUR
+price: 20.89
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Need for Speed Heat
 ---
 
 Está [Need for Speed Heat](https://www.amazon.es/dp/B07WSXBN1D/?tag=tolees-21) con 40.30 de descuento por 20.89 EUR (original: 34.99 EUR) en el siguiente enlace!

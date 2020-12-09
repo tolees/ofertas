@@ -10,8 +10,11 @@ author: ring
 slug: B00SIS5SZI
 description:
 actualPrice: 19.67 EUR
+currency: EUR
+price: 19.67
 comparePrice: 39 EUR
 inStock: true
+prodname: Diesel 0GAFN Bóxer  Hombre  3   Blue/Red   XX-Large  Tamaño del Fabricante:XXL 
 ---
 
 Está [Diesel 0GAFN Bóxer  Hombre  3   Blue/Red   XX-Large  Tamaño del Fabricante:XXL ](https://www.amazon.es/dp/B00SIS5SZI/?tag=tolees-21) con 49.56 de descuento por 19.67 EUR (original: 39 EUR) en el siguiente enlace!

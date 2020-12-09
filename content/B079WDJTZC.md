@@ -10,8 +10,11 @@ author: ring
 slug: B079WDJTZC
 description:
 actualPrice: 13.82 EUR
+currency: EUR
+price: 13.82
 comparePrice: 54 EUR
 inStock: true
+prodname: Napapijri Pallet  Cinturón Hombre  Beige  Beige Nb1   90  Talla del fabricante: 1 
 ---
 
 Ahora mismo tienes [Napapijri Pallet  Cinturón Hombre  Beige  Beige Nb1   90  Talla del fabricante: 1 ](https://www.amazon.es/dp/B079WDJTZC/?tag=tolees-21) a 13.82 EUR (original: 54 EUR) (74.41 %  de descuento) en el siguiente enlace!

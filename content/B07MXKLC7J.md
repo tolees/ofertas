@@ -10,8 +10,11 @@ author: ring
 slug: B07MXKLC7J
 description:
 actualPrice: 36.61 EUR
+currency: EUR
+price: 36.61
 comparePrice: 70 EUR
 inStock: true
+prodname: Salomon Logo Hoodie  Hombre  Rojo  Biking Red   XL
 ---
 
 Tienes [Salomon Logo Hoodie  Hombre  Rojo  Biking Red   XL](https://www.amazon.es/dp/B07MXKLC7J/?tag=tolees-21) con un 47.70 % de descuento con precio de oferta de 36.61 EUR (original: 70 EUR) en el siguiente enlace!

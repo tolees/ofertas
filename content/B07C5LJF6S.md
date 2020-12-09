@@ -10,8 +10,11 @@ author: ring
 slug: B07C5LJF6S
 description:
 actualPrice: 14.49 EUR
+currency: EUR
+price: 14.49
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Negro  Navy Blazer   Large para Hombre
 ---
 
 Ahora mismo tienes [Jack & Jones Jjebasic Knit Crew Neck Noos suéter  Negro  Navy Blazer   Large para Hombre](https://www.amazon.es/dp/B07C5LJF6S/?tag=tolees-21) a 14.49 EUR (original: 24.99 EUR) (42.02 %  de descuento) en el siguiente enlace!

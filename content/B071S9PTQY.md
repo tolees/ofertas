@@ -10,8 +10,11 @@ author: ring
 slug: B071S9PTQY
 description:
 actualPrice: 14.2 EUR
+currency: EUR
+price: 14.2
 comparePrice: 30 EUR
 inStock: true
+prodname: Levi s Graphic Set-in Neck  Camiseta para Hombre  Azul  Bi Sporty Levis Dark Blue Tri Blend 324   L
 ---
 
 Está [Levi s Graphic Set-in Neck  Camiseta para Hombre  Azul  Bi Sporty Levis Dark Blue Tri Blend 324   L](https://www.amazon.es/dp/B071S9PTQY/?tag=tolees-21) con 52.67 de descuento por 14.2 EUR (original: 30 EUR) en el siguiente enlace!

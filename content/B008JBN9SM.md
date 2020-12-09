@@ -10,8 +10,11 @@ author: ring
 slug: B008JBN9SM
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 19.95 EUR
 inStock: true
+prodname: El Precio Del Poder [Blu-ray]
 ---
 
 Está [El Precio Del Poder [Blu-ray]](https://www.amazon.es/dp/B008JBN9SM/?tag=tolees-21) con 69.97 de descuento por 5.99 EUR (original: 19.95 EUR) en el siguiente enlace!

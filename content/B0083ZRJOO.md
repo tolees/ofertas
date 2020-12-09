@@ -10,8 +10,11 @@ author: ring
 slug: B0083ZRJOO
 description:
 actualPrice: 18 EUR
+currency: EUR
+price: 18
 comparePrice: 30.7 EUR
 inStock: true
+prodname: Nike Pico 4  PSV   Zapatillas de Deporte Unisex  Blanco/Rosa  29.5 EU
 ---
 
 Tienes [Nike Pico 4  PSV   Zapatillas de Deporte Unisex  Blanco/Rosa  29.5 EU](https://www.amazon.es/dp/B0083ZRJOO/?tag=tolees-21) con un 41.37 % de descuento con precio de oferta de 18 EUR (original: 30.7 EUR) en el siguiente enlace!

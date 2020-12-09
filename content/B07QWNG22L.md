@@ -10,8 +10,11 @@ author: ring
 slug: B07QWNG22L
 description:
 actualPrice: 5.0 EUR
+currency: EUR
+price: 5.0
 comparePrice: 10.0 EUR
 inStock: true
+prodname: Under Armour  UNDKU Heatgear Locut Calcetines  Unisex adulto  Gris  XL
 ---
 
 Ahora mismo tienes [Under Armour  UNDKU Heatgear Locut Calcetines  Unisex adulto  Gris  XL](https://www.amazon.es/dp/B07QWNG22L/?tag=tolees-21) a 5.0 EUR (original: 10.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

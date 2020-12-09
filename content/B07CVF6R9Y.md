@@ -10,8 +10,11 @@ author: ring
 slug: B07CVF6R9Y
 description:
 actualPrice: 28.89 EUR
+currency: EUR
+price: 28.89
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Skechers Equalizer 3.0  Zapatillas para Hombre  Gris  Grey Charcoal Gycc   47.5 EU
 ---
 
 Está [Skechers Equalizer 3.0  Zapatillas para Hombre  Gris  Grey Charcoal Gycc   47.5 EU](https://www.amazon.es/dp/B07CVF6R9Y/?tag=tolees-21) con 58.70 de descuento por 28.89 EUR (original: 69.95 EUR) en el siguiente enlace!

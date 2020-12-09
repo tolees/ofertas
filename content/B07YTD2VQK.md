@@ -10,8 +10,11 @@ author: ring
 slug: B07YTD2VQK
 description:
 actualPrice: 5.5 EUR
+currency: EUR
+price: 5.5
 comparePrice: 9.69 EUR
 inStock: true
+prodname: Kickboxer Blu-Ray [Blu-ray]
 ---
 
 Ahora mismo tienes [Kickboxer Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07YTD2VQK/?tag=tolees-21) a 5.5 EUR (original: 9.69 EUR) (43.24 %  de descuento) en el siguiente enlace!

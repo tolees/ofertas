@@ -10,8 +10,11 @@ author: ring
 slug: B07KTVSY8M
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Columbia Beacon Mochila  Unisex Adulto  Tapestry  Graphite  O/S
 ---
 
 Ahora mismo tienes [Columbia Beacon Mochila  Unisex Adulto  Tapestry  Graphite  O/S](https://www.amazon.es/dp/B07KTVSY8M/?tag=tolees-21) a 24.99 EUR (original: 44.99 EUR) (44.45 %  de descuento) en el siguiente enlace!

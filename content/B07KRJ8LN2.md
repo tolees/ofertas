@@ -10,8 +10,11 @@ author: ring
 slug: B07KRJ8LN2
 description:
 actualPrice: 125.24 EUR
+currency: EUR
+price: 125.24
 comparePrice: 166.99 EUR
 inStock: true
+prodname: Ultrasport F-Bike 300B - Bicicleta estática plegable con respaldo  ordenador y app  Gris Oscuro/Negro  74 x 41 x 111 cm
 ---
 
 Tienes [Ultrasport F-Bike 300B - Bicicleta estática plegable con respaldo  ordenador y app  Gris Oscuro/Negro  74 x 41 x 111 cm](https://www.amazon.es/dp/B07KRJ8LN2/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 125.24 EUR (original: 166.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0719DTNHS
 description:
 actualPrice: 43.55 EUR
+currency: EUR
+price: 43.55
 comparePrice: 80 EUR
 inStock: true
+prodname: Asics T7E3N9796  Zapatillas de Running para Hombre  Gris  Carbon/Glacier Grey/White   42.5 EU
 ---
 
 Tienes [Asics T7E3N9796  Zapatillas de Running para Hombre  Gris  Carbon/Glacier Grey/White   42.5 EU](https://www.amazon.es/dp/B0719DTNHS/?tag=tolees-21) con un 45.56 % de descuento con precio de oferta de 43.55 EUR (original: 80 EUR) en el siguiente enlace!

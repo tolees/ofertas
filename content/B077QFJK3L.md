@@ -10,8 +10,11 @@ author: ring
 slug: B077QFJK3L
 description:
 actualPrice: 56 EUR
+currency: EUR
+price: 56
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Adidas Superstar  Zapatillas de Deporte para Hombre  Blanco  Balcri/Veruni/Negbás 000   41 1/3 EU
 ---
 
 Está [Adidas Superstar  Zapatillas de Deporte para Hombre  Blanco  Balcri/Veruni/Negbás 000   41 1/3 EU](https://www.amazon.es/dp/B077QFJK3L/?tag=tolees-21) con 43.97 de descuento por 56 EUR (original: 99.95 EUR) en el siguiente enlace!

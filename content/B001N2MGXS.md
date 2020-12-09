@@ -10,8 +10,11 @@ author: ring
 slug: B001N2MGXS
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 20 EUR
 inStock: true
+prodname: Helly Hansen Logo Cap - Gorra unisex  color rojo  talla única
 ---
 
 Tienes [Helly Hansen Logo Cap - Gorra unisex  color rojo  talla única](https://www.amazon.es/dp/B001N2MGXS/?tag=tolees-21) con un 50.50 % de descuento con precio de oferta de 9.9 EUR (original: 20 EUR) en el siguiente enlace!

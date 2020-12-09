@@ -10,8 +10,11 @@ author: ring
 slug: B075WXBGP6
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Kodak Printomatic - Cámara de impresión instantánea  imprime en Papel Zink 5 x 7.6 cm con respaldo adhesivo  amarillo
 ---
 
 Está [Kodak Printomatic - Cámara de impresión instantánea  imprime en Papel Zink 5 x 7.6 cm con respaldo adhesivo  amarillo](https://www.amazon.es/dp/B075WXBGP6/?tag=tolees-21) con 50.01 de descuento por 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

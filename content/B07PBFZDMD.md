@@ -10,8 +10,11 @@ author: ring
 slug: B07PBFZDMD
 description:
 actualPrice: 8.67 EUR
+currency: EUR
+price: 8.67
 comparePrice: 14.99 EUR
 inStock: true
+prodname: JACK & JONES Jcobooster tee SS Crew Neck Camiseta  Negro  Blackschwarz   Large para Hombre
 ---
 
 Ahora mismo tienes [JACK & JONES Jcobooster tee SS Crew Neck Camiseta  Negro  Blackschwarz   Large para Hombre](https://www.amazon.es/dp/B07PBFZDMD/?tag=tolees-21) a 8.67 EUR (original: 14.99 EUR) (42.16 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KCWLMVD
 description:
 actualPrice: 14.63 EUR
+currency: EUR
+price: 14.63
 comparePrice: 30 EUR
 inStock: true
+prodname: Hurley Eyes ON The Horizon PRM tee SS Camisetas  Hombre  Track Red  XL
 ---
 
 Ahora mismo tienes [Hurley Eyes ON The Horizon PRM tee SS Camisetas  Hombre  Track Red  XL](https://www.amazon.es/dp/B07KCWLMVD/?tag=tolees-21) a 14.63 EUR (original: 30 EUR) (51.23 %  de descuento) en el siguiente enlace!

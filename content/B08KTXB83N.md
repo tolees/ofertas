@@ -10,8 +10,11 @@ author: ring
 slug: B08KTXB83N
 description:
 actualPrice: 6.0 EUR
+currency: EUR
+price: 6.0
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Bullitt [Blu-ray]
 ---
 
 Está [Bullitt [Blu-ray]](https://www.amazon.es/dp/B08KTXB83N/?tag=tolees-21) con 45.40 de descuento por 6.0 EUR (original: 10.99 EUR) en el siguiente enlace!

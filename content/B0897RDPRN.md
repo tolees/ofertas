@@ -10,8 +10,11 @@ author: ring
 slug: B0897RDPRN
 description:
 actualPrice: 99.95 EUR
+currency: EUR
+price: 99.95
 comparePrice: 179.95 EUR
 inStock: true
+prodname: Aktive 54083 - Cama elástica 254 cm diámetro Aktive Sports
 ---
 
 Está [Aktive 54083 - Cama elástica 254 cm diámetro Aktive Sports](https://www.amazon.es/dp/B0897RDPRN/?tag=tolees-21) con 44.46 de descuento por 99.95 EUR (original: 179.95 EUR) en el siguiente enlace!

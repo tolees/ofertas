@@ -10,8 +10,11 @@ author: ring
 slug: B01M7VAW1B
 description:
 actualPrice: 22.95 EUR
+currency: EUR
+price: 22.95
 comparePrice: 34.95 EUR
 inStock: true
+prodname: adidas Tiro Tb Bolsa de Deporte  Unisex Adulto  Azul  Azul / Azufue / Blanco   S
 ---
 
 Ahora mismo tienes [adidas Tiro Tb Bolsa de Deporte  Unisex Adulto  Azul  Azul / Azufue / Blanco   S](https://www.amazon.es/dp/B01M7VAW1B/?tag=tolees-21) a 22.95 EUR (original: 34.95 EUR) (34.33 %  de descuento) en el siguiente enlace!

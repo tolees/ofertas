@@ -10,8 +10,11 @@ author: ring
 slug: B07DVPLF9G
 description:
 actualPrice: 27.95 EUR
+currency: EUR
+price: 27.95
 comparePrice: 70 EUR
 inStock: true
+prodname: Levi s Modern Hm Hoodie Capucha  Azul  Sky Captain 0003   Medium para Hombre
 ---
 
 Tienes [Levi s Modern Hm Hoodie Capucha  Azul  Sky Captain 0003   Medium para Hombre](https://www.amazon.es/dp/B07DVPLF9G/?tag=tolees-21) con un 60.07 % de descuento con precio de oferta de 27.95 EUR (original: 70 EUR) en el siguiente enlace!

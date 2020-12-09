@@ -10,8 +10,11 @@ author: ring
 slug: B07P8RXJW1
 description:
 actualPrice: 0.01 EUR
+currency: EUR
+price: 0.01
 comparePrice: 27.83 EUR
 inStock: true
+prodname: DoreenBow - Perchero para Abrigos en la Puerta con 5 Ganchos para Ropa  salón o Dormitorio
 ---
 
 Ahora mismo tienes [DoreenBow - Perchero para Abrigos en la Puerta con 5 Ganchos para Ropa  salón o Dormitorio](https://www.amazon.es/dp/B07P8RXJW1/?tag=tolees-21) a 0.01 EUR (original: 27.83 EUR) (99.96 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07D32YQYK
 description:
 actualPrice: 11.89 EUR
+currency: EUR
+price: 11.89
 comparePrice: 19.98 EUR
 inStock: true
+prodname: Gancho Pared Planta Soporte Colgante para Colgar las Cestas de Flores De Hierro
 ---
 
 Tienes [Gancho Pared Planta Soporte Colgante para Colgar las Cestas de Flores De Hierro](https://www.amazon.es/dp/B07D32YQYK/?tag=tolees-21) con un 40.49 % de descuento con precio de oferta de 11.89 EUR (original: 19.98 EUR) en el siguiente enlace!

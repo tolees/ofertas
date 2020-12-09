@@ -10,8 +10,11 @@ author: ring
 slug: B07BPPGLZ4
 description:
 actualPrice: 64.17 EUR
+currency: EUR
+price: 64.17
 comparePrice: 109.0 EUR
 inStock: true
+prodname: Camper Damen Alright Pumps  Pink  Black 1   35 EU
 ---
 
 Tienes [Camper Damen Alright Pumps  Pink  Black 1   35 EU](https://www.amazon.es/dp/B07BPPGLZ4/?tag=tolees-21) con un 41.13 % de descuento con precio de oferta de 64.17 EUR (original: 109.0 EUR) en el siguiente enlace!

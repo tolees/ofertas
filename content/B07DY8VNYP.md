@@ -10,8 +10,11 @@ author: ring
 slug: B07DY8VNYP
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Quiksilver Molokai Nitro  Zapatos de Playa y Piscina para Hombre  Azul Blue/Black Xkbk  41 EU
 ---
 
 Está [Quiksilver Molokai Nitro  Zapatos de Playa y Piscina para Hombre  Azul Blue/Black Xkbk  41 EU](https://www.amazon.es/dp/B07DY8VNYP/?tag=tolees-21) con 25.21 de descuento por 14.95 EUR (original: 19.99 EUR) en el siguiente enlace!

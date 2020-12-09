@@ -10,8 +10,11 @@ author: ring
 slug: B07WTGPLQN
 description:
 actualPrice: 9.3 EUR
+currency: EUR
+price: 9.3
 comparePrice: 15.5 EUR
 inStock: true
+prodname: Marca Amazon - Solimo Maquinilla de afeitar de 5 hojas para hombre con recortador 3 en 1 y 4 recambios
 ---
 
 Tienes [Marca Amazon - Solimo Maquinilla de afeitar de 5 hojas para hombre con recortador 3 en 1 y 4 recambios](https://www.amazon.es/dp/B07WTGPLQN/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 9.3 EUR (original: 15.5 EUR) en el siguiente enlace!

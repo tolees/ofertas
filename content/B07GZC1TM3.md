@@ -10,8 +10,11 @@ author: ring
 slug: B07GZC1TM3
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Wonyered Altavoces Inalámbrico Reloj Bluetooth Portátil Despertador Digital Radio FM Pantalla LCD Regulable con Alarma Dual Soporte Llamada Manos Libres
 ---
 
 Está [Wonyered Altavoces Inalámbrico Reloj Bluetooth Portátil Despertador Digital Radio FM Pantalla LCD Regulable con Alarma Dual Soporte Llamada Manos Libres](https://www.amazon.es/dp/B07GZC1TM3/?tag=tolees-21) con 55.57 de descuento por 15.99 EUR (original: 35.99 EUR) en el siguiente enlace!

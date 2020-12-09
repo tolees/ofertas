@@ -10,8 +10,11 @@ author: ring
 slug: B07FQMH6G1
 description:
 actualPrice: 30.81 EUR
+currency: EUR
+price: 30.81
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Landry Step  Mocasines para Hombre  Azul  Navy Suede-   42 EU
 ---
 
 Está [Clarks Landry Step  Mocasines para Hombre  Azul  Navy Suede-   42 EU](https://www.amazon.es/dp/B07FQMH6G1/?tag=tolees-21) con 61.46 de descuento por 30.81 EUR (original: 79.95 EUR) en el siguiente enlace!

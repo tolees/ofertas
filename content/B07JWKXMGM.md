@@ -10,8 +10,11 @@ author: ring
 slug: B07JWKXMGM
 description:
 actualPrice: 41.95 EUR
+currency: EUR
+price: 41.95
 comparePrice: 65 EUR
 inStock: true
+prodname: Lacoste Mh7092  Bañador Hombre  Amarillo  Physalis/Calanque 79l   Large
 ---
 
 Está [Lacoste Mh7092  Bañador Hombre  Amarillo  Physalis/Calanque 79l   Large](https://www.amazon.es/dp/B07JWKXMGM/?tag=tolees-21) con 35.46 de descuento por 41.95 EUR (original: 65 EUR) en el siguiente enlace!

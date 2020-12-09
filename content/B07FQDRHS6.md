@@ -10,8 +10,11 @@ author: ring
 slug: B07FQDRHS6
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Repelente de Mosquitos Que Funcional y Compacto para Repeler Ratones  Ratas  Moscas  Cucarachas  Arañas  Mosquitos  Hormigas，Seguro & No Desprende Mal Olor & No Hace El Ruidito Molesto
 ---
 
 Ahora mismo tienes [Repelente de Mosquitos Que Funcional y Compacto para Repeler Ratones  Ratas  Moscas  Cucarachas  Arañas  Mosquitos  Hormigas，Seguro & No Desprende Mal Olor & No Hace El Ruidito Molesto](https://www.amazon.es/dp/B07FQDRHS6/?tag=tolees-21) a 21.99 EUR (original: 39.99 EUR) (45.01 %  de descuento) en el siguiente enlace!

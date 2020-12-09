@@ -10,8 +10,11 @@ author: ring
 slug: B01HMCVOVC
 description:
 actualPrice: 14.01 EUR
+currency: EUR
+price: 14.01
 comparePrice: 39.95 EUR
 inStock: true
+prodname: VERO MODA VMSAFINA LS OVERSIZE CARDIGAN DNM  chaqueta punto Mujer  Azul  Navy Blazer   34  Talla del fabricante: X-Small 
 ---
 
 Está [VERO MODA VMSAFINA LS OVERSIZE CARDIGAN DNM  chaqueta punto Mujer  Azul  Navy Blazer   34  Talla del fabricante: X-Small ](https://www.amazon.es/dp/B01HMCVOVC/?tag=tolees-21) con 64.93 de descuento por 14.01 EUR (original: 39.95 EUR) en el siguiente enlace!

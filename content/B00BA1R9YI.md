@@ -10,8 +10,11 @@ author: ring
 slug: B00BA1R9YI
 description:
 actualPrice: 32.59 EUR
+currency: EUR
+price: 32.59
 comparePrice: 60 EUR
 inStock: true
+prodname: Nike 819303 Zapatillas  Mujer   Light Bone/Fresh Mint/Midnight Fog   38 EU
 ---
 
 Está [Nike 819303 Zapatillas  Mujer   Light Bone/Fresh Mint/Midnight Fog   38 EU](https://www.amazon.es/dp/B00BA1R9YI/?tag=tolees-21) con 45.68 de descuento por 32.59 EUR (original: 60 EUR) en el siguiente enlace!

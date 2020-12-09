@@ -10,8 +10,11 @@ author: ring
 slug: B00TFDDO6A
 description:
 actualPrice: 361.73 EUR
+currency: EUR
+price: 361.73
 comparePrice: 659 EUR
 inStock: true
+prodname: Canon EOS M3 - Cámara réflex Digital de 24.7 MP  Pantalla táctil 3"  estabilizador óptico  grabación de vídeo   Color Negro - Kit Cuerpo cámara con Objetivo Canon EF-M 18-55mm f/3.5-5.6 IS STM
 ---
 
 Ahora mismo tienes [Canon EOS M3 - Cámara réflex Digital de 24.7 MP  Pantalla táctil 3"  estabilizador óptico  grabación de vídeo   Color Negro - Kit Cuerpo cámara con Objetivo Canon EF-M 18-55mm f/3.5-5.6 IS STM](https://www.amazon.es/dp/B00TFDDO6A/?tag=tolees-21) a 361.73 EUR (original: 659 EUR) (45.11 %  de descuento) en el siguiente enlace!

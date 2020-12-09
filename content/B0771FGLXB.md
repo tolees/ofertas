@@ -10,8 +10,11 @@ author: ring
 slug: B0771FGLXB
 description:
 actualPrice: 119.99 EUR
+currency: EUR
+price: 119.99
 comparePrice: 219.99 EUR
 inStock: true
+prodname: IntimaTe WM Heart Racing Silla  Gaming Silla  Silla Ergonómica Silla con Reposacabeza Apoyo y Cojín Lumbar  Cuero Sintético PU  para Los Jugadores de PC Gamer  Azul 
 ---
 
 Ahora mismo tienes [IntimaTe WM Heart Racing Silla  Gaming Silla  Silla Ergonómica Silla con Reposacabeza Apoyo y Cojín Lumbar  Cuero Sintético PU  para Los Jugadores de PC Gamer  Azul ](https://www.amazon.es/dp/B0771FGLXB/?tag=tolees-21) a 119.99 EUR (original: 219.99 EUR) (45.46 %  de descuento) en el siguiente enlace!

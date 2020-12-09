@@ -10,8 +10,11 @@ author: ring
 slug: B07T6JFCV2
 description:
 actualPrice: 10.98 EUR
+currency: EUR
+price: 10.98
 comparePrice: 22.95 EUR
 inStock: true
+prodname: Toy Story 4 [Blu-ray]
 ---
 
 Está [Toy Story 4 [Blu-ray]](https://www.amazon.es/dp/B07T6JFCV2/?tag=tolees-21) con 52.16 de descuento por 10.98 EUR (original: 22.95 EUR) en el siguiente enlace!

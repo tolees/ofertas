@@ -10,8 +10,11 @@ author: ring
 slug: B08JGHBZBD
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 21.99 EUR
 inStock: true
+prodname: WOEOA Soporte Movil Bicicleta para Otterbox Funda  Soporte Movil Moto Anti Vibración Porta Movil Bici Accesorios Moto Compatible con iPhone 11 Pro MAX/XS MAX/XR  Samsung S20 y Otro 4.7"-7" Móvil
 ---
 
 Tienes [WOEOA Soporte Movil Bicicleta para Otterbox Funda  Soporte Movil Moto Anti Vibración Porta Movil Bici Accesorios Moto Compatible con iPhone 11 Pro MAX/XS MAX/XR  Samsung S20 y Otro 4.7"-7" Móvil](https://www.amazon.es/dp/B08JGHBZBD/?tag=tolees-21) con un 27.29 % de descuento con precio de oferta de 15.99 EUR (original: 21.99 EUR) en el siguiente enlace!

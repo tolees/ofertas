@@ -10,8 +10,11 @@ author: ring
 slug: B07L8KMST9
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 178.46 EUR
 inStock: true
+prodname: Inglesina Sketch - Silla de paseo ligera y compacta  color rojo
 ---
 
 Ahora mismo tienes [Inglesina Sketch - Silla de paseo ligera y compacta  color rojo](https://www.amazon.es/dp/B07L8KMST9/?tag=tolees-21) a 99.99 EUR (original: 178.46 EUR) (43.97 %  de descuento) en el siguiente enlace!

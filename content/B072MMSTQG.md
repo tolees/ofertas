@@ -10,8 +10,11 @@ author: ring
 slug: B072MMSTQG
 description:
 actualPrice: 85.99 EUR
+currency: EUR
+price: 85.99
 comparePrice: 158.99 EUR
 inStock: true
+prodname: Chaussures Salming Viper 4
 ---
 
 Ahora mismo tienes [Chaussures Salming Viper 4](https://www.amazon.es/dp/B072MMSTQG/?tag=tolees-21) a 85.99 EUR (original: 158.99 EUR) (45.91 %  de descuento) en el siguiente enlace!

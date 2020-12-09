@@ -10,8 +10,11 @@ author: ring
 slug: B076KDWDDX
 description:
 actualPrice: 16.22 EUR
+currency: EUR
+price: 16.22
 comparePrice: 24.99 EUR
 inStock: true
+prodname: JACK & JONES Jacnew Camo Trunks 3 Pack Bóxer  Negro  Black Detail:Black   Large  Hombre
 ---
 
 Está [JACK & JONES Jacnew Camo Trunks 3 Pack Bóxer  Negro  Black Detail:Black   Large  Hombre](https://www.amazon.es/dp/B076KDWDDX/?tag=tolees-21) con 35.09 de descuento por 16.22 EUR (original: 24.99 EUR) en el siguiente enlace!

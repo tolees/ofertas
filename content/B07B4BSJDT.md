@@ -10,8 +10,11 @@ author: ring
 slug: B07B4BSJDT
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Ifecco aumentado el proyector de la onda del océano  N negro 
 ---
 
 Ahora mismo tienes [Ifecco aumentado el proyector de la onda del océano  N negro ](https://www.amazon.es/dp/B07B4BSJDT/?tag=tolees-21) a 6.99 EUR (original: 39.99 EUR) (82.52 %  de descuento) en el siguiente enlace!

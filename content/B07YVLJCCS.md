@@ -10,8 +10,11 @@ author: ring
 slug: B07YVLJCCS
 description:
 actualPrice: 16.79 EUR
+currency: EUR
+price: 16.79
 comparePrice: 23.99 EUR
 inStock: true
+prodname: Maybelline New York - Cofre de 3 Pintalabios Superstay Matte Ink  Edición Limitada Ashley Longshore  Incluye los Tonos 20 Pioneer  40 Believer y 120 Artist
 ---
 
 Está [Maybelline New York - Cofre de 3 Pintalabios Superstay Matte Ink  Edición Limitada Ashley Longshore  Incluye los Tonos 20 Pioneer  40 Believer y 120 Artist](https://www.amazon.es/dp/B07YVLJCCS/?tag=tolees-21) con 30.01 de descuento por 16.79 EUR (original: 23.99 EUR) en el siguiente enlace!

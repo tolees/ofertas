@@ -10,8 +10,11 @@ author: ring
 slug: B07CZWM39M
 description:
 actualPrice: 110.99 EUR
+currency: EUR
+price: 110.99
 comparePrice: 159.95 EUR
 inStock: true
+prodname: Salomon XA Pro 3D GTX  Zapatillas de Running para Hombre  Rojo  Red Dahlia/Black/Barbados Cherry   45 1/3 EU
 ---
 
 Tienes [Salomon XA Pro 3D GTX  Zapatillas de Running para Hombre  Rojo  Red Dahlia/Black/Barbados Cherry   45 1/3 EU](https://www.amazon.es/dp/B07CZWM39M/?tag=tolees-21) con un 30.61 % de descuento con precio de oferta de 110.99 EUR (original: 159.95 EUR) en el siguiente enlace!

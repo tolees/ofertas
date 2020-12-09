@@ -10,8 +10,11 @@ author: ring
 slug: B07FGP4MYY
 description:
 actualPrice: 10.25 EUR
+currency: EUR
+price: 10.25
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Esprit 088ee1k009  Camisa Manga Larga Mujer  Azul  Navy 400   Small
 ---
 
 Ahora mismo tienes [Esprit 088ee1k009  Camisa Manga Larga Mujer  Azul  Navy 400   Small](https://www.amazon.es/dp/B07FGP4MYY/?tag=tolees-21) a 10.25 EUR (original: 25.99 EUR) (60.56 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B011KMSNXM
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Sabrent [6-Pack 22AWG Cables Micro USB de 1 pie de Alta Velocidad Cables USB 2.0 A Macho a Micro B para Sincronización y Carga [Negro]  CB-UM61 
 ---
 
 Está [Sabrent [6-Pack 22AWG Cables Micro USB de 1 pie de Alta Velocidad Cables USB 2.0 A Macho a Micro B para Sincronización y Carga [Negro]  CB-UM61 ](https://www.amazon.es/dp/B011KMSNXM/?tag=tolees-21) con 50.03 de descuento por 7.99 EUR (original: 15.99 EUR) en el siguiente enlace!

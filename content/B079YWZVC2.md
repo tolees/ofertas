@@ -10,8 +10,11 @@ author: ring
 slug: B079YWZVC2
 description:
 actualPrice: 49.98 EUR
+currency: EUR
+price: 49.98
 comparePrice: 114.16 EUR
 inStock: true
+prodname: adidas X_PLR  Zapatillas para Hombre  Negro Core Black/Gum 0  42 EU
 ---
 
 Ahora mismo tienes [adidas X_PLR  Zapatillas para Hombre  Negro Core Black/Gum 0  42 EU](https://www.amazon.es/dp/B079YWZVC2/?tag=tolees-21) a 49.98 EUR (original: 114.16 EUR) (56.22 %  de descuento) en el siguiente enlace!

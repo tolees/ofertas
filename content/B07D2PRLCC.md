@@ -10,8 +10,11 @@ author: ring
 slug: B07D2PRLCC
 description:
 actualPrice: 47.97 EUR
+currency: EUR
+price: 47.97
 comparePrice: 85 EUR
 inStock: true
+prodname: Gant TG. Logo Full Zip Hoodie  Vestido Niñas  Rosa  Light Pink Melange   15 años  Talla del Fabricante: 170 
 ---
 
 Ahora mismo tienes [Gant TG. Logo Full Zip Hoodie  Vestido Niñas  Rosa  Light Pink Melange   15 años  Talla del Fabricante: 170 ](https://www.amazon.es/dp/B07D2PRLCC/?tag=tolees-21) a 47.97 EUR (original: 85 EUR) (43.56 %  de descuento) en el siguiente enlace!

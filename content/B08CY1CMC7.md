@@ -10,8 +10,11 @@ author: ring
 slug: B08CY1CMC7
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: LK Funda para Samsung Galaxy A71  Carcasa Anti-Choques  Anti-Arañazos HD Clara Case Cover con Vidrio Templado Screen Protector[2 Pack] para Samsung Galaxy A71 - Clara
 ---
 
 Tienes [LK Funda para Samsung Galaxy A71  Carcasa Anti-Choques  Anti-Arañazos HD Clara Case Cover con Vidrio Templado Screen Protector[2 Pack] para Samsung Galaxy A71 - Clara](https://www.amazon.es/dp/B08CY1CMC7/?tag=tolees-21) con un 37.52 % de descuento con precio de oferta de 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

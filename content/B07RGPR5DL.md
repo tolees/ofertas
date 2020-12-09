@@ -10,8 +10,11 @@ author: ring
 slug: B07RGPR5DL
 description:
 actualPrice: 11.29 EUR
+currency: EUR
+price: 11.29
 comparePrice: 30 EUR
 inStock: true
+prodname: Luzoeo Sandalias Chancletas para Mujer Verano 2019 Bohemias Zapatillas de la Plataforma para Interior y Al Aire Libre
 ---
 
 Ahora mismo tienes [Luzoeo Sandalias Chancletas para Mujer Verano 2019 Bohemias Zapatillas de la Plataforma para Interior y Al Aire Libre](https://www.amazon.es/dp/B07RGPR5DL/?tag=tolees-21) a 11.29 EUR (original: 30 EUR) (62.37 %  de descuento) en el siguiente enlace!

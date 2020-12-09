@@ -10,8 +10,11 @@ author: ring
 slug: B07HN89XDZ
 description:
 actualPrice: 149.0 EUR
+currency: EUR
+price: 149.0
 comparePrice: 239.0 EUR
 inStock: true
+prodname: Cecotec Conga Serie 1090 1400 Pa  Tecnología iTech Space  Aspira  Barre  Friega y Pasa la Mopa  5 Modos  160 min Autonomía  Programable y con Cepillo Mascotas  Negro
 ---
 
 Ahora mismo tienes [Cecotec Conga Serie 1090 1400 Pa  Tecnología iTech Space  Aspira  Barre  Friega y Pasa la Mopa  5 Modos  160 min Autonomía  Programable y con Cepillo Mascotas  Negro](https://www.amazon.es/dp/B07HN89XDZ/?tag=tolees-21) a 149.0 EUR (original: 239.0 EUR) (37.66 %  de descuento) en el siguiente enlace!

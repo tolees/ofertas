@@ -10,8 +10,11 @@ author: ring
 slug: B081YTJ7ZX
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 15.19 EUR
 inStock: true
+prodname: EBL Multifuncional Cargador de Pilas  Rápido Cargador Plug para AA AAA Ni-MH Ni-CD 9V Pilas Recargables con Indicadora LED  100-240 V CA
 ---
 
 Ahora mismo tienes [EBL Multifuncional Cargador de Pilas  Rápido Cargador Plug para AA AAA Ni-MH Ni-CD 9V Pilas Recargables con Indicadora LED  100-240 V CA](https://www.amazon.es/dp/B081YTJ7ZX/?tag=tolees-21) a 7.99 EUR (original: 15.19 EUR) (47.40 %  de descuento) en el siguiente enlace!

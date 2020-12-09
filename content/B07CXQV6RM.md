@@ -10,8 +10,11 @@ author: ring
 slug: B07CXQV6RM
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Sedhoom Cortador de Verduras En Trozos Picadora de Verduras 3 Cuchillas de Acero Inoxidable Cortador Verudra de Alimentos para Picar Tomates Cebollas Huevos Verduras Frutas Ensalada
 ---
 
 Tienes [Sedhoom Cortador de Verduras En Trozos Picadora de Verduras 3 Cuchillas de Acero Inoxidable Cortador Verudra de Alimentos para Picar Tomates Cebollas Huevos Verduras Frutas Ensalada](https://www.amazon.es/dp/B07CXQV6RM/?tag=tolees-21) con un 40.76 % de descuento con precio de oferta de 15.99 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07C1LFPFH
 description:
 actualPrice: 8.23 EUR
+currency: EUR
+price: 8.23
 comparePrice: 11.99 EUR
 inStock: true
+prodname: UMIPUBO Mujer Blusa 3/4 Manga Camisas Elegante Camisetas Primavera Verano Cuello en V Tops  M  Blanco 
 ---
 
 Tienes [UMIPUBO Mujer Blusa 3/4 Manga Camisas Elegante Camisetas Primavera Verano Cuello en V Tops  M  Blanco ](https://www.amazon.es/dp/B07C1LFPFH/?tag=tolees-21) con un 31.36 % de descuento con precio de oferta de 8.23 EUR (original: 11.99 EUR) en el siguiente enlace!

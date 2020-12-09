@@ -10,8 +10,11 @@ author: ring
 slug: B000NLZAME
 description:
 actualPrice: 1.68 EUR
+currency: EUR
+price: 1.68
 comparePrice: 2.99 EUR
 inStock: true
+prodname: Rapesco - Caja de 5000 grapas 26 / 6 mm  uso standard en la mayoría de grapadoras
 ---
 
 Tienes [Rapesco - Caja de 5000 grapas 26 / 6 mm  uso standard en la mayoría de grapadoras](https://www.amazon.es/dp/B000NLZAME/?tag=tolees-21) con un 43.81 % de descuento con precio de oferta de 1.68 EUR (original: 2.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07VVDWFVP
 description:
 actualPrice: 44.47 EUR
+currency: EUR
+price: 44.47
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Skechers Solar Fuse Cosmic View  Zapatillas  Rosa Claro Malla Rosa Claro Borde Rosa Ltpk  36 EU
 ---
 
 Está [Skechers Solar Fuse Cosmic View  Zapatillas  Rosa Claro Malla Rosa Claro Borde Rosa Ltpk  36 EU](https://www.amazon.es/dp/B07VVDWFVP/?tag=tolees-21) con 36.43 de descuento por 44.47 EUR (original: 69.95 EUR) en el siguiente enlace!

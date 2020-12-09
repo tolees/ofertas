@@ -10,8 +10,11 @@ author: ring
 slug: B01FLWMZPY
 description:
 actualPrice: 55.8 EUR
+currency: EUR
+price: 55.8
 comparePrice: 170 EUR
 inStock: true
+prodname: Salewa Trektail Gore-Tex Halbschuh  Zapatos de High Rise Senderismo Unisex Adulto  Azul  Dark Denim/Mineral Red 0356   37 EU
 ---
 
 Ahora mismo tienes [Salewa Trektail Gore-Tex Halbschuh  Zapatos de High Rise Senderismo Unisex Adulto  Azul  Dark Denim/Mineral Red 0356   37 EU](https://www.amazon.es/dp/B01FLWMZPY/?tag=tolees-21) a 55.8 EUR (original: 170 EUR) (67.18 %  de descuento) en el siguiente enlace!

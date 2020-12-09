@@ -10,8 +10,11 @@ author: ring
 slug: B082TJ5ZZC
 description:
 actualPrice: 61.11 EUR
+currency: EUR
+price: 61.11
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Lacoste Lerond 0120 1 CFA  Zapatillas para Mujer  Blanc Wht Lt Pnk  42 EU
 ---
 
 Ahora mismo tienes [Lacoste Lerond 0120 1 CFA  Zapatillas para Mujer  Blanc Wht Lt Pnk  42 EU](https://www.amazon.es/dp/B082TJ5ZZC/?tag=tolees-21) a 61.11 EUR (original: 99.0 EUR) (38.27 %  de descuento) en el siguiente enlace!

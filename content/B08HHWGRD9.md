@@ -10,8 +10,11 @@ author: ring
 slug: B08HHWGRD9
 description:
 actualPrice: 28.71 EUR
+currency: EUR
+price: 28.71
 comparePrice: 39.89 EUR
 inStock: true
+prodname: PC Webcam  2K Full HD Cámara Web con Enfoque Automático  Micrófono Integrado Cancelación de Ruido  Plug and Play  Giratorio de 360°  USB Webcam para Videollamadas  Estudio  Conferencia  Grabación
 ---
 
 Tienes [PC Webcam  2K Full HD Cámara Web con Enfoque Automático  Micrófono Integrado Cancelación de Ruido  Plug and Play  Giratorio de 360°  USB Webcam para Videollamadas  Estudio  Conferencia  Grabación](https://www.amazon.es/dp/B08HHWGRD9/?tag=tolees-21) con un 28.03 % de descuento con precio de oferta de 28.71 EUR (original: 39.89 EUR) en el siguiente enlace!

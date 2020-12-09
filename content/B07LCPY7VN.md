@@ -10,8 +10,11 @@ author: ring
 slug: B07LCPY7VN
 description:
 actualPrice: 78.15 EUR
+currency: EUR
+price: 78.15
 comparePrice: 137 EUR
 inStock: true
+prodname: PANAMA JACK Manhattan  Zapatillas Altas para Hombre  Beige  Camel C1   41 EU
 ---
 
 Está [PANAMA JACK Manhattan  Zapatillas Altas para Hombre  Beige  Camel C1   41 EU](https://www.amazon.es/dp/B07LCPY7VN/?tag=tolees-21) con 42.96 de descuento por 78.15 EUR (original: 137 EUR) en el siguiente enlace!

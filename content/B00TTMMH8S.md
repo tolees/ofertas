@@ -10,8 +10,11 @@ author: ring
 slug: B00TTMMH8S
 description:
 actualPrice: 7.79 EUR
+currency: EUR
+price: 7.79
 comparePrice: 17.9 EUR
 inStock: true
+prodname: Luigi di Focenza 1636  Bóxer para Hombre  Schwarz 001 Medium
 ---
 
 Tienes [Luigi di Focenza 1636  Bóxer para Hombre  Schwarz 001 Medium](https://www.amazon.es/dp/B00TTMMH8S/?tag=tolees-21) con un 56.48 % de descuento con precio de oferta de 7.79 EUR (original: 17.9 EUR) en el siguiente enlace!

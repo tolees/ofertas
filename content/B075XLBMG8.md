@@ -10,8 +10,11 @@ author: ring
 slug: B075XLBMG8
 description:
 actualPrice: 16.96 EUR
+currency: EUR
+price: 16.96
 comparePrice: 51.28 EUR
 inStock: true
+prodname: SEWOR lupa mecanismo japonés de cuarzo reloj de bolsillo con cadena de moda doble  Metal y piel   Oro 
 ---
 
 Ahora mismo tienes [SEWOR lupa mecanismo japonés de cuarzo reloj de bolsillo con cadena de moda doble  Metal y piel   Oro ](https://www.amazon.es/dp/B075XLBMG8/?tag=tolees-21) a 16.96 EUR (original: 51.28 EUR) (66.93 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B075PY8JFK
 description:
 actualPrice: 21.8 EUR
+currency: EUR
+price: 21.8
 comparePrice: 29.95 EUR
 inStock: true
+prodname: BLACK+DECKER BDCSFL20C-QW Atornillador con Batería de Litio  5 NM  180 RPM con linterna LED 35 lúmenes  incluye 2 puntas y cargador  3.6 V
 ---
 
 Está [BLACK+DECKER BDCSFL20C-QW Atornillador con Batería de Litio  5 NM  180 RPM con linterna LED 35 lúmenes  incluye 2 puntas y cargador  3.6 V](https://www.amazon.es/dp/B075PY8JFK/?tag=tolees-21) con 27.21 de descuento por 21.8 EUR (original: 29.95 EUR) en el siguiente enlace!

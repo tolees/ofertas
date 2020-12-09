@@ -10,8 +10,11 @@ author: ring
 slug: B07D9FGRH1
 description:
 actualPrice: 69.88 EUR
+currency: EUR
+price: 69.88
 comparePrice: 100 EUR
 inStock: true
+prodname: Levi s 501 Original Vaqueros  Azul  Sponge St 2698  W40/L32 para Hombre
 ---
 
 Tienes [Levi s 501 Original Vaqueros  Azul  Sponge St 2698  W40/L32 para Hombre](https://www.amazon.es/dp/B07D9FGRH1/?tag=tolees-21) con un 30.12 % de descuento con precio de oferta de 69.88 EUR (original: 100 EUR) en el siguiente enlace!

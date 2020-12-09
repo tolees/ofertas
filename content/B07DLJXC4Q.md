@@ -10,8 +10,11 @@ author: ring
 slug: B07DLJXC4Q
 description:
 actualPrice: 13.56 EUR
+currency: EUR
+price: 13.56
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Springfield 6Fo-Biker Antelina  Chaqueta para Hombre   Azul Marino 10   Small  Tamaño del Fabricante:S 
 ---
 
 Tienes [Springfield 6Fo-Biker Antelina  Chaqueta para Hombre   Azul Marino 10   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07DLJXC4Q/?tag=tolees-21) con un 72.87 % de descuento con precio de oferta de 13.56 EUR (original: 49.99 EUR) en el siguiente enlace!

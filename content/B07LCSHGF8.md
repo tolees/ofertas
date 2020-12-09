@@ -10,8 +10,11 @@ author: ring
 slug: B07LCSHGF8
 description:
 actualPrice: 20.95 EUR
+currency: EUR
+price: 20.95
 comparePrice: 40 EUR
 inStock: true
+prodname: Birkenstock Arizona EVA  Sandalias de Punta Descubierta para Mujer  Rosa Coral  38 EU
 ---
 
 Está [Birkenstock Arizona EVA  Sandalias de Punta Descubierta para Mujer  Rosa Coral  38 EU](https://www.amazon.es/dp/B07LCSHGF8/?tag=tolees-21) con 47.63 de descuento por 20.95 EUR (original: 40 EUR) en el siguiente enlace!

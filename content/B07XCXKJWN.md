@@ -10,8 +10,11 @@ author: ring
 slug: B07XCXKJWN
 description:
 actualPrice: 13.93 EUR
+currency: EUR
+price: 13.93
 comparePrice: 20.99 EUR
 inStock: true
+prodname: Wilkinson Sword Pack Ffp ECO box Quattro Titanium - Kit de maquinilla de afeitar de 4 hojas de Titanio para hombre + 17 recambios de cuchillas  afeitado manual masculino
 ---
 
 Tienes [Wilkinson Sword Pack Ffp ECO box Quattro Titanium - Kit de maquinilla de afeitar de 4 hojas de Titanio para hombre + 17 recambios de cuchillas  afeitado manual masculino](https://www.amazon.es/dp/B07XCXKJWN/?tag=tolees-21) con un 33.64 % de descuento con precio de oferta de 13.93 EUR (original: 20.99 EUR) en el siguiente enlace!

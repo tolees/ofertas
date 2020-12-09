@@ -10,8 +10,11 @@ author: ring
 slug: B07VS51FXG
 description:
 actualPrice: 50.37 EUR
+currency: EUR
+price: 50.37
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Malone Vaqueros  Stone Blue Zl  27W / 30L para Hombre
 ---
 
 Ahora mismo tienes [Lee Malone Vaqueros  Stone Blue Zl  27W / 30L para Hombre](https://www.amazon.es/dp/B07VS51FXG/?tag=tolees-21) a 50.37 EUR (original: 99.95 EUR) (49.60 %  de descuento) en el siguiente enlace!

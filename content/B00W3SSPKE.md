@@ -10,8 +10,11 @@ author: ring
 slug: B00W3SSPKE
 description:
 actualPrice: 5.83 EUR
+currency: EUR
+price: 5.83
 comparePrice: 18.49 EUR
 inStock: true
+prodname: Joma - Camiseta Terra Negro-Blanco m/c para Hombre
 ---
 
 Ahora mismo tienes [Joma - Camiseta Terra Negro-Blanco m/c para Hombre](https://www.amazon.es/dp/B00W3SSPKE/?tag=tolees-21) a 5.83 EUR (original: 18.49 EUR) (68.47 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B079SSNXBV
 description:
 actualPrice: 35.9 EUR
+currency: EUR
+price: 35.9
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Desigual TS_Aleia  Camiseta Mujer   Negro 2000 
 ---
 
 Está [Desigual TS_Aleia  Camiseta Mujer   Negro 2000 ](https://www.amazon.es/dp/B079SSNXBV/?tag=tolees-21) con 28.13 de descuento por 35.9 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B016BU1YEI
 description:
 actualPrice: 10.0 EUR
+currency: EUR
+price: 10.0
 comparePrice: 16.61 EUR
 inStock: true
+prodname: SafeLightPro F2 - Gafas de protección para depilación HPL/IPL  Protección UV
 ---
 
 Está [SafeLightPro F2 - Gafas de protección para depilación HPL/IPL  Protección UV](https://www.amazon.es/dp/B016BU1YEI/?tag=tolees-21) con 39.80 de descuento por 10.0 EUR (original: 16.61 EUR) en el siguiente enlace!

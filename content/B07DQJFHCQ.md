@@ -10,8 +10,11 @@ author: ring
 slug: B07DQJFHCQ
 description:
 actualPrice: 25.49 EUR
+currency: EUR
+price: 25.49
 comparePrice: 55 EUR
 inStock: true
+prodname: Burton Oak Sudadera  Niños  Azul  Mood Indigo Heather   S
 ---
 
 Ahora mismo tienes [Burton Oak Sudadera  Niños  Azul  Mood Indigo Heather   S](https://www.amazon.es/dp/B07DQJFHCQ/?tag=tolees-21) a 25.49 EUR (original: 55 EUR) (53.65 %  de descuento) en el siguiente enlace!

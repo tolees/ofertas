@@ -10,8 +10,11 @@ author: ring
 slug: B07PKWNJ23
 description:
 actualPrice: 14.3 EUR
+currency: EUR
+price: 14.3
 comparePrice: 23.96 EUR
 inStock: true
+prodname: find. Flat Leather Pull On Botines  Marrón  Leopard Spiga   37 EU
 ---
 
 Tienes [find. Flat Leather Pull On Botines  Marrón  Leopard Spiga   37 EU](https://www.amazon.es/dp/B07PKWNJ23/?tag=tolees-21) con un 40.32 % de descuento con precio de oferta de 14.3 EUR (original: 23.96 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KG8K3TC
 description:
 actualPrice: 19.49 EUR
+currency: EUR
+price: 19.49
 comparePrice: 39.49 EUR
 inStock: true
+prodname: Asmuse™ 5W Mini Amplificador Combo para guitarras Bajo Eléctrico Instrumentos Amp con efecto de overdrive y Batería Recargable 9V
 ---
 
 Ahora mismo tienes [Asmuse™ 5W Mini Amplificador Combo para guitarras Bajo Eléctrico Instrumentos Amp con efecto de overdrive y Batería Recargable 9V](https://www.amazon.es/dp/B07KG8K3TC/?tag=tolees-21) a 19.49 EUR (original: 39.49 EUR) (50.65 %  de descuento) en el siguiente enlace!

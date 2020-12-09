@@ -10,8 +10,11 @@ author: ring
 slug: B00MGRAC30
 description:
 actualPrice: 14.43 EUR
+currency: EUR
+price: 14.43
 comparePrice: 19.99 EUR
 inStock: true
+prodname: HP Essential Top Load 15.6" - Funda bandolera para portátil de hasta 39 6 cm  color gris
 ---
 
 Tienes [HP Essential Top Load 15.6" - Funda bandolera para portátil de hasta 39 6 cm  color gris](https://www.amazon.es/dp/B00MGRAC30/?tag=tolees-21) con un 27.81 % de descuento con precio de oferta de 14.43 EUR (original: 19.99 EUR) en el siguiente enlace!

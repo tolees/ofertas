@@ -10,8 +10,11 @@ author: ring
 slug: B07JB51YHJ
 description:
 actualPrice: 29.74 EUR
+currency: EUR
+price: 29.74
 comparePrice: 43.99 EUR
 inStock: true
+prodname: TACKLIFE 1/2" Llave Dinamométrica Profesional  42-210NM  Llave de Torque con Cabezal Reversible de 24T  Alta Precisión de ±4%  Barra de Extensión  3/8" Reductor  Caja Portátil  para Autos - HTW2B
 ---
 
 Tienes [TACKLIFE 1/2" Llave Dinamométrica Profesional  42-210NM  Llave de Torque con Cabezal Reversible de 24T  Alta Precisión de ±4%  Barra de Extensión  3/8" Reductor  Caja Portátil  para Autos - HTW2B](https://www.amazon.es/dp/B07JB51YHJ/?tag=tolees-21) con un 32.39 % de descuento con precio de oferta de 29.74 EUR (original: 43.99 EUR) en el siguiente enlace!

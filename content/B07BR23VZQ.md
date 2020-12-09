@@ -10,8 +10,11 @@ author: ring
 slug: B07BR23VZQ
 description:
 actualPrice: 169.0 EUR
+currency: EUR
+price: 169.0
 comparePrice: 249.0 EUR
 inStock: true
+prodname: ASUS VG255H - Monitor de Gaming de 24.5" Full-HD  1920x1080  75 Hz  1 ms  DVI  HDMI x2 y Display port  FreeSync  GameFast Input  tecnología antiparpadeo  color Negro
 ---
 
 Está [ASUS VG255H - Monitor de Gaming de 24.5" Full-HD  1920x1080  75 Hz  1 ms  DVI  HDMI x2 y Display port  FreeSync  GameFast Input  tecnología antiparpadeo  color Negro](https://www.amazon.es/dp/B07BR23VZQ/?tag=tolees-21) con 32.13 de descuento por 169.0 EUR (original: 249.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00EANTW4I
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Pepe Jeans Eggo PM500465 Camiseta  Azul  Navy 595   Large para Hombre
 ---
 
 Ahora mismo tienes [Pepe Jeans Eggo PM500465 Camiseta  Azul  Navy 595   Large para Hombre](https://www.amazon.es/dp/B00EANTW4I/?tag=tolees-21) a 13.99 EUR (original: 25.0 EUR) (44.04 %  de descuento) en el siguiente enlace!

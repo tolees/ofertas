@@ -10,8 +10,11 @@ author: ring
 slug: B07XDL7NS9
 description:
 actualPrice: 109.0 EUR
+currency: EUR
+price: 109.0
 comparePrice: 149.0 EUR
 inStock: true
+prodname: maquina-de-coser-singer-m2105
 ---
 
 Está [maquina-de-coser-singer-m2105](https://www.amazon.es/dp/B07XDL7NS9/?tag=tolees-21) con 26.85 de descuento por 109.0 EUR (original: 149.0 EUR) en el siguiente enlace!

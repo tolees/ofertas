@@ -10,8 +10,11 @@ author: ring
 slug: B07BJHQ4BC
 description:
 actualPrice: 50 EUR
+currency: EUR
+price: 50
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW Revend Skinny Jeans  Negro  rinsed 8970-082   34W / 38L para Hombre
 ---
 
 Está [G-STAR RAW Revend Skinny Jeans  Negro  rinsed 8970-082   34W / 38L para Hombre](https://www.amazon.es/dp/B07BJHQ4BC/?tag=tolees-21) con 49.97 de descuento por 50 EUR (original: 99.95 EUR) en el siguiente enlace!

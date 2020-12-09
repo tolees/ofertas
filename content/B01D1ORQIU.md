@@ -10,8 +10,11 @@ author: ring
 slug: B01D1ORQIU
 description:
 actualPrice: 20.74 EUR
+currency: EUR
+price: 20.74
 comparePrice: 29.63 EUR
 inStock: true
+prodname: Sika multiseal – Banda de Sellado Autoadhesivo a frío  gris  3733
 ---
 
 Está [Sika multiseal – Banda de Sellado Autoadhesivo a frío  gris  3733](https://www.amazon.es/dp/B01D1ORQIU/?tag=tolees-21) con 30.00 de descuento por 20.74 EUR (original: 29.63 EUR) en el siguiente enlace!

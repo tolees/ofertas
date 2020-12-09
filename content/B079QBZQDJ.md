@@ -10,8 +10,11 @@ author: ring
 slug: B079QBZQDJ
 description:
 actualPrice: 83.48 EUR
+currency: EUR
+price: 83.48
 comparePrice: 150 EUR
 inStock: true
+prodname: Hackett London POWERFLEX  Vaqueros Straight para Hombre  Gris  Grey 945  35W / 32L
 ---
 
 Tienes [Hackett London POWERFLEX  Vaqueros Straight para Hombre  Gris  Grey 945  35W / 32L](https://www.amazon.es/dp/B079QBZQDJ/?tag=tolees-21) con un 44.35 % de descuento con precio de oferta de 83.48 EUR (original: 150 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B009RJURDK
 description:
 actualPrice: 51.08 EUR
+currency: EUR
+price: 51.08
 comparePrice: 72.97 EUR
 inStock: true
+prodname: Cat Footwear Colorado Botas  Hombre  Beige  Honey   42 EU
 ---
 
 Ahora mismo tienes [Cat Footwear Colorado Botas  Hombre  Beige  Honey   42 EU](https://www.amazon.es/dp/B009RJURDK/?tag=tolees-21) a 51.08 EUR (original: 72.97 EUR) (30.00 %  de descuento) en el siguiente enlace!

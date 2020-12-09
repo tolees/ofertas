@@ -10,8 +10,11 @@ author: ring
 slug: B01NBVEFCZ
 description:
 actualPrice: 15.46 EUR
+currency: EUR
+price: 15.46
 comparePrice: 46 EUR
 inStock: true
+prodname: find. Bailarinas con Puntera y Pulsera al Tobillo para Mujer  Varios Colores  Black/Beige   40 EU
 ---
 
 Está [find. Bailarinas con Puntera y Pulsera al Tobillo para Mujer  Varios Colores  Black/Beige   40 EU](https://www.amazon.es/dp/B01NBVEFCZ/?tag=tolees-21) con 66.39 de descuento por 15.46 EUR (original: 46 EUR) en el siguiente enlace!

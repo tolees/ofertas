@@ -10,8 +10,11 @@ author: ring
 slug: B00IRIAJCQ
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 18.47 EUR
 inStock: true
+prodname: Durex Vibrador Mini Intense Orgasmic Pure Pleasure  Dildo Consolador Clítoris Mujer  Estándar
 ---
 
 Ahora mismo tienes [Durex Vibrador Mini Intense Orgasmic Pure Pleasure  Dildo Consolador Clítoris Mujer  Estándar](https://www.amazon.es/dp/B00IRIAJCQ/?tag=tolees-21) a 9.99 EUR (original: 18.47 EUR) (45.91 %  de descuento) en el siguiente enlace!

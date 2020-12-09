@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ31GWZ
 description:
 actualPrice: 56.95 EUR
+currency: EUR
+price: 56.95
 comparePrice: 119.0 EUR
 inStock: true
+prodname: Lacoste LA PIQUEE 119 1 CMA  Zapatillas para Hombre  Azul  Navy/White/Red   41 EU
 ---
 
 Tienes [Lacoste LA PIQUEE 119 1 CMA  Zapatillas para Hombre  Azul  Navy/White/Red   41 EU](https://www.amazon.es/dp/B07DJ31GWZ/?tag=tolees-21) con un 52.14 % de descuento con precio de oferta de 56.95 EUR (original: 119.0 EUR) en el siguiente enlace!

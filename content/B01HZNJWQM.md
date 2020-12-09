@@ -10,8 +10,11 @@ author: ring
 slug: B01HZNJWQM
 description:
 actualPrice: 569.57 EUR
+currency: EUR
+price: 569.57
 comparePrice: 1540 EUR
 inStock: true
+prodname: FLEX Colchón muelles continuos Palace Visco Firmeza Media  150 x 200 cm
 ---
 
 Ahora mismo tienes [FLEX Colchón muelles continuos Palace Visco Firmeza Media  150 x 200 cm](https://www.amazon.es/dp/B01HZNJWQM/?tag=tolees-21) a 569.57 EUR (original: 1540 EUR) (63.01 %  de descuento) en el siguiente enlace!

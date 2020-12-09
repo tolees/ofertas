@@ -10,8 +10,11 @@ author: ring
 slug: B07HHFF8VV
 description:
 actualPrice: 9.86 EUR
+currency: EUR
+price: 9.86
 comparePrice: 16.99 EUR
 inStock: true
+prodname: shafier Largo Capa Vampiro Diablo con Capucha Terciopelo Disfraz de Halloween para Mujeres Hombres Carnaval Fiesta Disfraces Talla Unica  Morado 
 ---
 
 Tienes [shafier Largo Capa Vampiro Diablo con Capucha Terciopelo Disfraz de Halloween para Mujeres Hombres Carnaval Fiesta Disfraces Talla Unica  Morado ](https://www.amazon.es/dp/B07HHFF8VV/?tag=tolees-21) con un 41.97 % de descuento con precio de oferta de 9.86 EUR (original: 16.99 EUR) en el siguiente enlace!

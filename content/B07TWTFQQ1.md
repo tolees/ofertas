@@ -10,8 +10,11 @@ author: ring
 slug: B07TWTFQQ1
 description:
 actualPrice: 39.49 EUR
+currency: EUR
+price: 39.49
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Wrangler Skinny Crop Pantalones  Naranja  Paradise Pink Xld   W30/L32  Talla del Fabricante: 30/32  para Mujer
 ---
 
 Está [Wrangler Skinny Crop Pantalones  Naranja  Paradise Pink Xld   W30/L32  Talla del Fabricante: 30/32  para Mujer](https://www.amazon.es/dp/B07TWTFQQ1/?tag=tolees-21) con 56.10 de descuento por 39.49 EUR (original: 89.95 EUR) en el siguiente enlace!

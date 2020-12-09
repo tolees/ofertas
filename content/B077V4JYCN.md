@@ -10,8 +10,11 @@ author: ring
 slug: B077V4JYCN
 description:
 actualPrice: 10.12 EUR
+currency: EUR
+price: 10.12
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Railway Empire - Limited Day One Edition
 ---
 
 Ahora mismo tienes [Railway Empire - Limited Day One Edition](https://www.amazon.es/dp/B077V4JYCN/?tag=tolees-21) a 10.12 EUR (original: 59.99 EUR) (83.13 %  de descuento) en el siguiente enlace!

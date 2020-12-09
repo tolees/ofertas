@@ -10,8 +10,11 @@ author: ring
 slug: B07BZ3ZL2P
 description:
 actualPrice: 42.08 EUR
+currency: EUR
+price: 42.08
 comparePrice: 74.9 EUR
 inStock: true
+prodname: Hilfiger Denim Tommy Jeans Light Textile Low  Zapatillas para Mujer  Rosa  Rose Cloud 646   41 EU
 ---
 
 Ahora mismo tienes [Hilfiger Denim Tommy Jeans Light Textile Low  Zapatillas para Mujer  Rosa  Rose Cloud 646   41 EU](https://www.amazon.es/dp/B07BZ3ZL2P/?tag=tolees-21) a 42.08 EUR (original: 74.9 EUR) (43.82 %  de descuento) en el siguiente enlace!

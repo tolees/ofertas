@@ -10,8 +10,11 @@ author: ring
 slug: B07TTPDMC7
 description:
 actualPrice: 12.0 EUR
+currency: EUR
+price: 12.0
 comparePrice: 24.0 EUR
 inStock: true
+prodname: Kipling Creativity S  Cartera para Mujer  Gris  Curiosity Grey   14.5x9.5x5 cm
 ---
 
 Ahora mismo tienes [Kipling Creativity S  Cartera para Mujer  Gris  Curiosity Grey   14.5x9.5x5 cm](https://www.amazon.es/dp/B07TTPDMC7/?tag=tolees-21) a 12.0 EUR (original: 24.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

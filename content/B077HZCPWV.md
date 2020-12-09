@@ -10,8 +10,11 @@ author: ring
 slug: B077HZCPWV
 description:
 actualPrice: 25.45 EUR
+currency: EUR
+price: 25.45
 comparePrice: 50 EUR
 inStock: true
+prodname: Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa para mujer  Gris  035   M
 ---
 
 Tienes [Under Armour 1320610 UA Slim Leg Crop - Pantalón de felpa para mujer  Gris  035   M](https://www.amazon.es/dp/B077HZCPWV/?tag=tolees-21) con un 49.10 % de descuento con precio de oferta de 25.45 EUR (original: 50 EUR) en el siguiente enlace!

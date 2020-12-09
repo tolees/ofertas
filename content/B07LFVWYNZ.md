@@ -10,8 +10,11 @@ author: ring
 slug: B07LFVWYNZ
 description:
 actualPrice: 26.02 EUR
+currency: EUR
+price: 26.02
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Pepe Jeans Shark Plain  Sandalias con Plataforma para Mujer  Azul  585marine 585   37 EU
 ---
 
 Está [Pepe Jeans Shark Plain  Sandalias con Plataforma para Mujer  Azul  585marine 585   37 EU](https://www.amazon.es/dp/B07LFVWYNZ/?tag=tolees-21) con 56.56 de descuento por 26.02 EUR (original: 59.9 EUR) en el siguiente enlace!

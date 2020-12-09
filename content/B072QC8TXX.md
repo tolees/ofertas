@@ -10,8 +10,11 @@ author: ring
 slug: B072QC8TXX
 description:
 actualPrice: 12.13 EUR
+currency: EUR
+price: 12.13
 comparePrice: 32 EUR
 inStock: true
+prodname: RED WAGON Zapatillas con Lazo Niñas  Gris  Grey   24 EU
 ---
 
 Ahora mismo tienes [RED WAGON Zapatillas con Lazo Niñas  Gris  Grey   24 EU](https://www.amazon.es/dp/B072QC8TXX/?tag=tolees-21) a 12.13 EUR (original: 32 EUR) (62.09 %  de descuento) en el siguiente enlace!

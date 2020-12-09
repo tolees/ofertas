@@ -10,8 +10,11 @@ author: ring
 slug: B000CCZ7ZE
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 89.0 EUR
 inStock: true
+prodname: Ralph Lauren Polo Blue Eau de Toilette Vaporizador 200 ml
 ---
 
 Ahora mismo tienes [Ralph Lauren Polo Blue Eau de Toilette Vaporizador 200 ml](https://www.amazon.es/dp/B000CCZ7ZE/?tag=tolees-21) a 59.99 EUR (original: 89.0 EUR) (32.60 %  de descuento) en el siguiente enlace!

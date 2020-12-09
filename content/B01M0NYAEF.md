@@ -10,8 +10,11 @@ author: ring
 slug: B01M0NYAEF
 description:
 actualPrice: 99.9 EUR
+currency: EUR
+price: 99.9
 comparePrice: 149.9 EUR
 inStock: true
+prodname: Wacom Bamboo Folio - Digitalizador de notas  con funda  para pantallas de 9.7"  Bluetooth  Inkspace  color negro  A5
 ---
 
 Está [Wacom Bamboo Folio - Digitalizador de notas  con funda  para pantallas de 9.7"  Bluetooth  Inkspace  color negro  A5](https://www.amazon.es/dp/B01M0NYAEF/?tag=tolees-21) con 33.36 de descuento por 99.9 EUR (original: 149.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DXR29ZQ
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Trípode de Cámara - Trípode Completo de 151cm para Canon Sony Nikon  Trípode Compacto Puede Carga Peso MAX 5KG  Trípode Flexible con Soporte para Móvil  Trípode Portátil Incluye Bolsa de Transporte
 ---
 
 Ahora mismo tienes [Trípode de Cámara - Trípode Completo de 151cm para Canon Sony Nikon  Trípode Compacto Puede Carga Peso MAX 5KG  Trípode Flexible con Soporte para Móvil  Trípode Portátil Incluye Bolsa de Transporte](https://www.amazon.es/dp/B07DXR29ZQ/?tag=tolees-21) a 35.99 EUR (original: 69.99 EUR) (48.58 %  de descuento) en el siguiente enlace!

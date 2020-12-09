@@ -10,8 +10,11 @@ author: ring
 slug: B07NPGXJFN
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Skechers Elite Flex-Lochbay  Zapatillas para Hombre  Blanco  White/Red/Blue Wrdb   41.5 EU
 ---
 
 Ahora mismo tienes [Skechers Elite Flex-Lochbay  Zapatillas para Hombre  Blanco  White/Red/Blue Wrdb   41.5 EU](https://www.amazon.es/dp/B07NPGXJFN/?tag=tolees-21) a 34.95 EUR (original: 69.95 EUR) (50.04 %  de descuento) en el siguiente enlace!

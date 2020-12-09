@@ -10,8 +10,11 @@ author: ring
 slug: B07FHHLMDJ
 description:
 actualPrice: 12.05 EUR
+currency: EUR
+price: 12.05
 comparePrice: 39.99 EUR
 inStock: true
+prodname: JACK & JONES Jcovincent Shawl Neck  suéter para Hombre  Rojo  Port Royale Knit Fit   Medium
 ---
 
 Tienes [JACK & JONES Jcovincent Shawl Neck  suéter para Hombre  Rojo  Port Royale Knit Fit   Medium](https://www.amazon.es/dp/B07FHHLMDJ/?tag=tolees-21) con un 69.87 % de descuento con precio de oferta de 12.05 EUR (original: 39.99 EUR) en el siguiente enlace!

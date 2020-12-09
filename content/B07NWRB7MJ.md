@@ -10,8 +10,11 @@ author: ring
 slug: B07NWRB7MJ
 description:
 actualPrice: 23.25 EUR
+currency: EUR
+price: 23.25
 comparePrice: 31 EUR
 inStock: true
+prodname: Disney Pijama Manga Corta Dumbo para Mujer  Color Azul  Talla XS
 ---
 
 Tienes [Disney Pijama Manga Corta Dumbo para Mujer  Color Azul  Talla XS](https://www.amazon.es/dp/B07NWRB7MJ/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 23.25 EUR (original: 31 EUR) en el siguiente enlace!

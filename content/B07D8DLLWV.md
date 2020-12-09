@@ -10,8 +10,11 @@ author: ring
 slug: B07D8DLLWV
 description:
 actualPrice: 56.57 EUR
+currency: EUR
+price: 56.57
 comparePrice: 104 EUR
 inStock: true
+prodname: Munich Nou  Zapatillas Unisex Adulto  Gris  Gris/Negro 56   44 EU
 ---
 
 Tienes [Munich Nou  Zapatillas Unisex Adulto  Gris  Gris/Negro 56   44 EU](https://www.amazon.es/dp/B07D8DLLWV/?tag=tolees-21) con un 45.61 % de descuento con precio de oferta de 56.57 EUR (original: 104 EUR) en el siguiente enlace!

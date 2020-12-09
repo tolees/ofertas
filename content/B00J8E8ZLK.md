@@ -10,8 +10,11 @@ author: ring
 slug: B00J8E8ZLK
 description:
 actualPrice: 55.55 EUR
+currency: EUR
+price: 55.55
 comparePrice: 108.2 EUR
 inStock: true
+prodname: HyperX Fury - Memoria RAM de 8 GB  1600 MHz DDR3 Non-ECC CL10 DIMM  Kit 2x4 GB   Color Azul
 ---
 
 Está [HyperX Fury - Memoria RAM de 8 GB  1600 MHz DDR3 Non-ECC CL10 DIMM  Kit 2x4 GB   Color Azul](https://www.amazon.es/dp/B00J8E8ZLK/?tag=tolees-21) con 48.66 de descuento por 55.55 EUR (original: 108.2 EUR) en el siguiente enlace!

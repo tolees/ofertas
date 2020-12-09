@@ -10,8 +10,11 @@ author: ring
 slug: B07PDPNJD4
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Funda Teclado Samsung Galaxy Tab S4  Funda para Samsung Tab S4 10.5 2018 Modelo SM-T830/T835/T837 con Teclado Español[QWERTY Español]  Cubierta Magnética Delgada-Teclado Bluetooth Inalámbrico  Azul 
 ---
 
 Está [Funda Teclado Samsung Galaxy Tab S4  Funda para Samsung Tab S4 10.5 2018 Modelo SM-T830/T835/T837 con Teclado Español[QWERTY Español]  Cubierta Magnética Delgada-Teclado Bluetooth Inalámbrico  Azul ](https://www.amazon.es/dp/B07PDPNJD4/?tag=tolees-21) con 35.01 de descuento por 25.99 EUR (original: 39.99 EUR) en el siguiente enlace!

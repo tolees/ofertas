@@ -10,8 +10,11 @@ author: ring
 slug: B078BQGNMQ
 description:
 actualPrice: 32.13 EUR
+currency: EUR
+price: 32.13
 comparePrice: 45.9 EUR
 inStock: true
+prodname: New Balance 373  Zapatillas Unisex Adulto  Azul Blau  44.5 EU
 ---
 
 Tienes [New Balance 373  Zapatillas Unisex Adulto  Azul Blau  44.5 EU](https://www.amazon.es/dp/B078BQGNMQ/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 32.13 EUR (original: 45.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07F7K9HLC
 description:
 actualPrice: 79.9 EUR
+currency: EUR
+price: 79.9
 comparePrice: 200 EUR
 inStock: true
+prodname: Burton Evergreen Synthetic Hooded Insulator Chaqueta Funcional  Mujer  marrón  Rose Brown   L
 ---
 
 Está [Burton Evergreen Synthetic Hooded Insulator Chaqueta Funcional  Mujer  marrón  Rose Brown   L](https://www.amazon.es/dp/B07F7K9HLC/?tag=tolees-21) con 60.05 de descuento por 79.9 EUR (original: 200 EUR) en el siguiente enlace!

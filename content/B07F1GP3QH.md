@@ -10,8 +10,11 @@ author: ring
 slug: B07F1GP3QH
 description:
 actualPrice: 18.51 EUR
+currency: EUR
+price: 18.51
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Mustang High Top Sneaker  Zapatillas Altas para Mujer  Gris  Graphit 259   41 EU
 ---
 
 Tienes [Mustang High Top Sneaker  Zapatillas Altas para Mujer  Gris  Graphit 259   41 EU](https://www.amazon.es/dp/B07F1GP3QH/?tag=tolees-21) con un 73.54 % de descuento con precio de oferta de 18.51 EUR (original: 69.95 EUR) en el siguiente enlace!

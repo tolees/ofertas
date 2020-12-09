@@ -10,8 +10,11 @@ author: ring
 slug: B07GS2Y2QC
 description:
 actualPrice: 16.98 EUR
+currency: EUR
+price: 16.98
 comparePrice: 30.0 EUR
 inStock: true
+prodname: TTYAOVO Bebé Niña 1er cumpleaños 3pcs Conjuntos con Diadema de Unicornio y Mameluco y Faldas 1 año 05 Púrpura
 ---
 
 Está [TTYAOVO Bebé Niña 1er cumpleaños 3pcs Conjuntos con Diadema de Unicornio y Mameluco y Faldas 1 año 05 Púrpura](https://www.amazon.es/dp/B07GS2Y2QC/?tag=tolees-21) con 43.40 de descuento por 16.98 EUR (original: 30.0 EUR) en el siguiente enlace!

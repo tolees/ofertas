@@ -10,8 +10,11 @@ author: ring
 slug: B01K2W2QVQ
 description:
 actualPrice: 2.25 EUR
+currency: EUR
+price: 2.25
 comparePrice: 9.34 EUR
 inStock: true
+prodname: GLOBO- Bolas 40mm Neon Col 3 Piezas en d/Box  29106    1 
 ---
 
 Ahora mismo tienes [GLOBO- Bolas 40mm Neon Col 3 Piezas en d/Box  29106    1 ](https://www.amazon.es/dp/B01K2W2QVQ/?tag=tolees-21) a 2.25 EUR (original: 9.34 EUR) (75.91 %  de descuento) en el siguiente enlace!

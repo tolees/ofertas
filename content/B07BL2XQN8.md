@@ -10,8 +10,11 @@ author: ring
 slug: B07BL2XQN8
 description:
 actualPrice: 81.95 EUR
+currency: EUR
+price: 81.95
 comparePrice: 130 EUR
 inStock: true
+prodname: New Balance Summit KOM  Zapatillas de Running para Asfalto para Hombre  Negro  Phantom/RGB Green/Silver Metallic GG   43 EU
 ---
 
 Tienes [New Balance Summit KOM  Zapatillas de Running para Asfalto para Hombre  Negro  Phantom/RGB Green/Silver Metallic GG   43 EU](https://www.amazon.es/dp/B07BL2XQN8/?tag=tolees-21) con un 36.96 % de descuento con precio de oferta de 81.95 EUR (original: 130 EUR) en el siguiente enlace!

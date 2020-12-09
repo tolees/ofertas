@@ -10,8 +10,11 @@ author: ring
 slug: B07ZK4ZMC9
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Microsoft RJN-00003 – Bluetooth Mouse Negro
 ---
 
 Ahora mismo tienes [Microsoft RJN-00003 – Bluetooth Mouse Negro](https://www.amazon.es/dp/B07ZK4ZMC9/?tag=tolees-21) a 16.99 EUR (original: 22.99 EUR) (26.10 %  de descuento) en el siguiente enlace!

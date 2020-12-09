@@ -10,8 +10,11 @@ author: ring
 slug: B07JFTHW8C
 description:
 actualPrice: 94.99 EUR
+currency: EUR
+price: 94.99
 comparePrice: 129.98 EUR
 inStock: true
+prodname: Amazon Echo  2.ª generación   tela de color gris oscuro + Amazon Smart Plug  compatible con Alexa
 ---
 
 Está [Amazon Echo  2.ª generación   tela de color gris oscuro + Amazon Smart Plug  compatible con Alexa](https://www.amazon.es/dp/B07JFTHW8C/?tag=tolees-21) con 26.92 de descuento por 94.99 EUR (original: 129.98 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B015Q8YULK
 description:
 actualPrice: 83.95 EUR
+currency: EUR
+price: 83.95
 comparePrice: 159.95 EUR
 inStock: true
+prodname: G-Star Lynn Zip-Azul Mujer
 ---
 
 Está [G-Star Lynn Zip-Azul Mujer](https://www.amazon.es/dp/B015Q8YULK/?tag=tolees-21) con 47.51 de descuento por 83.95 EUR (original: 159.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07WD5VKTS
 description:
 actualPrice: 35.01 EUR
+currency: EUR
+price: 35.01
 comparePrice: 53.99 EUR
 inStock: true
+prodname: HyperX FURY Black HX426C16FB3/8 Memoria RAM 8GB 2666MHz DDR4 CL16 DIMM 1Rx8
 ---
 
 Está [HyperX FURY Black HX426C16FB3/8 Memoria RAM 8GB 2666MHz DDR4 CL16 DIMM 1Rx8](https://www.amazon.es/dp/B07WD5VKTS/?tag=tolees-21) con 35.15 de descuento por 35.01 EUR (original: 53.99 EUR) en el siguiente enlace!

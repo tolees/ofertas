@@ -10,8 +10,11 @@ author: ring
 slug: B07TLP4CWR
 description:
 actualPrice: 67.73 EUR
+currency: EUR
+price: 67.73
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Sift Lace  Zapatillas para Mujer  Negro  Leopard Print Leopard Print   39 EU
 ---
 
 Está [Clarks Sift Lace  Zapatillas para Mujer  Negro  Leopard Print Leopard Print   39 EU](https://www.amazon.es/dp/B07TLP4CWR/?tag=tolees-21) con 32.24 de descuento por 67.73 EUR (original: 99.95 EUR) en el siguiente enlace!

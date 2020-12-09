@@ -10,8 +10,11 @@ author: ring
 slug: B07MWCF4GC
 description:
 actualPrice: 67.99 EUR
+currency: EUR
+price: 67.99
 comparePrice: 129.0 EUR
 inStock: true
+prodname: D-Link DCS-8515LH - Cámara WiFi HD con motor  con seguimiento de personas u objetos en movimiento  rotación horizontal 340°  vertical 105°  720p  infrarrojos  compatible Alexa  Google Home e IFTTT
 ---
 
 Ahora mismo tienes [D-Link DCS-8515LH - Cámara WiFi HD con motor  con seguimiento de personas u objetos en movimiento  rotación horizontal 340°  vertical 105°  720p  infrarrojos  compatible Alexa  Google Home e IFTTT](https://www.amazon.es/dp/B07MWCF4GC/?tag=tolees-21) a 67.99 EUR (original: 129.0 EUR) (47.29 %  de descuento) en el siguiente enlace!

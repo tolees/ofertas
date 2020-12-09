@@ -10,8 +10,11 @@ author: ring
 slug: B079ZVSX1M
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 28 EUR
 inStock: true
+prodname: VAIRO Short Columns Negro  S 
 ---
 
 Está [VAIRO Short Columns Negro  S ](https://www.amazon.es/dp/B079ZVSX1M/?tag=tolees-21) con 28.75 de descuento por 19.95 EUR (original: 28 EUR) en el siguiente enlace!

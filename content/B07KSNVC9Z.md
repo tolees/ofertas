@@ -10,8 +10,11 @@ author: ring
 slug: B07KSNVC9Z
 description:
 actualPrice: 13.09 EUR
+currency: EUR
+price: 13.09
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Columbia Hombre Camiseta  CSC Basic Logo  Algodón  Rosa  Rosewater   Talla: XL  1680051
 ---
 
 Ahora mismo tienes [Columbia Hombre Camiseta  CSC Basic Logo  Algodón  Rosa  Rosewater   Talla: XL  1680051](https://www.amazon.es/dp/B07KSNVC9Z/?tag=tolees-21) a 13.09 EUR (original: 24.99 EUR) (47.62 %  de descuento) en el siguiente enlace!

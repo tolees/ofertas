@@ -10,8 +10,11 @@ author: ring
 slug: B07PZCF62X
 description:
 actualPrice: 214.11 EUR
+currency: EUR
+price: 214.11
 comparePrice: 399.99 EUR
 inStock: true
+prodname: Relaxdays Soporte Monitor y Portátil para Trabajar de Pie con Bandeja para Teclado  Negro  17 5-40 x 86 x 66 cm  Hierro
 ---
 
 Está [Relaxdays Soporte Monitor y Portátil para Trabajar de Pie con Bandeja para Teclado  Negro  17 5-40 x 86 x 66 cm  Hierro](https://www.amazon.es/dp/B07PZCF62X/?tag=tolees-21) con 46.47 de descuento por 214.11 EUR (original: 399.99 EUR) en el siguiente enlace!

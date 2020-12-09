@@ -10,8 +10,11 @@ author: ring
 slug: B07DHYDZ7S
 description:
 actualPrice: 42.5 EUR
+currency: EUR
+price: 42.5
 comparePrice: 85 EUR
 inStock: true
+prodname: Lacoste Sideline 119 1 CMA  Zapatillas para Hombre  Azul  Nvy/Off Wht J18   43 EU
 ---
 
 Está [Lacoste Sideline 119 1 CMA  Zapatillas para Hombre  Azul  Nvy/Off Wht J18   43 EU](https://www.amazon.es/dp/B07DHYDZ7S/?tag=tolees-21) con 50.00 de descuento por 42.5 EUR (original: 85 EUR) en el siguiente enlace!

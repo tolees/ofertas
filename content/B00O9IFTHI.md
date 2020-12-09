@@ -10,8 +10,11 @@ author: ring
 slug: B00O9IFTHI
 description:
 actualPrice: 7.26 EUR
+currency: EUR
+price: 7.26
 comparePrice: 24.3 EUR
 inStock: true
+prodname: Stahlwille 17 17 - Llave Combinada Con Carraca
 ---
 
 Está [Stahlwille 17 17 - Llave Combinada Con Carraca](https://www.amazon.es/dp/B00O9IFTHI/?tag=tolees-21) con 70.12 de descuento por 7.26 EUR (original: 24.3 EUR) en el siguiente enlace!

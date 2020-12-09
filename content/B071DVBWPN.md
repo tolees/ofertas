@@ -10,8 +10,11 @@ author: ring
 slug: B071DVBWPN
 description:
 actualPrice: 50.05 EUR
+currency: EUR
+price: 50.05
 comparePrice: 229.95 EUR
 inStock: true
+prodname: G-STAR RAW Alaska Down Slim Hedley Wmn Chaqueta  Negro  Black 990   Medium para Mujer
 ---
 
 Está [G-STAR RAW Alaska Down Slim Hedley Wmn Chaqueta  Negro  Black 990   Medium para Mujer](https://www.amazon.es/dp/B071DVBWPN/?tag=tolees-21) con 78.23 de descuento por 50.05 EUR (original: 229.95 EUR) en el siguiente enlace!

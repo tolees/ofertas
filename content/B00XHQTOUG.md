@@ -10,8 +10,11 @@ author: ring
 slug: B00XHQTOUG
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 27.95 EUR
 inStock: true
+prodname: WMF Mr. X Salvamanteles  Acero Inoxidable Pulido
 ---
 
 Está [WMF Mr. X Salvamanteles  Acero Inoxidable Pulido](https://www.amazon.es/dp/B00XHQTOUG/?tag=tolees-21) con 28.48 de descuento por 19.99 EUR (original: 27.95 EUR) en el siguiente enlace!

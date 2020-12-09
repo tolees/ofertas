@@ -10,8 +10,11 @@ author: ring
 slug: B005MQC9HE
 description:
 actualPrice: 33.54 EUR
+currency: EUR
+price: 33.54
 comparePrice: 56.9 EUR
 inStock: true
+prodname: Smartwares 1000914 Farol clásico con conector E27  adecuado para bombillas de hasta 60 W  aluminio/cristal  Negro  1.70 m
 ---
 
 Tienes [Smartwares 1000914 Farol clásico con conector E27  adecuado para bombillas de hasta 60 W  aluminio/cristal  Negro  1.70 m](https://www.amazon.es/dp/B005MQC9HE/?tag=tolees-21) con un 41.05 % de descuento con precio de oferta de 33.54 EUR (original: 56.9 EUR) en el siguiente enlace!

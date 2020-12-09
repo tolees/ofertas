@@ -10,8 +10,11 @@ author: ring
 slug: B08KHSKJJ9
 description:
 actualPrice: 6.02 EUR
+currency: EUR
+price: 6.02
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Cantando bajo la lluvia [Blu-ray]
 ---
 
 Ahora mismo tienes [Cantando bajo la lluvia [Blu-ray]](https://www.amazon.es/dp/B08KHSKJJ9/?tag=tolees-21) a 6.02 EUR (original: 10.99 EUR) (45.22 %  de descuento) en el siguiente enlace!

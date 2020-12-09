@@ -10,8 +10,11 @@ author: ring
 slug: B007PCLI7U
 description:
 actualPrice: 15.11 EUR
+currency: EUR
+price: 15.11
 comparePrice: 23.99 EUR
 inStock: true
+prodname: Zanvic Za554 Regadera  Verde
 ---
 
 Está [Zanvic Za554 Regadera  Verde](https://www.amazon.es/dp/B007PCLI7U/?tag=tolees-21) con 37.02 de descuento por 15.11 EUR (original: 23.99 EUR) en el siguiente enlace!

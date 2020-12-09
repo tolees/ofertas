@@ -10,8 +10,11 @@ author: ring
 slug: B082LFCDLZ
 description:
 actualPrice: 43.5 EUR
+currency: EUR
+price: 43.5
 comparePrice: 58.9 EUR
 inStock: true
+prodname: find. Maud Pe-6215 Botas Chelsea  Marrón Bronceado  39 EU
 ---
 
 Ahora mismo tienes [find. Maud Pe-6215 Botas Chelsea  Marrón Bronceado  39 EU](https://www.amazon.es/dp/B082LFCDLZ/?tag=tolees-21) a 43.5 EUR (original: 58.9 EUR) (26.15 %  de descuento) en el siguiente enlace!

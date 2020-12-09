@@ -10,8 +10,11 @@ author: ring
 slug: B07G3YNLJB
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 43.55 EUR
 inStock: true
+prodname: Crucial BX500 240 GB CT240BX500SSD1 Unidad interna de estado sólido  hasta 540 MB/s  3D NAND  SATA  2.5 Pulgadas 
 ---
 
 Ahora mismo tienes [Crucial BX500 240 GB CT240BX500SSD1 Unidad interna de estado sólido  hasta 540 MB/s  3D NAND  SATA  2.5 Pulgadas ](https://www.amazon.es/dp/B07G3YNLJB/?tag=tolees-21) a 24.99 EUR (original: 43.55 EUR) (42.62 %  de descuento) en el siguiente enlace!

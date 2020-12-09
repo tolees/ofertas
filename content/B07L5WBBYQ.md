@@ -10,8 +10,11 @@ author: ring
 slug: B07L5WBBYQ
 description:
 actualPrice: 15.14 EUR
+currency: EUR
+price: 15.14
 comparePrice: 32.83 EUR
 inStock: true
+prodname: find. Buckle Leather Crocodile Sandalias con Punta Abierta  Rojo Burgundy Croc Mix  39 EU
 ---
 
 Tienes [find. Buckle Leather Crocodile Sandalias con Punta Abierta  Rojo Burgundy Croc Mix  39 EU](https://www.amazon.es/dp/B07L5WBBYQ/?tag=tolees-21) con un 53.88 % de descuento con precio de oferta de 15.14 EUR (original: 32.83 EUR) en el siguiente enlace!

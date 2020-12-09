@@ -10,8 +10,11 @@ author: ring
 slug: B01MXERTDF
 description:
 actualPrice: 3.45 EUR
+currency: EUR
+price: 3.45
 comparePrice: 6.42 EUR
 inStock: true
+prodname: I See You
 ---
 
 Tienes [I See You](https://www.amazon.es/dp/B01MXERTDF/?tag=tolees-21) con un 46.26 % de descuento con precio de oferta de 3.45 EUR (original: 6.42 EUR) en el siguiente enlace!

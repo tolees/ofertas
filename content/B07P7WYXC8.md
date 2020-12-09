@@ -10,8 +10,11 @@ author: ring
 slug: B07P7WYXC8
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Trust Gaming GXT 408 Cobra - Auriculares multiplataforma  micrófono Dual
 ---
 
 Tienes [Trust Gaming GXT 408 Cobra - Auriculares multiplataforma  micrófono Dual](https://www.amazon.es/dp/B07P7WYXC8/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08C6YZSJ3
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Collar Mamá Colgante de corazón Color de Plata Oro Acero Inoxidable Collares Mujer Regalo para Mamá Abuela Papa Madre Joyería Familiar
 ---
 
 Ahora mismo tienes [Collar Mamá Colgante de corazón Color de Plata Oro Acero Inoxidable Collares Mujer Regalo para Mamá Abuela Papa Madre Joyería Familiar](https://www.amazon.es/dp/B08C6YZSJ3/?tag=tolees-21) a 12.99 EUR (original: 26.99 EUR) (51.87 %  de descuento) en el siguiente enlace!

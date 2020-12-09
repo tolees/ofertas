@@ -10,8 +10,11 @@ author: ring
 slug: B07FQT6NCL
 description:
 actualPrice: 12.79 EUR
+currency: EUR
+price: 12.79
 comparePrice: 39.99 EUR
 inStock: true
+prodname: JACK & JONES Jorauto Sweat High Neck STS  Sudadera para Hombre  Gris Detail: Tap Shoe-White Stripe  Large
 ---
 
 Tienes [JACK & JONES Jorauto Sweat High Neck STS  Sudadera para Hombre  Gris Detail: Tap Shoe-White Stripe  Large](https://www.amazon.es/dp/B07FQT6NCL/?tag=tolees-21) con un 68.02 % de descuento con precio de oferta de 12.79 EUR (original: 39.99 EUR) en el siguiente enlace!

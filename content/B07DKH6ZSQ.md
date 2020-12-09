@@ -10,8 +10,11 @@ author: ring
 slug: B07DKH6ZSQ
 description:
 actualPrice: 59.5 EUR
+currency: EUR
+price: 59.5
 comparePrice: 85 EUR
 inStock: true
+prodname: Kipling - Gabbie S  Bolsos bandolera Mujer  Verde  Jaded Green C 
 ---
 
 Está [Kipling - Gabbie S  Bolsos bandolera Mujer  Verde  Jaded Green C ](https://www.amazon.es/dp/B07DKH6ZSQ/?tag=tolees-21) con 30.00 de descuento por 59.5 EUR (original: 85 EUR) en el siguiente enlace!

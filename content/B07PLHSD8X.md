@@ -10,8 +10,11 @@ author: ring
 slug: B07PLHSD8X
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: ZKCREATION Reloj Inteligente Pulsera Actividad con Pulsómetro Podómetro Calorie Monitoreo del sueño IP67 Impermeable Smartwatch Deportivo para Android y iOS
 ---
 
 Está [ZKCREATION Reloj Inteligente Pulsera Actividad con Pulsómetro Podómetro Calorie Monitoreo del sueño IP67 Impermeable Smartwatch Deportivo para Android y iOS](https://www.amazon.es/dp/B07PLHSD8X/?tag=tolees-21) con 45.01 de descuento por 32.99 EUR (original: 59.99 EUR) en el siguiente enlace!

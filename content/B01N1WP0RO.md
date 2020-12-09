@@ -10,8 +10,11 @@ author: ring
 slug: B01N1WP0RO
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 25.7 EUR
 inStock: true
+prodname: Joseph Joseph Surface Organizador para Fregadero  Acero Inoxidable  Plata  18x12.8x12.5 cm
 ---
 
 Tienes [Joseph Joseph Surface Organizador para Fregadero  Acero Inoxidable  Plata  18x12.8x12.5 cm](https://www.amazon.es/dp/B01N1WP0RO/?tag=tolees-21) con un 26.11 % de descuento con precio de oferta de 18.99 EUR (original: 25.7 EUR) en el siguiente enlace!

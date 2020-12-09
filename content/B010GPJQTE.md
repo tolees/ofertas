@@ -10,8 +10,11 @@ author: ring
 slug: B010GPJQTE
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Rascador Gato Altura 112cm Arbol Poste para Arañar Centro de Juegos Gatos
 ---
 
 Ahora mismo tienes [Rascador Gato Altura 112cm Arbol Poste para Arañar Centro de Juegos Gatos](https://www.amazon.es/dp/B010GPJQTE/?tag=tolees-21) a 33.99 EUR (original: 69.99 EUR) (51.44 %  de descuento) en el siguiente enlace!

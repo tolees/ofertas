@@ -10,8 +10,11 @@ author: ring
 slug: B07K1QCYG2
 description:
 actualPrice: 369.99 EUR
+currency: EUR
+price: 369.99
 comparePrice: 699.0 EUR
 inStock: true
+prodname: Apple Watch Series 4  GPS + Cellular  con caja de 40 mm de acero inoxidable en oro y correa deportiva en color piedra
 ---
 
 Está [Apple Watch Series 4  GPS + Cellular  con caja de 40 mm de acero inoxidable en oro y correa deportiva en color piedra](https://www.amazon.es/dp/B07K1QCYG2/?tag=tolees-21) con 47.07 de descuento por 369.99 EUR (original: 699.0 EUR) en el siguiente enlace!

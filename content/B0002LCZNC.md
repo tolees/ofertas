@@ -10,8 +10,11 @@ author: ring
 slug: B0002LCZNC
 description:
 actualPrice: 43.99 EUR
+currency: EUR
+price: 43.99
 comparePrice: 63.28 EUR
 inStock: true
+prodname: Fellowes Office Suites - Soporte de Monitor hasta 28"  Color Gris
 ---
 
 Ahora mismo tienes [Fellowes Office Suites - Soporte de Monitor hasta 28"  Color Gris](https://www.amazon.es/dp/B0002LCZNC/?tag=tolees-21) a 43.99 EUR (original: 63.28 EUR) (30.48 %  de descuento) en el siguiente enlace!

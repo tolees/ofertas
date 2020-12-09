@@ -10,8 +10,11 @@ author: ring
 slug: B085BQPPZP
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Modohe Tapas de Silicona Elásticas  14 Tapas Silicona Ajustables Cocina  Reutilizable Fundas Protectoras para Alimentos Tapa Tazas  Boles o Tarros Tapa del tazón  Lavavajillas  Microonda  Sin BPA
 ---
 
 Tienes [Modohe Tapas de Silicona Elásticas  14 Tapas Silicona Ajustables Cocina  Reutilizable Fundas Protectoras para Alimentos Tapa Tazas  Boles o Tarros Tapa del tazón  Lavavajillas  Microonda  Sin BPA](https://www.amazon.es/dp/B085BQPPZP/?tag=tolees-21) con un 47.09 % de descuento con precio de oferta de 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!

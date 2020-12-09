@@ -10,8 +10,11 @@ author: ring
 slug: B07VXWW5L4
 description:
 actualPrice: 1.0 EUR
+currency: EUR
+price: 1.0
 comparePrice: 1.57 EUR
 inStock: true
+prodname: Medina Mix De Pipas Y Frutos Seco Crudos 100 g  1 unidad
 ---
 
 Está [Medina Mix De Pipas Y Frutos Seco Crudos 100 g  1 unidad](https://www.amazon.es/dp/B07VXWW5L4/?tag=tolees-21) con 36.31 de descuento por 1.0 EUR (original: 1.57 EUR) en el siguiente enlace!

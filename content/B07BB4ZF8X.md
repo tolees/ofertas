@@ -10,8 +10,11 @@ author: ring
 slug: B07BB4ZF8X
 description:
 actualPrice: 50.85 EUR
+currency: EUR
+price: 50.85
 comparePrice: 75 EUR
 inStock: true
+prodname: The North Face PERFORMANCE Camisetas  Mujer  Rojo  Fiery Coral Htr   S
 ---
 
 Tienes [The North Face PERFORMANCE Camisetas  Mujer  Rojo  Fiery Coral Htr   S](https://www.amazon.es/dp/B07BB4ZF8X/?tag=tolees-21) con un 32.20 % de descuento con precio de oferta de 50.85 EUR (original: 75 EUR) en el siguiente enlace!

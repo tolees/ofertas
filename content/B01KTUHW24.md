@@ -10,8 +10,11 @@ author: ring
 slug: B01KTUHW24
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 42.85 EUR
 inStock: true
+prodname: S&R Mango Articulado Llaves de Carraca Tuerca Torsión / SET 1/2 "600 mm. Tuercas 17"  19"  21 ". Llave Extra Resistente. CALIDAD INDUSTRIAL.
 ---
 
 Está [S&R Mango Articulado Llaves de Carraca Tuerca Torsión / SET 1/2 "600 mm. Tuercas 17"  19"  21 ". Llave Extra Resistente. CALIDAD INDUSTRIAL.](https://www.amazon.es/dp/B01KTUHW24/?tag=tolees-21) con 30.01 de descuento por 29.99 EUR (original: 42.85 EUR) en el siguiente enlace!

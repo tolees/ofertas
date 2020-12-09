@@ -10,8 +10,11 @@ author: ring
 slug: B00YC0PCB6
 description:
 actualPrice: 6.52 EUR
+currency: EUR
+price: 6.52
 comparePrice: 13.84 EUR
 inStock: true
+prodname: Herbicida Roundup UltraPlus 500ml
 ---
 
 Está [Herbicida Roundup UltraPlus 500ml](https://www.amazon.es/dp/B00YC0PCB6/?tag=tolees-21) con 52.89 de descuento por 6.52 EUR (original: 13.84 EUR) en el siguiente enlace!

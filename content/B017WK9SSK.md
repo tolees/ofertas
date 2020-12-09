@@ -10,8 +10,11 @@ author: ring
 slug: B017WK9SSK
 description:
 actualPrice: 1.99 EUR
+currency: EUR
+price: 1.99
 comparePrice: 7.55 EUR
 inStock: true
+prodname: Tulipan - Negro algodón y talco gel de baño y ducha 600ml + 20% gratis Mujer
 ---
 
 Está [Tulipan - Negro algodón y talco gel de baño y ducha 600ml + 20% gratis Mujer](https://www.amazon.es/dp/B017WK9SSK/?tag=tolees-21) con 73.64 de descuento por 1.99 EUR (original: 7.55 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00J3QU8HW
 description:
 actualPrice: 9.95 EUR
+currency: EUR
+price: 9.95
 comparePrice: 25.67 EUR
 inStock: true
+prodname: Uhlsport Match Team Kit Mc Femme - Equipación de fútbol para mujer  negro   M  Tamano del Fabricante : M 
 ---
 
 Tienes [Uhlsport Match Team Kit Mc Femme - Equipación de fútbol para mujer  negro   M  Tamano del Fabricante : M ](https://www.amazon.es/dp/B00J3QU8HW/?tag=tolees-21) con un 61.24 % de descuento con precio de oferta de 9.95 EUR (original: 25.67 EUR) en el siguiente enlace!

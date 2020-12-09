@@ -10,8 +10,11 @@ author: ring
 slug: B00AUH7X6W
 description:
 actualPrice: 56.99 EUR
+currency: EUR
+price: 56.99
 comparePrice: 77.0 EUR
 inStock: true
+prodname: Cata GS 600 - Extractor de humos para cocinas  Extractor de cocina silencioso  Ventilador extractores de aire  Consumo máximo de energía: 105W  Color Blanco/ Gris
 ---
 
 Está [Cata GS 600 - Extractor de humos para cocinas  Extractor de cocina silencioso  Ventilador extractores de aire  Consumo máximo de energía: 105W  Color Blanco/ Gris](https://www.amazon.es/dp/B00AUH7X6W/?tag=tolees-21) con 25.99 de descuento por 56.99 EUR (original: 77.0 EUR) en el siguiente enlace!

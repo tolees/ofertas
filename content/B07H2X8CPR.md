@@ -10,8 +10,11 @@ author: ring
 slug: B07H2X8CPR
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 139.94 EUR
 inStock: true
+prodname: Echo Dot  3.ª generación   tela de color antracita + Philips Hue White Kit - Kit de 2 bombillas LED E27 y puente
 ---
 
 Ahora mismo tienes [Echo Dot  3.ª generación   tela de color antracita + Philips Hue White Kit - Kit de 2 bombillas LED E27 y puente](https://www.amazon.es/dp/B07H2X8CPR/?tag=tolees-21) a 69.99 EUR (original: 139.94 EUR) (49.99 %  de descuento) en el siguiente enlace!

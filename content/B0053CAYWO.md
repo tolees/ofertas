@@ -10,8 +10,11 @@ author: ring
 slug: B0053CAYWO
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 21.16 EUR
 inStock: true
+prodname: La última casa a la izquierda [Blu-ray]
 ---
 
 Tienes [La última casa a la izquierda [Blu-ray]](https://www.amazon.es/dp/B0053CAYWO/?tag=tolees-21) con un 76.42 % de descuento con precio de oferta de 4.99 EUR (original: 21.16 EUR) en el siguiente enlace!

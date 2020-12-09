@@ -10,8 +10,11 @@ author: ring
 slug: B003XDU3IA
 description:
 actualPrice: 20.45 EUR
+currency: EUR
+price: 20.45
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Vans Herren Classic T-Shirt  Weiß  WHITE-BLACK YB2   Medium
 ---
 
 Está [Vans Herren Classic T-Shirt  Weiß  WHITE-BLACK YB2   Medium](https://www.amazon.es/dp/B003XDU3IA/?tag=tolees-21) con 31.83 de descuento por 20.45 EUR (original: 30.0 EUR) en el siguiente enlace!

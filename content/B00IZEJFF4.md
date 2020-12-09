@@ -10,8 +10,11 @@ author: ring
 slug: B00IZEJFF4
 description:
 actualPrice: 34.81 EUR
+currency: EUR
+price: 34.81
 comparePrice: 50.0 EUR
 inStock: true
+prodname: Sony ICD-Bx140 - Grabadora Digital  4GB   11.5x2.1x3.9 cm  Plateado
 ---
 
 Está [Sony ICD-Bx140 - Grabadora Digital  4GB   11.5x2.1x3.9 cm  Plateado](https://www.amazon.es/dp/B00IZEJFF4/?tag=tolees-21) con 30.38 de descuento por 34.81 EUR (original: 50.0 EUR) en el siguiente enlace!

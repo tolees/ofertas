@@ -10,8 +10,11 @@ author: ring
 slug: B01HKVBU28
 description:
 actualPrice: 72.99 EUR
+currency: EUR
+price: 72.99
 comparePrice: 169 EUR
 inStock: true
+prodname: LANGRIA Colchoncillo Topper 7.6 cm de Grosor de Espuma de Memoria  Funda de Tejido Transpirable Desmontable  Blanco  200x150 cm
 ---
 
 Ahora mismo tienes [LANGRIA Colchoncillo Topper 7.6 cm de Grosor de Espuma de Memoria  Funda de Tejido Transpirable Desmontable  Blanco  200x150 cm](https://www.amazon.es/dp/B01HKVBU28/?tag=tolees-21) a 72.99 EUR (original: 169 EUR) (56.81 %  de descuento) en el siguiente enlace!

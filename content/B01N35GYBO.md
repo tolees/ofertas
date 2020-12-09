@@ -10,8 +10,11 @@ author: ring
 slug: B01N35GYBO
 description:
 actualPrice: 74.72 EUR
+currency: EUR
+price: 74.72
 comparePrice: 118.74 EUR
 inStock: true
+prodname: Enesco Disney Traditions Figurita Despreocupados Y Libres  Simba  Timon Y Pumbaa  Resina  Multicolor  38.1 x 10.2 x 19 cm
 ---
 
 Está [Enesco Disney Traditions Figurita Despreocupados Y Libres  Simba  Timon Y Pumbaa  Resina  Multicolor  38.1 x 10.2 x 19 cm](https://www.amazon.es/dp/B01N35GYBO/?tag=tolees-21) con 37.07 de descuento por 74.72 EUR (original: 118.74 EUR) en el siguiente enlace!

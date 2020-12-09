@@ -10,8 +10,11 @@ author: ring
 slug: B07NL3S6CK
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: iixpin 3 pcs Disfraz de Carnaval Cosplay de Halloween Traje de Princesa Árabe para Mujeres Chicas Conjunto de Fantasía Top + Pantalones + Diadema Disfraces Lentejuelas Fiesta Satén Azul X-Large
 ---
 
 Está [iixpin 3 pcs Disfraz de Carnaval Cosplay de Halloween Traje de Princesa Árabe para Mujeres Chicas Conjunto de Fantasía Top + Pantalones + Diadema Disfraces Lentejuelas Fiesta Satén Azul X-Large](https://www.amazon.es/dp/B07NL3S6CK/?tag=tolees-21) con 42.51 de descuento por 22.99 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07LDBK6FK
 description:
 actualPrice: 4.85 EUR
+currency: EUR
+price: 4.85
 comparePrice: 8.73 EUR
 inStock: true
+prodname: Baoblaze 2pcs Bocina de Bicicleta Recta de Apretón de Goma para Bicicletas de Montaña
 ---
 
 Ahora mismo tienes [Baoblaze 2pcs Bocina de Bicicleta Recta de Apretón de Goma para Bicicletas de Montaña](https://www.amazon.es/dp/B07LDBK6FK/?tag=tolees-21) a 4.85 EUR (original: 8.73 EUR) (44.44 %  de descuento) en el siguiente enlace!

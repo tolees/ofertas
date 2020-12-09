@@ -10,8 +10,11 @@ author: ring
 slug: B07GGT95GZ
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Alitoo Auriculares Bluetooth de Diadema Inalámbricos  Cascos Bluetooth Plegable Hi-Fi Sonido Estéreo  Negro 
 ---
 
 Tienes [Alitoo Auriculares Bluetooth de Diadema Inalámbricos  Cascos Bluetooth Plegable Hi-Fi Sonido Estéreo  Negro ](https://www.amazon.es/dp/B07GGT95GZ/?tag=tolees-21) con un 66.68 % de descuento con precio de oferta de 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!

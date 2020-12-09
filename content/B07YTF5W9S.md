@@ -10,8 +10,11 @@ author: ring
 slug: B07YTF5W9S
 description:
 actualPrice: 61.5 EUR
+currency: EUR
+price: 61.5
 comparePrice: 123.0 EUR
 inStock: true
+prodname: The Big Bang Theory - Colección Completa Temporada 1-12 [DVD]
 ---
 
 Está [The Big Bang Theory - Colección Completa Temporada 1-12 [DVD]](https://www.amazon.es/dp/B07YTF5W9S/?tag=tolees-21) con 50.00 de descuento por 61.5 EUR (original: 123.0 EUR) en el siguiente enlace!

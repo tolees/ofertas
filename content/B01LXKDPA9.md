@@ -10,8 +10,11 @@ author: ring
 slug: B01LXKDPA9
 description:
 actualPrice: 5.31 EUR
+currency: EUR
+price: 5.31
 comparePrice: 15.39 EUR
 inStock: true
+prodname: Indicode 40-149-Camiseta Hombre Negro  Black  XXL
 ---
 
 Tienes [Indicode 40-149-Camiseta Hombre Negro  Black  XXL](https://www.amazon.es/dp/B01LXKDPA9/?tag=tolees-21) con un 65.50 % de descuento con precio de oferta de 5.31 EUR (original: 15.39 EUR) en el siguiente enlace!

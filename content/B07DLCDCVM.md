@@ -10,8 +10,11 @@ author: ring
 slug: B07DLCDCVM
 description:
 actualPrice: 10.58 EUR
+currency: EUR
+price: 10.58
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Springfield 2Ba Basic Polo  Sudadera para Hombre   Gama Azules 11   Medium  Tamaño del Fabricante:M 
 ---
 
 Ahora mismo tienes [Springfield 2Ba Basic Polo  Sudadera para Hombre   Gama Azules 11   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLCDCVM/?tag=tolees-21) a 10.58 EUR (original: 19.99 EUR) (47.07 %  de descuento) en el siguiente enlace!

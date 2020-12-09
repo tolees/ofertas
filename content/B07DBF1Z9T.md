@@ -10,8 +10,11 @@ author: ring
 slug: B07DBF1Z9T
 description:
 actualPrice: 8.77 EUR
+currency: EUR
+price: 8.77
 comparePrice: 29.95 EUR
 inStock: true
+prodname: United Colors of Benetton Sweater L/s  suéter para Niños  Negro  Black 100  134  Talla del Fabricante: Large 
 ---
 
 Está [United Colors of Benetton Sweater L/s  suéter para Niños  Negro  Black 100  134  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07DBF1Z9T/?tag=tolees-21) con 70.72 de descuento por 8.77 EUR (original: 29.95 EUR) en el siguiente enlace!

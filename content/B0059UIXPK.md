@@ -10,8 +10,11 @@ author: ring
 slug: B0059UIXPK
 description:
 actualPrice: 33.81 EUR
+currency: EUR
+price: 33.81
 comparePrice: 66 EUR
 inStock: true
+prodname: Nike MD Runner 2 19-ao0265  Zapatillas de Running para Hombre  Negro Black/Anthracite/Gum Light Brown 001  46 EU
 ---
 
 Está [Nike MD Runner 2 19-ao0265  Zapatillas de Running para Hombre  Negro Black/Anthracite/Gum Light Brown 001  46 EU](https://www.amazon.es/dp/B0059UIXPK/?tag=tolees-21) con 48.77 de descuento por 33.81 EUR (original: 66 EUR) en el siguiente enlace!

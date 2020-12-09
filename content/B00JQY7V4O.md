@@ -10,8 +10,11 @@ author: ring
 slug: B00JQY7V4O
 description:
 actualPrice: 4.98 EUR
+currency: EUR
+price: 4.98
 comparePrice: 9.99 EUR
 inStock: true
+prodname: La Bella Durmiente [DVD]
 ---
 
 Ahora mismo tienes [La Bella Durmiente [DVD]](https://www.amazon.es/dp/B00JQY7V4O/?tag=tolees-21) a 4.98 EUR (original: 9.99 EUR) (50.15 %  de descuento) en el siguiente enlace!

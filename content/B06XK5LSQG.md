@@ -10,8 +10,11 @@ author: ring
 slug: B06XK5LSQG
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Maped Color  Peps Early Age Jumbo - Pack de 24 rotuladores
 ---
 
 Está [Maped Color  Peps Early Age Jumbo - Pack de 24 rotuladores](https://www.amazon.es/dp/B06XK5LSQG/?tag=tolees-21) con 27.30 de descuento por 7.99 EUR (original: 10.99 EUR) en el siguiente enlace!

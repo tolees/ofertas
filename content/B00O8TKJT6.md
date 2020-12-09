@@ -10,8 +10,11 @@ author: ring
 slug: B00O8TKJT6
 description:
 actualPrice: 12.09 EUR
+currency: EUR
+price: 12.09
 comparePrice: 41.95 EUR
 inStock: true
+prodname: Portwest S251 - Pantalones Sealtex Mar  color Amarillo  talla Small
 ---
 
 Tienes [Portwest S251 - Pantalones Sealtex Mar  color Amarillo  talla Small](https://www.amazon.es/dp/B00O8TKJT6/?tag=tolees-21) con un 71.18 % de descuento con precio de oferta de 12.09 EUR (original: 41.95 EUR) en el siguiente enlace!

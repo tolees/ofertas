@@ -10,8 +10,11 @@ author: ring
 slug: B07DKBJY3G
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 40.99 EUR
 inStock: true
+prodname: DOACT Saco de Dormir  Portable Saco de Dormir Ultra Ligero Multifuncional para Acampada Senderismo al Aire Libre  210 * 75cm 380g para Todas Las Estaciones
 ---
 
 Está [DOACT Saco de Dormir  Portable Saco de Dormir Ultra Ligero Multifuncional para Acampada Senderismo al Aire Libre  210 * 75cm 380g para Todas Las Estaciones](https://www.amazon.es/dp/B07DKBJY3G/?tag=tolees-21) con 60.99 de descuento por 15.99 EUR (original: 40.99 EUR) en el siguiente enlace!

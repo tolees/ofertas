@@ -10,8 +10,11 @@ author: ring
 slug: B01N7HTXPV
 description:
 actualPrice: 24.53 EUR
+currency: EUR
+price: 24.53
 comparePrice: 119.9 EUR
 inStock: true
+prodname: Tommy Jeans Mujer MID RISE BOOT SANDY SPBL Vaqueros  Pantalones Boot Cut Negro  Splash Black  W26/L30  Talla del fabricante: 3026 
 ---
 
 Tienes [Tommy Jeans Mujer MID RISE BOOT SANDY SPBL Vaqueros  Pantalones Boot Cut Negro  Splash Black  W26/L30  Talla del fabricante: 3026 ](https://www.amazon.es/dp/B01N7HTXPV/?tag=tolees-21) con un 79.54 % de descuento con precio de oferta de 24.53 EUR (original: 119.9 EUR) en el siguiente enlace!

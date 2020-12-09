@@ -10,8 +10,11 @@ author: ring
 slug: B079HCCMF4
 description:
 actualPrice: 11.47 EUR
+currency: EUR
+price: 11.47
 comparePrice: 45.95 EUR
 inStock: true
+prodname: Tom Tailor 5872306  Botas Slouch para Niñas  Azul  Navy 00003   29 EU
 ---
 
 Está [Tom Tailor 5872306  Botas Slouch para Niñas  Azul  Navy 00003   29 EU](https://www.amazon.es/dp/B079HCCMF4/?tag=tolees-21) con 75.04 de descuento por 11.47 EUR (original: 45.95 EUR) en el siguiente enlace!

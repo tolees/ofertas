@@ -10,8 +10,11 @@ author: ring
 slug: B01DPGU03W
 description:
 actualPrice: 8.61 EUR
+currency: EUR
+price: 8.61
 comparePrice: 79 EUR
 inStock: true
+prodname: Solo Capri - Abito Smanicato con Gonna A Pieghe  Pack  Vestido Mujer  Azul  tampone   S
 ---
 
 Está [Solo Capri - Abito Smanicato con Gonna A Pieghe  Pack  Vestido Mujer  Azul  tampone   S](https://www.amazon.es/dp/B01DPGU03W/?tag=tolees-21) con 89.10 de descuento por 8.61 EUR (original: 79 EUR) en el siguiente enlace!

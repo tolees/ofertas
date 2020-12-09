@@ -10,8 +10,11 @@ author: ring
 slug: B07H4X3CWD
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 50.68 EUR
 inStock: true
+prodname: HUAWEI Band 3 Pro Pulsera de Actividad  Unisex Adulto  Negro  240 x 120 mm
 ---
 
 Está [HUAWEI Band 3 Pro Pulsera de Actividad  Unisex Adulto  Negro  240 x 120 mm](https://www.amazon.es/dp/B07H4X3CWD/?tag=tolees-21) con 32.93 de descuento por 33.99 EUR (original: 50.68 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JYK87XW
 description:
 actualPrice: 154 EUR
+currency: EUR
+price: 154
 comparePrice: 277.94 EUR
 inStock: true
+prodname: Invicta 27549 Pro Diver  Reloj Unisex acero inoxidable Automático Esfera marrón
 ---
 
 Ahora mismo tienes [Invicta 27549 Pro Diver  Reloj Unisex acero inoxidable Automático Esfera marrón](https://www.amazon.es/dp/B07JYK87XW/?tag=tolees-21) a 154 EUR (original: 277.94 EUR) (44.59 %  de descuento) en el siguiente enlace!

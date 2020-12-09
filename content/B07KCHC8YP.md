@@ -10,8 +10,11 @@ author: ring
 slug: B07KCHC8YP
 description:
 actualPrice: 11.32 EUR
+currency: EUR
+price: 11.32
 comparePrice: 34.5 EUR
 inStock: true
+prodname: David Jones - Cm5042  Bolsos de mano Mujer  Negro  Black   15x27x31 cm  W x H L 
 ---
 
 Está [David Jones - Cm5042  Bolsos de mano Mujer  Negro  Black   15x27x31 cm  W x H L ](https://www.amazon.es/dp/B07KCHC8YP/?tag=tolees-21) con 67.19 de descuento por 11.32 EUR (original: 34.5 EUR) en el siguiente enlace!

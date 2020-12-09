@@ -10,8 +10,11 @@ author: ring
 slug: B07DS2WP6Q
 description:
 actualPrice: 30.63 EUR
+currency: EUR
+price: 30.63
 comparePrice: 55 EUR
 inStock: true
+prodname: Burton Treble Yell Mochilas  Unisex Adulto  Beige  Kelp Heather   Talla Única
 ---
 
 Está [Burton Treble Yell Mochilas  Unisex Adulto  Beige  Kelp Heather   Talla Única](https://www.amazon.es/dp/B07DS2WP6Q/?tag=tolees-21) con 44.31 de descuento por 30.63 EUR (original: 55 EUR) en el siguiente enlace!

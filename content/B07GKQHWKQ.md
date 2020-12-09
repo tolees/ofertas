@@ -10,8 +10,11 @@ author: ring
 slug: B07GKQHWKQ
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 30 EUR
 inStock: true
+prodname: LUDOS Clamor Auriculares Internos con Audio  Espuma de Memoria Generación  Cable Reforzado  Micrófono  Graves y Control de Volumen para Samsung  iPhone  Huawei  LG y Otros Smartphones
 ---
 
 Ahora mismo tienes [LUDOS Clamor Auriculares Internos con Audio  Espuma de Memoria Generación  Cable Reforzado  Micrófono  Graves y Control de Volumen para Samsung  iPhone  Huawei  LG y Otros Smartphones](https://www.amazon.es/dp/B07GKQHWKQ/?tag=tolees-21) a 14.9 EUR (original: 30 EUR) (50.33 %  de descuento) en el siguiente enlace!

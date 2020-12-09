@@ -10,8 +10,11 @@ author: ring
 slug: B07Y4ZBD8K
 description:
 actualPrice: 4.35 EUR
+currency: EUR
+price: 4.35
 comparePrice: 11.71 EUR
 inStock: true
+prodname: LAQI Componentes electrónicos Rotary Encoder Push Button Switch 5Pcs
 ---
 
 Tienes [LAQI Componentes electrónicos Rotary Encoder Push Button Switch 5Pcs](https://www.amazon.es/dp/B07Y4ZBD8K/?tag=tolees-21) con un 62.85 % de descuento con precio de oferta de 4.35 EUR (original: 11.71 EUR) en el siguiente enlace!

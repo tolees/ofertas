@@ -10,8 +10,11 @@ author: ring
 slug: B076RYMNPP
 description:
 actualPrice: 47.69 EUR
+currency: EUR
+price: 47.69
 comparePrice: 85 EUR
 inStock: true
+prodname: Under Armour UA Charged Ultimate 3.0  Zapatillas de Deporte para Hombre  Negro Radio Red/Black  44 EU
 ---
 
 Tienes [Under Armour UA Charged Ultimate 3.0  Zapatillas de Deporte para Hombre  Negro Radio Red/Black  44 EU](https://www.amazon.es/dp/B076RYMNPP/?tag=tolees-21) con un 43.89 % de descuento con precio de oferta de 47.69 EUR (original: 85 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01LWUVNUL
 description:
 actualPrice: 3.5 EUR
+currency: EUR
+price: 3.5
 comparePrice: 5.72 EUR
 inStock: true
+prodname: [Pack de 2] VERNEL Suavizante Concentrado Frescor Botella 57 lavados
 ---
 
 Ahora mismo tienes [[Pack de 2] VERNEL Suavizante Concentrado Frescor Botella 57 lavados](https://www.amazon.es/dp/B01LWUVNUL/?tag=tolees-21) a 3.5 EUR (original: 5.72 EUR) (38.81 %  de descuento) en el siguiente enlace!

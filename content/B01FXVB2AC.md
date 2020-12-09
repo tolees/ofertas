@@ -10,8 +10,11 @@ author: ring
 slug: B01FXVB2AC
 description:
 actualPrice: 7.79 EUR
+currency: EUR
+price: 7.79
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Ultrasport - Cinturón con luz LED y Bolsillo de Neopreno con Cierre de Cremallera  5 5 Pulgadas  Color Blanco
 ---
 
 Ahora mismo tienes [Ultrasport - Cinturón con luz LED y Bolsillo de Neopreno con Cierre de Cremallera  5 5 Pulgadas  Color Blanco](https://www.amazon.es/dp/B01FXVB2AC/?tag=tolees-21) a 7.79 EUR (original: 12.99 EUR) (40.03 %  de descuento) en el siguiente enlace!

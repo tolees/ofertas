@@ -10,8 +10,11 @@ author: ring
 slug: B07G9TRHRX
 description:
 actualPrice: 6.38 EUR
+currency: EUR
+price: 6.38
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Tuc Tuc Prenda Volantes Kitties  Camiseta para Niñas   Blanco 05   5 años  Tamaño del Fabricante:5A 
 ---
 
 Ahora mismo tienes [Tuc Tuc Prenda Volantes Kitties  Camiseta para Niñas   Blanco 05   5 años  Tamaño del Fabricante:5A ](https://www.amazon.es/dp/B07G9TRHRX/?tag=tolees-21) a 6.38 EUR (original: 15.95 EUR) (60.00 %  de descuento) en el siguiente enlace!

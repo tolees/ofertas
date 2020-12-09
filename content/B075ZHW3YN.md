@@ -10,8 +10,11 @@ author: ring
 slug: B075ZHW3YN
 description:
 actualPrice: 57.02 EUR
+currency: EUR
+price: 57.02
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Fujifilm Instax Mini 9 - Cámara instantánea  Cámara con 1x10 películas  Azul Marino
 ---
 
 Ahora mismo tienes [Fujifilm Instax Mini 9 - Cámara instantánea  Cámara con 1x10 películas  Azul Marino](https://www.amazon.es/dp/B075ZHW3YN/?tag=tolees-21) a 57.02 EUR (original: 89.99 EUR) (36.64 %  de descuento) en el siguiente enlace!

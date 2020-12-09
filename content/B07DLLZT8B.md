@@ -10,8 +10,11 @@ author: ring
 slug: B07DLLZT8B
 description:
 actualPrice: 45.99 EUR
+currency: EUR
+price: 45.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: SKYSPER 40L Mochila de Senderismo Impermeable Ergonómica Casual Deportiva morral con Cubierta de Lluvia Sistema de transporte Extraíble para Viaje Trekking Marcha Excursiones Acampada Escalada Macutos
 ---
 
 Ahora mismo tienes [SKYSPER 40L Mochila de Senderismo Impermeable Ergonómica Casual Deportiva morral con Cubierta de Lluvia Sistema de transporte Extraíble para Viaje Trekking Marcha Excursiones Acampada Escalada Macutos](https://www.amazon.es/dp/B07DLLZT8B/?tag=tolees-21) a 45.99 EUR (original: 89.99 EUR) (48.89 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NYVSFNR
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 69.98 EUR
 inStock: true
+prodname: Bota Mujer de Verano Caladas con Punta Redonda Estilo Casual Primavera Verano 2019 Talla 41 Rosa
 ---
 
 Está [Bota Mujer de Verano Caladas con Punta Redonda Estilo Casual Primavera Verano 2019 Talla 41 Rosa](https://www.amazon.es/dp/B07NYVSFNR/?tag=tolees-21) con 50.00 de descuento por 34.99 EUR (original: 69.98 EUR) en el siguiente enlace!

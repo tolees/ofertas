@@ -10,8 +10,11 @@ author: ring
 slug: B07S2HVLR8
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Relojes Hombres LIGE Moda Simple Impermeable Cuarzo Analógico Reloj Acero Inoxidable Automatico Calendario Reloj Hombre de Pulsera
 ---
 
 Está [Relojes Hombres LIGE Moda Simple Impermeable Cuarzo Analógico Reloj Acero Inoxidable Automatico Calendario Reloj Hombre de Pulsera](https://www.amazon.es/dp/B07S2HVLR8/?tag=tolees-21) con 68.90 de descuento por 27.99 EUR (original: 89.99 EUR) en el siguiente enlace!

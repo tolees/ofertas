@@ -10,8 +10,11 @@ author: ring
 slug: B07CG4J1HL
 description:
 actualPrice: 12.49 EUR
+currency: EUR
+price: 12.49
 comparePrice: 47.02 EUR
 inStock: true
+prodname: Handiy LM101 - Medidor de distancia láser
 ---
 
 Tienes [Handiy LM101 - Medidor de distancia láser](https://www.amazon.es/dp/B07CG4J1HL/?tag=tolees-21) con un 73.44 % de descuento con precio de oferta de 12.49 EUR (original: 47.02 EUR) en el siguiente enlace!

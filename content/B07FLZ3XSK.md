@@ -10,8 +10,11 @@ author: ring
 slug: B07FLZ3XSK
 description:
 actualPrice: 11.98 EUR
+currency: EUR
+price: 11.98
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Trust Verto - Ratón ergonómico vertical  iluminado  color negro
 ---
 
 Tienes [Trust Verto - Ratón ergonómico vertical  iluminado  color negro](https://www.amazon.es/dp/B07FLZ3XSK/?tag=tolees-21) con un 40.07 % de descuento con precio de oferta de 11.98 EUR (original: 19.99 EUR) en el siguiente enlace!

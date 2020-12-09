@@ -10,8 +10,11 @@ author: ring
 slug: B073TY1CFJ
 description:
 actualPrice: 183.66 EUR
+currency: EUR
+price: 183.66
 comparePrice: 299 EUR
 inStock: true
+prodname: Swarovski Reloj Crystalline Oval  dorado
 ---
 
 Está [Swarovski Reloj Crystalline Oval  dorado](https://www.amazon.es/dp/B073TY1CFJ/?tag=tolees-21) con 38.58 de descuento por 183.66 EUR (original: 299 EUR) en el siguiente enlace!

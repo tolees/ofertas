@@ -10,8 +10,11 @@ author: ring
 slug: B00AQJX8TA
 description:
 actualPrice: 15.04 EUR
+currency: EUR
+price: 15.04
 comparePrice: 20.99 EUR
 inStock: true
+prodname: One Step - 40 Tests de Ovulación 20 mIU/ml y 10 Pruebas de Embarazo 10mIU/ml Formato 3 5 mm.
 ---
 
 Está [One Step - 40 Tests de Ovulación 20 mIU/ml y 10 Pruebas de Embarazo 10mIU/ml Formato 3 5 mm.](https://www.amazon.es/dp/B00AQJX8TA/?tag=tolees-21) con 28.35 de descuento por 15.04 EUR (original: 20.99 EUR) en el siguiente enlace!

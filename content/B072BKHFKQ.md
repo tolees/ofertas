@@ -10,8 +10,11 @@ author: ring
 slug: B072BKHFKQ
 description:
 actualPrice: 5.92 EUR
+currency: EUR
+price: 5.92
 comparePrice: 19.15 EUR
 inStock: true
+prodname: Inside 4SPLN27& Camiseta  Gris  Medium  Tamaño del Fabricante:M  para Mujer
 ---
 
 Está [Inside 4SPLN27& Camiseta  Gris  Medium  Tamaño del Fabricante:M  para Mujer](https://www.amazon.es/dp/B072BKHFKQ/?tag=tolees-21) con 69.09 de descuento por 5.92 EUR (original: 19.15 EUR) en el siguiente enlace!

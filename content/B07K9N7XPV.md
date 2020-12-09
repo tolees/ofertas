@@ -10,8 +10,11 @@ author: ring
 slug: B07K9N7XPV
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: LED Linterna Táctica  RegeMoudal Kit de Linterna Táctica 800 Lumens  6 Modos Luz Recargable Impermeable Portátil Enfoque Ajustable Para Cámping/Ciclismo/Excursionismo/Emergencia
 ---
 
 Tienes [LED Linterna Táctica  RegeMoudal Kit de Linterna Táctica 800 Lumens  6 Modos Luz Recargable Impermeable Portátil Enfoque Ajustable Para Cámping/Ciclismo/Excursionismo/Emergencia](https://www.amazon.es/dp/B07K9N7XPV/?tag=tolees-21) con un 57.51 % de descuento con precio de oferta de 16.99 EUR (original: 39.99 EUR) en el siguiente enlace!

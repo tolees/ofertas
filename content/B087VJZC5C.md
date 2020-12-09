@@ -10,8 +10,11 @@ author: ring
 slug: B087VJZC5C
 description:
 actualPrice: 61.49 EUR
+currency: EUR
+price: 61.49
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Columbia Challenger Suéter para Hombre  Naranja  Negro  Harvester  Shark   M
 ---
 
 Ahora mismo tienes [Columbia Challenger Suéter para Hombre  Naranja  Negro  Harvester  Shark   M](https://www.amazon.es/dp/B087VJZC5C/?tag=tolees-21) a 61.49 EUR (original: 149.99 EUR) (59.00 %  de descuento) en el siguiente enlace!

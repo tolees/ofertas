@@ -10,8 +10,11 @@ author: ring
 slug: B086HDKX1V
 description:
 actualPrice: 1.95 EUR
+currency: EUR
+price: 1.95
 comparePrice: 4.99 EUR
 inStock: true
+prodname: Star Wars: The Mandalorian RK39061C  llavero de goma  Baby Yoda   unisex  multicolor  4 5 x 6 cm
 ---
 
 Ahora mismo tienes [Star Wars: The Mandalorian RK39061C  llavero de goma  Baby Yoda   unisex  multicolor  4 5 x 6 cm](https://www.amazon.es/dp/B086HDKX1V/?tag=tolees-21) a 1.95 EUR (original: 4.99 EUR) (60.92 %  de descuento) en el siguiente enlace!

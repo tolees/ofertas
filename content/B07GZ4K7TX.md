@@ -10,8 +10,11 @@ author: ring
 slug: B07GZ4K7TX
 description:
 actualPrice: 23.11 EUR
+currency: EUR
+price: 23.11
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Desigual Girl Knit Dress Straps  Vest_Swan  Vestido  Rojo  Pink Fuschia 3022   140  Talla del Fabricante: 9/10  para Niñas
 ---
 
 Está [Desigual Girl Knit Dress Straps  Vest_Swan  Vestido  Rojo  Pink Fuschia 3022   140  Talla del Fabricante: 9/10  para Niñas](https://www.amazon.es/dp/B07GZ4K7TX/?tag=tolees-21) con 42.15 de descuento por 23.11 EUR (original: 39.95 EUR) en el siguiente enlace!

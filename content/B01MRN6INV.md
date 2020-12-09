@@ -10,8 +10,11 @@ author: ring
 slug: B01MRN6INV
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 41.59 EUR
 inStock: true
+prodname: Hauck Open N Stop Puerta de Seguridad con Extensión de 21 cm  96-101 cm  Sin Agujeros en la Pared  Combinable con Y-Spindel Para Barandillas  Blanco
 ---
 
 Tienes [Hauck Open N Stop Puerta de Seguridad con Extensión de 21 cm  96-101 cm  Sin Agujeros en la Pared  Combinable con Y-Spindel Para Barandillas  Blanco](https://www.amazon.es/dp/B01MRN6INV/?tag=tolees-21) con un 27.89 % de descuento con precio de oferta de 29.99 EUR (original: 41.59 EUR) en el siguiente enlace!

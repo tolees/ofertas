@@ -10,8 +10,11 @@ author: ring
 slug: B07KMFPB3Q
 description:
 actualPrice: 12.66 EUR
+currency: EUR
+price: 12.66
 comparePrice: 19.99 EUR
 inStock: true
+prodname: adidas W E Lin Slim Tk Tank Top  Mujer  Black/White  S
 ---
 
 Ahora mismo tienes [adidas W E Lin Slim Tk Tank Top  Mujer  Black/White  S](https://www.amazon.es/dp/B07KMFPB3Q/?tag=tolees-21) a 12.66 EUR (original: 19.99 EUR) (36.67 %  de descuento) en el siguiente enlace!

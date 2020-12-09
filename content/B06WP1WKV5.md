@@ -10,8 +10,11 @@ author: ring
 slug: B06WP1WKV5
 description:
 actualPrice: 14.07 EUR
+currency: EUR
+price: 14.07
 comparePrice: 37.9 EUR
 inStock: true
+prodname: boboli 424123 Vestido  Niñas  Azul  Atlantic   152  Tamaño del Fabricante:152cm 
 ---
 
 Está [boboli 424123 Vestido  Niñas  Azul  Atlantic   152  Tamaño del Fabricante:152cm ](https://www.amazon.es/dp/B06WP1WKV5/?tag=tolees-21) con 62.88 de descuento por 14.07 EUR (original: 37.9 EUR) en el siguiente enlace!

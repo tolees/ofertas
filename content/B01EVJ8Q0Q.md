@@ -10,8 +10,11 @@ author: ring
 slug: B01EVJ8Q0Q
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Pintura acrílica 24 set de Crafts 4 All para papel  lienzo  madera  cerámica  telas y manualidades. Colores no tóxicos. Pigmentos duraderos: para principiantes  estudiantes y artistas profesionales
 ---
 
 Ahora mismo tienes [Pintura acrílica 24 set de Crafts 4 All para papel  lienzo  madera  cerámica  telas y manualidades. Colores no tóxicos. Pigmentos duraderos: para principiantes  estudiantes y artistas profesionales](https://www.amazon.es/dp/B01EVJ8Q0Q/?tag=tolees-21) a 14.99 EUR (original: 27.99 EUR) (46.45 %  de descuento) en el siguiente enlace!

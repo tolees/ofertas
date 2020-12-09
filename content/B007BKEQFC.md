@@ -10,8 +10,11 @@ author: ring
 slug: B007BKEQFC
 description:
 actualPrice: 98.94 EUR
+currency: EUR
+price: 98.94
 comparePrice: 149.9 EUR
 inStock: true
+prodname: Vanguard BBH-100 - Rótula de bola de aleación de magnesio  negro
 ---
 
 Está [Vanguard BBH-100 - Rótula de bola de aleación de magnesio  negro](https://www.amazon.es/dp/B007BKEQFC/?tag=tolees-21) con 34.00 de descuento por 98.94 EUR (original: 149.9 EUR) en el siguiente enlace!

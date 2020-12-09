@@ -10,8 +10,11 @@ author: ring
 slug: B07CHSG7SX
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Levi s SS Original Hm tee Camiseta  Cotton + Patch White  XL para Hombre
 ---
 
 Tienes [Levi s SS Original Hm tee Camiseta  Cotton + Patch White  XL para Hombre](https://www.amazon.es/dp/B07CHSG7SX/?tag=tolees-21) con un 32.04 % de descuento con precio de oferta de 16.99 EUR (original: 25.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B077NDLXH4
 description:
 actualPrice: 5.3 EUR
+currency: EUR
+price: 5.3
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 80 Ruler
 ---
 
 Está [Maybelline New York - Superstay Matte Ink  Pintalabios Mate de Larga Duración  Tono 80 Ruler](https://www.amazon.es/dp/B077NDLXH4/?tag=tolees-21) con 46.95 de descuento por 5.3 EUR (original: 9.99 EUR) en el siguiente enlace!

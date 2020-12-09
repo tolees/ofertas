@@ -10,8 +10,11 @@ author: ring
 slug: B072XQVDSC
 description:
 actualPrice: 14.23 EUR
+currency: EUR
+price: 14.23
 comparePrice: 34.99 EUR
 inStock: true
+prodname: VERO MODA 10182070  Jersey Para Mujer  Negro  Dark Black Melange   38  Talla del fabricante: Medium 
 ---
 
 Ahora mismo tienes [VERO MODA 10182070  Jersey Para Mujer  Negro  Dark Black Melange   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B072XQVDSC/?tag=tolees-21) a 14.23 EUR (original: 34.99 EUR) (59.33 %  de descuento) en el siguiente enlace!

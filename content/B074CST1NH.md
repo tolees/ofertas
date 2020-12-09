@@ -10,8 +10,11 @@ author: ring
 slug: B074CST1NH
 description:
 actualPrice: 7.85 EUR
+currency: EUR
+price: 7.85
 comparePrice: 21.91 EUR
 inStock: true
+prodname: Laiwodun Skin Shoes descalzo acuático Aqua calcetines para de nadada de la playa de la resaca de la yoga
 ---
 
 Ahora mismo tienes [Laiwodun Skin Shoes descalzo acuático Aqua calcetines para de nadada de la playa de la resaca de la yoga](https://www.amazon.es/dp/B074CST1NH/?tag=tolees-21) a 7.85 EUR (original: 21.91 EUR) (64.17 %  de descuento) en el siguiente enlace!

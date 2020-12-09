@@ -10,8 +10,11 @@ author: ring
 slug: B07GYBWMD4
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 34.64 EUR
 inStock: true
+prodname: Anillo de pilates/Círculo de yoga+Bandas de resistencia+pelota de yoga+Calcetines de yoga+correa de yoga
 ---
 
 Está [Anillo de pilates/Círculo de yoga+Bandas de resistencia+pelota de yoga+Calcetines de yoga+correa de yoga](https://www.amazon.es/dp/B07GYBWMD4/?tag=tolees-21) con 42.29 de descuento por 19.99 EUR (original: 34.64 EUR) en el siguiente enlace!

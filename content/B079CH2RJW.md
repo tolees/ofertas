@@ -10,8 +10,11 @@ author: ring
 slug: B079CH2RJW
 description:
 actualPrice: 6.95 EUR
+currency: EUR
+price: 6.95
 comparePrice: 12.99 EUR
 inStock: true
+prodname: JACK & JONES Jjelogo tee SS Crew Neck Two Color Noos  Camiseta para Hombre  Rojo  Brick Red Detail: Slim Fit   Medium
 ---
 
 Tienes [JACK & JONES Jjelogo tee SS Crew Neck Two Color Noos  Camiseta para Hombre  Rojo  Brick Red Detail: Slim Fit   Medium](https://www.amazon.es/dp/B079CH2RJW/?tag=tolees-21) con un 46.50 % de descuento con precio de oferta de 6.95 EUR (original: 12.99 EUR) en el siguiente enlace!

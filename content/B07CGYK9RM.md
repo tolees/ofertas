@@ -10,8 +10,11 @@ author: ring
 slug: B07CGYK9RM
 description:
 actualPrice: 5.2 EUR
+currency: EUR
+price: 5.2
 comparePrice: 6.99 EUR
 inStock: true
+prodname: Maybelline New York Máscara de pestañas The Colossal Big Shot 3 Bolder Black  Tono Negro
 ---
 
 Ahora mismo tienes [Maybelline New York Máscara de pestañas The Colossal Big Shot 3 Bolder Black  Tono Negro](https://www.amazon.es/dp/B07CGYK9RM/?tag=tolees-21) a 5.2 EUR (original: 6.99 EUR) (25.61 %  de descuento) en el siguiente enlace!

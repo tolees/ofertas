@@ -10,8 +10,11 @@ author: ring
 slug: B01HKKCAX2
 description:
 actualPrice: 14.96 EUR
+currency: EUR
+price: 14.96
 comparePrice: 20.0 EUR
 inStock: true
+prodname: Joma Pantalon Largo Deportivo  Hombre  Elba Marino  S
 ---
 
 Ahora mismo tienes [Joma Pantalon Largo Deportivo  Hombre  Elba Marino  S](https://www.amazon.es/dp/B01HKKCAX2/?tag=tolees-21) a 14.96 EUR (original: 20.0 EUR) (25.20 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MPZFK6N
 description:
 actualPrice: 8 EUR
+currency: EUR
+price: 8
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Funko Pop!- Stranger Things Will Figura de Vinilo  13325 
 ---
 
 Está [Funko Pop!- Stranger Things Will Figura de Vinilo  13325 ](https://www.amazon.es/dp/B01MPZFK6N/?tag=tolees-21) con 46.63 de descuento por 8 EUR (original: 14.99 EUR) en el siguiente enlace!

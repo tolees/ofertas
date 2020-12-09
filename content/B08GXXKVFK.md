@@ -10,8 +10,11 @@ author: ring
 slug: B08GXXKVFK
 description:
 actualPrice: 29.49 EUR
+currency: EUR
+price: 29.49
 comparePrice: 47.29 EUR
 inStock: true
+prodname: Hurley M OneOnly Crew  lt British Tan
 ---
 
 Tienes [Hurley M OneOnly Crew  lt British Tan](https://www.amazon.es/dp/B08GXXKVFK/?tag=tolees-21) con un 37.64 % de descuento con precio de oferta de 29.49 EUR (original: 47.29 EUR) en el siguiente enlace!

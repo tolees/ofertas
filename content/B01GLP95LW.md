@@ -10,8 +10,11 @@ author: ring
 slug: B01GLP95LW
 description:
 actualPrice: 9.95 EUR
+currency: EUR
+price: 9.95
 comparePrice: 13.5 EUR
 inStock: true
+prodname: Real Madrid Eau de Toilette  100 ml
 ---
 
 Está [Real Madrid Eau de Toilette  100 ml](https://www.amazon.es/dp/B01GLP95LW/?tag=tolees-21) con 26.30 de descuento por 9.95 EUR (original: 13.5 EUR) en el siguiente enlace!

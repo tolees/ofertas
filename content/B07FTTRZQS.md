@@ -10,8 +10,11 @@ author: ring
 slug: B07FTTRZQS
 description:
 actualPrice: 27.77 EUR
+currency: EUR
+price: 27.77
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Scarlett  Vaqueros Skinny para Mujer  Azul  Blue Black Ex   W24/L33
 ---
 
 Ahora mismo tienes [Lee Scarlett  Vaqueros Skinny para Mujer  Azul  Blue Black Ex   W24/L33](https://www.amazon.es/dp/B07FTTRZQS/?tag=tolees-21) a 27.77 EUR (original: 89.95 EUR) (69.13 %  de descuento) en el siguiente enlace!

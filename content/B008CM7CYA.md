@@ -10,8 +10,11 @@ author: ring
 slug: B008CM7CYA
 description:
 actualPrice: 18.69 EUR
+currency: EUR
+price: 18.69
 comparePrice: 31.21 EUR
 inStock: true
+prodname: Michelin 92412 Compresor de Alto Rendimiento Digital con LED y Manómetro Desmontable
 ---
 
 Tienes [Michelin 92412 Compresor de Alto Rendimiento Digital con LED y Manómetro Desmontable](https://www.amazon.es/dp/B008CM7CYA/?tag=tolees-21) con un 40.12 % de descuento con precio de oferta de 18.69 EUR (original: 31.21 EUR) en el siguiente enlace!

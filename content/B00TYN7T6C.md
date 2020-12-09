@@ -10,8 +10,11 @@ author: ring
 slug: B00TYN7T6C
 description:
 actualPrice: 95.99 EUR
+currency: EUR
+price: 95.99
 comparePrice: 699 EUR
 inStock: true
+prodname: Colchón Viscoelástico Boston 90X190  22 cm de altura  1 5 cm de Viscoelástica de 65 Kg/m³  Independencia de lechos  Firmeza media  Alta durabilidad
 ---
 
 Está [Colchón Viscoelástico Boston 90X190  22 cm de altura  1 5 cm de Viscoelástica de 65 Kg/m³  Independencia de lechos  Firmeza media  Alta durabilidad](https://www.amazon.es/dp/B00TYN7T6C/?tag=tolees-21) con 86.27 de descuento por 95.99 EUR (original: 699 EUR) en el siguiente enlace!

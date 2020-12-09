@@ -10,8 +10,11 @@ author: ring
 slug: B00CSLZOT6
 description:
 actualPrice: 52.99 EUR
+currency: EUR
+price: 52.99
 comparePrice: 75.0 EUR
 inStock: true
+prodname: Maclaren Saco para silla de paseo universal  color negro  con cremallera
 ---
 
 Está [Maclaren Saco para silla de paseo universal  color negro  con cremallera](https://www.amazon.es/dp/B00CSLZOT6/?tag=tolees-21) con 29.35 de descuento por 52.99 EUR (original: 75.0 EUR) en el siguiente enlace!

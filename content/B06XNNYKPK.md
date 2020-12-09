@@ -10,8 +10,11 @@ author: ring
 slug: B06XNNYKPK
 description:
 actualPrice: 18.47 EUR
+currency: EUR
+price: 18.47
 comparePrice: 36.95 EUR
 inStock: true
+prodname: Desigual Vest_olaya  Vestido Bebé-para Niñas  Rosa  Fucsia 3002  68  Talla del Fabricante: 12 
 ---
 
 Ahora mismo tienes [Desigual Vest_olaya  Vestido Bebé-para Niñas  Rosa  Fucsia 3002  68  Talla del Fabricante: 12 ](https://www.amazon.es/dp/B06XNNYKPK/?tag=tolees-21) a 18.47 EUR (original: 36.95 EUR) (50.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01AVFUS0U
 description:
 actualPrice: 12.6 EUR
+currency: EUR
+price: 12.6
 comparePrice: 18.45 EUR
 inStock: true
+prodname: Simon - 75251-39 conmutador cruce s-75 Ref. 6557539025
 ---
 
 Ahora mismo tienes [Simon - 75251-39 conmutador cruce s-75 Ref. 6557539025](https://www.amazon.es/dp/B01AVFUS0U/?tag=tolees-21) a 12.6 EUR (original: 18.45 EUR) (31.71 %  de descuento) en el siguiente enlace!

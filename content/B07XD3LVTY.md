@@ -10,8 +10,11 @@ author: ring
 slug: B07XD3LVTY
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: edc by Esprit 109cc1i013 suéter  Blanco  Off White 2 111   Medium para Mujer
 ---
 
 Está [edc by Esprit 109cc1i013 suéter  Blanco  Off White 2 111   Medium para Mujer](https://www.amazon.es/dp/B07XD3LVTY/?tag=tolees-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

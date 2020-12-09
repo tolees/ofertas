@@ -10,8 +10,11 @@ author: ring
 slug: B00QJF7C9C
 description:
 actualPrice: 51.09 EUR
+currency: EUR
+price: 51.09
 comparePrice: 72.99 EUR
 inStock: true
+prodname: Sorel Newbie  Botas Mujer  Blanco  Silver Sage   36 EU
 ---
 
 Ahora mismo tienes [Sorel Newbie  Botas Mujer  Blanco  Silver Sage   36 EU](https://www.amazon.es/dp/B00QJF7C9C/?tag=tolees-21) a 51.09 EUR (original: 72.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

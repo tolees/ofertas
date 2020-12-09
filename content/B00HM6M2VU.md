@@ -10,8 +10,11 @@ author: ring
 slug: B00HM6M2VU
 description:
 actualPrice: 45 EUR
+currency: EUR
+price: 45
 comparePrice: 169 EUR
 inStock: true
+prodname: Skagen Reloj de Pulsera SKW2141
 ---
 
 Tienes [Skagen Reloj de Pulsera SKW2141](https://www.amazon.es/dp/B00HM6M2VU/?tag=tolees-21) con un 73.37 % de descuento con precio de oferta de 45 EUR (original: 169 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FDJ68GP
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Superdry Orange Label Vntge Emb S/S tee Camiseta  Azul  Eclipse Navy 98T   X-Small para Hombre
 ---
 
 Está [Superdry Orange Label Vntge Emb S/S tee Camiseta  Azul  Eclipse Navy 98T   X-Small para Hombre](https://www.amazon.es/dp/B07FDJ68GP/?tag=tolees-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

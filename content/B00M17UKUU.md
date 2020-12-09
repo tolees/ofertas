@@ -10,8 +10,11 @@ author: ring
 slug: B00M17UKUU
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 21.9 EUR
 inStock: true
+prodname: Havaianas Brasil  Chanclas Unisex Adulto  Gris  Steel Grey 5178   33/34 EU
 ---
 
 Tienes [Havaianas Brasil  Chanclas Unisex Adulto  Gris  Steel Grey 5178   33/34 EU](https://www.amazon.es/dp/B00M17UKUU/?tag=tolees-21) con un 40.68 % de descuento con precio de oferta de 12.99 EUR (original: 21.9 EUR) en el siguiente enlace!

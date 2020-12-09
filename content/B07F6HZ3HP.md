@@ -10,8 +10,11 @@ author: ring
 slug: B07F6HZ3HP
 description:
 actualPrice: 17.4 EUR
+currency: EUR
+price: 17.4
 comparePrice: 33.71 EUR
 inStock: true
+prodname: Wonderbra Fabulous Feel Padded Triangle Bra Wireless Sujetador  Negro  Noir 001   Talla del Fabricante: Taglia Produttore 80H para Mujer
 ---
 
 Tienes [Wonderbra Fabulous Feel Padded Triangle Bra Wireless Sujetador  Negro  Noir 001   Talla del Fabricante: Taglia Produttore 80H para Mujer](https://www.amazon.es/dp/B07F6HZ3HP/?tag=tolees-21) con un 48.38 % de descuento con precio de oferta de 17.4 EUR (original: 33.71 EUR) en el siguiente enlace!

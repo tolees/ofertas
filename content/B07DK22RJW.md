@@ -10,8 +10,11 @@ author: ring
 slug: B07DK22RJW
 description:
 actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Geox B Kaytan B  Sandalias para Bebés  Azul  Navy/Avio C0700   23 EU
 ---
 
 Tienes [Geox B Kaytan B  Sandalias para Bebés  Azul  Navy/Avio C0700   23 EU](https://www.amazon.es/dp/B07DK22RJW/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 24.95 EUR (original: 49.9 EUR) en el siguiente enlace!

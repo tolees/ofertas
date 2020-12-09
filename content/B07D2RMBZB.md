@@ -10,8 +10,11 @@ author: ring
 slug: B07D2RMBZB
 description:
 actualPrice: 19.13 EUR
+currency: EUR
+price: 19.13
 comparePrice: 39 EUR
 inStock: true
+prodname: Gant 2-Pack Trunk Flags CTN Str  Bañador Hombre  Beige  Eggshell   XX-Large
 ---
 
 Ahora mismo tienes [Gant 2-Pack Trunk Flags CTN Str  Bañador Hombre  Beige  Eggshell   XX-Large](https://www.amazon.es/dp/B07D2RMBZB/?tag=tolees-21) a 19.13 EUR (original: 39 EUR) (50.95 %  de descuento) en el siguiente enlace!

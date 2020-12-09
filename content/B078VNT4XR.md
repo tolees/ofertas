@@ -10,8 +10,11 @@ author: ring
 slug: B078VNT4XR
 description:
 actualPrice: 31 EUR
+currency: EUR
+price: 31
 comparePrice: 95 EUR
 inStock: true
+prodname: Asics Gel-Kayano Trainer EVO  Zapatillas para Hombre  Azul Provincial Blue 4242  46.5 EU
 ---
 
 Ahora mismo tienes [Asics Gel-Kayano Trainer EVO  Zapatillas para Hombre  Azul Provincial Blue 4242  46.5 EU](https://www.amazon.es/dp/B078VNT4XR/?tag=tolees-21) a 31 EUR (original: 95 EUR) (67.37 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00GHDXSYO
 description:
 actualPrice: 69.06 EUR
+currency: EUR
+price: 69.06
 comparePrice: 181.49 EUR
 inStock: true
+prodname: Gardena EasyCut - Fusible de seguridad  Batería  18 V  2.9 kg  Li-18/50 
 ---
 
 Está [Gardena EasyCut - Fusible de seguridad  Batería  18 V  2.9 kg  Li-18/50 ](https://www.amazon.es/dp/B00GHDXSYO/?tag=tolees-21) con 61.95 de descuento por 69.06 EUR (original: 181.49 EUR) en el siguiente enlace!

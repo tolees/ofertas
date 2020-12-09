@@ -10,8 +10,11 @@ author: ring
 slug: B01MSZWUMV
 description:
 actualPrice: 23.39 EUR
+currency: EUR
+price: 23.39
 comparePrice: 64.34 EUR
 inStock: true
+prodname: Asics Tennis Shoes Gel-Padel Pro 3 Sg Diva Blue / White / Shocking 41m
 ---
 
 Está [Asics Tennis Shoes Gel-Padel Pro 3 Sg Diva Blue / White / Shocking 41m](https://www.amazon.es/dp/B01MSZWUMV/?tag=tolees-21) con 63.65 de descuento por 23.39 EUR (original: 64.34 EUR) en el siguiente enlace!

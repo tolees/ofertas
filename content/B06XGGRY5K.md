@@ -10,8 +10,11 @@ author: ring
 slug: B06XGGRY5K
 description:
 actualPrice: 11.09 EUR
+currency: EUR
+price: 11.09
 comparePrice: 32 EUR
 inStock: true
+prodname: Pepe Jeans Jaden JR PB501315  Top de Manga Larga para Niños  Gris  Alloy 932  7 años
 ---
 
 Tienes [Pepe Jeans Jaden JR PB501315  Top de Manga Larga para Niños  Gris  Alloy 932  7 años](https://www.amazon.es/dp/B06XGGRY5K/?tag=tolees-21) con un 65.34 % de descuento con precio de oferta de 11.09 EUR (original: 32 EUR) en el siguiente enlace!

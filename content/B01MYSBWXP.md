@@ -10,8 +10,11 @@ author: ring
 slug: B01MYSBWXP
 description:
 actualPrice: 18.48 EUR
+currency: EUR
+price: 18.48
 comparePrice: 54.95 EUR
 inStock: true
+prodname: MAMALICIOUS MLMARIA L/S KNIT DRESS  Vestido Mujer  Gris  Dark Grey Melange   38  Talla del fabricante: Medium 
 ---
 
 Tienes [MAMALICIOUS MLMARIA L/S KNIT DRESS  Vestido Mujer  Gris  Dark Grey Melange   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B01MYSBWXP/?tag=tolees-21) con un 66.37 % de descuento con precio de oferta de 18.48 EUR (original: 54.95 EUR) en el siguiente enlace!

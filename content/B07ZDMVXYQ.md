@@ -10,8 +10,11 @@ author: ring
 slug: B07ZDMVXYQ
 description:
 actualPrice: 9.59 EUR
+currency: EUR
+price: 9.59
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Marca Amazon - Happy Belly - Guindillas trituradas en molinillo  4x20g
 ---
 
 Está [Marca Amazon - Happy Belly - Guindillas trituradas en molinillo  4x20g](https://www.amazon.es/dp/B07ZDMVXYQ/?tag=tolees-21) con 40.03 de descuento por 9.59 EUR (original: 15.99 EUR) en el siguiente enlace!

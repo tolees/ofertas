@@ -10,8 +10,11 @@ author: ring
 slug: B076HMS3JF
 description:
 actualPrice: 26.26 EUR
+currency: EUR
+price: 26.26
 comparePrice: 39.95 EUR
 inStock: true
+prodname: adidas CORE18 Hoody Sudadera con Capucha  Hombre  Azul  Azul/Blanco   XL
 ---
 
 Está [adidas CORE18 Hoody Sudadera con Capucha  Hombre  Azul  Azul/Blanco   XL](https://www.amazon.es/dp/B076HMS3JF/?tag=tolees-21) con 34.27 de descuento por 26.26 EUR (original: 39.95 EUR) en el siguiente enlace!

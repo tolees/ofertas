@@ -10,8 +10,11 @@ author: ring
 slug: B00MQRLBPI
 description:
 actualPrice: 124.21 EUR
+currency: EUR
+price: 124.21
 comparePrice: 229.72 EUR
 inStock: true
+prodname: ALLPOWERS 60W Cargador Panel Solar Batería Placa Plegable con 5V USB 18V DC y 9 Paneles Solares para iPhone los teléfonos móviles de Sumsung HTC del Lenovo HP DELL Acer Portátiles etc
 ---
 
 Tienes [ALLPOWERS 60W Cargador Panel Solar Batería Placa Plegable con 5V USB 18V DC y 9 Paneles Solares para iPhone los teléfonos móviles de Sumsung HTC del Lenovo HP DELL Acer Portátiles etc](https://www.amazon.es/dp/B00MQRLBPI/?tag=tolees-21) con un 45.93 % de descuento con precio de oferta de 124.21 EUR (original: 229.72 EUR) en el siguiente enlace!

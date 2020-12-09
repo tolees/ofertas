@@ -10,8 +10,11 @@ author: ring
 slug: B00XUAHT9W
 description:
 actualPrice: 0.19 EUR
+currency: EUR
+price: 0.19
 comparePrice: 0.84 EUR
 inStock: true
+prodname: Safta- Regla de cristal  20 cm  400920 
 ---
 
 Tienes [Safta- Regla de cristal  20 cm  400920 ](https://www.amazon.es/dp/B00XUAHT9W/?tag=tolees-21) con un 77.38 % de descuento con precio de oferta de 0.19 EUR (original: 0.84 EUR) en el siguiente enlace!

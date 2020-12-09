@@ -10,8 +10,11 @@ author: ring
 slug: B07JDXTNCT
 description:
 actualPrice: 11.81 EUR
+currency: EUR
+price: 11.81
 comparePrice: 24.42 EUR
 inStock: true
+prodname: FLOUREON – 10000 mAh Power Banco con Dual USB  Salida para móvil Tablet Blanco
 ---
 
 Ahora mismo tienes [FLOUREON – 10000 mAh Power Banco con Dual USB  Salida para móvil Tablet Blanco](https://www.amazon.es/dp/B07JDXTNCT/?tag=tolees-21) a 11.81 EUR (original: 24.42 EUR) (51.64 %  de descuento) en el siguiente enlace!

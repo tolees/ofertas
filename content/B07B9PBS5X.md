@@ -10,8 +10,11 @@ author: ring
 slug: B07B9PBS5X
 description:
 actualPrice: 110.45 EUR
+currency: EUR
+price: 110.45
 comparePrice: 179 EUR
 inStock: true
+prodname: Panama Jack Amur GTX  Botas Clasicas para Hombre  Negro  Black C18   46 EU
 ---
 
 Está [Panama Jack Amur GTX  Botas Clasicas para Hombre  Negro  Black C18   46 EU](https://www.amazon.es/dp/B07B9PBS5X/?tag=tolees-21) con 38.30 de descuento por 110.45 EUR (original: 179 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CHVKZYG
 description:
 actualPrice: 7.0 EUR
+currency: EUR
+price: 7.0
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Funko Pocket POP! Keychain: Marvel: Ant-Man & The Wasp: Wasp
 ---
 
 Ahora mismo tienes [Funko Pocket POP! Keychain: Marvel: Ant-Man & The Wasp: Wasp](https://www.amazon.es/dp/B07CHVKZYG/?tag=tolees-21) a 7.0 EUR (original: 9.99 EUR) (29.93 %  de descuento) en el siguiente enlace!

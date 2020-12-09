@@ -10,8 +10,11 @@ author: ring
 slug: B07K2JCNNF
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 49.95 EUR
 inStock: true
+prodname: adidas Runfalcon  Zapatillas de Running para Hombre  Gris  Grey Six/ Footwear White/ Core Black   46 EU
 ---
 
 Tienes [adidas Runfalcon  Zapatillas de Running para Hombre  Gris  Grey Six/ Footwear White/ Core Black   46 EU](https://www.amazon.es/dp/B07K2JCNNF/?tag=tolees-21) con un 29.95 % de descuento con precio de oferta de 34.99 EUR (original: 49.95 EUR) en el siguiente enlace!

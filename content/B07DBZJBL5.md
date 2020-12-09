@@ -10,8 +10,11 @@ author: ring
 slug: B07DBZJBL5
 description:
 actualPrice: 27.34 EUR
+currency: EUR
+price: 27.34
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Puma Cell Viper  Zapatillas Unisex Adulto  Negro Black White  45 EU
 ---
 
 Está [Puma Cell Viper  Zapatillas Unisex Adulto  Negro Black White  45 EU](https://www.amazon.es/dp/B07DBZJBL5/?tag=tolees-21) con 69.61 de descuento por 27.34 EUR (original: 89.95 EUR) en el siguiente enlace!

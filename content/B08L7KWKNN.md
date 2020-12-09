@@ -10,8 +10,11 @@ author: ring
 slug: B08L7KWKNN
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: EGV [6 Pack Protector de Pantalla para Samsung Galaxy S20 FE 4G/5G [3 Pack] Cristal Templado + [3 Pack] Protector de Lente de Cámara  Anti-arañazos Cristal Templado de HD para Samsung S20 FE
 ---
 
 Está [EGV [6 Pack Protector de Pantalla para Samsung Galaxy S20 FE 4G/5G [3 Pack] Cristal Templado + [3 Pack] Protector de Lente de Cámara  Anti-arañazos Cristal Templado de HD para Samsung S20 FE](https://www.amazon.es/dp/B08L7KWKNN/?tag=tolees-21) con 50.03 de descuento por 7.99 EUR (original: 15.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B016MCGVI4
 description:
 actualPrice: 14.63 EUR
+currency: EUR
+price: 14.63
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Tom Tailor Denim Vaquero Caqui W31L34
 ---
 
 Está [Tom Tailor Denim Vaquero Caqui W31L34](https://www.amazon.es/dp/B016MCGVI4/?tag=tolees-21) con 81.71 de descuento por 14.63 EUR (original: 79.99 EUR) en el siguiente enlace!

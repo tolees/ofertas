@@ -10,8 +10,11 @@ author: ring
 slug: B07MNF17TT
 description:
 actualPrice: 8.49 EUR
+currency: EUR
+price: 8.49
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Dispensador de pulverizador de Aceite  Rociador de Aceite  rociador de vinagre  Premium 304 Acero Inoxidable Botella de Vidrio 200 ML para cocinar/Ensalada/Hornear Pan/BBQ/Cocina
 ---
 
 Ahora mismo tienes [Dispensador de pulverizador de Aceite  Rociador de Aceite  rociador de vinagre  Premium 304 Acero Inoxidable Botella de Vidrio 200 ML para cocinar/Ensalada/Hornear Pan/BBQ/Cocina](https://www.amazon.es/dp/B07MNF17TT/?tag=tolees-21) a 8.49 EUR (original: 14.99 EUR) (43.36 %  de descuento) en el siguiente enlace!

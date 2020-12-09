@@ -10,8 +10,11 @@ author: ring
 slug: B07K8TLYYK
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Asmodee ADECGPI0001 Juego de Mesa  Multicolor
 ---
 
 Tienes [Asmodee ADECGPI0001 Juego de Mesa  Multicolor](https://www.amazon.es/dp/B07K8TLYYK/?tag=tolees-21) con un 70.24 % de descuento con precio de oferta de 5.95 EUR (original: 19.99 EUR) en el siguiente enlace!

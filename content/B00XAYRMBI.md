@@ -10,8 +10,11 @@ author: ring
 slug: B00XAYRMBI
 description:
 actualPrice: 31.45 EUR
+currency: EUR
+price: 31.45
 comparePrice: 43 EUR
 inStock: true
+prodname: Polaroid PLD 8009/N JY UJO  Gafas de sol Unisex para Niños  Azul  Bluette Transparent/Grey Blue Mirror Polarized  45
 ---
 
 Está [Polaroid PLD 8009/N JY UJO  Gafas de sol Unisex para Niños  Azul  Bluette Transparent/Grey Blue Mirror Polarized  45](https://www.amazon.es/dp/B00XAYRMBI/?tag=tolees-21) con 26.86 de descuento por 31.45 EUR (original: 43 EUR) en el siguiente enlace!

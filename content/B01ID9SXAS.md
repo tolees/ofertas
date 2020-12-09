@@ -10,8 +10,11 @@ author: ring
 slug: B01ID9SXAS
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Puma Basic Brief 2P - Calzoncillos para hombre  color negro  talla L
 ---
 
 Está [Puma Basic Brief 2P - Calzoncillos para hombre  color negro  talla L](https://www.amazon.es/dp/B01ID9SXAS/?tag=tolees-21) con 33.36 de descuento por 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

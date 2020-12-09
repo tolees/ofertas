@@ -10,8 +10,11 @@ author: ring
 slug: B076PB8ZGC
 description:
 actualPrice: 16.2 EUR
+currency: EUR
+price: 16.2
 comparePrice: 40.94 EUR
 inStock: true
+prodname: Marca Amazon - MERAKI Chaqueta de Plumas con Capucha Mujer  Plateado  Silver   44  Label: XL
 ---
 
 Está [Marca Amazon - MERAKI Chaqueta de Plumas con Capucha Mujer  Plateado  Silver   44  Label: XL](https://www.amazon.es/dp/B076PB8ZGC/?tag=tolees-21) con 60.43 de descuento por 16.2 EUR (original: 40.94 EUR) en el siguiente enlace!

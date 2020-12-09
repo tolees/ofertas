@@ -10,8 +10,11 @@ author: ring
 slug: B07SD1J4SK
 description:
 actualPrice: 37.0 EUR
+currency: EUR
+price: 37.0
 comparePrice: 79.95 EUR
 inStock: true
+prodname: PUMA Future 5.3 Netfit FG/AG  Botas de fútbol para Hombre  Amarillo  Ultra Yellow Black   43 EU
 ---
 
 Tienes [PUMA Future 5.3 Netfit FG/AG  Botas de fútbol para Hombre  Amarillo  Ultra Yellow Black   43 EU](https://www.amazon.es/dp/B07SD1J4SK/?tag=tolees-21) con un 53.72 % de descuento con precio de oferta de 37.0 EUR (original: 79.95 EUR) en el siguiente enlace!

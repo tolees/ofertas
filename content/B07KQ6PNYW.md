@@ -10,8 +10,11 @@ author: ring
 slug: B07KQ6PNYW
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 16.18 EUR
 inStock: true
+prodname: Baoblaze 1 pc Colador de Araña Espumaderas de Acero Inoxidable de Color Plata Universal - 14cm
 ---
 
 Está [Baoblaze 1 pc Colador de Araña Espumaderas de Acero Inoxidable de Color Plata Universal - 14cm](https://www.amazon.es/dp/B07KQ6PNYW/?tag=tolees-21) con 44.44 de descuento por 8.99 EUR (original: 16.18 EUR) en el siguiente enlace!

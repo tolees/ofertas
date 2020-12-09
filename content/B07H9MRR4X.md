@@ -10,8 +10,11 @@ author: ring
 slug: B07H9MRR4X
 description:
 actualPrice: 7.96 EUR
+currency: EUR
+price: 7.96
 comparePrice: 23.03 EUR
 inStock: true
+prodname: Marca Amazon - find. Chaqueta Punto Hombre  Azul  Navy Stripes   S  Label: S
 ---
 
 Está [Marca Amazon - find. Chaqueta Punto Hombre  Azul  Navy Stripes   S  Label: S](https://www.amazon.es/dp/B07H9MRR4X/?tag=tolees-21) con 65.44 de descuento por 7.96 EUR (original: 23.03 EUR) en el siguiente enlace!

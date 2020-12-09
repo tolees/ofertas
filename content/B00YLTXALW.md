@@ -10,8 +10,11 @@ author: ring
 slug: B00YLTXALW
 description:
 actualPrice: 6.45 EUR
+currency: EUR
+price: 6.45
 comparePrice: 9.99 EUR
 inStock: true
+prodname: adidas per Ankle T 3Pp Calcetines  Unisex  Blanco/Negro  35-38
 ---
 
 Tienes [adidas per Ankle T 3Pp Calcetines  Unisex  Blanco/Negro  35-38](https://www.amazon.es/dp/B00YLTXALW/?tag=tolees-21) con un 35.44 % de descuento con precio de oferta de 6.45 EUR (original: 9.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FNZP7DZ
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 9.02 EUR
 inStock: true
+prodname: Rick and Morty - Adhesivos Impermeables Reutilizables para Gadget
 ---
 
 Está [Rick and Morty - Adhesivos Impermeables Reutilizables para Gadget](https://www.amazon.es/dp/B07FNZP7DZ/?tag=tolees-21) con 34.04 de descuento por 5.95 EUR (original: 9.02 EUR) en el siguiente enlace!

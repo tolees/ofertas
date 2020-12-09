@@ -10,8 +10,11 @@ author: ring
 slug: B07JZVKX24
 description:
 actualPrice: 13.09 EUR
+currency: EUR
+price: 13.09
 comparePrice: 27.99 EUR
 inStock: true
+prodname: JACK & JONES Jormetallica tee LS Crew Neck  Camisa Manga Larga para Hombre  Blanco  White Reg Box Fit   Medium
 ---
 
 Ahora mismo tienes [JACK & JONES Jormetallica tee LS Crew Neck  Camisa Manga Larga para Hombre  Blanco  White Reg Box Fit   Medium](https://www.amazon.es/dp/B07JZVKX24/?tag=tolees-21) a 13.09 EUR (original: 27.99 EUR) (53.23 %  de descuento) en el siguiente enlace!

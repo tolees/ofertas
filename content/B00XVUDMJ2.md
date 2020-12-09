@@ -10,8 +10,11 @@ author: ring
 slug: B00XVUDMJ2
 description:
 actualPrice: 22.03 EUR
+currency: EUR
+price: 22.03
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Dockers 37AO001-600383  Zapatillas para Hombre  marrón  Dunkelbraun/Braun 383   43 EU
 ---
 
 Está [Dockers 37AO001-600383  Zapatillas para Hombre  marrón  Dunkelbraun/Braun 383   43 EU](https://www.amazon.es/dp/B00XVUDMJ2/?tag=tolees-21) con 55.85 de descuento por 22.03 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DGN9N4H
 description:
 actualPrice: 38.5 EUR
+currency: EUR
+price: 38.5
 comparePrice: 74.03 EUR
 inStock: true
+prodname: Timberland Davis Square 6 Inch  Toddler   Botas Clasicas Unisex Adulto  Negro Black Nubuck  44 EU
 ---
 
 Tienes [Timberland Davis Square 6 Inch  Toddler   Botas Clasicas Unisex Adulto  Negro Black Nubuck  44 EU](https://www.amazon.es/dp/B07DGN9N4H/?tag=tolees-21) con un 47.99 % de descuento con precio de oferta de 38.5 EUR (original: 74.03 EUR) en el siguiente enlace!

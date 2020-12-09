@@ -10,8 +10,11 @@ author: ring
 slug: B01N9IBYYK
 description:
 actualPrice: 18.95 EUR
+currency: EUR
+price: 18.95
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Kappa Trooper Light Sun  Zapatillas Unisex Niños  Negro  Black/White   31 EU
 ---
 
 Está [Kappa Trooper Light Sun  Zapatillas Unisex Niños  Negro  Black/White   31 EU](https://www.amazon.es/dp/B01N9IBYYK/?tag=tolees-21) con 36.73 de descuento por 18.95 EUR (original: 29.95 EUR) en el siguiente enlace!

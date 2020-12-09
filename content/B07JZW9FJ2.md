@@ -10,8 +10,11 @@ author: ring
 slug: B07JZW9FJ2
 description:
 actualPrice: 12.61 EUR
+currency: EUR
+price: 12.61
 comparePrice: 29.99 EUR
 inStock: true
+prodname: JACK & JONES Jcojames Sweat Hood Camp  Capucha Hombre  Azul  Sky Captain Detail: Melange   Medium
 ---
 
 Está [JACK & JONES Jcojames Sweat Hood Camp  Capucha Hombre  Azul  Sky Captain Detail: Melange   Medium](https://www.amazon.es/dp/B07JZW9FJ2/?tag=tolees-21) con 57.95 de descuento por 12.61 EUR (original: 29.99 EUR) en el siguiente enlace!

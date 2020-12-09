@@ -10,8 +10,11 @@ author: ring
 slug: B07DJL3CSJ
 description:
 actualPrice: 36.63 EUR
+currency: EUR
+price: 36.63
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Dockers by Gerli 41bn107  Botas Militar para Hombre  Verde  Oliv 840   42 EU
 ---
 
 Ahora mismo tienes [Dockers by Gerli 41bn107  Botas Militar para Hombre  Verde  Oliv 840   42 EU](https://www.amazon.es/dp/B07DJL3CSJ/?tag=tolees-21) a 36.63 EUR (original: 79.95 EUR) (54.18 %  de descuento) en el siguiente enlace!

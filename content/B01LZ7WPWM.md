@@ -10,8 +10,11 @@ author: ring
 slug: B01LZ7WPWM
 description:
 actualPrice: 4.45 EUR
+currency: EUR
+price: 4.45
 comparePrice: 6.6 EUR
 inStock: true
+prodname: Cruzcampo Cerveza - Pack de 12 Latas x 330 ml - Total: 3 96 L
 ---
 
 Está [Cruzcampo Cerveza - Pack de 12 Latas x 330 ml - Total: 3 96 L](https://www.amazon.es/dp/B01LZ7WPWM/?tag=tolees-21) con 32.58 de descuento por 4.45 EUR (original: 6.6 EUR) en el siguiente enlace!

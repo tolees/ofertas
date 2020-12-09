@@ -10,8 +10,11 @@ author: ring
 slug: B0895LXVFR
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: DC Shoes Bonton-Camiseta para Hombre  Black  XS
 ---
 
 Ahora mismo tienes [DC Shoes Bonton-Camiseta para Hombre  Black  XS](https://www.amazon.es/dp/B0895LXVFR/?tag=tolees-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

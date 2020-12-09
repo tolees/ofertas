@@ -10,8 +10,11 @@ author: ring
 slug: B077VXC6FH
 description:
 actualPrice: 30.19 EUR
+currency: EUR
+price: 30.19
 comparePrice: 89.99 EUR
 inStock: true
+prodname: K-Swiss Arvee 1.5  Zapatillas para Hombre  MONK S ROBE/KHAKI  42 EU
 ---
 
 Está [K-Swiss Arvee 1.5  Zapatillas para Hombre  MONK S ROBE/KHAKI  42 EU](https://www.amazon.es/dp/B077VXC6FH/?tag=tolees-21) con 66.45 de descuento por 30.19 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00LPG0MY2
 description:
 actualPrice: 62.9 EUR
+currency: EUR
+price: 62.9
 comparePrice: 104.99 EUR
 inStock: true
+prodname: Braun Minipimer 5 MQ5045 Aperitif - Batidora de mano  750 W potencia  21 velocidades  vaso medidor 0 6l  campana anti-salpicaduras  accesorios monta-claras  picador y varillas incluidos  blanco y gris
 ---
 
 Está [Braun Minipimer 5 MQ5045 Aperitif - Batidora de mano  750 W potencia  21 velocidades  vaso medidor 0 6l  campana anti-salpicaduras  accesorios monta-claras  picador y varillas incluidos  blanco y gris](https://www.amazon.es/dp/B00LPG0MY2/?tag=tolees-21) con 40.09 de descuento por 62.9 EUR (original: 104.99 EUR) en el siguiente enlace!

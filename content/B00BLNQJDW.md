@@ -10,8 +10,11 @@ author: ring
 slug: B00BLNQJDW
 description:
 actualPrice: 46.79 EUR
+currency: EUR
+price: 46.79
 comparePrice: 85.2 EUR
 inStock: true
+prodname: Lancaster Suractif Volume Contorno Night Cream 50 ml
 ---
 
 Tienes [Lancaster Suractif Volume Contorno Night Cream 50 ml](https://www.amazon.es/dp/B00BLNQJDW/?tag=tolees-21) con un 45.08 % de descuento con precio de oferta de 46.79 EUR (original: 85.2 EUR) en el siguiente enlace!

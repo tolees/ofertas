@@ -10,8 +10,11 @@ author: ring
 slug: B07F6MLVKP
 description:
 actualPrice: 20.96 EUR
+currency: EUR
+price: 20.96
 comparePrice: 32.5 EUR
 inStock: true
+prodname: MTNG 47599  Zapatillas Unisex niño   Nitro Azul/Raspe Marino C42981   39 EU
 ---
 
 Está [MTNG 47599  Zapatillas Unisex niño   Nitro Azul/Raspe Marino C42981   39 EU](https://www.amazon.es/dp/B07F6MLVKP/?tag=tolees-21) con 35.51 de descuento por 20.96 EUR (original: 32.5 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B079RQS1CX
 description:
 actualPrice: 34 EUR
+currency: EUR
+price: 34
 comparePrice: 85 EUR
 inStock: true
+prodname: Pepe Jeans Hiddleston PM305474  Camisa para Hombre  Azul  Indigo 561  Small
 ---
 
 Tienes [Pepe Jeans Hiddleston PM305474  Camisa para Hombre  Azul  Indigo 561  Small](https://www.amazon.es/dp/B079RQS1CX/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 34 EUR (original: 85 EUR) en el siguiente enlace!

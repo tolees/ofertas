@@ -10,8 +10,11 @@ author: ring
 slug: B00GN55SGM
 description:
 actualPrice: 12.12 EUR
+currency: EUR
+price: 12.12
 comparePrice: 25.78 EUR
 inStock: true
+prodname: Rayen 2366.70 - Organizador de armarios  con 6 compartimentos  125 x 30 x 30 cm
 ---
 
 Está [Rayen 2366.70 - Organizador de armarios  con 6 compartimentos  125 x 30 x 30 cm](https://www.amazon.es/dp/B00GN55SGM/?tag=tolees-21) con 52.99 de descuento por 12.12 EUR (original: 25.78 EUR) en el siguiente enlace!

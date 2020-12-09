@@ -10,8 +10,11 @@ author: ring
 slug: B01HGQZGCM
 description:
 actualPrice: 23.4 EUR
+currency: EUR
+price: 23.4
 comparePrice: 39 EUR
 inStock: true
+prodname: Nike M NSW Short JSY Club Pantalón Corto  Sin género  Gris Oscuro/Blanco  S
 ---
 
 Está [Nike M NSW Short JSY Club Pantalón Corto  Sin género  Gris Oscuro/Blanco  S](https://www.amazon.es/dp/B01HGQZGCM/?tag=tolees-21) con 40.00 de descuento por 23.4 EUR (original: 39 EUR) en el siguiente enlace!

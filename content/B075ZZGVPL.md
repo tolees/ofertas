@@ -10,8 +10,11 @@ author: ring
 slug: B075ZZGVPL
 description:
 actualPrice: 66.95 EUR
+currency: EUR
+price: 66.95
 comparePrice: 100 EUR
 inStock: true
+prodname: Nike Zoom Winflo 5  Zapatillas de Running para Hombre  Negro  Black/White/Anthracite 001   42 EU
 ---
 
 Está [Nike Zoom Winflo 5  Zapatillas de Running para Hombre  Negro  Black/White/Anthracite 001   42 EU](https://www.amazon.es/dp/B075ZZGVPL/?tag=tolees-21) con 33.05 de descuento por 66.95 EUR (original: 100 EUR) en el siguiente enlace!

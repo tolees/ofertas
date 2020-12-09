@@ -10,8 +10,11 @@ author: ring
 slug: B07MN21HWB
 description:
 actualPrice: 17.18 EUR
+currency: EUR
+price: 17.18
 comparePrice: 36.99 EUR
 inStock: true
+prodname: MTNG 47768  Zapatillas para Niñas   Tano Rosa/Mesh Blanco/Sata Azul Claro C45182   38 EU
 ---
 
 Ahora mismo tienes [MTNG 47768  Zapatillas para Niñas   Tano Rosa/Mesh Blanco/Sata Azul Claro C45182   38 EU](https://www.amazon.es/dp/B07MN21HWB/?tag=tolees-21) a 17.18 EUR (original: 36.99 EUR) (53.56 %  de descuento) en el siguiente enlace!

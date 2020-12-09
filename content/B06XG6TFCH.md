@@ -10,8 +10,11 @@ author: ring
 slug: B06XG6TFCH
 description:
 actualPrice: 132.29 EUR
+currency: EUR
+price: 132.29
 comparePrice: 243.65 EUR
 inStock: true
+prodname: Ariston 3100552 Termo Eléctrico  Andris Lux Eco 30 Or   30 l 1200 W  220 V   color blanco y negro
 ---
 
 Ahora mismo tienes [Ariston 3100552 Termo Eléctrico  Andris Lux Eco 30 Or   30 l 1200 W  220 V   color blanco y negro](https://www.amazon.es/dp/B06XG6TFCH/?tag=tolees-21) a 132.29 EUR (original: 243.65 EUR) (45.70 %  de descuento) en el siguiente enlace!

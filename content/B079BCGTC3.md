@@ -10,8 +10,11 @@ author: ring
 slug: B079BCGTC3
 description:
 actualPrice: 7.49 EUR
+currency: EUR
+price: 7.49
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Puma Ligas Pants  Hombre  Silver Lake Blue/White  L
 ---
 
 Está [Puma Ligas Pants  Hombre  Silver Lake Blue/White  L](https://www.amazon.es/dp/B079BCGTC3/?tag=tolees-21) con 58.27 de descuento por 7.49 EUR (original: 17.95 EUR) en el siguiente enlace!

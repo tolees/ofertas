@@ -10,8 +10,11 @@ author: ring
 slug: B00DTW5VXM
 description:
 actualPrice: 9.09 EUR
+currency: EUR
+price: 9.09
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Terracon 6514 - Terracon isopat 20 x 60 x 90 mm para suelos de terraza de 12 piezas por paquete
 ---
 
 Ahora mismo tienes [Terracon 6514 - Terracon isopat 20 x 60 x 90 mm para suelos de terraza de 12 piezas por paquete](https://www.amazon.es/dp/B00DTW5VXM/?tag=tolees-21) a 9.09 EUR (original: 17.99 EUR) (49.47 %  de descuento) en el siguiente enlace!

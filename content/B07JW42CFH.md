@@ -10,8 +10,11 @@ author: ring
 slug: B07JW42CFH
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Lee Extreme Motion Straight Jeans  Trip  34W / 34L para Hombre
 ---
 
 Tienes [Lee Extreme Motion Straight Jeans  Trip  34W / 34L para Hombre](https://www.amazon.es/dp/B07JW42CFH/?tag=tolees-21) con un 57.13 % de descuento con precio de oferta de 29.99 EUR (original: 69.95 EUR) en el siguiente enlace!

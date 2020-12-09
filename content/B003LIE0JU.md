@@ -10,8 +10,11 @@ author: ring
 slug: B003LIE0JU
 description:
 actualPrice: 124 EUR
+currency: EUR
+price: 124
 comparePrice: 199.9 EUR
 inStock: true
+prodname: Severin KS 9807 Mini-Congelador  30 L  Blanco
 ---
 
 Tienes [Severin KS 9807 Mini-Congelador  30 L  Blanco](https://www.amazon.es/dp/B003LIE0JU/?tag=tolees-21) con un 37.97 % de descuento con precio de oferta de 124 EUR (original: 199.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00R9WEVT8
 description:
 actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Escalofrío En La Noche [Blu-ray]
 ---
 
 Tienes [Escalofrío En La Noche [Blu-ray]](https://www.amazon.es/dp/B00R9WEVT8/?tag=tolees-21) con un 49.96 % de descuento con precio de oferta de 6.5 EUR (original: 12.99 EUR) en el siguiente enlace!

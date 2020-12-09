@@ -10,8 +10,11 @@ author: ring
 slug: B087VGRDLQ
 description:
 actualPrice: 89.99 EUR
+currency: EUR
+price: 89.99
 comparePrice: 219.99 EUR
 inStock: true
+prodname: Columbia Iceline Ridge Chaqueta De Esquí con Capucha  Hombre  Morado  Dark Purple/Mountain Red/Nimbus Grey   XL
 ---
 
 Está [Columbia Iceline Ridge Chaqueta De Esquí con Capucha  Hombre  Morado  Dark Purple/Mountain Red/Nimbus Grey   XL](https://www.amazon.es/dp/B087VGRDLQ/?tag=tolees-21) con 59.09 de descuento por 89.99 EUR (original: 219.99 EUR) en el siguiente enlace!

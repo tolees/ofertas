@@ -10,8 +10,11 @@ author: ring
 slug: B08BKCB4JW
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 11.5 EUR
 inStock: true
+prodname: SAMSUNG EVO Plus 2020 - Memoria Flash de 64 GB MicroSDXC Clase 10 UHS-I
 ---
 
 Ahora mismo tienes [SAMSUNG EVO Plus 2020 - Memoria Flash de 64 GB MicroSDXC Clase 10 UHS-I](https://www.amazon.es/dp/B08BKCB4JW/?tag=tolees-21) a 7.99 EUR (original: 11.5 EUR) (30.52 %  de descuento) en el siguiente enlace!

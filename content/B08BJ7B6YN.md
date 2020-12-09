@@ -10,8 +10,11 @@ author: ring
 slug: B08BJ7B6YN
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 7.99 EUR
 inStock: true
+prodname: Jack & Jones JJCAMOMAN tee SS Crew Neck Camiseta  Verde Oliva  M para Hombre
 ---
 
 Ahora mismo tienes [Jack & Jones JJCAMOMAN tee SS Crew Neck Camiseta  Verde Oliva  M para Hombre](https://www.amazon.es/dp/B08BJ7B6YN/?tag=tolees-21) a 5.99 EUR (original: 7.99 EUR) (25.03 %  de descuento) en el siguiente enlace!

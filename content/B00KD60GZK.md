@@ -10,8 +10,11 @@ author: ring
 slug: B00KD60GZK
 description:
 actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
 comparePrice: 12.95 EUR
 inStock: true
+prodname: Gillette Body Maquinillas Desechables Para Hombre para el Cuerpo - 3 Unidades
 ---
 
 Ahora mismo tienes [Gillette Body Maquinillas Desechables Para Hombre para el Cuerpo - 3 Unidades](https://www.amazon.es/dp/B00KD60GZK/?tag=tolees-21) a 6.5 EUR (original: 12.95 EUR) (49.81 %  de descuento) en el siguiente enlace!

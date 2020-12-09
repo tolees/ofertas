@@ -10,8 +10,11 @@ author: ring
 slug: B06XYKHY81
 description:
 actualPrice: 111.49 EUR
+currency: EUR
+price: 111.49
 comparePrice: 235.4 EUR
 inStock: true
+prodname: Imperial Confort - Topper viscoelástico - Ideal para aliviar tensiones musculares y puntos de presión - Grosor 8 cm - 120x180
 ---
 
 Ahora mismo tienes [Imperial Confort - Topper viscoelástico - Ideal para aliviar tensiones musculares y puntos de presión - Grosor 8 cm - 120x180](https://www.amazon.es/dp/B06XYKHY81/?tag=tolees-21) a 111.49 EUR (original: 235.4 EUR) (52.64 %  de descuento) en el siguiente enlace!

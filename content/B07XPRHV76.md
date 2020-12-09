@@ -10,8 +10,11 @@ author: ring
 slug: B07XPRHV76
 description:
 actualPrice: 10.53 EUR
+currency: EUR
+price: 10.53
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Biopocket - Pasas sultanas ecológicas  3 bolsas de 500 g
 ---
 
 Tienes [Biopocket - Pasas sultanas ecológicas  3 bolsas de 500 g](https://www.amazon.es/dp/B07XPRHV76/?tag=tolees-21) con un 29.75 % de descuento con precio de oferta de 10.53 EUR (original: 14.99 EUR) en el siguiente enlace!

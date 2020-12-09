@@ -10,8 +10,11 @@ author: ring
 slug: B01E0CQW4G
 description:
 actualPrice: 4.5 EUR
+currency: EUR
+price: 4.5
 comparePrice: 19.9 EUR
 inStock: true
+prodname: Piz Buin - Protección Solar  Protect & Cool Espuma Solar Refrescante SPF 30 - Protección media Bote 150 ml
 ---
 
 Tienes [Piz Buin - Protección Solar  Protect & Cool Espuma Solar Refrescante SPF 30 - Protección media Bote 150 ml](https://www.amazon.es/dp/B01E0CQW4G/?tag=tolees-21) con un 77.39 % de descuento con precio de oferta de 4.5 EUR (original: 19.9 EUR) en el siguiente enlace!

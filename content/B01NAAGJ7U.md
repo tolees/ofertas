@@ -10,8 +10,11 @@ author: ring
 slug: B01NAAGJ7U
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Amazon FreeTime - Funda infantil para Fire 7  tablet de 7 pulgadas  7ª generación  modelo de 2017   Amarillo
 ---
 
 Ahora mismo tienes [Amazon FreeTime - Funda infantil para Fire 7  tablet de 7 pulgadas  7ª generación  modelo de 2017   Amarillo](https://www.amazon.es/dp/B01NAAGJ7U/?tag=tolees-21) a 17.99 EUR (original: 24.99 EUR) (28.01 %  de descuento) en el siguiente enlace!

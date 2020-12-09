@@ -10,8 +10,11 @@ author: ring
 slug: B078WQ3ZDL
 description:
 actualPrice: 69.95 EUR
+currency: EUR
+price: 69.95
 comparePrice: 99.95 EUR
 inStock: true
+prodname: FILA Disruptor  Zapatillas Mujer  Blanco  White   36 EU
 ---
 
 Ahora mismo tienes [FILA Disruptor  Zapatillas Mujer  Blanco  White   36 EU](https://www.amazon.es/dp/B078WQ3ZDL/?tag=tolees-21) a 69.95 EUR (original: 99.95 EUR) (30.02 %  de descuento) en el siguiente enlace!

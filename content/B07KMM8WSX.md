@@ -10,8 +10,11 @@ author: ring
 slug: B07KMM8WSX
 description:
 actualPrice: 17.68 EUR
+currency: EUR
+price: 17.68
 comparePrice: 32.52 EUR
 inStock: true
+prodname: Bosch MCP3000N Exprimidor  25 W  envase extraíble para zumo 0.8 L  Blanco/ amarillo
 ---
 
 Está [Bosch MCP3000N Exprimidor  25 W  envase extraíble para zumo 0.8 L  Blanco/ amarillo](https://www.amazon.es/dp/B07KMM8WSX/?tag=tolees-21) con 45.63 de descuento por 17.68 EUR (original: 32.52 EUR) en el siguiente enlace!

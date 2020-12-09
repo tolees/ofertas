@@ -10,8 +10,11 @@ author: ring
 slug: B01G3PXSIQ
 description:
 actualPrice: 19.03 EUR
+currency: EUR
+price: 19.03
 comparePrice: 51 EUR
 inStock: true
+prodname: MR.BOHO  Monochrome red born - Gafas De Sol unisex color rojo  talla única
 ---
 
 Ahora mismo tienes [MR.BOHO  Monochrome red born - Gafas De Sol unisex color rojo  talla única](https://www.amazon.es/dp/B01G3PXSIQ/?tag=tolees-21) a 19.03 EUR (original: 51 EUR) (62.69 %  de descuento) en el siguiente enlace!

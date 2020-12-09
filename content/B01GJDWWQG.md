@@ -10,8 +10,11 @@ author: ring
 slug: B01GJDWWQG
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 37.95 EUR
 inStock: true
+prodname: Teletubbies - Peluche  Duerme contigo Musica y luz - Laa Laa
 ---
 
 Está [Teletubbies - Peluche  Duerme contigo Musica y luz - Laa Laa](https://www.amazon.es/dp/B01GJDWWQG/?tag=tolees-21) con 28.88 de descuento por 26.99 EUR (original: 37.95 EUR) en el siguiente enlace!

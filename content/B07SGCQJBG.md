@@ -10,8 +10,11 @@ author: ring
 slug: B07SGCQJBG
 description:
 actualPrice: 98.0 EUR
+currency: EUR
+price: 98.0
 comparePrice: 140.0 EUR
 inStock: true
+prodname: Asics Gel-Fujitrabuco 8  Sneaker Mens  Directoire Blue/Carrier Grey  40.5 EU
 ---
 
 Está [Asics Gel-Fujitrabuco 8  Sneaker Mens  Directoire Blue/Carrier Grey  40.5 EU](https://www.amazon.es/dp/B07SGCQJBG/?tag=tolees-21) con 30.00 de descuento por 98.0 EUR (original: 140.0 EUR) en el siguiente enlace!

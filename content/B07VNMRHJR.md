@@ -10,8 +10,11 @@ author: ring
 slug: B07VNMRHJR
 description:
 actualPrice: 23.76 EUR
+currency: EUR
+price: 23.76
 comparePrice: 139.95 EUR
 inStock: true
+prodname: G-STAR RAW Lynn 2-Zip Mid Waist Ankle Skinny Jeans Vaqueros  Azul  Worn in Night Destroyed 8971-b187   28W x 34L para Mujer
 ---
 
 Tienes [G-STAR RAW Lynn 2-Zip Mid Waist Ankle Skinny Jeans Vaqueros  Azul  Worn in Night Destroyed 8971-b187   28W x 34L para Mujer](https://www.amazon.es/dp/B07VNMRHJR/?tag=tolees-21) con un 83.02 % de descuento con precio de oferta de 23.76 EUR (original: 139.95 EUR) en el siguiente enlace!

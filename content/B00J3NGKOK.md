@@ -10,8 +10,11 @@ author: ring
 slug: B00J3NGKOK
 description:
 actualPrice: 32.26 EUR
+currency: EUR
+price: 32.26
 comparePrice: 65 EUR
 inStock: true
+prodname: Nike MD Runner 2 Se  Zapatillas para Hombre  Negro Black 001  40.5 EU
 ---
 
 Está [Nike MD Runner 2 Se  Zapatillas para Hombre  Negro Black 001  40.5 EU](https://www.amazon.es/dp/B00J3NGKOK/?tag=tolees-21) con 50.37 de descuento por 32.26 EUR (original: 65 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07SFDS24R
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 24.37 EUR
 inStock: true
+prodname: adidas Adilette Aqua  Slide Sandal Mujer  Purple Tint Footwear White Purple Tint  43 EU
 ---
 
 Tienes [adidas Adilette Aqua  Slide Sandal Mujer  Purple Tint Footwear White Purple Tint  43 EU](https://www.amazon.es/dp/B07SFDS24R/?tag=tolees-21) con un 42.59 % de descuento con precio de oferta de 13.99 EUR (original: 24.37 EUR) en el siguiente enlace!

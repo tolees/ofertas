@@ -10,8 +10,11 @@ author: ring
 slug: B0897RKFGY
 description:
 actualPrice: 33.03 EUR
+currency: EUR
+price: 33.03
 comparePrice: 66.06 EUR
 inStock: true
+prodname: qingqingR LED Esterilizador Bolsa USB Carga Desinfección Organizador para Toalla Biberón
 ---
 
 Tienes [qingqingR LED Esterilizador Bolsa USB Carga Desinfección Organizador para Toalla Biberón](https://www.amazon.es/dp/B0897RKFGY/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 33.03 EUR (original: 66.06 EUR) en el siguiente enlace!

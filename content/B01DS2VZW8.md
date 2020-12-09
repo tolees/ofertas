@@ -10,8 +10,11 @@ author: ring
 slug: B01DS2VZW8
 description:
 actualPrice: 32.96 EUR
+currency: EUR
+price: 32.96
 comparePrice: 61.5 EUR
 inStock: true
+prodname: Redken Champú - 1000 ml
 ---
 
 Tienes [Redken Champú - 1000 ml](https://www.amazon.es/dp/B01DS2VZW8/?tag=tolees-21) con un 46.41 % de descuento con precio de oferta de 32.96 EUR (original: 61.5 EUR) en el siguiente enlace!

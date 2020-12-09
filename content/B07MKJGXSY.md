@@ -10,8 +10,11 @@ author: ring
 slug: B07MKJGXSY
 description:
 actualPrice: 29.64 EUR
+currency: EUR
+price: 29.64
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW D-STAQ 5-Pocket Skinny Colored Vaqueros  Beige  Sahara A791-436   W34/L34  Talla del Fabricante: 34W / 34L  para Hombre
 ---
 
 Tienes [G-STAR RAW D-STAQ 5-Pocket Skinny Colored Vaqueros  Beige  Sahara A791-436   W34/L34  Talla del Fabricante: 34W / 34L  para Hombre](https://www.amazon.es/dp/B07MKJGXSY/?tag=tolees-21) con un 70.35 % de descuento con precio de oferta de 29.64 EUR (original: 99.95 EUR) en el siguiente enlace!

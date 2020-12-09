@@ -10,8 +10,11 @@ author: ring
 slug: B07CRJ2L9T
 description:
 actualPrice: 15.5 EUR
+currency: EUR
+price: 15.5
 comparePrice: 25 EUR
 inStock: true
+prodname: Pepe Jeans Andrea  Camiseta para Mujer    Steel Blue 563  Small
 ---
 
 Tienes [Pepe Jeans Andrea  Camiseta para Mujer    Steel Blue 563  Small](https://www.amazon.es/dp/B07CRJ2L9T/?tag=tolees-21) con un 38.00 % de descuento con precio de oferta de 15.5 EUR (original: 25 EUR) en el siguiente enlace!

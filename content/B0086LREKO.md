@@ -10,8 +10,11 @@ author: ring
 slug: B0086LREKO
 description:
 actualPrice: 10.14 EUR
+currency: EUR
+price: 10.14
 comparePrice: 52.96 EUR
 inStock: true
+prodname: Anita Maternity Still-BH s  Sujetador de Lactancia para Mujer  Negro  Schwarz 001   70C  Talla del fabricante: 70 
 ---
 
 Está [Anita Maternity Still-BH s  Sujetador de Lactancia para Mujer  Negro  Schwarz 001   70C  Talla del fabricante: 70 ](https://www.amazon.es/dp/B0086LREKO/?tag=tolees-21) con 80.85 de descuento por 10.14 EUR (original: 52.96 EUR) en el siguiente enlace!

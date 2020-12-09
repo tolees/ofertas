@@ -10,8 +10,11 @@ author: ring
 slug: B07DC8C5RM
 description:
 actualPrice: 52.04 EUR
+currency: EUR
+price: 52.04
 comparePrice: 75 EUR
 inStock: true
+prodname: LE COQ SPORTIF Courtace Sport Dress Blue  Zapatillas para Mujer  Azul Bleu  41 EU
 ---
 
 Tienes [LE COQ SPORTIF Courtace Sport Dress Blue  Zapatillas para Mujer  Azul Bleu  41 EU](https://www.amazon.es/dp/B07DC8C5RM/?tag=tolees-21) con un 30.61 % de descuento con precio de oferta de 52.04 EUR (original: 75 EUR) en el siguiente enlace!

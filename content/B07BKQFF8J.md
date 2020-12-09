@@ -10,8 +10,11 @@ author: ring
 slug: B07BKQFF8J
 description:
 actualPrice: 37.99 EUR
+currency: EUR
+price: 37.99
 comparePrice: 90 EUR
 inStock: true
+prodname: DlandHome 80 * 40 cm Ajustable Mesa de Ordenador Portatil con Ruedas Sofá Mesa Mesas de Centro con Ranura para Tableta  Arce
 ---
 
 Tienes [DlandHome 80 * 40 cm Ajustable Mesa de Ordenador Portatil con Ruedas Sofá Mesa Mesas de Centro con Ranura para Tableta  Arce](https://www.amazon.es/dp/B07BKQFF8J/?tag=tolees-21) con un 57.79 % de descuento con precio de oferta de 37.99 EUR (original: 90 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00KE3GNY0
 description:
 actualPrice: 16.25 EUR
+currency: EUR
+price: 16.25
 comparePrice: 70 EUR
 inStock: true
+prodname: Merc of London Winston - Pantalón chino para hombre  color negro  talla talla francesa: w28  taille fabricant: 28 
 ---
 
 Está [Merc of London Winston - Pantalón chino para hombre  color negro  talla talla francesa: w28  taille fabricant: 28 ](https://www.amazon.es/dp/B00KE3GNY0/?tag=tolees-21) con 76.79 de descuento por 16.25 EUR (original: 70 EUR) en el siguiente enlace!

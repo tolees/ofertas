@@ -10,8 +10,11 @@ author: ring
 slug: B07D9W6LSC
 description:
 actualPrice: 32.6 EUR
+currency: EUR
+price: 32.6
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Mustang Booty  Botas Clasicas para Hombre  Marrón  Mittelbraun 360   43 EU
 ---
 
 Está [Mustang Booty  Botas Clasicas para Hombre  Marrón  Mittelbraun 360   43 EU](https://www.amazon.es/dp/B07D9W6LSC/?tag=tolees-21) con 53.40 de descuento por 32.6 EUR (original: 69.95 EUR) en el siguiente enlace!

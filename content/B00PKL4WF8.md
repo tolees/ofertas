@@ -10,8 +10,11 @@ author: ring
 slug: B00PKL4WF8
 description:
 actualPrice: 43.95 EUR
+currency: EUR
+price: 43.95
 comparePrice: 66 EUR
 inStock: true
+prodname: Nike Viale  Zapatillas para Hombre  Negro  Black/White 002   42 EU
 ---
 
 Tienes [Nike Viale  Zapatillas para Hombre  Negro  Black/White 002   42 EU](https://www.amazon.es/dp/B00PKL4WF8/?tag=tolees-21) con un 33.41 % de descuento con precio de oferta de 43.95 EUR (original: 66 EUR) en el siguiente enlace!

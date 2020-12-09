@@ -10,8 +10,11 @@ author: ring
 slug: B000WIQLG2
 description:
 actualPrice: 12.58 EUR
+currency: EUR
+price: 12.58
 comparePrice: 17.09 EUR
 inStock: true
+prodname: Jameson Original Whisky Irlandés - 700 ml
 ---
 
 Ahora mismo tienes [Jameson Original Whisky Irlandés - 700 ml](https://www.amazon.es/dp/B000WIQLG2/?tag=tolees-21) a 12.58 EUR (original: 17.09 EUR) (26.39 %  de descuento) en el siguiente enlace!

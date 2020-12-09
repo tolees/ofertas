@@ -10,8 +10,11 @@ author: ring
 slug: B07DBWXVDX
 description:
 actualPrice: 23.04 EUR
+currency: EUR
+price: 23.04
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Puma California  Zapatillas Unisex Adulto  Negro White Black  37 EU
 ---
 
 Ahora mismo tienes [Puma California  Zapatillas Unisex Adulto  Negro White Black  37 EU](https://www.amazon.es/dp/B07DBWXVDX/?tag=tolees-21) a 23.04 EUR (original: 89.95 EUR) (74.39 %  de descuento) en el siguiente enlace!

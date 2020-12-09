@@ -10,8 +10,11 @@ author: ring
 slug: B01NAWWO0C
 description:
 actualPrice: 15.94 EUR
+currency: EUR
+price: 15.94
 comparePrice: 39.99 EUR
 inStock: true
+prodname: D. Franklin HVK19201  Zapatillas Unisex Adulto  Azul  Blue   45 EU
 ---
 
 Ahora mismo tienes [D. Franklin HVK19201  Zapatillas Unisex Adulto  Azul  Blue   45 EU](https://www.amazon.es/dp/B01NAWWO0C/?tag=tolees-21) a 15.94 EUR (original: 39.99 EUR) (60.14 %  de descuento) en el siguiente enlace!

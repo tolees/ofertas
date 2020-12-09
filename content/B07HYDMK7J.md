@@ -10,8 +10,11 @@ author: ring
 slug: B07HYDMK7J
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 24.9 EUR
 inStock: true
+prodname: Lékué Recipiente para cocinar Quinoa  Arroces y Cereales  1 Litro
 ---
 
 Tienes [Lékué Recipiente para cocinar Quinoa  Arroces y Cereales  1 Litro](https://www.amazon.es/dp/B07HYDMK7J/?tag=tolees-21) con un 43.82 % de descuento con precio de oferta de 13.99 EUR (original: 24.9 EUR) en el siguiente enlace!

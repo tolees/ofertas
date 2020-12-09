@@ -10,8 +10,11 @@ author: ring
 slug: B07DKJD9QT
 description:
 actualPrice: 22.49 EUR
+currency: EUR
+price: 22.49
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Puma Essentials HD Sudadera con Capucha  Hombre  Negro Black  L
 ---
 
 Está [Puma Essentials HD Sudadera con Capucha  Hombre  Negro Black  L](https://www.amazon.es/dp/B07DKJD9QT/?tag=tolees-21) con 59.07 de descuento por 22.49 EUR (original: 54.95 EUR) en el siguiente enlace!

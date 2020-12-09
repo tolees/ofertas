@@ -10,8 +10,11 @@ author: ring
 slug: B07PFCVT5L
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 58.99 EUR
 inStock: true
+prodname: HIWEAR Hombre 5 Pack divertidos Colorido Diseño de Lujo Rich Cotton Comfort Dress Calf Calcetines  XL:UK 10-14/EU 44-49  New-funky2 
 ---
 
 Está [HIWEAR Hombre 5 Pack divertidos Colorido Diseño de Lujo Rich Cotton Comfort Dress Calf Calcetines  XL:UK 10-14/EU 44-49  New-funky2 ](https://www.amazon.es/dp/B07PFCVT5L/?tag=tolees-21) con 72.89 de descuento por 15.99 EUR (original: 58.99 EUR) en el siguiente enlace!

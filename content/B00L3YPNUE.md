@@ -10,8 +10,11 @@ author: ring
 slug: B00L3YPNUE
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: TOPELEK Ratón Gaming Inalámbrico Clic Silencioso 7 Botones USB portátil PC 2.4G óptico inalámbrico 2400 DPI 5 Niveles de ajuste con receptor nano para Windows Mac MacBook Linux-Ultra Ahorro de Energía
 ---
 
 Está [TOPELEK Ratón Gaming Inalámbrico Clic Silencioso 7 Botones USB portátil PC 2.4G óptico inalámbrico 2400 DPI 5 Niveles de ajuste con receptor nano para Windows Mac MacBook Linux-Ultra Ahorro de Energía](https://www.amazon.es/dp/B00L3YPNUE/?tag=tolees-21) con 25.02 de descuento por 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!

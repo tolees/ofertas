@@ -10,8 +10,11 @@ author: ring
 slug: B07ZT64TKT
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: GOKOO Bluetooth Smartwatch Hombre Reloj Inteligente Impermeable IP68 Actividad Monitor Pulsómetro Compatible con Android y iOS
 ---
 
 Está [GOKOO Bluetooth Smartwatch Hombre Reloj Inteligente Impermeable IP68 Actividad Monitor Pulsómetro Compatible con Android y iOS](https://www.amazon.es/dp/B07ZT64TKT/?tag=tolees-21) con 33.34 de descuento por 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!

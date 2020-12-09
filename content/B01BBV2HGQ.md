@@ -10,8 +10,11 @@ author: ring
 slug: B01BBV2HGQ
 description:
 actualPrice: 1.66 EUR
+currency: EUR
+price: 1.66
 comparePrice: 2.99 EUR
 inStock: true
+prodname: Maybelline New York Color Show  Esmalte de Uñas Secado Rápido  Tono: 020 Blush Berry
 ---
 
 Tienes [Maybelline New York Color Show  Esmalte de Uñas Secado Rápido  Tono: 020 Blush Berry](https://www.amazon.es/dp/B01BBV2HGQ/?tag=tolees-21) con un 44.48 % de descuento con precio de oferta de 1.66 EUR (original: 2.99 EUR) en el siguiente enlace!

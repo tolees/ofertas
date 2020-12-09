@@ -10,8 +10,11 @@ author: ring
 slug: B07DCBBWZR
 description:
 actualPrice: 23.86 EUR
+currency: EUR
+price: 23.86
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 48152  Botas Clasicas para Hombre  Marrón  Brown   43 EU
 ---
 
 Está [XTI 48152  Botas Clasicas para Hombre  Marrón  Brown   43 EU](https://www.amazon.es/dp/B07DCBBWZR/?tag=tolees-21) con 52.23 de descuento por 23.86 EUR (original: 49.95 EUR) en el siguiente enlace!

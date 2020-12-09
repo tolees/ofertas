@@ -10,8 +10,11 @@ author: ring
 slug: B00KHJYWU8
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 7.99 EUR
 inStock: true
+prodname: Puma 231011001  Calcetines Unisex Adulto  Multicolor  gris 460   43-46
 ---
 
 Está [Puma 231011001  Calcetines Unisex Adulto  Multicolor  gris 460   43-46](https://www.amazon.es/dp/B00KHJYWU8/?tag=tolees-21) con 37.55 de descuento por 4.99 EUR (original: 7.99 EUR) en el siguiente enlace!

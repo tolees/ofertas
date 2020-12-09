@@ -10,8 +10,11 @@ author: ring
 slug: B075MCNQF9
 description:
 actualPrice: 17.42 EUR
+currency: EUR
+price: 17.42
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Marca Amazon - MERAKI Vaqueros Slim Mujer  Azul  Indigo Rinse   32W / 32L  Label: 32W / 32L
 ---
 
 Tienes [Marca Amazon - MERAKI Vaqueros Slim Mujer  Azul  Indigo Rinse   32W / 32L  Label: 32W / 32L](https://www.amazon.es/dp/B075MCNQF9/?tag=tolees-21) con un 41.93 % de descuento con precio de oferta de 17.42 EUR (original: 30.0 EUR) en el siguiente enlace!

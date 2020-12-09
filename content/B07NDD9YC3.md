@@ -10,8 +10,11 @@ author: ring
 slug: B07NDD9YC3
 description:
 actualPrice: 2.97 EUR
+currency: EUR
+price: 2.97
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Reloj Javpoo de Acero Inoxidable - Reloj de Pulsera analógico de Cuarzo Casual para Mujer  Reloj de Pulsera  Reloj de cumpleaños del día de San Valentín  Relojes de Mujer en Oferta Relojes para Mujer
 ---
 
 Ahora mismo tienes [Reloj Javpoo de Acero Inoxidable - Reloj de Pulsera analógico de Cuarzo Casual para Mujer  Reloj de Pulsera  Reloj de cumpleaños del día de San Valentín  Relojes de Mujer en Oferta Relojes para Mujer](https://www.amazon.es/dp/B07NDD9YC3/?tag=tolees-21) a 2.97 EUR (original: 15.99 EUR) (81.43 %  de descuento) en el siguiente enlace!

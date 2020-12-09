@@ -10,8 +10,11 @@ author: ring
 slug: B07DYLJJFP
 description:
 actualPrice: 57.08 EUR
+currency: EUR
+price: 57.08
 comparePrice: 110 EUR
 inStock: true
+prodname: Nike Free RN CMTR 2018  Zapatillas de Running para Hombre  Negro  Black/White 001   42.5 EU
 ---
 
 Ahora mismo tienes [Nike Free RN CMTR 2018  Zapatillas de Running para Hombre  Negro  Black/White 001   42.5 EU](https://www.amazon.es/dp/B07DYLJJFP/?tag=tolees-21) a 57.08 EUR (original: 110 EUR) (48.11 %  de descuento) en el siguiente enlace!

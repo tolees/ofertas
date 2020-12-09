@@ -10,8 +10,11 @@ author: ring
 slug: B07CYVPCJY
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 32.98 EUR
 inStock: true
+prodname: Gemvie - Bañador para hombre  bañador de playa o vacaciones  elástico azul marino L
 ---
 
 Está [Gemvie - Bañador para hombre  bañador de playa o vacaciones  elástico azul marino L](https://www.amazon.es/dp/B07CYVPCJY/?tag=tolees-21) con 69.71 de descuento por 9.99 EUR (original: 32.98 EUR) en el siguiente enlace!

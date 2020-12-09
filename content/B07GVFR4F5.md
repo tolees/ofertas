@@ -10,8 +10,11 @@ author: ring
 slug: B07GVFR4F5
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: SKYSPER 60L Mochila de Senderismo con Cubierta Lluvia Impermeable Trekking Deportiva Macutos para Montañismo Escalada Marcha Camping Deporte Al Aire Libre Viaje Deportes Hombres Mujeres
 ---
 
 Ahora mismo tienes [SKYSPER 60L Mochila de Senderismo con Cubierta Lluvia Impermeable Trekking Deportiva Macutos para Montañismo Escalada Marcha Camping Deporte Al Aire Libre Viaje Deportes Hombres Mujeres](https://www.amazon.es/dp/B07GVFR4F5/?tag=tolees-21) a 63.99 EUR (original: 99.99 EUR) (36.00 %  de descuento) en el siguiente enlace!

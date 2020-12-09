@@ -10,8 +10,11 @@ author: ring
 slug: B07DB1NYN2
 description:
 actualPrice: 26.37 EUR
+currency: EUR
+price: 26.37
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Mustang Schnür-Booty  Botines para Niñas  Marrón  Kastanie 301   40 EU
 ---
 
 Ahora mismo tienes [Mustang Schnür-Booty  Botines para Niñas  Marrón  Kastanie 301   40 EU](https://www.amazon.es/dp/B07DB1NYN2/?tag=tolees-21) a 26.37 EUR (original: 59.95 EUR) (56.01 %  de descuento) en el siguiente enlace!

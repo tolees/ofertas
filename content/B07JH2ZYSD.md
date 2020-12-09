@@ -10,8 +10,11 @@ author: ring
 slug: B07JH2ZYSD
 description:
 actualPrice: 15 EUR
+currency: EUR
+price: 15
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Puma ftblNXT Graphic Shirt Core Camiseta  Hombre  Rojo  Red Blast Black   M
 ---
 
 Tienes [Puma ftblNXT Graphic Shirt Core Camiseta  Hombre  Rojo  Red Blast Black   M](https://www.amazon.es/dp/B07JH2ZYSD/?tag=tolees-21) con un 49.92 % de descuento con precio de oferta de 15 EUR (original: 29.95 EUR) en el siguiente enlace!

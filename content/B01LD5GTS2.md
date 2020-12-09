@@ -10,8 +10,11 @@ author: ring
 slug: B01LD5GTS2
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Sony MDRAS210APB.CE7 - Auriculares Deportivos de botón con Agarre al oído  Resistentes a Salpicaduras  Manos Libres Compatible con Apple iPhone y Android   Color Negro
 ---
 
 Ahora mismo tienes [Sony MDRAS210APB.CE7 - Auriculares Deportivos de botón con Agarre al oído  Resistentes a Salpicaduras  Manos Libres Compatible con Apple iPhone y Android   Color Negro](https://www.amazon.es/dp/B01LD5GTS2/?tag=tolees-21) a 11.99 EUR (original: 25.0 EUR) (52.04 %  de descuento) en el siguiente enlace!

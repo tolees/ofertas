@@ -10,8 +10,11 @@ author: ring
 slug: B00GK9IEE4
 description:
 actualPrice: 13.06 EUR
+currency: EUR
+price: 13.06
 comparePrice: 21.25 EUR
 inStock: true
+prodname: Aerocool DSFAN - Ventilador gaming para PC  14 cm  12V/7V  9 aspas  15.8 dB  iluminación LED blanco  ultrasilencioso  antivibración  vida útil 100.000h   color blanco
 ---
 
 Tienes [Aerocool DSFAN - Ventilador gaming para PC  14 cm  12V/7V  9 aspas  15.8 dB  iluminación LED blanco  ultrasilencioso  antivibración  vida útil 100.000h   color blanco](https://www.amazon.es/dp/B00GK9IEE4/?tag=tolees-21) con un 38.54 % de descuento con precio de oferta de 13.06 EUR (original: 21.25 EUR) en el siguiente enlace!

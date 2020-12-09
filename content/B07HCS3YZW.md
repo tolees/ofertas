@@ -10,8 +10,11 @@ author: ring
 slug: B07HCS3YZW
 description:
 actualPrice: 46.45 EUR
+currency: EUR
+price: 46.45
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Lighweight Corporate Runner  Zapatillas para Hombre  Blanco  White 100   44 EU
 ---
 
 Tienes [Tommy Hilfiger Lighweight Corporate Runner  Zapatillas para Hombre  Blanco  White 100   44 EU](https://www.amazon.es/dp/B07HCS3YZW/?tag=tolees-21) con un 53.50 % de descuento con precio de oferta de 46.45 EUR (original: 99.9 EUR) en el siguiente enlace!

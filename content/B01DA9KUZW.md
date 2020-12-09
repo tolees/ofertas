@@ -10,8 +10,11 @@ author: ring
 slug: B01DA9KUZW
 description:
 actualPrice: 9.62 EUR
+currency: EUR
+price: 9.62
 comparePrice: 22.9 EUR
 inStock: true
+prodname: Belino Stars - Juguetero oval de tela  30 x 45 x 27 cm  color gris
 ---
 
 Está [Belino Stars - Juguetero oval de tela  30 x 45 x 27 cm  color gris](https://www.amazon.es/dp/B01DA9KUZW/?tag=tolees-21) con 57.99 de descuento por 9.62 EUR (original: 22.9 EUR) en el siguiente enlace!

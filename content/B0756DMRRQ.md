@@ -10,8 +10,11 @@ author: ring
 slug: B0756DMRRQ
 description:
 actualPrice: 4 EUR
+currency: EUR
+price: 4
 comparePrice: 9.64 EUR
 inStock: true
+prodname: El Otro Guardaespaldas Blu-Ray [Blu-ray]
 ---
 
 Ahora mismo tienes [El Otro Guardaespaldas Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B0756DMRRQ/?tag=tolees-21) a 4 EUR (original: 9.64 EUR) (58.51 %  de descuento) en el siguiente enlace!

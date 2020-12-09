@@ -10,8 +10,11 @@ author: ring
 slug: B07KK1ZCYQ
 description:
 actualPrice: 28.0 EUR
+currency: EUR
+price: 28.0
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Safety 1st Bolid Andador bebé primeros pasos  3 alturas regulables  Centro de actividades con 12 melodias  asiento alcochado  Base Antivuelco  Color Gris
 ---
 
 Ahora mismo tienes [Safety 1st Bolid Andador bebé primeros pasos  3 alturas regulables  Centro de actividades con 12 melodias  asiento alcochado  Base Antivuelco  Color Gris](https://www.amazon.es/dp/B07KK1ZCYQ/?tag=tolees-21) a 28.0 EUR (original: 45.0 EUR) (37.78 %  de descuento) en el siguiente enlace!

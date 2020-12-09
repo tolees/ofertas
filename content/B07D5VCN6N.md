@@ -10,8 +10,11 @@ author: ring
 slug: B07D5VCN6N
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 39.95 EUR
 inStock: true
+prodname: PUMA ESS Logo Pants TR cl Pants  Hombre  Puma Black  XXL
 ---
 
 Está [PUMA ESS Logo Pants TR cl Pants  Hombre  Puma Black  XXL](https://www.amazon.es/dp/B07D5VCN6N/?tag=tolees-21) con 39.95 de descuento por 23.99 EUR (original: 39.95 EUR) en el siguiente enlace!

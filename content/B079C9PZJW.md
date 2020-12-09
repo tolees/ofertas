@@ -10,8 +10,11 @@ author: ring
 slug: B079C9PZJW
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Jack & Jones Jjebasic Polo SS Noos - Camiseta para Hombre  Blanco   Talla L
 ---
 
 Ahora mismo tienes [Jack & Jones Jjebasic Polo SS Noos - Camiseta para Hombre  Blanco   Talla L](https://www.amazon.es/dp/B079C9PZJW/?tag=tolees-21) a 6.99 EUR (original: 14.99 EUR) (53.37 %  de descuento) en el siguiente enlace!

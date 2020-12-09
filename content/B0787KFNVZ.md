@@ -10,8 +10,11 @@ author: ring
 slug: B0787KFNVZ
 description:
 actualPrice: 52.13 EUR
+currency: EUR
+price: 52.13
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Columbia Fairbanks 503  Botas Plisadas para Hombre  Marrón  Elk  Deep Rust   43 EU
 ---
 
 Ahora mismo tienes [Columbia Fairbanks 503  Botas Plisadas para Hombre  Marrón  Elk  Deep Rust   43 EU](https://www.amazon.es/dp/B0787KFNVZ/?tag=tolees-21) a 52.13 EUR (original: 119.99 EUR) (56.55 %  de descuento) en el siguiente enlace!

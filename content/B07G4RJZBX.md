@@ -10,8 +10,11 @@ author: ring
 slug: B07G4RJZBX
 description:
 actualPrice: 109.0 EUR
+currency: EUR
+price: 109.0
 comparePrice: 155.48 EUR
 inStock: true
+prodname: Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con Correa en Cuero 1781982
 ---
 
 Tienes [Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con Correa en Cuero 1781982](https://www.amazon.es/dp/B07G4RJZBX/?tag=tolees-21) con un 29.89 % de descuento con precio de oferta de 109.0 EUR (original: 155.48 EUR) en el siguiente enlace!

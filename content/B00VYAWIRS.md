@@ -10,8 +10,11 @@ author: ring
 slug: B00VYAWIRS
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 18.99 EUR
 inStock: true
+prodname: HP 302 F6U66AE Negro  Cartucho Original  de 190 páginas  para impresoras HP Deskjet serie 1110  2100  3600; HP ENVY 4500 y HP OfficeJet 3800  4600  5200
 ---
 
 Ahora mismo tienes [HP 302 F6U66AE Negro  Cartucho Original  de 190 páginas  para impresoras HP Deskjet serie 1110  2100  3600; HP ENVY 4500 y HP OfficeJet 3800  4600  5200](https://www.amazon.es/dp/B00VYAWIRS/?tag=tolees-21) a 13.99 EUR (original: 18.99 EUR) (26.33 %  de descuento) en el siguiente enlace!

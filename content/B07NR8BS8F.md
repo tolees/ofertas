@@ -10,8 +10,11 @@ author: ring
 slug: B07NR8BS8F
 description:
 actualPrice: 6.81 EUR
+currency: EUR
+price: 6.81
 comparePrice: 11.25 EUR
 inStock: true
+prodname: SYOSS Champú Color Tech para un Color Vibrante- 3 uds de 500ml  Total: 1500ml 
 ---
 
 Tienes [SYOSS Champú Color Tech para un Color Vibrante- 3 uds de 500ml  Total: 1500ml ](https://www.amazon.es/dp/B07NR8BS8F/?tag=tolees-21) con un 39.47 % de descuento con precio de oferta de 6.81 EUR (original: 11.25 EUR) en el siguiente enlace!

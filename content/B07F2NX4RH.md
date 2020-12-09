@@ -10,8 +10,11 @@ author: ring
 slug: B07F2NX4RH
 description:
 actualPrice: 44.85 EUR
+currency: EUR
+price: 44.85
 comparePrice: 110 EUR
 inStock: true
+prodname: Stonefly Voyager 3 Velour Shade  Zapatos de Cordones Derby para Hombre  Gris  Forged Gray 07X   42 EU
 ---
 
 Ahora mismo tienes [Stonefly Voyager 3 Velour Shade  Zapatos de Cordones Derby para Hombre  Gris  Forged Gray 07X   42 EU](https://www.amazon.es/dp/B07F2NX4RH/?tag=tolees-21) a 44.85 EUR (original: 110 EUR) (59.23 %  de descuento) en el siguiente enlace!

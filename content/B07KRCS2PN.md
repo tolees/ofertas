@@ -10,8 +10,11 @@ author: ring
 slug: B07KRCS2PN
 description:
 actualPrice: 15.04 EUR
+currency: EUR
+price: 15.04
 comparePrice: 32.95 EUR
 inStock: true
+prodname: Kappa Diggle Kids  Zapatillas Unisex Niños  Azul  Navy/Orange 6744   35 EU
 ---
 
 Ahora mismo tienes [Kappa Diggle Kids  Zapatillas Unisex Niños  Azul  Navy/Orange 6744   35 EU](https://www.amazon.es/dp/B07KRCS2PN/?tag=tolees-21) a 15.04 EUR (original: 32.95 EUR) (54.36 %  de descuento) en el siguiente enlace!

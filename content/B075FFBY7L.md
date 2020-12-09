@@ -10,8 +10,11 @@ author: ring
 slug: B075FFBY7L
 description:
 actualPrice: 129.0 EUR
+currency: EUR
+price: 129.0
 comparePrice: 179.0 EUR
 inStock: true
+prodname: Maxi-Cosi CabrioFix  Silla de auto  reclinable y seguro para bebé  0-12 meses  0-13 kg  Nomad Black  negro 
 ---
 
 Tienes [Maxi-Cosi CabrioFix  Silla de auto  reclinable y seguro para bebé  0-12 meses  0-13 kg  Nomad Black  negro ](https://www.amazon.es/dp/B075FFBY7L/?tag=tolees-21) con un 27.93 % de descuento con precio de oferta de 129.0 EUR (original: 179.0 EUR) en el siguiente enlace!

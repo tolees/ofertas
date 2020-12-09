@@ -10,8 +10,11 @@ author: ring
 slug: B00O0Y8SGU
 description:
 actualPrice: 16.23 EUR
+currency: EUR
+price: 16.23
 comparePrice: 39 EUR
 inStock: true
+prodname: Levi s Rectangular Buckle Belt - Cinturón Hombre  Negro  BLACK   90 cm  Talla del fabricante: 90 
 ---
 
 Ahora mismo tienes [Levi s Rectangular Buckle Belt - Cinturón Hombre  Negro  BLACK   90 cm  Talla del fabricante: 90 ](https://www.amazon.es/dp/B00O0Y8SGU/?tag=tolees-21) a 16.23 EUR (original: 39 EUR) (58.38 %  de descuento) en el siguiente enlace!

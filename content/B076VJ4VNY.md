@@ -10,8 +10,11 @@ author: ring
 slug: B076VJ4VNY
 description:
 actualPrice: 48 EUR
+currency: EUR
+price: 48
 comparePrice: 69.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301.5  Pantalones Cortos Hombre  Azul  Medium Aged 071   31
 ---
 
 Tienes [G-STAR RAW 3301.5  Pantalones Cortos Hombre  Azul  Medium Aged 071   31](https://www.amazon.es/dp/B076VJ4VNY/?tag=tolees-21) con un 31.38 % de descuento con precio de oferta de 48 EUR (original: 69.95 EUR) en el siguiente enlace!

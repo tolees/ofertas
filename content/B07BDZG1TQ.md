@@ -10,8 +10,11 @@ author: ring
 slug: B07BDZG1TQ
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 21.99 EUR
 inStock: true
+prodname: Only ONLGEENA XO L/S Pullover KNT Noos suéter  Amarillo  Golden Yellow Golden Yellow   Small para Mujer
 ---
 
 Ahora mismo tienes [Only ONLGEENA XO L/S Pullover KNT Noos suéter  Amarillo  Golden Yellow Golden Yellow   Small para Mujer](https://www.amazon.es/dp/B07BDZG1TQ/?tag=tolees-21) a 14.99 EUR (original: 21.99 EUR) (31.83 %  de descuento) en el siguiente enlace!

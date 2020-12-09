@@ -10,8 +10,11 @@ author: ring
 slug: B01M24UTEV
 description:
 actualPrice: 9.71 EUR
+currency: EUR
+price: 9.71
 comparePrice: 28 EUR
 inStock: true
+prodname: Reef Escape Lux Print Rose Shibori  Chanclas para Mujer  41 EU
 ---
 
 Está [Reef Escape Lux Print Rose Shibori  Chanclas para Mujer  41 EU](https://www.amazon.es/dp/B01M24UTEV/?tag=tolees-21) con 65.32 de descuento por 9.71 EUR (original: 28 EUR) en el siguiente enlace!

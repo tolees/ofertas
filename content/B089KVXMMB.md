@@ -10,8 +10,11 @@ author: ring
 slug: B089KVXMMB
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 33.99 EUR
 inStock: true
+prodname: Oral-B CrossAction Cabezales De Recambio Con Tecnología CleanMaximiser  Tamaño De Buzón  Pack De 8
 ---
 
 Tienes [Oral-B CrossAction Cabezales De Recambio Con Tecnología CleanMaximiser  Tamaño De Buzón  Pack De 8](https://www.amazon.es/dp/B089KVXMMB/?tag=tolees-21) con un 35.30 % de descuento con precio de oferta de 21.99 EUR (original: 33.99 EUR) en el siguiente enlace!

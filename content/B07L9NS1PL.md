@@ -10,8 +10,11 @@ author: ring
 slug: B07L9NS1PL
 description:
 actualPrice: 16.8 EUR
+currency: EUR
+price: 16.8
 comparePrice: 39 EUR
 inStock: true
+prodname: Napapijri Seithem W Camiseta  Azul  Dark Denim Bd1   XX-Large para Mujer
 ---
 
 Ahora mismo tienes [Napapijri Seithem W Camiseta  Azul  Dark Denim Bd1   XX-Large para Mujer](https://www.amazon.es/dp/B07L9NS1PL/?tag=tolees-21) a 16.8 EUR (original: 39 EUR) (56.92 %  de descuento) en el siguiente enlace!

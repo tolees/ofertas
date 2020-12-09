@@ -10,8 +10,11 @@ author: ring
 slug: B00X9TTLB8
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 8.5 EUR
 inStock: true
+prodname: Garnier Skin Active BB Cream Matificante Crema Correctora y Anti Imperfecciones para Pieles Mixtas a Grasas  Tono Claro SPF20 con Vitamina C - 40 ml
 ---
 
 Tienes [Garnier Skin Active BB Cream Matificante Crema Correctora y Anti Imperfecciones para Pieles Mixtas a Grasas  Tono Claro SPF20 con Vitamina C - 40 ml](https://www.amazon.es/dp/B00X9TTLB8/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 5.95 EUR (original: 8.5 EUR) en el siguiente enlace!

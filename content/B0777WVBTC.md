@@ -10,8 +10,11 @@ author: ring
 slug: B0777WVBTC
 description:
 actualPrice: 25.59 EUR
+currency: EUR
+price: 25.59
 comparePrice: 75 EUR
 inStock: true
+prodname: Under Armour UA W Fuse Fst  Zapatillas de Running para Mujer  Verde  Refresh Mint   36.5 EU
 ---
 
 Está [Under Armour UA W Fuse Fst  Zapatillas de Running para Mujer  Verde  Refresh Mint   36.5 EU](https://www.amazon.es/dp/B0777WVBTC/?tag=tolees-21) con 65.88 de descuento por 25.59 EUR (original: 75 EUR) en el siguiente enlace!

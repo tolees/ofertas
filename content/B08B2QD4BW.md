@@ -10,8 +10,11 @@ author: ring
 slug: B08B2QD4BW
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: FIFA 21 Champions | Código Origin para PC
 ---
 
 Está [FIFA 21 Champions | Código Origin para PC](https://www.amazon.es/dp/B08B2QD4BW/?tag=tolees-21) con 50.01 de descuento por 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FZ4P5KR
 description:
 actualPrice: 89.9 EUR
+currency: EUR
+price: 89.9
 comparePrice: 149.99 EUR
 inStock: true
+prodname: tado° Cabezal Termostático Inteligente -  Pack Duo  Accesorio para control de habitaciones múltiples  control de calefacción inteligente  Instálalo tú mismo  Blanco
 ---
 
 Está [tado° Cabezal Termostático Inteligente -  Pack Duo  Accesorio para control de habitaciones múltiples  control de calefacción inteligente  Instálalo tú mismo  Blanco](https://www.amazon.es/dp/B07FZ4P5KR/?tag=tolees-21) con 40.06 de descuento por 89.9 EUR (original: 149.99 EUR) en el siguiente enlace!

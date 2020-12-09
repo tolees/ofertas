@@ -10,8 +10,11 @@ author: ring
 slug: B00O2RWZOQ
 description:
 actualPrice: 6.9 EUR
+currency: EUR
+price: 6.9
 comparePrice: 24 EUR
 inStock: true
+prodname: Sans Complexe Coton D ARUM Sujetador  Blanc  90B para Hombre
 ---
 
 Ahora mismo tienes [Sans Complexe Coton D ARUM Sujetador  Blanc  90B para Hombre](https://www.amazon.es/dp/B00O2RWZOQ/?tag=tolees-21) a 6.9 EUR (original: 24 EUR) (71.25 %  de descuento) en el siguiente enlace!

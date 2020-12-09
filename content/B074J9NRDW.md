@@ -10,8 +10,11 @@ author: ring
 slug: B074J9NRDW
 description:
 actualPrice: 64.99 EUR
+currency: EUR
+price: 64.99
 comparePrice: 89.0 EUR
 inStock: true
+prodname: Polti Forzaspira C115 Plus Aspirador cicónico sin bolsa  2 litros capacidad depósito de recogida  bajo consumo  80 Decibelios  Plastic  Negro/Amarillo
 ---
 
 Ahora mismo tienes [Polti Forzaspira C115 Plus Aspirador cicónico sin bolsa  2 litros capacidad depósito de recogida  bajo consumo  80 Decibelios  Plastic  Negro/Amarillo](https://www.amazon.es/dp/B074J9NRDW/?tag=tolees-21) a 64.99 EUR (original: 89.0 EUR) (26.98 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B001NYH2XK
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Reebok Classic Leather  Zapatillas de Running para Mujer  36
 ---
 
 Tienes [Reebok Classic Leather  Zapatillas de Running para Mujer  36](https://www.amazon.es/dp/B001NYH2XK/?tag=tolees-21) con un 65.72 % de descuento con precio de oferta de 23.99 EUR (original: 69.99 EUR) en el siguiente enlace!

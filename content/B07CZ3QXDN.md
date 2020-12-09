@@ -10,8 +10,11 @@ author: ring
 slug: B07CZ3QXDN
 description:
 actualPrice: 45 EUR
+currency: EUR
+price: 45
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Puma Muse Satin EP Wn s  Zapatillas para Mujer  Naranja Dusty Coral  38 EU
 ---
 
 Está [Puma Muse Satin EP Wn s  Zapatillas para Mujer  Naranja Dusty Coral  38 EU](https://www.amazon.es/dp/B07CZ3QXDN/?tag=tolees-21) con 49.97 de descuento por 45 EUR (original: 89.95 EUR) en el siguiente enlace!

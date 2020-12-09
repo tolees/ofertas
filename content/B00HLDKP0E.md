@@ -10,8 +10,11 @@ author: ring
 slug: B00HLDKP0E
 description:
 actualPrice: 7.83 EUR
+currency: EUR
+price: 7.83
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Schiesser - Lencería para Hombre  Talla 5XL  Color Negro
 ---
 
 Ahora mismo tienes [Schiesser - Lencería para Hombre  Talla 5XL  Color Negro](https://www.amazon.es/dp/B00HLDKP0E/?tag=tolees-21) a 7.83 EUR (original: 17.95 EUR) (56.38 %  de descuento) en el siguiente enlace!

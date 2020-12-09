@@ -10,8 +10,11 @@ author: ring
 slug: B073SDLCLK
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Pro Breeze Humidificador Ultrasónico de 3 8 L  Depósito de Agua de Gran Capacidad  Bandeja Difusor de Aroma  Luz Nocturna y Apagado Automático
 ---
 
 Está [Pro Breeze Humidificador Ultrasónico de 3 8 L  Depósito de Agua de Gran Capacidad  Bandeja Difusor de Aroma  Luz Nocturna y Apagado Automático](https://www.amazon.es/dp/B073SDLCLK/?tag=tolees-21) con 29.10 de descuento por 38.99 EUR (original: 54.99 EUR) en el siguiente enlace!

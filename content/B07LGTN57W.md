@@ -10,8 +10,11 @@ author: ring
 slug: B07LGTN57W
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 22.91 EUR
 inStock: true
+prodname: YOINS Blusa Mujer Manga Larga Camiseta Cuello V Camisa Elegante Túnica Casual SueltoTops Otoño Invierno Rosa XL
 ---
 
 Tienes [YOINS Blusa Mujer Manga Larga Camiseta Cuello V Camisa Elegante Túnica Casual SueltoTops Otoño Invierno Rosa XL](https://www.amazon.es/dp/B07LGTN57W/?tag=tolees-21) con un 38.93 % de descuento con precio de oferta de 13.99 EUR (original: 22.91 EUR) en el siguiente enlace!

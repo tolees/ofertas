@@ -10,8 +10,11 @@ author: ring
 slug: B07PMDR8GH
 description:
 actualPrice: 12 EUR
+currency: EUR
+price: 12
 comparePrice: 23.45 EUR
 inStock: true
+prodname: New Look Arya Ditsy Blusa  Rosa  Pink Pattern 79   40  Talla del Fabricante: 12  para Mujer
 ---
 
 Está [New Look Arya Ditsy Blusa  Rosa  Pink Pattern 79   40  Talla del Fabricante: 12  para Mujer](https://www.amazon.es/dp/B07PMDR8GH/?tag=tolees-21) con 48.83 de descuento por 12 EUR (original: 23.45 EUR) en el siguiente enlace!

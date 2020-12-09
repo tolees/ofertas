@@ -10,8 +10,11 @@ author: ring
 slug: B07KRLCR17
 description:
 actualPrice: 36.25 EUR
+currency: EUR
+price: 36.25
 comparePrice: 70.0 EUR
 inStock: true
+prodname: New Balance 624v5  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Black Black/Black   45.5 EU
 ---
 
 Ahora mismo tienes [New Balance 624v5  Zapatillas Deportivas para Interior para Mujer  Negro  Black/Black Black/Black   45.5 EU](https://www.amazon.es/dp/B07KRLCR17/?tag=tolees-21) a 36.25 EUR (original: 70.0 EUR) (48.21 %  de descuento) en el siguiente enlace!

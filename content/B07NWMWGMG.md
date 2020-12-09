@@ -10,8 +10,11 @@ author: ring
 slug: B07NWMWGMG
 description:
 actualPrice: 66.75 EUR
+currency: EUR
+price: 66.75
 comparePrice: 89.0 EUR
 inStock: true
+prodname: Lotus Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 18666/1
 ---
 
 Está [Lotus Reloj Multiesfera para Hombre de Cuarzo con Correa en Acero Inoxidable 18666/1](https://www.amazon.es/dp/B07NWMWGMG/?tag=tolees-21) con 25.00 de descuento por 66.75 EUR (original: 89.0 EUR) en el siguiente enlace!

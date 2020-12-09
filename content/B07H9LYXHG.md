@@ -10,8 +10,11 @@ author: ring
 slug: B07H9LYXHG
 description:
 actualPrice: 60 EUR
+currency: EUR
+price: 60
 comparePrice: 100 EUR
 inStock: true
+prodname: TRUTH & FABLE Jcm40478 Vestidos de Fiesta para Bodas  Multicoloured  40  Talla del Fabricante: Medium 
 ---
 
 Ahora mismo tienes [TRUTH & FABLE Jcm40478 Vestidos de Fiesta para Bodas  Multicoloured  40  Talla del Fabricante: Medium ](https://www.amazon.es/dp/B07H9LYXHG/?tag=tolees-21) a 60 EUR (original: 100 EUR) (40.00 %  de descuento) en el siguiente enlace!

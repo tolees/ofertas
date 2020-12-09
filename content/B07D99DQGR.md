@@ -10,8 +10,11 @@ author: ring
 slug: B07D99DQGR
 description:
 actualPrice: 36.21 EUR
+currency: EUR
+price: 36.21
 comparePrice: 79.95 EUR
 inStock: true
+prodname: adidas X 18.3 AG  Botas de fútbol para Hombre   Casbla/Ftwbla/Negbás 0   44 EU
 ---
 
 Ahora mismo tienes [adidas X 18.3 AG  Botas de fútbol para Hombre   Casbla/Ftwbla/Negbás 0   44 EU](https://www.amazon.es/dp/B07D99DQGR/?tag=tolees-21) a 36.21 EUR (original: 79.95 EUR) (54.71 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01N0TQQ7E
 description:
 actualPrice: 12.71 EUR
+currency: EUR
+price: 12.71
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Blend  20702534 - Bermuda para Hombre  Color Negro  70155   Talla M
 ---
 
 Está [Blend  20702534 - Bermuda para Hombre  Color Negro  70155   Talla M](https://www.amazon.es/dp/B01N0TQQ7E/?tag=tolees-21) con 68.19 de descuento por 12.71 EUR (original: 39.95 EUR) en el siguiente enlace!

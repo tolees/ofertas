@@ -10,8 +10,11 @@ author: ring
 slug: B01MTVD2DY
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 49.95 EUR
 inStock: true
+prodname: adidas Vs Pace  Zapatillas Hombre  Azul Blanco  40 2/3 EU
 ---
 
 Ahora mismo tienes [adidas Vs Pace  Zapatillas Hombre  Azul Blanco  40 2/3 EU](https://www.amazon.es/dp/B01MTVD2DY/?tag=tolees-21) a 29.99 EUR (original: 49.95 EUR) (39.96 %  de descuento) en el siguiente enlace!

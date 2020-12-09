@@ -10,8 +10,11 @@ author: ring
 slug: B017TUBWAU
 description:
 actualPrice: 22.5 EUR
+currency: EUR
+price: 22.5
 comparePrice: 34.5 EUR
 inStock: true
+prodname: Nerf - Modulus Recon Mk11  Hasbro B4616EU4 
 ---
 
 Está [Nerf - Modulus Recon Mk11  Hasbro B4616EU4 ](https://www.amazon.es/dp/B017TUBWAU/?tag=tolees-21) con 34.78 de descuento por 22.5 EUR (original: 34.5 EUR) en el siguiente enlace!

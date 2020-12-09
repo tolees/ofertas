@@ -10,8 +10,11 @@ author: ring
 slug: B00RLFAK2K
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 27.18 EUR
 inStock: true
+prodname: MERIGLARE Bolas De Masaje De Punta con Gatillo De Mano +
 ---
 
 Está [MERIGLARE Bolas De Masaje De Punta con Gatillo De Mano +](https://www.amazon.es/dp/B00RLFAK2K/?tag=tolees-21) con 37.49 de descuento por 16.99 EUR (original: 27.18 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07W4WYW1K
 description:
 actualPrice: 12.5 EUR
+currency: EUR
+price: 12.5
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Springfield Slim Basic Melange-c/43 Polo  Gris  Dark Grey 43   XS  Tamaño del Fabricante: XS  para Hombre
 ---
 
 Está [Springfield Slim Basic Melange-c/43 Polo  Gris  Dark Grey 43   XS  Tamaño del Fabricante: XS  para Hombre](https://www.amazon.es/dp/B07W4WYW1K/?tag=tolees-21) con 45.63 de descuento por 12.5 EUR (original: 22.99 EUR) en el siguiente enlace!

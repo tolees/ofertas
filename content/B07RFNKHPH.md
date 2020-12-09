@@ -10,8 +10,11 @@ author: ring
 slug: B07RFNKHPH
 description:
 actualPrice: 59.95 EUR
+currency: EUR
+price: 59.95
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Columbia Vitesse Outdry   Zapatillas de Deporte Hombre  Grey Slate Grey Zour 098  40 EU
 ---
 
 Ahora mismo tienes [Columbia Vitesse Outdry   Zapatillas de Deporte Hombre  Grey Slate Grey Zour 098  40 EU](https://www.amazon.es/dp/B07RFNKHPH/?tag=tolees-21) a 59.95 EUR (original: 119.99 EUR) (50.04 %  de descuento) en el siguiente enlace!

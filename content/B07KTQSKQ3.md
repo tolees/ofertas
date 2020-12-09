@@ -10,8 +10,11 @@ author: ring
 slug: B07KTQSKQ3
 description:
 actualPrice: 49.0 EUR
+currency: EUR
+price: 49.0
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Lacoste Reloj de Pulsera 2001067
 ---
 
 Está [Lacoste Reloj de Pulsera 2001067](https://www.amazon.es/dp/B07KTQSKQ3/?tag=tolees-21) con 50.51 de descuento por 49.0 EUR (original: 99.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MAXIAQM
 description:
 actualPrice: 339.99 EUR
+currency: EUR
+price: 339.99
 comparePrice: 499.99 EUR
 inStock: true
+prodname: VITALZEN Masajeador de pies y piernas  nuevo modelo 2019  – 3 sistemas de masaje: vibroterapia  reflexología y compresión/aire – 3 niveles intensidad - Garantía Oficial 2 AÑOS de GLOBAL RELAX® España
 ---
 
 Tienes [VITALZEN Masajeador de pies y piernas  nuevo modelo 2019  – 3 sistemas de masaje: vibroterapia  reflexología y compresión/aire – 3 niveles intensidad - Garantía Oficial 2 AÑOS de GLOBAL RELAX® España](https://www.amazon.es/dp/B01MAXIAQM/?tag=tolees-21) con un 32.00 % de descuento con precio de oferta de 339.99 EUR (original: 499.99 EUR) en el siguiente enlace!

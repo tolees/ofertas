@@ -10,8 +10,11 @@ author: ring
 slug: B072FPQ8GW
 description:
 actualPrice: 6.8 EUR
+currency: EUR
+price: 6.8
 comparePrice: 20.88 EUR
 inStock: true
+prodname: CASUAL FRIDAY 20501298-Camiseta Hombre Blanco  Bright White 50104  M
 ---
 
 Tienes [CASUAL FRIDAY 20501298-Camiseta Hombre Blanco  Bright White 50104  M](https://www.amazon.es/dp/B072FPQ8GW/?tag=tolees-21) con un 67.43 % de descuento con precio de oferta de 6.8 EUR (original: 20.88 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01DNLPNG8
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Leathario  Negro-A4  Marcas de Portafolio de Carpeta Plegable de Mano de PU para Hombres  Diseñado para Negocio y para Tomar Notas
 ---
 
 Está [Leathario  Negro-A4  Marcas de Portafolio de Carpeta Plegable de Mano de PU para Hombres  Diseñado para Negocio y para Tomar Notas](https://www.amazon.es/dp/B01DNLPNG8/?tag=tolees-21) con 85.39 de descuento por 18.99 EUR (original: 129.99 EUR) en el siguiente enlace!

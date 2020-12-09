@@ -10,8 +10,11 @@ author: ring
 slug: B088FXCQTC
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Cortapelos Electrónico Cortapelos Profesional Hombre Barbero Cortapelos Nariz y Orejas Maquina de pelar Máquina de Afeitar  Recortadora Barba y PrecisiónImpermeable 8 en 1 Afeitar de Barba/Cara/Cuerpo
 ---
 
 Ahora mismo tienes [Cortapelos Electrónico Cortapelos Profesional Hombre Barbero Cortapelos Nariz y Orejas Maquina de pelar Máquina de Afeitar  Recortadora Barba y PrecisiónImpermeable 8 en 1 Afeitar de Barba/Cara/Cuerpo](https://www.amazon.es/dp/B088FXCQTC/?tag=tolees-21) a 33.99 EUR (original: 69.99 EUR) (51.44 %  de descuento) en el siguiente enlace!

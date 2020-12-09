@@ -10,8 +10,11 @@ author: ring
 slug: B000OLZHN0
 description:
 actualPrice: 2.79 EUR
+currency: EUR
+price: 2.79
 comparePrice: 5.15 EUR
 inStock: true
+prodname: TRIXIE Spray Juego Catnip  175 ml  Gato
 ---
 
 Está [TRIXIE Spray Juego Catnip  175 ml  Gato](https://www.amazon.es/dp/B000OLZHN0/?tag=tolees-21) con 45.83 de descuento por 2.79 EUR (original: 5.15 EUR) en el siguiente enlace!

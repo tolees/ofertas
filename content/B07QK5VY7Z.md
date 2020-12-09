@@ -10,8 +10,11 @@ author: ring
 slug: B07QK5VY7Z
 description:
 actualPrice: 30.99 EUR
+currency: EUR
+price: 30.99
 comparePrice: 50.99 EUR
 inStock: true
+prodname: MILIER Mini Enfriador de Aire  Portable Air Cooler 2019 New Air Space Cooler con luz LED
 ---
 
 Tienes [MILIER Mini Enfriador de Aire  Portable Air Cooler 2019 New Air Space Cooler con luz LED](https://www.amazon.es/dp/B07QK5VY7Z/?tag=tolees-21) con un 39.22 % de descuento con precio de oferta de 30.99 EUR (original: 50.99 EUR) en el siguiente enlace!

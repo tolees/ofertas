@@ -10,8 +10,11 @@ author: ring
 slug: B00LEE6HOE
 description:
 actualPrice: 7.52 EUR
+currency: EUR
+price: 7.52
 comparePrice: 16.55 EUR
 inStock: true
+prodname: Gloss - caja de baño  caja de regalo para mujeres - Estuche de Baño Regalo - Glitzy Glam - Sugarberry
 ---
 
 Ahora mismo tienes [Gloss - caja de baño  caja de regalo para mujeres - Estuche de Baño Regalo - Glitzy Glam - Sugarberry](https://www.amazon.es/dp/B00LEE6HOE/?tag=tolees-21) a 7.52 EUR (original: 16.55 EUR) (54.56 %  de descuento) en el siguiente enlace!

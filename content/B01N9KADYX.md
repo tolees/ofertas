@@ -10,8 +10,11 @@ author: ring
 slug: B01N9KADYX
 description:
 actualPrice: 21.38 EUR
+currency: EUR
+price: 21.38
 comparePrice: 61.86 EUR
 inStock: true
+prodname: Reebok BD5613  Zapatillas de Trail Running para Mujer  Rosa  Manic Cherry/Pacific Purple/Pink Craze/C   38.5 EU
 ---
 
 Está [Reebok BD5613  Zapatillas de Trail Running para Mujer  Rosa  Manic Cherry/Pacific Purple/Pink Craze/C   38.5 EU](https://www.amazon.es/dp/B01N9KADYX/?tag=tolees-21) con 65.44 de descuento por 21.38 EUR (original: 61.86 EUR) en el siguiente enlace!

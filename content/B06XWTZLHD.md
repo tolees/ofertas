@@ -10,8 +10,11 @@ author: ring
 slug: B06XWTZLHD
 description:
 actualPrice: 26.89 EUR
+currency: EUR
+price: 26.89
 comparePrice: 75 EUR
 inStock: true
+prodname: New Balance Wl220V1  Zapatillas para Mujer  Azul  Navy   35 EU
 ---
 
 Está [New Balance Wl220V1  Zapatillas para Mujer  Azul  Navy   35 EU](https://www.amazon.es/dp/B06XWTZLHD/?tag=tolees-21) con 64.15 de descuento por 26.89 EUR (original: 75 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JZ5PB3Q
 description:
 actualPrice: 34.56 EUR
+currency: EUR
+price: 34.56
 comparePrice: 89.95 EUR
 inStock: true
+prodname: adidas Nemeziz 18.3 AG  Zapatillas de Fútbol para Hombre  Blanco Off White/Core Black/Active Red  42 2/3 EU
 ---
 
 Está [adidas Nemeziz 18.3 AG  Zapatillas de Fútbol para Hombre  Blanco Off White/Core Black/Active Red  42 2/3 EU](https://www.amazon.es/dp/B07JZ5PB3Q/?tag=tolees-21) con 61.58 de descuento por 34.56 EUR (original: 89.95 EUR) en el siguiente enlace!

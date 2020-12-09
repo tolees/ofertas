@@ -10,8 +10,11 @@ author: ring
 slug: B078WTD3JB
 description:
 actualPrice: 11.84 EUR
+currency: EUR
+price: 11.84
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Cortefiel Polo Básico Manga Corta  Hombre   Gama Azules 12   Medium
 ---
 
 Tienes [Cortefiel Polo Básico Manga Corta  Hombre   Gama Azules 12   Medium](https://www.amazon.es/dp/B078WTD3JB/?tag=tolees-21) con un 67.10 % de descuento con precio de oferta de 11.84 EUR (original: 35.99 EUR) en el siguiente enlace!

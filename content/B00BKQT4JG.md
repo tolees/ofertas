@@ -10,8 +10,11 @@ author: ring
 slug: B00BKQT4JG
 description:
 actualPrice: 107.6 EUR
+currency: EUR
+price: 107.6
 comparePrice: 190.8 EUR
 inStock: true
+prodname: Daniel Wellington Classic Oxford Reloj   Hombre  NATO  Azul-Rojo/Oro Rosado  40mm
 ---
 
 Ahora mismo tienes [Daniel Wellington Classic Oxford Reloj   Hombre  NATO  Azul-Rojo/Oro Rosado  40mm](https://www.amazon.es/dp/B00BKQT4JG/?tag=tolees-21) a 107.6 EUR (original: 190.8 EUR) (43.61 %  de descuento) en el siguiente enlace!

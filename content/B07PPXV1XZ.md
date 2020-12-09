@@ -10,8 +10,11 @@ author: ring
 slug: B07PPXV1XZ
 description:
 actualPrice: 23.8 EUR
+currency: EUR
+price: 23.8
 comparePrice: 50.0 EUR
 inStock: true
+prodname: Under Armour Mid Bra Ropa Interior Transpirable para Mujer con tecnología Rush  cómodo Sujetador sin Aros de Corte Ajustado  Negro  XS
 ---
 
 Está [Under Armour Mid Bra Ropa Interior Transpirable para Mujer con tecnología Rush  cómodo Sujetador sin Aros de Corte Ajustado  Negro  XS](https://www.amazon.es/dp/B07PPXV1XZ/?tag=tolees-21) con 52.40 de descuento por 23.8 EUR (original: 50.0 EUR) en el siguiente enlace!

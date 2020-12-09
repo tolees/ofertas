@@ -10,8 +10,11 @@ author: ring
 slug: B06XK2KDKN
 description:
 actualPrice: 54.99 EUR
+currency: EUR
+price: 54.99
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Newskill Hanshi Spectrum - Teclado mecánico gaming RGB   Estructura metalica  reposamuñecas removible  efectos RGB  Switch BLUE   negro
 ---
 
 Está [Newskill Hanshi Spectrum - Teclado mecánico gaming RGB   Estructura metalica  reposamuñecas removible  efectos RGB  Switch BLUE   negro](https://www.amazon.es/dp/B06XK2KDKN/?tag=tolees-21) con 44.98 de descuento por 54.99 EUR (original: 99.95 EUR) en el siguiente enlace!

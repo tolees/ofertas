@@ -10,8 +10,11 @@ author: ring
 slug: B07KFYXDX7
 description:
 actualPrice: 28.15 EUR
+currency: EUR
+price: 28.15
 comparePrice: 79.95 EUR
 inStock: true
+prodname: PUMA Ralph Sampson Lo  Zapatillas Unisex Adulto  Blanco Wht/Peacoat Wht  38.5 EU
 ---
 
 Ahora mismo tienes [PUMA Ralph Sampson Lo  Zapatillas Unisex Adulto  Blanco Wht/Peacoat Wht  38.5 EU](https://www.amazon.es/dp/B07KFYXDX7/?tag=tolees-21) a 28.15 EUR (original: 79.95 EUR) (64.79 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FP1LLYM
 description:
 actualPrice: 26.63 EUR
+currency: EUR
+price: 26.63
 comparePrice: 49.99 EUR
 inStock: true
+prodname: RIP CURL Big Mama Hz Sudadera  Niños  Negro  14
 ---
 
 Está [RIP CURL Big Mama Hz Sudadera  Niños  Negro  14](https://www.amazon.es/dp/B07FP1LLYM/?tag=tolees-21) con 46.73 de descuento por 26.63 EUR (original: 49.99 EUR) en el siguiente enlace!

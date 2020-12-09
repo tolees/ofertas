@@ -10,8 +10,11 @@ author: ring
 slug: B00FVT7XAA
 description:
 actualPrice: 4.5 EUR
+currency: EUR
+price: 4.5
 comparePrice: 8.25 EUR
 inStock: true
+prodname: Ewent EW1506 - Soporte de pared para TV LCD  LED  para pantallas de 23" a 42"  color negro
 ---
 
 Está [Ewent EW1506 - Soporte de pared para TV LCD  LED  para pantallas de 23" a 42"  color negro](https://www.amazon.es/dp/B00FVT7XAA/?tag=tolees-21) con 45.45 de descuento por 4.5 EUR (original: 8.25 EUR) en el siguiente enlace!

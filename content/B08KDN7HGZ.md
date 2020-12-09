@@ -10,8 +10,11 @@ author: ring
 slug: B08KDN7HGZ
 description:
 actualPrice: 2.99 EUR
+currency: EUR
+price: 2.99
 comparePrice: 10.98 EUR
 inStock: true
+prodname: Decdeal 2020 Adornos Árbol Navidad Colgantes Muñeco de Nieve Decoración Colgante de Bricolaje Fiesta Familia Amigas
 ---
 
 Está [Decdeal 2020 Adornos Árbol Navidad Colgantes Muñeco de Nieve Decoración Colgante de Bricolaje Fiesta Familia Amigas](https://www.amazon.es/dp/B08KDN7HGZ/?tag=tolees-21) con 72.77 de descuento por 2.99 EUR (original: 10.98 EUR) en el siguiente enlace!

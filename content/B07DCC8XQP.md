@@ -10,8 +10,11 @@ author: ring
 slug: B07DCC8XQP
 description:
 actualPrice: 28.27 EUR
+currency: EUR
+price: 28.27
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Puma Sirena  Zapatillas para Mujer  Blanco White-Pale Pink  39 EU
 ---
 
 Está [Puma Sirena  Zapatillas para Mujer  Blanco White-Pale Pink  39 EU](https://www.amazon.es/dp/B07DCC8XQP/?tag=tolees-21) con 59.59 de descuento por 28.27 EUR (original: 69.95 EUR) en el siguiente enlace!

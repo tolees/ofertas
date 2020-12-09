@@ -10,8 +10,11 @@ author: ring
 slug: B007VTRBPA
 description:
 actualPrice: 9.62 EUR
+currency: EUR
+price: 9.62
 comparePrice: 15.42 EUR
 inStock: true
+prodname: Meguiar´s X2000EU Toalla de Secado  55x76cm
 ---
 
 Está [Meguiar´s X2000EU Toalla de Secado  55x76cm](https://www.amazon.es/dp/B007VTRBPA/?tag=tolees-21) con 37.61 de descuento por 9.62 EUR (original: 15.42 EUR) en el siguiente enlace!

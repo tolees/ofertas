@@ -10,8 +10,11 @@ author: ring
 slug: B01MTLEL7D
 description:
 actualPrice: 38.9 EUR
+currency: EUR
+price: 38.9
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers Energy Lights-Tarvos  Entrenadores para Niños  Negro  Black/Red   31 EU
 ---
 
 Tienes [Skechers Energy Lights-Tarvos  Entrenadores para Niños  Negro  Black/Red   31 EU](https://www.amazon.es/dp/B01MTLEL7D/?tag=tolees-21) con un 40.11 % de descuento con precio de oferta de 38.9 EUR (original: 64.95 EUR) en el siguiente enlace!

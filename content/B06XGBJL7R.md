@@ -10,8 +10,11 @@ author: ring
 slug: B06XGBJL7R
 description:
 actualPrice: 139 EUR
+currency: EUR
+price: 139
 comparePrice: 239 EUR
 inStock: true
+prodname: Asus ROG Claymore - Teclado gaming mecánico RGB con teclado numérico extraíble  Cherry MX  tipo interruptor   Aura Sync y construcción de metal de calidad aeronáutica
 ---
 
 Ahora mismo tienes [Asus ROG Claymore - Teclado gaming mecánico RGB con teclado numérico extraíble  Cherry MX  tipo interruptor   Aura Sync y construcción de metal de calidad aeronáutica](https://www.amazon.es/dp/B06XGBJL7R/?tag=tolees-21) a 139 EUR (original: 239 EUR) (41.84 %  de descuento) en el siguiente enlace!

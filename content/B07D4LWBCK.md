@@ -10,8 +10,11 @@ author: ring
 slug: B07D4LWBCK
 description:
 actualPrice: 17.12 EUR
+currency: EUR
+price: 17.12
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Vero Moda Vmedna LS Blouse Ga Blusa   Eggnog AOP: Stripe Black   38  Talla del Fabricante: Small  para Mujer
 ---
 
 Tienes [Vero Moda Vmedna LS Blouse Ga Blusa   Eggnog AOP: Stripe Black   38  Talla del Fabricante: Small  para Mujer](https://www.amazon.es/dp/B07D4LWBCK/?tag=tolees-21) con un 51.07 % de descuento con precio de oferta de 17.12 EUR (original: 34.99 EUR) en el siguiente enlace!

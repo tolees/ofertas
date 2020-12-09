@@ -10,8 +10,11 @@ author: ring
 slug: B07KJT99GV
 description:
 actualPrice: 16.71 EUR
+currency: EUR
+price: 16.71
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Quiksilver Get Bizzy Camiseta  Hombre  Negro  Black   XXL
 ---
 
 Está [Quiksilver Get Bizzy Camiseta  Hombre  Negro  Black   XXL](https://www.amazon.es/dp/B07KJT99GV/?tag=tolees-21) con 35.71 de descuento por 16.71 EUR (original: 25.99 EUR) en el siguiente enlace!

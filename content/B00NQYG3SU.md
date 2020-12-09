@@ -10,8 +10,11 @@ author: ring
 slug: B00NQYG3SU
 description:
 actualPrice: 12.63 EUR
+currency: EUR
+price: 12.63
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Bestway Refresher - bolsa nevera  de 15 litros  31 x 27.5 x 18 cm
 ---
 
 Está [Bestway Refresher - bolsa nevera  de 15 litros  31 x 27.5 x 18 cm](https://www.amazon.es/dp/B00NQYG3SU/?tag=tolees-21) con 57.83 de descuento por 12.63 EUR (original: 29.95 EUR) en el siguiente enlace!

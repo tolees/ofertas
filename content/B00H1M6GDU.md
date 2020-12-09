@@ -10,8 +10,11 @@ author: ring
 slug: B00H1M6GDU
 description:
 actualPrice: 3.99 EUR
+currency: EUR
+price: 3.99
 comparePrice: 9.95 EUR
 inStock: true
+prodname: Edge Entertainment - 5 pepinos  Juego de Cartas  EDG2F05 
 ---
 
 Ahora mismo tienes [Edge Entertainment - 5 pepinos  Juego de Cartas  EDG2F05 ](https://www.amazon.es/dp/B00H1M6GDU/?tag=tolees-21) a 3.99 EUR (original: 9.95 EUR) (59.90 %  de descuento) en el siguiente enlace!

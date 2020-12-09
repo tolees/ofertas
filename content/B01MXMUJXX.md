@@ -10,8 +10,11 @@ author: ring
 slug: B01MXMUJXX
 description:
 actualPrice: 27.47 EUR
+currency: EUR
+price: 27.47
 comparePrice: 74.95 EUR
 inStock: true
+prodname: Puma Vigor Mono  Zapatillas de Running para Hombre  Gris  Quarry White 02   45 EU
 ---
 
 Ahora mismo tienes [Puma Vigor Mono  Zapatillas de Running para Hombre  Gris  Quarry White 02   45 EU](https://www.amazon.es/dp/B01MXMUJXX/?tag=tolees-21) a 27.47 EUR (original: 74.95 EUR) (63.35 %  de descuento) en el siguiente enlace!

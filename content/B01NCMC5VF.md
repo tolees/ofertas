@@ -10,8 +10,11 @@ author: ring
 slug: B01NCMC5VF
 description:
 actualPrice: 15.53 EUR
+currency: EUR
+price: 15.53
 comparePrice: 40 EUR
 inStock: true
+prodname: Bruetting Domain  Zapatillas Unisex Niños  Rojo  Rot   34 EU
 ---
 
 Ahora mismo tienes [Bruetting Domain  Zapatillas Unisex Niños  Rojo  Rot   34 EU](https://www.amazon.es/dp/B01NCMC5VF/?tag=tolees-21) a 15.53 EUR (original: 40 EUR) (61.18 %  de descuento) en el siguiente enlace!

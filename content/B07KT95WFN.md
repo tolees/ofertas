@@ -10,8 +10,11 @@ author: ring
 slug: B07KT95WFN
 description:
 actualPrice: 106.34 EUR
+currency: EUR
+price: 106.34
 comparePrice: 180 EUR
 inStock: true
+prodname: Saucony Freedom ISO - Zapatillas de Fitness para Hombre  Hombre  20440/36  Orange Blue  13
 ---
 
 Tienes [Saucony Freedom ISO - Zapatillas de Fitness para Hombre  Hombre  20440/36  Orange Blue  13](https://www.amazon.es/dp/B07KT95WFN/?tag=tolees-21) con un 40.92 % de descuento con precio de oferta de 106.34 EUR (original: 180 EUR) en el siguiente enlace!

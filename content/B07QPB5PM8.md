@@ -10,8 +10,11 @@ author: ring
 slug: B07QPB5PM8
 description:
 actualPrice: 8.7 EUR
+currency: EUR
+price: 8.7
 comparePrice: 14.94 EUR
 inStock: true
+prodname: Rexona Aloe Vera Antitranspirante Aerosol para Mujer 0% Alcohol 200 ml - Pack de 6 x 200 ml  Total 1200 ml
 ---
 
 Ahora mismo tienes [Rexona Aloe Vera Antitranspirante Aerosol para Mujer 0% Alcohol 200 ml - Pack de 6 x 200 ml  Total 1200 ml](https://www.amazon.es/dp/B07QPB5PM8/?tag=tolees-21) a 8.7 EUR (original: 14.94 EUR) (41.77 %  de descuento) en el siguiente enlace!

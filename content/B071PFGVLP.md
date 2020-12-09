@@ -10,8 +10,11 @@ author: ring
 slug: B071PFGVLP
 description:
 actualPrice: 13.26 EUR
+currency: EUR
+price: 13.26
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Esprit 077ee1i006  suéter Mujer   Off White 110   X-Large
 ---
 
 Tienes [Esprit 077ee1i006  suéter Mujer   Off White 110   X-Large](https://www.amazon.es/dp/B071PFGVLP/?tag=tolees-21) con un 73.47 % de descuento con precio de oferta de 13.26 EUR (original: 49.99 EUR) en el siguiente enlace!

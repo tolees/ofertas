@@ -10,8 +10,11 @@ author: ring
 slug: B07KRMDBGR
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 64.99 EUR
 inStock: true
+prodname: Columbia Silver Ridge 2.0 Manga Larga  Mujer  Blanco  White   XL
 ---
 
 Tienes [Columbia Silver Ridge 2.0 Manga Larga  Mujer  Blanco  White   XL](https://www.amazon.es/dp/B07KRMDBGR/?tag=tolees-21) con un 53.85 % de descuento con precio de oferta de 29.99 EUR (original: 64.99 EUR) en el siguiente enlace!

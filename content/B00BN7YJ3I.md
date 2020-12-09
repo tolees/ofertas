@@ -10,8 +10,11 @@ author: ring
 slug: B00BN7YJ3I
 description:
 actualPrice: 8.81 EUR
+currency: EUR
+price: 8.81
 comparePrice: 12.86 EUR
 inStock: true
+prodname: L Oréal Paris Iluminador Luz Magique Concealer Dark
 ---
 
 Ahora mismo tienes [L Oréal Paris Iluminador Luz Magique Concealer Dark](https://www.amazon.es/dp/B00BN7YJ3I/?tag=tolees-21) a 8.81 EUR (original: 12.86 EUR) (31.49 %  de descuento) en el siguiente enlace!

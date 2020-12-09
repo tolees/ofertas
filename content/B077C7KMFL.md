@@ -10,8 +10,11 @@ author: ring
 slug: B077C7KMFL
 description:
 actualPrice: 30.75 EUR
+currency: EUR
+price: 30.75
 comparePrice: 44.06 EUR
 inStock: true
+prodname: Converse Taylor Chuck 70 Hi  Zapatillas Unisex  Multicolor  Parchment/Garnet/Egret 247   36 EU
 ---
 
 Ahora mismo tienes [Converse Taylor Chuck 70 Hi  Zapatillas Unisex  Multicolor  Parchment/Garnet/Egret 247   36 EU](https://www.amazon.es/dp/B077C7KMFL/?tag=tolees-21) a 30.75 EUR (original: 44.06 EUR) (30.21 %  de descuento) en el siguiente enlace!

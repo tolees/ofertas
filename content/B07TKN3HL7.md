@@ -10,8 +10,11 @@ author: ring
 slug: B07TKN3HL7
 description:
 actualPrice: 55.98 EUR
+currency: EUR
+price: 55.98
 comparePrice: 79.97 EUR
 inStock: true
+prodname: GRIDINLUX. Age Control Skin. Máquina Galvánica Facial. 4 Funciones en 1. Corriente Ultrasónica Antiarrugas. 3 Cabezales  Hidratación y Tonificación de Piel. Profesional. Uso Doméstico.
 ---
 
 Está [GRIDINLUX. Age Control Skin. Máquina Galvánica Facial. 4 Funciones en 1. Corriente Ultrasónica Antiarrugas. 3 Cabezales  Hidratación y Tonificación de Piel. Profesional. Uso Doméstico.](https://www.amazon.es/dp/B07TKN3HL7/?tag=tolees-21) con 30.00 de descuento por 55.98 EUR (original: 79.97 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B010VIST8K
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: POP! Vinilo - The Strain: Abraham Setrakian
 ---
 
 Tienes [POP! Vinilo - The Strain: Abraham Setrakian](https://www.amazon.es/dp/B010VIST8K/?tag=tolees-21) con un 40.03 % de descuento con precio de oferta de 8.99 EUR (original: 14.99 EUR) en el siguiente enlace!

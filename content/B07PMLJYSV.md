@@ -10,8 +10,11 @@ author: ring
 slug: B07PMLJYSV
 description:
 actualPrice: 4.9 EUR
+currency: EUR
+price: 4.9
 comparePrice: 8.9 EUR
 inStock: true
+prodname: NEW C 2 Unidades  Protector de Pantalla para Huawei P Smart 2019  Honor 10 Lite  Honor 8A  Antiarañazos  Antihuellas  Sin Burbujas  Dureza 9H  0.33 mm Ultra Transparente  Vidrio Templado Resistente
 ---
 
 Tienes [NEW C 2 Unidades  Protector de Pantalla para Huawei P Smart 2019  Honor 10 Lite  Honor 8A  Antiarañazos  Antihuellas  Sin Burbujas  Dureza 9H  0.33 mm Ultra Transparente  Vidrio Templado Resistente](https://www.amazon.es/dp/B07PMLJYSV/?tag=tolees-21) con un 44.94 % de descuento con precio de oferta de 4.9 EUR (original: 8.9 EUR) en el siguiente enlace!

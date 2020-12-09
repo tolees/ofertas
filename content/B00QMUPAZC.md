@@ -10,8 +10,11 @@ author: ring
 slug: B00QMUPAZC
 description:
 actualPrice: 79.18 EUR
+currency: EUR
+price: 79.18
 comparePrice: 187.99 EUR
 inStock: true
+prodname: Philips HX9332/34 - Cepillo de dientes eléctrico ultrasónico  color blanco
 ---
 
 Ahora mismo tienes [Philips HX9332/34 - Cepillo de dientes eléctrico ultrasónico  color blanco](https://www.amazon.es/dp/B00QMUPAZC/?tag=tolees-21) a 79.18 EUR (original: 187.99 EUR) (57.88 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01DX7M2XY
 description:
 actualPrice: 22.33 EUR
+currency: EUR
+price: 22.33
 comparePrice: 49 EUR
 inStock: true
+prodname: Diesel 00SAB2-0AAMU  Calzoncillos para Hombre   3   M
 ---
 
 Ahora mismo tienes [Diesel 00SAB2-0AAMU  Calzoncillos para Hombre   3   M](https://www.amazon.es/dp/B01DX7M2XY/?tag=tolees-21) a 22.33 EUR (original: 49 EUR) (54.43 %  de descuento) en el siguiente enlace!

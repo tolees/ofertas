@@ -10,8 +10,11 @@ author: ring
 slug: B07FW6GXTN
 description:
 actualPrice: 69.5 EUR
+currency: EUR
+price: 69.5
 comparePrice: 139.0 EUR
 inStock: true
+prodname: Angel Infantes Zapatos Cordones 11092A para Hombre Negro 42 EU
 ---
 
 Ahora mismo tienes [Angel Infantes Zapatos Cordones 11092A para Hombre Negro 42 EU](https://www.amazon.es/dp/B07FW6GXTN/?tag=tolees-21) a 69.5 EUR (original: 139.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BL18JKS
 description:
 actualPrice: 28.31 EUR
+currency: EUR
+price: 28.31
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance Fuel Core 5000  Zapatillas de Running para Mujer  Azul  Air/Pigment/Summer Sky Abysse   37.5 EU
 ---
 
 Tienes [New Balance Fuel Core 5000  Zapatillas de Running para Mujer  Azul  Air/Pigment/Summer Sky Abysse   37.5 EU](https://www.amazon.es/dp/B07BL18JKS/?tag=tolees-21) con un 68.54 % de descuento con precio de oferta de 28.31 EUR (original: 90 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NC6XSMC
 description:
 actualPrice: 18.0 EUR
+currency: EUR
+price: 18.0
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Far Cry 5 - Gold Edition | Código Uplay para PC
 ---
 
 Está [Far Cry 5 - Gold Edition | Código Uplay para PC](https://www.amazon.es/dp/B07NC6XSMC/?tag=tolees-21) con 80.00 de descuento por 18.0 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JMPKPDY
 description:
 actualPrice: 18.15 EUR
+currency: EUR
+price: 18.15
 comparePrice: 31.99 EUR
 inStock: true
+prodname: Marca Amazon - Goodthreads - Pantalones chinos de vestir antiarrugas de corte atlético para hombre  Piedra  35W x 34L
 ---
 
 Está [Marca Amazon - Goodthreads - Pantalones chinos de vestir antiarrugas de corte atlético para hombre  Piedra  35W x 34L](https://www.amazon.es/dp/B07JMPKPDY/?tag=tolees-21) con 43.26 de descuento por 18.15 EUR (original: 31.99 EUR) en el siguiente enlace!

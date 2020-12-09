@@ -10,8 +10,11 @@ author: ring
 slug: B07FLV3W7P
 description:
 actualPrice: 17.63 EUR
+currency: EUR
+price: 17.63
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Jack & Jones NOS Hombre Jjimarco Jjcharles WW 200 Dark Navy STS Pantalones Not Applicable  Azul  Dark Navy Dark Navy   W31/L36  Talla del Fabricante: 31 
 ---
 
 Tienes [Jack & Jones NOS Hombre Jjimarco Jjcharles WW 200 Dark Navy STS Pantalones Not Applicable  Azul  Dark Navy Dark Navy   W31/L36  Talla del Fabricante: 31 ](https://www.amazon.es/dp/B07FLV3W7P/?tag=tolees-21) con un 70.61 % de descuento con precio de oferta de 17.63 EUR (original: 59.99 EUR) en el siguiente enlace!

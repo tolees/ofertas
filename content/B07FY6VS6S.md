@@ -10,8 +10,11 @@ author: ring
 slug: B07FY6VS6S
 description:
 actualPrice: 19.98 EUR
+currency: EUR
+price: 19.98
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Lee Pique Polo  Blanco  Bright White Lj   L para Hombre
 ---
 
 Tienes [Lee Pique Polo  Blanco  Bright White Lj   L para Hombre](https://www.amazon.es/dp/B07FY6VS6S/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 19.98 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06XCQL4KL
 description:
 actualPrice: 66.72 EUR
+currency: EUR
+price: 66.72
 comparePrice: 109.0 EUR
 inStock: true
+prodname: Guess Reloj Analógico para Mujer de Cuarzo con Correa en Caucho W0911L3
 ---
 
 Ahora mismo tienes [Guess Reloj Analógico para Mujer de Cuarzo con Correa en Caucho W0911L3](https://www.amazon.es/dp/B06XCQL4KL/?tag=tolees-21) a 66.72 EUR (original: 109.0 EUR) (38.79 %  de descuento) en el siguiente enlace!

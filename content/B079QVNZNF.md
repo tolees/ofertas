@@ -10,8 +10,11 @@ author: ring
 slug: B079QVNZNF
 description:
 actualPrice: 9.93 EUR
+currency: EUR
+price: 9.93
 comparePrice: 24.35 EUR
 inStock: true
+prodname: Papermania Capsule  Moroccan Haze  Craft Tape  4 x 5m 
 ---
 
 Está [Papermania Capsule  Moroccan Haze  Craft Tape  4 x 5m ](https://www.amazon.es/dp/B079QVNZNF/?tag=tolees-21) con 59.22 de descuento por 9.93 EUR (original: 24.35 EUR) en el siguiente enlace!

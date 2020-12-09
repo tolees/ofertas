@@ -10,8 +10,11 @@ author: ring
 slug: B07CRF19FC
 description:
 actualPrice: 15.6 EUR
+currency: EUR
+price: 15.6
 comparePrice: 79.9 EUR
 inStock: true
+prodname: Pepe Jeans Zoe PL211255 Pantalones    Deep Sea 597   W24  Talla del Fabricante: 34  para Mujer
 ---
 
 Está [Pepe Jeans Zoe PL211255 Pantalones    Deep Sea 597   W24  Talla del Fabricante: 34  para Mujer](https://www.amazon.es/dp/B07CRF19FC/?tag=tolees-21) con 80.48 de descuento por 15.6 EUR (original: 79.9 EUR) en el siguiente enlace!

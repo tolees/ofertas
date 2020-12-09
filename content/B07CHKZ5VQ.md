@@ -10,8 +10,11 @@ author: ring
 slug: B07CHKZ5VQ
 description:
 actualPrice: 34.26 EUR
+currency: EUR
+price: 34.26
 comparePrice: 81.93 EUR
 inStock: true
+prodname: BOSS Mypop Camisa Blanco  White 100  Medium para Hombre
 ---
 
 Está [BOSS Mypop Camisa Blanco  White 100  Medium para Hombre](https://www.amazon.es/dp/B07CHKZ5VQ/?tag=tolees-21) con 58.18 de descuento por 34.26 EUR (original: 81.93 EUR) en el siguiente enlace!

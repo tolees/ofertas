@@ -10,8 +10,11 @@ author: ring
 slug: B076XD1MRG
 description:
 actualPrice: 48.41 EUR
+currency: EUR
+price: 48.41
 comparePrice: 120 EUR
 inStock: true
+prodname: New Balance 574S  Zapatillas para Hombre  Gris Castlerock Pcg  40.5 EU
 ---
 
 Tienes [New Balance 574S  Zapatillas para Hombre  Gris Castlerock Pcg  40.5 EU](https://www.amazon.es/dp/B076XD1MRG/?tag=tolees-21) con un 59.66 % de descuento con precio de oferta de 48.41 EUR (original: 120 EUR) en el siguiente enlace!

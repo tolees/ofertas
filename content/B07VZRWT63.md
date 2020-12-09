@@ -10,8 +10,11 @@ author: ring
 slug: B07VZRWT63
 description:
 actualPrice: 31.18 EUR
+currency: EUR
+price: 31.18
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers Zinger 2.0  Zapatillas Mujer  Beige Natural Malla Amarillo Duraleather Trim Ntyl  40 EU
 ---
 
 Tienes [Skechers Zinger 2.0  Zapatillas Mujer  Beige Natural Malla Amarillo Duraleather Trim Ntyl  40 EU](https://www.amazon.es/dp/B07VZRWT63/?tag=tolees-21) con un 51.99 % de descuento con precio de oferta de 31.18 EUR (original: 64.95 EUR) en el siguiente enlace!

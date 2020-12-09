@@ -10,8 +10,11 @@ author: ring
 slug: B01J3AMITS
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Adaptador Bluetooth  iAmotus USB Bluetooth 4.0 + EDR Mini Dongle Bajo Consumo de Energía Receptor Transmisor Plug and Play para PC Windows XP/7/8/10/Vista  Compatible Ratón  Teclado  Auriculares
 ---
 
 Está [Adaptador Bluetooth  iAmotus USB Bluetooth 4.0 + EDR Mini Dongle Bajo Consumo de Energía Receptor Transmisor Plug and Play para PC Windows XP/7/8/10/Vista  Compatible Ratón  Teclado  Auriculares](https://www.amazon.es/dp/B01J3AMITS/?tag=tolees-21) con 46.19 de descuento por 6.99 EUR (original: 12.99 EUR) en el siguiente enlace!

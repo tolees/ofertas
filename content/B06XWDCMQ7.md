@@ -10,8 +10,11 @@ author: ring
 slug: B06XWDCMQ7
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: LANGRIA Estantería Metálica para Microondas con 3 Baldas  Estante Superior para Especias  4 Ganchos Laterales para Almacenamiento y Organización Cocina  Baño  Capacidad Max. 75kg  Negro
 ---
 
 Está [LANGRIA Estantería Metálica para Microondas con 3 Baldas  Estante Superior para Especias  4 Ganchos Laterales para Almacenamiento y Organización Cocina  Baño  Capacidad Max. 75kg  Negro](https://www.amazon.es/dp/B06XWDCMQ7/?tag=tolees-21) con 34.01 de descuento por 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!

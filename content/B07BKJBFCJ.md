@@ -10,8 +10,11 @@ author: ring
 slug: B07BKJBFCJ
 description:
 actualPrice: 16.38 EUR
+currency: EUR
+price: 16.38
 comparePrice: 79.9 EUR
 inStock: true
+prodname: Redskins Junior Cardiff  Chaqueta para Niños  Negro Black  años  Talla del Fabricante: 16 
 ---
 
 Ahora mismo tienes [Redskins Junior Cardiff  Chaqueta para Niños  Negro Black  años  Talla del Fabricante: 16 ](https://www.amazon.es/dp/B07BKJBFCJ/?tag=tolees-21) a 16.38 EUR (original: 79.9 EUR) (79.50 %  de descuento) en el siguiente enlace!

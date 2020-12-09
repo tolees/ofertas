@@ -10,8 +10,11 @@ author: ring
 slug: B07TVJBXS3
 description:
 actualPrice: 8.95 EUR
+currency: EUR
+price: 8.95
 comparePrice: 19.43 EUR
 inStock: true
+prodname: Annabelle Vuelve A Casa Blu-Ray [Blu-ray]
 ---
 
 Ahora mismo tienes [Annabelle Vuelve A Casa Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07TVJBXS3/?tag=tolees-21) a 8.95 EUR (original: 19.43 EUR) (53.94 %  de descuento) en el siguiente enlace!

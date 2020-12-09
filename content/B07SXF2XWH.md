@@ -10,8 +10,11 @@ author: ring
 slug: B07SXF2XWH
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 139.99 EUR
 inStock: true
+prodname: LIGE Relojes Hombre Acero Inoxidable Impermeable Analógico de Cuarzo Hombres Reloj Cronógrafo Plateado Azul Relojes Hombre Vestir
 ---
 
 Está [LIGE Relojes Hombre Acero Inoxidable Impermeable Analógico de Cuarzo Hombres Reloj Cronógrafo Plateado Azul Relojes Hombre Vestir](https://www.amazon.es/dp/B07SXF2XWH/?tag=tolees-21) con 76.43 de descuento por 32.99 EUR (original: 139.99 EUR) en el siguiente enlace!

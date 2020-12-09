@@ -10,8 +10,11 @@ author: ring
 slug: B01F5OLTHS
 description:
 actualPrice: 11.7 EUR
+currency: EUR
+price: 11.7
 comparePrice: 16.95 EUR
 inStock: true
+prodname: Tratamiento antiarrugas a base de colágeno hidrolizado y ácido hialurónico | Previene la aparición de arrugas | Piel hidratada  firme y más joven | Potente reafirmante y reconstituyente | 50 unidades
 ---
 
 Tienes [Tratamiento antiarrugas a base de colágeno hidrolizado y ácido hialurónico | Previene la aparición de arrugas | Piel hidratada  firme y más joven | Potente reafirmante y reconstituyente | 50 unidades](https://www.amazon.es/dp/B01F5OLTHS/?tag=tolees-21) con un 30.97 % de descuento con precio de oferta de 11.7 EUR (original: 16.95 EUR) en el siguiente enlace!

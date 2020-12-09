@@ -10,8 +10,11 @@ author: ring
 slug: B076DFF7QH
 description:
 actualPrice: 149.99 EUR
+currency: EUR
+price: 149.99
 comparePrice: 269.99 EUR
 inStock: true
+prodname: Philips Serie 9000 S9711/41 - Máquina de afeitar con cabezales de 8 direcciones  seco/húmedo y 3 modos  60 min de batería incluye perfilador de barba con 5 posiciones y funda de viaje  plata
 ---
 
 Está [Philips Serie 9000 S9711/41 - Máquina de afeitar con cabezales de 8 direcciones  seco/húmedo y 3 modos  60 min de batería incluye perfilador de barba con 5 posiciones y funda de viaje  plata](https://www.amazon.es/dp/B076DFF7QH/?tag=tolees-21) con 44.45 de descuento por 149.99 EUR (original: 269.99 EUR) en el siguiente enlace!

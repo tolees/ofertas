@@ -10,8 +10,11 @@ author: ring
 slug: B07CJJK1DK
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 23.83 EUR
 inStock: true
+prodname: Astan Hogar automático Exprimidor Eléctrico Jugix AH-KC6040  40 W  Plástico  Blanco/Naranja
 ---
 
 Tienes [Astan Hogar automático Exprimidor Eléctrico Jugix AH-KC6040  40 W  Plástico  Blanco/Naranja](https://www.amazon.es/dp/B07CJJK1DK/?tag=tolees-21) con un 45.49 % de descuento con precio de oferta de 12.99 EUR (original: 23.83 EUR) en el siguiente enlace!

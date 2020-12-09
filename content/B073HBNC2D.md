@@ -10,8 +10,11 @@ author: ring
 slug: B073HBNC2D
 description:
 actualPrice: 4.35 EUR
+currency: EUR
+price: 4.35
 comparePrice: 8.99 EUR
 inStock: true
+prodname: Maybelline New York  SuperStay Matte Ink  Pintalabios Mate de Larga Duración  Tono 15 - Lover  Malva
 ---
 
 Está [Maybelline New York  SuperStay Matte Ink  Pintalabios Mate de Larga Duración  Tono 15 - Lover  Malva](https://www.amazon.es/dp/B073HBNC2D/?tag=tolees-21) con 51.61 de descuento por 4.35 EUR (original: 8.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01LZWD3XK
 description:
 actualPrice: 3.95 EUR
+currency: EUR
+price: 3.95
 comparePrice: 7.69 EUR
 inStock: true
+prodname: Play-Doh - Mini Pack 4 Botes
 ---
 
 Está [Play-Doh - Mini Pack 4 Botes](https://www.amazon.es/dp/B01LZWD3XK/?tag=tolees-21) con 48.63 de descuento por 3.95 EUR (original: 7.69 EUR) en el siguiente enlace!

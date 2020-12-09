@@ -10,8 +10,11 @@ author: ring
 slug: B07HB9LPF4
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 28.99 EUR
 inStock: true
+prodname: Johnnie Walker White Walker Whisky Escocés  Edición limitada Juego de Tronos - 700 ml
 ---
 
 Tienes [Johnnie Walker White Walker Whisky Escocés  Edición limitada Juego de Tronos - 700 ml](https://www.amazon.es/dp/B07HB9LPF4/?tag=tolees-21) con un 39.63 % de descuento con precio de oferta de 17.5 EUR (original: 28.99 EUR) en el siguiente enlace!

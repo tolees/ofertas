@@ -10,8 +10,11 @@ author: ring
 slug: B07H2BKJMW
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 45.42 EUR
 inStock: true
+prodname: OxyLED Luces de proyector de disco mejoradas de luces de fiesta  luces de escenario de LED para Halloween  cumpleaños  fiestas  decoración Celebración de la boda  Navidad
 ---
 
 Tienes [OxyLED Luces de proyector de disco mejoradas de luces de fiesta  luces de escenario de LED para Halloween  cumpleaños  fiestas  decoración Celebración de la boda  Navidad](https://www.amazon.es/dp/B07H2BKJMW/?tag=tolees-21) con un 73.60 % de descuento con precio de oferta de 11.99 EUR (original: 45.42 EUR) en el siguiente enlace!

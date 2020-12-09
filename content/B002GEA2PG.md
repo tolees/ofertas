@@ -10,8 +10,11 @@ author: ring
 slug: B002GEA2PG
 description:
 actualPrice: 83.82 EUR
+currency: EUR
+price: 83.82
 comparePrice: 131.89 EUR
 inStock: true
+prodname: Bosch Professional GWS 1000 - Amoladora angular
 ---
 
 Ahora mismo tienes [Bosch Professional GWS 1000 - Amoladora angular](https://www.amazon.es/dp/B002GEA2PG/?tag=tolees-21) a 83.82 EUR (original: 131.89 EUR) (36.45 %  de descuento) en el siguiente enlace!

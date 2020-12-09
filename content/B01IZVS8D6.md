@@ -10,8 +10,11 @@ author: ring
 slug: B01IZVS8D6
 description:
 actualPrice: 36.68 EUR
+currency: EUR
+price: 36.68
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Intex 64122 - Colchón hinchable Dura-Beam Standard Pillow Rest 99 x 191 x 42 cm
 ---
 
 Tienes [Intex 64122 - Colchón hinchable Dura-Beam Standard Pillow Rest 99 x 191 x 42 cm](https://www.amazon.es/dp/B01IZVS8D6/?tag=tolees-21) con un 26.57 % de descuento con precio de oferta de 36.68 EUR (original: 49.95 EUR) en el siguiente enlace!

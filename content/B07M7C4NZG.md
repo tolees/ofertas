@@ -10,8 +10,11 @@ author: ring
 slug: B07M7C4NZG
 description:
 actualPrice: 25.95 EUR
+currency: EUR
+price: 25.95
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Marca Amazon - find. Impermeable Hombre  Beige  Stone   S  Label: S
 ---
 
 Está [Marca Amazon - find. Impermeable Hombre  Beige  Stone   S  Label: S](https://www.amazon.es/dp/B07M7C4NZG/?tag=tolees-21) con 62.88 de descuento por 25.95 EUR (original: 69.9 EUR) en el siguiente enlace!

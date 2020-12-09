@@ -10,8 +10,11 @@ author: ring
 slug: B079NHG8NL
 description:
 actualPrice: 30.0 EUR
+currency: EUR
+price: 30.0
 comparePrice: 46.24 EUR
 inStock: true
+prodname: Zuru X-Shot- ZURU Regenerator X-Shot Excel Regenerador Espuma dardo Blaster Más de 1000 Combinaciones únicas  Color Rosso  Talla  36351 
 ---
 
 Ahora mismo tienes [Zuru X-Shot- ZURU Regenerator X-Shot Excel Regenerador Espuma dardo Blaster Más de 1000 Combinaciones únicas  Color Rosso  Talla  36351 ](https://www.amazon.es/dp/B079NHG8NL/?tag=tolees-21) a 30.0 EUR (original: 46.24 EUR) (35.12 %  de descuento) en el siguiente enlace!

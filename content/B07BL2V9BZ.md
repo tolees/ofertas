@@ -10,8 +10,11 @@ author: ring
 slug: B07BL2V9BZ
 description:
 actualPrice: 35.7 EUR
+currency: EUR
+price: 35.7
 comparePrice: 110 EUR
 inStock: true
+prodname: New Balance X-90  Zapatillas para Mujer  Rojo  NB Burgundy/Black PD   39 EU
 ---
 
 Está [New Balance X-90  Zapatillas para Mujer  Rojo  NB Burgundy/Black PD   39 EU](https://www.amazon.es/dp/B07BL2V9BZ/?tag=tolees-21) con 67.55 de descuento por 35.7 EUR (original: 110 EUR) en el siguiente enlace!

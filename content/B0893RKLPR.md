@@ -10,8 +10,11 @@ author: ring
 slug: B0893RKLPR
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Quiksilver Comp Logo-Camiseta para Hombre  White  XS
 ---
 
 Está [Quiksilver Comp Logo-Camiseta para Hombre  White  XS](https://www.amazon.es/dp/B0893RKLPR/?tag=tolees-21) con 42.32 de descuento por 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

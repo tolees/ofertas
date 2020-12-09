@@ -10,8 +10,11 @@ author: ring
 slug: B01HEXE1J6
 description:
 actualPrice: 13.49 EUR
+currency: EUR
+price: 13.49
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Crocs Classic Clog K  Zuecos Unisex Niños  Naranja  Tangerine   28/29 EU
 ---
 
 Está [Crocs Classic Clog K  Zuecos Unisex Niños  Naranja  Tangerine   28/29 EU](https://www.amazon.es/dp/B01HEXE1J6/?tag=tolees-21) con 50.02 de descuento por 13.49 EUR (original: 26.99 EUR) en el siguiente enlace!

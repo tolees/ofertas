@@ -10,8 +10,11 @@ author: ring
 slug: B07JHW6WKF
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 24.95 EUR
 inStock: true
+prodname: PUMA ftblNXT Shorts Pantalones Cortos  Hombre  Negro Black  L
 ---
 
 Está [PUMA ftblNXT Shorts Pantalones Cortos  Hombre  Negro Black  L](https://www.amazon.es/dp/B07JHW6WKF/?tag=tolees-21) con 44.09 de descuento por 13.95 EUR (original: 24.95 EUR) en el siguiente enlace!

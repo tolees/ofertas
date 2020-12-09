@@ -10,8 +10,11 @@ author: ring
 slug: B017XAFXHY
 description:
 actualPrice: 16 EUR
+currency: EUR
+price: 16
 comparePrice: 26.21 EUR
 inStock: true
+prodname: Kärcher Pistola de riego Premium metal  2.645-270.0 
 ---
 
 Está [Kärcher Pistola de riego Premium metal  2.645-270.0 ](https://www.amazon.es/dp/B017XAFXHY/?tag=tolees-21) con 38.95 de descuento por 16 EUR (original: 26.21 EUR) en el siguiente enlace!

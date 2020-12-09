@@ -10,8 +10,11 @@ author: ring
 slug: B0781VNDXH
 description:
 actualPrice: 14.32 EUR
+currency: EUR
+price: 14.32
 comparePrice: 29.95 EUR
 inStock: true
+prodname: PUMA Liga Baselayer Short Tight Pantalones Cortos  Hombre  Azul  Silver Lake Blue   M
 ---
 
 Ahora mismo tienes [PUMA Liga Baselayer Short Tight Pantalones Cortos  Hombre  Azul  Silver Lake Blue   M](https://www.amazon.es/dp/B0781VNDXH/?tag=tolees-21) a 14.32 EUR (original: 29.95 EUR) (52.19 %  de descuento) en el siguiente enlace!

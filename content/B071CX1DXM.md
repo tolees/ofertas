@@ -10,8 +10,11 @@ author: ring
 slug: B071CX1DXM
 description:
 actualPrice: 61.15 EUR
+currency: EUR
+price: 61.15
 comparePrice: 90.0 EUR
 inStock: true
+prodname: Keter 233743 Job Box - Carro Horizontal  Negro  62.6 x 35.3 x 39 cm
 ---
 
 Ahora mismo tienes [Keter 233743 Job Box - Carro Horizontal  Negro  62.6 x 35.3 x 39 cm](https://www.amazon.es/dp/B071CX1DXM/?tag=tolees-21) a 61.15 EUR (original: 90.0 EUR) (32.06 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B075R7JNJS
 description:
 actualPrice: 50 EUR
+currency: EUR
+price: 50
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance Country Spike  Zapatillas de Cross para Mujer  Naranja  Dragonfly/Galaxy PB   39 EU
 ---
 
 Ahora mismo tienes [New Balance Country Spike  Zapatillas de Cross para Mujer  Naranja  Dragonfly/Galaxy PB   39 EU](https://www.amazon.es/dp/B075R7JNJS/?tag=tolees-21) a 50 EUR (original: 90 EUR) (44.44 %  de descuento) en el siguiente enlace!

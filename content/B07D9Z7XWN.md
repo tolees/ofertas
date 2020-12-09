@@ -10,8 +10,11 @@ author: ring
 slug: B07D9Z7XWN
 description:
 actualPrice: 31.72 EUR
+currency: EUR
+price: 31.72
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Puma Ignite Flash Luxe Wn s  Zapatillas de Running para Mujer  Rojo  Fig Black-Metallic Ash 03   38 EU
 ---
 
 Ahora mismo tienes [Puma Ignite Flash Luxe Wn s  Zapatillas de Running para Mujer  Rojo  Fig Black-Metallic Ash 03   38 EU](https://www.amazon.es/dp/B07D9Z7XWN/?tag=tolees-21) a 31.72 EUR (original: 89.95 EUR) (64.74 %  de descuento) en el siguiente enlace!

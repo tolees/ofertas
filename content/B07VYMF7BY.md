@@ -10,8 +10,11 @@ author: ring
 slug: B07VYMF7BY
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Corsair M55 PRO RGB - Ratón Óptico Ambidiestro para Juegos  12.400 PPP  Sensor Óptico  Ligero  8 Botones Programables  Retroiluminación LED RGB  Blanco
 ---
 
 Tienes [Corsair M55 PRO RGB - Ratón Óptico Ambidiestro para Juegos  12.400 PPP  Sensor Óptico  Ligero  8 Botones Programables  Retroiluminación LED RGB  Blanco](https://www.amazon.es/dp/B07VYMF7BY/?tag=tolees-21) con un 37.51 % de descuento con precio de oferta de 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

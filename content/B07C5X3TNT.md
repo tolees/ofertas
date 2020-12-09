@@ -10,8 +10,11 @@ author: ring
 slug: B07C5X3TNT
 description:
 actualPrice: 16.49 EUR
+currency: EUR
+price: 16.49
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Negro  Black Detail:Reg Fit   X-Small para Hombre
 ---
 
 Ahora mismo tienes [Jack & Jones Jjecorp Logo Sweat Hood Noos Capucha  Negro  Black Detail:Reg Fit   X-Small para Hombre](https://www.amazon.es/dp/B07C5X3TNT/?tag=tolees-21) a 16.49 EUR (original: 24.99 EUR) (34.01 %  de descuento) en el siguiente enlace!

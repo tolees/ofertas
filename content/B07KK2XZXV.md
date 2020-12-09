@@ -10,8 +10,11 @@ author: ring
 slug: B07KK2XZXV
 description:
 actualPrice: 6 EUR
+currency: EUR
+price: 6
 comparePrice: 22.48 EUR
 inStock: true
+prodname: New Look Glitter Buckle 6019193 Monos Cortos   Mulit/Coloured 99   36  Talla del Fabricante: 8  para Mujer
 ---
 
 Ahora mismo tienes [New Look Glitter Buckle 6019193 Monos Cortos   Mulit/Coloured 99   36  Talla del Fabricante: 8  para Mujer](https://www.amazon.es/dp/B07KK2XZXV/?tag=tolees-21) a 6 EUR (original: 22.48 EUR) (73.31 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06WD72FXR
 description:
 actualPrice: 38.11 EUR
+currency: EUR
+price: 38.11
 comparePrice: 149 EUR
 inStock: true
+prodname: Carrera Junior CARRERINO 21 UZ 807  Gafas de sol Unisex-Niño  Negro  BLACK/RED FL  54
 ---
 
 Tienes [Carrera Junior CARRERINO 21 UZ 807  Gafas de sol Unisex-Niño  Negro  BLACK/RED FL  54](https://www.amazon.es/dp/B06WD72FXR/?tag=tolees-21) con un 74.42 % de descuento con precio de oferta de 38.11 EUR (original: 149 EUR) en el siguiente enlace!

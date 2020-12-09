@@ -10,8 +10,11 @@ author: ring
 slug: B00CZD38YA
 description:
 actualPrice: 62.99 EUR
+currency: EUR
+price: 62.99
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Reebok Classic Leather - Zapatillas de cuero para hombre  Blanco  39
 ---
 
 Está [Reebok Classic Leather - Zapatillas de cuero para hombre  Blanco  39](https://www.amazon.es/dp/B00CZD38YA/?tag=tolees-21) con 29.97 de descuento por 62.99 EUR (original: 89.95 EUR) en el siguiente enlace!

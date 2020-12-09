@@ -10,8 +10,11 @@ author: ring
 slug: B00IAON3NE
 description:
 actualPrice: 23.7 EUR
+currency: EUR
+price: 23.7
 comparePrice: 50 EUR
 inStock: true
+prodname: Nike Court Royale  GS   Zapatillas de Gimnasia para Niños  Gris  Atmosphere Grey/Particle Beige/White 009   40 EU
 ---
 
 Está [Nike Court Royale  GS   Zapatillas de Gimnasia para Niños  Gris  Atmosphere Grey/Particle Beige/White 009   40 EU](https://www.amazon.es/dp/B00IAON3NE/?tag=tolees-21) con 52.60 de descuento por 23.7 EUR (original: 50 EUR) en el siguiente enlace!

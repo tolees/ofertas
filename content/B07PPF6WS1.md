@@ -10,8 +10,11 @@ author: ring
 slug: B07PPF6WS1
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 37.99 EUR
 inStock: true
+prodname: TEPSMIGO Funda Barbacoa Impermeable  Funda Barbacoa  con Un Cepillo de La Parrilla de La Parrilla de Carbón Tepro Toronto  Funda Barbacoa 105 * 49 * 102cm + Cepillo para Parrilla
 ---
 
 Tienes [TEPSMIGO Funda Barbacoa Impermeable  Funda Barbacoa  con Un Cepillo de La Parrilla de La Parrilla de Carbón Tepro Toronto  Funda Barbacoa 105 * 49 * 102cm + Cepillo para Parrilla](https://www.amazon.es/dp/B07PPF6WS1/?tag=tolees-21) con un 55.28 % de descuento con precio de oferta de 16.99 EUR (original: 37.99 EUR) en el siguiente enlace!

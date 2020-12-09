@@ -10,8 +10,11 @@ author: ring
 slug: B00M2L5CFS
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Chicco Jungla Musical - Alfombra electrónica con Actividades manuales
 ---
 
 Está [Chicco Jungla Musical - Alfombra electrónica con Actividades manuales](https://www.amazon.es/dp/B00M2L5CFS/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

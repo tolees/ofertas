@@ -10,8 +10,11 @@ author: ring
 slug: B08MF2JNQV
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Aibrou Pijama Mujer Invierno de Algodón Conjuntos de Pijamas para Mujer Mangas Larga y Pantalones Largo Ropa de Casa 2 Piezas
 ---
 
 Tienes [Aibrou Pijama Mujer Invierno de Algodón Conjuntos de Pijamas para Mujer Mangas Larga y Pantalones Largo Ropa de Casa 2 Piezas](https://www.amazon.es/dp/B08MF2JNQV/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 27.99 EUR (original: 69.99 EUR) en el siguiente enlace!

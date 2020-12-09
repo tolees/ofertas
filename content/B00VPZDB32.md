@@ -10,8 +10,11 @@ author: ring
 slug: B00VPZDB32
 description:
 actualPrice: 9.35 EUR
+currency: EUR
+price: 9.35
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Puma Bodywear Stripe 15 - Bóxer para hombre  pack de 2   Rojo  Red/Grey   S
 ---
 
 Tienes [Puma Bodywear Stripe 15 - Bóxer para hombre  pack de 2   Rojo  Red/Grey   S](https://www.amazon.es/dp/B00VPZDB32/?tag=tolees-21) con un 44.97 % de descuento con precio de oferta de 9.35 EUR (original: 16.99 EUR) en el siguiente enlace!

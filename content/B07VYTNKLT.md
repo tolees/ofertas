@@ -10,8 +10,11 @@ author: ring
 slug: B07VYTNKLT
 description:
 actualPrice: 139.99 EUR
+currency: EUR
+price: 139.99
 comparePrice: 236.87 EUR
 inStock: true
+prodname: Ninja Foodi Pressure and Multi [OP300EU] Air Fryer  Slow Cooker  Black  Olla a Presión y Freidora de Aire  Negro y Gris
 ---
 
 Está [Ninja Foodi Pressure and Multi [OP300EU] Air Fryer  Slow Cooker  Black  Olla a Presión y Freidora de Aire  Negro y Gris](https://www.amazon.es/dp/B07VYTNKLT/?tag=tolees-21) con 40.90 de descuento por 139.99 EUR (original: 236.87 EUR) en el siguiente enlace!

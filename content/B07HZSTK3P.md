@@ -10,8 +10,11 @@ author: ring
 slug: B07HZSTK3P
 description:
 actualPrice: 26.23 EUR
+currency: EUR
+price: 26.23
 comparePrice: 43.9 EUR
 inStock: true
+prodname: find. Leather Hurrache Sandalias Punta Cerrada  Negro Black   39 EU
 ---
 
 Tienes [find. Leather Hurrache Sandalias Punta Cerrada  Negro Black   39 EU](https://www.amazon.es/dp/B07HZSTK3P/?tag=tolees-21) con un 40.25 % de descuento con precio de oferta de 26.23 EUR (original: 43.9 EUR) en el siguiente enlace!

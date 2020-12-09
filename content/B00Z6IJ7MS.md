@@ -10,8 +10,11 @@ author: ring
 slug: B00Z6IJ7MS
 description:
 actualPrice: 159 EUR
+currency: EUR
+price: 159
 comparePrice: 244.99 EUR
 inStock: true
+prodname: Bosch PSB 1800 LI-2 - Taladro de percusión a batería  2 baterías 18V 1 5Ah  maletín 
 ---
 
 Está [Bosch PSB 1800 LI-2 - Taladro de percusión a batería  2 baterías 18V 1 5Ah  maletín ](https://www.amazon.es/dp/B00Z6IJ7MS/?tag=tolees-21) con 35.10 de descuento por 159 EUR (original: 244.99 EUR) en el siguiente enlace!

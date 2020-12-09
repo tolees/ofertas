@@ -10,8 +10,11 @@ author: ring
 slug: B06XS7LYY4
 description:
 actualPrice: 29.09 EUR
+currency: EUR
+price: 29.09
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Skechers Arcade  Zapatillas de Entrenamiento para Hombre  Azul  Navy   40 EU
 ---
 
 Tienes [Skechers Arcade  Zapatillas de Entrenamiento para Hombre  Azul  Navy   40 EU](https://www.amazon.es/dp/B06XS7LYY4/?tag=tolees-21) con un 58.41 % de descuento con precio de oferta de 29.09 EUR (original: 69.95 EUR) en el siguiente enlace!

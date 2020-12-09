@@ -10,8 +10,11 @@ author: ring
 slug: B08KQHGSFJ
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 13.89 EUR
 inStock: true
+prodname: Cranio Creations Unicorn Fever Royal Hooves HG035
 ---
 
 Tienes [Cranio Creations Unicorn Fever Royal Hooves HG035](https://www.amazon.es/dp/B08KQHGSFJ/?tag=tolees-21) con un 28.08 % de descuento con precio de oferta de 9.99 EUR (original: 13.89 EUR) en el siguiente enlace!

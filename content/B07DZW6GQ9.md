@@ -10,8 +10,11 @@ author: ring
 slug: B07DZW6GQ9
 description:
 actualPrice: 12.6 EUR
+currency: EUR
+price: 12.6
 comparePrice: 20 EUR
 inStock: true
+prodname: Levis Footwear and Accessories Dodge Sportswear  Chanclas para Hombre  Negro  Regular Black 59   L
 ---
 
 Está [Levis Footwear and Accessories Dodge Sportswear  Chanclas para Hombre  Negro  Regular Black 59   L](https://www.amazon.es/dp/B07DZW6GQ9/?tag=tolees-21) con 37.00 de descuento por 12.6 EUR (original: 20 EUR) en el siguiente enlace!

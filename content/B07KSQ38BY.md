@@ -10,8 +10,11 @@ author: ring
 slug: B07KSQ38BY
 description:
 actualPrice: 48.17 EUR
+currency: EUR
+price: 48.17
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Columbia Mujer Chaqueta impermeable  Timothy Lake W Jacket  Poliéster  Negro  Talla: S  1840501
 ---
 
 Tienes [Columbia Mujer Chaqueta impermeable  Timothy Lake W Jacket  Poliéster  Negro  Talla: S  1840501](https://www.amazon.es/dp/B07KSQ38BY/?tag=tolees-21) con un 51.83 % de descuento con precio de oferta de 48.17 EUR (original: 99.99 EUR) en el siguiente enlace!

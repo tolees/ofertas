@@ -10,8 +10,11 @@ author: ring
 slug: B06XY43FNG
 description:
 actualPrice: 8.64 EUR
+currency: EUR
+price: 8.64
 comparePrice: 34.99 EUR
 inStock: true
+prodname: MAMALICIOUS Mlwrappy S/s Woven Top  Camiseta sin Mangas Mujer  Blanco  Snow White   36  Talla del Fabricante: Small 
 ---
 
 Tienes [MAMALICIOUS Mlwrappy S/s Woven Top  Camiseta sin Mangas Mujer  Blanco  Snow White   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B06XY43FNG/?tag=tolees-21) con un 75.31 % de descuento con precio de oferta de 8.64 EUR (original: 34.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B077J5JWBH
 description:
 actualPrice: 149.0 EUR
+currency: EUR
+price: 149.0
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Pioneer DM-40BT altavoz De 2 vías Blanco Inalámbrico y alámbrico 3 5mm/Bluetooth - Altavoces  De 2 vías  Inalámbrico y alámbrico  3 5mm/Bluetooth  70 - 30000 Hz  10000 Ω  Blanco 
 ---
 
 Ahora mismo tienes [Pioneer DM-40BT altavoz De 2 vías Blanco Inalámbrico y alámbrico 3 5mm/Bluetooth - Altavoces  De 2 vías  Inalámbrico y alámbrico  3 5mm/Bluetooth  70 - 30000 Hz  10000 Ω  Blanco ](https://www.amazon.es/dp/B077J5JWBH/?tag=tolees-21) a 149.0 EUR (original: 199.0 EUR) (25.13 %  de descuento) en el siguiente enlace!

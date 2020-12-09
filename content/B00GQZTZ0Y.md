@@ -10,8 +10,11 @@ author: ring
 slug: B00GQZTZ0Y
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 29.0 EUR
 inStock: true
+prodname: Relaxdays 10017154 Sostenedor de la Toalla Escudo Pared  Estante con bambú  Natural  50x16x18 cm
 ---
 
 Tienes [Relaxdays 10017154 Sostenedor de la Toalla Escudo Pared  Estante con bambú  Natural  50x16x18 cm](https://www.amazon.es/dp/B00GQZTZ0Y/?tag=tolees-21) con un 27.62 % de descuento con precio de oferta de 20.99 EUR (original: 29.0 EUR) en el siguiente enlace!

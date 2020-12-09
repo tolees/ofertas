@@ -10,8 +10,11 @@ author: ring
 slug: B00YMEL1BM
 description:
 actualPrice: 13.98 EUR
+currency: EUR
+price: 13.98
 comparePrice: 34.99 EUR
 inStock: true
+prodname: NOISY MAY Extreme Lucy Nw Soft Jeans Pi315 - Noos - Vaqueros para mujer  Azul oscuro  32/L30  Talla del fabricante: XXS/XS 
 ---
 
 Tienes [NOISY MAY Extreme Lucy Nw Soft Jeans Pi315 - Noos - Vaqueros para mujer  Azul oscuro  32/L30  Talla del fabricante: XXS/XS ](https://www.amazon.es/dp/B00YMEL1BM/?tag=tolees-21) con un 60.05 % de descuento con precio de oferta de 13.98 EUR (original: 34.99 EUR) en el siguiente enlace!

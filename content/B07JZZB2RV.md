@@ -10,8 +10,11 @@ author: ring
 slug: B07JZZB2RV
 description:
 actualPrice: 14.85 EUR
+currency: EUR
+price: 14.85
 comparePrice: 22.7 EUR
 inStock: true
+prodname: Schneider Electric sc5imt23212 multímetro digital de bolsillo Cat III 300 V  Verde
 ---
 
 Está [Schneider Electric sc5imt23212 multímetro digital de bolsillo Cat III 300 V  Verde](https://www.amazon.es/dp/B07JZZB2RV/?tag=tolees-21) con 34.58 de descuento por 14.85 EUR (original: 22.7 EUR) en el siguiente enlace!

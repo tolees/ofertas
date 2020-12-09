@@ -10,8 +10,11 @@ author: ring
 slug: B079SMCTVY
 description:
 actualPrice: 44.79 EUR
+currency: EUR
+price: 44.79
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Desigual TS_Claudina  Camiseta para Mujer    Negro 2000  Large
 ---
 
 Ahora mismo tienes [Desigual TS_Claudina  Camiseta para Mujer    Negro 2000  Large](https://www.amazon.es/dp/B079SMCTVY/?tag=tolees-21) a 44.79 EUR (original: 59.95 EUR) (25.29 %  de descuento) en el siguiente enlace!

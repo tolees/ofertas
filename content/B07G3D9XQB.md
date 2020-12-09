@@ -10,8 +10,11 @@ author: ring
 slug: B07G3D9XQB
 description:
 actualPrice: 24.89 EUR
+currency: EUR
+price: 24.89
 comparePrice: 34.99 EUR
 inStock: true
+prodname: LEGO Harry Potter - Desafío de los Tres Magos Colacuerno Húngaro  Set de Construcción de Juguete para Recrear Mágicas Aventuras  Incluye Minifiguras de los Personajes  75946 
 ---
 
 Está [LEGO Harry Potter - Desafío de los Tres Magos Colacuerno Húngaro  Set de Construcción de Juguete para Recrear Mágicas Aventuras  Incluye Minifiguras de los Personajes  75946 ](https://www.amazon.es/dp/B07G3D9XQB/?tag=tolees-21) con 28.87 de descuento por 24.89 EUR (original: 34.99 EUR) en el siguiente enlace!

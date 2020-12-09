@@ -10,8 +10,11 @@ author: ring
 slug: B07VHW2T5K
 description:
 actualPrice: 79.0 EUR
+currency: EUR
+price: 79.0
 comparePrice: 149.0 EUR
 inStock: true
+prodname: HUGO Reloj Analógico para Unisex Adulto de Cuarzo con Correa en Cuero 1530102
 ---
 
 Está [HUGO Reloj Analógico para Unisex Adulto de Cuarzo con Correa en Cuero 1530102](https://www.amazon.es/dp/B07VHW2T5K/?tag=tolees-21) con 46.98 de descuento por 79.0 EUR (original: 149.0 EUR) en el siguiente enlace!

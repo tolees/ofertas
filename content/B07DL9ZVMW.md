@@ -10,8 +10,11 @@ author: ring
 slug: B07DL9ZVMW
 description:
 actualPrice: 18.54 EUR
+currency: EUR
+price: 18.54
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Women s Secret Ca Lazy PJ Conjuntos de Pijama  Mujer  Verde  Verde 27   Medium  Tamaño del Fabricante:M 
 ---
 
 Tienes [Women s Secret Ca Lazy PJ Conjuntos de Pijama  Mujer  Verde  Verde 27   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DL9ZVMW/?tag=tolees-21) con un 47.01 % de descuento con precio de oferta de 18.54 EUR (original: 34.99 EUR) en el siguiente enlace!

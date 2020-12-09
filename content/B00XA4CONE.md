@@ -10,8 +10,11 @@ author: ring
 slug: B00XA4CONE
 description:
 actualPrice: 35.8 EUR
+currency: EUR
+price: 35.8
 comparePrice: 51.0 EUR
 inStock: true
+prodname: Pago del Cielo Celeste Roble  Vino Tinto - 6 botellas de 75 cl  Total: 4500 ml
 ---
 
 Está [Pago del Cielo Celeste Roble  Vino Tinto - 6 botellas de 75 cl  Total: 4500 ml](https://www.amazon.es/dp/B00XA4CONE/?tag=tolees-21) con 29.80 de descuento por 35.8 EUR (original: 51.0 EUR) en el siguiente enlace!

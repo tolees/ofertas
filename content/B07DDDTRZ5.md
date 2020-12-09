@@ -10,8 +10,11 @@ author: ring
 slug: B07DDDTRZ5
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 31.87 EUR
 inStock: true
+prodname: Odlo Niños SUW Bottom Pant Active Originals Kids Unterhose  otoño/Invierno  Infantil  Color Hibiscus  tamaño 140
 ---
 
 Ahora mismo tienes [Odlo Niños SUW Bottom Pant Active Originals Kids Unterhose  otoño/Invierno  Infantil  Color Hibiscus  tamaño 140](https://www.amazon.es/dp/B07DDDTRZ5/?tag=tolees-21) a 13.95 EUR (original: 31.87 EUR) (56.23 %  de descuento) en el siguiente enlace!

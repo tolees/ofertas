@@ -10,8 +10,11 @@ author: ring
 slug: B01EK8CVHW
 description:
 actualPrice: 67.95 EUR
+currency: EUR
+price: 67.95
 comparePrice: 94.9 EUR
 inStock: true
+prodname: TP-Link Router 4G  CAT4  Wi-Fi Portátil  MiFi  Pantalla OLED informativa  150 Mbps  Batería 2000 mAh  8h   Conexión 10 Dispositivos Simultáneamente  Fácil Configuración  M7350 
 ---
 
 Está [TP-Link Router 4G  CAT4  Wi-Fi Portátil  MiFi  Pantalla OLED informativa  150 Mbps  Batería 2000 mAh  8h   Conexión 10 Dispositivos Simultáneamente  Fácil Configuración  M7350 ](https://www.amazon.es/dp/B01EK8CVHW/?tag=tolees-21) con 28.40 de descuento por 67.95 EUR (original: 94.9 EUR) en el siguiente enlace!

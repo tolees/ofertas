@@ -10,8 +10,11 @@ author: ring
 slug: B07JK2FMYN
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Liga De La Justicia Ed. 2018 Blu-Ray [Blu-ray]
 ---
 
 Tienes [Liga De La Justicia Ed. 2018 Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07JK2FMYN/?tag=tolees-21) con un 35.74 % de descuento con precio de oferta de 8.99 EUR (original: 13.99 EUR) en el siguiente enlace!

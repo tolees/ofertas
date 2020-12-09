@@ -10,8 +10,11 @@ author: ring
 slug: B07KYXTK4N
 description:
 actualPrice: 7.28 EUR
+currency: EUR
+price: 7.28
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Springfield 5.Pa.Falda Larga Lisa Circular Falda  Mujer  Verde  Gama Verdes 23   Large  Tamaño del Fabricante:L 
 ---
 
 Está [Springfield 5.Pa.Falda Larga Lisa Circular Falda  Mujer  Verde  Gama Verdes 23   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KYXTK4N/?tag=tolees-21) con 59.53 de descuento por 7.28 EUR (original: 17.99 EUR) en el siguiente enlace!

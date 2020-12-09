@@ -10,8 +10,11 @@ author: ring
 slug: B01CZS4TX8
 description:
 actualPrice: 10.49 EUR
+currency: EUR
+price: 10.49
 comparePrice: 15.99 EUR
 inStock: true
+prodname: EBL 1100mAh AAA Ni-MH 1200 Ciclo de Pilas Recargables para los Equipos Domésticos con Estuches de Almacenamiento  8 Piezas 
 ---
 
 Ahora mismo tienes [EBL 1100mAh AAA Ni-MH 1200 Ciclo de Pilas Recargables para los Equipos Domésticos con Estuches de Almacenamiento  8 Piezas ](https://www.amazon.es/dp/B01CZS4TX8/?tag=tolees-21) a 10.49 EUR (original: 15.99 EUR) (34.40 %  de descuento) en el siguiente enlace!

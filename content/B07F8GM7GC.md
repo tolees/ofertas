@@ -10,8 +10,11 @@ author: ring
 slug: B07F8GM7GC
 description:
 actualPrice: 65.31 EUR
+currency: EUR
+price: 65.31
 comparePrice: 129 EUR
 inStock: true
+prodname: Napapijri Rainforest Winter  Chaqueta  Azul  Plastic B56   116  Talla del Fabricante: 06  para Niños
 ---
 
 Tienes [Napapijri Rainforest Winter  Chaqueta  Azul  Plastic B56   116  Talla del Fabricante: 06  para Niños](https://www.amazon.es/dp/B07F8GM7GC/?tag=tolees-21) con un 49.37 % de descuento con precio de oferta de 65.31 EUR (original: 129 EUR) en el siguiente enlace!

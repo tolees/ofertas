@@ -10,8 +10,11 @@ author: ring
 slug: B07NQ47VQC
 description:
 actualPrice: 80.11 EUR
+currency: EUR
+price: 80.11
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Pierre Cardin Mix & Match Sakko Andre Futureflex Extra Stretch 24/7 Traje  Azul  Granat 3050   46 para Hombre
 ---
 
 Está [Pierre Cardin Mix & Match Sakko Andre Futureflex Extra Stretch 24/7 Traje  Azul  Granat 3050   46 para Hombre](https://www.amazon.es/dp/B07NQ47VQC/?tag=tolees-21) con 59.94 de descuento por 80.11 EUR (original: 199.99 EUR) en el siguiente enlace!

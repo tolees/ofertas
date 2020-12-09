@@ -10,8 +10,11 @@ author: ring
 slug: B07DYX9NSM
 description:
 actualPrice: 64.8 EUR
+currency: EUR
+price: 64.8
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Columbia Powder Lite - Chaqueta  Hombre  Azul  Collegiate Navy/Azul   Talla S
 ---
 
 Está [Columbia Powder Lite - Chaqueta  Hombre  Azul  Collegiate Navy/Azul   Talla S](https://www.amazon.es/dp/B07DYX9NSM/?tag=tolees-21) con 35.19 de descuento por 64.8 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B000LFVKMG
 description:
 actualPrice: 13.58 EUR
+currency: EUR
+price: 13.58
 comparePrice: 28.27 EUR
 inStock: true
+prodname: Silverline 633470 - Llaves combinadas  22 pzas  6 - 22 mm y 1/4 - 7/8" 
 ---
 
 Ahora mismo tienes [Silverline 633470 - Llaves combinadas  22 pzas  6 - 22 mm y 1/4 - 7/8" ](https://www.amazon.es/dp/B000LFVKMG/?tag=tolees-21) a 13.58 EUR (original: 28.27 EUR) (51.96 %  de descuento) en el siguiente enlace!

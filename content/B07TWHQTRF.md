@@ -10,8 +10,11 @@ author: ring
 slug: B07TWHQTRF
 description:
 actualPrice: 9.75 EUR
+currency: EUR
+price: 9.75
 comparePrice: 59.0 EUR
 inStock: true
+prodname: Superga 2750-cot3strapu  Zapatillas de Gimnasia Hombre  Blanco  White 901   42.5 EU
 ---
 
 Está [Superga 2750-cot3strapu  Zapatillas de Gimnasia Hombre  Blanco  White 901   42.5 EU](https://www.amazon.es/dp/B07TWHQTRF/?tag=tolees-21) con 83.47 de descuento por 9.75 EUR (original: 59.0 EUR) en el siguiente enlace!

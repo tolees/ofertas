@@ -10,8 +10,11 @@ author: ring
 slug: B019ZB8IJO
 description:
 actualPrice: 7.59 EUR
+currency: EUR
+price: 7.59
 comparePrice: 16.63 EUR
 inStock: true
+prodname: Saturnia 8096555 8096555-Plato macetas  30 x 2 6 cm  Marrón 30x30x4 cm
 ---
 
 Tienes [Saturnia 8096555 8096555-Plato macetas  30 x 2 6 cm  Marrón 30x30x4 cm](https://www.amazon.es/dp/B019ZB8IJO/?tag=tolees-21) con un 54.36 % de descuento con precio de oferta de 7.59 EUR (original: 16.63 EUR) en el siguiente enlace!

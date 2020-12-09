@@ -10,8 +10,11 @@ author: ring
 slug: B07JN23HFQ
 description:
 actualPrice: 8.42 EUR
+currency: EUR
+price: 8.42
 comparePrice: 29 EUR
 inStock: true
+prodname: Morgan 191-tito.n Camiseta  Negro Night  Small  Talla del Fabricante: TS  para Mujer
 ---
 
 Está [Morgan 191-tito.n Camiseta  Negro Night  Small  Talla del Fabricante: TS  para Mujer](https://www.amazon.es/dp/B07JN23HFQ/?tag=tolees-21) con 70.97 de descuento por 8.42 EUR (original: 29 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07S1XQCS2
 description:
 actualPrice: 58.76 EUR
+currency: EUR
+price: 58.76
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Columbia Peakfreak X2 Outdry  Botas de Senderismo Hombre  Grey  Monument  Pool 036   44 EU
 ---
 
 Está [Columbia Peakfreak X2 Outdry  Botas de Senderismo Hombre  Grey  Monument  Pool 036   44 EU](https://www.amazon.es/dp/B07S1XQCS2/?tag=tolees-21) con 51.03 de descuento por 58.76 EUR (original: 119.99 EUR) en el siguiente enlace!

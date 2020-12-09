@@ -10,8 +10,11 @@ author: ring
 slug: B07FTJ5CZC
 description:
 actualPrice: 33.53 EUR
+currency: EUR
+price: 33.53
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Rider  Vaqueros slim para Hombre  Azul  Blue Days Ib  W29/L32
 ---
 
 Está [Lee Rider  Vaqueros slim para Hombre  Azul  Blue Days Ib  W29/L32](https://www.amazon.es/dp/B07FTJ5CZC/?tag=tolees-21) con 66.45 de descuento por 33.53 EUR (original: 99.95 EUR) en el siguiente enlace!

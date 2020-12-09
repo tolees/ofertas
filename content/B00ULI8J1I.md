@@ -10,8 +10,11 @@ author: ring
 slug: B00ULI8J1I
 description:
 actualPrice: 174.01 EUR
+currency: EUR
+price: 174.01
 comparePrice: 360 EUR
 inStock: true
+prodname: Samsonite Neopulse - Maleta  Rojo  Metallic  Red   M  69 cm-74 L 
 ---
 
 Tienes [Samsonite Neopulse - Maleta  Rojo  Metallic  Red   M  69 cm-74 L ](https://www.amazon.es/dp/B00ULI8J1I/?tag=tolees-21) con un 51.66 % de descuento con precio de oferta de 174.01 EUR (original: 360 EUR) en el siguiente enlace!

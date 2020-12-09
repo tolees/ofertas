@@ -10,8 +10,11 @@ author: ring
 slug: B07X6JKQZQ
 description:
 actualPrice: 18.88 EUR
+currency: EUR
+price: 18.88
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Disney Classic Games: Aladdin and The Lion King
 ---
 
 Está [Disney Classic Games: Aladdin and The Lion King](https://www.amazon.es/dp/B07X6JKQZQ/?tag=tolees-21) con 46.04 de descuento por 18.88 EUR (original: 34.99 EUR) en el siguiente enlace!

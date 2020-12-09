@@ -10,8 +10,11 @@ author: ring
 slug: B01KV6I4SM
 description:
 actualPrice: 16.9 EUR
+currency: EUR
+price: 16.9
 comparePrice: 23.9 EUR
 inStock: true
+prodname: Happiness Boutique Damas Pulsera Delicada Charms Corazón en Oro Rosa | Brazalete de Cadena Doble Estilo Minimalista Libre de Níquel
 ---
 
 Está [Happiness Boutique Damas Pulsera Delicada Charms Corazón en Oro Rosa | Brazalete de Cadena Doble Estilo Minimalista Libre de Níquel](https://www.amazon.es/dp/B01KV6I4SM/?tag=tolees-21) con 29.29 de descuento por 16.9 EUR (original: 23.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HM4FBLF
 description:
 actualPrice: 11.1 EUR
+currency: EUR
+price: 11.1
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Mayoral 4552 Pantalones  Verde  Botella 49   5 años  Tamaño del Fabricante:5  para Niñas
 ---
 
 Está [Mayoral 4552 Pantalones  Verde  Botella 49   5 años  Tamaño del Fabricante:5  para Niñas](https://www.amazon.es/dp/B07HM4FBLF/?tag=tolees-21) con 60.34 de descuento por 11.1 EUR (original: 27.99 EUR) en el siguiente enlace!

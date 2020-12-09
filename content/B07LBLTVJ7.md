@@ -10,8 +10,11 @@ author: ring
 slug: B07LBLTVJ7
 description:
 actualPrice: 23.78 EUR
+currency: EUR
+price: 23.78
 comparePrice: 65 EUR
 inStock: true
+prodname: Tommy Jeans TJM Essential Garment Dye Polo  Amarillo  Radiant Yellow 704   S para Hombre
 ---
 
 Tienes [Tommy Jeans TJM Essential Garment Dye Polo  Amarillo  Radiant Yellow 704   S para Hombre](https://www.amazon.es/dp/B07LBLTVJ7/?tag=tolees-21) con un 63.42 % de descuento con precio de oferta de 23.78 EUR (original: 65 EUR) en el siguiente enlace!

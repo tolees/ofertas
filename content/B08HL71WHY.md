@@ -10,8 +10,11 @@ author: ring
 slug: B08HL71WHY
 description:
 actualPrice: 1.12 EUR
+currency: EUR
+price: 1.12
 comparePrice: 1.6 EUR
 inStock: true
+prodname: #NA 6 uds  Adhesivo de acero inoxidable  colgador de pared para baño  palo en bata adhesiva  toalla  ganchos para batas familiares  accesorios de baño
 ---
 
 Ahora mismo tienes [#NA 6 uds  Adhesivo de acero inoxidable  colgador de pared para baño  palo en bata adhesiva  toalla  ganchos para batas familiares  accesorios de baño](https://www.amazon.es/dp/B08HL71WHY/?tag=tolees-21) a 1.12 EUR (original: 1.6 EUR) (30.00 %  de descuento) en el siguiente enlace!

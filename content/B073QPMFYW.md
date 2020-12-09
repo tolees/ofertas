@@ -10,8 +10,11 @@ author: ring
 slug: B073QPMFYW
 description:
 actualPrice: 6.26 EUR
+currency: EUR
+price: 6.26
 comparePrice: 8.95 EUR
 inStock: true
+prodname: PUMA Phase Gym Sack Gym Bag  Unisex adulto  Black  OSFA
 ---
 
 Tienes [PUMA Phase Gym Sack Gym Bag  Unisex adulto  Black  OSFA](https://www.amazon.es/dp/B073QPMFYW/?tag=tolees-21) con un 30.06 % de descuento con precio de oferta de 6.26 EUR (original: 8.95 EUR) en el siguiente enlace!

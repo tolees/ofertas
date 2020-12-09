@@ -10,8 +10,11 @@ author: ring
 slug: B07BTVQLDW
 description:
 actualPrice: 10.98 EUR
+currency: EUR
+price: 10.98
 comparePrice: 23.76 EUR
 inStock: true
+prodname: Nuheby Juguete Baño Bebe Juguetes Baño Juguetes de Animales Juego de Pesca Juguetes de Agua Flotantes Juguetes para Agua Piscina Baño
 ---
 
 Tienes [Nuheby Juguete Baño Bebe Juguetes Baño Juguetes de Animales Juego de Pesca Juguetes de Agua Flotantes Juguetes para Agua Piscina Baño](https://www.amazon.es/dp/B07BTVQLDW/?tag=tolees-21) con un 53.79 % de descuento con precio de oferta de 10.98 EUR (original: 23.76 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TYKWZG4
 description:
 actualPrice: 20.1 EUR
+currency: EUR
+price: 20.1
 comparePrice: 30.99 EUR
 inStock: true
+prodname: Close to the Sun
 ---
 
 Ahora mismo tienes [Close to the Sun](https://www.amazon.es/dp/B07TYKWZG4/?tag=tolees-21) a 20.1 EUR (original: 30.99 EUR) (35.14 %  de descuento) en el siguiente enlace!

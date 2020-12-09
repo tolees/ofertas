@@ -10,8 +10,11 @@ author: ring
 slug: B077SSYLK9
 description:
 actualPrice: 25.23 EUR
+currency: EUR
+price: 25.23
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Puma Liga Casuals Hoody  Sudadera con Capucha para Hombre  Rojo  Red/White   M
 ---
 
 Tienes [Puma Liga Casuals Hoody  Sudadera con Capucha para Hombre  Rojo  Red/White   M](https://www.amazon.es/dp/B077SSYLK9/?tag=tolees-21) con un 43.87 % de descuento con precio de oferta de 25.23 EUR (original: 44.95 EUR) en el siguiente enlace!

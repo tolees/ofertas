@@ -10,8 +10,11 @@ author: ring
 slug: B00NMXJ0RQ
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 77.99 EUR
 inStock: true
+prodname: Kanto PDX650 - Soporte de Pared articulado para televisores de 37 a 75 Pulgadas  Perfil bajo con extensión de 22 Pulgadas  gestión de Cables integrada  Capacidad giratoria e inclinable  Color Negro
 ---
 
 Está [Kanto PDX650 - Soporte de Pared articulado para televisores de 37 a 75 Pulgadas  Perfil bajo con extensión de 22 Pulgadas  gestión de Cables integrada  Capacidad giratoria e inclinable  Color Negro](https://www.amazon.es/dp/B00NMXJ0RQ/?tag=tolees-21) con 50.01 de descuento por 38.99 EUR (original: 77.99 EUR) en el siguiente enlace!

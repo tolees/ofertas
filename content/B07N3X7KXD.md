@@ -10,8 +10,11 @@ author: ring
 slug: B07N3X7KXD
 description:
 actualPrice: 5.49 EUR
+currency: EUR
+price: 5.49
 comparePrice: 10.9 EUR
 inStock: true
+prodname: Root Retoucher - Spray Retoca Raíces Color Castaño Oscuro - 2 uds - Schwarzkopf
 ---
 
 Está [Root Retoucher - Spray Retoca Raíces Color Castaño Oscuro - 2 uds - Schwarzkopf](https://www.amazon.es/dp/B07N3X7KXD/?tag=tolees-21) con 49.63 de descuento por 5.49 EUR (original: 10.9 EUR) en el siguiente enlace!

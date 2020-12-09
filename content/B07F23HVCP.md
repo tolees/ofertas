@@ -10,8 +10,11 @@ author: ring
 slug: B07F23HVCP
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 9.99 EUR
 inStock: true
+prodname: JIANYE Calcetines de Ciclismo para Compresión Hombres Mujer Deporte Ciclismo Calcetines 2 Pares Europa 42-45
 ---
 
 Está [JIANYE Calcetines de Ciclismo para Compresión Hombres Mujer Deporte Ciclismo Calcetines 2 Pares Europa 42-45](https://www.amazon.es/dp/B07F23HVCP/?tag=tolees-21) con 30.03 de descuento por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!

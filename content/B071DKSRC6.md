@@ -10,8 +10,11 @@ author: ring
 slug: B071DKSRC6
 description:
 actualPrice: 6.05 EUR
+currency: EUR
+price: 6.05
 comparePrice: 18 EUR
 inStock: true
+prodname: Activewear Top Deportivo Mujer   Azul  Abstract Print Aop   38  Talla del Fabricante: Small 
 ---
 
 Está [Activewear Top Deportivo Mujer   Azul  Abstract Print Aop   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B071DKSRC6/?tag=tolees-21) con 66.39 de descuento por 6.05 EUR (original: 18 EUR) en el siguiente enlace!

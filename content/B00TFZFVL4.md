@@ -10,8 +10,11 @@ author: ring
 slug: B00TFZFVL4
 description:
 actualPrice: 26.2 EUR
+currency: EUR
+price: 26.2
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Einhell 4430619 TC-AG 125 - Amoladora Angular  Diámetro de 125 mm  sin Disco de Corte  850 W  230 V  color Rojo/Negro
 ---
 
 Tienes [Einhell 4430619 TC-AG 125 - Amoladora Angular  Diámetro de 125 mm  sin Disco de Corte  850 W  230 V  color Rojo/Negro](https://www.amazon.es/dp/B00TFZFVL4/?tag=tolees-21) con un 25.04 % de descuento con precio de oferta de 26.2 EUR (original: 34.95 EUR) en el siguiente enlace!

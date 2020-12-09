@@ -10,8 +10,11 @@ author: ring
 slug: B07CZLCJPV
 description:
 actualPrice: 18.87 EUR
+currency: EUR
+price: 18.87
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Under Armour Tech Tank Graphic - Tanque  Mujer  Blanco  White/Black 100  XS
 ---
 
 Tienes [Under Armour Tech Tank Graphic - Tanque  Mujer  Blanco  White/Black 100  XS](https://www.amazon.es/dp/B07CZLCJPV/?tag=tolees-21) con un 32.58 % de descuento con precio de oferta de 18.87 EUR (original: 27.99 EUR) en el siguiente enlace!

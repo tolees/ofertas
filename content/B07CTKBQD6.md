@@ -10,8 +10,11 @@ author: ring
 slug: B07CTKBQD6
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 89.77 EUR
 inStock: true
+prodname: OxyLED Luces de cadena de hadas 120LED 12M Luces estrelladas regulables  luces de cadena decoración para jardín  patio  árbol  fiesta  Navidad  decoración interior y exterior  blanco cálido
 ---
 
 Tienes [OxyLED Luces de cadena de hadas 120LED 12M Luces estrelladas regulables  luces de cadena decoración para jardín  patio  árbol  fiesta  Navidad  decoración interior y exterior  blanco cálido](https://www.amazon.es/dp/B07CTKBQD6/?tag=tolees-21) con un 79.96 % de descuento con precio de oferta de 17.99 EUR (original: 89.77 EUR) en el siguiente enlace!

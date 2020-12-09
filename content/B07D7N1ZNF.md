@@ -10,8 +10,11 @@ author: ring
 slug: B07D7N1ZNF
 description:
 actualPrice: 15.31 EUR
+currency: EUR
+price: 15.31
 comparePrice: 49.95 EUR
 inStock: true
+prodname: s.Oliver 24400-31  Zapatos de Tacón para Mujer  Rojo  Wine Patent 517   40 EU
 ---
 
 Ahora mismo tienes [s.Oliver 24400-31  Zapatos de Tacón para Mujer  Rojo  Wine Patent 517   40 EU](https://www.amazon.es/dp/B07D7N1ZNF/?tag=tolees-21) a 15.31 EUR (original: 49.95 EUR) (69.35 %  de descuento) en el siguiente enlace!

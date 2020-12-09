@@ -10,8 +10,11 @@ author: ring
 slug: B07FW7H3GR
 description:
 actualPrice: 8.32 EUR
+currency: EUR
+price: 8.32
 comparePrice: 20.19 EUR
 inStock: true
+prodname: New Look Sparkly Tipping  suéter para Mujer  Negro  Black Pattern  46  Talla del Fabricante: 18 
 ---
 
 Tienes [New Look Sparkly Tipping  suéter para Mujer  Negro  Black Pattern  46  Talla del Fabricante: 18 ](https://www.amazon.es/dp/B07FW7H3GR/?tag=tolees-21) con un 58.79 % de descuento con precio de oferta de 8.32 EUR (original: 20.19 EUR) en el siguiente enlace!

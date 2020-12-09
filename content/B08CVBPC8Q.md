@@ -10,8 +10,11 @@ author: ring
 slug: B08CVBPC8Q
 description:
 actualPrice: 31.95 EUR
+currency: EUR
+price: 31.95
 comparePrice: 64.95 EUR
 inStock: true
+prodname: XTI - Botín Militar para Mujer - Cierre con Cremallera - Color Marrón
 ---
 
 Ahora mismo tienes [XTI - Botín Militar para Mujer - Cierre con Cremallera - Color Marrón](https://www.amazon.es/dp/B08CVBPC8Q/?tag=tolees-21) a 31.95 EUR (original: 64.95 EUR) (50.81 %  de descuento) en el siguiente enlace!

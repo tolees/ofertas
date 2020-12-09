@@ -10,8 +10,11 @@ author: ring
 slug: B06XPG4SRX
 description:
 actualPrice: 141.75 EUR
+currency: EUR
+price: 141.75
 comparePrice: 249.99 EUR
 inStock: true
+prodname: Philips Sonicare Diamond Clean HX8491/03 - Cepillo Electrico Recargable y Irrigador Dental  5 Modos de Limpieza  Vaso Cargador y Estuche USB  Color Negro
 ---
 
 Está [Philips Sonicare Diamond Clean HX8491/03 - Cepillo Electrico Recargable y Irrigador Dental  5 Modos de Limpieza  Vaso Cargador y Estuche USB  Color Negro](https://www.amazon.es/dp/B06XPG4SRX/?tag=tolees-21) con 43.30 de descuento por 141.75 EUR (original: 249.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MNMBSFZ
 description:
 actualPrice: 22.27 EUR
+currency: EUR
+price: 22.27
 comparePrice: 39 EUR
 inStock: true
+prodname: Minnie Mouse "Palms" Oficial Bolsa De Deporte 400x230x240mm
 ---
 
 Está [Minnie Mouse "Palms" Oficial Bolsa De Deporte 400x230x240mm](https://www.amazon.es/dp/B07MNMBSFZ/?tag=tolees-21) con 42.90 de descuento por 22.27 EUR (original: 39 EUR) en el siguiente enlace!

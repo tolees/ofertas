@@ -10,8 +10,11 @@ author: ring
 slug: B06XJ6DVV8
 description:
 actualPrice: 10.09 EUR
+currency: EUR
+price: 10.09
 comparePrice: 35 EUR
 inStock: true
+prodname: find. Camisa Estampada con Paneles en Contraste para Hombre  Negro  Black   Large
 ---
 
 Ahora mismo tienes [find. Camisa Estampada con Paneles en Contraste para Hombre  Negro  Black   Large](https://www.amazon.es/dp/B06XJ6DVV8/?tag=tolees-21) a 10.09 EUR (original: 35 EUR) (71.17 %  de descuento) en el siguiente enlace!

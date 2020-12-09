@@ -10,8 +10,11 @@ author: ring
 slug: B06XXPCCBM
 description:
 actualPrice: 2.7 EUR
+currency: EUR
+price: 2.7
 comparePrice: 12.9 EUR
 inStock: true
+prodname: oodji Ultra Mujer Camiseta con Inscripción y Dobladillos en Las Mangas  Morado  ES 38/S
 ---
 
 Tienes [oodji Ultra Mujer Camiseta con Inscripción y Dobladillos en Las Mangas  Morado  ES 38/S](https://www.amazon.es/dp/B06XXPCCBM/?tag=tolees-21) con un 79.07 % de descuento con precio de oferta de 2.7 EUR (original: 12.9 EUR) en el siguiente enlace!

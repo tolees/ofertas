@@ -10,8 +10,11 @@ author: ring
 slug: B08CZHRP3N
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Etiquetas de regalo Navidad  Navidad Etiquetas de Papel Kraft  Etiquetas de regalo colgantes con cuerdas de yute perfecto para manualidades y decoración de regalo  100pcs 
 ---
 
 Está [Etiquetas de regalo Navidad  Navidad Etiquetas de Papel Kraft  Etiquetas de regalo colgantes con cuerdas de yute perfecto para manualidades y decoración de regalo  100pcs ](https://www.amazon.es/dp/B08CZHRP3N/?tag=tolees-21) con 27.30 de descuento por 7.99 EUR (original: 10.99 EUR) en el siguiente enlace!

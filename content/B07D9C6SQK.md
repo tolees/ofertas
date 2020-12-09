@@ -10,8 +10,11 @@ author: ring
 slug: B07D9C6SQK
 description:
 actualPrice: 31.43 EUR
+currency: EUR
+price: 31.43
 comparePrice: 64.95 EUR
 inStock: true
+prodname: adidas Nemeziz 18.3 AG  Zapatillas de Fútbol para Niños  Rojo  Zest/Core Black/Solar Red 0   38 EU
 ---
 
 Tienes [adidas Nemeziz 18.3 AG  Zapatillas de Fútbol para Niños  Rojo  Zest/Core Black/Solar Red 0   38 EU](https://www.amazon.es/dp/B07D9C6SQK/?tag=tolees-21) con un 51.61 % de descuento con precio de oferta de 31.43 EUR (original: 64.95 EUR) en el siguiente enlace!

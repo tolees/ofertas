@@ -10,8 +10,11 @@ author: ring
 slug: B07STLXBVG
 description:
 actualPrice: 39.56 EUR
+currency: EUR
+price: 39.56
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox D AIRELL A  Zapatillas Mujer  Azul  Navy C4002   41 EU
 ---
 
 Está [Geox D AIRELL A  Zapatillas Mujer  Azul  Navy C4002   41 EU](https://www.amazon.es/dp/B07STLXBVG/?tag=tolees-21) con 60.40 de descuento por 39.56 EUR (original: 99.9 EUR) en el siguiente enlace!

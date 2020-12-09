@@ -10,8 +10,11 @@ author: ring
 slug: B000AP4DAI
 description:
 actualPrice: 48.95 EUR
+currency: EUR
+price: 48.95
 comparePrice: 69.75 EUR
 inStock: true
+prodname: Reebok Classic Nylon Zapatilla de Running Hombre  Azul  Team Navy / Platinum   41
 ---
 
 Ahora mismo tienes [Reebok Classic Nylon Zapatilla de Running Hombre  Azul  Team Navy / Platinum   41](https://www.amazon.es/dp/B000AP4DAI/?tag=tolees-21) a 48.95 EUR (original: 69.75 EUR) (29.82 %  de descuento) en el siguiente enlace!

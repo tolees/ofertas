@@ -10,8 +10,11 @@ author: ring
 slug: B07TXDXQT3
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Aleumdr Mujer Vestido de Playa Camisolas y Pareos Vestido Retro Bikini Cover up Amarillo Size S
 ---
 
 Está [Aleumdr Mujer Vestido de Playa Camisolas y Pareos Vestido Retro Bikini Cover up Amarillo Size S](https://www.amazon.es/dp/B07TXDXQT3/?tag=tolees-21) con 57.51 de descuento por 16.99 EUR (original: 39.99 EUR) en el siguiente enlace!

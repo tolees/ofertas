@@ -10,8 +10,11 @@ author: ring
 slug: B08LL6LNXZ
 description:
 actualPrice: 15.86 EUR
+currency: EUR
+price: 15.86
 comparePrice: 25.18 EUR
 inStock: true
+prodname: Prettyia Palo de Memoria USB Flash Drive giratoria Pulgar Unidades USB Stick Unidad de Salto Pen Drive de Almacenamiento de Datos de Copia de Seguridad para - USB3.0 64GB
 ---
 
 Ahora mismo tienes [Prettyia Palo de Memoria USB Flash Drive giratoria Pulgar Unidades USB Stick Unidad de Salto Pen Drive de Almacenamiento de Datos de Copia de Seguridad para - USB3.0 64GB](https://www.amazon.es/dp/B08LL6LNXZ/?tag=tolees-21) a 15.86 EUR (original: 25.18 EUR) (37.01 %  de descuento) en el siguiente enlace!

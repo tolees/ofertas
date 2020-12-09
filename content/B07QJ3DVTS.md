@@ -10,8 +10,11 @@ author: ring
 slug: B07QJ3DVTS
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 44.24 EUR
 inStock: true
+prodname: Limxems LX-007B - Cargador rápido inalámbrico de 10 W para iPhone  Samsung y todos los dispositivos compatibles con Qi  Negro
 ---
 
 Está [Limxems LX-007B - Cargador rápido inalámbrico de 10 W para iPhone  Samsung y todos los dispositivos compatibles con Qi  Negro](https://www.amazon.es/dp/B07QJ3DVTS/?tag=tolees-21) con 63.86 de descuento por 15.99 EUR (original: 44.24 EUR) en el siguiente enlace!

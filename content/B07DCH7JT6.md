@@ -10,8 +10,11 @@ author: ring
 slug: B07DCH7JT6
 description:
 actualPrice: 22.09 EUR
+currency: EUR
+price: 22.09
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Puma Puma Vikky Stacked SD Zapatillas Mujer  Morado  Puma Black-Puma White 03   42.5 EU
 ---
 
 Está [Puma Puma Vikky Stacked SD Zapatillas Mujer  Morado  Puma Black-Puma White 03   42.5 EU](https://www.amazon.es/dp/B07DCH7JT6/?tag=tolees-21) con 63.15 de descuento por 22.09 EUR (original: 59.95 EUR) en el siguiente enlace!

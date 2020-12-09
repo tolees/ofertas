@@ -10,8 +10,11 @@ author: ring
 slug: B08FY36NYB
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: ENGSWA Mujer Niños plata de ley 925 plata redondo Cubic Zirconia
 ---
 
 Ahora mismo tienes [ENGSWA Mujer Niños plata de ley 925 plata redondo Cubic Zirconia](https://www.amazon.es/dp/B08FY36NYB/?tag=tolees-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

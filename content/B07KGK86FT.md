@@ -10,8 +10,11 @@ author: ring
 slug: B07KGK86FT
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 51.21 EUR
 inStock: true
+prodname: Under Armour Tech Polo  Hombre  Gris  Graphite/Black 040   S
 ---
 
 Ahora mismo tienes [Under Armour Tech Polo  Hombre  Gris  Graphite/Black 040   S](https://www.amazon.es/dp/B07KGK86FT/?tag=tolees-21) a 19.95 EUR (original: 51.21 EUR) (61.04 %  de descuento) en el siguiente enlace!

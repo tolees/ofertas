@@ -10,8 +10,11 @@ author: ring
 slug: B00BGNHQ2U
 description:
 actualPrice: 79.8 EUR
+currency: EUR
+price: 79.8
 comparePrice: 144 EUR
 inStock: true
+prodname: Loewe Esencia Loewe Sport Eau de Toilette Vaporizador 150 ml
 ---
 
 Está [Loewe Esencia Loewe Sport Eau de Toilette Vaporizador 150 ml](https://www.amazon.es/dp/B00BGNHQ2U/?tag=tolees-21) con 44.58 de descuento por 79.8 EUR (original: 144 EUR) en el siguiente enlace!

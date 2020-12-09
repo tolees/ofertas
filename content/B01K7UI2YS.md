@@ -10,8 +10,11 @@ author: ring
 slug: B01K7UI2YS
 description:
 actualPrice: 11.3 EUR
+currency: EUR
+price: 11.3
 comparePrice: 17.51 EUR
 inStock: true
+prodname: BB Designs EuropeDc Comics Batman Pu WalletUnisex adultoCarterasNegro  Black 12x14.5x3 Centimeters  W x H x L 
 ---
 
 Ahora mismo tienes [BB Designs EuropeDc Comics Batman Pu WalletUnisex adultoCarterasNegro  Black 12x14.5x3 Centimeters  W x H x L ](https://www.amazon.es/dp/B01K7UI2YS/?tag=tolees-21) a 11.3 EUR (original: 17.51 EUR) (35.47 %  de descuento) en el siguiente enlace!

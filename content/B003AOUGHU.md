@@ -10,8 +10,11 @@ author: ring
 slug: B003AOUGHU
 description:
 actualPrice: 10.7 EUR
+currency: EUR
+price: 10.7
 comparePrice: 17.9 EUR
 inStock: true
+prodname: Havaianas Top  Chanclas para Unisex Adulto  Rojo  Ruby Red   41/42 EU  39/40 Brazilian 
 ---
 
 Ahora mismo tienes [Havaianas Top  Chanclas para Unisex Adulto  Rojo  Ruby Red   41/42 EU  39/40 Brazilian ](https://www.amazon.es/dp/B003AOUGHU/?tag=tolees-21) a 10.7 EUR (original: 17.9 EUR) (40.22 %  de descuento) en el siguiente enlace!

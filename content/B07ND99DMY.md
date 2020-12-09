@@ -10,8 +10,11 @@ author: ring
 slug: B07ND99DMY
 description:
 actualPrice: 43.99 EUR
+currency: EUR
+price: 43.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: LEGO - Hidden Side Autobús de Intercepción Juguete de construcción con realidad aumentada  incluye bus customizado y varias minifiguras para recrear aventuras  Novedad 2019  70423 
 ---
 
 Está [LEGO - Hidden Side Autobús de Intercepción Juguete de construcción con realidad aumentada  incluye bus customizado y varias minifiguras para recrear aventuras  Novedad 2019  70423 ](https://www.amazon.es/dp/B07ND99DMY/?tag=tolees-21) con 26.67 de descuento por 43.99 EUR (original: 59.99 EUR) en el siguiente enlace!

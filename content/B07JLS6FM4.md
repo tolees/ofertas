@@ -10,8 +10,11 @@ author: ring
 slug: B07JLS6FM4
 description:
 actualPrice: 16.05 EUR
+currency: EUR
+price: 16.05
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 49012  Zapatillas para Mujer  Rosa Nude  37 EU
 ---
 
 Tienes [XTI 49012  Zapatillas para Mujer  Rosa Nude  37 EU](https://www.amazon.es/dp/B07JLS6FM4/?tag=tolees-21) con un 67.87 % de descuento con precio de oferta de 16.05 EUR (original: 49.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B086QPVZYD
 description:
 actualPrice: 11.44 EUR
+currency: EUR
+price: 11.44
 comparePrice: 19.66 EUR
 inStock: true
+prodname: HKY 65 Vatios Adaptador Cargador para Lenovo Flex 4 5 6 6-11IGM 6-14ARR 6-14IKB 5-1570 5-1470  ThinkPad Edge 13 14 15  Thinkpad X201 X201s X301 T400 T410 T410i T400s T420 T410s T500 T510 R400 R500
 ---
 
 Ahora mismo tienes [HKY 65 Vatios Adaptador Cargador para Lenovo Flex 4 5 6 6-11IGM 6-14ARR 6-14IKB 5-1570 5-1470  ThinkPad Edge 13 14 15  Thinkpad X201 X201s X301 T400 T410 T410i T400s T420 T410s T500 T510 R400 R500](https://www.amazon.es/dp/B086QPVZYD/?tag=tolees-21) a 11.44 EUR (original: 19.66 EUR) (41.81 %  de descuento) en el siguiente enlace!

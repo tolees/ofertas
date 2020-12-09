@@ -10,8 +10,11 @@ author: ring
 slug: B01N3KRWSU
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Fieltro adhesivo  protector de goma para patas de mesa y muebles  HynecTechnologies  7 tamaños diferentes  protector patas sillas  almohadillas para muebles y sillas
 ---
 
 Tienes [Fieltro adhesivo  protector de goma para patas de mesa y muebles  HynecTechnologies  7 tamaños diferentes  protector patas sillas  almohadillas para muebles y sillas](https://www.amazon.es/dp/B01N3KRWSU/?tag=tolees-21) con un 56.18 % de descuento con precio de oferta de 6.99 EUR (original: 15.95 EUR) en el siguiente enlace!

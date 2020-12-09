@@ -10,8 +10,11 @@ author: ring
 slug: B00ITJHPPM
 description:
 actualPrice: 11.64 EUR
+currency: EUR
+price: 11.64
 comparePrice: 15.59 EUR
 inStock: true
+prodname: FullMarks Loción Antipiojos para Niños con Lendrera  sin Pesticidas  Inoloro e Incoloro - 100 ml
 ---
 
 Ahora mismo tienes [FullMarks Loción Antipiojos para Niños con Lendrera  sin Pesticidas  Inoloro e Incoloro - 100 ml](https://www.amazon.es/dp/B00ITJHPPM/?tag=tolees-21) a 11.64 EUR (original: 15.59 EUR) (25.34 %  de descuento) en el siguiente enlace!

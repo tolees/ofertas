@@ -10,8 +10,11 @@ author: ring
 slug: B08DRDM6SX
 description:
 actualPrice: 12.1 EUR
+currency: EUR
+price: 12.1
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Curve  el localizador GPS Inteligente y Ligero para tu Mochila  Mascota  Coche  portátil  Llaves y más
 ---
 
 Está [Curve  el localizador GPS Inteligente y Ligero para tu Mochila  Mascota  Coche  portátil  Llaves y más](https://www.amazon.es/dp/B08DRDM6SX/?tag=tolees-21) con 59.53 de descuento por 12.1 EUR (original: 29.9 EUR) en el siguiente enlace!

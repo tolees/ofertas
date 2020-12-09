@@ -10,8 +10,11 @@ author: ring
 slug: B07MLSVCLN
 description:
 actualPrice: 66.17 EUR
+currency: EUR
+price: 66.17
 comparePrice: 150.0 EUR
 inStock: true
+prodname: Clarks Oliver Lace  Zapatos de Cordones Derby Hombre  Negro  Black Leather Black Leather   39.5 EU
 ---
 
 Tienes [Clarks Oliver Lace  Zapatos de Cordones Derby Hombre  Negro  Black Leather Black Leather   39.5 EU](https://www.amazon.es/dp/B07MLSVCLN/?tag=tolees-21) con un 55.89 % de descuento con precio de oferta de 66.17 EUR (original: 150.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DVVLVQ4
 description:
 actualPrice: 21 EUR
+currency: EUR
+price: 21
 comparePrice: 28 EUR
 inStock: true
+prodname: LE COQ SPORTIF Nationale  Zapatillas Unisex Adulto  Negro Triple Black  42 EU
 ---
 
 Ahora mismo tienes [LE COQ SPORTIF Nationale  Zapatillas Unisex Adulto  Negro Triple Black  42 EU](https://www.amazon.es/dp/B07DVVLVQ4/?tag=tolees-21) a 21 EUR (original: 28 EUR) (25.00 %  de descuento) en el siguiente enlace!

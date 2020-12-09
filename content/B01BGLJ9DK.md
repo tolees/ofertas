@@ -10,8 +10,11 @@ author: ring
 slug: B01BGLJ9DK
 description:
 actualPrice: 9.35 EUR
+currency: EUR
+price: 9.35
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Trust Urban Primo Powerbank - Batería externa portátil de 4400 mAh  negro
 ---
 
 Está [Trust Urban Primo Powerbank - Batería externa portátil de 4400 mAh  negro](https://www.amazon.es/dp/B01BGLJ9DK/?tag=tolees-21) con 28.02 de descuento por 9.35 EUR (original: 12.99 EUR) en el siguiente enlace!

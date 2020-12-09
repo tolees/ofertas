@@ -10,8 +10,11 @@ author: ring
 slug: B07JHKP4VH
 description:
 actualPrice: 26.81 EUR
+currency: EUR
+price: 26.81
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers Relsen  Zapatillas para Hombre  Negro Black  41.5 EU
 ---
 
 Está [Skechers Relsen  Zapatillas para Hombre  Negro Black  41.5 EU](https://www.amazon.es/dp/B07JHKP4VH/?tag=tolees-21) con 58.72 de descuento por 26.81 EUR (original: 64.95 EUR) en el siguiente enlace!

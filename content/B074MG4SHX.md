@@ -10,8 +10,11 @@ author: ring
 slug: B074MG4SHX
 description:
 actualPrice: 649.99 EUR
+currency: EUR
+price: 649.99
 comparePrice: 999.99 EUR
 inStock: true
+prodname: Lenovo Legion Y520-15IKBN - Ordenador portatil 15.6" FullHD  Intel Core i7-7700HQ  8GB de RAM  1TB de HDD  Nvidia GTX-1050-2GB  Windows 10  negro - Teclado QWERTY español
 ---
 
 Ahora mismo tienes [Lenovo Legion Y520-15IKBN - Ordenador portatil 15.6" FullHD  Intel Core i7-7700HQ  8GB de RAM  1TB de HDD  Nvidia GTX-1050-2GB  Windows 10  negro - Teclado QWERTY español](https://www.amazon.es/dp/B074MG4SHX/?tag=tolees-21) a 649.99 EUR (original: 999.99 EUR) (35.00 %  de descuento) en el siguiente enlace!

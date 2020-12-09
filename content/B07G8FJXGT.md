@@ -10,8 +10,11 @@ author: ring
 slug: B07G8FJXGT
 description:
 actualPrice: 18.88 EUR
+currency: EUR
+price: 18.88
 comparePrice: 47.7 EUR
 inStock: true
+prodname: Marca Amazon - find. Impermeable Hombre  Beige  Tobacco   XS  Label: XS
 ---
 
 Está [Marca Amazon - find. Impermeable Hombre  Beige  Tobacco   XS  Label: XS](https://www.amazon.es/dp/B07G8FJXGT/?tag=tolees-21) con 60.42 de descuento por 18.88 EUR (original: 47.7 EUR) en el siguiente enlace!

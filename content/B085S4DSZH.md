@@ -10,8 +10,11 @@ author: ring
 slug: B085S4DSZH
 description:
 actualPrice: 169.99 EUR
+currency: EUR
+price: 169.99
 comparePrice: 229.0 EUR
 inStock: true
+prodname: Xiaomi Redmi Note 9S - Smartphone de 6.67" FHD+  DotDisplay  Snapdragon 720G  4 GB RAM  64 GB ROM  cámara cuádruple de 48 MP  bateria de 5020mAh   Interstellar Grey [International Version]
 ---
 
 Tienes [Xiaomi Redmi Note 9S - Smartphone de 6.67" FHD+  DotDisplay  Snapdragon 720G  4 GB RAM  64 GB ROM  cámara cuádruple de 48 MP  bateria de 5020mAh   Interstellar Grey [International Version]](https://www.amazon.es/dp/B085S4DSZH/?tag=tolees-21) con un 25.77 % de descuento con precio de oferta de 169.99 EUR (original: 229.0 EUR) en el siguiente enlace!

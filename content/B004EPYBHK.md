@@ -10,8 +10,11 @@ author: ring
 slug: B004EPYBHK
 description:
 actualPrice: 4.88 EUR
+currency: EUR
+price: 4.88
 comparePrice: 7.1 EUR
 inStock: true
+prodname: Scitec 0728633103751  Fórmulas de Pre-Entrenamiento  49.6 gr
 ---
 
 Está [Scitec 0728633103751  Fórmulas de Pre-Entrenamiento  49.6 gr](https://www.amazon.es/dp/B004EPYBHK/?tag=tolees-21) con 31.27 de descuento por 4.88 EUR (original: 7.1 EUR) en el siguiente enlace!

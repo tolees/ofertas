@@ -10,8 +10,11 @@ author: ring
 slug: B019CV8VUS
 description:
 actualPrice: 24.52 EUR
+currency: EUR
+price: 24.52
 comparePrice: 100 EUR
 inStock: true
+prodname: New Balance Vazee Urge  Zapatillas de Running para Mujer   Purple/Yellow 502   36.5 EU
 ---
 
 Tienes [New Balance Vazee Urge  Zapatillas de Running para Mujer   Purple/Yellow 502   36.5 EU](https://www.amazon.es/dp/B019CV8VUS/?tag=tolees-21) con un 75.48 % de descuento con precio de oferta de 24.52 EUR (original: 100 EUR) en el siguiente enlace!

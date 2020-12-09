@@ -10,8 +10,11 @@ author: ring
 slug: B0085SFZLS
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 12.95 EUR
 inStock: true
+prodname: Jack & Jones Jones - Camiseta de Manga Corta con Cuello Pico para Hombre  Color Blanco  Optical White   Talla 50
 ---
 
 Tienes [Jack & Jones Jones - Camiseta de Manga Corta con Cuello Pico para Hombre  Color Blanco  Optical White   Talla 50](https://www.amazon.es/dp/B0085SFZLS/?tag=tolees-21) con un 46.02 % de descuento con precio de oferta de 6.99 EUR (original: 12.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0743KVCJD
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 114.94 EUR
 inStock: true
+prodname: Philips Barbero MG7770/15 Recortador de barba y pelo  óptima precisión  18 en 1 tecnología Dualcut  autonomía de 120 minutos  batería  Negro/Plata
 ---
 
 Tienes [Philips Barbero MG7770/15 Recortador de barba y pelo  óptima precisión  18 en 1 tecnología Dualcut  autonomía de 120 minutos  batería  Negro/Plata](https://www.amazon.es/dp/B0743KVCJD/?tag=tolees-21) con un 39.11 % de descuento con precio de oferta de 69.99 EUR (original: 114.94 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ8QCYG
 description:
 actualPrice: 11.3 EUR
+currency: EUR
+price: 11.3
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Women s Secret PS PU Cute PJ FR Conjuntos de Pijama  Mujer  Rosa  Pinks 72   Large  Tamaño del Fabricante:L 
 ---
 
 Está [Women s Secret PS PU Cute PJ FR Conjuntos de Pijama  Mujer  Rosa  Pinks 72   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B07KZ8QCYG/?tag=tolees-21) con 59.63 de descuento por 11.3 EUR (original: 27.99 EUR) en el siguiente enlace!

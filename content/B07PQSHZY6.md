@@ -10,8 +10,11 @@ author: ring
 slug: B07PQSHZY6
 description:
 actualPrice: 16.46 EUR
+currency: EUR
+price: 16.46
 comparePrice: 21.95 EUR
 inStock: true
+prodname: Multivitaminas y Minerales - 365 Comprimidos Multivitamínicos Veganos  Suministro para 1 año  con 26 Vitaminas y Minerales Activos Esenciales - Elaborados en el Reino Unido por Nutravita
 ---
 
 Ahora mismo tienes [Multivitaminas y Minerales - 365 Comprimidos Multivitamínicos Veganos  Suministro para 1 año  con 26 Vitaminas y Minerales Activos Esenciales - Elaborados en el Reino Unido por Nutravita](https://www.amazon.es/dp/B07PQSHZY6/?tag=tolees-21) a 16.46 EUR (original: 21.95 EUR) (25.01 %  de descuento) en el siguiente enlace!

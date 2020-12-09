@@ -10,8 +10,11 @@ author: ring
 slug: B0721PJYTY
 description:
 actualPrice: 69.98 EUR
+currency: EUR
+price: 69.98
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Arlo VMA4600-10000S Panel Solar diseñado para Alimentar videocámaras Pro Go sin Cables  Negro
 ---
 
 Tienes [Arlo VMA4600-10000S Panel Solar diseñado para Alimentar videocámaras Pro Go sin Cables  Negro](https://www.amazon.es/dp/B0721PJYTY/?tag=tolees-21) con un 30.01 % de descuento con precio de oferta de 69.98 EUR (original: 99.99 EUR) en el siguiente enlace!

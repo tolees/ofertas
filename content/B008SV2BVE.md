@@ -10,8 +10,11 @@ author: ring
 slug: B008SV2BVE
 description:
 actualPrice: 14.81 EUR
+currency: EUR
+price: 14.81
 comparePrice: 19.9 EUR
 inStock: true
+prodname: Redken Iron Shape Heat Re-Styling Technology 250 Ml 1 Unidad 200 g
 ---
 
 Está [Redken Iron Shape Heat Re-Styling Technology 250 Ml 1 Unidad 200 g](https://www.amazon.es/dp/B008SV2BVE/?tag=tolees-21) con 25.58 de descuento por 14.81 EUR (original: 19.9 EUR) en el siguiente enlace!

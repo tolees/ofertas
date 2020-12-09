@@ -10,8 +10,11 @@ author: ring
 slug: B07DJX35MM
 description:
 actualPrice: 38.3 EUR
+currency: EUR
+price: 38.3
 comparePrice: 52.9 EUR
 inStock: true
+prodname: Geox B Sandal Multy Boy B  Sandalias para Bebés  Grey/Orange C0036  24 EU
 ---
 
 Ahora mismo tienes [Geox B Sandal Multy Boy B  Sandalias para Bebés  Grey/Orange C0036  24 EU](https://www.amazon.es/dp/B07DJX35MM/?tag=tolees-21) a 38.3 EUR (original: 52.9 EUR) (27.60 %  de descuento) en el siguiente enlace!

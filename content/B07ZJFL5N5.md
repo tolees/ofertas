@@ -10,8 +10,11 @@ author: ring
 slug: B07ZJFL5N5
 description:
 actualPrice: 6.78 EUR
+currency: EUR
+price: 6.78
 comparePrice: 11.99 EUR
 inStock: true
+prodname: MENNYO Cepillo Perro Gato  Peine de Limpieza Autolimpiante  Accesorios Profesionales para Mascotas Pelo Largo/Corto - Guitar 95% los Pelos Muertos  Reduce la Caida de Cabello
 ---
 
 Ahora mismo tienes [MENNYO Cepillo Perro Gato  Peine de Limpieza Autolimpiante  Accesorios Profesionales para Mascotas Pelo Largo/Corto - Guitar 95% los Pelos Muertos  Reduce la Caida de Cabello](https://www.amazon.es/dp/B07ZJFL5N5/?tag=tolees-21) a 6.78 EUR (original: 11.99 EUR) (43.45 %  de descuento) en el siguiente enlace!

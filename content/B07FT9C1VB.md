@@ -10,8 +10,11 @@ author: ring
 slug: B07FT9C1VB
 description:
 actualPrice: 24.69 EUR
+currency: EUR
+price: 24.69
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Rider Vaqueros Slim  Marfil  Off White EW   W32/L30 para Hombre
 ---
 
 Tienes [Lee Rider Vaqueros Slim  Marfil  Off White EW   W32/L30 para Hombre](https://www.amazon.es/dp/B07FT9C1VB/?tag=tolees-21) con un 72.55 % de descuento con precio de oferta de 24.69 EUR (original: 89.95 EUR) en el siguiente enlace!

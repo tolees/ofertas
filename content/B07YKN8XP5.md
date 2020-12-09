@@ -10,8 +10,11 @@ author: ring
 slug: B07YKN8XP5
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: COOLMAN Pulsera Papa para Hombre  Pulseras Ajustables Pulsera de Acero Inoxidable de 8.5-9 Pulgadas con Cierre Adicional para Padre
 ---
 
 Ahora mismo tienes [COOLMAN Pulsera Papa para Hombre  Pulseras Ajustables Pulsera de Acero Inoxidable de 8.5-9 Pulgadas con Cierre Adicional para Padre](https://www.amazon.es/dp/B07YKN8XP5/?tag=tolees-21) a 22.99 EUR (original: 49.99 EUR) (54.01 %  de descuento) en el siguiente enlace!

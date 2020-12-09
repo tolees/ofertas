@@ -10,8 +10,11 @@ author: ring
 slug: B07DWFGF3L
 description:
 actualPrice: 42 EUR
+currency: EUR
+price: 42
 comparePrice: 60 EUR
 inStock: true
+prodname: FIND Hiking Style Zapatillas Altas  Gris Grey  45 EU
 ---
 
 Ahora mismo tienes [FIND Hiking Style Zapatillas Altas  Gris Grey  45 EU](https://www.amazon.es/dp/B07DWFGF3L/?tag=tolees-21) a 42 EUR (original: 60 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0756CYWWD
 description:
 actualPrice: 204.24 EUR
+currency: EUR
+price: 204.24
 comparePrice: 379.95 EUR
 inStock: true
+prodname: Bose QuietComfort 35 II - Auriculares inalámbricos  Bluetooth  cancelación de ruido  con Alexa integrada  Negro
 ---
 
 Está [Bose QuietComfort 35 II - Auriculares inalámbricos  Bluetooth  cancelación de ruido  con Alexa integrada  Negro](https://www.amazon.es/dp/B0756CYWWD/?tag=tolees-21) con 46.25 de descuento por 204.24 EUR (original: 379.95 EUR) en el siguiente enlace!

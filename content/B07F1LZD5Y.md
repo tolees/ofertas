@@ -10,8 +10,11 @@ author: ring
 slug: B07F1LZD5Y
 description:
 actualPrice: 27.95 EUR
+currency: EUR
+price: 27.95
 comparePrice: 70 EUR
 inStock: true
+prodname: Levi s Modern Hm Hoodie  Capucha para Hombre  Negro  Black 0004  Medium
 ---
 
 Ahora mismo tienes [Levi s Modern Hm Hoodie  Capucha para Hombre  Negro  Black 0004  Medium](https://www.amazon.es/dp/B07F1LZD5Y/?tag=tolees-21) a 27.95 EUR (original: 70 EUR) (60.07 %  de descuento) en el siguiente enlace!

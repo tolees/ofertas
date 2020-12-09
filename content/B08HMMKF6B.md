@@ -10,8 +10,11 @@ author: ring
 slug: B08HMMKF6B
 description:
 actualPrice: 50.0 EUR
+currency: EUR
+price: 50.0
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Downton Abbey  Serie TV + Pelicula BD  [Blu-ray]
 ---
 
 Tienes [Downton Abbey  Serie TV + Pelicula BD  [Blu-ray]](https://www.amazon.es/dp/B08HMMKF6B/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 50.0 EUR (original: 99.99 EUR) en el siguiente enlace!

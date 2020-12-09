@@ -10,8 +10,11 @@ author: ring
 slug: B07PQSVT9F
 description:
 actualPrice: 4.95 EUR
+currency: EUR
+price: 4.95
 comparePrice: 9.95 EUR
 inStock: true
+prodname: Six Collection - Figura Vigil
 ---
 
 Ahora mismo tienes [Six Collection - Figura Vigil](https://www.amazon.es/dp/B07PQSVT9F/?tag=tolees-21) a 4.95 EUR (original: 9.95 EUR) (50.25 %  de descuento) en el siguiente enlace!

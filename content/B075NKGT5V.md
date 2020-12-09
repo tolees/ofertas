@@ -10,8 +10,11 @@ author: ring
 slug: B075NKGT5V
 description:
 actualPrice: 2.09 EUR
+currency: EUR
+price: 2.09
 comparePrice: 6.79 EUR
 inStock: true
+prodname: OUNONA Muddler Conjunto de Cóctel Trituradora de Hielo de Acero Inoxidable
 ---
 
 Tienes [OUNONA Muddler Conjunto de Cóctel Trituradora de Hielo de Acero Inoxidable](https://www.amazon.es/dp/B075NKGT5V/?tag=tolees-21) con un 69.22 % de descuento con precio de oferta de 2.09 EUR (original: 6.79 EUR) en el siguiente enlace!

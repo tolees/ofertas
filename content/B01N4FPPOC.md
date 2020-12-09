@@ -10,8 +10,11 @@ author: ring
 slug: B01N4FPPOC
 description:
 actualPrice: 6.05 EUR
+currency: EUR
+price: 6.05
 comparePrice: 18 EUR
 inStock: true
+prodname: find. Sudadera de Manga Ancha para Mujer   Azul  Sport Red   38  Talla del Fabricante: Small 
 ---
 
 Está [find. Sudadera de Manga Ancha para Mujer   Azul  Sport Red   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01N4FPPOC/?tag=tolees-21) con 66.39 de descuento por 6.05 EUR (original: 18 EUR) en el siguiente enlace!

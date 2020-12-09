@@ -10,8 +10,11 @@ author: ring
 slug: B06XSSJQDB
 description:
 actualPrice: 69.5 EUR
+currency: EUR
+price: 69.5
 comparePrice: 139.0 EUR
 inStock: true
+prodname: American Tourister Soundbox Spinner Equipaje de mano S  55 cm 41 L   Negro  Bass Black 
 ---
 
 Ahora mismo tienes [American Tourister Soundbox Spinner Equipaje de mano S  55 cm 41 L   Negro  Bass Black ](https://www.amazon.es/dp/B06XSSJQDB/?tag=tolees-21) a 69.5 EUR (original: 139.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

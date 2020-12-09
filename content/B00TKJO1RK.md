@@ -10,8 +10,11 @@ author: ring
 slug: B00TKJO1RK
 description:
 actualPrice: 14.25 EUR
+currency: EUR
+price: 14.25
 comparePrice: 19.9 EUR
 inStock: true
+prodname: NYX Professional Makeup Paleta de contouring Highlight & Contour Pro Palette  Kit de contouring en polvo  8 tonos de acabado mate y brillante
 ---
 
 Ahora mismo tienes [NYX Professional Makeup Paleta de contouring Highlight & Contour Pro Palette  Kit de contouring en polvo  8 tonos de acabado mate y brillante](https://www.amazon.es/dp/B00TKJO1RK/?tag=tolees-21) a 14.25 EUR (original: 19.9 EUR) (28.39 %  de descuento) en el siguiente enlace!

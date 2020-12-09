@@ -10,8 +10,11 @@ author: ring
 slug: B07DFRV1ZZ
 description:
 actualPrice: 26.73 EUR
+currency: EUR
+price: 26.73
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Puma ESS+ Hoody FL Sweatshirt  Hombre  Dark Gray Heather  S
 ---
 
 Tienes [Puma ESS+ Hoody FL Sweatshirt  Hombre  Dark Gray Heather  S](https://www.amazon.es/dp/B07DFRV1ZZ/?tag=tolees-21) con un 51.36 % de descuento con precio de oferta de 26.73 EUR (original: 54.95 EUR) en el siguiente enlace!

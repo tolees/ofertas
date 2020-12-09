@@ -10,8 +10,11 @@ author: ring
 slug: B01LZE90HC
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 25.95 EUR
 inStock: true
+prodname: Maca Tabletas 500mg por ProNutriWorld | El 100% producto natural apoya el bienestar | el aumentador de presión de la energía y del humor  puede ayudar a fertilidad y alzar libido
 ---
 
 Tienes [Maca Tabletas 500mg por ProNutriWorld | El 100% producto natural apoya el bienestar | el aumentador de presión de la energía y del humor  puede ayudar a fertilidad y alzar libido](https://www.amazon.es/dp/B01LZE90HC/?tag=tolees-21) con un 38.38 % de descuento con precio de oferta de 15.99 EUR (original: 25.95 EUR) en el siguiente enlace!

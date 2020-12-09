@@ -10,8 +10,11 @@ author: ring
 slug: B01IVHS9MY
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 9.69 EUR
 inStock: true
+prodname: Micolor Detergente en Cápsulas Adiós al Separar - 30 Lavados
 ---
 
 Ahora mismo tienes [Micolor Detergente en Cápsulas Adiós al Separar - 30 Lavados](https://www.amazon.es/dp/B01IVHS9MY/?tag=tolees-21) a 6.99 EUR (original: 9.69 EUR) (27.86 %  de descuento) en el siguiente enlace!

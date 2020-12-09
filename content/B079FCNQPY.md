@@ -10,8 +10,11 @@ author: ring
 slug: B079FCNQPY
 description:
 actualPrice: 8.77 EUR
+currency: EUR
+price: 8.77
 comparePrice: 18.4 EUR
 inStock: true
+prodname: Trilogía El Corredor Del Laberinto [DVD]
 ---
 
 Tienes [Trilogía El Corredor Del Laberinto [DVD]](https://www.amazon.es/dp/B079FCNQPY/?tag=tolees-21) con un 52.34 % de descuento con precio de oferta de 8.77 EUR (original: 18.4 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07F1DCVCQ
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Azul  Navy Blazer   XX-Large
 ---
 
 Tienes [JACK & JONES Jjeholmen Sweat Crew Neck Noos  Suéter para Hombre  Azul  Navy Blazer   XX-Large](https://www.amazon.es/dp/B07F1DCVCQ/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

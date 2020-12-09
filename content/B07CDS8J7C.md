@@ -10,8 +10,11 @@ author: ring
 slug: B07CDS8J7C
 description:
 actualPrice: 21.74 EUR
+currency: EUR
+price: 21.74
 comparePrice: 43.99 EUR
 inStock: true
+prodname: Eferri 0JV5918  Bolso de mano para Mujer   Rosa   23.5x12.5x30 cm  W x H x L 
 ---
 
 Tienes [Eferri 0JV5918  Bolso de mano para Mujer   Rosa   23.5x12.5x30 cm  W x H x L ](https://www.amazon.es/dp/B07CDS8J7C/?tag=tolees-21) con un 50.58 % de descuento con precio de oferta de 21.74 EUR (original: 43.99 EUR) en el siguiente enlace!

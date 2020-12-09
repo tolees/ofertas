@@ -10,8 +10,11 @@ author: ring
 slug: B07BWXT3P5
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Essential Sneaker  Zapatillas Mujer  Blanco  RWB 020   39 EU
 ---
 
 Está [Tommy Hilfiger Essential Sneaker  Zapatillas Mujer  Blanco  RWB 020   39 EU](https://www.amazon.es/dp/B07BWXT3P5/?tag=tolees-21) con 35.95 de descuento por 63.99 EUR (original: 99.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01NAE4QRC
 description:
 actualPrice: 27.45 EUR
+currency: EUR
+price: 27.45
 comparePrice: 55 EUR
 inStock: true
+prodname: Under Armour Rapid  Zapatillas de Running para Hombre  Negro  Black White 001   42 EU
 ---
 
 Ahora mismo tienes [Under Armour Rapid  Zapatillas de Running para Hombre  Negro  Black White 001   42 EU](https://www.amazon.es/dp/B01NAE4QRC/?tag=tolees-21) a 27.45 EUR (original: 55 EUR) (50.09 %  de descuento) en el siguiente enlace!

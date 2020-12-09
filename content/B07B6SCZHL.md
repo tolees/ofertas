@@ -10,8 +10,11 @@ author: ring
 slug: B07B6SCZHL
 description:
 actualPrice: 70.69 EUR
+currency: EUR
+price: 70.69
 comparePrice: 200 EUR
 inStock: true
+prodname: Burton Covert Chaqueta de Snowboard  Hombre   Pelican Tusk Stripe/Denim   XL
 ---
 
 Ahora mismo tienes [Burton Covert Chaqueta de Snowboard  Hombre   Pelican Tusk Stripe/Denim   XL](https://www.amazon.es/dp/B07B6SCZHL/?tag=tolees-21) a 70.69 EUR (original: 200 EUR) (64.66 %  de descuento) en el siguiente enlace!

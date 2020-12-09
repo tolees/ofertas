@@ -10,8 +10,11 @@ author: ring
 slug: B07FTRHMFQ
 description:
 actualPrice: 14.98 EUR
+currency: EUR
+price: 14.98
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Lee Graphic Tee  Camiseta Hombre  Naranja  Nectarine Lc   Small
 ---
 
 Tienes [Lee Graphic Tee  Camiseta Hombre  Naranja  Nectarine Lc   Small](https://www.amazon.es/dp/B07FTRHMFQ/?tag=tolees-21) con un 49.98 % de descuento con precio de oferta de 14.98 EUR (original: 29.95 EUR) en el siguiente enlace!

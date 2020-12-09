@@ -10,8 +10,11 @@ author: ring
 slug: B07CRKF6QW
 description:
 actualPrice: 38.31 EUR
+currency: EUR
+price: 38.31
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Puma NRGY Comet  Zapatillas de Entrenamiento Unisex Adults o  Azul  Cerulean White   37 EU
 ---
 
 Ahora mismo tienes [Puma NRGY Comet  Zapatillas de Entrenamiento Unisex Adults o  Azul  Cerulean White   37 EU](https://www.amazon.es/dp/B07CRKF6QW/?tag=tolees-21) a 38.31 EUR (original: 54.95 EUR) (30.28 %  de descuento) en el siguiente enlace!

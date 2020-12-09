@@ -10,8 +10,11 @@ author: ring
 slug: B00IKIEBW2
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 89.25 EUR
 inStock: true
+prodname: Bosch Professional Medidor láser de distancia GLM 30  uso con un solo botón  máx. distancia: 30 m  2 pilas de 1 5 V  funda 
 ---
 
 Tienes [Bosch Professional Medidor láser de distancia GLM 30  uso con un solo botón  máx. distancia: 30 m  2 pilas de 1 5 V  funda ](https://www.amazon.es/dp/B00IKIEBW2/?tag=tolees-21) con un 43.99 % de descuento con precio de oferta de 49.99 EUR (original: 89.25 EUR) en el siguiente enlace!

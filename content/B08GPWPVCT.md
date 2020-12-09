@@ -10,8 +10,11 @@ author: ring
 slug: B08GPWPVCT
 description:
 actualPrice: 15.98 EUR
+currency: EUR
+price: 15.98
 comparePrice: 28.25 EUR
 inStock: true
+prodname: JOLY FANG Manta de Cola de Sirena  Hecho a Mano de Punto Manta Sirena para niños  Todas Las Estaciones cálido sofá Sala de Estar Manta  Regalos de Las Mejores niñas cumpleaños de Navidad  Verde 
 ---
 
 Tienes [JOLY FANG Manta de Cola de Sirena  Hecho a Mano de Punto Manta Sirena para niños  Todas Las Estaciones cálido sofá Sala de Estar Manta  Regalos de Las Mejores niñas cumpleaños de Navidad  Verde ](https://www.amazon.es/dp/B08GPWPVCT/?tag=tolees-21) con un 43.43 % de descuento con precio de oferta de 15.98 EUR (original: 28.25 EUR) en el siguiente enlace!

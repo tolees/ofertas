@@ -10,8 +10,11 @@ author: ring
 slug: B07HYYRXD4
 description:
 actualPrice: 32.19 EUR
+currency: EUR
+price: 32.19
 comparePrice: 48.29 EUR
 inStock: true
+prodname: D DOLITY 1080P HD 1.5    de Pantalla Kit de Cámara Digital SLR con Diseño Lindo para Niños de Dibujos Animados - Rosa  Aspecto Atractivo
 ---
 
 Tienes [D DOLITY 1080P HD 1.5    de Pantalla Kit de Cámara Digital SLR con Diseño Lindo para Niños de Dibujos Animados - Rosa  Aspecto Atractivo](https://www.amazon.es/dp/B07HYYRXD4/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 32.19 EUR (original: 48.29 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MZQW2M6
 description:
 actualPrice: 39.98 EUR
+currency: EUR
+price: 39.98
 comparePrice: 85.0 EUR
 inStock: true
+prodname: Pepe Jeans London Sinyu  Zapatillas Mujer   Black 999   36 EU
 ---
 
 Está [Pepe Jeans London Sinyu  Zapatillas Mujer   Black 999   36 EU](https://www.amazon.es/dp/B07MZQW2M6/?tag=tolees-21) con 52.96 de descuento por 39.98 EUR (original: 85.0 EUR) en el siguiente enlace!

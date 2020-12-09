@@ -10,8 +10,11 @@ author: ring
 slug: B000NROI4O
 description:
 actualPrice: 10.95 EUR
+currency: EUR
+price: 10.95
 comparePrice: 23.95 EUR
 inStock: true
+prodname: Cressi Rondinella Aletas  Unisex  Turquesa  41-42
 ---
 
 Está [Cressi Rondinella Aletas  Unisex  Turquesa  41-42](https://www.amazon.es/dp/B000NROI4O/?tag=tolees-21) con 54.28 de descuento por 10.95 EUR (original: 23.95 EUR) en el siguiente enlace!

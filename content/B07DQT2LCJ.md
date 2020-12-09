@@ -10,8 +10,11 @@ author: ring
 slug: B07DQT2LCJ
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Puma Minions Backpack  Unisex niños  Black  OSFA
 ---
 
 Tienes [Puma Minions Backpack  Unisex niños  Black  OSFA](https://www.amazon.es/dp/B07DQT2LCJ/?tag=tolees-21) con un 40.08 % de descuento con precio de oferta de 14.95 EUR (original: 24.95 EUR) en el siguiente enlace!

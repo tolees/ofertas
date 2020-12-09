@@ -10,8 +10,11 @@ author: ring
 slug: B07KPR9C4S
 description:
 actualPrice: 11.45 EUR
+currency: EUR
+price: 11.45
 comparePrice: 24.99 EUR
 inStock: true
+prodname: DC Apparel Circle Star tee-Shirt  Niños  Snow White  14/L
 ---
 
 Ahora mismo tienes [DC Apparel Circle Star tee-Shirt  Niños  Snow White  14/L](https://www.amazon.es/dp/B07KPR9C4S/?tag=tolees-21) a 11.45 EUR (original: 24.99 EUR) (54.18 %  de descuento) en el siguiente enlace!

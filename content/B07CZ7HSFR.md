@@ -10,8 +10,11 @@ author: ring
 slug: B07CZ7HSFR
 description:
 actualPrice: 108.05 EUR
+currency: EUR
+price: 108.05
 comparePrice: 159.99 EUR
 inStock: true
+prodname: Salomon XA Pro 3D GTX  Zapatillas de Running para Hombre  Azul  Mazarine Blue Wil/Black/Lime Green   45 1/3 EU
 ---
 
 Está [Salomon XA Pro 3D GTX  Zapatillas de Running para Hombre  Azul  Mazarine Blue Wil/Black/Lime Green   45 1/3 EU](https://www.amazon.es/dp/B07CZ7HSFR/?tag=tolees-21) con 32.46 de descuento por 108.05 EUR (original: 159.99 EUR) en el siguiente enlace!

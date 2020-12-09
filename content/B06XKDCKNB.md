@@ -10,8 +10,11 @@ author: ring
 slug: B06XKDCKNB
 description:
 actualPrice: 69 EUR
+currency: EUR
+price: 69
 comparePrice: 159.99 EUR
 inStock: true
+prodname: Alcatel A3 - Smartphone Pantalla de 5"  4G  cámara de 13MP y frontal de 5MP  1.5GB RAM  16GB ROM  Android   negro
 ---
 
 Tienes [Alcatel A3 - Smartphone Pantalla de 5"  4G  cámara de 13MP y frontal de 5MP  1.5GB RAM  16GB ROM  Android   negro](https://www.amazon.es/dp/B06XKDCKNB/?tag=tolees-21) con un 56.87 % de descuento con precio de oferta de 69 EUR (original: 159.99 EUR) en el siguiente enlace!

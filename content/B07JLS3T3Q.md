@@ -10,8 +10,11 @@ author: ring
 slug: B07JLS3T3Q
 description:
 actualPrice: 10.57 EUR
+currency: EUR
+price: 10.57
 comparePrice: 25.04 EUR
 inStock: true
+prodname: PLAYMOBIL- Starter Pack Starterpack Batalla Medieval  Color carbón  70036 
 ---
 
 Está [PLAYMOBIL- Starter Pack Starterpack Batalla Medieval  Color carbón  70036 ](https://www.amazon.es/dp/B07JLS3T3Q/?tag=tolees-21) con 57.79 de descuento por 10.57 EUR (original: 25.04 EUR) en el siguiente enlace!

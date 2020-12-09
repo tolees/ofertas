@@ -10,8 +10,11 @@ author: ring
 slug: B00BN7XH2C
 description:
 actualPrice: 5.15 EUR
+currency: EUR
+price: 5.15
 comparePrice: 16.2 EUR
 inStock: true
+prodname: Neutrogena Loción Corporal Hidratación Profunda  Piel Seca  400 ml
 ---
 
 Ahora mismo tienes [Neutrogena Loción Corporal Hidratación Profunda  Piel Seca  400 ml](https://www.amazon.es/dp/B00BN7XH2C/?tag=tolees-21) a 5.15 EUR (original: 16.2 EUR) (68.21 %  de descuento) en el siguiente enlace!

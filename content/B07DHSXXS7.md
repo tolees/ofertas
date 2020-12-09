@@ -10,8 +10,11 @@ author: ring
 slug: B07DHSXXS7
 description:
 actualPrice: 39.2 EUR
+currency: EUR
+price: 39.2
 comparePrice: 89 EUR
 inStock: true
+prodname: Lacoste Avance 119 2 SMA  Zapatillas para Hombre  Negro  Black/Wht 312   44 EU
 ---
 
 Tienes [Lacoste Avance 119 2 SMA  Zapatillas para Hombre  Negro  Black/Wht 312   44 EU](https://www.amazon.es/dp/B07DHSXXS7/?tag=tolees-21) con un 55.96 % de descuento con precio de oferta de 39.2 EUR (original: 89 EUR) en el siguiente enlace!

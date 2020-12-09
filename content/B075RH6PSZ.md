@@ -10,8 +10,11 @@ author: ring
 slug: B075RH6PSZ
 description:
 actualPrice: 10.5 EUR
+currency: EUR
+price: 10.5
 comparePrice: 17.9 EUR
 inStock: true
+prodname: Neutrogena Hydro Boost Crema Gel Contorno Ojos Anti Fatiga  15 ml
 ---
 
 Está [Neutrogena Hydro Boost Crema Gel Contorno Ojos Anti Fatiga  15 ml](https://www.amazon.es/dp/B075RH6PSZ/?tag=tolees-21) con 41.34 de descuento por 10.5 EUR (original: 17.9 EUR) en el siguiente enlace!

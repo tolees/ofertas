@@ -10,8 +10,11 @@ author: ring
 slug: B01M7YESHB
 description:
 actualPrice: 139.0 EUR
+currency: EUR
+price: 139.0
 comparePrice: 229.0 EUR
 inStock: true
+prodname: LG MH7265DPS Grill Smart Inverter - Microondas Grill 2 en 1  1200W  32 L  Display LED  Plato interior 360 mm  Color Negro  30.8  alto  x 54.4cm  ancho  x 45.8 cm  profundo 
 ---
 
 Está [LG MH7265DPS Grill Smart Inverter - Microondas Grill 2 en 1  1200W  32 L  Display LED  Plato interior 360 mm  Color Negro  30.8  alto  x 54.4cm  ancho  x 45.8 cm  profundo ](https://www.amazon.es/dp/B01M7YESHB/?tag=tolees-21) con 39.30 de descuento por 139.0 EUR (original: 229.0 EUR) en el siguiente enlace!

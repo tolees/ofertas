@@ -10,8 +10,11 @@ author: ring
 slug: B01N79UCPQ
 description:
 actualPrice: 27.08 EUR
+currency: EUR
+price: 27.08
 comparePrice: 79.95 EUR
 inStock: true
+prodname: adidas Copa Tango 17.2 TR  Botas de Fútbol Hombre  Negro  Core Black / Crystal White / Gold Metallic   42 EU
 ---
 
 Tienes [adidas Copa Tango 17.2 TR  Botas de Fútbol Hombre  Negro  Core Black / Crystal White / Gold Metallic   42 EU](https://www.amazon.es/dp/B01N79UCPQ/?tag=tolees-21) con un 66.13 % de descuento con precio de oferta de 27.08 EUR (original: 79.95 EUR) en el siguiente enlace!

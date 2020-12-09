@@ -10,8 +10,11 @@ author: ring
 slug: B07HS8SGPW
 description:
 actualPrice: 43.49 EUR
+currency: EUR
+price: 43.49
 comparePrice: 75.0 EUR
 inStock: true
+prodname: Tiny Love Magical Night Carrusel cuna bebé  Movil musical y proyector con luz nocturna de estrellas  9 melodias 30 minutos de musica continua  Polar Wonders
 ---
 
 Está [Tiny Love Magical Night Carrusel cuna bebé  Movil musical y proyector con luz nocturna de estrellas  9 melodias 30 minutos de musica continua  Polar Wonders](https://www.amazon.es/dp/B07HS8SGPW/?tag=tolees-21) con 42.01 de descuento por 43.49 EUR (original: 75.0 EUR) en el siguiente enlace!

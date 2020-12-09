@@ -10,8 +10,11 @@ author: ring
 slug: B077Y3GCXY
 description:
 actualPrice: 10.33 EUR
+currency: EUR
+price: 10.33
 comparePrice: 26.95 EUR
 inStock: true
+prodname: HIKARO Sudadera con Print Mujer  Verde  Khaki   38  Talla del fabricante: Small 
 ---
 
 Ahora mismo tienes [HIKARO Sudadera con Print Mujer  Verde  Khaki   38  Talla del fabricante: Small ](https://www.amazon.es/dp/B077Y3GCXY/?tag=tolees-21) a 10.33 EUR (original: 26.95 EUR) (61.67 %  de descuento) en el siguiente enlace!

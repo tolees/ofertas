@@ -10,8 +10,11 @@ author: ring
 slug: B019DLHDYC
 description:
 actualPrice: 21.21 EUR
+currency: EUR
+price: 21.21
 comparePrice: 80 EUR
 inStock: true
+prodname: New Balance 99 Training  Zapatillas Deportivas para Interior para Mujer  Azul  Gem 529   40 EU
 ---
 
 Está [New Balance 99 Training  Zapatillas Deportivas para Interior para Mujer  Azul  Gem 529   40 EU](https://www.amazon.es/dp/B019DLHDYC/?tag=tolees-21) con 73.49 de descuento por 21.21 EUR (original: 80 EUR) en el siguiente enlace!

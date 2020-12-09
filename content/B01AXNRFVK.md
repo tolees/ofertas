@@ -10,8 +10,11 @@ author: ring
 slug: B01AXNRFVK
 description:
 actualPrice: 23.95 EUR
+currency: EUR
+price: 23.95
 comparePrice: 45 EUR
 inStock: true
+prodname: Kappa Bloomy  Zapatillas Unisex Niños  Azul  Navy/Pink 6722   25 EU
 ---
 
 Tienes [Kappa Bloomy  Zapatillas Unisex Niños  Azul  Navy/Pink 6722   25 EU](https://www.amazon.es/dp/B01AXNRFVK/?tag=tolees-21) con un 46.78 % de descuento con precio de oferta de 23.95 EUR (original: 45 EUR) en el siguiente enlace!

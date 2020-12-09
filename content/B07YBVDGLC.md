@@ -10,8 +10,11 @@ author: ring
 slug: B07YBVDGLC
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: 29 Piezas Cuero Pulseras Árbol de la Vida para Hombres Mujer Trenzado Pulsera Cuentas de Madera Cuerda Brazalet Vintage Pulsera Ajustable  joyería 
 ---
 
 Ahora mismo tienes [29 Piezas Cuero Pulseras Árbol de la Vida para Hombres Mujer Trenzado Pulsera Cuentas de Madera Cuerda Brazalet Vintage Pulsera Ajustable  joyería ](https://www.amazon.es/dp/B07YBVDGLC/?tag=tolees-21) a 9.99 EUR (original: 14.99 EUR) (33.36 %  de descuento) en el siguiente enlace!

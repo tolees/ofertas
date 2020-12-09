@@ -10,8 +10,11 @@ author: ring
 slug: B07KJZMJPP
 description:
 actualPrice: 66.0 EUR
+currency: EUR
+price: 66.0
 comparePrice: 169.99 EUR
 inStock: true
+prodname: Sorel Caribou  Botas de Invierno Hombre  Negro  Black  Dark Stone   42 EU
 ---
 
 Está [Sorel Caribou  Botas de Invierno Hombre  Negro  Black  Dark Stone   42 EU](https://www.amazon.es/dp/B07KJZMJPP/?tag=tolees-21) con 61.17 de descuento por 66.0 EUR (original: 169.99 EUR) en el siguiente enlace!

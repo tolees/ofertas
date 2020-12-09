@@ -10,8 +10,11 @@ author: ring
 slug: B00XDUQOTU
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 39.02 EUR
 inStock: true
+prodname: Angel Schlesser 45596 - Eau de perfume para mujer
 ---
 
 Ahora mismo tienes [Angel Schlesser 45596 - Eau de perfume para mujer](https://www.amazon.es/dp/B00XDUQOTU/?tag=tolees-21) a 13.99 EUR (original: 39.02 EUR) (64.15 %  de descuento) en el siguiente enlace!

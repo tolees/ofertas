@@ -10,8 +10,11 @@ author: ring
 slug: B009GXZ8MM
 description:
 actualPrice: 39.95 EUR
+currency: EUR
+price: 39.95
 comparePrice: 67.9 EUR
 inStock: true
+prodname: Corsair Carbide 200R - Caja de PC  Mid-Tower ATX  silencioso insonorizado Edition  sin Ventana  Negro
 ---
 
 Tienes [Corsair Carbide 200R - Caja de PC  Mid-Tower ATX  silencioso insonorizado Edition  sin Ventana  Negro](https://www.amazon.es/dp/B009GXZ8MM/?tag=tolees-21) con un 41.16 % de descuento con precio de oferta de 39.95 EUR (original: 67.9 EUR) en el siguiente enlace!

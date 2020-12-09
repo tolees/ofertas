@@ -10,8 +10,11 @@ author: ring
 slug: B06XNX5LKS
 description:
 actualPrice: 13.7 EUR
+currency: EUR
+price: 13.7
 comparePrice: 23.95 EUR
 inStock: true
+prodname: Joma Granada Polo de Tenis  Hombre  Vino  M
 ---
 
 Ahora mismo tienes [Joma Granada Polo de Tenis  Hombre  Vino  M](https://www.amazon.es/dp/B06XNX5LKS/?tag=tolees-21) a 13.7 EUR (original: 23.95 EUR) (42.80 %  de descuento) en el siguiente enlace!

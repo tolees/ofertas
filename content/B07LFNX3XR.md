@@ -10,8 +10,11 @@ author: ring
 slug: B07LFNX3XR
 description:
 actualPrice: 35.06 EUR
+currency: EUR
+price: 35.06
 comparePrice: 75 EUR
 inStock: true
+prodname: Pepe Jeans Tinker Zero Seal  Zapatillas para Hombre  Blanco  800WHITE 800   45 EU
 ---
 
 Tienes [Pepe Jeans Tinker Zero Seal  Zapatillas para Hombre  Blanco  800WHITE 800   45 EU](https://www.amazon.es/dp/B07LFNX3XR/?tag=tolees-21) con un 53.25 % de descuento con precio de oferta de 35.06 EUR (original: 75 EUR) en el siguiente enlace!

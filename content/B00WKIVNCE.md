@@ -10,8 +10,11 @@ author: ring
 slug: B00WKIVNCE
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 35.9 EUR
 inStock: true
+prodname: Lékué - Kit para elaborar queso fresco y libro de recetas en español
 ---
 
 Tienes [Lékué - Kit para elaborar queso fresco y libro de recetas en español](https://www.amazon.es/dp/B00WKIVNCE/?tag=tolees-21) con un 47.10 % de descuento con precio de oferta de 18.99 EUR (original: 35.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07QDDQYJZ
 description:
 actualPrice: 74.25 EUR
+currency: EUR
+price: 74.25
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18708/2
 ---
 
 Está [Lotus Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 18708/2](https://www.amazon.es/dp/B07QDDQYJZ/?tag=tolees-21) con 25.00 de descuento por 74.25 EUR (original: 99.0 EUR) en el siguiente enlace!

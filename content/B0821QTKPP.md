@@ -10,8 +10,11 @@ author: ring
 slug: B0821QTKPP
 description:
 actualPrice: 38.5 EUR
+currency: EUR
+price: 38.5
 comparePrice: 55.0 EUR
 inStock: true
+prodname: Geox B Todo Girl B  Zapatillas para Bebés  Rose  22 EU
 ---
 
 Ahora mismo tienes [Geox B Todo Girl B  Zapatillas para Bebés  Rose  22 EU](https://www.amazon.es/dp/B0821QTKPP/?tag=tolees-21) a 38.5 EUR (original: 55.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

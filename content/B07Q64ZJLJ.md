@@ -10,8 +10,11 @@ author: ring
 slug: B07Q64ZJLJ
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 7.99 EUR
 inStock: true
+prodname: EMIUP Riñonera Running Deportiva Riñonera Cinturón Running Impermeable Bolsillos con Cierre Cremallera Tiras Reflectantes y Tiras Ajustables para Deportes al Aire Libre Negro 
 ---
 
 Está [EMIUP Riñonera Running Deportiva Riñonera Cinturón Running Impermeable Bolsillos con Cierre Cremallera Tiras Reflectantes y Tiras Ajustables para Deportes al Aire Libre Negro ](https://www.amazon.es/dp/B07Q64ZJLJ/?tag=tolees-21) con 25.03 de descuento por 5.99 EUR (original: 7.99 EUR) en el siguiente enlace!

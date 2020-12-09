@@ -10,8 +10,11 @@ author: ring
 slug: B01J3NMQW4
 description:
 actualPrice: 3.69 EUR
+currency: EUR
+price: 3.69
 comparePrice: 10.49 EUR
 inStock: true
+prodname: Zestaw przyborów szkolnych w puszce Star Wars
 ---
 
 Está [Zestaw przyborów szkolnych w puszce Star Wars](https://www.amazon.es/dp/B01J3NMQW4/?tag=tolees-21) con 64.82 de descuento por 3.69 EUR (original: 10.49 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KGR3S8L
 description:
 actualPrice: 37.79 EUR
+currency: EUR
+price: 37.79
 comparePrice: 70 EUR
 inStock: true
+prodname: Burton Moxie Pantalones Cortos  Hombre  Blue Sapphire Ripstop  28
 ---
 
 Está [Burton Moxie Pantalones Cortos  Hombre  Blue Sapphire Ripstop  28](https://www.amazon.es/dp/B07KGR3S8L/?tag=tolees-21) con 46.01 de descuento por 37.79 EUR (original: 70 EUR) en el siguiente enlace!

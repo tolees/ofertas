@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ2CGD8
 description:
 actualPrice: 35.95 EUR
+currency: EUR
+price: 35.95
 comparePrice: 85 EUR
 inStock: true
+prodname: Lacoste Sideline 119 1 Cfa  Zapatillas para Mujer  Rosa  Lt Pnk/Wht 208   38 EU
 ---
 
 Está [Lacoste Sideline 119 1 Cfa  Zapatillas para Mujer  Rosa  Lt Pnk/Wht 208   38 EU](https://www.amazon.es/dp/B07DJ2CGD8/?tag=tolees-21) con 57.71 de descuento por 35.95 EUR (original: 85 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B079RST3BZ
 description:
 actualPrice: 16.42 EUR
+currency: EUR
+price: 16.42
 comparePrice: 35 EUR
 inStock: true
+prodname: Pepe Jeans JIN JR PG501964  Camiseta para Niñas  Blanco  Off White 803  6 años
 ---
 
 Ahora mismo tienes [Pepe Jeans JIN JR PG501964  Camiseta para Niñas  Blanco  Off White 803  6 años](https://www.amazon.es/dp/B079RST3BZ/?tag=tolees-21) a 16.42 EUR (original: 35 EUR) (53.09 %  de descuento) en el siguiente enlace!

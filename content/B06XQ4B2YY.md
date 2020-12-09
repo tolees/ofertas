@@ -10,8 +10,11 @@ author: ring
 slug: B06XQ4B2YY
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 30.62 EUR
 inStock: true
+prodname: LYCAON Campana de bicicleta Campanas de la bici
 ---
 
 Tienes [LYCAON Campana de bicicleta Campanas de la bici](https://www.amazon.es/dp/B06XQ4B2YY/?tag=tolees-21) con un 77.17 % de descuento con precio de oferta de 6.99 EUR (original: 30.62 EUR) en el siguiente enlace!

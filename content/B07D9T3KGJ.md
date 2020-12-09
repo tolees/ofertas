@@ -10,8 +10,11 @@ author: ring
 slug: B07D9T3KGJ
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 49.95 EUR
 inStock: true
+prodname: adidas VS Pace  Zapatillas Hombre  Negro  Core Black/Core Black/Carbon 0   40 EU
 ---
 
 Ahora mismo tienes [adidas VS Pace  Zapatillas Hombre  Negro  Core Black/Core Black/Carbon 0   40 EU](https://www.amazon.es/dp/B07D9T3KGJ/?tag=tolees-21) a 36.99 EUR (original: 49.95 EUR) (25.95 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07W9FNWB5
 description:
 actualPrice: 175.99 EUR
+currency: EUR
+price: 175.99
 comparePrice: 250.0 EUR
 inStock: true
+prodname: Seiko Reloj Analógico para Hombres de Cuarzo con Correa en Acero Inoxidable SSB355P1
 ---
 
 Ahora mismo tienes [Seiko Reloj Analógico para Hombres de Cuarzo con Correa en Acero Inoxidable SSB355P1](https://www.amazon.es/dp/B07W9FNWB5/?tag=tolees-21) a 175.99 EUR (original: 250.0 EUR) (29.60 %  de descuento) en el siguiente enlace!

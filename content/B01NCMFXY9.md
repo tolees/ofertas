@@ -10,8 +10,11 @@ author: ring
 slug: B01NCMFXY9
 description:
 actualPrice: 9.17 EUR
+currency: EUR
+price: 9.17
 comparePrice: 22 EUR
 inStock: true
+prodname: find. Lace Detail Ribbed Suéter para Mujer  Blanco  White   48  Talla del Fabricante: XXX-Large 
 ---
 
 Tienes [find. Lace Detail Ribbed Suéter para Mujer  Blanco  White   48  Talla del Fabricante: XXX-Large ](https://www.amazon.es/dp/B01NCMFXY9/?tag=tolees-21) con un 58.32 % de descuento con precio de oferta de 9.17 EUR (original: 22 EUR) en el siguiente enlace!

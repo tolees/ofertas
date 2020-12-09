@@ -10,8 +10,11 @@ author: ring
 slug: B01N3A3OYK
 description:
 actualPrice: 159.99 EUR
+currency: EUR
+price: 159.99
 comparePrice: 219.9 EUR
 inStock: true
+prodname: Klarfit King Pong Mesa de Ping-Pong Plegable  Recubrimiento Resistente a Golpes  fácil Montaje y Transporte  Incluye Dos Palas y Tres Pelotas  Red  Tenis de Mesa  - Azul
 ---
 
 Está [Klarfit King Pong Mesa de Ping-Pong Plegable  Recubrimiento Resistente a Golpes  fácil Montaje y Transporte  Incluye Dos Palas y Tres Pelotas  Red  Tenis de Mesa  - Azul](https://www.amazon.es/dp/B01N3A3OYK/?tag=tolees-21) con 27.24 de descuento por 159.99 EUR (original: 219.9 EUR) en el siguiente enlace!

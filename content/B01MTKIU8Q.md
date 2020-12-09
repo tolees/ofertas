@@ -10,8 +10,11 @@ author: ring
 slug: B01MTKIU8Q
 description:
 actualPrice: 35.95 EUR
+currency: EUR
+price: 35.95
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Einhell 4513846 Taladro sin Cable TC-CD 18-2 litio 18 V  18 W  Rojo
 ---
 
 Ahora mismo tienes [Einhell 4513846 Taladro sin Cable TC-CD 18-2 litio 18 V  18 W  Rojo](https://www.amazon.es/dp/B01MTKIU8Q/?tag=tolees-21) a 35.95 EUR (original: 69.95 EUR) (48.61 %  de descuento) en el siguiente enlace!

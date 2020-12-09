@@ -10,8 +10,11 @@ author: ring
 slug: B01N3AKAOR
 description:
 actualPrice: 22.5 EUR
+currency: EUR
+price: 22.5
 comparePrice: 44.04 EUR
 inStock: true
+prodname: Sword Art Online II - Temporada 2. Parte 1. [Blu-ray]
 ---
 
 Ahora mismo tienes [Sword Art Online II - Temporada 2. Parte 1. [Blu-ray]](https://www.amazon.es/dp/B01N3AKAOR/?tag=tolees-21) a 22.5 EUR (original: 44.04 EUR) (48.91 %  de descuento) en el siguiente enlace!

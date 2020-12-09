@@ -10,8 +10,11 @@ author: ring
 slug: B085Q1FZHK
 description:
 actualPrice: 27.19 EUR
+currency: EUR
+price: 27.19
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Termómetro Frente 3 en 1 Termómetro Digital Medición Precisa y Rápida 35 Lecturas de Memoria Termómetro Infrarrojo Sin Contacto con Alarma de Fiebre Adecuado para Niños  Adultos  Ambiente y Objetos
 ---
 
 Ahora mismo tienes [Termómetro Frente 3 en 1 Termómetro Digital Medición Precisa y Rápida 35 Lecturas de Memoria Termómetro Infrarrojo Sin Contacto con Alarma de Fiebre Adecuado para Niños  Adultos  Ambiente y Objetos](https://www.amazon.es/dp/B085Q1FZHK/?tag=tolees-21) a 27.19 EUR (original: 39.99 EUR) (32.01 %  de descuento) en el siguiente enlace!

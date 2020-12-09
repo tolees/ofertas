@@ -10,8 +10,11 @@ author: ring
 slug: B01KPYTW0E
 description:
 actualPrice: 7.9 EUR
+currency: EUR
+price: 7.9
 comparePrice: 39.95 EUR
 inStock: true
+prodname: JACK & JONES JCOWORK KNIT CREW NECK  suéter Hombre  Gris  Light Grey Melange   Small
 ---
 
 Tienes [JACK & JONES JCOWORK KNIT CREW NECK  suéter Hombre  Gris  Light Grey Melange   Small](https://www.amazon.es/dp/B01KPYTW0E/?tag=tolees-21) con un 80.23 % de descuento con precio de oferta de 7.9 EUR (original: 39.95 EUR) en el siguiente enlace!

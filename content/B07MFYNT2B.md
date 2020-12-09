@@ -10,8 +10,11 @@ author: ring
 slug: B07MFYNT2B
 description:
 actualPrice: 75 EUR
+currency: EUR
+price: 75
 comparePrice: 150 EUR
 inStock: true
+prodname: Diesel Thommer L.32 Trousers Vaqueros Slim  Azul Blue Denim 01  W31/L32  Talla del Fabricante: 31  para Hombre
 ---
 
 Ahora mismo tienes [Diesel Thommer L.32 Trousers Vaqueros Slim  Azul Blue Denim 01  W31/L32  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07MFYNT2B/?tag=tolees-21) a 75 EUR (original: 150 EUR) (50.00 %  de descuento) en el siguiente enlace!

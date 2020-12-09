@@ -10,8 +10,11 @@ author: ring
 slug: B01NADSXA9
 description:
 actualPrice: 7.61 EUR
+currency: EUR
+price: 7.61
 comparePrice: 11.99 EUR
 inStock: true
+prodname: Activewear Polo con Cuello y Mangas en Contraste para Hombre  Rojo  Oxblood   Medium
 ---
 
 Ahora mismo tienes [Activewear Polo con Cuello y Mangas en Contraste para Hombre  Rojo  Oxblood   Medium](https://www.amazon.es/dp/B01NADSXA9/?tag=tolees-21) a 7.61 EUR (original: 11.99 EUR) (36.53 %  de descuento) en el siguiente enlace!

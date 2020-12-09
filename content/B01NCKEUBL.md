@@ -10,8 +10,11 @@ author: ring
 slug: B01NCKEUBL
 description:
 actualPrice: 4.8 EUR
+currency: EUR
+price: 4.8
 comparePrice: 16 EUR
 inStock: true
+prodname: FIND 17AMZ009 camisetas mujer fiesta   Morado  Orchid   42  Talla del Fabricante: Large 
 ---
 
 Ahora mismo tienes [FIND 17AMZ009 camisetas mujer fiesta   Morado  Orchid   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01NCKEUBL/?tag=tolees-21) a 4.8 EUR (original: 16 EUR) (70.00 %  de descuento) en el siguiente enlace!

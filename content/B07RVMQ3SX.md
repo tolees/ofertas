@@ -10,8 +10,11 @@ author: ring
 slug: B07RVMQ3SX
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: RAMPOW Cable USB C a Lightning [Apple MFi Certificado] Cable iPhone 11 iPhone 12 Carga rápida Power Delivery 18W 3A  para iPhone 12/12 Pro / 12 Mini / 12 Pro MAX / 11 / X/XS/XR  iPad Air 3-1M
 ---
 
 Está [RAMPOW Cable USB C a Lightning [Apple MFi Certificado] Cable iPhone 11 iPhone 12 Carga rápida Power Delivery 18W 3A  para iPhone 12/12 Pro / 12 Mini / 12 Pro MAX / 11 / X/XS/XR  iPad Air 3-1M](https://www.amazon.es/dp/B07RVMQ3SX/?tag=tolees-21) con 50.02 de descuento por 12.99 EUR (original: 25.99 EUR) en el siguiente enlace!

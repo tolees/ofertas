@@ -10,8 +10,11 @@ author: ring
 slug: B07C8WYRS2
 description:
 actualPrice: 30 EUR
+currency: EUR
+price: 30
 comparePrice: 60 EUR
 inStock: true
+prodname: Vans_Apparel Classic Zip Hoodie  Capucha para Niños  Azul  Corsair-Khaki Rqb  170  Talla del Fabricante: X-Large 
 ---
 
 Ahora mismo tienes [Vans_Apparel Classic Zip Hoodie  Capucha para Niños  Azul  Corsair-Khaki Rqb  170  Talla del Fabricante: X-Large ](https://www.amazon.es/dp/B07C8WYRS2/?tag=tolees-21) a 30 EUR (original: 60 EUR) (50.00 %  de descuento) en el siguiente enlace!

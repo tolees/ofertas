@@ -10,8 +10,11 @@ author: ring
 slug: B07GNNBQ8R
 description:
 actualPrice: 15.63 EUR
+currency: EUR
+price: 15.63
 comparePrice: 22.99 EUR
 inStock: true
+prodname: BALFER® Cerraduras Invisible Magnéticas de Seguridad para Niños  Cierres de seguridad Para Cajones Armarios Bloqueo Sin Perforaciones  16 cerraduras + 3 llaves 
 ---
 
 Ahora mismo tienes [BALFER® Cerraduras Invisible Magnéticas de Seguridad para Niños  Cierres de seguridad Para Cajones Armarios Bloqueo Sin Perforaciones  16 cerraduras + 3 llaves ](https://www.amazon.es/dp/B07GNNBQ8R/?tag=tolees-21) a 15.63 EUR (original: 22.99 EUR) (32.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JPGRHCF
 description:
 actualPrice: 12.56 EUR
+currency: EUR
+price: 12.56
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Under Armour Men s Official Tour 3.0 Gorra  Hombre  Blanco  XL/XXL
 ---
 
 Ahora mismo tienes [Under Armour Men s Official Tour 3.0 Gorra  Hombre  Blanco  XL/XXL](https://www.amazon.es/dp/B07JPGRHCF/?tag=tolees-21) a 12.56 EUR (original: 30.0 EUR) (58.13 %  de descuento) en el siguiente enlace!

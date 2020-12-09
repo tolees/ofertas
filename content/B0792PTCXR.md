@@ -10,8 +10,11 @@ author: ring
 slug: B0792PTCXR
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 105.02 EUR
 inStock: true
+prodname: QUN FENG Mini Drone para Niños y Adultos RC Quadcopter con WIFI FPV 0.3HD Cámara 360 ° Mini Rugby Quadcopter Drone Headless Mode One Key Take Off y Return Voice Control
 ---
 
 Está [QUN FENG Mini Drone para Niños y Adultos RC Quadcopter con WIFI FPV 0.3HD Cámara 360 ° Mini Rugby Quadcopter Drone Headless Mode One Key Take Off y Return Voice Control](https://www.amazon.es/dp/B0792PTCXR/?tag=tolees-21) con 52.40 de descuento por 49.99 EUR (original: 105.02 EUR) en el siguiente enlace!

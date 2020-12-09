@@ -10,8 +10,11 @@ author: ring
 slug: B07D7DK8MR
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 16.95 EUR
 inStock: true
+prodname: DANISH ENDURANCE Bandas Elásticas de Resistencia  3 Unidades  Rosado  Rojo  Verde 
 ---
 
 Ahora mismo tienes [DANISH ENDURANCE Bandas Elásticas de Resistencia  3 Unidades  Rosado  Rojo  Verde ](https://www.amazon.es/dp/B07D7DK8MR/?tag=tolees-21) a 5.95 EUR (original: 16.95 EUR) (64.90 %  de descuento) en el siguiente enlace!

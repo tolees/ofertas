@@ -10,8 +10,11 @@ author: ring
 slug: B01B1NVCEC
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Philips OneBlade QP2530/30 - Recortador de Barba con 4 Peines de 1 2 3 4 5 mm Longitudes  Incluye Cuchilla Adicional  Recorta  Perfila y Afeita  Recargable
 ---
 
 Ahora mismo tienes [Philips OneBlade QP2530/30 - Recortador de Barba con 4 Peines de 1 2 3 4 5 mm Longitudes  Incluye Cuchilla Adicional  Recorta  Perfila y Afeita  Recargable](https://www.amazon.es/dp/B01B1NVCEC/?tag=tolees-21) a 32.99 EUR (original: 54.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

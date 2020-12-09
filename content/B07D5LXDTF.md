@@ -10,8 +10,11 @@ author: ring
 slug: B07D5LXDTF
 description:
 actualPrice: 22.41 EUR
+currency: EUR
+price: 22.41
 comparePrice: 109 EUR
 inStock: true
+prodname: Nautica Track JKT W Piping  Sudadera Deportiva para Hombre  Gris  Grey Heather 0gh  Small  Tamaño del Fabricante:S 
 ---
 
 Ahora mismo tienes [Nautica Track JKT W Piping  Sudadera Deportiva para Hombre  Gris  Grey Heather 0gh  Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B07D5LXDTF/?tag=tolees-21) a 22.41 EUR (original: 109 EUR) (79.44 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVRJDFG
 description:
 actualPrice: 48.67 EUR
+currency: EUR
+price: 48.67
 comparePrice: 90.0 EUR
 inStock: true
+prodname: Levi s 511 Slim Vaqueros  Steel Grey Str 14W Cord GD  31W / 30L para Hombre
 ---
 
 Está [Levi s 511 Slim Vaqueros  Steel Grey Str 14W Cord GD  31W / 30L para Hombre](https://www.amazon.es/dp/B07ZVRJDFG/?tag=tolees-21) con 45.92 de descuento por 48.67 EUR (original: 90.0 EUR) en el siguiente enlace!

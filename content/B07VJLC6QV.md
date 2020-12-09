@@ -10,8 +10,11 @@ author: ring
 slug: B07VJLC6QV
 description:
 actualPrice: 18.64 EUR
+currency: EUR
+price: 18.64
 comparePrice: 41.44 EUR
 inStock: true
+prodname: Calvin Klein Low Rise Trunk 3pk  Bóxer Hombre  Negro  B/Alligator/Grey Heather/Black Bal   X-Small
 ---
 
 Ahora mismo tienes [Calvin Klein Low Rise Trunk 3pk  Bóxer Hombre  Negro  B/Alligator/Grey Heather/Black Bal   X-Small](https://www.amazon.es/dp/B07VJLC6QV/?tag=tolees-21) a 18.64 EUR (original: 41.44 EUR) (55.02 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00XARK73U
 description:
 actualPrice: 15.9 EUR
+currency: EUR
+price: 15.9
 comparePrice: 30 EUR
 inStock: true
+prodname: Mini Tenacilla Profesional Con Placas Cerámicas  19 Mm
 ---
 
 Tienes [Mini Tenacilla Profesional Con Placas Cerámicas  19 Mm](https://www.amazon.es/dp/B00XARK73U/?tag=tolees-21) con un 47.00 % de descuento con precio de oferta de 15.9 EUR (original: 30 EUR) en el siguiente enlace!

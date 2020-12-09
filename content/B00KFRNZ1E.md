@@ -10,8 +10,11 @@ author: ring
 slug: B00KFRNZ1E
 description:
 actualPrice: 152.06 EUR
+currency: EUR
+price: 152.06
 comparePrice: 395 EUR
 inStock: true
+prodname: Tumi maletín  negro - negro  026108D2_Black_42
 ---
 
 Tienes [Tumi maletín  negro - negro  026108D2_Black_42](https://www.amazon.es/dp/B00KFRNZ1E/?tag=tolees-21) con un 61.50 % de descuento con precio de oferta de 152.06 EUR (original: 395 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07J53RKDL
 description:
 actualPrice: 15.5 EUR
+currency: EUR
+price: 15.5
 comparePrice: 20.72 EUR
 inStock: true
+prodname: Moussel Gel y jabón Aloe Vera - Pack de 8 x 600 ml - Total: 4800 ml
 ---
 
 Ahora mismo tienes [Moussel Gel y jabón Aloe Vera - Pack de 8 x 600 ml - Total: 4800 ml](https://www.amazon.es/dp/B07J53RKDL/?tag=tolees-21) a 15.5 EUR (original: 20.72 EUR) (25.19 %  de descuento) en el siguiente enlace!

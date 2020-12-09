@@ -10,8 +10,11 @@ author: ring
 slug: B07FKGLYQR
 description:
 actualPrice: 83.95 EUR
+currency: EUR
+price: 83.95
 comparePrice: 121 EUR
 inStock: true
+prodname: Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre  Negro  Black/Armory Navy/Platinum Tint 017   42 EU
 ---
 
 Tienes [Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre  Negro  Black/Armory Navy/Platinum Tint 017   42 EU](https://www.amazon.es/dp/B07FKGLYQR/?tag=tolees-21) con un 30.62 % de descuento con precio de oferta de 83.95 EUR (original: 121 EUR) en el siguiente enlace!

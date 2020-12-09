@@ -10,8 +10,11 @@ author: ring
 slug: B0776ZYGQQ
 description:
 actualPrice: 22.65 EUR
+currency: EUR
+price: 22.65
 comparePrice: 69.95 EUR
 inStock: true
+prodname: s.Oliver 23630  Zapatillas para Mujer  Rosa  Nude   37 EU
 ---
 
 Tienes [s.Oliver 23630  Zapatillas para Mujer  Rosa  Nude   37 EU](https://www.amazon.es/dp/B0776ZYGQQ/?tag=tolees-21) con un 67.62 % de descuento con precio de oferta de 22.65 EUR (original: 69.95 EUR) en el siguiente enlace!

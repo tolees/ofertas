@@ -10,8 +10,11 @@ author: ring
 slug: B07SCMHWHJ
 description:
 actualPrice: 28.39 EUR
+currency: EUR
+price: 28.39
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Austin Jeans  Azul  Dk Worn Foam If   31W / 34L para Hombre
 ---
 
 Tienes [Lee Austin Jeans  Azul  Dk Worn Foam If   31W / 34L para Hombre](https://www.amazon.es/dp/B07SCMHWHJ/?tag=tolees-21) con un 71.60 % de descuento con precio de oferta de 28.39 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07F6CGHMQ
 description:
 actualPrice: 3.5 EUR
+currency: EUR
+price: 3.5
 comparePrice: 8.99 EUR
 inStock: true
+prodname: Kingston DataTraveler 106  DT106/16GB  USB 3.0  Memoria Flash  16 GB  Negro y Rojo
 ---
 
 Ahora mismo tienes [Kingston DataTraveler 106  DT106/16GB  USB 3.0  Memoria Flash  16 GB  Negro y Rojo](https://www.amazon.es/dp/B07F6CGHMQ/?tag=tolees-21) a 3.5 EUR (original: 8.99 EUR) (61.07 %  de descuento) en el siguiente enlace!

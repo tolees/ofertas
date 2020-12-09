@@ -10,8 +10,11 @@ author: ring
 slug: B07YVXGFLS
 description:
 actualPrice: 129.0 EUR
+currency: EUR
+price: 129.0
 comparePrice: 199.95 EUR
 inStock: true
+prodname: Beats Solo3 Wireless - Auriculares supraaurales - Chip Apple W1  Bluetooth de Clase 1  40 horas de sonido ininterrumpido - Negro
 ---
 
 Ahora mismo tienes [Beats Solo3 Wireless - Auriculares supraaurales - Chip Apple W1  Bluetooth de Clase 1  40 horas de sonido ininterrumpido - Negro](https://www.amazon.es/dp/B07YVXGFLS/?tag=tolees-21) a 129.0 EUR (original: 199.95 EUR) (35.48 %  de descuento) en el siguiente enlace!

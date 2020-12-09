@@ -10,8 +10,11 @@ author: ring
 slug: B00FQZK9LE
 description:
 actualPrice: 152.99 EUR
+currency: EUR
+price: 152.99
 comparePrice: 239.95 EUR
 inStock: true
+prodname: DEWALT DWE315KT-QS - Multiherramienta oscilante de 300W  22.000 opm  incluye 37 accesorios y maletin
 ---
 
 Está [DEWALT DWE315KT-QS - Multiherramienta oscilante de 300W  22.000 opm  incluye 37 accesorios y maletin](https://www.amazon.es/dp/B00FQZK9LE/?tag=tolees-21) con 36.24 de descuento por 152.99 EUR (original: 239.95 EUR) en el siguiente enlace!

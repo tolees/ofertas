@@ -10,8 +10,11 @@ author: ring
 slug: B07MLJGXK3
 description:
 actualPrice: 8.79 EUR
+currency: EUR
+price: 8.79
 comparePrice: 26.06 EUR
 inStock: true
+prodname: New Look Strappy Pinny 6143129  Vestido para Mujer   Yellow Pattern 89   36 ES
 ---
 
 Tienes [New Look Strappy Pinny 6143129  Vestido para Mujer   Yellow Pattern 89   36 ES](https://www.amazon.es/dp/B07MLJGXK3/?tag=tolees-21) con un 66.27 % de descuento con precio de oferta de 8.79 EUR (original: 26.06 EUR) en el siguiente enlace!

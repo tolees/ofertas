@@ -10,8 +10,11 @@ author: ring
 slug: B01DPH6DAK
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 29.96 EUR
 inStock: true
+prodname: L OR Café Grano Classique - 4 paquetes de 500gr  2000gr 
 ---
 
 Ahora mismo tienes [L OR Café Grano Classique - 4 paquetes de 500gr  2000gr ](https://www.amazon.es/dp/B01DPH6DAK/?tag=tolees-21) a 20.99 EUR (original: 29.96 EUR) (29.94 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07LBHJXSV
 description:
 actualPrice: 64.99 EUR
+currency: EUR
+price: 64.99
 comparePrice: 150.0 EUR
 inStock: true
+prodname: Helly Hansen Aden Larga Aislado Impermeable Chaqueta De Invierno  Mujer  Navy  XS
 ---
 
 Ahora mismo tienes [Helly Hansen Aden Larga Aislado Impermeable Chaqueta De Invierno  Mujer  Navy  XS](https://www.amazon.es/dp/B07LBHJXSV/?tag=tolees-21) a 64.99 EUR (original: 150.0 EUR) (56.67 %  de descuento) en el siguiente enlace!

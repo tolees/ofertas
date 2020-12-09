@@ -10,8 +10,11 @@ author: ring
 slug: B07RJYVYR3
 description:
 actualPrice: 8.37 EUR
+currency: EUR
+price: 8.37
 comparePrice: 11.95 EUR
 inStock: true
+prodname: PATO® - Active Clean Colgador para Inodoro  frescor Intenso  perfuma y desinfecta  Aroma Marine - Pack de 8 Unidades
 ---
 
 Está [PATO® - Active Clean Colgador para Inodoro  frescor Intenso  perfuma y desinfecta  Aroma Marine - Pack de 8 Unidades](https://www.amazon.es/dp/B07RJYVYR3/?tag=tolees-21) con 29.96 de descuento por 8.37 EUR (original: 11.95 EUR) en el siguiente enlace!

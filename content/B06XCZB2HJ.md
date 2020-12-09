@@ -10,8 +10,11 @@ author: ring
 slug: B06XCZB2HJ
 description:
 actualPrice: 18.9 EUR
+currency: EUR
+price: 18.9
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Cortefiel 5617642  Blusa para Mujer  Azul  S
 ---
 
 Tienes [Cortefiel 5617642  Blusa para Mujer  Azul  S](https://www.amazon.es/dp/B06XCZB2HJ/?tag=tolees-21) con un 47.49 % de descuento con precio de oferta de 18.9 EUR (original: 35.99 EUR) en el siguiente enlace!

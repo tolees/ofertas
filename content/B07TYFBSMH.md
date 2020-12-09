@@ -10,8 +10,11 @@ author: ring
 slug: B07TYFBSMH
 description:
 actualPrice: 1.06 EUR
+currency: EUR
+price: 1.06
 comparePrice: 1.56 EUR
 inStock: true
+prodname: 5 Pares/Set Uso Duradero 5.5x2.1mm Macho + Hembra Conector DC Enchufe Conector Cable Conector Cable Cable 12V - Negro y Rojo
 ---
 
 Ahora mismo tienes [5 Pares/Set Uso Duradero 5.5x2.1mm Macho + Hembra Conector DC Enchufe Conector Cable Conector Cable Cable 12V - Negro y Rojo](https://www.amazon.es/dp/B07TYFBSMH/?tag=tolees-21) a 1.06 EUR (original: 1.56 EUR) (32.05 %  de descuento) en el siguiente enlace!

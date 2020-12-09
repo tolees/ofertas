@@ -10,8 +10,11 @@ author: ring
 slug: B07PX8TTHD
 description:
 actualPrice: 14.94 EUR
+currency: EUR
+price: 14.94
 comparePrice: 20.99 EUR
 inStock: true
+prodname: JRD&BS WINL Doodle Tablet para Niños Memorando PortÁTil Y Reutilizable Elder Message Board Verde01
 ---
 
 Está [JRD&BS WINL Doodle Tablet para Niños Memorando PortÁTil Y Reutilizable Elder Message Board Verde01](https://www.amazon.es/dp/B07PX8TTHD/?tag=tolees-21) con 28.82 de descuento por 14.94 EUR (original: 20.99 EUR) en el siguiente enlace!

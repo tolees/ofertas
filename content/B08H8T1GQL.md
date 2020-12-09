@@ -10,8 +10,11 @@ author: ring
 slug: B08H8T1GQL
 description:
 actualPrice: 179.99 EUR
+currency: EUR
+price: 179.99
 comparePrice: 259.0 EUR
 inStock: true
+prodname: Rowenta Ixeo UR1910 Cepillo de vapor 2170 W  5.8 bares presión vapor  depósito 1.1 L  elimina arrugas  olores y desinfecta  hasta 200 g/min  sistema portátil
 ---
 
 Tienes [Rowenta Ixeo UR1910 Cepillo de vapor 2170 W  5.8 bares presión vapor  depósito 1.1 L  elimina arrugas  olores y desinfecta  hasta 200 g/min  sistema portátil](https://www.amazon.es/dp/B08H8T1GQL/?tag=tolees-21) con un 30.51 % de descuento con precio de oferta de 179.99 EUR (original: 259.0 EUR) en el siguiente enlace!

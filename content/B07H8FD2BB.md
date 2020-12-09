@@ -10,8 +10,11 @@ author: ring
 slug: B07H8FD2BB
 description:
 actualPrice: 6.75 EUR
+currency: EUR
+price: 6.75
 comparePrice: 13.99 EUR
 inStock: true
+prodname: MARQUISE & LOREAN Placas Decorativas Pared Música Rock Decoración Carteles Vintage Metálicos MIRA Aquí
 ---
 
 Tienes [MARQUISE & LOREAN Placas Decorativas Pared Música Rock Decoración Carteles Vintage Metálicos MIRA Aquí](https://www.amazon.es/dp/B07H8FD2BB/?tag=tolees-21) con un 51.75 % de descuento con precio de oferta de 6.75 EUR (original: 13.99 EUR) en el siguiente enlace!

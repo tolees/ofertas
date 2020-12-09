@@ -10,8 +10,11 @@ author: ring
 slug: B01B3QLAIU
 description:
 actualPrice: 14.0 EUR
+currency: EUR
+price: 14.0
 comparePrice: 31.57 EUR
 inStock: true
+prodname: El Viaje De Arlo  The Good Dinosaur   Edición Metálica  [Blu-ray]
 ---
 
 Está [El Viaje De Arlo  The Good Dinosaur   Edición Metálica  [Blu-ray]](https://www.amazon.es/dp/B01B3QLAIU/?tag=tolees-21) con 55.65 de descuento por 14.0 EUR (original: 31.57 EUR) en el siguiente enlace!

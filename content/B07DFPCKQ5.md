@@ -10,8 +10,11 @@ author: ring
 slug: B07DFPCKQ5
 description:
 actualPrice: 29.76 EUR
+currency: EUR
+price: 29.76
 comparePrice: 80 EUR
 inStock: true
+prodname: New Balance 715v3  Zapatillas Deportivas para Interior para Mujer  Negro Black  37 EU
 ---
 
 Está [New Balance 715v3  Zapatillas Deportivas para Interior para Mujer  Negro Black  37 EU](https://www.amazon.es/dp/B07DFPCKQ5/?tag=tolees-21) con 62.80 de descuento por 29.76 EUR (original: 80 EUR) en el siguiente enlace!

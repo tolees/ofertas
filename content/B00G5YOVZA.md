@@ -10,8 +10,11 @@ author: ring
 slug: B00G5YOVZA
 description:
 actualPrice: 69.0 EUR
+currency: EUR
+price: 69.0
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Nespresso De Longhi Inissia EN80.B - Cafetera monodosis de cápsulas Nespresso  19 bares  apagado automático  color negro  Incluye pack de bienvenida con 14 cápsulas
 ---
 
 Tienes [Nespresso De Longhi Inissia EN80.B - Cafetera monodosis de cápsulas Nespresso  19 bares  apagado automático  color negro  Incluye pack de bienvenida con 14 cápsulas](https://www.amazon.es/dp/B00G5YOVZA/?tag=tolees-21) con un 30.30 % de descuento con precio de oferta de 69.0 EUR (original: 99.0 EUR) en el siguiente enlace!

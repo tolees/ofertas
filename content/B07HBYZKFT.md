@@ -10,8 +10,11 @@ author: ring
 slug: B07HBYZKFT
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: murtoo Pulsera Hombre Cuero Trenzada Cruzada Brazalete con Cierre Magnética Acero Inoxidable - 21cm  Marrón 
 ---
 
 Ahora mismo tienes [murtoo Pulsera Hombre Cuero Trenzada Cruzada Brazalete con Cierre Magnética Acero Inoxidable - 21cm  Marrón ](https://www.amazon.es/dp/B07HBYZKFT/?tag=tolees-21) a 16.99 EUR (original: 39.99 EUR) (57.51 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NNVQTSN
 description:
 actualPrice: 144.5 EUR
+currency: EUR
+price: 144.5
 comparePrice: 202.9 EUR
 inStock: true
+prodname: Babybjörn Bliss  Mesh  Rosa Perla con Juguete Amigos Voladores
 ---
 
 Tienes [Babybjörn Bliss  Mesh  Rosa Perla con Juguete Amigos Voladores](https://www.amazon.es/dp/B07NNVQTSN/?tag=tolees-21) con un 28.78 % de descuento con precio de oferta de 144.5 EUR (original: 202.9 EUR) en el siguiente enlace!

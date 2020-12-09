@@ -10,8 +10,11 @@ author: ring
 slug: B07YJC7N4W
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: RFIVER Móvil Soporte TV de Suelo para Television de 32 a 60 Pulgadas con Ruedas Inclinación Altura Ajustable MAX Vesa 600x400mm MT2001
 ---
 
 Ahora mismo tienes [RFIVER Móvil Soporte TV de Suelo para Television de 32 a 60 Pulgadas con Ruedas Inclinación Altura Ajustable MAX Vesa 600x400mm MT2001](https://www.amazon.es/dp/B07YJC7N4W/?tag=tolees-21) a 63.99 EUR (original: 99.99 EUR) (36.00 %  de descuento) en el siguiente enlace!

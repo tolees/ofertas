@@ -10,8 +10,11 @@ author: ring
 slug: B07FYK2QYS
 description:
 actualPrice: 169.9 EUR
+currency: EUR
+price: 169.9
 comparePrice: 279.99 EUR
 inStock: true
+prodname: tado° Cabezal Termostático Inteligente - Pack Quattro  Accesorio para control de habitaciones múltiples  control de calefacción inteligente  Instálalo tú mismo  Blanco
 ---
 
 Está [tado° Cabezal Termostático Inteligente - Pack Quattro  Accesorio para control de habitaciones múltiples  control de calefacción inteligente  Instálalo tú mismo  Blanco](https://www.amazon.es/dp/B07FYK2QYS/?tag=tolees-21) con 39.32 de descuento por 169.9 EUR (original: 279.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B003JD2KBM
 description:
 actualPrice: 7.97 EUR
+currency: EUR
+price: 7.97
 comparePrice: 29.71 EUR
 inStock: true
+prodname: Philips Regleta
 ---
 
 Está [Philips Regleta](https://www.amazon.es/dp/B003JD2KBM/?tag=tolees-21) con 73.17 de descuento por 7.97 EUR (original: 29.71 EUR) en el siguiente enlace!

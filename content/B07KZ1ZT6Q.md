@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ1ZT6Q
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Springfield 690 Naming SPF Org Tricol Camiseta  Blanco 99  Small  Tamaño del Fabricante:S  para Hombre
 ---
 
 Ahora mismo tienes [Springfield 690 Naming SPF Org Tricol Camiseta  Blanco 99  Small  Tamaño del Fabricante:S  para Hombre](https://www.amazon.es/dp/B07KZ1ZT6Q/?tag=tolees-21) a 5.99 EUR (original: 12.99 EUR) (53.89 %  de descuento) en el siguiente enlace!

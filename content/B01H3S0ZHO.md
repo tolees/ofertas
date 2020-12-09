@@ -10,8 +10,11 @@ author: ring
 slug: B01H3S0ZHO
 description:
 actualPrice: 205.48 EUR
+currency: EUR
+price: 205.48
 comparePrice: 349.99 EUR
 inStock: true
+prodname: Samsung Galaxy Tab S2 8" Wi-Fi  SM-T713NZWEPHE - Tablet   blanco
 ---
 
 Ahora mismo tienes [Samsung Galaxy Tab S2 8" Wi-Fi  SM-T713NZWEPHE - Tablet   blanco](https://www.amazon.es/dp/B01H3S0ZHO/?tag=tolees-21) a 205.48 EUR (original: 349.99 EUR) (41.29 %  de descuento) en el siguiente enlace!

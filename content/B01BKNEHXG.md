@@ -10,8 +10,11 @@ author: ring
 slug: B01BKNEHXG
 description:
 actualPrice: 122.5 EUR
+currency: EUR
+price: 122.5
 comparePrice: 289.0 EUR
 inStock: true
+prodname: Calvin Klein Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable K6R23626
 ---
 
 Ahora mismo tienes [Calvin Klein Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable K6R23626](https://www.amazon.es/dp/B01BKNEHXG/?tag=tolees-21) a 122.5 EUR (original: 289.0 EUR) (57.61 %  de descuento) en el siguiente enlace!

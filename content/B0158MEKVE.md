@@ -10,8 +10,11 @@ author: ring
 slug: B0158MEKVE
 description:
 actualPrice: 13.26 EUR
+currency: EUR
+price: 13.26
 comparePrice: 40 EUR
 inStock: true
+prodname: Pitter Patter Baby Gifts Conjunto Rosa 12 Meses  80 cm 
 ---
 
 Está [Pitter Patter Baby Gifts Conjunto Rosa 12 Meses  80 cm ](https://www.amazon.es/dp/B0158MEKVE/?tag=tolees-21) con 66.85 de descuento por 13.26 EUR (original: 40 EUR) en el siguiente enlace!

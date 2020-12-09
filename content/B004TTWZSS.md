@@ -10,8 +10,11 @@ author: ring
 slug: B004TTWZSS
 description:
 actualPrice: 5.69 EUR
+currency: EUR
+price: 5.69
 comparePrice: 9.86 EUR
 inStock: true
+prodname: Ratón óptico de Silueta de Manhattan 177627 pc Ratón  PC/Mac  2-Maneras
 ---
 
 Ahora mismo tienes [Ratón óptico de Silueta de Manhattan 177627 pc Ratón  PC/Mac  2-Maneras](https://www.amazon.es/dp/B004TTWZSS/?tag=tolees-21) a 5.69 EUR (original: 9.86 EUR) (42.29 %  de descuento) en el siguiente enlace!

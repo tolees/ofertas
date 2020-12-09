@@ -10,8 +10,11 @@ author: ring
 slug: B084DRPMK4
 description:
 actualPrice: 9.05 EUR
+currency: EUR
+price: 9.05
 comparePrice: 12.9 EUR
 inStock: true
+prodname: Lékué - Mug To Go  Taza plegable reutilizable  100% hermética  350 ml  Polipropileno  Gris
 ---
 
 Está [Lékué - Mug To Go  Taza plegable reutilizable  100% hermética  350 ml  Polipropileno  Gris](https://www.amazon.es/dp/B084DRPMK4/?tag=tolees-21) con 29.84 de descuento por 9.05 EUR (original: 12.9 EUR) en el siguiente enlace!

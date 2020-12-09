@@ -10,8 +10,11 @@ author: ring
 slug: B08BG5GMB3
 description:
 actualPrice: 115.99 EUR
+currency: EUR
+price: 115.99
 comparePrice: 217.99 EUR
 inStock: true
+prodname: Samsung Galaxy A31 4GB/64GB Negro Dual SIM A315
 ---
 
 Ahora mismo tienes [Samsung Galaxy A31 4GB/64GB Negro Dual SIM A315](https://www.amazon.es/dp/B08BG5GMB3/?tag=tolees-21) a 115.99 EUR (original: 217.99 EUR) (46.79 %  de descuento) en el siguiente enlace!

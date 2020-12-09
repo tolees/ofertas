@@ -10,8 +10,11 @@ author: ring
 slug: B07KB34BND
 description:
 actualPrice: 53.45 EUR
+currency: EUR
+price: 53.45
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW ARC 3D Mid Skinny Wmn Vaqueros  Azul  Medium Aged 8968-071   W31/L36  Talla del Fabricante: 31W / 36L  para Mujer
 ---
 
 Tienes [G-STAR RAW ARC 3D Mid Skinny Wmn Vaqueros  Azul  Medium Aged 8968-071   W31/L36  Talla del Fabricante: 31W / 36L  para Mujer](https://www.amazon.es/dp/B07KB34BND/?tag=tolees-21) con un 46.52 % de descuento con precio de oferta de 53.45 EUR (original: 99.95 EUR) en el siguiente enlace!

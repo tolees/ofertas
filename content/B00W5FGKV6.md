@@ -10,8 +10,11 @@ author: ring
 slug: B00W5FGKV6
 description:
 actualPrice: 21.12 EUR
+currency: EUR
+price: 21.12
 comparePrice: 117.05 EUR
 inStock: true
+prodname: Lee Luke - Pantalones para hombre  Grau  Charcoal 2   W26x32L
 ---
 
 Está [Lee Luke - Pantalones para hombre  Grau  Charcoal 2   W26x32L](https://www.amazon.es/dp/B00W5FGKV6/?tag=tolees-21) con 81.96 de descuento por 21.12 EUR (original: 117.05 EUR) en el siguiente enlace!

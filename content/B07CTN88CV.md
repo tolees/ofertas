@@ -10,8 +10,11 @@ author: ring
 slug: B07CTN88CV
 description:
 actualPrice: 32.34 EUR
+currency: EUR
+price: 32.34
 comparePrice: 65 EUR
 inStock: true
+prodname: Under Armour Surge Se  Zapatillas de Running para Hombre  Gris  Jet Gray/White/Barn 101   44/45 EU
 ---
 
 Está [Under Armour Surge Se  Zapatillas de Running para Hombre  Gris  Jet Gray/White/Barn 101   44/45 EU](https://www.amazon.es/dp/B07CTN88CV/?tag=tolees-21) con 50.25 de descuento por 32.34 EUR (original: 65 EUR) en el siguiente enlace!

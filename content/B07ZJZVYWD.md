@@ -10,8 +10,11 @@ author: ring
 slug: B07ZJZVYWD
 description:
 actualPrice: 68.39 EUR
+currency: EUR
+price: 68.39
 comparePrice: 93.26 EUR
 inStock: true
+prodname: Duérmete Online - Colchón Viscoelástico Pocket Visco Reversible  Cara Invierno-Verano  Firmeza-dureza Alta  Muy Transpirable  90x200
 ---
 
 Ahora mismo tienes [Duérmete Online - Colchón Viscoelástico Pocket Visco Reversible  Cara Invierno-Verano  Firmeza-dureza Alta  Muy Transpirable  90x200](https://www.amazon.es/dp/B07ZJZVYWD/?tag=tolees-21) a 68.39 EUR (original: 93.26 EUR) (26.67 %  de descuento) en el siguiente enlace!

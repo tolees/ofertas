@@ -10,8 +10,11 @@ author: ring
 slug: B07DFR9HVS
 description:
 actualPrice: 53 EUR
+currency: EUR
+price: 53
 comparePrice: 100 EUR
 inStock: true
+prodname: New Balance 574  Zapatillas para Hombre  Azul  Pigment EPA   40.5 EU  Talla Fabricante: 7 UK 
 ---
 
 Tienes [New Balance 574  Zapatillas para Hombre  Azul  Pigment EPA   40.5 EU  Talla Fabricante: 7 UK ](https://www.amazon.es/dp/B07DFR9HVS/?tag=tolees-21) con un 47.00 % de descuento con precio de oferta de 53 EUR (original: 100 EUR) en el siguiente enlace!

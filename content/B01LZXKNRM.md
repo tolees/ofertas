@@ -10,8 +10,11 @@ author: ring
 slug: B01LZXKNRM
 description:
 actualPrice: 8.37 EUR
+currency: EUR
+price: 8.37
 comparePrice: 12.84 EUR
 inStock: true
+prodname: ZEP Caracas White Portafotos Múltiple  Blanco  10x15
 ---
 
 Está [ZEP Caracas White Portafotos Múltiple  Blanco  10x15](https://www.amazon.es/dp/B01LZXKNRM/?tag=tolees-21) con 34.81 de descuento por 8.37 EUR (original: 12.84 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MRPPV4L
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 22 EUR
 inStock: true
+prodname: Dakine Cinch Mochila  Unisex Adulto  Negro  Talla Única
 ---
 
 Ahora mismo tienes [Dakine Cinch Mochila  Unisex Adulto  Negro  Talla Única](https://www.amazon.es/dp/B01MRPPV4L/?tag=tolees-21) a 14.95 EUR (original: 22 EUR) (32.05 %  de descuento) en el siguiente enlace!

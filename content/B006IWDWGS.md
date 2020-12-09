@@ -10,8 +10,11 @@ author: ring
 slug: B006IWDWGS
 description:
 actualPrice: 129.9 EUR
+currency: EUR
+price: 129.9
 comparePrice: 279.0 EUR
 inStock: true
+prodname: Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero Inoxidable MK5605
 ---
 
 Tienes [Michael Kors Reloj Cronógrafo para Mujer de Cuarzo con Correa en Acero Inoxidable MK5605](https://www.amazon.es/dp/B006IWDWGS/?tag=tolees-21) con un 53.44 % de descuento con precio de oferta de 129.9 EUR (original: 279.0 EUR) en el siguiente enlace!

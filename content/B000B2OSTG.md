@@ -10,8 +10,11 @@ author: ring
 slug: B000B2OSTG
 description:
 actualPrice: 41.95 EUR
+currency: EUR
+price: 41.95
 comparePrice: 82.49 EUR
 inStock: true
+prodname: Reebok NPC II  Zapatillas para Hombre  Negro  47 EU
 ---
 
 Tienes [Reebok NPC II  Zapatillas para Hombre  Negro  47 EU](https://www.amazon.es/dp/B000B2OSTG/?tag=tolees-21) con un 49.15 % de descuento con precio de oferta de 41.95 EUR (original: 82.49 EUR) en el siguiente enlace!

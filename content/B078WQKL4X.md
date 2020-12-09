@@ -10,8 +10,11 @@ author: ring
 slug: B078WQKL4X
 description:
 actualPrice: 84.99 EUR
+currency: EUR
+price: 84.99
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Samsung EVO m-SATA - Disco Estado Solido SSD  500 GB  550 megabytes/s  Color Negro
 ---
 
 Ahora mismo tienes [Samsung EVO m-SATA - Disco Estado Solido SSD  500 GB  550 megabytes/s  Color Negro](https://www.amazon.es/dp/B078WQKL4X/?tag=tolees-21) a 84.99 EUR (original: 199.99 EUR) (57.50 %  de descuento) en el siguiente enlace!

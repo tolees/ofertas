@@ -10,8 +10,11 @@ author: ring
 slug: B07GNFCKLC
 description:
 actualPrice: 15.81 EUR
+currency: EUR
+price: 15.81
 comparePrice: 34.11 EUR
 inStock: true
+prodname: LifeWheel - Calcetines de deporte - para hombre Multicolor A1 Style 6 Pairs  Medium
 ---
 
 Ahora mismo tienes [LifeWheel - Calcetines de deporte - para hombre Multicolor A1 Style 6 Pairs  Medium](https://www.amazon.es/dp/B07GNFCKLC/?tag=tolees-21) a 15.81 EUR (original: 34.11 EUR) (53.65 %  de descuento) en el siguiente enlace!

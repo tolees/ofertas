@@ -10,8 +10,11 @@ author: ring
 slug: B00CYN0KEW
 description:
 actualPrice: 9.55 EUR
+currency: EUR
+price: 9.55
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Ultrasport Mikrofaser-Team-Shorts Mike Pantalones Cortos  Hombre  Blanco  XL
 ---
 
 Está [Ultrasport Mikrofaser-Team-Shorts Mike Pantalones Cortos  Hombre  Blanco  XL](https://www.amazon.es/dp/B00CYN0KEW/?tag=tolees-21) con 61.72 de descuento por 9.55 EUR (original: 24.95 EUR) en el siguiente enlace!

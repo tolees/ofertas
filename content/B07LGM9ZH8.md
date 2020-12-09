@@ -10,8 +10,11 @@ author: ring
 slug: B07LGM9ZH8
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.45 EUR
 inStock: true
+prodname: Presentador Ultraligero Inalámbrico Profesional 2.4GHz Doosl Puntero Laser Presentaciones para Conferencias  Reuniones  Informes  PowerPoint  etc. Compatibilidad Universal
 ---
 
 Está [Presentador Ultraligero Inalámbrico Profesional 2.4GHz Doosl Puntero Laser Presentaciones para Conferencias  Reuniones  Informes  PowerPoint  etc. Compatibilidad Universal](https://www.amazon.es/dp/B07LGM9ZH8/?tag=tolees-21) con 33.21 de descuento por 12.99 EUR (original: 19.45 EUR) en el siguiente enlace!

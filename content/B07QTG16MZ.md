@@ -10,8 +10,11 @@ author: ring
 slug: B07QTG16MZ
 description:
 actualPrice: 13.98 EUR
+currency: EUR
+price: 13.98
 comparePrice: 22.98 EUR
 inStock: true
+prodname: Joinfun Mujeres Camisetas sin Mangas Tank Top  botón Strappy Sexy Casual sin Mangas Blusa Cami Camisas Camiseta Chaleco Tops para Mujeres Dama  Rosado  S 
 ---
 
 Está [Joinfun Mujeres Camisetas sin Mangas Tank Top  botón Strappy Sexy Casual sin Mangas Blusa Cami Camisas Camiseta Chaleco Tops para Mujeres Dama  Rosado  S ](https://www.amazon.es/dp/B07QTG16MZ/?tag=tolees-21) con 39.16 de descuento por 13.98 EUR (original: 22.98 EUR) en el siguiente enlace!

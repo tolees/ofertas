@@ -10,8 +10,11 @@ author: ring
 slug: B00CHNREYS
 description:
 actualPrice: 82.99 EUR
+currency: EUR
+price: 82.99
 comparePrice: 159.88 EUR
 inStock: true
+prodname: Manfrotto MVH500AH - Rótula para trípode Negro y Rojo
 ---
 
 Ahora mismo tienes [Manfrotto MVH500AH - Rótula para trípode Negro y Rojo](https://www.amazon.es/dp/B00CHNREYS/?tag=tolees-21) a 82.99 EUR (original: 159.88 EUR) (48.09 %  de descuento) en el siguiente enlace!

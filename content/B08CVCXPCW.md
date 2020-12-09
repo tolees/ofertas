@@ -10,8 +10,11 @@ author: ring
 slug: B08CVCXPCW
 description:
 actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
 comparePrice: 39.95 EUR
 inStock: true
+prodname: XTI - Zapatilla Casual para Mujer - Cierre con Cordones - Color Blanco - Talla 40
 ---
 
 Está [XTI - Zapatilla Casual para Mujer - Cierre con Cordones - Color Blanco - Talla 40](https://www.amazon.es/dp/B08CVCXPCW/?tag=tolees-21) con 37.55 de descuento por 24.95 EUR (original: 39.95 EUR) en el siguiente enlace!

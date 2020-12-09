@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ4CLHK
 description:
 actualPrice: 6.54 EUR
+currency: EUR
+price: 6.54
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Springfield Messenger Daily  Bolso de mano para Hombre   Gamma Azules   10x10x10 cm  W x H x L 
 ---
 
 Ahora mismo tienes [Springfield Messenger Daily  Bolso de mano para Hombre   Gamma Azules   10x10x10 cm  W x H x L ](https://www.amazon.es/dp/B07KZ4CLHK/?tag=tolees-21) a 6.54 EUR (original: 39.99 EUR) (83.65 %  de descuento) en el siguiente enlace!

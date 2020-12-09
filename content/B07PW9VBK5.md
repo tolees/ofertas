@@ -10,8 +10,11 @@ author: ring
 slug: B07PW9VBK5
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Fire TV Stick 4K Ultra HD con mando por voz Alexa de última generación | Reproductor de contenido multimedia en streaming
 ---
 
 Está [Fire TV Stick 4K Ultra HD con mando por voz Alexa de última generación | Reproductor de contenido multimedia en streaming](https://www.amazon.es/dp/B07PW9VBK5/?tag=tolees-21) con 33.34 de descuento por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!

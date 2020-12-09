@@ -10,8 +10,11 @@ author: ring
 slug: B073WXJLJ4
 description:
 actualPrice: 20.96 EUR
+currency: EUR
+price: 20.96
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Vero Moda Vmagoura LS Cardigan A  Chaqueta Punto Mujer  Blanco  Snow White Detail:Charcoal Gray/Oatmeal Melange   40  Talla del Fabricante: Large 
 ---
 
 Está [Vero Moda Vmagoura LS Cardigan A  Chaqueta Punto Mujer  Blanco  Snow White Detail:Charcoal Gray/Oatmeal Melange   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B073WXJLJ4/?tag=tolees-21) con 47.59 de descuento por 20.96 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01L8MW5EW
 description:
 actualPrice: 44.67 EUR
+currency: EUR
+price: 44.67
 comparePrice: 69.99 EUR
 inStock: true
+prodname: CamelBak 1110001900 Pack de hidratación  Unisex Adulto  Negro  No No aplicable
 ---
 
 Tienes [CamelBak 1110001900 Pack de hidratación  Unisex Adulto  Negro  No No aplicable](https://www.amazon.es/dp/B01L8MW5EW/?tag=tolees-21) con un 36.18 % de descuento con precio de oferta de 44.67 EUR (original: 69.99 EUR) en el siguiente enlace!

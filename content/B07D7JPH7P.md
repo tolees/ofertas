@@ -10,8 +10,11 @@ author: ring
 slug: B07D7JPH7P
 description:
 actualPrice: 133.45 EUR
+currency: EUR
+price: 133.45
 comparePrice: 279.9 EUR
 inStock: true
+prodname: Dolores Promesas 107364  Vestido para Mujer  Marrón  Grana    Tamaño del Fabricante:38 
 ---
 
 Está [Dolores Promesas 107364  Vestido para Mujer  Marrón  Grana    Tamaño del Fabricante:38 ](https://www.amazon.es/dp/B07D7JPH7P/?tag=tolees-21) con 52.32 de descuento por 133.45 EUR (original: 279.9 EUR) en el siguiente enlace!

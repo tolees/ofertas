@@ -10,8 +10,11 @@ author: ring
 slug: B07CH1GHFG
 description:
 actualPrice: 39 EUR
+currency: EUR
+price: 39
 comparePrice: 56.9 EUR
 inStock: true
+prodname: Xiaomi Bedside 10W Oro  Plata lámpara de Mesa
 ---
 
 Está [Xiaomi Bedside 10W Oro  Plata lámpara de Mesa](https://www.amazon.es/dp/B07CH1GHFG/?tag=tolees-21) con 31.46 de descuento por 39 EUR (original: 56.9 EUR) en el siguiente enlace!

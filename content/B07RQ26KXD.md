@@ -10,8 +10,11 @@ author: ring
 slug: B07RQ26KXD
 description:
 actualPrice: 9.0 EUR
+currency: EUR
+price: 9.0
 comparePrice: 14.99 EUR
 inStock: true
+prodname: LOL Surprise - Lil s Winter - Modelos Surtidos  Giochi Preziosi LLU85000 
 ---
 
 Ahora mismo tienes [LOL Surprise - Lil s Winter - Modelos Surtidos  Giochi Preziosi LLU85000 ](https://www.amazon.es/dp/B07RQ26KXD/?tag=tolees-21) a 9.0 EUR (original: 14.99 EUR) (39.96 %  de descuento) en el siguiente enlace!

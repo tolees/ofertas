@@ -10,8 +10,11 @@ author: ring
 slug: B07MYYXJYJ
 description:
 actualPrice: 7.74 EUR
+currency: EUR
+price: 7.74
 comparePrice: 21.9 EUR
 inStock: true
+prodname: Relaxdays Cartas Póker Impermeables  Baraja Resistente al Agua  54 Naipes  Texas Hold em  Profesional  Plástico  1 Ud  Multicolor  10023628 
 ---
 
 Tienes [Relaxdays Cartas Póker Impermeables  Baraja Resistente al Agua  54 Naipes  Texas Hold em  Profesional  Plástico  1 Ud  Multicolor  10023628 ](https://www.amazon.es/dp/B07MYYXJYJ/?tag=tolees-21) con un 64.66 % de descuento con precio de oferta de 7.74 EUR (original: 21.9 EUR) en el siguiente enlace!

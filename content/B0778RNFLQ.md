@@ -10,8 +10,11 @@ author: ring
 slug: B0778RNFLQ
 description:
 actualPrice: 14.58 EUR
+currency: EUR
+price: 14.58
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Kappa Follow  Zapatillas Unisex Adulto  Azul  Navy/White 6710   36 EU
 ---
 
 Tienes [Kappa Follow  Zapatillas Unisex Adulto  Azul  Navy/White 6710   36 EU](https://www.amazon.es/dp/B0778RNFLQ/?tag=tolees-21) con un 67.56 % de descuento con precio de oferta de 14.58 EUR (original: 44.95 EUR) en el siguiente enlace!

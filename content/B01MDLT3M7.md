@@ -10,8 +10,11 @@ author: ring
 slug: B01MDLT3M7
 description:
 actualPrice: 43.0 EUR
+currency: EUR
+price: 43.0
 comparePrice: 69.0 EUR
 inStock: true
+prodname: Ice-Watch - ICE sixty nine Dark blue - Reloj blu para Hombre  Unisex  con Correa de silicona - 007278  Medium 
 ---
 
 Ahora mismo tienes [Ice-Watch - ICE sixty nine Dark blue - Reloj blu para Hombre  Unisex  con Correa de silicona - 007278  Medium ](https://www.amazon.es/dp/B01MDLT3M7/?tag=tolees-21) a 43.0 EUR (original: 69.0 EUR) (37.68 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KJY8JTQ
 description:
 actualPrice: 17.9 EUR
+currency: EUR
+price: 17.9
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Quiksilver Everyday Shorts  Hombre  Real Teal  XL
 ---
 
 Está [Quiksilver Everyday Shorts  Hombre  Real Teal  XL](https://www.amazon.es/dp/B07KJY8JTQ/?tag=tolees-21) con 40.31 de descuento por 17.9 EUR (original: 29.99 EUR) en el siguiente enlace!

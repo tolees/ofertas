@@ -10,8 +10,11 @@ author: ring
 slug: B078YKBGYZ
 description:
 actualPrice: 38.49 EUR
+currency: EUR
+price: 38.49
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Mario Tennis Aces
 ---
 
 Está [Mario Tennis Aces](https://www.amazon.es/dp/B078YKBGYZ/?tag=tolees-21) con 35.84 de descuento por 38.49 EUR (original: 59.99 EUR) en el siguiente enlace!

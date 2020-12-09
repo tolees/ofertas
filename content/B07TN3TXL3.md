@@ -10,8 +10,11 @@ author: ring
 slug: B07TN3TXL3
 description:
 actualPrice: 16.3 EUR
+currency: EUR
+price: 16.3
 comparePrice: 29.99 EUR
 inStock: true
+prodname: JACK & JONES 12152840 Sudadera con capucha  Gris  Light Melange   M para Hombre
 ---
 
 Está [JACK & JONES 12152840 Sudadera con capucha  Gris  Light Melange   M para Hombre](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21) con 45.65 de descuento por 16.3 EUR (original: 29.99 EUR) en el siguiente enlace!

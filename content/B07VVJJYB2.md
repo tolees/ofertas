@@ -10,8 +10,11 @@ author: ring
 slug: B07VVJJYB2
 description:
 actualPrice: 5.17 EUR
+currency: EUR
+price: 5.17
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Licitn Plancha de Pelo Barba- Alisador Barba Hombres  Peine de Peinado Rápido Profesional para Cabello Barba
 ---
 
 Está [Licitn Plancha de Pelo Barba- Alisador Barba Hombres  Peine de Peinado Rápido Profesional para Cabello Barba](https://www.amazon.es/dp/B07VVJJYB2/?tag=tolees-21) con 65.51 de descuento por 5.17 EUR (original: 14.99 EUR) en el siguiente enlace!

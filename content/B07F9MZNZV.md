@@ -10,8 +10,11 @@ author: ring
 slug: B07F9MZNZV
 description:
 actualPrice: 72.92 EUR
+currency: EUR
+price: 72.92
 comparePrice: 139 EUR
 inStock: true
+prodname: Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F16826/D
 ---
 
 Ahora mismo tienes [Festina Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable F16826/D](https://www.amazon.es/dp/B07F9MZNZV/?tag=tolees-21) a 72.92 EUR (original: 139 EUR) (47.54 %  de descuento) en el siguiente enlace!

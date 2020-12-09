@@ -10,8 +10,11 @@ author: ring
 slug: B07FGYRJSR
 description:
 actualPrice: 46.58 EUR
+currency: EUR
+price: 46.58
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Columbia Horizon Explorer Jacket Chaqueta  Hombre  Dark Mountain/Bright Copper  Talla XXL
 ---
 
 Ahora mismo tienes [Columbia Horizon Explorer Jacket Chaqueta  Hombre  Dark Mountain/Bright Copper  Talla XXL](https://www.amazon.es/dp/B07FGYRJSR/?tag=tolees-21) a 46.58 EUR (original: 149.99 EUR) (68.94 %  de descuento) en el siguiente enlace!

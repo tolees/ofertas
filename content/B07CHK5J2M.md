@@ -10,8 +10,11 @@ author: ring
 slug: B07CHK5J2M
 description:
 actualPrice: 2.45 EUR
+currency: EUR
+price: 2.45
 comparePrice: 8.2 EUR
 inStock: true
+prodname: SYOSS - Acondicionador Rizos Pro - Definición e hidratación - 500ml
 ---
 
 Está [SYOSS - Acondicionador Rizos Pro - Definición e hidratación - 500ml](https://www.amazon.es/dp/B07CHK5J2M/?tag=tolees-21) con 70.12 de descuento por 2.45 EUR (original: 8.2 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07XQTXZLK
 description:
 actualPrice: 149.0 EUR
+currency: EUR
+price: 149.0
 comparePrice: 249.0 EUR
 inStock: true
+prodname: Hoover H-Free 800 HF822LHC Aspiradora Escoba sin Cable  35 min autonomía  Moto Inverter  Ciclónico  Set Completo de Accesorios  Hogar y Coche  Batería Ion Litio 22 V  3 Velocidades  Azul Iluminado
 ---
 
 Ahora mismo tienes [Hoover H-Free 800 HF822LHC Aspiradora Escoba sin Cable  35 min autonomía  Moto Inverter  Ciclónico  Set Completo de Accesorios  Hogar y Coche  Batería Ion Litio 22 V  3 Velocidades  Azul Iluminado](https://www.amazon.es/dp/B07XQTXZLK/?tag=tolees-21) a 149.0 EUR (original: 249.0 EUR) (40.16 %  de descuento) en el siguiente enlace!

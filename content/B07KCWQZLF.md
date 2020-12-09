@@ -10,8 +10,11 @@ author: ring
 slug: B07KCWQZLF
 description:
 actualPrice: 22.25 EUR
+currency: EUR
+price: 22.25
 comparePrice: 60 EUR
 inStock: true
+prodname: Hurley M Phantom Dot Rise 18  BAÑADORES  Hombre  Obsidian  38
 ---
 
 Ahora mismo tienes [Hurley M Phantom Dot Rise 18  BAÑADORES  Hombre  Obsidian  38](https://www.amazon.es/dp/B07KCWQZLF/?tag=tolees-21) a 22.25 EUR (original: 60 EUR) (62.92 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FPXF48D
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 49.99 EUR
 inStock: true
+prodname: JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W30/L36
 ---
 
 Tienes [JACK & JONES Jjitim Jjoriginal Am 781 50sps Noos  Vaqueros Slim para Hombre  Azul Blue Denim  W30/L36](https://www.amazon.es/dp/B07FPXF48D/?tag=tolees-21) con un 30.09 % de descuento con precio de oferta de 34.95 EUR (original: 49.99 EUR) en el siguiente enlace!

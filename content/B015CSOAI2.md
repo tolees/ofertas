@@ -10,8 +10,11 @@ author: ring
 slug: B015CSOAI2
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: 1 x cabezal de cepillo E-Cron. Cabezal de cepillo compatible para la limpieza facial antiacné de Clarisonic  Acne .
 ---
 
 Está [1 x cabezal de cepillo E-Cron. Cabezal de cepillo compatible para la limpieza facial antiacné de Clarisonic  Acne .](https://www.amazon.es/dp/B015CSOAI2/?tag=tolees-21) con 37.52 de descuento por 9.99 EUR (original: 15.99 EUR) en el siguiente enlace!

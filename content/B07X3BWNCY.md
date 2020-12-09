@@ -10,8 +10,11 @@ author: ring
 slug: B07X3BWNCY
 description:
 actualPrice: 8.88 EUR
+currency: EUR
+price: 8.88
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Rodillo de Jade  TURATA Facial Masaje Piedra Gua Sha Jade  Antienvejecedor Belleza Natural Dispositivo Herramienta  Rejuvenece La Piel De La Cara Cuello y Cuerpo  Piel Que Aprieta
 ---
 
 Está [Rodillo de Jade  TURATA Facial Masaje Piedra Gua Sha Jade  Antienvejecedor Belleza Natural Dispositivo Herramienta  Rejuvenece La Piel De La Cara Cuello y Cuerpo  Piel Que Aprieta](https://www.amazon.es/dp/B07X3BWNCY/?tag=tolees-21) con 55.58 de descuento por 8.88 EUR (original: 19.99 EUR) en el siguiente enlace!

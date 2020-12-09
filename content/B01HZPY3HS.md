@@ -10,8 +10,11 @@ author: ring
 slug: B01HZPY3HS
 description:
 actualPrice: 46.02 EUR
+currency: EUR
+price: 46.02
 comparePrice: 140 EUR
 inStock: true
+prodname: Urban Leather UR-13 Chaqueta de Caballero  Navy Azul  Talla 2XL
 ---
 
 Tienes [Urban Leather UR-13 Chaqueta de Caballero  Navy Azul  Talla 2XL](https://www.amazon.es/dp/B01HZPY3HS/?tag=tolees-21) con un 67.13 % de descuento con precio de oferta de 46.02 EUR (original: 140 EUR) en el siguiente enlace!

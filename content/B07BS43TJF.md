@@ -10,8 +10,11 @@ author: ring
 slug: B07BS43TJF
 description:
 actualPrice: 89.4 EUR
+currency: EUR
+price: 89.4
 comparePrice: 149 EUR
 inStock: true
+prodname: DAGOSTINO HOME - Colchón Viscoelástico DIAMANTE 140 X 190 X 20 cm - Reversible - Fabricado en España -  Todas las medidas 
 ---
 
 Está [DAGOSTINO HOME - Colchón Viscoelástico DIAMANTE 140 X 190 X 20 cm - Reversible - Fabricado en España -  Todas las medidas ](https://www.amazon.es/dp/B07BS43TJF/?tag=tolees-21) con 40.00 de descuento por 89.4 EUR (original: 149 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01ERVNDHY
 description:
 actualPrice: 14 EUR
+currency: EUR
+price: 14
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Joma Elite V  Pantalones Cortos  Unisex Adulto  Azul Marino  M
 ---
 
 Tienes [Joma Elite V  Pantalones Cortos  Unisex Adulto  Azul Marino  M](https://www.amazon.es/dp/B01ERVNDHY/?tag=tolees-21) con un 29.82 % de descuento con precio de oferta de 14 EUR (original: 19.95 EUR) en el siguiente enlace!

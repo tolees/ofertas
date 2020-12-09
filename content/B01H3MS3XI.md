@@ -10,8 +10,11 @@ author: ring
 slug: B01H3MS3XI
 description:
 actualPrice: 7.62 EUR
+currency: EUR
+price: 7.62
 comparePrice: 16.36 EUR
 inStock: true
+prodname: Fruit of the Loom Boxer Shorts Calzoncillos  White  M para Hombre
 ---
 
 Tienes [Fruit of the Loom Boxer Shorts Calzoncillos  White  M para Hombre](https://www.amazon.es/dp/B01H3MS3XI/?tag=tolees-21) con un 53.42 % de descuento con precio de oferta de 7.62 EUR (original: 16.36 EUR) en el siguiente enlace!

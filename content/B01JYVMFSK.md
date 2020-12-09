@@ -10,8 +10,11 @@ author: ring
 slug: B01JYVMFSK
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 89.98 EUR
 inStock: true
+prodname: J.Vénus Mujer Joyeria "Latido del corazón" Collares  45cm  regalo ideal el día de San Valentín  cumpleaños
 ---
 
 Está [J.Vénus Mujer Joyeria "Latido del corazón" Collares  45cm  regalo ideal el día de San Valentín  cumpleaños](https://www.amazon.es/dp/B01JYVMFSK/?tag=tolees-21) con 64.45 de descuento por 31.99 EUR (original: 89.98 EUR) en el siguiente enlace!

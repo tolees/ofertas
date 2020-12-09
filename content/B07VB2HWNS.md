@@ -10,8 +10,11 @@ author: ring
 slug: B07VB2HWNS
 description:
 actualPrice: 10.95 EUR
+currency: EUR
+price: 10.95
 comparePrice: 15.8 EUR
 inStock: true
+prodname: NYX Professional Makeup Spray fijador Makeup Setting Spray  Larga duración  Ligero  Fórmula vegana  Acabado Dewy  hidratado   Pack doble  60 ml
 ---
 
 Está [NYX Professional Makeup Spray fijador Makeup Setting Spray  Larga duración  Ligero  Fórmula vegana  Acabado Dewy  hidratado   Pack doble  60 ml](https://www.amazon.es/dp/B07VB2HWNS/?tag=tolees-21) con 30.70 de descuento por 10.95 EUR (original: 15.8 EUR) en el siguiente enlace!

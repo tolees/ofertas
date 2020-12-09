@@ -10,8 +10,11 @@ author: ring
 slug: B01LYOF9HK
 description:
 actualPrice: 52.87 EUR
+currency: EUR
+price: 52.87
 comparePrice: 129 EUR
 inStock: true
+prodname: Geographical Norway WN060H  Chaqueta de Videojuegos para Hombre  Rojo M
 ---
 
 Ahora mismo tienes [Geographical Norway WN060H  Chaqueta de Videojuegos para Hombre  Rojo M](https://www.amazon.es/dp/B01LYOF9HK/?tag=tolees-21) a 52.87 EUR (original: 129 EUR) (59.02 %  de descuento) en el siguiente enlace!

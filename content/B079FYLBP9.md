@@ -10,8 +10,11 @@ author: ring
 slug: B079FYLBP9
 description:
 actualPrice: 111.9 EUR
+currency: EUR
+price: 111.9
 comparePrice: 179.0 EUR
 inStock: true
+prodname: Candy MIC211EX - Microondas integrable con grill  Capacidad 21L  Plato giratorio 24 5cm  Display digital  Potencia 800W-1000W  8 Programas  Acero inoxidable antihuellas
 ---
 
 Tienes [Candy MIC211EX - Microondas integrable con grill  Capacidad 21L  Plato giratorio 24 5cm  Display digital  Potencia 800W-1000W  8 Programas  Acero inoxidable antihuellas](https://www.amazon.es/dp/B079FYLBP9/?tag=tolees-21) con un 37.49 % de descuento con precio de oferta de 111.9 EUR (original: 179.0 EUR) en el siguiente enlace!

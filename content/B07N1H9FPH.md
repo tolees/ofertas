@@ -10,8 +10,11 @@ author: ring
 slug: B07N1H9FPH
 description:
 actualPrice: 68.17 EUR
+currency: EUR
+price: 68.17
 comparePrice: 120.0 EUR
 inStock: true
+prodname: Clarks Sheer Flora  Botas Chelsea Mujer  Multicolor  Leopard Print Leopard Print   38 EU
 ---
 
 Está [Clarks Sheer Flora  Botas Chelsea Mujer  Multicolor  Leopard Print Leopard Print   38 EU](https://www.amazon.es/dp/B07N1H9FPH/?tag=tolees-21) con 43.19 de descuento por 68.17 EUR (original: 120.0 EUR) en el siguiente enlace!

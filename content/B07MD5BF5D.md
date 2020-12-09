@@ -10,8 +10,11 @@ author: ring
 slug: B07MD5BF5D
 description:
 actualPrice: 8.89 EUR
+currency: EUR
+price: 8.89
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Armónica  Mugig Harmonica de Blues 10 Agujeros 20 Tonos  Clave de C para Principiantes  Estilo Clásico  con Estuche y paño de Limpieza
 ---
 
 Tienes [Armónica  Mugig Harmonica de Blues 10 Agujeros 20 Tonos  Clave de C para Principiantes  Estilo Clásico  con Estuche y paño de Limpieza](https://www.amazon.es/dp/B07MD5BF5D/?tag=tolees-21) con un 31.56 % de descuento con precio de oferta de 8.89 EUR (original: 12.99 EUR) en el siguiente enlace!

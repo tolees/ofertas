@@ -10,8 +10,11 @@ author: ring
 slug: B01CZQ4EUI
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 33.26 EUR
 inStock: true
+prodname: Menton Ezil Reina 18K Oro Blanco Pulsera con Elemento Swarovski Cristal de Brazalete Bisagra Ajustable Diseño Elegante para Mujer
 ---
 
 Ahora mismo tienes [Menton Ezil Reina 18K Oro Blanco Pulsera con Elemento Swarovski Cristal de Brazalete Bisagra Ajustable Diseño Elegante para Mujer](https://www.amazon.es/dp/B01CZQ4EUI/?tag=tolees-21) a 14.99 EUR (original: 33.26 EUR) (54.93 %  de descuento) en el siguiente enlace!

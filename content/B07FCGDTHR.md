@@ -10,8 +10,11 @@ author: ring
 slug: B07FCGDTHR
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 76.99 EUR
 inStock: true
+prodname: Aspirador ciclonico para hogar sin bolsa aspiradora de mano potente 800W
 ---
 
 Está [Aspirador ciclonico para hogar sin bolsa aspiradora de mano potente 800W](https://www.amazon.es/dp/B07FCGDTHR/?tag=tolees-21) con 48.06 de descuento por 39.99 EUR (original: 76.99 EUR) en el siguiente enlace!

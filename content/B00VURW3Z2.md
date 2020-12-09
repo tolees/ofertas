@@ -10,8 +10,11 @@ author: ring
 slug: B00VURW3Z2
 description:
 actualPrice: 30.06 EUR
+currency: EUR
+price: 30.06
 comparePrice: 85.0 EUR
 inStock: true
+prodname: Pepe Jeans Spike Vaqueros  Azul  Streaky Stretch Dk 000   28W/34L para Hombre
 ---
 
 Está [Pepe Jeans Spike Vaqueros  Azul  Streaky Stretch Dk 000   28W/34L para Hombre](https://www.amazon.es/dp/B00VURW3Z2/?tag=tolees-21) con 64.64 de descuento por 30.06 EUR (original: 85.0 EUR) en el siguiente enlace!

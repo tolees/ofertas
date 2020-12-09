@@ -10,8 +10,11 @@ author: ring
 slug: B07MZJGDT6
 description:
 actualPrice: 14.98 EUR
+currency: EUR
+price: 14.98
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Tuc Tuc Camiseta Punto+Bermuda Felpa NIÑO Super Trademark  Conjunto de Ropa para Niños   Azul 16   134/140  Tamaño del Fabricante:8A 
 ---
 
 Tienes [Tuc Tuc Camiseta Punto+Bermuda Felpa NIÑO Super Trademark  Conjunto de Ropa para Niños   Azul 16   134/140  Tamaño del Fabricante:8A ](https://www.amazon.es/dp/B07MZJGDT6/?tag=tolees-21) con un 49.98 % de descuento con precio de oferta de 14.98 EUR (original: 29.95 EUR) en el siguiente enlace!

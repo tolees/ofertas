@@ -10,8 +10,11 @@ author: ring
 slug: B01LYFDDKN
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Exclusivo vibrador"Conejito" para el punto G y la estimulación del clítoris. Suave silicona. 7 programas  Incluye lubricante 250g
 ---
 
 Ahora mismo tienes [Exclusivo vibrador"Conejito" para el punto G y la estimulación del clítoris. Suave silicona. 7 programas  Incluye lubricante 250g](https://www.amazon.es/dp/B01LYFDDKN/?tag=tolees-21) a 29.95 EUR (original: 44.95 EUR) (33.37 %  de descuento) en el siguiente enlace!

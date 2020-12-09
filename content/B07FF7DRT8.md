@@ -10,8 +10,11 @@ author: ring
 slug: B07FF7DRT8
 description:
 actualPrice: 28.96 EUR
+currency: EUR
+price: 28.96
 comparePrice: 99 EUR
 inStock: true
+prodname: Superga 2730-nappaleau  Zapatillas de Gimnasia para Mujer   White-Cipria L80   35 EU
 ---
 
 Tienes [Superga 2730-nappaleau  Zapatillas de Gimnasia para Mujer   White-Cipria L80   35 EU](https://www.amazon.es/dp/B07FF7DRT8/?tag=tolees-21) con un 70.75 % de descuento con precio de oferta de 28.96 EUR (original: 99 EUR) en el siguiente enlace!

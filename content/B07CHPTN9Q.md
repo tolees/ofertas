@@ -10,8 +10,11 @@ author: ring
 slug: B07CHPTN9Q
 description:
 actualPrice: 22.59 EUR
+currency: EUR
+price: 22.59
 comparePrice: 69.99 EUR
 inStock: true
+prodname: ONLY Onlbex Lace Up Bootie  Botines para Mujer  Morado Burgundy  38 EU
 ---
 
 Tienes [ONLY Onlbex Lace Up Bootie  Botines para Mujer  Morado Burgundy  38 EU](https://www.amazon.es/dp/B07CHPTN9Q/?tag=tolees-21) con un 67.72 % de descuento con precio de oferta de 22.59 EUR (original: 69.99 EUR) en el siguiente enlace!

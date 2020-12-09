@@ -10,8 +10,11 @@ author: ring
 slug: B07TKXYRV3
 description:
 actualPrice: 43.99 EUR
+currency: EUR
+price: 43.99
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Vans Filmore  Sneaker para Hombre  Negro   Suede/Canvas  Black/White Iju   36 EU
 ---
 
 Ahora mismo tienes [Vans Filmore  Sneaker para Hombre  Negro   Suede/Canvas  Black/White Iju   36 EU](https://www.amazon.es/dp/B07TKXYRV3/?tag=tolees-21) a 43.99 EUR (original: 65.0 EUR) (32.32 %  de descuento) en el siguiente enlace!

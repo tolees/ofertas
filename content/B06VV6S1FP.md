@@ -10,8 +10,11 @@ author: ring
 slug: B06VV6S1FP
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 21.68 EUR
 inStock: true
+prodname: Enfriador de vino BOQO Aireador Decantador Vertedor 3-en-1 Inoxidable Enfriamiento
 ---
 
 Tienes [Enfriador de vino BOQO Aireador Decantador Vertedor 3-en-1 Inoxidable Enfriamiento](https://www.amazon.es/dp/B06VV6S1FP/?tag=tolees-21) con un 63.15 % de descuento con precio de oferta de 7.99 EUR (original: 21.68 EUR) en el siguiente enlace!

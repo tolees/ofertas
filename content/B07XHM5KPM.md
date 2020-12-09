@@ -10,8 +10,11 @@ author: ring
 slug: B07XHM5KPM
 description:
 actualPrice: 40.08 EUR
+currency: EUR
+price: 40.08
 comparePrice: 74.95 EUR
 inStock: true
+prodname: Skechers GO Run Pulse  Zapatillas Hombre  Negro Negro Negro Textil Sintético Borde Naranja Bkor  45.5
 ---
 
 Tienes [Skechers GO Run Pulse  Zapatillas Hombre  Negro Negro Negro Textil Sintético Borde Naranja Bkor  45.5](https://www.amazon.es/dp/B07XHM5KPM/?tag=tolees-21) con un 46.52 % de descuento con precio de oferta de 40.08 EUR (original: 74.95 EUR) en el siguiente enlace!

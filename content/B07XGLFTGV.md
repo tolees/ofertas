@@ -10,8 +10,11 @@ author: ring
 slug: B07XGLFTGV
 description:
 actualPrice: 55.31 EUR
+currency: EUR
+price: 55.31
 comparePrice: 74.95 EUR
 inStock: true
+prodname: Skechers GO Run Pulse  Zapatillas Hombre  Azul Azul Textil Sintético Borde Rojo Bl Rd  47
 ---
 
 Ahora mismo tienes [Skechers GO Run Pulse  Zapatillas Hombre  Azul Azul Textil Sintético Borde Rojo Bl Rd  47](https://www.amazon.es/dp/B07XGLFTGV/?tag=tolees-21) a 55.31 EUR (original: 74.95 EUR) (26.20 %  de descuento) en el siguiente enlace!

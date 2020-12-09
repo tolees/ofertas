@@ -10,8 +10,11 @@ author: ring
 slug: B07GFQ27PY
 description:
 actualPrice: 169 EUR
+currency: EUR
+price: 169
 comparePrice: 309 EUR
 inStock: true
+prodname: iLife V80 Robot Aspirador
 ---
 
 Está [iLife V80 Robot Aspirador](https://www.amazon.es/dp/B07GFQ27PY/?tag=tolees-21) con 45.31 de descuento por 169 EUR (original: 309 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B075GR9JTQ
 description:
 actualPrice: 6.63 EUR
+currency: EUR
+price: 6.63
 comparePrice: 21.99 EUR
 inStock: true
+prodname: Only Onlsally S/s Top Jrs  Camiseta Mujer  Verde  Military Olive   36  Talla del Fabricante: Small 
 ---
 
 Ahora mismo tienes [Only Onlsally S/s Top Jrs  Camiseta Mujer  Verde  Military Olive   36  Talla del Fabricante: Small ](https://www.amazon.es/dp/B075GR9JTQ/?tag=tolees-21) a 6.63 EUR (original: 21.99 EUR) (69.85 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00K5R9LCG
 description:
 actualPrice: 27.95 EUR
+currency: EUR
+price: 27.95
 comparePrice: 42.9 EUR
 inStock: true
+prodname: Tommy Hilfiger 3p Trunk Bóxer  Azul  Peacoat-Pt 409   Small  Pack de 3  para Hombre
 ---
 
 Tienes [Tommy Hilfiger 3p Trunk Bóxer  Azul  Peacoat-Pt 409   Small  Pack de 3  para Hombre](https://www.amazon.es/dp/B00K5R9LCG/?tag=tolees-21) con un 34.85 % de descuento con precio de oferta de 27.95 EUR (original: 42.9 EUR) en el siguiente enlace!

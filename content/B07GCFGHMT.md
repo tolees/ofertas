@@ -10,8 +10,11 @@ author: ring
 slug: B07GCFGHMT
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Auriculares con Bluetooth  BassPal Auriculares inalámbricos a Prueba de Agua IPX7 con micrófono  Bajos Auriculares Deportivos para Gimnasio Entrenamiento 9 Horas de cancelación de Ruido
 ---
 
 Está [Auriculares con Bluetooth  BassPal Auriculares inalámbricos a Prueba de Agua IPX7 con micrófono  Bajos Auriculares Deportivos para Gimnasio Entrenamiento 9 Horas de cancelación de Ruido](https://www.amazon.es/dp/B07GCFGHMT/?tag=tolees-21) con 78.76 de descuento por 16.99 EUR (original: 79.99 EUR) en el siguiente enlace!

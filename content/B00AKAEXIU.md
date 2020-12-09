@@ -10,8 +10,11 @@ author: ring
 slug: B00AKAEXIU
 description:
 actualPrice: 8.35 EUR
+currency: EUR
+price: 8.35
 comparePrice: 16 EUR
 inStock: true
+prodname: Chapuis MO325N Driza de poliéster - 200 kg - Diámetro 3 mm - Largo 25 m - Negro/naranja
 ---
 
 Ahora mismo tienes [Chapuis MO325N Driza de poliéster - 200 kg - Diámetro 3 mm - Largo 25 m - Negro/naranja](https://www.amazon.es/dp/B00AKAEXIU/?tag=tolees-21) a 8.35 EUR (original: 16 EUR) (47.81 %  de descuento) en el siguiente enlace!

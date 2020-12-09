@@ -10,8 +10,11 @@ author: ring
 slug: B08GX6WSH9
 description:
 actualPrice: 16.54 EUR
+currency: EUR
+price: 16.54
 comparePrice: 33.08 EUR
 inStock: true
+prodname: OBEEII Disfraz de Princesa Anna para niñas Reino de Hielo Vestidos de Carnaval Fiesta Halloween Cosplay Navidad Fancy Dress Up Costume Anna01 3-4 Años
 ---
 
 Tienes [OBEEII Disfraz de Princesa Anna para niñas Reino de Hielo Vestidos de Carnaval Fiesta Halloween Cosplay Navidad Fancy Dress Up Costume Anna01 3-4 Años](https://www.amazon.es/dp/B08GX6WSH9/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 16.54 EUR (original: 33.08 EUR) en el siguiente enlace!

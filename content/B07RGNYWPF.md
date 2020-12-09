@@ -10,8 +10,11 @@ author: ring
 slug: B07RGNYWPF
 description:
 actualPrice: 8.4 EUR
+currency: EUR
+price: 8.4
 comparePrice: 11.98 EUR
 inStock: true
+prodname: Raid - Trampas Cebo contra Hormigas  Efectivo contra La Colonia y Larvas [Pack de 2]
 ---
 
 Ahora mismo tienes [Raid - Trampas Cebo contra Hormigas  Efectivo contra La Colonia y Larvas [Pack de 2]](https://www.amazon.es/dp/B07RGNYWPF/?tag=tolees-21) a 8.4 EUR (original: 11.98 EUR) (29.88 %  de descuento) en el siguiente enlace!

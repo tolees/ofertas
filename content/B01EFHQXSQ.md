@@ -10,8 +10,11 @@ author: ring
 slug: B01EFHQXSQ
 description:
 actualPrice: 1.57 EUR
+currency: EUR
+price: 1.57
 comparePrice: 2.39 EUR
 inStock: true
+prodname: Fa - Desodorante Roll-On Pink Passion - 50ml
 ---
 
 Está [Fa - Desodorante Roll-On Pink Passion - 50ml](https://www.amazon.es/dp/B01EFHQXSQ/?tag=tolees-21) con 34.31 de descuento por 1.57 EUR (original: 2.39 EUR) en el siguiente enlace!

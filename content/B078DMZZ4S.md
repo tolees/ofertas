@@ -10,8 +10,11 @@ author: ring
 slug: B078DMZZ4S
 description:
 actualPrice: 10.31 EUR
+currency: EUR
+price: 10.31
 comparePrice: 20 EUR
 inStock: true
+prodname: Under Armour Big Logo Tee Solid  Camisa de Manga Corta para Niñas  Gris  Steel Light Heather/Venetian Blue/Academy   XS
 ---
 
 Está [Under Armour Big Logo Tee Solid  Camisa de Manga Corta para Niñas  Gris  Steel Light Heather/Venetian Blue/Academy   XS](https://www.amazon.es/dp/B078DMZZ4S/?tag=tolees-21) con 48.45 de descuento por 10.31 EUR (original: 20 EUR) en el siguiente enlace!

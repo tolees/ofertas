@@ -10,8 +10,11 @@ author: ring
 slug: B07CZJ7DBV
 description:
 actualPrice: 23.64 EUR
+currency: EUR
+price: 23.64
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Under Armour UA Qualifier Singlet Tanque  Hombre  Negro Black/Reflective 001  M
 ---
 
 Está [Under Armour UA Qualifier Singlet Tanque  Hombre  Negro Black/Reflective 001  M](https://www.amazon.es/dp/B07CZJ7DBV/?tag=tolees-21) con 47.45 de descuento por 23.64 EUR (original: 44.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07ZGHJ4B2
 description:
 actualPrice: 19.19 EUR
+currency: EUR
+price: 19.19
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Detector de Pared  TACKLIFE DMS03 4 en 1  Detector de Cable y Tuberia  Metal  Madera  Pantalla LCD Retroiluminada  Bolsa protectora  Adecuado para Ingenieros  Diseñadores y Trabajadores de Renovación
 ---
 
 Tienes [Detector de Pared  TACKLIFE DMS03 4 en 1  Detector de Cable y Tuberia  Metal  Madera  Pantalla LCD Retroiluminada  Bolsa protectora  Adecuado para Ingenieros  Diseñadores y Trabajadores de Renovación](https://www.amazon.es/dp/B07ZGHJ4B2/?tag=tolees-21) con un 36.01 % de descuento con precio de oferta de 19.19 EUR (original: 29.99 EUR) en el siguiente enlace!

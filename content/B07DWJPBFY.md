@@ -10,8 +10,11 @@ author: ring
 slug: B07DWJPBFY
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: 1080P Dash CAM Espejo Retrovisor Directtyteam 7 Pulgadas Full HD Cámara para Coche Pantalla Táctil Coche Cámara Grabadora Visión Nocturna G-Sensor Cámara Vista Trasera 170 ° Gran Angulares
 ---
 
 Está [1080P Dash CAM Espejo Retrovisor Directtyteam 7 Pulgadas Full HD Cámara para Coche Pantalla Táctil Coche Cámara Grabadora Visión Nocturna G-Sensor Cámara Vista Trasera 170 ° Gran Angulares](https://www.amazon.es/dp/B07DWJPBFY/?tag=tolees-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!

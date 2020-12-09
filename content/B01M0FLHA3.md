@@ -10,8 +10,11 @@ author: ring
 slug: B01M0FLHA3
 description:
 actualPrice: 43.95 EUR
+currency: EUR
+price: 43.95
 comparePrice: 60 EUR
 inStock: true
+prodname: Nike Sportswear Hoodie Sudaderas  Mujer   Negro/Azul Brillante   L
 ---
 
 Ahora mismo tienes [Nike Sportswear Hoodie Sudaderas  Mujer   Negro/Azul Brillante   L](https://www.amazon.es/dp/B01M0FLHA3/?tag=tolees-21) a 43.95 EUR (original: 60 EUR) (26.75 %  de descuento) en el siguiente enlace!

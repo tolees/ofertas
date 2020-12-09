@@ -10,8 +10,11 @@ author: ring
 slug: B01CKE3PVO
 description:
 actualPrice: 4.69 EUR
+currency: EUR
+price: 4.69
 comparePrice: 6.99 EUR
 inStock: true
+prodname: Fujifilm 70100127833 - Kit de 10 Pinzas con iman para Fotos  diseño Corazon
 ---
 
 Está [Fujifilm 70100127833 - Kit de 10 Pinzas con iman para Fotos  diseño Corazon](https://www.amazon.es/dp/B01CKE3PVO/?tag=tolees-21) con 32.90 de descuento por 4.69 EUR (original: 6.99 EUR) en el siguiente enlace!

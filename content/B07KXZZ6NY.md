@@ -10,8 +10,11 @@ author: ring
 slug: B07KXZZ6NY
 description:
 actualPrice: 1.45 EUR
+currency: EUR
+price: 1.45
 comparePrice: 3.82 EUR
 inStock: true
+prodname: Colgate Triple Acción Extra Fresh  Pasta de Dientes  blanqueador y frescor - 1 ud x 75 ml
 ---
 
 Ahora mismo tienes [Colgate Triple Acción Extra Fresh  Pasta de Dientes  blanqueador y frescor - 1 ud x 75 ml](https://www.amazon.es/dp/B07KXZZ6NY/?tag=tolees-21) a 1.45 EUR (original: 3.82 EUR) (62.04 %  de descuento) en el siguiente enlace!

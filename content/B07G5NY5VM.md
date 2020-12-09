@@ -10,8 +10,11 @@ author: ring
 slug: B07G5NY5VM
 description:
 actualPrice: 7.02 EUR
+currency: EUR
+price: 7.02
 comparePrice: 16.9 EUR
 inStock: true
+prodname: Max Factor  Base de maquillaje  Tono: 65 Rose Beige  Pieles Claras  - 30 ml
 ---
 
 Está [Max Factor  Base de maquillaje  Tono: 65 Rose Beige  Pieles Claras  - 30 ml](https://www.amazon.es/dp/B07G5NY5VM/?tag=tolees-21) con 58.46 de descuento por 7.02 EUR (original: 16.9 EUR) en el siguiente enlace!

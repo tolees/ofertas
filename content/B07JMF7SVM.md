@@ -10,8 +10,11 @@ author: ring
 slug: B07JMF7SVM
 description:
 actualPrice: 41.49 EUR
+currency: EUR
+price: 41.49
 comparePrice: 80 EUR
 inStock: true
+prodname: Nike Classic Cortez Nylon  Zapatillas para Hombre  Azul Deep Royal Blue/White 407  44.5 EU
 ---
 
 Tienes [Nike Classic Cortez Nylon  Zapatillas para Hombre  Azul Deep Royal Blue/White 407  44.5 EU](https://www.amazon.es/dp/B07JMF7SVM/?tag=tolees-21) con un 48.14 % de descuento con precio de oferta de 41.49 EUR (original: 80 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0791YVJJJ
 description:
 actualPrice: 24.51 EUR
+currency: EUR
+price: 24.51
 comparePrice: 75 EUR
 inStock: true
+prodname: Etnies Scout  Zapatillas de Skateboard para Hombre  Azul  Dark Blue 398   41 EU
 ---
 
 Está [Etnies Scout  Zapatillas de Skateboard para Hombre  Azul  Dark Blue 398   41 EU](https://www.amazon.es/dp/B0791YVJJJ/?tag=tolees-21) con 67.32 de descuento por 24.51 EUR (original: 75 EUR) en el siguiente enlace!

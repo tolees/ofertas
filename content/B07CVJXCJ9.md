@@ -10,8 +10,11 @@ author: ring
 slug: B07CVJXCJ9
 description:
 actualPrice: 29.83 EUR
+currency: EUR
+price: 29.83
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Skechers Recent-Meroso  Zapatillas para Hombre  Marrón Chocolate  45 EU
 ---
 
 Está [Skechers Recent-Meroso  Zapatillas para Hombre  Marrón Chocolate  45 EU](https://www.amazon.es/dp/B07CVJXCJ9/?tag=tolees-21) con 57.36 de descuento por 29.83 EUR (original: 69.95 EUR) en el siguiente enlace!

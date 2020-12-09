@@ -10,8 +10,11 @@ author: ring
 slug: B07XMHD4NS
 description:
 actualPrice: 18.3 EUR
+currency: EUR
+price: 18.3
 comparePrice: 27.23 EUR
 inStock: true
+prodname: UOUNE Cestas para la colada  tela  96L
 ---
 
 Tienes [UOUNE Cestas para la colada  tela  96L](https://www.amazon.es/dp/B07XMHD4NS/?tag=tolees-21) con un 32.79 % de descuento con precio de oferta de 18.3 EUR (original: 27.23 EUR) en el siguiente enlace!

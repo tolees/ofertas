@@ -10,8 +10,11 @@ author: ring
 slug: B07VTCL3BR
 description:
 actualPrice: 23.93 EUR
+currency: EUR
+price: 23.93
 comparePrice: 98.16 EUR
 inStock: true
+prodname: Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Verde  Mystic Mint Heather MQ7   X-Small para Hombre
 ---
 
 Está [Tommy Hilfiger Organic Cotton Silk V Neck Pantalones  Verde  Mystic Mint Heather MQ7   X-Small para Hombre](https://www.amazon.es/dp/B07VTCL3BR/?tag=tolees-21) con 75.62 de descuento por 23.93 EUR (original: 98.16 EUR) en el siguiente enlace!

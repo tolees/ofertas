@@ -10,8 +10,11 @@ author: ring
 slug: B07H4ZCRHJ
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 45.95 EUR
 inStock: true
+prodname: Desigual Shoes  Canvas   Zapatillas para Mujer  Naranja  Coral 7058   41 EU
 ---
 
 Ahora mismo tienes [Desigual Shoes  Canvas   Zapatillas para Mujer  Naranja  Coral 7058   41 EU](https://www.amazon.es/dp/B07H4ZCRHJ/?tag=tolees-21) a 29.95 EUR (original: 45.95 EUR) (34.82 %  de descuento) en el siguiente enlace!

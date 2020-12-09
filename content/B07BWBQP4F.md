@@ -10,8 +10,11 @@ author: ring
 slug: B07BWBQP4F
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: iLifeSmart Subwoofer Estéreo Inalámbrico de Alto Rendimiento Bluetooth para Eco: Requiere un Dispositivo Estéreo Compatible
 ---
 
 Está [iLifeSmart Subwoofer Estéreo Inalámbrico de Alto Rendimiento Bluetooth para Eco: Requiere un Dispositivo Estéreo Compatible](https://www.amazon.es/dp/B07BWBQP4F/?tag=tolees-21) con 28.58 de descuento por 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BLT6X6L
 description:
 actualPrice: 32.67 EUR
+currency: EUR
+price: 32.67
 comparePrice: 46.99 EUR
 inStock: true
+prodname: SONGMICS Armario Modular de Alambre metálico con 16 Cubos  Montaje en Bricolaje  Aramario de Almacenamiento  Estantería modulable  Estantería de Malla de Alambre  Blanco LPI44W
 ---
 
 Ahora mismo tienes [SONGMICS Armario Modular de Alambre metálico con 16 Cubos  Montaje en Bricolaje  Aramario de Almacenamiento  Estantería modulable  Estantería de Malla de Alambre  Blanco LPI44W](https://www.amazon.es/dp/B07BLT6X6L/?tag=tolees-21) a 32.67 EUR (original: 46.99 EUR) (30.47 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DCNRYXD
 description:
 actualPrice: 31.17 EUR
+currency: EUR
+price: 31.17
 comparePrice: 119.95 EUR
 inStock: true
+prodname: Puma Speed 300 Racer  Zapatillas de Running Unisex Adulto  Azul  Peacoat White-Blazing Yellow   46 EU
 ---
 
 Tienes [Puma Speed 300 Racer  Zapatillas de Running Unisex Adulto  Azul  Peacoat White-Blazing Yellow   46 EU](https://www.amazon.es/dp/B07DCNRYXD/?tag=tolees-21) con un 74.01 % de descuento con precio de oferta de 31.17 EUR (original: 119.95 EUR) en el siguiente enlace!

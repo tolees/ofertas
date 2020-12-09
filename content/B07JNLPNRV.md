@@ -10,8 +10,11 @@ author: ring
 slug: B07JNLPNRV
 description:
 actualPrice: 35.7 EUR
+currency: EUR
+price: 35.7
 comparePrice: 47.99 EUR
 inStock: true
+prodname: YABER Arrancador de Coches 12000mAh  800A Arrancador de Baterias de Coche  para 5.0L de Gasolina o 4.0L de Diesel  de IP66 Impermeable Emergencias-Upgrade
 ---
 
 Tienes [YABER Arrancador de Coches 12000mAh  800A Arrancador de Baterias de Coche  para 5.0L de Gasolina o 4.0L de Diesel  de IP66 Impermeable Emergencias-Upgrade](https://www.amazon.es/dp/B07JNLPNRV/?tag=tolees-21) con un 25.61 % de descuento con precio de oferta de 35.7 EUR (original: 47.99 EUR) en el siguiente enlace!

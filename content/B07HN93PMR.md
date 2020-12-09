@@ -10,8 +10,11 @@ author: ring
 slug: B07HN93PMR
 description:
 actualPrice: 26.38 EUR
+currency: EUR
+price: 26.38
 comparePrice: 134.73 EUR
 inStock: true
+prodname: Chatham Faraday  Náuticos para Hombre  Azul  Aquamarine 001   41 EU
 ---
 
 Está [Chatham Faraday  Náuticos para Hombre  Azul  Aquamarine 001   41 EU](https://www.amazon.es/dp/B07HN93PMR/?tag=tolees-21) con 80.42 de descuento por 26.38 EUR (original: 134.73 EUR) en el siguiente enlace!

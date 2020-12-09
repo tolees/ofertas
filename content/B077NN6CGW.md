@@ -10,8 +10,11 @@ author: ring
 slug: B077NN6CGW
 description:
 actualPrice: 49.98 EUR
+currency: EUR
+price: 49.98
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Slim Rider Chaqueta Vaquera  Azul  Super Stonewash Rd66   Large para Hombre
 ---
 
 Tienes [Lee Slim Rider Chaqueta Vaquera  Azul  Super Stonewash Rd66   Large para Hombre](https://www.amazon.es/dp/B077NN6CGW/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 49.98 EUR (original: 99.95 EUR) en el siguiente enlace!

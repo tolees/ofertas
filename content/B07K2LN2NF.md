@@ -10,8 +10,11 @@ author: ring
 slug: B07K2LN2NF
 description:
 actualPrice: 49.98 EUR
+currency: EUR
+price: 49.98
 comparePrice: 91.15 EUR
 inStock: true
+prodname: adidas Superstar  Zapatillas de Gimnasia para Hombre  Blanco True Green/FTWR White  42 2/3 EU
 ---
 
 Ahora mismo tienes [adidas Superstar  Zapatillas de Gimnasia para Hombre  Blanco True Green/FTWR White  42 2/3 EU](https://www.amazon.es/dp/B07K2LN2NF/?tag=tolees-21) a 49.98 EUR (original: 91.15 EUR) (45.17 %  de descuento) en el siguiente enlace!

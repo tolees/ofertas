@@ -10,8 +10,11 @@ author: ring
 slug: B01KQFTQY4
 description:
 actualPrice: 7.11 EUR
+currency: EUR
+price: 7.11
 comparePrice: 16.95 EUR
 inStock: true
+prodname: Dreamlove Plug Extra Largo Rojo con Diamante - 1 Unidad
 ---
 
 Tienes [Dreamlove Plug Extra Largo Rojo con Diamante - 1 Unidad](https://www.amazon.es/dp/B01KQFTQY4/?tag=tolees-21) con un 58.05 % de descuento con precio de oferta de 7.11 EUR (original: 16.95 EUR) en el siguiente enlace!

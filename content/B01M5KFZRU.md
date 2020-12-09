@@ -10,8 +10,11 @@ author: ring
 slug: B01M5KFZRU
 description:
 actualPrice: 93.99 EUR
+currency: EUR
+price: 93.99
 comparePrice: 149.61 EUR
 inStock: true
+prodname: Panama Jack Tuscani  Botas de Combate para Mujer  EIS  37 EU
 ---
 
 Ahora mismo tienes [Panama Jack Tuscani  Botas de Combate para Mujer  EIS  37 EU](https://www.amazon.es/dp/B01M5KFZRU/?tag=tolees-21) a 93.99 EUR (original: 149.61 EUR) (37.18 %  de descuento) en el siguiente enlace!

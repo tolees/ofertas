@@ -10,8 +10,11 @@ author: ring
 slug: B07BVMTCMW
 description:
 actualPrice: 104.06 EUR
+currency: EUR
+price: 104.06
 comparePrice: 165.15 EUR
 inStock: true
+prodname: Dormi Premium Elixir 30 - Colchón Viscoelástico  90 x 190 x 30 cm  Algodón/Poliuretano  Blanco/Gris  Individual
 ---
 
 Tienes [Dormi Premium Elixir 30 - Colchón Viscoelástico  90 x 190 x 30 cm  Algodón/Poliuretano  Blanco/Gris  Individual](https://www.amazon.es/dp/B07BVMTCMW/?tag=tolees-21) con un 36.99 % de descuento con precio de oferta de 104.06 EUR (original: 165.15 EUR) en el siguiente enlace!

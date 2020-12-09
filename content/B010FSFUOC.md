@@ -10,8 +10,11 @@ author: ring
 slug: B010FSFUOC
 description:
 actualPrice: 11.14 EUR
+currency: EUR
+price: 11.14
 comparePrice: 95 EUR
 inStock: true
+prodname: Milles Vestido Largo Única
 ---
 
 Está [Milles Vestido Largo Única](https://www.amazon.es/dp/B010FSFUOC/?tag=tolees-21) con 88.27 de descuento por 11.14 EUR (original: 95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B074ZD9ZVG
 description:
 actualPrice: 101.13 EUR
+currency: EUR
+price: 101.13
 comparePrice: 159.0 EUR
 inStock: true
+prodname: Seiko Reloj Analógico para Unisex Adultos de Energía Solar con Correa en Cuero SUP863P1
 ---
 
 Está [Seiko Reloj Analógico para Unisex Adultos de Energía Solar con Correa en Cuero SUP863P1](https://www.amazon.es/dp/B074ZD9ZVG/?tag=tolees-21) con 36.40 de descuento por 101.13 EUR (original: 159.0 EUR) en el siguiente enlace!

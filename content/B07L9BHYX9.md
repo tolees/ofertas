@@ -10,8 +10,11 @@ author: ring
 slug: B07L9BHYX9
 description:
 actualPrice: 24.6 EUR
+currency: EUR
+price: 24.6
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Crocs Literide Clog  Zuecos Unisex Adulto  Verde  Army Green/White   46/47 EU
 ---
 
 Ahora mismo tienes [Crocs Literide Clog  Zuecos Unisex Adulto  Verde  Army Green/White   46/47 EU](https://www.amazon.es/dp/B07L9BHYX9/?tag=tolees-21) a 24.6 EUR (original: 54.99 EUR) (55.26 %  de descuento) en el siguiente enlace!

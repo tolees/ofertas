@@ -10,8 +10,11 @@ author: ring
 slug: B014R4NPUQ
 description:
 actualPrice: 13.2 EUR
+currency: EUR
+price: 13.2
 comparePrice: 17.88 EUR
 inStock: true
+prodname: Fever Tree Premium Indian Tonic Water in Cans 8x150ml
 ---
 
 Está [Fever Tree Premium Indian Tonic Water in Cans 8x150ml](https://www.amazon.es/dp/B014R4NPUQ/?tag=tolees-21) con 26.17 de descuento por 13.2 EUR (original: 17.88 EUR) en el siguiente enlace!

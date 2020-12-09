@@ -10,8 +10,11 @@ author: ring
 slug: B07FZKYH3R
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  Black/White  M
 ---
 
 Tienes [adidas Tiro 19 Polyester Jacke Chaqueta Deportiva  Hombre  Black/White  M](https://www.amazon.es/dp/B07FZKYH3R/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 23.99 EUR (original: 39.99 EUR) en el siguiente enlace!

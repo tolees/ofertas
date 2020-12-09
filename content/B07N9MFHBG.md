@@ -10,8 +10,11 @@ author: ring
 slug: B07N9MFHBG
 description:
 actualPrice: 9.23 EUR
+currency: EUR
+price: 9.23
 comparePrice: 39.99 EUR
 inStock: true
+prodname: JACK & JONES Jcobooster Sweat Hood March 19 Capucha  Gris  Light Grey Melange Print: from Gold Fusion. Reg   Small para Hombre
 ---
 
 Tienes [JACK & JONES Jcobooster Sweat Hood March 19 Capucha  Gris  Light Grey Melange Print: from Gold Fusion. Reg   Small para Hombre](https://www.amazon.es/dp/B07N9MFHBG/?tag=tolees-21) con un 76.92 % de descuento con precio de oferta de 9.23 EUR (original: 39.99 EUR) en el siguiente enlace!

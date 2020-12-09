@@ -10,8 +10,11 @@ author: ring
 slug: B07GZJFFGZ
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Vigilabebés LXMIMI Bebé Monitor IP WiFi P2P Cámara de Vigilancia/Seguridad Inalámbrica 720P con Intercomunicador Bidireccional Vision Nocturna Detección de Movimiento/Vista Remota para Mascotas/Bebé
 ---
 
 Tienes [Vigilabebés LXMIMI Bebé Monitor IP WiFi P2P Cámara de Vigilancia/Seguridad Inalámbrica 720P con Intercomunicador Bidireccional Vision Nocturna Detección de Movimiento/Vista Remota para Mascotas/Bebé](https://www.amazon.es/dp/B07GZJFFGZ/?tag=tolees-21) con un 75.00 % de descuento con precio de oferta de 49.99 EUR (original: 199.99 EUR) en el siguiente enlace!

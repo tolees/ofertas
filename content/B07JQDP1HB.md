@@ -10,8 +10,11 @@ author: ring
 slug: B07JQDP1HB
 description:
 actualPrice: 16.33 EUR
+currency: EUR
+price: 16.33
 comparePrice: 39.95 EUR
 inStock: true
+prodname: adidas Tiro 19 Camiseta Entrenamiento  Hombre  Negro  Black/White   S
 ---
 
 Está [adidas Tiro 19 Camiseta Entrenamiento  Hombre  Negro  Black/White   S](https://www.amazon.es/dp/B07JQDP1HB/?tag=tolees-21) con 59.12 de descuento por 16.33 EUR (original: 39.95 EUR) en el siguiente enlace!

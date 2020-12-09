@@ -10,8 +10,11 @@ author: ring
 slug: B07KSYR9K3
 description:
 actualPrice: 39.98 EUR
+currency: EUR
+price: 39.98
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Adidas Solar Lt Trainer M  Zapatillas de Deporte para Hombre  000  39 1/3 EU
 ---
 
 Tienes [Adidas Solar Lt Trainer M  Zapatillas de Deporte para Hombre  000  39 1/3 EU](https://www.amazon.es/dp/B07KSYR9K3/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 39.98 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B016QMLACM
 description:
 actualPrice: 6.69 EUR
+currency: EUR
+price: 6.69
 comparePrice: 41.89 EUR
 inStock: true
+prodname: Downton Abbey - Temporada 1 [Blu-ray]
 ---
 
 Está [Downton Abbey - Temporada 1 [Blu-ray]](https://www.amazon.es/dp/B016QMLACM/?tag=tolees-21) con 84.03 de descuento por 6.69 EUR (original: 41.89 EUR) en el siguiente enlace!

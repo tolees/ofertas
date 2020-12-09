@@ -10,8 +10,11 @@ author: ring
 slug: B016L3IJFW
 description:
 actualPrice: 75.81 EUR
+currency: EUR
+price: 75.81
 comparePrice: 119.0 EUR
 inStock: true
+prodname: Polti Vaporetto Smart 30 R Limpiador a vapor  3 Bar  compartimento para accesorios integrado  1800 W  1.6 litros  18/10 Steel  Rojo y Blanco
 ---
 
 Tienes [Polti Vaporetto Smart 30 R Limpiador a vapor  3 Bar  compartimento para accesorios integrado  1800 W  1.6 litros  18/10 Steel  Rojo y Blanco](https://www.amazon.es/dp/B016L3IJFW/?tag=tolees-21) con un 36.29 % de descuento con precio de oferta de 75.81 EUR (original: 119.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B083V3KTDN
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Supore Correa Fenix 6S  Correas de Silicona Correa de Repuesto para Fenix 6S/Fenix 6S Pro/Fenix 6S Sapphire/Fenix 5S/Fenix 5S Plus
 ---
 
 Tienes [Supore Correa Fenix 6S  Correas de Silicona Correa de Repuesto para Fenix 6S/Fenix 6S Pro/Fenix 6S Sapphire/Fenix 5S/Fenix 5S Plus](https://www.amazon.es/dp/B083V3KTDN/?tag=tolees-21) con un 33.37 % de descuento con precio de oferta de 19.99 EUR (original: 30.0 EUR) en el siguiente enlace!

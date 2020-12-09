@@ -10,8 +10,11 @@ author: ring
 slug: B07KCMT3X1
 description:
 actualPrice: 18.72 EUR
+currency: EUR
+price: 18.72
 comparePrice: 31.5 EUR
 inStock: true
+prodname: David Jones - 5964-1  Bolsos bandolera Mujer  Rosa  Pink   8x14x20 cm  W x H L 
 ---
 
 Tienes [David Jones - 5964-1  Bolsos bandolera Mujer  Rosa  Pink   8x14x20 cm  W x H L ](https://www.amazon.es/dp/B07KCMT3X1/?tag=tolees-21) con un 40.57 % de descuento con precio de oferta de 18.72 EUR (original: 31.5 EUR) en el siguiente enlace!

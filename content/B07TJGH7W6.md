@@ -10,8 +10,11 @@ author: ring
 slug: B07TJGH7W6
 description:
 actualPrice: 12.74 EUR
+currency: EUR
+price: 12.74
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Superdry tee Camiseta  Gris  Collective Dark Grey Grit 9ss   XL para Hombre
 ---
 
 Está [Superdry tee Camiseta  Gris  Collective Dark Grey Grit 9ss   XL para Hombre](https://www.amazon.es/dp/B07TJGH7W6/?tag=tolees-21) con 25.01 de descuento por 12.74 EUR (original: 16.99 EUR) en el siguiente enlace!

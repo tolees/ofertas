@@ -10,8 +10,11 @@ author: ring
 slug: B07KZ7YZ1D
 description:
 actualPrice: 13.45 EUR
+currency: EUR
+price: 13.45
 comparePrice: 29.99 EUR
 inStock: true
+prodname: DC Shoes Star T-Shirt  Hombre  Nautical Blue  L
 ---
 
 Tienes [DC Shoes Star T-Shirt  Hombre  Nautical Blue  L](https://www.amazon.es/dp/B07KZ7YZ1D/?tag=tolees-21) con un 55.15 % de descuento con precio de oferta de 13.45 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DQD8X1W
 description:
 actualPrice: 19.69 EUR
+currency: EUR
+price: 19.69
 comparePrice: 57.69 EUR
 inStock: true
+prodname: Masajeador  Louviva Masajeador Portátil  7 Modos
 ---
 
 Ahora mismo tienes [Masajeador  Louviva Masajeador Portátil  7 Modos](https://www.amazon.es/dp/B07DQD8X1W/?tag=tolees-21) a 19.69 EUR (original: 57.69 EUR) (65.87 %  de descuento) en el siguiente enlace!

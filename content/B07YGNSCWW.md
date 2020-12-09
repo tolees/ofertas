@@ -10,8 +10,11 @@ author: ring
 slug: B07YGNSCWW
 description:
 actualPrice: 161.46 EUR
+currency: EUR
+price: 161.46
 comparePrice: 232.43 EUR
 inStock: true
+prodname: Philips HTL3325/10 Barra de Sonido TV  con Subwoofer Inalámbrico  Bluetooth  3.1 Canales  Dolby Audio  300 Vatios  HDMI ARC  USB  Color Plata
 ---
 
 Ahora mismo tienes [Philips HTL3325/10 Barra de Sonido TV  con Subwoofer Inalámbrico  Bluetooth  3.1 Canales  Dolby Audio  300 Vatios  HDMI ARC  USB  Color Plata](https://www.amazon.es/dp/B07YGNSCWW/?tag=tolees-21) a 161.46 EUR (original: 232.43 EUR) (30.53 %  de descuento) en el siguiente enlace!

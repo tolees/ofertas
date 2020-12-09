@@ -10,8 +10,11 @@ author: ring
 slug: B01MR6WKBB
 description:
 actualPrice: 15.93 EUR
+currency: EUR
+price: 15.93
 comparePrice: 23.99 EUR
 inStock: true
+prodname: Vbiger - Mochila Infantil Para Niña  Con Bolsa Para Almuerzo y Bolsito Para El Móvil  Azul Oscuro
 ---
 
 Está [Vbiger - Mochila Infantil Para Niña  Con Bolsa Para Almuerzo y Bolsito Para El Móvil  Azul Oscuro](https://www.amazon.es/dp/B01MR6WKBB/?tag=tolees-21) con 33.60 de descuento por 15.93 EUR (original: 23.99 EUR) en el siguiente enlace!

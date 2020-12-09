@@ -10,8 +10,11 @@ author: ring
 slug: B016F6ZMPK
 description:
 actualPrice: 69.06 EUR
+currency: EUR
+price: 69.06
 comparePrice: 159.9 EUR
 inStock: true
+prodname: Hoover CA2IN1D 011 STEAM CAPSULE  Vaporeta  Gregor Titanium/Aqua Blu
 ---
 
 Ahora mismo tienes [Hoover CA2IN1D 011 STEAM CAPSULE  Vaporeta  Gregor Titanium/Aqua Blu](https://www.amazon.es/dp/B016F6ZMPK/?tag=tolees-21) a 69.06 EUR (original: 159.9 EUR) (56.81 %  de descuento) en el siguiente enlace!

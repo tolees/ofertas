@@ -10,8 +10,11 @@ author: ring
 slug: B00SHY8NHI
 description:
 actualPrice: 7.03 EUR
+currency: EUR
+price: 7.03
 comparePrice: 18.95 EUR
 inStock: true
+prodname: DKNY Intimates Modern Lights-Mesh Litewe  Tanga para Mujer  Negro  Black B7p   Talla del Fabricante: Medium 
 ---
 
 Está [DKNY Intimates Modern Lights-Mesh Litewe  Tanga para Mujer  Negro  Black B7p   Talla del Fabricante: Medium ](https://www.amazon.es/dp/B00SHY8NHI/?tag=tolees-21) con 62.90 de descuento por 7.03 EUR (original: 18.95 EUR) en el siguiente enlace!

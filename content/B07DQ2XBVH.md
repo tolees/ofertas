@@ -10,8 +10,11 @@ author: ring
 slug: B07DQ2XBVH
 description:
 actualPrice: 17.26 EUR
+currency: EUR
+price: 17.26
 comparePrice: 29.97 EUR
 inStock: true
+prodname: Emporio Armani Underwear 9p217 Braguita  Gris  Grigio Melange 01548   38  Talla del Fabricante: Medium  para Mujer
 ---
 
 Está [Emporio Armani Underwear 9p217 Braguita  Gris  Grigio Melange 01548   38  Talla del Fabricante: Medium  para Mujer](https://www.amazon.es/dp/B07DQ2XBVH/?tag=tolees-21) con 42.41 de descuento por 17.26 EUR (original: 29.97 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B0814SFQGS
 description:
 actualPrice: 9.56 EUR
+currency: EUR
+price: 9.56
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Under Armour UA Men s Stretch Belt Cómodo Cinturón De Hombre  Accesorio Para Hombre Hombre Azul  Navy  34
 ---
 
 Está [Under Armour UA Men s Stretch Belt Cómodo Cinturón De Hombre  Accesorio Para Hombre Hombre Azul  Navy  34](https://www.amazon.es/dp/B0814SFQGS/?tag=tolees-21) con 72.69 de descuento por 9.56 EUR (original: 35.0 EUR) en el siguiente enlace!

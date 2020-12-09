@@ -10,8 +10,11 @@ author: ring
 slug: B00FLR6J5C
 description:
 actualPrice: 21.51 EUR
+currency: EUR
+price: 21.51
 comparePrice: 74.95 EUR
 inStock: true
+prodname: hummel Slimmer Stadil High  Zapatillas Altas Unisex Adulto  Negro-Schwarz  Black/White   37 EU
 ---
 
 Está [hummel Slimmer Stadil High  Zapatillas Altas Unisex Adulto  Negro-Schwarz  Black/White   37 EU](https://www.amazon.es/dp/B00FLR6J5C/?tag=tolees-21) con 71.30 de descuento por 21.51 EUR (original: 74.95 EUR) en el siguiente enlace!

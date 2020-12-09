@@ -10,8 +10,11 @@ author: ring
 slug: B07YZ4HWTC
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 18.99 EUR
 inStock: true
+prodname: Newseego Funda Silicona para AirPods  Cute 3D Cartoon Funda Lindo Comida Funny Soft Protectora de Goma Suave a Prueba de Golpes con Soporte de Hebilla De Llavero para Airpods 1 y 2 - Hamburger
 ---
 
 Está [Newseego Funda Silicona para AirPods  Cute 3D Cartoon Funda Lindo Comida Funny Soft Protectora de Goma Suave a Prueba de Golpes con Soporte de Hebilla De Llavero para Airpods 1 y 2 - Hamburger](https://www.amazon.es/dp/B07YZ4HWTC/?tag=tolees-21) con 47.39 de descuento por 9.99 EUR (original: 18.99 EUR) en el siguiente enlace!

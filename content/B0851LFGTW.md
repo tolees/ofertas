@@ -10,8 +10,11 @@ author: ring
 slug: B0851LFGTW
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 50.0 EUR
 inStock: true
+prodname: GREAT ART Set de 2 Posters XXL - Vista Skyline de Nueva York - Pent-House & Central Park América Estados Unidos Grandes Ciudades Viajes decoración de la Pared Foto póster  140 x 100 cm 
 ---
 
 Está [GREAT ART Set de 2 Posters XXL - Vista Skyline de Nueva York - Pent-House & Central Park América Estados Unidos Grandes Ciudades Viajes decoración de la Pared Foto póster  140 x 100 cm ](https://www.amazon.es/dp/B0851LFGTW/?tag=tolees-21) con 40.20 de descuento por 29.9 EUR (original: 50.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07F2YPTY3
 description:
 actualPrice: 38.45 EUR
+currency: EUR
+price: 38.45
 comparePrice: 59.95 EUR
 inStock: true
+prodname: PUMA Cilia  Zapatillas para Mujer  Negro  Black-Silver-Peach Bud   38 EU
 ---
 
 Tienes [PUMA Cilia  Zapatillas para Mujer  Negro  Black-Silver-Peach Bud   38 EU](https://www.amazon.es/dp/B07F2YPTY3/?tag=tolees-21) con un 35.86 % de descuento con precio de oferta de 38.45 EUR (original: 59.95 EUR) en el siguiente enlace!

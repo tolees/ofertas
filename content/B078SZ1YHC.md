@@ -10,8 +10,11 @@ author: ring
 slug: B078SZ1YHC
 description:
 actualPrice: 74.45 EUR
+currency: EUR
+price: 74.45
 comparePrice: 135 EUR
 inStock: true
+prodname: Timberland Bradsteet 3 Eye Sensorflex  Mocasines para Hombre  Marrón  Sahara Brando   39.5 EU
 ---
 
 Ahora mismo tienes [Timberland Bradsteet 3 Eye Sensorflex  Mocasines para Hombre  Marrón  Sahara Brando   39.5 EU](https://www.amazon.es/dp/B078SZ1YHC/?tag=tolees-21) a 74.45 EUR (original: 135 EUR) (44.85 %  de descuento) en el siguiente enlace!

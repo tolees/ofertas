@@ -10,8 +10,11 @@ author: ring
 slug: B016OVJJ3M
 description:
 actualPrice: 6.26 EUR
+currency: EUR
+price: 6.26
 comparePrice: 15.65 EUR
 inStock: true
+prodname: Cointreau Licores - 700 ml
 ---
 
 Tienes [Cointreau Licores - 700 ml](https://www.amazon.es/dp/B016OVJJ3M/?tag=tolees-21) con un 60.00 % de descuento con precio de oferta de 6.26 EUR (original: 15.65 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BPBJMFV
 description:
 actualPrice: 35.24 EUR
+currency: EUR
+price: 35.24
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Wrangler Larston Slim Tapered Vaqueros  Azul  Dark Vantage 19Q   30W / 34L para Hombre
 ---
 
 Ahora mismo tienes [Wrangler Larston Slim Tapered Vaqueros  Azul  Dark Vantage 19Q   30W / 34L para Hombre](https://www.amazon.es/dp/B07BPBJMFV/?tag=tolees-21) a 35.24 EUR (original: 89.95 EUR) (60.82 %  de descuento) en el siguiente enlace!

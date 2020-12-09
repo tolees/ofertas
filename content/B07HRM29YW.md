@@ -10,8 +10,11 @@ author: ring
 slug: B07HRM29YW
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: Estantería Metálica de Almacenamiento y Organización  Cromada 4 Baldas Ajustable con Alturas Ajustables y 4 Ganchos Laterales 45 x 30 x 90 cm
 ---
 
 Está [Estantería Metálica de Almacenamiento y Organización  Cromada 4 Baldas Ajustable con Alturas Ajustables y 4 Ganchos Laterales 45 x 30 x 90 cm](https://www.amazon.es/dp/B07HRM29YW/?tag=tolees-21) con 30.44 de descuento por 31.99 EUR (original: 45.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B078TMNQ4C
 description:
 actualPrice: 7.15 EUR
+currency: EUR
+price: 7.15
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Puma Ligas Pants  Hombre  White/Red  XXL
 ---
 
 Ahora mismo tienes [Puma Ligas Pants  Hombre  White/Red  XXL](https://www.amazon.es/dp/B078TMNQ4C/?tag=tolees-21) a 7.15 EUR (original: 17.95 EUR) (60.17 %  de descuento) en el siguiente enlace!

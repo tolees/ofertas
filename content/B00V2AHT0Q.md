@@ -10,8 +10,11 @@ author: ring
 slug: B00V2AHT0Q
 description:
 actualPrice: 8.61 EUR
+currency: EUR
+price: 8.61
 comparePrice: 15.95 EUR
 inStock: true
+prodname: Belgo Prism Zizi Tapón Anal Two Finger Transparente - 115 gr
 ---
 
 Tienes [Belgo Prism Zizi Tapón Anal Two Finger Transparente - 115 gr](https://www.amazon.es/dp/B00V2AHT0Q/?tag=tolees-21) con un 46.02 % de descuento con precio de oferta de 8.61 EUR (original: 15.95 EUR) en el siguiente enlace!

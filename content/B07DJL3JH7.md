@@ -10,8 +10,11 @@ author: ring
 slug: B07DJL3JH7
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 179.99 EUR
 inStock: true
+prodname: Jabra Elite 65t – Auriculares Bluetooth con Cancelación Pasiva del Ruido  Tecnología de Cuatro Micrófonos para Auténticas Llamadas Inalámbricas y Música  Beige Dorado
 ---
 
 Tienes [Jabra Elite 65t – Auriculares Bluetooth con Cancelación Pasiva del Ruido  Tecnología de Cuatro Micrófonos para Auténticas Llamadas Inalámbricas y Música  Beige Dorado](https://www.amazon.es/dp/B07DJL3JH7/?tag=tolees-21) con un 61.11 % de descuento con precio de oferta de 69.99 EUR (original: 179.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KMNLZ6Y
 description:
 actualPrice: 6.51 EUR
+currency: EUR
+price: 6.51
 comparePrice: 13.95 EUR
 inStock: true
+prodname: L Oréal Paris Rouge Signature 115 I am Worth It Pintalabios Mate Permanente Rojo - 7 ml
 ---
 
 Ahora mismo tienes [L Oréal Paris Rouge Signature 115 I am Worth It Pintalabios Mate Permanente Rojo - 7 ml](https://www.amazon.es/dp/B07KMNLZ6Y/?tag=tolees-21) a 6.51 EUR (original: 13.95 EUR) (53.33 %  de descuento) en el siguiente enlace!

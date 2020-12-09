@@ -10,8 +10,11 @@ author: ring
 slug: B005TQROWM
 description:
 actualPrice: 33.08 EUR
+currency: EUR
+price: 33.08
 comparePrice: 65.95 EUR
 inStock: true
+prodname: Skil F0150755AA Tijeras 0755AA 3.6 W  3.6 V  Negro
 ---
 
 Está [Skil F0150755AA Tijeras 0755AA 3.6 W  3.6 V  Negro](https://www.amazon.es/dp/B005TQROWM/?tag=tolees-21) con 49.84 de descuento por 33.08 EUR (original: 65.95 EUR) en el siguiente enlace!

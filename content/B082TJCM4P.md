@@ -10,8 +10,11 @@ author: ring
 slug: B082TJCM4P
 description:
 actualPrice: 54.0 EUR
+currency: EUR
+price: 54.0
 comparePrice: 115.19 EUR
 inStock: true
+prodname: Lacoste Chaymon 0120 2 CMA  Zapatillas para Hombre  Blanc Wht Nvy Red  42 EU
 ---
 
 Ahora mismo tienes [Lacoste Chaymon 0120 2 CMA  Zapatillas para Hombre  Blanc Wht Nvy Red  42 EU](https://www.amazon.es/dp/B082TJCM4P/?tag=tolees-21) a 54.0 EUR (original: 115.19 EUR) (53.12 %  de descuento) en el siguiente enlace!

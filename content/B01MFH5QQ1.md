@@ -10,8 +10,11 @@ author: ring
 slug: B01MFH5QQ1
 description:
 actualPrice: 26.37 EUR
+currency: EUR
+price: 26.37
 comparePrice: 100 EUR
 inStock: true
+prodname: Vans UA ISO 2  Zapatillas para Hombre  Negro  Prime   39 EU
 ---
 
 Está [Vans UA ISO 2  Zapatillas para Hombre  Negro  Prime   39 EU](https://www.amazon.es/dp/B01MFH5QQ1/?tag=tolees-21) con 73.63 de descuento por 26.37 EUR (original: 100 EUR) en el siguiente enlace!

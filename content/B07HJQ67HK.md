@@ -10,8 +10,11 @@ author: ring
 slug: B07HJQ67HK
 description:
 actualPrice: 10.92 EUR
+currency: EUR
+price: 10.92
 comparePrice: 69.95 EUR
 inStock: true
+prodname: LTB Jeans Molly  Vaqueros Slim para Mujer  Azul  Sian Wash 51597  W24/L34
 ---
 
 Tienes [LTB Jeans Molly  Vaqueros Slim para Mujer  Azul  Sian Wash 51597  W24/L34](https://www.amazon.es/dp/B07HJQ67HK/?tag=tolees-21) con un 84.39 % de descuento con precio de oferta de 10.92 EUR (original: 69.95 EUR) en el siguiente enlace!

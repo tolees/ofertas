@@ -10,8 +10,11 @@ author: ring
 slug: B077JJGYBT
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 35 EUR
 inStock: true
+prodname: Volcom Cresticle Gorra  Hombre  Beige  O/S
 ---
 
 Ahora mismo tienes [Volcom Cresticle Gorra  Hombre  Beige  O/S](https://www.amazon.es/dp/B077JJGYBT/?tag=tolees-21) a 17.99 EUR (original: 35 EUR) (48.60 %  de descuento) en el siguiente enlace!

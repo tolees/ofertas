@@ -10,8 +10,11 @@ author: ring
 slug: B06XCGS6MF
 description:
 actualPrice: 17.22 EUR
+currency: EUR
+price: 17.22
 comparePrice: 99.95 EUR
 inStock: true
+prodname: G-STAR RAW Lynn D-mid Super Skinny Wmn - Vaqueros skinny Mujer  Negro  Rinsed 082   W26/L34
 ---
 
 Tienes [G-STAR RAW Lynn D-mid Super Skinny Wmn - Vaqueros skinny Mujer  Negro  Rinsed 082   W26/L34](https://www.amazon.es/dp/B06XCGS6MF/?tag=tolees-21) con un 82.77 % de descuento con precio de oferta de 17.22 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01GVBV8U2
 description:
 actualPrice: 2.7 EUR
+currency: EUR
+price: 2.7
 comparePrice: 12.1 EUR
 inStock: true
+prodname: oodji Ultra Mujer Sujetador Bikini con Lazo  Turquesa  80B / 36B
 ---
 
 Tienes [oodji Ultra Mujer Sujetador Bikini con Lazo  Turquesa  80B / 36B](https://www.amazon.es/dp/B01GVBV8U2/?tag=tolees-21) con un 77.69 % de descuento con precio de oferta de 2.7 EUR (original: 12.1 EUR) en el siguiente enlace!

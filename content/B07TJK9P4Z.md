@@ -10,8 +10,11 @@ author: ring
 slug: B07TJK9P4Z
 description:
 actualPrice: 36.21 EUR
+currency: EUR
+price: 36.21
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Unwilmore Ray  Sandalias Punta Cerrada para Hombre  Negro  Black Leather Black Leather   46 EU
 ---
 
 Está [Clarks Unwilmore Ray  Sandalias Punta Cerrada para Hombre  Negro  Black Leather Black Leather   46 EU](https://www.amazon.es/dp/B07TJK9P4Z/?tag=tolees-21) con 63.77 de descuento por 36.21 EUR (original: 99.95 EUR) en el siguiente enlace!

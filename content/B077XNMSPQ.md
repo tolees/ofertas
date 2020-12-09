@@ -10,8 +10,11 @@ author: ring
 slug: B077XNMSPQ
 description:
 actualPrice: 24.1 EUR
+currency: EUR
+price: 24.1
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Under Armour Vanish Seamless SS Camiseta  Hombre  Gris  Steel/Black 035   L
 ---
 
 Tienes [Under Armour Vanish Seamless SS Camiseta  Hombre  Gris  Steel/Black 035   L](https://www.amazon.es/dp/B077XNMSPQ/?tag=tolees-21) con un 46.43 % de descuento con precio de oferta de 24.1 EUR (original: 44.99 EUR) en el siguiente enlace!

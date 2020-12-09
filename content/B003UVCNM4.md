@@ -10,8 +10,11 @@ author: ring
 slug: B003UVCNM4
 description:
 actualPrice: 61.99 EUR
+currency: EUR
+price: 61.99
 comparePrice: 93.5 EUR
 inStock: true
+prodname: ROYAL CANIN Alimento para Perros Obesity Management DP34-14 kg
 ---
 
 Ahora mismo tienes [ROYAL CANIN Alimento para Perros Obesity Management DP34-14 kg](https://www.amazon.es/dp/B003UVCNM4/?tag=tolees-21) a 61.99 EUR (original: 93.5 EUR) (33.70 %  de descuento) en el siguiente enlace!

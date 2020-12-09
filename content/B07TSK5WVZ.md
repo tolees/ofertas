@@ -10,8 +10,11 @@ author: ring
 slug: B07TSK5WVZ
 description:
 actualPrice: 2.95 EUR
+currency: EUR
+price: 2.95
 comparePrice: 8.0 EUR
 inStock: true
+prodname: Max Factor Perfect Gel Shine; Laca de Uñas  Tono 212 - 12 ml
 ---
 
 Está [Max Factor Perfect Gel Shine; Laca de Uñas  Tono 212 - 12 ml](https://www.amazon.es/dp/B07TSK5WVZ/?tag=tolees-21) con 63.12 de descuento por 2.95 EUR (original: 8.0 EUR) en el siguiente enlace!

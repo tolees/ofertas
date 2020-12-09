@@ -10,8 +10,11 @@ author: ring
 slug: B00DO0PW7O
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Sunstech TRITON4GBRED - Reproductor de MP3 de 4 GB  resistente al agua  con almohadillas  rojo
 ---
 
 Ahora mismo tienes [Sunstech TRITON4GBRED - Reproductor de MP3 de 4 GB  resistente al agua  con almohadillas  rojo](https://www.amazon.es/dp/B00DO0PW7O/?tag=tolees-21) a 29.9 EUR (original: 44.99 EUR) (33.54 %  de descuento) en el siguiente enlace!

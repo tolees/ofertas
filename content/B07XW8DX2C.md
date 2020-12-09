@@ -10,8 +10,11 @@ author: ring
 slug: B07XW8DX2C
 description:
 actualPrice: 24.49 EUR
+currency: EUR
+price: 24.49
 comparePrice: 35.84 EUR
 inStock: true
+prodname: Harry Potter Colección Completa Ed19 [DVD]
 ---
 
 Ahora mismo tienes [Harry Potter Colección Completa Ed19 [DVD]](https://www.amazon.es/dp/B07XW8DX2C/?tag=tolees-21) a 24.49 EUR (original: 35.84 EUR) (31.67 %  de descuento) en el siguiente enlace!

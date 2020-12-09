@@ -10,8 +10,11 @@ author: ring
 slug: B01CSTFEJ2
 description:
 actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
 comparePrice: 9.9 EUR
 inStock: true
+prodname: Joma 900248.700 - Camiseta para Mujer  Color Azul Royal  Talla M
 ---
 
 Ahora mismo tienes [Joma 900248.700 - Camiseta para Mujer  Color Azul Royal  Talla M](https://www.amazon.es/dp/B01CSTFEJ2/?tag=tolees-21) a 6.5 EUR (original: 9.9 EUR) (34.34 %  de descuento) en el siguiente enlace!

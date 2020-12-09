@@ -10,8 +10,11 @@ author: ring
 slug: B07FHDQLV7
 description:
 actualPrice: 72 EUR
+currency: EUR
+price: 72
 comparePrice: 150 EUR
 inStock: true
+prodname: Helly Hansen W Crew Midlayer Jacket - Chaqueta para Mujer  Negro  S
 ---
 
 Está [Helly Hansen W Crew Midlayer Jacket - Chaqueta para Mujer  Negro  S](https://www.amazon.es/dp/B07FHDQLV7/?tag=tolees-21) con 52.00 de descuento por 72 EUR (original: 150 EUR) en el siguiente enlace!

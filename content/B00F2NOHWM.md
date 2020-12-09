@@ -10,8 +10,11 @@ author: ring
 slug: B00F2NOHWM
 description:
 actualPrice: 16.93 EUR
+currency: EUR
+price: 16.93
 comparePrice: 33.16 EUR
 inStock: true
+prodname: Bellota 50101100 - Nivel tubular  560 g  1000 x 50 x 20 mm
 ---
 
 Ahora mismo tienes [Bellota 50101100 - Nivel tubular  560 g  1000 x 50 x 20 mm](https://www.amazon.es/dp/B00F2NOHWM/?tag=tolees-21) a 16.93 EUR (original: 33.16 EUR) (48.94 %  de descuento) en el siguiente enlace!

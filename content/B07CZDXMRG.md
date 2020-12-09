@@ -10,8 +10,11 @@ author: ring
 slug: B07CZDXMRG
 description:
 actualPrice: 23.6 EUR
+currency: EUR
+price: 23.6
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Under Armour Challenger II Training Pant Pantalones  Hombre  Verde  Batik Lime Light 366   L
 ---
 
 Está [Under Armour Challenger II Training Pant Pantalones  Hombre  Verde  Batik Lime Light 366   L](https://www.amazon.es/dp/B07CZDXMRG/?tag=tolees-21) con 47.54 de descuento por 23.6 EUR (original: 44.99 EUR) en el siguiente enlace!

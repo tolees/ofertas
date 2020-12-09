@@ -10,8 +10,11 @@ author: ring
 slug: B00I3LUUIU
 description:
 actualPrice: 9.34 EUR
+currency: EUR
+price: 9.34
 comparePrice: 13.19 EUR
 inStock: true
+prodname: Sony MDR-EX110AP - Auriculares in-ear  con micrófono  control remoto integrado   negro
 ---
 
 Tienes [Sony MDR-EX110AP - Auriculares in-ear  con micrófono  control remoto integrado   negro](https://www.amazon.es/dp/B00I3LUUIU/?tag=tolees-21) con un 29.19 % de descuento con precio de oferta de 9.34 EUR (original: 13.19 EUR) en el siguiente enlace!

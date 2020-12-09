@@ -10,8 +10,11 @@ author: ring
 slug: B01IMU5BX0
 description:
 actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
 comparePrice: 17.67 EUR
 inStock: true
+prodname: BIO-OIL 125 ml
 ---
 
 Ahora mismo tienes [BIO-OIL 125 ml](https://www.amazon.es/dp/B01IMU5BX0/?tag=tolees-21) a 11.95 EUR (original: 17.67 EUR) (32.37 %  de descuento) en el siguiente enlace!

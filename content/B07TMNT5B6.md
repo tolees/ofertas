@@ -10,8 +10,11 @@ author: ring
 slug: B07TMNT5B6
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Superdry OL Vintage Emb Crew Camiseta  Gris  Silver Glass Feeder 9st   XS para Hombre
 ---
 
 Está [Superdry OL Vintage Emb Crew Camiseta  Gris  Silver Glass Feeder 9st   XS para Hombre](https://www.amazon.es/dp/B07TMNT5B6/?tag=tolees-21) con 48.02 de descuento por 12.99 EUR (original: 24.99 EUR) en el siguiente enlace!

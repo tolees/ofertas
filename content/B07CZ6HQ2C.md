@@ -10,8 +10,11 @@ author: ring
 slug: B07CZ6HQ2C
 description:
 actualPrice: 26.29 EUR
+currency: EUR
+price: 26.29
 comparePrice: 170 EUR
 inStock: true
+prodname: Asics Gel-kenun Knit MX  Zapatillas de Entrenamiento para Mujer  Negro Black 001  36 EU
 ---
 
 Tienes [Asics Gel-kenun Knit MX  Zapatillas de Entrenamiento para Mujer  Negro Black 001  36 EU](https://www.amazon.es/dp/B07CZ6HQ2C/?tag=tolees-21) con un 84.54 % de descuento con precio de oferta de 26.29 EUR (original: 170 EUR) en el siguiente enlace!

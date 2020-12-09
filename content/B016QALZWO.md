@@ -10,8 +10,11 @@ author: ring
 slug: B016QALZWO
 description:
 actualPrice: 9.29 EUR
+currency: EUR
+price: 9.29
 comparePrice: 14.99 EUR
 inStock: true
+prodname: adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Negro/Blanco  M
 ---
 
 Ahora mismo tienes [adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Negro/Blanco  M](https://www.amazon.es/dp/B016QALZWO/?tag=tolees-21) a 9.29 EUR (original: 14.99 EUR) (38.03 %  de descuento) en el siguiente enlace!

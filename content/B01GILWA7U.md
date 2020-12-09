@@ -10,8 +10,11 @@ author: ring
 slug: B01GILWA7U
 description:
 actualPrice: 9.66 EUR
+currency: EUR
+price: 9.66
 comparePrice: 48 EUR
 inStock: true
+prodname: Calvin Klein Demi  Sujetador para Mujer   Negro  BLACK 001   0E 32
 ---
 
 Ahora mismo tienes [Calvin Klein Demi  Sujetador para Mujer   Negro  BLACK 001   0E 32](https://www.amazon.es/dp/B01GILWA7U/?tag=tolees-21) a 9.66 EUR (original: 48 EUR) (79.88 %  de descuento) en el siguiente enlace!

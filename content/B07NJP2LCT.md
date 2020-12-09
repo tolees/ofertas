@@ -10,8 +10,11 @@ author: ring
 slug: B07NJP2LCT
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 20.5 EUR
 inStock: true
+prodname: Jack Daniel s Pack Miniaturas 0 05L x 5
 ---
 
 Está [Jack Daniel s Pack Miniaturas 0 05L x 5](https://www.amazon.es/dp/B07NJP2LCT/?tag=tolees-21) con 31.76 de descuento por 13.99 EUR (original: 20.5 EUR) en el siguiente enlace!

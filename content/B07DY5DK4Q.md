@@ -10,8 +10,11 @@ author: ring
 slug: B07DY5DK4Q
 description:
 actualPrice: 14.47 EUR
+currency: EUR
+price: 14.47
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Under Armour UA GL Foundation SS T Camiseta  Hombre  Gris  Charcoal Medium Heather/Graphite/Black 019   XXL
 ---
 
 Ahora mismo tienes [Under Armour UA GL Foundation SS T Camiseta  Hombre  Gris  Charcoal Medium Heather/Graphite/Black 019   XXL](https://www.amazon.es/dp/B07DY5DK4Q/?tag=tolees-21) a 14.47 EUR (original: 25.99 EUR) (44.32 %  de descuento) en el siguiente enlace!

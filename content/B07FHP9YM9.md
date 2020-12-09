@@ -10,8 +10,11 @@ author: ring
 slug: B07FHP9YM9
 description:
 actualPrice: 12.52 EUR
+currency: EUR
+price: 12.52
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Puma ESS Pique Polo T-Shirt  Hombre  Cotton Black  M
 ---
 
 Tienes [Puma ESS Pique Polo T-Shirt  Hombre  Cotton Black  M](https://www.amazon.es/dp/B07FHP9YM9/?tag=tolees-21) con un 58.20 % de descuento con precio de oferta de 12.52 EUR (original: 29.95 EUR) en el siguiente enlace!

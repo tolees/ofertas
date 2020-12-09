@@ -10,8 +10,11 @@ author: ring
 slug: B01J2K2OFW
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 50.99 EUR
 inStock: true
+prodname: The Witcher 3: Wild Hunt - Game Of The Year Edition
 ---
 
 Tienes [The Witcher 3: Wild Hunt - Game Of The Year Edition](https://www.amazon.es/dp/B01J2K2OFW/?tag=tolees-21) con un 60.87 % de descuento con precio de oferta de 19.95 EUR (original: 50.99 EUR) en el siguiente enlace!

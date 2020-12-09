@@ -10,8 +10,11 @@ author: ring
 slug: B06XK6ZGBR
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 189.99 EUR
 inStock: true
+prodname: Collar para adiestramiento canino on modo vibració
 ---
 
 Ahora mismo tienes [Collar para adiestramiento canino on modo vibració](https://www.amazon.es/dp/B06XK6ZGBR/?tag=tolees-21) a 38.99 EUR (original: 189.99 EUR) (79.48 %  de descuento) en el siguiente enlace!

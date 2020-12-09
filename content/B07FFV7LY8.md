@@ -10,8 +10,11 @@ author: ring
 slug: B07FFV7LY8
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 45 EUR
 inStock: true
+prodname: SYROKAN - Pantalones Mallas Deportivas Fitness Para Mujer  corte de 3/4  Negro XXS 34 
 ---
 
 Tienes [SYROKAN - Pantalones Mallas Deportivas Fitness Para Mujer  corte de 3/4  Negro XXS 34 ](https://www.amazon.es/dp/B07FFV7LY8/?tag=tolees-21) con un 51.13 % de descuento con precio de oferta de 21.99 EUR (original: 45 EUR) en el siguiente enlace!

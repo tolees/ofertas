@@ -10,8 +10,11 @@ author: ring
 slug: B073S8QNQW
 description:
 actualPrice: 67.19 EUR
+currency: EUR
+price: 67.19
 comparePrice: 111.99 EUR
 inStock: true
+prodname: Salomon Ellipse 2 LTR W  Zapatillas de Senderismo para Mujer  Negro  Artic/Navy Blazer/Eggshell Blue   38 2/3 EU
 ---
 
 Tienes [Salomon Ellipse 2 LTR W  Zapatillas de Senderismo para Mujer  Negro  Artic/Navy Blazer/Eggshell Blue   38 2/3 EU](https://www.amazon.es/dp/B073S8QNQW/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 67.19 EUR (original: 111.99 EUR) en el siguiente enlace!

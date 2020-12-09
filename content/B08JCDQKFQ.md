@@ -10,8 +10,11 @@ author: ring
 slug: B08JCDQKFQ
 description:
 actualPrice: 4.79 EUR
+currency: EUR
+price: 4.79
 comparePrice: 9.79 EUR
 inStock: true
+prodname: Reshias Funda para Xiaomi Poco X3 NFC + [2 Pack] Cristal Templado Protector de Pantalla  Suave TPU Transparente Gel Silicona Protectora Carcasa para Xiaomi Poco X3 NFC 6.67"
 ---
 
 Ahora mismo tienes [Reshias Funda para Xiaomi Poco X3 NFC + [2 Pack] Cristal Templado Protector de Pantalla  Suave TPU Transparente Gel Silicona Protectora Carcasa para Xiaomi Poco X3 NFC 6.67"](https://www.amazon.es/dp/B08JCDQKFQ/?tag=tolees-21) a 4.79 EUR (original: 9.79 EUR) (51.07 %  de descuento) en el siguiente enlace!

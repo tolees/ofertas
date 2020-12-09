@@ -10,8 +10,11 @@ author: ring
 slug: B07JFGJR9M
 description:
 actualPrice: 45 EUR
+currency: EUR
+price: 45
 comparePrice: 90 EUR
 inStock: true
+prodname: Lacoste Sport Sh3499 Sudadera  Gris  Senecio Chiné/Platine-Noir 6dz   X-Small  Talla del Fabricante: 2  para Hombre
 ---
 
 Tienes [Lacoste Sport Sh3499 Sudadera  Gris  Senecio Chiné/Platine-Noir 6dz   X-Small  Talla del Fabricante: 2  para Hombre](https://www.amazon.es/dp/B07JFGJR9M/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 45 EUR (original: 90 EUR) en el siguiente enlace!

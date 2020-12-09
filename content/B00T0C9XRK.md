@@ -10,8 +10,11 @@ author: ring
 slug: B00T0C9XRK
 description:
 actualPrice: 2.79 EUR
+currency: EUR
+price: 2.79
 comparePrice: 4.19 EUR
 inStock: true
+prodname: ESSENCE Lash Princess Efecto pestañas postizas máscara de pestañas
 ---
 
 Ahora mismo tienes [ESSENCE Lash Princess Efecto pestañas postizas máscara de pestañas](https://www.amazon.es/dp/B00T0C9XRK/?tag=tolees-21) a 2.79 EUR (original: 4.19 EUR) (33.41 %  de descuento) en el siguiente enlace!

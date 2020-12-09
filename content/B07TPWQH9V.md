@@ -10,8 +10,11 @@ author: ring
 slug: B07TPWQH9V
 description:
 actualPrice: 3.86 EUR
+currency: EUR
+price: 3.86
 comparePrice: 17.95 EUR
 inStock: true
+prodname: United Colors of Benetton T-Shirt Camiseta de Tirantes  Negro  Nero 100   X-Small para Mujer
 ---
 
 Ahora mismo tienes [United Colors of Benetton T-Shirt Camiseta de Tirantes  Negro  Nero 100   X-Small para Mujer](https://www.amazon.es/dp/B07TPWQH9V/?tag=tolees-21) a 3.86 EUR (original: 17.95 EUR) (78.50 %  de descuento) en el siguiente enlace!

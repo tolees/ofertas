@@ -10,8 +10,11 @@ author: ring
 slug: B00TTWVI2Y
 description:
 actualPrice: 8.5 EUR
+currency: EUR
+price: 8.5
 comparePrice: 15.0 EUR
 inStock: true
+prodname: THERMACARE Parche Térmico Terapéutico - 4 parches - Para el Dolor Lumbar y Cadera - Alivio Prolongado del Dolor Hasta 16 Horas - Sin Medicamentos
 ---
 
 Está [THERMACARE Parche Térmico Terapéutico - 4 parches - Para el Dolor Lumbar y Cadera - Alivio Prolongado del Dolor Hasta 16 Horas - Sin Medicamentos](https://www.amazon.es/dp/B00TTWVI2Y/?tag=tolees-21) con 43.33 de descuento por 8.5 EUR (original: 15.0 EUR) en el siguiente enlace!

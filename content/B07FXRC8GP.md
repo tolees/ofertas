@@ -10,8 +10,11 @@ author: ring
 slug: B07FXRC8GP
 description:
 actualPrice: 29.15 EUR
+currency: EUR
+price: 29.15
 comparePrice: 50 EUR
 inStock: true
+prodname: Vans Ward Suede/Canvas  Zapatillas Unisex Niños  Multicolor   Vans Skull  Black/Tango Red Vwo    30 EU
 ---
 
 Ahora mismo tienes [Vans Ward Suede/Canvas  Zapatillas Unisex Niños  Multicolor   Vans Skull  Black/Tango Red Vwo    30 EU](https://www.amazon.es/dp/B07FXRC8GP/?tag=tolees-21) a 29.15 EUR (original: 50 EUR) (41.70 %  de descuento) en el siguiente enlace!

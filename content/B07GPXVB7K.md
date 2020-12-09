@@ -10,8 +10,11 @@ author: ring
 slug: B07GPXVB7K
 description:
 actualPrice: 249.0 EUR
+currency: EUR
+price: 249.0
 comparePrice: 514.99 EUR
 inStock: true
+prodname: Bosch ProAnimal Unlimited Serie 8 BBS1ZOO Aspirador escoba sin cable especial mascotas  hasta 60 minutos de duración  incluye 1 batería extraíble  color rojo
 ---
 
 Ahora mismo tienes [Bosch ProAnimal Unlimited Serie 8 BBS1ZOO Aspirador escoba sin cable especial mascotas  hasta 60 minutos de duración  incluye 1 batería extraíble  color rojo](https://www.amazon.es/dp/B07GPXVB7K/?tag=tolees-21) a 249.0 EUR (original: 514.99 EUR) (51.65 %  de descuento) en el siguiente enlace!

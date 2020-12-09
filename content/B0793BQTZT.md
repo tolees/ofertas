@@ -10,8 +10,11 @@ author: ring
 slug: B0793BQTZT
 description:
 actualPrice: 141.5 EUR
+currency: EUR
+price: 141.5
 comparePrice: 189.9 EUR
 inStock: true
+prodname: BABYBJÖRN  One Air- Mochila Porta Bebé  2018 Edition  3D Tejido de red    Plata
 ---
 
 Tienes [BABYBJÖRN  One Air- Mochila Porta Bebé  2018 Edition  3D Tejido de red    Plata](https://www.amazon.es/dp/B0793BQTZT/?tag=tolees-21) con un 25.49 % de descuento con precio de oferta de 141.5 EUR (original: 189.9 EUR) en el siguiente enlace!

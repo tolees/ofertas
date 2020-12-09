@@ -10,8 +10,11 @@ author: ring
 slug: B00UBMR8YS
 description:
 actualPrice: 12.36 EUR
+currency: EUR
+price: 12.36
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Trust Urban - Soporte de móviles para coches  color negro
 ---
 
 Está [Trust Urban - Soporte de móviles para coches  color negro](https://www.amazon.es/dp/B00UBMR8YS/?tag=tolees-21) con 50.54 de descuento por 12.36 EUR (original: 24.99 EUR) en el siguiente enlace!

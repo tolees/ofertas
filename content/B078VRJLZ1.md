@@ -10,8 +10,11 @@ author: ring
 slug: B078VRJLZ1
 description:
 actualPrice: 20.24 EUR
+currency: EUR
+price: 20.24
 comparePrice: 75 EUR
 inStock: true
+prodname: Volcom Threezy Sudadera con Cremallera  Hombre  Azul  Oscuro/Claro   S
 ---
 
 Está [Volcom Threezy Sudadera con Cremallera  Hombre  Azul  Oscuro/Claro   S](https://www.amazon.es/dp/B078VRJLZ1/?tag=tolees-21) con 73.01 de descuento por 20.24 EUR (original: 75 EUR) en el siguiente enlace!

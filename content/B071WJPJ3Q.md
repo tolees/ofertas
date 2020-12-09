@@ -10,8 +10,11 @@ author: ring
 slug: B071WJPJ3Q
 description:
 actualPrice: 33.19 EUR
+currency: EUR
+price: 33.19
 comparePrice: 120 EUR
 inStock: true
+prodname: Helly Hansen Jr Legendary Pant Abrigo  Niños  Negro  años  Tamaño del Fabricante:10 
 ---
 
 Tienes [Helly Hansen Jr Legendary Pant Abrigo  Niños  Negro  años  Tamaño del Fabricante:10 ](https://www.amazon.es/dp/B071WJPJ3Q/?tag=tolees-21) con un 72.34 % de descuento con precio de oferta de 33.19 EUR (original: 120 EUR) en el siguiente enlace!

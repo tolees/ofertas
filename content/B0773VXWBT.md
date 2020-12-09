@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Under Armour UA W Micro G Pursuit  Zapat al 64.26 % de descuento'
+title: 'Descuento del 64.26 % en Under Armour UA W Micro G Pursuit  Zapat'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HDI4CKcgL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HDI4CKcgL._SL200_.jpg' ]
@@ -10,15 +10,18 @@ author: ring
 slug: B0773VXWBT
 description:
 actualPrice: 25.02 EUR
+currency: EUR
+price: 25.02
 comparePrice: 70 EUR
 inStock: true
+prodname: Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  Negro  Black/Ivory/Metallic Faded Gold   42 EU
 ---
 
-Está [Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  Negro  Black/Ivory/Metallic Faded Gold   42 EU](https://www.amazon.es/dp/B0773VXWBT/?tag=tolees-21) con 64.26 de descuento por 25.02 EUR (original: 70 EUR) en el siguiente enlace!
+Tienes [Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  Negro  Black/Ivory/Metallic Faded Gold   42 EU](https://www.amazon.es/dp/B0773VXWBT/?tag=tolees-21) con un 64.26 % de descuento con precio de oferta de 25.02 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![Under Armour UA W Micro G Pursuit  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41HDI4CKcgL._SL200_.jpg)](https://www.amazon.es/dp/B0773VXWBT/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0773VXWBT/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B0773VXWBT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

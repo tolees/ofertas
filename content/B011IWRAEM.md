@@ -10,8 +10,11 @@ author: ring
 slug: B011IWRAEM
 description:
 actualPrice: 26.9 EUR
+currency: EUR
+price: 26.9
 comparePrice: 45 EUR
 inStock: true
+prodname: Levi s 18195-0055  Polo para Hombre  Azul  Indigo X 9   Medium
 ---
 
 Tienes [Levi s 18195-0055  Polo para Hombre  Azul  Indigo X 9   Medium](https://www.amazon.es/dp/B011IWRAEM/?tag=tolees-21) con un 40.22 % de descuento con precio de oferta de 26.9 EUR (original: 45 EUR) en el siguiente enlace!

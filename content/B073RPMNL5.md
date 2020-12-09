@@ -10,14 +10,19 @@ author: ring
 slug: B073RPMNL5
 description:
 actualPrice: 49.75 EUR
+currency: EUR
+price: 49.75
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Helly Hansen Loke Backpack Mochila  Unisex  Negro  Black   Talla única
 ---
 
-Ahora mismo tienes [Helly Hansen Loke Backpack Mochila  Unisex  Negro  Black   Talla única](https://www.amazon.es/dp/B073RPMNL5/?tag=tolees-21) a 49.75 EUR (original: 70.0 EUR) (28.93 %  de descuento) en el siguiente enlace!
+Está [Helly Hansen Loke Backpack Mochila  Unisex  Negro  Black   Talla única](https://www.amazon.es/dp/B073RPMNL5/?tag=tolees-21) con 28.93 de descuento por 49.75 EUR (original: 70.0 EUR) en el siguiente enlace!
 
 [![Helly Hansen Loke Backpack Mochila  Unis](https://m.media-amazon.com/images/I/31WyNMgZOiL._SL200_.jpg)](https://www.amazon.es/dp/B073RPMNL5/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B073RPMNL5/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B073RPMNL5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

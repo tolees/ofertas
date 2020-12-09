@@ -10,8 +10,11 @@ author: ring
 slug: B07Z5GX4SP
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Salomon ALPHACROSS Blast GTX  Zapatillas de Trail Running para Hombre  Color: Verde  Olive Night/Black/Ebony   40 EU
 ---
 
 Ahora mismo tienes [Salomon ALPHACROSS Blast GTX  Zapatillas de Trail Running para Hombre  Color: Verde  Olive Night/Black/Ebony   40 EU](https://www.amazon.es/dp/B07Z5GX4SP/?tag=tolees-21) a 79.99 EUR (original: 110.0 EUR) (27.28 %  de descuento) en el siguiente enlace!

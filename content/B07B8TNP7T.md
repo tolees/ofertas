@@ -10,8 +10,11 @@ author: ring
 slug: B07B8TNP7T
 description:
 actualPrice: 19.83 EUR
+currency: EUR
+price: 19.83
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Gant 3 Pack Trunk CTN STP  Bañador para Hombre  Verde  Porcelain Green 334  Small
 ---
 
 Ahora mismo tienes [Gant 3 Pack Trunk CTN STP  Bañador para Hombre  Verde  Porcelain Green 334  Small](https://www.amazon.es/dp/B07B8TNP7T/?tag=tolees-21) a 19.83 EUR (original: 39.99 EUR) (50.41 %  de descuento) en el siguiente enlace!

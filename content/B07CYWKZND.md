@@ -10,8 +10,11 @@ author: ring
 slug: B07CYWKZND
 description:
 actualPrice: 138.99 EUR
+currency: EUR
+price: 138.99
 comparePrice: 262.8 EUR
 inStock: true
+prodname: Bosch Professional GSB 24-2 - Taladro percutor  1100 W  2 velocidades  3000 rpm  Ø max perforación hormigón 22 mm  en maletín 
 ---
 
 Ahora mismo tienes [Bosch Professional GSB 24-2 - Taladro percutor  1100 W  2 velocidades  3000 rpm  Ø max perforación hormigón 22 mm  en maletín ](https://www.amazon.es/dp/B07CYWKZND/?tag=tolees-21) a 138.99 EUR (original: 262.8 EUR) (47.11 %  de descuento) en el siguiente enlace!

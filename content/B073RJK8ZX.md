@@ -10,8 +10,11 @@ author: ring
 slug: B073RJK8ZX
 description:
 actualPrice: 25.39 EUR
+currency: EUR
+price: 25.39
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Reebok Bs8050  Zapatillas de Gimnasia para Mujer  Verde  Sour Melon/Cloud Grey/White   40.5 EU
 ---
 
 Ahora mismo tienes [Reebok Bs8050  Zapatillas de Gimnasia para Mujer  Verde  Sour Melon/Cloud Grey/White   40.5 EU](https://www.amazon.es/dp/B073RJK8ZX/?tag=tolees-21) a 25.39 EUR (original: 64.95 EUR) (60.91 %  de descuento) en el siguiente enlace!

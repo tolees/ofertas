@@ -10,8 +10,11 @@ author: ring
 slug: B01NH9RFKI
 description:
 actualPrice: 2.99 EUR
+currency: EUR
+price: 2.99
 comparePrice: 4 EUR
 inStock: true
+prodname: Fapil 10001 - Soporte escoba y recogedor
 ---
 
 Tienes [Fapil 10001 - Soporte escoba y recogedor](https://www.amazon.es/dp/B01NH9RFKI/?tag=tolees-21) con un 25.25 % de descuento con precio de oferta de 2.99 EUR (original: 4 EUR) en el siguiente enlace!

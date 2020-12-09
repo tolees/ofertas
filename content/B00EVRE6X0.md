@@ -10,8 +10,11 @@ author: ring
 slug: B00EVRE6X0
 description:
 actualPrice: 37.79 EUR
+currency: EUR
+price: 37.79
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Vileda Bravo - Tabla de planchar  azul
 ---
 
 Está [Vileda Bravo - Tabla de planchar  azul](https://www.amazon.es/dp/B00EVRE6X0/?tag=tolees-21) con 31.28 de descuento por 37.79 EUR (original: 54.99 EUR) en el siguiente enlace!

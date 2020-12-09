@@ -10,8 +10,11 @@ author: ring
 slug: B07FKSNF55
 description:
 actualPrice: 23.78 EUR
+currency: EUR
+price: 23.78
 comparePrice: 33.98 EUR
 inStock: true
+prodname: Joma Academy Chandal Caballero  Niños  Royal/Marino  XS
 ---
 
 Tienes [Joma Academy Chandal Caballero  Niños  Royal/Marino  XS](https://www.amazon.es/dp/B07FKSNF55/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 23.78 EUR (original: 33.98 EUR) en el siguiente enlace!

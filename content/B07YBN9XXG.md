@@ -10,8 +10,11 @@ author: ring
 slug: B07YBN9XXG
 description:
 actualPrice: 111.99 EUR
+currency: EUR
+price: 111.99
 comparePrice: 159.95 EUR
 inStock: true
+prodname: Bose SoundLink - Mini Altavoz Bluetooth II  Edición Especial  Color Plata
 ---
 
 Ahora mismo tienes [Bose SoundLink - Mini Altavoz Bluetooth II  Edición Especial  Color Plata](https://www.amazon.es/dp/B07YBN9XXG/?tag=tolees-21) a 111.99 EUR (original: 159.95 EUR) (29.98 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B079NPVW7H
 description:
 actualPrice: 67.47 EUR
+currency: EUR
+price: 67.47
 comparePrice: 200 EUR
 inStock: true
+prodname: Helly Hansen W Legendary Ins Pant  Mujer  fir Green  M
 ---
 
 Está [Helly Hansen W Legendary Ins Pant  Mujer  fir Green  M](https://www.amazon.es/dp/B079NPVW7H/?tag=tolees-21) con 66.27 de descuento por 67.47 EUR (original: 200 EUR) en el siguiente enlace!

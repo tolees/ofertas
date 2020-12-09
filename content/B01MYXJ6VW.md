@@ -10,8 +10,11 @@ author: ring
 slug: B01MYXJ6VW
 description:
 actualPrice: 5.95 EUR
+currency: EUR
+price: 5.95
 comparePrice: 12.95 EUR
 inStock: true
+prodname: Minecraft Niño Camiseta  3-4 Años 
 ---
 
 Ahora mismo tienes [Minecraft Niño Camiseta  3-4 Años ](https://www.amazon.es/dp/B01MYXJ6VW/?tag=tolees-21) a 5.95 EUR (original: 12.95 EUR) (54.05 %  de descuento) en el siguiente enlace!

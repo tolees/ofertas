@@ -10,8 +10,11 @@ author: ring
 slug: B07MMF4D2W
 description:
 actualPrice: 52.64 EUR
+currency: EUR
+price: 52.64
 comparePrice: 100 EUR
 inStock: true
+prodname: Hackett Core Kensington Shorts Pantalones Cortos  Marrón  Safari 734   W38 para Hombre
 ---
 
 Está [Hackett Core Kensington Shorts Pantalones Cortos  Marrón  Safari 734   W38 para Hombre](https://www.amazon.es/dp/B07MMF4D2W/?tag=tolees-21) con 47.36 de descuento por 52.64 EUR (original: 100 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B077YDTTWV
 description:
 actualPrice: 17.97 EUR
+currency: EUR
+price: 17.97
 comparePrice: 29.95 EUR
 inStock: true
+prodname: HIKARO Sudadera con Capucha y Logo Mujer  Verde  Khaki   40  Talla del fabricante: Medium 
 ---
 
 Tienes [HIKARO Sudadera con Capucha y Logo Mujer  Verde  Khaki   40  Talla del fabricante: Medium ](https://www.amazon.es/dp/B077YDTTWV/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 17.97 EUR (original: 29.95 EUR) en el siguiente enlace!

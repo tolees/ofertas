@@ -10,8 +10,11 @@ author: ring
 slug: B07L4QNZVF
 description:
 actualPrice: 15.2 EUR
+currency: EUR
+price: 15.2
 comparePrice: 25.0 EUR
 inStock: true
+prodname: SwitchBot Termómetro Higrómetro Sensor de Temperatura y Humedad con Alertas  para Cigarros y Guitarra Humidor  Agregar Hub Plus/Mini Compatible con Alexa  Google Home  HomePod  IFTTT
 ---
 
 Tienes [SwitchBot Termómetro Higrómetro Sensor de Temperatura y Humedad con Alertas  para Cigarros y Guitarra Humidor  Agregar Hub Plus/Mini Compatible con Alexa  Google Home  HomePod  IFTTT](https://www.amazon.es/dp/B07L4QNZVF/?tag=tolees-21) con un 39.20 % de descuento con precio de oferta de 15.2 EUR (original: 25.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DLFC68J
 description:
 actualPrice: 21.71 EUR
+currency: EUR
+price: 21.71
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Women s Secret TF Black Dots PJ Conjuntos de Pijama  Mujer   Varios 98   Medium  Tamaño del Fabricante:M 
 ---
 
 Ahora mismo tienes [Women s Secret TF Black Dots PJ Conjuntos de Pijama  Mujer   Varios 98   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07DLFC68J/?tag=tolees-21) a 21.71 EUR (original: 29.99 EUR) (27.61 %  de descuento) en el siguiente enlace!

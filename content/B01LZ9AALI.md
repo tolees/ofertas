@@ -10,8 +10,11 @@ author: ring
 slug: B01LZ9AALI
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Thumbs Up! Taza Unicornio Cambiante  Cerámica  Multicolor  15x10.5x9 cm
 ---
 
 Tienes [Thumbs Up! Taza Unicornio Cambiante  Cerámica  Multicolor  15x10.5x9 cm](https://www.amazon.es/dp/B01LZ9AALI/?tag=tolees-21) con un 33.36 % de descuento con precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

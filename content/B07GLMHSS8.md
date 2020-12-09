@@ -10,8 +10,11 @@ author: ring
 slug: B07GLMHSS8
 description:
 actualPrice: 19.49 EUR
+currency: EUR
+price: 19.49
 comparePrice: 34.49 EUR
 inStock: true
+prodname: Barbie Vamos de viaje  muñeca con accesorios  edad recomendada: 3 años y mas  Mattel FWV25 
 ---
 
 Está [Barbie Vamos de viaje  muñeca con accesorios  edad recomendada: 3 años y mas  Mattel FWV25 ](https://www.amazon.es/dp/B07GLMHSS8/?tag=tolees-21) con 43.49 de descuento por 19.49 EUR (original: 34.49 EUR) en el siguiente enlace!

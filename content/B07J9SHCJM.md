@@ -10,8 +10,11 @@ author: ring
 slug: B07J9SHCJM
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 8.98 EUR
 inStock: true
+prodname: accesorios Pieza micrófono de condensador para conferencia esponja coprimicrofono Carcasa para micrófono 45 x 33 mm
 ---
 
 Tienes [accesorios Pieza micrófono de condensador para conferencia esponja coprimicrofono Carcasa para micrófono 45 x 33 mm](https://www.amazon.es/dp/B07J9SHCJM/?tag=tolees-21) con un 44.43 % de descuento con precio de oferta de 4.99 EUR (original: 8.98 EUR) en el siguiente enlace!

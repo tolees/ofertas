@@ -10,8 +10,11 @@ author: ring
 slug: B078HJZTBD
 description:
 actualPrice: 10.97 EUR
+currency: EUR
+price: 10.97
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield 273554 Camisa Casual  Hombre  Azul  Gamma Azules   Medium  Tamaño del Fabricante:M 
 ---
 
 Tienes [Springfield 273554 Camisa Casual  Hombre  Azul  Gamma Azules   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078HJZTBD/?tag=tolees-21) con un 63.42 % de descuento con precio de oferta de 10.97 EUR (original: 29.99 EUR) en el siguiente enlace!

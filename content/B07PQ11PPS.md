@@ -10,8 +10,11 @@ author: ring
 slug: B07PQ11PPS
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: 【LED Controlable】Alexa Interruptor Persiana  Etersky Interruptor WiFi  Control de APP y con Temporizador  Compatible con Alexa y Google Home para Motor Persiana Tubular  Se Necesita Cable Neutro 
 ---
 
 Está [【LED Controlable】Alexa Interruptor Persiana  Etersky Interruptor WiFi  Control de APP y con Temporizador  Compatible con Alexa y Google Home para Motor Persiana Tubular  Se Necesita Cable Neutro ](https://www.amazon.es/dp/B07PQ11PPS/?tag=tolees-21) con 30.45 de descuento por 15.99 EUR (original: 22.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DBJ5XJP
 description:
 actualPrice: 15.91 EUR
+currency: EUR
+price: 15.91
 comparePrice: 59.95 EUR
 inStock: true
+prodname: United Colors of Benetton Jacket  Chaqueta para Niños  Azul  Bluette 76c  110  Talla del Fabricante: X-Small 
 ---
 
 Ahora mismo tienes [United Colors of Benetton Jacket  Chaqueta para Niños  Azul  Bluette 76c  110  Talla del Fabricante: X-Small ](https://www.amazon.es/dp/B07DBJ5XJP/?tag=tolees-21) a 15.91 EUR (original: 59.95 EUR) (73.46 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JGTBLJM
 description:
 actualPrice: 38.91 EUR
+currency: EUR
+price: 38.91
 comparePrice: 140 EUR
 inStock: true
+prodname: Armani Exchange J13 Slim Vaqueros  Azul  Denim Indaco 1500   W28/L34  Talla del Fabricante: 28  para Hombre
 ---
 
 Ahora mismo tienes [Armani Exchange J13 Slim Vaqueros  Azul  Denim Indaco 1500   W28/L34  Talla del Fabricante: 28  para Hombre](https://www.amazon.es/dp/B07JGTBLJM/?tag=tolees-21) a 38.91 EUR (original: 140 EUR) (72.21 %  de descuento) en el siguiente enlace!

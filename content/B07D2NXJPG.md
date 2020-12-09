@@ -10,8 +10,11 @@ author: ring
 slug: B07D2NXJPG
 description:
 actualPrice: 15.41 EUR
+currency: EUR
+price: 15.41
 comparePrice: 35.3 EUR
 inStock: true
+prodname: Reebok Almotio 4.0 2V  Zapatillas de Running Unisex para Niños  Azul  Cool Col Navy/Dgtl Pnk/Slvr Met   31.5 EU
 ---
 
 Está [Reebok Almotio 4.0 2V  Zapatillas de Running Unisex para Niños  Azul  Cool Col Navy/Dgtl Pnk/Slvr Met   31.5 EU](https://www.amazon.es/dp/B07D2NXJPG/?tag=tolees-21) con 56.35 de descuento por 15.41 EUR (original: 35.3 EUR) en el siguiente enlace!

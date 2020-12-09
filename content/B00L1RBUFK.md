@@ -10,8 +10,11 @@ author: ring
 slug: B00L1RBUFK
 description:
 actualPrice: 44.51 EUR
+currency: EUR
+price: 44.51
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Columbia Mujer Pantalón convertible  SATURDAY TRAIL II CONVERTIBLE PANTS  Nailon Negro  Talla: 6  AK8120
 ---
 
 Ahora mismo tienes [Columbia Mujer Pantalón convertible  SATURDAY TRAIL II CONVERTIBLE PANTS  Nailon Negro  Talla: 6  AK8120](https://www.amazon.es/dp/B00L1RBUFK/?tag=tolees-21) a 44.51 EUR (original: 79.95 EUR) (44.33 %  de descuento) en el siguiente enlace!

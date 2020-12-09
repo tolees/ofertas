@@ -10,8 +10,11 @@ author: ring
 slug: B002SECMUC
 description:
 actualPrice: 40.24 EUR
+currency: EUR
+price: 40.24
 comparePrice: 84.93 EUR
 inStock: true
+prodname: Eglo Lámparas  140 watts  Cromo  Gris y Negro  91.5 x 12.5 x 11 cm
 ---
 
 Está [Eglo Lámparas  140 watts  Cromo  Gris y Negro  91.5 x 12.5 x 11 cm](https://www.amazon.es/dp/B002SECMUC/?tag=tolees-21) con 52.62 de descuento por 40.24 EUR (original: 84.93 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HYWWL1V
 description:
 actualPrice: 48.84 EUR
+currency: EUR
+price: 48.84
 comparePrice: 126.31 EUR
 inStock: true
+prodname: Panel LED apto para exterior  IP44   a empotrar o de superficie
 ---
 
 Tienes [Panel LED apto para exterior  IP44   a empotrar o de superficie](https://www.amazon.es/dp/B07HYWWL1V/?tag=tolees-21) con un 61.33 % de descuento con precio de oferta de 48.84 EUR (original: 126.31 EUR) en el siguiente enlace!

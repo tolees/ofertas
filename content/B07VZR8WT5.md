@@ -10,8 +10,11 @@ author: ring
 slug: B07VZR8WT5
 description:
 actualPrice: 28.56 EUR
+currency: EUR
+price: 28.56
 comparePrice: 99.95 EUR
 inStock: true
+prodname: PIKOLINOS Sandalia Plana de Piel CADAQUES W8K
 ---
 
 Tienes [PIKOLINOS Sandalia Plana de Piel CADAQUES W8K](https://www.amazon.es/dp/B07VZR8WT5/?tag=tolees-21) con un 71.43 % de descuento con precio de oferta de 28.56 EUR (original: 99.95 EUR) en el siguiente enlace!

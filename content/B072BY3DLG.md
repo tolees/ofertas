@@ -10,8 +10,11 @@ author: ring
 slug: B072BY3DLG
 description:
 actualPrice: 10.82 EUR
+currency: EUR
+price: 10.82
 comparePrice: 26 EUR
 inStock: true
+prodname: Under Armour Fly by Short Pantalón Corto  Mujer  Naranja  Brilliance/White/Reflective 819   S
 ---
 
 Ahora mismo tienes [Under Armour Fly by Short Pantalón Corto  Mujer  Naranja  Brilliance/White/Reflective 819   S](https://www.amazon.es/dp/B072BY3DLG/?tag=tolees-21) a 10.82 EUR (original: 26 EUR) (58.38 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BYSCY4V
 description:
 actualPrice: 7.1 EUR
+currency: EUR
+price: 7.1
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Sloggi Women Move Fly Capri  Ropa Interior técnica Mujer   Grey Combination M013   38  Talla del Fabricante: Small 
 ---
 
 Está [Sloggi Women Move Fly Capri  Ropa Interior técnica Mujer   Grey Combination M013   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B07BYSCY4V/?tag=tolees-21) con 82.23 de descuento por 7.1 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DWB2JWF
 description:
 actualPrice: 19.5 EUR
+currency: EUR
+price: 19.5
 comparePrice: 39 EUR
 inStock: true
+prodname: Sabanalia - Juego de sábanas estampadas Checks  disponible en varios tamaños y colores   cama 105  gris-azul
 ---
 
 Ahora mismo tienes [Sabanalia - Juego de sábanas estampadas Checks  disponible en varios tamaños y colores   cama 105  gris-azul](https://www.amazon.es/dp/B07DWB2JWF/?tag=tolees-21) a 19.5 EUR (original: 39 EUR) (50.00 %  de descuento) en el siguiente enlace!

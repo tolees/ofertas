@@ -10,16 +10,17 @@ author: ring
 slug: B07HNFBCSB
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 10.2 EUR
 inStock: true
+prodname: Kubrick: 2001. Una Odisea Del Espacio Blu-Ray- Iconic [Blu-ray]
 ---
 
-Está [Kubrick: 2001. Una Odisea Del Espacio Blu-Ray- Iconic [Blu-ray]](https://www.amazon.es/dp/B07HNFBCSB/?tag=tolees-21) con 51.08 de descuento por 4.99 EUR (original: 10.2 EUR) en el siguiente enlace!
+Ahora mismo tienes [Kubrick: 2001. Una Odisea Del Espacio Blu-Ray- Iconic [Blu-ray]](https://www.amazon.es/dp/B07HNFBCSB/?tag=tolees-21) a 4.99 EUR (original: 10.2 EUR) (51.08 %  de descuento) en el siguiente enlace!
 
 [![Kubrick: 2001. Una Odisea Del Espacio Bl](https://m.media-amazon.com/images/I/41QSaEsNeaL._SL200_.jpg)](https://www.amazon.es/dp/B07HNFBCSB/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07HNFBCSB/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07HNFBCSB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -10,8 +10,11 @@ author: ring
 slug: B06XS9GXLR
 description:
 actualPrice: 209.3 EUR
+currency: EUR
+price: 209.3
 comparePrice: 299.0 EUR
 inStock: true
+prodname: Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 1513494
 ---
 
 Tienes [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 1513494](https://www.amazon.es/dp/B06XS9GXLR/?tag=tolees-21) con un 30.00 % de descuento con precio de oferta de 209.3 EUR (original: 299.0 EUR) en el siguiente enlace!

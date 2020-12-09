@@ -10,8 +10,11 @@ author: ring
 slug: B0787KRJFT
 description:
 actualPrice: 59.97 EUR
+currency: EUR
+price: 59.97
 comparePrice: 139.99 EUR
 inStock: true
+prodname: Columbia Terrebonne II Mid Outdry  Zapatillas de Senderismo Hombre  Negro  Black  Lux   40.5 EU
 ---
 
 Tienes [Columbia Terrebonne II Mid Outdry  Zapatillas de Senderismo Hombre  Negro  Black  Lux   40.5 EU](https://www.amazon.es/dp/B0787KRJFT/?tag=tolees-21) con un 57.16 % de descuento con precio de oferta de 59.97 EUR (original: 139.99 EUR) en el siguiente enlace!

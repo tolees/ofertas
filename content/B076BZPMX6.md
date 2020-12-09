@@ -10,8 +10,11 @@ author: ring
 slug: B076BZPMX6
 description:
 actualPrice: 16.9 EUR
+currency: EUR
+price: 16.9
 comparePrice: 23.43 EUR
 inStock: true
+prodname: Divoom Air Beat 10 - Altavoz portatil  3.5"  Bluetooth 3.0  microfono  Manos Libres   Color Rojo
 ---
 
 Ahora mismo tienes [Divoom Air Beat 10 - Altavoz portatil  3.5"  Bluetooth 3.0  microfono  Manos Libres   Color Rojo](https://www.amazon.es/dp/B076BZPMX6/?tag=tolees-21) a 16.9 EUR (original: 23.43 EUR) (27.87 %  de descuento) en el siguiente enlace!

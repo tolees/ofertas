@@ -10,8 +10,11 @@ author: ring
 slug: B07V3Q5RJP
 description:
 actualPrice: 20.49 EUR
+currency: EUR
+price: 20.49
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Superdry Classic Boxer Triple Pack  Azul  Navy Multipack J6d   L para Hombre
 ---
 
 Ahora mismo tienes [Superdry Classic Boxer Triple Pack  Azul  Navy Multipack J6d   L para Hombre](https://www.amazon.es/dp/B07V3Q5RJP/?tag=tolees-21) a 20.49 EUR (original: 34.99 EUR) (41.44 %  de descuento) en el siguiente enlace!

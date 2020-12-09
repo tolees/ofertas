@@ -10,8 +10,11 @@ author: ring
 slug: B07FPFKL4X
 description:
 actualPrice: 8.56 EUR
+currency: EUR
+price: 8.56
 comparePrice: 13.99 EUR
 inStock: true
+prodname: AUKEY Hub USB 3.0 de 4 Puertos de Datos Ultrafino de Aluminio USB Data Hub para Apple MacBook Air  Mac Pro/Mini  Microsoft Surface Pro  DELL XPS 15 - Gris Espacial
 ---
 
 Está [AUKEY Hub USB 3.0 de 4 Puertos de Datos Ultrafino de Aluminio USB Data Hub para Apple MacBook Air  Mac Pro/Mini  Microsoft Surface Pro  DELL XPS 15 - Gris Espacial](https://www.amazon.es/dp/B07FPFKL4X/?tag=tolees-21) con 38.81 de descuento por 8.56 EUR (original: 13.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07QJT7XYR
 description:
 actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
 comparePrice: 36.95 EUR
 inStock: true
+prodname: Nenuco Dolor de Garganta - Muñeca bebé  para niños y niñas a partir de 3 años  Famosa 700015152 
 ---
 
 Está [Nenuco Dolor de Garganta - Muñeca bebé  para niños y niñas a partir de 3 años  Famosa 700015152 ](https://www.amazon.es/dp/B07QJT7XYR/?tag=tolees-21) con 32.48 de descuento por 24.95 EUR (original: 36.95 EUR) en el siguiente enlace!

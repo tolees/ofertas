@@ -10,8 +10,11 @@ author: ring
 slug: B075MCGSG7
 description:
 actualPrice: 10.98 EUR
+currency: EUR
+price: 10.98
 comparePrice: 16.98 EUR
 inStock: true
+prodname: 10 Colores Tarjetero para Tarjeta de Credito Cuero para Mujer Hombre - 26 Tarjetas  Sandía Rojo 
 ---
 
 Ahora mismo tienes [10 Colores Tarjetero para Tarjeta de Credito Cuero para Mujer Hombre - 26 Tarjetas  Sandía Rojo ](https://www.amazon.es/dp/B075MCGSG7/?tag=tolees-21) a 10.98 EUR (original: 16.98 EUR) (35.34 %  de descuento) en el siguiente enlace!

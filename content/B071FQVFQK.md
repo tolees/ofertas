@@ -10,8 +10,11 @@ author: ring
 slug: B071FQVFQK
 description:
 actualPrice: 10.13 EUR
+currency: EUR
+price: 10.13
 comparePrice: 28 EUR
 inStock: true
+prodname: Under Armour Tech Ssv Graphic Twist Camisa de Manga Corta  Mujer  Gris  S
 ---
 
 Ahora mismo tienes [Under Armour Tech Ssv Graphic Twist Camisa de Manga Corta  Mujer  Gris  S](https://www.amazon.es/dp/B071FQVFQK/?tag=tolees-21) a 10.13 EUR (original: 28 EUR) (63.82 %  de descuento) en el siguiente enlace!

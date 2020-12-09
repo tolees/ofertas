@@ -10,8 +10,11 @@ author: ring
 slug: B07CTN8DTF
 description:
 actualPrice: 24.72 EUR
+currency: EUR
+price: 24.72
 comparePrice: 60 EUR
 inStock: true
+prodname: Under Armour Grade School Pursuit Ng  Zapatillas de Running para Niñas  Rosa Penta Pop Pink 600  38.5 EU
 ---
 
 Está [Under Armour Grade School Pursuit Ng  Zapatillas de Running para Niñas  Rosa Penta Pop Pink 600  38.5 EU](https://www.amazon.es/dp/B07CTN8DTF/?tag=tolees-21) con 58.80 de descuento por 24.72 EUR (original: 60 EUR) en el siguiente enlace!

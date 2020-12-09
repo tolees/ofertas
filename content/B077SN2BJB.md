@@ -10,8 +10,11 @@ author: ring
 slug: B077SN2BJB
 description:
 actualPrice: 122.65 EUR
+currency: EUR
+price: 122.65
 comparePrice: 249 EUR
 inStock: true
+prodname: Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3841
 ---
 
 Tienes [Michael Kors Reloj Analogico para Mujer de Cuarzo con Correa en Acero Inoxidable MK3841](https://www.amazon.es/dp/B077SN2BJB/?tag=tolees-21) con un 50.74 % de descuento con precio de oferta de 122.65 EUR (original: 249 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FHDCJHF
 description:
 actualPrice: 74.49 EUR
+currency: EUR
+price: 74.49
 comparePrice: 150.0 EUR
 inStock: true
+prodname: Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Rojo  Alert Red 222   S
 ---
 
 Tienes [Helly Hansen Crew Midlayer Chaqueta deportiva impermeable  Hombre  Rojo  Alert Red 222   S](https://www.amazon.es/dp/B07FHDCJHF/?tag=tolees-21) con un 50.34 % de descuento con precio de oferta de 74.49 EUR (original: 150.0 EUR) en el siguiente enlace!

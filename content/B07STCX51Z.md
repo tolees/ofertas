@@ -10,8 +10,11 @@ author: ring
 slug: B07STCX51Z
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 21.54 EUR
 inStock: true
+prodname: Dibea Piscina Plegable de PVC para Perros  bañera para Perros  Piscina para Mascotas  bañera Plegable para Perros en Varios tamaños  Ø  S  80 x 20 cm
 ---
 
 Está [Dibea Piscina Plegable de PVC para Perros  bañera para Perros  Piscina para Mascotas  bañera Plegable para Perros en Varios tamaños  Ø  S  80 x 20 cm](https://www.amazon.es/dp/B07STCX51Z/?tag=tolees-21) con 35.05 de descuento por 13.99 EUR (original: 21.54 EUR) en el siguiente enlace!

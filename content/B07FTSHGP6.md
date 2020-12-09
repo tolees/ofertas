@@ -10,8 +10,11 @@ author: ring
 slug: B07FTSHGP6
 description:
 actualPrice: 32.19 EUR
+currency: EUR
+price: 32.19
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Slim Rider Chaqueta Vaquera  Azul  Flick Dark Ka   X-Large para Hombre
 ---
 
 Tienes [Lee Slim Rider Chaqueta Vaquera  Azul  Flick Dark Ka   X-Large para Hombre](https://www.amazon.es/dp/B07FTSHGP6/?tag=tolees-21) con un 67.79 % de descuento con precio de oferta de 32.19 EUR (original: 99.95 EUR) en el siguiente enlace!

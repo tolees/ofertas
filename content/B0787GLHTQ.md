@@ -10,8 +10,11 @@ author: ring
 slug: B0787GLHTQ
 description:
 actualPrice: 43.3 EUR
+currency: EUR
+price: 43.3
 comparePrice: 85 EUR
 inStock: true
+prodname: Pepe Jeans London Jayden 2.1 Essentials  Zapatillas Hombre  Beige  Sand   44 EU
 ---
 
 Ahora mismo tienes [Pepe Jeans London Jayden 2.1 Essentials  Zapatillas Hombre  Beige  Sand   44 EU](https://www.amazon.es/dp/B0787GLHTQ/?tag=tolees-21) a 43.3 EUR (original: 85 EUR) (49.06 %  de descuento) en el siguiente enlace!

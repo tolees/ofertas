@@ -10,8 +10,11 @@ author: ring
 slug: B07JJC9VQW
 description:
 actualPrice: 54 EUR
+currency: EUR
+price: 54
 comparePrice: 100 EUR
 inStock: true
+prodname: Armani Exchange Colour Block suéter  Azul  Navy/Marine 05bn   X-Large para Hombre
 ---
 
 Ahora mismo tienes [Armani Exchange Colour Block suéter  Azul  Navy/Marine 05bn   X-Large para Hombre](https://www.amazon.es/dp/B07JJC9VQW/?tag=tolees-21) a 54 EUR (original: 100 EUR) (46.00 %  de descuento) en el siguiente enlace!

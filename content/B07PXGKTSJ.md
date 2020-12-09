@@ -10,8 +10,11 @@ author: ring
 slug: B07PXGKTSJ
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Superdry Orange Label Vintage Embroidery S/s tee Camiseta  Verde  Woodland Green Grit B3m   Small para Hombre
 ---
 
 Ahora mismo tienes [Superdry Orange Label Vintage Embroidery S/s tee Camiseta  Verde  Woodland Green Grit B3m   Small para Hombre](https://www.amazon.es/dp/B07PXGKTSJ/?tag=tolees-21) a 14.95 EUR (original: 24.99 EUR) (40.18 %  de descuento) en el siguiente enlace!

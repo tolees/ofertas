@@ -10,8 +10,11 @@ author: ring
 slug: B06XQ43SVJ
 description:
 actualPrice: 17.9 EUR
+currency: EUR
+price: 17.9
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Desigual CINT_to The Office Cinturón  Negro 2000  95 para Mujer
 ---
 
 Está [Desigual CINT_to The Office Cinturón  Negro 2000  95 para Mujer](https://www.amazon.es/dp/B06XQ43SVJ/?tag=tolees-21) con 40.23 de descuento por 17.9 EUR (original: 29.95 EUR) en el siguiente enlace!

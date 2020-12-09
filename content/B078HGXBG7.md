@@ -10,8 +10,11 @@ author: ring
 slug: B078HGXBG7
 description:
 actualPrice: 13.58 EUR
+currency: EUR
+price: 13.58
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Springfield Camisa Manga Corta Camisa Casual  Hombre  Azul  Gama Azules   Large  Tamaño del Fabricante:L 
 ---
 
 Ahora mismo tienes [Springfield Camisa Manga Corta Camisa Casual  Hombre  Azul  Gama Azules   Large  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B078HGXBG7/?tag=tolees-21) a 13.58 EUR (original: 25.99 EUR) (47.75 %  de descuento) en el siguiente enlace!

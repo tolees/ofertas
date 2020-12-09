@@ -10,8 +10,11 @@ author: ring
 slug: B01NCV3AH1
 description:
 actualPrice: 10.44 EUR
+currency: EUR
+price: 10.44
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Rollo gofrado de envasado al vacío  28cm x 6 metros   2 uds.  para Todo Tipo de envasadora doméstica  Foodsaver  Lacor  Caso  Silvercrest  etc.
 ---
 
 Está [Rollo gofrado de envasado al vacío  28cm x 6 metros   2 uds.  para Todo Tipo de envasadora doméstica  Foodsaver  Lacor  Caso  Silvercrest  etc.](https://www.amazon.es/dp/B01NCV3AH1/?tag=tolees-21) con 25.38 de descuento por 10.44 EUR (original: 13.99 EUR) en el siguiente enlace!

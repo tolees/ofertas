@@ -10,8 +10,11 @@ author: ring
 slug: B06XFDGDCY
 description:
 actualPrice: 5.34 EUR
+currency: EUR
+price: 5.34
 comparePrice: 56 EUR
 inStock: true
+prodname: Juana Barranco Tesa Falda Casual  Mujer  Negro  46  Tamaño del Fabricante:L 
 ---
 
 Está [Juana Barranco Tesa Falda Casual  Mujer  Negro  46  Tamaño del Fabricante:L ](https://www.amazon.es/dp/B06XFDGDCY/?tag=tolees-21) con 90.46 de descuento por 5.34 EUR (original: 56 EUR) en el siguiente enlace!

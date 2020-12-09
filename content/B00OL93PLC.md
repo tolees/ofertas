@@ -10,8 +10,11 @@ author: ring
 slug: B00OL93PLC
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 35 EUR
 inStock: true
+prodname: SYROKAN - Sujetador Deportivo de Sin Aros para Mujer Hot Pink ES:85D  EU 70D 
 ---
 
 Tienes [SYROKAN - Sujetador Deportivo de Sin Aros para Mujer Hot Pink ES:85D  EU 70D ](https://www.amazon.es/dp/B00OL93PLC/?tag=tolees-21) con un 42.89 % de descuento con precio de oferta de 19.99 EUR (original: 35 EUR) en el siguiente enlace!

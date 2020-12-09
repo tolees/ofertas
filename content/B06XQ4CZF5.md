@@ -10,8 +10,11 @@ author: ring
 slug: B06XQ4CZF5
 description:
 actualPrice: 27.54 EUR
+currency: EUR
+price: 27.54
 comparePrice: 119.9 EUR
 inStock: true
+prodname: Geox D Blenda A  Mocasines para Mujer  Negro  Black   39.5 EU
 ---
 
 Está [Geox D Blenda A  Mocasines para Mujer  Negro  Black   39.5 EU](https://www.amazon.es/dp/B06XQ4CZF5/?tag=tolees-21) con 77.03 de descuento por 27.54 EUR (original: 119.9 EUR) en el siguiente enlace!

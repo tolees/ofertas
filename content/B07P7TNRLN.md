@@ -10,8 +10,11 @@ author: ring
 slug: B07P7TNRLN
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: NWOUIIAY 4 Modelos 16PCS Cabezales Cepillos Cabezales Cepillos Eléctrico Recambios Cepillos para Oral-B
 ---
 
 Está [NWOUIIAY 4 Modelos 16PCS Cabezales Cepillos Cabezales Cepillos Eléctrico Recambios Cepillos para Oral-B](https://www.amazon.es/dp/B07P7TNRLN/?tag=tolees-21) con 60.02 de descuento por 15.99 EUR (original: 39.99 EUR) en el siguiente enlace!

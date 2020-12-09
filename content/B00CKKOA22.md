@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SportPlus Banco de Sentadillas – Banco P al 40.00 % de descuento'
+title: 'Descuento del 40.00 % en SportPlus Banco de Sentadillas – Banco P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41N4f%2Bin78L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41N4f%2Bin78L._SL200_.jpg' ]
@@ -10,15 +10,18 @@ author: ring
 slug: B00CKKOA22
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: SportPlus Banco de Sentadillas – Banco Plegable Fitness – Incluye 2 Mancuernas de 1.5 Kg - Plegable
 ---
 
-Está [SportPlus Banco de Sentadillas – Banco Plegable Fitness – Incluye 2 Mancuernas de 1.5 Kg - Plegable](https://www.amazon.es/dp/B00CKKOA22/?tag=tolees-21) con 40.00 de descuento por 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Tienes [SportPlus Banco de Sentadillas – Banco Plegable Fitness – Incluye 2 Mancuernas de 1.5 Kg - Plegable](https://www.amazon.es/dp/B00CKKOA22/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![SportPlus Banco de Sentadillas – Banco P](https://images-eu.ssl-images-amazon.com/images/I/41N4f%2Bin78L._SL200_.jpg)](https://www.amazon.es/dp/B00CKKOA22/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00CKKOA22/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B00CKKOA22/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

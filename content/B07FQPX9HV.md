@@ -10,8 +10,11 @@ author: ring
 slug: B07FQPX9HV
 description:
 actualPrice: 8.95 EUR
+currency: EUR
+price: 8.95
 comparePrice: 14.9 EUR
 inStock: true
+prodname: JACK & JONES Jcokarl tee SS Crew Neck Camiseta  Azul  Sky Captain Fit:Reg Melange - JJ Print   Medium para Hombre
 ---
 
 Ahora mismo tienes [JACK & JONES Jcokarl tee SS Crew Neck Camiseta  Azul  Sky Captain Fit:Reg Melange - JJ Print   Medium para Hombre](https://www.amazon.es/dp/B07FQPX9HV/?tag=tolees-21) a 8.95 EUR (original: 14.9 EUR) (39.93 %  de descuento) en el siguiente enlace!

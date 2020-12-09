@@ -10,8 +10,11 @@ author: ring
 slug: B01NAV8WNB
 description:
 actualPrice: 59.45 EUR
+currency: EUR
+price: 59.45
 comparePrice: 100 EUR
 inStock: true
+prodname: Merrell Vapor Glove 3  Zapatillas Deportivas para Interior para Hombre  Rojo Molten Lava  43 EU
 ---
 
 Está [Merrell Vapor Glove 3  Zapatillas Deportivas para Interior para Hombre  Rojo Molten Lava  43 EU](https://www.amazon.es/dp/B01NAV8WNB/?tag=tolees-21) con 40.55 de descuento por 59.45 EUR (original: 100 EUR) en el siguiente enlace!

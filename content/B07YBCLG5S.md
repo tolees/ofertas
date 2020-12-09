@@ -10,8 +10,11 @@ author: ring
 slug: B07YBCLG5S
 description:
 actualPrice: 55.2 EUR
+currency: EUR
+price: 55.2
 comparePrice: 79.0 EUR
 inStock: true
+prodname: Sleeping Baby Play: Máquina de Ruido Blanco y Melodías Orgánicas para Bebés. 30% Descuento Black Friday
 ---
 
 Tienes [Sleeping Baby Play: Máquina de Ruido Blanco y Melodías Orgánicas para Bebés. 30% Descuento Black Friday](https://www.amazon.es/dp/B07YBCLG5S/?tag=tolees-21) con un 30.13 % de descuento con precio de oferta de 55.2 EUR (original: 79.0 EUR) en el siguiente enlace!

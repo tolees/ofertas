@@ -10,8 +10,11 @@ author: ring
 slug: B071FTN9ML
 description:
 actualPrice: 43.99 EUR
+currency: EUR
+price: 43.99
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Reebok Astroride Run Fire  Zapatillas de Running para Mujer  Gris  Flint Gry/Alloy/VCS Violet/Aubergine/Wht   38.5 EU
 ---
 
 Está [Reebok Astroride Run Fire  Zapatillas de Running para Mujer  Gris  Flint Gry/Alloy/VCS Violet/Aubergine/Wht   38.5 EU](https://www.amazon.es/dp/B071FTN9ML/?tag=tolees-21) con 26.62 de descuento por 43.99 EUR (original: 59.95 EUR) en el siguiente enlace!

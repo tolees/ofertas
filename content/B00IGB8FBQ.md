@@ -10,8 +10,11 @@ author: ring
 slug: B00IGB8FBQ
 description:
 actualPrice: 16.6 EUR
+currency: EUR
+price: 16.6
 comparePrice: 39 EUR
 inStock: true
+prodname: Karl Lagerfeld 42738 - Eau de toilette para hombre
 ---
 
 Tienes [Karl Lagerfeld 42738 - Eau de toilette para hombre](https://www.amazon.es/dp/B00IGB8FBQ/?tag=tolees-21) con un 57.44 % de descuento con precio de oferta de 16.6 EUR (original: 39 EUR) en el siguiente enlace!

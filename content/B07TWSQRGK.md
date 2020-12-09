@@ -10,8 +10,11 @@ author: ring
 slug: B07TWSQRGK
 description:
 actualPrice: 27.85 EUR
+currency: EUR
+price: 27.85
 comparePrice: 69.0 EUR
 inStock: true
+prodname: KiplingAsseni MiniMujerBolsos totesNegro  Black Noir 33x21x14 Centimeters  B x H x T 
 ---
 
 Tienes [KiplingAsseni MiniMujerBolsos totesNegro  Black Noir 33x21x14 Centimeters  B x H x T ](https://www.amazon.es/dp/B07TWSQRGK/?tag=tolees-21) con un 59.64 % de descuento con precio de oferta de 27.85 EUR (original: 69.0 EUR) en el siguiente enlace!

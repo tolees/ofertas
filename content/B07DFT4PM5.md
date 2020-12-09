@@ -10,8 +10,11 @@ author: ring
 slug: B07DFT4PM5
 description:
 actualPrice: 59.33 EUR
+currency: EUR
+price: 59.33
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance 574  Zapatillas para Hombre  Gris  Magnet EPH   42 EU  Talla Fabricante: 8 UK 
 ---
 
 Está [New Balance 574  Zapatillas para Hombre  Gris  Magnet EPH   42 EU  Talla Fabricante: 8 UK ](https://www.amazon.es/dp/B07DFT4PM5/?tag=tolees-21) con 34.08 de descuento por 59.33 EUR (original: 90 EUR) en el siguiente enlace!

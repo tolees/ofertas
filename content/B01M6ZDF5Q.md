@@ -10,8 +10,11 @@ author: ring
 slug: B01M6ZDF5Q
 description:
 actualPrice: 19.26 EUR
+currency: EUR
+price: 19.26
 comparePrice: 40 EUR
 inStock: true
+prodname: Under Armour HG Armour 2.0 Legging Leggings  Hombre  Gris  Graphite/Mako Blue 040   M
 ---
 
 Está [Under Armour HG Armour 2.0 Legging Leggings  Hombre  Gris  Graphite/Mako Blue 040   M](https://www.amazon.es/dp/B01M6ZDF5Q/?tag=tolees-21) con 51.85 de descuento por 19.26 EUR (original: 40 EUR) en el siguiente enlace!

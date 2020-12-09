@@ -10,8 +10,11 @@ author: ring
 slug: B073X9FQCK
 description:
 actualPrice: 74.25 EUR
+currency: EUR
+price: 74.25
 comparePrice: 106.66 EUR
 inStock: true
+prodname: Festina Reloj de Pulsera F20334/2
 ---
 
 Está [Festina Reloj de Pulsera F20334/2](https://www.amazon.es/dp/B073X9FQCK/?tag=tolees-21) con 30.39 de descuento por 74.25 EUR (original: 106.66 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FXPL82J
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 23.99 EUR
 inStock: true
+prodname: CHICTRY Vestidos de Princesa Tutú Disfraces Infantil con Diadema Traje de Fiesta Bautizo con Braga Interior para Bebés Niñas  12 Meses a 8 Años  Negro&Rojo 2 Años
 ---
 
 Tienes [CHICTRY Vestidos de Princesa Tutú Disfraces Infantil con Diadema Traje de Fiesta Bautizo con Braga Interior para Bebés Niñas  12 Meses a 8 Años  Negro&Rojo 2 Años](https://www.amazon.es/dp/B07FXPL82J/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 11.99 EUR (original: 23.99 EUR) en el siguiente enlace!

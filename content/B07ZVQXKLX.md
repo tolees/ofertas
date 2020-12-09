@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVQXKLX
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 18.99 EUR
 inStock: true
+prodname: Widamin Taza de Café Plegable Reutilizable  Taza de Café Portátil  Taza de Viaje  Taza de Silicona Plegable  350 ML（Verde）
 ---
 
 Tienes [Widamin Taza de Café Plegable Reutilizable  Taza de Café Portátil  Taza de Viaje  Taza de Silicona Plegable  350 ML（Verde）](https://www.amazon.es/dp/B07ZVQXKLX/?tag=tolees-21) con un 42.13 % de descuento con precio de oferta de 10.99 EUR (original: 18.99 EUR) en el siguiente enlace!

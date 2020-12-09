@@ -10,8 +10,11 @@ author: ring
 slug: B01MXORAUZ
 description:
 actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
 comparePrice: 119 EUR
 inStock: true
+prodname: Hoover Space Explorer SL20 - Aspirador trineo con bolsa  con accesorios especiales para parquet y mascotas  700 W  color negro
 ---
 
 Ahora mismo tienes [Hoover Space Explorer SL20 - Aspirador trineo con bolsa  con accesorios especiales para parquet y mascotas  700 W  color negro](https://www.amazon.es/dp/B01MXORAUZ/?tag=tolees-21) a 59.99 EUR (original: 119 EUR) (49.59 %  de descuento) en el siguiente enlace!

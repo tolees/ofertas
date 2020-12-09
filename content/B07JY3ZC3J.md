@@ -10,8 +10,11 @@ author: ring
 slug: B07JY3ZC3J
 description:
 actualPrice: 44.98 EUR
+currency: EUR
+price: 44.98
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Adidas Powerlift 4  Zapatillas de Deporte para Hombre  Azul FTWR White/Blue  45 EU
 ---
 
 Ahora mismo tienes [Adidas Powerlift 4  Zapatillas de Deporte para Hombre  Azul FTWR White/Blue  45 EU](https://www.amazon.es/dp/B07JY3ZC3J/?tag=tolees-21) a 44.98 EUR (original: 99.95 EUR) (55.00 %  de descuento) en el siguiente enlace!

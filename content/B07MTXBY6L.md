@@ -10,8 +10,11 @@ author: ring
 slug: B07MTXBY6L
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Ever-Pretty Vestido Fiesta Noche Largo Cuello V sin Mangas para Mujer Brillante Imperio Abertura Borgoña 40
 ---
 
 Tienes [Ever-Pretty Vestido Fiesta Noche Largo Cuello V sin Mangas para Mujer Brillante Imperio Abertura Borgoña 40](https://www.amazon.es/dp/B07MTXBY6L/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 47.99 EUR (original: 79.99 EUR) en el siguiente enlace!

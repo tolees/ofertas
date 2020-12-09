@@ -10,8 +10,11 @@ author: ring
 slug: B07JGPXDPB
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Puma Axis  Zapatillas Unisex Adulto  Blanco White-Bright Peach 06  40.5 EU
 ---
 
 Ahora mismo tienes [Puma Axis  Zapatillas Unisex Adulto  Blanco White-Bright Peach 06  40.5 EU](https://www.amazon.es/dp/B07JGPXDPB/?tag=tolees-21) a 35.99 EUR (original: 54.95 EUR) (34.50 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CZLFL62
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Mascarilla Shimmer Freak UFO - Activada de FOREO
 ---
 
 Ahora mismo tienes [Mascarilla Shimmer Freak UFO - Activada de FOREO](https://www.amazon.es/dp/B07CZLFL62/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!

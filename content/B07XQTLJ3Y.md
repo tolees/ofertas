@@ -10,8 +10,11 @@ author: ring
 slug: B07XQTLJ3Y
 description:
 actualPrice: 39.95 EUR
+currency: EUR
+price: 39.95
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Intex 64126NP - Cama de Aire para 2 Essential Rest
 ---
 
 Ahora mismo tienes [Intex 64126NP - Cama de Aire para 2 Essential Rest](https://www.amazon.es/dp/B07XQTLJ3Y/?tag=tolees-21) a 39.95 EUR (original: 54.95 EUR) (27.30 %  de descuento) en el siguiente enlace!

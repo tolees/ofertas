@@ -10,8 +10,11 @@ author: ring
 slug: B071VPNGJ3
 description:
 actualPrice: 117.28 EUR
+currency: EUR
+price: 117.28
 comparePrice: 179 EUR
 inStock: true
+prodname: Ray-Ban 3576n Gafas de sol  Gold Striped/Graygreen  47 Unisex-Adulto
 ---
 
 Tienes [Ray-Ban 3576n Gafas de sol  Gold Striped/Graygreen  47 Unisex-Adulto](https://www.amazon.es/dp/B071VPNGJ3/?tag=tolees-21) con un 34.48 % de descuento con precio de oferta de 117.28 EUR (original: 179 EUR) en el siguiente enlace!

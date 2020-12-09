@@ -10,8 +10,11 @@ author: ring
 slug: B06XKZZK2N
 description:
 actualPrice: 59.47 EUR
+currency: EUR
+price: 59.47
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Skechers Windom  Botas para Mujer  Negro  Black   39 EU
 ---
 
 Tienes [Skechers Windom  Botas para Mujer  Negro  Black   39 EU](https://www.amazon.es/dp/B06XKZZK2N/?tag=tolees-21) con un 40.50 % de descuento con precio de oferta de 59.47 EUR (original: 99.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00MY2KGII
 description:
 actualPrice: 60 EUR
+currency: EUR
+price: 60
 comparePrice: 130 EUR
 inStock: true
+prodname: Clarks Originals Desert London  - Zapatos con cordones Derby para hombre  Beeswax  45
 ---
 
 Ahora mismo tienes [Clarks Originals Desert London  - Zapatos con cordones Derby para hombre  Beeswax  45](https://www.amazon.es/dp/B00MY2KGII/?tag=tolees-21) a 60 EUR (original: 130 EUR) (53.85 %  de descuento) en el siguiente enlace!

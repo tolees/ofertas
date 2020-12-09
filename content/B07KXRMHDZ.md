@@ -10,8 +10,11 @@ author: ring
 slug: B07KXRMHDZ
 description:
 actualPrice: 24.22 EUR
+currency: EUR
+price: 24.22
 comparePrice: 39.95 EUR
 inStock: true
+prodname: G-STAR RAW Classic Trunk 3 Pack Bañador  Negro ao/dk Port Red/Legion Blue A403  Medium para Hombre
 ---
 
 Tienes [G-STAR RAW Classic Trunk 3 Pack Bañador  Negro ao/dk Port Red/Legion Blue A403  Medium para Hombre](https://www.amazon.es/dp/B07KXRMHDZ/?tag=tolees-21) con un 39.37 % de descuento con precio de oferta de 24.22 EUR (original: 39.95 EUR) en el siguiente enlace!

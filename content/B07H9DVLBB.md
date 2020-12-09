@@ -10,8 +10,11 @@ author: ring
 slug: B07H9DVLBB
 description:
 actualPrice: 34.49 EUR
+currency: EUR
+price: 34.49
 comparePrice: 54.49 EUR
 inStock: true
+prodname: SanDisk Extreme PRO - Tarjeta de memoria SDXC de 128 GB  hasta 170 MB/s  Class 10  U3 y V30
 ---
 
 Está [SanDisk Extreme PRO - Tarjeta de memoria SDXC de 128 GB  hasta 170 MB/s  Class 10  U3 y V30](https://www.amazon.es/dp/B07H9DVLBB/?tag=tolees-21) con 36.70 de descuento por 34.49 EUR (original: 54.49 EUR) en el siguiente enlace!

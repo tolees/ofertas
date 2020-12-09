@@ -10,8 +10,11 @@ author: ring
 slug: B07TSH7XZ7
 description:
 actualPrice: 87.5 EUR
+currency: EUR
+price: 87.5
 comparePrice: 174.99 EUR
 inStock: true
+prodname: DC Shoes Spectrum - Chaqueta para Nieve - Hombre - S
 ---
 
 Ahora mismo tienes [DC Shoes Spectrum - Chaqueta para Nieve - Hombre - S](https://www.amazon.es/dp/B07TSH7XZ7/?tag=tolees-21) a 87.5 EUR (original: 174.99 EUR) (50.00 %  de descuento) en el siguiente enlace!

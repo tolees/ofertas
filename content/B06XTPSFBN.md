@@ -10,8 +10,11 @@ author: ring
 slug: B06XTPSFBN
 description:
 actualPrice: 11.19 EUR
+currency: EUR
+price: 11.19
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Pepe Jeans Eggo PM500465 Camiseta  Gris  Grey Marl 933   Medium para Hombre
 ---
 
 Tienes [Pepe Jeans Eggo PM500465 Camiseta  Gris  Grey Marl 933   Medium para Hombre](https://www.amazon.es/dp/B06XTPSFBN/?tag=tolees-21) con un 55.24 % de descuento con precio de oferta de 11.19 EUR (original: 25.0 EUR) en el siguiente enlace!

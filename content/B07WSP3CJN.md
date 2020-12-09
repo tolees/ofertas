@@ -10,8 +10,11 @@ author: ring
 slug: B07WSP3CJN
 description:
 actualPrice: 19.59 EUR
+currency: EUR
+price: 19.59
 comparePrice: 28.99 EUR
 inStock: true
+prodname: Govee Tiras LED  Luces LED RGB 2 rollos 5m con Control Remoto y Caja de Control  20 Colores y 8 Modos de Escena para la Habitación  Techo  12V
 ---
 
 Ahora mismo tienes [Govee Tiras LED  Luces LED RGB 2 rollos 5m con Control Remoto y Caja de Control  20 Colores y 8 Modos de Escena para la Habitación  Techo  12V](https://www.amazon.es/dp/B07WSP3CJN/?tag=tolees-21) a 19.59 EUR (original: 28.99 EUR) (32.42 %  de descuento) en el siguiente enlace!

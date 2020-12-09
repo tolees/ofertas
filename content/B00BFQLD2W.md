@@ -10,8 +10,11 @@ author: ring
 slug: B00BFQLD2W
 description:
 actualPrice: 11.54 EUR
+currency: EUR
+price: 11.54
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Bisk 00407 Deco Vaso ceramico con soporte  7 8 x 12 x 10 5 cm  acabado latón envejecido
 ---
 
 Ahora mismo tienes [Bisk 00407 Deco Vaso ceramico con soporte  7 8 x 12 x 10 5 cm  acabado latón envejecido](https://www.amazon.es/dp/B00BFQLD2W/?tag=tolees-21) a 11.54 EUR (original: 29.99 EUR) (61.52 %  de descuento) en el siguiente enlace!

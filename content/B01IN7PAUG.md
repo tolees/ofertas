@@ -10,8 +10,11 @@ author: ring
 slug: B01IN7PAUG
 description:
 actualPrice: 42.81 EUR
+currency: EUR
+price: 42.81
 comparePrice: 129 EUR
 inStock: true
+prodname: Cortefiel Cappotto BLU XL
 ---
 
 Está [Cortefiel Cappotto BLU XL](https://www.amazon.es/dp/B01IN7PAUG/?tag=tolees-21) con 66.81 de descuento por 42.81 EUR (original: 129 EUR) en el siguiente enlace!

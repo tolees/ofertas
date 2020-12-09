@@ -10,8 +10,11 @@ author: ring
 slug: B017SODKZ2
 description:
 actualPrice: 14.86 EUR
+currency: EUR
+price: 14.86
 comparePrice: 24.99 EUR
 inStock: true
+prodname: WORKPRO - Bolsa de boca ancha de 40 6 cm para herramientas  con base moldeada impermeable
 ---
 
 Tienes [WORKPRO - Bolsa de boca ancha de 40 6 cm para herramientas  con base moldeada impermeable](https://www.amazon.es/dp/B017SODKZ2/?tag=tolees-21) con un 40.54 % de descuento con precio de oferta de 14.86 EUR (original: 24.99 EUR) en el siguiente enlace!

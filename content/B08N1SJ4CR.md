@@ -10,8 +10,11 @@ author: ring
 slug: B08N1SJ4CR
 description:
 actualPrice: 10.49 EUR
+currency: EUR
+price: 10.49
 comparePrice: 20.99 EUR
 inStock: true
+prodname: El huerto del francés  edición especial digibook  [Blu-ray]
 ---
 
 Está [El huerto del francés  edición especial digibook  [Blu-ray]](https://www.amazon.es/dp/B08N1SJ4CR/?tag=tolees-21) con 50.02 de descuento por 10.49 EUR (original: 20.99 EUR) en el siguiente enlace!

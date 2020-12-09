@@ -10,8 +10,11 @@ author: ring
 slug: B07DLFVGS6
 description:
 actualPrice: 8.3 EUR
+currency: EUR
+price: 8.3
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield 5Ba Organic Cotton Fleece Sudadera con Capucha   Grises 95   Large  Tamaño del Fabricante:L  para Hombre
 ---
 
 Tienes [Springfield 5Ba Organic Cotton Fleece Sudadera con Capucha   Grises 95   Large  Tamaño del Fabricante:L  para Hombre](https://www.amazon.es/dp/B07DLFVGS6/?tag=tolees-21) con un 72.32 % de descuento con precio de oferta de 8.3 EUR (original: 29.99 EUR) en el siguiente enlace!

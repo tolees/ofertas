@@ -10,8 +10,11 @@ author: ring
 slug: B07JQYHLBC
 description:
 actualPrice: 30.34 EUR
+currency: EUR
+price: 30.34
 comparePrice: 89.95 EUR
 inStock: true
+prodname: adidas Nemeziz 18.3 AG  Zapatillas de Fútbol para Hombre  Amarillo Solar Yellow/Football Blue/Active Red  41 1/3 EU
 ---
 
 Tienes [adidas Nemeziz 18.3 AG  Zapatillas de Fútbol para Hombre  Amarillo Solar Yellow/Football Blue/Active Red  41 1/3 EU](https://www.amazon.es/dp/B07JQYHLBC/?tag=tolees-21) con un 66.27 % de descuento con precio de oferta de 30.34 EUR (original: 89.95 EUR) en el siguiente enlace!

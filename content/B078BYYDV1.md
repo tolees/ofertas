@@ -10,8 +10,11 @@ author: ring
 slug: B078BYYDV1
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Under Armour Woven Graphic Short Pantalón Corto  Hombre  Negro  Black 003   XL
 ---
 
 Tienes [Under Armour Woven Graphic Short Pantalón Corto  Hombre  Negro  Black 003   XL](https://www.amazon.es/dp/B078BYYDV1/?tag=tolees-21) con un 39.30 % de descuento con precio de oferta de 16.99 EUR (original: 27.99 EUR) en el siguiente enlace!

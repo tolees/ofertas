@@ -10,8 +10,11 @@ author: ring
 slug: B01H1ZINFK
 description:
 actualPrice: 40.53 EUR
+currency: EUR
+price: 40.53
 comparePrice: 70 EUR
 inStock: true
+prodname: Tekken 7 - PlayStation 4 [Importación italiana]
 ---
 
 Tienes [Tekken 7 - PlayStation 4 [Importación italiana]](https://www.amazon.es/dp/B01H1ZINFK/?tag=tolees-21) con un 42.10 % de descuento con precio de oferta de 40.53 EUR (original: 70 EUR) en el siguiente enlace!

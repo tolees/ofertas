@@ -10,8 +10,11 @@ author: ring
 slug: B07CZ1D4ZR
 description:
 actualPrice: 18.63 EUR
+currency: EUR
+price: 18.63
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Puma Smash V2 SD Jr  Zapatillas Unisex Niños  Gris  Gray Violet-Beetroot Purple 12   35.5 EU
 ---
 
 Tienes [Puma Smash V2 SD Jr  Zapatillas Unisex Niños  Gris  Gray Violet-Beetroot Purple 12   35.5 EU](https://www.amazon.es/dp/B07CZ1D4ZR/?tag=tolees-21) con un 58.55 % de descuento con precio de oferta de 18.63 EUR (original: 44.95 EUR) en el siguiente enlace!

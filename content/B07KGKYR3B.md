@@ -10,16 +10,17 @@ author: ring
 slug: B07KGKYR3B
 description:
 actualPrice: 36.0 EUR
+currency: EUR
+price: 36.0
 comparePrice: 48.5 EUR
 inStock: true
+prodname: Nestlé Caja Roja Bombones De Chocolate Estuche Navidad - Caja edición limitada de 2Kg
 ---
 
-Está [Nestlé Caja Roja Bombones De Chocolate Estuche Navidad - Caja edición limitada de 2Kg](https://www.amazon.es/dp/B07KGKYR3B/?tag=tolees-21) con 25.77 de descuento por 36.0 EUR (original: 48.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nestlé Caja Roja Bombones De Chocolate Estuche Navidad - Caja edición limitada de 2Kg](https://www.amazon.es/dp/B07KGKYR3B/?tag=tolees-21) a 36.0 EUR (original: 48.5 EUR) (25.77 %  de descuento) en el siguiente enlace!
 
 [![Nestlé Caja Roja Bombones De Chocolate E](https://m.media-amazon.com/images/I/41iic+y8FlL._SL200_.jpg)](https://www.amazon.es/dp/B07KGKYR3B/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KGKYR3B/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KGKYR3B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

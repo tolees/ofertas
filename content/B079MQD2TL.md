@@ -10,8 +10,11 @@ author: ring
 slug: B079MQD2TL
 description:
 actualPrice: 869.99 EUR
+currency: EUR
+price: 869.99
 comparePrice: 1439.0 EUR
 inStock: true
+prodname: ViewSonic PX747-4K Proyector Cine en casa 4K UHD  3500 lúmenes  HDMI  HDR  Altavoces - Blanco
 ---
 
 Ahora mismo tienes [ViewSonic PX747-4K Proyector Cine en casa 4K UHD  3500 lúmenes  HDMI  HDR  Altavoces - Blanco](https://www.amazon.es/dp/B079MQD2TL/?tag=tolees-21) a 869.99 EUR (original: 1439.0 EUR) (39.54 %  de descuento) en el siguiente enlace!

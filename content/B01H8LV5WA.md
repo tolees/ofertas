@@ -10,8 +10,11 @@ author: ring
 slug: B01H8LV5WA
 description:
 actualPrice: 12.09 EUR
+currency: EUR
+price: 12.09
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Under Armour Men s Shadow Visor 4.0 Visera  Hombre  Blanco  White/Black/Reflective 100   Talla única
 ---
 
 Tienes [Under Armour Men s Shadow Visor 4.0 Visera  Hombre  Blanco  White/Black/Reflective 100   Talla única](https://www.amazon.es/dp/B01H8LV5WA/?tag=tolees-21) con un 39.52 % de descuento con precio de oferta de 12.09 EUR (original: 19.99 EUR) en el siguiente enlace!

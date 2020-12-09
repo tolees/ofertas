@@ -10,8 +10,11 @@ author: ring
 slug: B07DPG1N3M
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Slime Rancher
 ---
 
 Tienes [Slime Rancher](https://www.amazon.es/dp/B07DPG1N3M/?tag=tolees-21) con un 33.48 % de descuento con precio de oferta de 19.95 EUR (original: 29.99 EUR) en el siguiente enlace!

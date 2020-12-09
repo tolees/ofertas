@@ -10,8 +10,11 @@ author: ring
 slug: B07JQ2XBHP
 description:
 actualPrice: 54.99 EUR
+currency: EUR
+price: 54.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Vacuum sealers
 ---
 
 Está [Vacuum sealers](https://www.amazon.es/dp/B07JQ2XBHP/?tag=tolees-21) con 38.89 de descuento por 54.99 EUR (original: 89.99 EUR) en el siguiente enlace!

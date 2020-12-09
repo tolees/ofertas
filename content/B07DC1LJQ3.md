@@ -10,8 +10,11 @@ author: ring
 slug: B07DC1LJQ3
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 54.95 EUR
 inStock: true
+prodname: Puma Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat Team Gold-Whisper White 24   45 EU
 ---
 
 Está [Puma Smash v2  Zapatillas Unisex Adulto  Azul  Peacoat Team Gold-Whisper White 24   45 EU](https://www.amazon.es/dp/B07DC1LJQ3/?tag=tolees-21) con 27.22 de descuento por 39.99 EUR (original: 54.95 EUR) en el siguiente enlace!

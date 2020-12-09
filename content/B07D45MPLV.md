@@ -10,8 +10,11 @@ author: ring
 slug: B07D45MPLV
 description:
 actualPrice: 11.95 EUR
+currency: EUR
+price: 11.95
 comparePrice: 21.95 EUR
 inStock: true
+prodname: Prime Socks No-Show Nature 43-46
 ---
 
 Ahora mismo tienes [Prime Socks No-Show Nature 43-46](https://www.amazon.es/dp/B07D45MPLV/?tag=tolees-21) a 11.95 EUR (original: 21.95 EUR) (45.56 %  de descuento) en el siguiente enlace!

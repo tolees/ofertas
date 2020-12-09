@@ -10,8 +10,11 @@ author: ring
 slug: B00IKDNSIK
 description:
 actualPrice: 23.79 EUR
+currency: EUR
+price: 23.79
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Case Logic BPEB115 - Mochila para Ordenador portátil
 ---
 
 Ahora mismo tienes [Case Logic BPEB115 - Mochila para Ordenador portátil](https://www.amazon.es/dp/B00IKDNSIK/?tag=tolees-21) a 23.79 EUR (original: 49.99 EUR) (52.41 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07NQKDXZX
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 55.99 EUR
 inStock: true
+prodname: Pistola de Pintura  Tacklife Pistola de Pulverización Pintura Eléctrica  800 ml/Min  3 Modos de Pintar  con 4 Boquillas  900 ml Recipiente de Pintura  SGP15AC
 ---
 
 Tienes [Pistola de Pintura  Tacklife Pistola de Pulverización Pintura Eléctrica  800 ml/Min  3 Modos de Pintar  con 4 Boquillas  900 ml Recipiente de Pintura  SGP15AC](https://www.amazon.es/dp/B07NQKDXZX/?tag=tolees-21) con un 42.86 % de descuento con precio de oferta de 31.99 EUR (original: 55.99 EUR) en el siguiente enlace!

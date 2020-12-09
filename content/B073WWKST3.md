@@ -10,8 +10,11 @@ author: ring
 slug: B073WWKST3
 description:
 actualPrice: 25.43 EUR
+currency: EUR
+price: 25.43
 comparePrice: 90.54 EUR
 inStock: true
+prodname: fozela Soundbar Bluetooth  estéreo inalámbrico Bluetooth Barra Sonido Audio casa Doble Subwoofers para la Baja Apoyo Tarjeta TF/3 5 mm AUX para TV/PC/Ordenador portátil/Smartphones
 ---
 
 Ahora mismo tienes [fozela Soundbar Bluetooth  estéreo inalámbrico Bluetooth Barra Sonido Audio casa Doble Subwoofers para la Baja Apoyo Tarjeta TF/3 5 mm AUX para TV/PC/Ordenador portátil/Smartphones](https://www.amazon.es/dp/B073WWKST3/?tag=tolees-21) a 25.43 EUR (original: 90.54 EUR) (71.91 %  de descuento) en el siguiente enlace!

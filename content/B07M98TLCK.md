@@ -10,8 +10,11 @@ author: ring
 slug: B07M98TLCK
 description:
 actualPrice: 89.99 EUR
+currency: EUR
+price: 89.99
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Blink XT2  2. Gen  | Cámara de seguridad inteligente  exteriores e interiores  almacenamiento en el Cloud  audio bidireccional  2 años de autonomía | 1 cámara
 ---
 
 Está [Blink XT2  2. Gen  | Cámara de seguridad inteligente  exteriores e interiores  almacenamiento en el Cloud  audio bidireccional  2 años de autonomía | 1 cámara](https://www.amazon.es/dp/B07M98TLCK/?tag=tolees-21) con 25.00 de descuento por 89.99 EUR (original: 119.99 EUR) en el siguiente enlace!

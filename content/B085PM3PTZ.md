@@ -10,8 +10,11 @@ author: ring
 slug: B085PM3PTZ
 description:
 actualPrice: 89.91 EUR
+currency: EUR
+price: 89.91
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Polaroid - 9027 - Polaroid Now Cámara instantánea i-Type  Blanco
 ---
 
 Está [Polaroid - 9027 - Polaroid Now Cámara instantánea i-Type  Blanco](https://www.amazon.es/dp/B085PM3PTZ/?tag=tolees-21) con 30.83 de descuento por 89.91 EUR (original: 129.99 EUR) en el siguiente enlace!

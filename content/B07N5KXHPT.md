@@ -10,8 +10,11 @@ author: ring
 slug: B07N5KXHPT
 description:
 actualPrice: 7.34 EUR
+currency: EUR
+price: 7.34
 comparePrice: 75.0 EUR
 inStock: true
+prodname: Superga 2802-cotw  Zapatillas de Gimnasia  Blanco  White 901   35.5 EU
 ---
 
 Está [Superga 2802-cotw  Zapatillas de Gimnasia  Blanco  White 901   35.5 EU](https://www.amazon.es/dp/B07N5KXHPT/?tag=tolees-21) con 90.21 de descuento por 7.34 EUR (original: 75.0 EUR) en el siguiente enlace!

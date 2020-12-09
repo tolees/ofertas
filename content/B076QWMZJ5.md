@@ -10,8 +10,11 @@ author: ring
 slug: B076QWMZJ5
 description:
 actualPrice: 32.1 EUR
+currency: EUR
+price: 32.1
 comparePrice: 70 EUR
 inStock: true
+prodname: Under Armour UA Drift RN Mineral  Zapatillas de Running para Hombre  Azul  Midnight Navy/Academy   44 EU
 ---
 
 Tienes [Under Armour UA Drift RN Mineral  Zapatillas de Running para Hombre  Azul  Midnight Navy/Academy   44 EU](https://www.amazon.es/dp/B076QWMZJ5/?tag=tolees-21) con un 54.14 % de descuento con precio de oferta de 32.1 EUR (original: 70 EUR) en el siguiente enlace!

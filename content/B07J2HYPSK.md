@@ -10,8 +10,11 @@ author: ring
 slug: B07J2HYPSK
 description:
 actualPrice: 89.97 EUR
+currency: EUR
+price: 89.97
 comparePrice: 179.95 EUR
 inStock: true
+prodname: adidas NMD_Racer PK  Zapatillas de Gimnasia para Hombre  Negro Core Black/Shock Red  43 1/3 EU
 ---
 
 Está [adidas NMD_Racer PK  Zapatillas de Gimnasia para Hombre  Negro Core Black/Shock Red  43 1/3 EU](https://www.amazon.es/dp/B07J2HYPSK/?tag=tolees-21) con 50.00 de descuento por 89.97 EUR (original: 179.95 EUR) en el siguiente enlace!

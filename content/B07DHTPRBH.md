@@ -10,8 +10,11 @@ author: ring
 slug: B07DHTPRBH
 description:
 actualPrice: 87.5 EUR
+currency: EUR
+price: 87.5
 comparePrice: 189.99 EUR
 inStock: true
+prodname: Roxy Jetty Chaqueta  Mujer   Bright Blanco_freespace Girl   L
 ---
 
 Tienes [Roxy Jetty Chaqueta  Mujer   Bright Blanco_freespace Girl   L](https://www.amazon.es/dp/B07DHTPRBH/?tag=tolees-21) con un 53.94 % de descuento con precio de oferta de 87.5 EUR (original: 189.99 EUR) en el siguiente enlace!

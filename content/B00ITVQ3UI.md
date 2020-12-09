@@ -10,8 +10,11 @@ author: ring
 slug: B00ITVQ3UI
 description:
 actualPrice: 5.78 EUR
+currency: EUR
+price: 5.78
 comparePrice: 8.61 EUR
 inStock: true
+prodname: Supercat 14040400 Trampa Ratones Plastico  Blister 2 Piezas   Black
 ---
 
 Está [Supercat 14040400 Trampa Ratones Plastico  Blister 2 Piezas   Black](https://www.amazon.es/dp/B00ITVQ3UI/?tag=tolees-21) con 32.87 de descuento por 5.78 EUR (original: 8.61 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B078XXYGBN
 description:
 actualPrice: 14.4 EUR
+currency: EUR
+price: 14.4
 comparePrice: 39.99 EUR
 inStock: true
+prodname: JACK & JONES PREMIUM Jprsummer Shirt L/s Button Down STS  Camisa para Hombre  Azul  Sargasso Sea Fit:Slim Fit  X-Large
 ---
 
 Está [JACK & JONES PREMIUM Jprsummer Shirt L/s Button Down STS  Camisa para Hombre  Azul  Sargasso Sea Fit:Slim Fit  X-Large](https://www.amazon.es/dp/B078XXYGBN/?tag=tolees-21) con 63.99 de descuento por 14.4 EUR (original: 39.99 EUR) en el siguiente enlace!

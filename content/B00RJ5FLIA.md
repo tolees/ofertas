@@ -10,8 +10,11 @@ author: ring
 slug: B00RJ5FLIA
 description:
 actualPrice: 14.34 EUR
+currency: EUR
+price: 14.34
 comparePrice: 40 EUR
 inStock: true
+prodname: VAUDE Valdipino Poncho - Chubasquero Impermeable para Ciclismo  Color Marino  Talla XXL
 ---
 
 Está [VAUDE Valdipino Poncho - Chubasquero Impermeable para Ciclismo  Color Marino  Talla XXL](https://www.amazon.es/dp/B00RJ5FLIA/?tag=tolees-21) con 64.15 de descuento por 14.34 EUR (original: 40 EUR) en el siguiente enlace!

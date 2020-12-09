@@ -10,8 +10,11 @@ author: ring
 slug: B07GNH4R4Z
 description:
 actualPrice: 12.59 EUR
+currency: EUR
+price: 12.59
 comparePrice: 29.99 EUR
 inStock: true
+prodname: JACK & JONES Jcorotto Sweat Hood  Capucha Hombre  Negro  Small  Talla del Fabricante: 
 ---
 
 Está [JACK & JONES Jcorotto Sweat Hood  Capucha Hombre  Negro  Small  Talla del Fabricante: ](https://www.amazon.es/dp/B07GNH4R4Z/?tag=tolees-21) con 58.02 de descuento por 12.59 EUR (original: 29.99 EUR) en el siguiente enlace!

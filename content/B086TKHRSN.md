@@ -10,8 +10,11 @@ author: ring
 slug: B086TKHRSN
 description:
 actualPrice: 79.9 EUR
+currency: EUR
+price: 79.9
 comparePrice: 109.99 EUR
 inStock: true
+prodname: Razer Ornata V2 Teclado Gaming  Teclado de membrana mecánica con Iluminación Razer Chroma RGB  Switch Mecánico  ES Layout  Color Negro
 ---
 
 Tienes [Razer Ornata V2 Teclado Gaming  Teclado de membrana mecánica con Iluminación Razer Chroma RGB  Switch Mecánico  ES Layout  Color Negro](https://www.amazon.es/dp/B086TKHRSN/?tag=tolees-21) con un 27.36 % de descuento con precio de oferta de 79.9 EUR (original: 109.99 EUR) en el siguiente enlace!

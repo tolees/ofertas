@@ -10,8 +10,11 @@ author: ring
 slug: B07XH77NMN
 description:
 actualPrice: 6.27 EUR
+currency: EUR
+price: 6.27
 comparePrice: 8.95 EUR
 inStock: true
+prodname: Glade Ambientador Aerosol  Eliminación De Malos Olores  Fragancia Relax Zen  Con Aceites Esenciales [6 X 300Ml  Pack De 6] 6 unidades 350 g
 ---
 
 Está [Glade Ambientador Aerosol  Eliminación De Malos Olores  Fragancia Relax Zen  Con Aceites Esenciales [6 X 300Ml  Pack De 6] 6 unidades 350 g](https://www.amazon.es/dp/B07XH77NMN/?tag=tolees-21) con 29.94 de descuento por 6.27 EUR (original: 8.95 EUR) en el siguiente enlace!

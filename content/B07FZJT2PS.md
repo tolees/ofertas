@@ -10,8 +10,11 @@ author: ring
 slug: B07FZJT2PS
 description:
 actualPrice: 64.9 EUR
+currency: EUR
+price: 64.9
 comparePrice: 129.95 EUR
 inStock: true
+prodname: adidas Counterblast Bounce  Zapatillas de Balonmano para Hombre  Negro Core Black/Hi/Res Yellow/True Blue  48 EU
 ---
 
 Tienes [adidas Counterblast Bounce  Zapatillas de Balonmano para Hombre  Negro Core Black/Hi/Res Yellow/True Blue  48 EU](https://www.amazon.es/dp/B07FZJT2PS/?tag=tolees-21) con un 50.06 % de descuento con precio de oferta de 64.9 EUR (original: 129.95 EUR) en el siguiente enlace!

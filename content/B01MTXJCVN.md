@@ -10,8 +10,11 @@ author: ring
 slug: B01MTXJCVN
 description:
 actualPrice: 176.36 EUR
+currency: EUR
+price: 176.36
 comparePrice: 361.99 EUR
 inStock: true
+prodname: Epson WFDS360W - Escáner de Color móvil A4  Capacidad de USB  Negro
 ---
 
 Ahora mismo tienes [Epson WFDS360W - Escáner de Color móvil A4  Capacidad de USB  Negro](https://www.amazon.es/dp/B01MTXJCVN/?tag=tolees-21) a 176.36 EUR (original: 361.99 EUR) (51.28 %  de descuento) en el siguiente enlace!

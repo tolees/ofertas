@@ -10,8 +10,11 @@ author: ring
 slug: B00OQ1L6XE
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 43 EUR
 inStock: true
+prodname: AIR OPTIX Lentes de contacto multifocales mensuales  R 8.6  D 14.2  -3.5 dioptría  adición media - 3 lentillas
 ---
 
 Ahora mismo tienes [AIR OPTIX Lentes de contacto multifocales mensuales  R 8.6  D 14.2  -3.5 dioptría  adición media - 3 lentillas](https://www.amazon.es/dp/B00OQ1L6XE/?tag=tolees-21) a 22.99 EUR (original: 43 EUR) (46.53 %  de descuento) en el siguiente enlace!

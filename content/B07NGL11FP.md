@@ -10,8 +10,11 @@ author: ring
 slug: B07NGL11FP
 description:
 actualPrice: 65.79 EUR
+currency: EUR
+price: 65.79
 comparePrice: 129 EUR
 inStock: true
+prodname: Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18654/1
 ---
 
 Ahora mismo tienes [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidable 18654/1](https://www.amazon.es/dp/B07NGL11FP/?tag=tolees-21) a 65.79 EUR (original: 129 EUR) (49.00 %  de descuento) en el siguiente enlace!

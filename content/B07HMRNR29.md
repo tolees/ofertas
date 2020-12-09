@@ -10,8 +10,11 @@ author: ring
 slug: B07HMRNR29
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 34.88 EUR
 inStock: true
+prodname: SKYSPER Pantalones Largos para Hombre Ciclismo Invierno Deportivos Ropa Térmica a Prueba de Viento Transpirable Montaña Moto Correr Deportes al Aire Libre  Negro
 ---
 
 Está [SKYSPER Pantalones Largos para Hombre Ciclismo Invierno Deportivos Ropa Térmica a Prueba de Viento Transpirable Montaña Moto Correr Deportes al Aire Libre  Negro](https://www.amazon.es/dp/B07HMRNR29/?tag=tolees-21) con 45.56 de descuento por 18.99 EUR (original: 34.88 EUR) en el siguiente enlace!

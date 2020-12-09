@@ -10,8 +10,11 @@ author: ring
 slug: B07NJ6BRPC
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Générique - Balón de fútbol de Entrenamiento con Goma elástica  para niños
 ---
 
 Está [Générique - Balón de fútbol de Entrenamiento con Goma elástica  para niños](https://www.amazon.es/dp/B07NJ6BRPC/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

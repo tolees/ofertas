@@ -10,8 +10,11 @@ author: ring
 slug: B079QPM7XW
 description:
 actualPrice: 34.04 EUR
+currency: EUR
+price: 34.04
 comparePrice: 65 EUR
 inStock: true
+prodname: Converse Star Chevron Graphic Full-Zip Hoodie  Capucha para Hombre  Gris  Vintage Grey Heather 035   Small
 ---
 
 Ahora mismo tienes [Converse Star Chevron Graphic Full-Zip Hoodie  Capucha para Hombre  Gris  Vintage Grey Heather 035   Small](https://www.amazon.es/dp/B079QPM7XW/?tag=tolees-21) a 34.04 EUR (original: 65 EUR) (47.63 %  de descuento) en el siguiente enlace!

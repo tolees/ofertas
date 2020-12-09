@@ -10,8 +10,11 @@ author: ring
 slug: B07X3XD1BW
 description:
 actualPrice: 149.9 EUR
+currency: EUR
+price: 149.9
 comparePrice: 200.0 EUR
 inStock: true
+prodname: Sony NWA55L - Reproductor de Audio Walkman  16 GB  Hi-Res Audio  DSD  DSEE HX  S-Master HX  NFC  Noise Cancelling Digital  pantalla táctil  negro
 ---
 
 Ahora mismo tienes [Sony NWA55L - Reproductor de Audio Walkman  16 GB  Hi-Res Audio  DSD  DSEE HX  S-Master HX  NFC  Noise Cancelling Digital  pantalla táctil  negro](https://www.amazon.es/dp/B07X3XD1BW/?tag=tolees-21) a 149.9 EUR (original: 200.0 EUR) (25.05 %  de descuento) en el siguiente enlace!

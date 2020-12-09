@@ -10,8 +10,11 @@ author: ring
 slug: B07FNL14XD
 description:
 actualPrice: 3.99 EUR
+currency: EUR
+price: 3.99
 comparePrice: 7.18 EUR
 inStock: true
+prodname: MagiDeal Máquina De Secador De Soplado De Ventilador De Uñas De Color Rojo Sensor Automático De Manos Cálido Brisa Fresca EU
 ---
 
 Tienes [MagiDeal Máquina De Secador De Soplado De Ventilador De Uñas De Color Rojo Sensor Automático De Manos Cálido Brisa Fresca EU](https://www.amazon.es/dp/B07FNL14XD/?tag=tolees-21) con un 44.43 % de descuento con precio de oferta de 3.99 EUR (original: 7.18 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B014KWCQ5U
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Kryptonics sk15162275 monopatín 22.5 Pulgadas de Drop Through – Monopatín con rodamientos ABEC 1  Skateboarding – Tarjeta Classic Torpedo  Tiedye 
 ---
 
 Está [Kryptonics sk15162275 monopatín 22.5 Pulgadas de Drop Through – Monopatín con rodamientos ABEC 1  Skateboarding – Tarjeta Classic Torpedo  Tiedye ](https://www.amazon.es/dp/B014KWCQ5U/?tag=tolees-21) con 75.13 de descuento por 14.9 EUR (original: 59.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07BN56BPP
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 35 EUR
 inStock: true
+prodname: Vans Ward Slip-on  Zapatillas Unisex Niños  Rosa   Canvas  Sepia Rose Oln   19 EU
 ---
 
 Ahora mismo tienes [Vans Ward Slip-on  Zapatillas Unisex Niños  Rosa   Canvas  Sepia Rose Oln   19 EU](https://www.amazon.es/dp/B07BN56BPP/?tag=tolees-21) a 17.5 EUR (original: 35 EUR) (50.00 %  de descuento) en el siguiente enlace!

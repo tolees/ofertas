@@ -10,8 +10,11 @@ author: ring
 slug: B07KCWLRNK
 description:
 actualPrice: 15.31 EUR
+currency: EUR
+price: 15.31
 comparePrice: 30 EUR
 inStock: true
+prodname: Hurley Bloomer Photo PRM tee SS Camisetas  Hombre  Black  L
 ---
 
 Ahora mismo tienes [Hurley Bloomer Photo PRM tee SS Camisetas  Hombre  Black  L](https://www.amazon.es/dp/B07KCWLRNK/?tag=tolees-21) a 15.31 EUR (original: 30 EUR) (48.97 %  de descuento) en el siguiente enlace!

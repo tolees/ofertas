@@ -10,8 +10,11 @@ author: ring
 slug: B07FKVD6QV
 description:
 actualPrice: 21.38 EUR
+currency: EUR
+price: 21.38
 comparePrice: 37.95 EUR
 inStock: true
+prodname: Cobertor Invierno para Piscina Desmontable Bestway Ø360 cm
 ---
 
 Está [Cobertor Invierno para Piscina Desmontable Bestway Ø360 cm](https://www.amazon.es/dp/B07FKVD6QV/?tag=tolees-21) con 43.66 de descuento por 21.38 EUR (original: 37.95 EUR) en el siguiente enlace!

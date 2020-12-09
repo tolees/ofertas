@@ -10,8 +10,11 @@ author: ring
 slug: B0752BGHYB
 description:
 actualPrice: 74.34 EUR
+currency: EUR
+price: 74.34
 comparePrice: 139.95 EUR
 inStock: true
+prodname: G-STAR RAW 5622 Mid Waist Skinny Vaqueros  Negro  rinsed 8970-082   29W / 30L para Mujer
 ---
 
 Tienes [G-STAR RAW 5622 Mid Waist Skinny Vaqueros  Negro  rinsed 8970-082   29W / 30L para Mujer](https://www.amazon.es/dp/B0752BGHYB/?tag=tolees-21) con un 46.88 % de descuento con precio de oferta de 74.34 EUR (original: 139.95 EUR) en el siguiente enlace!

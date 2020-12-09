@@ -10,8 +10,11 @@ author: ring
 slug: B08H9HHBWR
 description:
 actualPrice: 34.9 EUR
+currency: EUR
+price: 34.9
 comparePrice: 54.9 EUR
 inStock: true
+prodname: Just Dance 2021 PS4
 ---
 
 Ahora mismo tienes [Just Dance 2021 PS4](https://www.amazon.es/dp/B08H9HHBWR/?tag=tolees-21) a 34.9 EUR (original: 54.9 EUR) (36.43 %  de descuento) en el siguiente enlace!

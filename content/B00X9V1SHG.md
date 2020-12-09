@@ -10,8 +10,11 @@ author: ring
 slug: B00X9V1SHG
 description:
 actualPrice: 2.49 EUR
+currency: EUR
+price: 2.49
 comparePrice: 3.57 EUR
 inStock: true
+prodname: Somat Abrillantador Aditivo Lavavajillas - 0.5 L
 ---
 
 Está [Somat Abrillantador Aditivo Lavavajillas - 0.5 L](https://www.amazon.es/dp/B00X9V1SHG/?tag=tolees-21) con 30.25 de descuento por 2.49 EUR (original: 3.57 EUR) en el siguiente enlace!

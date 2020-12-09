@@ -10,8 +10,11 @@ author: ring
 slug: B07FVSM9GR
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: ILICO Sujetador Deportivo  Talla: L 
 ---
 
 Está [ILICO Sujetador Deportivo  Talla: L ](https://www.amazon.es/dp/B07FVSM9GR/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

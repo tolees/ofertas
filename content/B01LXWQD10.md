@@ -10,8 +10,11 @@ author: ring
 slug: B01LXWQD10
 description:
 actualPrice: 7.77 EUR
+currency: EUR
+price: 7.77
 comparePrice: 24.99 EUR
 inStock: true
+prodname: marielove analvib ratoren Kleine Kerle para próstata Masaje - Alta calidad 12 cm Mini Vibrador para anal Sex - Impermeable analstöpsel
 ---
 
 Tienes [marielove analvib ratoren Kleine Kerle para próstata Masaje - Alta calidad 12 cm Mini Vibrador para anal Sex - Impermeable analstöpsel](https://www.amazon.es/dp/B01LXWQD10/?tag=tolees-21) con un 68.91 % de descuento con precio de oferta de 7.77 EUR (original: 24.99 EUR) en el siguiente enlace!

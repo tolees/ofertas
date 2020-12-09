@@ -10,8 +10,11 @@ author: ring
 slug: B07V7XSL8J
 description:
 actualPrice: 39.95 EUR
+currency: EUR
+price: 39.95
 comparePrice: 79.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Core Corporate Textile Sneaker  Zapatillas para Hombre  Negro  Black Bds   44 EU
 ---
 
 Tienes [Tommy Hilfiger Core Corporate Textile Sneaker  Zapatillas para Hombre  Negro  Black Bds   44 EU](https://www.amazon.es/dp/B07V7XSL8J/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 39.95 EUR (original: 79.9 EUR) en el siguiente enlace!

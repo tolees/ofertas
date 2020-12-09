@@ -10,8 +10,11 @@ author: ring
 slug: B00EAQSK02
 description:
 actualPrice: 13.01 EUR
+currency: EUR
+price: 13.01
 comparePrice: 19.78 EUR
 inStock: true
+prodname: Tayg Caja herramientas plástico n. 15  Negro  500 x 258 x 255 mm
 ---
 
 Ahora mismo tienes [Tayg Caja herramientas plástico n. 15  Negro  500 x 258 x 255 mm](https://www.amazon.es/dp/B00EAQSK02/?tag=tolees-21) a 13.01 EUR (original: 19.78 EUR) (34.23 %  de descuento) en el siguiente enlace!

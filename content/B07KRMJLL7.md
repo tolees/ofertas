@@ -10,8 +10,11 @@ author: ring
 slug: B07KRMJLL7
 description:
 actualPrice: 24.85 EUR
+currency: EUR
+price: 24.85
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Columbia Nelson Point Polo  Hombre  Azul  Mountain   S
 ---
 
 Está [Columbia Nelson Point Polo  Hombre  Azul  Mountain   S](https://www.amazon.es/dp/B07KRMJLL7/?tag=tolees-21) con 50.29 de descuento por 24.85 EUR (original: 49.99 EUR) en el siguiente enlace!

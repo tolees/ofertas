@@ -10,8 +10,11 @@ author: ring
 slug: B07G5LP4FT
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: LADY MOON Lencería Mujer Erotica Ropa Interior Mujer Sexy Conjuntos Camison Sexy Mujer Babydoll Lingerie Sexy
 ---
 
 Tienes [LADY MOON Lencería Mujer Erotica Ropa Interior Mujer Sexy Conjuntos Camison Sexy Mujer Babydoll Lingerie Sexy](https://www.amazon.es/dp/B07G5LP4FT/?tag=tolees-21) con un 52.02 % de descuento con precio de oferta de 11.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07G9JJ3MG
 description:
 actualPrice: 17.98 EUR
+currency: EUR
+price: 17.98
 comparePrice: 35.95 EUR
 inStock: true
+prodname: Tuc Tuc Prenda Felpa Y Pelo Graphic  Vestido para Niñas   Gris 00   One Size  Tamaño del Fabricante:10A 
 ---
 
 Tienes [Tuc Tuc Prenda Felpa Y Pelo Graphic  Vestido para Niñas   Gris 00   One Size  Tamaño del Fabricante:10A ](https://www.amazon.es/dp/B07G9JJ3MG/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 17.98 EUR (original: 35.95 EUR) en el siguiente enlace!

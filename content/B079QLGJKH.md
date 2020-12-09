@@ -10,8 +10,11 @@ author: ring
 slug: B079QLGJKH
 description:
 actualPrice: 62.3 EUR
+currency: EUR
+price: 62.3
 comparePrice: 90.0 EUR
 inStock: true
+prodname: Levi s 502 Taper Jeans  Onewash 95977  31W / 30L para Hombre
 ---
 
 Ahora mismo tienes [Levi s 502 Taper Jeans  Onewash 95977  31W / 30L para Hombre](https://www.amazon.es/dp/B079QLGJKH/?tag=tolees-21) a 62.3 EUR (original: 90.0 EUR) (30.78 %  de descuento) en el siguiente enlace!

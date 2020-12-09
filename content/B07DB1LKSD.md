@@ -10,8 +10,11 @@ author: ring
 slug: B07DB1LKSD
 description:
 actualPrice: 19.32 EUR
+currency: EUR
+price: 19.32
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Mustang Schnür-Stiefelette  Botines para Mujer  Marrón  Kastanie 301   37 EU
 ---
 
 Tienes [Mustang Schnür-Stiefelette  Botines para Mujer  Marrón  Kastanie 301   37 EU](https://www.amazon.es/dp/B07DB1LKSD/?tag=tolees-21) con un 72.38 % de descuento con precio de oferta de 19.32 EUR (original: 69.95 EUR) en el siguiente enlace!

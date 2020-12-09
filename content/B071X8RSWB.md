@@ -10,8 +10,11 @@ author: ring
 slug: B071X8RSWB
 description:
 actualPrice: 15.59 EUR
+currency: EUR
+price: 15.59
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Adidas Adilette Shower Chanclas Hombre  Rojo  Escarl/Ftwbla/Escarl 000   39 EU  6 UK 
 ---
 
 Está [Adidas Adilette Shower Chanclas Hombre  Rojo  Escarl/Ftwbla/Escarl 000   39 EU  6 UK ](https://www.amazon.es/dp/B071X8RSWB/?tag=tolees-21) con 37.52 de descuento por 15.59 EUR (original: 24.95 EUR) en el siguiente enlace!

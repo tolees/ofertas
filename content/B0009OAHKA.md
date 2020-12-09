@@ -10,8 +10,11 @@ author: ring
 slug: B0009OAHKA
 description:
 actualPrice: 45.95 EUR
+currency: EUR
+price: 45.95
 comparePrice: 79.5 EUR
 inStock: true
+prodname: Carolina Herrera 212 Men Eau de Toilette Vaporizador 100 ml
 ---
 
 Ahora mismo tienes [Carolina Herrera 212 Men Eau de Toilette Vaporizador 100 ml](https://www.amazon.es/dp/B0009OAHKA/?tag=tolees-21) a 45.95 EUR (original: 79.5 EUR) (42.20 %  de descuento) en el siguiente enlace!

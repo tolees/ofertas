@@ -10,8 +10,11 @@ author: ring
 slug: B071GZ4GQW
 description:
 actualPrice: 21.71 EUR
+currency: EUR
+price: 21.71
 comparePrice: 49.99 EUR
 inStock: true
+prodname: VERO MODA Vmcandy Parka Ip  Parka para Mujer  Azul  Navy Blazer   38  Talla del fabricante: Medium 
 ---
 
 Está [VERO MODA Vmcandy Parka Ip  Parka para Mujer  Azul  Navy Blazer   38  Talla del fabricante: Medium ](https://www.amazon.es/dp/B071GZ4GQW/?tag=tolees-21) con 56.57 de descuento por 21.71 EUR (original: 49.99 EUR) en el siguiente enlace!

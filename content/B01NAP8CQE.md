@@ -10,8 +10,11 @@ author: ring
 slug: B01NAP8CQE
 description:
 actualPrice: 33.45 EUR
+currency: EUR
+price: 33.45
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Adidas Vs Set  Zapatillas de Deporte Hombre  Negro  Core Black/ftwr White/ftwr White   46 EU
 ---
 
 Tienes [Adidas Vs Set  Zapatillas de Deporte Hombre  Negro  Core Black/ftwr White/ftwr White   46 EU](https://www.amazon.es/dp/B01NAP8CQE/?tag=tolees-21) con un 33.03 % de descuento con precio de oferta de 33.45 EUR (original: 49.95 EUR) en el siguiente enlace!

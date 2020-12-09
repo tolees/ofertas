@@ -10,8 +10,11 @@ author: ring
 slug: B00JB8HFXW
 description:
 actualPrice: 51.86 EUR
+currency: EUR
+price: 51.86
 comparePrice: 72.0 EUR
 inStock: true
+prodname: Superga 2750-lamew  Zapatillas de Gimnasia Mujer  Plateado  Grey Silver 031   37.5 EU
 ---
 
 Tienes [Superga 2750-lamew  Zapatillas de Gimnasia Mujer  Plateado  Grey Silver 031   37.5 EU](https://www.amazon.es/dp/B00JB8HFXW/?tag=tolees-21) con un 27.97 % de descuento con precio de oferta de 51.86 EUR (original: 72.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07W8LJZPK
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 13.29 EUR
 inStock: true
+prodname: El Señor De Los Anillos: La Comunidad Del Anillo  Edición Extendida  - Iconic Blu-Ray [Blu-ray]
 ---
 
 Está [El Señor De Los Anillos: La Comunidad Del Anillo  Edición Extendida  - Iconic Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07W8LJZPK/?tag=tolees-21) con 47.40 de descuento por 6.99 EUR (original: 13.29 EUR) en el siguiente enlace!

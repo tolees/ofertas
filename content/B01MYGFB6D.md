@@ -10,8 +10,11 @@ author: ring
 slug: B01MYGFB6D
 description:
 actualPrice: 50.0 EUR
+currency: EUR
+price: 50.0
 comparePrice: 91.93 EUR
 inStock: true
+prodname: Embrujadas  Megapack Serie Completa  [DVD]
 ---
 
 Tienes [Embrujadas  Megapack Serie Completa  [DVD]](https://www.amazon.es/dp/B01MYGFB6D/?tag=tolees-21) con un 45.61 % de descuento con precio de oferta de 50.0 EUR (original: 91.93 EUR) en el siguiente enlace!

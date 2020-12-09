@@ -10,8 +10,11 @@ author: ring
 slug: B07DP2NW7F
 description:
 actualPrice: 14.95 EUR
+currency: EUR
+price: 14.95
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Wolfenstein Youngblood - Edición Deluxe Xbox One
 ---
 
 Ahora mismo tienes [Wolfenstein Youngblood - Edición Deluxe Xbox One](https://www.amazon.es/dp/B07DP2NW7F/?tag=tolees-21) a 14.95 EUR (original: 39.99 EUR) (62.62 %  de descuento) en el siguiente enlace!

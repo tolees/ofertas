@@ -10,8 +10,11 @@ author: ring
 slug: B07JZVFMHD
 description:
 actualPrice: 34.49 EUR
+currency: EUR
+price: 34.49
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Jack & Jones Jcorocky Jacket Noos Chaqueta  Negro  Black Pattern: PU   Large para Hombre
 ---
 
 Está [Jack & Jones Jcorocky Jacket Noos Chaqueta  Negro  Black Pattern: PU   Large para Hombre](https://www.amazon.es/dp/B07JZVFMHD/?tag=tolees-21) con 42.51 de descuento por 34.49 EUR (original: 59.99 EUR) en el siguiente enlace!

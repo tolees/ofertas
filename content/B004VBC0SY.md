@@ -10,8 +10,11 @@ author: ring
 slug: B004VBC0SY
 description:
 actualPrice: 8.49 EUR
+currency: EUR
+price: 8.49
 comparePrice: 15 EUR
 inStock: true
+prodname: Kong Pelota Maciza Extreme M-L  Medium/Large  7 cm
 ---
 
 Ahora mismo tienes [Kong Pelota Maciza Extreme M-L  Medium/Large  7 cm](https://www.amazon.es/dp/B004VBC0SY/?tag=tolees-21) a 8.49 EUR (original: 15 EUR) (43.40 %  de descuento) en el siguiente enlace!

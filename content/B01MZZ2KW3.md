@@ -10,8 +10,11 @@ author: ring
 slug: B01MZZ2KW3
 description:
 actualPrice: 30.01 EUR
+currency: EUR
+price: 30.01
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Adidas Vs Pace  Zapatillas para Hombre  Negro  Core Black/Footwear White/Scarlet 0   41 1/3 EU
 ---
 
 Está [Adidas Vs Pace  Zapatillas para Hombre  Negro  Core Black/Footwear White/Scarlet 0   41 1/3 EU](https://www.amazon.es/dp/B01MZZ2KW3/?tag=tolees-21) con 39.92 de descuento por 30.01 EUR (original: 49.95 EUR) en el siguiente enlace!

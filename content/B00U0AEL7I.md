@@ -10,8 +10,11 @@ author: ring
 slug: B00U0AEL7I
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 52.99 EUR
 inStock: true
+prodname: SEVERIN KA 5978 Cafetera Espresso  Incl. Jarra para Servir y Cuchara Dosificadora  Hasta 4 Tazas  800 W  Plástico  Negro
 ---
 
 Ahora mismo tienes [SEVERIN KA 5978 Cafetera Espresso  Incl. Jarra para Servir y Cuchara Dosificadora  Hasta 4 Tazas  800 W  Plástico  Negro](https://www.amazon.es/dp/B00U0AEL7I/?tag=tolees-21) a 36.99 EUR (original: 52.99 EUR) (30.19 %  de descuento) en el siguiente enlace!

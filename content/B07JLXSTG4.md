@@ -10,8 +10,11 @@ author: ring
 slug: B07JLXSTG4
 description:
 actualPrice: 15.35 EUR
+currency: EUR
+price: 15.35
 comparePrice: 22.48 EUR
 inStock: true
+prodname: Joy.J Sets de Ping Pong  2 Raquetas de Ping Pong + 3 Pelotas + 1 Bolsa  Profesionales Palas Ping Pong  Cómodo Mango | Esponja de Alta Elasticidad | Goma de Doble Cara
 ---
 
 Está [Joy.J Sets de Ping Pong  2 Raquetas de Ping Pong + 3 Pelotas + 1 Bolsa  Profesionales Palas Ping Pong  Cómodo Mango | Esponja de Alta Elasticidad | Goma de Doble Cara](https://www.amazon.es/dp/B07JLXSTG4/?tag=tolees-21) con 31.72 de descuento por 15.35 EUR (original: 22.48 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DGDSZ1G
 description:
 actualPrice: 30.26 EUR
+currency: EUR
+price: 30.26
 comparePrice: 130 EUR
 inStock: true
+prodname: DC Shoes Torstein  Zapatillas de Skateboard para Hombre  Gris  Black/Grey/Red-Combo Xksr   41 EU
 ---
 
 Está [DC Shoes Torstein  Zapatillas de Skateboard para Hombre  Gris  Black/Grey/Red-Combo Xksr   41 EU](https://www.amazon.es/dp/B07DGDSZ1G/?tag=tolees-21) con 76.72 de descuento por 30.26 EUR (original: 130 EUR) en el siguiente enlace!

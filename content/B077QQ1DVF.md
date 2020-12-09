@@ -10,8 +10,11 @@ author: ring
 slug: B077QQ1DVF
 description:
 actualPrice: 5.78 EUR
+currency: EUR
+price: 5.78
 comparePrice: 13.32 EUR
 inStock: true
+prodname: CASTORLAND B-27453-1 Puzzle - Rompecabezas
 ---
 
 Ahora mismo tienes [CASTORLAND B-27453-1 Puzzle - Rompecabezas](https://www.amazon.es/dp/B077QQ1DVF/?tag=tolees-21) a 5.78 EUR (original: 13.32 EUR) (56.61 %  de descuento) en el siguiente enlace!

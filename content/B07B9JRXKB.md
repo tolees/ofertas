@@ -10,8 +10,11 @@ author: ring
 slug: B07B9JRXKB
 description:
 actualPrice: 32.09 EUR
+currency: EUR
+price: 32.09
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Skechers Delson-Ortego  Zapatillas para Hombre  Negro  Black Blk   43 EU
 ---
 
 Tienes [Skechers Delson-Ortego  Zapatillas para Hombre  Negro  Black Blk   43 EU](https://www.amazon.es/dp/B07B9JRXKB/?tag=tolees-21) con un 59.86 % de descuento con precio de oferta de 32.09 EUR (original: 79.95 EUR) en el siguiente enlace!

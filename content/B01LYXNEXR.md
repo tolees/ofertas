@@ -10,8 +10,11 @@ author: ring
 slug: B01LYXNEXR
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: GEEKHOM Hamacas Colgantes  Tienda de Campaña  Hamacas Jardin Portátil y Ultra-ligera  Carga Máxima 250 kg  270 x 140 cm   Para Interiores  Exteriores  Jardín  Viaje  Senderismo  Excursión  Playa
 ---
 
 Ahora mismo tienes [GEEKHOM Hamacas Colgantes  Tienda de Campaña  Hamacas Jardin Portátil y Ultra-ligera  Carga Máxima 250 kg  270 x 140 cm   Para Interiores  Exteriores  Jardín  Viaje  Senderismo  Excursión  Playa](https://www.amazon.es/dp/B01LYXNEXR/?tag=tolees-21) a 18.99 EUR (original: 39.99 EUR) (52.51 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B006GMWZBI
 description:
 actualPrice: 17.32 EUR
+currency: EUR
+price: 17.32
 comparePrice: 34.9 EUR
 inStock: true
+prodname: Haribo Bonner Oro 150 barras  1er Pack  1 x 2.7 kg 
 ---
 
 Tienes [Haribo Bonner Oro 150 barras  1er Pack  1 x 2.7 kg ](https://www.amazon.es/dp/B006GMWZBI/?tag=tolees-21) con un 50.37 % de descuento con precio de oferta de 17.32 EUR (original: 34.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08CR6QMRV
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 23.99 EUR
 inStock: true
+prodname: Diskary Rollos de bolsas para envasar al vacío y conservar y almacenar alimentos  20 cm x 5 m y 28 cm x 5m
 ---
 
 Está [Diskary Rollos de bolsas para envasar al vacío y conservar y almacenar alimentos  20 cm x 5 m y 28 cm x 5m](https://www.amazon.es/dp/B08CR6QMRV/?tag=tolees-21) con 33.35 de descuento por 15.99 EUR (original: 23.99 EUR) en el siguiente enlace!

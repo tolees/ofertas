@@ -10,8 +10,11 @@ author: ring
 slug: B073RPKDVY
 description:
 actualPrice: 65.59 EUR
+currency: EUR
+price: 65.59
 comparePrice: 130 EUR
 inStock: true
+prodname: Helly Hansen Crew Windbreaker Chaqueta  Hombre  Navy  M
 ---
 
 Tienes [Helly Hansen Crew Windbreaker Chaqueta  Hombre  Navy  M](https://www.amazon.es/dp/B073RPKDVY/?tag=tolees-21) con un 49.55 % de descuento con precio de oferta de 65.59 EUR (original: 130 EUR) en el siguiente enlace!

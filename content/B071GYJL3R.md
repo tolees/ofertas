@@ -10,8 +10,11 @@ author: ring
 slug: B071GYJL3R
 description:
 actualPrice: 799.2 EUR
+currency: EUR
+price: 799.2
 comparePrice: 1119 EUR
 inStock: true
+prodname: Apple iPad Pro  10 5 pulgadas y 512GB con Wi-Fi  - Plata
 ---
 
 Está [Apple iPad Pro  10 5 pulgadas y 512GB con Wi-Fi  - Plata](https://www.amazon.es/dp/B071GYJL3R/?tag=tolees-21) con 28.58 de descuento por 799.2 EUR (original: 1119 EUR) en el siguiente enlace!

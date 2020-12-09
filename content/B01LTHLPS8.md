@@ -10,8 +10,11 @@ author: ring
 slug: B01LTHLPS8
 description:
 actualPrice: 6.06 EUR
+currency: EUR
+price: 6.06
 comparePrice: 14.3 EUR
 inStock: true
+prodname: Ninja Turtles: Fuera De Las Sombras 3D [Blu-ray]
 ---
 
 Tienes [Ninja Turtles: Fuera De Las Sombras 3D [Blu-ray]](https://www.amazon.es/dp/B01LTHLPS8/?tag=tolees-21) con un 57.62 % de descuento con precio de oferta de 6.06 EUR (original: 14.3 EUR) en el siguiente enlace!

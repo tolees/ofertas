@@ -10,8 +10,11 @@ author: ring
 slug: B00ARQKQK6
 description:
 actualPrice: 3.87 EUR
+currency: EUR
+price: 3.87
 comparePrice: 6.5 EUR
 inStock: true
+prodname: Munchkin - Juego de tenedor y cuchara para niños  surtido de colores
 ---
 
 Tienes [Munchkin - Juego de tenedor y cuchara para niños  surtido de colores](https://www.amazon.es/dp/B00ARQKQK6/?tag=tolees-21) con un 40.46 % de descuento con precio de oferta de 3.87 EUR (original: 6.5 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B079MRX8YL
 description:
 actualPrice: 7.32 EUR
+currency: EUR
+price: 7.32
 comparePrice: 19.99 EUR
 inStock: true
+prodname: edc by Esprit 058cc1k081  Camiseta Mujer   Dark Green 300   X-Small
 ---
 
 Ahora mismo tienes [edc by Esprit 058cc1k081  Camiseta Mujer   Dark Green 300   X-Small](https://www.amazon.es/dp/B079MRX8YL/?tag=tolees-21) a 7.32 EUR (original: 19.99 EUR) (63.38 %  de descuento) en el siguiente enlace!

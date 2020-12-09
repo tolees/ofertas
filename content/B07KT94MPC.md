@@ -10,8 +10,11 @@ author: ring
 slug: B07KT94MPC
 description:
 actualPrice: 27.93 EUR
+currency: EUR
+price: 27.93
 comparePrice: 120 EUR
 inStock: true
+prodname: Clarks Originals Ashton  Zapatos de Cordones Derby para Mujer  Blanco Off White Nbk  40 EU
 ---
 
 Ahora mismo tienes [Clarks Originals Ashton  Zapatos de Cordones Derby para Mujer  Blanco Off White Nbk  40 EU](https://www.amazon.es/dp/B07KT94MPC/?tag=tolees-21) a 27.93 EUR (original: 120 EUR) (76.72 %  de descuento) en el siguiente enlace!

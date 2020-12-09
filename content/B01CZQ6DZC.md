@@ -10,8 +10,11 @@ author: ring
 slug: B01CZQ6DZC
 description:
 actualPrice: 55.98 EUR
+currency: EUR
+price: 55.98
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Bosch Quigo 3 Plus - Nivel láser en cruz  autonivelante  alcance: 7 m  precisión: ± 0 8 mm/m  2 pilas AAA y trípode  caja de cartón 
 ---
 
 Ahora mismo tienes [Bosch Quigo 3 Plus - Nivel láser en cruz  autonivelante  alcance: 7 m  precisión: ± 0 8 mm/m  2 pilas AAA y trípode  caja de cartón ](https://www.amazon.es/dp/B01CZQ6DZC/?tag=tolees-21) a 55.98 EUR (original: 79.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

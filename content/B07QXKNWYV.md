@@ -10,8 +10,11 @@ author: ring
 slug: B07QXKNWYV
 description:
 actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
 comparePrice: 19.43 EUR
 inStock: true
+prodname: La Llorona Blu-Ray [Blu-ray]
 ---
 
 Tienes [La Llorona Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07QXKNWYV/?tag=tolees-21) con un 66.55 % de descuento con precio de oferta de 6.5 EUR (original: 19.43 EUR) en el siguiente enlace!

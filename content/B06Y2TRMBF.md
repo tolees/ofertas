@@ -10,8 +10,11 @@ author: ring
 slug: B06Y2TRMBF
 description:
 actualPrice: 35.72 EUR
+currency: EUR
+price: 35.72
 comparePrice: 110 EUR
 inStock: true
+prodname: Bugatti 411339323059  Botas para Mujer  Negro  Black/Taupe   39 EU
 ---
 
 Tienes [Bugatti 411339323059  Botas para Mujer  Negro  Black/Taupe   39 EU](https://www.amazon.es/dp/B06Y2TRMBF/?tag=tolees-21) con un 67.53 % de descuento con precio de oferta de 35.72 EUR (original: 110 EUR) en el siguiente enlace!

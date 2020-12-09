@@ -10,8 +10,11 @@ author: ring
 slug: B07TS3S2NN
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 32.99 EUR
 inStock: true
+prodname: MSemis Mono Leotard Completo de Charol para Hombres Maillot Largo Disfraz Segunda Piel Body Ajustado Catsuit Zentai Carnaval Despedida Wetlook Cosplay Disfraz Plateado XXL
 ---
 
 Ahora mismo tienes [MSemis Mono Leotard Completo de Charol para Hombres Maillot Largo Disfraz Segunda Piel Body Ajustado Catsuit Zentai Carnaval Despedida Wetlook Cosplay Disfraz Plateado XXL](https://www.amazon.es/dp/B07TS3S2NN/?tag=tolees-21) a 15.99 EUR (original: 32.99 EUR) (51.53 %  de descuento) en el siguiente enlace!

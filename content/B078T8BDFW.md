@@ -10,8 +10,11 @@ author: ring
 slug: B078T8BDFW
 description:
 actualPrice: 44.95 EUR
+currency: EUR
+price: 44.95
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Columbia Youth Minx Mid III WP Omni-Heat  Botas de Nieve para Niñas  Gris  Stratus  Camellia Rose   32 EU
 ---
 
 Ahora mismo tienes [Columbia Youth Minx Mid III WP Omni-Heat  Botas de Nieve para Niñas  Gris  Stratus  Camellia Rose   32 EU](https://www.amazon.es/dp/B078T8BDFW/?tag=tolees-21) a 44.95 EUR (original: 89.99 EUR) (50.05 %  de descuento) en el siguiente enlace!

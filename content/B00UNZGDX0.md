@@ -10,8 +10,11 @@ author: ring
 slug: B00UNZGDX0
 description:
 actualPrice: 9.38 EUR
+currency: EUR
+price: 9.38
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Funko- Mopeez Hulk Figura de Vinilo  5586 
 ---
 
 Tienes [Funko- Mopeez Hulk Figura de Vinilo  5586 ](https://www.amazon.es/dp/B00UNZGDX0/?tag=tolees-21) con un 53.08 % de descuento con precio de oferta de 9.38 EUR (original: 19.99 EUR) en el siguiente enlace!

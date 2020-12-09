@@ -10,8 +10,11 @@ author: ring
 slug: B00CECKIVI
 description:
 actualPrice: 3 EUR
+currency: EUR
+price: 3
 comparePrice: 4.39 EUR
 inStock: true
+prodname: Debut Album
 ---
 
 Tienes [Debut Album](https://www.amazon.es/dp/B00CECKIVI/?tag=tolees-21) con un 31.66 % de descuento con precio de oferta de 3 EUR (original: 4.39 EUR) en el siguiente enlace!

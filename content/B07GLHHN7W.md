@@ -10,8 +10,11 @@ author: ring
 slug: B07GLHHN7W
 description:
 actualPrice: 13.96 EUR
+currency: EUR
+price: 13.96
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Serino Alicates Cortaúñas de Para Uñas Gruesas o Incrustadas  Profesional Pedicura y Herramientas de Manicura Preciso y Seguro con Mango Suave Caja de Metal  Negro/R 
 ---
 
 Ahora mismo tienes [Serino Alicates Cortaúñas de Para Uñas Gruesas o Incrustadas  Profesional Pedicura y Herramientas de Manicura Preciso y Seguro con Mango Suave Caja de Metal  Negro/R ](https://www.amazon.es/dp/B07GLHHN7W/?tag=tolees-21) a 13.96 EUR (original: 39.99 EUR) (65.09 %  de descuento) en el siguiente enlace!

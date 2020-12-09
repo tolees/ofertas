@@ -10,8 +10,11 @@ author: ring
 slug: B076HQVSCH
 description:
 actualPrice: 13.08 EUR
+currency: EUR
+price: 13.08
 comparePrice: 19.11 EUR
 inStock: true
+prodname: adidas CORE18 tee T-Shirt  Hombre  Power Red/White  XL
 ---
 
 Ahora mismo tienes [adidas CORE18 tee T-Shirt  Hombre  Power Red/White  XL](https://www.amazon.es/dp/B076HQVSCH/?tag=tolees-21) a 13.08 EUR (original: 19.11 EUR) (31.55 %  de descuento) en el siguiente enlace!

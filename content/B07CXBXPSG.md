@@ -10,8 +10,11 @@ author: ring
 slug: B07CXBXPSG
 description:
 actualPrice: 10.67 EUR
+currency: EUR
+price: 10.67
 comparePrice: 14.85 EUR
 inStock: true
+prodname: Warmies® MINIS Einhorn: Lavendel-Füllung
 ---
 
 Está [Warmies® MINIS Einhorn: Lavendel-Füllung](https://www.amazon.es/dp/B07CXBXPSG/?tag=tolees-21) con 28.15 de descuento por 10.67 EUR (original: 14.85 EUR) en el siguiente enlace!

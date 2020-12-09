@@ -10,8 +10,11 @@ author: ring
 slug: B00YFJMZJQ
 description:
 actualPrice: 30 EUR
+currency: EUR
+price: 30
 comparePrice: 75 EUR
 inStock: true
+prodname: Nike Air MAX Invigor Print  Zapatillas Unisex niño  Gris  Cool Wolf Grey/Anthracite/White   37.5 EU
 ---
 
 Ahora mismo tienes [Nike Air MAX Invigor Print  Zapatillas Unisex niño  Gris  Cool Wolf Grey/Anthracite/White   37.5 EU](https://www.amazon.es/dp/B00YFJMZJQ/?tag=tolees-21) a 30 EUR (original: 75 EUR) (60.00 %  de descuento) en el siguiente enlace!

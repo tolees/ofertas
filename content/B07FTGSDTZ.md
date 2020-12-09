@@ -10,8 +10,11 @@ author: ring
 slug: B07FTGSDTZ
 description:
 actualPrice: 13.41 EUR
+currency: EUR
+price: 13.41
 comparePrice: 25 EUR
 inStock: true
+prodname: Lee Logo tee  Camiseta para Hombre  Marfil  Bright Red EF  Medium
 ---
 
 Tienes [Lee Logo tee  Camiseta para Hombre  Marfil  Bright Red EF  Medium](https://www.amazon.es/dp/B07FTGSDTZ/?tag=tolees-21) con un 46.36 % de descuento con precio de oferta de 13.41 EUR (original: 25 EUR) en el siguiente enlace!

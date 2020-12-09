@@ -10,8 +10,11 @@ author: ring
 slug: B07DYXW1LF
 description:
 actualPrice: 107.89 EUR
+currency: EUR
+price: 107.89
 comparePrice: 169.99 EUR
 inStock: true
+prodname: Columbia Chaqueta de esquí Impermeable para Hombre  Ride On Ski Jacket  Rojo  Red Spark   Talla M
 ---
 
 Ahora mismo tienes [Columbia Chaqueta de esquí Impermeable para Hombre  Ride On Ski Jacket  Rojo  Red Spark   Talla M](https://www.amazon.es/dp/B07DYXW1LF/?tag=tolees-21) a 107.89 EUR (original: 169.99 EUR) (36.53 %  de descuento) en el siguiente enlace!

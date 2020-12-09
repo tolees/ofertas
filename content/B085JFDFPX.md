@@ -10,8 +10,11 @@ author: ring
 slug: B085JFDFPX
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 49.17 EUR
 inStock: true
+prodname: ADVANCE Sensitive Medium-Maxi - Pienso para Perros de Razas Medianas y Grandes con Sensibilidades Digestivas con Salmón y Arroz - Pack de 3 x 3kg - Total 9Kg
 ---
 
 Ahora mismo tienes [ADVANCE Sensitive Medium-Maxi - Pienso para Perros de Razas Medianas y Grandes con Sensibilidades Digestivas con Salmón y Arroz - Pack de 3 x 3kg - Total 9Kg](https://www.amazon.es/dp/B085JFDFPX/?tag=tolees-21) a 32.99 EUR (original: 49.17 EUR) (32.91 %  de descuento) en el siguiente enlace!

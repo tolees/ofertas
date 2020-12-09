@@ -10,8 +10,11 @@ author: ring
 slug: B07M7DVQCS
 description:
 actualPrice: 20 EUR
+currency: EUR
+price: 20
 comparePrice: 30 EUR
 inStock: true
+prodname: Nike M TM CLUB19 SS Polo Shirt  Hombre  Charcoal Heathr/ White   XL
 ---
 
 Tienes [Nike M TM CLUB19 SS Polo Shirt  Hombre  Charcoal Heathr/ White   XL](https://www.amazon.es/dp/B07M7DVQCS/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 20 EUR (original: 30 EUR) en el siguiente enlace!

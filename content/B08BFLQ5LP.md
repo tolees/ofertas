@@ -10,8 +10,11 @@ author: ring
 slug: B08BFLQ5LP
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 35.98 EUR
 inStock: true
+prodname: Kepae Juegos de Construcción Kit de Iluminación LED para Lego Speed Champions - 1985 Audi Sport Quattro S1  Luces Luz LED Compatible con Lego 76897
 ---
 
 Tienes [Kepae Juegos de Construcción Kit de Iluminación LED para Lego Speed Champions - 1985 Audi Sport Quattro S1  Luces Luz LED Compatible con Lego 76897](https://www.amazon.es/dp/B08BFLQ5LP/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 17.99 EUR (original: 35.98 EUR) en el siguiente enlace!

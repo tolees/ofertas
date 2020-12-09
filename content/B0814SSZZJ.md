@@ -10,8 +10,11 @@ author: ring
 slug: B0814SSZZJ
 description:
 actualPrice: 18.15 EUR
+currency: EUR
+price: 18.15
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Under Armour UA Tech Pant Chándal  Pantalón De Deporte  Hombre   Academy/Academy/Academy  408   32/34
 ---
 
 Está [Under Armour UA Tech Pant Chándal  Pantalón De Deporte  Hombre   Academy/Academy/Academy  408   32/34](https://www.amazon.es/dp/B0814SSZZJ/?tag=tolees-21) con 72.08 de descuento por 18.15 EUR (original: 65.0 EUR) en el siguiente enlace!

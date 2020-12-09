@@ -10,8 +10,11 @@ author: ring
 slug: B013BTPZ6K
 description:
 actualPrice: 199.99 EUR
+currency: EUR
+price: 199.99
 comparePrice: 389.99 EUR
 inStock: true
+prodname: Hauck Duett 2 - Carro gemelar  silla de paseo gemelar  capazo desde nacimiento transformación a sillita  asiento giratorio  desmontable segundo asiento  manillar ajustable en altura  Black Forest
 ---
 
 Ahora mismo tienes [Hauck Duett 2 - Carro gemelar  silla de paseo gemelar  capazo desde nacimiento transformación a sillita  asiento giratorio  desmontable segundo asiento  manillar ajustable en altura  Black Forest](https://www.amazon.es/dp/B013BTPZ6K/?tag=tolees-21) a 199.99 EUR (original: 389.99 EUR) (48.72 %  de descuento) en el siguiente enlace!

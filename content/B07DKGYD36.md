@@ -10,8 +10,11 @@ author: ring
 slug: B07DKGYD36
 description:
 actualPrice: 3.81 EUR
+currency: EUR
+price: 3.81
 comparePrice: 6.86 EUR
 inStock: true
+prodname: 1 pieza de Màquina de Afeita con Doble Borde para Hombres con 3 Capas 5 Cuchillas de color Plata
 ---
 
 Tienes [1 pieza de Màquina de Afeita con Doble Borde para Hombres con 3 Capas 5 Cuchillas de color Plata](https://www.amazon.es/dp/B07DKGYD36/?tag=tolees-21) con un 44.46 % de descuento con precio de oferta de 3.81 EUR (original: 6.86 EUR) en el siguiente enlace!

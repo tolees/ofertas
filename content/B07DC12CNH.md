@@ -10,8 +10,11 @@ author: ring
 slug: B07DC12CNH
 description:
 actualPrice: 30.4 EUR
+currency: EUR
+price: 30.4
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Puma Smash Wns v2 L  Zapatillas para Mujer  Rosa  Peach Bud White   38 EU
 ---
 
 Tienes [Puma Smash Wns v2 L  Zapatillas para Mujer  Rosa  Peach Bud White   38 EU](https://www.amazon.es/dp/B07DC12CNH/?tag=tolees-21) con un 39.14 % de descuento con precio de oferta de 30.4 EUR (original: 49.95 EUR) en el siguiente enlace!

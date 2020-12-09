@@ -10,8 +10,11 @@ author: ring
 slug: B072KSYHMJ
 description:
 actualPrice: 41.95 EUR
+currency: EUR
+price: 41.95
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Set Figuras Action Stranger Things
 ---
 
 Ahora mismo tienes [Set Figuras Action Stranger Things](https://www.amazon.es/dp/B072KSYHMJ/?tag=tolees-21) a 41.95 EUR (original: 59.99 EUR) (30.07 %  de descuento) en el siguiente enlace!

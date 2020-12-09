@@ -10,8 +10,11 @@ author: ring
 slug: B07K2WY7BY
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 45 EUR
 inStock: true
+prodname: Cmonami Collar De Adiestramiento De Perros Inalámbrico hasta 300 M  Collar Recargable Y Resistente A La Lluvia con Modo De Pitido Y Vibración
 ---
 
 Está [Cmonami Collar De Adiestramiento De Perros Inalámbrico hasta 300 M  Collar Recargable Y Resistente A La Lluvia con Modo De Pitido Y Vibración](https://www.amazon.es/dp/B07K2WY7BY/?tag=tolees-21) con 33.36 de descuento por 29.99 EUR (original: 45 EUR) en el siguiente enlace!

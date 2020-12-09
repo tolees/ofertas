@@ -10,8 +10,11 @@ author: ring
 slug: B01MREG1GE
 description:
 actualPrice: 12.09 EUR
+currency: EUR
+price: 12.09
 comparePrice: 22.4 EUR
 inStock: true
+prodname: Knorr - Las Cremas - Selección de verduras - 1 l - [Pack de 8]
 ---
 
 Tienes [Knorr - Las Cremas - Selección de verduras - 1 l - [Pack de 8]](https://www.amazon.es/dp/B01MREG1GE/?tag=tolees-21) con un 46.03 % de descuento con precio de oferta de 12.09 EUR (original: 22.4 EUR) en el siguiente enlace!

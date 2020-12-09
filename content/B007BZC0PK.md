@@ -10,8 +10,11 @@ author: ring
 slug: B007BZC0PK
 description:
 actualPrice: 8.65 EUR
+currency: EUR
+price: 8.65
 comparePrice: 16.95 EUR
 inStock: true
+prodname: Eau de Lancaster - Loción corporal para mujer - 200 ml
 ---
 
 Tienes [Eau de Lancaster - Loción corporal para mujer - 200 ml](https://www.amazon.es/dp/B007BZC0PK/?tag=tolees-21) con un 48.97 % de descuento con precio de oferta de 8.65 EUR (original: 16.95 EUR) en el siguiente enlace!

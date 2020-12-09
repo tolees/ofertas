@@ -10,8 +10,11 @@ author: ring
 slug: B0736ZNQGM
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Vero Moda Vmava Svea 3/4 Rib Blouse Boo  suéter Mujer  Rosa  Rose Cloud   40  Talla del Fabricante: Large 
 ---
 
 Ahora mismo tienes [Vero Moda Vmava Svea 3/4 Rib Blouse Boo  suéter Mujer  Rosa  Rose Cloud   40  Talla del Fabricante: Large ](https://www.amazon.es/dp/B0736ZNQGM/?tag=tolees-21) a 10.99 EUR (original: 29.99 EUR) (63.35 %  de descuento) en el siguiente enlace!

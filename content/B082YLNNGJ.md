@@ -10,8 +10,11 @@ author: ring
 slug: B082YLNNGJ
 description:
 actualPrice: 54.99 EUR
+currency: EUR
+price: 54.99
 comparePrice: 75.99 EUR
 inStock: true
+prodname: Jurassic World - Dinosario de Juguete Bracchiosaurus  Mattel GNC31 
 ---
 
 Está [Jurassic World - Dinosario de Juguete Bracchiosaurus  Mattel GNC31 ](https://www.amazon.es/dp/B082YLNNGJ/?tag=tolees-21) con 27.64 de descuento por 54.99 EUR (original: 75.99 EUR) en el siguiente enlace!

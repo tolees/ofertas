@@ -10,8 +10,11 @@ author: ring
 slug: B01DH9XFU2
 description:
 actualPrice: 8.66 EUR
+currency: EUR
+price: 8.66
 comparePrice: 23 EUR
 inStock: true
+prodname: Victoria Mercedes Terciopelo  Bailarinas con Punta Cerrada para Niñas  Rojo  Burdeos 41   26 EU
 ---
 
 Tienes [Victoria Mercedes Terciopelo  Bailarinas con Punta Cerrada para Niñas  Rojo  Burdeos 41   26 EU](https://www.amazon.es/dp/B01DH9XFU2/?tag=tolees-21) con un 62.35 % de descuento con precio de oferta de 8.66 EUR (original: 23 EUR) en el siguiente enlace!

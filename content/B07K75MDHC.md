@@ -10,8 +10,11 @@ author: ring
 slug: B07K75MDHC
 description:
 actualPrice: 26.95 EUR
+currency: EUR
+price: 26.95
 comparePrice: 65 EUR
 inStock: true
+prodname: Levi s Graphic Gym Sudadera  Gris  Box Tab Crew Smokestack Htr 0004   XX-Small para Mujer
 ---
 
 Ahora mismo tienes [Levi s Graphic Gym Sudadera  Gris  Box Tab Crew Smokestack Htr 0004   XX-Small para Mujer](https://www.amazon.es/dp/B07K75MDHC/?tag=tolees-21) a 26.95 EUR (original: 65 EUR) (58.54 %  de descuento) en el siguiente enlace!

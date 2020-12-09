@@ -10,8 +10,11 @@ author: ring
 slug: B01LYIU9ET
 description:
 actualPrice: 28.78 EUR
+currency: EUR
+price: 28.78
 comparePrice: 42.9 EUR
 inStock: true
+prodname: 3 Claveles 12566 Tijera Peluquería de 5.5"
 ---
 
 Tienes [3 Claveles 12566 Tijera Peluquería de 5.5"](https://www.amazon.es/dp/B01LYIU9ET/?tag=tolees-21) con un 32.91 % de descuento con precio de oferta de 28.78 EUR (original: 42.9 EUR) en el siguiente enlace!

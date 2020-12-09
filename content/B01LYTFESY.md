@@ -10,8 +10,11 @@ author: ring
 slug: B01LYTFESY
 description:
 actualPrice: 59.0 EUR
+currency: EUR
+price: 59.0
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Chicco London - Silla de paseo  7.2 kg  compacta y manejable  color negro
 ---
 
 Ahora mismo tienes [Chicco London - Silla de paseo  7.2 kg  compacta y manejable  color negro](https://www.amazon.es/dp/B01LYTFESY/?tag=tolees-21) a 59.0 EUR (original: 89.95 EUR) (34.41 %  de descuento) en el siguiente enlace!

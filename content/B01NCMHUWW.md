@@ -10,8 +10,11 @@ author: ring
 slug: B01NCMHUWW
 description:
 actualPrice: 12.46 EUR
+currency: EUR
+price: 12.46
 comparePrice: 25 EUR
 inStock: true
+prodname: FIND Jersey de Rayas con Cuello en V Mujer  Rojo  Sports Red/white   42  Talla del Fabricante: Large 
 ---
 
 Está [FIND Jersey de Rayas con Cuello en V Mujer  Rojo  Sports Red/white   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B01NCMHUWW/?tag=tolees-21) con 50.16 de descuento por 12.46 EUR (original: 25 EUR) en el siguiente enlace!

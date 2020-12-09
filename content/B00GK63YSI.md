@@ -10,8 +10,11 @@ author: ring
 slug: B00GK63YSI
 description:
 actualPrice: 269.99 EUR
+currency: EUR
+price: 269.99
 comparePrice: 536.84 EUR
 inStock: true
+prodname: Linksys LGS318P-EU - Smart Switch Gigabit PoE+ para empresas de 18 puertos  seguridad avanzada  QoS  instalación y gestión sencillas   negro y azul
 ---
 
 Ahora mismo tienes [Linksys LGS318P-EU - Smart Switch Gigabit PoE+ para empresas de 18 puertos  seguridad avanzada  QoS  instalación y gestión sencillas   negro y azul](https://www.amazon.es/dp/B00GK63YSI/?tag=tolees-21) a 269.99 EUR (original: 536.84 EUR) (49.71 %  de descuento) en el siguiente enlace!

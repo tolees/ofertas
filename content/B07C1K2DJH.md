@@ -10,8 +10,11 @@ author: ring
 slug: B07C1K2DJH
 description:
 actualPrice: 7.38 EUR
+currency: EUR
+price: 7.38
 comparePrice: 19.05 EUR
 inStock: true
+prodname: PRODG Samoa-Carpeta Anillas
 ---
 
 Está [PRODG Samoa-Carpeta Anillas](https://www.amazon.es/dp/B07C1K2DJH/?tag=tolees-21) con 61.26 de descuento por 7.38 EUR (original: 19.05 EUR) en el siguiente enlace!

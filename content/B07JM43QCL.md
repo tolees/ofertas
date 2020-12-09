@@ -10,8 +10,11 @@ author: ring
 slug: B07JM43QCL
 description:
 actualPrice: 35.89 EUR
+currency: EUR
+price: 35.89
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Luke Pants Jeans  Dark Diamond Ft  26W / 32L para Hombre
 ---
 
 Tienes [Lee Luke Pants Jeans  Dark Diamond Ft  26W / 32L para Hombre](https://www.amazon.es/dp/B07JM43QCL/?tag=tolees-21) con un 60.10 % de descuento con precio de oferta de 35.89 EUR (original: 89.95 EUR) en el siguiente enlace!

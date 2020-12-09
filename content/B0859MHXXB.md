@@ -10,8 +10,11 @@ author: ring
 slug: B0859MHXXB
 description:
 actualPrice: 54.99 EUR
+currency: EUR
+price: 54.99
 comparePrice: 74.99 EUR
 inStock: true
+prodname: [New] TP-Link AC1900 - Router inalámbrico Doble Banda  2 4 GHz / 5 GHz  WiFi MU-MIMO  4xGigabit LAN Ports /1xWAN Port  Tecnología Beamforming  Smart Connect  Control Parental  Archer C80 
 ---
 
 Está [[New] TP-Link AC1900 - Router inalámbrico Doble Banda  2 4 GHz / 5 GHz  WiFi MU-MIMO  4xGigabit LAN Ports /1xWAN Port  Tecnología Beamforming  Smart Connect  Control Parental  Archer C80 ](https://www.amazon.es/dp/B0859MHXXB/?tag=tolees-21) con 26.67 de descuento por 54.99 EUR (original: 74.99 EUR) en el siguiente enlace!

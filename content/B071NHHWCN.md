@@ -10,8 +10,11 @@ author: ring
 slug: B071NHHWCN
 description:
 actualPrice: 41.24 EUR
+currency: EUR
+price: 41.24
 comparePrice: 54.99 EUR
 inStock: true
+prodname: AmazonBasics Silla Gravedad Cero  Azul
 ---
 
 Ahora mismo tienes [AmazonBasics Silla Gravedad Cero  Azul](https://www.amazon.es/dp/B071NHHWCN/?tag=tolees-21) a 41.24 EUR (original: 54.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

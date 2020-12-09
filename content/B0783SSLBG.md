@@ -10,8 +10,11 @@ author: ring
 slug: B0783SSLBG
 description:
 actualPrice: 32.28 EUR
+currency: EUR
+price: 32.28
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Puma Smash Wns v2 L  Zapatillas para Mujer  Blanco White Black  37 EU
 ---
 
 Ahora mismo tienes [Puma Smash Wns v2 L  Zapatillas para Mujer  Blanco White Black  37 EU](https://www.amazon.es/dp/B0783SSLBG/?tag=tolees-21) a 32.28 EUR (original: 49.95 EUR) (35.38 %  de descuento) en el siguiente enlace!

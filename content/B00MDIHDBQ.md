@@ -10,8 +10,11 @@ author: ring
 slug: B00MDIHDBQ
 description:
 actualPrice: 19.88 EUR
+currency: EUR
+price: 19.88
 comparePrice: 29.95 EUR
 inStock: true
+prodname: SATURNIA 15070015 Lona Impermeable Azul Con Ojetes Metálicos 5 x 6 Metros  Aproximadamente 
 ---
 
 Está [SATURNIA 15070015 Lona Impermeable Azul Con Ojetes Metálicos 5 x 6 Metros  Aproximadamente ](https://www.amazon.es/dp/B00MDIHDBQ/?tag=tolees-21) con 33.62 de descuento por 19.88 EUR (original: 29.95 EUR) en el siguiente enlace!

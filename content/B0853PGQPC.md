@@ -10,8 +10,11 @@ author: ring
 slug: B0853PGQPC
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Sonic: La Pelicula  BD  [Blu-ray]
 ---
 
 Tienes [Sonic: La Pelicula  BD  [Blu-ray]](https://www.amazon.es/dp/B0853PGQPC/?tag=tolees-21) con un 47.09 % de descuento con precio de oferta de 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!

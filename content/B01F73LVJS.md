@@ -10,8 +10,11 @@ author: ring
 slug: B01F73LVJS
 description:
 actualPrice: 19.29 EUR
+currency: EUR
+price: 19.29
 comparePrice: 27.37 EUR
 inStock: true
+prodname: BIC 4 colores Fluo bolígrafos Retráctiles - Tinta Negra  Azul  Rojo y Amarillo Fluorescente  Caja de 12 unidades
 ---
 
 Ahora mismo tienes [BIC 4 colores Fluo bolígrafos Retráctiles - Tinta Negra  Azul  Rojo y Amarillo Fluorescente  Caja de 12 unidades](https://www.amazon.es/dp/B01F73LVJS/?tag=tolees-21) a 19.29 EUR (original: 27.37 EUR) (29.52 %  de descuento) en el siguiente enlace!

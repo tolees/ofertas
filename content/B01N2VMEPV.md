@@ -10,8 +10,11 @@ author: ring
 slug: B01N2VMEPV
 description:
 actualPrice: 19.4 EUR
+currency: EUR
+price: 19.4
 comparePrice: 29.99 EUR
 inStock: true
+prodname: JACK & JONES Jjimarco Jjenzo Tan WW 420 Noos  Pantalones para Hombre  Marrón  W29/L32  Talla del Fabricante: 29 
 ---
 
 Tienes [JACK & JONES Jjimarco Jjenzo Tan WW 420 Noos  Pantalones para Hombre  Marrón  W29/L32  Talla del Fabricante: 29 ](https://www.amazon.es/dp/B01N2VMEPV/?tag=tolees-21) con un 35.31 % de descuento con precio de oferta de 19.4 EUR (original: 29.99 EUR) en el siguiente enlace!

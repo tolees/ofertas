@@ -10,8 +10,11 @@ author: ring
 slug: B01MDIZ63Y
 description:
 actualPrice: 547 EUR
+currency: EUR
+price: 547
 comparePrice: 785.88 EUR
 inStock: true
+prodname: Yamaha mcr-n570d sistema Audio
 ---
 
 Ahora mismo tienes [Yamaha mcr-n570d sistema Audio](https://www.amazon.es/dp/B01MDIZ63Y/?tag=tolees-21) a 547 EUR (original: 785.88 EUR) (30.40 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07WJJJ27P
 description:
 actualPrice: 94.99 EUR
+currency: EUR
+price: 94.99
 comparePrice: 144.99 EUR
 inStock: true
+prodname: HyperX FURY Black HX434C16FB3K2/16 Memoria RAM 16GB Kit* 2x8GB  3466MHz DDR4 CL16 DIMM1Rx8
 ---
 
 Está [HyperX FURY Black HX434C16FB3K2/16 Memoria RAM 16GB Kit* 2x8GB  3466MHz DDR4 CL16 DIMM1Rx8](https://www.amazon.es/dp/B07WJJJ27P/?tag=tolees-21) con 34.49 de descuento por 94.99 EUR (original: 144.99 EUR) en el siguiente enlace!

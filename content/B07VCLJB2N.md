@@ -10,8 +10,11 @@ author: ring
 slug: B07VCLJB2N
 description:
 actualPrice: 55.87 EUR
+currency: EUR
+price: 55.87
 comparePrice: 75.0 EUR
 inStock: true
+prodname: Vans Ward Platform Canvas  Sneaker para Mujer  Color Blanco  42 EU
 ---
 
 Ahora mismo tienes [Vans Ward Platform Canvas  Sneaker para Mujer  Color Blanco  42 EU](https://www.amazon.es/dp/B07VCLJB2N/?tag=tolees-21) a 55.87 EUR (original: 75.0 EUR) (25.51 %  de descuento) en el siguiente enlace!

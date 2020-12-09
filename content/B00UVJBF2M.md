@@ -10,8 +10,11 @@ author: ring
 slug: B00UVJBF2M
 description:
 actualPrice: 7.6 EUR
+currency: EUR
+price: 7.6
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Disney Frozen - Busca Las diferencias  Goliath 70156 
 ---
 
 Tienes [Disney Frozen - Busca Las diferencias  Goliath 70156 ](https://www.amazon.es/dp/B00UVJBF2M/?tag=tolees-21) con un 61.98 % de descuento con precio de oferta de 7.6 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B076XBRFKY
 description:
 actualPrice: 16.39 EUR
+currency: EUR
+price: 16.39
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Geox Jr Piuma Ballerine D  Bailarinas para Niñas  Plateado  Silver   38 EU
 ---
 
 Tienes [Geox Jr Piuma Ballerine D  Bailarinas para Niñas  Plateado  Silver   38 EU](https://www.amazon.es/dp/B076XBRFKY/?tag=tolees-21) con un 72.64 % de descuento con precio de oferta de 16.39 EUR (original: 59.9 EUR) en el siguiente enlace!

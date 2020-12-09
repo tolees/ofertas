@@ -10,8 +10,11 @@ author: ring
 slug: B07J6YCTJM
 description:
 actualPrice: 10.38 EUR
+currency: EUR
+price: 10.38
 comparePrice: 31.99 EUR
 inStock: true
+prodname: Mayoral 4425  Sudadera con Capucha para Niñas   Rojo 94   2 años  Tamaño del Fabricante:2 
 ---
 
 Ahora mismo tienes [Mayoral 4425  Sudadera con Capucha para Niñas   Rojo 94   2 años  Tamaño del Fabricante:2 ](https://www.amazon.es/dp/B07J6YCTJM/?tag=tolees-21) a 10.38 EUR (original: 31.99 EUR) (67.55 %  de descuento) en el siguiente enlace!

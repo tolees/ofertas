@@ -10,8 +10,11 @@ author: ring
 slug: B00OCDQDFM
 description:
 actualPrice: 6.9 EUR
+currency: EUR
+price: 6.9
 comparePrice: 21.16 EUR
 inStock: true
+prodname: Toshiba CT1368-PH - Memoria USB de 32 GB
 ---
 
 Está [Toshiba CT1368-PH - Memoria USB de 32 GB](https://www.amazon.es/dp/B00OCDQDFM/?tag=tolees-21) con 67.39 de descuento por 6.9 EUR (original: 21.16 EUR) en el siguiente enlace!

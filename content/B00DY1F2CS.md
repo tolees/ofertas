@@ -10,8 +10,11 @@ author: ring
 slug: B00DY1F2CS
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Neewer - Soporte de Brazo de Tijera Ajustable para Micrófono  Estudio de Radiodifusión  Estudio de Sonido con Voz en off  Escenarios y Estaciones de TV  Carga Máxima 1kg
 ---
 
 Ahora mismo tienes [Neewer - Soporte de Brazo de Tijera Ajustable para Micrófono  Estudio de Radiodifusión  Estudio de Sonido con Voz en off  Escenarios y Estaciones de TV  Carga Máxima 1kg](https://www.amazon.es/dp/B00DY1F2CS/?tag=tolees-21) a 11.99 EUR (original: 15.99 EUR) (25.02 %  de descuento) en el siguiente enlace!

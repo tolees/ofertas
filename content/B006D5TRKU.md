@@ -10,8 +10,11 @@ author: ring
 slug: B006D5TRKU
 description:
 actualPrice: 5.31 EUR
+currency: EUR
+price: 5.31
 comparePrice: 27.95 EUR
 inStock: true
+prodname: James & Nicholson Sweatshirt Round Heavy Sudadera  Gris  greyheather     Talla del Fabricante: XS  98/104  Infantil
 ---
 
 Está [James & Nicholson Sweatshirt Round Heavy Sudadera  Gris  greyheather     Talla del Fabricante: XS  98/104  Infantil](https://www.amazon.es/dp/B006D5TRKU/?tag=tolees-21) con 81.00 de descuento por 5.31 EUR (original: 27.95 EUR) en el siguiente enlace!

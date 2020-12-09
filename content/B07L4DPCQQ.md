@@ -10,8 +10,11 @@ author: ring
 slug: B07L4DPCQQ
 description:
 actualPrice: 83.99 EUR
+currency: EUR
+price: 83.99
 comparePrice: 119.99 EUR
 inStock: true
+prodname: BRA Premiere - Batería 4 piezas de aluminio fundido con antiadherente  apta para todo tipo de cocinas Incluso inducción
 ---
 
 Ahora mismo tienes [BRA Premiere - Batería 4 piezas de aluminio fundido con antiadherente  apta para todo tipo de cocinas Incluso inducción](https://www.amazon.es/dp/B07L4DPCQQ/?tag=tolees-21) a 83.99 EUR (original: 119.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

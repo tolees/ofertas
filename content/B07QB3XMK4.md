@@ -10,8 +10,11 @@ author: ring
 slug: B07QB3XMK4
 description:
 actualPrice: 29.94 EUR
+currency: EUR
+price: 29.94
 comparePrice: 45.99 EUR
 inStock: true
+prodname: MTNG Attitude 69635  Zapatillas para Mujer  Multicolor  Guepardo Piedra/Negro C47421   39 EU
 ---
 
 Tienes [MTNG Attitude 69635  Zapatillas para Mujer  Multicolor  Guepardo Piedra/Negro C47421   39 EU](https://www.amazon.es/dp/B07QB3XMK4/?tag=tolees-21) con un 34.90 % de descuento con precio de oferta de 29.94 EUR (original: 45.99 EUR) en el siguiente enlace!

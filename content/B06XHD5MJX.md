@@ -10,8 +10,11 @@ author: ring
 slug: B06XHD5MJX
 description:
 actualPrice: 41.5 EUR
+currency: EUR
+price: 41.5
 comparePrice: 75 EUR
 inStock: true
+prodname: Helly Hansen HH LIFA Merino Basleayer Pant  Hombre  Black  2XL
 ---
 
 Tienes [Helly Hansen HH LIFA Merino Basleayer Pant  Hombre  Black  2XL](https://www.amazon.es/dp/B06XHD5MJX/?tag=tolees-21) con un 44.67 % de descuento con precio de oferta de 41.5 EUR (original: 75 EUR) en el siguiente enlace!

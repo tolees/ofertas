@@ -10,8 +10,11 @@ author: ring
 slug: B008MXIW5C
 description:
 actualPrice: 79.89 EUR
+currency: EUR
+price: 79.89
 comparePrice: 128.9 EUR
 inStock: true
+prodname: Bosch Home and Garden 0.603.683.000 Medidor temperatura  1.5 V  Negro  Verde  Rojo
 ---
 
 Ahora mismo tienes [Bosch Home and Garden 0.603.683.000 Medidor temperatura  1.5 V  Negro  Verde  Rojo](https://www.amazon.es/dp/B008MXIW5C/?tag=tolees-21) a 79.89 EUR (original: 128.9 EUR) (38.02 %  de descuento) en el siguiente enlace!

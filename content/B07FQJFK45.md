@@ -10,8 +10,11 @@ author: ring
 slug: B07FQJFK45
 description:
 actualPrice: 21.25 EUR
+currency: EUR
+price: 21.25
 comparePrice: 37.15 EUR
 inStock: true
+prodname: INTERBABY - Barrera De Cama Abatible 90 Cm Gris
 ---
 
 Está [INTERBABY - Barrera De Cama Abatible 90 Cm Gris](https://www.amazon.es/dp/B07FQJFK45/?tag=tolees-21) con 42.80 de descuento por 21.25 EUR (original: 37.15 EUR) en el siguiente enlace!

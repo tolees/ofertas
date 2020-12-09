@@ -10,8 +10,11 @@ author: ring
 slug: B01CHVXNXA
 description:
 actualPrice: 78.99 EUR
+currency: EUR
+price: 78.99
 comparePrice: 114.99 EUR
 inStock: true
+prodname: Moulinex OW2101Pain Doré - Panificadora 1Kg  pantalla LCD  12 programas automáticos  bizcochos  masas  mermeladas y cremas avena  sin gluten  3 opciones de tostado y peso  incluye libro de recetas
 ---
 
 Está [Moulinex OW2101Pain Doré - Panificadora 1Kg  pantalla LCD  12 programas automáticos  bizcochos  masas  mermeladas y cremas avena  sin gluten  3 opciones de tostado y peso  incluye libro de recetas](https://www.amazon.es/dp/B01CHVXNXA/?tag=tolees-21) con 31.31 de descuento por 78.99 EUR (original: 114.99 EUR) en el siguiente enlace!

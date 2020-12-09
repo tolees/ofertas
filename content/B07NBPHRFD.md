@@ -10,8 +10,11 @@ author: ring
 slug: B07NBPHRFD
 description:
 actualPrice: 39.0 EUR
+currency: EUR
+price: 39.0
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Skagen Reloj Analogico para Mujer de Cuarzo con Correa en Silicona SKW2763  Blanco
 ---
 
 Tienes [Skagen Reloj Analogico para Mujer de Cuarzo con Correa en Silicona SKW2763  Blanco](https://www.amazon.es/dp/B07NBPHRFD/?tag=tolees-21) con un 60.61 % de descuento con precio de oferta de 39.0 EUR (original: 99.0 EUR) en el siguiente enlace!

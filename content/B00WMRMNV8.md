@@ -10,8 +10,11 @@ author: ring
 slug: B00WMRMNV8
 description:
 actualPrice: 2.92 EUR
+currency: EUR
+price: 2.92
 comparePrice: 13.44 EUR
 inStock: true
+prodname: Quttin Cuchillo Cocinero  Acero Inoxidable  Centimeters
 ---
 
 Está [Quttin Cuchillo Cocinero  Acero Inoxidable  Centimeters](https://www.amazon.es/dp/B00WMRMNV8/?tag=tolees-21) con 78.27 de descuento por 2.92 EUR (original: 13.44 EUR) en el siguiente enlace!

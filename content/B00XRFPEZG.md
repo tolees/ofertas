@@ -10,8 +10,11 @@ author: ring
 slug: B00XRFPEZG
 description:
 actualPrice: 74.49 EUR
+currency: EUR
+price: 74.49
 comparePrice: 150.0 EUR
 inStock: true
+prodname: Helly Hansen W Crew Midlayer Jacket Chaqueta Impermeable  Mujer  Navy  L
 ---
 
 Está [Helly Hansen W Crew Midlayer Jacket Chaqueta Impermeable  Mujer  Navy  L](https://www.amazon.es/dp/B00XRFPEZG/?tag=tolees-21) con 50.34 de descuento por 74.49 EUR (original: 150.0 EUR) en el siguiente enlace!

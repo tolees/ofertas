@@ -10,8 +10,11 @@ author: ring
 slug: B01LX6GZQC
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 179.99 EUR
 inStock: true
+prodname: Princess 202045 Easy Fill Exprimidor Lento con la característica de Rellenado fácil  200 W  0.9 litros  Negro y Plateado
 ---
 
 Está [Princess 202045 Easy Fill Exprimidor Lento con la característica de Rellenado fácil  200 W  0.9 litros  Negro y Plateado](https://www.amazon.es/dp/B01LX6GZQC/?tag=tolees-21) con 44.45 de descuento por 99.99 EUR (original: 179.99 EUR) en el siguiente enlace!

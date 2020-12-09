@@ -10,8 +10,11 @@ author: ring
 slug: B078SRQH6W
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 11.99 EUR
 inStock: true
+prodname: Organizador de Equipaje 7 en 1 Set Organizador de Maletas Impermeable Viaje con Bolsa de Zapato  Material Nylon-Meowoo Lago Azul 
 ---
 
 Tienes [Organizador de Equipaje 7 en 1 Set Organizador de Maletas Impermeable Viaje con Bolsa de Zapato  Material Nylon-Meowoo Lago Azul ](https://www.amazon.es/dp/B078SRQH6W/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 8.99 EUR (original: 11.99 EUR) en el siguiente enlace!

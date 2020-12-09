@@ -10,8 +10,11 @@ author: ring
 slug: B00F11SXJI
 description:
 actualPrice: 18.04 EUR
+currency: EUR
+price: 18.04
 comparePrice: 26.45 EUR
 inStock: true
+prodname: Bosch Professional 2 608 551 097 Pack de 9 Suplementos de Llave de vaso-50 mm  6  7  8  9  10  11  12  13  14 mm 
 ---
 
 Ahora mismo tienes [Bosch Professional 2 608 551 097 Pack de 9 Suplementos de Llave de vaso-50 mm  6  7  8  9  10  11  12  13  14 mm ](https://www.amazon.es/dp/B00F11SXJI/?tag=tolees-21) a 18.04 EUR (original: 26.45 EUR) (31.80 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01N07CZPY
 description:
 actualPrice: 26.96 EUR
+currency: EUR
+price: 26.96
 comparePrice: 44.9 EUR
 inStock: true
+prodname: Speedo Boom Splice Bañador  Hombre  Negro  Black/White/Lava Red   38
 ---
 
 Está [Speedo Boom Splice Bañador  Hombre  Negro  Black/White/Lava Red   38](https://www.amazon.es/dp/B01N07CZPY/?tag=tolees-21) con 39.96 de descuento por 26.96 EUR (original: 44.9 EUR) en el siguiente enlace!

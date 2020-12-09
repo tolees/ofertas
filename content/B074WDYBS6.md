@@ -10,8 +10,11 @@ author: ring
 slug: B074WDYBS6
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Philips Barbero MG7720/15 Recortador de barba y pelo  óptima precisión  14 en 1 tecnología Dualcut  autonomía de 120 minutos  batería  Negro/Plata
 ---
 
 Tienes [Philips Barbero MG7720/15 Recortador de barba y pelo  óptima precisión  14 en 1 tecnología Dualcut  autonomía de 120 minutos  batería  Negro/Plata](https://www.amazon.es/dp/B074WDYBS6/?tag=tolees-21) con un 50.01 % de descuento con precio de oferta de 34.99 EUR (original: 69.99 EUR) en el siguiente enlace!

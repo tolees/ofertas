@@ -10,8 +10,11 @@ author: ring
 slug: B07RYYDK2V
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 116.24 EUR
 inStock: true
+prodname: Bosch Professional Medidor láser de distancia GLM 500  alcance 0 05-50 m  inclinómetro 0 – 360°  precisión de medición: +/- 1 5 mm  2 baterías AAA  en caja 
 ---
 
 Tienes [Bosch Professional Medidor láser de distancia GLM 500  alcance 0 05-50 m  inclinómetro 0 – 360°  precisión de medición: +/- 1 5 mm  2 baterías AAA  en caja ](https://www.amazon.es/dp/B07RYYDK2V/?tag=tolees-21) con un 31.19 % de descuento con precio de oferta de 79.99 EUR (original: 116.24 EUR) en el siguiente enlace!

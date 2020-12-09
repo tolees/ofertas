@@ -10,8 +10,11 @@ author: ring
 slug: B071RMD8JV
 description:
 actualPrice: 16.39 EUR
+currency: EUR
+price: 16.39
 comparePrice: 21.87 EUR
 inStock: true
+prodname: AmazonBasics Bombilla LED E14  5W  equivalente a 40W   Blanco Cálido  Regulable- 6 unidades
 ---
 
 Tienes [AmazonBasics Bombilla LED E14  5W  equivalente a 40W   Blanco Cálido  Regulable- 6 unidades](https://www.amazon.es/dp/B071RMD8JV/?tag=tolees-21) con un 25.06 % de descuento con precio de oferta de 16.39 EUR (original: 21.87 EUR) en el siguiente enlace!

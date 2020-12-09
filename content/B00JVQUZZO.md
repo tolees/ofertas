@@ -10,8 +10,11 @@ author: ring
 slug: B00JVQUZZO
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 15.76 EUR
 inStock: true
+prodname: El Libro De La Selva  2014  [DVD]
 ---
 
 Está [El Libro De La Selva  2014  [DVD]](https://www.amazon.es/dp/B00JVQUZZO/?tag=tolees-21) con 36.61 de descuento por 9.99 EUR (original: 15.76 EUR) en el siguiente enlace!

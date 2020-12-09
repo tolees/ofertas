@@ -10,8 +10,11 @@ author: ring
 slug: B07BN1TYBG
 description:
 actualPrice: 46.7 EUR
+currency: EUR
+price: 46.7
 comparePrice: 75.0 EUR
 inStock: true
+prodname: Vans Ward Platform Canvas Zapatillas Mujer  Negro  Canvas  Black/White 187   39 EU  6 UK 
 ---
 
 Tienes [Vans Ward Platform Canvas Zapatillas Mujer  Negro  Canvas  Black/White 187   39 EU  6 UK ](https://www.amazon.es/dp/B07BN1TYBG/?tag=tolees-21) con un 37.73 % de descuento con precio de oferta de 46.7 EUR (original: 75.0 EUR) en el siguiente enlace!

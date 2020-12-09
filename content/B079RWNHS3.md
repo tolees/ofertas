@@ -10,8 +10,11 @@ author: ring
 slug: B079RWNHS3
 description:
 actualPrice: 29.05 EUR
+currency: EUR
+price: 29.05
 comparePrice: 75 EUR
 inStock: true
+prodname: Pepe Jeans London Gable Velvet  Zapatillas para Mujer  Rosa  Island 330   39 EU
 ---
 
 Ahora mismo tienes [Pepe Jeans London Gable Velvet  Zapatillas para Mujer  Rosa  Island 330   39 EU](https://www.amazon.es/dp/B079RWNHS3/?tag=tolees-21) a 29.05 EUR (original: 75 EUR) (61.27 %  de descuento) en el siguiente enlace!

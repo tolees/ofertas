@@ -10,8 +10,11 @@ author: ring
 slug: B00PRVWKA0
 description:
 actualPrice: 2.5 EUR
+currency: EUR
+price: 2.5
 comparePrice: 3.39 EUR
 inStock: true
+prodname: OcioDual Correa de Repuesto Compatible con Reloj Casio F-91W Negra Pulsera 18mm Plastico con Pasadores Metálicos Recambio F91
 ---
 
 Tienes [OcioDual Correa de Repuesto Compatible con Reloj Casio F-91W Negra Pulsera 18mm Plastico con Pasadores Metálicos Recambio F91](https://www.amazon.es/dp/B00PRVWKA0/?tag=tolees-21) con un 26.25 % de descuento con precio de oferta de 2.5 EUR (original: 3.39 EUR) en el siguiente enlace!

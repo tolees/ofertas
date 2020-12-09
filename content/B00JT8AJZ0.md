@@ -10,8 +10,11 @@ author: ring
 slug: B00JT8AJZ0
 description:
 actualPrice: 98.9 EUR
+currency: EUR
+price: 98.9
 comparePrice: 189.64 EUR
 inStock: true
+prodname: WD Elements Desktop - Disco duro externo de sobremesa de 4 TB  color negro
 ---
 
 Tienes [WD Elements Desktop - Disco duro externo de sobremesa de 4 TB  color negro](https://www.amazon.es/dp/B00JT8AJZ0/?tag=tolees-21) con un 47.85 % de descuento con precio de oferta de 98.9 EUR (original: 189.64 EUR) en el siguiente enlace!

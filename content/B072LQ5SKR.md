@@ -10,8 +10,11 @@ author: ring
 slug: B072LQ5SKR
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Crocs Specialist II Clog  Unisex Adulto Zueco  Blanco  White   37-38 EU
 ---
 
 Ahora mismo tienes [Crocs Specialist II Clog  Unisex Adulto Zueco  Blanco  White   37-38 EU](https://www.amazon.es/dp/B072LQ5SKR/?tag=tolees-21) a 27.99 EUR (original: 39.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

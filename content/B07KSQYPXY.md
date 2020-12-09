@@ -10,8 +10,11 @@ author: ring
 slug: B07KSQYPXY
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Under Armour Performance Fleece Graphic Hoody Parte Superior del Calentamiento  Hombre  Azul  Petrol Blue/Black 437   M
 ---
 
 Ahora mismo tienes [Under Armour Performance Fleece Graphic Hoody Parte Superior del Calentamiento  Hombre  Azul  Petrol Blue/Black 437   M](https://www.amazon.es/dp/B07KSQYPXY/?tag=tolees-21) a 25.99 EUR (original: 54.99 EUR) (52.74 %  de descuento) en el siguiente enlace!

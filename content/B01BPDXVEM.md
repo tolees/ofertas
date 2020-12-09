@@ -10,8 +10,11 @@ author: ring
 slug: B01BPDXVEM
 description:
 actualPrice: 16.49 EUR
+currency: EUR
+price: 16.49
 comparePrice: 23.39 EUR
 inStock: true
+prodname: Joseph Joseph Set Organizador Cocina  Gris
 ---
 
 Ahora mismo tienes [Joseph Joseph Set Organizador Cocina  Gris](https://www.amazon.es/dp/B01BPDXVEM/?tag=tolees-21) a 16.49 EUR (original: 23.39 EUR) (29.50 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B086WHGSVR
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: WeSkate Cruiser - Monopatín completo Mini Skateboard de 22 pulgadas y 55 cm Penny Board con ruedas de poliuretano LED  rodamientos ABEC-7  regalo para adultos adolescentes y niñas
 ---
 
 Está [WeSkate Cruiser - Monopatín completo Mini Skateboard de 22 pulgadas y 55 cm Penny Board con ruedas de poliuretano LED  rodamientos ABEC-7  regalo para adultos adolescentes y niñas](https://www.amazon.es/dp/B086WHGSVR/?tag=tolees-21) con 28.58 de descuento por 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

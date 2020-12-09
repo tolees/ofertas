@@ -10,8 +10,11 @@ author: ring
 slug: B079PKS3HT
 description:
 actualPrice: 15.5 EUR
+currency: EUR
+price: 15.5
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Lee Luke  Vaqueros Tapered para Hombre  Azul  Dark Used Vq  W26/L32
 ---
 
 Ahora mismo tienes [Lee Luke  Vaqueros Tapered para Hombre  Azul  Dark Used Vq  W26/L32](https://www.amazon.es/dp/B079PKS3HT/?tag=tolees-21) a 15.5 EUR (original: 89.95 EUR) (82.77 %  de descuento) en el siguiente enlace!

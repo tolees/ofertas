@@ -10,8 +10,11 @@ author: ring
 slug: B08CBWHS8H
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 54.99 EUR
 inStock: true
+prodname: PGA Tour 2K21
 ---
 
 Está [PGA Tour 2K21](https://www.amazon.es/dp/B08CBWHS8H/?tag=tolees-21) con 36.44 de descuento por 34.95 EUR (original: 54.99 EUR) en el siguiente enlace!

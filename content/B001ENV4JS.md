@@ -10,8 +10,11 @@ author: ring
 slug: B001ENV4JS
 description:
 actualPrice: 6.2 EUR
+currency: EUR
+price: 6.2
 comparePrice: 9.49 EUR
 inStock: true
+prodname: Ty Peppa Pig - Peluche de George con Dinosaurio
 ---
 
 Ahora mismo tienes [Ty Peppa Pig - Peluche de George con Dinosaurio](https://www.amazon.es/dp/B001ENV4JS/?tag=tolees-21) a 6.2 EUR (original: 9.49 EUR) (34.67 %  de descuento) en el siguiente enlace!

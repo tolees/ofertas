@@ -10,8 +10,11 @@ author: ring
 slug: B07DVKPQL7
 description:
 actualPrice: 60 EUR
+currency: EUR
+price: 60
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance 997H  Entrenadores para Hombre  Azul Pigment  44 EU
 ---
 
 Tienes [New Balance 997H  Entrenadores para Hombre  Azul Pigment  44 EU](https://www.amazon.es/dp/B07DVKPQL7/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 60 EUR (original: 90 EUR) en el siguiente enlace!

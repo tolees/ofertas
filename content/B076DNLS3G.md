@@ -10,8 +10,11 @@ author: ring
 slug: B076DNLS3G
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 34.91 EUR
 inStock: true
+prodname: Oral-B Cabezales De Recambio Crossaction  Tamaño Del Buzón  Pack de 8+2 Unidades
 ---
 
 Está [Oral-B Cabezales De Recambio Crossaction  Tamaño Del Buzón  Pack de 8+2 Unidades](https://www.amazon.es/dp/B076DNLS3G/?tag=tolees-21) con 31.28 de descuento por 23.99 EUR (original: 34.91 EUR) en el siguiente enlace!

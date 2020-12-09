@@ -10,8 +10,11 @@ author: ring
 slug: B07JNDCHRZ
 description:
 actualPrice: 85.95 EUR
+currency: EUR
+price: 85.95
 comparePrice: 141 EUR
 inStock: true
+prodname: Nike Air Zoom Vomero 14  Zapatillas de Running para Hombre  Azul  Aviator Grey/Pure Platinum/Blue Fury 002   44 EU
 ---
 
 Ahora mismo tienes [Nike Air Zoom Vomero 14  Zapatillas de Running para Hombre  Azul  Aviator Grey/Pure Platinum/Blue Fury 002   44 EU](https://www.amazon.es/dp/B07JNDCHRZ/?tag=tolees-21) a 85.95 EUR (original: 141 EUR) (39.04 %  de descuento) en el siguiente enlace!

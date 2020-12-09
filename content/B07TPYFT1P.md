@@ -10,8 +10,11 @@ author: ring
 slug: B07TPYFT1P
 description:
 actualPrice: 31.52 EUR
+currency: EUR
+price: 31.52
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Clarks Sift Speed  Zapatillas Hombre  Blanco  White Leather White Leather   42.5 EU
 ---
 
 Tienes [Clarks Sift Speed  Zapatillas Hombre  Blanco  White Leather White Leather   42.5 EU](https://www.amazon.es/dp/B07TPYFT1P/?tag=tolees-21) con un 71.35 % de descuento con precio de oferta de 31.52 EUR (original: 110.0 EUR) en el siguiente enlace!

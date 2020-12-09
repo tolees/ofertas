@@ -10,8 +10,11 @@ author: ring
 slug: B07YL2PVQP
 description:
 actualPrice: 54.9 EUR
+currency: EUR
+price: 54.9
 comparePrice: 89.99 EUR
 inStock: true
+prodname: The Last of Us Parte II Edición Especial
 ---
 
 Ahora mismo tienes [The Last of Us Parte II Edición Especial](https://www.amazon.es/dp/B07YL2PVQP/?tag=tolees-21) a 54.9 EUR (original: 89.99 EUR) (38.99 %  de descuento) en el siguiente enlace!

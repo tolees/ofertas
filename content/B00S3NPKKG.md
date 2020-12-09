@@ -10,8 +10,11 @@ author: ring
 slug: B00S3NPKKG
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Philips HC7460/15 - Cortapelos con cuchillas de acero inoxidable  3 peines-guía motorizados  con botones de control  batería  Gris/Negro
 ---
 
 Tienes [Philips HC7460/15 - Cortapelos con cuchillas de acero inoxidable  3 peines-guía motorizados  con botones de control  batería  Gris/Negro](https://www.amazon.es/dp/B00S3NPKKG/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!

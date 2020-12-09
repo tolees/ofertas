@@ -10,8 +10,11 @@ author: ring
 slug: B07BKLBQS4
 description:
 actualPrice: 9.98 EUR
+currency: EUR
+price: 9.98
 comparePrice: 19.95 EUR
 inStock: true
+prodname: Mr. Wonderful Lluvia 17 WOA08602UN Paraguas clásico  18 cm
 ---
 
 Está [Mr. Wonderful Lluvia 17 WOA08602UN Paraguas clásico  18 cm](https://www.amazon.es/dp/B07BKLBQS4/?tag=tolees-21) con 49.97 de descuento por 9.98 EUR (original: 19.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08DHNS66M
 description:
 actualPrice: 10.67 EUR
+currency: EUR
+price: 10.67
 comparePrice: 21.34 EUR
 inStock: true
+prodname: Ocobudbxw Modelo de Dinosaurio Desmontable Realista simulado Figuras de Bricolaje Juguete Educativo para niños niño niños Juguete de Navidad
 ---
 
 Ahora mismo tienes [Ocobudbxw Modelo de Dinosaurio Desmontable Realista simulado Figuras de Bricolaje Juguete Educativo para niños niño niños Juguete de Navidad](https://www.amazon.es/dp/B08DHNS66M/?tag=tolees-21) a 10.67 EUR (original: 21.34 EUR) (50.00 %  de descuento) en el siguiente enlace!

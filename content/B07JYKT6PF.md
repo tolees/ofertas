@@ -10,8 +10,11 @@ author: ring
 slug: B07JYKT6PF
 description:
 actualPrice: 32.82 EUR
+currency: EUR
+price: 32.82
 comparePrice: 89.95 EUR
 inStock: true
+prodname: adidas N-5923  Zapatillas de Gimnasia para Hombre  Blanco FTWR White/Gum4  47 1/3 EU
 ---
 
 Ahora mismo tienes [adidas N-5923  Zapatillas de Gimnasia para Hombre  Blanco FTWR White/Gum4  47 1/3 EU](https://www.amazon.es/dp/B07JYKT6PF/?tag=tolees-21) a 32.82 EUR (original: 89.95 EUR) (63.51 %  de descuento) en el siguiente enlace!

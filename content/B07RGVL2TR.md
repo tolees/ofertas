@@ -10,8 +10,11 @@ author: ring
 slug: B07RGVL2TR
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 88 EUR
 inStock: true
+prodname: OxyLED Guirnalda Luces Exterior Solar Cadena de Luces 6 5 Metros 30 LED 8 Modos Decoración Impermeable Luz solares para Navidad  Fiestas  Bodas  Patio  Dormitorio Jardines  Festivales
 ---
 
 Está [OxyLED Guirnalda Luces Exterior Solar Cadena de Luces 6 5 Metros 30 LED 8 Modos Decoración Impermeable Luz solares para Navidad  Fiestas  Bodas  Patio  Dormitorio Jardines  Festivales](https://www.amazon.es/dp/B07RGVL2TR/?tag=tolees-21) con 77.28 de descuento por 19.99 EUR (original: 88 EUR) en el siguiente enlace!

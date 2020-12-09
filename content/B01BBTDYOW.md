@@ -10,8 +10,11 @@ author: ring
 slug: B01BBTDYOW
 description:
 actualPrice: 25 EUR
+currency: EUR
+price: 25
 comparePrice: 50 EUR
 inStock: true
+prodname: ATTCL Hombre Gafas De Sol Deportes Polarizado Súper Ligero Al-Mg Marco De Metal 8177 Brown
 ---
 
 Está [ATTCL Hombre Gafas De Sol Deportes Polarizado Súper Ligero Al-Mg Marco De Metal 8177 Brown](https://www.amazon.es/dp/B01BBTDYOW/?tag=tolees-21) con 50.00 de descuento por 25 EUR (original: 50 EUR) en el siguiente enlace!

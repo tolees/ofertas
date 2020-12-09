@@ -10,8 +10,11 @@ author: ring
 slug: B06VSY63FM
 description:
 actualPrice: 46.99 EUR
+currency: EUR
+price: 46.99
 comparePrice: 148.99 EUR
 inStock: true
+prodname: JSDA Torno Para Uñas Eléctrico 25000 RPM + Fresa de Cerámica - Set de Manicura y Pedicura de Alta Calidad  Bajo Nivel de Ruido y Vibración  Fresas Para Quitar Esmalte y Callos  Empujar Cutículas
 ---
 
 Ahora mismo tienes [JSDA Torno Para Uñas Eléctrico 25000 RPM + Fresa de Cerámica - Set de Manicura y Pedicura de Alta Calidad  Bajo Nivel de Ruido y Vibración  Fresas Para Quitar Esmalte y Callos  Empujar Cutículas](https://www.amazon.es/dp/B06VSY63FM/?tag=tolees-21) a 46.99 EUR (original: 148.99 EUR) (68.46 %  de descuento) en el siguiente enlace!

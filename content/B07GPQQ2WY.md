@@ -10,8 +10,11 @@ author: ring
 slug: B07GPQQ2WY
 description:
 actualPrice: 38.95 EUR
+currency: EUR
+price: 38.95
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Skechers Moreno  Zapatillas para Hombre  Azul  Navy Nvy   41 EU
 ---
 
 Ahora mismo tienes [Skechers Moreno  Zapatillas para Hombre  Azul  Navy Nvy   41 EU](https://www.amazon.es/dp/B07GPQQ2WY/?tag=tolees-21) a 38.95 EUR (original: 64.95 EUR) (40.03 %  de descuento) en el siguiente enlace!

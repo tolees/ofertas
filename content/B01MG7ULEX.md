@@ -10,8 +10,11 @@ author: ring
 slug: B01MG7ULEX
 description:
 actualPrice: 35.96 EUR
+currency: EUR
+price: 35.96
 comparePrice: 49.95 EUR
 inStock: true
+prodname: G-STAR RAW Ladd Belt Cinturón  Marrón  Dk Brown/black Metal 8127   95 para Hombre
 ---
 
 Está [G-STAR RAW Ladd Belt Cinturón  Marrón  Dk Brown/black Metal 8127   95 para Hombre](https://www.amazon.es/dp/B01MG7ULEX/?tag=tolees-21) con 28.01 de descuento por 35.96 EUR (original: 49.95 EUR) en el siguiente enlace!

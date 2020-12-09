@@ -10,8 +10,11 @@ author: ring
 slug: B01HNSZT3O
 description:
 actualPrice: 25.16 EUR
+currency: EUR
+price: 25.16
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Quiksilver - Zapatillas De Media Bota - Hombre - EU 39
 ---
 
 Ahora mismo tienes [Quiksilver - Zapatillas De Media Bota - Hombre - EU 39](https://www.amazon.es/dp/B01HNSZT3O/?tag=tolees-21) a 25.16 EUR (original: 99.99 EUR) (74.84 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01N9AI3CQ
 description:
 actualPrice: 299 EUR
+currency: EUR
+price: 299
 comparePrice: 559 EUR
 inStock: true
+prodname: CYCBT E - Batería para Bicicleta  36 V-10 4 AH  Ion de Litio  Compatible con Prophete  Kreidler  Vitality y Spectro a  con Cargador  Bicicleta eléctrica  Hecha de Samsung Cell  CE Rohs GS TÜV 
 ---
 
 Ahora mismo tienes [CYCBT E - Batería para Bicicleta  36 V-10 4 AH  Ion de Litio  Compatible con Prophete  Kreidler  Vitality y Spectro a  con Cargador  Bicicleta eléctrica  Hecha de Samsung Cell  CE Rohs GS TÜV ](https://www.amazon.es/dp/B01N9AI3CQ/?tag=tolees-21) a 299 EUR (original: 559 EUR) (46.51 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HDCDQCH
 description:
 actualPrice: 11.97 EUR
+currency: EUR
+price: 11.97
 comparePrice: 28 EUR
 inStock: true
+prodname: MAYMOC Podómetro 3D Multifuncional con Clip y Correa - Contador de Pasos preciso  Millas y kilómetros de Distancia  Contador de calorías  Memoria de 7 días  Monitor de Progreso Diario Objetivo
 ---
 
 Tienes [MAYMOC Podómetro 3D Multifuncional con Clip y Correa - Contador de Pasos preciso  Millas y kilómetros de Distancia  Contador de calorías  Memoria de 7 días  Monitor de Progreso Diario Objetivo](https://www.amazon.es/dp/B07HDCDQCH/?tag=tolees-21) con un 57.25 % de descuento con precio de oferta de 11.97 EUR (original: 28 EUR) en el siguiente enlace!

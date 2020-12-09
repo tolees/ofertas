@@ -10,8 +10,11 @@ author: ring
 slug: B07HFHBMS5
 description:
 actualPrice: 23.8 EUR
+currency: EUR
+price: 23.8
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Vertical Stripe Shirt L/s  Camisa Manga Larga Niños  Blanco  Bright White/Multi 123   152  Talla del Fabricante: 12 
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Vertical Stripe Shirt L/s  Camisa Manga Larga Niños  Blanco  Bright White/Multi 123   152  Talla del Fabricante: 12 ](https://www.amazon.es/dp/B07HFHBMS5/?tag=tolees-21) a 23.8 EUR (original: 69.9 EUR) (65.95 %  de descuento) en el siguiente enlace!

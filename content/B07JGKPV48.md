@@ -10,8 +10,11 @@ author: ring
 slug: B07JGKPV48
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 30.99 EUR
 inStock: true
+prodname: esonmus Bolsa de Almuerzo con Aislamiento a Prueba de Fugas portátil Bolsa de asa de Alimentos con biberón de Aislamiento térmico Fresco con Correa de Hombro Desmontable  Gris 1 
 ---
 
 Tienes [esonmus Bolsa de Almuerzo con Aislamiento a Prueba de Fugas portátil Bolsa de asa de Alimentos con biberón de Aislamiento térmico Fresco con Correa de Hombro Desmontable  Gris 1 ](https://www.amazon.es/dp/B07JGKPV48/?tag=tolees-21) con un 45.18 % de descuento con precio de oferta de 16.99 EUR (original: 30.99 EUR) en el siguiente enlace!

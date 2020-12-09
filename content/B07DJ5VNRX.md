@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ5VNRX
 description:
 actualPrice: 48.95 EUR
+currency: EUR
+price: 48.95
 comparePrice: 75 EUR
 inStock: true
+prodname: New Balance 500  Zapatillas para Hombre  Gris  Castlerock/Rain Cloud/Desert Gold Scg  44 EU
 ---
 
 Ahora mismo tienes [New Balance 500  Zapatillas para Hombre  Gris  Castlerock/Rain Cloud/Desert Gold Scg  44 EU](https://www.amazon.es/dp/B07DJ5VNRX/?tag=tolees-21) a 48.95 EUR (original: 75 EUR) (34.73 %  de descuento) en el siguiente enlace!

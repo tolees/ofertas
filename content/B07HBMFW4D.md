@@ -10,8 +10,11 @@ author: ring
 slug: B07HBMFW4D
 description:
 actualPrice: 64.99 EUR
+currency: EUR
+price: 64.99
 comparePrice: 109.99 EUR
 inStock: true
+prodname: SteelSeries Rival 710  Ratón de Juego  Sensor Óptico TrueMove3 con 16 000 CPI  Pantalla OLED  Alertas Táctiles  Iluminación RGB
 ---
 
 Ahora mismo tienes [SteelSeries Rival 710  Ratón de Juego  Sensor Óptico TrueMove3 con 16 000 CPI  Pantalla OLED  Alertas Táctiles  Iluminación RGB](https://www.amazon.es/dp/B07HBMFW4D/?tag=tolees-21) a 64.99 EUR (original: 109.99 EUR) (40.91 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FTTWPXY
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Pets Purest Polvo para Eliminación de Sarro y Placa para Perros  Cachorros y Gatos  180g  Plaque Clean 100% Natural para Animales. Limpia y Cuida Dientes Blancos y Encías. Ayuda contra el Mal Aliento
 ---
 
 Está [Pets Purest Polvo para Eliminación de Sarro y Placa para Perros  Cachorros y Gatos  180g  Plaque Clean 100% Natural para Animales. Limpia y Cuida Dientes Blancos y Encías. Ayuda contra el Mal Aliento](https://www.amazon.es/dp/B07FTTWPXY/?tag=tolees-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

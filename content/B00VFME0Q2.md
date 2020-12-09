@@ -10,8 +10,11 @@ author: ring
 slug: B00VFME0Q2
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 23.99 EUR
 inStock: true
+prodname: ALED LIGHT Tiras LED 5050 RGB 5m de Longitud 150 LED Multicolor Control Remoto de 44 Botones y Fuente de Alimentación
 ---
 
 Está [ALED LIGHT Tiras LED 5050 RGB 5m de Longitud 150 LED Multicolor Control Remoto de 44 Botones y Fuente de Alimentación](https://www.amazon.es/dp/B00VFME0Q2/?tag=tolees-21) con 41.68 de descuento por 13.99 EUR (original: 23.99 EUR) en el siguiente enlace!

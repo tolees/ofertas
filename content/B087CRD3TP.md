@@ -10,8 +10,11 @@ author: ring
 slug: B087CRD3TP
 description:
 actualPrice: 12.23 EUR
+currency: EUR
+price: 12.23
 comparePrice: 17.99 EUR
 inStock: true
+prodname: king do way 4PCS Bolsa de Almacenamiento de Ropa de Gran Capacidad  Gruesa Plegable Organizador de Edredones Manta Ropa de Polvo con la Cremallera Robusta y Asa Reforzada 60 x 43 x 35 cm Azul Oscuro
 ---
 
 Ahora mismo tienes [king do way 4PCS Bolsa de Almacenamiento de Ropa de Gran Capacidad  Gruesa Plegable Organizador de Edredones Manta Ropa de Polvo con la Cremallera Robusta y Asa Reforzada 60 x 43 x 35 cm Azul Oscuro](https://www.amazon.es/dp/B087CRD3TP/?tag=tolees-21) a 12.23 EUR (original: 17.99 EUR) (32.02 %  de descuento) en el siguiente enlace!

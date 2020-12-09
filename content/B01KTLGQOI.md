@@ -10,8 +10,11 @@ author: ring
 slug: B01KTLGQOI
 description:
 actualPrice: 5.01 EUR
+currency: EUR
+price: 5.01
 comparePrice: 6.9 EUR
 inStock: true
+prodname: Pato - Wc Frescor  Producto para inodoro 750 ml - Pack de 3  Total 2250 ml 
 ---
 
 Está [Pato - Wc Frescor  Producto para inodoro 750 ml - Pack de 3  Total 2250 ml ](https://www.amazon.es/dp/B01KTLGQOI/?tag=tolees-21) con 27.39 de descuento por 5.01 EUR (original: 6.9 EUR) en el siguiente enlace!

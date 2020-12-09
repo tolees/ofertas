@@ -10,8 +10,11 @@ author: ring
 slug: B07D2QNY1R
 description:
 actualPrice: 26 EUR
+currency: EUR
+price: 26
 comparePrice: 94.24 EUR
 inStock: true
+prodname: Reebok Royal Complete Pmw  Zapatillas Altas para Hombre  Azul  Collegiate Navy/Stucco/Wild Khaki 0   44 EU
 ---
 
 Ahora mismo tienes [Reebok Royal Complete Pmw  Zapatillas Altas para Hombre  Azul  Collegiate Navy/Stucco/Wild Khaki 0   44 EU](https://www.amazon.es/dp/B07D2QNY1R/?tag=tolees-21) a 26 EUR (original: 94.24 EUR) (72.41 %  de descuento) en el siguiente enlace!

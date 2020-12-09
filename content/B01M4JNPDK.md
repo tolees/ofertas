@@ -10,8 +10,11 @@ author: ring
 slug: B01M4JNPDK
 description:
 actualPrice: 12.35 EUR
+currency: EUR
+price: 12.35
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Cressi Marea VIP  New  Pack de Snorkel  Unisex Adulto  Amarillo  Talla Única
 ---
 
 Tienes [Cressi Marea VIP  New  Pack de Snorkel  Unisex Adulto  Amarillo  Talla Única](https://www.amazon.es/dp/B01M4JNPDK/?tag=tolees-21) con un 58.76 % de descuento con precio de oferta de 12.35 EUR (original: 29.95 EUR) en el siguiente enlace!

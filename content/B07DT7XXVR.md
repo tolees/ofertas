@@ -10,8 +10,11 @@ author: ring
 slug: B07DT7XXVR
 description:
 actualPrice: 27.5 EUR
+currency: EUR
+price: 27.5
 comparePrice: 65 EUR
 inStock: true
+prodname: Geox J Android Boy C  Zapatillas para Niños  Blue  Navy/Lime C0749   36 EU
 ---
 
 Ahora mismo tienes [Geox J Android Boy C  Zapatillas para Niños  Blue  Navy/Lime C0749   36 EU](https://www.amazon.es/dp/B07DT7XXVR/?tag=tolees-21) a 27.5 EUR (original: 65 EUR) (57.69 %  de descuento) en el siguiente enlace!

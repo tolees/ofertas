@@ -10,8 +10,11 @@ author: ring
 slug: B07CRLCR78
 description:
 actualPrice: 46.36 EUR
+currency: EUR
+price: 46.36
 comparePrice: 129.95 EUR
 inStock: true
+prodname: Puma Speed Cat Wings Monaco  Zapatillas Unisex Adults o  Negro White Black  42 EU
 ---
 
 Tienes [Puma Speed Cat Wings Monaco  Zapatillas Unisex Adults o  Negro White Black  42 EU](https://www.amazon.es/dp/B07CRLCR78/?tag=tolees-21) con un 64.32 % de descuento con precio de oferta de 46.36 EUR (original: 129.95 EUR) en el siguiente enlace!

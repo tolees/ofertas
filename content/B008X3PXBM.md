@@ -10,8 +10,11 @@ author: ring
 slug: B008X3PXBM
 description:
 actualPrice: 60.53 EUR
+currency: EUR
+price: 60.53
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox U SIRON A  Mocasines para Hombre  Negro  Black C9999   43 EU
 ---
 
 Ahora mismo tienes [Geox U SIRON A  Mocasines para Hombre  Negro  Black C9999   43 EU](https://www.amazon.es/dp/B008X3PXBM/?tag=tolees-21) a 60.53 EUR (original: 99.9 EUR) (39.41 %  de descuento) en el siguiente enlace!

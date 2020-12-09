@@ -10,8 +10,11 @@ author: ring
 slug: B00XAD93ES
 description:
 actualPrice: 17.13 EUR
+currency: EUR
+price: 17.13
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Flor - Suavizante para la ropa profesional  aroma azul - 220 dosis
 ---
 
 Está [Flor - Suavizante para la ropa profesional  aroma azul - 220 dosis](https://www.amazon.es/dp/B00XAD93ES/?tag=tolees-21) con 25.49 de descuento por 17.13 EUR (original: 22.99 EUR) en el siguiente enlace!

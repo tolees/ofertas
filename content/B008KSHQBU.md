@@ -10,8 +10,11 @@ author: ring
 slug: B008KSHQBU
 description:
 actualPrice: 36.88 EUR
+currency: EUR
+price: 36.88
 comparePrice: 52.02 EUR
 inStock: true
+prodname: Crucial CT102464BD160B - Memoria RAM de 8 GB  DDR3L  1600 MT/s  PC3L-12800  DIMM  240-Pin 
 ---
 
 Tienes [Crucial CT102464BD160B - Memoria RAM de 8 GB  DDR3L  1600 MT/s  PC3L-12800  DIMM  240-Pin ](https://www.amazon.es/dp/B008KSHQBU/?tag=tolees-21) con un 29.10 % de descuento con precio de oferta de 36.88 EUR (original: 52.02 EUR) en el siguiente enlace!

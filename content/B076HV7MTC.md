@@ -10,8 +10,11 @@ author: ring
 slug: B076HV7MTC
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 24.9 EUR
 inStock: true
+prodname: Lékué Kit de Aperitivos  Rojo  30x30x3 cm
 ---
 
 Está [Lékué Kit de Aperitivos  Rojo  30x30x3 cm](https://www.amazon.es/dp/B076HV7MTC/?tag=tolees-21) con 31.77 de descuento por 16.99 EUR (original: 24.9 EUR) en el siguiente enlace!

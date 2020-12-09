@@ -10,8 +10,11 @@ author: ring
 slug: B00IAV1UBE
 description:
 actualPrice: 13.66 EUR
+currency: EUR
+price: 13.66
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Urban Dance Pantalón Deporte Negro/Rosa S
 ---
 
 Ahora mismo tienes [Urban Dance Pantalón Deporte Negro/Rosa S](https://www.amazon.es/dp/B00IAV1UBE/?tag=tolees-21) a 13.66 EUR (original: 39.9 EUR) (65.76 %  de descuento) en el siguiente enlace!

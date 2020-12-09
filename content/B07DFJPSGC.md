@@ -10,8 +10,11 @@ author: ring
 slug: B07DFJPSGC
 description:
 actualPrice: 26.95 EUR
+currency: EUR
+price: 26.95
 comparePrice: 42.5 EUR
 inStock: true
+prodname: Calvin Klein Low Rise Trunk 3pk Bóxer  Negro  B - Silver L/Monument/Pheobe Ypv   Small  Pack de 3 para Hombre
 ---
 
 Ahora mismo tienes [Calvin Klein Low Rise Trunk 3pk Bóxer  Negro  B - Silver L/Monument/Pheobe Ypv   Small  Pack de 3 para Hombre](https://www.amazon.es/dp/B07DFJPSGC/?tag=tolees-21) a 26.95 EUR (original: 42.5 EUR) (36.59 %  de descuento) en el siguiente enlace!

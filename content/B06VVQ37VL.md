@@ -10,8 +10,11 @@ author: ring
 slug: B06VVQ37VL
 description:
 actualPrice: 24 EUR
+currency: EUR
+price: 24
 comparePrice: 33 EUR
 inStock: true
+prodname: Pepe Jeans Jack Bolso Bandolera  20 cm  2.34 litros  Azul
 ---
 
 Ahora mismo tienes [Pepe Jeans Jack Bolso Bandolera  20 cm  2.34 litros  Azul](https://www.amazon.es/dp/B06VVQ37VL/?tag=tolees-21) a 24 EUR (original: 33 EUR) (27.27 %  de descuento) en el siguiente enlace!

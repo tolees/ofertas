@@ -10,8 +10,11 @@ author: ring
 slug: B01D1LSCQI
 description:
 actualPrice: 3.45 EUR
+currency: EUR
+price: 3.45
 comparePrice: 4.9 EUR
 inStock: true
+prodname: Lékué Cubitera de Caucho  Natural  Azul  18 cavidades Redonda
 ---
 
 Tienes [Lékué Cubitera de Caucho  Natural  Azul  18 cavidades Redonda](https://www.amazon.es/dp/B01D1LSCQI/?tag=tolees-21) con un 29.59 % de descuento con precio de oferta de 3.45 EUR (original: 4.9 EUR) en el siguiente enlace!

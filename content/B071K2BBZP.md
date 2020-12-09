@@ -10,8 +10,11 @@ author: ring
 slug: B071K2BBZP
 description:
 actualPrice: 13.55 EUR
+currency: EUR
+price: 13.55
 comparePrice: 35 EUR
 inStock: true
+prodname: find. Pantalones Regular Fit Hombre Negro  Black  W32/L29
 ---
 
 Tienes [find. Pantalones Regular Fit Hombre Negro  Black  W32/L29](https://www.amazon.es/dp/B071K2BBZP/?tag=tolees-21) con un 61.29 % de descuento con precio de oferta de 13.55 EUR (original: 35 EUR) en el siguiente enlace!

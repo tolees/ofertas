@@ -10,8 +10,11 @@ author: ring
 slug: B01GJQKNV4
 description:
 actualPrice: 29.36 EUR
+currency: EUR
+price: 29.36
 comparePrice: 39.95 EUR
 inStock: true
+prodname: adidas Vs ADV Cl CMF C  Zapatillas de Deporte Unisex niño   Aw4880  30 EU
 ---
 
 Está [adidas Vs ADV Cl CMF C  Zapatillas de Deporte Unisex niño   Aw4880  30 EU](https://www.amazon.es/dp/B01GJQKNV4/?tag=tolees-21) con 26.51 de descuento por 29.36 EUR (original: 39.95 EUR) en el siguiente enlace!

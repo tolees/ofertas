@@ -10,8 +10,11 @@ author: ring
 slug: B074BZ6HVN
 description:
 actualPrice: 24.33 EUR
+currency: EUR
+price: 24.33
 comparePrice: 75 EUR
 inStock: true
+prodname: Pepe Jeans New Brooke Pl200019 Vaqueros  Negro  10Oz Washed Black S98   26W / 34L para Mujer
 ---
 
 Está [Pepe Jeans New Brooke Pl200019 Vaqueros  Negro  10Oz Washed Black S98   26W / 34L para Mujer](https://www.amazon.es/dp/B074BZ6HVN/?tag=tolees-21) con 67.56 de descuento por 24.33 EUR (original: 75 EUR) en el siguiente enlace!

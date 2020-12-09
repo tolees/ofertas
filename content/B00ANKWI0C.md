@@ -10,8 +10,11 @@ author: ring
 slug: B00ANKWI0C
 description:
 actualPrice: 22.75 EUR
+currency: EUR
+price: 22.75
 comparePrice: 46.46 EUR
 inStock: true
+prodname: Cesta de regalo para él ~ Super Rich Man EDT Pour Homme 100 ml para él + regalo gratis para hombre correa de piel genuina regalo envuelto cesta de regalo para él.
 ---
 
 Ahora mismo tienes [Cesta de regalo para él ~ Super Rich Man EDT Pour Homme 100 ml para él + regalo gratis para hombre correa de piel genuina regalo envuelto cesta de regalo para él.](https://www.amazon.es/dp/B00ANKWI0C/?tag=tolees-21) a 22.75 EUR (original: 46.46 EUR) (51.03 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B001UHAPK2
 description:
 actualPrice: 7.49 EUR
+currency: EUR
+price: 7.49
 comparePrice: 9.99 EUR
 inStock: true
+prodname: Science in Sport Protein Shaker - Transparent  700 ml
 ---
 
 Ahora mismo tienes [Science in Sport Protein Shaker - Transparent  700 ml](https://www.amazon.es/dp/B001UHAPK2/?tag=tolees-21) a 7.49 EUR (original: 9.99 EUR) (25.03 %  de descuento) en el siguiente enlace!

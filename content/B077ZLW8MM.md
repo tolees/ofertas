@@ -10,8 +10,11 @@ author: ring
 slug: B077ZLW8MM
 description:
 actualPrice: 9.35 EUR
+currency: EUR
+price: 9.35
 comparePrice: 35.99 EUR
 inStock: true
+prodname: ESPRIT Collection 028eo1k003  Camisa Manga Larga Mujer  Rosa  Nude 685   Large
 ---
 
 Tienes [ESPRIT Collection 028eo1k003  Camisa Manga Larga Mujer  Rosa  Nude 685   Large](https://www.amazon.es/dp/B077ZLW8MM/?tag=tolees-21) con un 74.02 % de descuento con precio de oferta de 9.35 EUR (original: 35.99 EUR) en el siguiente enlace!

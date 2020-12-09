@@ -10,8 +10,11 @@ author: ring
 slug: B08DJ22QTR
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 17.99 EUR
 inStock: true
+prodname: UBEGOOD Cepillos de Dientes Eléctricos  Cepillo Dientes Sónico USB Recargable Temporizador Inteligente De 2 Minutos Ultrasónico Cepillo Dientes con 4 Cabezas de Cepillo y 4 Modes  IPX7 Impermeable
 ---
 
 Está [UBEGOOD Cepillos de Dientes Eléctricos  Cepillo Dientes Sónico USB Recargable Temporizador Inteligente De 2 Minutos Ultrasónico Cepillo Dientes con 4 Cabezas de Cepillo y 4 Modes  IPX7 Impermeable](https://www.amazon.es/dp/B08DJ22QTR/?tag=tolees-21) con 38.91 de descuento por 10.99 EUR (original: 17.99 EUR) en el siguiente enlace!

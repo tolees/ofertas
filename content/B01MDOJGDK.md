@@ -10,8 +10,11 @@ author: ring
 slug: B01MDOJGDK
 description:
 actualPrice: 6.7 EUR
+currency: EUR
+price: 6.7
 comparePrice: 12.9 EUR
 inStock: true
+prodname: Neutrogena Hydro Boost Limpiador Gel de Agua  Elimina las Impurezas y el Maquillaje  200 ml
 ---
 
 Ahora mismo tienes [Neutrogena Hydro Boost Limpiador Gel de Agua  Elimina las Impurezas y el Maquillaje  200 ml](https://www.amazon.es/dp/B01MDOJGDK/?tag=tolees-21) a 6.7 EUR (original: 12.9 EUR) (48.06 %  de descuento) en el siguiente enlace!

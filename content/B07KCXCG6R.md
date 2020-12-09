@@ -10,8 +10,11 @@ author: ring
 slug: B07KCXCG6R
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 45 EUR
 inStock: true
+prodname: YZPUSI Bluetooth 3.0 Inalámbrico Wireless Teclado  Ultra Slim y Ligero Teclado Compatible with Samsung Tablet  Smartphone  Portable Teclado with Cubierta  Android and Windows System
 ---
 
 Tienes [YZPUSI Bluetooth 3.0 Inalámbrico Wireless Teclado  Ultra Slim y Ligero Teclado Compatible with Samsung Tablet  Smartphone  Portable Teclado with Cubierta  Android and Windows System](https://www.amazon.es/dp/B07KCXCG6R/?tag=tolees-21) con un 73.36 % de descuento con precio de oferta de 11.99 EUR (original: 45 EUR) en el siguiente enlace!

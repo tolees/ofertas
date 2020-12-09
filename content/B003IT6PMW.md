@@ -10,8 +10,11 @@ author: ring
 slug: B003IT6PMW
 description:
 actualPrice: 85.34 EUR
+currency: EUR
+price: 85.34
 comparePrice: 119.95 EUR
 inStock: true
+prodname: Cocina de camping Málaga Campart Travel KI-0732 – Con paravientos – Dos compartimentos de almacenamiento
 ---
 
 Está [Cocina de camping Málaga Campart Travel KI-0732 – Con paravientos – Dos compartimentos de almacenamiento](https://www.amazon.es/dp/B003IT6PMW/?tag=tolees-21) con 28.85 de descuento por 85.34 EUR (original: 119.95 EUR) en el siguiente enlace!

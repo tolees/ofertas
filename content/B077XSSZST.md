@@ -10,8 +10,11 @@ author: ring
 slug: B077XSSZST
 description:
 actualPrice: 8 EUR
+currency: EUR
+price: 8
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Under Armour Tech Big Logo Solid tee Camiseta  Niños  Azul  Royal/Black/Graphite 400   XL
 ---
 
 Está [Under Armour Tech Big Logo Solid tee Camiseta  Niños  Azul  Royal/Black/Graphite 400   XL](https://www.amazon.es/dp/B077XSSZST/?tag=tolees-21) con 59.98 de descuento por 8 EUR (original: 19.99 EUR) en el siguiente enlace!

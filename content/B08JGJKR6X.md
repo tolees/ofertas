@@ -10,8 +10,11 @@ author: ring
 slug: B08JGJKR6X
 description:
 actualPrice: 1.14 EUR
+currency: EUR
+price: 1.14
 comparePrice: 1.63 EUR
 inStock: true
+prodname: Colador de té con forma de pez lindo Kawaii  tetera de filtro de infusor de té interesante de silicona para té  café  vasos
 ---
 
 Tienes [Colador de té con forma de pez lindo Kawaii  tetera de filtro de infusor de té interesante de silicona para té  café  vasos](https://www.amazon.es/dp/B08JGJKR6X/?tag=tolees-21) con un 30.06 % de descuento con precio de oferta de 1.14 EUR (original: 1.63 EUR) en el siguiente enlace!

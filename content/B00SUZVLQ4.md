@@ -10,8 +10,11 @@ author: ring
 slug: B00SUZVLQ4
 description:
 actualPrice: 207 EUR
+currency: EUR
+price: 207
 comparePrice: 449.9 EUR
 inStock: true
+prodname: Sennheiser Momentum  M2-AEBT Ivory - Auriculares de diadema cerrados inalámbricos  BT APTX / NFC  cancelación de ruido  Longitud del cable 1.4m  desmontable    Marfil
 ---
 
 Tienes [Sennheiser Momentum  M2-AEBT Ivory - Auriculares de diadema cerrados inalámbricos  BT APTX / NFC  cancelación de ruido  Longitud del cable 1.4m  desmontable    Marfil](https://www.amazon.es/dp/B00SUZVLQ4/?tag=tolees-21) con un 53.99 % de descuento con precio de oferta de 207 EUR (original: 449.9 EUR) en el siguiente enlace!

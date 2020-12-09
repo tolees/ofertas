@@ -10,8 +10,11 @@ author: ring
 slug: B08KQBSQXF
 description:
 actualPrice: 4.73 EUR
+currency: EUR
+price: 4.73
 comparePrice: 8.99 EUR
 inStock: true
+prodname: Eariy máscara de plástico Reutilizables y Transparentes  Resistentes al Polvo y al Viento Mascarilla Resistente y fácil de Limpiar Adecuado para Hombres y Mujeres Adultos  Chefs  camareros  1pc 
 ---
 
 Está [Eariy máscara de plástico Reutilizables y Transparentes  Resistentes al Polvo y al Viento Mascarilla Resistente y fácil de Limpiar Adecuado para Hombres y Mujeres Adultos  Chefs  camareros  1pc ](https://www.amazon.es/dp/B08KQBSQXF/?tag=tolees-21) con 47.39 de descuento por 4.73 EUR (original: 8.99 EUR) en el siguiente enlace!

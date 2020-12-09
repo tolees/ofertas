@@ -10,8 +10,11 @@ author: ring
 slug: B0767BDJYR
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 14.94 EUR
 inStock: true
+prodname: Rexona Desodorante Antitranspirante Invisible Hombre - 200 ml x Pack de 6 = 1200ml
 ---
 
 Está [Rexona Desodorante Antitranspirante Invisible Hombre - 200 ml x Pack de 6 = 1200ml](https://www.amazon.es/dp/B0767BDJYR/?tag=tolees-21) con 26.44 de descuento por 10.99 EUR (original: 14.94 EUR) en el siguiente enlace!

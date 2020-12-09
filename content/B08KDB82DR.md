@@ -10,8 +10,11 @@ author: ring
 slug: B08KDB82DR
 description:
 actualPrice: 3.2 EUR
+currency: EUR
+price: 3.2
 comparePrice: 4.81 EUR
 inStock: true
+prodname: Tsubaya Taza de Termo de vacío Taza de vacío de Acero Inoxidable Taza de té de Negocios Regalo de Alto Grado Azul
 ---
 
 Está [Tsubaya Taza de Termo de vacío Taza de vacío de Acero Inoxidable Taza de té de Negocios Regalo de Alto Grado Azul](https://www.amazon.es/dp/B08KDB82DR/?tag=tolees-21) con 33.47 de descuento por 3.2 EUR (original: 4.81 EUR) en el siguiente enlace!

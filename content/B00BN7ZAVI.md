@@ -10,8 +10,11 @@ author: ring
 slug: B00BN7ZAVI
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 9.75 EUR
 inStock: true
+prodname: DISNEY Minnie Body Spray 200 ml
 ---
 
 Está [DISNEY Minnie Body Spray 200 ml](https://www.amazon.es/dp/B00BN7ZAVI/?tag=tolees-21) con 48.82 de descuento por 4.99 EUR (original: 9.75 EUR) en el siguiente enlace!

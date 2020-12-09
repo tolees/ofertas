@@ -10,8 +10,11 @@ author: ring
 slug: B07DCRQDPQ
 description:
 actualPrice: 23 EUR
+currency: EUR
+price: 23
 comparePrice: 54 EUR
 inStock: true
+prodname: CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga Fitness Pantalon de Cintura Alta con Bolsillos-63cm Azul Marino XS 38 
 ---
 
 Ahora mismo tienes [CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga Fitness Pantalon de Cintura Alta con Bolsillos-63cm Azul Marino XS 38 ](https://www.amazon.es/dp/B07DCRQDPQ/?tag=tolees-21) a 23 EUR (original: 54 EUR) (57.41 %  de descuento) en el siguiente enlace!

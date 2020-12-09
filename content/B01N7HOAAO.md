@@ -10,8 +10,11 @@ author: ring
 slug: B01N7HOAAO
 description:
 actualPrice: 17.6 EUR
+currency: EUR
+price: 17.6
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Skean Breathe-Easy  Mary Jane para Niñas  Negro  BBK   30 EU
 ---
 
 Está [Skean Breathe-Easy  Mary Jane para Niñas  Negro  BBK   30 EU](https://www.amazon.es/dp/B01N7HOAAO/?tag=tolees-21) con 64.76 de descuento por 17.6 EUR (original: 49.95 EUR) en el siguiente enlace!

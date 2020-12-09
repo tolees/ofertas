@@ -10,8 +10,11 @@ author: ring
 slug: B06WW1QFJG
 description:
 actualPrice: 21.3 EUR
+currency: EUR
+price: 21.3
 comparePrice: 44.99 EUR
 inStock: true
+prodname: 1971 Project Helios - Collector Edition
 ---
 
 Está [1971 Project Helios - Collector Edition](https://www.amazon.es/dp/B06WW1QFJG/?tag=tolees-21) con 52.66 de descuento por 21.3 EUR (original: 44.99 EUR) en el siguiente enlace!

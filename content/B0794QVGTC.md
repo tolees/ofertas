@@ -10,8 +10,11 @@ author: ring
 slug: B0794QVGTC
 description:
 actualPrice: 58.64 EUR
+currency: EUR
+price: 58.64
 comparePrice: 84.95 EUR
 inStock: true
+prodname: Skechers Sure Track-Erath-II  Mujer  Negro  BLK Black Leather   37 EU
 ---
 
 Ahora mismo tienes [Skechers Sure Track-Erath-II  Mujer  Negro  BLK Black Leather   37 EU](https://www.amazon.es/dp/B0794QVGTC/?tag=tolees-21) a 58.64 EUR (original: 84.95 EUR) (30.97 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00I8YIMSM
 description:
 actualPrice: 8.08 EUR
+currency: EUR
+price: 8.08
 comparePrice: 22.49 EUR
 inStock: true
+prodname: erima Jacke Club 1900 Trainingssweat - Top de Manga Larga de Running para Hombre  Color Azul Marino/Blanco  Talla DE: 10
 ---
 
 Ahora mismo tienes [erima Jacke Club 1900 Trainingssweat - Top de Manga Larga de Running para Hombre  Color Azul Marino/Blanco  Talla DE: 10](https://www.amazon.es/dp/B00I8YIMSM/?tag=tolees-21) a 8.08 EUR (original: 22.49 EUR) (64.07 %  de descuento) en el siguiente enlace!

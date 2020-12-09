@@ -10,8 +10,11 @@ author: ring
 slug: B08L6PWFFT
 description:
 actualPrice: 1.1 EUR
+currency: EUR
+price: 1.1
 comparePrice: 1.65 EUR
 inStock: true
+prodname: NNA Mini Ventilador USB de refrigeración portátil Ventilador de Fuente de alimentación portátil Ventiladores Micro USB Accesorios de refrigeración de Dispositivos de Verano Flexibles - Verde
 ---
 
 Tienes [NNA Mini Ventilador USB de refrigeración portátil Ventilador de Fuente de alimentación portátil Ventiladores Micro USB Accesorios de refrigeración de Dispositivos de Verano Flexibles - Verde](https://www.amazon.es/dp/B08L6PWFFT/?tag=tolees-21) con un 33.33 % de descuento con precio de oferta de 1.1 EUR (original: 1.65 EUR) en el siguiente enlace!

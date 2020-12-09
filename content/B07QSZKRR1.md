@@ -10,8 +10,11 @@ author: ring
 slug: B07QSZKRR1
 description:
 actualPrice: 29.05 EUR
+currency: EUR
+price: 29.05
 comparePrice: 65 EUR
 inStock: true
+prodname: Hurley M Phantom Ramble 18  Bañadores  Hombre  Topaz Mist  36
 ---
 
 Tienes [Hurley M Phantom Ramble 18  Bañadores  Hombre  Topaz Mist  36](https://www.amazon.es/dp/B07QSZKRR1/?tag=tolees-21) con un 55.31 % de descuento con precio de oferta de 29.05 EUR (original: 65 EUR) en el siguiente enlace!

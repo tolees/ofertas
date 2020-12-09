@@ -10,8 +10,11 @@ author: ring
 slug: B07GNTFW14
 description:
 actualPrice: 8.64 EUR
+currency: EUR
+price: 8.64
 comparePrice: 25.52 EUR
 inStock: true
+prodname: New Look Florya Slouchy  Capucha para Mujer  Verde  Mid Green  44  Talla del Fabricante: 53 
 ---
 
 Tienes [New Look Florya Slouchy  Capucha para Mujer  Verde  Mid Green  44  Talla del Fabricante: 53 ](https://www.amazon.es/dp/B07GNTFW14/?tag=tolees-21) con un 66.14 % de descuento con precio de oferta de 8.64 EUR (original: 25.52 EUR) en el siguiente enlace!

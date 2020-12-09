@@ -10,8 +10,11 @@ author: ring
 slug: B078HH7CZP
 description:
 actualPrice: 8.59 EUR
+currency: EUR
+price: 8.59
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Springfield Jersey Rayas Flor Jersey  Mujer  Gris  Gama Grises   Medium  Tamaño del Fabricante:M 
 ---
 
 Tienes [Springfield Jersey Rayas Flor Jersey  Mujer  Gris  Gama Grises   Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B078HH7CZP/?tag=tolees-21) con un 68.17 % de descuento con precio de oferta de 8.59 EUR (original: 26.99 EUR) en el siguiente enlace!

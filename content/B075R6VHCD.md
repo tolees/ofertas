@@ -10,8 +10,11 @@ author: ring
 slug: B075R6VHCD
 description:
 actualPrice: 63 EUR
+currency: EUR
+price: 63
 comparePrice: 90 EUR
 inStock: true
+prodname: New Balance Fresh Foam Cruz V2 Mcruzkr2  Zapatillas de Running para Hombre  Azul  Team Royal/Black/White Kr2   44 EU
 ---
 
 Ahora mismo tienes [New Balance Fresh Foam Cruz V2 Mcruzkr2  Zapatillas de Running para Hombre  Azul  Team Royal/Black/White Kr2   44 EU](https://www.amazon.es/dp/B075R6VHCD/?tag=tolees-21) a 63 EUR (original: 90 EUR) (30.00 %  de descuento) en el siguiente enlace!

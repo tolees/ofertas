@@ -10,8 +10,11 @@ author: ring
 slug: B07YMF23XT
 description:
 actualPrice: 18.5 EUR
+currency: EUR
+price: 18.5
 comparePrice: 36.99 EUR
 inStock: true
+prodname: Godard en V.O.S.E. [Blu-ray]
 ---
 
 Tienes [Godard en V.O.S.E. [Blu-ray]](https://www.amazon.es/dp/B07YMF23XT/?tag=tolees-21) con un 49.99 % de descuento con precio de oferta de 18.5 EUR (original: 36.99 EUR) en el siguiente enlace!

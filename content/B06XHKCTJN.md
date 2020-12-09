@@ -10,8 +10,11 @@ author: ring
 slug: B06XHKCTJN
 description:
 actualPrice: 7.53 EUR
+currency: EUR
+price: 7.53
 comparePrice: 11.8 EUR
 inStock: true
+prodname: Luanvi Gama Pantalones Cortos de Atletismo  Hombre  Azul Marino  XXS
 ---
 
 Está [Luanvi Gama Pantalones Cortos de Atletismo  Hombre  Azul Marino  XXS](https://www.amazon.es/dp/B06XHKCTJN/?tag=tolees-21) con 36.19 de descuento por 7.53 EUR (original: 11.8 EUR) en el siguiente enlace!

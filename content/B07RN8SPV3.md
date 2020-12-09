@@ -10,8 +10,11 @@ author: ring
 slug: B07RN8SPV3
 description:
 actualPrice: 16 EUR
+currency: EUR
+price: 16
 comparePrice: 32.05 EUR
 inStock: true
+prodname: New Look 915 Jamie Oriental Vestido  Verde  Green Pattern 39   38  Talla del Fabricante: 10  para Mujer
 ---
 
 Ahora mismo tienes [New Look 915 Jamie Oriental Vestido  Verde  Green Pattern 39   38  Talla del Fabricante: 10  para Mujer](https://www.amazon.es/dp/B07RN8SPV3/?tag=tolees-21) a 16 EUR (original: 32.05 EUR) (50.08 %  de descuento) en el siguiente enlace!

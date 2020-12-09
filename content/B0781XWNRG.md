@@ -10,8 +10,11 @@ author: ring
 slug: B0781XWNRG
 description:
 actualPrice: 7.58 EUR
+currency: EUR
+price: 7.58
 comparePrice: 26 EUR
 inStock: true
+prodname: Under Armour - Pantalón Corto para niña  niña  1291712-501  Purple/Green Malachite/Typhoon  Junior L
 ---
 
 Tienes [Under Armour - Pantalón Corto para niña  niña  1291712-501  Purple/Green Malachite/Typhoon  Junior L](https://www.amazon.es/dp/B0781XWNRG/?tag=tolees-21) con un 70.85 % de descuento con precio de oferta de 7.58 EUR (original: 26 EUR) en el siguiente enlace!

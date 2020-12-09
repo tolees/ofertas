@@ -10,8 +10,11 @@ author: ring
 slug: B07DHTHDXL
 description:
 actualPrice: 58.64 EUR
+currency: EUR
+price: 58.64
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Quiksilver Mission Block Chaqueta de Nieve  Hombre  Verde Lima/Stretch The Universe  XXL
 ---
 
 Está [Quiksilver Mission Block Chaqueta de Nieve  Hombre  Verde Lima/Stretch The Universe  XXL](https://www.amazon.es/dp/B07DHTHDXL/?tag=tolees-21) con 70.68 de descuento por 58.64 EUR (original: 199.99 EUR) en el siguiente enlace!

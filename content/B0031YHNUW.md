@@ -10,8 +10,11 @@ author: ring
 slug: B0031YHNUW
 description:
 actualPrice: 10.97 EUR
+currency: EUR
+price: 10.97
 comparePrice: 16.53 EUR
 inStock: true
+prodname: Fellowes Apex - Pack de 100 fundas de plastificar  formato A4  125 micras
 ---
 
 Ahora mismo tienes [Fellowes Apex - Pack de 100 fundas de plastificar  formato A4  125 micras](https://www.amazon.es/dp/B0031YHNUW/?tag=tolees-21) a 10.97 EUR (original: 16.53 EUR) (33.64 %  de descuento) en el siguiente enlace!

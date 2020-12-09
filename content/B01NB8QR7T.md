@@ -10,8 +10,11 @@ author: ring
 slug: B01NB8QR7T
 description:
 actualPrice: 5.67 EUR
+currency: EUR
+price: 5.67
 comparePrice: 7.95 EUR
 inStock: true
+prodname: L Oréal Paris Colorista Coloración Temporal Colorista Washout - Blue Hair
 ---
 
 Tienes [L Oréal Paris Colorista Coloración Temporal Colorista Washout - Blue Hair](https://www.amazon.es/dp/B01NB8QR7T/?tag=tolees-21) con un 28.68 % de descuento con precio de oferta de 5.67 EUR (original: 7.95 EUR) en el siguiente enlace!

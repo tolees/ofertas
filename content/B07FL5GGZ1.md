@@ -10,8 +10,11 @@ author: ring
 slug: B07FL5GGZ1
 description:
 actualPrice: 25.36 EUR
+currency: EUR
+price: 25.36
 comparePrice: 95 EUR
 inStock: true
+prodname: Superdry Ribbed Crew  suéter para Hombre  Azul  Academy Navy Jvj  X-Small
 ---
 
 Ahora mismo tienes [Superdry Ribbed Crew  suéter para Hombre  Azul  Academy Navy Jvj  X-Small](https://www.amazon.es/dp/B07FL5GGZ1/?tag=tolees-21) a 25.36 EUR (original: 95 EUR) (73.31 %  de descuento) en el siguiente enlace!

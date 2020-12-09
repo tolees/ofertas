@@ -10,8 +10,11 @@ author: ring
 slug: B077P6TRDS
 description:
 actualPrice: 25.72 EUR
+currency: EUR
+price: 25.72
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Puma Suede Classic Bubble  Zapatillas para Mujer  Negro Black  39 EU
 ---
 
 Está [Puma Suede Classic Bubble  Zapatillas para Mujer  Negro Black  39 EU](https://www.amazon.es/dp/B077P6TRDS/?tag=tolees-21) con 74.27 de descuento por 25.72 EUR (original: 99.95 EUR) en el siguiente enlace!

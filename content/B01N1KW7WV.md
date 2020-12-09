@@ -10,8 +10,11 @@ author: ring
 slug: B01N1KW7WV
 description:
 actualPrice: 34.9 EUR
+currency: EUR
+price: 34.9
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Iconic Slip on Sneaker  Zapatillas para Hombre  Azul  Midnight 403   42 EU
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Iconic Slip on Sneaker  Zapatillas para Hombre  Azul  Midnight 403   42 EU](https://www.amazon.es/dp/B01N1KW7WV/?tag=tolees-21) a 34.9 EUR (original: 59.9 EUR) (41.74 %  de descuento) en el siguiente enlace!

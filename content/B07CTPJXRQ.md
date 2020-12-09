@@ -10,8 +10,11 @@ author: ring
 slug: B07CTPJXRQ
 description:
 actualPrice: 40.17 EUR
+currency: EUR
+price: 40.17
 comparePrice: 90 EUR
 inStock: true
+prodname: Under Armour Commit TR Ex  Zapatillas Deportivas para Interior para Hombre  Gris  Pitch Gray Black 107   43 EU
 ---
 
 Ahora mismo tienes [Under Armour Commit TR Ex  Zapatillas Deportivas para Interior para Hombre  Gris  Pitch Gray Black 107   43 EU](https://www.amazon.es/dp/B07CTPJXRQ/?tag=tolees-21) a 40.17 EUR (original: 90 EUR) (55.37 %  de descuento) en el siguiente enlace!

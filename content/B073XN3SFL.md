@@ -10,8 +10,11 @@ author: ring
 slug: B073XN3SFL
 description:
 actualPrice: 4.91 EUR
+currency: EUR
+price: 4.91
 comparePrice: 7.37 EUR
 inStock: true
+prodname: Safta Porta desayunos Termo Trolls Oficial Térmica  215x65x120mm
 ---
 
 Ahora mismo tienes [Safta Porta desayunos Termo Trolls Oficial Térmica  215x65x120mm](https://www.amazon.es/dp/B073XN3SFL/?tag=tolees-21) a 4.91 EUR (original: 7.37 EUR) (33.38 %  de descuento) en el siguiente enlace!

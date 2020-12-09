@@ -10,8 +10,11 @@ author: ring
 slug: B075SVVH4K
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Omars USB C Hub 8 en 1 HDMI  Ethernet RJ45  USB 3.0  4K HDMI  VGA  Tipo C PD Energía Carga y Lectores de Tarjeta SD/TF Macbook/MacBook Pro y Más
 ---
 
 Tienes [Omars USB C Hub 8 en 1 HDMI  Ethernet RJ45  USB 3.0  4K HDMI  VGA  Tipo C PD Energía Carga y Lectores de Tarjeta SD/TF Macbook/MacBook Pro y Más](https://www.amazon.es/dp/B075SVVH4K/?tag=tolees-21) con un 58.90 % de descuento con precio de oferta de 36.99 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FDDB2KS
 description:
 actualPrice: 42.52 EUR
+currency: EUR
+price: 42.52
 comparePrice: 57.78 EUR
 inStock: true
+prodname: Armani Exchange Magnetic Stripe Logo Camiseta  Negro  Black 1200   Medium para Hombre
 ---
 
 Tienes [Armani Exchange Magnetic Stripe Logo Camiseta  Negro  Black 1200   Medium para Hombre](https://www.amazon.es/dp/B07FDDB2KS/?tag=tolees-21) con un 26.41 % de descuento con precio de oferta de 42.52 EUR (original: 57.78 EUR) en el siguiente enlace!

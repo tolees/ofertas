@@ -10,8 +10,11 @@ author: ring
 slug: B073RPB6RT
 description:
 actualPrice: 28.07 EUR
+currency: EUR
+price: 28.07
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Helly Hansen TRANSAT Polo Polo  Hombre  Negro  Negro 990   X-Large  Tamaño del Fabricante:XL 
 ---
 
 Está [Helly Hansen TRANSAT Polo Polo  Hombre  Negro  Negro 990   X-Large  Tamaño del Fabricante:XL ](https://www.amazon.es/dp/B073RPB6RT/?tag=tolees-21) con 37.62 de descuento por 28.07 EUR (original: 45.0 EUR) en el siguiente enlace!

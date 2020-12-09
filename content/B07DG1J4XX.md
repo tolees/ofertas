@@ -10,8 +10,11 @@ author: ring
 slug: B07DG1J4XX
 description:
 actualPrice: 25.82 EUR
+currency: EUR
+price: 25.82
 comparePrice: 49.95 EUR
 inStock: true
+prodname: XTI 85988  Shopper para Mujer  Marrón  Camel   40 x 39 x 16 cm
 ---
 
 Ahora mismo tienes [XTI 85988  Shopper para Mujer  Marrón  Camel   40 x 39 x 16 cm](https://www.amazon.es/dp/B07DG1J4XX/?tag=tolees-21) a 25.82 EUR (original: 49.95 EUR) (48.31 %  de descuento) en el siguiente enlace!

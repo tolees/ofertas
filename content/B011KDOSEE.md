@@ -10,8 +10,11 @@ author: ring
 slug: B011KDOSEE
 description:
 actualPrice: 15.82 EUR
+currency: EUR
+price: 15.82
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Urban Classics Jacke Diamond Quilt Leather Imitation Jacket Chaqueta  Negro  Schwarz   Talla del Fabricante: Large para Hombre
 ---
 
 Está [Urban Classics Jacke Diamond Quilt Leather Imitation Jacket Chaqueta  Negro  Schwarz   Talla del Fabricante: Large para Hombre](https://www.amazon.es/dp/B011KDOSEE/?tag=tolees-21) con 77.37 de descuento por 15.82 EUR (original: 69.9 EUR) en el siguiente enlace!

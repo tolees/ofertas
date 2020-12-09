@@ -10,8 +10,11 @@ author: ring
 slug: B01N2ZWPOU
 description:
 actualPrice: 22.75 EUR
+currency: EUR
+price: 22.75
 comparePrice: 46.78 EUR
 inStock: true
+prodname: Kärcher Lanza Vario Power Jet Full Control para K2 - K3  2.642-724.0 
 ---
 
 Ahora mismo tienes [Kärcher Lanza Vario Power Jet Full Control para K2 - K3  2.642-724.0 ](https://www.amazon.es/dp/B01N2ZWPOU/?tag=tolees-21) a 22.75 EUR (original: 46.78 EUR) (51.37 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01LVVJD3H
 description:
 actualPrice: 47.61 EUR
+currency: EUR
+price: 47.61
 comparePrice: 83.95 EUR
 inStock: true
+prodname: Vans Sk8-hi Reissue  Zapatillas altas Unisex adulto  Azul  Mlx   40 EU  6.5 UK 
 ---
 
 Tienes [Vans Sk8-hi Reissue  Zapatillas altas Unisex adulto  Azul  Mlx   40 EU  6.5 UK ](https://www.amazon.es/dp/B01LVVJD3H/?tag=tolees-21) con un 43.29 % de descuento con precio de oferta de 47.61 EUR (original: 83.95 EUR) en el siguiente enlace!

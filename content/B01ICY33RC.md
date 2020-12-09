@@ -10,8 +10,11 @@ author: ring
 slug: B01ICY33RC
 description:
 actualPrice: 77.4 EUR
+currency: EUR
+price: 77.4
 comparePrice: 103.2 EUR
 inStock: true
+prodname: Tommy Hilfiger Mujer Acero Inoxidable FASHIONNECKLACEBRACELETANKLET
 ---
 
 Tienes [Tommy Hilfiger Mujer Acero Inoxidable FASHIONNECKLACEBRACELETANKLET](https://www.amazon.es/dp/B01ICY33RC/?tag=tolees-21) con un 25.00 % de descuento con precio de oferta de 77.4 EUR (original: 103.2 EUR) en el siguiente enlace!

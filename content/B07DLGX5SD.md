@@ -10,8 +10,11 @@ author: ring
 slug: B07DLGX5SD
 description:
 actualPrice: 6.18 EUR
+currency: EUR
+price: 6.18
 comparePrice: 29.99 EUR
 inStock: true
+prodname: PIECES Pcfiona LS Knit suéter  Negro Black  42  Talla del Fabricante: X-Large  para Mujer
 ---
 
 Está [PIECES Pcfiona LS Knit suéter  Negro Black  42  Talla del Fabricante: X-Large  para Mujer](https://www.amazon.es/dp/B07DLGX5SD/?tag=tolees-21) con 79.39 de descuento por 6.18 EUR (original: 29.99 EUR) en el siguiente enlace!

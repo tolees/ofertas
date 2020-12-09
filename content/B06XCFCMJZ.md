@@ -10,8 +10,11 @@ author: ring
 slug: B06XCFCMJZ
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Russell Hobbs - Batidora de Vaso 2 en 1  Jarra de Cristal  Vaso Smoothies  600 W  Inox  Gris Plata   23821-56
 ---
 
 Está [Russell Hobbs - Batidora de Vaso 2 en 1  Jarra de Cristal  Vaso Smoothies  600 W  Inox  Gris Plata   23821-56](https://www.amazon.es/dp/B06XCFCMJZ/?tag=tolees-21) con 27.28 de descuento por 39.99 EUR (original: 54.99 EUR) en el siguiente enlace!

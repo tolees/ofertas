@@ -10,8 +10,11 @@ author: ring
 slug: B06XTN55QD
 description:
 actualPrice: 13.97 EUR
+currency: EUR
+price: 13.97
 comparePrice: 75 EUR
 inStock: true
+prodname: Pepe Jeans LIDA XL PG300783 Camisa  Azul  7Oz Queenofhearts 000   Medium para Niñas
 ---
 
 Tienes [Pepe Jeans LIDA XL PG300783 Camisa  Azul  7Oz Queenofhearts 000   Medium para Niñas](https://www.amazon.es/dp/B06XTN55QD/?tag=tolees-21) con un 81.37 % de descuento con precio de oferta de 13.97 EUR (original: 75 EUR) en el siguiente enlace!

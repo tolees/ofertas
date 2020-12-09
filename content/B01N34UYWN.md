@@ -10,8 +10,11 @@ author: ring
 slug: B01N34UYWN
 description:
 actualPrice: 15.23 EUR
+currency: EUR
+price: 15.23
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Only Onlmaja Calf Skirt Jrs Falda  Champagne Beige  40  Talla del Fabricante: Large  para Mujer
 ---
 
 Tienes [Only Onlmaja Calf Skirt Jrs Falda  Champagne Beige  40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B01N34UYWN/?tag=tolees-21) con un 49.22 % de descuento con precio de oferta de 15.23 EUR (original: 29.99 EUR) en el siguiente enlace!

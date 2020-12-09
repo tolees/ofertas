@@ -10,8 +10,11 @@ author: ring
 slug: B07FLKXH85
 description:
 actualPrice: 35.96 EUR
+currency: EUR
+price: 35.96
 comparePrice: 47.95 EUR
 inStock: true
+prodname: Oscar Charles Juego de brochas de maquillaje profesional con mezclador de belleza y limpiador en elegante estuche de brochas  presentado en una hermosa caja de regalo [15 piezas] [Oro rosa]
 ---
 
 Ahora mismo tienes [Oscar Charles Juego de brochas de maquillaje profesional con mezclador de belleza y limpiador en elegante estuche de brochas  presentado en una hermosa caja de regalo [15 piezas] [Oro rosa]](https://www.amazon.es/dp/B07FLKXH85/?tag=tolees-21) a 35.96 EUR (original: 47.95 EUR) (25.01 %  de descuento) en el siguiente enlace!

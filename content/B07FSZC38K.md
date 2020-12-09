@@ -10,8 +10,11 @@ author: ring
 slug: B07FSZC38K
 description:
 actualPrice: 27.74 EUR
+currency: EUR
+price: 27.74
 comparePrice: 64.95 EUR
 inStock: true
+prodname: adidas Hoops 2.0 Mid  Zapatos de Baloncesto para Mujer  Negro Core Black/Carbon  36 EU
 ---
 
 Ahora mismo tienes [adidas Hoops 2.0 Mid  Zapatos de Baloncesto para Mujer  Negro Core Black/Carbon  36 EU](https://www.amazon.es/dp/B07FSZC38K/?tag=tolees-21) a 27.74 EUR (original: 64.95 EUR) (57.29 %  de descuento) en el siguiente enlace!

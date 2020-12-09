@@ -10,8 +10,11 @@ author: ring
 slug: B0833WXZLL
 description:
 actualPrice: 23.09 EUR
+currency: EUR
+price: 23.09
 comparePrice: 36.93 EUR
 inStock: true
+prodname: Peste  la - temporadas 1 y 2 [Blu-ray]
 ---
 
 Ahora mismo tienes [Peste  la - temporadas 1 y 2 [Blu-ray]](https://www.amazon.es/dp/B0833WXZLL/?tag=tolees-21) a 23.09 EUR (original: 36.93 EUR) (37.48 %  de descuento) en el siguiente enlace!

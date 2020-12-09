@@ -10,8 +10,11 @@ author: ring
 slug: B00YPQP35C
 description:
 actualPrice: 28.99 EUR
+currency: EUR
+price: 28.99
 comparePrice: 39.9 EUR
 inStock: true
+prodname: AEG SB2500 Batidora de Vaso Good To Go  Apta para Lavavajilla  300 W  Acero Inoxidable  Gris
 ---
 
 Tienes [AEG SB2500 Batidora de Vaso Good To Go  Apta para Lavavajilla  300 W  Acero Inoxidable  Gris](https://www.amazon.es/dp/B00YPQP35C/?tag=tolees-21) con un 27.34 % de descuento con precio de oferta de 28.99 EUR (original: 39.9 EUR) en el siguiente enlace!

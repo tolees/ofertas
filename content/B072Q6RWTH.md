@@ -10,8 +10,11 @@ author: ring
 slug: B072Q6RWTH
 description:
 actualPrice: 24.73 EUR
+currency: EUR
+price: 24.73
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Reebok Cloudride DMX 2.0  Zapatillas de Deporte para Mujer  Negro  Black/Flint Grey/White   38.5 EU
 ---
 
 Ahora mismo tienes [Reebok Cloudride DMX 2.0  Zapatillas de Deporte para Mujer  Negro  Black/Flint Grey/White   38.5 EU](https://www.amazon.es/dp/B072Q6RWTH/?tag=tolees-21) a 24.73 EUR (original: 79.95 EUR) (69.07 %  de descuento) en el siguiente enlace!

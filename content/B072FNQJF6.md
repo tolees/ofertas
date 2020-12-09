@@ -10,8 +10,11 @@ author: ring
 slug: B072FNQJF6
 description:
 actualPrice: 12.5 EUR
+currency: EUR
+price: 12.5
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Fossil S221318 - Correa de silicona Rojo para Hombre
 ---
 
 Está [Fossil S221318 - Correa de silicona Rojo para Hombre](https://www.amazon.es/dp/B072FNQJF6/?tag=tolees-21) con 50.00 de descuento por 12.5 EUR (original: 25.0 EUR) en el siguiente enlace!

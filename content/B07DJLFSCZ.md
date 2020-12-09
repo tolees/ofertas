@@ -10,8 +10,11 @@ author: ring
 slug: B07DJLFSCZ
 description:
 actualPrice: 27.32 EUR
+currency: EUR
+price: 27.32
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Dockers by Gerli 43ea301  Botas Militar para Mujer  Negro  Schwarz 100   37 EU
 ---
 
 Está [Dockers by Gerli 43ea301  Botas Militar para Mujer  Negro  Schwarz 100   37 EU](https://www.amazon.es/dp/B07DJLFSCZ/?tag=tolees-21) con 54.43 de descuento por 27.32 EUR (original: 59.95 EUR) en el siguiente enlace!

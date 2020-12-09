@@ -10,8 +10,11 @@ author: ring
 slug: B073GZBTCG
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 120.0 EUR
 inStock: true
+prodname: Clarks Batcombe Lo  Botas Chelsea para Hombre  Marrón  Dark Tan Lea   42 EU
 ---
 
 Tienes [Clarks Batcombe Lo  Botas Chelsea para Hombre  Marrón  Dark Tan Lea   42 EU](https://www.amazon.es/dp/B073GZBTCG/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 79.99 EUR (original: 120.0 EUR) en el siguiente enlace!

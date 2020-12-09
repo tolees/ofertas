@@ -10,8 +10,11 @@ author: ring
 slug: B07JNSJSP6
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Jack & Jones Jjimarco Jjbowie Sa Pantalones  Verde  Olive Night Olive Night   W34/L36  Talla del Fabricante: 34  para Hombre
 ---
 
 Está [Jack & Jones Jjimarco Jjbowie Sa Pantalones  Verde  Olive Night Olive Night   W34/L36  Talla del Fabricante: 34  para Hombre](https://www.amazon.es/dp/B07JNSJSP6/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

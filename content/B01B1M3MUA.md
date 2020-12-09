@@ -10,8 +10,11 @@ author: ring
 slug: B01B1M3MUA
 description:
 actualPrice: 329.99 EUR
+currency: EUR
+price: 329.99
 comparePrice: 799 EUR
 inStock: true
+prodname: WMF Jette Cubertería 66 Piezas  Acero Inoxidable Pulido  49x39x10 cm Unidades
 ---
 
 Tienes [WMF Jette Cubertería 66 Piezas  Acero Inoxidable Pulido  49x39x10 cm Unidades](https://www.amazon.es/dp/B01B1M3MUA/?tag=tolees-21) con un 58.70 % de descuento con precio de oferta de 329.99 EUR (original: 799 EUR) en el siguiente enlace!

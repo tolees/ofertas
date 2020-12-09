@@ -10,8 +10,11 @@ author: ring
 slug: B00E39IFMY
 description:
 actualPrice: 30.27 EUR
+currency: EUR
+price: 30.27
 comparePrice: 48 EUR
 inStock: true
+prodname: BRA CAFETERA Elegance Colors Italiana  Acero Inoxidable  Gris y Naranja  6 Tazas
 ---
 
 Está [BRA CAFETERA Elegance Colors Italiana  Acero Inoxidable  Gris y Naranja  6 Tazas](https://www.amazon.es/dp/B00E39IFMY/?tag=tolees-21) con 36.94 de descuento por 30.27 EUR (original: 48 EUR) en el siguiente enlace!

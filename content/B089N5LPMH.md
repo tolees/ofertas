@@ -10,8 +10,11 @@ author: ring
 slug: B089N5LPMH
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Jack & Jones JORTRAILER Sweat Hood STS Sudadera con Capucha  Azul Marino  XL para Hombre
 ---
 
 Tienes [Jack & Jones JORTRAILER Sweat Hood STS Sudadera con Capucha  Azul Marino  XL para Hombre](https://www.amazon.es/dp/B089N5LPMH/?tag=tolees-21) con un 42.80 % de descuento con precio de oferta de 19.99 EUR (original: 34.95 EUR) en el siguiente enlace!

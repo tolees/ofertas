@@ -10,8 +10,11 @@ author: ring
 slug: B01MY99VBS
 description:
 actualPrice: 31.17 EUR
+currency: EUR
+price: 31.17
 comparePrice: 46.9 EUR
 inStock: true
+prodname: Amix Micelle Hd Casein 700 Gr Doble-Chocolate 0.7 700 g
 ---
 
 Ahora mismo tienes [Amix Micelle Hd Casein 700 Gr Doble-Chocolate 0.7 700 g](https://www.amazon.es/dp/B01MY99VBS/?tag=tolees-21) a 31.17 EUR (original: 46.9 EUR) (33.54 %  de descuento) en el siguiente enlace!

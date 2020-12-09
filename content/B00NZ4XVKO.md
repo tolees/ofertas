@@ -10,8 +10,11 @@ author: ring
 slug: B00NZ4XVKO
 description:
 actualPrice: 4.55 EUR
+currency: EUR
+price: 4.55
 comparePrice: 8 EUR
 inStock: true
+prodname: Star Wars Rebels Mochila Escolar  25 cm
 ---
 
 Está [Star Wars Rebels Mochila Escolar  25 cm](https://www.amazon.es/dp/B00NZ4XVKO/?tag=tolees-21) con 43.12 de descuento por 4.55 EUR (original: 8 EUR) en el siguiente enlace!

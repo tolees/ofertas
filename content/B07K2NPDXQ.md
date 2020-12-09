@@ -10,8 +10,11 @@ author: ring
 slug: B07K2NPDXQ
 description:
 actualPrice: 6.98 EUR
+currency: EUR
+price: 6.98
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Pack: The Equalizer 1 + The Equalizer 2 [DVD]
 ---
 
 Está [Pack: The Equalizer 1 + The Equalizer 2 [DVD]](https://www.amazon.es/dp/B07K2NPDXQ/?tag=tolees-21) con 50.11 de descuento por 6.98 EUR (original: 13.99 EUR) en el siguiente enlace!

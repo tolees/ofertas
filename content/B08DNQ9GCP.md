@@ -10,8 +10,11 @@ author: ring
 slug: B08DNQ9GCP
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 35.99 EUR
 inStock: true
+prodname: BPT Simpleway C1 - Dispensador de jabón automático  300 ml  sensor de infrarrojos  espuma no Touch 
 ---
 
 Ahora mismo tienes [BPT Simpleway C1 - Dispensador de jabón automático  300 ml  sensor de infrarrojos  espuma no Touch ](https://www.amazon.es/dp/B08DNQ9GCP/?tag=tolees-21) a 9.9 EUR (original: 35.99 EUR) (72.49 %  de descuento) en el siguiente enlace!

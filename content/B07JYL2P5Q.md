@@ -10,8 +10,11 @@ author: ring
 slug: B07JYL2P5Q
 description:
 actualPrice: 21.95 EUR
+currency: EUR
+price: 21.95
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Adidas Altarun K  Zapatillas de Running Unisex Niños  Negro DGH Solid Grey/Core Black  33 EU
 ---
 
 Está [Adidas Altarun K  Zapatillas de Running Unisex Niños  Negro DGH Solid Grey/Core Black  33 EU](https://www.amazon.es/dp/B07JYL2P5Q/?tag=tolees-21) con 37.20 de descuento por 21.95 EUR (original: 34.95 EUR) en el siguiente enlace!

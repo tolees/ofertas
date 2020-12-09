@@ -10,8 +10,11 @@ author: ring
 slug: B07K2H7SWG
 description:
 actualPrice: 11.64 EUR
+currency: EUR
+price: 11.64
 comparePrice: 24.95 EUR
 inStock: true
+prodname: Selene MORELLA Sujetador con Aros  Mujer  Negro  Negro Negro   95  Tamaño del Fabricante:C.95 
 ---
 
 Tienes [Selene MORELLA Sujetador con Aros  Mujer  Negro  Negro Negro   95  Tamaño del Fabricante:C.95 ](https://www.amazon.es/dp/B07K2H7SWG/?tag=tolees-21) con un 53.35 % de descuento con precio de oferta de 11.64 EUR (original: 24.95 EUR) en el siguiente enlace!

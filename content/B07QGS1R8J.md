@@ -10,8 +10,11 @@ author: ring
 slug: B07QGS1R8J
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Sandalias para niño Sandalias Deportivas Zapatillas de Trekking y SenderismoUnisex Niños
 ---
 
 Tienes [Sandalias para niño Sandalias Deportivas Zapatillas de Trekking y SenderismoUnisex Niños](https://www.amazon.es/dp/B07QGS1R8J/?tag=tolees-21) con un 60.01 % de descuento con precio de oferta de 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

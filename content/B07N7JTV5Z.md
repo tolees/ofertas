@@ -10,8 +10,11 @@ author: ring
 slug: B07N7JTV5Z
 description:
 actualPrice: 45.0 EUR
+currency: EUR
+price: 45.0
 comparePrice: 109.0 EUR
 inStock: true
+prodname: Diesel Collar para Hombre DX1169040
 ---
 
 Ahora mismo tienes [Diesel Collar para Hombre DX1169040](https://www.amazon.es/dp/B07N7JTV5Z/?tag=tolees-21) a 45.0 EUR (original: 109.0 EUR) (58.72 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01HQ43ADQ
 description:
 actualPrice: 6.19 EUR
+currency: EUR
+price: 6.19
 comparePrice: 9.39 EUR
 inStock: true
+prodname: Bolero Bebida Instantánea sin Azúcar  Sabor Granada - Paquete de 24 x 9 gr - Total: 216 gr
 ---
 
 Tienes [Bolero Bebida Instantánea sin Azúcar  Sabor Granada - Paquete de 24 x 9 gr - Total: 216 gr](https://www.amazon.es/dp/B01HQ43ADQ/?tag=tolees-21) con un 34.08 % de descuento con precio de oferta de 6.19 EUR (original: 9.39 EUR) en el siguiente enlace!

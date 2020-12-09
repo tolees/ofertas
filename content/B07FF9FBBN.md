@@ -10,8 +10,11 @@ author: ring
 slug: B07FF9FBBN
 description:
 actualPrice: 28.59 EUR
+currency: EUR
+price: 28.59
 comparePrice: 149.99 EUR
 inStock: true
+prodname: JACK & JONES Jorgreenland Parka  Hombre  Verde Dusty Olive  Small
 ---
 
 Está [JACK & JONES Jorgreenland Parka  Hombre  Verde Dusty Olive  Small](https://www.amazon.es/dp/B07FF9FBBN/?tag=tolees-21) con 80.94 de descuento por 28.59 EUR (original: 149.99 EUR) en el siguiente enlace!

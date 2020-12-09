@@ -10,8 +10,11 @@ author: ring
 slug: B07PQGRTVB
 description:
 actualPrice: 84.0 EUR
+currency: EUR
+price: 84.0
 comparePrice: 149.0 EUR
 inStock: true
+prodname: HP 22m - Monitor LED de 21.5"  Full HD  Tiempo de Respuesta de 5 ms  1 x HDMI  1 x VGA  16:9  Color Negro
 ---
 
 Está [HP 22m - Monitor LED de 21.5"  Full HD  Tiempo de Respuesta de 5 ms  1 x HDMI  1 x VGA  16:9  Color Negro](https://www.amazon.es/dp/B07PQGRTVB/?tag=tolees-21) con 43.62 de descuento por 84.0 EUR (original: 149.0 EUR) en el siguiente enlace!

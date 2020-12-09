@@ -10,8 +10,11 @@ author: ring
 slug: B077NF6LKS
 description:
 actualPrice: 30.73 EUR
+currency: EUR
+price: 30.73
 comparePrice: 46.29 EUR
 inStock: true
+prodname: DKNY Intimates Litewear Fishnet Spacer Sujetador Cotidiana  Beige  Glow/Black with   90A  Talla del Fabricante: 34A  para Mujer
 ---
 
 Ahora mismo tienes [DKNY Intimates Litewear Fishnet Spacer Sujetador Cotidiana  Beige  Glow/Black with   90A  Talla del Fabricante: 34A  para Mujer](https://www.amazon.es/dp/B077NF6LKS/?tag=tolees-21) a 30.73 EUR (original: 46.29 EUR) (33.61 %  de descuento) en el siguiente enlace!

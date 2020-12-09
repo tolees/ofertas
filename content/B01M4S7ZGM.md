@@ -10,8 +10,11 @@ author: ring
 slug: B01M4S7ZGM
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 35.99 EUR
 inStock: true
+prodname: BONTEC Soporte Monitor Mesa Elevador Monitor Soporte Portatil Ordenador 2 Niveles Negro  W420 x D235 x H142mm con Soporte para Teléfono Inteligente y Gestión de Cables
 ---
 
 Ahora mismo tienes [BONTEC Soporte Monitor Mesa Elevador Monitor Soporte Portatil Ordenador 2 Niveles Negro  W420 x D235 x H142mm con Soporte para Teléfono Inteligente y Gestión de Cables](https://www.amazon.es/dp/B01M4S7ZGM/?tag=tolees-21) a 15.99 EUR (original: 35.99 EUR) (55.57 %  de descuento) en el siguiente enlace!

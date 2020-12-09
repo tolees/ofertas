@@ -10,8 +10,11 @@ author: ring
 slug: B07FS8PVM2
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 95.98 EUR
 inStock: true
+prodname: Lijadora Excéntrica  TECCPO Lijadora Eléctrica 280W  14000 OPM  Diámetro de Órbita de 2 5 mm  Papel de Lija de 12 Piezas  para Alisar Madera y Quitar Pintura - TARS23P
 ---
 
 Está [Lijadora Excéntrica  TECCPO Lijadora Eléctrica 280W  14000 OPM  Diámetro de Órbita de 2 5 mm  Papel de Lija de 12 Piezas  para Alisar Madera y Quitar Pintura - TARS23P](https://www.amazon.es/dp/B07FS8PVM2/?tag=tolees-21) con 63.54 de descuento por 34.99 EUR (original: 95.98 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07CRJDBD3
 description:
 actualPrice: 27.33 EUR
+currency: EUR
+price: 27.33
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Puma Defy Wn s Zapatillas de Deporte Mujer  Blanco  Puma White-Puma Black   42 EU  8 UK 
 ---
 
 Tienes [Puma Defy Wn s Zapatillas de Deporte Mujer  Blanco  Puma White-Puma Black   42 EU  8 UK ](https://www.amazon.es/dp/B07CRJDBD3/?tag=tolees-21) con un 72.66 % de descuento con precio de oferta de 27.33 EUR (original: 99.95 EUR) en el siguiente enlace!

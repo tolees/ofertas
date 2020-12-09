@@ -10,8 +10,11 @@ author: ring
 slug: B07G34HDQL
 description:
 actualPrice: 1299.99 EUR
+currency: EUR
+price: 1299.99
 comparePrice: 1749.99 EUR
 inStock: true
+prodname: Alkove Palma - Sofá de cuero de tres plazas  gris topo 
 ---
 
 Ahora mismo tienes [Alkove Palma - Sofá de cuero de tres plazas  gris topo ](https://www.amazon.es/dp/B07G34HDQL/?tag=tolees-21) a 1299.99 EUR (original: 1749.99 EUR) (25.71 %  de descuento) en el siguiente enlace!

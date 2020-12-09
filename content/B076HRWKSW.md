@@ -10,8 +10,11 @@ author: ring
 slug: B076HRWKSW
 description:
 actualPrice: 10.95 EUR
+currency: EUR
+price: 10.95
 comparePrice: 17.95 EUR
 inStock: true
+prodname: Adidas CORE18 JSY Y T-Shirt  Unisex niños  White/Black  7-8A
 ---
 
 Ahora mismo tienes [Adidas CORE18 JSY Y T-Shirt  Unisex niños  White/Black  7-8A](https://www.amazon.es/dp/B076HRWKSW/?tag=tolees-21) a 10.95 EUR (original: 17.95 EUR) (39.00 %  de descuento) en el siguiente enlace!

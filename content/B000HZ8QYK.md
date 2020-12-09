@@ -10,8 +10,11 @@ author: ring
 slug: B000HZ8QYK
 description:
 actualPrice: 12.9 EUR
+currency: EUR
+price: 12.9
 comparePrice: 17.32 EUR
 inStock: true
+prodname: Doudou et Compagnie 303 - Conejo de peluche con mantita de arrullo en caja de regalo  color beige
 ---
 
 Tienes [Doudou et Compagnie 303 - Conejo de peluche con mantita de arrullo en caja de regalo  color beige](https://www.amazon.es/dp/B000HZ8QYK/?tag=tolees-21) con un 25.52 % de descuento con precio de oferta de 12.9 EUR (original: 17.32 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07RMV44FJ
 description:
 actualPrice: 15.63 EUR
+currency: EUR
+price: 15.63
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Telémetro Láser 50m  TECCPO Medidor Láser de Distancia con Precisión ± 2mm  Niveles de Burbuja con Función de Silencio  Sensor de Ángulo Electrónico  IP54  TDLM21P
 ---
 
 Tienes [Telémetro Láser 50m  TECCPO Medidor Láser de Distancia con Precisión ± 2mm  Niveles de Burbuja con Función de Silencio  Sensor de Ángulo Electrónico  IP54  TDLM21P](https://www.amazon.es/dp/B07RMV44FJ/?tag=tolees-21) con un 32.01 % de descuento con precio de oferta de 15.63 EUR (original: 22.99 EUR) en el siguiente enlace!

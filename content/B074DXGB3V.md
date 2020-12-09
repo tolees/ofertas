@@ -10,8 +10,11 @@ author: ring
 slug: B074DXGB3V
 description:
 actualPrice: 219.95 EUR
+currency: EUR
+price: 219.95
 comparePrice: 399.99 EUR
 inStock: true
+prodname: Western Digital WDBVXC0080HWT-EESN My Cloud Home Almacenamiento en la nube personal  8 TB
 ---
 
 Tienes [Western Digital WDBVXC0080HWT-EESN My Cloud Home Almacenamiento en la nube personal  8 TB](https://www.amazon.es/dp/B074DXGB3V/?tag=tolees-21) con un 45.01 % de descuento con precio de oferta de 219.95 EUR (original: 399.99 EUR) en el siguiente enlace!

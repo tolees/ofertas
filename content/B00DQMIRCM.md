@@ -10,8 +10,11 @@ author: ring
 slug: B00DQMIRCM
 description:
 actualPrice: 2.62 EUR
+currency: EUR
+price: 2.62
 comparePrice: 3.5 EUR
 inStock: true
+prodname: Maped 742547 - Pack de 4 marcadores  Verde/rosa/naranja/amarillo
 ---
 
 Ahora mismo tienes [Maped 742547 - Pack de 4 marcadores  Verde/rosa/naranja/amarillo](https://www.amazon.es/dp/B00DQMIRCM/?tag=tolees-21) a 2.62 EUR (original: 3.5 EUR) (25.14 %  de descuento) en el siguiente enlace!

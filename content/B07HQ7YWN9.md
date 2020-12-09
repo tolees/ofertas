@@ -10,8 +10,11 @@ author: ring
 slug: B07HQ7YWN9
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 60.99 EUR
 inStock: true
+prodname: TwobeFit Bandas de Resistencia de la Cadera  Bandas de Ejercicios de Cadera para la tonificación de Caderas  Bandas Antideslizantes de Tela para Fuerza de piernas y glúteos
 ---
 
 Ahora mismo tienes [TwobeFit Bandas de Resistencia de la Cadera  Bandas de Ejercicios de Cadera para la tonificación de Caderas  Bandas Antideslizantes de Tela para Fuerza de piernas y glúteos](https://www.amazon.es/dp/B07HQ7YWN9/?tag=tolees-21) a 19.99 EUR (original: 60.99 EUR) (67.22 %  de descuento) en el siguiente enlace!

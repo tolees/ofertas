@@ -10,8 +10,11 @@ author: ring
 slug: B07GB4QFF4
 description:
 actualPrice: 11.23 EUR
+currency: EUR
+price: 11.23
 comparePrice: 35.95 EUR
 inStock: true
+prodname: Tuc Tuc Prenda Tricot Parfum Vestido   Azul 00   12 años  Tamaño del Fabricante:12A  para Niñas
 ---
 
 Ahora mismo tienes [Tuc Tuc Prenda Tricot Parfum Vestido   Azul 00   12 años  Tamaño del Fabricante:12A  para Niñas](https://www.amazon.es/dp/B07GB4QFF4/?tag=tolees-21) a 11.23 EUR (original: 35.95 EUR) (68.76 %  de descuento) en el siguiente enlace!

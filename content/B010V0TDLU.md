@@ -10,8 +10,11 @@ author: ring
 slug: B010V0TDLU
 description:
 actualPrice: 36.23 EUR
+currency: EUR
+price: 36.23
 comparePrice: 119 EUR
 inStock: true
+prodname: Guess GU6843 Gafas de sol  Azul  blue black   52 Unisex Adulto
 ---
 
 Ahora mismo tienes [Guess GU6843 Gafas de sol  Azul  blue black   52 Unisex Adulto](https://www.amazon.es/dp/B010V0TDLU/?tag=tolees-21) a 36.23 EUR (original: 119 EUR) (69.55 %  de descuento) en el siguiente enlace!

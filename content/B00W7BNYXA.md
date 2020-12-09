@@ -10,8 +10,11 @@ author: ring
 slug: B00W7BNYXA
 description:
 actualPrice: 16.06 EUR
+currency: EUR
+price: 16.06
 comparePrice: 28.99 EUR
 inStock: true
+prodname: Goliath-35880 Photo Pearls con 7500 Piezas  35.88 
 ---
 
 Está [Goliath-35880 Photo Pearls con 7500 Piezas  35.88 ](https://www.amazon.es/dp/B00W7BNYXA/?tag=tolees-21) con 44.60 de descuento por 16.06 EUR (original: 28.99 EUR) en el siguiente enlace!

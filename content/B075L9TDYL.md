@@ -10,8 +10,11 @@ author: ring
 slug: B075L9TDYL
 description:
 actualPrice: 48.76 EUR
+currency: EUR
+price: 48.76
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Moulinex DD65H8 Quickchef - Batidora de mano 1000 W con 4 accesorios  1000 W  10 velocidades  accesorio pasapuré  picadora  varillas  vaso medidor y pie metálico  cuchillas de acero robustas
 ---
 
 Ahora mismo tienes [Moulinex DD65H8 Quickchef - Batidora de mano 1000 W con 4 accesorios  1000 W  10 velocidades  accesorio pasapuré  picadora  varillas  vaso medidor y pie metálico  cuchillas de acero robustas](https://www.amazon.es/dp/B075L9TDYL/?tag=tolees-21) a 48.76 EUR (original: 79.99 EUR) (39.04 %  de descuento) en el siguiente enlace!

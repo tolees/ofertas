@@ -10,8 +10,11 @@ author: ring
 slug: B086N7TGGQ
 description:
 actualPrice: 10.05 EUR
+currency: EUR
+price: 10.05
 comparePrice: 16.99 EUR
 inStock: true
+prodname: Marca Amazon - Happy Belly - Caramelos con sabor a lima y chocolate  3x500g
 ---
 
 Ahora mismo tienes [Marca Amazon - Happy Belly - Caramelos con sabor a lima y chocolate  3x500g](https://www.amazon.es/dp/B086N7TGGQ/?tag=tolees-21) a 10.05 EUR (original: 16.99 EUR) (40.85 %  de descuento) en el siguiente enlace!

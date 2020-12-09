@@ -10,8 +10,11 @@ author: ring
 slug: B07CNFZLGD
 description:
 actualPrice: 23.52 EUR
+currency: EUR
+price: 23.52
 comparePrice: 49 EUR
 inStock: true
+prodname: Diesel T-Daria  Camiseta para Mujer  Blanco 100  Medium  Tamaño del Fabricante:M 
 ---
 
 Tienes [Diesel T-Daria  Camiseta para Mujer  Blanco 100  Medium  Tamaño del Fabricante:M ](https://www.amazon.es/dp/B07CNFZLGD/?tag=tolees-21) con un 52.00 % de descuento con precio de oferta de 23.52 EUR (original: 49 EUR) en el siguiente enlace!

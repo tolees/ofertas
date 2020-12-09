@@ -10,8 +10,11 @@ author: ring
 slug: B00MGRAICA
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: HP Value Backpack 15.6 - Mochila para portátiles de hasta 15.6"  gris y azul
 ---
 
 Tienes [HP Value Backpack 15.6 - Mochila para portátiles de hasta 15.6"  gris y azul](https://www.amazon.es/dp/B00MGRAICA/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

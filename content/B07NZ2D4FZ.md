@@ -10,8 +10,11 @@ author: ring
 slug: B07NZ2D4FZ
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Superdry Jacob Crew suéter  Gris  Concrete Twist THU   M para Hombre
 ---
 
 Está [Superdry Jacob Crew suéter  Gris  Concrete Twist THU   M para Hombre](https://www.amazon.es/dp/B07NZ2D4FZ/?tag=tolees-21) con 55.01 de descuento por 35.99 EUR (original: 79.99 EUR) en el siguiente enlace!

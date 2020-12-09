@@ -10,8 +10,11 @@ author: ring
 slug: B07HXKB6C2
 description:
 actualPrice: 17.18 EUR
+currency: EUR
+price: 17.18
 comparePrice: 24.55 EUR
 inStock: true
+prodname: Durex Preservativos Mixtos Surprise Me - 40 Condones
 ---
 
 Está [Durex Preservativos Mixtos Surprise Me - 40 Condones](https://www.amazon.es/dp/B07HXKB6C2/?tag=tolees-21) con 30.02 de descuento por 17.18 EUR (original: 24.55 EUR) en el siguiente enlace!

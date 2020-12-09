@@ -10,8 +10,11 @@ author: ring
 slug: B07VNKS6FR
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 15.99 EUR
 inStock: true
+prodname: Elite99 Esmaltes Semipermanentes de Uñas en Gel UV LED  8 Colores Kit de Esmaltes de Uñas de Color 003
 ---
 
 Tienes [Elite99 Esmaltes Semipermanentes de Uñas en Gel UV LED  8 Colores Kit de Esmaltes de Uñas de Color 003](https://www.amazon.es/dp/B07VNKS6FR/?tag=tolees-21) con un 25.02 % de descuento con precio de oferta de 11.99 EUR (original: 15.99 EUR) en el siguiente enlace!

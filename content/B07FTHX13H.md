@@ -10,8 +10,11 @@ author: ring
 slug: B07FTHX13H
 description:
 actualPrice: 22.35 EUR
+currency: EUR
+price: 22.35
 comparePrice: 32.76 EUR
 inStock: true
+prodname: Weta Collectibles- Mini Epics Figura Coleccionable Galadriel  El Señor de los Anillos  Multicolor  Weta Workshop 865002616 
 ---
 
 Tienes [Weta Collectibles- Mini Epics Figura Coleccionable Galadriel  El Señor de los Anillos  Multicolor  Weta Workshop 865002616 ](https://www.amazon.es/dp/B07FTHX13H/?tag=tolees-21) con un 31.78 % de descuento con precio de oferta de 22.35 EUR (original: 32.76 EUR) en el siguiente enlace!

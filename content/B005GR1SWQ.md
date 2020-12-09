@@ -10,8 +10,11 @@ author: ring
 slug: B005GR1SWQ
 description:
 actualPrice: 5.81 EUR
+currency: EUR
+price: 5.81
 comparePrice: 11.99 EUR
 inStock: true
+prodname: Brother LC1220M - Cartucho de tinta magenta  duración estimada: hasta 300 páginas según ISO/IEC 24711 
 ---
 
 Está [Brother LC1220M - Cartucho de tinta magenta  duración estimada: hasta 300 páginas según ISO/IEC 24711 ](https://www.amazon.es/dp/B005GR1SWQ/?tag=tolees-21) con 51.54 de descuento por 5.81 EUR (original: 11.99 EUR) en el siguiente enlace!

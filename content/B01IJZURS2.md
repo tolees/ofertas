@@ -10,8 +10,11 @@ author: ring
 slug: B01IJZURS2
 description:
 actualPrice: 179.99 EUR
+currency: EUR
+price: 179.99
 comparePrice: 252.28 EUR
 inStock: true
+prodname: Kodak Pixpro AZ422 Roja
 ---
 
 Tienes [Kodak Pixpro AZ422 Roja](https://www.amazon.es/dp/B01IJZURS2/?tag=tolees-21) con un 28.65 % de descuento con precio de oferta de 179.99 EUR (original: 252.28 EUR) en el siguiente enlace!

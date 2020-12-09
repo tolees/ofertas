@@ -10,8 +10,11 @@ author: ring
 slug: B07VYZKLLS
 description:
 actualPrice: 12.5 EUR
+currency: EUR
+price: 12.5
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Pepe Jeans Sonny Camiseta  Azul  Ultra Blue 542   X-Large para Hombre
 ---
 
 Está [Pepe Jeans Sonny Camiseta  Azul  Ultra Blue 542   X-Large para Hombre](https://www.amazon.es/dp/B07VYZKLLS/?tag=tolees-21) con 64.29 de descuento por 12.5 EUR (original: 35.0 EUR) en el siguiente enlace!

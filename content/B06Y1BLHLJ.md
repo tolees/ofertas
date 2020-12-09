@@ -10,8 +10,11 @@ author: ring
 slug: B06Y1BLHLJ
 description:
 actualPrice: 37.46 EUR
+currency: EUR
+price: 37.46
 comparePrice: 85 EUR
 inStock: true
+prodname: Geox D Deynna E  Zapatillas para Mujer  Morado  Coffee/Prune   39 EU
 ---
 
 Tienes [Geox D Deynna E  Zapatillas para Mujer  Morado  Coffee/Prune   39 EU](https://www.amazon.es/dp/B06Y1BLHLJ/?tag=tolees-21) con un 55.93 % de descuento con precio de oferta de 37.46 EUR (original: 85 EUR) en el siguiente enlace!

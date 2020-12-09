@@ -10,8 +10,11 @@ author: ring
 slug: B07BL2YCDV
 description:
 actualPrice: 50.09 EUR
+currency: EUR
+price: 50.09
 comparePrice: 110 EUR
 inStock: true
+prodname: New Balance X-90  Zapatillas para Mujer  Rosa  Pink Sand/Team Away Grey Paradis   36.5 EU
 ---
 
 Tienes [New Balance X-90  Zapatillas para Mujer  Rosa  Pink Sand/Team Away Grey Paradis   36.5 EU](https://www.amazon.es/dp/B07BL2YCDV/?tag=tolees-21) con un 54.46 % de descuento con precio de oferta de 50.09 EUR (original: 110 EUR) en el siguiente enlace!

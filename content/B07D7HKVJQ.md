@@ -10,8 +10,11 @@ author: ring
 slug: B07D7HKVJQ
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: FM London Contrast Stripe  Pantalones Cortos Deportivos Hombre  Negro  Black   Small
 ---
 
 Tienes [FM London Contrast Stripe  Pantalones Cortos Deportivos Hombre  Negro  Black   Small](https://www.amazon.es/dp/B07D7HKVJQ/?tag=tolees-21) con un 60.03 % de descuento con precio de oferta de 7.99 EUR (original: 19.99 EUR) en el siguiente enlace!

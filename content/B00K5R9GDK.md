@@ -10,8 +10,11 @@ author: ring
 slug: B00K5R9GDK
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 42.9 EUR
 inStock: true
+prodname: Tommy Hilfiger 3p Lr Trunk Boxer  Negro  Black 990   XL  Pack de 3  para Hombre
 ---
 
 Tienes [Tommy Hilfiger 3p Lr Trunk Boxer  Negro  Black 990   XL  Pack de 3  para Hombre](https://www.amazon.es/dp/B00K5R9GDK/?tag=tolees-21) con un 34.76 % de descuento con precio de oferta de 27.99 EUR (original: 42.9 EUR) en el siguiente enlace!

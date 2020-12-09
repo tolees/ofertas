@@ -10,8 +10,11 @@ author: ring
 slug: B077XQHZJ4
 description:
 actualPrice: 21.73 EUR
+currency: EUR
+price: 21.73
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Tom Tailor Denim Easy Print Dress  Vestido para Mujer  Azul  Knitted Navy 6800   Small
 ---
 
 Ahora mismo tienes [Tom Tailor Denim Easy Print Dress  Vestido para Mujer  Azul  Knitted Navy 6800   Small](https://www.amazon.es/dp/B077XQHZJ4/?tag=tolees-21) a 21.73 EUR (original: 39.99 EUR) (45.66 %  de descuento) en el siguiente enlace!

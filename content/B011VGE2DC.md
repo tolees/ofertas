@@ -10,8 +10,11 @@ author: ring
 slug: B011VGE2DC
 description:
 actualPrice: 16.93 EUR
+currency: EUR
+price: 16.93
 comparePrice: 40 EUR
 inStock: true
+prodname: HAWKERS · ONE X · Caramel Carey · Sky · Gafas de sol para hombre y mujer
 ---
 
 Tienes [HAWKERS · ONE X · Caramel Carey · Sky · Gafas de sol para hombre y mujer](https://www.amazon.es/dp/B011VGE2DC/?tag=tolees-21) con un 57.67 % de descuento con precio de oferta de 16.93 EUR (original: 40 EUR) en el siguiente enlace!

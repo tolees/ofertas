@@ -10,8 +10,11 @@ author: ring
 slug: B07KJZ7N5G
 description:
 actualPrice: 12.9 EUR
+currency: EUR
+price: 12.9
 comparePrice: 26.0 EUR
 inStock: true
+prodname: Under Armour Patterson Backpack Mochila  Unisex   Academy/Academy/Steel  408   Taglia Unica
 ---
 
 Ahora mismo tienes [Under Armour Patterson Backpack Mochila  Unisex   Academy/Academy/Steel  408   Taglia Unica](https://www.amazon.es/dp/B07KJZ7N5G/?tag=tolees-21) a 12.9 EUR (original: 26.0 EUR) (50.38 %  de descuento) en el siguiente enlace!

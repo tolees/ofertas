@@ -10,8 +10,11 @@ author: ring
 slug: B0756TYZJZ
 description:
 actualPrice: 42.99 EUR
+currency: EUR
+price: 42.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: GGMM 10W Altavoces Portatiles Bluetooth WiFi Inteligente Mini Altavoz Soporte Multiroom Spotify Sonido Alta Fidelidad Subwoofer Portable Speaker 14horas
 ---
 
 Ahora mismo tienes [GGMM 10W Altavoces Portatiles Bluetooth WiFi Inteligente Mini Altavoz Soporte Multiroom Spotify Sonido Alta Fidelidad Subwoofer Portable Speaker 14horas](https://www.amazon.es/dp/B0756TYZJZ/?tag=tolees-21) a 42.99 EUR (original: 99.99 EUR) (57.01 %  de descuento) en el siguiente enlace!

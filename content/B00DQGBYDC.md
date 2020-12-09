@@ -10,8 +10,11 @@ author: ring
 slug: B00DQGBYDC
 description:
 actualPrice: 9.98 EUR
+currency: EUR
+price: 9.98
 comparePrice: 14.99 EUR
 inStock: true
+prodname: SanDisk Memoria Flash Ultra USB 3.0 de 64 GB  hasta 130 MB/s velocidad de lectura  Negro
 ---
 
 Está [SanDisk Memoria Flash Ultra USB 3.0 de 64 GB  hasta 130 MB/s velocidad de lectura  Negro](https://www.amazon.es/dp/B00DQGBYDC/?tag=tolees-21) con 33.42 de descuento por 9.98 EUR (original: 14.99 EUR) en el siguiente enlace!

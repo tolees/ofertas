@@ -10,8 +10,11 @@ author: ring
 slug: B00BB7MAV8
 description:
 actualPrice: 14.11 EUR
+currency: EUR
+price: 14.11
 comparePrice: 21.09 EUR
 inStock: true
+prodname: Aerocool Templarius Gladiator - Ratón Gaming láser
 ---
 
 Está [Aerocool Templarius Gladiator - Ratón Gaming láser](https://www.amazon.es/dp/B00BB7MAV8/?tag=tolees-21) con 33.10 de descuento por 14.11 EUR (original: 21.09 EUR) en el siguiente enlace!

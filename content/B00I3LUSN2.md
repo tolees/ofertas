@@ -10,8 +10,11 @@ author: ring
 slug: B00I3LUSN2
 description:
 actualPrice: 9.98 EUR
+currency: EUR
+price: 9.98
 comparePrice: 20.0 EUR
 inStock: true
+prodname: Sony MDR-EX110LP - Auriculares in-ear  negro
 ---
 
 Tienes [Sony MDR-EX110LP - Auriculares in-ear  negro](https://www.amazon.es/dp/B00I3LUSN2/?tag=tolees-21) con un 50.10 % de descuento con precio de oferta de 9.98 EUR (original: 20.0 EUR) en el siguiente enlace!

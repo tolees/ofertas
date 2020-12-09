@@ -10,8 +10,11 @@ author: ring
 slug: B07VMLZ7KN
 description:
 actualPrice: 69.0 EUR
+currency: EUR
+price: 69.0
 comparePrice: 114.95 EUR
 inStock: true
+prodname: Krups The Sub Heineken VB650E10 - Tirador de cerveza  2 L frescos de la cerveza 15 días  hasta 2º  eficiencia energética A+  silencioso  indicador listo para servir  Gris/Acero  Reacondicionado 
 ---
 
 Tienes [Krups The Sub Heineken VB650E10 - Tirador de cerveza  2 L frescos de la cerveza 15 días  hasta 2º  eficiencia energética A+  silencioso  indicador listo para servir  Gris/Acero  Reacondicionado ](https://www.amazon.es/dp/B07VMLZ7KN/?tag=tolees-21) con un 39.97 % de descuento con precio de oferta de 69.0 EUR (original: 114.95 EUR) en el siguiente enlace!

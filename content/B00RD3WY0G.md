@@ -10,8 +10,11 @@ author: ring
 slug: B00RD3WY0G
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 32.5 EUR
 inStock: true
+prodname: Mars Gaming MCPZE1 - Pack de teclado y ratón gaming para PC  12 teclas multimedia  retroiluminación 7 colores  control intensidad  2800 DPI  6 botones gaming  ambidiestro   color blanco
 ---
 
 Está [Mars Gaming MCPZE1 - Pack de teclado y ratón gaming para PC  12 teclas multimedia  retroiluminación 7 colores  control intensidad  2800 DPI  6 botones gaming  ambidiestro   color blanco](https://www.amazon.es/dp/B00RD3WY0G/?tag=tolees-21) con 38.77 de descuento por 19.9 EUR (original: 32.5 EUR) en el siguiente enlace!

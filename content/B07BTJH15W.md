@@ -10,8 +10,11 @@ author: ring
 slug: B07BTJH15W
 description:
 actualPrice: 92.96 EUR
+currency: EUR
+price: 92.96
 comparePrice: 168 EUR
 inStock: true
+prodname: Ray-Ban RAYBAN 0rb3594 9114u0 53  Gafas de sol Unisex  Rubber Gold On Top Black
 ---
 
 Tienes [Ray-Ban RAYBAN 0rb3594 9114u0 53  Gafas de sol Unisex  Rubber Gold On Top Black](https://www.amazon.es/dp/B07BTJH15W/?tag=tolees-21) con un 44.67 % de descuento con precio de oferta de 92.96 EUR (original: 168 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07D54CQYJ
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 48.99 EUR
 inStock: true
+prodname: ammoon POCKECHO Demora y Looper Pedal de Efectos de Guitarra 8 Efectos de Retardo Max. 300s Loop Time Tap Tempo Function True Bypass  POCKDIST 
 ---
 
 Ahora mismo tienes [ammoon POCKECHO Demora y Looper Pedal de Efectos de Guitarra 8 Efectos de Retardo Max. 300s Loop Time Tap Tempo Function True Bypass  POCKDIST ](https://www.amazon.es/dp/B07D54CQYJ/?tag=tolees-21) a 29.99 EUR (original: 48.99 EUR) (38.78 %  de descuento) en el siguiente enlace!

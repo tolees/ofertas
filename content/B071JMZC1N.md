@@ -10,8 +10,11 @@ author: ring
 slug: B071JMZC1N
 description:
 actualPrice: 21.36 EUR
+currency: EUR
+price: 21.36
 comparePrice: 30 EUR
 inStock: true
+prodname: Nike Women s Swoosh Futura Sports Bra Sports Bra  Mujer  White/Black  M
 ---
 
 Está [Nike Women s Swoosh Futura Sports Bra Sports Bra  Mujer  White/Black  M](https://www.amazon.es/dp/B071JMZC1N/?tag=tolees-21) con 28.80 de descuento por 21.36 EUR (original: 30 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06XHSMH66
 description:
 actualPrice: 5.9 EUR
+currency: EUR
+price: 5.9
 comparePrice: 11.95 EUR
 inStock: true
+prodname: Joma Champion IV M/C Camiseta Equipamiento  Hombre  Verde/Rojo  4XS-3XS
 ---
 
 Ahora mismo tienes [Joma Champion IV M/C Camiseta Equipamiento  Hombre  Verde/Rojo  4XS-3XS](https://www.amazon.es/dp/B06XHSMH66/?tag=tolees-21) a 5.9 EUR (original: 11.95 EUR) (50.63 %  de descuento) en el siguiente enlace!

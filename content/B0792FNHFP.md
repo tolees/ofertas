@@ -10,8 +10,11 @@ author: ring
 slug: B0792FNHFP
 description:
 actualPrice: 86.77 EUR
+currency: EUR
+price: 86.77
 comparePrice: 155.0 EUR
 inStock: true
+prodname: Geox D Felicity D  Botas Altas Mujer  Negro  Black C9999   37 EU
 ---
 
 Tienes [Geox D Felicity D  Botas Altas Mujer  Negro  Black C9999   37 EU](https://www.amazon.es/dp/B0792FNHFP/?tag=tolees-21) con un 44.02 % de descuento con precio de oferta de 86.77 EUR (original: 155.0 EUR) en el siguiente enlace!

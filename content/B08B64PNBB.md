@@ -10,8 +10,11 @@ author: ring
 slug: B08B64PNBB
 description:
 actualPrice: 6.97 EUR
+currency: EUR
+price: 6.97
 comparePrice: 19.0 EUR
 inStock: true
+prodname: SYOSIN Bandas de Resistencia  Tejido de Punto Conjunto de Bandas de Resistencia de Cadera Antideslizante Banda de Fitness para Entrenamiento de culos y piernas  3 Nivel de Resistencia
 ---
 
 Está [SYOSIN Bandas de Resistencia  Tejido de Punto Conjunto de Bandas de Resistencia de Cadera Antideslizante Banda de Fitness para Entrenamiento de culos y piernas  3 Nivel de Resistencia](https://www.amazon.es/dp/B08B64PNBB/?tag=tolees-21) con 63.32 de descuento por 6.97 EUR (original: 19.0 EUR) en el siguiente enlace!

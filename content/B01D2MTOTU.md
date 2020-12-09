@@ -10,8 +10,11 @@ author: ring
 slug: B01D2MTOTU
 description:
 actualPrice: 79 EUR
+currency: EUR
+price: 79
 comparePrice: 129 EUR
 inStock: true
+prodname: HP 22kd 21.5" - Monitor de 22    1920 x 1080 pixeles  LED  Full HD  1920 x 1080  HD 1080   600:1   color negro
 ---
 
 Está [HP 22kd 21.5" - Monitor de 22    1920 x 1080 pixeles  LED  Full HD  1920 x 1080  HD 1080   600:1   color negro](https://www.amazon.es/dp/B01D2MTOTU/?tag=tolees-21) con 38.76 de descuento por 79 EUR (original: 129 EUR) en el siguiente enlace!

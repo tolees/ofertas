@@ -10,8 +10,11 @@ author: ring
 slug: B0771WXYKT
 description:
 actualPrice: 37.95 EUR
+currency: EUR
+price: 37.95
 comparePrice: 64.95 EUR
 inStock: true
+prodname: Columbia Mujer Pantalón  Silver Ridge  Gris  Flint Grey   Talla: 42
 ---
 
 Ahora mismo tienes [Columbia Mujer Pantalón  Silver Ridge  Gris  Flint Grey   Talla: 42](https://www.amazon.es/dp/B0771WXYKT/?tag=tolees-21) a 37.95 EUR (original: 64.95 EUR) (41.57 %  de descuento) en el siguiente enlace!

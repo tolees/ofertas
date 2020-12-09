@@ -10,8 +10,11 @@ author: ring
 slug: B005GGRN0S
 description:
 actualPrice: 17.95 EUR
+currency: EUR
+price: 17.95
 comparePrice: 23.95 EUR
 inStock: true
+prodname: Panasonic KX-TG1611SPH - Teléfono Fijo Inalámbrico DECT  LCD  Identificador de Llamadas  Agenda de 50 Números  Tecla de Navegación  Alarma  Reloj  color Negro
 ---
 
 Tienes [Panasonic KX-TG1611SPH - Teléfono Fijo Inalámbrico DECT  LCD  Identificador de Llamadas  Agenda de 50 Números  Tecla de Navegación  Alarma  Reloj  color Negro](https://www.amazon.es/dp/B005GGRN0S/?tag=tolees-21) con un 25.05 % de descuento con precio de oferta de 17.95 EUR (original: 23.95 EUR) en el siguiente enlace!

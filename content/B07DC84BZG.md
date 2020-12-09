@@ -10,8 +10,11 @@ author: ring
 slug: B07DC84BZG
 description:
 actualPrice: 20.26 EUR
+currency: EUR
+price: 20.26
 comparePrice: 45 EUR
 inStock: true
+prodname: LE COQ SPORTIF Courtset Inf Woven  Botas para Bebés  Beige  Optical White/Rose Gold Blanc   21 EU
 ---
 
 Está [LE COQ SPORTIF Courtset Inf Woven  Botas para Bebés  Beige  Optical White/Rose Gold Blanc   21 EU](https://www.amazon.es/dp/B07DC84BZG/?tag=tolees-21) con 54.98 de descuento por 20.26 EUR (original: 45 EUR) en el siguiente enlace!

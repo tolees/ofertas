@@ -10,8 +10,11 @@ author: ring
 slug: B07QLTYWCR
 description:
 actualPrice: 24.69 EUR
+currency: EUR
+price: 24.69
 comparePrice: 44.99 EUR
 inStock: true
+prodname: Barbie BMR 1959 Muñeca de Moda  look Chaqueta Transparente de Vinilo  Mattel GHT94    color/modelo surtido
 ---
 
 Tienes [Barbie BMR 1959 Muñeca de Moda  look Chaqueta Transparente de Vinilo  Mattel GHT94    color/modelo surtido](https://www.amazon.es/dp/B07QLTYWCR/?tag=tolees-21) con un 45.12 % de descuento con precio de oferta de 24.69 EUR (original: 44.99 EUR) en el siguiente enlace!

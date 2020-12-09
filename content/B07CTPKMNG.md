@@ -10,8 +10,11 @@ author: ring
 slug: B07CTPKMNG
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 65 EUR
 inStock: true
+prodname: Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Gris Purple Ace/Steel 101  36 EU
 ---
 
 Ahora mismo tienes [Under Armour UA GS Suspend  Zapatillas de Running Unisex Niños  Gris Purple Ace/Steel 101  36 EU](https://www.amazon.es/dp/B07CTPKMNG/?tag=tolees-21) a 16.99 EUR (original: 65 EUR) (73.86 %  de descuento) en el siguiente enlace!

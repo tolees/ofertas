@@ -10,8 +10,11 @@ author: ring
 slug: B07RGNW68S
 description:
 actualPrice: 36.0 EUR
+currency: EUR
+price: 36.0
 comparePrice: 60.0 EUR
 inStock: true
+prodname: New Balance Draft Scarpe per Jogging su Strada  Mujer  Negro  Orca   38 EU
 ---
 
 Está [New Balance Draft Scarpe per Jogging su Strada  Mujer  Negro  Orca   38 EU](https://www.amazon.es/dp/B07RGNW68S/?tag=tolees-21) con 40.00 de descuento por 36.0 EUR (original: 60.0 EUR) en el siguiente enlace!

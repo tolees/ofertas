@@ -10,8 +10,11 @@ author: ring
 slug: B00I8NSAIU
 description:
 actualPrice: 7.89 EUR
+currency: EUR
+price: 7.89
 comparePrice: 11.15 EUR
 inStock: true
+prodname: California Exotics Apollo Estimulador de Próstata Curvado Negro - 1 unidad
 ---
 
 Está [California Exotics Apollo Estimulador de Próstata Curvado Negro - 1 unidad](https://www.amazon.es/dp/B00I8NSAIU/?tag=tolees-21) con 29.24 de descuento por 7.89 EUR (original: 11.15 EUR) en el siguiente enlace!

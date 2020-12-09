@@ -10,8 +10,11 @@ author: ring
 slug: B08BV43XDF
 description:
 actualPrice: 7.0 EUR
+currency: EUR
+price: 7.0
 comparePrice: 13.99 EUR
 inStock: true
+prodname: Videodrome  BD  [Blu-ray]
 ---
 
 Ahora mismo tienes [Videodrome  BD  [Blu-ray]](https://www.amazon.es/dp/B08BV43XDF/?tag=tolees-21) a 7.0 EUR (original: 13.99 EUR) (49.96 %  de descuento) en el siguiente enlace!

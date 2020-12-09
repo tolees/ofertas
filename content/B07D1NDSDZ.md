@@ -10,8 +10,11 @@ author: ring
 slug: B07D1NDSDZ
 description:
 actualPrice: 1.99 EUR
+currency: EUR
+price: 1.99
 comparePrice: 8.98 EUR
 inStock: true
+prodname: Enjoygoeu_ES 62 Set Botones Kit de Presión de Cobre de Reparación Acero Inoxidable con Herramienta de Fijación de Ropa Lona Para la Aplicación de Tela a Tela
 ---
 
 Está [Enjoygoeu_ES 62 Set Botones Kit de Presión de Cobre de Reparación Acero Inoxidable con Herramienta de Fijación de Ropa Lona Para la Aplicación de Tela a Tela](https://www.amazon.es/dp/B07D1NDSDZ/?tag=tolees-21) con 77.84 de descuento por 1.99 EUR (original: 8.98 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01A6XC7YC
 description:
 actualPrice: 45.1 EUR
+currency: EUR
+price: 45.1
 comparePrice: 95 EUR
 inStock: true
+prodname: The North Face Tekware TNF Pantalones  Mujer  Marrón  Wmrn Brn   L
 ---
 
 Está [The North Face Tekware TNF Pantalones  Mujer  Marrón  Wmrn Brn   L](https://www.amazon.es/dp/B01A6XC7YC/?tag=tolees-21) con 52.53 de descuento por 45.1 EUR (original: 95 EUR) en el siguiente enlace!

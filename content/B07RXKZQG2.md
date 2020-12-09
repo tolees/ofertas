@@ -10,8 +10,11 @@ author: ring
 slug: B07RXKZQG2
 description:
 actualPrice: 10.49 EUR
+currency: EUR
+price: 10.49
 comparePrice: 14.49 EUR
 inStock: true
+prodname: Levi s The Perfect Tee  Camiseta  Mujer  Azul  90 s Serif T2 Baby Blue 0782   S
 ---
 
 Está [Levi s The Perfect Tee  Camiseta  Mujer  Azul  90 s Serif T2 Baby Blue 0782   S](https://www.amazon.es/dp/B07RXKZQG2/?tag=tolees-21) con 27.61 de descuento por 10.49 EUR (original: 14.49 EUR) en el siguiente enlace!

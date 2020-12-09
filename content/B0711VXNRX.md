@@ -10,8 +10,11 @@ author: ring
 slug: B0711VXNRX
 description:
 actualPrice: 14.17 EUR
+currency: EUR
+price: 14.17
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Only Onlroxanne L/s Pullover CC Knt suéter   Light Grey Melange Detail:w. Dgm Stars   40  Talla del Fabricante: Large  para Mujer
 ---
 
 Ahora mismo tienes [Only Onlroxanne L/s Pullover CC Knt suéter   Light Grey Melange Detail:w. Dgm Stars   40  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B0711VXNRX/?tag=tolees-21) a 14.17 EUR (original: 29.99 EUR) (52.75 %  de descuento) en el siguiente enlace!

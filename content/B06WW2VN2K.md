@@ -10,8 +10,11 @@ author: ring
 slug: B06WW2VN2K
 description:
 actualPrice: 21.54 EUR
+currency: EUR
+price: 21.54
 comparePrice: 39.99 EUR
 inStock: true
+prodname: edc by Esprit 067cc1c009  Pantalones Cortos Mujer  Rosa  Pastel Pink 695   34
 ---
 
 Ahora mismo tienes [edc by Esprit 067cc1c009  Pantalones Cortos Mujer  Rosa  Pastel Pink 695   34](https://www.amazon.es/dp/B06WW2VN2K/?tag=tolees-21) a 21.54 EUR (original: 39.99 EUR) (46.14 %  de descuento) en el siguiente enlace!

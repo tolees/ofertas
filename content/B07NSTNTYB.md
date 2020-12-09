@@ -10,8 +10,11 @@ author: ring
 slug: B07NSTNTYB
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 14.95 EUR
 inStock: true
+prodname: Pop! Vinilo: Ghostbusters: Dr. Raymond Stantz
 ---
 
 Tienes [Pop! Vinilo: Ghostbusters: Dr. Raymond Stantz](https://www.amazon.es/dp/B07NSTNTYB/?tag=tolees-21) con un 33.18 % de descuento con precio de oferta de 9.99 EUR (original: 14.95 EUR) en el siguiente enlace!

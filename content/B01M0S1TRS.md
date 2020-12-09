@@ -10,8 +10,11 @@ author: ring
 slug: B01M0S1TRS
 description:
 actualPrice: 62.99 EUR
+currency: EUR
+price: 62.99
 comparePrice: 100.65 EUR
 inStock: true
+prodname: Manfrotto MVH400AH Cabeza de tripode Negro 1/4" Fluido - Cabeza para trípode  97 mm  380 g  4 3 cm  Aluminio  Negro 
 ---
 
 Está [Manfrotto MVH400AH Cabeza de tripode Negro 1/4" Fluido - Cabeza para trípode  97 mm  380 g  4 3 cm  Aluminio  Negro ](https://www.amazon.es/dp/B01M0S1TRS/?tag=tolees-21) con 37.42 de descuento por 62.99 EUR (original: 100.65 EUR) en el siguiente enlace!

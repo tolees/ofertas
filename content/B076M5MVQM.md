@@ -10,8 +10,11 @@ author: ring
 slug: B076M5MVQM
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: OLAY Total effects 7 en 1 crema de noche hidratante reafirmante caja 50 ml
 ---
 
 Está [OLAY Total effects 7 en 1 crema de noche hidratante reafirmante caja 50 ml](https://www.amazon.es/dp/B076M5MVQM/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

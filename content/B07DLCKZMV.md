@@ -10,8 +10,11 @@ author: ring
 slug: B07DLCKZMV
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield Chino Slim Microprint  Pantalones para Hombre   Gama Azules 15    Tamaño del Fabricante:40 
 ---
 
 Tienes [Springfield Chino Slim Microprint  Pantalones para Hombre   Gama Azules 15    Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B07DLCKZMV/?tag=tolees-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

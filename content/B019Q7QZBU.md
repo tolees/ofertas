@@ -10,8 +10,11 @@ author: ring
 slug: B019Q7QZBU
 description:
 actualPrice: 27.74 EUR
+currency: EUR
+price: 27.74
 comparePrice: 36.99 EUR
 inStock: true
+prodname: Ultratec CG2000/ 331400000267 Parrilla de contacto 2 en 1  2000 vatios  función barbacoa
 ---
 
 Está [Ultratec CG2000/ 331400000267 Parrilla de contacto 2 en 1  2000 vatios  función barbacoa](https://www.amazon.es/dp/B019Q7QZBU/?tag=tolees-21) con 25.01 de descuento por 27.74 EUR (original: 36.99 EUR) en el siguiente enlace!

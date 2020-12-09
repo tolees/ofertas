@@ -10,8 +10,11 @@ author: ring
 slug: B00SW2G8PY
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 31.99 EUR
 inStock: true
+prodname: Walking Dead - Juguete Serie 4 Figura Carl Grimes de colección cómica   MAY150635 
 ---
 
 Está [Walking Dead - Juguete Serie 4 Figura Carl Grimes de colección cómica   MAY150635 ](https://www.amazon.es/dp/B00SW2G8PY/?tag=tolees-21) con 25.01 de descuento por 23.99 EUR (original: 31.99 EUR) en el siguiente enlace!

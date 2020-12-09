@@ -10,8 +10,11 @@ author: ring
 slug: B07ND8XRZD
 description:
 actualPrice: 111.45 EUR
+currency: EUR
+price: 111.45
 comparePrice: 159.0 EUR
 inStock: true
+prodname: Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1782083
 ---
 
 Tienes [Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxidable 1782083](https://www.amazon.es/dp/B07ND8XRZD/?tag=tolees-21) con un 29.91 % de descuento con precio de oferta de 111.45 EUR (original: 159.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MZJ26QR
 description:
 actualPrice: 20.95 EUR
+currency: EUR
+price: 20.95
 comparePrice: 39.75 EUR
 inStock: true
+prodname: Superdry Vintage Logo Fade Mid Weight T Camiseta  Rosa  Skate Pink A7X   S para Hombre
 ---
 
 Está [Superdry Vintage Logo Fade Mid Weight T Camiseta  Rosa  Skate Pink A7X   S para Hombre](https://www.amazon.es/dp/B07MZJ26QR/?tag=tolees-21) con 47.30 de descuento por 20.95 EUR (original: 39.75 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00U1OKPUU
 description:
 actualPrice: 36.3 EUR
+currency: EUR
+price: 36.3
 comparePrice: 48.54 EUR
 inStock: true
+prodname: CAYS - Candado Persiana Tijera Jg Cays 50 Mm
 ---
 
 Tienes [CAYS - Candado Persiana Tijera Jg Cays 50 Mm](https://www.amazon.es/dp/B00U1OKPUU/?tag=tolees-21) con un 25.22 % de descuento con precio de oferta de 36.3 EUR (original: 48.54 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B004EW2ZGM
 description:
 actualPrice: 20.48 EUR
+currency: EUR
+price: 20.48
 comparePrice: 40 EUR
 inStock: true
+prodname: Sensai - Gel bronceador SPF6-50 ml
 ---
 
 Ahora mismo tienes [Sensai - Gel bronceador SPF6-50 ml](https://www.amazon.es/dp/B004EW2ZGM/?tag=tolees-21) a 20.48 EUR (original: 40 EUR) (48.80 %  de descuento) en el siguiente enlace!

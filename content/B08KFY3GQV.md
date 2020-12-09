@@ -10,8 +10,11 @@ author: ring
 slug: B08KFY3GQV
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Estuche Escolar Multifuncional Estuche de lápices de Gran Capacidad Bolsa oficina y papeleria útiles escolares portátil adecuado para estudiantes universitarios de secundariaregalos adolescentes-Gris
 ---
 
 Está [Estuche Escolar Multifuncional Estuche de lápices de Gran Capacidad Bolsa oficina y papeleria útiles escolares portátil adecuado para estudiantes universitarios de secundariaregalos adolescentes-Gris](https://www.amazon.es/dp/B08KFY3GQV/?tag=tolees-21) con 40.03 de descuento por 8.99 EUR (original: 14.99 EUR) en el siguiente enlace!

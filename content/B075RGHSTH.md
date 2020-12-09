@@ -10,8 +10,11 @@ author: ring
 slug: B075RGHSTH
 description:
 actualPrice: 17.42 EUR
+currency: EUR
+price: 17.42
 comparePrice: 49 EUR
 inStock: true
+prodname: Double Agent - Traje con correas de ganchillo para mujer  Negro   Tamaño del Fabricante:S 
 ---
 
 Ahora mismo tienes [Double Agent - Traje con correas de ganchillo para mujer  Negro   Tamaño del Fabricante:S ](https://www.amazon.es/dp/B075RGHSTH/?tag=tolees-21) a 17.42 EUR (original: 49 EUR) (64.45 %  de descuento) en el siguiente enlace!

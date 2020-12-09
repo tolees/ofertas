@@ -10,8 +10,11 @@ author: ring
 slug: B07KM5S1NG
 description:
 actualPrice: 35.99 EUR
+currency: EUR
+price: 35.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: EZVIZ Cámara de Vigilancia Exterior  Cámara IP WiFi Bala de Seguridad IP66  con Visión Nocturna 30m Luz  Sirena  Compatible con Alexa  CTQ3W
 ---
 
 Tienes [EZVIZ Cámara de Vigilancia Exterior  Cámara IP WiFi Bala de Seguridad IP66  con Visión Nocturna 30m Luz  Sirena  Compatible con Alexa  CTQ3W](https://www.amazon.es/dp/B07KM5S1NG/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 35.99 EUR (original: 59.99 EUR) en el siguiente enlace!

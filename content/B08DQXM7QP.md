@@ -10,8 +10,11 @@ author: ring
 slug: B08DQXM7QP
 description:
 actualPrice: 118.99 EUR
+currency: EUR
+price: 118.99
 comparePrice: 169.99 EUR
 inStock: true
+prodname: Philips AC0830/10 - Purificador de Aire Para Hogar  Elimina Hasta 99 5% De Los Alérgenos  Tamaño Compacto Con Indicación En Color Y Silencios  color gris  Superficie: 49 m²
 ---
 
 Ahora mismo tienes [Philips AC0830/10 - Purificador de Aire Para Hogar  Elimina Hasta 99 5% De Los Alérgenos  Tamaño Compacto Con Indicación En Color Y Silencios  color gris  Superficie: 49 m²](https://www.amazon.es/dp/B08DQXM7QP/?tag=tolees-21) a 118.99 EUR (original: 169.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

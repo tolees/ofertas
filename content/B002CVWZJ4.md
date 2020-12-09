@@ -10,8 +10,11 @@ author: ring
 slug: B002CVWZJ4
 description:
 actualPrice: 13.6 EUR
+currency: EUR
+price: 13.6
 comparePrice: 18.88 EUR
 inStock: true
+prodname: LUBRICANTE DILATADOR LUBRIFIST  LUBRIX  200ML
 ---
 
 Tienes [LUBRICANTE DILATADOR LUBRIFIST  LUBRIX  200ML](https://www.amazon.es/dp/B002CVWZJ4/?tag=tolees-21) con un 27.97 % de descuento con precio de oferta de 13.6 EUR (original: 18.88 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DJW6CPK
 description:
 actualPrice: 17.65 EUR
+currency: EUR
+price: 17.65
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Only Onlshelly Short Hooded Jacket CC Otw Chaqueta  Rojo Scooter  42  Talla del Fabricante: Large  para Mujer
 ---
 
 Ahora mismo tienes [Only Onlshelly Short Hooded Jacket CC Otw Chaqueta  Rojo Scooter  42  Talla del Fabricante: Large  para Mujer](https://www.amazon.es/dp/B07DJW6CPK/?tag=tolees-21) a 17.65 EUR (original: 49.99 EUR) (64.69 %  de descuento) en el siguiente enlace!

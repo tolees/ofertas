@@ -10,8 +10,11 @@ author: ring
 slug: B07KPBXZFC
 description:
 actualPrice: 14.09 EUR
+currency: EUR
+price: 14.09
 comparePrice: 20.99 EUR
 inStock: true
+prodname: Aourow Lámpara de Espejo Baño LED 5W 230V 500lm a Prueba de Agua IP44 30cm 3 en 1 Fije en el Espejo +en el Gabinete+en la Pared Luz Blanca Neutra 4000K Contra Niebla Acero Inoxidable 300x105x40mm
 ---
 
 Está [Aourow Lámpara de Espejo Baño LED 5W 230V 500lm a Prueba de Agua IP44 30cm 3 en 1 Fije en el Espejo +en el Gabinete+en la Pared Luz Blanca Neutra 4000K Contra Niebla Acero Inoxidable 300x105x40mm](https://www.amazon.es/dp/B07KPBXZFC/?tag=tolees-21) con 32.87 de descuento por 14.09 EUR (original: 20.99 EUR) en el siguiente enlace!

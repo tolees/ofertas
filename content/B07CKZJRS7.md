@@ -10,8 +10,11 @@ author: ring
 slug: B07CKZJRS7
 description:
 actualPrice: 29.28 EUR
+currency: EUR
+price: 29.28
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Mustang Schnür-Booty  Botas Clasicas para Hombre  Marrón  Taupe 318   42 EU
 ---
 
 Ahora mismo tienes [Mustang Schnür-Booty  Botas Clasicas para Hombre  Marrón  Taupe 318   42 EU](https://www.amazon.es/dp/B07CKZJRS7/?tag=tolees-21) a 29.28 EUR (original: 79.95 EUR) (63.38 %  de descuento) en el siguiente enlace!

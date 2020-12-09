@@ -10,8 +10,11 @@ author: ring
 slug: B07GSGYCRC
 description:
 actualPrice: 1.99 EUR
+currency: EUR
+price: 1.99
 comparePrice: 4.93 EUR
 inStock: true
+prodname: Rubies- Mini Farol con Vela Luminosa   Talla única  S4385 
 ---
 
 Ahora mismo tienes [Rubies- Mini Farol con Vela Luminosa   Talla única  S4385 ](https://www.amazon.es/dp/B07GSGYCRC/?tag=tolees-21) a 1.99 EUR (original: 4.93 EUR) (59.63 %  de descuento) en el siguiente enlace!

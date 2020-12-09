@@ -10,8 +10,11 @@ author: ring
 slug: B08HSGXL6M
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: Yucch24 bolsas de regalo de Navidad con 24 etiquetas de regalo de Navidad y pegatinas de calendario de Adviento cajas de Usado para decoración de fiestas de Navidad suministros
 ---
 
 Está [Yucch24 bolsas de regalo de Navidad con 24 etiquetas de regalo de Navidad y pegatinas de calendario de Adviento cajas de Usado para decoración de fiestas de Navidad suministros](https://www.amazon.es/dp/B08HSGXL6M/?tag=tolees-21) con 30.45 de descuento por 15.99 EUR (original: 22.99 EUR) en el siguiente enlace!

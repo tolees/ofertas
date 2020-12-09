@@ -10,8 +10,11 @@ author: ring
 slug: B00MGK9ZZI
 description:
 actualPrice: 3.3 EUR
+currency: EUR
+price: 3.3
 comparePrice: 4.75 EUR
 inStock: true
+prodname: Rimmel London Provocalips Barra De Labios  Tono 730 Make Your Move - 18 gr
 ---
 
 Ahora mismo tienes [Rimmel London Provocalips Barra De Labios  Tono 730 Make Your Move - 18 gr](https://www.amazon.es/dp/B00MGK9ZZI/?tag=tolees-21) a 3.3 EUR (original: 4.75 EUR) (30.53 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B001CLRDJM
 description:
 actualPrice: 60.99 EUR
+currency: EUR
+price: 60.99
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Moser esquiladora 1230 Rex BLACK
 ---
 
 Ahora mismo tienes [Moser esquiladora 1230 Rex BLACK](https://www.amazon.es/dp/B001CLRDJM/?tag=tolees-21) a 60.99 EUR (original: 119.99 EUR) (49.17 %  de descuento) en el siguiente enlace!

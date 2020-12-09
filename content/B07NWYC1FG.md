@@ -10,8 +10,11 @@ author: ring
 slug: B07NWYC1FG
 description:
 actualPrice: 1.95 EUR
+currency: EUR
+price: 1.95
 comparePrice: 3.6 EUR
 inStock: true
+prodname: Axe - Excite - Desodorante Bodyspray para hombre  48 horas de protección - 150 ml
 ---
 
 Tienes [Axe - Excite - Desodorante Bodyspray para hombre  48 horas de protección - 150 ml](https://www.amazon.es/dp/B07NWYC1FG/?tag=tolees-21) con un 45.83 % de descuento con precio de oferta de 1.95 EUR (original: 3.6 EUR) en el siguiente enlace!

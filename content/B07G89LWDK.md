@@ -10,8 +10,11 @@ author: ring
 slug: B07G89LWDK
 description:
 actualPrice: 159.95 EUR
+currency: EUR
+price: 159.95
 comparePrice: 279.9 EUR
 inStock: true
+prodname: Polar Vantage M -Reloj con GPS y Frecuencia Cardíaca - Multideporte y programas de running - Resistente al agua  ligero - Blanco Talla M/L
 ---
 
 Tienes [Polar Vantage M -Reloj con GPS y Frecuencia Cardíaca - Multideporte y programas de running - Resistente al agua  ligero - Blanco Talla M/L](https://www.amazon.es/dp/B07G89LWDK/?tag=tolees-21) con un 42.85 % de descuento con precio de oferta de 159.95 EUR (original: 279.9 EUR) en el siguiente enlace!

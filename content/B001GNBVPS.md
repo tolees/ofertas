@@ -10,8 +10,11 @@ author: ring
 slug: B001GNBVPS
 description:
 actualPrice: 3.45 EUR
+currency: EUR
+price: 3.45
 comparePrice: 12.95 EUR
 inStock: true
+prodname: Max Factor Crème Puff Polvos Compactos Tono 013 Nouveau Beige - 21 gr
 ---
 
 Tienes [Max Factor Crème Puff Polvos Compactos Tono 013 Nouveau Beige - 21 gr](https://www.amazon.es/dp/B001GNBVPS/?tag=tolees-21) con un 73.36 % de descuento con precio de oferta de 3.45 EUR (original: 12.95 EUR) en el siguiente enlace!

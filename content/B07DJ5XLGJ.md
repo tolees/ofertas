@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ5XLGJ
 description:
 actualPrice: 15.72 EUR
+currency: EUR
+price: 15.72
 comparePrice: 59.95 EUR
 inStock: true
+prodname: United Colors of Benetton Sweater L/s suéter  Azul  Blue 73c   Large para Mujer
 ---
 
 Está [United Colors of Benetton Sweater L/s suéter  Azul  Blue 73c   Large para Mujer](https://www.amazon.es/dp/B07DJ5XLGJ/?tag=tolees-21) con 73.78 de descuento por 15.72 EUR (original: 59.95 EUR) en el siguiente enlace!

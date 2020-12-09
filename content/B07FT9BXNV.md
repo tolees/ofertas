@@ -10,8 +10,11 @@ author: ring
 slug: B07FT9BXNV
 description:
 actualPrice: 38.33 EUR
+currency: EUR
+price: 38.33
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Daren Zip Fly Vaqueros rectors Rectos  Gris  Grau Used Xz   28W/32L para Hombre
 ---
 
 Está [Lee Daren Zip Fly Vaqueros rectors Rectos  Gris  Grau Used Xz   28W/32L para Hombre](https://www.amazon.es/dp/B07FT9BXNV/?tag=tolees-21) con 61.65 de descuento por 38.33 EUR (original: 99.95 EUR) en el siguiente enlace!

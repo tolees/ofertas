@@ -10,8 +10,11 @@ author: ring
 slug: B00NIPSWLI
 description:
 actualPrice: 24.72 EUR
+currency: EUR
+price: 24.72
 comparePrice: 39.95 EUR
 inStock: true
+prodname: Oral-B PRO 600 CrossAction  Cepillo de dientes eléctrico recargable con tecnología Braun  edición verde
 ---
 
 Ahora mismo tienes [Oral-B PRO 600 CrossAction  Cepillo de dientes eléctrico recargable con tecnología Braun  edición verde](https://www.amazon.es/dp/B00NIPSWLI/?tag=tolees-21) a 24.72 EUR (original: 39.95 EUR) (38.12 %  de descuento) en el siguiente enlace!

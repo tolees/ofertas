@@ -10,8 +10,11 @@ author: ring
 slug: B07ZKZ37MC
 description:
 actualPrice: 10.43 EUR
+currency: EUR
+price: 10.43
 comparePrice: 14.9 EUR
 inStock: true
+prodname: Men Expert Barber Club Champú 3 en 1 y Aceite para Barba Larga
 ---
 
 Está [Men Expert Barber Club Champú 3 en 1 y Aceite para Barba Larga](https://www.amazon.es/dp/B07ZKZ37MC/?tag=tolees-21) con 30.00 de descuento por 10.43 EUR (original: 14.9 EUR) en el siguiente enlace!

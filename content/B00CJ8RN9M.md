@@ -10,8 +10,11 @@ author: ring
 slug: B00CJ8RN9M
 description:
 actualPrice: 15.63 EUR
+currency: EUR
+price: 15.63
 comparePrice: 32.95 EUR
 inStock: true
+prodname: Jodhpur Premium London Dry Gin Ginebra  43º - 500 ml
 ---
 
 Está [Jodhpur Premium London Dry Gin Ginebra  43º - 500 ml](https://www.amazon.es/dp/B00CJ8RN9M/?tag=tolees-21) con 52.56 de descuento por 15.63 EUR (original: 32.95 EUR) en el siguiente enlace!

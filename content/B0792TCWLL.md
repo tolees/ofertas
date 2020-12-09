@@ -10,8 +10,11 @@ author: ring
 slug: B0792TCWLL
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 59.9 EUR
 inStock: true
+prodname: Geox J Pavel Girl A  Zapatillas para Niñas   Navy/Dk Fuchsia C4043   37 EU
 ---
 
 Está [Geox J Pavel Girl A  Zapatillas para Niñas   Navy/Dk Fuchsia C4043   37 EU](https://www.amazon.es/dp/B0792TCWLL/?tag=tolees-21) con 50.00 de descuento por 29.95 EUR (original: 59.9 EUR) en el siguiente enlace!

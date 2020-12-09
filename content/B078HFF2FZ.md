@@ -10,8 +10,11 @@ author: ring
 slug: B078HFF2FZ
 description:
 actualPrice: 17.47 EUR
+currency: EUR
+price: 17.47
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Springfield 9883193  Sandalias con Punta Abierta para Mujer   Gamma Grises   38 EU
 ---
 
 Ahora mismo tienes [Springfield 9883193  Sandalias con Punta Abierta para Mujer   Gamma Grises   38 EU](https://www.amazon.es/dp/B078HFF2FZ/?tag=tolees-21) a 17.47 EUR (original: 26.99 EUR) (35.27 %  de descuento) en el siguiente enlace!

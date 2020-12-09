@@ -10,8 +10,11 @@ author: ring
 slug: B07FSNH6PR
 description:
 actualPrice: 28.35 EUR
+currency: EUR
+price: 28.35
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Clarks Un Adorn Zip  Mocasines para Mujer  Negro  Black Combi-   35.5 EU
 ---
 
 Tienes [Clarks Un Adorn Zip  Mocasines para Mujer  Negro  Black Combi-   35.5 EU](https://www.amazon.es/dp/B07FSNH6PR/?tag=tolees-21) con un 74.23 % de descuento con precio de oferta de 28.35 EUR (original: 110.0 EUR) en el siguiente enlace!

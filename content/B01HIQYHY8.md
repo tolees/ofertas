@@ -10,8 +10,11 @@ author: ring
 slug: B01HIQYHY8
 description:
 actualPrice: 4.14 EUR
+currency: EUR
+price: 4.14
 comparePrice: 7.54 EUR
 inStock: true
+prodname: FUEGO NET Fuegonet 231389 Pastillas  Blanco  12.9x7.5x13.5 cm
 ---
 
 Está [FUEGO NET Fuegonet 231389 Pastillas  Blanco  12.9x7.5x13.5 cm](https://www.amazon.es/dp/B01HIQYHY8/?tag=tolees-21) con 45.09 de descuento por 4.14 EUR (original: 7.54 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01GREVWMW
 description:
 actualPrice: 31.15 EUR
+currency: EUR
+price: 31.15
 comparePrice: 61.89 EUR
 inStock: true
+prodname: KickersSlayer - Zapatillas Hombre  Azul  Azul  Marine    44 EU
 ---
 
 Tienes [KickersSlayer - Zapatillas Hombre  Azul  Azul  Marine    44 EU](https://www.amazon.es/dp/B01GREVWMW/?tag=tolees-21) con un 49.67 % de descuento con precio de oferta de 31.15 EUR (original: 61.89 EUR) en el siguiente enlace!

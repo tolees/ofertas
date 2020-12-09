@@ -10,8 +10,11 @@ author: ring
 slug: B071RN4HZQ
 description:
 actualPrice: 6.59 EUR
+currency: EUR
+price: 6.59
 comparePrice: 11.99 EUR
 inStock: true
+prodname: FineGood FG molds 3 - Juego de 3 moldes de silicona con forma de donut  6 cavidades antiadherentes  para hacer galletas  magdalenas  pasteles  bagels  naranja  rojo rosa  verde
 ---
 
 Está [FineGood FG molds 3 - Juego de 3 moldes de silicona con forma de donut  6 cavidades antiadherentes  para hacer galletas  magdalenas  pasteles  bagels  naranja  rojo rosa  verde](https://www.amazon.es/dp/B071RN4HZQ/?tag=tolees-21) con 45.04 de descuento por 6.59 EUR (original: 11.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B077SWD5SY
 description:
 actualPrice: 34.46 EUR
+currency: EUR
+price: 34.46
 comparePrice: 64.95 EUR
 inStock: true
+prodname: adidas VL Court 2.0  Zapatillas de Skateboard para Hombre  Negro Core Black FTWR White  42 2/3 EU
 ---
 
 Tienes [adidas VL Court 2.0  Zapatillas de Skateboard para Hombre  Negro Core Black FTWR White  42 2/3 EU](https://www.amazon.es/dp/B077SWD5SY/?tag=tolees-21) con un 46.94 % de descuento con precio de oferta de 34.46 EUR (original: 64.95 EUR) en el siguiente enlace!

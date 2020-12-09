@@ -10,8 +10,11 @@ author: ring
 slug: B08P4KKDFH
 description:
 actualPrice: 10.98 EUR
+currency: EUR
+price: 10.98
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Kaishuai-Vinilos para puertas vinilos para ventanas decoracion navidad hogar Copos de nieve pegatinas Papá Noel Vinilos Navideños Pegatinas de Pared
 ---
 
 Está [Kaishuai-Vinilos para puertas vinilos para ventanas decoracion navidad hogar Copos de nieve pegatinas Papá Noel Vinilos Navideños Pegatinas de Pared](https://www.amazon.es/dp/B08P4KKDFH/?tag=tolees-21) con 26.75 de descuento por 10.98 EUR (original: 14.99 EUR) en el siguiente enlace!

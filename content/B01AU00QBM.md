@@ -10,8 +10,11 @@ author: ring
 slug: B01AU00QBM
 description:
 actualPrice: 14.29 EUR
+currency: EUR
+price: 14.29
 comparePrice: 25.58 EUR
 inStock: true
+prodname: Ghost In The Shell La Nueva Película [Blu-ray]
 ---
 
 Tienes [Ghost In The Shell La Nueva Película [Blu-ray]](https://www.amazon.es/dp/B01AU00QBM/?tag=tolees-21) con un 44.14 % de descuento con precio de oferta de 14.29 EUR (original: 25.58 EUR) en el siguiente enlace!

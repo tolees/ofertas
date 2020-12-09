@@ -10,8 +10,11 @@ author: ring
 slug: B07NJCTB6Z
 description:
 actualPrice: 12 EUR
+currency: EUR
+price: 12
 comparePrice: 21 EUR
 inStock: true
+prodname: Burton Menswear London Geometric Print Pique Shirt Camiseta  Blanco  White 190   Large para Hombre
 ---
 
 Está [Burton Menswear London Geometric Print Pique Shirt Camiseta  Blanco  White 190   Large para Hombre](https://www.amazon.es/dp/B07NJCTB6Z/?tag=tolees-21) con 42.86 de descuento por 12 EUR (original: 21 EUR) en el siguiente enlace!

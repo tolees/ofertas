@@ -10,8 +10,11 @@ author: ring
 slug: B00O9YIRI0
 description:
 actualPrice: 6.81 EUR
+currency: EUR
+price: 6.81
 comparePrice: 15.75 EUR
 inStock: true
+prodname: Sourcingmap a14061700ux0055 Cerradura para Cajón  plata
 ---
 
 Ahora mismo tienes [Sourcingmap a14061700ux0055 Cerradura para Cajón  plata](https://www.amazon.es/dp/B00O9YIRI0/?tag=tolees-21) a 6.81 EUR (original: 15.75 EUR) (56.76 %  de descuento) en el siguiente enlace!

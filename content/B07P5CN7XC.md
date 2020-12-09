@@ -10,8 +10,11 @@ author: ring
 slug: B07P5CN7XC
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Magic Wand Massager  Silicona Masajeador Eléctrico con 10 Modos  Masaje Corporal Para Brazos y Piernas en el Hombro  para Mujeres  USB Recargable
 ---
 
 Está [Magic Wand Massager  Silicona Masajeador Eléctrico con 10 Modos  Masaje Corporal Para Brazos y Piernas en el Hombro  para Mujeres  USB Recargable](https://www.amazon.es/dp/B07P5CN7XC/?tag=tolees-21) con 25.01 de descuento por 26.99 EUR (original: 35.99 EUR) en el siguiente enlace!

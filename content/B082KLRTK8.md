@@ -10,8 +10,11 @@ author: ring
 slug: B082KLRTK8
 description:
 actualPrice: 16.49 EUR
+currency: EUR
+price: 16.49
 comparePrice: 21.99 EUR
 inStock: true
+prodname: Fintie Bolso Cruzado Bolso de Hombro Bolso Bandolera  Antirrobo Deporte al Aire Libre Viajes Senderismo Excursionismo Monedero Maletines y Bolsas para Hombres Mujeres  Negro
 ---
 
 Tienes [Fintie Bolso Cruzado Bolso de Hombro Bolso Bandolera  Antirrobo Deporte al Aire Libre Viajes Senderismo Excursionismo Monedero Maletines y Bolsas para Hombres Mujeres  Negro](https://www.amazon.es/dp/B082KLRTK8/?tag=tolees-21) con un 25.01 % de descuento con precio de oferta de 16.49 EUR (original: 21.99 EUR) en el siguiente enlace!

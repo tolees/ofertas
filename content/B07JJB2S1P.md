@@ -10,8 +10,11 @@ author: ring
 slug: B07JJB2S1P
 description:
 actualPrice: 45.79 EUR
+currency: EUR
+price: 45.79
 comparePrice: 150 EUR
 inStock: true
+prodname: Armani Exchange Cavalry Pantalones  Negro  Black 1200   W31/L32  Talla del Fabricante: 31  para Hombre
 ---
 
 Está [Armani Exchange Cavalry Pantalones  Negro  Black 1200   W31/L32  Talla del Fabricante: 31  para Hombre](https://www.amazon.es/dp/B07JJB2S1P/?tag=tolees-21) con 69.47 de descuento por 45.79 EUR (original: 150 EUR) en el siguiente enlace!

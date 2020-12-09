@@ -10,8 +10,11 @@ author: ring
 slug: B07SKWKYKW
 description:
 actualPrice: 5.52 EUR
+currency: EUR
+price: 5.52
 comparePrice: 9.99 EUR
 inStock: true
+prodname: La Granja de Zenón - Puzzles Juega y Aprende con el Caballo Percherón
 ---
 
 Está [La Granja de Zenón - Puzzles Juega y Aprende con el Caballo Percherón](https://www.amazon.es/dp/B07SKWKYKW/?tag=tolees-21) con 44.74 de descuento por 5.52 EUR (original: 9.99 EUR) en el siguiente enlace!

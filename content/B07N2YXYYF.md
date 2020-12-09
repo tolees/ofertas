@@ -10,8 +10,11 @@ author: ring
 slug: B07N2YXYYF
 description:
 actualPrice: 43.83 EUR
+currency: EUR
+price: 43.83
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Adidas Predator 19.3 AG - Botas de Fútbol para Hombre  Multicolor  40 EU
 ---
 
 Tienes [Adidas Predator 19.3 AG - Botas de Fútbol para Hombre  Multicolor  40 EU](https://www.amazon.es/dp/B07N2YXYYF/?tag=tolees-21) con un 51.27 % de descuento con precio de oferta de 43.83 EUR (original: 89.95 EUR) en el siguiente enlace!

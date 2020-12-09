@@ -10,8 +10,11 @@ author: ring
 slug: B07GK3VXS3
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 127.93 EUR
 inStock: true
+prodname: OMRON HeatTens - Máquina TENS con Calor Calmante para Aliviar el Dolor Articular y Muscular
 ---
 
 Tienes [OMRON HeatTens - Máquina TENS con Calor Calmante para Aliviar el Dolor Articular y Muscular](https://www.amazon.es/dp/B07GK3VXS3/?tag=tolees-21) con un 45.29 % de descuento con precio de oferta de 69.99 EUR (original: 127.93 EUR) en el siguiente enlace!

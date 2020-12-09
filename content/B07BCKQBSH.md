@@ -10,8 +10,11 @@ author: ring
 slug: B07BCKQBSH
 description:
 actualPrice: 39.24 EUR
+currency: EUR
+price: 39.24
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Clarks Step Allenabay  Zapatillas para Mujer  Azul  Navy Textile   39.5 EU
 ---
 
 Está [Clarks Step Allenabay  Zapatillas para Mujer  Azul  Navy Textile   39.5 EU](https://www.amazon.es/dp/B07BCKQBSH/?tag=tolees-21) con 50.92 de descuento por 39.24 EUR (original: 79.95 EUR) en el siguiente enlace!

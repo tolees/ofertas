@@ -10,8 +10,11 @@ author: ring
 slug: B072WGLX3G
 description:
 actualPrice: 145.57 EUR
+currency: EUR
+price: 145.57
 comparePrice: 250 EUR
 inStock: true
+prodname: The North Face Maleta  53 cm  40 litros  TNF BLACK  Negro 
 ---
 
 Está [The North Face Maleta  53 cm  40 litros  TNF BLACK  Negro ](https://www.amazon.es/dp/B072WGLX3G/?tag=tolees-21) con 41.77 de descuento por 145.57 EUR (original: 250 EUR) en el siguiente enlace!

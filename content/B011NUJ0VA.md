@@ -10,8 +10,11 @@ author: ring
 slug: B011NUJ0VA
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 48 EUR
 inStock: true
+prodname: SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva Sin Relleno para Mujer Verde ES:110C  EU 95C 
 ---
 
 Está [SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva Sin Relleno para Mujer Verde ES:110C  EU 95C ](https://www.amazon.es/dp/B011NUJ0VA/?tag=tolees-21) con 50.02 de descuento por 23.99 EUR (original: 48 EUR) en el siguiente enlace!

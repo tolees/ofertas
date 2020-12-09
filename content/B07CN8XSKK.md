@@ -10,8 +10,11 @@ author: ring
 slug: B07CN8XSKK
 description:
 actualPrice: 21.13 EUR
+currency: EUR
+price: 21.13
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Crocs Santa Cruz Canvas Flip Men  Chanclas para Hombre  Marrón  Espresso/Khaki 22y   43/44 EU
 ---
 
 Tienes [Crocs Santa Cruz Canvas Flip Men  Chanclas para Hombre  Marrón  Espresso/Khaki 22y   43/44 EU](https://www.amazon.es/dp/B07CN8XSKK/?tag=tolees-21) con un 47.16 % de descuento con precio de oferta de 21.13 EUR (original: 39.99 EUR) en el siguiente enlace!

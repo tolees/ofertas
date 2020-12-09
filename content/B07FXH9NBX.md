@@ -10,8 +10,11 @@ author: ring
 slug: B07FXH9NBX
 description:
 actualPrice: 14.94 EUR
+currency: EUR
+price: 14.94
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Seidensticker Modern Langarm Mit Kent Kragen Soft Gepunktet  Camisa Hombre  Azul  Dunkelblau 19   40  Talla del Fabricante: 38 
 ---
 
 Ahora mismo tienes [Seidensticker Modern Langarm Mit Kent Kragen Soft Gepunktet  Camisa Hombre  Azul  Dunkelblau 19   40  Talla del Fabricante: 38 ](https://www.amazon.es/dp/B07FXH9NBX/?tag=tolees-21) a 14.94 EUR (original: 69.99 EUR) (78.65 %  de descuento) en el siguiente enlace!

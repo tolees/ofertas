@@ -10,8 +10,11 @@ author: ring
 slug: B07XSBS9FB
 description:
 actualPrice: 79.9 EUR
+currency: EUR
+price: 79.9
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Ufesa RD1500D - Radiador de Aceite Portátil 1500W  con Pantalla Digital Táctil  Temporizador de 24h  7 elementos tipo Convector  Temperatura Regulable de 3 Niveles  Sistema Seguridad Antivuelco
 ---
 
 Está [Ufesa RD1500D - Radiador de Aceite Portátil 1500W  con Pantalla Digital Táctil  Temporizador de 24h  7 elementos tipo Convector  Temperatura Regulable de 3 Niveles  Sistema Seguridad Antivuelco](https://www.amazon.es/dp/B07XSBS9FB/?tag=tolees-21) con 33.41 de descuento por 79.9 EUR (original: 119.99 EUR) en el siguiente enlace!

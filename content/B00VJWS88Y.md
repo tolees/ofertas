@@ -10,8 +10,11 @@ author: ring
 slug: B00VJWS88Y
 description:
 actualPrice: 11.11 EUR
+currency: EUR
+price: 11.11
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Warner Bros Interactive Spain Lego Dimensions - Benny
 ---
 
 Ahora mismo tienes [Warner Bros Interactive Spain Lego Dimensions - Benny](https://www.amazon.es/dp/B00VJWS88Y/?tag=tolees-21) a 11.11 EUR (original: 14.99 EUR) (25.88 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07L4XHQLZ
 description:
 actualPrice: 139.99 EUR
+currency: EUR
+price: 139.99
 comparePrice: 249.99 EUR
 inStock: true
+prodname: Electronic-Star Takira V6 Patinete eléctrico • Plegable • Batería de Carga rápida • Velocidad máx. 16 km/h • 100 vatios • Frenos Delanteros y Traseros • Silencioso • Manillar Ajustable • Negro
 ---
 
 Tienes [Electronic-Star Takira V6 Patinete eléctrico • Plegable • Batería de Carga rápida • Velocidad máx. 16 km/h • 100 vatios • Frenos Delanteros y Traseros • Silencioso • Manillar Ajustable • Negro](https://www.amazon.es/dp/B07L4XHQLZ/?tag=tolees-21) con un 44.00 % de descuento con precio de oferta de 139.99 EUR (original: 249.99 EUR) en el siguiente enlace!

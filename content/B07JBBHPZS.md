@@ -10,8 +10,11 @@ author: ring
 slug: B07JBBHPZS
 description:
 actualPrice: 3 EUR
+currency: EUR
+price: 3
 comparePrice: 29.99 EUR
 inStock: true
+prodname: NACATIN Guantes de Esquí  Guantes de Invierno Resistente al Agua para Hombres y Mujeres Anti-Viento  Adecuado para Skateboard  Esquí  Ciclismo  Escalada  Motociclismo  Caza  Pesca  M 
 ---
 
 Tienes [NACATIN Guantes de Esquí  Guantes de Invierno Resistente al Agua para Hombres y Mujeres Anti-Viento  Adecuado para Skateboard  Esquí  Ciclismo  Escalada  Motociclismo  Caza  Pesca  M ](https://www.amazon.es/dp/B07JBBHPZS/?tag=tolees-21) con un 90.00 % de descuento con precio de oferta de 3 EUR (original: 29.99 EUR) en el siguiente enlace!

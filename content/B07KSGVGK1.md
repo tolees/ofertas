@@ -10,8 +10,11 @@ author: ring
 slug: B07KSGVGK1
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Columbia Pouring Adventure Chaqueta para Hombre  Rojo  Mountain Red   L
 ---
 
 Tienes [Columbia Pouring Adventure Chaqueta para Hombre  Rojo  Mountain Red   L](https://www.amazon.es/dp/B07KSGVGK1/?tag=tolees-21) con un 58.90 % de descuento con precio de oferta de 36.99 EUR (original: 89.99 EUR) en el siguiente enlace!

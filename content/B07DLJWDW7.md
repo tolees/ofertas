@@ -10,8 +10,11 @@ author: ring
 slug: B07DLJWDW7
 description:
 actualPrice: 16.55 EUR
+currency: EUR
+price: 16.55
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Springfield Chino Daily Estructura Pantalones  Hombre  Gris  Gama Grises 44   46  Tamaño del Fabricante:46 
 ---
 
 Está [Springfield Chino Daily Estructura Pantalones  Hombre  Gris  Gama Grises 44   46  Tamaño del Fabricante:46 ](https://www.amazon.es/dp/B07DLJWDW7/?tag=tolees-21) con 54.02 de descuento por 16.55 EUR (original: 35.99 EUR) en el siguiente enlace!

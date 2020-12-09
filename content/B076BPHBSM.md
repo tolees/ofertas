@@ -10,8 +10,11 @@ author: ring
 slug: B076BPHBSM
 description:
 actualPrice: 39.88 EUR
+currency: EUR
+price: 39.88
 comparePrice: 176.43 EUR
 inStock: true
+prodname: Dalstrong Carnicería rompiendo Cimitar cuchillo - serie 10" cortadora de Gladiador - HC alemán acero - protector de vaina incluida
 ---
 
 Tienes [Dalstrong Carnicería rompiendo Cimitar cuchillo - serie 10" cortadora de Gladiador - HC alemán acero - protector de vaina incluida](https://www.amazon.es/dp/B076BPHBSM/?tag=tolees-21) con un 77.40 % de descuento con precio de oferta de 39.88 EUR (original: 176.43 EUR) en el siguiente enlace!

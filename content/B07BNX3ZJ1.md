@@ -10,8 +10,11 @@ author: ring
 slug: B07BNX3ZJ1
 description:
 actualPrice: 109.0 EUR
+currency: EUR
+price: 109.0
 comparePrice: 157.8 EUR
 inStock: true
+prodname: Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero 1791489
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Reloj Multiesfera para Hombre de Cuarzo con Correa en Cuero 1791489](https://www.amazon.es/dp/B07BNX3ZJ1/?tag=tolees-21) a 109.0 EUR (original: 157.8 EUR) (30.93 %  de descuento) en el siguiente enlace!

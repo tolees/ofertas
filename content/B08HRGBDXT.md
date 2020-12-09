@@ -10,8 +10,11 @@ author: ring
 slug: B08HRGBDXT
 description:
 actualPrice: 15.99 EUR
+currency: EUR
+price: 15.99
 comparePrice: 26.99 EUR
 inStock: true
+prodname: OCDAY Soporte Portátil  Laptop Stand  Soporte para Portatil 6 Ángulos Ajustables de Aluminio  Soporte Ordenador Portatil Ventilado Plegable para 10-15.6”Macbook DELL Lenovo y Otros Portatiles.
 ---
 
 Tienes [OCDAY Soporte Portátil  Laptop Stand  Soporte para Portatil 6 Ángulos Ajustables de Aluminio  Soporte Ordenador Portatil Ventilado Plegable para 10-15.6”Macbook DELL Lenovo y Otros Portatiles.](https://www.amazon.es/dp/B08HRGBDXT/?tag=tolees-21) con un 40.76 % de descuento con precio de oferta de 15.99 EUR (original: 26.99 EUR) en el siguiente enlace!

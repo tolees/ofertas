@@ -10,8 +10,11 @@ author: ring
 slug: B0058MFENS
 description:
 actualPrice: 77.2 EUR
+currency: EUR
+price: 77.2
 comparePrice: 104.2 EUR
 inStock: true
+prodname: Westinghouse Lighting Jet I Ventilador de Techo  47 W  Níquel Cepillado
 ---
 
 Ahora mismo tienes [Westinghouse Lighting Jet I Ventilador de Techo  47 W  Níquel Cepillado](https://www.amazon.es/dp/B0058MFENS/?tag=tolees-21) a 77.2 EUR (original: 104.2 EUR) (25.91 %  de descuento) en el siguiente enlace!

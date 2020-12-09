@@ -10,8 +10,11 @@ author: ring
 slug: B01CPAFIX6
 description:
 actualPrice: 11.59 EUR
+currency: EUR
+price: 11.59
 comparePrice: 96 EUR
 inStock: true
+prodname: Divina Providencia Vestido Astrid Coral Vestido de Fiesta  Mujer  Rosa  Coral 0   40  Tamaño del Fabricante:40 
 ---
 
 Tienes [Divina Providencia Vestido Astrid Coral Vestido de Fiesta  Mujer  Rosa  Coral 0   40  Tamaño del Fabricante:40 ](https://www.amazon.es/dp/B01CPAFIX6/?tag=tolees-21) con un 87.93 % de descuento con precio de oferta de 11.59 EUR (original: 96 EUR) en el siguiente enlace!

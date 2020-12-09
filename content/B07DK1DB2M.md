@@ -10,8 +10,11 @@ author: ring
 slug: B07DK1DB2M
 description:
 actualPrice: 52.16 EUR
+currency: EUR
+price: 52.16
 comparePrice: 100 EUR
 inStock: true
+prodname: The North Face Recon Mochila  Unisex Adultos  Flag Blue Light/TNF White  One Size
 ---
 
 Tienes [The North Face Recon Mochila  Unisex Adultos  Flag Blue Light/TNF White  One Size](https://www.amazon.es/dp/B07DK1DB2M/?tag=tolees-21) con un 47.84 % de descuento con precio de oferta de 52.16 EUR (original: 100 EUR) en el siguiente enlace!

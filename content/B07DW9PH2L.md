@@ -10,8 +10,11 @@ author: ring
 slug: B07DW9PH2L
 description:
 actualPrice: 66.55 EUR
+currency: EUR
+price: 66.55
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Seagate Fast SSD de 250 GB  Unidad de Estado sólido Externa portátil  USB-C  USB 3.0 para PC  Ordenador portátil y Mac  STCM250400 
 ---
 
 Tienes [Seagate Fast SSD de 250 GB  Unidad de Estado sólido Externa portátil  USB-C  USB 3.0 para PC  Ordenador portátil y Mac  STCM250400 ](https://www.amazon.es/dp/B07DW9PH2L/?tag=tolees-21) con un 33.44 % de descuento con precio de oferta de 66.55 EUR (original: 99.99 EUR) en el siguiente enlace!

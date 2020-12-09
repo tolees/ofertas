@@ -10,8 +10,11 @@ author: ring
 slug: B07BSLPC5R
 description:
 actualPrice: 28.74 EUR
+currency: EUR
+price: 28.74
 comparePrice: 79 EUR
 inStock: true
+prodname: REPLAY M3666 .000.21842 Sudadera  Azul  Blue 85   Medium para Hombre
 ---
 
 Ahora mismo tienes [REPLAY M3666 .000.21842 Sudadera  Azul  Blue 85   Medium para Hombre](https://www.amazon.es/dp/B07BSLPC5R/?tag=tolees-21) a 28.74 EUR (original: 79 EUR) (63.62 %  de descuento) en el siguiente enlace!

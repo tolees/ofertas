@@ -10,8 +10,11 @@ author: ring
 slug: B00M1Q4COG
 description:
 actualPrice: 103.8 EUR
+currency: EUR
+price: 103.8
 comparePrice: 159 EUR
 inStock: true
+prodname: Siemens VS06B112A - Aspirador con bolsa  etiquetado energético BBED  motor highPower
 ---
 
 Tienes [Siemens VS06B112A - Aspirador con bolsa  etiquetado energético BBED  motor highPower](https://www.amazon.es/dp/B00M1Q4COG/?tag=tolees-21) con un 34.72 % de descuento con precio de oferta de 103.8 EUR (original: 159 EUR) en el siguiente enlace!

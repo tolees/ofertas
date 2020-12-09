@@ -10,8 +10,11 @@ author: ring
 slug: B07V1BXVKZ
 description:
 actualPrice: 8.37 EUR
+currency: EUR
+price: 8.37
 comparePrice: 13.95 EUR
 inStock: true
+prodname: Rouge Signature Metallics
 ---
 
 Tienes [Rouge Signature Metallics](https://www.amazon.es/dp/B07V1BXVKZ/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 8.37 EUR (original: 13.95 EUR) en el siguiente enlace!

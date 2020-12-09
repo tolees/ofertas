@@ -10,8 +10,11 @@ author: ring
 slug: B01BHS4RHA
 description:
 actualPrice: 199.99 EUR
+currency: EUR
+price: 199.99
 comparePrice: 400.0 EUR
 inStock: true
+prodname: Maclaren Twin Triumph Silla de paseo doble - ligera  de los 6 meses hasta los 50kg  encaja a través de la mayoría de las puertas  Capota extensible con UPF 50+
 ---
 
 Está [Maclaren Twin Triumph Silla de paseo doble - ligera  de los 6 meses hasta los 50kg  encaja a través de la mayoría de las puertas  Capota extensible con UPF 50+](https://www.amazon.es/dp/B01BHS4RHA/?tag=tolees-21) con 50.00 de descuento por 199.99 EUR (original: 400.0 EUR) en el siguiente enlace!

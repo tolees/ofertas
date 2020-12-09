@@ -10,16 +10,17 @@ author: ring
 slug: B000RZN4AG
 description:
 actualPrice: 4.74 EUR
+currency: EUR
+price: 4.74
 comparePrice: 8.5 EUR
 inStock: true
+prodname: TRIXIE Arnés-Bozal Guía Top Trainer M  27 cm  Perro
 ---
 
-Está [TRIXIE Arnés-Bozal Guía Top Trainer M  27 cm  Perro](https://www.amazon.es/dp/B000RZN4AG/?tag=tolees-21) con 44.24 de descuento por 4.74 EUR (original: 8.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [TRIXIE Arnés-Bozal Guía Top Trainer M  27 cm  Perro](https://www.amazon.es/dp/B000RZN4AG/?tag=tolees-21) a 4.74 EUR (original: 8.5 EUR) (44.24 %  de descuento) en el siguiente enlace!
 
 [![TRIXIE Arnés-Bozal Guía Top Trainer M  2](https://m.media-amazon.com/images/I/51xYGBHsyOL._SL200_.jpg)](https://www.amazon.es/dp/B000RZN4AG/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B000RZN4AG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B000RZN4AG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

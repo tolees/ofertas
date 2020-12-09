@@ -10,8 +10,11 @@ author: ring
 slug: B076CDQNPK
 description:
 actualPrice: 18.59 EUR
+currency: EUR
+price: 18.59
 comparePrice: 30.99 EUR
 inStock: true
+prodname: Hengwin Casual Bolso Bandolera Hombre Pequeño de Lona de Tela Bolsa de Viaje con Multiples Bolsillos  Negro
 ---
 
 Tienes [Hengwin Casual Bolso Bandolera Hombre Pequeño de Lona de Tela Bolsa de Viaje con Multiples Bolsillos  Negro](https://www.amazon.es/dp/B076CDQNPK/?tag=tolees-21) con un 40.01 % de descuento con precio de oferta de 18.59 EUR (original: 30.99 EUR) en el siguiente enlace!

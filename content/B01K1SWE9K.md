@@ -10,8 +10,11 @@ author: ring
 slug: B01K1SWE9K
 description:
 actualPrice: 69.0 EUR
+currency: EUR
+price: 69.0
 comparePrice: 149.0 EUR
 inStock: true
+prodname: Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable CH2600IE
 ---
 
 Está [Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxidable CH2600IE](https://www.amazon.es/dp/B01K1SWE9K/?tag=tolees-21) con 53.69 de descuento por 69.0 EUR (original: 149.0 EUR) en el siguiente enlace!

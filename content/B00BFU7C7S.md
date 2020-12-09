@@ -10,8 +10,11 @@ author: ring
 slug: B00BFU7C7S
 description:
 actualPrice: 10.34 EUR
+currency: EUR
+price: 10.34
 comparePrice: 61.44 EUR
 inStock: true
+prodname: James & Nicholson JN595  Sudadera  Hombre  Negro  Black/Carbon   Small
 ---
 
 Está [James & Nicholson JN595  Sudadera  Hombre  Negro  Black/Carbon   Small](https://www.amazon.es/dp/B00BFU7C7S/?tag=tolees-21) con 83.17 de descuento por 10.34 EUR (original: 61.44 EUR) en el siguiente enlace!

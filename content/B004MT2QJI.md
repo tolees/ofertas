@@ -10,8 +10,11 @@ author: ring
 slug: B004MT2QJI
 description:
 actualPrice: 155.04 EUR
+currency: EUR
+price: 155.04
 comparePrice: 227.58 EUR
 inStock: true
+prodname: Ray-Ban Aviator Gafas de sol  Gunmetal  62 para Hombre
 ---
 
 Está [Ray-Ban Aviator Gafas de sol  Gunmetal  62 para Hombre](https://www.amazon.es/dp/B004MT2QJI/?tag=tolees-21) con 31.87 de descuento por 155.04 EUR (original: 227.58 EUR) en el siguiente enlace!

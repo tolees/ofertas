@@ -10,8 +10,11 @@ author: ring
 slug: B078CRFCSC
 description:
 actualPrice: 20.1 EUR
+currency: EUR
+price: 20.1
 comparePrice: 80 EUR
 inStock: true
+prodname: Levi s Maya Top Blusa  Azul  Super Dark Authentic 2 0003   X-Small para Mujer
 ---
 
 Ahora mismo tienes [Levi s Maya Top Blusa  Azul  Super Dark Authentic 2 0003   X-Small para Mujer](https://www.amazon.es/dp/B078CRFCSC/?tag=tolees-21) a 20.1 EUR (original: 80 EUR) (74.88 %  de descuento) en el siguiente enlace!

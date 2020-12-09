@@ -10,8 +10,11 @@ author: ring
 slug: B002WGHYUY
 description:
 actualPrice: 37.8 EUR
+currency: EUR
+price: 37.8
 comparePrice: 59.0 EUR
 inStock: true
+prodname: Superga 2750 COTU Classic  Zapatillas Unisex  Red 975  35 EU
 ---
 
 Tienes [Superga 2750 COTU Classic  Zapatillas Unisex  Red 975  35 EU](https://www.amazon.es/dp/B002WGHYUY/?tag=tolees-21) con un 35.93 % de descuento con precio de oferta de 37.8 EUR (original: 59.0 EUR) en el siguiente enlace!

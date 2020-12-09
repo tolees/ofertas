@@ -10,8 +10,11 @@ author: ring
 slug: B07P83NNSH
 description:
 actualPrice: 23.14 EUR
+currency: EUR
+price: 23.14
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Toy Story Figura Jessie la Vaquera 35 cm  BIZAK 61234112 
 ---
 
 Tienes [Toy Story Figura Jessie la Vaquera 35 cm  BIZAK 61234112 ](https://www.amazon.es/dp/B07P83NNSH/?tag=tolees-21) con un 33.87 % de descuento con precio de oferta de 23.14 EUR (original: 34.99 EUR) en el siguiente enlace!

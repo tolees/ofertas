@@ -10,8 +10,11 @@ author: ring
 slug: B07W14BPNX
 description:
 actualPrice: 42.82 EUR
+currency: EUR
+price: 42.82
 comparePrice: 89.95 EUR
 inStock: true
+prodname: MARTINELLI Mocasín de Piel Pacific 1411
 ---
 
 Ahora mismo tienes [MARTINELLI Mocasín de Piel Pacific 1411](https://www.amazon.es/dp/B07W14BPNX/?tag=tolees-21) a 42.82 EUR (original: 89.95 EUR) (52.40 %  de descuento) en el siguiente enlace!

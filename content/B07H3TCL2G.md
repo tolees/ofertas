@@ -10,8 +10,11 @@ author: ring
 slug: B07H3TCL2G
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Zapatillas de Estar por casa Hombre Mujer Espuma de Memoria Cálido Comodidad Forro de Felpa Interior Antideslizante Pantuflas Negro  36/37EU 
 ---
 
 Ahora mismo tienes [Zapatillas de Estar por casa Hombre Mujer Espuma de Memoria Cálido Comodidad Forro de Felpa Interior Antideslizante Pantuflas Negro  36/37EU ](https://www.amazon.es/dp/B07H3TCL2G/?tag=tolees-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

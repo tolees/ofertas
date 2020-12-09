@@ -10,8 +10,11 @@ author: ring
 slug: B07RCP9Y4D
 description:
 actualPrice: 77.49 EUR
+currency: EUR
+price: 77.49
 comparePrice: 179.99 EUR
 inStock: true
+prodname: Columbia South Canyon Sherpa  Chaqueta impermeable forrada de Sherpa  Mujer  Marrón  Camel Brown  Talla S
 ---
 
 Está [Columbia South Canyon Sherpa  Chaqueta impermeable forrada de Sherpa  Mujer  Marrón  Camel Brown  Talla S](https://www.amazon.es/dp/B07RCP9Y4D/?tag=tolees-21) con 56.95 de descuento por 77.49 EUR (original: 179.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08CYFZ87M
 description:
 actualPrice: 20.0 EUR
+currency: EUR
+price: 20.0
 comparePrice: 26.94 EUR
 inStock: true
+prodname: Mimosín Collection Parfum Suavizante Nº 7  52 Lavados 870 ml - Pack de 6
 ---
 
 Tienes [Mimosín Collection Parfum Suavizante Nº 7  52 Lavados 870 ml - Pack de 6](https://www.amazon.es/dp/B08CYFZ87M/?tag=tolees-21) con un 25.76 % de descuento con precio de oferta de 20.0 EUR (original: 26.94 EUR) en el siguiente enlace!

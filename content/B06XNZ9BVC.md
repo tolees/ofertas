@@ -10,8 +10,11 @@ author: ring
 slug: B06XNZ9BVC
 description:
 actualPrice: 116.17 EUR
+currency: EUR
+price: 116.17
 comparePrice: 199.95 EUR
 inStock: true
+prodname: Desigual Abrig_Michelle  Verde  Kaki Oscuro 4086   44 para Mujer
 ---
 
 Ahora mismo tienes [Desigual Abrig_Michelle  Verde  Kaki Oscuro 4086   44 para Mujer](https://www.amazon.es/dp/B06XNZ9BVC/?tag=tolees-21) a 116.17 EUR (original: 199.95 EUR) (41.90 %  de descuento) en el siguiente enlace!

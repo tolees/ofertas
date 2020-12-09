@@ -10,8 +10,11 @@ author: ring
 slug: B079TPBQW9
 description:
 actualPrice: 6.19 EUR
+currency: EUR
+price: 6.19
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Only Onlhaya S/s Crab/Shark Top Box Jrs  Camiseta Mujer  Blanco  Bright White Print: Shark1   42  Talla del Fabricante: Large 
 ---
 
 Tienes [Only Onlhaya S/s Crab/Shark Top Box Jrs  Camiseta Mujer  Blanco  Bright White Print: Shark1   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B079TPBQW9/?tag=tolees-21) con un 52.35 % de descuento con precio de oferta de 6.19 EUR (original: 12.99 EUR) en el siguiente enlace!

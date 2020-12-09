@@ -10,8 +10,11 @@ author: ring
 slug: B07FZ2KCMM
 description:
 actualPrice: 22.47 EUR
+currency: EUR
+price: 22.47
 comparePrice: 41.2 EUR
 inStock: true
+prodname: Reebok Royal Complete CLN  Zapatillas de Deporte para Mujer   White/Twisted Pink 000   36.5 EU
 ---
 
 Está [Reebok Royal Complete CLN  Zapatillas de Deporte para Mujer   White/Twisted Pink 000   36.5 EU](https://www.amazon.es/dp/B07FZ2KCMM/?tag=tolees-21) con 45.46 de descuento por 22.47 EUR (original: 41.2 EUR) en el siguiente enlace!

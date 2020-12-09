@@ -10,8 +10,11 @@ author: ring
 slug: B003AMAB7M
 description:
 actualPrice: 26.95 EUR
+currency: EUR
+price: 26.95
 comparePrice: 40.62 EUR
 inStock: true
+prodname: Calvin Klein Trunk_0000U2662G  Bóxer para Hombre  Negro  Black 001   S  Pack de 3
 ---
 
 Ahora mismo tienes [Calvin Klein Trunk_0000U2662G  Bóxer para Hombre  Negro  Black 001   S  Pack de 3](https://www.amazon.es/dp/B003AMAB7M/?tag=tolees-21) a 26.95 EUR (original: 40.62 EUR) (33.65 %  de descuento) en el siguiente enlace!

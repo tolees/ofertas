@@ -10,8 +10,11 @@ author: ring
 slug: B01AS7C6UG
 description:
 actualPrice: 21.84 EUR
+currency: EUR
+price: 21.84
 comparePrice: 59.95 EUR
 inStock: true
+prodname: hummel Classic Bee Phi Pants  Hombre  Negro  S
 ---
 
 Tienes [hummel Classic Bee Phi Pants  Hombre  Negro  S](https://www.amazon.es/dp/B01AS7C6UG/?tag=tolees-21) con un 63.57 % de descuento con precio de oferta de 21.84 EUR (original: 59.95 EUR) en el siguiente enlace!

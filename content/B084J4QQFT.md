@@ -10,8 +10,11 @@ author: ring
 slug: B084J4QQFT
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Nuevo Echo Dot  4.ª generación  | Altavoz inteligente con Alexa | Azul grisáceo
 ---
 
 Está [Nuevo Echo Dot  4.ª generación  | Altavoz inteligente con Alexa | Azul grisáceo](https://www.amazon.es/dp/B084J4QQFT/?tag=tolees-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

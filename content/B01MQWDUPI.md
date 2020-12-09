@@ -10,8 +10,11 @@ author: ring
 slug: B01MQWDUPI
 description:
 actualPrice: 14.14 EUR
+currency: EUR
+price: 14.14
 comparePrice: 41.43 EUR
 inStock: true
+prodname: find. Chubasquero Largo con Estampado para Mujer   Azul  Blue Leaf Print   38  Talla del Fabricante: Small 
 ---
 
 Está [find. Chubasquero Largo con Estampado para Mujer   Azul  Blue Leaf Print   38  Talla del Fabricante: Small ](https://www.amazon.es/dp/B01MQWDUPI/?tag=tolees-21) con 65.87 de descuento por 14.14 EUR (original: 41.43 EUR) en el siguiente enlace!

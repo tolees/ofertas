@@ -10,8 +10,11 @@ author: ring
 slug: B00DBDT4E6
 description:
 actualPrice: 209 EUR
+currency: EUR
+price: 209
 comparePrice: 306.07 EUR
 inStock: true
+prodname: Samsung SL-M4020ND - Impresora láser
 ---
 
 Tienes [Samsung SL-M4020ND - Impresora láser](https://www.amazon.es/dp/B00DBDT4E6/?tag=tolees-21) con un 31.71 % de descuento con precio de oferta de 209 EUR (original: 306.07 EUR) en el siguiente enlace!

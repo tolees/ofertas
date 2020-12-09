@@ -10,8 +10,11 @@ author: ring
 slug: B07MLJLSZV
 description:
 actualPrice: 68.36 EUR
+currency: EUR
+price: 68.36
 comparePrice: 139.0 EUR
 inStock: true
+prodname: Kickers Mistic  Botas Clasicas Hombre  Marrón  Camel Perm 114   41 EU
 ---
 
 Ahora mismo tienes [Kickers Mistic  Botas Clasicas Hombre  Marrón  Camel Perm 114   41 EU](https://www.amazon.es/dp/B07MLJLSZV/?tag=tolees-21) a 68.36 EUR (original: 139.0 EUR) (50.82 %  de descuento) en el siguiente enlace!

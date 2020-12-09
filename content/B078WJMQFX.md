@@ -10,8 +10,11 @@ author: ring
 slug: B078WJMQFX
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 60 EUR
 inStock: true
+prodname: BILLABONG All Day X Print 18 Bañador  Hombre  Azul  Navy 21   Medium
 ---
 
 Ahora mismo tienes [BILLABONG All Day X Print 18 Bañador  Hombre  Azul  Navy 21   Medium](https://www.amazon.es/dp/B078WJMQFX/?tag=tolees-21) a 29.99 EUR (original: 60 EUR) (50.02 %  de descuento) en el siguiente enlace!

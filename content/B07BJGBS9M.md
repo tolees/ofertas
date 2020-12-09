@@ -10,8 +10,11 @@ author: ring
 slug: B07BJGBS9M
 description:
 actualPrice: 8.4 EUR
+currency: EUR
+price: 8.4
 comparePrice: 11.25 EUR
 inStock: true
+prodname: Dove Loción Hidronutrición Piel Normal - 3 Paquetes de 400 ml - Total: 1200 ml
 ---
 
 Ahora mismo tienes [Dove Loción Hidronutrición Piel Normal - 3 Paquetes de 400 ml - Total: 1200 ml](https://www.amazon.es/dp/B07BJGBS9M/?tag=tolees-21) a 8.4 EUR (original: 11.25 EUR) (25.33 %  de descuento) en el siguiente enlace!

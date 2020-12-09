@@ -10,8 +10,11 @@ author: ring
 slug: B00I3LUP7G
 description:
 actualPrice: 43.99 EUR
+currency: EUR
+price: 43.99
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Sony MDR-RF811RK - Auriculares de Diadema Cerrados Inalámbricos  Negro
 ---
 
 Ahora mismo tienes [Sony MDR-RF811RK - Auriculares de Diadema Cerrados Inalámbricos  Negro](https://www.amazon.es/dp/B00I3LUP7G/?tag=tolees-21) a 43.99 EUR (original: 60.0 EUR) (26.68 %  de descuento) en el siguiente enlace!

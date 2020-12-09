@@ -10,8 +10,11 @@ author: ring
 slug: B01GFZPRWO
 description:
 actualPrice: 7.98 EUR
+currency: EUR
+price: 7.98
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Ultrasport Fort Lauderdale Strood Polo  Hombre  Amarillo  S
 ---
 
 Ahora mismo tienes [Ultrasport Fort Lauderdale Strood Polo  Hombre  Amarillo  S](https://www.amazon.es/dp/B01GFZPRWO/?tag=tolees-21) a 7.98 EUR (original: 24.99 EUR) (68.07 %  de descuento) en el siguiente enlace!

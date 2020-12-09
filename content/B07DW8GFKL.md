@@ -10,8 +10,11 @@ author: ring
 slug: B07DW8GFKL
 description:
 actualPrice: 7.01 EUR
+currency: EUR
+price: 7.01
 comparePrice: 11.29 EUR
 inStock: true
+prodname: Gritin Auriculares Auriculares con Cable y Micrófono In Ear de Alta Sensibilidad Carcasa de Aluminio- Aislamiento de Ruido  Alta Definición para iPhone  Android con Toma de Auriculares de 3 5 mm
 ---
 
 Tienes [Gritin Auriculares Auriculares con Cable y Micrófono In Ear de Alta Sensibilidad Carcasa de Aluminio- Aislamiento de Ruido  Alta Definición para iPhone  Android con Toma de Auriculares de 3 5 mm](https://www.amazon.es/dp/B07DW8GFKL/?tag=tolees-21) con un 37.91 % de descuento con precio de oferta de 7.01 EUR (original: 11.29 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DLLHL2M
 description:
 actualPrice: 10.94 EUR
+currency: EUR
+price: 10.94
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Springfield 4.Fq.Camisa Cuadros Lace Blusa   Gama Azules 19    Tamaño del Fabricante:34  para Mujer
 ---
 
 Ahora mismo tienes [Springfield 4.Fq.Camisa Cuadros Lace Blusa   Gama Azules 19    Tamaño del Fabricante:34  para Mujer](https://www.amazon.es/dp/B07DLLHL2M/?tag=tolees-21) a 10.94 EUR (original: 26.99 EUR) (59.47 %  de descuento) en el siguiente enlace!

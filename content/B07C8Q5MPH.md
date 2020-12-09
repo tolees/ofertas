@@ -10,8 +10,11 @@ author: ring
 slug: B07C8Q5MPH
 description:
 actualPrice: 3 EUR
+currency: EUR
+price: 3
 comparePrice: 6.99 EUR
 inStock: true
+prodname: El efecto sombra [Blu-ray]
 ---
 
 Ahora mismo tienes [El efecto sombra [Blu-ray]](https://www.amazon.es/dp/B07C8Q5MPH/?tag=tolees-21) a 3 EUR (original: 6.99 EUR) (57.08 %  de descuento) en el siguiente enlace!

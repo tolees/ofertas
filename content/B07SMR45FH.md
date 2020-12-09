@@ -10,8 +10,11 @@ author: ring
 slug: B07SMR45FH
 description:
 actualPrice: 25.22 EUR
+currency: EUR
+price: 25.22
 comparePrice: 51.66 EUR
 inStock: true
+prodname: Magefesa K2 Lote 3 sartenes 20Ø24Ø28Ø  Fabricado en Acero vitrificado. Antiadherente bicapa Piedra Reforzado  Color Rojo Exterior. Válido para Todo Tipo de Fuegos Esmaltado
 ---
 
 Está [Magefesa K2 Lote 3 sartenes 20Ø24Ø28Ø  Fabricado en Acero vitrificado. Antiadherente bicapa Piedra Reforzado  Color Rojo Exterior. Válido para Todo Tipo de Fuegos Esmaltado](https://www.amazon.es/dp/B07SMR45FH/?tag=tolees-21) con 51.18 de descuento por 25.22 EUR (original: 51.66 EUR) en el siguiente enlace!

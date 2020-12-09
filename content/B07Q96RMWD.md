@@ -10,8 +10,11 @@ author: ring
 slug: B07Q96RMWD
 description:
 actualPrice: 24.0 EUR
+currency: EUR
+price: 24.0
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Far Cry New Dawn - Ultimate Edition  Bundle Far Cry New Dawn Deluxe + Far Cry 5 Gold 
 ---
 
 Tienes [Far Cry New Dawn - Ultimate Edition  Bundle Far Cry New Dawn Deluxe + Far Cry 5 Gold ](https://www.amazon.es/dp/B07Q96RMWD/?tag=tolees-21) con un 80.00 % de descuento con precio de oferta de 24.0 EUR (original: 119.99 EUR) en el siguiente enlace!

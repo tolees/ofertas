@@ -10,8 +10,11 @@ author: ring
 slug: B01NAGVAR0
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Epson C13T33444022 - Cartucho de tinta  standard  color amarillo
 ---
 
 Tienes [Epson C13T33444022 - Cartucho de tinta  standard  color amarillo](https://www.amazon.es/dp/B01NAGVAR0/?tag=tolees-21) con un 38.49 % de descuento con precio de oferta de 7.99 EUR (original: 12.99 EUR) en el siguiente enlace!

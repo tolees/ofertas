@@ -10,8 +10,11 @@ author: ring
 slug: B0117PYXCW
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 9.9 EUR
 inStock: true
+prodname: W7 The Cheeky Trío Paleta 3 en 1 con Bronceador  Colorete e Iluminador
 ---
 
 Está [W7 The Cheeky Trío Paleta 3 en 1 con Bronceador  Colorete e Iluminador](https://www.amazon.es/dp/B0117PYXCW/?tag=tolees-21) con 39.49 de descuento por 5.99 EUR (original: 9.9 EUR) en el siguiente enlace!

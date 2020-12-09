@@ -10,8 +10,11 @@ author: ring
 slug: B07LFXMKHW
 description:
 actualPrice: 13.69 EUR
+currency: EUR
+price: 13.69
 comparePrice: 22 EUR
 inStock: true
+prodname: Pepe Jeans RAKE KEMY  Chanclas para Mujer  Plateado  934SILVER 934   38 EU
 ---
 
 Ahora mismo tienes [Pepe Jeans RAKE KEMY  Chanclas para Mujer  Plateado  934SILVER 934   38 EU](https://www.amazon.es/dp/B07LFXMKHW/?tag=tolees-21) a 13.69 EUR (original: 22 EUR) (37.77 %  de descuento) en el siguiente enlace!

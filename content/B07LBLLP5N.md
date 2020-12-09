@@ -10,8 +10,11 @@ author: ring
 slug: B07LBLLP5N
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 29 EUR
 inStock: true
+prodname: Tommy Jeans TJM Circle Graphic tee Camiseta  Gris  Lt Grey Htr 038   L para Hombre
 ---
 
 Está [Tommy Jeans TJM Circle Graphic tee Camiseta  Gris  Lt Grey Htr 038   L para Hombre](https://www.amazon.es/dp/B07LBLLP5N/?tag=tolees-21) con 31.21 de descuento por 19.95 EUR (original: 29 EUR) en el siguiente enlace!

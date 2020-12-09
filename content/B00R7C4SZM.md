@@ -10,8 +10,11 @@ author: ring
 slug: B00R7C4SZM
 description:
 actualPrice: 11.75 EUR
+currency: EUR
+price: 11.75
 comparePrice: 18.03 EUR
 inStock: true
+prodname: Baron de Ley Gran Reserva Tinto Rioja - 1 botella 75 cl
 ---
 
 Está [Baron de Ley Gran Reserva Tinto Rioja - 1 botella 75 cl](https://www.amazon.es/dp/B00R7C4SZM/?tag=tolees-21) con 34.83 de descuento por 11.75 EUR (original: 18.03 EUR) en el siguiente enlace!

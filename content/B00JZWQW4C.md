@@ -10,8 +10,11 @@ author: ring
 slug: B00JZWQW4C
 description:
 actualPrice: 39.95 EUR
+currency: EUR
+price: 39.95
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Linksys EA6350-EJ - Router inalámbrico Smart Wi-Fi de Doble Banda AC1200+  4 Puertos Gigabit Ethernet  1 Puerto USB 3.0  Control Parental 2 4 + 5 GHz   Negro
 ---
 
 Tienes [Linksys EA6350-EJ - Router inalámbrico Smart Wi-Fi de Doble Banda AC1200+  4 Puertos Gigabit Ethernet  1 Puerto USB 3.0  Control Parental 2 4 + 5 GHz   Negro](https://www.amazon.es/dp/B00JZWQW4C/?tag=tolees-21) con un 60.05 % de descuento con precio de oferta de 39.95 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DBXQGKS
 description:
 actualPrice: 34.48 EUR
+currency: EUR
+price: 34.48
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Puma Adela  Zapatillas para Mujer  Rosa Peach Bud  37 EU
 ---
 
 Está [Puma Adela  Zapatillas para Mujer  Rosa Peach Bud  37 EU](https://www.amazon.es/dp/B07DBXQGKS/?tag=tolees-21) con 42.49 de descuento por 34.48 EUR (original: 59.95 EUR) en el siguiente enlace!

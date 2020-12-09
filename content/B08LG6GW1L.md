@@ -10,8 +10,11 @@ author: ring
 slug: B08LG6GW1L
 description:
 actualPrice: 18.59 EUR
+currency: EUR
+price: 18.59
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Adaptador Bluetooth 5.0 Jack USB Transmisor Receptor 3 en 1 con Llamada Manos Libres Inalambricos Conexión FM Audio Baja Latencia para TV PC MP3 Coche Tablet Altavoz Estéreo
 ---
 
 Ahora mismo tienes [Adaptador Bluetooth 5.0 Jack USB Transmisor Receptor 3 en 1 con Llamada Manos Libres Inalambricos Conexión FM Audio Baja Latencia para TV PC MP3 Coche Tablet Altavoz Estéreo](https://www.amazon.es/dp/B08LG6GW1L/?tag=tolees-21) a 18.59 EUR (original: 29.99 EUR) (38.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FT2KT6W
 description:
 actualPrice: 22.46 EUR
+currency: EUR
+price: 22.46
 comparePrice: 69.99 EUR
 inStock: true
+prodname: SELECTED HOMME Slhslim-Carlo Pants B Noos  Pantalones Hombre  Negro  Black Black   W29/L32
 ---
 
 Está [SELECTED HOMME Slhslim-Carlo Pants B Noos  Pantalones Hombre  Negro  Black Black   W29/L32](https://www.amazon.es/dp/B07FT2KT6W/?tag=tolees-21) con 67.91 de descuento por 22.46 EUR (original: 69.99 EUR) en el siguiente enlace!

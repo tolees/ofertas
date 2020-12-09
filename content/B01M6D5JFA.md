@@ -10,8 +10,11 @@ author: ring
 slug: B01M6D5JFA
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 78 EUR
 inStock: true
+prodname: ENUOTEK Lampara Linterna de Trabajo de COB LED 3W y 3W Recargable Portatil Muy Potente con Imanes Potentes y Dos Ganchos Bateria de Litio 2200mAh
 ---
 
 Ahora mismo tienes [ENUOTEK Lampara Linterna de Trabajo de COB LED 3W y 3W Recargable Portatil Muy Potente con Imanes Potentes y Dos Ganchos Bateria de Litio 2200mAh](https://www.amazon.es/dp/B01M6D5JFA/?tag=tolees-21) a 38.99 EUR (original: 78 EUR) (50.01 %  de descuento) en el siguiente enlace!

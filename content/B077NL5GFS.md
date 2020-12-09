@@ -10,8 +10,11 @@ author: ring
 slug: B077NL5GFS
 description:
 actualPrice: 29.82 EUR
+currency: EUR
+price: 29.82
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Lee Rider Jeans Vaqueros Slim  Azul  Kick It Cdpf   28W / 32L para Hombre
 ---
 
 Tienes [Lee Rider Jeans Vaqueros Slim  Azul  Kick It Cdpf   28W / 32L para Hombre](https://www.amazon.es/dp/B077NL5GFS/?tag=tolees-21) con un 70.17 % de descuento con precio de oferta de 29.82 EUR (original: 99.95 EUR) en el siguiente enlace!

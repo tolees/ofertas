@@ -10,8 +10,11 @@ author: ring
 slug: B01ET8FLRU
 description:
 actualPrice: 137.94 EUR
+currency: EUR
+price: 137.94
 comparePrice: 189 EUR
 inStock: true
+prodname: Star Ibaby Noa - Trona de bebes evolutiva plegable  color azul
 ---
 
 Está [Star Ibaby Noa - Trona de bebes evolutiva plegable  color azul](https://www.amazon.es/dp/B01ET8FLRU/?tag=tolees-21) con 27.02 de descuento por 137.94 EUR (original: 189 EUR) en el siguiente enlace!

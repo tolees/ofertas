@@ -10,8 +10,11 @@ author: ring
 slug: B07KWPX2QB
 description:
 actualPrice: 20.0 EUR
+currency: EUR
+price: 20.0
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Helly Hansen Tokyo T-Shirt  Hombre  White  M
 ---
 
 Está [Helly Hansen Tokyo T-Shirt  Hombre  White  M](https://www.amazon.es/dp/B07KWPX2QB/?tag=tolees-21) con 33.33 de descuento por 20.0 EUR (original: 30.0 EUR) en el siguiente enlace!

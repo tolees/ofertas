@@ -10,8 +10,11 @@ author: ring
 slug: B00BN8WODE
 description:
 actualPrice: 5.2 EUR
+currency: EUR
+price: 5.2
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Chicco- Big & Small Juego Libro 1-2-3  00072376000000 
 ---
 
 Tienes [Chicco- Big & Small Juego Libro 1-2-3  00072376000000 ](https://www.amazon.es/dp/B00BN8WODE/?tag=tolees-21) con un 65.31 % de descuento con precio de oferta de 5.2 EUR (original: 14.99 EUR) en el siguiente enlace!

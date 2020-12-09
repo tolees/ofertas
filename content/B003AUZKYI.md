@@ -10,8 +10,11 @@ author: ring
 slug: B003AUZKYI
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 8.69 EUR
 inStock: true
+prodname: Logitech M90 Ratón con Cable USB  Seguimiento Óptico 1000 DPI  Ambidiestro  PC/Mac/Portátil - Negro
 ---
 
 Ahora mismo tienes [Logitech M90 Ratón con Cable USB  Seguimiento Óptico 1000 DPI  Ambidiestro  PC/Mac/Portátil - Negro](https://www.amazon.es/dp/B003AUZKYI/?tag=tolees-21) a 5.99 EUR (original: 8.69 EUR) (31.07 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07XZJWFDY
 description:
 actualPrice: 7.31 EUR
+currency: EUR
+price: 7.31
 comparePrice: 11.99 EUR
 inStock: true
+prodname: MOULLY 6Pcs Discos Desmaquillantes Reutilizables  Algodón Desmaquillantes Lavado y Ecologicos  Almohadillas Desmaquillantes Facial Reutilizables  Makeup Remover Pads para la Limpieza y desmaquillante
 ---
 
 Está [MOULLY 6Pcs Discos Desmaquillantes Reutilizables  Algodón Desmaquillantes Lavado y Ecologicos  Almohadillas Desmaquillantes Facial Reutilizables  Makeup Remover Pads para la Limpieza y desmaquillante](https://www.amazon.es/dp/B07XZJWFDY/?tag=tolees-21) con 39.03 de descuento por 7.31 EUR (original: 11.99 EUR) en el siguiente enlace!

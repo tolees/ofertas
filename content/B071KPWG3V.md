@@ -10,8 +10,11 @@ author: ring
 slug: B071KPWG3V
 description:
 actualPrice: 24.75 EUR
+currency: EUR
+price: 24.75
 comparePrice: 55 EUR
 inStock: true
+prodname: FIND Mocasines Clásicos para Hombre  Rojo  Burgundy   47 EU
 ---
 
 Está [FIND Mocasines Clásicos para Hombre  Rojo  Burgundy   47 EU](https://www.amazon.es/dp/B071KPWG3V/?tag=tolees-21) con 55.00 de descuento por 24.75 EUR (original: 55 EUR) en el siguiente enlace!

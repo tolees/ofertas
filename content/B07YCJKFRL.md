@@ -10,8 +10,11 @@ author: ring
 slug: B07YCJKFRL
 description:
 actualPrice: 8.84 EUR
+currency: EUR
+price: 8.84
 comparePrice: 12.71 EUR
 inStock: true
+prodname: FIND Shoe Boot Botas Camperas  Azul  Blue Croc   36 EU
 ---
 
 Tienes [FIND Shoe Boot Botas Camperas  Azul  Blue Croc   36 EU](https://www.amazon.es/dp/B07YCJKFRL/?tag=tolees-21) con un 30.45 % de descuento con precio de oferta de 8.84 EUR (original: 12.71 EUR) en el siguiente enlace!

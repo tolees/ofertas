@@ -10,8 +10,11 @@ author: ring
 slug: B07DZ5NVS8
 description:
 actualPrice: 53.91 EUR
+currency: EUR
+price: 53.91
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Columbia Lake 22 Down Jacket Chaqueta  Hombre  Dark Mountain  Talla XL
 ---
 
 Está [Columbia Lake 22 Down Jacket Chaqueta  Hombre  Dark Mountain  Talla XL](https://www.amazon.es/dp/B07DZ5NVS8/?tag=tolees-21) con 55.07 de descuento por 53.91 EUR (original: 119.99 EUR) en el siguiente enlace!

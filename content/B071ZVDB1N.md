@@ -10,8 +10,11 @@ author: ring
 slug: B071ZVDB1N
 description:
 actualPrice: 21.58 EUR
+currency: EUR
+price: 21.58
 comparePrice: 44.95 EUR
 inStock: true
+prodname: Puma Engine Jr  Zapatillas para Niños  Naranja  Nrgy Peach-black   38.5 EU
 ---
 
 Ahora mismo tienes [Puma Engine Jr  Zapatillas para Niños  Naranja  Nrgy Peach-black   38.5 EU](https://www.amazon.es/dp/B071ZVDB1N/?tag=tolees-21) a 21.58 EUR (original: 44.95 EUR) (51.99 %  de descuento) en el siguiente enlace!

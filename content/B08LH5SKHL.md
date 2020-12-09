@@ -10,8 +10,11 @@ author: ring
 slug: B08LH5SKHL
 description:
 actualPrice: 10.99 EUR
+currency: EUR
+price: 10.99
 comparePrice: 19.78 EUR
 inStock: true
+prodname: Blesiya Auriculares inalámbricos  Auriculares Bluetooth 5 0 HI-FI Estéreo con Pantalla LED  HD micrófono y Caja de Carga Portátil  Control Tactil  Impermeable In-Ear Auriculares para Deporte - Azul
 ---
 
 Está [Blesiya Auriculares inalámbricos  Auriculares Bluetooth 5 0 HI-FI Estéreo con Pantalla LED  HD micrófono y Caja de Carga Portátil  Control Tactil  Impermeable In-Ear Auriculares para Deporte - Azul](https://www.amazon.es/dp/B08LH5SKHL/?tag=tolees-21) con 44.44 de descuento por 10.99 EUR (original: 19.78 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TMRK52D
 description:
 actualPrice: 31.13 EUR
+currency: EUR
+price: 31.13
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Clarks Un Rio Step  Zapatillas sin Cordones  Azul  Navy Leather Navy Leather   35.5 EU
 ---
 
 Tienes [Clarks Un Rio Step  Zapatillas sin Cordones  Azul  Navy Leather Navy Leather   35.5 EU](https://www.amazon.es/dp/B07TMRK52D/?tag=tolees-21) con un 71.70 % de descuento con precio de oferta de 31.13 EUR (original: 110.0 EUR) en el siguiente enlace!

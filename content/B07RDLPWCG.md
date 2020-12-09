@@ -10,8 +10,11 @@ author: ring
 slug: B07RDLPWCG
 description:
 actualPrice: 48.56 EUR
+currency: EUR
+price: 48.56
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Salomon Sense Feel GTX W  Zapatillas de Running para Asfalto para Mujer  Azul  Icy Morn/White/Black   37 1/3 EU
 ---
 
 Tienes [Salomon Sense Feel GTX W  Zapatillas de Running para Asfalto para Mujer  Azul  Icy Morn/White/Black   37 1/3 EU](https://www.amazon.es/dp/B07RDLPWCG/?tag=tolees-21) con un 51.44 % de descuento con precio de oferta de 48.56 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FMJ29WM
 description:
 actualPrice: 14.6 EUR
+currency: EUR
+price: 14.6
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Quiksilver Mission Guantes  Niños  Negro  Construct   M
 ---
 
 Está [Quiksilver Mission Guantes  Niños  Negro  Construct   M](https://www.amazon.es/dp/B07FMJ29WM/?tag=tolees-21) con 63.49 de descuento por 14.6 EUR (original: 39.99 EUR) en el siguiente enlace!

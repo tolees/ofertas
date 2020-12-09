@@ -10,8 +10,11 @@ author: ring
 slug: B07DYXGTLY
 description:
 actualPrice: 130.89 EUR
+currency: EUR
+price: 130.89
 comparePrice: 249.99 EUR
 inStock: true
+prodname: Columbia Chaqueta impermeable para mujer  Snow Dream Jacket  Poliéster  Gris  Cirrus Grey Hthr/Cactus Pink   Talla S  1748341
 ---
 
 Está [Columbia Chaqueta impermeable para mujer  Snow Dream Jacket  Poliéster  Gris  Cirrus Grey Hthr/Cactus Pink   Talla S  1748341](https://www.amazon.es/dp/B07DYXGTLY/?tag=tolees-21) con 47.64 de descuento por 130.89 EUR (original: 249.99 EUR) en el siguiente enlace!

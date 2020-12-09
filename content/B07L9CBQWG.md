@@ -10,8 +10,11 @@ author: ring
 slug: B07L9CBQWG
 description:
 actualPrice: 189.99 EUR
+currency: EUR
+price: 189.99
 comparePrice: 272.0 EUR
 inStock: true
+prodname: ROYAL SLEEP Colchón viscoelástico Carbono 150x190 firmeza Alta  Gama Alta  Efecto regenerador  Altura 25cm - Colchones Ceramic Plus
 ---
 
 Ahora mismo tienes [ROYAL SLEEP Colchón viscoelástico Carbono 150x190 firmeza Alta  Gama Alta  Efecto regenerador  Altura 25cm - Colchones Ceramic Plus](https://www.amazon.es/dp/B07L9CBQWG/?tag=tolees-21) a 189.99 EUR (original: 272.0 EUR) (30.15 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B074LZSV1G
 description:
 actualPrice: 20.24 EUR
+currency: EUR
+price: 20.24
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Artisware Bamboo Organizador del cajón Extensible  Cubiertos y Bandeja utensilio  7 Compartimentos Ampliable 
 ---
 
 Ahora mismo tienes [Artisware Bamboo Organizador del cajón Extensible  Cubiertos y Bandeja utensilio  7 Compartimentos Ampliable ](https://www.amazon.es/dp/B074LZSV1G/?tag=tolees-21) a 20.24 EUR (original: 26.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

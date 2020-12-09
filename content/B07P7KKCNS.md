@@ -10,8 +10,11 @@ author: ring
 slug: B07P7KKCNS
 description:
 actualPrice: 51.34 EUR
+currency: EUR
+price: 51.34
 comparePrice: 69.99 EUR
 inStock: true
+prodname: PLAYMOBIL: THE MOVIE Porsche Mission E y Rex Dasher  a Partir de 5 Años  70078 
 ---
 
 Ahora mismo tienes [PLAYMOBIL: THE MOVIE Porsche Mission E y Rex Dasher  a Partir de 5 Años  70078 ](https://www.amazon.es/dp/B07P7KKCNS/?tag=tolees-21) a 51.34 EUR (original: 69.99 EUR) (26.65 %  de descuento) en el siguiente enlace!

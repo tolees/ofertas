@@ -10,8 +10,11 @@ author: ring
 slug: B007FATRLG
 description:
 actualPrice: 52.56 EUR
+currency: EUR
+price: 52.56
 comparePrice: 78.46 EUR
 inStock: true
+prodname: Westinghouse Portland Ambiance Ventilador de Techo E27  60 W  Acabado en cromo con aspas reversibles en blanco/negro
 ---
 
 Ahora mismo tienes [Westinghouse Portland Ambiance Ventilador de Techo E27  60 W  Acabado en cromo con aspas reversibles en blanco/negro](https://www.amazon.es/dp/B007FATRLG/?tag=tolees-21) a 52.56 EUR (original: 78.46 EUR) (33.01 %  de descuento) en el siguiente enlace!

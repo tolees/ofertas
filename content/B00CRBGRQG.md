@@ -10,8 +10,11 @@ author: ring
 slug: B00CRBGRQG
 description:
 actualPrice: 9.08 EUR
+currency: EUR
+price: 9.08
 comparePrice: 30.2 EUR
 inStock: true
+prodname: Derbystar Funktionsshirt Lang - Top de Manga Larga de Running para Hombre  Color Rojo  Talla 2XL
 ---
 
 Está [Derbystar Funktionsshirt Lang - Top de Manga Larga de Running para Hombre  Color Rojo  Talla 2XL](https://www.amazon.es/dp/B00CRBGRQG/?tag=tolees-21) con 69.93 de descuento por 9.08 EUR (original: 30.2 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00JR2W4NI
 description:
 actualPrice: 12.29 EUR
+currency: EUR
+price: 12.29
 comparePrice: 35 EUR
 inStock: true
+prodname: Harry Potter Friends  Camiseta para Mujer  Black  Large
 ---
 
 Está [Harry Potter Friends  Camiseta para Mujer  Black  Large](https://www.amazon.es/dp/B00JR2W4NI/?tag=tolees-21) con 64.89 de descuento por 12.29 EUR (original: 35 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FV53PZZ
 description:
 actualPrice: 55.99 EUR
+currency: EUR
+price: 55.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Monix Resistent Plus Batería De Cocina De 5 Piezas Y Lote De 2 Sartenes  Aluminio  Negro
 ---
 
 Tienes [Monix Resistent Plus Batería De Cocina De 5 Piezas Y Lote De 2 Sartenes  Aluminio  Negro](https://www.amazon.es/dp/B07FV53PZZ/?tag=tolees-21) con un 44.00 % de descuento con precio de oferta de 55.99 EUR (original: 99.99 EUR) en el siguiente enlace!

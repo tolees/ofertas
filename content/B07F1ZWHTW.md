@@ -10,8 +10,11 @@ author: ring
 slug: B07F1ZWHTW
 description:
 actualPrice: 31.43 EUR
+currency: EUR
+price: 31.43
 comparePrice: 65 EUR
 inStock: true
+prodname: Timberland Newport Bay Canvas  Zapatillas para Hombre  Marrón  Burnt Brick Das   45.5 EU
 ---
 
 Tienes [Timberland Newport Bay Canvas  Zapatillas para Hombre  Marrón  Burnt Brick Das   45.5 EU](https://www.amazon.es/dp/B07F1ZWHTW/?tag=tolees-21) con un 51.65 % de descuento con precio de oferta de 31.43 EUR (original: 65 EUR) en el siguiente enlace!

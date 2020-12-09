@@ -10,8 +10,11 @@ author: ring
 slug: B07TS9Q7TT
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.49 EUR
 inStock: true
+prodname: Tetera De Acero Inoxidable  Hervidor De Té  Agua Hirviendo  Té  Café  Para Cocina De Inducción  Utensilios De Cocina  Plata  0.8 L  2 Colores A Elegir - Plata
 ---
 
 Está [Tetera De Acero Inoxidable  Hervidor De Té  Agua Hirviendo  Té  Café  Para Cocina De Inducción  Utensilios De Cocina  Plata  0.8 L  2 Colores A Elegir - Plata](https://www.amazon.es/dp/B07TS9Q7TT/?tag=tolees-21) con 33.35 de descuento por 12.99 EUR (original: 19.49 EUR) en el siguiente enlace!

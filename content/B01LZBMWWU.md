@@ -10,8 +10,11 @@ author: ring
 slug: B01LZBMWWU
 description:
 actualPrice: 310.84 EUR
+currency: EUR
+price: 310.84
 comparePrice: 529 EUR
 inStock: true
+prodname: Pioneer N-30AE-S - Network Media Player  Reproductor de CD  Reproductor de Red  Radio Digital y por Internet   Color Blanco
 ---
 
 Ahora mismo tienes [Pioneer N-30AE-S - Network Media Player  Reproductor de CD  Reproductor de Red  Radio Digital y por Internet   Color Blanco](https://www.amazon.es/dp/B01LZBMWWU/?tag=tolees-21) a 310.84 EUR (original: 529 EUR) (41.24 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07YFCP7M3
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 61.44 EUR
 inStock: true
+prodname: HIP TEC Kit de reparación de abolladuras sin pintura  kit de extractor de abolladuras de puente  barra en T corta con pistola de pegamento y barras de pegamento
 ---
 
 Tienes [HIP TEC Kit de reparación de abolladuras sin pintura  kit de extractor de abolladuras de puente  barra en T corta con pistola de pegamento y barras de pegamento](https://www.amazon.es/dp/B07YFCP7M3/?tag=tolees-21) con un 34.91 % de descuento con precio de oferta de 39.99 EUR (original: 61.44 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07N4MQBWW
 description:
 actualPrice: 6.87 EUR
+currency: EUR
+price: 6.87
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Esprit 039EE2K017 Camiseta  Blanco  Off White 110   M para Hombre
 ---
 
 Tienes [Esprit 039EE2K017 Camiseta  Blanco  Off White 110   M para Hombre](https://www.amazon.es/dp/B07N4MQBWW/?tag=tolees-21) con un 65.63 % de descuento con precio de oferta de 6.87 EUR (original: 19.99 EUR) en el siguiente enlace!

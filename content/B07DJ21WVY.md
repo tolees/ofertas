@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ21WVY
 description:
 actualPrice: 51.0 EUR
+currency: EUR
+price: 51.0
 comparePrice: 80.0 EUR
 inStock: true
+prodname: New Balance 247v1  Zapatillas Hombre  Azul  Outerspace/Silver Oh   37 EU
 ---
 
 Está [New Balance 247v1  Zapatillas Hombre  Azul  Outerspace/Silver Oh   37 EU](https://www.amazon.es/dp/B07DJ21WVY/?tag=tolees-21) con 36.25 de descuento por 51.0 EUR (original: 80.0 EUR) en el siguiente enlace!

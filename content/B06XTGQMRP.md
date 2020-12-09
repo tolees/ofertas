@@ -10,8 +10,11 @@ author: ring
 slug: B06XTGQMRP
 description:
 actualPrice: 36.9 EUR
+currency: EUR
+price: 36.9
 comparePrice: 69.9 EUR
 inStock: true
+prodname: MyWave Capri - Batidora Americana de Vaso 1000 W  Prefunción de Autolimpieza  Jarra de 1 5 L - Acero Inoxidable
 ---
 
 Tienes [MyWave Capri - Batidora Americana de Vaso 1000 W  Prefunción de Autolimpieza  Jarra de 1 5 L - Acero Inoxidable](https://www.amazon.es/dp/B06XTGQMRP/?tag=tolees-21) con un 47.21 % de descuento con precio de oferta de 36.9 EUR (original: 69.9 EUR) en el siguiente enlace!

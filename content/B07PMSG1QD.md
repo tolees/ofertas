@@ -10,8 +10,11 @@ author: ring
 slug: B07PMSG1QD
 description:
 actualPrice: 82.45 EUR
+currency: EUR
+price: 82.45
 comparePrice: 109.95 EUR
 inStock: true
+prodname: PIKOLINOS Deportivo de Piel Sella W6Z
 ---
 
 Ahora mismo tienes [PIKOLINOS Deportivo de Piel Sella W6Z](https://www.amazon.es/dp/B07PMSG1QD/?tag=tolees-21) a 82.45 EUR (original: 109.95 EUR) (25.01 %  de descuento) en el siguiente enlace!

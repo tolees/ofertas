@@ -10,8 +10,11 @@ author: ring
 slug: B07YVNM1WX
 description:
 actualPrice: 44.99 EUR
+currency: EUR
+price: 44.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: TP-Link Archer TX3000E - Tarjeta Wi-Fi PCI Express Adaptador Wi-Fi 6  AX3000  con Bluetooth 5.0
 ---
 
 Tienes [TP-Link Archer TX3000E - Tarjeta Wi-Fi PCI Express Adaptador Wi-Fi 6  AX3000  con Bluetooth 5.0](https://www.amazon.es/dp/B07YVNM1WX/?tag=tolees-21) con un 35.72 % de descuento con precio de oferta de 44.99 EUR (original: 69.99 EUR) en el siguiente enlace!

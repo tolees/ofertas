@@ -10,8 +10,11 @@ author: ring
 slug: B08G1YSHGQ
 description:
 actualPrice: 12.49 EUR
+currency: EUR
+price: 12.49
 comparePrice: 16.75 EUR
 inStock: true
+prodname: NGS Allure Kit - Conjunto de Teclado y Ratón Inalámbricos 2 4 GHz. Ratón ambidiestros  1200 dpi scroll y 2 botones. Teclado Plug &Play  12 teclas multimedia  de perfil bajo  diseño completo.
 ---
 
 Tienes [NGS Allure Kit - Conjunto de Teclado y Ratón Inalámbricos 2 4 GHz. Ratón ambidiestros  1200 dpi scroll y 2 botones. Teclado Plug &Play  12 teclas multimedia  de perfil bajo  diseño completo.](https://www.amazon.es/dp/B08G1YSHGQ/?tag=tolees-21) con un 25.43 % de descuento con precio de oferta de 12.49 EUR (original: 16.75 EUR) en el siguiente enlace!

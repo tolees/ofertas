@@ -10,8 +10,11 @@ author: ring
 slug: B01AK7IHNO
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 21.9 EUR
 inStock: true
+prodname: Wilkinson Sword Hydro 5 Sensitive - Recambio de Cuchillas de Afeitar de 5 Hojas para Hombres con Piel Sensible  Banda Lubricante Extra Hidratante  8 Unidades
 ---
 
 Está [Wilkinson Sword Hydro 5 Sensitive - Recambio de Cuchillas de Afeitar de 5 Hojas para Hombres con Piel Sensible  Banda Lubricante Extra Hidratante  8 Unidades](https://www.amazon.es/dp/B01AK7IHNO/?tag=tolees-21) con 36.12 de descuento por 13.99 EUR (original: 21.9 EUR) en el siguiente enlace!

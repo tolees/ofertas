@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 44.26 % en Lacoste PH4012  Polo Para Hombre  Negro '
+title: 'Lacoste PH4012  Polo Para Hombre  Negro  al 44.26 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31H3CsHweAL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31H3CsHweAL._SL200_.jpg' ]
@@ -10,15 +10,18 @@ author: ring
 slug: B00Y4XVP0S
 description:
 actualPrice: 52.95 EUR
+currency: EUR
+price: 52.95
 comparePrice: 95 EUR
 inStock: true
+prodname: Lacoste PH4012  Polo Para Hombre  Negro  Noir   X-Large  Talla del fabricante: 6 
 ---
 
-Tienes [Lacoste PH4012  Polo Para Hombre  Negro  Noir   X-Large  Talla del fabricante: 6 ](https://www.amazon.es/dp/B00Y4XVP0S/?tag=tolees-21) con un 44.26 % de descuento con precio de oferta de 52.95 EUR (original: 95 EUR) en el siguiente enlace!
+Está [Lacoste PH4012  Polo Para Hombre  Negro  Noir   X-Large  Talla del fabricante: 6 ](https://www.amazon.es/dp/B00Y4XVP0S/?tag=tolees-21) con 44.26 de descuento por 52.95 EUR (original: 95 EUR) en el siguiente enlace!
 
 [![Lacoste PH4012  Polo Para Hombre  Negro ](https://images-eu.ssl-images-amazon.com/images/I/31H3CsHweAL._SL200_.jpg)](https://www.amazon.es/dp/B00Y4XVP0S/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B00Y4XVP0S/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00Y4XVP0S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

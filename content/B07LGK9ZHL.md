@@ -10,8 +10,11 @@ author: ring
 slug: B07LGK9ZHL
 description:
 actualPrice: 14.14 EUR
+currency: EUR
+price: 14.14
 comparePrice: 28.33 EUR
 inStock: true
+prodname: New Look 6061870-Vestido Mujer Rojo Red  Light Burgandy 65  36 ES
 ---
 
 Tienes [New Look 6061870-Vestido Mujer Rojo Red  Light Burgandy 65  36 ES](https://www.amazon.es/dp/B07LGK9ZHL/?tag=tolees-21) con un 50.09 % de descuento con precio de oferta de 14.14 EUR (original: 28.33 EUR) en el siguiente enlace!

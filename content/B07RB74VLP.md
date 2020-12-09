@@ -10,8 +10,11 @@ author: ring
 slug: B07RB74VLP
 description:
 actualPrice: 35.84 EUR
+currency: EUR
+price: 35.84
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Star Wars - Electronic Mask Rp E9  Hasbro E5547EU4 
 ---
 
 Tienes [Star Wars - Electronic Mask Rp E9  Hasbro E5547EU4 ](https://www.amazon.es/dp/B07RB74VLP/?tag=tolees-21) con un 28.31 % de descuento con precio de oferta de 35.84 EUR (original: 49.99 EUR) en el siguiente enlace!

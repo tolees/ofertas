@@ -10,8 +10,11 @@ author: ring
 slug: B07CWKFCD7
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 21.95 EUR
 inStock: true
+prodname: Dead Man´S Finger Spiced Rum - 700 ml
 ---
 
 Está [Dead Man´S Finger Spiced Rum - 700 ml](https://www.amazon.es/dp/B07CWKFCD7/?tag=tolees-21) con 36.45 de descuento por 13.95 EUR (original: 21.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00BYVGGO8
 description:
 actualPrice: 26.41 EUR
+currency: EUR
+price: 26.41
 comparePrice: 86.4 EUR
 inStock: true
+prodname: Gran Coronas Reserva  Vino Tinto  6 botellas de 75 cl - Total: 450 cl
 ---
 
 Ahora mismo tienes [Gran Coronas Reserva  Vino Tinto  6 botellas de 75 cl - Total: 450 cl](https://www.amazon.es/dp/B00BYVGGO8/?tag=tolees-21) a 26.41 EUR (original: 86.4 EUR) (69.43 %  de descuento) en el siguiente enlace!

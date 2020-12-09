@@ -10,8 +10,11 @@ author: ring
 slug: B06XBYPLR2
 description:
 actualPrice: 6.5 EUR
+currency: EUR
+price: 6.5
 comparePrice: 21.17 EUR
 inStock: true
+prodname: Paterson [Blu-ray]
 ---
 
 Está [Paterson [Blu-ray]](https://www.amazon.es/dp/B06XBYPLR2/?tag=tolees-21) con 69.30 de descuento por 6.5 EUR (original: 21.17 EUR) en el siguiente enlace!

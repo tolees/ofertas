@@ -10,8 +10,11 @@ author: ring
 slug: B07TKS2GLN
 description:
 actualPrice: 12.93 EUR
+currency: EUR
+price: 12.93
 comparePrice: 18.33 EUR
 inStock: true
+prodname: OPAKY Vestido para Mujer  Vestidos Mujer Casual Verano 2019 Camisa con Cuello en V Vestido Bohemio con Estampado Floral con Volantes A Mini Vestido de Playa en Línea Ropa de Mujer en Oferta
 ---
 
 Tienes [OPAKY Vestido para Mujer  Vestidos Mujer Casual Verano 2019 Camisa con Cuello en V Vestido Bohemio con Estampado Floral con Volantes A Mini Vestido de Playa en Línea Ropa de Mujer en Oferta](https://www.amazon.es/dp/B07TKS2GLN/?tag=tolees-21) con un 29.46 % de descuento con precio de oferta de 12.93 EUR (original: 18.33 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DCBS25V
 description:
 actualPrice: 34.95 EUR
+currency: EUR
+price: 34.95
 comparePrice: 116.67 EUR
 inStock: true
+prodname: Puma AVID NU Knit  Zapatillas Unisex Adulto  Gris  Glacier Gray-Indigo Bunting   42.5 EU
 ---
 
 Está [Puma AVID NU Knit  Zapatillas Unisex Adulto  Gris  Glacier Gray-Indigo Bunting   42.5 EU](https://www.amazon.es/dp/B07DCBS25V/?tag=tolees-21) con 70.04 de descuento por 34.95 EUR (original: 116.67 EUR) en el siguiente enlace!

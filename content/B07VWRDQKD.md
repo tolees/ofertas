@@ -10,8 +10,11 @@ author: ring
 slug: B07VWRDQKD
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 138.43 EUR
 inStock: true
+prodname: Ninja Air Fryer  Freidora sin Aceite [AF100EU] 4 funciones de cocción  Asar  Recalentar  Deshidratar y Freidora de Aire  Antiadherente  3.8 Litros  1500 W  Gris/ Negro
 ---
 
 Ahora mismo tienes [Ninja Air Fryer  Freidora sin Aceite [AF100EU] 4 funciones de cocción  Asar  Recalentar  Deshidratar y Freidora de Aire  Antiadherente  3.8 Litros  1500 W  Gris/ Negro](https://www.amazon.es/dp/B07VWRDQKD/?tag=tolees-21) a 99.99 EUR (original: 138.43 EUR) (27.77 %  de descuento) en el siguiente enlace!

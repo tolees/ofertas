@@ -10,8 +10,11 @@ author: ring
 slug: B085PJGQ4R
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 34.95 EUR
 inStock: true
+prodname: Réplica oficial camiseta primera equipación rfef 2020  20CM0001  Regular Fit  Rojo  M
 ---
 
 Tienes [Réplica oficial camiseta primera equipación rfef 2020  20CM0001  Regular Fit  Rojo  M](https://www.amazon.es/dp/B085PJGQ4R/?tag=tolees-21) con un 28.76 % de descuento con precio de oferta de 24.9 EUR (original: 34.95 EUR) en el siguiente enlace!

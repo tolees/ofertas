@@ -10,8 +10,11 @@ author: ring
 slug: B06XTCD5CW
 description:
 actualPrice: 24.12 EUR
+currency: EUR
+price: 24.12
 comparePrice: 35 EUR
 inStock: true
+prodname: Levi s Malibu Beach S  Zapatillas para Mujer  Blanco  B White 50   37 EU
 ---
 
 Tienes [Levi s Malibu Beach S  Zapatillas para Mujer  Blanco  B White 50   37 EU](https://www.amazon.es/dp/B06XTCD5CW/?tag=tolees-21) con un 31.09 % de descuento con precio de oferta de 24.12 EUR (original: 35 EUR) en el siguiente enlace!

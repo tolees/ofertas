@@ -10,8 +10,11 @@ author: ring
 slug: B08CNMFF3K
 description:
 actualPrice: 178.99 EUR
+currency: EUR
+price: 178.99
 comparePrice: 249.99 EUR
 inStock: true
+prodname: Hoover HGO330HC Hydro Pro - Robot Aspirador  Aspira  Barre  Friega y Pasa la Mopa  2 Depósitos  Wi-Fi  Conexión Alexa  Autonomía 120mins  Mando y Base de Carga  Sensor Anticaída y Antichoque
 ---
 
 Está [Hoover HGO330HC Hydro Pro - Robot Aspirador  Aspira  Barre  Friega y Pasa la Mopa  2 Depósitos  Wi-Fi  Conexión Alexa  Autonomía 120mins  Mando y Base de Carga  Sensor Anticaída y Antichoque](https://www.amazon.es/dp/B08CNMFF3K/?tag=tolees-21) con 28.40 de descuento por 178.99 EUR (original: 249.99 EUR) en el siguiente enlace!

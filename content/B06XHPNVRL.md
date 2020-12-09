@@ -10,8 +10,11 @@ author: ring
 slug: B06XHPNVRL
 description:
 actualPrice: 23.58 EUR
+currency: EUR
+price: 23.58
 comparePrice: 65 EUR
 inStock: true
+prodname: Geox Jr Sofia J  Zapatos de Cordones Derby para Niñas  Negro  Black   32 EU
 ---
 
 Ahora mismo tienes [Geox Jr Sofia J  Zapatos de Cordones Derby para Niñas  Negro  Black   32 EU](https://www.amazon.es/dp/B06XHPNVRL/?tag=tolees-21) a 23.58 EUR (original: 65 EUR) (63.72 %  de descuento) en el siguiente enlace!

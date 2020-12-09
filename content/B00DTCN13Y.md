@@ -10,8 +10,11 @@ author: ring
 slug: B00DTCN13Y
 description:
 actualPrice: 7.72 EUR
+currency: EUR
+price: 7.72
 comparePrice: 10.87 EUR
 inStock: true
+prodname: HifloFiltro HFA2606 Filtro para Moto
 ---
 
 Está [HifloFiltro HFA2606 Filtro para Moto](https://www.amazon.es/dp/B00DTCN13Y/?tag=tolees-21) con 28.98 de descuento por 7.72 EUR (original: 10.87 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07D2RMBH8
 description:
 actualPrice: 199.95 EUR
+currency: EUR
+price: 199.95
 comparePrice: 399 EUR
 inStock: true
+prodname: Gant G2. Classic Tailored Coat  Abrigo Mujer  Rosa  Pink Embrace Mel 687   42  Talla del Fabricante: Large 
 ---
 
 Tienes [Gant G2. Classic Tailored Coat  Abrigo Mujer  Rosa  Pink Embrace Mel 687   42  Talla del Fabricante: Large ](https://www.amazon.es/dp/B07D2RMBH8/?tag=tolees-21) con un 49.89 % de descuento con precio de oferta de 199.95 EUR (original: 399 EUR) en el siguiente enlace!

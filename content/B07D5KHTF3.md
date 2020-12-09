@@ -10,8 +10,11 @@ author: ring
 slug: B07D5KHTF3
 description:
 actualPrice: 92 EUR
+currency: EUR
+price: 92
 comparePrice: 139.95 EUR
 inStock: true
+prodname: adidas Solar Glide M  Zapatillas de Deporte para Hombre  Blanco  Ftwbla/Negbás/Gritre 000   46 EU
 ---
 
 Está [adidas Solar Glide M  Zapatillas de Deporte para Hombre  Blanco  Ftwbla/Negbás/Gritre 000   46 EU](https://www.amazon.es/dp/B07D5KHTF3/?tag=tolees-21) con 34.26 de descuento por 92 EUR (original: 139.95 EUR) en el siguiente enlace!

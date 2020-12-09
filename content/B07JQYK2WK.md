@@ -10,8 +10,11 @@ author: ring
 slug: B07JQYK2WK
 description:
 actualPrice: 19 EUR
+currency: EUR
+price: 19
 comparePrice: 29.9 EUR
 inStock: true
+prodname: Tommy Hilfiger Stretch Slim Fit tee Camisa Deportiva  Verde  Jelly BEAN306   Medium para Hombre
 ---
 
 Está [Tommy Hilfiger Stretch Slim Fit tee Camisa Deportiva  Verde  Jelly BEAN306   Medium para Hombre](https://www.amazon.es/dp/B07JQYK2WK/?tag=tolees-21) con 36.45 de descuento por 19 EUR (original: 29.9 EUR) en el siguiente enlace!

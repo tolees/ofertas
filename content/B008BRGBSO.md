@@ -10,8 +10,11 @@ author: ring
 slug: B008BRGBSO
 description:
 actualPrice: 35.59 EUR
+currency: EUR
+price: 35.59
 comparePrice: 290 EUR
 inStock: true
+prodname: Philips Ledino Foco 56454/17/16 - Punto de luz  Cromo  LED  Blanco cálido  Interior  Bedroom  Salón  IP20 
 ---
 
 Ahora mismo tienes [Philips Ledino Foco 56454/17/16 - Punto de luz  Cromo  LED  Blanco cálido  Interior  Bedroom  Salón  IP20 ](https://www.amazon.es/dp/B008BRGBSO/?tag=tolees-21) a 35.59 EUR (original: 290 EUR) (87.73 %  de descuento) en el siguiente enlace!

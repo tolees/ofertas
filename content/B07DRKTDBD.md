@@ -10,8 +10,11 @@ author: ring
 slug: B07DRKTDBD
 description:
 actualPrice: 55.47 EUR
+currency: EUR
+price: 55.47
 comparePrice: 99 EUR
 inStock: true
+prodname: Kipling ART M Bolsa de tela y playa  58 cm  26 liters  Multicolor  Joyfull Stripes 
 ---
 
 Ahora mismo tienes [Kipling ART M Bolsa de tela y playa  58 cm  26 liters  Multicolor  Joyfull Stripes ](https://www.amazon.es/dp/B07DRKTDBD/?tag=tolees-21) a 55.47 EUR (original: 99 EUR) (43.97 %  de descuento) en el siguiente enlace!

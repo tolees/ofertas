@@ -10,8 +10,11 @@ author: ring
 slug: B07JG5GX8N
 description:
 actualPrice: 40.63 EUR
+currency: EUR
+price: 40.63
 comparePrice: 66.98 EUR
 inStock: true
+prodname: Timberland Doudoune Reversible Chaqueta  Naranja  Papaye 42b   16 años  Talla del Fabricante: 16A  para Niños
 ---
 
 Está [Timberland Doudoune Reversible Chaqueta  Naranja  Papaye 42b   16 años  Talla del Fabricante: 16A  para Niños](https://www.amazon.es/dp/B07JG5GX8N/?tag=tolees-21) con 39.34 de descuento por 40.63 EUR (original: 66.98 EUR) en el siguiente enlace!

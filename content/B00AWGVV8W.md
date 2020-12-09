@@ -10,8 +10,11 @@ author: ring
 slug: B00AWGVV8W
 description:
 actualPrice: 20 EUR
+currency: EUR
+price: 20
 comparePrice: 27.95 EUR
 inStock: true
+prodname: Nike W NSW Fnl FLC Sweatshirt  Mujer  Aluminum/htr/Indigo Fog/White  XS
 ---
 
 Tienes [Nike W NSW Fnl FLC Sweatshirt  Mujer  Aluminum/htr/Indigo Fog/White  XS](https://www.amazon.es/dp/B00AWGVV8W/?tag=tolees-21) con un 28.44 % de descuento con precio de oferta de 20 EUR (original: 27.95 EUR) en el siguiente enlace!

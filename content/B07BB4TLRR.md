@@ -10,8 +10,11 @@ author: ring
 slug: B07BB4TLRR
 description:
 actualPrice: 42.25 EUR
+currency: EUR
+price: 42.25
 comparePrice: 65 EUR
 inStock: true
+prodname: The North Face Equipment TNF Mochila  Unisex adulto  Verde  BTNCLGRDGN/TNFB   Talla única
 ---
 
 Está [The North Face Equipment TNF Mochila  Unisex adulto  Verde  BTNCLGRDGN/TNFB   Talla única](https://www.amazon.es/dp/B07BB4TLRR/?tag=tolees-21) con 35.00 de descuento por 42.25 EUR (original: 65 EUR) en el siguiente enlace!

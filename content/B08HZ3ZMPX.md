@@ -10,8 +10,11 @@ author: ring
 slug: B08HZ3ZMPX
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 50.0 EUR
 inStock: true
+prodname: WISTUM Barra deslizante de ducha sin tornillos de latón con soporte ajustable y universal para cabezal de ducha  no requiere perforación  90cm acabado cromado
 ---
 
 Tienes [WISTUM Barra deslizante de ducha sin tornillos de latón con soporte ajustable y universal para cabezal de ducha  no requiere perforación  90cm acabado cromado](https://www.amazon.es/dp/B08HZ3ZMPX/?tag=tolees-21) con un 26.02 % de descuento con precio de oferta de 36.99 EUR (original: 50.0 EUR) en el siguiente enlace!

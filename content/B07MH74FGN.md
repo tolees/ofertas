@@ -10,8 +10,11 @@ author: ring
 slug: B07MH74FGN
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: MENERUSKAN Luces de Bicicleta Recargables LED Delanteras y Traseras Impermeables
 ---
 
 Está [MENERUSKAN Luces de Bicicleta Recargables LED Delanteras y Traseras Impermeables](https://www.amazon.es/dp/B07MH74FGN/?tag=tolees-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!

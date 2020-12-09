@@ -10,8 +10,11 @@ author: ring
 slug: B078HGRGX2
 description:
 actualPrice: 17.94 EUR
+currency: EUR
+price: 17.94
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Springfield 1503391  Camisa Casual para Hombre   Gama Azules   Small  Tamaño del Fabricante:S 
 ---
 
 Ahora mismo tienes [Springfield 1503391  Camisa Casual para Hombre   Gama Azules   Small  Tamaño del Fabricante:S ](https://www.amazon.es/dp/B078HGRGX2/?tag=tolees-21) a 17.94 EUR (original: 29.99 EUR) (40.18 %  de descuento) en el siguiente enlace!

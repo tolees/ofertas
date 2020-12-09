@@ -10,8 +10,11 @@ author: ring
 slug: B07NCBPXG2
 description:
 actualPrice: 25.58 EUR
+currency: EUR
+price: 25.58
 comparePrice: 89.9 EUR
 inStock: true
+prodname: Pepe Jeans Saturn Vaqueros Straight  Negro  Black Wiser Wash Denim Wz7   W34/L34 para Mujer
 ---
 
 Ahora mismo tienes [Pepe Jeans Saturn Vaqueros Straight  Negro  Black Wiser Wash Denim Wz7   W34/L34 para Mujer](https://www.amazon.es/dp/B07NCBPXG2/?tag=tolees-21) a 25.58 EUR (original: 89.9 EUR) (71.55 %  de descuento) en el siguiente enlace!

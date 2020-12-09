@@ -10,8 +10,11 @@ author: ring
 slug: B00U7EF8FQ
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 167.0 EUR
 inStock: true
+prodname: Oregon CS1500 - Motosierra Eléctrica 2400 W  retroceso suave  motosierra potente y silenciosa  con cable y sistema de afilado PowerSharp 
 ---
 
 Ahora mismo tienes [Oregon CS1500 - Motosierra Eléctrica 2400 W  retroceso suave  motosierra potente y silenciosa  con cable y sistema de afilado PowerSharp ](https://www.amazon.es/dp/B00U7EF8FQ/?tag=tolees-21) a 99.99 EUR (original: 167.0 EUR) (40.13 %  de descuento) en el siguiente enlace!

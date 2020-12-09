@@ -10,8 +10,11 @@ author: ring
 slug: B07XM6X1QV
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Mellerware - Tempo Olla de cocción Lenta  minimo Consumo 240W  cocción a Baja Temperatura  4 Funciones  3.5L  Olla de cerámica extraíble  Incluye recetario
 ---
 
 Tienes [Mellerware - Tempo Olla de cocción Lenta  minimo Consumo 240W  cocción a Baja Temperatura  4 Funciones  3.5L  Olla de cerámica extraíble  Incluye recetario](https://www.amazon.es/dp/B07XM6X1QV/?tag=tolees-21) con un 37.51 % de descuento con precio de oferta de 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

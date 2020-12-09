@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ6SFHC
 description:
 actualPrice: 20.07 EUR
+currency: EUR
+price: 20.07
 comparePrice: 28.41 EUR
 inStock: true
+prodname: AmazonBasics - Juego de ropa de cama con funda de edredón  de microfibra  220 x 250 cm  Gris pizarra
 ---
 
 Está [AmazonBasics - Juego de ropa de cama con funda de edredón  de microfibra  220 x 250 cm  Gris pizarra](https://www.amazon.es/dp/B07DJ6SFHC/?tag=tolees-21) con 29.36 de descuento por 20.07 EUR (original: 28.41 EUR) en el siguiente enlace!

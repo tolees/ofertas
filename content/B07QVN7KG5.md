@@ -10,8 +10,11 @@ author: ring
 slug: B07QVN7KG5
 description:
 actualPrice: 19.29 EUR
+currency: EUR
+price: 19.29
 comparePrice: 50.0 EUR
 inStock: true
+prodname: Under Armour Challenger III Midlayer  Camiseta de Hombre para Hacer Deporte  indispensable Ropa de Deportes Hombre  Azul  Academy/Halo Gray/Halo Gray  408    2XL
 ---
 
 Ahora mismo tienes [Under Armour Challenger III Midlayer  Camiseta de Hombre para Hacer Deporte  indispensable Ropa de Deportes Hombre  Azul  Academy/Halo Gray/Halo Gray  408    2XL](https://www.amazon.es/dp/B07QVN7KG5/?tag=tolees-21) a 19.29 EUR (original: 50.0 EUR) (61.42 %  de descuento) en el siguiente enlace!

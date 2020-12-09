@@ -10,8 +10,11 @@ author: ring
 slug: B07Y87SWWP
 description:
 actualPrice: 14.39 EUR
+currency: EUR
+price: 14.39
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Zubita Rascadores para Gatos  Árbol para Gatos Arañazo Gatos Juguetes de Sisal Natural  Cat Toy Centro de Actividad para Gatitos con Peluche
 ---
 
 Tienes [Zubita Rascadores para Gatos  Árbol para Gatos Arañazo Gatos Juguetes de Sisal Natural  Cat Toy Centro de Actividad para Gatitos con Peluche](https://www.amazon.es/dp/B07Y87SWWP/?tag=tolees-21) con un 28.01 % de descuento con precio de oferta de 14.39 EUR (original: 19.99 EUR) en el siguiente enlace!

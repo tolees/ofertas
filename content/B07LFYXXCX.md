@@ -10,8 +10,11 @@ author: ring
 slug: B07LFYXXCX
 description:
 actualPrice: 30.36 EUR
+currency: EUR
+price: 30.36
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox Women s D NEW ANNYA MID A Closed Toe Heels  Blue  Navy C4002   2.5 UK
 ---
 
 Está [Geox Women s D NEW ANNYA MID A Closed Toe Heels  Blue  Navy C4002   2.5 UK](https://www.amazon.es/dp/B07LFYXXCX/?tag=tolees-21) con 69.61 de descuento por 30.36 EUR (original: 99.9 EUR) en el siguiente enlace!

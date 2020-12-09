@@ -10,8 +10,11 @@ author: ring
 slug: B07QQ2LJK8
 description:
 actualPrice: 9.94 EUR
+currency: EUR
+price: 9.94
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Funko- Pop Disney: Frozen 2-Young Anna Figura coleccionable  Multicolor  40889 
 ---
 
 Está [Funko- Pop Disney: Frozen 2-Young Anna Figura coleccionable  Multicolor  40889 ](https://www.amazon.es/dp/B07QQ2LJK8/?tag=tolees-21) con 33.69 de descuento por 9.94 EUR (original: 14.99 EUR) en el siguiente enlace!

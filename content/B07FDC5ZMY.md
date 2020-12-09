@@ -10,8 +10,11 @@ author: ring
 slug: B07FDC5ZMY
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: SUNLU LCD Writing Tablet  9 Inch Electronic Drawing and Writing Board  Portable Handwriting Notepad  Gift for Kids and Adults  Can Use at Home School and Office  White 
 ---
 
 Ahora mismo tienes [SUNLU LCD Writing Tablet  9 Inch Electronic Drawing and Writing Board  Portable Handwriting Notepad  Gift for Kids and Adults  Can Use at Home School and Office  White ](https://www.amazon.es/dp/B07FDC5ZMY/?tag=tolees-21) a 17.99 EUR (original: 39.99 EUR) (55.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08CDKD54M
 description:
 actualPrice: 9.04 EUR
+currency: EUR
+price: 9.04
 comparePrice: 12.88 EUR
 inStock: true
+prodname: OMZGXGOD Nube de Manteles Individuales，Silicona Lavable Resistencia al Calor Niño Antideslizante Salvamanteles Individuales  Vajilla Portátil Fiesta Familiar Manteles Individuales  Gris+Rosa 
 ---
 
 Está [OMZGXGOD Nube de Manteles Individuales，Silicona Lavable Resistencia al Calor Niño Antideslizante Salvamanteles Individuales  Vajilla Portátil Fiesta Familiar Manteles Individuales  Gris+Rosa ](https://www.amazon.es/dp/B08CDKD54M/?tag=tolees-21) con 29.81 de descuento por 9.04 EUR (original: 12.88 EUR) en el siguiente enlace!

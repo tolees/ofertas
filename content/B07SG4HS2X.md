@@ -10,8 +10,11 @@ author: ring
 slug: B07SG4HS2X
 description:
 actualPrice: 99 EUR
+currency: EUR
+price: 99
 comparePrice: 199 EUR
 inStock: true
+prodname: Tous BANDOLERA M. LIZ FUCSIA
 ---
 
 Tienes [Tous BANDOLERA M. LIZ FUCSIA](https://www.amazon.es/dp/B07SG4HS2X/?tag=tolees-21) con un 50.25 % de descuento con precio de oferta de 99 EUR (original: 199 EUR) en el siguiente enlace!

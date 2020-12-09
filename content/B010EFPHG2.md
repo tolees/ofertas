@@ -10,8 +10,11 @@ author: ring
 slug: B010EFPHG2
 description:
 actualPrice: 41.98 EUR
+currency: EUR
+price: 41.98
 comparePrice: 59.95 EUR
 inStock: true
+prodname: INTEX 64424 - Colchón Hinchable  152 x 203 x 42 cm
 ---
 
 Tienes [INTEX 64424 - Colchón Hinchable  152 x 203 x 42 cm](https://www.amazon.es/dp/B010EFPHG2/?tag=tolees-21) con un 29.97 % de descuento con precio de oferta de 41.98 EUR (original: 59.95 EUR) en el siguiente enlace!

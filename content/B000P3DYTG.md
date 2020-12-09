@@ -10,8 +10,11 @@ author: ring
 slug: B000P3DYTG
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 10.5 EUR
 inStock: true
+prodname: Wolfcraft 8725000 - Destornillador manual con portapuntas  largo 197 mm
 ---
 
 Está [Wolfcraft 8725000 - Destornillador manual con portapuntas  largo 197 mm](https://www.amazon.es/dp/B000P3DYTG/?tag=tolees-21) con 42.95 de descuento por 5.99 EUR (original: 10.5 EUR) en el siguiente enlace!

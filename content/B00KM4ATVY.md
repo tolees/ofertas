@@ -10,8 +10,11 @@ author: ring
 slug: B00KM4ATVY
 description:
 actualPrice: 59.73 EUR
+currency: EUR
+price: 59.73
 comparePrice: 201.33 EUR
 inStock: true
+prodname: Danish Design  - Reloj Analógico de Cuarzo para Hombre  correa de Cuero color Negro
 ---
 
 Ahora mismo tienes [Danish Design  - Reloj Analógico de Cuarzo para Hombre  correa de Cuero color Negro](https://www.amazon.es/dp/B00KM4ATVY/?tag=tolees-21) a 59.73 EUR (original: 201.33 EUR) (70.33 %  de descuento) en el siguiente enlace!

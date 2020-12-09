@@ -10,8 +10,11 @@ author: ring
 slug: B01N2JJXBR
 description:
 actualPrice: 12.55 EUR
+currency: EUR
+price: 12.55
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Marco Tozzi 2-2-25109-28 519  Botas Cortas Mujer  Beige  Candy Comb 519   40 EU
 ---
 
 Está [Marco Tozzi 2-2-25109-28 519  Botas Cortas Mujer  Beige  Candy Comb 519   40 EU](https://www.amazon.es/dp/B01N2JJXBR/?tag=tolees-21) con 74.87 de descuento por 12.55 EUR (original: 49.95 EUR) en el siguiente enlace!

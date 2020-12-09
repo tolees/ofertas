@@ -10,8 +10,11 @@ author: ring
 slug: B07BZFXQL8
 description:
 actualPrice: 67.99 EUR
+currency: EUR
+price: 67.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Meterk Detector de Metales subterráneos de Alta precisión  2 Modo de búsqueda Pantalla LCD Bobina de búsqueda Sensible Resistente al Agua fácil de Usar Adecuado para Profesionales  Principiantes
 ---
 
 Tienes [Meterk Detector de Metales subterráneos de Alta precisión  2 Modo de búsqueda Pantalla LCD Bobina de búsqueda Sensible Resistente al Agua fácil de Usar Adecuado para Profesionales  Principiantes](https://www.amazon.es/dp/B07BZFXQL8/?tag=tolees-21) con un 32.00 % de descuento con precio de oferta de 67.99 EUR (original: 99.99 EUR) en el siguiente enlace!

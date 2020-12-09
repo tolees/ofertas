@@ -10,8 +10,11 @@ author: ring
 slug: B07D6YP2KP
 description:
 actualPrice: 47.08 EUR
+currency: EUR
+price: 47.08
 comparePrice: 129.95 EUR
 inStock: true
+prodname: adidas ARKYN  Zapatillas de Deporte para Mujer  Negro  Core Black/Core Black/Footwear White 0   38 2/3 EU
 ---
 
 Ahora mismo tienes [adidas ARKYN  Zapatillas de Deporte para Mujer  Negro  Core Black/Core Black/Footwear White 0   38 2/3 EU](https://www.amazon.es/dp/B07D6YP2KP/?tag=tolees-21) a 47.08 EUR (original: 129.95 EUR) (63.77 %  de descuento) en el siguiente enlace!

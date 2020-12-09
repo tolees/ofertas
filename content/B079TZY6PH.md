@@ -10,8 +10,11 @@ author: ring
 slug: B079TZY6PH
 description:
 actualPrice: 18.02 EUR
+currency: EUR
+price: 18.02
 comparePrice: 45 EUR
 inStock: true
+prodname: Finocam Urban Slim - Maletín Profesional para portátil de hasta 15 6"  Color Gris
 ---
 
 Ahora mismo tienes [Finocam Urban Slim - Maletín Profesional para portátil de hasta 15 6"  Color Gris](https://www.amazon.es/dp/B079TZY6PH/?tag=tolees-21) a 18.02 EUR (original: 45 EUR) (59.96 %  de descuento) en el siguiente enlace!

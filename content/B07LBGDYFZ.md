@@ -10,8 +10,11 @@ author: ring
 slug: B07LBGDYFZ
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 79.0 EUR
 inStock: true
+prodname: MUADRESS Vestido Cóctel Sin Manga Cuello Y Espalda V Hi-lo Flor Encaje Elegante Mujer Verde XL
 ---
 
 Ahora mismo tienes [MUADRESS Vestido Cóctel Sin Manga Cuello Y Espalda V Hi-lo Flor Encaje Elegante Mujer Verde XL](https://www.amazon.es/dp/B07LBGDYFZ/?tag=tolees-21) a 36.99 EUR (original: 79.0 EUR) (53.18 %  de descuento) en el siguiente enlace!

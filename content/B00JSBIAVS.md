@@ -10,8 +10,11 @@ author: ring
 slug: B00JSBIAVS
 description:
 actualPrice: 6.92 EUR
+currency: EUR
+price: 6.92
 comparePrice: 13.56 EUR
 inStock: true
+prodname: Pantalón de Trabajo de Algodón Con Bandas Reflectantes  verde
 ---
 
 Ahora mismo tienes [Pantalón de Trabajo de Algodón Con Bandas Reflectantes  verde](https://www.amazon.es/dp/B00JSBIAVS/?tag=tolees-21) a 6.92 EUR (original: 13.56 EUR) (48.97 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06W5RMMSC
 description:
 actualPrice: 40.55 EUR
+currency: EUR
+price: 40.55
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Adidas Climacool Cm By2345  Zapatillas para Hombre  Negro  Black  46 2/3 EU
 ---
 
 Está [Adidas Climacool Cm By2345  Zapatillas para Hombre  Negro  Black  46 2/3 EU](https://www.amazon.es/dp/B06W5RMMSC/?tag=tolees-21) con 59.45 de descuento por 40.55 EUR (original: 99.99 EUR) en el siguiente enlace!

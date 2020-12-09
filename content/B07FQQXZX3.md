@@ -10,8 +10,11 @@ author: ring
 slug: B07FQQXZX3
 description:
 actualPrice: 36.44 EUR
+currency: EUR
+price: 36.44
 comparePrice: 59.95 EUR
 inStock: true
+prodname: GANT FOOTWEAR New Haven  Zapatillas para Mujer   Blossom Pink G583   39 EU
 ---
 
 Ahora mismo tienes [GANT FOOTWEAR New Haven  Zapatillas para Mujer   Blossom Pink G583   39 EU](https://www.amazon.es/dp/B07FQQXZX3/?tag=tolees-21) a 36.44 EUR (original: 59.95 EUR) (39.22 %  de descuento) en el siguiente enlace!

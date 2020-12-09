@@ -10,8 +10,11 @@ author: ring
 slug: B01NCXBQIS
 description:
 actualPrice: 6.01 EUR
+currency: EUR
+price: 6.01
 comparePrice: 8.95 EUR
 inStock: true
+prodname: LOVI Pride&Joy - Pack de 2 chupetes dinámicos silicona  talla 6-18 meses  color rosa
 ---
 
 Tienes [LOVI Pride&Joy - Pack de 2 chupetes dinámicos silicona  talla 6-18 meses  color rosa](https://www.amazon.es/dp/B01NCXBQIS/?tag=tolees-21) con un 32.85 % de descuento con precio de oferta de 6.01 EUR (original: 8.95 EUR) en el siguiente enlace!

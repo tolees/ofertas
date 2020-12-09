@@ -10,8 +10,11 @@ author: ring
 slug: B07MY5ZL9H
 description:
 actualPrice: 75.15 EUR
+currency: EUR
+price: 75.15
 comparePrice: 118.73 EUR
 inStock: true
+prodname: Black+Decker QS BeBLV301 - Soplador  aspirador y Triturador de hojas  3000W  418 Km/h  Modelo Nuevo
 ---
 
 Está [Black+Decker QS BeBLV301 - Soplador  aspirador y Triturador de hojas  3000W  418 Km/h  Modelo Nuevo](https://www.amazon.es/dp/B07MY5ZL9H/?tag=tolees-21) con 36.71 de descuento por 75.15 EUR (original: 118.73 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01KPREJOA
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 39.95 EUR
 inStock: true
+prodname: JACK & JONES JCOPINN SWEAT HOOD NOOS  Capucha Hombre  Azul  Navy Blazer   Large
 ---
 
 Ahora mismo tienes [JACK & JONES JCOPINN SWEAT HOOD NOOS  Capucha Hombre  Azul  Navy Blazer   Large](https://www.amazon.es/dp/B01KPREJOA/?tag=tolees-21) a 27.99 EUR (original: 39.95 EUR) (29.94 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07K48DQDC
 description:
 actualPrice: 479 EUR
+currency: EUR
+price: 479
 comparePrice: 779 EUR
 inStock: true
+prodname: Extrbici G7 Mountain Bike 21 Speed Steel Frame 27.5 Pulgadas Ruedas Doble Suspensión Bicicleta Plegable  Naranja   Naranja 
 ---
 
 Está [Extrbici G7 Mountain Bike 21 Speed Steel Frame 27.5 Pulgadas Ruedas Doble Suspensión Bicicleta Plegable  Naranja   Naranja ](https://www.amazon.es/dp/B07K48DQDC/?tag=tolees-21) con 38.51 de descuento por 479 EUR (original: 779 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08BMVYR5V
 description:
 actualPrice: 44.9 EUR
+currency: EUR
+price: 44.9
 comparePrice: 69.9 EUR
 inStock: true
+prodname: Crash Bandicoot 4: It s about time
 ---
 
 Tienes [Crash Bandicoot 4: It s about time](https://www.amazon.es/dp/B08BMVYR5V/?tag=tolees-21) con un 35.77 % de descuento con precio de oferta de 44.9 EUR (original: 69.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TS8MZ7M
 description:
 actualPrice: 9.63 EUR
+currency: EUR
+price: 9.63
 comparePrice: 13.5 EUR
 inStock: true
+prodname: Funko- Pop Disney: Hunchback of Notre Dame-Quasimodo Collectible Toy  Multicolor  41145 
 ---
 
 Está [Funko- Pop Disney: Hunchback of Notre Dame-Quasimodo Collectible Toy  Multicolor  41145 ](https://www.amazon.es/dp/B07TS8MZ7M/?tag=tolees-21) con 28.67 de descuento por 9.63 EUR (original: 13.5 EUR) en el siguiente enlace!

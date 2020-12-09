@@ -10,8 +10,11 @@ author: ring
 slug: B079FX1HLH
 description:
 actualPrice: 16.87 EUR
+currency: EUR
+price: 16.87
 comparePrice: 89.87 EUR
 inStock: true
+prodname: Pendientes  J.Rosée Pendiente Arco Mujer Perla de Agua Dulce Original Plata de Ley 925 Regalos Originales Regalos Navidad
 ---
 
 Ahora mismo tienes [Pendientes  J.Rosée Pendiente Arco Mujer Perla de Agua Dulce Original Plata de Ley 925 Regalos Originales Regalos Navidad](https://www.amazon.es/dp/B079FX1HLH/?tag=tolees-21) a 16.87 EUR (original: 89.87 EUR) (81.23 %  de descuento) en el siguiente enlace!

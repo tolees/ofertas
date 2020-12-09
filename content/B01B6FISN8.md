@@ -10,8 +10,11 @@ author: ring
 slug: B01B6FISN8
 description:
 actualPrice: 14.04 EUR
+currency: EUR
+price: 14.04
 comparePrice: 34.95 EUR
 inStock: true
+prodname: hummel Core Football Pants  Unisex Adulto  Azul Marino  3XL
 ---
 
 Está [hummel Core Football Pants  Unisex Adulto  Azul Marino  3XL](https://www.amazon.es/dp/B01B6FISN8/?tag=tolees-21) con 59.83 de descuento por 14.04 EUR (original: 34.95 EUR) en el siguiente enlace!

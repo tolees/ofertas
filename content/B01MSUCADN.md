@@ -10,8 +10,11 @@ author: ring
 slug: B01MSUCADN
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Pack Crepúsculo - Saga Completa  2016  [DVD]
 ---
 
 Está [Pack Crepúsculo - Saga Completa  2016  [DVD]](https://www.amazon.es/dp/B01MSUCADN/?tag=tolees-21) con 48.02 de descuento por 12.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00IIAFVDK
 description:
 actualPrice: 19.84 EUR
+currency: EUR
+price: 19.84
 comparePrice: 79 EUR
 inStock: true
+prodname: Superga 2754 COTU - Zapatillas Unisex  Negro  Full Black 996   35.5 EU / 3 UK
 ---
 
 Ahora mismo tienes [Superga 2754 COTU - Zapatillas Unisex  Negro  Full Black 996   35.5 EU / 3 UK](https://www.amazon.es/dp/B00IIAFVDK/?tag=tolees-21) a 19.84 EUR (original: 79 EUR) (74.89 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DCK33XK
 description:
 actualPrice: 23.54 EUR
+currency: EUR
+price: 23.54
 comparePrice: 49.95 EUR
 inStock: true
+prodname: Puma Escaper Tech Zapatillas de deporte Unisex adulto  Azul  Peacoat-Silver-Puma White-Fizzy Yellow   39 EU  6 UK 
 ---
 
 Está [Puma Escaper Tech Zapatillas de deporte Unisex adulto  Azul  Peacoat-Silver-Puma White-Fizzy Yellow   39 EU  6 UK ](https://www.amazon.es/dp/B07DCK33XK/?tag=tolees-21) con 52.87 de descuento por 23.54 EUR (original: 49.95 EUR) en el siguiente enlace!

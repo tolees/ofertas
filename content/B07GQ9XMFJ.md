@@ -10,8 +10,11 @@ author: ring
 slug: B07GQ9XMFJ
 description:
 actualPrice: 149.0 EUR
+currency: EUR
+price: 149.0
 comparePrice: 229.0 EUR
 inStock: true
+prodname: Bosch BCH3P255 Flexxo Serie | 4 Aspirador 2 en 1  sin cable y de mano  25.2 V  color Azul
 ---
 
 Tienes [Bosch BCH3P255 Flexxo Serie | 4 Aspirador 2 en 1  sin cable y de mano  25.2 V  color Azul](https://www.amazon.es/dp/B07GQ9XMFJ/?tag=tolees-21) con un 34.93 % de descuento con precio de oferta de 149.0 EUR (original: 229.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01NBAW8VK
 description:
 actualPrice: 8.53 EUR
+currency: EUR
+price: 8.53
 comparePrice: 28.7 EUR
 inStock: true
+prodname: sac Electronics RG6 50 m Digital Cable Coaxial para TV – Black-p
 ---
 
 Ahora mismo tienes [sac Electronics RG6 50 m Digital Cable Coaxial para TV – Black-p](https://www.amazon.es/dp/B01NBAW8VK/?tag=tolees-21) a 8.53 EUR (original: 28.7 EUR) (70.28 %  de descuento) en el siguiente enlace!

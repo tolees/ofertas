@@ -10,8 +10,11 @@ author: ring
 slug: B07KGD4V8M
 description:
 actualPrice: 44.22 EUR
+currency: EUR
+price: 44.22
 comparePrice: 80 EUR
 inStock: true
+prodname: BOSS Tilyr Sz Cinturón  Marrón  Dark Brown 100   110  Talla del fabricante: 95  para Hombre
 ---
 
 Tienes [BOSS Tilyr Sz Cinturón  Marrón  Dark Brown 100   110  Talla del fabricante: 95  para Hombre](https://www.amazon.es/dp/B07KGD4V8M/?tag=tolees-21) con un 44.73 % de descuento con precio de oferta de 44.22 EUR (original: 80 EUR) en el siguiente enlace!

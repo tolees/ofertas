@@ -10,8 +10,11 @@ author: ring
 slug: B07D8T4KQL
 description:
 actualPrice: 26.87 EUR
+currency: EUR
+price: 26.87
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Skechers Women s Street Cleat-Bring IT Back Trainers  Black  Black Canvas/White Duraleather Trim Blk   2.5  35.5 EU 
 ---
 
 Ahora mismo tienes [Skechers Women s Street Cleat-Bring IT Back Trainers  Black  Black Canvas/White Duraleather Trim Blk   2.5  35.5 EU ](https://www.amazon.es/dp/B07D8T4KQL/?tag=tolees-21) a 26.87 EUR (original: 59.95 EUR) (55.18 %  de descuento) en el siguiente enlace!

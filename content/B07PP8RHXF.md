@@ -10,8 +10,11 @@ author: ring
 slug: B07PP8RHXF
 description:
 actualPrice: 254.15 EUR
+currency: EUR
+price: 254.15
 comparePrice: 399.0 EUR
 inStock: true
+prodname: Hisense I6456C - Placa Inducción  4 zonas  Zona Flexible  Encimera de 60Cm  bloqueo infantil  Resistente a los arañazos terminación biselada
 ---
 
 Tienes [Hisense I6456C - Placa Inducción  4 zonas  Zona Flexible  Encimera de 60Cm  bloqueo infantil  Resistente a los arañazos terminación biselada](https://www.amazon.es/dp/B07PP8RHXF/?tag=tolees-21) con un 36.30 % de descuento con precio de oferta de 254.15 EUR (original: 399.0 EUR) en el siguiente enlace!

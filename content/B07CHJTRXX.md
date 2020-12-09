@@ -10,8 +10,11 @@ author: ring
 slug: B07CHJTRXX
 description:
 actualPrice: 28.46 EUR
+currency: EUR
+price: 28.46
 comparePrice: 59.99 EUR
 inStock: true
+prodname: JACK & JONES Jfwabbott PU  Botas Chelsea para Hombre  Marrón Java  44 EU
 ---
 
 Ahora mismo tienes [JACK & JONES Jfwabbott PU  Botas Chelsea para Hombre  Marrón Java  44 EU](https://www.amazon.es/dp/B07CHJTRXX/?tag=tolees-21) a 28.46 EUR (original: 59.99 EUR) (52.56 %  de descuento) en el siguiente enlace!

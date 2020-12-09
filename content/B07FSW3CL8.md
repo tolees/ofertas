@@ -10,8 +10,11 @@ author: ring
 slug: B07FSW3CL8
 description:
 actualPrice: 30.73 EUR
+currency: EUR
+price: 30.73
 comparePrice: 99.95 EUR
 inStock: true
+prodname: Clarks Willow Art  Mules para Mujer  Marrón  Light Tan Leather-   37.5 EU
 ---
 
 Tienes [Clarks Willow Art  Mules para Mujer  Marrón  Light Tan Leather-   37.5 EU](https://www.amazon.es/dp/B07FSW3CL8/?tag=tolees-21) con un 69.25 % de descuento con precio de oferta de 30.73 EUR (original: 99.95 EUR) en el siguiente enlace!

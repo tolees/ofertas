@@ -10,8 +10,11 @@ author: ring
 slug: B078YHQRPY
 description:
 actualPrice: 12.72 EUR
+currency: EUR
+price: 12.72
 comparePrice: 21 EUR
 inStock: true
+prodname: Menú Sanae Tabulé de Quinoa Vegetariano - 4 Paquetes de 320 gr - Total: 1280 gr
 ---
 
 Está [Menú Sanae Tabulé de Quinoa Vegetariano - 4 Paquetes de 320 gr - Total: 1280 gr](https://www.amazon.es/dp/B078YHQRPY/?tag=tolees-21) con 39.43 de descuento por 12.72 EUR (original: 21 EUR) en el siguiente enlace!

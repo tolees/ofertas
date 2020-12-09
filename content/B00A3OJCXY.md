@@ -10,8 +10,11 @@ author: ring
 slug: B00A3OJCXY
 description:
 actualPrice: 82.05 EUR
+currency: EUR
+price: 82.05
 comparePrice: 140.0 EUR
 inStock: true
+prodname: Helly Hansen Crew Chaqueta  Hombre  Blanco  XL
 ---
 
 Ahora mismo tienes [Helly Hansen Crew Chaqueta  Hombre  Blanco  XL](https://www.amazon.es/dp/B00A3OJCXY/?tag=tolees-21) a 82.05 EUR (original: 140.0 EUR) (41.39 %  de descuento) en el siguiente enlace!

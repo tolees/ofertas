@@ -10,8 +10,11 @@ author: ring
 slug: B08GKB5JQY
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 19.88 EUR
 inStock: true
+prodname: LXHGrowH Funda para Samsung Galaxy A71 5G - Carcasa Completa Anti-Shock [360°] Full Body Protección [Silicona TPU Frente] y [Duro PC Back] para Samsung Galaxy A71 5G - Cover Doble [Transparente]
 ---
 
 Tienes [LXHGrowH Funda para Samsung Galaxy A71 5G - Carcasa Completa Anti-Shock [360°] Full Body Protección [Silicona TPU Frente] y [Duro PC Back] para Samsung Galaxy A71 5G - Cover Doble [Transparente]](https://www.amazon.es/dp/B08GKB5JQY/?tag=tolees-21) con un 54.78 % de descuento con precio de oferta de 8.99 EUR (original: 19.88 EUR) en el siguiente enlace!

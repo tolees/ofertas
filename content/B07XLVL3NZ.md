@@ -10,8 +10,11 @@ author: ring
 slug: B07XLVL3NZ
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Trials of Mana
 ---
 
 Tienes [Trials of Mana](https://www.amazon.es/dp/B07XLVL3NZ/?tag=tolees-21) con un 50.19 % de descuento con precio de oferta de 24.9 EUR (original: 49.99 EUR) en el siguiente enlace!

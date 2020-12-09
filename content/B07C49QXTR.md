@@ -10,8 +10,11 @@ author: ring
 slug: B07C49QXTR
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 299.99 EUR
 inStock: true
+prodname: Charlie & Finn Puf Giga XXL en Negro Noche – Funda Aterciopelada Muy cómoda con Espuma viscoelástica – Cama Gigante  sofá Largo  Tumbona acogedora  colchón Genial - Niños  Adultos y Adolescentes
 ---
 
 Ahora mismo tienes [Charlie & Finn Puf Giga XXL en Negro Noche – Funda Aterciopelada Muy cómoda con Espuma viscoelástica – Cama Gigante  sofá Largo  Tumbona acogedora  colchón Genial - Niños  Adultos y Adolescentes](https://www.amazon.es/dp/B07C49QXTR/?tag=tolees-21) a 99.99 EUR (original: 299.99 EUR) (66.67 %  de descuento) en el siguiente enlace!

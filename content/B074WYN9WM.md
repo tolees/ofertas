@@ -10,8 +10,11 @@ author: ring
 slug: B074WYN9WM
 description:
 actualPrice: 14.04 EUR
+currency: EUR
+price: 14.04
 comparePrice: 31.9 EUR
 inStock: true
+prodname: Marca Amazon - Hem & Seam Pantalones Hombre  Rojo  Burgundy   32W / 31L  Label: 32W / 31L
 ---
 
 Tienes [Marca Amazon - Hem & Seam Pantalones Hombre  Rojo  Burgundy   32W / 31L  Label: 32W / 31L](https://www.amazon.es/dp/B074WYN9WM/?tag=tolees-21) con un 55.99 % de descuento con precio de oferta de 14.04 EUR (original: 31.9 EUR) en el siguiente enlace!

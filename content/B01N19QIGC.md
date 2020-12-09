@@ -10,8 +10,11 @@ author: ring
 slug: B01N19QIGC
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: POWERADD [Versión Mejorada] Pilot X7 20000mAh Power Bank Cargador Móvil Portátil Batería Externa con 2 Salidas USB 3.1A para iPhone iPad Samsung Dispositivos Android Tablets y Más  Color-Azul
 ---
 
 Tienes [POWERADD [Versión Mejorada] Pilot X7 20000mAh Power Bank Cargador Móvil Portátil Batería Externa con 2 Salidas USB 3.1A para iPhone iPad Samsung Dispositivos Android Tablets y Más  Color-Azul](https://www.amazon.es/dp/B01N19QIGC/?tag=tolees-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

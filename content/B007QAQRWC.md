@@ -10,8 +10,11 @@ author: ring
 slug: B007QAQRWC
 description:
 actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
 comparePrice: 11 EUR
 inStock: true
+prodname: Cressi Reef Calzado para Mar y Deportes Acuáticos  Unisex Adultos y Niños  Claro/Azul  42
 ---
 
 Está [Cressi Reef Calzado para Mar y Deportes Acuáticos  Unisex Adultos y Niños  Claro/Azul  42](https://www.amazon.es/dp/B007QAQRWC/?tag=tolees-21) con 27.73 de descuento por 7.95 EUR (original: 11 EUR) en el siguiente enlace!

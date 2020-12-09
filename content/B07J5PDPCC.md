@@ -10,8 +10,11 @@ author: ring
 slug: B07J5PDPCC
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 44.76 EUR
 inStock: true
+prodname: Crucial CT2K4G4SFS8266 Kit de Memoria RAM de 8 GB  4 GB x 2   DDR4  2666 MT/s  PC4-21300  CL19  Single Rank x 8  SODIMM  260-Pin  Verde
 ---
 
 Está [Crucial CT2K4G4SFS8266 Kit de Memoria RAM de 8 GB  4 GB x 2   DDR4  2666 MT/s  PC4-21300  CL19  Single Rank x 8  SODIMM  260-Pin  Verde](https://www.amazon.es/dp/B07J5PDPCC/?tag=tolees-21) con 39.70 de descuento por 26.99 EUR (original: 44.76 EUR) en el siguiente enlace!

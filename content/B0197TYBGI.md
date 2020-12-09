@@ -10,8 +10,11 @@ author: ring
 slug: B0197TYBGI
 description:
 actualPrice: 16.79 EUR
+currency: EUR
+price: 16.79
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Aquabeads-79638 Mega Bead Pack  multicolor  Epoch para Imaginar 79638    color/modelo surtido
 ---
 
 Está [Aquabeads-79638 Mega Bead Pack  multicolor  Epoch para Imaginar 79638    color/modelo surtido](https://www.amazon.es/dp/B0197TYBGI/?tag=tolees-21) con 32.81 de descuento por 16.79 EUR (original: 24.99 EUR) en el siguiente enlace!

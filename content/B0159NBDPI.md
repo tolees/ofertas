@@ -10,8 +10,11 @@ author: ring
 slug: B0159NBDPI
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 54.03 EUR
 inStock: true
+prodname: iwill CREATE PRO Contenedor Plegable para Guardar Ropa  Tamaño Jumbo  Funda extraíble  Cesto de Almacenamiento en el Armario con Tapa  54 x 42 x 26 cm   Beige
 ---
 
 Tienes [iwill CREATE PRO Contenedor Plegable para Guardar Ropa  Tamaño Jumbo  Funda extraíble  Cesto de Almacenamiento en el Armario con Tapa  54 x 42 x 26 cm   Beige](https://www.amazon.es/dp/B0159NBDPI/?tag=tolees-21) con un 59.30 % de descuento con precio de oferta de 21.99 EUR (original: 54.03 EUR) en el siguiente enlace!

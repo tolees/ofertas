@@ -10,8 +10,11 @@ author: ring
 slug: B07NDNV6KP
 description:
 actualPrice: 28.88 EUR
+currency: EUR
+price: 28.88
 comparePrice: 89.9 EUR
 inStock: true
+prodname: Pepe Jeans Regent Vaqueros Pitillo Hombre  Azul  Light Used Denim Md9   W28/L32 para Mujer
 ---
 
 Ahora mismo tienes [Pepe Jeans Regent Vaqueros Pitillo Hombre  Azul  Light Used Denim Md9   W28/L32 para Mujer](https://www.amazon.es/dp/B07NDNV6KP/?tag=tolees-21) a 28.88 EUR (original: 89.9 EUR) (67.88 %  de descuento) en el siguiente enlace!

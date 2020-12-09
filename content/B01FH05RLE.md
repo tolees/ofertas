@@ -10,8 +10,11 @@ author: ring
 slug: B01FH05RLE
 description:
 actualPrice: 21.02 EUR
+currency: EUR
+price: 21.02
 comparePrice: 69.95 EUR
 inStock: true
+prodname: Under Armour UA International Jacket Chaqueta  Mujer  Negro  Black   XL
 ---
 
 Ahora mismo tienes [Under Armour UA International Jacket Chaqueta  Mujer  Negro  Black   XL](https://www.amazon.es/dp/B01FH05RLE/?tag=tolees-21) a 21.02 EUR (original: 69.95 EUR) (69.95 %  de descuento) en el siguiente enlace!

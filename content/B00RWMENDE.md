@@ -10,8 +10,11 @@ author: ring
 slug: B00RWMENDE
 description:
 actualPrice: 62.9 EUR
+currency: EUR
+price: 62.9
 comparePrice: 120 EUR
 inStock: true
+prodname: CAMPER Pelotas  Zapatos de Cordones Oxford para Mujer  Schwarz  Black   39 EU
 ---
 
 Ahora mismo tienes [CAMPER Pelotas  Zapatos de Cordones Oxford para Mujer  Schwarz  Black   39 EU](https://www.amazon.es/dp/B00RWMENDE/?tag=tolees-21) a 62.9 EUR (original: 120 EUR) (47.58 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B077XPYD9W
 description:
 actualPrice: 17.23 EUR
+currency: EUR
+price: 17.23
 comparePrice: 55.0 EUR
 inStock: true
+prodname: Under Armour  UNDKU Coldgear Armour Camisa De Manga Larga  Hombre  Negro  MD
 ---
 
 Tienes [Under Armour  UNDKU Coldgear Armour Camisa De Manga Larga  Hombre  Negro  MD](https://www.amazon.es/dp/B077XPYD9W/?tag=tolees-21) con un 68.67 % de descuento con precio de oferta de 17.23 EUR (original: 55.0 EUR) en el siguiente enlace!

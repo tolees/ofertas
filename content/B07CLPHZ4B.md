@@ -10,8 +10,11 @@ author: ring
 slug: B07CLPHZ4B
 description:
 actualPrice: 8.39 EUR
+currency: EUR
+price: 8.39
 comparePrice: 11.95 EUR
 inStock: true
+prodname: Guardianes De La Galaxia - Vol. 2 [Blu-ray]
 ---
 
 Está [Guardianes De La Galaxia - Vol. 2 [Blu-ray]](https://www.amazon.es/dp/B07CLPHZ4B/?tag=tolees-21) con 29.79 de descuento por 8.39 EUR (original: 11.95 EUR) en el siguiente enlace!

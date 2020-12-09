@@ -10,8 +10,11 @@ author: ring
 slug: B083KZFMNS
 description:
 actualPrice: 109.99 EUR
+currency: EUR
+price: 109.99
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Gillette Labs Heated Razor Máquina de Afeitar Caliente + 1 Cuchilla de Recambio + Base de Carga + Enchufe Inteligente  Kit Básico  Regalos Originales para Hombre
 ---
 
 Tienes [Gillette Labs Heated Razor Máquina de Afeitar Caliente + 1 Cuchilla de Recambio + Base de Carga + Enchufe Inteligente  Kit Básico  Regalos Originales para Hombre](https://www.amazon.es/dp/B083KZFMNS/?tag=tolees-21) con un 45.00 % de descuento con precio de oferta de 109.99 EUR (original: 199.99 EUR) en el siguiente enlace!

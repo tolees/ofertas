@@ -10,8 +10,11 @@ author: ring
 slug: B07HS6SGCT
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 54.9 EUR
 inStock: true
+prodname: Sharp GX-BT180 BK  - Altavoz Bluetooth portátil 14 W estéreo  bajos profundos  hasta 10 horas  recargable  impermeable IP56  micrófono para llamadas  con Voice Assistant  negro
 ---
 
 Tienes [Sharp GX-BT180 BK  - Altavoz Bluetooth portátil 14 W estéreo  bajos profundos  hasta 10 horas  recargable  impermeable IP56  micrófono para llamadas  con Voice Assistant  negro](https://www.amazon.es/dp/B07HS6SGCT/?tag=tolees-21) con un 36.27 % de descuento con precio de oferta de 34.99 EUR (original: 54.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FQB1QZG
 description:
 actualPrice: 19.95 EUR
+currency: EUR
+price: 19.95
 comparePrice: 79.99 EUR
 inStock: true
+prodname: JACK & JONES Jjitim Jjoriginal Jos 220 Noos  Vaqueros Slim Hombre  Negro  Black Denim Black Denim   W32/L36
 ---
 
 Está [JACK & JONES Jjitim Jjoriginal Jos 220 Noos  Vaqueros Slim Hombre  Negro  Black Denim Black Denim   W32/L36](https://www.amazon.es/dp/B07FQB1QZG/?tag=tolees-21) con 75.06 de descuento por 19.95 EUR (original: 79.99 EUR) en el siguiente enlace!

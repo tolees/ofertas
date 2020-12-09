@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVP84LF
 description:
 actualPrice: 62.99 EUR
+currency: EUR
+price: 62.99
 comparePrice: 108.99 EUR
 inStock: true
+prodname: Levi s Woodside Utility Parka Chaqueta  jet black  S para Hombre
 ---
 
 Ahora mismo tienes [Levi s Woodside Utility Parka Chaqueta  jet black  S para Hombre](https://www.amazon.es/dp/B07ZVP84LF/?tag=tolees-21) a 62.99 EUR (original: 108.99 EUR) (42.21 %  de descuento) en el siguiente enlace!

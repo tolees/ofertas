@@ -10,8 +10,11 @@ author: ring
 slug: B01M4OZ6SR
 description:
 actualPrice: 50.0 EUR
+currency: EUR
+price: 50.0
 comparePrice: 94.37 EUR
 inStock: true
+prodname: Breaking Bad - La Serie Completa [DVD]
 ---
 
 Tienes [Breaking Bad - La Serie Completa [DVD]](https://www.amazon.es/dp/B01M4OZ6SR/?tag=tolees-21) con un 47.02 % de descuento con precio de oferta de 50.0 EUR (original: 94.37 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B074DYDXSX
 description:
 actualPrice: 368.04 EUR
+currency: EUR
+price: 368.04
 comparePrice: 679.99 EUR
 inStock: true
+prodname: Western Digital My Cloud Home Duo  Nube Personal  1  Blanco Y Gris
 ---
 
 Está [Western Digital My Cloud Home Duo  Nube Personal  1  Blanco Y Gris](https://www.amazon.es/dp/B074DYDXSX/?tag=tolees-21) con 45.88 de descuento por 368.04 EUR (original: 679.99 EUR) en el siguiente enlace!

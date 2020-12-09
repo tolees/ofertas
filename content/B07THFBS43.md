@@ -10,8 +10,11 @@ author: ring
 slug: B07THFBS43
 description:
 actualPrice: 399.99 EUR
+currency: EUR
+price: 399.99
 comparePrice: 549.99 EUR
 inStock: true
+prodname: MSI Optix MAG321CURV - Monitor Gaming Curvo de 31.5" UHD 60Hz   3840 x 2160p  ratio 16:9  Panel VA  Pantalla curva 1500R  4ms respuesta  brillo 300nits  Antiglare  Negro
 ---
 
 Ahora mismo tienes [MSI Optix MAG321CURV - Monitor Gaming Curvo de 31.5" UHD 60Hz   3840 x 2160p  ratio 16:9  Panel VA  Pantalla curva 1500R  4ms respuesta  brillo 300nits  Antiglare  Negro](https://www.amazon.es/dp/B07THFBS43/?tag=tolees-21) a 399.99 EUR (original: 549.99 EUR) (27.27 %  de descuento) en el siguiente enlace!

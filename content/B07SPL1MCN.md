@@ -10,8 +10,11 @@ author: ring
 slug: B07SPL1MCN
 description:
 actualPrice: 27.5 EUR
+currency: EUR
+price: 27.5
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Air Hogs Flight Rider Radio Control  BIZAK 61924646 
 ---
 
 Está [Air Hogs Flight Rider Radio Control  BIZAK 61924646 ](https://www.amazon.es/dp/B07SPL1MCN/?tag=tolees-21) con 49.99 de descuento por 27.5 EUR (original: 54.99 EUR) en el siguiente enlace!

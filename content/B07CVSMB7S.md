@@ -10,8 +10,11 @@ author: ring
 slug: B07CVSMB7S
 description:
 actualPrice: 48.15 EUR
+currency: EUR
+price: 48.15
 comparePrice: 110 EUR
 inStock: true
+prodname: Under Armour Spawn Low  Zapatos de Baloncesto para Hombre  Blanco White/Ash Taupe 100  40.5 EU
 ---
 
 Está [Under Armour Spawn Low  Zapatos de Baloncesto para Hombre  Blanco White/Ash Taupe 100  40.5 EU](https://www.amazon.es/dp/B07CVSMB7S/?tag=tolees-21) con 56.23 de descuento por 48.15 EUR (original: 110 EUR) en el siguiente enlace!

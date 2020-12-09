@@ -10,8 +10,11 @@ author: ring
 slug: B00H1DJXD4
 description:
 actualPrice: 20.25 EUR
+currency: EUR
+price: 20.25
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Columbia Youth Minx Mid Ii Waterproof Omni Heat Botas de Senderismo para Niños/Niñas  Gris Grau  Shale/Glamour 051   Talla 32 EU/13 UK
 ---
 
 Ahora mismo tienes [Columbia Youth Minx Mid Ii Waterproof Omni Heat Botas de Senderismo para Niños/Niñas  Gris Grau  Shale/Glamour 051   Talla 32 EU/13 UK](https://www.amazon.es/dp/B00H1DJXD4/?tag=tolees-21) a 20.25 EUR (original: 79.95 EUR) (74.67 %  de descuento) en el siguiente enlace!

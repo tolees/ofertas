@@ -10,8 +10,11 @@ author: ring
 slug: B01DPJSOT6
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 26.9 EUR
 inStock: true
+prodname: Medisana BS 444 Connect Báscula Analítica Digital de 180 kg  Báscula Personal para Medir la Grasa Corporal  el Agua Corporal  la Masa Muscular  el Peso de los Huesos  Báscula de Grasa Corporal con App
 ---
 
 Está [Medisana BS 444 Connect Báscula Analítica Digital de 180 kg  Báscula Personal para Medir la Grasa Corporal  el Agua Corporal  la Masa Muscular  el Peso de los Huesos  Báscula de Grasa Corporal con App](https://www.amazon.es/dp/B01DPJSOT6/?tag=tolees-21) con 25.69 de descuento por 19.99 EUR (original: 26.9 EUR) en el siguiente enlace!

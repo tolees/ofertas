@@ -10,8 +10,11 @@ author: ring
 slug: B077XPM5LJ
 description:
 actualPrice: 28.98 EUR
+currency: EUR
+price: 28.98
 comparePrice: 95 EUR
 inStock: true
+prodname: New Balance 247v2  Zapatillas para Mujer  Verde  Covert Green/Thistle OB  40 EU
 ---
 
 Ahora mismo tienes [New Balance 247v2  Zapatillas para Mujer  Verde  Covert Green/Thistle OB  40 EU](https://www.amazon.es/dp/B077XPM5LJ/?tag=tolees-21) a 28.98 EUR (original: 95 EUR) (69.49 %  de descuento) en el siguiente enlace!

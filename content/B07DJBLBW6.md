@@ -10,8 +10,11 @@ author: ring
 slug: B07DJBLBW6
 description:
 actualPrice: 22.5 EUR
+currency: EUR
+price: 22.5
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Dockers by Gerli 39or103  Zapatillas Altas para Hombre  Marrón  Cafe 320   44 EU
 ---
 
 Está [Dockers by Gerli 39or103  Zapatillas Altas para Hombre  Marrón  Cafe 320   44 EU](https://www.amazon.es/dp/B07DJBLBW6/?tag=tolees-21) con 71.86 de descuento por 22.5 EUR (original: 79.95 EUR) en el siguiente enlace!

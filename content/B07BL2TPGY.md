@@ -10,8 +10,11 @@ author: ring
 slug: B07BL2TPGY
 description:
 actualPrice: 41.4 EUR
+currency: EUR
+price: 41.4
 comparePrice: 70 EUR
 inStock: true
+prodname: New Balance 520v5  Zapatillas de Running para Mujer  Azul  Air/Cobalt/White Lt5   37 EU
 ---
 
 Está [New Balance 520v5  Zapatillas de Running para Mujer  Azul  Air/Cobalt/White Lt5   37 EU](https://www.amazon.es/dp/B07BL2TPGY/?tag=tolees-21) con 40.86 de descuento por 41.4 EUR (original: 70 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TB5NHFR
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 46.99 EUR
 inStock: true
+prodname: NAVANINO Cortapelos Hombre Profesional  Recortadora de barba  Maquina Cortadora de Pelo Recargable  Cortapelos Nariz y Orejas  Máquina de Afeitar  Recortadora Barba y Precisión Impermeable 5 en 1
 ---
 
 Está [NAVANINO Cortapelos Hombre Profesional  Recortadora de barba  Maquina Cortadora de Pelo Recargable  Cortapelos Nariz y Orejas  Máquina de Afeitar  Recortadora Barba y Precisión Impermeable 5 en 1](https://www.amazon.es/dp/B07TB5NHFR/?tag=tolees-21) con 25.54 de descuento por 34.99 EUR (original: 46.99 EUR) en el siguiente enlace!

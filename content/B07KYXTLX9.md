@@ -10,8 +10,11 @@ author: ring
 slug: B07KYXTLX9
 description:
 actualPrice: 36.55 EUR
+currency: EUR
+price: 36.55
 comparePrice: 55.99 EUR
 inStock: true
+prodname: Springfield 3.G.M.Trench Antelina Chaqueta  Dorado  Tostado 50   Tamaño del Fabricante:42 para Mujer
 ---
 
 Está [Springfield 3.G.M.Trench Antelina Chaqueta  Dorado  Tostado 50   Tamaño del Fabricante:42 para Mujer](https://www.amazon.es/dp/B07KYXTLX9/?tag=tolees-21) con 34.72 de descuento por 36.55 EUR (original: 55.99 EUR) en el siguiente enlace!

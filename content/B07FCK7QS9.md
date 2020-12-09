@@ -10,8 +10,11 @@ author: ring
 slug: B07FCK7QS9
 description:
 actualPrice: 51.47 EUR
+currency: EUR
+price: 51.47
 comparePrice: 120 EUR
 inStock: true
+prodname: Guess - Badlands  Bolsos bandolera Mujer  Azul  Blue/Denim Bdm   20.5x13x8.5 cm  W x H L 
 ---
 
 Está [Guess - Badlands  Bolsos bandolera Mujer  Azul  Blue/Denim Bdm   20.5x13x8.5 cm  W x H L ](https://www.amazon.es/dp/B07FCK7QS9/?tag=tolees-21) con 57.11 de descuento por 51.47 EUR (original: 120 EUR) en el siguiente enlace!

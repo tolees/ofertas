@@ -10,8 +10,11 @@ author: ring
 slug: B015SUBGUY
 description:
 actualPrice: 35.0 EUR
+currency: EUR
+price: 35.0
 comparePrice: 59.95 EUR
 inStock: true
+prodname: Medisana BU 530 connect Tensiómetro para el brazo  pantalla de arritmia  escala de colores de los semáforos de la OMS para una medición precisa de la tensión arterial y del pulso con app
 ---
 
 Ahora mismo tienes [Medisana BU 530 connect Tensiómetro para el brazo  pantalla de arritmia  escala de colores de los semáforos de la OMS para una medición precisa de la tensión arterial y del pulso con app](https://www.amazon.es/dp/B015SUBGUY/?tag=tolees-21) a 35.0 EUR (original: 59.95 EUR) (41.62 %  de descuento) en el siguiente enlace!

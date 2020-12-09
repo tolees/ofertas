@@ -10,8 +10,11 @@ author: ring
 slug: B000CRHCCU
 description:
 actualPrice: 25.9 EUR
+currency: EUR
+price: 25.9
 comparePrice: 45 EUR
 inStock: true
+prodname: Eastpak Jr Bolso bandolera  33 cm  11.5 L  Negro
 ---
 
 Tienes [Eastpak Jr Bolso bandolera  33 cm  11.5 L  Negro](https://www.amazon.es/dp/B000CRHCCU/?tag=tolees-21) con un 42.44 % de descuento con precio de oferta de 25.9 EUR (original: 45 EUR) en el siguiente enlace!

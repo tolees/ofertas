@@ -10,8 +10,11 @@ author: ring
 slug: B07DWKDDRS
 description:
 actualPrice: 18.82 EUR
+currency: EUR
+price: 18.82
 comparePrice: 45 EUR
 inStock: true
+prodname: LE COQ SPORTIF Courtclay Inf  Zapatillas Unisex bebé  Blanco Optical White/Cobalt  21 EU
 ---
 
 Está [LE COQ SPORTIF Courtclay Inf  Zapatillas Unisex bebé  Blanco Optical White/Cobalt  21 EU](https://www.amazon.es/dp/B07DWKDDRS/?tag=tolees-21) con 58.18 de descuento por 18.82 EUR (original: 45 EUR) en el siguiente enlace!

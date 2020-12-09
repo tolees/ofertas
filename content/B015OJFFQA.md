@@ -10,8 +10,11 @@ author: ring
 slug: B015OJFFQA
 description:
 actualPrice: 26.46 EUR
+currency: EUR
+price: 26.46
 comparePrice: 94.95 EUR
 inStock: true
+prodname: Puma Zapatillas Pitlane SF Rojo EU 46
 ---
 
 Ahora mismo tienes [Puma Zapatillas Pitlane SF Rojo EU 46](https://www.amazon.es/dp/B015OJFFQA/?tag=tolees-21) a 26.46 EUR (original: 94.95 EUR) (72.13 %  de descuento) en el siguiente enlace!

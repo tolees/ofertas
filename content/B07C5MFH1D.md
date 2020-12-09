@@ -10,8 +10,11 @@ author: ring
 slug: B07C5MFH1D
 description:
 actualPrice: 6.59 EUR
+currency: EUR
+price: 6.59
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Yo  Tonya Blu-Ray [Blu-ray]
 ---
 
 Ahora mismo tienes [Yo  Tonya Blu-Ray [Blu-ray]](https://www.amazon.es/dp/B07C5MFH1D/?tag=tolees-21) a 6.59 EUR (original: 10.99 EUR) (40.04 %  de descuento) en el siguiente enlace!

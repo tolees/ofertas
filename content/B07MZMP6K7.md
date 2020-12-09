@@ -10,8 +10,11 @@ author: ring
 slug: B07MZMP6K7
 description:
 actualPrice: 23.95 EUR
+currency: EUR
+price: 23.95
 comparePrice: 69.0 EUR
 inStock: true
+prodname: Kickers Kick Col  Botas Slouch Unisex Niños  Marrón  Camel Marrón Perm 116   23 EU
 ---
 
 Está [Kickers Kick Col  Botas Slouch Unisex Niños  Marrón  Camel Marrón Perm 116   23 EU](https://www.amazon.es/dp/B07MZMP6K7/?tag=tolees-21) con 65.29 de descuento por 23.95 EUR (original: 69.0 EUR) en el siguiente enlace!

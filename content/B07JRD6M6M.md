@@ -10,8 +10,11 @@ author: ring
 slug: B07JRD6M6M
 description:
 actualPrice: 23.22 EUR
+currency: EUR
+price: 23.22
 comparePrice: 99.95 EUR
 inStock: true
+prodname: adidas Athletics 24/7 TR M  Zapatillas de Gimnasia Unisex Adulto  Gris Six/Raw White/Grey Three F17  42 EU
 ---
 
 Está [adidas Athletics 24/7 TR M  Zapatillas de Gimnasia Unisex Adulto  Gris Six/Raw White/Grey Three F17  42 EU](https://www.amazon.es/dp/B07JRD6M6M/?tag=tolees-21) con 76.77 de descuento por 23.22 EUR (original: 99.95 EUR) en el siguiente enlace!

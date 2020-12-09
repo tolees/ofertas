@@ -10,8 +10,11 @@ author: ring
 slug: B083ZRFHL4
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 25.7 EUR
 inStock: true
+prodname: ZOUNICH Botella Agua Acero Inoxidable 350/500/650ml Aislamiento de Vacío de Doble Pared  Sin BPA Botella Termica Reutilizable para Niños  Deporte  Gimnasio
 ---
 
 Está [ZOUNICH Botella Agua Acero Inoxidable 350/500/650ml Aislamiento de Vacío de Doble Pared  Sin BPA Botella Termica Reutilizable para Niños  Deporte  Gimnasio](https://www.amazon.es/dp/B083ZRFHL4/?tag=tolees-21) con 30.00 de descuento por 17.99 EUR (original: 25.7 EUR) en el siguiente enlace!

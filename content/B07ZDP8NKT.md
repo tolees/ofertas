@@ -10,8 +10,11 @@ author: ring
 slug: B07ZDP8NKT
 description:
 actualPrice: 80.19 EUR
+currency: EUR
+price: 80.19
 comparePrice: 179.0 EUR
 inStock: true
+prodname: Maxi-Cosi CabrioFix Silla coche bebé  silla de auto infantil reclinable y de alta seguridad  portabebé 0 - 12 meses  0 - 13 kg  color essential black
 ---
 
 Tienes [Maxi-Cosi CabrioFix Silla coche bebé  silla de auto infantil reclinable y de alta seguridad  portabebé 0 - 12 meses  0 - 13 kg  color essential black](https://www.amazon.es/dp/B07ZDP8NKT/?tag=tolees-21) con un 55.20 % de descuento con precio de oferta de 80.19 EUR (original: 179.0 EUR) en el siguiente enlace!

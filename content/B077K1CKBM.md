@@ -10,8 +10,11 @@ author: ring
 slug: B077K1CKBM
 description:
 actualPrice: 8.95 EUR
+currency: EUR
+price: 8.95
 comparePrice: 19.65 EUR
 inStock: true
+prodname: adidas WB L Muñequera de Tenis  Hombre  Negro/Blanco  Talla Única
 ---
 
 Está [adidas WB L Muñequera de Tenis  Hombre  Negro/Blanco  Talla Única](https://www.amazon.es/dp/B077K1CKBM/?tag=tolees-21) con 54.45 de descuento por 8.95 EUR (original: 19.65 EUR) en el siguiente enlace!

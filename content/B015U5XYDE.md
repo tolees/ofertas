@@ -10,8 +10,11 @@ author: ring
 slug: B015U5XYDE
 description:
 actualPrice: 953.9 EUR
+currency: EUR
+price: 953.9
 comparePrice: 1299.0 EUR
 inStock: true
+prodname: Pentax HD FA 24-70 mm F2.8ED SDM WR Zoom Estándar de Alto Rendimiento 24 mm Ultra Angular Construcción Resistente al Clima Potencia de Imagen Excepcional Cristal ED Lentes Asféricas Recubrimiento HD
 ---
 
 Tienes [Pentax HD FA 24-70 mm F2.8ED SDM WR Zoom Estándar de Alto Rendimiento 24 mm Ultra Angular Construcción Resistente al Clima Potencia de Imagen Excepcional Cristal ED Lentes Asféricas Recubrimiento HD](https://www.amazon.es/dp/B015U5XYDE/?tag=tolees-21) con un 26.57 % de descuento con precio de oferta de 953.9 EUR (original: 1299.0 EUR) en el siguiente enlace!

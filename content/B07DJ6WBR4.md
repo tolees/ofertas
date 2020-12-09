@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ6WBR4
 description:
 actualPrice: 13.75 EUR
+currency: EUR
+price: 13.75
 comparePrice: 79.0 EUR
 inStock: true
+prodname: Lacoste Ziane BL 1 CFA  Zapatillas  Blanco  White   35.5 EU
 ---
 
 Tienes [Lacoste Ziane BL 1 CFA  Zapatillas  Blanco  White   35.5 EU](https://www.amazon.es/dp/B07DJ6WBR4/?tag=tolees-21) con un 82.59 % de descuento con precio de oferta de 13.75 EUR (original: 79.0 EUR) en el siguiente enlace!

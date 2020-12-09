@@ -10,8 +10,11 @@ author: ring
 slug: B007KPRCFO
 description:
 actualPrice: 116.99 EUR
+currency: EUR
+price: 116.99
 comparePrice: 216.59 EUR
 inStock: true
+prodname: Bosch Professional GWS 24-230 JH - Amoladora angular  2500 W  6500 rpm  Ø disco 230 mm  en caja 
 ---
 
 Tienes [Bosch Professional GWS 24-230 JH - Amoladora angular  2500 W  6500 rpm  Ø disco 230 mm  en caja ](https://www.amazon.es/dp/B007KPRCFO/?tag=tolees-21) con un 45.99 % de descuento con precio de oferta de 116.99 EUR (original: 216.59 EUR) en el siguiente enlace!

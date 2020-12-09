@@ -10,8 +10,11 @@ author: ring
 slug: B071WLRQKM
 description:
 actualPrice: 22.89 EUR
+currency: EUR
+price: 22.89
 comparePrice: 59.95 EUR
 inStock: true
+prodname: adidas Nemeziz Messi 17.4 FxG  Zapatillas de Fútbol para Hombre   FTWR White/Legend Ink/Energy Blue   42 EU
 ---
 
 Está [adidas Nemeziz Messi 17.4 FxG  Zapatillas de Fútbol para Hombre   FTWR White/Legend Ink/Energy Blue   42 EU](https://www.amazon.es/dp/B071WLRQKM/?tag=tolees-21) con 61.82 de descuento por 22.89 EUR (original: 59.95 EUR) en el siguiente enlace!

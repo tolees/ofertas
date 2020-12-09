@@ -10,8 +10,11 @@ author: ring
 slug: B07CTSL5C5
 description:
 actualPrice: 37.68 EUR
+currency: EUR
+price: 37.68
 comparePrice: 50.66 EUR
 inStock: true
+prodname: VTech- Kidizoom Smart Watch DX2 Juguete  Color Azul  1.5 x 4.6 x 22.4 cm  193803 
 ---
 
 Ahora mismo tienes [VTech- Kidizoom Smart Watch DX2 Juguete  Color Azul  1.5 x 4.6 x 22.4 cm  193803 ](https://www.amazon.es/dp/B07CTSL5C5/?tag=tolees-21) a 37.68 EUR (original: 50.66 EUR) (25.62 %  de descuento) en el siguiente enlace!

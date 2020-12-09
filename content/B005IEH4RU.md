@@ -10,8 +10,11 @@ author: ring
 slug: B005IEH4RU
 description:
 actualPrice: 4.39 EUR
+currency: EUR
+price: 4.39
 comparePrice: 9.95 EUR
 inStock: true
+prodname: Bourjois Effect 3d Gloss Gloss Tono 20 Rose symphonic - 21 gr.
 ---
 
 Está [Bourjois Effect 3d Gloss Gloss Tono 20 Rose symphonic - 21 gr.](https://www.amazon.es/dp/B005IEH4RU/?tag=tolees-21) con 55.88 de descuento por 4.39 EUR (original: 9.95 EUR) en el siguiente enlace!

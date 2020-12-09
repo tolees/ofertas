@@ -10,8 +10,11 @@ author: ring
 slug: B001LMWCZ2
 description:
 actualPrice: 4.4 EUR
+currency: EUR
+price: 4.4
 comparePrice: 6.1 EUR
 inStock: true
+prodname: IBILI 707700 - Set 4 Molde Empanadillas
 ---
 
 Está [IBILI 707700 - Set 4 Molde Empanadillas](https://www.amazon.es/dp/B001LMWCZ2/?tag=tolees-21) con 27.87 de descuento por 4.4 EUR (original: 6.1 EUR) en el siguiente enlace!

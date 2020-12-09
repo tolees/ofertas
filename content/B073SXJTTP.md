@@ -10,8 +10,11 @@ author: ring
 slug: B073SXJTTP
 description:
 actualPrice: 19.33 EUR
+currency: EUR
+price: 19.33
 comparePrice: 99.99 EUR
 inStock: true
+prodname: JACK & JONES  Vaqueros Slim para Hombre  Azul  Blue Denim Blue Denim   W32/L36  Talla del fabricante: 32 
 ---
 
 Ahora mismo tienes [JACK & JONES  Vaqueros Slim para Hombre  Azul  Blue Denim Blue Denim   W32/L36  Talla del fabricante: 32 ](https://www.amazon.es/dp/B073SXJTTP/?tag=tolees-21) a 19.33 EUR (original: 99.99 EUR) (80.67 %  de descuento) en el siguiente enlace!

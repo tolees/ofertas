@@ -10,8 +10,11 @@ author: ring
 slug: B079RLV7NG
 description:
 actualPrice: 108.0 EUR
+currency: EUR
+price: 108.0
 comparePrice: 179.99 EUR
 inStock: true
+prodname: Sorel Madson Chukka Waterproof  Botas para Mujer  Marrón 01  Camel Brown   37 EU
 ---
 
 Está [Sorel Madson Chukka Waterproof  Botas para Mujer  Marrón 01  Camel Brown   37 EU](https://www.amazon.es/dp/B079RLV7NG/?tag=tolees-21) con 40.00 de descuento por 108.0 EUR (original: 179.99 EUR) en el siguiente enlace!

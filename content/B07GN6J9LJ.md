@@ -10,8 +10,11 @@ author: ring
 slug: B07GN6J9LJ
 description:
 actualPrice: 18.98 EUR
+currency: EUR
+price: 18.98
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Dispensador de Pasta de Dientes y Conjunto de Portacepillos de Dientes con Montaje en la Pared - Manos Libres 2 Exprimidores de Pasta de Dientes con 5 Cepillos
 ---
 
 Ahora mismo tienes [Dispensador de Pasta de Dientes y Conjunto de Portacepillos de Dientes con Montaje en la Pared - Manos Libres 2 Exprimidores de Pasta de Dientes con 5 Cepillos](https://www.amazon.es/dp/B07GN6J9LJ/?tag=tolees-21) a 18.98 EUR (original: 39.99 EUR) (52.54 %  de descuento) en el siguiente enlace!

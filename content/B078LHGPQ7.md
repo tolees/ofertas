@@ -10,8 +10,11 @@ author: ring
 slug: B078LHGPQ7
 description:
 actualPrice: 5.49 EUR
+currency: EUR
+price: 5.49
 comparePrice: 10.2 EUR
 inStock: true
+prodname: El Gran Showman [DVD]
 ---
 
 Está [El Gran Showman [DVD]](https://www.amazon.es/dp/B078LHGPQ7/?tag=tolees-21) con 46.18 de descuento por 5.49 EUR (original: 10.2 EUR) en el siguiente enlace!

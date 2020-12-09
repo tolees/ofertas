@@ -10,8 +10,11 @@ author: ring
 slug: B07TVMP9T2
 description:
 actualPrice: 5.15 EUR
+currency: EUR
+price: 5.15
 comparePrice: 6.99 EUR
 inStock: true
+prodname: Cable alargador USB 3.0 macho a hembra  cable de datos USB para PC  teclado  impresora  cámara  ratón  controlador de juego de 1 m
 ---
 
 Ahora mismo tienes [Cable alargador USB 3.0 macho a hembra  cable de datos USB para PC  teclado  impresora  cámara  ratón  controlador de juego de 1 m](https://www.amazon.es/dp/B07TVMP9T2/?tag=tolees-21) a 5.15 EUR (original: 6.99 EUR) (26.32 %  de descuento) en el siguiente enlace!

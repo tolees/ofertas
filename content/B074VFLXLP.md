@@ -10,8 +10,11 @@ author: ring
 slug: B074VFLXLP
 description:
 actualPrice: 25.0 EUR
+currency: EUR
+price: 25.0
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Schleich Colección Horse Club  Caravana para Encuentros Secretos del Club  33 cm
 ---
 
 Está [Schleich Colección Horse Club  Caravana para Encuentros Secretos del Club  33 cm](https://www.amazon.es/dp/B074VFLXLP/?tag=tolees-21) con 49.99 de descuento por 25.0 EUR (original: 49.99 EUR) en el siguiente enlace!

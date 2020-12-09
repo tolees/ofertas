@@ -10,8 +10,11 @@ author: ring
 slug: B07PWK4R9S
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 32.99 EUR
 inStock: true
+prodname: HUANUO Soporte 2 Monitores  Totalmente Ajustable para Dos Pantallas LCD LED de Tamaño Desde 13 a 27 Pulgadas  2 Opciones de Montaje  VESA 75/100
 ---
 
 Ahora mismo tienes [HUANUO Soporte 2 Monitores  Totalmente Ajustable para Dos Pantallas LCD LED de Tamaño Desde 13 a 27 Pulgadas  2 Opciones de Montaje  VESA 75/100](https://www.amazon.es/dp/B07PWK4R9S/?tag=tolees-21) a 23.99 EUR (original: 32.99 EUR) (27.28 %  de descuento) en el siguiente enlace!

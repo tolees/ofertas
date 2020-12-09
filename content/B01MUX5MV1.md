@@ -10,8 +10,11 @@ author: ring
 slug: B01MUX5MV1
 description:
 actualPrice: 26.06 EUR
+currency: EUR
+price: 26.06
 comparePrice: 41.1 EUR
 inStock: true
+prodname: Chelino Fashion & Love  Talla 6  162 pañales
 ---
 
 Está [Chelino Fashion & Love  Talla 6  162 pañales](https://www.amazon.es/dp/B01MUX5MV1/?tag=tolees-21) con 36.59 de descuento por 26.06 EUR (original: 41.1 EUR) en el siguiente enlace!

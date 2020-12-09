@@ -10,8 +10,11 @@ author: ring
 slug: B07JXTWXZL
 description:
 actualPrice: 7.01 EUR
+currency: EUR
+price: 7.01
 comparePrice: 49 EUR
 inStock: true
+prodname: DAM DMX190BK - Correa de Silicona para Apple Watch  42 mm  Color Negro
 ---
 
 Tienes [DAM DMX190BK - Correa de Silicona para Apple Watch  42 mm  Color Negro](https://www.amazon.es/dp/B07JXTWXZL/?tag=tolees-21) con un 85.69 % de descuento con precio de oferta de 7.01 EUR (original: 49 EUR) en el siguiente enlace!

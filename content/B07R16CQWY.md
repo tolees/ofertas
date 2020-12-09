@@ -10,8 +10,11 @@ author: ring
 slug: B07R16CQWY
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 56.99 EUR
 inStock: true
+prodname: Disco Duro Externo Portátil DE 2 5" 500GB USB 3.0 SATA HDD de Almacenamiento para Escritorio  Portátil  MacBook  Chromebook  500GB  Black 
 ---
 
 Está [Disco Duro Externo Portátil DE 2 5" 500GB USB 3.0 SATA HDD de Almacenamiento para Escritorio  Portátil  MacBook  Chromebook  500GB  Black ](https://www.amazon.es/dp/B07R16CQWY/?tag=tolees-21) con 29.83 de descuento por 39.99 EUR (original: 56.99 EUR) en el siguiente enlace!

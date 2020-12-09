@@ -10,8 +10,11 @@ author: ring
 slug: B07MMW1SH8
 description:
 actualPrice: 12.71 EUR
+currency: EUR
+price: 12.71
 comparePrice: 16.95 EUR
 inStock: true
+prodname: Omega 3 Ácidos grasos + Vitamina E. Aceite de pescado salvaje. Alta dosis de EPA 700 mg y DHA 500 mg/ Dosis diaria | Fabricado en España |Complemento alimenticio a base de aceite de pescado puro.
 ---
 
 Está [Omega 3 Ácidos grasos + Vitamina E. Aceite de pescado salvaje. Alta dosis de EPA 700 mg y DHA 500 mg/ Dosis diaria | Fabricado en España |Complemento alimenticio a base de aceite de pescado puro.](https://www.amazon.es/dp/B07MMW1SH8/?tag=tolees-21) con 25.01 de descuento por 12.71 EUR (original: 16.95 EUR) en el siguiente enlace!

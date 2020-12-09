@@ -10,8 +10,11 @@ author: ring
 slug: B07LFZK7JN
 description:
 actualPrice: 47.21 EUR
+currency: EUR
+price: 47.21
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Geox Women s D New Annya Mid A Closed Toe Heels  Black  Black C9997   7.5 UK
 ---
 
 Está [Geox Women s D New Annya Mid A Closed Toe Heels  Black  Black C9997   7.5 UK](https://www.amazon.es/dp/B07LFZK7JN/?tag=tolees-21) con 52.74 de descuento por 47.21 EUR (original: 99.9 EUR) en el siguiente enlace!

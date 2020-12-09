@@ -10,8 +10,11 @@ author: ring
 slug: B07L45YLTW
 description:
 actualPrice: 45 EUR
+currency: EUR
+price: 45
 comparePrice: 90 EUR
 inStock: true
+prodname: The North Face Mini Crevasse - Mochila  Four Leaf Clover  Talla Única
 ---
 
 Tienes [The North Face Mini Crevasse - Mochila  Four Leaf Clover  Talla Única](https://www.amazon.es/dp/B07L45YLTW/?tag=tolees-21) con un 50.00 % de descuento con precio de oferta de 45 EUR (original: 90 EUR) en el siguiente enlace!

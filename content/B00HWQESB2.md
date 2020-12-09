@@ -10,8 +10,11 @@ author: ring
 slug: B00HWQESB2
 description:
 actualPrice: 22.24 EUR
+currency: EUR
+price: 22.24
 comparePrice: 32.65 EUR
 inStock: true
+prodname: Lancaster Self Tan Beauty Face Smoothing Gel 01-Light Autobronceador - 50 ml
 ---
 
 Tienes [Lancaster Self Tan Beauty Face Smoothing Gel 01-Light Autobronceador - 50 ml](https://www.amazon.es/dp/B00HWQESB2/?tag=tolees-21) con un 31.88 % de descuento con precio de oferta de 22.24 EUR (original: 32.65 EUR) en el siguiente enlace!

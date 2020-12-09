@@ -10,8 +10,11 @@ author: ring
 slug: B07N9JCYY8
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 199.0 EUR
 inStock: true
+prodname: JBL LIVE 650BTNC - Auriculares Inalámbricos con Bluetooth y cancelación de ruido  sonido de calidad JBL con asistente de voz integrado  hasta 30h de música  azul
 ---
 
 Tienes [JBL LIVE 650BTNC - Auriculares Inalámbricos con Bluetooth y cancelación de ruido  sonido de calidad JBL con asistente de voz integrado  hasta 30h de música  azul](https://www.amazon.es/dp/B07N9JCYY8/?tag=tolees-21) con un 49.75 % de descuento con precio de oferta de 99.99 EUR (original: 199.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B085VT9WFH
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Oxímetro de Pulso  Pulsioximetro de Dedo Profesional con Pantalla OLED que Medición y Lectura Instantánea de SpO2  PR y PI Aplica para Adultos y Niños
 ---
 
 Está [Oxímetro de Pulso  Pulsioximetro de Dedo Profesional con Pantalla OLED que Medición y Lectura Instantánea de SpO2  PR y PI Aplica para Adultos y Niños](https://www.amazon.es/dp/B085VT9WFH/?tag=tolees-21) con 26.93 de descuento por 18.99 EUR (original: 25.99 EUR) en el siguiente enlace!

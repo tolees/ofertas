@@ -10,8 +10,11 @@ author: ring
 slug: B01NAIGV2A
 description:
 actualPrice: 20.93 EUR
+currency: EUR
+price: 20.93
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Energy Music Box 5  Bluetooth  10 W  Manos Libres  Audio-in y batería Recargable 
 ---
 
 Tienes [Energy Music Box 5  Bluetooth  10 W  Manos Libres  Audio-in y batería Recargable ](https://www.amazon.es/dp/B01NAIGV2A/?tag=tolees-21) con un 58.06 % de descuento con precio de oferta de 20.93 EUR (original: 49.9 EUR) en el siguiente enlace!

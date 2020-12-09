@@ -10,8 +10,11 @@ author: ring
 slug: B076H3HPGM
 description:
 actualPrice: 26.69 EUR
+currency: EUR
+price: 26.69
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Kipling FASTER Mochila escolar  28 cm  7 litros  Rosa  True Pink 
 ---
 
 Está [Kipling FASTER Mochila escolar  28 cm  7 litros  Rosa  True Pink ](https://www.amazon.es/dp/B076H3HPGM/?tag=tolees-21) con 58.94 de descuento por 26.69 EUR (original: 65.0 EUR) en el siguiente enlace!

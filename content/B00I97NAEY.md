@@ -10,8 +10,11 @@ author: ring
 slug: B00I97NAEY
 description:
 actualPrice: 37.9 EUR
+currency: EUR
+price: 37.9
 comparePrice: 69.0 EUR
 inStock: true
+prodname: Bissell Steam Shot Vaporeta de Mano  1050 W  0.36 litros  83 Decibelios  18/10 Steel  Titanio/Azul
 ---
 
 Está [Bissell Steam Shot Vaporeta de Mano  1050 W  0.36 litros  83 Decibelios  18/10 Steel  Titanio/Azul](https://www.amazon.es/dp/B00I97NAEY/?tag=tolees-21) con 45.07 de descuento por 37.9 EUR (original: 69.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01DIJIE1Q
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 30.99 EUR
 inStock: true
+prodname: Logitech G440 Alfombrilla de Ratón Gaming Rígida  Para Gaming de Alto DPI  340 x 280mm  Grosor 3mm  Para Ratón con Cable o Inalámbrico PC/Mac   Negro
 ---
 
 Está [Logitech G440 Alfombrilla de Ratón Gaming Rígida  Para Gaming de Alto DPI  340 x 280mm  Grosor 3mm  Para Ratón con Cable o Inalámbrico PC/Mac   Negro](https://www.amazon.es/dp/B01DIJIE1Q/?tag=tolees-21) con 25.81 de descuento por 22.99 EUR (original: 30.99 EUR) en el siguiente enlace!

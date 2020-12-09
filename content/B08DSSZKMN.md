@@ -10,8 +10,11 @@ author: ring
 slug: B08DSSZKMN
 description:
 actualPrice: 7.5 EUR
+currency: EUR
+price: 7.5
 comparePrice: 16.99 EUR
 inStock: true
+prodname: La herencia [Blu-ray]
 ---
 
 Tienes [La herencia [Blu-ray]](https://www.amazon.es/dp/B08DSSZKMN/?tag=tolees-21) con un 55.86 % de descuento con precio de oferta de 7.5 EUR (original: 16.99 EUR) en el siguiente enlace!

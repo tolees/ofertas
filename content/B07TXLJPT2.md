@@ -10,8 +10,11 @@ author: ring
 slug: B07TXLJPT2
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Funko- Pop Animation: Rick & Morty-Space Suit Rick w/Snake and Morty Collectible Toy  Multicolor  45434 
 ---
 
 Ahora mismo tienes [Funko- Pop Animation: Rick & Morty-Space Suit Rick w/Snake and Morty Collectible Toy  Multicolor  45434 ](https://www.amazon.es/dp/B07TXLJPT2/?tag=tolees-21) a 8.99 EUR (original: 14.99 EUR) (40.03 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07MBFG7YM
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Shoulder Brace apoyo calor Protective Gear con correa ajustable de neopreno Wrap cinturón banda para Rotator puños  ca conjunto trastornado Prevención y pantalla  para hombro izquierdo
 ---
 
 Está [Shoulder Brace apoyo calor Protective Gear con correa ajustable de neopreno Wrap cinturón banda para Rotator puños  ca conjunto trastornado Prevención y pantalla  para hombro izquierdo](https://www.amazon.es/dp/B07MBFG7YM/?tag=tolees-21) con 44.46 de descuento por 19.99 EUR (original: 35.99 EUR) en el siguiente enlace!

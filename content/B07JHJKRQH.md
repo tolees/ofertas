@@ -10,8 +10,11 @@ author: ring
 slug: B07JHJKRQH
 description:
 actualPrice: 37.63 EUR
+currency: EUR
+price: 37.63
 comparePrice: 130 EUR
 inStock: true
+prodname: Armani Exchange J17 Slim Vaqueros  Gris  Grey Denim 0904   W29/L32  Talla del Fabricante: 29  para Hombre
 ---
 
 Ahora mismo tienes [Armani Exchange J17 Slim Vaqueros  Gris  Grey Denim 0904   W29/L32  Talla del Fabricante: 29  para Hombre](https://www.amazon.es/dp/B07JHJKRQH/?tag=tolees-21) a 37.63 EUR (original: 130 EUR) (71.05 %  de descuento) en el siguiente enlace!

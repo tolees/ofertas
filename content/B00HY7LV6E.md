@@ -10,8 +10,11 @@ author: ring
 slug: B00HY7LV6E
 description:
 actualPrice: 15.28 EUR
+currency: EUR
+price: 15.28
 comparePrice: 20.75 EUR
 inStock: true
+prodname: Bosch 2607017322 Puntas de destornillador + trinquete  juego de 26 
 ---
 
 Tienes [Bosch 2607017322 Puntas de destornillador + trinquete  juego de 26 ](https://www.amazon.es/dp/B00HY7LV6E/?tag=tolees-21) con un 26.36 % de descuento con precio de oferta de 15.28 EUR (original: 20.75 EUR) en el siguiente enlace!

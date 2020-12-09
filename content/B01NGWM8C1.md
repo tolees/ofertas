@@ -10,8 +10,11 @@ author: ring
 slug: B01NGWM8C1
 description:
 actualPrice: 93.67 EUR
+currency: EUR
+price: 93.67
 comparePrice: 140 EUR
 inStock: true
+prodname: Merrell Annex Trak Low  Zapatillas para Hombre  Azul Sodalite  44 EU
 ---
 
 Ahora mismo tienes [Merrell Annex Trak Low  Zapatillas para Hombre  Azul Sodalite  44 EU](https://www.amazon.es/dp/B01NGWM8C1/?tag=tolees-21) a 93.67 EUR (original: 140 EUR) (33.09 %  de descuento) en el siguiente enlace!

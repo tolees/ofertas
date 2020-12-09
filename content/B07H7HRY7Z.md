@@ -10,8 +10,11 @@ author: ring
 slug: B07H7HRY7Z
 description:
 actualPrice: 13.51 EUR
+currency: EUR
+price: 13.51
 comparePrice: 32.95 EUR
 inStock: true
+prodname: Desigual Girl Knit T-Shirt Short Sleeve  TS_Ottawa   Camiseta Niñas  Rojo  Pink Fuschia 3022   104  Talla del Fabricante: 3/4 
 ---
 
 Tienes [Desigual Girl Knit T-Shirt Short Sleeve  TS_Ottawa   Camiseta Niñas  Rojo  Pink Fuschia 3022   104  Talla del Fabricante: 3/4 ](https://www.amazon.es/dp/B07H7HRY7Z/?tag=tolees-21) con un 59.00 % de descuento con precio de oferta de 13.51 EUR (original: 32.95 EUR) en el siguiente enlace!

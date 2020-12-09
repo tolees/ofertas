@@ -10,8 +10,11 @@ author: ring
 slug: B085VXTWBY
 description:
 actualPrice: 26.0 EUR
+currency: EUR
+price: 26.0
 comparePrice: 35.99 EUR
 inStock: true
+prodname: Android TV Box  Android 10.0 TV Box 4GB RAM/32GB ROM Allwinnner H616 Quad-Core Support 2.4Ghz WiFi 6K HDMI Smart TV Box
 ---
 
 Está [Android TV Box  Android 10.0 TV Box 4GB RAM/32GB ROM Allwinnner H616 Quad-Core Support 2.4Ghz WiFi 6K HDMI Smart TV Box](https://www.amazon.es/dp/B085VXTWBY/?tag=tolees-21) con 27.76 de descuento por 26.0 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07HFTLJCJ
 description:
 actualPrice: 18.1 EUR
+currency: EUR
+price: 18.1
 comparePrice: 49.76 EUR
 inStock: true
+prodname: Shock Absorber Ultimate Run Bra Padded  Sujetador Deportivo para Mujer  Azul  Bleu D été 0a7  110C
 ---
 
 Tienes [Shock Absorber Ultimate Run Bra Padded  Sujetador Deportivo para Mujer  Azul  Bleu D été 0a7  110C](https://www.amazon.es/dp/B07HFTLJCJ/?tag=tolees-21) con un 63.63 % de descuento con precio de oferta de 18.1 EUR (original: 49.76 EUR) en el siguiente enlace!

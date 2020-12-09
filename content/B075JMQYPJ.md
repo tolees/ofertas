@@ -10,8 +10,11 @@ author: ring
 slug: B075JMQYPJ
 description:
 actualPrice: 49.9 EUR
+currency: EUR
+price: 49.9
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Philips Senseo Original XL HD6555/22 Cafetera Monodosis con Tecnología Coffee Boost  Negro  22.5x46.6x37 cm
 ---
 
 Está [Philips Senseo Original XL HD6555/22 Cafetera Monodosis con Tecnología Coffee Boost  Negro  22.5x46.6x37 cm](https://www.amazon.es/dp/B075JMQYPJ/?tag=tolees-21) con 37.62 de descuento por 49.9 EUR (original: 79.99 EUR) en el siguiente enlace!

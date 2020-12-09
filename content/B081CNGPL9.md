@@ -10,8 +10,11 @@ author: ring
 slug: B081CNGPL9
 description:
 actualPrice: 69.9 EUR
+currency: EUR
+price: 69.9
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Geographical Norway Parka Hombre Boomerang Ass A 068 rol 7 + BS
 ---
 
 Está [Geographical Norway Parka Hombre Boomerang Ass A 068 rol 7 + BS](https://www.amazon.es/dp/B081CNGPL9/?tag=tolees-21) con 29.39 de descuento por 69.9 EUR (original: 99.0 EUR) en el siguiente enlace!

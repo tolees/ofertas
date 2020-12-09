@@ -10,8 +10,11 @@ author: ring
 slug: B081FRQZYB
 description:
 actualPrice: 23.85 EUR
+currency: EUR
+price: 23.85
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Monster Jam Steel Titans
 ---
 
 Está [Monster Jam Steel Titans](https://www.amazon.es/dp/B081FRQZYB/?tag=tolees-21) con 40.36 de descuento por 23.85 EUR (original: 39.99 EUR) en el siguiente enlace!

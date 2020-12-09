@@ -10,8 +10,11 @@ author: ring
 slug: B00O9DQADU
 description:
 actualPrice: 174.41 EUR
+currency: EUR
+price: 174.41
 comparePrice: 279.0 EUR
 inStock: true
+prodname: Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero MK8362
 ---
 
 Está [Michael Kors Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero MK8362](https://www.amazon.es/dp/B00O9DQADU/?tag=tolees-21) con 37.49 de descuento por 174.41 EUR (original: 279.0 EUR) en el siguiente enlace!

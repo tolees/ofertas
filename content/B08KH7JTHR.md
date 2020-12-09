@@ -10,8 +10,11 @@ author: ring
 slug: B08KH7JTHR
 description:
 actualPrice: 5.49 EUR
+currency: EUR
+price: 5.49
 comparePrice: 10.99 EUR
 inStock: true
+prodname: Los Goonies [Blu-ray]
 ---
 
 Ahora mismo tienes [Los Goonies [Blu-ray]](https://www.amazon.es/dp/B08KH7JTHR/?tag=tolees-21) a 5.49 EUR (original: 10.99 EUR) (50.05 %  de descuento) en el siguiente enlace!

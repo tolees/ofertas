@@ -10,8 +10,11 @@ author: ring
 slug: B07QR1WPP9
 description:
 actualPrice: 46.99 EUR
+currency: EUR
+price: 46.99
 comparePrice: 100.0 EUR
 inStock: true
+prodname: LIGHTAILING Conjunto de Luces  Simpsons The Kwik-E-Mart  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 71016 NO Incluido en el Modelo 
 ---
 
 Tienes [LIGHTAILING Conjunto de Luces  Simpsons The Kwik-E-Mart  Modelo de Construcción de Bloques - Kit de luz LED Compatible con Lego 71016 NO Incluido en el Modelo ](https://www.amazon.es/dp/B07QR1WPP9/?tag=tolees-21) con un 53.01 % de descuento con precio de oferta de 46.99 EUR (original: 100.0 EUR) en el siguiente enlace!

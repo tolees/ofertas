@@ -10,8 +10,11 @@ author: ring
 slug: B011NOWE0U
 description:
 actualPrice: 0.91 EUR
+currency: EUR
+price: 0.91
 comparePrice: 1.84 EUR
 inStock: true
+prodname: RuiChy - máquina afiladora de tijeras y cuchillos
 ---
 
 Está [RuiChy - máquina afiladora de tijeras y cuchillos](https://www.amazon.es/dp/B011NOWE0U/?tag=tolees-21) con 50.54 de descuento por 0.91 EUR (original: 1.84 EUR) en el siguiente enlace!
