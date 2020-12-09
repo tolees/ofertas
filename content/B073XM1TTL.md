@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'homgeek Batidora de Vaso Individual  Lic al 40.01 % de descuento'
-date: 2020-11-30 20:40:54
+date: 2020-12-09 20:50:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HMxo2U1uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HMxo2U1uL._SL200_.jpg' ]
 comments: true

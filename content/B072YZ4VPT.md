@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Marvel- Funko Pop Thor: Ragnarok Figura de Vinilo Heimdall  13769'
 ---
 
-Ahora mismo tienes [Marvel- Funko Pop Thor: Ragnarok Figura de Vinilo Heimdall  13769](https://www.amazon.es/dp/B072YZ4VPT/?tag=tolees-21) a 9.94 EUR (original: 14.99 EUR) (33.69 %  de descuento) en el siguiente enlace!
+Está [Marvel- Funko Pop Thor: Ragnarok Figura de Vinilo Heimdall  13769](https://www.amazon.es/dp/B072YZ4VPT/?tag=tolees-21) con 33.69 de descuento por 9.94 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![Marvel- Funko Pop Thor: Ragnarok Figura ](https://images-eu.ssl-images-amazon.com/images/I/51qm%2BRyQkfL._SL200_.jpg)](https://www.amazon.es/dp/B072YZ4VPT/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B072YZ4VPT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B072YZ4VPT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

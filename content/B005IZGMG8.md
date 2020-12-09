@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.37 % en Panasonic KX-TG1612 - Teléfono Fijo inal'
-date: 2020-12-08 20:12:09
+date: 2020-12-09 20:26:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DliBwKv1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DliBwKv1L._SL200_.jpg' ]
 comments: true

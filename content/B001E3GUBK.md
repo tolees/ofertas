@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.45 % en Pentel PG1015 - Portaminas 0.5mm'
-date: 2020-12-08 20:07:05
+date: 2020-12-09 20:20:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/310YL1zkCcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310YL1zkCcL._SL200_.jpg' ]
 comments: true

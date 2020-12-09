@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Piz Buin - Protección Solar Ultra Light 30 Spray  200 ml'
 ---
 
-Está [Piz Buin - Protección Solar Ultra Light 30 Spray  200 ml](https://www.amazon.es/dp/B001EJOFHK/?tag=tolees-21) con 39.20 de descuento por 12.1 EUR (original: 19.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Piz Buin - Protección Solar Ultra Light 30 Spray  200 ml](https://www.amazon.es/dp/B001EJOFHK/?tag=tolees-21) a 12.1 EUR (original: 19.9 EUR) (39.20 %  de descuento) en el siguiente enlace!
 
 [![Piz Buin - Protección Solar Ultra Light ](https://m.media-amazon.com/images/I/31owyGrNTRL._SL200_.jpg)](https://www.amazon.es/dp/B001EJOFHK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B001EJOFHK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B001EJOFHK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

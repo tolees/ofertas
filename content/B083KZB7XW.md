@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Corsair Dark Core RGB PRO SE  Ratón para Juegos Inalámbrico/Cable con Carga Inalámbrica Qi  Sensor Óptico de 18.000 PPP  Ocho Botones Programables  Retroiluminación Dinámica Multicolor  Negro'
 ---
 
-Está [Corsair Dark Core RGB PRO SE  Ratón para Juegos Inalámbrico/Cable con Carga Inalámbrica Qi  Sensor Óptico de 18.000 PPP  Ocho Botones Programables  Retroiluminación Dinámica Multicolor  Negro](https://www.amazon.es/dp/B083KZB7XW/?tag=tolees-21) con 25.46 de descuento por 81.99 EUR (original: 109.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Corsair Dark Core RGB PRO SE  Ratón para Juegos Inalámbrico/Cable con Carga Inalámbrica Qi  Sensor Óptico de 18.000 PPP  Ocho Botones Programables  Retroiluminación Dinámica Multicolor  Negro](https://www.amazon.es/dp/B083KZB7XW/?tag=tolees-21) a 81.99 EUR (original: 109.99 EUR) (25.46 %  de descuento) en el siguiente enlace!
 
 [![Corsair Dark Core RGB PRO SE  Ratón para](https://m.media-amazon.com/images/I/41KA8-Ma1HL._SL200_.jpg)](https://www.amazon.es/dp/B083KZB7XW/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B083KZB7XW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B083KZB7XW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

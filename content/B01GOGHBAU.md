@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 59.89 % en Warcraft - L inizio  Steelbook   DVD  [I'
+title: 'Warcraft - L inizio  Steelbook   DVD  [I al 59.89 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NFJulZjPL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NFJulZjPL._SL200_.jpg' ]
@@ -17,11 +17,11 @@ inStock: true
 prodname: 'Warcraft - L inizio  Steelbook   DVD  [Italia] [Blu-ray]'
 ---
 
-Tienes [Warcraft - L inizio  Steelbook   DVD  [Italia] [Blu-ray]](https://www.amazon.es/dp/B01GOGHBAU/?tag=tolees-21) con un 59.89 % de descuento con precio de oferta de 6.06 EUR (original: 15.11 EUR) en el siguiente enlace!
+Está [Warcraft - L inizio  Steelbook   DVD  [Italia] [Blu-ray]](https://www.amazon.es/dp/B01GOGHBAU/?tag=tolees-21) con 59.89 de descuento por 6.06 EUR (original: 15.11 EUR) en el siguiente enlace!
 
 [![Warcraft - L inizio  Steelbook   DVD  [I](https://images-eu.ssl-images-amazon.com/images/I/51NFJulZjPL._SL200_.jpg)](https://www.amazon.es/dp/B01GOGHBAU/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01GOGHBAU/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01GOGHBAU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

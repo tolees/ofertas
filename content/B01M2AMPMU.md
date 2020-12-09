@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Cable de carga USB-C  2 metros  al 40.40 % de descuento'
-date: 2020-12-03 17:04:01
+date: 2020-12-09 20:49:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/310ehUUQzRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/310ehUUQzRL._SL200_.jpg' ]
 comments: true

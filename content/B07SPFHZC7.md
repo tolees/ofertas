@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Pop TV: Stranger Things - 6" Monster'
 ---
 
-Ahora mismo tienes [Pop TV: Stranger Things - 6" Monster](https://www.amazon.es/dp/B07SPFHZC7/?tag=tolees-21) a 10.0 EUR (original: 20.75 EUR) (51.81 %  de descuento) en el siguiente enlace!
+Está [Pop TV: Stranger Things - 6" Monster](https://www.amazon.es/dp/B07SPFHZC7/?tag=tolees-21) con 51.81 de descuento por 10.0 EUR (original: 20.75 EUR) en el siguiente enlace!
 
 [![Pop TV: Stranger Things - 6" Monster](https://m.media-amazon.com/images/I/51KlvwyRq-L._SL200_.jpg)](https://www.amazon.es/dp/B07SPFHZC7/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07SPFHZC7/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07SPFHZC7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

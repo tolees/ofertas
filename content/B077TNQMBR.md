@@ -17,10 +17,12 @@ inStock: true
 prodname: 'New Balance Ka247V1I  Zapatillas Unisex Niños  Azul  Blue/Silver   17 EU'
 ---
 
-Ahora mismo tienes [New Balance Ka247V1I  Zapatillas Unisex Niños  Azul  Blue/Silver   17 EU](https://www.amazon.es/dp/B077TNQMBR/?tag=tolees-21) a 14.81 EUR (original: 50 EUR) (70.38 %  de descuento) en el siguiente enlace!
+Está [New Balance Ka247V1I  Zapatillas Unisex Niños  Azul  Blue/Silver   17 EU](https://www.amazon.es/dp/B077TNQMBR/?tag=tolees-21) con 70.38 de descuento por 14.81 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![New Balance Ka247V1I  Zapatillas Unisex ](https://images-eu.ssl-images-amazon.com/images/I/51JvzOMGM8L._SL200_.jpg)](https://www.amazon.es/dp/B077TNQMBR/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B077TNQMBR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077TNQMBR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

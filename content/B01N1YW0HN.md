@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Portal Knights'
 ---
 
-Ahora mismo tienes [Portal Knights](https://www.amazon.es/dp/B01N1YW0HN/?tag=tolees-21) a 5.9 EUR (original: 20.5 EUR) (71.22 %  de descuento) en el siguiente enlace!
+Está [Portal Knights](https://www.amazon.es/dp/B01N1YW0HN/?tag=tolees-21) con 71.22 de descuento por 5.9 EUR (original: 20.5 EUR) en el siguiente enlace!
 
 [![Portal Knights](https://m.media-amazon.com/images/I/61cOHsmyCOL._SL200_.jpg)](https://www.amazon.es/dp/B01N1YW0HN/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01N1YW0HN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N1YW0HN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
