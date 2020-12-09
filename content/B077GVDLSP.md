@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Under Armour Speed Stride Tight Leggings  Mujer  Negro Black/Reflective 001  M'
 ---
 
-Ahora mismo tienes [Under Armour Speed Stride Tight Leggings  Mujer  Negro Black/Reflective 001  M](https://www.amazon.es/dp/B077GVDLSP/?tag=tolees-21) a 29.6 EUR (original: 54.99 EUR) (46.17 %  de descuento) en el siguiente enlace!
+Está [Under Armour Speed Stride Tight Leggings  Mujer  Negro Black/Reflective 001  M](https://www.amazon.es/dp/B077GVDLSP/?tag=tolees-21) con 46.17 de descuento por 29.6 EUR (original: 54.99 EUR) en el siguiente enlace!
 
 [![Under Armour Speed Stride Tight Leggings](https://images-eu.ssl-images-amazon.com/images/I/31DPAi38xGL._SL200_.jpg)](https://www.amazon.es/dp/B077GVDLSP/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B077GVDLSP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077GVDLSP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

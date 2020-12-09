@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Joker Blu-Ray Steelbook Teaser [Blu-ray]'
 ---
 
-Está [Joker Blu-Ray Steelbook Teaser [Blu-ray]](https://www.amazon.es/dp/B082PRJ8XZ/?tag=tolees-21) con 48.91 de descuento por 11.5 EUR (original: 22.51 EUR) en el siguiente enlace!
+Ahora mismo tienes [Joker Blu-Ray Steelbook Teaser [Blu-ray]](https://www.amazon.es/dp/B082PRJ8XZ/?tag=tolees-21) a 11.5 EUR (original: 22.51 EUR) (48.91 %  de descuento) en el siguiente enlace!
 
 [![Joker Blu-Ray Steelbook Teaser [Blu-ray]](https://m.media-amazon.com/images/I/41Q-XSh9L7L._SL200_.jpg)](https://www.amazon.es/dp/B082PRJ8XZ/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B082PRJ8XZ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B082PRJ8XZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

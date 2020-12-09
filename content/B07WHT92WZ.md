@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Smartwatch Gen 5 para Hombre con  al 46.82 % de descuento'
-date: 2020-12-08 18:16:29
+date: 2020-12-09 21:03:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/318LcIR9MGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318LcIR9MGL._SL200_.jpg' ]
 comments: true

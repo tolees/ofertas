@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Connected Smartwatch Gen 5 para H al 33.44 % de descuento'
-date: 2020-12-07 20:58:00
+date: 2020-12-09 21:13:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41k9pFH+uEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41k9pFH+uEL._SL200_.jpg' ]
 comments: true

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Gran Torino [Blu-ray]'
 ---
 
-Ahora mismo tienes [Gran Torino [Blu-ray]](https://www.amazon.es/dp/B08KJ2W5NL/?tag=tolees-21) a 5.49 EUR (original: 10.99 EUR) (50.05 %  de descuento) en el siguiente enlace!
+Está [Gran Torino [Blu-ray]](https://www.amazon.es/dp/B08KJ2W5NL/?tag=tolees-21) con 50.05 de descuento por 5.49 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![Gran Torino [Blu-ray]](https://m.media-amazon.com/images/I/41vCBqoUzTL._SL200_.jpg)](https://www.amazon.es/dp/B08KJ2W5NL/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B08KJ2W5NL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B08KJ2W5NL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

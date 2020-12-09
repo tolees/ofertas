@@ -17,10 +17,12 @@ inStock: true
 prodname: 'DJI Mavic Pro Platinum Fly More Combo - Dron Quadricóptero  Nivel de Ruido 4 dB  Duración de Batería en Vuelo 30 Minutos  Radio Control y Videocámara 4K  Rango 7 Km  Imagen 12 MP - Gris -[Versión UE]'
 ---
 
-Ahora mismo tienes [DJI Mavic Pro Platinum Fly More Combo - Dron Quadricóptero  Nivel de Ruido 4 dB  Duración de Batería en Vuelo 30 Minutos  Radio Control y Videocámara 4K  Rango 7 Km  Imagen 12 MP - Gris -[Versión UE]](https://www.amazon.es/dp/B075FRZ3RL/?tag=tolees-21) a 500.0 EUR (original: 1299.0 EUR) (61.51 %  de descuento) en el siguiente enlace!
+Está [DJI Mavic Pro Platinum Fly More Combo - Dron Quadricóptero  Nivel de Ruido 4 dB  Duración de Batería en Vuelo 30 Minutos  Radio Control y Videocámara 4K  Rango 7 Km  Imagen 12 MP - Gris -[Versión UE]](https://www.amazon.es/dp/B075FRZ3RL/?tag=tolees-21) con 61.51 de descuento por 500.0 EUR (original: 1299.0 EUR) en el siguiente enlace!
 
 [![DJI Mavic Pro Platinum Fly More Combo - ](https://m.media-amazon.com/images/I/51cEBtJYpbL._SL200_.jpg)](https://www.amazon.es/dp/B075FRZ3RL/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B075FRZ3RL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B075FRZ3RL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
