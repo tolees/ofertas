@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Hercules DJControl Inpulse 300 – Controlador DJ USB – 2 Pistas con 16 Pads y Tarjeta de Sonido – Incluye Software y Tutoriales  Multicolor'
 ---
 
-Está [Hercules DJControl Inpulse 300 – Controlador DJ USB – 2 Pistas con 16 Pads y Tarjeta de Sonido – Incluye Software y Tutoriales  Multicolor](https://www.amazon.es/dp/B07HKVYKP8/?tag=tolees-21) con 25.00 de descuento por 149.99 EUR (original: 199.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hercules DJControl Inpulse 300 – Controlador DJ USB – 2 Pistas con 16 Pads y Tarjeta de Sonido – Incluye Software y Tutoriales  Multicolor](https://www.amazon.es/dp/B07HKVYKP8/?tag=tolees-21) a 149.99 EUR (original: 199.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
 [![Hercules DJControl Inpulse 300 – Control](https://m.media-amazon.com/images/I/41k8f+-nGWL._SL200_.jpg)](https://www.amazon.es/dp/B07HKVYKP8/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07HKVYKP8/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07HKVYKP8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Bausch & Lomb  PureVision 2 - Lentes de Contacto Mensuales'
 ---
 
-Está [Bausch & Lomb  PureVision 2 - Lentes de Contacto Mensuales](https://www.amazon.es/dp/B0054EFQVU/?tag=tolees-21) con 73.73 de descuento por 14.07 EUR (original: 53.55 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bausch & Lomb  PureVision 2 - Lentes de Contacto Mensuales](https://www.amazon.es/dp/B0054EFQVU/?tag=tolees-21) a 14.07 EUR (original: 53.55 EUR) (73.73 %  de descuento) en el siguiente enlace!
 
 [![Bausch & Lomb  PureVision 2 - Lentes de ](https://images-eu.ssl-images-amazon.com/images/I/41Urk8AdeaL._SL200_.jpg)](https://www.amazon.es/dp/B0054EFQVU/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0054EFQVU/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0054EFQVU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

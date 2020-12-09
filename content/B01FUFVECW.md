@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Lixada Lámpara de Techo Cuerda de Cáñamo Estilo de Retro Vendimia País E27 AC220V  100CM 2CABEZAS '
 ---
 
-Ahora mismo tienes [Lixada Lámpara de Techo Cuerda de Cáñamo Estilo de Retro Vendimia País E27 AC220V  100CM 2CABEZAS ](https://www.amazon.es/dp/B01FUFVECW/?tag=tolees-21) a 11.19 EUR (original: 19.99 EUR) (44.02 %  de descuento) en el siguiente enlace!
+Está [Lixada Lámpara de Techo Cuerda de Cáñamo Estilo de Retro Vendimia País E27 AC220V  100CM 2CABEZAS ](https://www.amazon.es/dp/B01FUFVECW/?tag=tolees-21) con 44.02 de descuento por 11.19 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Lixada Lámpara de Techo Cuerda de Cáñamo](https://images-eu.ssl-images-amazon.com/images/I/314p2QMadwL._SL200_.jpg)](https://www.amazon.es/dp/B01FUFVECW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01FUFVECW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01FUFVECW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

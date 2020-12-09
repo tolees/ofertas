@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 40.00 % en Yves Saint Laurent - Opium - Eau de Toil'
+title: 'Yves Saint Laurent - Opium - Eau de Toil al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qDGCWz3tL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qDGCWz3tL._SL200_.jpg' ]
@@ -17,11 +17,11 @@ inStock: true
 prodname: 'Yves Saint Laurent - Opium - Eau de Toilette para mujer - 50 ml'
 ---
 
-Tienes [Yves Saint Laurent - Opium - Eau de Toilette para mujer - 50 ml](https://www.amazon.es/dp/B0009OAGYW/?tag=tolees-21) con un 40.00 % de descuento con precio de oferta de 49.8 EUR (original: 83 EUR) en el siguiente enlace!
+Está [Yves Saint Laurent - Opium - Eau de Toilette para mujer - 50 ml](https://www.amazon.es/dp/B0009OAGYW/?tag=tolees-21) con 40.00 de descuento por 49.8 EUR (original: 83 EUR) en el siguiente enlace!
 
 [![Yves Saint Laurent - Opium - Eau de Toil](https://images-eu.ssl-images-amazon.com/images/I/41qDGCWz3tL._SL200_.jpg)](https://www.amazon.es/dp/B0009OAGYW/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B0009OAGYW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0009OAGYW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JASHEN Aspirador sin Cable  350W Motor D al 25.00 % de descuento'
-date: 2020-11-30 14:03:39
+date: 2020-12-09 11:52:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41D9Pit2+IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41D9Pit2+IL._SL200_.jpg' ]
 comments: true

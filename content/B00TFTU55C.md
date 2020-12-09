@@ -17,12 +17,10 @@ inStock: true
 prodname: 'The Noble Collection El Señor de los Anillos Arwen Evenstar Replica'
 ---
 
-Está [The Noble Collection El Señor de los Anillos Arwen Evenstar Replica](https://www.amazon.es/dp/B00TFTU55C/?tag=tolees-21) con 37.90 de descuento por 39.0 EUR (original: 62.8 EUR) en el siguiente enlace!
+Ahora mismo tienes [The Noble Collection El Señor de los Anillos Arwen Evenstar Replica](https://www.amazon.es/dp/B00TFTU55C/?tag=tolees-21) a 39.0 EUR (original: 62.8 EUR) (37.90 %  de descuento) en el siguiente enlace!
 
 [![The Noble Collection El Señor de los Ani](https://m.media-amazon.com/images/I/513AJRqHBPL._SL200_.jpg)](https://www.amazon.es/dp/B00TFTU55C/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00TFTU55C/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00TFTU55C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

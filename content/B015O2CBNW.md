@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Lékué - Estuche de vapor  1-2 personas  color verde'
 ---
 
-Ahora mismo tienes [Lékué - Estuche de vapor  1-2 personas  color verde](https://www.amazon.es/dp/B015O2CBNW/?tag=tolees-21) a 7.19 EUR (original: 19.9 EUR) (63.87 %  de descuento) en el siguiente enlace!
+Está [Lékué - Estuche de vapor  1-2 personas  color verde](https://www.amazon.es/dp/B015O2CBNW/?tag=tolees-21) con 63.87 de descuento por 7.19 EUR (original: 19.9 EUR) en el siguiente enlace!
 
 [![Lékué - Estuche de vapor  1-2 personas  ](https://m.media-amazon.com/images/I/31QkwEfoYAL._SL200_.jpg)](https://www.amazon.es/dp/B015O2CBNW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B015O2CBNW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B015O2CBNW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

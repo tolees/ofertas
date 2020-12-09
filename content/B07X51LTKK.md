@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Gigabyte GeForce RTX 2070 Super WINDFORCE OC 3x 8G Tarjeta de video refrigeración agua y freón'
 ---
 
-Ahora mismo tienes [Gigabyte GeForce RTX 2070 Super WINDFORCE OC 3x 8G Tarjeta de video refrigeración agua y freón](https://www.amazon.es/dp/B07X51LTKK/?tag=tolees-21) a 399.9 EUR (original: 540.16 EUR) (25.97 %  de descuento) en el siguiente enlace!
+Está [Gigabyte GeForce RTX 2070 Super WINDFORCE OC 3x 8G Tarjeta de video refrigeración agua y freón](https://www.amazon.es/dp/B07X51LTKK/?tag=tolees-21) con 25.97 de descuento por 399.9 EUR (original: 540.16 EUR) en el siguiente enlace!
 
 [![Gigabyte GeForce RTX 2070 Super WINDFORC](https://m.media-amazon.com/images/I/517fEFSn-BL._SL200_.jpg)](https://www.amazon.es/dp/B07X51LTKK/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07X51LTKK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07X51LTKK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Sobieski Premium Vodka - 1000 ml'
 ---
 
-Está [Sobieski Premium Vodka - 1000 ml](https://www.amazon.es/dp/B00G5GQ8XG/?tag=tolees-21) con 40.47 de descuento por 11.4 EUR (original: 19.15 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sobieski Premium Vodka - 1000 ml](https://www.amazon.es/dp/B00G5GQ8XG/?tag=tolees-21) a 11.4 EUR (original: 19.15 EUR) (40.47 %  de descuento) en el siguiente enlace!
 
 [![Sobieski Premium Vodka - 1000 ml](https://images-eu.ssl-images-amazon.com/images/I/41DpdGcu4PL._SL200_.jpg)](https://www.amazon.es/dp/B00G5GQ8XG/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00G5GQ8XG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00G5GQ8XG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

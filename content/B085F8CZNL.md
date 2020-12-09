@@ -17,12 +17,10 @@ inStock: true
 prodname: 'El Pianista  BD  [Blu-ray]'
 ---
 
-Está [El Pianista  BD  [Blu-ray]](https://www.amazon.es/dp/B085F8CZNL/?tag=tolees-21) con 49.94 de descuento por 4.0 EUR (original: 7.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [El Pianista  BD  [Blu-ray]](https://www.amazon.es/dp/B085F8CZNL/?tag=tolees-21) a 4.0 EUR (original: 7.99 EUR) (49.94 %  de descuento) en el siguiente enlace!
 
 [![El Pianista  BD  [Blu-ray]](https://m.media-amazon.com/images/I/51EL+QFcnvL._SL200_.jpg)](https://www.amazon.es/dp/B085F8CZNL/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B085F8CZNL/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B085F8CZNL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,12 +17,10 @@ inStock: true
 prodname: 'El Internado - 7 Temporadas  Serie Completa  25 Aniversario  [DVD]'
 ---
 
-Está [El Internado - 7 Temporadas  Serie Completa  25 Aniversario  [DVD]](https://www.amazon.es/dp/B00VHLZL64/?tag=tolees-21) con 48.98 de descuento por 49.99 EUR (original: 97.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [El Internado - 7 Temporadas  Serie Completa  25 Aniversario  [DVD]](https://www.amazon.es/dp/B00VHLZL64/?tag=tolees-21) a 49.99 EUR (original: 97.99 EUR) (48.98 %  de descuento) en el siguiente enlace!
 
 [![El Internado - 7 Temporadas  Serie Compl](https://m.media-amazon.com/images/I/51e5KjjcexL._SL200_.jpg)](https://www.amazon.es/dp/B00VHLZL64/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00VHLZL64/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00VHLZL64/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
