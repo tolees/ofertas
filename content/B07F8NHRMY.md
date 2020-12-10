@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Toki Retrocollector Edition'
 ---
 
-Ahora mismo tienes [Toki Retrocollector Edition](https://www.amazon.es/dp/B07F8NHRMY/?tag=tolees-21) a 28.63 EUR (original: 49.99 EUR) (42.73 %  de descuento) en el siguiente enlace!
+Está [Toki Retrocollector Edition](https://www.amazon.es/dp/B07F8NHRMY/?tag=tolees-21) con 42.73 de descuento por 28.63 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Toki Retrocollector Edition](https://m.media-amazon.com/images/I/51hTJpxYjmL._SL200_.jpg)](https://www.amazon.es/dp/B07F8NHRMY/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07F8NHRMY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07F8NHRMY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

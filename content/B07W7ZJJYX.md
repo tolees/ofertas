@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Adaptador de taladro en ángulo recto'
 ---
 
-Está [Adaptador de taladro en ángulo recto](https://www.amazon.es/dp/B07W7ZJJYX/?tag=tolees-21) con 70.00 de descuento por 11.99 EUR (original: 39.97 EUR) en el siguiente enlace!
+Ahora mismo tienes [Adaptador de taladro en ángulo recto](https://www.amazon.es/dp/B07W7ZJJYX/?tag=tolees-21) a 11.99 EUR (original: 39.97 EUR) (70.00 %  de descuento) en el siguiente enlace!
 
 [![Adaptador de taladro en ángulo recto](https://m.media-amazon.com/images/I/41uRrInNJ5L._SL200_.jpg)](https://www.amazon.es/dp/B07W7ZJJYX/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07W7ZJJYX/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07W7ZJJYX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

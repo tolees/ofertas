@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Lacoste Lerond 0120 1 CFA  Zapatillas para Mujer  Blanc Wht Lt Pnk  42 EU'
 ---
 
-Está [Lacoste Lerond 0120 1 CFA  Zapatillas para Mujer  Blanc Wht Lt Pnk  42 EU](https://www.amazon.es/dp/B082TJ5ZZC/?tag=tolees-21) con 38.27 de descuento por 61.11 EUR (original: 99.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Lerond 0120 1 CFA  Zapatillas para Mujer  Blanc Wht Lt Pnk  42 EU](https://www.amazon.es/dp/B082TJ5ZZC/?tag=tolees-21) a 61.11 EUR (original: 99.0 EUR) (38.27 %  de descuento) en el siguiente enlace!
 
 [![Lacoste Lerond 0120 1 CFA  Zapatillas pa](https://m.media-amazon.com/images/I/31wsDWwk3NL._SL200_.jpg)](https://www.amazon.es/dp/B082TJ5ZZC/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B082TJ5ZZC/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B082TJ5ZZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Der-Franz - Té frutal "Verry Berry" con sabor natural en bolsitas piramidales  30 x 2 5 g'
 ---
 
-Ahora mismo tienes [Der-Franz - Té frutal "Verry Berry" con sabor natural en bolsitas piramidales  30 x 2 5 g](https://www.amazon.es/dp/B07Y5GZGLR/?tag=tolees-21) a 6.09 EUR (original: 9.99 EUR) (39.04 %  de descuento) en el siguiente enlace!
+Está [Der-Franz - Té frutal "Verry Berry" con sabor natural en bolsitas piramidales  30 x 2 5 g](https://www.amazon.es/dp/B07Y5GZGLR/?tag=tolees-21) con 39.04 de descuento por 6.09 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Der-Franz - Té frutal "Verry Berry" con ](https://m.media-amazon.com/images/I/415lDlPpFjL._SL200_.jpg)](https://www.amazon.es/dp/B07Y5GZGLR/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07Y5GZGLR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07Y5GZGLR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

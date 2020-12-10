@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Tesmed MAX 830 electroestimulador muscular - 4 canales - EMS Y MASAJES TENS - 20 ELECTRODES - más de 200 tratamientos - recargable -patente Waims System ondas secuenciales'
 ---
 
-Ahora mismo tienes [Tesmed MAX 830 electroestimulador muscular - 4 canales - EMS Y MASAJES TENS - 20 ELECTRODES - más de 200 tratamientos - recargable -patente Waims System ondas secuenciales](https://www.amazon.es/dp/B00D3I0INA/?tag=tolees-21) a 110.88 EUR (original: 180.0 EUR) (38.40 %  de descuento) en el siguiente enlace!
+Está [Tesmed MAX 830 electroestimulador muscular - 4 canales - EMS Y MASAJES TENS - 20 ELECTRODES - más de 200 tratamientos - recargable -patente Waims System ondas secuenciales](https://www.amazon.es/dp/B00D3I0INA/?tag=tolees-21) con 38.40 de descuento por 110.88 EUR (original: 180.0 EUR) en el siguiente enlace!
 
 [![Tesmed MAX 830 electroestimulador muscul](https://m.media-amazon.com/images/I/41cr8YeY4HL._SL200_.jpg)](https://www.amazon.es/dp/B00D3I0INA/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00D3I0INA/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00D3I0INA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

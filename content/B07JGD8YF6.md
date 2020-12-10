@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Columbia IVO TRAIL Zapatillas de deporte para mujer  Negro Black  Elk   36 EU'
 ---
 
-Está [Columbia IVO TRAIL Zapatillas de deporte para mujer  Negro Black  Elk   36 EU](https://www.amazon.es/dp/B07JGD8YF6/?tag=tolees-21) con 36.00 de descuento por 63.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia IVO TRAIL Zapatillas de deporte para mujer  Negro Black  Elk   36 EU](https://www.amazon.es/dp/B07JGD8YF6/?tag=tolees-21) a 63.99 EUR (original: 99.99 EUR) (36.00 %  de descuento) en el siguiente enlace!
 
 [![Columbia IVO TRAIL Zapatillas de deporte](https://m.media-amazon.com/images/I/41+JNoCzwuL._SL200_.jpg)](https://www.amazon.es/dp/B07JGD8YF6/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07JGD8YF6/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07JGD8YF6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
