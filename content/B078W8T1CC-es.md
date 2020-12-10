@@ -18,10 +18,12 @@ prodname: 'Dockers by Gerli 30st027-790500  Zapatillas para Hombre  Blanco  Weis
 country: 'es'
 ---
 
-Ahora mismo tienes [Dockers by Gerli 30st027-790500  Zapatillas para Hombre  Blanco  Weiss 500   46 EU](https://www.amazon.es/dp/B078W8T1CC/?tag=tolees-21) a 24.8 EUR (original: 39.95 EUR) (37.92 %  de descuento) en el siguiente enlace!
+Está [Dockers by Gerli 30st027-790500  Zapatillas para Hombre  Blanco  Weiss 500   46 EU](https://www.amazon.es/dp/B078W8T1CC/?tag=tolees-21) con 37.92 de descuento por 24.8 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![Dockers by Gerli 30st027-790500  Zapatil](https://m.media-amazon.com/images/I/31x20dKVJtL._SL200_.jpg)](https://www.amazon.es/dp/B078W8T1CC/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078W8T1CC/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078W8T1CC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

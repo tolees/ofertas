@@ -18,10 +18,12 @@ prodname: 'Lacoste PH4012  Polo Para Hombre  Azul  Marine   Medium  Talla del fa
 country: 'es'
 ---
 
-Ahora mismo tienes [Lacoste PH4012  Polo Para Hombre  Azul  Marine   Medium  Talla del fabricante: 4 ](https://www.amazon.es/dp/B00Y4XVP0I/?tag=tolees-21) a 61.49 EUR (original: 95.0 EUR) (35.27 %  de descuento) en el siguiente enlace!
+Está [Lacoste PH4012  Polo Para Hombre  Azul  Marine   Medium  Talla del fabricante: 4 ](https://www.amazon.es/dp/B00Y4XVP0I/?tag=tolees-21) con 35.27 de descuento por 61.49 EUR (original: 95.0 EUR) en el siguiente enlace!
 
 [![Lacoste PH4012  Polo Para Hombre  Azul  ](https://m.media-amazon.com/images/I/31f6TJ4hUZL._SL200_.jpg)](https://www.amazon.es/dp/B00Y4XVP0I/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00Y4XVP0I/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00Y4XVP0I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

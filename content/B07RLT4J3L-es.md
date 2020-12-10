@@ -18,10 +18,12 @@ prodname: 'Samsung Galaxy A80 Smartphone de 6.7" FHD+  Pantalla Infinita  8 GB R
 country: 'es'
 ---
 
-Ahora mismo tienes [Samsung Galaxy A80 Smartphone de 6.7" FHD+  Pantalla Infinita  8 GB RAM  128 GB ROM  versión española  Negro](https://www.amazon.es/dp/B07RLT4J3L/?tag=tolees-21) a 397.0 EUR (original: 669.0 EUR) (40.66 %  de descuento) en el siguiente enlace!
+Está [Samsung Galaxy A80 Smartphone de 6.7" FHD+  Pantalla Infinita  8 GB RAM  128 GB ROM  versión española  Negro](https://www.amazon.es/dp/B07RLT4J3L/?tag=tolees-21) con 40.66 de descuento por 397.0 EUR (original: 669.0 EUR) en el siguiente enlace!
 
 [![Samsung Galaxy A80 Smartphone de 6.7" FH](https://m.media-amazon.com/images/I/31E+WIABexL._SL200_.jpg)](https://www.amazon.es/dp/B07RLT4J3L/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07RLT4J3L/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07RLT4J3L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

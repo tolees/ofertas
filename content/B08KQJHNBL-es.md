@@ -18,12 +18,10 @@ prodname: 'BL Kit de luz LED BRICKLIGHT para LEGO IDEA Tree House 21318 modelo d
 country: 'es'
 ---
 
-Está [BL Kit de luz LED BRICKLIGHT para LEGO IDEA Tree House 21318 modelo de bloques de construcción  no incluye el juego de Lego](https://www.amazon.es/dp/B08KQJHNBL/?tag=tolees-21) con 57.51 de descuento por 29.11 EUR (original: 68.51 EUR) en el siguiente enlace!
+Ahora mismo tienes [BL Kit de luz LED BRICKLIGHT para LEGO IDEA Tree House 21318 modelo de bloques de construcción  no incluye el juego de Lego](https://www.amazon.es/dp/B08KQJHNBL/?tag=tolees-21) a 29.11 EUR (original: 68.51 EUR) (57.51 %  de descuento) en el siguiente enlace!
 
 [![BL Kit de luz LED BRICKLIGHT para LEGO I](https://m.media-amazon.com/images/I/51orytKUl6L._SL200_.jpg)](https://www.amazon.es/dp/B08KQJHNBL/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B08KQJHNBL/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B08KQJHNBL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

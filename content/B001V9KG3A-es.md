@@ -18,10 +18,12 @@ prodname: 'Panasonic LUMIX H-F007014 - Objetivo Gran angular para cámaras de mo
 country: 'es'
 ---
 
-Ahora mismo tienes [Panasonic LUMIX H-F007014 - Objetivo Gran angular para cámaras de montura M4/3  Focal 7-14 mm  F4  lentes asféricas  MEGA O.I.S   negro](https://www.amazon.es/dp/B001V9KG3A/?tag=tolees-21) a 665.16 EUR (original: 1059.9 EUR) (37.24 %  de descuento) en el siguiente enlace!
+Está [Panasonic LUMIX H-F007014 - Objetivo Gran angular para cámaras de montura M4/3  Focal 7-14 mm  F4  lentes asféricas  MEGA O.I.S   negro](https://www.amazon.es/dp/B001V9KG3A/?tag=tolees-21) con 37.24 de descuento por 665.16 EUR (original: 1059.9 EUR) en el siguiente enlace!
 
 [![Panasonic LUMIX H-F007014 - Objetivo Gra](https://images-eu.ssl-images-amazon.com/images/I/315idu4kKuL._SL200_.jpg)](https://www.amazon.es/dp/B001V9KG3A/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B001V9KG3A/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B001V9KG3A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

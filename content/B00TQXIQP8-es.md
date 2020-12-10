@@ -18,12 +18,10 @@ prodname: 'Samyang F1322506101 - Objetivo para vídeo VDSLR para Sony E  Distanc
 country: 'es'
 ---
 
-Está [Samyang F1322506101 - Objetivo para vídeo VDSLR para Sony E  Distancia Focal Fija 10mm  Apertura T3.1-22 ED AS NCS CS II   Negro](https://www.amazon.es/dp/B00TQXIQP8/?tag=tolees-21) con 50.10 de descuento por 248.99 EUR (original: 499 EUR) en el siguiente enlace!
+Ahora mismo tienes [Samyang F1322506101 - Objetivo para vídeo VDSLR para Sony E  Distancia Focal Fija 10mm  Apertura T3.1-22 ED AS NCS CS II   Negro](https://www.amazon.es/dp/B00TQXIQP8/?tag=tolees-21) a 248.99 EUR (original: 499 EUR) (50.10 %  de descuento) en el siguiente enlace!
 
 [![Samyang F1322506101 - Objetivo para víde](https://images-eu.ssl-images-amazon.com/images/I/41aLoMQu30L._SL200_.jpg)](https://www.amazon.es/dp/B00TQXIQP8/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00TQXIQP8/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00TQXIQP8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

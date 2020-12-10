@@ -18,12 +18,10 @@ prodname: 'caja Trípode Mini Adaptable soporte bornes Metal y plástico Negro'
 country: 'es'
 ---
 
-Está [caja Trípode Mini Adaptable soporte bornes Metal y plástico Negro](https://www.amazon.es/dp/B07N98X5PR/?tag=tolees-21) con 44.44 de descuento por 6.99 EUR (original: 12.58 EUR) en el siguiente enlace!
+Ahora mismo tienes [caja Trípode Mini Adaptable soporte bornes Metal y plástico Negro](https://www.amazon.es/dp/B07N98X5PR/?tag=tolees-21) a 6.99 EUR (original: 12.58 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
 [![caja Trípode Mini Adaptable soporte born](https://m.media-amazon.com/images/I/31+N6UL1n7L._SL200_.jpg)](https://www.amazon.es/dp/B07N98X5PR/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07N98X5PR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07N98X5PR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

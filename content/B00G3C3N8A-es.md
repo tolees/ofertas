@@ -18,12 +18,10 @@ prodname: 'Adidas Ice Dive Eau De Toilette 100 ml'
 country: 'es'
 ---
 
-Está [Adidas Ice Dive Eau De Toilette 100 ml](https://www.amazon.es/dp/B00G3C3N8A/?tag=tolees-21) con 34.98 de descuento por 6.99 EUR (original: 10.75 EUR) en el siguiente enlace!
+Ahora mismo tienes [Adidas Ice Dive Eau De Toilette 100 ml](https://www.amazon.es/dp/B00G3C3N8A/?tag=tolees-21) a 6.99 EUR (original: 10.75 EUR) (34.98 %  de descuento) en el siguiente enlace!
 
 [![Adidas Ice Dive Eau De Toilette 100 ml](https://m.media-amazon.com/images/I/41vy8x8fKCL._SL200_.jpg)](https://www.amazon.es/dp/B00G3C3N8A/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00G3C3N8A/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00G3C3N8A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

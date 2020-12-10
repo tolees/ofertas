@@ -18,10 +18,12 @@ prodname: 'Manfrotto Messenger Manhattan Speedy 10 - Bolsa para DSLR/CSC  Color 
 country: 'es'
 ---
 
-Ahora mismo tienes [Manfrotto Messenger Manhattan Speedy 10 - Bolsa para DSLR/CSC  Color Gris](https://www.amazon.es/dp/B071FT5JM3/?tag=tolees-21) a 59.94 EUR (original: 99.9 EUR) (40.00 %  de descuento) en el siguiente enlace!
+Está [Manfrotto Messenger Manhattan Speedy 10 - Bolsa para DSLR/CSC  Color Gris](https://www.amazon.es/dp/B071FT5JM3/?tag=tolees-21) con 40.00 de descuento por 59.94 EUR (original: 99.9 EUR) en el siguiente enlace!
 
 [![Manfrotto Messenger Manhattan Speedy 10 ](https://images-eu.ssl-images-amazon.com/images/I/41U6mish1uL._SL200_.jpg)](https://www.amazon.es/dp/B071FT5JM3/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B071FT5JM3/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071FT5JM3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

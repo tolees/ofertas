@@ -18,12 +18,10 @@ prodname: 'o.b. Tampones ProComfort Mini 16 Unidades  44574 '
 country: 'es'
 ---
 
-Está [o.b. Tampones ProComfort Mini 16 Unidades  44574 ](https://www.amazon.es/dp/B0013CA9KK/?tag=tolees-21) con 51.82 de descuento por 1.59 EUR (original: 3.3 EUR) en el siguiente enlace!
+Ahora mismo tienes [o.b. Tampones ProComfort Mini 16 Unidades  44574 ](https://www.amazon.es/dp/B0013CA9KK/?tag=tolees-21) a 1.59 EUR (original: 3.3 EUR) (51.82 %  de descuento) en el siguiente enlace!
 
 [![o.b. Tampones ProComfort Mini 16 Unidade](https://m.media-amazon.com/images/I/41E1MxsxTUL._SL200_.jpg)](https://www.amazon.es/dp/B0013CA9KK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0013CA9KK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0013CA9KK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

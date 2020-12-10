@@ -18,10 +18,12 @@ prodname: 'Bosch Professional Nivel láser combinado GCL 2-50 C con función de 
 country: 'es'
 ---
 
-Ahora mismo tienes [Bosch Professional Nivel láser combinado GCL 2-50 C con función de App  4 pilas AA  soporte RM2  caja de cartón  alcance: 50 m con receptor ](https://www.amazon.es/dp/B06ZYCL9WT/?tag=tolees-21) a 182.26 EUR (original: 336.38 EUR) (45.82 %  de descuento) en el siguiente enlace!
+Está [Bosch Professional Nivel láser combinado GCL 2-50 C con función de App  4 pilas AA  soporte RM2  caja de cartón  alcance: 50 m con receptor ](https://www.amazon.es/dp/B06ZYCL9WT/?tag=tolees-21) con 45.82 de descuento por 182.26 EUR (original: 336.38 EUR) en el siguiente enlace!
 
 [![Bosch Professional Nivel láser combinado](https://images-eu.ssl-images-amazon.com/images/I/41pUdGoUAIL._SL200_.jpg)](https://www.amazon.es/dp/B06ZYCL9WT/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06ZYCL9WT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06ZYCL9WT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

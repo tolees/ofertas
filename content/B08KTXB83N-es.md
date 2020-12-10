@@ -18,10 +18,12 @@ prodname: 'Bullitt [Blu-ray]'
 country: 'es'
 ---
 
-Ahora mismo tienes [Bullitt [Blu-ray]](https://www.amazon.es/dp/B08KTXB83N/?tag=tolees-21) a 6.0 EUR (original: 10.99 EUR) (45.40 %  de descuento) en el siguiente enlace!
+Está [Bullitt [Blu-ray]](https://www.amazon.es/dp/B08KTXB83N/?tag=tolees-21) con 45.40 de descuento por 6.0 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![Bullitt [Blu-ray]](https://m.media-amazon.com/images/I/51HQmc1pDML._SL200_.jpg)](https://www.amazon.es/dp/B08KTXB83N/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B08KTXB83N/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B08KTXB83N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

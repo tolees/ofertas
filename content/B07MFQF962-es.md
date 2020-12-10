@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Consuelo Gran Aroma - Café en grano ital al 40.04 % de descuento'
+title: 'Descuento del 40.04 % en Consuelo Gran Aroma - Café en grano ital'
 date: 2020-11-18 12:14:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/412EwWhUYdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412EwWhUYdL._SL200_.jpg' ]
@@ -18,11 +18,11 @@ prodname: 'Consuelo Gran Aroma - Café en grano italiano - 1 kg'
 country: 'es'
 ---
 
-Está [Consuelo Gran Aroma - Café en grano italiano - 1 kg](https://www.amazon.es/dp/B07MFQF962/?tag=tolees-21) con 40.04 de descuento por 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!
+Tienes [Consuelo Gran Aroma - Café en grano italiano - 1 kg](https://www.amazon.es/dp/B07MFQF962/?tag=tolees-21) con un 40.04 % de descuento con precio de oferta de 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Consuelo Gran Aroma - Café en grano ital](https://m.media-amazon.com/images/I/412EwWhUYdL._SL200_.jpg)](https://www.amazon.es/dp/B07MFQF962/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07MFQF962/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B07MFQF962/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

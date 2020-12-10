@@ -18,10 +18,12 @@ prodname: 'Kärcher Conector universal  suelto   2.645-201.0 '
 country: 'es'
 ---
 
-Ahora mismo tienes [Kärcher Conector universal  suelto   2.645-201.0 ](https://www.amazon.es/dp/B00B17IRU6/?tag=tolees-21) a 2.15 EUR (original: 3.58 EUR) (39.94 %  de descuento) en el siguiente enlace!
+Está [Kärcher Conector universal  suelto   2.645-201.0 ](https://www.amazon.es/dp/B00B17IRU6/?tag=tolees-21) con 39.94 de descuento por 2.15 EUR (original: 3.58 EUR) en el siguiente enlace!
 
 [![Kärcher Conector universal  suelto   2.6](https://m.media-amazon.com/images/I/41l+cdc217L._SL200_.jpg)](https://www.amazon.es/dp/B00B17IRU6/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00B17IRU6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00B17IRU6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

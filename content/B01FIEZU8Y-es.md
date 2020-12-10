@@ -18,10 +18,12 @@ prodname: 'Funko Vinyl: A Clockwork Orange: Alex Talla única 10127'
 country: 'es'
 ---
 
-Ahora mismo tienes [Funko Vinyl: A Clockwork Orange: Alex Talla única 10127](https://www.amazon.es/dp/B01FIEZU8Y/?tag=tolees-21) a 8.99 EUR (original: 14.99 EUR) (40.03 %  de descuento) en el siguiente enlace!
+Está [Funko Vinyl: A Clockwork Orange: Alex Talla única 10127](https://www.amazon.es/dp/B01FIEZU8Y/?tag=tolees-21) con 40.03 de descuento por 8.99 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![Funko Vinyl: A Clockwork Orange: Alex Ta](https://images-eu.ssl-images-amazon.com/images/I/51Guj8CjnCL._SL200_.jpg)](https://www.amazon.es/dp/B01FIEZU8Y/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01FIEZU8Y/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01FIEZU8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

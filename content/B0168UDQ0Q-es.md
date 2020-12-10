@@ -18,10 +18,12 @@ prodname: 'Trilogia El Hobbit Extendida [DVD]'
 country: 'es'
 ---
 
-Ahora mismo tienes [Trilogia El Hobbit Extendida [DVD]](https://www.amazon.es/dp/B0168UDQ0Q/?tag=tolees-21) a 36.39 EUR (original: 55.0 EUR) (33.84 %  de descuento) en el siguiente enlace!
+Está [Trilogia El Hobbit Extendida [DVD]](https://www.amazon.es/dp/B0168UDQ0Q/?tag=tolees-21) con 33.84 de descuento por 36.39 EUR (original: 55.0 EUR) en el siguiente enlace!
 
 [![Trilogia El Hobbit Extendida [DVD]](https://m.media-amazon.com/images/I/51gwNHYYnQL._SL200_.jpg)](https://www.amazon.es/dp/B0168UDQ0Q/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0168UDQ0Q/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0168UDQ0Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

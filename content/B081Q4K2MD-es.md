@@ -18,10 +18,12 @@ prodname: 'JohnJohnsen Fuente de alimentación conmutada de CA a CC Universal 12
 country: 'es'
 ---
 
-Ahora mismo tienes [JohnJohnsen Fuente de alimentación conmutada de CA a CC Universal 12V 2A 24W Entrada de Controlador de luz LED Ultrafina portátil 110V / 220V S-24-12  Plateado ](https://www.amazon.es/dp/B081Q4K2MD/?tag=tolees-21) a 4.99 EUR (original: 8.99 EUR) (44.49 %  de descuento) en el siguiente enlace!
+Está [JohnJohnsen Fuente de alimentación conmutada de CA a CC Universal 12V 2A 24W Entrada de Controlador de luz LED Ultrafina portátil 110V / 220V S-24-12  Plateado ](https://www.amazon.es/dp/B081Q4K2MD/?tag=tolees-21) con 44.49 de descuento por 4.99 EUR (original: 8.99 EUR) en el siguiente enlace!
 
 [![JohnJohnsen Fuente de alimentación conmu](https://m.media-amazon.com/images/I/410C+9DNv7L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B081Q4K2MD/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B081Q4K2MD/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B081Q4K2MD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

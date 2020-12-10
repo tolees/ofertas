@@ -18,10 +18,12 @@ prodname: 'Versace Bright Crystal Gel De Ducha 200 ml'
 country: 'es'
 ---
 
-Ahora mismo tienes [Versace Bright Crystal Gel De Ducha 200 ml](https://www.amazon.es/dp/B000T2DDF8/?tag=tolees-21) a 21.2 EUR (original: 41.55 EUR) (48.98 %  de descuento) en el siguiente enlace!
+Está [Versace Bright Crystal Gel De Ducha 200 ml](https://www.amazon.es/dp/B000T2DDF8/?tag=tolees-21) con 48.98 de descuento por 21.2 EUR (original: 41.55 EUR) en el siguiente enlace!
 
 [![Versace Bright Crystal Gel De Ducha 200 ](https://images-eu.ssl-images-amazon.com/images/I/31IDPyOPdrL._SL200_.jpg)](https://www.amazon.es/dp/B000T2DDF8/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000T2DDF8/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000T2DDF8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

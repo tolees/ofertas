@@ -18,10 +18,12 @@ prodname: 'DKNY Intimates Classic Cotton T-Back T-Shirt  Sujetador Cotidiana par
 country: 'es'
 ---
 
-Ahora mismo tienes [DKNY Intimates Classic Cotton T-Back T-Shirt  Sujetador Cotidiana para Mujer  Negro  Black BP  90A  Talla del Fabricante: 34A ](https://www.amazon.es/dp/B077NF3CDD/?tag=tolees-21) a 19.41 EUR (original: 49.95 EUR) (61.14 %  de descuento) en el siguiente enlace!
+Está [DKNY Intimates Classic Cotton T-Back T-Shirt  Sujetador Cotidiana para Mujer  Negro  Black BP  90A  Talla del Fabricante: 34A ](https://www.amazon.es/dp/B077NF3CDD/?tag=tolees-21) con 61.14 de descuento por 19.41 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![DKNY Intimates Classic Cotton T-Back T-S](https://images-eu.ssl-images-amazon.com/images/I/51hUP2CdIWL._SL200_.jpg)](https://www.amazon.es/dp/B077NF3CDD/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B077NF3CDD/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B077NF3CDD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

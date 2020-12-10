@@ -18,12 +18,10 @@ prodname: 'Bosch Professional Sistema 12V Detector de pared D-tect 120  1 bater�
 country: 'es'
 ---
 
-Está [Bosch Professional Sistema 12V Detector de pared D-tect 120  1 batería 12V + cargador  profundidad máx. 120 mm  en L-BOXX ](https://www.amazon.es/dp/B00N2CLC96/?tag=tolees-21) con 31.40 de descuento por 189.99 EUR (original: 276.96 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch Professional Sistema 12V Detector de pared D-tect 120  1 batería 12V + cargador  profundidad máx. 120 mm  en L-BOXX ](https://www.amazon.es/dp/B00N2CLC96/?tag=tolees-21) a 189.99 EUR (original: 276.96 EUR) (31.40 %  de descuento) en el siguiente enlace!
 
 [![Bosch Professional Sistema 12V Detector ](https://m.media-amazon.com/images/I/51ylkgkhB0L._SL200_.jpg)](https://www.amazon.es/dp/B00N2CLC96/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00N2CLC96/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00N2CLC96/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

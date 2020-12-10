@@ -18,12 +18,10 @@ prodname: 'Under Armour Charged Pursuit 2  Zapatillas de Running  Negro  Black/W
 country: 'es'
 ---
 
-Está [Under Armour Charged Pursuit 2  Zapatillas de Running  Negro  Black/White/White   35 EU](https://www.amazon.es/dp/B07NNTMVJ5/?tag=tolees-21) con 39.95 de descuento por 36.0 EUR (original: 59.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Charged Pursuit 2  Zapatillas de Running  Negro  Black/White/White   35 EU](https://www.amazon.es/dp/B07NNTMVJ5/?tag=tolees-21) a 36.0 EUR (original: 59.95 EUR) (39.95 %  de descuento) en el siguiente enlace!
 
 [![Under Armour Charged Pursuit 2  Zapatill](https://m.media-amazon.com/images/I/31ExBD8GW8L._SL200_.jpg)](https://www.amazon.es/dp/B07NNTMVJ5/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07NNTMVJ5/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07NNTMVJ5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

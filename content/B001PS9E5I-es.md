@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TP-Link TL-PoE150S Gigabit Ethernet PoE  al 26.27 % de descuento'
+title: 'Descuento del 26.27 % en TP-Link TL-PoE150S Gigabit Ethernet PoE '
 date: 2020-12-08 16:37:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41E4a+2wjeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41E4a+2wjeL._SL200_.jpg' ]
@@ -18,11 +18,11 @@ prodname: 'TP-Link TL-PoE150S Gigabit Ethernet PoE Inyector  Plug-and-Play  2 pu
 country: 'es'
 ---
 
-Está [TP-Link TL-PoE150S Gigabit Ethernet PoE Inyector  Plug-and-Play  2 puertos 10/100/1000Mbps RJ45  1 puerto de 48VDC  15 4 W  máximo 48 V DC ](https://www.amazon.es/dp/B001PS9E5I/?tag=tolees-21) con 26.27 de descuento por 18.36 EUR (original: 24.9 EUR) en el siguiente enlace!
+Tienes [TP-Link TL-PoE150S Gigabit Ethernet PoE Inyector  Plug-and-Play  2 puertos 10/100/1000Mbps RJ45  1 puerto de 48VDC  15 4 W  máximo 48 V DC ](https://www.amazon.es/dp/B001PS9E5I/?tag=tolees-21) con un 26.27 % de descuento con precio de oferta de 18.36 EUR (original: 24.9 EUR) en el siguiente enlace!
 
 [![TP-Link TL-PoE150S Gigabit Ethernet PoE ](https://m.media-amazon.com/images/I/41E4a+2wjeL._SL200_.jpg)](https://www.amazon.es/dp/B001PS9E5I/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B001PS9E5I/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B001PS9E5I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -18,12 +18,10 @@ prodname: 'Fotima FTF-160 - Kit estudio flash  2 x 160 W'
 country: 'es'
 ---
 
-Está [Fotima FTF-160 - Kit estudio flash  2 x 160 W](https://www.amazon.es/dp/B00I9TQPN0/?tag=tolees-21) con 74.92 de descuento por 64.97 EUR (original: 259 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fotima FTF-160 - Kit estudio flash  2 x 160 W](https://www.amazon.es/dp/B00I9TQPN0/?tag=tolees-21) a 64.97 EUR (original: 259 EUR) (74.92 %  de descuento) en el siguiente enlace!
 
 [![Fotima FTF-160 - Kit estudio flash  2 x ](https://images-eu.ssl-images-amazon.com/images/I/41aV32L0eIL._SL200_.jpg)](https://www.amazon.es/dp/B00I9TQPN0/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00I9TQPN0/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00I9TQPN0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

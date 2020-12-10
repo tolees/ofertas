@@ -18,12 +18,10 @@ prodname: 'Downton Abbey  Serie TV + Pelicula BD  [Blu-ray]'
 country: 'es'
 ---
 
-Está [Downton Abbey  Serie TV + Pelicula BD  [Blu-ray]](https://www.amazon.es/dp/B08HMMKF6B/?tag=tolees-21) con 49.99 de descuento por 50.0 EUR (original: 99.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Downton Abbey  Serie TV + Pelicula BD  [Blu-ray]](https://www.amazon.es/dp/B08HMMKF6B/?tag=tolees-21) a 50.0 EUR (original: 99.99 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
 [![Downton Abbey  Serie TV + Pelicula BD  [](https://m.media-amazon.com/images/I/41H6Zz4eCkL._SL200_.jpg)](https://www.amazon.es/dp/B08HMMKF6B/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B08HMMKF6B/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B08HMMKF6B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

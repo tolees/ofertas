@@ -18,10 +18,12 @@ prodname: 'SuperEpic: The Entertainment War'
 country: 'es'
 ---
 
-Ahora mismo tienes [SuperEpic: The Entertainment War](https://www.amazon.es/dp/B084KB7ZH3/?tag=tolees-21) a 16.77 EUR (original: 34.99 EUR) (52.07 %  de descuento) en el siguiente enlace!
+Está [SuperEpic: The Entertainment War](https://www.amazon.es/dp/B084KB7ZH3/?tag=tolees-21) con 52.07 de descuento por 16.77 EUR (original: 34.99 EUR) en el siguiente enlace!
 
 [![SuperEpic: The Entertainment War](https://m.media-amazon.com/images/I/51-Xpx9BrDL._SL200_.jpg)](https://www.amazon.es/dp/B084KB7ZH3/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B084KB7ZH3/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B084KB7ZH3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

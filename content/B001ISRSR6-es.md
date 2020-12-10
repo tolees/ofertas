@@ -18,12 +18,10 @@ prodname: 'Canon AC1 - Bandeja de impresora  blanco'
 country: 'es'
 ---
 
-Está [Canon AC1 - Bandeja de impresora  blanco](https://www.amazon.es/dp/B001ISRSR6/?tag=tolees-21) con 80.33 de descuento por 43.67 EUR (original: 222.04 EUR) en el siguiente enlace!
+Ahora mismo tienes [Canon AC1 - Bandeja de impresora  blanco](https://www.amazon.es/dp/B001ISRSR6/?tag=tolees-21) a 43.67 EUR (original: 222.04 EUR) (80.33 %  de descuento) en el siguiente enlace!
 
 [![Canon AC1 - Bandeja de impresora  blanco](https://images-eu.ssl-images-amazon.com/images/I/31y1%2BbwTQPL._SL200_.jpg)](https://www.amazon.es/dp/B001ISRSR6/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B001ISRSR6/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B001ISRSR6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

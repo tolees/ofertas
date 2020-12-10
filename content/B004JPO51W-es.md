@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.94 % en Tayg 16 Caja Herramienta Plástico  Azul/'
-date: 2020-12-09 14:19:39
+date: 2020-12-10 14:45:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41J8FKZhOvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41J8FKZhOvL._SL200_.jpg' ]
 comments: true

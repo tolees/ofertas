@@ -18,10 +18,12 @@ prodname: 'Worx WX372.1 - Taladro Percutor 1 batería Li-ion 20v-2 0Ah'
 country: 'es'
 ---
 
-Ahora mismo tienes [Worx WX372.1 - Taladro Percutor 1 batería Li-ion 20v-2 0Ah](https://www.amazon.es/dp/B00S8A2Q0G/?tag=tolees-21) a 124.26 EUR (original: 199.95 EUR) (37.85 %  de descuento) en el siguiente enlace!
+Está [Worx WX372.1 - Taladro Percutor 1 batería Li-ion 20v-2 0Ah](https://www.amazon.es/dp/B00S8A2Q0G/?tag=tolees-21) con 37.85 de descuento por 124.26 EUR (original: 199.95 EUR) en el siguiente enlace!
 
 [![Worx WX372.1 - Taladro Percutor 1 baterí](https://m.media-amazon.com/images/I/51CT7x5LToL._SL200_.jpg)](https://www.amazon.es/dp/B00S8A2Q0G/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00S8A2Q0G/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00S8A2Q0G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

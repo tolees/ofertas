@@ -18,12 +18,10 @@ prodname: 'FUGA DE ALCATRAZ - EDICIÓN HORIZONTAL  BD  [Blu-ray]'
 country: 'es'
 ---
 
-Está [FUGA DE ALCATRAZ - EDICIÓN HORIZONTAL  BD  [Blu-ray]](https://www.amazon.es/dp/B08CWBFB3Y/?tag=tolees-21) con 50.05 de descuento por 4.99 EUR (original: 9.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [FUGA DE ALCATRAZ - EDICIÓN HORIZONTAL  BD  [Blu-ray]](https://www.amazon.es/dp/B08CWBFB3Y/?tag=tolees-21) a 4.99 EUR (original: 9.99 EUR) (50.05 %  de descuento) en el siguiente enlace!
 
 [![FUGA DE ALCATRAZ - EDICIÓN HORIZONTAL  B](https://m.media-amazon.com/images/I/51A6e580o5L._SL200_.jpg)](https://www.amazon.es/dp/B08CWBFB3Y/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B08CWBFB3Y/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B08CWBFB3Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

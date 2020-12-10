@@ -18,10 +18,12 @@ prodname: 'New Balance 373  Zapatillas Unisex Adulto  Azul Blau  44.5 EU'
 country: 'es'
 ---
 
-Ahora mismo tienes [New Balance 373  Zapatillas Unisex Adulto  Azul Blau  44.5 EU](https://www.amazon.es/dp/B078BQGNMQ/?tag=tolees-21) a 32.13 EUR (original: 45.9 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [New Balance 373  Zapatillas Unisex Adulto  Azul Blau  44.5 EU](https://www.amazon.es/dp/B078BQGNMQ/?tag=tolees-21) con 30.00 de descuento por 32.13 EUR (original: 45.9 EUR) en el siguiente enlace!
 
 [![New Balance 373  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41W3Drnj1kL._SL200_.jpg)](https://www.amazon.es/dp/B078BQGNMQ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B078BQGNMQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B078BQGNMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

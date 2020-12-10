@@ -18,12 +18,10 @@ prodname: 'COLCHON VISCO VISCOELASTICA VISCOELASTICO PREMIUM  90X190 '
 country: 'es'
 ---
 
-Está [COLCHON VISCO VISCOELASTICA VISCOELASTICO PREMIUM  90X190 ](https://www.amazon.es/dp/B01A9KPOGK/?tag=tolees-21) con 36.00 de descuento por 94.72 EUR (original: 148 EUR) en el siguiente enlace!
+Ahora mismo tienes [COLCHON VISCO VISCOELASTICA VISCOELASTICO PREMIUM  90X190 ](https://www.amazon.es/dp/B01A9KPOGK/?tag=tolees-21) a 94.72 EUR (original: 148 EUR) (36.00 %  de descuento) en el siguiente enlace!
 
 [![COLCHON VISCO VISCOELASTICA VISCOELASTIC](https://images-eu.ssl-images-amazon.com/images/I/41-ndTZKLbL._SL200_.jpg)](https://www.amazon.es/dp/B01A9KPOGK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01A9KPOGK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01A9KPOGK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -18,10 +18,12 @@ prodname: 'Ana Maria Lajusticia - Aceite de onagra – 275 perlas. Alivia dolore
 country: 'es'
 ---
 
-Ahora mismo tienes [Ana Maria Lajusticia - Aceite de onagra – 275 perlas. Alivia dolores menstruales  los síntomas de la menopausia y el síndrome premenstrual. Envase para 137 días de tratamiento.](https://www.amazon.es/dp/B071FQR68L/?tag=tolees-21) a 15.5 EUR (original: 24.0 EUR) (35.42 %  de descuento) en el siguiente enlace!
+Está [Ana Maria Lajusticia - Aceite de onagra – 275 perlas. Alivia dolores menstruales  los síntomas de la menopausia y el síndrome premenstrual. Envase para 137 días de tratamiento.](https://www.amazon.es/dp/B071FQR68L/?tag=tolees-21) con 35.42 de descuento por 15.5 EUR (original: 24.0 EUR) en el siguiente enlace!
 
 [![Ana Maria Lajusticia - Aceite de onagra ](https://m.media-amazon.com/images/I/41mRDVCYC0L._SL200_.jpg)](https://www.amazon.es/dp/B071FQR68L/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B071FQR68L/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B071FQR68L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

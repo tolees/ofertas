@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Corsair K70 LUX - Teclado mecánico Gamin al 39.97 % de descuento'
+title: 'Descuento del 39.97 % en Corsair K70 LUX - Teclado mecánico Gamin'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41-rDVMW3mL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41-rDVMW3mL._SL200_.jpg' ]
@@ -18,11 +18,11 @@ prodname: 'Corsair K70 LUX - Teclado mecánico Gaming  retroiluminación LED roj
 country: 'es'
 ---
 
-Está [Corsair K70 LUX - Teclado mecánico Gaming  retroiluminación LED roja  Marrón  Cherry MX Brown  - [QWERTY Español]](https://www.amazon.es/dp/B01HHPKQVS/?tag=tolees-21) con 39.97 de descuento por 89.99 EUR (original: 149.9 EUR) en el siguiente enlace!
+Tienes [Corsair K70 LUX - Teclado mecánico Gaming  retroiluminación LED roja  Marrón  Cherry MX Brown  - [QWERTY Español]](https://www.amazon.es/dp/B01HHPKQVS/?tag=tolees-21) con un 39.97 % de descuento con precio de oferta de 89.99 EUR (original: 149.9 EUR) en el siguiente enlace!
 
 [![Corsair K70 LUX - Teclado mecánico Gamin](https://images-eu.ssl-images-amazon.com/images/I/41-rDVMW3mL._SL200_.jpg)](https://www.amazon.es/dp/B01HHPKQVS/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01HHPKQVS/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B01HHPKQVS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

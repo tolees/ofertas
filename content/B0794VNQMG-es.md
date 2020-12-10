@@ -18,12 +18,10 @@ prodname: 'Columbia Silver Ridge II Cargo Short XO0663 Shorts  Hombre  Azul  Car
 country: 'es'
 ---
 
-Está [Columbia Silver Ridge II Cargo Short XO0663 Shorts  Hombre  Azul  Carbon   W34/L10](https://www.amazon.es/dp/B0794VNQMG/?tag=tolees-21) con 56.36 de descuento por 24 EUR (original: 54.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbia Silver Ridge II Cargo Short XO0663 Shorts  Hombre  Azul  Carbon   W34/L10](https://www.amazon.es/dp/B0794VNQMG/?tag=tolees-21) a 24 EUR (original: 54.99 EUR) (56.36 %  de descuento) en el siguiente enlace!
 
 [![Columbia Silver Ridge II Cargo Short XO0](https://images-eu.ssl-images-amazon.com/images/I/41sy9RvTlgL._SL200_.jpg)](https://www.amazon.es/dp/B0794VNQMG/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0794VNQMG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0794VNQMG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

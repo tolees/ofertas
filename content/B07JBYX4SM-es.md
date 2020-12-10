@@ -18,10 +18,12 @@ prodname: 'Lee Extreme Motion Straight Pantalones  Cougar  30W / 32L para Hombre
 country: 'es'
 ---
 
-Ahora mismo tienes [Lee Extreme Motion Straight Pantalones  Cougar  30W / 32L para Hombre](https://www.amazon.es/dp/B07JBYX4SM/?tag=tolees-21) a 41.99 EUR (original: 69.95 EUR) (39.97 %  de descuento) en el siguiente enlace!
+Está [Lee Extreme Motion Straight Pantalones  Cougar  30W / 32L para Hombre](https://www.amazon.es/dp/B07JBYX4SM/?tag=tolees-21) con 39.97 de descuento por 41.99 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![Lee Extreme Motion Straight Pantalones  ](https://m.media-amazon.com/images/I/31ktMlIIo1L._SL200_.jpg)](https://www.amazon.es/dp/B07JBYX4SM/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JBYX4SM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JBYX4SM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

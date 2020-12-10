@@ -18,12 +18,10 @@ prodname: 'EA Sports UFC 3'
 country: 'es'
 ---
 
-Está [EA Sports UFC 3](https://www.amazon.es/dp/B0774SFBXX/?tag=tolees-21) con 59.96 de descuento por 9.99 EUR (original: 24.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [EA Sports UFC 3](https://www.amazon.es/dp/B0774SFBXX/?tag=tolees-21) a 9.99 EUR (original: 24.95 EUR) (59.96 %  de descuento) en el siguiente enlace!
 
 [![EA Sports UFC 3](https://m.media-amazon.com/images/I/51icwk+pnKL._SL200_.jpg)](https://www.amazon.es/dp/B0774SFBXX/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0774SFBXX/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0774SFBXX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

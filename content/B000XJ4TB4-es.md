@@ -18,10 +18,12 @@ prodname: 'Bosch 2 608 601 116 - Plato de lija  duro  150 mm '
 country: 'es'
 ---
 
-Ahora mismo tienes [Bosch 2 608 601 116 - Plato de lija  duro  150 mm ](https://www.amazon.es/dp/B000XJ4TB4/?tag=tolees-21) a 20.38 EUR (original: 28.07 EUR) (27.40 %  de descuento) en el siguiente enlace!
+Está [Bosch 2 608 601 116 - Plato de lija  duro  150 mm ](https://www.amazon.es/dp/B000XJ4TB4/?tag=tolees-21) con 27.40 de descuento por 20.38 EUR (original: 28.07 EUR) en el siguiente enlace!
 
 [![Bosch 2 608 601 116 - Plato de lija  dur](https://images-eu.ssl-images-amazon.com/images/I/51eWbPAjE0L._SL200_.jpg)](https://www.amazon.es/dp/B000XJ4TB4/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000XJ4TB4/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000XJ4TB4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

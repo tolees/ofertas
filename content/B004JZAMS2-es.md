@@ -18,10 +18,12 @@ prodname: 'POP! Bobble - Star Wars: Stormtrooper'
 country: 'es'
 ---
 
-Ahora mismo tienes [POP! Bobble - Star Wars: Stormtrooper](https://www.amazon.es/dp/B004JZAMS2/?tag=tolees-21) a 9.54 EUR (original: 14.99 EUR) (36.36 %  de descuento) en el siguiente enlace!
+Está [POP! Bobble - Star Wars: Stormtrooper](https://www.amazon.es/dp/B004JZAMS2/?tag=tolees-21) con 36.36 de descuento por 9.54 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![POP! Bobble - Star Wars: Stormtrooper](https://images-eu.ssl-images-amazon.com/images/I/41fqg60P3iL._SL200_.jpg)](https://www.amazon.es/dp/B004JZAMS2/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B004JZAMS2/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B004JZAMS2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

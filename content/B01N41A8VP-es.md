@@ -18,12 +18,10 @@ prodname: 'Knorr - Pesto - Nueva receta  24% más de albahaca - 185 g - [Pack de
 country: 'es'
 ---
 
-Está [Knorr - Pesto - Nueva receta  24% más de albahaca - 185 g - [Pack de 6]](https://www.amazon.es/dp/B01N41A8VP/?tag=tolees-21) con 51.73 de descuento por 7.82 EUR (original: 16.2 EUR) en el siguiente enlace!
+Ahora mismo tienes [Knorr - Pesto - Nueva receta  24% más de albahaca - 185 g - [Pack de 6]](https://www.amazon.es/dp/B01N41A8VP/?tag=tolees-21) a 7.82 EUR (original: 16.2 EUR) (51.73 %  de descuento) en el siguiente enlace!
 
 [![Knorr - Pesto - Nueva receta  24% más de](http://images.amazon.com/images/P/B01N41A8VP.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B01N41A8VP/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01N41A8VP/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01N41A8VP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

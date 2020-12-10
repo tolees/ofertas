@@ -18,10 +18,12 @@ prodname: 'L esorcista  extended director s cut  [Italia] [Blu-ray]'
 country: 'es'
 ---
 
-Ahora mismo tienes [L esorcista  extended director s cut  [Italia] [Blu-ray]](https://www.amazon.es/dp/B00423BIBQ/?tag=tolees-21) a 5.91 EUR (original: 12.19 EUR) (51.52 %  de descuento) en el siguiente enlace!
+Está [L esorcista  extended director s cut  [Italia] [Blu-ray]](https://www.amazon.es/dp/B00423BIBQ/?tag=tolees-21) con 51.52 de descuento por 5.91 EUR (original: 12.19 EUR) en el siguiente enlace!
 
 [![L esorcista  extended director s cut  [I](https://images-eu.ssl-images-amazon.com/images/I/517vln4wYtL._SL200_.jpg)](https://www.amazon.es/dp/B00423BIBQ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00423BIBQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00423BIBQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

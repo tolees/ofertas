@@ -18,12 +18,10 @@ prodname: 'Bandai Star Wars 1/12 C-3po [ Japan Import ] by Bandai'
 country: 'es'
 ---
 
-Está [Bandai Star Wars 1/12 C-3po [ Japan Import ] by Bandai](https://www.amazon.es/dp/B00T41EW1O/?tag=tolees-21) con 29.53 de descuento por 23.22 EUR (original: 32.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bandai Star Wars 1/12 C-3po [ Japan Import ] by Bandai](https://www.amazon.es/dp/B00T41EW1O/?tag=tolees-21) a 23.22 EUR (original: 32.95 EUR) (29.53 %  de descuento) en el siguiente enlace!
 
 [![Bandai Star Wars 1/12 C-3po [ Japan Impo](https://images-eu.ssl-images-amazon.com/images/I/413QsOUqUmL._SL200_.jpg)](https://www.amazon.es/dp/B00T41EW1O/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00T41EW1O/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00T41EW1O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

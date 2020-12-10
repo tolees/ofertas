@@ -18,12 +18,10 @@ prodname: 'Carhartt Shoreline Jacket  Black  XL para Hombre'
 country: 'es'
 ---
 
-Está [Carhartt Shoreline Jacket  Black  XL para Hombre](https://www.amazon.es/dp/B00AU0Y9E8/?tag=tolees-21) con 42.15 de descuento por 97.47 EUR (original: 168.48 EUR) en el siguiente enlace!
+Ahora mismo tienes [Carhartt Shoreline Jacket  Black  XL para Hombre](https://www.amazon.es/dp/B00AU0Y9E8/?tag=tolees-21) a 97.47 EUR (original: 168.48 EUR) (42.15 %  de descuento) en el siguiente enlace!
 
 [![Carhartt Shoreline Jacket  Black  XL par](https://m.media-amazon.com/images/I/41o7PsqGE4L._SL200_.jpg)](https://www.amazon.es/dp/B00AU0Y9E8/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00AU0Y9E8/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00AU0Y9E8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -18,10 +18,12 @@ prodname: 'Kappa Nanook  Zapatillas Altas Unisex Niños  Verde  Army/Black 3111 
 country: 'es'
 ---
 
-Ahora mismo tienes [Kappa Nanook  Zapatillas Altas Unisex Niños  Verde  Army/Black 3111   34 EU](https://www.amazon.es/dp/B07D4W7R8S/?tag=tolees-21) a 14.7 EUR (original: 44.95 EUR) (67.30 %  de descuento) en el siguiente enlace!
+Está [Kappa Nanook  Zapatillas Altas Unisex Niños  Verde  Army/Black 3111   34 EU](https://www.amazon.es/dp/B07D4W7R8S/?tag=tolees-21) con 67.30 de descuento por 14.7 EUR (original: 44.95 EUR) en el siguiente enlace!
 
 [![Kappa Nanook  Zapatillas Altas Unisex Ni](https://images-eu.ssl-images-amazon.com/images/I/41TzOsqeDPL._SL200_.jpg)](https://www.amazon.es/dp/B07D4W7R8S/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07D4W7R8S/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07D4W7R8S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

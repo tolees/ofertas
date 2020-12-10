@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 48.82 % en Bosch Professional GBH 2-26 F - Martillo'
+title: 'Bosch Professional GBH 2-26 F - Martillo al 48.82 % de descuento'
 date: 2020-11-02 23:37:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-aDzXjW9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-aDzXjW9L._SL200_.jpg' ]
@@ -18,11 +18,11 @@ prodname: 'Bosch Professional GBH 2-26 F - Martillo perforador combinado  2 7 J 
 country: 'es'
 ---
 
-Tienes [Bosch Professional GBH 2-26 F - Martillo perforador combinado  2 7 J  máx. hormigón 26 mm  portabrocas SDS plus + cilíndrico  en maletín ](https://www.amazon.es/dp/B01M07Y8IR/?tag=tolees-21) con un 48.82 % de descuento con precio de oferta de 134.99 EUR (original: 263.78 EUR) en el siguiente enlace!
+Está [Bosch Professional GBH 2-26 F - Martillo perforador combinado  2 7 J  máx. hormigón 26 mm  portabrocas SDS plus + cilíndrico  en maletín ](https://www.amazon.es/dp/B01M07Y8IR/?tag=tolees-21) con 48.82 de descuento por 134.99 EUR (original: 263.78 EUR) en el siguiente enlace!
 
 [![Bosch Professional GBH 2-26 F - Martillo](https://m.media-amazon.com/images/I/51-aDzXjW9L._SL200_.jpg)](https://www.amazon.es/dp/B01M07Y8IR/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01M07Y8IR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01M07Y8IR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

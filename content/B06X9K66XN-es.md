@@ -18,10 +18,12 @@ prodname: 'Caprice 25301 Botas Mujer  Negro  Black Nappa   38.5 EU'
 country: 'es'
 ---
 
-Ahora mismo tienes [Caprice 25301 Botas Mujer  Negro  Black Nappa   38.5 EU](https://www.amazon.es/dp/B06X9K66XN/?tag=tolees-21) a 19.61 EUR (original: 79.95 EUR) (75.47 %  de descuento) en el siguiente enlace!
+Está [Caprice 25301 Botas Mujer  Negro  Black Nappa   38.5 EU](https://www.amazon.es/dp/B06X9K66XN/?tag=tolees-21) con 75.47 de descuento por 19.61 EUR (original: 79.95 EUR) en el siguiente enlace!
 
 [![Caprice 25301 Botas Mujer  Negro  Black ](https://images-eu.ssl-images-amazon.com/images/I/41BoUqvLbdL._SL200_.jpg)](https://www.amazon.es/dp/B06X9K66XN/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06X9K66XN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06X9K66XN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

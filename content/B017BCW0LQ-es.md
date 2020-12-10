@@ -18,12 +18,10 @@ prodname: 'Hijos De La Anarquia Temporada 1-7 [DVD]'
 country: 'es'
 ---
 
-Está [Hijos De La Anarquia Temporada 1-7 [DVD]](https://www.amazon.es/dp/B017BCW0LQ/?tag=tolees-21) con 44.47 de descuento por 48.37 EUR (original: 87.11 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hijos De La Anarquia Temporada 1-7 [DVD]](https://www.amazon.es/dp/B017BCW0LQ/?tag=tolees-21) a 48.37 EUR (original: 87.11 EUR) (44.47 %  de descuento) en el siguiente enlace!
 
 [![Hijos De La Anarquia Temporada 1-7 [DVD]](https://m.media-amazon.com/images/I/61S4MvXo6kL._SL200_.jpg)](https://www.amazon.es/dp/B017BCW0LQ/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B017BCW0LQ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B017BCW0LQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

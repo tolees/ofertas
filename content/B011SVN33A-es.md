@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Canton Godfather. Gangster Para Un P al 45.53 % de descuento'
+title: 'Descuento del 45.53 % en The Canton Godfather. Gangster Para Un P'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51NS7ciWufL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51NS7ciWufL._SL200_.jpg' ]
@@ -18,11 +18,11 @@ prodname: 'The Canton Godfather. Gangster Para Un Pequeño Milagro [Blu-ray]'
 country: 'es'
 ---
 
-Está [The Canton Godfather. Gangster Para Un Pequeño Milagro [Blu-ray]](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21) con 45.53 de descuento por 5 EUR (original: 9.18 EUR) en el siguiente enlace!
+Tienes [The Canton Godfather. Gangster Para Un Pequeño Milagro [Blu-ray]](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21) con un 45.53 % de descuento con precio de oferta de 5 EUR (original: 9.18 EUR) en el siguiente enlace!
 
 [![The Canton Godfather. Gangster Para Un P](https://images-eu.ssl-images-amazon.com/images/I/51NS7ciWufL._SL200_.jpg)](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B011SVN33A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

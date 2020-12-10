@@ -18,10 +18,12 @@ prodname: 'Einhell Expert Kit con Taladro TE-CD 18/2 Li y Amoladora TE-AG 18 Li 
 country: 'es'
 ---
 
-Ahora mismo tienes [Einhell Expert Kit con Taladro TE-CD 18/2 Li y Amoladora TE-AG 18 Li de 18V con 2 baterías de litio de 1 5Ah y 3 0 Ah y cargador  ref.4257211 ](https://www.amazon.es/dp/B01JGIF3DK/?tag=tolees-21) a 109.0 EUR (original: 147.02 EUR) (25.86 %  de descuento) en el siguiente enlace!
+Está [Einhell Expert Kit con Taladro TE-CD 18/2 Li y Amoladora TE-AG 18 Li de 18V con 2 baterías de litio de 1 5Ah y 3 0 Ah y cargador  ref.4257211 ](https://www.amazon.es/dp/B01JGIF3DK/?tag=tolees-21) con 25.86 de descuento por 109.0 EUR (original: 147.02 EUR) en el siguiente enlace!
 
 [![Einhell Expert Kit con Taladro TE-CD 18/](https://m.media-amazon.com/images/I/51phMDcT7tL._SL200_.jpg)](https://www.amazon.es/dp/B01JGIF3DK/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01JGIF3DK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01JGIF3DK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

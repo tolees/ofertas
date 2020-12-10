@@ -18,10 +18,12 @@ prodname: 'Under Armour UA HG Armour Capri Leggings  Mujer  Negro Black/Metallic
 country: 'es'
 ---
 
-Ahora mismo tienes [Under Armour UA HG Armour Capri Leggings  Mujer  Negro Black/Metallic Silver 001  XS](https://www.amazon.es/dp/B0719CW4XR/?tag=tolees-21) a 22.9 EUR (original: 39.99 EUR) (42.74 %  de descuento) en el siguiente enlace!
+Está [Under Armour UA HG Armour Capri Leggings  Mujer  Negro Black/Metallic Silver 001  XS](https://www.amazon.es/dp/B0719CW4XR/?tag=tolees-21) con 42.74 de descuento por 22.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Under Armour UA HG Armour Capri Leggings](https://images-eu.ssl-images-amazon.com/images/I/415qwBFFJtL._SL200_.jpg)](https://www.amazon.es/dp/B0719CW4XR/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0719CW4XR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0719CW4XR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
