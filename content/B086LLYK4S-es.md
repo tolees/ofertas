@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.99 % en Sony WHCH710NB - Auriculares inalámbrico'
-date: 2020-12-09 14:58:17
+date: 2020-12-10 16:05:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CgxsilyuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CgxsilyuL._SL200_.jpg' ]
 comments: true
