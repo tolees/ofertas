@@ -17,10 +17,12 @@ inStock: true
 prodname: 'National Geographic 76/350 Telescopio compacto'
 ---
 
-Ahora mismo tienes [National Geographic 76/350 Telescopio compacto](https://www.amazon.es/dp/B007WRYAUK/?tag=tolees-21) a 77.85 EUR (original: 109.9 EUR) (29.16 %  de descuento) en el siguiente enlace!
+Está [National Geographic 76/350 Telescopio compacto](https://www.amazon.es/dp/B007WRYAUK/?tag=tolees-21) con 29.16 de descuento por 77.85 EUR (original: 109.9 EUR) en el siguiente enlace!
 
 [![National Geographic 76/350 Telescopio co](https://m.media-amazon.com/images/I/41+DmxgvzgL._SL200_.jpg)](https://www.amazon.es/dp/B007WRYAUK/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B007WRYAUK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B007WRYAUK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Corsair K68 Teclado mecánico Gaming retroiluminación LED rojo  resistente al polvo y a las salpicaduras QWERTY español  Cherry MX Red  Suave y rápido '
 ---
 
-Está [Corsair K68 Teclado mecánico Gaming retroiluminación LED rojo  resistente al polvo y a las salpicaduras QWERTY español  Cherry MX Red  Suave y rápido ](https://www.amazon.es/dp/B076KTQGGY/?tag=tolees-21) con 25.00 de descuento por 74.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Corsair K68 Teclado mecánico Gaming retroiluminación LED rojo  resistente al polvo y a las salpicaduras QWERTY español  Cherry MX Red  Suave y rápido ](https://www.amazon.es/dp/B076KTQGGY/?tag=tolees-21) a 74.99 EUR (original: 99.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
 [![Corsair K68 Teclado mecánico Gaming retr](https://m.media-amazon.com/images/I/41nLyj9qK-L._SL200_.jpg)](https://www.amazon.es/dp/B076KTQGGY/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B076KTQGGY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B076KTQGGY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

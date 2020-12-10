@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Sony MDR-XB950N1G - Auriculares Inalámbricos con Bluetooth y Extra Bass  Cancelación de Ruido  Verde'
 ---
 
-Está [Sony MDR-XB950N1G - Auriculares Inalámbricos con Bluetooth y Extra Bass  Cancelación de Ruido  Verde](https://www.amazon.es/dp/B01N5MLM9W/?tag=tolees-21) con 43.70 de descuento por 140.74 EUR (original: 250.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony MDR-XB950N1G - Auriculares Inalámbricos con Bluetooth y Extra Bass  Cancelación de Ruido  Verde](https://www.amazon.es/dp/B01N5MLM9W/?tag=tolees-21) a 140.74 EUR (original: 250.0 EUR) (43.70 %  de descuento) en el siguiente enlace!
 
 [![Sony MDR-XB950N1G - Auriculares Inalámbr](https://m.media-amazon.com/images/I/411+iEMpsWL._SL200_.jpg)](https://www.amazon.es/dp/B01N5MLM9W/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01N5MLM9W/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01N5MLM9W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

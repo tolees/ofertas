@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Moleskine - Cuaderno de Bienestar  Cuaderno Temático  Cuaderno de Tapa Dura para Hacer el Seguimiento de tus Objetivos de Salud y Deportivos  Tamaño Grande 13 x 21 cm  400 Páginas'
 ---
 
-Ahora mismo tienes [Moleskine - Cuaderno de Bienestar  Cuaderno Temático  Cuaderno de Tapa Dura para Hacer el Seguimiento de tus Objetivos de Salud y Deportivos  Tamaño Grande 13 x 21 cm  400 Páginas](https://www.amazon.es/dp/B079ZT1TXT/?tag=tolees-21) a 14.95 EUR (original: 29.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Moleskine - Cuaderno de Bienestar  Cuaderno Temático  Cuaderno de Tapa Dura para Hacer el Seguimiento de tus Objetivos de Salud y Deportivos  Tamaño Grande 13 x 21 cm  400 Páginas](https://www.amazon.es/dp/B079ZT1TXT/?tag=tolees-21) con 50.00 de descuento por 14.95 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![Moleskine - Cuaderno de Bienestar  Cuade](https://m.media-amazon.com/images/I/31kxBuZFxEL._SL200_.jpg)](https://www.amazon.es/dp/B079ZT1TXT/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079ZT1TXT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079ZT1TXT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

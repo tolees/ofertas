@@ -17,10 +17,12 @@ inStock: true
 prodname: 'La Granja de Zenón - Puzzles Juega y Aprende con el Caballo Percherón'
 ---
 
-Ahora mismo tienes [La Granja de Zenón - Puzzles Juega y Aprende con el Caballo Percherón](https://www.amazon.es/dp/B07SKWKYKW/?tag=tolees-21) a 5.52 EUR (original: 9.99 EUR) (44.74 %  de descuento) en el siguiente enlace!
+Está [La Granja de Zenón - Puzzles Juega y Aprende con el Caballo Percherón](https://www.amazon.es/dp/B07SKWKYKW/?tag=tolees-21) con 44.74 de descuento por 5.52 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![La Granja de Zenón - Puzzles Juega y Apr](https://m.media-amazon.com/images/I/51vAPHCQoXL._SL200_.jpg)](https://www.amazon.es/dp/B07SKWKYKW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07SKWKYKW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07SKWKYKW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

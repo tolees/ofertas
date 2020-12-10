@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Tesa 05086-00000-00 Cinta De Pintor  amarillo'
 ---
 
-Ahora mismo tienes [Tesa 05086-00000-00 Cinta De Pintor  amarillo](https://www.amazon.es/dp/B00ISW94EA/?tag=tolees-21) a 2.27 EUR (original: 3.19 EUR) (28.84 %  de descuento) en el siguiente enlace!
+Está [Tesa 05086-00000-00 Cinta De Pintor  amarillo](https://www.amazon.es/dp/B00ISW94EA/?tag=tolees-21) con 28.84 de descuento por 2.27 EUR (original: 3.19 EUR) en el siguiente enlace!
 
 [![Tesa 05086-00000-00 Cinta De Pintor  ama](https://images-eu.ssl-images-amazon.com/images/I/41sE2nvP44L._SL200_.jpg)](https://www.amazon.es/dp/B00ISW94EA/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00ISW94EA/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00ISW94EA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

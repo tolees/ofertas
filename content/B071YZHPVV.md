@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Los Minions - Edición 2017 [Blu-ray]'
 ---
 
-Está [Los Minions - Edición 2017 [Blu-ray]](https://www.amazon.es/dp/B071YZHPVV/?tag=tolees-21) con 47.24 de descuento por 6.5 EUR (original: 12.32 EUR) en el siguiente enlace!
+Ahora mismo tienes [Los Minions - Edición 2017 [Blu-ray]](https://www.amazon.es/dp/B071YZHPVV/?tag=tolees-21) a 6.5 EUR (original: 12.32 EUR) (47.24 %  de descuento) en el siguiente enlace!
 
 [![Los Minions - Edición 2017 [Blu-ray]](https://m.media-amazon.com/images/I/51BbrIAEcHL._SL200_.jpg)](https://www.amazon.es/dp/B071YZHPVV/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071YZHPVV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B071YZHPVV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
