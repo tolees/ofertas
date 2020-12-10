@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Avenzo AV707NG - Videocámara Deportiva de 5 MP  Color Negro y Naranja'
 ---
 
-Está [Avenzo AV707NG - Videocámara Deportiva de 5 MP  Color Negro y Naranja](https://www.amazon.es/dp/B01HOCNJWM/?tag=tolees-21) con 78.31 de descuento por 12.99 EUR (original: 59.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Avenzo AV707NG - Videocámara Deportiva de 5 MP  Color Negro y Naranja](https://www.amazon.es/dp/B01HOCNJWM/?tag=tolees-21) a 12.99 EUR (original: 59.9 EUR) (78.31 %  de descuento) en el siguiente enlace!
 
 [![Avenzo AV707NG - Videocámara Deportiva d](https://images-eu.ssl-images-amazon.com/images/I/41ihWohNEVL._SL200_.jpg)](https://www.amazon.es/dp/B01HOCNJWM/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01HOCNJWM/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01HOCNJWM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

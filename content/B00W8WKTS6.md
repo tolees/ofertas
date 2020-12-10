@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Lotus 18165/2 - Reloj de Pulsera Hombre  Color Gris'
 ---
 
-Ahora mismo tienes [Lotus 18165/2 - Reloj de Pulsera Hombre  Color Gris](https://www.amazon.es/dp/B00W8WKTS6/?tag=tolees-21) a 74.25 EUR (original: 99.0 EUR) (25.00 %  de descuento) en el siguiente enlace!
+Está [Lotus 18165/2 - Reloj de Pulsera Hombre  Color Gris](https://www.amazon.es/dp/B00W8WKTS6/?tag=tolees-21) con 25.00 de descuento por 74.25 EUR (original: 99.0 EUR) en el siguiente enlace!
 
 [![Lotus 18165/2 - Reloj de Pulsera Hombre ](https://m.media-amazon.com/images/I/41SHQhQ7rjL._SL200_.jpg)](https://www.amazon.es/dp/B00W8WKTS6/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00W8WKTS6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00W8WKTS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

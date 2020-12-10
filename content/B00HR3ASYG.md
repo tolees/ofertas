@@ -17,12 +17,10 @@ inStock: true
 prodname: 'TRIPTOMAX - Complemento Alimenticio para Regular el Estado Anímico  Compuesto de Triptófano + Vitaminas del Grupo B+ Hierro+ Magnesio  30 Comprimidos'
 ---
 
-Está [TRIPTOMAX - Complemento Alimenticio para Regular el Estado Anímico  Compuesto de Triptófano + Vitaminas del Grupo B+ Hierro+ Magnesio  30 Comprimidos](https://www.amazon.es/dp/B00HR3ASYG/?tag=tolees-21) con 28.07 de descuento por 10.43 EUR (original: 14.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [TRIPTOMAX - Complemento Alimenticio para Regular el Estado Anímico  Compuesto de Triptófano + Vitaminas del Grupo B+ Hierro+ Magnesio  30 Comprimidos](https://www.amazon.es/dp/B00HR3ASYG/?tag=tolees-21) a 10.43 EUR (original: 14.5 EUR) (28.07 %  de descuento) en el siguiente enlace!
 
 [![TRIPTOMAX - Complemento Alimenticio para](https://m.media-amazon.com/images/I/51wTxXxmL5L._SL200_.jpg)](https://www.amazon.es/dp/B00HR3ASYG/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00HR3ASYG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00HR3ASYG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

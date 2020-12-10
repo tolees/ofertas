@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling Gabbie S  Bolsos Bandolera para  al 47.87 % de descuento'
-date: 2020-12-07 13:05:35
+date: 2020-12-10 10:32:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qlc-cfgJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qlc-cfgJL._SL200_.jpg' ]
 comments: true

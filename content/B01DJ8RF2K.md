@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Educa Borrás Soy Luna - Juego de Mesa 16790'
 ---
 
-Ahora mismo tienes [Educa Borrás Soy Luna - Juego de Mesa 16790](https://www.amazon.es/dp/B01DJ8RF2K/?tag=tolees-21) a 12.94 EUR (original: 19.95 EUR) (35.14 %  de descuento) en el siguiente enlace!
+Está [Educa Borrás Soy Luna - Juego de Mesa 16790](https://www.amazon.es/dp/B01DJ8RF2K/?tag=tolees-21) con 35.14 de descuento por 12.94 EUR (original: 19.95 EUR) en el siguiente enlace!
 
 [![Educa Borrás Soy Luna - Juego de Mesa 16](https://m.media-amazon.com/images/I/61ERYSlQJoL._SL200_.jpg)](https://www.amazon.es/dp/B01DJ8RF2K/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01DJ8RF2K/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01DJ8RF2K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

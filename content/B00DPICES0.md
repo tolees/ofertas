@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Bed Head by TIGI - Oh Bee Hive Matte - Champú en seco - 238 ml'
 ---
 
-Ahora mismo tienes [Bed Head by TIGI - Oh Bee Hive Matte - Champú en seco - 238 ml](https://www.amazon.es/dp/B00DPICES0/?tag=tolees-21) a 6.9 EUR (original: 20.5 EUR) (66.34 %  de descuento) en el siguiente enlace!
+Está [Bed Head by TIGI - Oh Bee Hive Matte - Champú en seco - 238 ml](https://www.amazon.es/dp/B00DPICES0/?tag=tolees-21) con 66.34 de descuento por 6.9 EUR (original: 20.5 EUR) en el siguiente enlace!
 
 [![Bed Head by TIGI - Oh Bee Hive Matte - C](https://images-eu.ssl-images-amazon.com/images/I/41bWyMP5h7L._SL200_.jpg)](https://www.amazon.es/dp/B00DPICES0/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00DPICES0/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00DPICES0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Puma Liga Casuals Polo  Hombre  White/Black  S'
 ---
 
-Está [Puma Liga Casuals Polo  Hombre  White/Black  S](https://www.amazon.es/dp/B078NWG6LW/?tag=tolees-21) con 61.66 de descuento por 13.4 EUR (original: 34.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Puma Liga Casuals Polo  Hombre  White/Black  S](https://www.amazon.es/dp/B078NWG6LW/?tag=tolees-21) a 13.4 EUR (original: 34.95 EUR) (61.66 %  de descuento) en el siguiente enlace!
 
 [![Puma Liga Casuals Polo  Hombre  White/Bl](https://images-eu.ssl-images-amazon.com/images/I/31uDVaz2dtL._SL200_.jpg)](https://www.amazon.es/dp/B078NWG6LW/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078NWG6LW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B078NWG6LW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Issey Miyake - L Eau D Issey - Agua De Tocador Vaporizador  100 ml'
 ---
 
-Ahora mismo tienes [Issey Miyake - L Eau D Issey - Agua De Tocador Vaporizador  100 ml](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21) a 45.95 EUR (original: 97.1 EUR) (52.68 %  de descuento) en el siguiente enlace!
+Está [Issey Miyake - L Eau D Issey - Agua De Tocador Vaporizador  100 ml](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21) con 52.68 de descuento por 45.95 EUR (original: 97.1 EUR) en el siguiente enlace!
 
 [![Issey Miyake - L Eau D Issey - Agua De T](https://m.media-amazon.com/images/I/21IJfNlO83L._SL200_.jpg)](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000MJZOPK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

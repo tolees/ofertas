@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Melatonina Epaplus Sueño Liberación prolongada 60 comprimidos'
 ---
 
-Está [Melatonina Epaplus Sueño Liberación prolongada 60 comprimidos](https://www.amazon.es/dp/B01IVPBJ5U/?tag=tolees-21) con 32.30 de descuento por 8.09 EUR (original: 11.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Melatonina Epaplus Sueño Liberación prolongada 60 comprimidos](https://www.amazon.es/dp/B01IVPBJ5U/?tag=tolees-21) a 8.09 EUR (original: 11.95 EUR) (32.30 %  de descuento) en el siguiente enlace!
 
 [![Melatonina Epaplus Sueño Liberación prol](https://m.media-amazon.com/images/I/51Qz0c15leL._SL200_.jpg)](https://www.amazon.es/dp/B01IVPBJ5U/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01IVPBJ5U/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01IVPBJ5U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
