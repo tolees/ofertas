@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Lacoste Pj3594 Polo  Rojo  Salvia Adx   6 años  Talla del Fabricante: 6A  para Niñas'
 ---
 
-Ahora mismo tienes [Lacoste Pj3594 Polo  Rojo  Salvia Adx   6 años  Talla del Fabricante: 6A  para Niñas](https://www.amazon.es/dp/B07JJ83ZRH/?tag=tolees-21) a 26.77 EUR (original: 50 EUR) (46.46 %  de descuento) en el siguiente enlace!
+Está [Lacoste Pj3594 Polo  Rojo  Salvia Adx   6 años  Talla del Fabricante: 6A  para Niñas](https://www.amazon.es/dp/B07JJ83ZRH/?tag=tolees-21) con 46.46 de descuento por 26.77 EUR (original: 50 EUR) en el siguiente enlace!
 
 [![Lacoste Pj3594 Polo  Rojo  Salvia Adx   ](https://images-eu.ssl-images-amazon.com/images/I/31KdUQRpioL._SL200_.jpg)](https://www.amazon.es/dp/B07JJ83ZRH/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JJ83ZRH/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JJ83ZRH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

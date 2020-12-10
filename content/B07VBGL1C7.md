@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Lee Extreme Motion Chino Pantalones  Taupe  32W / 30L para Hombre'
 ---
 
-Ahora mismo tienes [Lee Extreme Motion Chino Pantalones  Taupe  32W / 30L para Hombre](https://www.amazon.es/dp/B07VBGL1C7/?tag=tolees-21) a 18.4 EUR (original: 25.12 EUR) (26.75 %  de descuento) en el siguiente enlace!
+Está [Lee Extreme Motion Chino Pantalones  Taupe  32W / 30L para Hombre](https://www.amazon.es/dp/B07VBGL1C7/?tag=tolees-21) con 26.75 de descuento por 18.4 EUR (original: 25.12 EUR) en el siguiente enlace!
 
 [![Lee Extreme Motion Chino Pantalones  Tau](https://m.media-amazon.com/images/I/31fnfniMi8L._SL200_.jpg)](https://www.amazon.es/dp/B07VBGL1C7/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07VBGL1C7/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07VBGL1C7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

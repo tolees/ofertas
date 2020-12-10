@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Jack & Jones Jjepaulos Polo SS Noos  Gris  Dark Grey Melange Detail: Slim Fit - Melange   Large para Hombre'
 ---
 
-Ahora mismo tienes [Jack & Jones Jjepaulos Polo SS Noos  Gris  Dark Grey Melange Detail: Slim Fit - Melange   Large para Hombre](https://www.amazon.es/dp/B079BVKB5F/?tag=tolees-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!
+Está [Jack & Jones Jjepaulos Polo SS Noos  Gris  Dark Grey Melange Detail: Slim Fit - Melange   Large para Hombre](https://www.amazon.es/dp/B079BVKB5F/?tag=tolees-21) con 35.02 de descuento por 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Jack & Jones Jjepaulos Polo SS Noos  Gri](https://m.media-amazon.com/images/I/31xJLpMVa2L._SL200_.jpg)](https://www.amazon.es/dp/B079BVKB5F/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079BVKB5F/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079BVKB5F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'El Santuario  BD 3D  [Blu-ray]'
 ---
 
-Ahora mismo tienes [El Santuario  BD 3D  [Blu-ray]](https://www.amazon.es/dp/B00A2L0UMK/?tag=tolees-21) a 7.14 EUR (original: 11.5 EUR) (37.91 %  de descuento) en el siguiente enlace!
+Está [El Santuario  BD 3D  [Blu-ray]](https://www.amazon.es/dp/B00A2L0UMK/?tag=tolees-21) con 37.91 de descuento por 7.14 EUR (original: 11.5 EUR) en el siguiente enlace!
 
 [![El Santuario  BD 3D  [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51%2BwyZVLrCL._SL200_.jpg)](https://www.amazon.es/dp/B00A2L0UMK/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00A2L0UMK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00A2L0UMK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

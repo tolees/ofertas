@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Los Goonies [Blu-ray]'
 ---
 
-Ahora mismo tienes [Los Goonies [Blu-ray]](https://www.amazon.es/dp/B08KH7JTHR/?tag=tolees-21) a 5.49 EUR (original: 10.99 EUR) (50.05 %  de descuento) en el siguiente enlace!
+Está [Los Goonies [Blu-ray]](https://www.amazon.es/dp/B08KH7JTHR/?tag=tolees-21) con 50.05 de descuento por 5.49 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![Los Goonies [Blu-ray]](https://m.media-amazon.com/images/I/51ivFp7RMAL._SL200_.jpg)](https://www.amazon.es/dp/B08KH7JTHR/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B08KH7JTHR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B08KH7JTHR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

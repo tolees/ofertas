@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Edge of Tomorrow - Senza domani [Italia] [Blu-ray]'
 ---
 
-Está [Edge of Tomorrow - Senza domani [Italia] [Blu-ray]](https://www.amazon.es/dp/B00KKMNFEG/?tag=tolees-21) con 70.13 de descuento por 5.01 EUR (original: 16.77 EUR) en el siguiente enlace!
+Ahora mismo tienes [Edge of Tomorrow - Senza domani [Italia] [Blu-ray]](https://www.amazon.es/dp/B00KKMNFEG/?tag=tolees-21) a 5.01 EUR (original: 16.77 EUR) (70.13 %  de descuento) en el siguiente enlace!
 
 [![Edge of Tomorrow - Senza domani [Italia]](https://images-eu.ssl-images-amazon.com/images/I/51BUa-AZMqL._SL200_.jpg)](https://www.amazon.es/dp/B00KKMNFEG/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00KKMNFEG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00KKMNFEG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

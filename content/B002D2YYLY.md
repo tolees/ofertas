@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Sigma 10-20mm f/3.5 EX DC HSM PAF - Objetivo para Pentax  Distancia Focal 10-20mm  Apertura f/3.5  diámetro: 82mm  Color Negro - para Pentax'
 ---
 
-Ahora mismo tienes [Sigma 10-20mm f/3.5 EX DC HSM PAF - Objetivo para Pentax  Distancia Focal 10-20mm  Apertura f/3.5  diámetro: 82mm  Color Negro - para Pentax](https://www.amazon.es/dp/B002D2YYLY/?tag=tolees-21) a 328.1 EUR (original: 709 EUR) (53.72 %  de descuento) en el siguiente enlace!
+Está [Sigma 10-20mm f/3.5 EX DC HSM PAF - Objetivo para Pentax  Distancia Focal 10-20mm  Apertura f/3.5  diámetro: 82mm  Color Negro - para Pentax](https://www.amazon.es/dp/B002D2YYLY/?tag=tolees-21) con 53.72 de descuento por 328.1 EUR (original: 709 EUR) en el siguiente enlace!
 
 [![Sigma 10-20mm f/3.5 EX DC HSM PAF - Obje](https://images-eu.ssl-images-amazon.com/images/I/51zClP14MNL._SL200_.jpg)](https://www.amazon.es/dp/B002D2YYLY/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B002D2YYLY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B002D2YYLY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

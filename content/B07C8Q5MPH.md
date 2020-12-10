@@ -17,12 +17,10 @@ inStock: true
 prodname: 'El efecto sombra [Blu-ray]'
 ---
 
-Está [El efecto sombra [Blu-ray]](https://www.amazon.es/dp/B07C8Q5MPH/?tag=tolees-21) con 57.08 de descuento por 3 EUR (original: 6.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [El efecto sombra [Blu-ray]](https://www.amazon.es/dp/B07C8Q5MPH/?tag=tolees-21) a 3 EUR (original: 6.99 EUR) (57.08 %  de descuento) en el siguiente enlace!
 
 [![El efecto sombra [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51miE%2BnTLPL._SL200_.jpg)](https://www.amazon.es/dp/B07C8Q5MPH/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07C8Q5MPH/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07C8Q5MPH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

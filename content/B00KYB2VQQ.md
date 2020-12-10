@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Nike M Nk Dry Acdmy Top SS T-Shirt  Hombre  University Red  White   XL'
 ---
 
-Ahora mismo tienes [Nike M Nk Dry Acdmy Top SS T-Shirt  Hombre  University Red  White   XL](https://www.amazon.es/dp/B00KYB2VQQ/?tag=tolees-21) a 8.7 EUR (original: 20 EUR) (56.50 %  de descuento) en el siguiente enlace!
+Está [Nike M Nk Dry Acdmy Top SS T-Shirt  Hombre  University Red  White   XL](https://www.amazon.es/dp/B00KYB2VQQ/?tag=tolees-21) con 56.50 de descuento por 8.7 EUR (original: 20 EUR) en el siguiente enlace!
 
 [![Nike M Nk Dry Acdmy Top SS T-Shirt  Homb](https://images-eu.ssl-images-amazon.com/images/I/31B3UuLZY6L._SL200_.jpg)](https://www.amazon.es/dp/B00KYB2VQQ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00KYB2VQQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00KYB2VQQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
