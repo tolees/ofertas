@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Mad Max'
 ---
 
-Está [Mad Max](https://www.amazon.es/dp/B00YEBADSK/?tag=tolees-21) con 41.73 de descuento por 9.9 EUR (original: 16.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Mad Max](https://www.amazon.es/dp/B00YEBADSK/?tag=tolees-21) a 9.9 EUR (original: 16.99 EUR) (41.73 %  de descuento) en el siguiente enlace!
 
 [![Mad Max](https://m.media-amazon.com/images/I/51sDyypcw6L._SL200_.jpg)](https://www.amazon.es/dp/B00YEBADSK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00YEBADSK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00YEBADSK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Flashback: 25 Anniversary'
 ---
 
-Ahora mismo tienes [Flashback: 25 Anniversary](https://www.amazon.es/dp/B07BDZLS8B/?tag=tolees-21) a 24.08 EUR (original: 39.99 EUR) (39.78 %  de descuento) en el siguiente enlace!
+Está [Flashback: 25 Anniversary](https://www.amazon.es/dp/B07BDZLS8B/?tag=tolees-21) con 39.78 de descuento por 24.08 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Flashback: 25 Anniversary](https://m.media-amazon.com/images/I/51w2n+E1dZL._SL200_.jpg)](https://www.amazon.es/dp/B07BDZLS8B/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07BDZLS8B/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07BDZLS8B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

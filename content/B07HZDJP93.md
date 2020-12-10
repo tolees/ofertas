@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Breaking Bad  Serie Completa  [Blu-ray]'
 ---
 
-Está [Breaking Bad  Serie Completa  [Blu-ray]](https://www.amazon.es/dp/B07HZDJP93/?tag=tolees-21) con 47.31 de descuento por 50.0 EUR (original: 94.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Breaking Bad  Serie Completa  [Blu-ray]](https://www.amazon.es/dp/B07HZDJP93/?tag=tolees-21) a 50.0 EUR (original: 94.9 EUR) (47.31 %  de descuento) en el siguiente enlace!
 
 [![Breaking Bad  Serie Completa  [Blu-ray]](https://m.media-amazon.com/images/I/516gz0fzG7L._SL200_.jpg)](https://www.amazon.es/dp/B07HZDJP93/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07HZDJP93/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07HZDJP93/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

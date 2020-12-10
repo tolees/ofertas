@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.70 % en INTEX 58075NP - Hinchable pelota Sandía'
-date: 2020-12-05 17:14:35
+date: 2020-12-10 09:21:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nkXH-SDhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nkXH-SDhL._SL200_.jpg' ]
 comments: true

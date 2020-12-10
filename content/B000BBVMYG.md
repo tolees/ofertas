@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Shiseido 20388 - Crema hombre  125 ml'
 ---
 
-Ahora mismo tienes [Shiseido 20388 - Crema hombre  125 ml](https://www.amazon.es/dp/B000BBVMYG/?tag=tolees-21) a 21.3 EUR (original: 31 EUR) (31.29 %  de descuento) en el siguiente enlace!
+Está [Shiseido 20388 - Crema hombre  125 ml](https://www.amazon.es/dp/B000BBVMYG/?tag=tolees-21) con 31.29 de descuento por 21.3 EUR (original: 31 EUR) en el siguiente enlace!
 
 [![Shiseido 20388 - Crema hombre  125 ml](https://images-eu.ssl-images-amazon.com/images/I/31w2nZrZUkL._SL200_.jpg)](https://www.amazon.es/dp/B000BBVMYG/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000BBVMYG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000BBVMYG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

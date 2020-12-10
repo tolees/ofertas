@@ -17,12 +17,10 @@ inStock: true
 prodname: 'BLACK+DECKER CS3652LKA-QW - Atornillador 3.6V  batería 1.5Ah  incluye 99 accesorios y maletín'
 ---
 
-Está [BLACK+DECKER CS3652LKA-QW - Atornillador 3.6V  batería 1.5Ah  incluye 99 accesorios y maletín](https://www.amazon.es/dp/B01KFNKOXE/?tag=tolees-21) con 41.87 de descuento por 34.85 EUR (original: 59.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [BLACK+DECKER CS3652LKA-QW - Atornillador 3.6V  batería 1.5Ah  incluye 99 accesorios y maletín](https://www.amazon.es/dp/B01KFNKOXE/?tag=tolees-21) a 34.85 EUR (original: 59.95 EUR) (41.87 %  de descuento) en el siguiente enlace!
 
 [![BLACK+DECKER CS3652LKA-QW - Atornillador](https://m.media-amazon.com/images/I/51yEI-Lx+eL._SL200_.jpg)](https://www.amazon.es/dp/B01KFNKOXE/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01KFNKOXE/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01KFNKOXE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
