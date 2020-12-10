@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Trust 17866 - Base de refrigeración para Ordenador portátil Universal  Negro'
 ---
 
-Está [Trust 17866 - Base de refrigeración para Ordenador portátil Universal  Negro](https://www.amazon.es/dp/B005GNMCLQ/?tag=tolees-21) con 37.52 de descuento por 12.49 EUR (original: 19.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Trust 17866 - Base de refrigeración para Ordenador portátil Universal  Negro](https://www.amazon.es/dp/B005GNMCLQ/?tag=tolees-21) a 12.49 EUR (original: 19.99 EUR) (37.52 %  de descuento) en el siguiente enlace!
 
 [![Trust 17866 - Base de refrigeración para](https://m.media-amazon.com/images/I/41TAmfsIqeL._SL200_.jpg)](https://www.amazon.es/dp/B005GNMCLQ/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B005GNMCLQ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B005GNMCLQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

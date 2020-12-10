@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Yepes: The Complete Solo Recordings'
 ---
 
-Ahora mismo tienes [Yepes: The Complete Solo Recordings](https://www.amazon.es/dp/B06Y1XGS1Y/?tag=tolees-21) a 21.99 EUR (original: 53.13 EUR) (58.61 %  de descuento) en el siguiente enlace!
+Está [Yepes: The Complete Solo Recordings](https://www.amazon.es/dp/B06Y1XGS1Y/?tag=tolees-21) con 58.61 de descuento por 21.99 EUR (original: 53.13 EUR) en el siguiente enlace!
 
 [![Yepes: The Complete Solo Recordings](https://m.media-amazon.com/images/I/51Y+9opVKGL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1XGS1Y/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06Y1XGS1Y/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B06Y1XGS1Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

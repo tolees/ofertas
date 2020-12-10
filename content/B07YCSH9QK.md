@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Liberty Caffè - Café negro en grano  100 % arábica  1 kg'
 ---
 
-Ahora mismo tienes [Liberty Caffè - Café negro en grano  100 % arábica  1 kg](https://www.amazon.es/dp/B07YCSH9QK/?tag=tolees-21) a 11.39 EUR (original: 18.99 EUR) (40.02 %  de descuento) en el siguiente enlace!
+Está [Liberty Caffè - Café negro en grano  100 % arábica  1 kg](https://www.amazon.es/dp/B07YCSH9QK/?tag=tolees-21) con 40.02 de descuento por 11.39 EUR (original: 18.99 EUR) en el siguiente enlace!
 
 [![Liberty Caffè - Café negro en grano  100](https://m.media-amazon.com/images/I/41x6qI4u4ML._SL200_.jpg)](https://www.amazon.es/dp/B07YCSH9QK/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07YCSH9QK/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07YCSH9QK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

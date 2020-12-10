@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Campanilla y el Tesoro Perdido [Blu-ray]'
 ---
 
-Ahora mismo tienes [Campanilla y el Tesoro Perdido [Blu-ray]](https://www.amazon.es/dp/B00AQ0CQC4/?tag=tolees-21) a 4.52 EUR (original: 16.88 EUR) (73.22 %  de descuento) en el siguiente enlace!
+Está [Campanilla y el Tesoro Perdido [Blu-ray]](https://www.amazon.es/dp/B00AQ0CQC4/?tag=tolees-21) con 73.22 de descuento por 4.52 EUR (original: 16.88 EUR) en el siguiente enlace!
 
 [![Campanilla y el Tesoro Perdido [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51c-S3PjdYL._SL200_.jpg)](https://www.amazon.es/dp/B00AQ0CQC4/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00AQ0CQC4/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00AQ0CQC4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

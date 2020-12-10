@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Diesel 00SAB2-0AAMU  Calzoncillos para Hombre   3   M'
 ---
 
-Ahora mismo tienes [Diesel 00SAB2-0AAMU  Calzoncillos para Hombre   3   M](https://www.amazon.es/dp/B01DX7M2XY/?tag=tolees-21) a 22.33 EUR (original: 49 EUR) (54.43 %  de descuento) en el siguiente enlace!
+Está [Diesel 00SAB2-0AAMU  Calzoncillos para Hombre   3   M](https://www.amazon.es/dp/B01DX7M2XY/?tag=tolees-21) con 54.43 de descuento por 22.33 EUR (original: 49 EUR) en el siguiente enlace!
 
 [![Diesel 00SAB2-0AAMU  Calzoncillos para H](https://images-eu.ssl-images-amazon.com/images/I/41t1ldUzXIL._SL200_.jpg)](https://www.amazon.es/dp/B01DX7M2XY/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01DX7M2XY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01DX7M2XY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

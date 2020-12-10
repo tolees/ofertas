@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Adidas Runfalcon  Zapatillas de Running para Mujer  BLU Raw Indigo/FTWR White/Grey Three F17  37 1/3 EU'
 ---
 
-Ahora mismo tienes [Adidas Runfalcon  Zapatillas de Running para Mujer  BLU Raw Indigo/FTWR White/Grey Three F17  37 1/3 EU](https://www.amazon.es/dp/B07K2NMMFR/?tag=tolees-21) a 35.95 EUR (original: 49.95 EUR) (28.03 %  de descuento) en el siguiente enlace!
+Está [Adidas Runfalcon  Zapatillas de Running para Mujer  BLU Raw Indigo/FTWR White/Grey Three F17  37 1/3 EU](https://www.amazon.es/dp/B07K2NMMFR/?tag=tolees-21) con 28.03 de descuento por 35.95 EUR (original: 49.95 EUR) en el siguiente enlace!
 
 [![Adidas Runfalcon  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/41buhrknnkL._SL200_.jpg)](https://www.amazon.es/dp/B07K2NMMFR/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07K2NMMFR/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07K2NMMFR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

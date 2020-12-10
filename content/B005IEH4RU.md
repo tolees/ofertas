@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Bourjois Effect 3d Gloss Gloss Tono 20 Rose symphonic - 21 gr.'
 ---
 
-Ahora mismo tienes [Bourjois Effect 3d Gloss Gloss Tono 20 Rose symphonic - 21 gr.](https://www.amazon.es/dp/B005IEH4RU/?tag=tolees-21) a 4.39 EUR (original: 9.95 EUR) (55.88 %  de descuento) en el siguiente enlace!
+Está [Bourjois Effect 3d Gloss Gloss Tono 20 Rose symphonic - 21 gr.](https://www.amazon.es/dp/B005IEH4RU/?tag=tolees-21) con 55.88 de descuento por 4.39 EUR (original: 9.95 EUR) en el siguiente enlace!
 
 [![Bourjois Effect 3d Gloss Gloss Tono 20 R](https://images-eu.ssl-images-amazon.com/images/I/41dekm1MTbL._SL200_.jpg)](https://www.amazon.es/dp/B005IEH4RU/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B005IEH4RU/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B005IEH4RU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

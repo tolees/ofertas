@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony ICF-P26 - Radio portátil  con altav al 30.03 % de descuento'
-date: 2020-12-09 02:15:28
+date: 2020-12-10 02:43:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/4129+n8I17L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4129+n8I17L._SL200_.jpg' ]
 comments: true

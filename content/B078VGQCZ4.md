@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.11 % en Sony WH-CH700NB - Auriculares inalámbric'
-date: 2020-12-09 02:26:38
+date: 2020-12-10 02:32:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AEZriyA-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AEZriyA-L._SL200_.jpg' ]
 comments: true

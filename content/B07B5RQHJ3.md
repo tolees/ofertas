@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Gloss - caja de maquillaje  caja de regalo para mujeres - ¡ You Are Awesome Collection Beauty Essentials Make-Up Gift Set - You Are Awesome Collection Beauty Essentials Make-Up Set - 8pcs'
 ---
 
-Está [Gloss - caja de maquillaje  caja de regalo para mujeres - ¡ You Are Awesome Collection Beauty Essentials Make-Up Gift Set - You Are Awesome Collection Beauty Essentials Make-Up Set - 8pcs](https://www.amazon.es/dp/B07B5RQHJ3/?tag=tolees-21) con 47.77 de descuento por 9.14 EUR (original: 17.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gloss - caja de maquillaje  caja de regalo para mujeres - ¡ You Are Awesome Collection Beauty Essentials Make-Up Gift Set - You Are Awesome Collection Beauty Essentials Make-Up Set - 8pcs](https://www.amazon.es/dp/B07B5RQHJ3/?tag=tolees-21) a 9.14 EUR (original: 17.5 EUR) (47.77 %  de descuento) en el siguiente enlace!
 
 [![Gloss - caja de maquillaje  caja de rega](https://images-eu.ssl-images-amazon.com/images/I/51Sl2ZOCdnL._SL200_.jpg)](https://www.amazon.es/dp/B07B5RQHJ3/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07B5RQHJ3/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07B5RQHJ3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Bresser Stellar 60/800 AZ - Telescopio Refractor con Adaptador de Cámara de Smartphone  Negro'
 ---
 
-Ahora mismo tienes [Bresser Stellar 60/800 AZ - Telescopio Refractor con Adaptador de Cámara de Smartphone  Negro](https://www.amazon.es/dp/B00SJ2O0XO/?tag=tolees-21) a 68.7 EUR (original: 106.25 EUR) (35.34 %  de descuento) en el siguiente enlace!
+Está [Bresser Stellar 60/800 AZ - Telescopio Refractor con Adaptador de Cámara de Smartphone  Negro](https://www.amazon.es/dp/B00SJ2O0XO/?tag=tolees-21) con 35.34 de descuento por 68.7 EUR (original: 106.25 EUR) en el siguiente enlace!
 
 [![Bresser Stellar 60/800 AZ - Telescopio R](https://m.media-amazon.com/images/I/316zjCKhs6L._SL200_.jpg)](https://www.amazon.es/dp/B00SJ2O0XO/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00SJ2O0XO/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00SJ2O0XO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

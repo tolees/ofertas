@@ -17,12 +17,10 @@ inStock: true
 prodname: '1971 Project Helios - Collector Edition'
 ---
 
-Está [1971 Project Helios - Collector Edition](https://www.amazon.es/dp/B06WW1QFJG/?tag=tolees-21) con 52.66 de descuento por 21.3 EUR (original: 44.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [1971 Project Helios - Collector Edition](https://www.amazon.es/dp/B06WW1QFJG/?tag=tolees-21) a 21.3 EUR (original: 44.99 EUR) (52.66 %  de descuento) en el siguiente enlace!
 
 [![1971 Project Helios - Collector Edition](https://m.media-amazon.com/images/I/41gRSeSuQAL._SL200_.jpg)](https://www.amazon.es/dp/B06WW1QFJG/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06WW1QFJG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B06WW1QFJG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

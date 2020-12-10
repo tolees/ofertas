@@ -17,12 +17,10 @@ inStock: true
 prodname: 'FIFA 21 Ultimate | Código Origin para PC'
 ---
 
-Está [FIFA 21 Ultimate | Código Origin para PC](https://www.amazon.es/dp/B08B2KPCHS/?tag=tolees-21) con 50.01 de descuento por 44.99 EUR (original: 89.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [FIFA 21 Ultimate | Código Origin para PC](https://www.amazon.es/dp/B08B2KPCHS/?tag=tolees-21) a 44.99 EUR (original: 89.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
 [![FIFA 21 Ultimate | Código Origin para PC](https://m.media-amazon.com/images/I/41ClgdTP1yL._SL200_.jpg)](https://www.amazon.es/dp/B08B2KPCHS/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B08B2KPCHS/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B08B2KPCHS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
