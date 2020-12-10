@@ -22,6 +22,9 @@ Tienes [WOSTOO Luz Trasera para Bicicleta Recargable USB  LED Faro Trasero Bici 
 
 [![WOSTOO Luz Trasera para Bicicleta Recarg](https://images-eu.ssl-images-amazon.com/images/I/51b-857waoL._SL200_.jpg)](https://www.amazon.es/dp/B07MCX9R8Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MCX9R8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

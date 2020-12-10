@@ -22,6 +22,9 @@ Está [Pepe Jeans Ason Neceser de viaje  22 cm  1.32 litros  Negro](https://www.
 
 [![Pepe Jeans Ason Neceser de viaje  22 cm ](https://images-eu.ssl-images-amazon.com/images/I/41ww%2BCn%2BK%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07P3FTBBL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P3FTBBL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

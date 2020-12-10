@@ -22,6 +22,9 @@ Está [Izas Point Pantalones  Hombre  Negro  Black / Dark Grey   L](https://www.
 
 [![Izas Point Pantalones  Hombre  Negro  Bl](https://images-eu.ssl-images-amazon.com/images/I/41drhtY2uiL._SL200_.jpg)](https://www.amazon.es/dp/B06XT33J7Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XT33J7Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

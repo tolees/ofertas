@@ -22,6 +22,9 @@ Ahora mismo tienes [Bra Efficient Cuchillo de pan  Acero Inoxidable  Gris  3x5x3
 
 [![Bra Efficient Cuchillo de pan  Acero Ino](https://images-eu.ssl-images-amazon.com/images/I/21hFxSF-hqL._SL200_.jpg)](https://www.amazon.es/dp/B0779JVF3Z/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0779JVF3Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

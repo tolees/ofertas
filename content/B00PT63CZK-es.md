@@ -22,6 +22,9 @@ Tienes [PURE VERINO MAN Eau De Toilette 150ML](https://www.amazon.es/dp/B00PT63C
 
 [![PURE VERINO MAN Eau De Toilette 150ML](https://images-eu.ssl-images-amazon.com/images/I/51XAFUCH0EL._SL200_.jpg)](https://www.amazon.es/dp/B00PT63CZK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00PT63CZK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

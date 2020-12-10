@@ -22,6 +22,9 @@ Ahora mismo tienes [Dockers by Gerli 35iz323  Botas Altas para Mujer  Gris  Taup
 
 [![Dockers by Gerli 35iz323  Botas Altas pa](https://images-eu.ssl-images-amazon.com/images/I/41hk-TCzd2L._SL200_.jpg)](https://www.amazon.es/dp/B07DJBDZ1G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DJBDZ1G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

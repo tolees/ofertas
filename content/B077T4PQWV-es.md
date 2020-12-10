@@ -22,6 +22,9 @@ Tienes [Asics Gel-Cumulus 19  Zapatillas de Running para Mujer  Rosa  Begonia Pi
 
 [![Asics Gel-Cumulus 19  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/51c6mAzidJL._SL200_.jpg)](https://www.amazon.es/dp/B077T4PQWV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077T4PQWV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

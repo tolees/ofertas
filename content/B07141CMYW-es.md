@@ -22,6 +22,9 @@ Está [Calvin Klein Debby Velvet  Zapatillas para Mujer  Azul  Blue   37 EU](htt
 
 [![Calvin Klein Debby Velvet  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41eImhWspNL._SL200_.jpg)](https://www.amazon.es/dp/B07141CMYW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07141CMYW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

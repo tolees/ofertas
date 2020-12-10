@@ -22,6 +22,9 @@ Ahora mismo tienes [Dockers 35IZ301-620720  Botas Militares para Mujer  Rojo-Rot
 
 [![Dockers 35IZ301-620720  Botas Militares ](https://images-eu.ssl-images-amazon.com/images/I/41ACaRImtfL._SL200_.jpg)](https://www.amazon.es/dp/B00XVU2MB6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00XVU2MB6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

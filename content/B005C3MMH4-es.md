@@ -22,6 +22,9 @@ Tienes [Pdx Toyz Pipedream Extreme Masturbador Flip A Sista Over - 500 gr](https
 
 [![Pdx Toyz Pipedream Extreme Masturbador F](https://images-eu.ssl-images-amazon.com/images/I/31HnBXbGK6L._SL200_.jpg)](https://www.amazon.es/dp/B005C3MMH4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B005C3MMH4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

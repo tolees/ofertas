@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Palm Candid  Sandalia con Pulsera para Mujer  Verde  
 
 [![Clarks Palm Candid  Sandalia con Pulsera](https://images-eu.ssl-images-amazon.com/images/I/412O9lZo5UL._SL200_.jpg)](https://www.amazon.es/dp/B07FSPZT4Z/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FSPZT4Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

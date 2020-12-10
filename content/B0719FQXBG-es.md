@@ -22,6 +22,9 @@ Ahora mismo tienes [Kappa Cammy  Botas Clasicas Unisex Niños  Negro  Black/Grey
 
 [![Kappa Cammy  Botas Clasicas Unisex Niños](https://images-eu.ssl-images-amazon.com/images/I/41kbjk3TytL._SL200_.jpg)](https://www.amazon.es/dp/B0719FQXBG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0719FQXBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

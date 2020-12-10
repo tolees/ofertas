@@ -22,6 +22,9 @@ Está [adidas Nemeziz 18.4 FxG  Zapatillas de Fútbol para Hombre  Gris  Ash F18
 
 [![adidas Nemeziz 18.4 FxG  Zapatillas de F](https://images-eu.ssl-images-amazon.com/images/I/31yyfZi8aHL._SL200_.jpg)](https://www.amazon.es/dp/B07D98RJJ4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D98RJJ4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

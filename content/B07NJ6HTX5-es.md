@@ -22,6 +22,9 @@ Tienes [CASIO Reloj Digital para Hombre de Cuarzo con Correa en Resina WS-2000H-
 
 [![CASIO Reloj Digital para Hombre de Cuarz](https://images-eu.ssl-images-amazon.com/images/I/41%2BrX7EzeWL._SL200_.jpg)](https://www.amazon.es/dp/B07NJ6HTX5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NJ6HTX5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

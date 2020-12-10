@@ -22,6 +22,9 @@ Está [G-STAR RAW Core Art Hooded Sw L/s Capucha  Azul  Lt Nassau Blue Htr 8535 
 
 [![G-STAR RAW Core Art Hooded Sw L/s Capuch](https://images-eu.ssl-images-amazon.com/images/I/51yJEI9W7dL._SL200_.jpg)](https://www.amazon.es/dp/B06XBTVP61/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XBTVP61/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

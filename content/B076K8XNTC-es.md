@@ -22,6 +22,9 @@ Tienes [SADES R7 Auricular con micrófono  USB auricular Gaming auriculares comp
 
 [![SADES R7 Auricular con micrófono  USB au](https://images-eu.ssl-images-amazon.com/images/I/51oyBjmt8JL._SL200_.jpg)](https://www.amazon.es/dp/B076K8XNTC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076K8XNTC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tommy Hilfiger New Chiara Str Pq Polo Ss  Polo Mujer  Rosa  Orchid Pink65
 
 [![Tommy Hilfiger New Chiara Str Pq Polo Ss]()](https://www.amazon.es/dp/B075GYG7YK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075GYG7YK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

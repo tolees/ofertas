@@ -22,6 +22,9 @@ Está [Rimmel London Oh My Gloss Tint Brillo de Labios Tono 400 - 22 6 gr](https
 
 [![Rimmel London Oh My Gloss Tint Brillo de](https://images-eu.ssl-images-amazon.com/images/I/31kJpzhFyoL._SL200_.jpg)](https://www.amazon.es/dp/B01N7PDK86/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N7PDK86/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

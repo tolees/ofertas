@@ -22,6 +22,9 @@ Está [Skechers Delson-Ortego  Zapatillas para Hombre  Negro  Black Blk   43 EU]
 
 [![Skechers Delson-Ortego  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41dwsRFD%2BGL._SL200_.jpg)](https://www.amazon.es/dp/B07B9JRXKB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B9JRXKB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

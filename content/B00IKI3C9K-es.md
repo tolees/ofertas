@@ -22,6 +22,9 @@ Tienes [Samsung S-View - Funda para móvil Galaxy S5  Inteligente  permite contr
 
 [![Samsung S-View - Funda para móvil Galaxy](https://images-eu.ssl-images-amazon.com/images/I/31fPexwF4-L._SL200_.jpg)](https://www.amazon.es/dp/B00IKI3C9K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IKI3C9K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Bigben TW5GB - Altavoz tipo barra  color azul  rojo y blanco](https://www
 
 [![Bigben TW5GB - Altavoz tipo barra  color](https://images-eu.ssl-images-amazon.com/images/I/412SzhyRvOL._SL200_.jpg)](https://www.amazon.es/dp/B00HZLG7WW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00HZLG7WW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Epson Workforce DS-860N - Escáner A3  65 PPM 600 dpi ](http
 
 [![Epson Workforce DS-860N - Escáner A3  65](https://images-eu.ssl-images-amazon.com/images/I/419FREIWYKL._SL200_.jpg)](https://www.amazon.es/dp/B00I8EV0WW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00I8EV0WW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

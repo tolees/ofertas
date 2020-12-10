@@ -22,6 +22,9 @@ Está [STANLEY FATMAX FMHT6-70418 - Pistola de cola termofusible 100W a 200W](ht
 
 [![STANLEY FATMAX FMHT6-70418 - Pistola de ](https://images-eu.ssl-images-amazon.com/images/I/41pkbHbrhyL._SL200_.jpg)](https://www.amazon.es/dp/B008DI2JOG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B008DI2JOG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

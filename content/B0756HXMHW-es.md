@@ -22,6 +22,9 @@ Tienes [Tiny Love 3 in 1 Cozy Rocker - Balancín para bebé  Gris](https://www.a
 
 [![Tiny Love 3 in 1 Cozy Rocker - Balancín ](https://images-eu.ssl-images-amazon.com/images/I/51gtuGe0ylL._SL200_.jpg)](https://www.amazon.es/dp/B0756HXMHW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0756HXMHW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

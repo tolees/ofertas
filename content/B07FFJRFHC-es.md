@@ -22,6 +22,9 @@ Está [Superga 2790-suew  Zapatillas de Gimnasia para Mujer  Negro  Blue Night S
 
 [![Superga 2790-suew  Zapatillas de Gimnasi](https://images-eu.ssl-images-amazon.com/images/I/41icujM4CiL._SL200_.jpg)](https://www.amazon.es/dp/B07FFJRFHC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FFJRFHC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

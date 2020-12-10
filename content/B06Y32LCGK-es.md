@@ -22,6 +22,13 @@ Ahora mismo tienes [Joma Miami Bermuda Deporte de Tenis  Hombre  Blanco  2XS](ht
 
 [![Joma Miami Bermuda Deporte de Tenis  Hom](https://m.media-amazon.com/images/I/21Ki-jihHSL._SL200_.jpg)](https://www.amazon.es/dp/B06Y32LCGK/?tag=tolees-21)
 
+Características:
+
+- Hecho 100 % de poliéster
+- Tiene un ajuste óptimo
+- Cintura elástica con cordón
+- Pantalón corto con bolsillos
+
 [Visítala!!!](https://www.amazon.es/dp/B06Y32LCGK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

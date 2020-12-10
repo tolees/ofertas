@@ -22,6 +22,9 @@ Tienes [Gocco Pantalon Basico Pana  Niños  Marrón  Cuero MC  9-10 años](https
 
 [![Gocco Pantalon Basico Pana  Niños  Marró](https://images-eu.ssl-images-amazon.com/images/I/31C%2B3QOUAVL._SL200_.jpg)](https://www.amazon.es/dp/B07D83FDDK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D83FDDK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

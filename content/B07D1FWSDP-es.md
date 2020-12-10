@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Classic Leather Ripple  Zapatillas Unisex Niños  Nar
 
 [![Reebok Classic Leather Ripple  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41XtE9SaZHL._SL200_.jpg)](https://www.amazon.es/dp/B07D1FWSDP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D1FWSDP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

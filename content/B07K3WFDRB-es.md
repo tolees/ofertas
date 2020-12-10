@@ -22,6 +22,9 @@ Está [Taladro Atornillador bergwerk T005 3.8V  Taladro Inalámbrico con la Func
 
 [![Taladro Atornillador bergwerk T005 3.8V ](https://images-eu.ssl-images-amazon.com/images/I/51ESM1lNzyL._SL200_.jpg)](https://www.amazon.es/dp/B07K3WFDRB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K3WFDRB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

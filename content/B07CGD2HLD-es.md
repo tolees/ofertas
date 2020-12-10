@@ -22,6 +22,9 @@ Tienes [14 en 1 Protoboard con Soporte RAB para Arduino UNOR3  Mega 2560 y Raspb
 
 [![14 en 1 Protoboard con Soporte RAB para ](https://images-eu.ssl-images-amazon.com/images/I/5173d%2B8WtyL._SL200_.jpg)](https://www.amazon.es/dp/B07CGD2HLD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CGD2HLD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

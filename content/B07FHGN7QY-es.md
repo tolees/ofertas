@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas COURT70S  Zapatillas de Deporte para Hombre  Escarl/F
 
 [![adidas COURT70S  Zapatillas de Deporte p](https://images-eu.ssl-images-amazon.com/images/I/31pOzRqxe3L._SL200_.jpg)](https://www.amazon.es/dp/B07FHGN7QY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FHGN7QY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

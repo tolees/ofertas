@@ -22,6 +22,9 @@ Está [Hugo Boss Orange 1513417 - Reloj de pulsera para hombre](https://www.amaz
 
 [![Hugo Boss Orange 1513417 - Reloj de puls](https://images-eu.ssl-images-amazon.com/images/I/51RJdvpy47L._SL200_.jpg)](https://www.amazon.es/dp/B01JLIS3JQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01JLIS3JQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

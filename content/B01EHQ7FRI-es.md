@@ -22,6 +22,9 @@ Ahora mismo tienes [Lékué Helado colapsable Surtido 4 un  Silicona  Unidades](
 
 [![Lékué Helado colapsable Surtido 4 un  Si](https://images-eu.ssl-images-amazon.com/images/I/41dkWSV8YeL._SL200_.jpg)](https://www.amazon.es/dp/B01EHQ7FRI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01EHQ7FRI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

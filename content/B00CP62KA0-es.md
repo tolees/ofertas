@@ -22,6 +22,9 @@ Ahora mismo tienes [VIBOX Sniper Gaming PC Ordenador de sobremesa con Cupón de 
 
 [![VIBOX Sniper Gaming PC Ordenador de sobr](https://images-eu.ssl-images-amazon.com/images/I/51yjYJDRCML._SL200_.jpg)](https://www.amazon.es/dp/B00CP62KA0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00CP62KA0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

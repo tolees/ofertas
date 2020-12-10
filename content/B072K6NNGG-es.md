@@ -22,6 +22,9 @@ Tienes [Apple iPad Pro  10 5 pulgadas y 256GB con Wi-Fi + Cellular  - Oro](http
 
 [![Apple iPad Pro  10 5 pulgadas y 256GB co](https://images-eu.ssl-images-amazon.com/images/I/41dPPpBLVTL._SL200_.jpg)](https://www.amazon.es/dp/B072K6NNGG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072K6NNGG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

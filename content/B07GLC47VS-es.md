@@ -22,6 +22,9 @@ Tienes [LifeProof Frē - Funda estanca y Anti caídas para iPhone XS  Azul](http
 
 [![LifeProof Frē - Funda estanca y Anti caí](https://images-eu.ssl-images-amazon.com/images/I/31eGBZkP19L._SL200_.jpg)](https://www.amazon.es/dp/B07GLC47VS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GLC47VS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Cortador de cutículas de acero inoxidable con 1/2 mandíbula extremadame
 
 [![Cortador de cutículas de acero inoxidabl](https://images-eu.ssl-images-amazon.com/images/I/41CROwathpL._SL200_.jpg)](https://www.amazon.es/dp/B07RGP31T8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07RGP31T8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

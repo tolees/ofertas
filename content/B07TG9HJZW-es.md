@@ -22,6 +22,9 @@ Está [Limpiador de Poros  Xpreen Pore Cleaner Eliminador de Puntos Negros Extra
 
 [![Limpiador de Poros  Xpreen Pore Cleaner ](https://images-eu.ssl-images-amazon.com/images/I/418g6CaYZqL._SL200_.jpg)](https://www.amazon.es/dp/B07TG9HJZW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07TG9HJZW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

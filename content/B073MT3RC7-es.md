@@ -22,6 +22,9 @@ Ahora mismo tienes [ONLY Onlivy L/s O-neck Pullover Knt Noos  Suéter para Mujer
 
 [![ONLY Onlivy L/s O-neck Pullover Knt Noos](https://images-eu.ssl-images-amazon.com/images/I/41pbI6XU4sL._SL200_.jpg)](https://www.amazon.es/dp/B073MT3RC7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073MT3RC7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

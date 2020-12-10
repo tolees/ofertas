@@ -22,6 +22,9 @@ Tienes [Reebok Cl Leather II  Zapatillas para Hombre  Blanco  White/Cool Shadow/
 
 [![Reebok Cl Leather II  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/31TWTOPaUWL._SL200_.jpg)](https://www.amazon.es/dp/B07D2RGW57/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D2RGW57/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

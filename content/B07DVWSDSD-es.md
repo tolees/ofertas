@@ -22,6 +22,9 @@ Está [LE COQ SPORTIF Alpha II  Zapatillas para Hombre  Azul Dress Blue  44 EU](
 
 [![LE COQ SPORTIF Alpha II  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/31r4Rr3JVYL._SL200_.jpg)](https://www.amazon.es/dp/B07DVWSDSD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVWSDSD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

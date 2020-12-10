@@ -22,6 +22,9 @@ Está [Lacoste Bayliss  Bajos para Hombre  Rojo  Red   39.5 EU](https://www.amaz
 
 [![Lacoste Bayliss  Bajos para Hombre  Rojo](https://images-eu.ssl-images-amazon.com/images/I/411vpZQeHtL._SL200_.jpg)](https://www.amazon.es/dp/B01N0QOSFX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N0QOSFX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

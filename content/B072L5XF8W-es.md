@@ -22,6 +22,9 @@ Está [Esprit - 087ea1o067  Shoppers y bolsos de hombro Mujer  Orange  Copper   
 
 [![Esprit - 087ea1o067  Shoppers y bolsos d](https://images-eu.ssl-images-amazon.com/images/I/51BJAnAt1WL._SL200_.jpg)](https://www.amazon.es/dp/B072L5XF8W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072L5XF8W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

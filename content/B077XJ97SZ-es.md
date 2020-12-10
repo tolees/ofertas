@@ -22,6 +22,9 @@ Tienes [SURKER 2089 Plancha de Pelo 45W Alisadora Onduladora y Rizadora 3 en 1 E
 
 [![SURKER 2089 Plancha de Pelo 45W Alisador](https://images-eu.ssl-images-amazon.com/images/I/41wxAQvCXXL._SL200_.jpg)](https://www.amazon.es/dp/B077XJ97SZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077XJ97SZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

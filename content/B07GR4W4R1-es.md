@@ -22,6 +22,9 @@ Está [Hiboy Pack Patinete Rosa con Asiento Kart Rosa](https://www.amazon.es/dp/
 
 [![Hiboy Pack Patinete Rosa con Asiento Kar](https://images-eu.ssl-images-amazon.com/images/I/51Z-S3wt2yL._SL200_.jpg)](https://www.amazon.es/dp/B07GR4W4R1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GR4W4R1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

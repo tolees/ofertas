@@ -22,6 +22,9 @@ Está [Skechers Ez Flex 3.0-Quick Escapade  Zapatillas sin Cordones para Mujer  
 
 [![Skechers Ez Flex 3.0-Quick Escapade  Zap](https://images-eu.ssl-images-amazon.com/images/I/41o8x%2Bk3kDL._SL200_.jpg)](https://www.amazon.es/dp/B077BT8MQ9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077BT8MQ9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

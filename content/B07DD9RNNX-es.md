@@ -22,6 +22,9 @@ Está [Champion Low Cut Shoe Lyte Mesh  Zapatillas de Running para Asfalto para 
 
 [![Champion Low Cut Shoe Lyte Mesh  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41S0DT7EQML._SL200_.jpg)](https://www.amazon.es/dp/B07DD9RNNX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DD9RNNX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

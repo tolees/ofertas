@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Supernova Carbon Attack 1.9 Palas  Adultos Unisex  Ve
 
 [![Adidas Supernova Carbon Attack 1.9 Palas](https://images-eu.ssl-images-amazon.com/images/I/411iw-vcHJL._SL200_.jpg)](https://www.amazon.es/dp/B07LBLNC1M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07LBLNC1M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

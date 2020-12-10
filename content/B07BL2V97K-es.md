@@ -22,6 +22,9 @@ Está [New Balance Solvi  Zapatillas de Running para Mujer  Morado  Voltage Viol
 
 [![New Balance Solvi  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/41NL8716S%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07BL2V97K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BL2V97K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

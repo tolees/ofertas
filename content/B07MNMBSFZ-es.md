@@ -22,6 +22,9 @@ Está [Minnie Mouse "Palms" Oficial Bolsa De Deporte 400x230x240mm](https://www.
 
 [![Minnie Mouse "Palms" Oficial Bolsa De De](https://images-eu.ssl-images-amazon.com/images/I/41rwsAeiE7L._SL200_.jpg)](https://www.amazon.es/dp/B07MNMBSFZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MNMBSFZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Sloane Pantalones    Deep Sea 597   W36/L34 para Hombre](http
 
 [![Pepe Jeans Sloane Pantalones    Deep Sea](https://images-eu.ssl-images-amazon.com/images/I/41fFfH8KcAL._SL200_.jpg)](https://www.amazon.es/dp/B07C59HD6J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C59HD6J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Joma Tenis 80 Polo  Mujer  Marino  L](https://www.amazon.es/dp/B06XNYPL2
 
 [![Joma Tenis 80 Polo  Mujer  Marino  L](https://images-eu.ssl-images-amazon.com/images/I/41-jGU2AhoL._SL200_.jpg)](https://www.amazon.es/dp/B06XNYPL27/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XNYPL27/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

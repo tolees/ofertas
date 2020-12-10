@@ -22,6 +22,9 @@ Está [Living Kitzbühel T-Modell uni 1446 - Zapatillas de casa para niños  Azu
 
 [![Living Kitzbühel T-Modell uni 1446 - Zap](https://images-eu.ssl-images-amazon.com/images/I/41pLUnu5m1L._SL200_.jpg)](https://www.amazon.es/dp/B001F33GGQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001F33GGQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

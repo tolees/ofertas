@@ -22,6 +22,9 @@ Ahora mismo tienes [CAMPER Hoops  Zapatillas Altas para Mujer  Blanco  White Nat
 
 [![CAMPER Hoops  Zapatillas Altas para Muje](https://images-eu.ssl-images-amazon.com/images/I/31pUmGbWDDL._SL200_.jpg)](https://www.amazon.es/dp/B0743HJBS9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0743HJBS9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

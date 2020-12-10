@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike Court Royale Suede Zapatillas de tenis Hombre  Azul/Bla
 
 [![Nike Court Royale Suede Zapatillas de te](https://images-eu.ssl-images-amazon.com/images/I/31Og0UCsrML._SL200_.jpg)](https://www.amazon.es/dp/B01AZ45AB4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01AZ45AB4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

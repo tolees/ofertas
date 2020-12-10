@@ -22,6 +22,9 @@ Está [New Balance 500  Zapatillas para Hombre  Verde  Green/Grey Sky   44 EU](h
 
 [![New Balance 500  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41pNz77%2B2fL._SL200_.jpg)](https://www.amazon.es/dp/B013QZHOFE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B013QZHOFE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [G-STAR RAW Dunda Slim Polo S\\s  sartho blue 6067  Small para Hombre](htt
 
 [![G-STAR RAW Dunda Slim Polo S\\s  sartho ](https://images-eu.ssl-images-amazon.com/images/I/41h8YWzBEPL._SL200_.jpg)](https://www.amazon.es/dp/B07KFJGG3X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KFJGG3X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

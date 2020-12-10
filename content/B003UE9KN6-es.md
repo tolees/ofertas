@@ -22,6 +22,9 @@ Tienes [Nike Court Royale Suede  Zapatillas de Gimnasia para Hombre  Gris Vapste
 
 [![Nike Court Royale Suede  Zapatillas de G](https://images-eu.ssl-images-amazon.com/images/I/418XTzmEIZL._SL200_.jpg)](https://www.amazon.es/dp/B003UE9KN6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003UE9KN6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [LucaSng lámina protectora del espejo retrovisor del coche Antivaho  res
 
 [![LucaSng lámina protectora del espejo ret](https://images-eu.ssl-images-amazon.com/images/I/51y83IZlwAL._SL200_.jpg)](https://www.amazon.es/dp/B07G7T5TG8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G7T5TG8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

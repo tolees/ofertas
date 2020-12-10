@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Reloj Multiesfera para Mujer de Cuarzo con Correa en Acero
 
 [![Tommy Hilfiger Reloj Multiesfera para Mu](https://images-eu.ssl-images-amazon.com/images/I/41-7IEDGWUL._SL200_.jpg)](https://www.amazon.es/dp/B075XMJ1QC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075XMJ1QC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

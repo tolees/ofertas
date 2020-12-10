@@ -22,6 +22,9 @@ Tienes [Zeller 17970 Caja de almacenaje de cartón Blanco  Vintage White  16.5 x
 
 [![Zeller 17970 Caja de almacenaje de cartó](https://images-eu.ssl-images-amazon.com/images/I/516oLtPYANL._SL200_.jpg)](https://www.amazon.es/dp/B002JSU5S8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B002JSU5S8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

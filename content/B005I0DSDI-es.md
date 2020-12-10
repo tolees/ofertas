@@ -22,6 +22,9 @@ Ahora mismo tienes [Tuscany Silver 8.45.2985 - Cadena con colgante de plata de l
 
 [![Tuscany Silver 8.45.2985 - Cadena con co](https://images-eu.ssl-images-amazon.com/images/I/414m2Zsh-mL._SL200_.jpg)](https://www.amazon.es/dp/B005I0DSDI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B005I0DSDI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

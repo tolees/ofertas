@@ -22,6 +22,9 @@ Tienes [Crocs Crocband LodgePoint Boot  Botas de Nieve Unisex niños  Gris  Smok
 
 [![Crocs Crocband LodgePoint Boot  Botas de](https://images-eu.ssl-images-amazon.com/images/I/41yC9KLjBaL._SL200_.jpg)](https://www.amazon.es/dp/B0788CC1GP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0788CC1GP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

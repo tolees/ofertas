@@ -22,6 +22,9 @@ Está [2 en 1 Sacaleches Eléctrico Ruido Bajo Extractor de Leche Sacaleches Aut
 
 [![2 en 1 Sacaleches Eléctrico Ruido Bajo E](https://images-eu.ssl-images-amazon.com/images/I/41doA5E9DyL._SL200_.jpg)](https://www.amazon.es/dp/B07GXPVRWK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GXPVRWK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

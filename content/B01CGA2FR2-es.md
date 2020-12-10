@@ -22,6 +22,9 @@ Ahora mismo tienes [Breville VKJ944 Hervidor  color blanco 3000 W  1.7 litros](h
 
 [![Breville VKJ944 Hervidor  color blanco 3](https://images-eu.ssl-images-amazon.com/images/I/41M3vqdNafL._SL200_.jpg)](https://www.amazon.es/dp/B01CGA2FR2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01CGA2FR2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

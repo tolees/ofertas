@@ -22,6 +22,9 @@ Está [Hama Fine Art - Álbum de fotos  50 páginas negras  25 hojas   álbum co
 
 [![Hama Fine Art - Álbum de fotos  50 págin](https://images-eu.ssl-images-amazon.com/images/I/417OE0rzwtL._SL200_.jpg)](https://www.amazon.es/dp/B009HSQ4JM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B009HSQ4JM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [dodocool 3 IN 1 Enfriador Portátil Espacio Personal Enfriador de Aire P
 
 [![dodocool 3 IN 1 Enfriador Portátil Espac](https://images-eu.ssl-images-amazon.com/images/I/51XOwHp1iIL._SL200_.jpg)](https://www.amazon.es/dp/B07L3PG8FB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L3PG8FB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

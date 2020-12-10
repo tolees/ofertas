@@ -22,6 +22,9 @@ Tienes [RICOO Mesa de Centro Estancia Design WM080-W-BG la Mesa de salón Auxili
 
 [![RICOO Mesa de Centro Estancia Design WM0](https://images-eu.ssl-images-amazon.com/images/I/41ek0GbTa2L._SL200_.jpg)](https://www.amazon.es/dp/B07MWCK71M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MWCK71M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

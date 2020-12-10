@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Dress Casual Suede Boot  Botas Chelsea para Hombre  Marró
 
 [![Tommy Hilfiger Dress Casual Suede Boot  ](https://images-eu.ssl-images-amazon.com/images/I/31pP3iH73cL._SL200_.jpg)](https://www.amazon.es/dp/B07L3FRRTS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L3FRRTS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

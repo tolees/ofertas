@@ -22,6 +22,9 @@ Está [Altavoz Bluetooth Portatil  COMISO Ture Wireless Estereo 12W Subwoofer In
 
 [![Altavoz Bluetooth Portatil  COMISO Ture ](https://images-eu.ssl-images-amazon.com/images/I/51-I8JtLz%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07C8H5SZ5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C8H5SZ5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

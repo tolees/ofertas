@@ -22,6 +22,9 @@ Tienes [Cocina de camping Málaga Campart Travel KI-0732 – Con paravientos –
 
 [![Cocina de camping Málaga Campart Travel ](https://images-eu.ssl-images-amazon.com/images/I/51goyPJmqRL._SL200_.jpg)](https://www.amazon.es/dp/B003IT6PMW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003IT6PMW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

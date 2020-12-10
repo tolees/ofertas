@@ -22,6 +22,9 @@ Está [Salomon XA Lite GTX W  Zapatillas de Trail Running para Mujer  Violeta  G
 
 [![Salomon XA Lite GTX W  Zapatillas de Tra](https://images-eu.ssl-images-amazon.com/images/I/410nIXfTEIL._SL200_.jpg)](https://www.amazon.es/dp/B071Y5FWTD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071Y5FWTD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

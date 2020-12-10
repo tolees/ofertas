@@ -22,6 +22,9 @@ Tienes [YaYuu para Fitbit Versa Bandas  Milanese Loop Correa de Acero Inoxidable
 
 [![YaYuu para Fitbit Versa Bandas  Milanese](https://images-eu.ssl-images-amazon.com/images/I/51x5YjAx1DL._SL200_.jpg)](https://www.amazon.es/dp/B07BY59LL6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BY59LL6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Ultranatura Korfu Plus 20010001112A-Taburete  reposapiés Plegable de Alu
 
 [![Ultranatura Korfu Plus 20010001112A-Tabu](https://images-eu.ssl-images-amazon.com/images/I/41-bjIbTJBL._SL200_.jpg)](https://www.amazon.es/dp/B01GIDHBTU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GIDHBTU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

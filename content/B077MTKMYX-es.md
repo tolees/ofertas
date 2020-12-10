@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Vikky Ribbon Bold  Zapatillas para Mujer  Negro Black  
 
 [![Puma Vikky Ribbon Bold  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41zkLUza7tL._SL200_.jpg)](https://www.amazon.es/dp/B077MTKMYX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077MTKMYX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

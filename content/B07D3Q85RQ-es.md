@@ -22,6 +22,9 @@ Ahora mismo tienes [8Bitdo N30 2 Wireless Controller Pro para Android / iOS / PC
 
 [![8Bitdo N30 2 Wireless Controller Pro par](https://images-eu.ssl-images-amazon.com/images/I/41xWqMfUzdL._SL200_.jpg)](https://www.amazon.es/dp/B07D3Q85RQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D3Q85RQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

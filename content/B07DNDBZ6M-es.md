@@ -22,6 +22,9 @@ Está [Esprit 098ee1i001 suéter  Azul  Bright Blue 410   Small para Mujer](http
 
 [![Esprit 098ee1i001 suéter  Azul  Bright B](https://images-eu.ssl-images-amazon.com/images/I/412Lc2QqArL._SL200_.jpg)](https://www.amazon.es/dp/B07DNDBZ6M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DNDBZ6M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

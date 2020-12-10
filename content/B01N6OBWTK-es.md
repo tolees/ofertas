@@ -22,6 +22,9 @@ Está [ASUS VZ239Q Pantalla para PC 58 4 cm  23"  Full HD LED Plana Negro  Blanc
 
 [![ASUS VZ239Q Pantalla para PC 58 4 cm  23](https://images-eu.ssl-images-amazon.com/images/I/41%2Bo7KhUViL._SL200_.jpg)](https://www.amazon.es/dp/B01N6OBWTK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6OBWTK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Leogreen - Aspiradora 2 en 1 Vertical y De Mano  Aspiradora Sin Bolsa  Ne
 
 [![Leogreen - Aspiradora 2 en 1 Vertical y ](https://images-eu.ssl-images-amazon.com/images/I/41ym9yXiI7L._SL200_.jpg)](https://www.amazon.es/dp/B071X9FF5X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071X9FF5X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

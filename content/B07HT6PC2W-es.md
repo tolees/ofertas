@@ -22,6 +22,9 @@ Tienes [TwobeFit Pulsera Actividad  Pulsera Inteligente Pantalla Color HR con Pu
 
 [![TwobeFit Pulsera Actividad  Pulsera Inte](https://images-eu.ssl-images-amazon.com/images/I/51cUxhLZx%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07HT6PC2W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HT6PC2W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Shock Absorber Active Legging  Mallas de Entrenamiento para Mujer   Impri
 
 [![Shock Absorber Active Legging  Mallas de](https://images-eu.ssl-images-amazon.com/images/I/41CqWjXMUVL._SL200_.jpg)](https://www.amazon.es/dp/B07CZVTVJY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZVTVJY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

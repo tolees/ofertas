@@ -22,6 +22,9 @@ Está [Sarah Jessica Parker 1-24-19-02 - EDP Spray  100 ml](https://www.amazon.e
 
 [![Sarah Jessica Parker 1-24-19-02 - EDP Sp](https://images-eu.ssl-images-amazon.com/images/I/41jHDCeovXL._SL200_.jpg)](https://www.amazon.es/dp/B000C1ZDTU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000C1ZDTU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

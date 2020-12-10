@@ -22,6 +22,9 @@ Tienes [adidas Nemeziz Tango 18.4 IN J  Zapatillas de fútbol Sala Unisex niño 
 
 [![adidas Nemeziz Tango 18.4 IN J  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/31SX6FjzxiL._SL200_.jpg)](https://www.amazon.es/dp/B07GXY7L88/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GXY7L88/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

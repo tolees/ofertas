@@ -22,6 +22,9 @@ Ahora mismo tienes [Difusor de Aceites Esenciales 300 ml  MENGK Humidificador de
 
 [![Difusor de Aceites Esenciales 300 ml  ME](https://images-eu.ssl-images-amazon.com/images/I/41Md1bMH6PL._SL200_.jpg)](https://www.amazon.es/dp/B07KW4B3QX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KW4B3QX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

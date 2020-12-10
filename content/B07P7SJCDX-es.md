@@ -22,6 +22,9 @@ Ahora mismo tienes [Oniche Alicates Uñas  Cortauñas de Precisión para Uñas G
 
 [![Oniche Alicates Uñas  Cortauñas de Preci](https://images-eu.ssl-images-amazon.com/images/I/41BrHGaN36L._SL200_.jpg)](https://www.amazon.es/dp/B07P7SJCDX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07P7SJCDX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

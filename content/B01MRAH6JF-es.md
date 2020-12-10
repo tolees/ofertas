@@ -22,6 +22,9 @@ Está [Star Ibaby Basic AC001 - Cuna de viaje plegable color Navy Blue](https://
 
 [![Star Ibaby Basic AC001 - Cuna de viaje p](https://images-eu.ssl-images-amazon.com/images/I/41hDgxHTN9L._SL200_.jpg)](https://www.amazon.es/dp/B01MRAH6JF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MRAH6JF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

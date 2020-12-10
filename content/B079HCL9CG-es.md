@@ -22,6 +22,9 @@ Está [Tom Tailor 5871805  Botas Clasicas para Niños  Azul  Navy 00003   31 EU]
 
 [![Tom Tailor 5871805  Botas Clasicas para ](https://images-eu.ssl-images-amazon.com/images/I/31ebIU-x8wL._SL200_.jpg)](https://www.amazon.es/dp/B079HCL9CG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079HCL9CG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

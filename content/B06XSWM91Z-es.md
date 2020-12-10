@@ -22,6 +22,9 @@ Está [Only & Sons Onsdan Structure Crew Neck Noos  suéter para Hombre  Azul  D
 
 [![Only & Sons Onsdan Structure Crew Neck N](https://images-eu.ssl-images-amazon.com/images/I/412Q53JpC1L._SL200_.jpg)](https://www.amazon.es/dp/B06XSWM91Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XSWM91Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

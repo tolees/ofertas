@@ -22,6 +22,9 @@ Tienes [adidas Fortarun X K  Zapatillas de Running Unisex Niños  Rojo Real Mage
 
 [![adidas Fortarun X K  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/415lTxxnQVL._SL200_.jpg)](https://www.amazon.es/dp/B07K1BQP7P/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K1BQP7P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

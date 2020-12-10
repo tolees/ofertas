@@ -22,6 +22,9 @@ Está [Linterna LED Resistente al Agua con 6 Accesorios y Batería Recargable Ul
 
 [![Linterna LED Resistente al Agua con 6 Ac](https://images-eu.ssl-images-amazon.com/images/I/51kVzB76bNL._SL200_.jpg)](https://www.amazon.es/dp/B01NAU5OD1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NAU5OD1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Altavoz Bluetooth Portatiles  20W Multifuncional IPX67 Altav
 
 [![Altavoz Bluetooth Portatiles  20W Multif](https://images-eu.ssl-images-amazon.com/images/I/51dgETqKBML._SL200_.jpg)](https://www.amazon.es/dp/B07KCGNBS4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KCGNBS4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

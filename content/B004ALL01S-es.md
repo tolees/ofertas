@@ -22,6 +22,9 @@ Ahora mismo tienes [Speedo Elite Pullbuoy Foam Asistencias para el Entrenamiento
 
 [![Speedo Elite Pullbuoy Foam Asistencias p](https://images-eu.ssl-images-amazon.com/images/I/41C0DkRh%2BdL._SL200_.jpg)](https://www.amazon.es/dp/B004ALL01S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B004ALL01S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

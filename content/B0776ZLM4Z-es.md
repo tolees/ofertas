@@ -22,6 +22,9 @@ Tienes [s.Oliver 23620  Zapatillas para Mujer  Verde  Emerald   38 EU](https://w
 
 [![s.Oliver 23620  Zapatillas para Mujer  V](https://images-eu.ssl-images-amazon.com/images/I/41UaUgk9e-L._SL200_.jpg)](https://www.amazon.es/dp/B0776ZLM4Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0776ZLM4Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

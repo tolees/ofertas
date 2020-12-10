@@ -22,6 +22,9 @@ Tienes [Volcom Men s Frickin Modern Stretch Chino Shorts  Hombre  Blue  33](http
 
 [![Volcom Men s Frickin Modern Stretch Chin](https://images-eu.ssl-images-amazon.com/images/I/316Kd6TB9AL._SL200_.jpg)](https://www.amazon.es/dp/B07HP5SXNB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HP5SXNB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

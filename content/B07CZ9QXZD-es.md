@@ -22,6 +22,9 @@ Está [Salomon RX Moc 4.0  Calzado de recuperación para Hombre  Negro  Black/Ph
 
 [![Salomon RX Moc 4.0  Calzado de recuperac](https://images-eu.ssl-images-amazon.com/images/I/4192F16GdiL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ9QXZD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ9QXZD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

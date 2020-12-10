@@ -22,6 +22,9 @@ Está [Sergio Tacchini Focus Nyx  Zapatillas de Cross para Hombre  Verde  Green 
 
 [![Sergio Tacchini Focus Nyx  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41GKevqHnjL._SL200_.jpg)](https://www.amazon.es/dp/B07GK3BDBB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GK3BDBB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

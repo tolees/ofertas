@@ -22,6 +22,14 @@ Ahora mismo tienes [Tommy Hilfiger Reloj de Pulsera 1791579](https://www.amazon.
 
 [![Tommy Hilfiger Reloj de Pulsera 1791579](https://m.media-amazon.com/images/I/41WGlfHmuNL._SL200_.jpg)](https://www.amazon.es/dp/B07KTJG166/?tag=tolees-21)
 
+Características:
+
+- Grosor de la caja de 9,9 mm
+- Movimiento multifunción
+- 5 ATM de resistencia al agua
+- Correa de piel marrón
+- Esfera gris
+
 [Visítala!!!](https://www.amazon.es/dp/B07KTJG166/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

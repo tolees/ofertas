@@ -22,6 +22,9 @@ Ahora mismo tienes [Seagate Backup Plus Portable Slim - Disco duro externo de 2 
 
 [![Seagate Backup Plus Portable Slim - Disc](https://images-eu.ssl-images-amazon.com/images/I/31oj79hpJUL._SL200_.jpg)](https://www.amazon.es/dp/B01J1N30TE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01J1N30TE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

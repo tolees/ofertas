@@ -22,6 +22,9 @@ Ahora mismo tienes [Salomon XA Pro 3D CSWP J  Zapatillas Unisex Infantil  Negro 
 
 [![Salomon XA Pro 3D CSWP J  Zapatillas Uni](https://images-eu.ssl-images-amazon.com/images/I/41ul9ZhbfDL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ7YXQV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ7YXQV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

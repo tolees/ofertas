@@ -22,6 +22,9 @@ Está [Shinymod Sports Manguitos de enfriamiento Manguitos de jardinería Unisex
 
 [![Shinymod Sports Manguitos de enfriamient](https://images-eu.ssl-images-amazon.com/images/I/41YnCa1XAWL._SL200_.jpg)](https://www.amazon.es/dp/B07FVQQWZ3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FVQQWZ3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Méthode Jeanne Piaubert Masaje tonificante con rodillo esti
 
 [![Méthode Jeanne Piaubert Masaje tonifican](https://images-eu.ssl-images-amazon.com/images/I/31z4Yb9lctL._SL200_.jpg)](https://www.amazon.es/dp/B000Q2Y9BI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B000Q2Y9BI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

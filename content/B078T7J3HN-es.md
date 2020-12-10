@@ -22,6 +22,9 @@ Está [Hilfiger Denim Tommy Jeans Textile Sneaker  Zapatillas para Hombre  Gris 
 
 [![Hilfiger Denim Tommy Jeans Textile Sneak](https://images-eu.ssl-images-amazon.com/images/I/413Z0hf5fML._SL200_.jpg)](https://www.amazon.es/dp/B078T7J3HN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078T7J3HN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

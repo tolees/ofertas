@@ -22,6 +22,9 @@ Ahora mismo tienes [QacQoc Hub USB C  7 En 1 Adaptador USB C a HDMI con Puerto H
 
 [![QacQoc Hub USB C  7 En 1 Adaptador USB C](https://images-eu.ssl-images-amazon.com/images/I/51T7oKmAuyL._SL200_.jpg)](https://www.amazon.es/dp/B07KJ9DX4V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KJ9DX4V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

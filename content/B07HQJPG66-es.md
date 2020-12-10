@@ -22,6 +22,9 @@ Está [RianGor 3 en 1 Lote Black Fasteners Tether Gag Tool Links Parejas  mujer 
 
 [![RianGor 3 en 1 Lote Black Fasteners Teth](https://images-eu.ssl-images-amazon.com/images/I/41gQPp3ruCL._SL200_.jpg)](https://www.amazon.es/dp/B07HQJPG66/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HQJPG66/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

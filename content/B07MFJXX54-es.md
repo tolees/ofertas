@@ -22,6 +22,9 @@ Está [Masajeador Louviva 12 Modos Color Rojo y Negro](https://www.amazon.es/dp/
 
 [![Masajeador Louviva 12 Modos Color Rojo y](https://images-eu.ssl-images-amazon.com/images/I/41KHmv-13ZL._SL200_.jpg)](https://www.amazon.es/dp/B07MFJXX54/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MFJXX54/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

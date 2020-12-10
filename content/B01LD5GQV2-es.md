@@ -22,6 +22,9 @@ Ahora mismo tienes [Sony MDR-XB70BT - Auriculares Bluetooth de contorno de cuell
 
 [![Sony MDR-XB70BT - Auriculares Bluetooth ](https://images-eu.ssl-images-amazon.com/images/I/31TN5UCQ2WL._SL200_.jpg)](https://www.amazon.es/dp/B01LD5GQV2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LD5GQV2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Reebok Astroride Future  Zapatillas de Trail Running para Hombre  Gris  
 
 [![Reebok Astroride Future  Zapatillas de T](https://images-eu.ssl-images-amazon.com/images/I/51AXgm%2Bnk0L._SL200_.jpg)](https://www.amazon.es/dp/B077TY7SCT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077TY7SCT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

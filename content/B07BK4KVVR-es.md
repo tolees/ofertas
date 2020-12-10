@@ -22,6 +22,9 @@ Ahora mismo tienes [Micrófono Inalámbrico de Bluetooth Karaoke Player Micrófo
 
 [![Micrófono Inalámbrico de Bluetooth Karao](https://images-eu.ssl-images-amazon.com/images/I/51plVHdyqCL._SL200_.jpg)](https://www.amazon.es/dp/B07BK4KVVR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BK4KVVR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

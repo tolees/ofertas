@@ -22,6 +22,9 @@ Está [Funko Pop!- Movies Figura de Vinilo Papa Elf  21381 ](https://www.amazon.
 
 [![Funko Pop!- Movies Figura de Vinilo Papa](https://images-eu.ssl-images-amazon.com/images/I/41TMTXPzqkL._SL200_.jpg)](https://www.amazon.es/dp/B074NJT2QR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074NJT2QR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

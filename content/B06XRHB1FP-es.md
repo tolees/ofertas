@@ -22,6 +22,9 @@ Está [Kelme Trueno Kids  Zapatillas de fútbol Sala Unisex niños  Azul  Royal 
 
 [![Kelme Trueno Kids  Zapatillas de fútbol ](https://images-eu.ssl-images-amazon.com/images/I/413m9w3FB7L._SL200_.jpg)](https://www.amazon.es/dp/B06XRHB1FP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XRHB1FP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

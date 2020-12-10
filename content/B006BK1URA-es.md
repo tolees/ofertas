@@ -22,6 +22,9 @@ Está [GANT Solid Pique SS Rugger  Polo para Hombre  Rojo  48  Talla del Fabrica
 
 [![GANT Solid Pique SS Rugger  Polo para Ho](https://images-eu.ssl-images-amazon.com/images/I/41Ej0%2BYN78L._SL200_.jpg)](https://www.amazon.es/dp/B006BK1URA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B006BK1URA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

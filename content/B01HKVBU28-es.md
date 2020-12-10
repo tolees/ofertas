@@ -22,6 +22,9 @@ Ahora mismo tienes [LANGRIA Colchoncillo Topper 7.6 cm de Grosor de Espuma de Me
 
 [![LANGRIA Colchoncillo Topper 7.6 cm de Gr](https://images-eu.ssl-images-amazon.com/images/I/21cMj7K-zRL._SL200_.jpg)](https://www.amazon.es/dp/B01HKVBU28/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01HKVBU28/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

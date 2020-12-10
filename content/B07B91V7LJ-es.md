@@ -22,6 +22,9 @@ Tienes [Clarks Curington Rise  Botas Chelsea para Hombre  Negro  Blk Smooth Lea 
 
 [![Clarks Curington Rise  Botas Chelsea par](https://images-eu.ssl-images-amazon.com/images/I/31R3RVZ9USL._SL200_.jpg)](https://www.amazon.es/dp/B07B91V7LJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B91V7LJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

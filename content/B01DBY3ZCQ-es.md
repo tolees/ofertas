@@ -22,6 +22,9 @@ Está [Izas Gabin Bermuda Montaña  Hombre  Gris  Dark Grey/Black   S](https://w
 
 [![Izas Gabin Bermuda Montaña  Hombre  Gris](https://images-eu.ssl-images-amazon.com/images/I/31cRKu5xQxL._SL200_.jpg)](https://www.amazon.es/dp/B01DBY3ZCQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DBY3ZCQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

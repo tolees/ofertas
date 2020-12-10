@@ -22,6 +22,9 @@ Tienes [SIMPORDS Brazelete Abierto para Mujer Chapado en Oro Rosa Regalo Madre](
 
 [![SIMPORDS Brazelete Abierto para Mujer Ch](https://images-eu.ssl-images-amazon.com/images/I/41QSA%2BGtfDL._SL200_.jpg)](https://www.amazon.es/dp/B07HT2S3WD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HT2S3WD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

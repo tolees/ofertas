@@ -22,6 +22,9 @@ Tienes [Kerastase 57816 - Cuidado capilar  300 ml](https://www.amazon.es/dp/B00K
 
 [![Kerastase 57816 - Cuidado capilar  300 m](https://images-eu.ssl-images-amazon.com/images/I/31NGAVk4gFL._SL200_.jpg)](https://www.amazon.es/dp/B00KTEZMXM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KTEZMXM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

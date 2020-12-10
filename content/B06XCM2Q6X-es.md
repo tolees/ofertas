@@ -22,6 +22,9 @@ Ahora mismo tienes [Cortefiel 8880700  Vaquero para Mujer  Azul  ES 36](https://
 
 [![Cortefiel 8880700  Vaquero para Mujer  A](https://images-eu.ssl-images-amazon.com/images/I/41A0gI7WvsL._SL200_.jpg)](https://www.amazon.es/dp/B06XCM2Q6X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XCM2Q6X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

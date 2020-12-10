@@ -22,6 +22,9 @@ Ahora mismo tienes [Samsung Dream Silicone Cover  Funda para smartphone Samsung 
 
 [![Samsung Dream Silicone Cover  Funda para](https://images-eu.ssl-images-amazon.com/images/I/21XWL1bcMvL._SL200_.jpg)](https://www.amazon.es/dp/B01MUHGKT1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MUHGKT1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

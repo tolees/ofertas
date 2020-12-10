@@ -22,6 +22,9 @@ Está [Soporte de monitor para pantallas LCD de computadora de 17 a 32 pulgadas 
 
 [![Soporte de monitor para pantallas LCD de](https://images-eu.ssl-images-amazon.com/images/I/41Cq4CUaufL._SL200_.jpg)](https://www.amazon.es/dp/B07CPZXNGQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CPZXNGQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

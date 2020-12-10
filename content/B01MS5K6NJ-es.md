@@ -22,6 +22,9 @@ Tienes [L Oréal Paris Glam Beige Maquillaje Perfeccionador Tono Medio Oscuro - 
 
 [![L Oréal Paris Glam Beige Maquillaje Perf](https://images-eu.ssl-images-amazon.com/images/I/41t%2BWlMzvFL._SL200_.jpg)](https://www.amazon.es/dp/B01MS5K6NJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MS5K6NJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

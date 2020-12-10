@@ -22,6 +22,9 @@ Está [SYROKAN - Sujetador Deportivo Espalda Deportiva con Cremallera Frontal pa
 
 [![SYROKAN - Sujetador Deportivo Espalda De](https://images-eu.ssl-images-amazon.com/images/I/41YrPPZGb5L._SL200_.jpg)](https://www.amazon.es/dp/B07KF72V6Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KF72V6Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [PG700WU](https://www.amazon.es/dp/B07B7NMW61/?tag=tolees-21) con un 41.1
 
 [![PG700WU](https://images-eu.ssl-images-amazon.com/images/I/412Vxky4HHL._SL200_.jpg)](https://www.amazon.es/dp/B07B7NMW61/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B7NMW61/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

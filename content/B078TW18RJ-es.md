@@ -22,6 +22,9 @@ Tienes [Jamo S 8 ATM 100W Blanco Altavoz - Altavoces  Alámbrico  100 W  8 Ω  B
 
 [![Jamo S 8 ATM 100W Blanco Altavoz - Altav](https://images-eu.ssl-images-amazon.com/images/I/317t8EZw7-L._SL200_.jpg)](https://www.amazon.es/dp/B078TW18RJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078TW18RJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

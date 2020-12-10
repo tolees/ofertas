@@ -22,6 +22,9 @@ Está [GIPLAM 21 x 26 x 42 cm Surtido de Juguete de mar  10 Piezas  Talla única
 
 [![GIPLAM 21 x 26 x 42 cm Surtido de Juguet](https://images-eu.ssl-images-amazon.com/images/I/51EvMMzOn9L._SL200_.jpg)](https://www.amazon.es/dp/B01DY30VBM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DY30VBM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

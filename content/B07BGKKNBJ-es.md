@@ -22,6 +22,9 @@ Está [Munich Messenger Patch  Bolsa para portátil Unisex Adulto  Negro  Black 
 
 [![Munich Messenger Patch  Bolsa para portá](https://images-eu.ssl-images-amazon.com/images/I/41W1mCOaqtL._SL200_.jpg)](https://www.amazon.es/dp/B07BGKKNBJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BGKKNBJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

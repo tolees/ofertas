@@ -22,6 +22,9 @@ Está [SELECTED HOMME Shhyard Decadent Choco Slim St Pant Noos Pantalones  Marr�
 
 [![SELECTED HOMME Shhyard Decadent Choco Sl](https://images-eu.ssl-images-amazon.com/images/I/31SBfkVfLvL._SL200_.jpg)](https://www.amazon.es/dp/B0727WLLHQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0727WLLHQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

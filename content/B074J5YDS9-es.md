@@ -22,6 +22,9 @@ Está [oodji Ultra Mujer Suéter Básico Estampado  Rosa  ES 40 / M](https://www
 
 [![oodji Ultra Mujer Suéter Básico Estampad](https://images-eu.ssl-images-amazon.com/images/I/51qKklT5NfL._SL200_.jpg)](https://www.amazon.es/dp/B074J5YDS9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074J5YDS9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Tres en inglés Oro Alemán Tequila  1er Pack  1 x 700 ml 
 
 [![Tres en inglés Oro Alemán Tequila  1er P](https://images-eu.ssl-images-amazon.com/images/I/41FfG1ML5aL._SL200_.jpg)](https://www.amazon.es/dp/B00AFA9S5S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00AFA9S5S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

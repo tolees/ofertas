@@ -22,6 +22,9 @@ Está [AiHom Pajitas de Acero Inoxidable Set de 12 Reutilizable Pajas de acero i
 
 [![AiHom Pajitas de Acero Inoxidable Set de](https://images-eu.ssl-images-amazon.com/images/I/41GTphWcFXL._SL200_.jpg)](https://www.amazon.es/dp/B07F8Q43CW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F8Q43CW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

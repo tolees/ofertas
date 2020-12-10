@@ -22,6 +22,9 @@ Está [URCERI  Termómetro Infrarrojo Digital -50°C~580°C  -58℉~1076℉   So
 
 [![URCERI  Termómetro Infrarrojo Digital -5](https://images-eu.ssl-images-amazon.com/images/I/41Et63e8LHL._SL200_.jpg)](https://www.amazon.es/dp/B075TRN1VD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075TRN1VD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

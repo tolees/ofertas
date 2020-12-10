@@ -22,6 +22,9 @@ Ahora mismo tienes [ILIFE A6 Robot Aspirador y Limpieza de Suelos  Negro Piano](
 
 [![ILIFE A6 Robot Aspirador y Limpieza de S](https://images-eu.ssl-images-amazon.com/images/I/41Wlg5fca7L._SL200_.jpg)](https://www.amazon.es/dp/B06WD32HYR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06WD32HYR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

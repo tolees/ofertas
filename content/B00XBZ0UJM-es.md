@@ -22,6 +22,9 @@ Tienes [Phoenix Technologies PHGP102 - Funda  Funda de protección  GoPro  Hero 
 
 [![Phoenix Technologies PHGP102 - Funda  Fu]()](https://www.amazon.es/dp/B00XBZ0UJM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XBZ0UJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

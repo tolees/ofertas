@@ -22,6 +22,9 @@ Ahora mismo tienes [Casals C05107000 Sierra de calar 350W W  230 V  Negro  Verde
 
 [![Casals C05107000 Sierra de calar 350W W ](https://images-eu.ssl-images-amazon.com/images/I/51I%2BE%2BIFpuL._SL200_.jpg)](https://www.amazon.es/dp/B00TCH59SK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00TCH59SK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

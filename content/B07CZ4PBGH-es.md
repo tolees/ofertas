@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW Classic Truk Camo 3-Pack Bañador  Negro ao/imp H
 
 [![G-STAR RAW Classic Truk Camo 3-Pack Baña](https://images-eu.ssl-images-amazon.com/images/I/516ZSY2MzSL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ4PBGH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ4PBGH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

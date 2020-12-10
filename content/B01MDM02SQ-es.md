@@ -22,6 +22,9 @@ Tienes [Ecco Soft 7  Zapatillas baja para Hombre  Marrón  1283 Whisky   41 EU](
 
 [![Ecco Soft 7  Zapatillas baja para Hombre](https://images-eu.ssl-images-amazon.com/images/I/4107eV6ImOL._SL200_.jpg)](https://www.amazon.es/dp/B01MDM02SQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MDM02SQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [DURAGADGET Auriculares mágicos para niños para Tablet ASUS Transformer 
 
 [![DURAGADGET Auriculares mágicos para niño](https://images-eu.ssl-images-amazon.com/images/I/417Z7oPnrmL._SL200_.jpg)](https://www.amazon.es/dp/B01MXPZNVV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MXPZNVV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

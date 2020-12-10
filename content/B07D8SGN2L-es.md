@@ -22,6 +22,9 @@ Ahora mismo tienes [Eono Essentials 6 Set Cubos de embalaje  3 tamaños diferent
 
 [![Eono Essentials 6 Set Cubos de embalaje ](https://images-eu.ssl-images-amazon.com/images/I/41JoPwa5QJL._SL200_.jpg)](https://www.amazon.es/dp/B07D8SGN2L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D8SGN2L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

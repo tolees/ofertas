@@ -22,6 +22,9 @@ Ahora mismo tienes [San Ignacio Cazo Apta para Inducción  Rosa  0](https://www.
 
 [![San Ignacio Cazo Apta para Inducción  Ro](https://images-eu.ssl-images-amazon.com/images/I/41BKvUA9AbL._SL200_.jpg)](https://www.amazon.es/dp/B07C53G5VY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C53G5VY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

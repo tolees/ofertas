@@ -22,6 +22,9 @@ Tienes [adidas per Ankle T 3Pp Calcetines  Unisex  Blanco/Negro  35-38](https://
 
 [![adidas per Ankle T 3Pp Calcetines  Unise](https://images-eu.ssl-images-amazon.com/images/I/41B6ufLgvKL._SL200_.jpg)](https://www.amazon.es/dp/B00YLTXALW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00YLTXALW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

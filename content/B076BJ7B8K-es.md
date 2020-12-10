@@ -22,6 +22,9 @@ Está [Moleskine DHB12DC3Y19 - Diario 12m grande de tapa dura  color negro](http
 
 [![Moleskine DHB12DC3Y19 - Diario 12m grand](https://images-eu.ssl-images-amazon.com/images/I/41HPTgWtYRL._SL200_.jpg)](https://www.amazon.es/dp/B076BJ7B8K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076BJ7B8K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

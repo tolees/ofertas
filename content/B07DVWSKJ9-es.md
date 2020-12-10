@@ -22,6 +22,9 @@ Está [LE COQ SPORTIF Nationale PS Sport  Zapatillas Unisex Niños  Blanco Pink 
 
 [![LE COQ SPORTIF Nationale PS Sport  Zapat](https://images-eu.ssl-images-amazon.com/images/I/3159tqaVGaL._SL200_.jpg)](https://www.amazon.es/dp/B07DVWSKJ9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVWSKJ9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

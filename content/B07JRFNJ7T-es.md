@@ -22,6 +22,9 @@ Ahora mismo tienes [Atelier GARDEUR ZENE13 Pantalones  Beige  Dunkelbeige 21   W
 
 [![Atelier GARDEUR ZENE13 Pantalones  Beige](https://images-eu.ssl-images-amazon.com/images/I/31CrppA0X9L._SL200_.jpg)](https://www.amazon.es/dp/B07JRFNJ7T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JRFNJ7T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

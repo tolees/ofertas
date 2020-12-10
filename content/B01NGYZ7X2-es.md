@@ -22,6 +22,9 @@ Está [Reebok Sublite XT Cushion 2.0 MT  Zapatillas de Trail Running para Mujer 
 
 [![Reebok Sublite XT Cushion 2.0 MT  Zapati](https://images-eu.ssl-images-amazon.com/images/I/41Qdfz2J6SL._SL200_.jpg)](https://www.amazon.es/dp/B01NGYZ7X2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NGYZ7X2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Gofrera eléctrica Tristar WF-2141 – Dos gofres a la vez – Tamaño co
 
 [![Gofrera eléctrica Tristar WF-2141 – Dos ](https://images-eu.ssl-images-amazon.com/images/I/31jlQc8QO7L._SL200_.jpg)](https://www.amazon.es/dp/B002SX6CG8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B002SX6CG8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [L Oréal Expert Professionnel Vitamino Color A-Ox Mask 500 ml](https://w
 
 [![L Oréal Expert Professionnel Vitamino Co](https://images-eu.ssl-images-amazon.com/images/I/41JCJiwdWZL._SL200_.jpg)](https://www.amazon.es/dp/B00UGK3HFE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00UGK3HFE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

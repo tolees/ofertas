@@ -22,6 +22,9 @@ Ahora mismo tienes [Bergner Masterpro Prochef Cacerola  Aluminio  Negro  20 cm](
 
 [![Bergner Masterpro Prochef Cacerola  Alum](https://images-eu.ssl-images-amazon.com/images/I/41PsSzru7tL._SL200_.jpg)](https://www.amazon.es/dp/B01DXETZQ4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01DXETZQ4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

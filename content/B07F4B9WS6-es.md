@@ -22,6 +22,9 @@ Ahora mismo tienes [Sebago Plaza Tassel W  Mocasines para Mujer  Negro  Noir 902
 
 [![Sebago Plaza Tassel W  Mocasines para Mu](https://images-eu.ssl-images-amazon.com/images/I/310hMVHrvgL._SL200_.jpg)](https://www.amazon.es/dp/B07F4B9WS6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F4B9WS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

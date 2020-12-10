@@ -22,6 +22,9 @@ Está [SuenosZzz-Sillón Butaca Balancin Orejero Premium Confort  Balancin para 
 
 [![SuenosZzz-Sillón Butaca Balancin Orejero](https://images-eu.ssl-images-amazon.com/images/I/41JtQY4v%2BkL._SL200_.jpg)](https://www.amazon.es/dp/B06XSHDR1Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XSHDR1Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

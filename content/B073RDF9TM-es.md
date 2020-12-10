@@ -22,6 +22,14 @@ Está [Max Factor Masterpiece High Precision Eyeliner Delineador de Ojos Tono 25
 
 [![Max Factor Masterpiece High Precision Ey](https://m.media-amazon.com/images/I/31ZrP+R58WL._SL200_.jpg)](https://www.amazon.es/dp/B073RDF9TM/?tag=tolees-21)
 
+Principales características:
+
+- Rich vibrant colours
+- Applicator glides smoothly for a mistake-proof application
+- Feels comfortable all day
+- Long lasting, wears all day
+- The intensity of a liquid eyeliner with the precision of a pencil
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RDF9TM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

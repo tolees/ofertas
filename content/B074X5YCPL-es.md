@@ -22,6 +22,9 @@ Está [LANGRIA Manta Sirena de Cuerpo Entero con Tirantes Escamas Brillantes Tej
 
 [![LANGRIA Manta Sirena de Cuerpo Entero co](https://images-eu.ssl-images-amazon.com/images/I/41jXy6px3PL._SL200_.jpg)](https://www.amazon.es/dp/B074X5YCPL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074X5YCPL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

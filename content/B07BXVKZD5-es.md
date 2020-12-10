@@ -22,6 +22,9 @@ Tienes [ACTNOW Baul Puff Taburete para almacenaje/Taburete Zapatero Plegable  He
 
 [![ACTNOW Baul Puff Taburete para almacenaj](https://images-eu.ssl-images-amazon.com/images/I/519yZUd4AiL._SL200_.jpg)](https://www.amazon.es/dp/B07BXVKZD5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BXVKZD5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

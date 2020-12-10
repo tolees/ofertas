@@ -22,6 +22,9 @@ Ahora mismo tienes [Westmark Tazas de Papel para Magdalenas  200 Unidades   Col
 
 [![Westmark Tazas de Papel para Magdalenas ](https://images-eu.ssl-images-amazon.com/images/I/519GhwMbbgL._SL200_.jpg)](https://www.amazon.es/dp/B015Q77THI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B015Q77THI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

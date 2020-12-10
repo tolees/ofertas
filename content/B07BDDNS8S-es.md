@@ -22,6 +22,9 @@ Tienes [Planchas para el Pelo  HQQNUO 2 in1 Planchas de Pelo de Vapor/Plancha de
 
 [![Planchas para el Pelo  HQQNUO 2 in1 Plan](https://images-eu.ssl-images-amazon.com/images/I/41zJ6biFY7L._SL200_.jpg)](https://www.amazon.es/dp/B07BDDNS8S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BDDNS8S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

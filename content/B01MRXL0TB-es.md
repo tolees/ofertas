@@ -22,6 +22,9 @@ Está [Under Armour UA W Squad  Zapatillas Deportivas para Interior para Mujer  
 
 [![Under Armour UA W Squad  Zapatillas Depo](https://images-eu.ssl-images-amazon.com/images/I/41VH%2BsJ7P5L._SL200_.jpg)](https://www.amazon.es/dp/B01MRXL0TB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MRXL0TB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

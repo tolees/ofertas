@@ -22,6 +22,9 @@ Ahora mismo tienes [CRZ YOGA Sujetador Deportivo Yoga para Mujer Ejercicio Fitne
 
 [![CRZ YOGA Sujetador Deportivo Yoga para M](https://images-eu.ssl-images-amazon.com/images/I/51FCxadi8wL._SL200_.jpg)](https://www.amazon.es/dp/B077Y8CJ4G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077Y8CJ4G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

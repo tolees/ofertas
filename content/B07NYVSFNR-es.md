@@ -22,6 +22,9 @@ Está [Bota Mujer de Verano Caladas con Punta Redonda Estilo Casual Primavera Ve
 
 [![Bota Mujer de Verano Caladas con Punta R](https://images-eu.ssl-images-amazon.com/images/I/41O9NbKLfoL._SL200_.jpg)](https://www.amazon.es/dp/B07NYVSFNR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NYVSFNR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

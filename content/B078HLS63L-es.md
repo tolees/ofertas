@@ -22,6 +22,9 @@ Tienes [neolab 1 – 0155 – Vaso con boquilla  forma baja Kimax Boro 3.3  
 
 [![neolab 1 – 0155 – Vaso con boquilla  for](https://images-eu.ssl-images-amazon.com/images/I/41sh%2Bn%2BwBxL._SL200_.jpg)](https://www.amazon.es/dp/B078HLS63L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078HLS63L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

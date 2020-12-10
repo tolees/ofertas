@@ -22,6 +22,9 @@ Ahora mismo tienes [Babacom Luz Solar Exterior  Inflable Lámparas LED Exterior 
 
 [![Babacom Luz Solar Exterior  Inflable Lám](https://images-eu.ssl-images-amazon.com/images/I/41CzD0DrJtL._SL200_.jpg)](https://www.amazon.es/dp/B07MFZZ7GC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MFZZ7GC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

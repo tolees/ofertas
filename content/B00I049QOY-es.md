@@ -22,6 +22,9 @@ Está [Puzzles Educa - Capilla Sixtina  18000 piezas  16065 ](https://www.amazon
 
 [![Puzzles Educa - Capilla Sixtina  18000 p](https://images-eu.ssl-images-amazon.com/images/I/61T1Z9IQFbL._SL200_.jpg)](https://www.amazon.es/dp/B00I049QOY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00I049QOY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

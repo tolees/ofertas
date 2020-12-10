@@ -22,6 +22,9 @@ Ahora mismo tienes [ESPRIT Collection 117eo2b007  Pantalones Hombre  Azul  Navy 
 
 [![ESPRIT Collection 117eo2b007  Pantalones](https://images-eu.ssl-images-amazon.com/images/I/41sJA28lQPL._SL200_.jpg)](https://www.amazon.es/dp/B074YCNWYC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074YCNWYC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

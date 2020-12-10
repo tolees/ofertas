@@ -22,6 +22,9 @@ Tienes [BEPER Mosquitera Interior  12 W  Blanco](https://www.amazon.es/dp/B00CMA
 
 [![BEPER Mosquitera Interior  12 W  Blanco](https://images-eu.ssl-images-amazon.com/images/I/4103QTA4-VL._SL200_.jpg)](https://www.amazon.es/dp/B00CMAD3UU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CMAD3UU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

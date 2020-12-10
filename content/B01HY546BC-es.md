@@ -22,6 +22,9 @@ Está [New Balance 410  Zapatillas de Running Unisex Adulto   Grey 030   37 EU](
 
 [![New Balance 410  Zapatillas de Running U](https://images-eu.ssl-images-amazon.com/images/I/41z2vmu3Z0L._SL200_.jpg)](https://www.amazon.es/dp/B01HY546BC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HY546BC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [HAMSWAN Reloj Inteligente  [Regalos para Padre] Smartwatch Bluetooth par
 
 [![HAMSWAN Reloj Inteligente  [Regalos para](https://images-eu.ssl-images-amazon.com/images/I/41CPoVNFZrL._SL200_.jpg)](https://www.amazon.es/dp/B07GNKSP8Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GNKSP8Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

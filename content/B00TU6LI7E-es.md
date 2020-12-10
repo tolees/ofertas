@@ -22,6 +22,9 @@ Está [Portwest B010 - Seis gorra de béisbol panel  color Armada](https://www.a
 
 [![Portwest B010 - Seis gorra de béisbol pa](https://images-eu.ssl-images-amazon.com/images/I/41NFPrtKRrL._SL200_.jpg)](https://www.amazon.es/dp/B00TU6LI7E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00TU6LI7E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

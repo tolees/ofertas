@@ -22,6 +22,9 @@ Está [AZMHTG Memoria 64GB  USB 2.0  Forma Llave de Coche Audi  Negro](https://w
 
 [![AZMHTG Memoria 64GB  USB 2.0  Forma Llav](https://images-eu.ssl-images-amazon.com/images/I/31D8828B%2B5L._SL200_.jpg)](https://www.amazon.es/dp/B07PLKBBYJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PLKBBYJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

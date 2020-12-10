@@ -22,6 +22,9 @@ Ahora mismo tienes [Intex 68380NP - Barca hinchable Seahawk 3  con remos alumini
 
 [![Intex 68380NP - Barca hinchable Seahawk ](https://images-eu.ssl-images-amazon.com/images/I/51ECb1iBZpL._SL200_.jpg)](https://www.amazon.es/dp/B01M7NZ1E5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M7NZ1E5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

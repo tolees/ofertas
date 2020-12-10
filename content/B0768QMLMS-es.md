@@ -22,6 +22,9 @@ Tienes [Devolo dLAN 1000 duo+ Starter Kit - Kit de inicio de adaptador de comuni
 
 [![Devolo dLAN 1000 duo+ Starter Kit - Kit ](https://images-eu.ssl-images-amazon.com/images/I/31Yw8MkeIlL._SL200_.jpg)](https://www.amazon.es/dp/B0768QMLMS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0768QMLMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

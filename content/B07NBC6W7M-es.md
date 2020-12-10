@@ -22,6 +22,9 @@ Ahora mismo tienes [Diesel P-boxie Shorts Pantalones Cortos  Negro  Black 900   
 
 [![Diesel P-boxie Shorts Pantalones Cortos ](https://images-eu.ssl-images-amazon.com/images/I/41LciPAyXuL._SL200_.jpg)](https://www.amazon.es/dp/B07NBC6W7M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NBC6W7M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

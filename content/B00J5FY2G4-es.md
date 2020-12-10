@@ -22,6 +22,9 @@ Ahora mismo tienes [Farmatint Gel 4D Castaño Dorado. Tinte permanente. Cabello 
 
 [![Farmatint Gel 4D Castaño Dorado. Tinte p](https://images-eu.ssl-images-amazon.com/images/I/51HUocJ%2BBIL._SL200_.jpg)](https://www.amazon.es/dp/B00J5FY2G4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00J5FY2G4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

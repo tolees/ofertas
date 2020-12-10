@@ -22,6 +22,9 @@ Ahora mismo tienes [perfk 18650 Recargable Batería de Litio Cargador  Adecuado 
 
 [![perfk 18650 Recargable Batería de Litio ](https://images-eu.ssl-images-amazon.com/images/I/31yvyiXFahL._SL200_.jpg)](https://www.amazon.es/dp/B07H11ZYZ8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H11ZYZ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

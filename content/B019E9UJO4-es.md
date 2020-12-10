@@ -22,6 +22,9 @@ Ahora mismo tienes [Venta Stock Confort 2 - Sillón de Oficina elevable y reclin
 
 [![Venta Stock Confort 2 - Sillón de Oficin](https://images-eu.ssl-images-amazon.com/images/I/413a1TJrrfL._SL200_.jpg)](https://www.amazon.es/dp/B019E9UJO4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B019E9UJO4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [The North Face W Back-To-Berk Redux  Botas para Mujer  Multicolor  Tnf Bl
 
 [![The North Face W Back-To-Berk Redux  Bot](https://images-eu.ssl-images-amazon.com/images/I/51aLbpI75yL._SL200_.jpg)](https://www.amazon.es/dp/B071VVQ98N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071VVQ98N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

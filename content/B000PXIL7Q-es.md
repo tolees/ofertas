@@ -22,6 +22,9 @@ Está [Bosch 1987301017 Pure Light - Lámpara P21W  para luz de freno  intermite
 
 [![Bosch 1987301017 Pure Light - Lámpara P2](https://images-eu.ssl-images-amazon.com/images/I/414oGAl6sFL._SL200_.jpg)](https://www.amazon.es/dp/B000PXIL7Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000PXIL7Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

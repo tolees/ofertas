@@ -22,6 +22,9 @@ Tienes [Continental Ultra Sport II  Cubierta  Unisex Adulto  Negro/Blanco  700 
 
 [![Continental Ultra Sport II  Cubierta  Un](https://images-eu.ssl-images-amazon.com/images/I/41ZtK5q-G9L._SL200_.jpg)](https://www.amazon.es/dp/B00IUMRVRU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IUMRVRU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

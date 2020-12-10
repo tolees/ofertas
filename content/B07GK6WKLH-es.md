@@ -22,6 +22,9 @@ Está [Sony Xperia XA2 Plus - Smartphone Dual SIM de 6"  Octa Core de 2.2 GHz  4
 
 [![Sony Xperia XA2 Plus - Smartphone Dual S](https://images-eu.ssl-images-amazon.com/images/I/41fZMe3qg0L._SL200_.jpg)](https://www.amazon.es/dp/B07GK6WKLH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GK6WKLH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

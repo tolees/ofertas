@@ -22,6 +22,9 @@ Está [Bebe Confort 3220660266593 Carrito gemelar 2Asiento s  Marrón - Cochecit
 
 [![Bebe Confort 3220660266593 Carrito gemel](https://images-eu.ssl-images-amazon.com/images/I/51HzkoylzcL._SL200_.jpg)](https://www.amazon.es/dp/B01N6JGRTM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6JGRTM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

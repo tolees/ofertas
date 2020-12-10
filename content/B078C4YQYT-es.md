@@ -22,6 +22,9 @@ Está [UDIRC Drone VR con Cámara Profesional 720P HD  Drone RC  Función de Sus
 
 [![UDIRC Drone VR con Cámara Profesional 72](https://images-eu.ssl-images-amazon.com/images/I/514MF9z3jsL._SL200_.jpg)](https://www.amazon.es/dp/B078C4YQYT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078C4YQYT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

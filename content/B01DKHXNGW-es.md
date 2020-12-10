@@ -22,6 +22,9 @@ Está [Termix Evolution XL Ø28- Nuevo cepillo térmico redondo de Termix  3 cm 
 
 [![Termix Evolution XL Ø28- Nuevo cepillo t](https://images-eu.ssl-images-amazon.com/images/I/31CM9TPNH9L._SL200_.jpg)](https://www.amazon.es/dp/B01DKHXNGW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DKHXNGW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

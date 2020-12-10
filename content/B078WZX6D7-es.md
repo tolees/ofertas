@@ -22,6 +22,9 @@ Está [Nike Dualtone Racer PRM  Zapatillas de Deporte para Hombre   Team Red/Bla
 
 [![Nike Dualtone Racer PRM  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41Meho6UV-L._SL200_.jpg)](https://www.amazon.es/dp/B078WZX6D7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078WZX6D7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

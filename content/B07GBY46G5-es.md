@@ -22,6 +22,9 @@ Está [Spaas Vela Cilindro rústico 50/80 Amarillo de otoño](https://www.amazo
 
 [![Spaas Vela Cilindro rústico 50/80 Amaril](https://images-eu.ssl-images-amazon.com/images/I/31T8330e3-L._SL200_.jpg)](https://www.amazon.es/dp/B07GBY46G5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GBY46G5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

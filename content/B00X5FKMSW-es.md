@@ -22,6 +22,9 @@ Ahora mismo tienes [Diesel Reloj Cronógrafo para Hombre de Cuarzo con Correa en
 
 [![Diesel Reloj Cronógrafo para Hombre de C](https://images-eu.ssl-images-amazon.com/images/I/516dANFxgML._SL200_.jpg)](https://www.amazon.es/dp/B00X5FKMSW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00X5FKMSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

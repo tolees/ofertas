@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Casual Jordin_sz35  Cinturón Hombre  Marrón  Dark Bro
 
 [![BOSS Casual Jordin_sz35  Cinturón Hombre](https://images-eu.ssl-images-amazon.com/images/I/41u7WyzizQL._SL200_.jpg)](https://www.amazon.es/dp/B078GGNC8X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078GGNC8X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

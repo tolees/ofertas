@@ -22,6 +22,9 @@ Tienes [hummel HB Team  Zapatillas para Mujer  Rosa  Pale Liliac 3333   36 EU](h
 
 [![hummel HB Team  Zapatillas para Mujer  R](https://images-eu.ssl-images-amazon.com/images/I/41JrvR0AytL._SL200_.jpg)](https://www.amazon.es/dp/B07DQXH8BJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DQXH8BJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

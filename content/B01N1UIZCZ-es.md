@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas CF Lite Racer  Zapatillas para Hombre  Blanco Footwea
 
 [![adidas CF Lite Racer  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/419uPPAwobL._SL200_.jpg)](https://www.amazon.es/dp/B01N1UIZCZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N1UIZCZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

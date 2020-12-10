@@ -22,6 +22,9 @@ Tienes [Bull padel Vertex Limited - Pack de Pala de pádel y Funda para Hombre](
 
 [![Bull padel Vertex Limited - Pack de Pala](https://images-eu.ssl-images-amazon.com/images/I/51SkbabVCoL._SL200_.jpg)](https://www.amazon.es/dp/B01BOPPBU8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01BOPPBU8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

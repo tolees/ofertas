@@ -22,6 +22,9 @@ Está [Reloj Pulsera de Cuarzo Deportivo Analógico con Malla de Cuero Bovino Co
 
 [![Reloj Pulsera de Cuarzo Deportivo Analóg](https://images-eu.ssl-images-amazon.com/images/I/51m0LWC93DL._SL200_.jpg)](https://www.amazon.es/dp/B06Y2ZD2CD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y2ZD2CD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

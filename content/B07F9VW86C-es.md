@@ -22,6 +22,9 @@ Tienes [Himaly Limpiador de Poros Eliminador de Punto Negro con 5 Niveles de Suc
 
 [![Himaly Limpiador de Poros Eliminador de ](https://images-eu.ssl-images-amazon.com/images/I/4186erRXQNL._SL200_.jpg)](https://www.amazon.es/dp/B07F9VW86C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F9VW86C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

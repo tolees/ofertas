@@ -22,6 +22,9 @@ Está [Android TV Box-T10 Max Android box Amlogic S905 Quad Core cortex-A53  [2 
 
 [![Android TV Box-T10 Max Android box Amlog](https://images-eu.ssl-images-amazon.com/images/I/41prgvLyh6L._SL200_.jpg)](https://www.amazon.es/dp/B07CMQLD27/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CMQLD27/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

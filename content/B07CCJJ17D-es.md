@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jjepaulos Polo SS Noos  Rojo  Port Royale Detail:Slim Fit  
 
 [![JACK & JONES Jjepaulos Polo SS Noos  Roj](https://images-eu.ssl-images-amazon.com/images/I/41RII78HQzL._SL200_.jpg)](https://www.amazon.es/dp/B07CCJJ17D/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CCJJ17D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

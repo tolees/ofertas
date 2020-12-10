@@ -22,6 +22,9 @@ Está [HUGO Gionio_sz40 Cinturón  Azul  Dark Blue 402   125  Talla del fabrican
 
 [![HUGO Gionio_sz40 Cinturón  Azul  Dark Bl](https://images-eu.ssl-images-amazon.com/images/I/31WDJScaKYL._SL200_.jpg)](https://www.amazon.es/dp/B07KKSP3JR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKSP3JR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

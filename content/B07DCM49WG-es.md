@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Adela  Zapatillas para Mujer  Rosa Peach Bud  37.5 EU](
 
 [![Puma Adela  Zapatillas para Mujer  Rosa ](https://images-eu.ssl-images-amazon.com/images/I/41rz6W0rFOL._SL200_.jpg)](https://www.amazon.es/dp/B07DCM49WG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DCM49WG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

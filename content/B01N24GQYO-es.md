@@ -22,6 +22,9 @@ Está [Rieker 71731  Botas para Mujer  Negro  Schwarz   38 EU](https://www.amazo
 
 [![Rieker 71731  Botas para Mujer  Negro  S](https://images-eu.ssl-images-amazon.com/images/I/41LNkgMMRcL._SL200_.jpg)](https://www.amazon.es/dp/B01N24GQYO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N24GQYO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

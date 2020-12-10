@@ -22,6 +22,9 @@ Tienes [THE NORTH FACE M Litewave Flow Lace II  Zapatillas de Senderismo para Ho
 
 [![THE NORTH FACE M Litewave Flow Lace II  ](https://images-eu.ssl-images-amazon.com/images/I/41FpmW-7OsL._SL200_.jpg)](https://www.amazon.es/dp/B07G4FG1HT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G4FG1HT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Michael Kors Addie Lace Up  Zapatillas para Mujer   Blk/Opticwht 012   4
 
 [![Michael Kors Addie Lace Up  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/41Bqwv8pv2L._SL200_.jpg)](https://www.amazon.es/dp/B07F3BHM77/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F3BHM77/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

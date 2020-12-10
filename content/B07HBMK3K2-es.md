@@ -22,6 +22,9 @@ Tienes [Onforu 18W LED Lámpara de Techo  CRI 90 IP65 Impermeable LED Plafón 16
 
 [![Onforu 18W LED Lámpara de Techo  CRI 90 ](https://images-eu.ssl-images-amazon.com/images/I/31xE1hSFA3L._SL200_.jpg)](https://www.amazon.es/dp/B07HBMK3K2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HBMK3K2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Auriculares In-Ear Creative Outlier One inalámbricos Bluetooth 4.1 Resi
 
 [![Auriculares In-Ear Creative Outlier One ](https://images-eu.ssl-images-amazon.com/images/I/41zN6hUZwoL._SL200_.jpg)](https://www.amazon.es/dp/B075RWRJQF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075RWRJQF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

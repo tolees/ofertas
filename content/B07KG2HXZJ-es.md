@@ -22,6 +22,9 @@ Tienes [Ginour Sierra Circular  1500W 4700RPM Corte 65mm  90º   45mm  45º  Sie
 
 [![Ginour Sierra Circular  1500W 4700RPM Co](https://images-eu.ssl-images-amazon.com/images/I/51y4Ns5%2BkAL._SL200_.jpg)](https://www.amazon.es/dp/B07KG2HXZJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KG2HXZJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [New Balance Wxnrgv1  Zapatillas Deportivas para Interior para Mujer  Rosa
 
 [![New Balance Wxnrgv1  Zapatillas Deportiv](https://images-eu.ssl-images-amazon.com/images/I/41-lHYfJZaL._SL200_.jpg)](https://www.amazon.es/dp/B06XS8SM2R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XS8SM2R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

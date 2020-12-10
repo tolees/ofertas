@@ -22,6 +22,9 @@ Ahora mismo tienes [LE COQ SPORTIF Courtset Sport  Zapatillas para Hombre   Opti
 
 [![LE COQ SPORTIF Courtset Sport  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/31DNWYG40QL._SL200_.jpg)](https://www.amazon.es/dp/B07DC34B3D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC34B3D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

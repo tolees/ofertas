@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Royal Complete 2LL  Zapatillas de Gimnasia para Hombr
 
 [![Reebok Royal Complete 2LL  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/31Hs88bSg1L._SL200_.jpg)](https://www.amazon.es/dp/B07K742MVF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K742MVF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

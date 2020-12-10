@@ -22,6 +22,9 @@ Está [Pierre Cardin PC106042S02 - Reloj de cuarzo para mujer  Swiss Made](https
 
 [![Pierre Cardin PC106042S02 - Reloj de cua](https://images-eu.ssl-images-amazon.com/images/I/41DRXzsr7zL._SL200_.jpg)](https://www.amazon.es/dp/B06X93Y1HX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06X93Y1HX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

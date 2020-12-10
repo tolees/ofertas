@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Icon Belt W  Cinturón Mujer  Morado  Dark Purple 49 
 
 [![Levi s Icon Belt W  Cinturón Mujer  Mora](https://images-eu.ssl-images-amazon.com/images/I/31-0NkqOiwL._SL200_.jpg)](https://www.amazon.es/dp/B071RGXLYH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071RGXLYH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

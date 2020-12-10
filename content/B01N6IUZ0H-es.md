@@ -22,6 +22,9 @@ Está [Bruzzzler 1152 Set de brochetas Dobles  Plata  39.5x9.5x4.5 cm](https://w
 
 [![Bruzzzler 1152 Set de brochetas Dobles  ](https://images-eu.ssl-images-amazon.com/images/I/51JtwFO4JhL._SL200_.jpg)](https://www.amazon.es/dp/B01N6IUZ0H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6IUZ0H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

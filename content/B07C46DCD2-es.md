@@ -22,6 +22,9 @@ Está [Marco Tozzi 2-2-25110-31  Botas Militar para Mujer  Verde  Khaki Antic 72
 
 [![Marco Tozzi 2-2-25110-31  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/41AI06BJkbL._SL200_.jpg)](https://www.amazon.es/dp/B07C46DCD2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C46DCD2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

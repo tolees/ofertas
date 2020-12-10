@@ -22,6 +22,14 @@ Tienes [hotder Wine Aireador de Vino Tinto con Base para Vino Tinto  Negro.](htt
 
 [![hotder Wine Aireador de Vino Tinto con B](https://m.media-amazon.com/images/I/41m-C4JG7fL._SL200_.jpg)](https://www.amazon.es/dp/B009YHROJK/?tag=tolees-21)
 
+Características principales:
+
+- Diseño elegante.
+- Refina y hace complejo el buqué del vino.
+- Recomendado por enólogos.
+- Se limpia fácilmente.
+- Airea el vino en poco tiempo.
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B009YHROJK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Royal Ultra SL  Zapatillas de Deporte para Mujer  Neg
 
 [![Reebok Royal Ultra SL  Zapatillas de Dep](https://images-eu.ssl-images-amazon.com/images/I/41xwFJf7B6L._SL200_.jpg)](https://www.amazon.es/dp/B073QX16VC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073QX16VC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

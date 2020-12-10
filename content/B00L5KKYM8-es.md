@@ -22,6 +22,9 @@ Está [Vans Era  Zapatillas de skate Unisex  Rojo  Gold Mono/Crimson   41 EU  7.
 
 [![Vans Era  Zapatillas de skate Unisex  Ro](https://images-eu.ssl-images-amazon.com/images/I/41BlA2EpYQL._SL200_.jpg)](https://www.amazon.es/dp/B00L5KKYM8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00L5KKYM8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

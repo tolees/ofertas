@@ -22,6 +22,9 @@ Tienes [Blackview P10000 Pro - Smartphone de 6.0" 18: 9  11000mAh Batería 5V/5A
 
 [![Blackview P10000 Pro - Smartphone de 6.0](https://images-eu.ssl-images-amazon.com/images/I/51hLasPPgyL._SL200_.jpg)](https://www.amazon.es/dp/B07D74VJMQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D74VJMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

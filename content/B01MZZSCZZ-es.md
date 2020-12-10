@@ -22,6 +22,9 @@ Está [Under Armour UA Speedform Slingwrap  Zapatillas de Entrenamiento para Hom
 
 [![Under Armour UA Speedform Slingwrap  Zap](https://images-eu.ssl-images-amazon.com/images/I/41FE4TxsoRL._SL200_.jpg)](https://www.amazon.es/dp/B01MZZSCZZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MZZSCZZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

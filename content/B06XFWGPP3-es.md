@@ -22,6 +22,9 @@ Tienes [Juegos de Bolos Exterior Interior Juego de 12 Pcs Las Pinos de Bolos par
 
 [![Juegos de Bolos Exterior Interior Juego ](https://images-eu.ssl-images-amazon.com/images/I/41SVy%2BgaBhL._SL200_.jpg)](https://www.amazon.es/dp/B06XFWGPP3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XFWGPP3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Monster Hunter Generations Ultimate [Importación francesa]](https://www
 
 [![Monster Hunter Generations Ultimate [Imp](https://images-eu.ssl-images-amazon.com/images/I/51rMAO2O52L._SL200_.jpg)](https://www.amazon.es/dp/B07D5PGYQ3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D5PGYQ3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

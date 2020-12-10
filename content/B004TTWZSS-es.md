@@ -22,6 +22,9 @@ Está [Ratón óptico de Silueta de Manhattan 177627 pc Ratón  PC/Mac  2-Manera
 
 [![Ratón óptico de Silueta de Manhattan 177](https://images-eu.ssl-images-amazon.com/images/I/31CGyoAYwwL._SL200_.jpg)](https://www.amazon.es/dp/B004TTWZSS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004TTWZSS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

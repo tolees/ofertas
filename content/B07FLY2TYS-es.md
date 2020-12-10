@@ -22,6 +22,9 @@ Tienes [Bata 8946312  Botas Militares para Hombre  Negro  Nero 6   46 EU](https:
 
 [![Bata 8946312  Botas Militares para Hombr](https://images-eu.ssl-images-amazon.com/images/I/31C54CSBeML._SL200_.jpg)](https://www.amazon.es/dp/B07FLY2TYS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FLY2TYS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [find. Pantalones Regular Fit Hombre Gris  Charcoal  W30/L31](https://www.
 
 [![find. Pantalones Regular Fit Hombre Gris](https://images-eu.ssl-images-amazon.com/images/I/31t25g5kmIL._SL200_.jpg)](https://www.amazon.es/dp/B071K2B9YM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071K2B9YM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

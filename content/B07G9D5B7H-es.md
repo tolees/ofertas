@@ -22,6 +22,9 @@ Está [VBIGER Poncho de punto de Las Mujeres Elegante para Invierno](https://www
 
 [![VBIGER Poncho de punto de Las Mujeres El](https://images-eu.ssl-images-amazon.com/images/I/41i7BxMi5dL._SL200_.jpg)](https://www.amazon.es/dp/B07G9D5B7H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G9D5B7H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

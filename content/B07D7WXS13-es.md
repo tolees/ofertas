@@ -22,6 +22,9 @@ Tienes [Meteor Sky: patines infantiles Rodamientos de 7 de carbono  Patines en l
 
 [![Meteor Sky: patines infantiles Rodamient](https://images-eu.ssl-images-amazon.com/images/I/51o2dWc9CYL._SL200_.jpg)](https://www.amazon.es/dp/B07D7WXS13/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D7WXS13/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

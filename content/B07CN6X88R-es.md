@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Folten-Orego  Botas Chelsea para Hombre  Negro Blac
 
 [![Skechers Folten-Orego  Botas Chelsea par](https://images-eu.ssl-images-amazon.com/images/I/31aclcTi7aL._SL200_.jpg)](https://www.amazon.es/dp/B07CN6X88R/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CN6X88R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

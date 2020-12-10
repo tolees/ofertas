@@ -22,6 +22,9 @@ Tienes [Helly Hansen Pier 2 Pant Bib  Hombre  Ebony  L](https://www.amazon.es/dp
 
 [![Helly Hansen Pier 2 Pant Bib  Hombre  Eb](https://images-eu.ssl-images-amazon.com/images/I/411SrVh0D3L._SL200_.jpg)](https://www.amazon.es/dp/B01N7I7DV0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N7I7DV0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

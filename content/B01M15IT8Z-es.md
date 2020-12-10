@@ -22,6 +22,9 @@ Tienes [Sony CDX-G3200UV - Reproductor CD para Coche Extra Bass  USB  amplificac
 
 [![Sony CDX-G3200UV - Reproductor CD para C](https://images-eu.ssl-images-amazon.com/images/I/31TxSW%2BnIRL._SL200_.jpg)](https://www.amazon.es/dp/B01M15IT8Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M15IT8Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

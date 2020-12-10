@@ -22,6 +22,9 @@ Está [Lifewit Bolsa Térmica Porta Alimentos de Almuerzo Bento Bolsa de Almuerz
 
 [![Lifewit Bolsa Térmica Porta Alimentos de](https://images-eu.ssl-images-amazon.com/images/I/51lrRcLOXFL._SL200_.jpg)](https://www.amazon.es/dp/B07B2V7GW9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B2V7GW9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

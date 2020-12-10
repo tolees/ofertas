@@ -22,6 +22,9 @@ Tienes [BigBen TW9KEEPCALM - Torre de Sonido Bluetooth UK  2.1  2x15W RMS + Subw
 
 [![BigBen TW9KEEPCALM - Torre de Sonido Blu](https://images-eu.ssl-images-amazon.com/images/I/4130rYBlfEL._SL200_.jpg)](https://www.amazon.es/dp/B015CXBG3O/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015CXBG3O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

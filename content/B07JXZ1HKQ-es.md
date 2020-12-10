@@ -22,6 +22,9 @@ Ahora mismo tienes [CHOICEOWN Espejo de Viaje Espejo de Maquillaje LED Espejo de
 
 [![CHOICEOWN Espejo de Viaje Espejo de Maqu](https://images-eu.ssl-images-amazon.com/images/I/412XEyX3DgL._SL200_.jpg)](https://www.amazon.es/dp/B07JXZ1HKQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JXZ1HKQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tropican Papilla - 2 kg](https://www.amazon.es/dp/B01ANPHJMS/?tag=tole
 
 [![Tropican Papilla - 2 kg](https://images-eu.ssl-images-amazon.com/images/I/510Xn4tTtfL._SL200_.jpg)](https://www.amazon.es/dp/B01ANPHJMS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01ANPHJMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

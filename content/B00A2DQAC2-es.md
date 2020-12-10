@@ -22,6 +22,9 @@ Está [Hippychick - Mono impermeable  12-18 meses  98-104 cm  color rosa](https:
 
 [![Hippychick - Mono impermeable  12-18 mes](https://images-eu.ssl-images-amazon.com/images/I/31M8-M9fJtL._SL200_.jpg)](https://www.amazon.es/dp/B00A2DQAC2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00A2DQAC2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

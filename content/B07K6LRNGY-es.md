@@ -22,6 +22,9 @@ Está [Calcetines de Lana Cálidos de Confort Casual de Mujer de Invierno Calcet
 
 [![Calcetines de Lana Cálidos de Confort Ca](https://images-eu.ssl-images-amazon.com/images/I/51eXj7x69iL._SL200_.jpg)](https://www.amazon.es/dp/B07K6LRNGY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K6LRNGY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

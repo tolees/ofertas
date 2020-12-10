@@ -22,6 +22,9 @@ Está [Safta Funda F.C. Barcelona 17/18 Oficial Para Portátil 10 6 pulgadas  20
 
 [![Safta Funda F.C. Barcelona 17/18 Oficial](https://images-eu.ssl-images-amazon.com/images/I/51DJXGK3wuL._SL200_.jpg)](https://www.amazon.es/dp/B073HG6C9Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073HG6C9Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

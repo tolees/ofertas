@@ -22,6 +22,9 @@ Tienes [adidas Vs ADV Cl CMF C  Zapatillas de Deporte Unisex niño  Blanco Ftwbl
 
 [![adidas Vs ADV Cl CMF C  Zapatillas de De](https://images-eu.ssl-images-amazon.com/images/I/411vnb2cGQL._SL200_.jpg)](https://www.amazon.es/dp/B071JF4GHS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071JF4GHS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

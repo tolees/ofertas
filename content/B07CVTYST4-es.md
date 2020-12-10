@@ -22,6 +22,9 @@ Ahora mismo tienes [Rackaphile - Sacacorchos Eléctrico Inalámbrico  Abrebotell
 
 [![Rackaphile - Sacacorchos Eléctrico Inalá](https://images-eu.ssl-images-amazon.com/images/I/41ytYb85W0L._SL200_.jpg)](https://www.amazon.es/dp/B07CVTYST4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CVTYST4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

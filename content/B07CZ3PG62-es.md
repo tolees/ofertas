@@ -22,6 +22,9 @@ Tienes [Puma Turin II  Zapatillas de Deporte Unisex Adults’o  Blanco White  40
 
 [![Puma Turin II  Zapatillas de Deporte Uni](https://images-eu.ssl-images-amazon.com/images/I/31QNiOz8W5L._SL200_.jpg)](https://www.amazon.es/dp/B07CZ3PG62/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZ3PG62/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

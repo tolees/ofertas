@@ -22,6 +22,9 @@ Tienes [Tamaño Jumbo  diseño plegable  Tela gruesa de poliéster  recipientes 
 
 [![Tamaño Jumbo  diseño plegable  Tela grue](https://images-eu.ssl-images-amazon.com/images/I/6162PNDjuhL._SL200_.jpg)](https://www.amazon.es/dp/B0159NBDNK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0159NBDNK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

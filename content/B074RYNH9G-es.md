@@ -22,6 +22,9 @@ Ahora mismo tienes [ZZLAY Pasamontañas Sombrero Capas Dobles Espesar Capas Invi
 
 [![ZZLAY Pasamontañas Sombrero Capas Dobles](None._SL200_)](https://www.amazon.es/dp/B074RYNH9G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074RYNH9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

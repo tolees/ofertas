@@ -22,6 +22,9 @@ Tienes [Element Blazin Zip Hood Fleece  Hombre  Charcoal Heather  XL](https://ww
 
 [![Element Blazin Zip Hood Fleece  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41nFXzxwPJL._SL200_.jpg)](https://www.amazon.es/dp/B07F1VJ1ZC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F1VJ1ZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Kappa Milla  Zapatillas para Mujer  Negro  1110 Black/White 
 
 [![Kappa Milla  Zapatillas para Mujer  Negr](https://images-eu.ssl-images-amazon.com/images/I/41BvAeI0SUL._SL200_.jpg)](https://www.amazon.es/dp/B015KKPSX8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B015KKPSX8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

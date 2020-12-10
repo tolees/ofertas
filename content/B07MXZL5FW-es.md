@@ -22,6 +22,9 @@ Tienes [Salomon Blend Logo SS tee T-Shirt  Hombre  Negro  M](https://www.amazon.
 
 [![Salomon Blend Logo SS tee T-Shirt  Hombr](https://images-eu.ssl-images-amazon.com/images/I/31ktbekBroL._SL200_.jpg)](https://www.amazon.es/dp/B07MXZL5FW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MXZL5FW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

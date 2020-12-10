@@ -22,6 +22,9 @@ Tienes [Mustang High Top Sneaker  Zapatillas Altas para Mujer  Gris  Graphite 25
 
 [![Mustang High Top Sneaker  Zapatillas Alt](https://images-eu.ssl-images-amazon.com/images/I/41OqFBf2g1L._SL200_.jpg)](https://www.amazon.es/dp/B07F15R5JM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F15R5JM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics T7E3N9796  Zapatillas de Running para Hombre  Gris  Ca
 
 [![Asics T7E3N9796  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/51krmD3mUgL._SL200_.jpg)](https://www.amazon.es/dp/B0719DTNHS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0719DTNHS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

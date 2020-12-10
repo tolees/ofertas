@@ -22,6 +22,9 @@ Tienes [Osram 811737 Bombilla LED R7S  15 W  Blanco Cálido](https://www.amazon.
 
 [![Osram 811737 Bombilla LED R7S  15 W  Bla]()](https://www.amazon.es/dp/B072JZHGDJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072JZHGDJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

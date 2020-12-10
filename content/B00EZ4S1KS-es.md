@@ -22,6 +22,9 @@ Ahora mismo tienes [Philips myLiving Chantilly - Plafón  casquillo E27  14 W  l
 
 [![Philips myLiving Chantilly - Plafón  cas](https://images-eu.ssl-images-amazon.com/images/I/31PrBmPqbvL._SL200_.jpg)](https://www.amazon.es/dp/B00EZ4S1KS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00EZ4S1KS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

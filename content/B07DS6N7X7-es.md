@@ -22,6 +22,9 @@ Tienes [Leebei Alfombras de Cocina Alfombrilla de Goma Alfombrilla de Felpa Anti
 
 [![Leebei Alfombras de Cocina Alfombrilla d](https://images-eu.ssl-images-amazon.com/images/I/51PeL1GrsaL._SL200_.jpg)](https://www.amazon.es/dp/B07DS6N7X7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DS6N7X7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [FIYAPOO WiFi Endoscopio 2M  2.0MP  HD 1200P  8mm Impermeable Boroscopio C
 
 [![FIYAPOO WiFi Endoscopio 2M  2.0MP  HD 12](https://images-eu.ssl-images-amazon.com/images/I/51ZGQOT%2BYOL._SL200_.jpg)](https://www.amazon.es/dp/B07K1NWF5L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K1NWF5L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

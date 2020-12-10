@@ -22,6 +22,9 @@ Está [Reebok Royal Cmplt CLN LX  Zapatillas de Deporte para Hombre  Negro  Blac
 
 [![Reebok Royal Cmplt CLN LX  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41d5dteddeL._SL200_.jpg)](https://www.amazon.es/dp/B072N3J1MJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072N3J1MJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

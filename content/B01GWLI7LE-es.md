@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike Nk Brsla Gmsk Bolsa de Cuerdas  Hombre  Azul  Game Roya
 
 [![Nike Nk Brsla Gmsk Bolsa de Cuerdas  Hom](https://images-eu.ssl-images-amazon.com/images/I/41RIc%2B4O%2BYL._SL200_.jpg)](https://www.amazon.es/dp/B01GWLI7LE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01GWLI7LE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

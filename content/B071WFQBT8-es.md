@@ -22,6 +22,9 @@ Está [Only Onlnew Cose L/s Pullover Knt suéter  Marrón  Indian Tan Detail:w. 
 
 [![Only Onlnew Cose L/s Pullover Knt suéter](https://images-eu.ssl-images-amazon.com/images/I/41CGya3Ni%2BL._SL200_.jpg)](https://www.amazon.es/dp/B071WFQBT8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071WFQBT8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

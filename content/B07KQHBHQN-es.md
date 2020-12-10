@@ -22,6 +22,9 @@ Está [adidas Predator 19.3 FG J  Botas de fútbol Unisex niño   Rojact/Rojsol/
 
 [![adidas Predator 19.3 FG J  Botas de fútb](https://images-eu.ssl-images-amazon.com/images/I/41hOwYD7rgL._SL200_.jpg)](https://www.amazon.es/dp/B07KQHBHQN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KQHBHQN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Nike Air Zoom Vapor X HC  Zapatillas de Tenis para Niños  Black/Vast Gr
 
 [![Nike Air Zoom Vapor X HC  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/31RdciyZlrL._SL200_.jpg)](https://www.amazon.es/dp/B07G5VNKCS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G5VNKCS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

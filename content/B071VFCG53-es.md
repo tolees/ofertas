@@ -22,6 +22,9 @@ Está [Cars- Juego Carrera Loca  37.1 x 27.2 x 5.6  Educa Borrás 17210 ](https:
 
 [![Cars- Juego Carrera Loca  37.1 x 27.2 x ](https://images-eu.ssl-images-amazon.com/images/I/615lT0rH13L._SL200_.jpg)](https://www.amazon.es/dp/B071VFCG53/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071VFCG53/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

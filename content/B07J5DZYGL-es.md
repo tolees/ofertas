@@ -22,6 +22,9 @@ Tienes [7artisans 12 mm f2.8 Ultra Gran Angular APS-C sin Espejo Cámaras de Len
 
 [![7artisans 12 mm f2.8 Ultra Gran Angular ](https://images-eu.ssl-images-amazon.com/images/I/41Vhw81q5KL._SL200_.jpg)](https://www.amazon.es/dp/B07J5DZYGL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07J5DZYGL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

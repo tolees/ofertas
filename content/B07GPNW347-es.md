@@ -22,6 +22,9 @@ Tienes [Earthfall - Deluxe Edition](https://www.amazon.es/dp/B07GPNW347/?tag=tol
 
 [![Earthfall - Deluxe Edition](https://images-eu.ssl-images-amazon.com/images/I/51ffX8XMTcL._SL200_.jpg)](https://www.amazon.es/dp/B07GPNW347/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GPNW347/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

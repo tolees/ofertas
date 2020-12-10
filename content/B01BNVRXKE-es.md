@@ -22,6 +22,9 @@ Está [Dakine Duel 26L Mochila Poliéster Negro - Mochila para portátiles y net
 
 [![Dakine Duel 26L Mochila Poliéster Negro ](https://images-eu.ssl-images-amazon.com/images/I/412YmrHRWUL._SL200_.jpg)](https://www.amazon.es/dp/B01BNVRXKE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BNVRXKE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Asics Patriot 10  Zapatillas de Running para Mujer  Morado  Fuchsia Purp
 
 [![Asics Patriot 10  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/413ZFdNgP-L._SL200_.jpg)](https://www.amazon.es/dp/B07CZB2NXP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZB2NXP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

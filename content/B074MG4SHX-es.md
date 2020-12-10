@@ -22,6 +22,9 @@ Tienes [Lenovo Legion Y520-15IKBN - Ordenador portatil 15.6" FullHD  Intel Core 
 
 [![Lenovo Legion Y520-15IKBN - Ordenador po](https://images-eu.ssl-images-amazon.com/images/I/41yIyFBsxUL._SL200_.jpg)](https://www.amazon.es/dp/B074MG4SHX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074MG4SHX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

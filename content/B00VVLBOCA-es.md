@@ -22,6 +22,9 @@ Tienes [BLACK+DECKER CS3652LC-QW - Atornillador de 3.6V  5.5 Nm  con cabezal de 
 
 [![BLACK+DECKER CS3652LC-QW - Atornillador ](https://images-eu.ssl-images-amazon.com/images/I/41i8Y6AU82L._SL200_.jpg)](https://www.amazon.es/dp/B00VVLBOCA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VVLBOCA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

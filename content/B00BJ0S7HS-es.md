@@ -22,6 +22,9 @@ Está [Postquam Therapy - Placenta Vegetal Postquam Crystal para Combatir la Cai
 
 [![Postquam Therapy - Placenta Vegetal Post](https://images-eu.ssl-images-amazon.com/images/I/41NuJ6GOYpL._SL200_.jpg)](https://www.amazon.es/dp/B00BJ0S7HS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00BJ0S7HS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

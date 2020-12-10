@@ -22,6 +22,9 @@ Está [LANGRIA Caja Joyero Octogonal de Piel Sintética  Cierre con Llave  Reves
 
 [![LANGRIA Caja Joyero Octogonal de Piel Si](https://images-eu.ssl-images-amazon.com/images/I/41g9X2qKndL._SL200_.jpg)](https://www.amazon.es/dp/B01LWUOHQE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWUOHQE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

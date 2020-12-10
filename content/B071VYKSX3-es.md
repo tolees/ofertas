@@ -22,6 +22,9 @@ Ahora mismo tienes [Tamaris - Louise Shoulder Bag/pack 4 Pcs  Shoppers y bolsos 
 
 [![Tamaris - Louise Shoulder Bag/pack 4 Pcs](https://images-eu.ssl-images-amazon.com/images/I/41pRFNEbk-L._SL200_.jpg)](https://www.amazon.es/dp/B071VYKSX3/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071VYKSX3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

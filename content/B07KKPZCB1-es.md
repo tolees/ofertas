@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Messi CPT - Balon de fútbol  Hombre  Football Blue/A
 
 [![adidas Messi CPT - Balon de fútbol  Homb](https://images-eu.ssl-images-amazon.com/images/I/41nGUR7HbvL._SL200_.jpg)](https://www.amazon.es/dp/B07KKPZCB1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KKPZCB1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

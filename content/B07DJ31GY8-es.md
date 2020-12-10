@@ -22,6 +22,9 @@ Está [Lacoste La Piquee 119 1 Cfa  Zapatillas para Mujer  Gris  Lt Gry/Wht 2q5 
 
 [![Lacoste La Piquee 119 1 Cfa  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41f3i%2BE5oyL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ31GY8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ31GY8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Silicona Masajeador  Masajeador Inalámbrico Portátil Vibrador para Muje
 
 [![Silicona Masajeador  Masajeador Inalámbr](https://images-eu.ssl-images-amazon.com/images/I/41lWsUXVsyL._SL200_.jpg)](https://www.amazon.es/dp/B07MQDWGFC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MQDWGFC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

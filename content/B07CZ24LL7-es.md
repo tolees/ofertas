@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics Gel-Cumulus 20  Zapatillas de Entrenamiento Unisex Adu
 
 [![Asics Gel-Cumulus 20  Zapatillas de Entr](https://images-eu.ssl-images-amazon.com/images/I/413m0XzEbJL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ24LL7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ24LL7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Philips Pico 3.2 - Memoria USB de 32 GB](https://www.amazon.es/dp/B015WML
 
 [![Philips Pico 3.2 - Memoria USB de 32 GB]()](https://www.amazon.es/dp/B015WML1OO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B015WML1OO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

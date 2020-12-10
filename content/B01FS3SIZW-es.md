@@ -22,6 +22,9 @@ Está [Star Wars Micrófono con Jack 3 5 Y Adaptador 6 3 Mm Color Negro Lexibook
 
 [![Star Wars Micrófono con Jack 3 5 Y Adapt](https://images-eu.ssl-images-amazon.com/images/I/31Dz9SmocBL._SL200_.jpg)](https://www.amazon.es/dp/B01FS3SIZW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FS3SIZW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

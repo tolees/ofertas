@@ -22,6 +22,9 @@ Está [adidas X 18.3 AG  Botas de fútbol para Hombre   Casbla/Ftwbla/Negbás 0 
 
 [![adidas X 18.3 AG  Botas de fútbol para H](https://images-eu.ssl-images-amazon.com/images/I/31MaijE37bL._SL200_.jpg)](https://www.amazon.es/dp/B07D99DQGR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D99DQGR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

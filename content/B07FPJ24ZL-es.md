@@ -22,6 +22,9 @@ Está [TECCPO - Lijadora eléctrica orbital 14500 OPM  210 W  motor de cobre fin
 
 [![TECCPO - Lijadora eléctrica orbital 1450](https://images-eu.ssl-images-amazon.com/images/I/51hzncD9SmL._SL200_.jpg)](https://www.amazon.es/dp/B07FPJ24ZL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FPJ24ZL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

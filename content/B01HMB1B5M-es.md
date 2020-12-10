@@ -22,6 +22,9 @@ Está [POP! Vinilo - Labyrinth: Jareth](https://www.amazon.es/dp/B01HMB1B5M/?tag
 
 [![POP! Vinilo - Labyrinth: Jareth](https://images-eu.ssl-images-amazon.com/images/I/41mj-J-XsGL._SL200_.jpg)](https://www.amazon.es/dp/B01HMB1B5M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HMB1B5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

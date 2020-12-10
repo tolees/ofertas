@@ -22,6 +22,9 @@ Está [MSI X470 GAMING PRO - Placa Base Performance](https://www.amazon.es/dp/B0
 
 [![MSI X470 GAMING PRO - Placa Base Perform](https://images-eu.ssl-images-amazon.com/images/I/51S65hG4kZL._SL200_.jpg)](https://www.amazon.es/dp/B07CFSHGLY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CFSHGLY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

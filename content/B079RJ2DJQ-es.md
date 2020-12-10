@@ -22,6 +22,9 @@ Tienes [Kounga Little Diver Traje de Surf  Unisex niños  Azul/Verde  10](https:
 
 [![Kounga Little Diver Traje de Surf  Unise](https://images-eu.ssl-images-amazon.com/images/I/41yM56Xx3RL._SL200_.jpg)](https://www.amazon.es/dp/B079RJ2DJQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079RJ2DJQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour Boy s Blitzing 2.0 Gorra  Niños  Blanco  White
 
 [![Under Armour Boy s Blitzing 2.0 Gorra  N](https://images-eu.ssl-images-amazon.com/images/I/312rwfIMEhL._SL200_.jpg)](https://www.amazon.es/dp/B07KH214FK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KH214FK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

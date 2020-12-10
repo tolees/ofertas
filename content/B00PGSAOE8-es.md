@@ -22,6 +22,9 @@ Ahora mismo tienes [L Oréal Paris Lápiz de Ojos Super Liner Smokissime Black S
 
 [![L Oréal Paris Lápiz de Ojos Super Liner ](https://images-eu.ssl-images-amazon.com/images/I/31W2yOnqI6L._SL200_.jpg)](https://www.amazon.es/dp/B00PGSAOE8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00PGSAOE8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

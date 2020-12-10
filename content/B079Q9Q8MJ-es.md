@@ -22,6 +22,9 @@ Tienes [Rockport Marshall Rugged Mock Toe Boot  Botas Clasicas para Hombre  Marr
 
 [![Rockport Marshall Rugged Mock Toe Boot  ](https://images-eu.ssl-images-amazon.com/images/I/41XXWQh7NTL._SL200_.jpg)](https://www.amazon.es/dp/B079Q9Q8MJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079Q9Q8MJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

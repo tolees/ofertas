@@ -22,6 +22,9 @@ Tienes [Einhell 4460550 LIJADORA Orbital RT-OS 30  300 W  230 V](https://www.ama
 
 [![Einhell 4460550 LIJADORA Orbital RT-OS 3](https://images-eu.ssl-images-amazon.com/images/I/51K-5volCTL._SL200_.jpg)](https://www.amazon.es/dp/B001T0HF8K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B001T0HF8K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

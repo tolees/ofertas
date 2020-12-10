@@ -22,6 +22,9 @@ Está [Babymoov A009008 - Elevador compacto  color smokey](https://www.amazon.es
 
 [![Babymoov A009008 - Elevador compacto  co](https://images-eu.ssl-images-amazon.com/images/I/41f6VnjiZOL._SL200_.jpg)](https://www.amazon.es/dp/B01N3OWLMV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N3OWLMV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

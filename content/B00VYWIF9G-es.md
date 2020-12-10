@@ -22,6 +22,9 @@ Tienes [Limit Active Men s Multifunction Digital Watch - 5573](https://www.amazo
 
 [![Limit Active Men s Multifunction Digital](https://images-eu.ssl-images-amazon.com/images/I/41rKfeDjUHL._SL200_.jpg)](https://www.amazon.es/dp/B00VYWIF9G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VYWIF9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

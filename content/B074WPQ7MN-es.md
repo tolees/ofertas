@@ -22,6 +22,9 @@ Tienes [Auriculares Bluetooth  ZENBRE E5 Bluetooth 4.1 Esterero con Aislamiento 
 
 [![Auriculares Bluetooth  ZENBRE E5 Bluetoo](https://images-eu.ssl-images-amazon.com/images/I/41uza0ZdP0L._SL200_.jpg)](https://www.amazon.es/dp/B074WPQ7MN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074WPQ7MN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

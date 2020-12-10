@@ -22,6 +22,9 @@ Está [edc by ESPRIT 027cc2b008  Jeans Hombre  Gris  Grey Light Wash   W33/L36  
 
 [![edc by ESPRIT 027cc2b008  Jeans Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41GiK1CFeqL._SL200_.jpg)](https://www.amazon.es/dp/B01N78LZQP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N78LZQP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

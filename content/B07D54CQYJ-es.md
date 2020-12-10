@@ -22,6 +22,9 @@ Está [ammoon POCKECHO Demora y Looper Pedal de Efectos de Guitarra 8 Efectos de
 
 [![ammoon POCKECHO Demora y Looper Pedal de](https://images-eu.ssl-images-amazon.com/images/I/41EbSIwDorL._SL200_.jpg)](https://www.amazon.es/dp/B07D54CQYJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D54CQYJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

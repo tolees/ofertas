@@ -22,6 +22,9 @@ Tienes [Springfield 8550964  Polo para Hombre   Rosa Morado 71   Small  Tamaño 
 
 [![Springfield 8550964  Polo para Hombre   ](https://images-eu.ssl-images-amazon.com/images/I/41q-BI9LS8L._SL200_.jpg)](https://www.amazon.es/dp/B078GSQ5P7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078GSQ5P7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [L Oréal Paris Labial Infalible Matte Max 006 Disturb](https://www.amazo
 
 [![L Oréal Paris Labial Infalible Matte Max](https://images-eu.ssl-images-amazon.com/images/I/31f4sWOgW7L._SL200_.jpg)](https://www.amazon.es/dp/B017DB28LM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B017DB28LM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

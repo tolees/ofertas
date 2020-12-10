@@ -22,6 +22,9 @@ Ahora mismo tienes [Sauza - Tequila Silver  0.7 l](https://www.amazon.es/dp/B008
 
 [![Sauza - Tequila Silver  0.7 l](https://images-eu.ssl-images-amazon.com/images/I/31N4VhNKbFL._SL200_.jpg)](https://www.amazon.es/dp/B008DD6USC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B008DD6USC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

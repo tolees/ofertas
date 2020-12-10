@@ -22,6 +22,9 @@ Está [Pop! South Park - Figura de Vinilo Kenny](https://www.amazon.es/dp/B07DFC
 
 [![Pop! South Park - Figura de Vinilo Kenny](https://images-eu.ssl-images-amazon.com/images/I/31u1v7c9IjL._SL200_.jpg)](https://www.amazon.es/dp/B07DFCCFRG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFCCFRG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

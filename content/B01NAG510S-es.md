@@ -22,6 +22,9 @@ Está [Lee Chino Short  Pantalones Cortos para Hombre   Indigo Stripe   52  Tall
 
 [![Lee Chino Short  Pantalones Cortos para ](https://images-eu.ssl-images-amazon.com/images/I/419tvhdbTSL._SL200_.jpg)](https://www.amazon.es/dp/B01NAG510S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NAG510S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

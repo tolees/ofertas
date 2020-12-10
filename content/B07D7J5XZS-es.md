@@ -22,6 +22,9 @@ Está [Dolores Promesas 107346  Pantalones para Mujer  Negro   Tamaño del Fabri
 
 [![Dolores Promesas 107346  Pantalones para](https://images-eu.ssl-images-amazon.com/images/I/41SEgzGYTxL._SL200_.jpg)](https://www.amazon.es/dp/B07D7J5XZS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D7J5XZS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

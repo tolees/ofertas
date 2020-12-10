@@ -22,6 +22,9 @@ Ahora mismo tienes [Ecco Soft 1 Men s  Zapatillas para Hombre   Licorice 2507   
 
 [![Ecco Soft 1 Men s  Zapatillas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41ESboIdNyL._SL200_.jpg)](https://www.amazon.es/dp/B07CND4BMQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CND4BMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

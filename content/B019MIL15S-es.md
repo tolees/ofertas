@@ -22,6 +22,9 @@ Está [Miami Beach Swimwear Rob Bañador  Azul  Dark Navy   Small](https://www.a
 
 [![Miami Beach Swimwear Rob Bañador  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/414TsT%2BKYcL._SL200_.jpg)](https://www.amazon.es/dp/B019MIL15S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B019MIL15S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

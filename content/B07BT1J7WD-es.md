@@ -22,6 +22,9 @@ Tienes [DAKINE Split Roller Eq Maleta  Unisex Adulto   Zion   75 L](https://www.
 
 [![DAKINE Split Roller Eq Maleta  Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/41ZL0ZMNddL._SL200_.jpg)](https://www.amazon.es/dp/B07BT1J7WD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BT1J7WD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [LED Net Lights USB 5V Led Luces de cadena Fiesta al aire libre Navidad N
 
 [![LED Net Lights USB 5V Led Luces de caden](https://images-eu.ssl-images-amazon.com/images/I/61VUU3IyYfL._SL200_.jpg)](https://www.amazon.es/dp/B075FQPMTV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075FQPMTV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

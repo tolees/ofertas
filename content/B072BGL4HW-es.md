@@ -22,6 +22,9 @@ Está [Lyle & Scott Polo Shirt  Blanco  White 626   X-Small  Talla del Fabricant
 
 [![Lyle & Scott Polo Shirt  Blanco  White 6](https://images-eu.ssl-images-amazon.com/images/I/41uvMUhahTL._SL200_.jpg)](https://www.amazon.es/dp/B072BGL4HW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072BGL4HW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

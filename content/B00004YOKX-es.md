@@ -22,6 +22,9 @@ Está [Makita HK0500 - Martillo Mini-Demoledor 3.2Kg](https://www.amazon.es/dp/B
 
 [![Makita HK0500 - Martillo Mini-Demoledor ](https://images-eu.ssl-images-amazon.com/images/I/41EYpSj-ryL._SL200_.jpg)](https://www.amazon.es/dp/B00004YOKX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00004YOKX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

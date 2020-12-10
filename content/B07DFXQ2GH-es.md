@@ -22,6 +22,9 @@ Tienes [Lampara de Pie 3 en 1  72 LED Ojos-Protección Lámpara Escritorio con 4
 
 [![Lampara de Pie 3 en 1  72 LED Ojos-Prote](https://images-eu.ssl-images-amazon.com/images/I/51ZIJbd8pEL._SL200_.jpg)](https://www.amazon.es/dp/B07DFXQ2GH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DFXQ2GH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

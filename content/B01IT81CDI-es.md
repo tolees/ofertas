@@ -22,6 +22,9 @@ Está [Delta Children Banco de Almacenamiento y Escritorio  Madera  Rojo  62.23x
 
 [![Delta Children Banco de Almacenamiento y](https://images-eu.ssl-images-amazon.com/images/I/51okg87fnBL._SL200_.jpg)](https://www.amazon.es/dp/B01IT81CDI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IT81CDI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

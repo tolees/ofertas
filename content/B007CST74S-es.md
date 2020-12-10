@@ -22,6 +22,9 @@ Tienes [Remington D2400 - Secador de pelo de viaje  1400 W  voltaje universal  m
 
 [![Remington D2400 - Secador de pelo de via](http://images.amazon.com/images/P/B007CST74S.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B007CST74S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B007CST74S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

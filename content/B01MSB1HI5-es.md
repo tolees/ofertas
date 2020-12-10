@@ -22,6 +22,9 @@ Está [Esprit 037ee2c009 Cargo  Pantalones Cortos Hombre  Azul  Bright Blue   44
 
 [![Esprit 037ee2c009 Cargo  Pantalones Cort](https://images-eu.ssl-images-amazon.com/images/I/41sycnIz6GL._SL200_.jpg)](https://www.amazon.es/dp/B01MSB1HI5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MSB1HI5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

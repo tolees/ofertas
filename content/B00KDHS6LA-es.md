@@ -22,6 +22,9 @@ Tienes [Lacor - 43016 - Cacerola Con Tapa De Cristal 16cm Inox - Blanco](https:/
 
 [![Lacor - 43016 - Cacerola Con Tapa De Cri](https://images-eu.ssl-images-amazon.com/images/I/41hTUNNY5nL._SL200_.jpg)](https://www.amazon.es/dp/B00KDHS6LA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KDHS6LA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

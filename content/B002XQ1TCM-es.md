@@ -22,6 +22,9 @@ Tienes [Hugo Boss 32148 - Eau de toilette para hombre  90 ml](https://www.amazon
 
 [![Hugo Boss 32148 - Eau de toilette para h](https://images-eu.ssl-images-amazon.com/images/I/41wpNGHclaL._SL200_.jpg)](https://www.amazon.es/dp/B002XQ1TCM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B002XQ1TCM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Nike Superfly 6 Academy NJR FG/MG  Zapatillas de Fútbol Unisex Adulto   
 
 [![Nike Superfly 6 Academy NJR FG/MG  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41413aRWCJL._SL200_.jpg)](https://www.amazon.es/dp/B07DCNW81X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DCNW81X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

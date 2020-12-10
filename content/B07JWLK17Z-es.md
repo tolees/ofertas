@@ -22,6 +22,9 @@ Tienes [Lacoste Mh7092 Bañador  Azul  Calanque/Capitaine 78w   Large para Hombr
 
 [![Lacoste Mh7092 Bañador  Azul  Calanque/C](https://images-eu.ssl-images-amazon.com/images/I/31216jB1UAL._SL200_.jpg)](https://www.amazon.es/dp/B07JWLK17Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JWLK17Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

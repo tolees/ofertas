@@ -22,6 +22,9 @@ Está [Kidsidol Bebé Niño Anti Lost Enlace de muñeca de seguridad Arnés para
 
 [![Kidsidol Bebé Niño Anti Lost Enlace de m](https://images-eu.ssl-images-amazon.com/images/I/515l80ex30L._SL200_.jpg)](https://www.amazon.es/dp/B07DCSTHLL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DCSTHLL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

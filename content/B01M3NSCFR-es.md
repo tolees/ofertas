@@ -22,6 +22,9 @@ Está [Scottex Fresh Papel Higiénico Húmedo - Pack de 4 x 80 servicios](https:
 
 [![Scottex Fresh Papel Higiénico Húmedo - P](https://images-eu.ssl-images-amazon.com/images/I/51LJhuLrqaL._SL200_.jpg)](https://www.amazon.es/dp/B01M3NSCFR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M3NSCFR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

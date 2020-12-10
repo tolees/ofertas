@@ -22,6 +22,9 @@ Está [Skechers On-The-go Glide-Success  Zapatillas sin Cordones para Hombre  Az
 
 [![Skechers On-The-go Glide-Success  Zapati](https://images-eu.ssl-images-amazon.com/images/I/41zOd2ZtuDL._SL200_.jpg)](https://www.amazon.es/dp/B074S5MJJ9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074S5MJJ9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

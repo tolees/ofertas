@@ -22,6 +22,9 @@ Está [AiHom Portarrollos para Papel Higiénico con Estante 160mm Autoadhesivo s
 
 [![AiHom Portarrollos para Papel Higiénico ](https://images-eu.ssl-images-amazon.com/images/I/312yuVE1WoL._SL200_.jpg)](https://www.amazon.es/dp/B07L3GSRJR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L3GSRJR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

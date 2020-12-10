@@ -22,6 +22,9 @@ Ahora mismo tienes [VAUDE Cluster 10+3 Mochila  Unisex Adulto  Verde  Chute Gree
 
 [![VAUDE Cluster 10+3 Mochila  Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/51GsHuR040L._SL200_.jpg)](https://www.amazon.es/dp/B076KSR1SP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076KSR1SP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

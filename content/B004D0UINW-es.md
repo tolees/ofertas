@@ -22,6 +22,9 @@ Está [Integral IN1T1GNSKCI - Memoria RAM de 1 GB  400 MHz  CL3  DIMM - Memoria 
 
 [![Integral IN1T1GNSKCI - Memoria RAM de 1 ](https://images-eu.ssl-images-amazon.com/images/I/412D2CDDIuL._SL200_.jpg)](https://www.amazon.es/dp/B004D0UINW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004D0UINW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

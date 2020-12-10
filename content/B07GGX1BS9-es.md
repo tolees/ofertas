@@ -22,6 +22,9 @@ Ahora mismo tienes [GBlife 1:18 RC Coche 4WD Teledirigido Remote Control Alta Ve
 
 [![GBlife 1:18 RC Coche 4WD Teledirigido Re](https://images-eu.ssl-images-amazon.com/images/I/5164tIt0OhL._SL200_.jpg)](https://www.amazon.es/dp/B07GGX1BS9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GGX1BS9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Brocas Forstner Set  NASUM 18 PCS Broca Fresadora Madera Hecho de Acero 
 
 [![Brocas Forstner Set  NASUM 18 PCS Broca ](https://images-eu.ssl-images-amazon.com/images/I/414jCR-eo1L._SL200_.jpg)](https://www.amazon.es/dp/B07KTSX9Z5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KTSX9Z5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Astan Hogar Ventilador De Pie Nápoles Faan AH-AF20010  Blanco](https://
 
 [![Astan Hogar Ventilador De Pie Nápoles Fa](https://images-eu.ssl-images-amazon.com/images/I/21FuBlSjl6L._SL200_.jpg)](https://www.amazon.es/dp/B00L2IIF7O/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00L2IIF7O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

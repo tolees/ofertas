@@ -22,6 +22,9 @@ Está [HP Envy x360 13-ag0002ns - Ordenador Portátil Convertible 13.3" FullHD  
 
 [![HP Envy x360 13-ag0002ns - Ordenador Por](https://images-eu.ssl-images-amazon.com/images/I/41qXFETLCFL._SL200_.jpg)](https://www.amazon.es/dp/B07DT67C8B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DT67C8B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

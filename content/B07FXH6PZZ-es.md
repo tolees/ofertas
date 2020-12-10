@@ -22,6 +22,9 @@ Está [Vans Ward Canvas Zapatillas Unisex Niños  Rosa   Canvas  Sepia Rose Oln 
 
 [![Vans Ward Canvas Zapatillas Unisex Niños](https://images-eu.ssl-images-amazon.com/images/I/41tOJq57oWL._SL200_.jpg)](https://www.amazon.es/dp/B07FXH6PZZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FXH6PZZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

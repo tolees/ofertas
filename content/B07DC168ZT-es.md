@@ -22,6 +22,9 @@ Está [Umi. Essentials - Silla Gaming Silla ergonómica de oficina sintética co
 
 [![Umi. Essentials - Silla Gaming Silla erg](https://images-eu.ssl-images-amazon.com/images/I/41wLKLmb%2B8L._SL200_.jpg)](https://www.amazon.es/dp/B07DC168ZT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC168ZT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

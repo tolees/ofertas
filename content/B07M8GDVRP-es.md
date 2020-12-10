@@ -22,6 +22,9 @@ Tienes [MTNG Collection 51086  Sandalia con Pulsera para Mujer   Antil Negro C35
 
 [![MTNG Collection 51086  Sandalia con Puls](https://images-eu.ssl-images-amazon.com/images/I/317WWzT4NcL._SL200_.jpg)](https://www.amazon.es/dp/B07M8GDVRP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M8GDVRP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Farmacell Silver 512  Negro  L/XL  Faja pantalon corto masajeadora anti-
 
 [![Farmacell Silver 512  Negro  L/XL  Faja ](https://images-eu.ssl-images-amazon.com/images/I/41VB-NyS7oL._SL200_.jpg)](https://www.amazon.es/dp/B00NVCQCA6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00NVCQCA6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

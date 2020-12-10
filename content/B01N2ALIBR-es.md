@@ -22,6 +22,9 @@ Tienes [Severin Barbacoa Grill PG 8528 - Barbacoa de Mesa  Superficie de Grill  
 
 [![Severin Barbacoa Grill PG 8528 - Barbaco](https://images-eu.ssl-images-amazon.com/images/I/41vhihyQPiL._SL200_.jpg)](https://www.amazon.es/dp/B01N2ALIBR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N2ALIBR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

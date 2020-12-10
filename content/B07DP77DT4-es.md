@@ -22,6 +22,9 @@ Está [Eastpak Stand + Bolsa de Viaje  53 cm  34 Liters  Negro  Blakout Dark ](h
 
 [![Eastpak Stand + Bolsa de Viaje  53 cm  3](https://images-eu.ssl-images-amazon.com/images/I/41Hfj7YX7xL._SL200_.jpg)](https://www.amazon.es/dp/B07DP77DT4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DP77DT4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

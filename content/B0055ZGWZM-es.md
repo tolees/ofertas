@@ -22,6 +22,9 @@ Está [Orbegozo PB 2228 Bascula de baño electrónica Negro  Plata](https://www.
 
 [![Orbegozo PB 2228 Bascula de baño electró](https://images-eu.ssl-images-amazon.com/images/I/41Qid%2BOFo8L._SL200_.jpg)](https://www.amazon.es/dp/B0055ZGWZM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0055ZGWZM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

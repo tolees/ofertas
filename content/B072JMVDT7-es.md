@@ -22,6 +22,9 @@ Está [s.Oliver 25243  Botas Chukka para Mujer  Marrón  Pepper Flower   37 EU](
 
 [![s.Oliver 25243  Botas Chukka para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/51ii2jOxFwL._SL200_.jpg)](https://www.amazon.es/dp/B072JMVDT7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072JMVDT7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

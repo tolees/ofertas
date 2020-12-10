@@ -22,6 +22,9 @@ Está [Funko-6223 Figura de Vinilo First Order Snowtrooper Color Negro  Blanco E
 
 [![Funko-6223 Figura de Vinilo First Order ](https://images-eu.ssl-images-amazon.com/images/I/41vdevr1iLL._SL200_.jpg)](https://www.amazon.es/dp/B013G0IR0A/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B013G0IR0A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Vivere UHSDO8-20 - Hamaca con soporte incluido  multicolor  250 cm  doble
 
 [![Vivere UHSDO8-20 - Hamaca con soporte in](https://images-eu.ssl-images-amazon.com/images/I/41i-vlg%2B0GL._SL200_.jpg)](https://www.amazon.es/dp/B00PITYCX4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00PITYCX4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

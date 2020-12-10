@@ -22,6 +22,9 @@ Está [SunTop Lampara de Camping Linterna Solar Lámpara estirable de luz LED ac
 
 [![SunTop Lampara de Camping Linterna Solar](https://images-eu.ssl-images-amazon.com/images/I/51EXb7mJsPL._SL200_.jpg)](https://www.amazon.es/dp/B07HRG1G5Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HRG1G5Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

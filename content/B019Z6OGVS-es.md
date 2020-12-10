@@ -22,6 +22,9 @@ Está [Trio Lighting Ging Reality R50741001-Sobremesa  1 x  IP20  230 V  Color M
 
 [![Trio Lighting Ging Reality R50741001-Sob](https://images-eu.ssl-images-amazon.com/images/I/317andju3bL._SL200_.jpg)](https://www.amazon.es/dp/B019Z6OGVS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B019Z6OGVS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [La Croquetera Pack- Utensilio Multiusos Color Turquesa - 4 m
 
 [![La Croquetera Pack- Utensilio Multiusos ](https://images-eu.ssl-images-amazon.com/images/I/51MO82Tss0L._SL200_.jpg)](https://www.amazon.es/dp/B079BZ4FYV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079BZ4FYV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

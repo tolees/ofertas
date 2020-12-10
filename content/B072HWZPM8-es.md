@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour Play Up Capri-Twist Leggings  Mujer  Negro  001
 
 [![Under Armour Play Up Capri-Twist Legging](https://images-eu.ssl-images-amazon.com/images/I/41Q%2BYE8b%2BlL._SL200_.jpg)](https://www.amazon.es/dp/B072HWZPM8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072HWZPM8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

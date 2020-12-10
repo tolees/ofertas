@@ -22,6 +22,9 @@ Tienes [BaronHong Sport Bra Chest Binder Transpirable Malla Corset para Tomboy T
 
 [![BaronHong Sport Bra Chest Binder Transpi](https://images-eu.ssl-images-amazon.com/images/I/415baX2xYaL._SL200_.jpg)](https://www.amazon.es/dp/B06Y6JFWYJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y6JFWYJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

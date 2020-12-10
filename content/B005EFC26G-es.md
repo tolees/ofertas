@@ -22,6 +22,9 @@ Está [Máquina de cupcakes Tristar SA-1122 - Cuatro cupcakes a la vez - Carcasa
 
 [![Máquina de cupcakes Tristar SA-1122 - Cu](https://images-eu.ssl-images-amazon.com/images/I/41kc3SivBJL._SL200_.jpg)](https://www.amazon.es/dp/B005EFC26G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B005EFC26G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

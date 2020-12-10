@@ -22,6 +22,9 @@ Está [Funda Impermeable Móvil  Zttopo 2 piezas Bolsa Impermeable Universal IPX
 
 [![Funda Impermeable Móvil  Zttopo 2 piezas](https://images-eu.ssl-images-amazon.com/images/I/51UI06P-njL._SL200_.jpg)](https://www.amazon.es/dp/B07PYNHZLV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PYNHZLV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

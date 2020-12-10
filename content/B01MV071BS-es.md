@@ -22,6 +22,9 @@ Tienes [Sparco 00975NRVD Silla de Despacho  Negro/Verde](https://www.amazon.es/d
 
 [![Sparco 00975NRVD Silla de Despacho  Negr](https://images-eu.ssl-images-amazon.com/images/I/41vFMKA33GL._SL200_.jpg)](https://www.amazon.es/dp/B01MV071BS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MV071BS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

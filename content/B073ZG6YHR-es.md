@@ -22,6 +22,9 @@ Está [Remington Keratin Protect AS8810 - Moldeador de pelo y Cepillo Térmico  
 
 [![Remington Keratin Protect AS8810 - Molde](https://images-eu.ssl-images-amazon.com/images/I/51YntRyCupL._SL200_.jpg)](https://www.amazon.es/dp/B073ZG6YHR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073ZG6YHR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

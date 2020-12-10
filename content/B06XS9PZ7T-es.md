@@ -22,6 +22,9 @@ Está [New Balance Fresh Foam Arishi  Zapatillas de Running para Hombre  Rojo  D
 
 [![New Balance Fresh Foam Arishi  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/51pVSHfihGL._SL200_.jpg)](https://www.amazon.es/dp/B06XS9PZ7T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XS9PZ7T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

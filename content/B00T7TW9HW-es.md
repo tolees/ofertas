@@ -22,6 +22,9 @@ Está [Suck UK Bolsa de lavandería Mono de Calcetines  Cotton  60.00x35.00x0.10
 
 [![Suck UK Bolsa de lavandería Mono de Calc](https://images-eu.ssl-images-amazon.com/images/I/41ldG5xKgWL._SL200_.jpg)](https://www.amazon.es/dp/B00T7TW9HW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00T7TW9HW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

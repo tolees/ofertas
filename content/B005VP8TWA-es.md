@@ -22,6 +22,9 @@ Está [DURABLE - 832712 - JOJO STYLE CON MOSQUETÓN. Cordón extensible con mosq
 
 [![DURABLE - 832712 - JOJO STYLE CON MOSQUE](https://images-eu.ssl-images-amazon.com/images/I/31Y1oIKJyYL._SL200_.jpg)](https://www.amazon.es/dp/B005VP8TWA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B005VP8TWA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

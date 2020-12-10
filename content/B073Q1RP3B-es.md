@@ -22,6 +22,9 @@ Ahora mismo tienes [Aicok Hervidor de Agua Eléctrico  Apagado Automatic y Teter
 
 [![Aicok Hervidor de Agua Eléctrico  Apagad](https://images-eu.ssl-images-amazon.com/images/I/41ilSK9VXaL._SL200_.jpg)](https://www.amazon.es/dp/B073Q1RP3B/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073Q1RP3B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

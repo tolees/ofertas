@@ -22,6 +22,9 @@ Ahora mismo tienes [Velbon Ultra Selfie](https://www.amazon.es/dp/B00U7Y2HW8/?ta
 
 [![Velbon Ultra Selfie](https://images-eu.ssl-images-amazon.com/images/I/21fEsqz0tpL._SL200_.jpg)](https://www.amazon.es/dp/B00U7Y2HW8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00U7Y2HW8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

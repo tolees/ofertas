@@ -22,6 +22,9 @@ Tienes [Laura Vita - 2592  Bolsos maletín Mujer  Verde  Vert D    11.0x20.0x29.
 
 [![Laura Vita - 2592  Bolsos maletín Mujer ](https://images-eu.ssl-images-amazon.com/images/I/51zkYDHv3xL._SL200_.jpg)](https://www.amazon.es/dp/B07GG38XNQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GG38XNQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

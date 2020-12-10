@@ -22,6 +22,9 @@ Ahora mismo tienes [Skyscraper: El Rascacielos - Edición Metálica Exclusiva Am
 
 [![Skyscraper: El Rascacielos - Edición Met](https://images-eu.ssl-images-amazon.com/images/I/51darH8ZdZL._SL200_.jpg)](https://www.amazon.es/dp/B07G87YJN7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G87YJN7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

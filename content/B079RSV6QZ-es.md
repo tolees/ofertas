@@ -22,6 +22,9 @@ Está [Pepe Jeans Jael  Suéter para Mujer  Azul  Dulwich 594   Small](https://w
 
 [![Pepe Jeans Jael  Suéter para Mujer  Azul](https://images-eu.ssl-images-amazon.com/images/I/41ATyYnV4DL._SL200_.jpg)](https://www.amazon.es/dp/B079RSV6QZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RSV6QZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

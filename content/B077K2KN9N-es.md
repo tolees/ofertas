@@ -22,6 +22,9 @@ Está [Teléfono inalámbrico Duo  Gigaset  Agenda hasta 50 contactos  identific
 
 [![Teléfono inalámbrico Duo  Gigaset  Agend](https://images-eu.ssl-images-amazon.com/images/I/4176s6xHY0L._SL200_.jpg)](https://www.amazon.es/dp/B077K2KN9N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077K2KN9N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

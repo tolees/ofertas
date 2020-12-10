@@ -22,6 +22,9 @@ Ahora mismo tienes [Baby Art My Baby Touch - Marco doble foto con huella  blanco
 
 [![Baby Art My Baby Touch - Marco doble fot](https://images-eu.ssl-images-amazon.com/images/I/31PQILSOZLL._SL200_.jpg)](https://www.amazon.es/dp/B00NP44X6K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00NP44X6K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

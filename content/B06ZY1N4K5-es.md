@@ -22,6 +22,9 @@ Está [Oxímetro de sangre  Oxímetro de pulso para dedo - PRCMISEMED Pro Series
 
 [![Oxímetro de sangre  Oxímetro de pulso pa](https://images-eu.ssl-images-amazon.com/images/I/411dGWZGt5L._SL200_.jpg)](https://www.amazon.es/dp/B06ZY1N4K5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06ZY1N4K5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

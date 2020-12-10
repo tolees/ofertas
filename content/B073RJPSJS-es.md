@@ -22,6 +22,9 @@ Está [Reebok Royal EC Ride  Zapatillas para Hombre  Blanco  White/Skull Grey   
 
 [![Reebok Royal EC Ride  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/41k3XxZP8nL._SL200_.jpg)](https://www.amazon.es/dp/B073RJPSJS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RJPSJS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

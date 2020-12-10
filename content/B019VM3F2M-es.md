@@ -22,6 +22,9 @@ Tienes [Fitbit Blaze Reloj Inteligente para Actividad Física  Unisex Adulto  Ne
 
 [![Fitbit Blaze Reloj Inteligente para Acti](https://images-eu.ssl-images-amazon.com/images/I/41bhw%2BHx%2BCL._SL200_.jpg)](https://www.amazon.es/dp/B019VM3F2M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B019VM3F2M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

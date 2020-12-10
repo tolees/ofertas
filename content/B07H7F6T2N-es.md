@@ -22,6 +22,9 @@ Está [Adidas X 18.4 in J  Botas de fútbol Unisex niño  000  28 EU](https://ww
 
 [![Adidas X 18.4 in J  Botas de fútbol Unis](https://images-eu.ssl-images-amazon.com/images/I/31EVG1%2B1DzL._SL200_.jpg)](https://www.amazon.es/dp/B07H7F6T2N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H7F6T2N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Cookmii Batidora Amasadora Repostería  Amasadoras de pan Pr
 
 [![Cookmii Batidora Amasadora Repostería  A](https://images-eu.ssl-images-amazon.com/images/I/513So%2Bu7tnL._SL200_.jpg)](https://www.amazon.es/dp/B06ZYQKF8Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06ZYQKF8Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

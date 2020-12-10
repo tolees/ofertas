@@ -22,6 +22,9 @@ Está [Keter -  Mini huerto en casa G-Row con base  Color marrón](https://www.a
 
 [![Keter -  Mini huerto en casa G-Row con b](https://images-eu.ssl-images-amazon.com/images/I/31oblD%2BT7-L._SL200_.jpg)](https://www.amazon.es/dp/B00W1DJE06/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00W1DJE06/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

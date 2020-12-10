@@ -22,6 +22,9 @@ Está [Falke Catspads  Calcetines para Niños  Grün  Grass Green 7290    Talla 
 
 [![Falke Catspads  Calcetines para Niños  G](https://images-eu.ssl-images-amazon.com/images/I/41J6DZwaHcL._SL200_.jpg)](https://www.amazon.es/dp/B072BCG6T1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072BCG6T1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

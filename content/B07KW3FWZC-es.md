@@ -22,6 +22,9 @@ Está [Hoidokly USB C a HDMI Adaptador  4K@60Hz   HDMI a USB 3.1 Tipo C Thunderb
 
 [![Hoidokly USB C a HDMI Adaptador  4K@60Hz](https://images-eu.ssl-images-amazon.com/images/I/41-oPAwXJpL._SL200_.jpg)](https://www.amazon.es/dp/B07KW3FWZC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KW3FWZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Ayzaw Carrier Hand Gorilla Gripper - Furniture Lifter Movers Plate carri
 
 [![Ayzaw Carrier Hand Gorilla Gripper - Fur](https://images-eu.ssl-images-amazon.com/images/I/419vyaQOMmL._SL200_.jpg)](https://www.amazon.es/dp/B07SFVZQ2M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SFVZQ2M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

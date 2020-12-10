@@ -22,6 +22,9 @@ Tienes [Taurus Laurent-Microondas  900 W  25 litros Capacidad  14 Niveles de Pot
 
 [![Taurus Laurent-Microondas  900 W  25 lit](https://images-eu.ssl-images-amazon.com/images/I/410AuZi3dML._SL200_.jpg)](https://www.amazon.es/dp/B01MD2NADA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MD2NADA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

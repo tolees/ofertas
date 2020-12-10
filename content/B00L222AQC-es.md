@@ -22,6 +22,9 @@ Tienes [Samsung EF-BT800BWEGWW - Funda Galaxy Tab S 10.5"](https://www.amazon.es
 
 [![Samsung EF-BT800BWEGWW - Funda Galaxy Ta](https://images-eu.ssl-images-amazon.com/images/I/41sTjHnauML._SL200_.jpg)](https://www.amazon.es/dp/B00L222AQC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00L222AQC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

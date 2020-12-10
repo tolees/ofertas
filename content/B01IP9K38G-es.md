@@ -22,6 +22,9 @@ Tienes [Aigostar USMixer 30HLY - Batidora de doble varilla  potencia 200 W. Espe
 
 [![Aigostar USMixer 30HLY - Batidora de dob](https://images-eu.ssl-images-amazon.com/images/I/418EyrhncfL._SL200_.jpg)](https://www.amazon.es/dp/B01IP9K38G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IP9K38G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

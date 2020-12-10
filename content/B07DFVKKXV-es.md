@@ -22,6 +22,9 @@ Está [Puma Classics T7 Track Jacket  Hombre  Black  XXL](https://www.amazon.es/
 
 [![Puma Classics T7 Track Jacket  Hombre  B](https://images-eu.ssl-images-amazon.com/images/I/41cxOXyoK2L._SL200_.jpg)](https://www.amazon.es/dp/B07DFVKKXV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFVKKXV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

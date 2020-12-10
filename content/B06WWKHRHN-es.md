@@ -22,6 +22,9 @@ Tienes [Columbia Caldorado II  Zapatillas de Trail Running para Mujer  Azul  Aqu
 
 [![Columbia Caldorado II  Zapatillas de Tra](https://images-eu.ssl-images-amazon.com/images/I/41roC4agOVL._SL200_.jpg)](https://www.amazon.es/dp/B06WWKHRHN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06WWKHRHN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

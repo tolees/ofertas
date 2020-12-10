@@ -22,6 +22,9 @@ Ahora mismo tienes [edc by Esprit 107cc1i047 suéter  Gris  Light Grey 040   Med
 
 [![edc by Esprit 107cc1i047 suéter  Gris  L](https://images-eu.ssl-images-amazon.com/images/I/41e1c8LoedL._SL200_.jpg)](https://www.amazon.es/dp/B074NB3CMB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074NB3CMB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Kit Blanqueador Dental - MY LITTLE BEAUTY - Blanqueador de Dientes con C
 
 [![Kit Blanqueador Dental - MY LITTLE BEAUT](https://images-eu.ssl-images-amazon.com/images/I/516f7XMGi6L._SL200_.jpg)](https://www.amazon.es/dp/B077CT31KY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077CT31KY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Adidas Vs Advantage  Zapatillas de Deporte para Hombre  Negro  Core Black
 
 [![Adidas Vs Advantage  Zapatillas de Depor](https://images-eu.ssl-images-amazon.com/images/I/418CUaEX1kL._SL200_.jpg)](https://www.amazon.es/dp/B01AK6QTVC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AK6QTVC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

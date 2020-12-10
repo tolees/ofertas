@@ -22,6 +22,9 @@ Tienes [Astor Perfect Stay Fabulous Matte Barra de Labios Tono 500 Daning Berry 
 
 [![Astor Perfect Stay Fabulous Matte Barra ](https://images-eu.ssl-images-amazon.com/images/I/41XtBt9uKLL._SL200_.jpg)](https://www.amazon.es/dp/B01MQDK2KF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MQDK2KF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

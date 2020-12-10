@@ -22,6 +22,9 @@ Está [Napapijri K Beitem H Capucha  Azul  Dark Denim Bd1   128  Talla del Fabri
 
 [![Napapijri K Beitem H Capucha  Azul  Dark](https://images-eu.ssl-images-amazon.com/images/I/415NqP0ne5L._SL200_.jpg)](https://www.amazon.es/dp/B07L9QV84S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L9QV84S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

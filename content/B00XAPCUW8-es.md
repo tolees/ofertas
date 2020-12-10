@@ -22,6 +22,9 @@ Ahora mismo tienes [Haribo Gummy Beans Caramelos Grageados - 1000 gr](https://ww
 
 [![Haribo Gummy Beans Caramelos Grageados -](http://images.amazon.com/images/P/B00XAPCUW8.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B00XAPCUW8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00XAPCUW8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

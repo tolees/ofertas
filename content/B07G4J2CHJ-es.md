@@ -22,6 +22,9 @@ Está [BOSS Pike  Pantalones Cortos Hombre  Negro  Black 007   Small](https://ww
 
 [![BOSS Pike  Pantalones Cortos Hombre  Neg](https://images-eu.ssl-images-amazon.com/images/I/41lyHRC9x-L._SL200_.jpg)](https://www.amazon.es/dp/B07G4J2CHJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G4J2CHJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

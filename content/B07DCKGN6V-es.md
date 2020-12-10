@@ -22,6 +22,9 @@ Está [Puma Breaker LTH  Zapatillas Unisex Adulto  Blanco White  44.5 EU](https:
 
 [![Puma Breaker LTH  Zapatillas Unisex Adul](https://images-eu.ssl-images-amazon.com/images/I/31vDlPqkWmL._SL200_.jpg)](https://www.amazon.es/dp/B07DCKGN6V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DCKGN6V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

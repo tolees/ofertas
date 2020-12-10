@@ -22,6 +22,9 @@ Está [Philips Flashlights SFL3175/10 - Linterna  Linterna de mano  Antracita  G
 
 [![Philips Flashlights SFL3175/10 - Lintern](https://images-eu.ssl-images-amazon.com/images/I/31U2A%2Bj8w2L._SL200_.jpg)](https://www.amazon.es/dp/B00MJ4SFAM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00MJ4SFAM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

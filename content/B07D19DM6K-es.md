@@ -22,6 +22,9 @@ Ahora mismo tienes [SELECTED HOMME Slhslim-buffaloiver Navy Chk TRS B Noos  Pant
 
 [![SELECTED HOMME Slhslim-buffaloiver Navy ](https://images-eu.ssl-images-amazon.com/images/I/41A3cMP-sxL._SL200_.jpg)](https://www.amazon.es/dp/B07D19DM6K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D19DM6K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

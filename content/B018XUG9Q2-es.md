@@ -22,6 +22,9 @@ Ahora mismo tienes [Element Daily  15 cm  Bear Marrón](https://www.amazon.es/dp
 
 [![Element Daily  15 cm  Bear Marrón](https://images-eu.ssl-images-amazon.com/images/I/51eqzQqNlKL._SL200_.jpg)](https://www.amazon.es/dp/B018XUG9Q2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B018XUG9Q2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

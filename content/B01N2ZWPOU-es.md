@@ -22,6 +22,9 @@ Tienes [Kärcher Lanza Vario Power Jet Full Control para K2 - K3  2.642-724.0 ](
 
 [![Kärcher Lanza Vario Power Jet Full Contr](https://images-eu.ssl-images-amazon.com/images/I/31qw7-i8kBL._SL200_.jpg)](https://www.amazon.es/dp/B01N2ZWPOU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N2ZWPOU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

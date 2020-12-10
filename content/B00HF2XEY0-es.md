@@ -22,6 +22,9 @@ Ahora mismo tienes [Kärcher Prolongación de manguera de aspiración de 35m  2.
 
 [![Kärcher Prolongación de manguera de aspi](https://images-eu.ssl-images-amazon.com/images/I/41Qw7Ss55fL._SL200_.jpg)](https://www.amazon.es/dp/B00HF2XEY0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00HF2XEY0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

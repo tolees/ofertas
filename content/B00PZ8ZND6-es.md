@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike Wmns Md Runner 2  Zapatillas Mujer  Negro  Black / Blac
 
 [![Nike Wmns Md Runner 2  Zapatillas Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41%2BWXGzLmTL._SL200_.jpg)](https://www.amazon.es/dp/B00PZ8ZND6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00PZ8ZND6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

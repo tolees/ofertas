@@ -22,6 +22,9 @@ Está [Reebok Royal EC Ride  Zapatillas para Hombre  Negro  Black/White/Flint Gr
 
 [![Reebok Royal EC Ride  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/41a9%2B2bQ6ML._SL200_.jpg)](https://www.amazon.es/dp/B073RJPSJM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RJPSJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Glamorous Ladies Jumpsuit  Mono para Mujer   Grey Yellow Floral BV30   36
 
 [![Glamorous Ladies Jumpsuit  Mono para Muj](https://images-eu.ssl-images-amazon.com/images/I/41vn3l54yRL._SL200_.jpg)](https://www.amazon.es/dp/B07G8DFC64/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G8DFC64/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Solac CP7382 Men Details Styler - Naricero  compacto y practico](https://
 
 [![Solac CP7382 Men Details Styler - Narice](https://images-eu.ssl-images-amazon.com/images/I/413B5R1cwvL._SL200_.jpg)](https://www.amazon.es/dp/B01CD79K5S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01CD79K5S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

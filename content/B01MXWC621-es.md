@@ -22,6 +22,9 @@ Está [Tumi Alpha 2 Trolley para portátil  66 cm  76 liters  Negro  Black ](htt
 
 [![Tumi Alpha 2 Trolley para portátil  66 c](https://images-eu.ssl-images-amazon.com/images/I/313G0c6t5IL._SL200_.jpg)](https://www.amazon.es/dp/B01MXWC621/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MXWC621/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BaByliss E824E - Kit cortapelos con 8 funciones  cuchillas de acero inoxi
 
 [![BaByliss E824E - Kit cortapelos con 8 fu](https://images-eu.ssl-images-amazon.com/images/I/41d0Y5dmUjL._SL200_.jpg)](https://www.amazon.es/dp/B009H4GJOG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B009H4GJOG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

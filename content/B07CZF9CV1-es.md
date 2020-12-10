@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Smash V2 Mid Sd  Zapatillas altas Unisex adulto  Negro 
 
 [![Puma Smash V2 Mid Sd  Zapatillas altas U](https://images-eu.ssl-images-amazon.com/images/I/31pzXwpwNNL._SL200_.jpg)](https://www.amazon.es/dp/B07CZF9CV1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZF9CV1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

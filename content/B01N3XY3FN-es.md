@@ -22,6 +22,9 @@ Está [Bugatti J94016n6  Zapatillas para Mujer  Rosa  Rosé 350   40 EU](https:/
 
 [![Bugatti J94016n6  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41aKu26sf2L._SL200_.jpg)](https://www.amazon.es/dp/B01N3XY3FN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N3XY3FN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

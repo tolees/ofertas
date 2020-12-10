@@ -22,6 +22,9 @@ Ahora mismo tienes [Helly Hansen Ahiga V3 Hydropower  Náuticos para Hombre  Azu
 
 [![Helly Hansen Ahiga V3 Hydropower  Náutic](https://images-eu.ssl-images-amazon.com/images/I/41g720-pd3L._SL200_.jpg)](https://www.amazon.es/dp/B01J83N5UQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01J83N5UQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

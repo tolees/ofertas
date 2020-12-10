@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Royal Complete 2Ll  Zapatillas de Tenis para Hombre  
 
 [![Reebok Royal Complete 2Ll  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/414G-B0KbQL._SL200_.jpg)](https://www.amazon.es/dp/B01HXU26X8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01HXU26X8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

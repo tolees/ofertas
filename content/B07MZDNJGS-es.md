@@ -22,6 +22,9 @@ Está [Superdry Core Cargo Lite Short Pantalones Cortos  Verde  Olive AOP Q2v   
 
 [![Superdry Core Cargo Lite Short Pantalone](https://images-eu.ssl-images-amazon.com/images/I/51v1Z835DML._SL200_.jpg)](https://www.amazon.es/dp/B07MZDNJGS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MZDNJGS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

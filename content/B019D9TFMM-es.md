@@ -22,6 +22,9 @@ Está [Vans Brigata  Zapatillas Unisex Adulto  Rojo  Suede   40.5 EU](https://ww
 
 [![Vans Brigata  Zapatillas Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/41Xs7CNNGBL._SL200_.jpg)](https://www.amazon.es/dp/B019D9TFMM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B019D9TFMM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

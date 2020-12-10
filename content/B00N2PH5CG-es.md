@@ -22,6 +22,9 @@ Está [Approx appUSB71 - Tarjeta de sonido  7.1  USB  Windows 2000  Windows 7 Ho
 
 [![Approx appUSB71 - Tarjeta de sonido  7.1](https://images-eu.ssl-images-amazon.com/images/I/41mI7sFFiGL._SL200_.jpg)](https://www.amazon.es/dp/B00N2PH5CG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00N2PH5CG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

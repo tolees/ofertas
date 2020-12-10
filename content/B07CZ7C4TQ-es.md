@@ -22,6 +22,9 @@ Tienes [Salomon XA Lite GTX  Calzado de Trail Running  Impermeable para Mujer  M
 
 [![Salomon XA Lite GTX  Calzado de Trail Ru](https://images-eu.ssl-images-amazon.com/images/I/51TZXDl0O6L._SL200_.jpg)](https://www.amazon.es/dp/B07CZ7C4TQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZ7C4TQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

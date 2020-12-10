@@ -22,6 +22,9 @@ Tienes [adidas Arianna Cloudfoam  Zapatillas de Deporte para Mujer  Rosa- ROSTAC
 
 [![adidas Arianna Cloudfoam  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41RDWSmy%2BKL._SL200_.jpg)](https://www.amazon.es/dp/B071JF3T7W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071JF3T7W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Kipling - Arto  Bolsos bandolera Mujer  Dorado  Metallic Blush   4x29x26
 
 [![Kipling - Arto  Bolsos bandolera Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41ujCD6wkqL._SL200_.jpg)](https://www.amazon.es/dp/B07FKM42D8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FKM42D8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

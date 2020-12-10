@@ -22,6 +22,9 @@ Está [Educa Borrás- Dibujos Animados y cómic  Color educa te Ofrece la colecc
 
 [![Educa Borrás- Dibujos Animados y cómic  ](https://images-eu.ssl-images-amazon.com/images/I/61srVQSkqkL._SL200_.jpg)](https://www.amazon.es/dp/B00B7MNZQG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00B7MNZQG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Love Moschino - Quilted Nappa Pu  Mujer  Rojo  Rosso   15x10x15 cm  W x H
 
 [![Love Moschino - Quilted Nappa Pu  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/51s0U%2BFeX8L._SL200_.jpg)](https://www.amazon.es/dp/B07KCSRPQ3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCSRPQ3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

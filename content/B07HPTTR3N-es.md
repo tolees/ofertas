@@ -22,6 +22,9 @@ Está [Cressi Silicone Kids Cap Shark Gorro de Baño  Unisex niños  Rosa  Uni](
 
 [![Cressi Silicone Kids Cap Shark Gorro de ](https://images-eu.ssl-images-amazon.com/images/I/41czC80yuGL._SL200_.jpg)](https://www.amazon.es/dp/B07HPTTR3N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HPTTR3N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

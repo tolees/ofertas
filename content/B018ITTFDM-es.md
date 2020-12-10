@@ -22,6 +22,9 @@ Tienes [X-bet MAGNET ™ - Imanes industriales de cerámica - Disco redondo de 1
 
 [![X-bet MAGNET ™ - Imanes industriales de ](https://images-eu.ssl-images-amazon.com/images/I/512J0mN7qRL._SL200_.jpg)](https://www.amazon.es/dp/B018ITTFDM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B018ITTFDM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

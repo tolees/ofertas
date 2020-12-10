@@ -22,6 +22,9 @@ Está [Nike Air MAX Prime  Zapatillas para Hombre  Negro Black/White  44 EU](htt
 
 [![Nike Air MAX Prime  Zapatillas para Homb](https://images-eu.ssl-images-amazon.com/images/I/41F0-8N827L._SL200_.jpg)](https://www.amazon.es/dp/B00S1IEXJM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00S1IEXJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

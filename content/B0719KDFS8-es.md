@@ -22,6 +22,9 @@ Está [HARRY POTTER Figura de Vinilo Peter Pettigrew  Standard Funko 14946](http
 
 [![HARRY POTTER Figura de Vinilo Peter Pett](https://images-eu.ssl-images-amazon.com/images/I/51jfC8KDr4L._SL200_.jpg)](https://www.amazon.es/dp/B0719KDFS8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0719KDFS8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Superga Lamew  Zapatillas de Tela Mujer  Negro  Full Black   38 EU](https
 
 [![Superga Lamew  Zapatillas de Tela Mujer ](https://images-eu.ssl-images-amazon.com/images/I/51HVT9ja%2BSL._SL200_.jpg)](https://www.amazon.es/dp/B006DWLSV4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B006DWLSV4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

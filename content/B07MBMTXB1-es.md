@@ -22,6 +22,9 @@ Ahora mismo tienes [Smartphone Libres V mobile S9 5.85 Pulgada Batería 3800mAh 
 
 [![Smartphone Libres V mobile S9 5.85 Pulga](https://images-eu.ssl-images-amazon.com/images/I/51Wk4OXigaL._SL200_.jpg)](https://www.amazon.es/dp/B07MBMTXB1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MBMTXB1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

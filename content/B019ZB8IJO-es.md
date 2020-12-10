@@ -22,6 +22,9 @@ Tienes [Saturnia 8096555 8096555-Plato macetas  30 x 2 6 cm  Marrón 30x30x4 cm]
 
 [![Saturnia 8096555 8096555-Plato macetas  ](https://images-eu.ssl-images-amazon.com/images/I/41DnLCc2KtL._SL200_.jpg)](https://www.amazon.es/dp/B019ZB8IJO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B019ZB8IJO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

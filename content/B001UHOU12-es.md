@@ -22,6 +22,9 @@ Está [AEG VL 5529 Ventilador portátil de Mesa y Pared  30 cm  30 W  3 Velocida
 
 [![AEG VL 5529 Ventilador portátil de Mesa ](https://images-eu.ssl-images-amazon.com/images/I/51-vtPuLijL._SL200_.jpg)](https://www.amazon.es/dp/B001UHOU12/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001UHOU12/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

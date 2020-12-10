@@ -22,6 +22,9 @@ Está [Cepillo de dientes eléctrico sónico Gloridea - 5 Modos y 3 Cabezal de R
 
 [![Cepillo de dientes eléctrico sónico Glor](https://images-eu.ssl-images-amazon.com/images/I/41o1rrsH9SL._SL200_.jpg)](https://www.amazon.es/dp/B07F27WSLV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F27WSLV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

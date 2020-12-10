@@ -22,6 +22,9 @@ Está [Vans Ultrarange  Zapatillas Unisex Adulto   Breeze   35 EU](https://www.a
 
 [![Vans Ultrarange  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41TgV6FFneL._SL200_.jpg)](https://www.amazon.es/dp/B078W3YT1S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078W3YT1S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

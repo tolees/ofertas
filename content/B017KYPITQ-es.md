@@ -22,6 +22,9 @@ Ahora mismo tienes [Egamaster - Llave fija/o golpe 1.3/16" cromo aeroespacial](h
 
 [![Egamaster - Llave fija/o golpe 1.3/16" c](https://images-eu.ssl-images-amazon.com/images/I/21oES8aA20L._SL200_.jpg)](https://www.amazon.es/dp/B017KYPITQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B017KYPITQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

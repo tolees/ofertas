@@ -22,6 +22,9 @@ Está [MSI Infinite 8RB-093XEU - Ordenador de sobremesa  Intel Core i5-8400  RAM
 
 [![MSI Infinite 8RB-093XEU - Ordenador de s](https://images-eu.ssl-images-amazon.com/images/I/415omz6jZZL._SL200_.jpg)](https://www.amazon.es/dp/B07CQPWYNN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CQPWYNN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

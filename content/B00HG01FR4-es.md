@@ -22,6 +22,9 @@ Ahora mismo tienes [Grenade Reload Protein Flapjacks Chocolate Browning - 12 Bar
 
 [![Grenade Reload Protein Flapjacks Chocola](https://images-eu.ssl-images-amazon.com/images/I/41yT4JXeV3L._SL200_.jpg)](https://www.amazon.es/dp/B00HG01FR4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00HG01FR4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

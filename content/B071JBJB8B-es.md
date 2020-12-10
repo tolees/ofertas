@@ -22,6 +22,9 @@ Está [Estera de Masaje - Esterilla de Acupresión Flor de Loto - 6210 Puntos de
 
 [![Estera de Masaje - Esterilla de Acupresi](https://images-eu.ssl-images-amazon.com/images/I/51SUeWIxhfL._SL200_.jpg)](https://www.amazon.es/dp/B071JBJB8B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071JBJB8B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

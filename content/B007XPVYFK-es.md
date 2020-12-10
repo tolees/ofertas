@@ -22,6 +22,9 @@ Está [Speedo Solid Leisure - Bañador de natación para hombre  color azul mari
 
 [![Speedo Solid Leisure - Bañador de nataci](https://images-eu.ssl-images-amazon.com/images/I/31My8A0djmL._SL200_.jpg)](https://www.amazon.es/dp/B007XPVYFK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007XPVYFK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

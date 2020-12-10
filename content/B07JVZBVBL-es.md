@@ -22,6 +22,9 @@ Está [Skechers Flex Appeal 3.0  Zapatillas sin Cordones para Mujer  Azul  Navy 
 
 [![Skechers Flex Appeal 3.0  Zapatillas sin](https://images-eu.ssl-images-amazon.com/images/I/410PM9dB3IL._SL200_.jpg)](https://www.amazon.es/dp/B07JVZBVBL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JVZBVBL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

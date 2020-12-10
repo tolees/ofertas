@@ -22,6 +22,9 @@ Tienes [Metaltex SKY -Estante organizador apilable  47x23x26 cm  gris](https://w
 
 [![Metaltex SKY -Estante organizador apilab](https://images-eu.ssl-images-amazon.com/images/I/51sh-hsc3eL._SL200_.jpg)](https://www.amazon.es/dp/B00I2K76DE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I2K76DE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

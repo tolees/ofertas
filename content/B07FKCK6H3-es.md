@@ -22,6 +22,9 @@ Está [Linterna LED  Vander Life Linterna LED  Vansky Pocket Linterna 2000 lúme
 
 [![Linterna LED  Vander Life Linterna LED  ](https://images-eu.ssl-images-amazon.com/images/I/418lN4i3F6L._SL200_.jpg)](https://www.amazon.es/dp/B07FKCK6H3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FKCK6H3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

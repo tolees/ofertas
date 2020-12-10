@@ -22,6 +22,9 @@ Tienes [Puma Active Interlock Chándal  Hombre  Peacoat  XXL](https://www.amazon
 
 [![Puma Active Interlock Chándal  Hombre  P](https://images-eu.ssl-images-amazon.com/images/I/31YykRE7dSL._SL200_.jpg)](https://www.amazon.es/dp/B07D5TNYRF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D5TNYRF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

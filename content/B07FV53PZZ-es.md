@@ -22,6 +22,9 @@ Tienes [Monix Resistent Plus Batería De Cocina De 5 Piezas Y Lote De 2 Sartenes
 
 [![Monix Resistent Plus Batería De Cocina D](https://images-eu.ssl-images-amazon.com/images/I/51o5JCQJEKL._SL200_.jpg)](https://www.amazon.es/dp/B07FV53PZZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FV53PZZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

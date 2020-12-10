@@ -22,6 +22,9 @@ Tienes [Sony MDR-ZX310B - Auriculares de diadema cerrados  sin micrófono   negr
 
 [![Sony MDR-ZX310B - Auriculares de diadema](https://images-eu.ssl-images-amazon.com/images/I/41KaoBN9kzL._SL200_.jpg)](https://www.amazon.es/dp/B00I3LUWQA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I3LUWQA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

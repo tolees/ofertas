@@ -22,6 +22,9 @@ Está [URCERI Lijadora Eléctrica Orbital de 5 pulgadas  380w  6 velocidad varia
 
 [![URCERI Lijadora Eléctrica Orbital de 5 p](https://images-eu.ssl-images-amazon.com/images/I/51Jz1icNNFL._SL200_.jpg)](https://www.amazon.es/dp/B07H5J9L1Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H5J9L1Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

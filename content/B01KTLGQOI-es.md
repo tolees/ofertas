@@ -22,6 +22,9 @@ Está [Pato - Wc Frescor  Producto para inodoro 750 ml - Pack de 3  Total 2250 m
 
 [![Pato - Wc Frescor  Producto para inodoro](https://images-eu.ssl-images-amazon.com/images/I/512oVZp8SjL._SL200_.jpg)](https://www.amazon.es/dp/B01KTLGQOI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01KTLGQOI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

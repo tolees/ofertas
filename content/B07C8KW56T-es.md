@@ -22,6 +22,9 @@ Ahora mismo tienes [deAO Mesa para Agua y Arena con Compartimento Doble y Tapas 
 
 [![deAO Mesa para Agua y Arena con Comparti](https://images-eu.ssl-images-amazon.com/images/I/515wB11GX2L._SL200_.jpg)](https://www.amazon.es/dp/B07C8KW56T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C8KW56T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

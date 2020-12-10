@@ -22,6 +22,9 @@ Está [Asics Onitsuka Tiger California 78 Ex  Zapatillas Unisex Adulto  Morado  
 
 [![Asics Onitsuka Tiger California 78 Ex  Z](https://images-eu.ssl-images-amazon.com/images/I/41XMJcCBbNL._SL200_.jpg)](https://www.amazon.es/dp/B078HS6Q7C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078HS6Q7C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Clarks Tri Caitlin  Zapatillas para Mujer  Beige  Sand Combi   42 EU](ht
 
 [![Clarks Tri Caitlin  Zapatillas para Muje](https://images-eu.ssl-images-amazon.com/images/I/41Z8uyF2a2L._SL200_.jpg)](https://www.amazon.es/dp/B0759RPHCH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0759RPHCH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

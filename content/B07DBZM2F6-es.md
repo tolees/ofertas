@@ -22,6 +22,9 @@ Tienes [Puma Mode XT Wns  Zapatillas de Deporte para Mujer  Blanco White Black  
 
 [![Puma Mode XT Wns  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/31hbn7iumlL._SL200_.jpg)](https://www.amazon.es/dp/B07DBZM2F6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DBZM2F6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

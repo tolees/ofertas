@@ -22,6 +22,9 @@ Tienes [NAME IT Nbmsofus Dnmclas 5083 Pant  Jeans para Bebés  Gris Medium Grey 
 
 [![NAME IT Nbmsofus Dnmclas 5083 Pant  Jean](https://images-eu.ssl-images-amazon.com/images/I/41hb7TzUbVL._SL200_.jpg)](https://www.amazon.es/dp/B07CV8LQ81/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CV8LQ81/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

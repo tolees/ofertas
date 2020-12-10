@@ -22,6 +22,9 @@ Ahora mismo tienes [Converse Chuck Taylor All Star Becca  Zapatillas para Mujer 
 
 [![Converse Chuck Taylor All Star Becca  Za](https://images-eu.ssl-images-amazon.com/images/I/418FBKDRmLL._SL200_.jpg)](https://www.amazon.es/dp/B07DDYF4S9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DDYF4S9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

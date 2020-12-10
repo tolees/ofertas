@@ -22,6 +22,9 @@ Está [Springfield 3.T.Ap.Sculpt High Rise Pantalones   Gama Azules 13    Tamañ
 
 [![Springfield 3.T.Ap.Sculpt High Rise Pant](https://images-eu.ssl-images-amazon.com/images/I/31D%2B-UptXmL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ3YDBB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ3YDBB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

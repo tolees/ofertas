@@ -22,6 +22,9 @@ Ahora mismo tienes [LOBKIN Portátil de Bolsillo Portátil Mini Ventilador Venti
 
 [![LOBKIN Portátil de Bolsillo Portátil Min](https://images-eu.ssl-images-amazon.com/images/I/31oVCYTFIML._SL200_.jpg)](https://www.amazon.es/dp/B07CGY7J9Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CGY7J9Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

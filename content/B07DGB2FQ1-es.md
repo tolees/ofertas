@@ -22,6 +22,9 @@ Está [Love Moschino Jumpers  suéter Mujer  Gris  Mel.Medium Gray B544   40  Ta
 
 [![Love Moschino Jumpers  suéter Mujer  Gri](https://images-eu.ssl-images-amazon.com/images/I/41oTYrtSCiL._SL200_.jpg)](https://www.amazon.es/dp/B07DGB2FQ1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DGB2FQ1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

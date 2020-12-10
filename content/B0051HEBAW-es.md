@@ -22,6 +22,9 @@ Tienes [DeWalt DCL040-XJ Linterna Cabeza rotativa XR 18V sin Cargador/batería  
 
 [![DeWalt DCL040-XJ Linterna Cabeza rotativ](https://images-eu.ssl-images-amazon.com/images/I/41yRQ93SVuL._SL200_.jpg)](https://www.amazon.es/dp/B0051HEBAW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0051HEBAW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

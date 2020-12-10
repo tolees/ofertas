@@ -22,6 +22,9 @@ Tienes [Astan Hogar Parrilla Eléctrica Multigrill Hottix AH-KC8030 ](https://ww
 
 [![Astan Hogar Parrilla Eléctrica Multigril](https://images-eu.ssl-images-amazon.com/images/I/31hV76KVavL._SL200_.jpg)](https://www.amazon.es/dp/B015QCD78I/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015QCD78I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

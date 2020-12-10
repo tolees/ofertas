@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Fresh Foam Cruz  Zapatillas Deportivas para Homb
 
 [![New Balance Fresh Foam Cruz  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41E5pa6Ks-L._SL200_.jpg)](https://www.amazon.es/dp/B01MT2S7X4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MT2S7X4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

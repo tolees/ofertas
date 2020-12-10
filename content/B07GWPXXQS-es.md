@@ -22,6 +22,9 @@ Está [Fullmosa Breeze Correa Cuero  8 Colores Correa Compatible con Inteligent 
 
 [![Fullmosa Breeze Correa Cuero  8 Colores ](https://images-eu.ssl-images-amazon.com/images/I/41gT72dUFQL._SL200_.jpg)](https://www.amazon.es/dp/B07GWPXXQS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GWPXXQS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

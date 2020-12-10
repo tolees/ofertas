@@ -22,6 +22,9 @@ Está [Under Armour UA Vanish Legging Graphic Leggings  Mujer  Gris  Jet Gray/Pu
 
 [![Under Armour UA Vanish Legging Graphic L](https://images-eu.ssl-images-amazon.com/images/I/41akYt5RuHL._SL200_.jpg)](https://www.amazon.es/dp/B07CZBCYWX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZBCYWX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

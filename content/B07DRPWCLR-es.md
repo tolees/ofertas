@@ -22,6 +22,9 @@ Está [Skechers Go Run 600-Farrox  Zapatillas para Niños  Azul  Blue Black Lime
 
 [![Skechers Go Run 600-Farrox  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/41KxXvdvjpL._SL200_.jpg)](https://www.amazon.es/dp/B07DRPWCLR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DRPWCLR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

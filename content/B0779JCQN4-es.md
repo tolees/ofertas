@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Keys  Pantalones Herren  Grün  Khaki Green   31W/32L](https:
 
 [![Pepe Jeans Keys  Pantalones Herren  Grün](https://images-eu.ssl-images-amazon.com/images/I/41FF1HuxbaL._SL200_.jpg)](https://www.amazon.es/dp/B0779JCQN4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0779JCQN4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

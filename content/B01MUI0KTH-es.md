@@ -22,6 +22,9 @@ Está [Skechers OG 95-Morrowson  Zapatillas de Entrenamiento para Hombre  Negro 
 
 [![Skechers OG 95-Morrowson  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41ZGqjxve9L._SL200_.jpg)](https://www.amazon.es/dp/B01MUI0KTH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MUI0KTH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

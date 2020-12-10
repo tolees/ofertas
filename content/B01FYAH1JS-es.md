@@ -22,6 +22,9 @@ Ahora mismo tienes [Merrell Helixer Scape  Zapatillas Deportivas para Interior p
 
 [![Merrell Helixer Scape  Zapatillas Deport](https://images-eu.ssl-images-amazon.com/images/I/41l5umR8LBL._SL200_.jpg)](https://www.amazon.es/dp/B01FYAH1JS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01FYAH1JS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

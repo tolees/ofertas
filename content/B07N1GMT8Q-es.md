@@ -22,6 +22,9 @@ Está [MOSUO 2 Pack Soporte Movil Coche Magnético  Universal Iman para movil Co
 
 [![MOSUO 2 Pack Soporte Movil Coche Magnéti](https://images-eu.ssl-images-amazon.com/images/I/31T2ZbOQJdL._SL200_.jpg)](https://www.amazon.es/dp/B07N1GMT8Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N1GMT8Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

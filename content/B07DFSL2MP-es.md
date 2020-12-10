@@ -22,6 +22,9 @@ Tienes [adidas Real  Polo para Hombre  Hombre  CW8669  Core White/Tech Onix  Sma
 
 [![adidas Real  Polo para Hombre  Hombre  C](https://images-eu.ssl-images-amazon.com/images/I/31L6VzyD0AL._SL200_.jpg)](https://www.amazon.es/dp/B07DFSL2MP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DFSL2MP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

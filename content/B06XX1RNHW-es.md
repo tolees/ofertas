@@ -22,6 +22,9 @@ Está [Dr Who - Doormat Tardis](https://www.amazon.es/dp/B06XX1RNHW/?tag=tolees-
 
 [![Dr Who - Doormat Tardis](https://images-eu.ssl-images-amazon.com/images/I/51xWyLnpM3L._SL200_.jpg)](https://www.amazon.es/dp/B06XX1RNHW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XX1RNHW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

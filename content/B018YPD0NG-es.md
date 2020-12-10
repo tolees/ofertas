@@ -22,6 +22,9 @@ Tienes [BOSCH 2608601520 - Disco abrasivo de corte recto Expert Inox: 76x10x1mm:
 
 [![BOSCH 2608601520 - Disco abrasivo de cor](https://images-eu.ssl-images-amazon.com/images/I/61bsho62JjL._SL200_.jpg)](https://www.amazon.es/dp/B018YPD0NG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B018YPD0NG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

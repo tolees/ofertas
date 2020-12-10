@@ -22,6 +22,9 @@ Tienes [Dockers by Gerli 41bb109  Botas Militar para Hombre  Negro  Schwarz 100 
 
 [![Dockers by Gerli 41bb109  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/41HmqxymIDL._SL200_.jpg)](https://www.amazon.es/dp/B07DJG2M9D/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJG2M9D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

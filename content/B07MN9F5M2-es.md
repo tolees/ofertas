@@ -22,6 +22,9 @@ Ahora mismo tienes [MTNG Attitude 82600  Zapatillas para Hombre  Azul  Pila Amer
 
 [![MTNG Attitude 82600  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41ouaddm7FL._SL200_.jpg)](https://www.amazon.es/dp/B07MN9F5M2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MN9F5M2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

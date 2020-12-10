@@ -22,6 +22,9 @@ Tienes [TRULIL - 6 Posavasos Redondos de Piel sintética para Tazas de café  ca
 
 [![TRULIL - 6 Posavasos Redondos de Piel si](https://images-eu.ssl-images-amazon.com/images/I/51L3JQn%2BpXL._SL200_.jpg)](https://www.amazon.es/dp/B07K1H4TVZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K1H4TVZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [ONLY NOS Onlfiona Mid ANK Cigarette Jeans Bj12843 Pantalones  Negro  Bla
 
 [![ONLY NOS Onlfiona Mid ANK Cigarette Jean](https://images-eu.ssl-images-amazon.com/images/I/41sL09NaFQL._SL200_.jpg)](https://www.amazon.es/dp/B07F7Q7GMF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F7Q7GMF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

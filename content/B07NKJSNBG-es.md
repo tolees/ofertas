@@ -22,6 +22,9 @@ Está [Danny®Bolsas escolares 300D mochila Nylon impermeable ocio para juventud
 
 [![Danny®Bolsas escolares 300D mochila Nylo](https://images-eu.ssl-images-amazon.com/images/I/41cdpudVIpL._SL200_.jpg)](https://www.amazon.es/dp/B07NKJSNBG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NKJSNBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

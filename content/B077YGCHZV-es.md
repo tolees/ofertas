@@ -22,6 +22,9 @@ Ahora mismo tienes [Lenovo Ideapad 720S-13IKB - Ordenador portátil Ultrafino de
 
 [![Lenovo Ideapad 720S-13IKB - Ordenador po](https://images-eu.ssl-images-amazon.com/images/I/41dzmoKH1iL._SL200_.jpg)](https://www.amazon.es/dp/B077YGCHZV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077YGCHZV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

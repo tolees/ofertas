@@ -22,6 +22,9 @@ Ahora mismo tienes [Brandy Papidoux Calvados Fine 700 ml](https://www.amazon.es/
 
 [![Brandy Papidoux Calvados Fine 700 ml](https://images-eu.ssl-images-amazon.com/images/I/41zE2lXxB4L._SL200_.jpg)](https://www.amazon.es/dp/B0014IXYF0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0014IXYF0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Medisana MBH 88375 - Alfombra de Hidromasaje  Dispensador de Aroma  2 Ni
 
 [![Medisana MBH 88375 - Alfombra de Hidroma](https://images-eu.ssl-images-amazon.com/images/I/31rU2rUUH8L._SL200_.jpg)](https://www.amazon.es/dp/B018NUIMEE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B018NUIMEE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

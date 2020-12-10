@@ -22,6 +22,9 @@ Tienes [Kappa Holy 241445 - Zapatillas de Tela Unisex  Color Azul  Talla 41](htt
 
 [![Kappa Holy 241445 - Zapatillas de Tela U](https://images-eu.ssl-images-amazon.com/images/I/41nPYji91oL._SL200_.jpg)](https://www.amazon.es/dp/B0062W4LMS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0062W4LMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

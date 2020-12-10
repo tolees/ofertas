@@ -22,6 +22,9 @@ Está [Cressi Rondinella Aletas  Unisex  Amarillo  41-42](https://www.amazon.es/
 
 [![Cressi Rondinella Aletas  Unisex  Amaril](https://images-eu.ssl-images-amazon.com/images/I/418XVkSHIbL._SL200_.jpg)](https://www.amazon.es/dp/B000NRMXB4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000NRMXB4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Aingoo Nido de 3 mesas Mesa de centro de madera Mesa de mesa
 
 [![Aingoo Nido de 3 mesas Mesa de centro de](https://images-eu.ssl-images-amazon.com/images/I/41V-JVs%2BXLL._SL200_.jpg)](https://www.amazon.es/dp/B06ZZ5SDVD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06ZZ5SDVD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Deck Gym Bag  Unisex Adulto  Black  OSFA](https://www.amazon.es/dp/B
 
 [![Puma Deck Gym Bag  Unisex Adulto  Black ](https://images-eu.ssl-images-amazon.com/images/I/4168ABP0AXL._SL200_.jpg)](https://www.amazon.es/dp/B073SCCNRL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073SCCNRL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

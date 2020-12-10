@@ -22,6 +22,9 @@ Está [Festina Reloj Analógico para Mujer de Cuarzo con Correa en Acero Inoxida
 
 [![Festina Reloj Analógico para Mujer de Cu](https://images-eu.ssl-images-amazon.com/images/I/4149wbh4q1L._SL200_.jpg)](https://www.amazon.es/dp/B01EOTDWPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01EOTDWPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

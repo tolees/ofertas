@@ -22,6 +22,9 @@ Tienes [Crosstour WiFi Cámara Deportiva Acción 1080P Full HD 2.0 LCD Pantella 
 
 [![Crosstour WiFi Cámara Deportiva Acción 1](https://images-eu.ssl-images-amazon.com/images/I/51eEHZmSTTL._SL200_.jpg)](https://www.amazon.es/dp/B077SHX61L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077SHX61L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

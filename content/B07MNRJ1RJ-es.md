@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW 3301 Slim Jeans  Azul  Vintage Medium Aged 8968-2
 
 [![G-STAR RAW 3301 Slim Jeans  Azul  Vintag](https://images-eu.ssl-images-amazon.com/images/I/41Xcf1XCmcL._SL200_.jpg)](https://www.amazon.es/dp/B07MNRJ1RJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MNRJ1RJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

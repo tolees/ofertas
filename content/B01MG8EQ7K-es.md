@@ -22,6 +22,9 @@ Está [Skechers You  Zapatillas sin cordones para Mujer  Rojo  Burgundy   38 EU]
 
 [![Skechers You  Zapatillas sin cordones pa](https://images-eu.ssl-images-amazon.com/images/I/41piKP91RML._SL200_.jpg)](https://www.amazon.es/dp/B01MG8EQ7K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MG8EQ7K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

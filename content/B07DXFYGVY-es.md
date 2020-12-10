@@ -22,6 +22,9 @@ Está [Caterpillar Shaw  Botas Clasicas para Hombre  Marrón  Suned Light Brown 
 
 [![Caterpillar Shaw  Botas Clasicas para Ho](https://images-eu.ssl-images-amazon.com/images/I/41MXGX72xrL._SL200_.jpg)](https://www.amazon.es/dp/B07DXFYGVY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DXFYGVY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

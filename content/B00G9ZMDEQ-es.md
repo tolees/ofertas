@@ -22,6 +22,9 @@ Tienes [Limo Slmcon neumático sellador con bomba de tubo Verde verde Talla:3.8 
 
 [![Limo Slmcon neumático sellador con bomba](https://images-eu.ssl-images-amazon.com/images/I/41sTQEINtWL._SL200_.jpg)](https://www.amazon.es/dp/B00G9ZMDEQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00G9ZMDEQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

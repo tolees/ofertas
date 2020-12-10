@@ -22,6 +22,9 @@ Está [Kempa - Emotion Shirt  Color Azul  Talla UK-18](https://www.amazon.es/dp/
 
 [![Kempa - Emotion Shirt  Color Azul  Talla](https://images-eu.ssl-images-amazon.com/images/I/41NGC5s3PfL._SL200_.jpg)](https://www.amazon.es/dp/B00VFS2JI2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00VFS2JI2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

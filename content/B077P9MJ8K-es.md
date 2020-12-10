@@ -22,6 +22,9 @@ Está [G-STAR RAW Scuba III  Zapatillas para Hombre  Azul  Swedish Blue 3048   4
 
 [![G-STAR RAW Scuba III  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/31rycwDPBJL._SL200_.jpg)](https://www.amazon.es/dp/B077P9MJ8K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077P9MJ8K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

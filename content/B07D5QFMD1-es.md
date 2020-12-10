@@ -22,6 +22,9 @@ Está [Mpow Pulsera Actividad Inteligente  Podómetro  Calorías  GPS  Monitor d
 
 [![Mpow Pulsera Actividad Inteligente  Podó](https://images-eu.ssl-images-amazon.com/images/I/51bq2bnl9fL._SL200_.jpg)](https://www.amazon.es/dp/B07D5QFMD1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D5QFMD1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

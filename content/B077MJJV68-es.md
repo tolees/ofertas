@@ -22,6 +22,9 @@ Está [Puma Smash v2 SD V Inf  Zapatillas Unisex Niños  Azul  Peacoat White   2
 
 [![Puma Smash v2 SD V Inf  Zapatillas Unise](https://images-eu.ssl-images-amazon.com/images/I/41PFshQ1lAL._SL200_.jpg)](https://www.amazon.es/dp/B077MJJV68/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077MJJV68/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

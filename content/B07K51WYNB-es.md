@@ -22,6 +22,9 @@ Está [Antony Morato Calza Corta Uomo  Calcetines Casual para Hombre  Blanco  Bi
 
 [![Antony Morato Calza Corta Uomo  Calcetin](https://images-eu.ssl-images-amazon.com/images/I/31TnAlztm5L._SL200_.jpg)](https://www.amazon.es/dp/B07K51WYNB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K51WYNB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

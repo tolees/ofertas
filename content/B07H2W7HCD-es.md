@@ -22,6 +22,9 @@ Está [Luces solares de jardín al aire libre  luz solar LED con lámpara de mes
 
 [![Luces solares de jardín al aire libre  l](https://images-eu.ssl-images-amazon.com/images/I/51%2B9xitgVGL._SL200_.jpg)](https://www.amazon.es/dp/B07H2W7HCD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H2W7HCD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

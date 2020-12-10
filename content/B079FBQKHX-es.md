@@ -22,6 +22,9 @@ Está [New Look 5362743  Braguita para Mujer   Multi-Coloured  40  Talla del Fab
 
 [![New Look 5362743  Braguita para Mujer   ](https://images-eu.ssl-images-amazon.com/images/I/417GBB4prqL._SL200_.jpg)](https://www.amazon.es/dp/B079FBQKHX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079FBQKHX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

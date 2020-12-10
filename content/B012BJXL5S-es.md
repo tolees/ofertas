@@ -22,6 +22,9 @@ Ahora mismo tienes [Impresora Multifuncional Canon PIXMA MG3650 Blanca Wifi de i
 
 [![Impresora Multifuncional Canon PIXMA MG3](https://images-eu.ssl-images-amazon.com/images/I/31XvbKSo3BL._SL200_.jpg)](https://www.amazon.es/dp/B012BJXL5S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B012BJXL5S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

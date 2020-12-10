@@ -22,6 +22,9 @@ Tienes [SADES SA906 7.1 Stereo Surround Sound Pro USB de la PC Gaming Headset So
 
 [![SADES SA906 7.1 Stereo Surround Sound Pr](https://images-eu.ssl-images-amazon.com/images/I/51YZ3qMSewL._SL200_.jpg)](https://www.amazon.es/dp/B00XCDWLCM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XCDWLCM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

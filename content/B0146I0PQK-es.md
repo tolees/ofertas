@@ -22,6 +22,9 @@ Ahora mismo tienes [Schneider Electric 12509 Domae 6Ka 1P+N 16A](https://www.ama
 
 [![Schneider Electric 12509 Domae 6Ka 1P+N ](https://images-eu.ssl-images-amazon.com/images/I/31zKnS8X5fL._SL200_.jpg)](https://www.amazon.es/dp/B0146I0PQK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0146I0PQK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

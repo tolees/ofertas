@@ -22,6 +22,9 @@ Tienes [Nike Legend 7 Academy TF  Zapatillas de Fútbol Unisex Adulto  Negro  Bl
 
 [![Nike Legend 7 Academy TF  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41ln5RqDR6L._SL200_.jpg)](https://www.amazon.es/dp/B078FGJW6M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078FGJW6M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [ENKEEO Cámara de Caza 12MP  1080P HD Trail Cámara PH700  IP66 Resistent
 
 [![ENKEEO Cámara de Caza 12MP  1080P HD Tra](https://images-eu.ssl-images-amazon.com/images/I/51sTxsB21%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07DG9LVJY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DG9LVJY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

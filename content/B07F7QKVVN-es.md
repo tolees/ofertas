@@ -22,6 +22,9 @@ Ahora mismo tienes [FREDI Cámara Espía HD 1080P Mini Cámara Oculta Portátil 
 
 [![FREDI Cámara Espía HD 1080P Mini Cámara ](https://images-eu.ssl-images-amazon.com/images/I/41%2BuDbjJn2L._SL200_.jpg)](https://www.amazon.es/dp/B07F7QKVVN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F7QKVVN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Casio Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxida
 
 [![Casio Reloj Analógico para Hombre de Cua](https://images-eu.ssl-images-amazon.com/images/I/51%2BybeBNw4L._SL200_.jpg)](https://www.amazon.es/dp/B079ZN5KJZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079ZN5KJZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

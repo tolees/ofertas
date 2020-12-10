@@ -22,6 +22,9 @@ Está [Puma Basic Brief 2P - Calzoncillos para hombre  color negro  talla XL](ht
 
 [![Puma Basic Brief 2P - Calzoncillos para ](https://images-eu.ssl-images-amazon.com/images/I/412-XvDM%2B3L._SL200_.jpg)](https://www.amazon.es/dp/B01ID9T0PU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01ID9T0PU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

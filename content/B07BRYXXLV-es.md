@@ -22,6 +22,9 @@ Está [Salomon Trailster  Zaptillas de Running para Hombre  Azul Black/Indigo Bu
 
 [![Salomon Trailster  Zaptillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/41bFQvHOcRL._SL200_.jpg)](https://www.amazon.es/dp/B07BRYXXLV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BRYXXLV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

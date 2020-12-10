@@ -22,6 +22,9 @@ Tienes [Melissa & Doug Cupcake Chef s Kitchen-Pink  Color Rosa  Blanco  14002 ](
 
 [![Melissa & Doug Cupcake Chef s Kitchen-Pi](https://images-eu.ssl-images-amazon.com/images/I/51eGj%2BWMS2L._SL200_.jpg)](https://www.amazon.es/dp/B06XY9KTDW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XY9KTDW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

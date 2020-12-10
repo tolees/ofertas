@@ -22,6 +22,9 @@ Está [Nalgene Trinkflasche Everyday Bidón con Boca Estrecha 0 5 l  Unisex  Azu
 
 [![Nalgene Trinkflasche Everyday Bidón con ](https://images-eu.ssl-images-amazon.com/images/I/31KIZsgZD-L._SL200_.jpg)](https://www.amazon.es/dp/B001NCDE3O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001NCDE3O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

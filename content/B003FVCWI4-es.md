@@ -22,6 +22,9 @@ Está [SKS  racor Vp/Vs inflador reversible  Unisex Adulto  Negro  Talla Única]
 
 [![SKS  racor Vp/Vs inflador reversible  Un](https://images-eu.ssl-images-amazon.com/images/I/41No4X9CHnL._SL200_.jpg)](https://www.amazon.es/dp/B003FVCWI4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B003FVCWI4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

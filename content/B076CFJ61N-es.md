@@ -22,6 +22,9 @@ Ahora mismo tienes [SAMSONITE Paradiver Light - Toilet Kit Bolsa de Aseo  28 cm 
 
 [![SAMSONITE Paradiver Light - Toilet Kit B](https://images-eu.ssl-images-amazon.com/images/I/41C8L3NpiiL._SL200_.jpg)](https://www.amazon.es/dp/B076CFJ61N/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076CFJ61N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

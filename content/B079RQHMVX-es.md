@@ -22,6 +22,9 @@ Está [Pepe Jeans Cutsie Jeans  Azul  Medium Used Gk3   16 años para Niñas](ht
 
 [![Pepe Jeans Cutsie Jeans  Azul  Medium Us](https://images-eu.ssl-images-amazon.com/images/I/211COvOSAjL._SL200_.jpg)](https://www.amazon.es/dp/B079RQHMVX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RQHMVX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

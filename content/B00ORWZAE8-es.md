@@ -22,6 +22,9 @@ Ahora mismo tienes [LOMOS Mesita de Noche de Madera Odin en Blanco con Dos cajon
 
 [![LOMOS Mesita de Noche de Madera Odin en ](https://images-eu.ssl-images-amazon.com/images/I/41wt4dqa%2BSL._SL200_.jpg)](https://www.amazon.es/dp/B00ORWZAE8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00ORWZAE8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

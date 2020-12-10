@@ -22,6 +22,9 @@ Tienes [MXIN Cepillo de Dientes eléctrico 3 Cabeza del reemplazo  Cepillo de Di
 
 [![MXIN Cepillo de Dientes eléctrico 3 Cabe](https://images-eu.ssl-images-amazon.com/images/I/41jx7TLYFtL._SL200_.jpg)](https://www.amazon.es/dp/B07CQPH2JV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CQPH2JV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

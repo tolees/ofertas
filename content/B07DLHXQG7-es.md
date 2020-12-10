@@ -22,6 +22,9 @@ Ahora mismo tienes [Champion 6pk Sneaker Socken Chaussettes Mixte  Weiß  43-46]
 
 [![Champion 6pk Sneaker Socken Chaussettes ](https://images-eu.ssl-images-amazon.com/images/I/315hmUZr3JL._SL200_.jpg)](https://www.amazon.es/dp/B07DLHXQG7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DLHXQG7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

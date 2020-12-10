@@ -22,6 +22,9 @@ Está [Zuru - ZURU FIDGET CUBE Hulk  ColorBaby 85173 ](https://www.amazon.es/dp/
 
 [![Zuru - ZURU FIDGET CUBE Hulk  ColorBaby ](https://images-eu.ssl-images-amazon.com/images/I/41PaQYuoUqL._SL200_.jpg)](https://www.amazon.es/dp/B075JMGL91/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075JMGL91/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Marshmallow DJ máscara Casco del Festival música Máscara la Mascarada 
 
 [![Marshmallow DJ máscara Casco del Festiva](https://images-eu.ssl-images-amazon.com/images/I/4118HnKSgFL._SL200_.jpg)](https://www.amazon.es/dp/B07F29N1KM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F29N1KM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

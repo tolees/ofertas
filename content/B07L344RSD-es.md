@@ -22,6 +22,9 @@ Tienes [Hilfiger Denim EM0EM00253 Hombre  Gris  Ink 006   44 EU](https://www.ama
 
 [![Hilfiger Denim EM0EM00253 Hombre  Gris  ](https://images-eu.ssl-images-amazon.com/images/I/31zh2R9I7JL._SL200_.jpg)](https://www.amazon.es/dp/B07L344RSD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L344RSD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

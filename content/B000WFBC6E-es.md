@@ -22,6 +22,9 @@ Tienes [Mondaine A990.CLOCK.16SBB Reloj de pared Analogue](https://www.amazon.es
 
 [![Mondaine A990.CLOCK.16SBB Reloj de pared](https://images-eu.ssl-images-amazon.com/images/I/51l5EBs2yPL._SL200_.jpg)](https://www.amazon.es/dp/B000WFBC6E/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000WFBC6E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

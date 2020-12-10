@@ -22,6 +22,9 @@ Ahora mismo tienes [Wand Essentials Masajeador  Blanco y Rosa - 1 Unidad](https:
 
 [![Wand Essentials Masajeador  Blanco y Ros](https://images-eu.ssl-images-amazon.com/images/I/21gpTm5DkbL._SL200_.jpg)](https://www.amazon.es/dp/B00491VAMS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00491VAMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

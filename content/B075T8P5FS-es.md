@@ -22,6 +22,9 @@ Está [Jamara Hillriser Crawler 4WD  2.4 GHz 410054](https://www.amazon.es/dp/B0
 
 [![Jamara Hillriser Crawler 4WD  2.4 GHz 41](https://images-eu.ssl-images-amazon.com/images/I/41Q5MLq2btL._SL200_.jpg)](https://www.amazon.es/dp/B075T8P5FS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075T8P5FS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

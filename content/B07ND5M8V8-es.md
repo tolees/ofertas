@@ -22,6 +22,9 @@ Está [RIP CURL Summer Lovin Trucka Cap Gorra  Mujer  Black  Talla Única](https
 
 [![RIP CURL Summer Lovin Trucka Cap Gorra  ](https://images-eu.ssl-images-amazon.com/images/I/4115ekBZHvL._SL200_.jpg)](https://www.amazon.es/dp/B07ND5M8V8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07ND5M8V8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

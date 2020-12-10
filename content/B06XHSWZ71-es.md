@@ -22,6 +22,9 @@ Ahora mismo tienes [Ballistix Sport LT BLS2C8G4D26BFSE/BLS2K8G4D26BFSE - Kit de 
 
 [![Ballistix Sport LT BLS2C8G4D26BFSE/BLS2K](https://images-eu.ssl-images-amazon.com/images/I/41gmAwMOskL._SL200_.jpg)](https://www.amazon.es/dp/B06XHSWZ71/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XHSWZ71/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

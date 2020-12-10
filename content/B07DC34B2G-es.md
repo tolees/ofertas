@@ -22,6 +22,9 @@ Está [LE COQ SPORTIF Alpha Winter Craft Black/Dress Blue  Zapatillas para Hombr
 
 [![LE COQ SPORTIF Alpha Winter Craft Black/](https://images-eu.ssl-images-amazon.com/images/I/31UkCi%2BptzL._SL200_.jpg)](https://www.amazon.es/dp/B07DC34B2G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC34B2G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

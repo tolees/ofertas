@@ -22,6 +22,9 @@ Ahora mismo tienes [Wonderbra Minimal Chic Sujetador  Negro  Black   95C para Mu
 
 [![Wonderbra Minimal Chic Sujetador  Negro ](https://images-eu.ssl-images-amazon.com/images/I/51D1KDsutjL._SL200_.jpg)](https://www.amazon.es/dp/B014IFEKDK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B014IFEKDK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

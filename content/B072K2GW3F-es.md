@@ -22,6 +22,9 @@ Ahora mismo tienes [FIND Pantalones de Vestir para Hombre Negro  Black  W34/L31]
 
 [![FIND Pantalones de Vestir para Hombre Ne](https://images-eu.ssl-images-amazon.com/images/I/415ig-RGtwL._SL200_.jpg)](https://www.amazon.es/dp/B072K2GW3F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072K2GW3F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

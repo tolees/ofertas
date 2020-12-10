@@ -22,6 +22,9 @@ Ahora mismo tienes [Comfortabel 630508 - Mocasines  Color Schwarz/Schwarz  Talla
 
 [![Comfortabel 630508 - Mocasines  Color Sc](https://images-eu.ssl-images-amazon.com/images/I/41xTtPfw%2BDL._SL200_.jpg)](https://www.amazon.es/dp/B00JQB3CW2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00JQB3CW2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

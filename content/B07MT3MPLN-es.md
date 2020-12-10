@@ -22,6 +22,9 @@ Está [NEUMA Soporte de micrófono profesional con filtro pop anti pop Suspensi�
 
 [![NEUMA Soporte de micrófono profesional c](https://images-eu.ssl-images-amazon.com/images/I/413T5w-9YvL._SL200_.jpg)](https://www.amazon.es/dp/B07MT3MPLN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MT3MPLN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Honor 6x - Smartphone libre de 5.5"  lector de huellas  4 GB RAM  64 GB 
 
 [![Honor 6x - Smartphone libre de 5.5"  lec](https://images-eu.ssl-images-amazon.com/images/I/41QXAECwonL._SL200_.jpg)](https://www.amazon.es/dp/B01MUC3N2Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MUC3N2Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

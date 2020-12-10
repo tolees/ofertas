@@ -22,6 +22,9 @@ Está [Skechers Mecca-bolders  Botas Clasicas para Niños  Marrón Tan  24 EU](h
 
 [![Skechers Mecca-bolders  Botas Clasicas p](https://images-eu.ssl-images-amazon.com/images/I/41bg05T6DGL._SL200_.jpg)](https://www.amazon.es/dp/B075V3L1WC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075V3L1WC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

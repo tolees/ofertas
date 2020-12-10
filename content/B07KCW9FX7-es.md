@@ -22,6 +22,9 @@ Ahora mismo tienes [Amzdeal Soporte de Fondo 2 * 3m con 3 Fondos Fotográficos 1
 
 [![Amzdeal Soporte de Fondo 2 * 3m con 3 Fo](https://images-eu.ssl-images-amazon.com/images/I/41EL9k6ixsL._SL200_.jpg)](https://www.amazon.es/dp/B07KCW9FX7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KCW9FX7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

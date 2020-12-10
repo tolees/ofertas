@@ -22,6 +22,9 @@ Está [Puma Vista  Zapatillas de Deporte Unisex Adulto  Verde  Olivine White-ELM
 
 [![Puma Vista  Zapatillas de Deporte Unisex](https://images-eu.ssl-images-amazon.com/images/I/41vpsVvCP4L._SL200_.jpg)](https://www.amazon.es/dp/B07DC1RWT8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC1RWT8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

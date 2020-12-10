@@ -22,6 +22,9 @@ Ahora mismo tienes [Mavi Gaucho  Pantalones para Mujer  Negro  Black 900  38](ht
 
 [![Mavi Gaucho  Pantalones para Mujer  Negr](https://images-eu.ssl-images-amazon.com/images/I/31MfbbCbZqL._SL200_.jpg)](https://www.amazon.es/dp/B01N1Z78RL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N1Z78RL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

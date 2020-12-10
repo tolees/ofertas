@@ -22,6 +22,9 @@ Tienes [Moleskine DPE12WN2Y19 - Libreta semanal 12m de edición limitada Peanuts
 
 [![Moleskine DPE12WN2Y19 - Libreta semanal ](https://images-eu.ssl-images-amazon.com/images/I/41mHrBZ7nvL._SL200_.jpg)](https://www.amazon.es/dp/B076BJJKK8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076BJJKK8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

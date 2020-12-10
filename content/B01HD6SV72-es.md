@@ -22,6 +22,9 @@ Está [Salomon XA Pro 3D  Zapatillas de Trail Running para Hombre  Negro  Black/
 
 [![Salomon XA Pro 3D  Zapatillas de Trail R](https://images-eu.ssl-images-amazon.com/images/I/41Hz-SYiwIL._SL200_.jpg)](https://www.amazon.es/dp/B01HD6SV72/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HD6SV72/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

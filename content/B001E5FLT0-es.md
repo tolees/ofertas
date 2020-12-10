@@ -22,6 +22,9 @@ Tienes [Zippo Brush Chrome Encendedor  Metal  Cromo  Única](https://www.amazon.
 
 [![Zippo Brush Chrome Encendedor  Metal  Cr](https://images-eu.ssl-images-amazon.com/images/I/4141RQhd8yL._SL200_.jpg)](https://www.amazon.es/dp/B001E5FLT0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B001E5FLT0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

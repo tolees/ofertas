@@ -22,6 +22,9 @@ Ahora mismo tienes [Eferri 0JV5706  Shopper para Mujer   Beige   28x13x44 cm  W 
 
 [![Eferri 0JV5706  Shopper para Mujer   Bei](https://images-eu.ssl-images-amazon.com/images/I/51fqSU3loQL._SL200_.jpg)](https://www.amazon.es/dp/B07BWSPM1R/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BWSPM1R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

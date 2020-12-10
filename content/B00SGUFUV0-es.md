@@ -22,6 +22,9 @@ Tienes [Reebok EX-O-FIT High Zapatillas altas  Hombre  Blanco  Int-White   38](h
 
 [![Reebok EX-O-FIT High Zapatillas altas  H](https://images-eu.ssl-images-amazon.com/images/I/41rf50R%2BXCL._SL200_.jpg)](https://www.amazon.es/dp/B00SGUFUV0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SGUFUV0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

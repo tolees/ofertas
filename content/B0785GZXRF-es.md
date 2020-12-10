@@ -22,6 +22,9 @@ Ahora mismo tienes [Gore Wear 100355 Mallas  Mujer  Negro  Hibiscus Pink   40](h
 
 [![Gore Wear 100355 Mallas  Mujer  Negro  H](https://images-eu.ssl-images-amazon.com/images/I/313duz6AEXL._SL200_.jpg)](https://www.amazon.es/dp/B0785GZXRF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0785GZXRF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

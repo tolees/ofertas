@@ -22,6 +22,9 @@ Está [Panter 447021700 - FRAGUA LINK S3 NEGRO 247 Talla: 40](https://www.amazon
 
 [![Panter 447021700 - FRAGUA LINK S3 NEGRO ](https://images-eu.ssl-images-amazon.com/images/I/41HSd4Tl-8L._SL200_.jpg)](https://www.amazon.es/dp/B017L6LT8W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B017L6LT8W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

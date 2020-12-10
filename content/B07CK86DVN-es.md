@@ -22,6 +22,9 @@ Tienes [KingNew Tiny Vial - Botes de plástico vacíos y portátiles  tamaño pe
 
 [![KingNew Tiny Vial - Botes de plástico va](https://images-eu.ssl-images-amazon.com/images/I/418qeGktZtL._SL200_.jpg)](https://www.amazon.es/dp/B07CK86DVN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CK86DVN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Case Logic CSIE2242DBL - Funda para Apple iPad Mini 4  Color Azul](https:
 
 [![Case Logic CSIE2242DBL - Funda para Appl](https://images-eu.ssl-images-amazon.com/images/I/41yT%2B-TfoAL._SL200_.jpg)](https://www.amazon.es/dp/B016QO6PUC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016QO6PUC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

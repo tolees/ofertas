@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Fresh Foam Cruz Hoody Pack  Zapatillas de Entren
 
 [![New Balance Fresh Foam Cruz Hoody Pack  ](https://images-eu.ssl-images-amazon.com/images/I/51EdlvgcY1L._SL200_.jpg)](https://www.amazon.es/dp/B06XS2TRSF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XS2TRSF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

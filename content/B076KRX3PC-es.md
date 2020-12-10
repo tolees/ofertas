@@ -22,6 +22,9 @@ Está [Medion Erazer X7851 - MD 60706 - Ordenador portátil de 17.3" FHD  Intel 
 
 [![Medion Erazer X7851 - MD 60706 - Ordenad](https://images-eu.ssl-images-amazon.com/images/I/31Ff26hqLkL._SL200_.jpg)](https://www.amazon.es/dp/B076KRX3PC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076KRX3PC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

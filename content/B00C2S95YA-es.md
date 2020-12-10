@@ -22,6 +22,9 @@ Está [Kärcher Limpiacristales RM 500  6.295-772.0 ](https://www.amazon.es/dp/B
 
 [![Kärcher Limpiacristales RM 500  6.295-77](https://images-eu.ssl-images-amazon.com/images/I/31ljZY39XjL._SL200_.jpg)](https://www.amazon.es/dp/B00C2S95YA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00C2S95YA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Modern Sport Pantalones  Mujer  Negro  51   XS](https://www.amazon.e
 
 [![Puma Modern Sport Pantalones  Mujer  Neg](https://images-eu.ssl-images-amazon.com/images/I/31-2nry6wDL._SL200_.jpg)](https://www.amazon.es/dp/B07DFRWPSK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFRWPSK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

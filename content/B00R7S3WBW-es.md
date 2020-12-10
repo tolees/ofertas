@@ -22,6 +22,9 @@ Está [BILLABONG Intruder Boy Sssp 22  Conjunto térmico para Niños  Azul  Blue
 
 [![BILLABONG Intruder Boy Sssp 22  Conjunto](https://images-eu.ssl-images-amazon.com/images/I/41wD-4mnd3L._SL200_.jpg)](https://www.amazon.es/dp/B00R7S3WBW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00R7S3WBW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

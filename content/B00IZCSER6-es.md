@@ -22,6 +22,9 @@ Tienes [Kappa Bright Mid Fur  Botas Clasicas Unisex Niños   Beige/Offwhite 4143
 
 [![Kappa Bright Mid Fur  Botas Clasicas Uni](https://images-eu.ssl-images-amazon.com/images/I/518AcS2vVKL._SL200_.jpg)](https://www.amazon.es/dp/B00IZCSER6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IZCSER6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

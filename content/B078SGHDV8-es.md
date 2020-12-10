@@ -22,6 +22,9 @@ Ahora mismo tienes [Swarovski Pendientes de aro Lifelong  blanco  baño de rodio
 
 [![Swarovski Pendientes de aro Lifelong  bl](https://images-eu.ssl-images-amazon.com/images/I/31FeA2f5NjL._SL200_.jpg)](https://www.amazon.es/dp/B078SGHDV8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078SGHDV8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Springfield 3083152  Pantalones Cortos para Mujer  Azul  38  Tamaño del
 
 [![Springfield 3083152  Pantalones Cortos p](https://images-eu.ssl-images-amazon.com/images/I/412xeOOXcnL._SL200_.jpg)](https://www.amazon.es/dp/B078GYXVHR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078GYXVHR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

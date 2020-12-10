@@ -22,6 +22,9 @@ Está [Dove Crema Tratamiento Manos Té Matcha - Pack de 6 x 75 ml  Total: 450 m
 
 [![Dove Crema Tratamiento Manos Té Matcha -](https://images-eu.ssl-images-amazon.com/images/I/31Dfa8l2ZEL._SL200_.jpg)](https://www.amazon.es/dp/B07P7VKTG2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P7VKTG2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Camara Acuatica Sumergible Full HD 1080P para Snorkeling 24.
 
 [![Camara Acuatica Sumergible Full HD 1080P](https://images-eu.ssl-images-amazon.com/images/I/51KkzQIhYXL._SL200_.jpg)](https://www.amazon.es/dp/B07NT1XNKR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NT1XNKR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

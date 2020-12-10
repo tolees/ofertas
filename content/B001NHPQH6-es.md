@@ -22,6 +22,9 @@ Está [Hoffmann 0013344  - Beeboo bola de seguimiento 34 x 10 x 28 cm](https://w
 
 [![Hoffmann 0013344  - Beeboo bola de segui](https://images-eu.ssl-images-amazon.com/images/I/51sjd2Ti1AL._SL200_.jpg)](https://www.amazon.es/dp/B001NHPQH6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001NHPQH6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Addition concentré éclat auto-bronzant 15 ml](https://www.amazon.es/dp/
 
 [![Addition concentré éclat auto-bronzant 1](https://images-eu.ssl-images-amazon.com/images/I/41EKEMH%2BnpL._SL200_.jpg)](https://www.amazon.es/dp/B0772HT6RD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0772HT6RD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

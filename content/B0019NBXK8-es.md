@@ -22,6 +22,9 @@ Tienes [Royal & Langnickel RSET-9154 - Set de brochas de cerdas cilíndricas y p
 
 [![Royal & Langnickel RSET-9154 - Set de br](https://images-eu.ssl-images-amazon.com/images/I/41B00rq6GlL._SL200_.jpg)](https://www.amazon.es/dp/B0019NBXK8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0019NBXK8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Jocel JVP030610 Ventilador de Pie  45 W  Plástico  3 Velocidades  Blanco
 
 [![Jocel JVP030610 Ventilador de Pie  45 W ]()](https://www.amazon.es/dp/B06ZYTGJ7L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06ZYTGJ7L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

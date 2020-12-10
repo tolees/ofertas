@@ -22,6 +22,9 @@ Tienes [NIVEA SUN Protege & Hidrata Leche Solar FP20 Protector solar hidratante 
 
 [![NIVEA SUN Protege & Hidrata Leche Solar ](https://images-eu.ssl-images-amazon.com/images/I/416My-6XZeL._SL200_.jpg)](https://www.amazon.es/dp/B00XDVQHP0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XDVQHP0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

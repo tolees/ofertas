@@ -22,6 +22,9 @@ Tienes [Pokemon JCC 60 Cartas XY Evoluciones-Español  1 baraja al Azar   Color 
 
 [![Pokemon JCC 60 Cartas XY Evoluciones-Esp](https://images-eu.ssl-images-amazon.com/images/I/61vhK3x6DlL._SL200_.jpg)](https://www.amazon.es/dp/B01N33N5QC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N33N5QC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Desigual Jers_pullover - Suéter para Mujer  Negro  Small](https://www.a
 
 [![Desigual Jers_pullover - Suéter para Muj](https://images-eu.ssl-images-amazon.com/images/I/418%2BY29proL._SL200_.jpg)](https://www.amazon.es/dp/B06XQ3ZP9B/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XQ3ZP9B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Timothy Stone Collection Charme Bicolor - Reloj de Cuarzo para Mujer  Col
 
 [![Timothy Stone Collection Charme Bicolor ](https://images-eu.ssl-images-amazon.com/images/I/41COi5d4cUL._SL200_.jpg)](https://www.amazon.es/dp/B01E9DGXZO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01E9DGXZO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

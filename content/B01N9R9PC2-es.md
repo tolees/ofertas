@@ -22,6 +22,9 @@ Tienes [DKNY Medium Carryall  Cartera de Mano para Mujer  Azul  Cadet   4.3x10.1
 
 [![DKNY Medium Carryall  Cartera de Mano pa](https://images-eu.ssl-images-amazon.com/images/I/41pr%2BsFuVFL._SL200_.jpg)](https://www.amazon.es/dp/B01N9R9PC2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N9R9PC2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

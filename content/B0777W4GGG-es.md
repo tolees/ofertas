@@ -22,6 +22,9 @@ Está [Under Armour UA W Rapid  Zapatillas de Running para Mujer  Rojo  Coral Co
 
 [![Under Armour UA W Rapid  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/414SdoCl90L._SL200_.jpg)](https://www.amazon.es/dp/B0777W4GGG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0777W4GGG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

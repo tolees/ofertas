@@ -22,6 +22,9 @@ Tienes [BOSS Rumba_Tenn_sd2  Zapatillas para Hombre  Azul  Dark Blue 401   44 EU
 
 [![BOSS Rumba_Tenn_sd2  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/31yETpOxRPL._SL200_.jpg)](https://www.amazon.es/dp/B07M5S7W2Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M5S7W2Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

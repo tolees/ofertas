@@ -22,6 +22,13 @@ Tienes [Westmark 3151227R-Envase para batir  Tapa Dividida en 2  Anti-Salpicadur
 
 [![Westmark 3151227R-Envase para batir  Tap](https://m.media-amazon.com/images/I/31P3xM1S2uL._SL200_.jpg)](https://www.amazon.es/dp/B006MVRBQW/?tag=tolees-21)
 
+Características principales:
+
+- Con pico vertedor.
+- Capacidad: 1,2 L.
+- Con anillo de goma en la base de color rojo oscuro.
+- Práctico: el borde rojo sirve como protección contra salpicaduras, y con la parte interior blanca, se convierte en una tapa completa para guardar.
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B006MVRBQW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

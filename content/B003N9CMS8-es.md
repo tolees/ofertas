@@ -22,6 +22,9 @@ Ahora mismo tienes [Curver 182004 Contenedor para Pienso de 1.5 Kg  Resina  Blan
 
 [![Curver 182004 Contenedor para Pienso de ](https://images-eu.ssl-images-amazon.com/images/I/41wsSpsMZjL._SL200_.jpg)](https://www.amazon.es/dp/B003N9CMS8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B003N9CMS8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

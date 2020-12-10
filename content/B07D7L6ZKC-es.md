@@ -22,6 +22,9 @@ Ahora mismo tienes [INLIFE Robot Aspirador Robot Programable con Bloqueador Virt
 
 [![INLIFE Robot Aspirador Robot Programable](https://images-eu.ssl-images-amazon.com/images/I/51Neqg7qTjL._SL200_.jpg)](https://www.amazon.es/dp/B07D7L6ZKC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D7L6ZKC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

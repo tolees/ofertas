@@ -22,6 +22,9 @@ Ahora mismo tienes [LANGRIA Almohada Cervical Ergonómica de Espuma de Memoria V
 
 [![LANGRIA Almohada Cervical Ergonómica de ](https://images-eu.ssl-images-amazon.com/images/I/5142fnm6J3L._SL200_.jpg)](https://www.amazon.es/dp/B077FVFQ6B/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077FVFQ6B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

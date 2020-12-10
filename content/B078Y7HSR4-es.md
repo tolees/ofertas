@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Nemeziz 17.2 FG  Botas de fútbol para Hombre  Naranj
 
 [![Adidas Nemeziz 17.2 FG  Botas de fútbol ](https://images-eu.ssl-images-amazon.com/images/I/41N-u2YuSVL._SL200_.jpg)](https://www.amazon.es/dp/B078Y7HSR4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078Y7HSR4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Kaporal VILLAH17M62-Abrigo Hombre Negro  Black Black  S](https://www.ama
 
 [![Kaporal VILLAH17M62-Abrigo Hombre Negro ](https://images-eu.ssl-images-amazon.com/images/I/41r2JCMgvFL._SL200_.jpg)](https://www.amazon.es/dp/B0711XBJJ6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0711XBJJ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

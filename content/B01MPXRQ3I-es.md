@@ -22,6 +22,9 @@ Está [Catral 31010004 - Bordura flexible de madera tratada 30x250 cm. diam.7 cm
 
 [![Catral 31010004 - Bordura flexible de ma](https://images-eu.ssl-images-amazon.com/images/I/41YUBc7zizL._SL200_.jpg)](https://www.amazon.es/dp/B01MPXRQ3I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MPXRQ3I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

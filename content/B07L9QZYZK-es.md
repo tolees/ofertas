@@ -22,6 +22,9 @@ Está [Napapijri Vail 2 Bañador   Fantasy F11   XX-Large para Hombre](https://w
 
 [![Napapijri Vail 2 Bañador   Fantasy F11  ](https://images-eu.ssl-images-amazon.com/images/I/51AnnxHB57L._SL200_.jpg)](https://www.amazon.es/dp/B07L9QZYZK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L9QZYZK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

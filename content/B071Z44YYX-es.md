@@ -22,6 +22,9 @@ Está [Asics T7B8N4890  Zapatillas de Running para Mujer  Morado  Blue Purple/Bl
 
 [![Asics T7B8N4890  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/51WHuAX8ePL._SL200_.jpg)](https://www.amazon.es/dp/B071Z44YYX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071Z44YYX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

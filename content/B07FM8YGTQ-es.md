@@ -22,6 +22,9 @@ Tienes [hummel Nile Canvas Low  Zapatillas Unisex Adulto  Negro  Black 2001   37
 
 [![hummel Nile Canvas Low  Zapatillas Unise](https://images-eu.ssl-images-amazon.com/images/I/41bUUp7OBlL._SL200_.jpg)](https://www.amazon.es/dp/B07FM8YGTQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FM8YGTQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

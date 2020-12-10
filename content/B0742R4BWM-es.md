@@ -22,6 +22,9 @@ Ahora mismo tienes [Swimgo Triton I bañador de competición femenino color Negr
 
 [![Swimgo Triton I bañador de competición f](https://images-eu.ssl-images-amazon.com/images/I/41WJUDyZG6L._SL200_.jpg)](https://www.amazon.es/dp/B0742R4BWM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0742R4BWM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Drip&Fresh Rollo de tubería Blanca con Tratamiento Anti UV  6 m  C5108](
 
 [![Drip&Fresh Rollo de tubería Blanca con T](https://images-eu.ssl-images-amazon.com/images/I/51HbJJ95xoL._SL200_.jpg)](https://www.amazon.es/dp/B00UCL4GVQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00UCL4GVQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

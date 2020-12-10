@@ -22,6 +22,9 @@ Está [hummel Choice  Zapatillas Unisex Adulto  Gris  Alloy 1100   37 EU](https:
 
 [![hummel Choice  Zapatillas Unisex Adulto ](https://images-eu.ssl-images-amazon.com/images/I/31KHPxrv%2BrL._SL200_.jpg)](https://www.amazon.es/dp/B07DR33GS6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DR33GS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

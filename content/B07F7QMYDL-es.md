@@ -22,6 +22,9 @@ Ahora mismo tienes [Auriculares Bluetooth Inalámbricos 5.0  Tronsmart TWS Auric
 
 [![Auriculares Bluetooth Inalámbricos 5.0  ](https://images-eu.ssl-images-amazon.com/images/I/41RFWD6%2BwsL._SL200_.jpg)](https://www.amazon.es/dp/B07F7QMYDL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F7QMYDL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

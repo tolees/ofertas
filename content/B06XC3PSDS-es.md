@@ -22,6 +22,9 @@ Tienes [CapitalSports Pilato Pilates Reformer  Banco de Ejercicios  120kg máx  
 
 [![CapitalSports Pilato Pilates Reformer  B](https://images-eu.ssl-images-amazon.com/images/I/41SII-%2BGE8L._SL200_.jpg)](https://www.amazon.es/dp/B06XC3PSDS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XC3PSDS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

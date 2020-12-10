@@ -22,6 +22,9 @@ Ahora mismo tienes [ADIDAS Vs Advantage F99256  Zapatillas de Deporte Unisex Adu
 
 [![ADIDAS Vs Advantage F99256  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/31ALCXxm6cL._SL200_.jpg)](https://www.amazon.es/dp/B0196G1CFA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0196G1CFA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

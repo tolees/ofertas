@@ -22,6 +22,9 @@ Ahora mismo tienes [Vans Filmore Decon  Zapatillas para Mujer  Rosa  Spanish Vil
 
 [![Vans Filmore Decon  Zapatillas para Muje](https://images-eu.ssl-images-amazon.com/images/I/318V8Yn8fQL._SL200_.jpg)](https://www.amazon.es/dp/B07FY4GHPS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FY4GHPS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

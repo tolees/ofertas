@@ -22,6 +22,9 @@ Está [homgeek  Batidora de Mano  Licuadora 4 en 1 y con 5 velocidades Ajustable
 
 [![homgeek  Batidora de Mano  Licuadora 4 e](https://images-eu.ssl-images-amazon.com/images/I/41ZkemA-uTL._SL200_.jpg)](https://www.amazon.es/dp/B07QYMZGLX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QYMZGLX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

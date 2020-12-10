@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Almayer Lite  Zapatillas para Hombre  Negro  Brillant
 
 [![Levi s Almayer Lite  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/31nVD1P7agL._SL200_.jpg)](https://www.amazon.es/dp/B07BZT7K84/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BZT7K84/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

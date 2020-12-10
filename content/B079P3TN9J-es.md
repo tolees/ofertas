@@ -22,6 +22,9 @@ Está [S&R Rasqueta Vitroceramica limpia Cristales. Raspador Multiusos. Rascador
 
 [![S&R Rasqueta Vitroceramica limpia Crista](https://images-eu.ssl-images-amazon.com/images/I/41XYW3o8C3L._SL200_.jpg)](https://www.amazon.es/dp/B079P3TN9J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079P3TN9J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

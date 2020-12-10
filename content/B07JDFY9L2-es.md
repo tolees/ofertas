@@ -22,6 +22,9 @@ Tienes [Coopts Coopts - Funda Universal para iPad Mini 4 3 2 1  Resistente a los
 
 [![Coopts Coopts - Funda Universal para iPa](https://images-eu.ssl-images-amazon.com/images/I/61Crgi41Y-L._SL200_.jpg)](https://www.amazon.es/dp/B07JDFY9L2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JDFY9L2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Saucony Shadow 5000 Vintage  Zapatillas Unisex Adulto  Verde  Grey/Green 
 
 [![Saucony Shadow 5000 Vintage  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/414OJN2dT6L._SL200_.jpg)](https://www.amazon.es/dp/B07MD2DHF7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MD2DHF7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

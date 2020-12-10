@@ -22,6 +22,9 @@ Está [New Balance X-90  Zapatillas para Hombre  Negro  Black/Magnet Cre   45 EU
 
 [![New Balance X-90  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/315dhRlf%2BiL._SL200_.jpg)](https://www.amazon.es/dp/B075R7YTD6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075R7YTD6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

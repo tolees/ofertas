@@ -22,6 +22,9 @@ Está [Victoria Inglesa Lona 6613  Zapatillas de Tela Unisex  Naranja  Coral   3
 
 [![Victoria Inglesa Lona 6613  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/31rP%2B4wSPfL._SL200_.jpg)](https://www.amazon.es/dp/B007IQKHMA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007IQKHMA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

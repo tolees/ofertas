@@ -22,6 +22,9 @@ Está [jrester 2 X Funda BQ Aquaris V Plus Amor + Flor Rosa Flexible Suave Trans
 
 [![jrester 2 X Funda BQ Aquaris V Plus Amor](https://images-eu.ssl-images-amazon.com/images/I/51NnFVP-u0L._SL200_.jpg)](https://www.amazon.es/dp/B07GDMHLLC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GDMHLLC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

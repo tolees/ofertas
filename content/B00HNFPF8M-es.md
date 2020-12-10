@@ -22,6 +22,9 @@ Ahora mismo tienes [DDR3 4 GB 1333MHZ GOODRAM 512x8 CL9 SR](https://www.amazon.e
 
 [![DDR3 4 GB 1333MHZ GOODRAM 512x8 CL9 SR](https://images-eu.ssl-images-amazon.com/images/I/415G3nC%2BMGL._SL200_.jpg)](https://www.amazon.es/dp/B00HNFPF8M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00HNFPF8M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

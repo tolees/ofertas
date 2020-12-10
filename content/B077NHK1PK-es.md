@@ -22,6 +22,9 @@ Tienes [Lana de fieltro 36 colores 5g/colore Fuyit Hilo de lana para Afieltrar m
 
 [![Lana de fieltro 36 colores 5g/colore Fuy](https://images-eu.ssl-images-amazon.com/images/I/51XqYq5kVpL._SL200_.jpg)](https://www.amazon.es/dp/B077NHK1PK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077NHK1PK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

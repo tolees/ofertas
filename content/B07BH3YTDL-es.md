@@ -22,6 +22,9 @@ Está [Michael Kors - Blakely  Mujer  Negro  Black   12x25x27 cm  W x H L  EU](h
 
 [![Michael Kors - Blakely  Mujer  Negro  Bl](https://images-eu.ssl-images-amazon.com/images/I/41HSRaxhfkL._SL200_.jpg)](https://www.amazon.es/dp/B07BH3YTDL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BH3YTDL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

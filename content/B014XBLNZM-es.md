@@ -22,6 +22,9 @@ Ahora mismo tienes [Alcatel Onetouch Pop 3 - Terminal Libre DE 5.5"  Quad Core 1
 
 [![Alcatel Onetouch Pop 3 - Terminal Libre ](https://images-eu.ssl-images-amazon.com/images/I/411su5q4YOL._SL200_.jpg)](https://www.amazon.es/dp/B014XBLNZM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B014XBLNZM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

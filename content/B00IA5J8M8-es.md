@@ -22,6 +22,9 @@ Tienes [Ubiquiti Networks Edge - Router  10 100 1000 Mbit/s  10/100/1000Base-T X
 
 [![Ubiquiti Networks Edge - Router  10 100 ](https://images-eu.ssl-images-amazon.com/images/I/31MhTRv9AML._SL200_.jpg)](https://www.amazon.es/dp/B00IA5J8M8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IA5J8M8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

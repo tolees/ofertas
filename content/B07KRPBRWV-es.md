@@ -22,6 +22,9 @@ Está [Gioseppo 44276  Shopper para Mujer   Negro/Blan   2x31x39 cm  W x H x L ]
 
 [![Gioseppo 44276  Shopper para Mujer   Neg](https://images-eu.ssl-images-amazon.com/images/I/31iJbkS5npL._SL200_.jpg)](https://www.amazon.es/dp/B07KRPBRWV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KRPBRWV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

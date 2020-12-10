@@ -22,6 +22,9 @@ Está [Auriculares Bluetooth  BARA E3 Auriculares Inalámbricos 4.1 Deportivos  
 
 [![Auriculares Bluetooth  BARA E3 Auricular](https://images-eu.ssl-images-amazon.com/images/I/41tWVmafJWL._SL200_.jpg)](https://www.amazon.es/dp/B07C96TRPC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C96TRPC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

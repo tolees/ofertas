@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face Back-to-Berkeley Redux Leather  Botas de Send
 
 [![The North Face Back-to-Berkeley Redux Le](https://images-eu.ssl-images-amazon.com/images/I/41--C73plEL._SL200_.jpg)](https://www.amazon.es/dp/B01N2UDXR2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N2UDXR2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

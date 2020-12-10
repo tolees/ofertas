@@ -22,6 +22,9 @@ Está [Aingoo Moderna Mesa de Consola Industrial para sofá con Escritorio de Cr
 
 [![Aingoo Moderna Mesa de Consola Industria](https://images-eu.ssl-images-amazon.com/images/I/31PYaTxQ6tL._SL200_.jpg)](https://www.amazon.es/dp/B07LCKP42P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LCKP42P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [【Salud y Portátil】Tensiómetro de muñeca CocoBear Tens
 
 [![【Salud y Portátil】Tensiómetro de muñeca ](https://images-eu.ssl-images-amazon.com/images/I/41zvDjvdFaL._SL200_.jpg)](https://www.amazon.es/dp/B07H3SG37P/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H3SG37P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Skechers You Define-Zen  Zapatillas sin Cordones para Mujer  Negro  Black
 
 [![Skechers You Define-Zen  Zapatillas sin ](https://images-eu.ssl-images-amazon.com/images/I/41FkmAq9C7L._SL200_.jpg)](https://www.amazon.es/dp/B072MS4YKR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072MS4YKR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

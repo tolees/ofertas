@@ -22,6 +22,9 @@ Ahora mismo tienes [Imperial Confort Copenhague - Colchón viscoelástico - 90 x
 
 [![Imperial Confort Copenhague - Colchón vi](https://images-eu.ssl-images-amazon.com/images/I/41YiXflmUUL._SL200_.jpg)](https://www.amazon.es/dp/B07FMNH1FY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FMNH1FY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Puma Short Crew 3 pares  Calcetines unisex  Rosa   Middle Grey Melange /
 
 [![Puma Short Crew 3 pares  Calcetines unis](https://images-eu.ssl-images-amazon.com/images/I/51-yQDjsLYL._SL200_.jpg)](https://www.amazon.es/dp/B00TLP3JGW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TLP3JGW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

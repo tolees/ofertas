@@ -22,6 +22,9 @@ Está [YoRiBo Repelente Ultrasónico de Masquitos de Plagas Repelente de Insecto
 
 [![YoRiBo Repelente Ultrasónico de Masquito](https://images-eu.ssl-images-amazon.com/images/I/41NUWGV94SL._SL200_.jpg)](https://www.amazon.es/dp/B07TK78HXF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07TK78HXF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

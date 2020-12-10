@@ -22,6 +22,9 @@ Tienes [Bra Efficient Cuchillo Santoku  Acero Inoxidable  Gris  3x4x30 cm](https
 
 [![Bra Efficient Cuchillo Santoku  Acero In](https://images-eu.ssl-images-amazon.com/images/I/21mas%2BWvLlL._SL200_.jpg)](https://www.amazon.es/dp/B076T9WZ5C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076T9WZ5C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

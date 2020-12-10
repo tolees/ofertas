@@ -22,6 +22,9 @@ Ahora mismo tienes [Knorr Las Clásicas Crema de Alicia - Paquete de 12 x 300 ml
 
 [![Knorr Las Clásicas Crema de Alicia - Paq](https://images-eu.ssl-images-amazon.com/images/I/41%2BzXD1Rj2L._SL200_.jpg)](https://www.amazon.es/dp/B076KKX31K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076KKX31K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

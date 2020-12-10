@@ -22,6 +22,9 @@ Tienes [Tuscany Silver - Pendiente de plata en forma de serpiente](https://www.a
 
 [![Tuscany Silver - Pendiente de plata en f](https://images-eu.ssl-images-amazon.com/images/I/21pVrAMfzgL._SL200_.jpg)](https://www.amazon.es/dp/B00TXC0MGI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TXC0MGI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

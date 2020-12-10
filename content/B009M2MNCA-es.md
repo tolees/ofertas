@@ -22,6 +22,9 @@ Ahora mismo tienes [Kartell Mobil 2025 Contenedores  Acero  Negro  49x70x81 cm](
 
 [![Kartell Mobil 2025 Contenedores  Acero  ](https://images-eu.ssl-images-amazon.com/images/I/41bWnsGTWgL._SL200_.jpg)](https://www.amazon.es/dp/B009M2MNCA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B009M2MNCA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Wx624Wb4 - entrenamiento/correr de cuero mujer  
 
 [![New Balance Wx624Wb4 - entrenamiento/cor](https://images-eu.ssl-images-amazon.com/images/I/31dPBXfUYeL._SL200_.jpg)](https://www.amazon.es/dp/B010FR4QRU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B010FR4QRU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

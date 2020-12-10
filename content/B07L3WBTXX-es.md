@@ -22,6 +22,9 @@ Está [Ifecco Cámara Deportiva WiFi 4k Ultra HD 16MP Cámara de acción Imperme
 
 [![Ifecco Cámara Deportiva WiFi 4k Ultra HD](https://images-eu.ssl-images-amazon.com/images/I/519hIG5cl2L._SL200_.jpg)](https://www.amazon.es/dp/B07L3WBTXX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L3WBTXX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [2018 Actualización de purificador de Aire de bajo Ruido con
 
 [![2018 Actualización de purificador de Air](https://images-eu.ssl-images-amazon.com/images/I/31ZkkIIJppL._SL200_.jpg)](https://www.amazon.es/dp/B07F3MVMG4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F3MVMG4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

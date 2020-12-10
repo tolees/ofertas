@@ -22,6 +22,9 @@ Está [albohes Aspirador inalámbrico con Gran Potencia Ligera y equilibrada  As
 
 [![albohes Aspirador inalámbrico con Gran P](https://images-eu.ssl-images-amazon.com/images/I/41mCCynCEyL._SL200_.jpg)](https://www.amazon.es/dp/B07DYKYRMQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DYKYRMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

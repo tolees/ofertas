@@ -22,6 +22,9 @@ Ahora mismo tienes [Shoulder Brace apoyo calor Protective Gear con correa ajusta
 
 [![Shoulder Brace apoyo calor Protective Ge](https://images-eu.ssl-images-amazon.com/images/I/41lDahIiZGL._SL200_.jpg)](https://www.amazon.es/dp/B07MBFG7YM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MBFG7YM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

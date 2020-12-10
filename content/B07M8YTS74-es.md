@@ -22,6 +22,9 @@ Ahora mismo tienes [OneMoreT Mochila de paja para mujer  mochila de verano para 
 
 [![OneMoreT Mochila de paja para mujer  moc](https://images-eu.ssl-images-amazon.com/images/I/41aEknQP66L._SL200_.jpg)](https://www.amazon.es/dp/B07M8YTS74/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M8YTS74/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

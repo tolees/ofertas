@@ -22,6 +22,9 @@ Está [BQ Aquaris V - Smartphone de 5.2"  WiFi  Qualcomm Snapdragon 435 Octa Cor
 
 [![BQ Aquaris V - Smartphone de 5.2"  WiFi ](https://images-eu.ssl-images-amazon.com/images/I/41TIiY8O7YL._SL200_.jpg)](https://www.amazon.es/dp/B07B4P65SW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B4P65SW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

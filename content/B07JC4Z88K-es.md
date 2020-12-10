@@ -22,6 +22,9 @@ Tienes [ELEGIANT Auriculares Gaming  Cascos Gaming PS4 con Micrófono 4D Sonido 
 
 [![ELEGIANT Auriculares Gaming  Cascos Gami](https://images-eu.ssl-images-amazon.com/images/I/51ifYP2wTBL._SL200_.jpg)](https://www.amazon.es/dp/B07JC4Z88K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JC4Z88K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

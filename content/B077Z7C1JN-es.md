@@ -22,6 +22,9 @@ Está [BOSS Athleisure Lester-20  Pantalones Hombre  Negro  Black 001    Talla d
 
 [![BOSS Athleisure Lester-20  Pantalones Ho](https://images-eu.ssl-images-amazon.com/images/I/410d0ppjIuL._SL200_.jpg)](https://www.amazon.es/dp/B077Z7C1JN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077Z7C1JN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

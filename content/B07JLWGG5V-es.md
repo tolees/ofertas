@@ -22,6 +22,9 @@ Tienes [MINI503 Gancho para la Oreja Mini Deportes Inalámbrico Auriculares Blue
 
 [![MINI503 Gancho para la Oreja Mini Deport](https://images-eu.ssl-images-amazon.com/images/I/517OvjV3EOL._SL200_.jpg)](https://www.amazon.es/dp/B07JLWGG5V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JLWGG5V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

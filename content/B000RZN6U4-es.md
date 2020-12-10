@@ -22,6 +22,9 @@ Está [Arnés-Bozal Entrenam. Top Trainer XL-corto  40 cm](https://www.amazon.es
 
 [![Arnés-Bozal Entrenam. Top Trainer XL-cor](https://images-eu.ssl-images-amazon.com/images/I/51cci3kTO6L._SL200_.jpg)](https://www.amazon.es/dp/B000RZN6U4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000RZN6U4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

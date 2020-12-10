@@ -22,6 +22,9 @@ Ahora mismo tienes [Logitech M330 Silent Plus - Ratón inalámbrico silencioso c
 
 [![Logitech M330 Silent Plus - Ratón inalám](https://images-eu.ssl-images-amazon.com/images/I/41NCkjUJMWL._SL200_.jpg)](https://www.amazon.es/dp/B01K7GEA3O/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01K7GEA3O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

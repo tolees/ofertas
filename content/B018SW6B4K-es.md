@@ -22,6 +22,9 @@ Está [Arena Fundamentals Logo Bañador  Hombre  Negro/Blanco  XL](https://www.a
 
 [![Arena Fundamentals Logo Bañador  Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41kul0Z-KFL._SL200_.jpg)](https://www.amazon.es/dp/B018SW6B4K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B018SW6B4K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

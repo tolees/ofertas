@@ -22,6 +22,9 @@ Está [adidas Originals X_PLR  Zapatillas Textil para Hombre  Azul  42 EU](https
 
 [![adidas Originals X_PLR  Zapatillas Texti](https://images-eu.ssl-images-amazon.com/images/I/51D6Aw2OMxL._SL200_.jpg)](https://www.amazon.es/dp/B0781VZZST/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0781VZZST/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

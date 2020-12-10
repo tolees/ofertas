@@ -22,6 +22,9 @@ Ahora mismo tienes [Springfield 1342495  Cárdigan para Mujer  Gris  Grey   Medi
 
 [![Springfield 1342495  Cárdigan para Mujer](https://images-eu.ssl-images-amazon.com/images/I/51akEYqdDqL._SL200_.jpg)](https://www.amazon.es/dp/B075SBTLP2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075SBTLP2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

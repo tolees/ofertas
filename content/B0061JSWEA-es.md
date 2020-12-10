@@ -22,6 +22,9 @@ Está [Philips AVENT SCF258/02 - Disco térmico de cuidado para el pecho  2 unid
 
 [![Philips AVENT SCF258/02 - Disco térmico ](https://images-eu.ssl-images-amazon.com/images/I/51IPTpdErJL._SL200_.jpg)](https://www.amazon.es/dp/B0061JSWEA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0061JSWEA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [American Bombshell B-7 Tango Plug  Color Rojo - 428 gr](https://www.amaz
 
 [![American Bombshell B-7 Tango Plug  Color](https://images-eu.ssl-images-amazon.com/images/I/31UO2iUBfmL._SL200_.jpg)](https://www.amazon.es/dp/B01DZXW2GI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01DZXW2GI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

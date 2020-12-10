@@ -22,6 +22,9 @@ Tienes [DOMISO 11-11 6 Pulgadas Funda Resistente al Agua Bolsa Protectora para O
 
 [![DOMISO 11-11 6 Pulgadas Funda Resistente](https://images-eu.ssl-images-amazon.com/images/I/51yatmGJwyL._SL200_.jpg)](https://www.amazon.es/dp/B07JFZ2BRQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JFZ2BRQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

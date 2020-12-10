@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjemark Knit Crew Neck Noos suéter  Verde  Dee
 
 [![JACK & JONES Jjemark Knit Crew Neck Noos]()](https://www.amazon.es/dp/B07FQRF1VY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FQRF1VY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

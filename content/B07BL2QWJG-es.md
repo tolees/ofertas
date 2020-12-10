@@ -22,6 +22,9 @@ Tienes [New Balance 997H  Zapatillas para Mujer  Negro  Black/Air   38 EU](https
 
 [![New Balance 997H  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41qbtI9FQ5L._SL200_.jpg)](https://www.amazon.es/dp/B07BL2QWJG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BL2QWJG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [LG 32LK6100PLB - Smart TV de 32"  LED  Full HD  Inteligencia
 
 [![LG 32LK6100PLB - Smart TV de 32"  LED  F](https://images-eu.ssl-images-amazon.com/images/I/21HoHi8igZL._SL200_.jpg)](https://www.amazon.es/dp/B07CJRJK1V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CJRJK1V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

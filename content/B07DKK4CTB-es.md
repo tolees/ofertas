@@ -22,6 +22,9 @@ Ahora mismo tienes [Kipling - Earthbeat M  Bolsos bandolera Mujer  Multicolor  D
 
 [![Kipling - Earthbeat M  Bolsos bandolera ](https://images-eu.ssl-images-amazon.com/images/I/516aDgPYFVL._SL200_.jpg)](https://www.amazon.es/dp/B07DKK4CTB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DKK4CTB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

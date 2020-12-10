@@ -22,6 +22,9 @@ Tienes [Radio para coche MP3  LESHP Reproductor MP3 autoradio 1 din FM  Bluetoot
 
 [![Radio para coche MP3  LESHP Reproductor ](https://images-eu.ssl-images-amazon.com/images/I/41C%2BwLbwtpL._SL200_.jpg)](https://www.amazon.es/dp/B078NK9HMS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078NK9HMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

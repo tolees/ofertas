@@ -22,6 +22,9 @@ Ahora mismo tienes [Etnies Blitz  Zapatillas de Skateboard para Hombre  Azul  Bl
 
 [![Etnies Blitz  Zapatillas de Skateboard p](https://images-eu.ssl-images-amazon.com/images/I/31jI7vZYViL._SL200_.jpg)](https://www.amazon.es/dp/B07FCQSY4S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FCQSY4S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

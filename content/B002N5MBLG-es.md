@@ -22,6 +22,9 @@ Está [Uni-ball Signo - Bolígrafo roller de gel con purpurina  8 unidades   col
 
 [![Uni-ball Signo - Bolígrafo roller de gel](https://images-eu.ssl-images-amazon.com/images/I/412bFCiLFhL._SL200_.jpg)](https://www.amazon.es/dp/B002N5MBLG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B002N5MBLG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [T5 Tubo LED de Luz Blanca 45w incandescente  72pcs LED Bombillas  DC12V-8
 
 [![T5 Tubo LED de Luz Blanca 45w incandesce](https://images-eu.ssl-images-amazon.com/images/I/41-V2yffZ6L._SL200_.jpg)](https://www.amazon.es/dp/B07DDDD7K5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDDD7K5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

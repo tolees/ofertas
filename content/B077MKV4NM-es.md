@@ -22,6 +22,9 @@ Tienes [Puma One 18.4 FG  Zapatillas de Fútbol para Hombre  Negro Black Silver-
 
 [![Puma One 18.4 FG  Zapatillas de Fútbol p](https://images-eu.ssl-images-amazon.com/images/I/41pcTrpH2eL._SL200_.jpg)](https://www.amazon.es/dp/B077MKV4NM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077MKV4NM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

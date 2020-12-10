@@ -22,6 +22,9 @@ Ahora mismo tienes [Emporio Armani Underwear 111389 Pantalones Cortos  Azul  Maz
 
 [![Emporio Armani Underwear 111389 Pantalon](https://images-eu.ssl-images-amazon.com/images/I/41B9wDvZk1L._SL200_.jpg)](https://www.amazon.es/dp/B078YNH3T5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078YNH3T5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

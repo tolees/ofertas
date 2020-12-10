@@ -22,6 +22,9 @@ Está [David Jones - Cm5034  Bolsos totes Mujer  Negro  Black   14x27x30 cm  W x
 
 [![David Jones - Cm5034  Bolsos totes Mujer](https://images-eu.ssl-images-amazon.com/images/I/415ushBWRqL._SL200_.jpg)](https://www.amazon.es/dp/B07KCHCYTC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCHCYTC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

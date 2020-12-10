@@ -22,6 +22,9 @@ Está [Monix Quick - Set de Dos ollas a presión rápidas de 4 litros y 6 litros
 
 [![Monix Quick - Set de Dos ollas a presión](https://images-eu.ssl-images-amazon.com/images/I/41-V2JVvZ6L._SL200_.jpg)](https://www.amazon.es/dp/B008KO2BVO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B008KO2BVO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

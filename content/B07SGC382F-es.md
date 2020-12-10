@@ -22,6 +22,9 @@ Ahora mismo tienes [KEXIN 128GB Memoria USB 3.0  Pendrive 128GB de 100MB / s Alt
 
 [![KEXIN 128GB Memoria USB 3.0  Pendrive 12](https://images-eu.ssl-images-amazon.com/images/I/315jswoTQXL._SL200_.jpg)](https://www.amazon.es/dp/B07SGC382F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07SGC382F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

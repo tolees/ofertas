@@ -22,6 +22,9 @@ Ahora mismo tienes [ELINKUME 10X G9 7W 104SMD 3014 Bombilla LED AC220V G9 7W lle
 
 [![ELINKUME 10X G9 7W 104SMD 3014 Bombilla ](https://images-eu.ssl-images-amazon.com/images/I/51iqhC%2BqeaL._SL200_.jpg)](https://www.amazon.es/dp/B00N5NVQDE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00N5NVQDE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

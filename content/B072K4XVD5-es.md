@@ -22,6 +22,9 @@ Tienes [Kemei 2 en 1 hombres afeitadora eléctrica funda de piel Para Sierra E
 
 [![Kemei 2 en 1 hombres afeitadora eléctric](https://images-eu.ssl-images-amazon.com/images/I/51R0y80ZZOL._SL200_.jpg)](https://www.amazon.es/dp/B072K4XVD5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072K4XVD5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

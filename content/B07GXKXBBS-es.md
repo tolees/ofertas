@@ -22,6 +22,9 @@ Está [Irrigador Dental Profesional iTeknic de Gran Capacidad Tanque de Agua de 
 
 [![Irrigador Dental Profesional iTeknic de ](https://images-eu.ssl-images-amazon.com/images/I/41HHaLJ8nZL._SL200_.jpg)](https://www.amazon.es/dp/B07GXKXBBS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GXKXBBS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

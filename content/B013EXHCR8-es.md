@@ -22,6 +22,9 @@ Tienes [GOZOO Star Wars T-Shirt Hombre Imperial Stormtrooper - Illusion 100% Alg
 
 [![GOZOO Star Wars T-Shirt Hombre Imperial ](https://images-eu.ssl-images-amazon.com/images/I/41vOTf%2B7olL._SL200_.jpg)](https://www.amazon.es/dp/B013EXHCR8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B013EXHCR8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

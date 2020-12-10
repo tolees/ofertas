@@ -22,6 +22,9 @@ Ahora mismo tienes [Philips Daily Collection Batidora HR2105/00 - Licuadora  Ace
 
 [![Philips Daily Collection Batidora HR2105](https://images-eu.ssl-images-amazon.com/images/I/318fUY3hRiL._SL200_.jpg)](https://www.amazon.es/dp/B00PNQ99V2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00PNQ99V2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

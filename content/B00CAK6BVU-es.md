@@ -22,6 +22,9 @@ Tienes [Aigle BENYL M  Botas de Goma de Trabajo para Hombre  Marrón  Brun   35 
 
 [![Aigle BENYL M  Botas de Goma de Trabajo ](https://images-eu.ssl-images-amazon.com/images/I/31NNEt0rxhL._SL200_.jpg)](https://www.amazon.es/dp/B00CAK6BVU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CAK6BVU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

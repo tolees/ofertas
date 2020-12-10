@@ -22,6 +22,9 @@ Tienes [Yizhet 4 Piezas Brazalete Reflectante Brazalete LED con luz de Seguridad
 
 [![Yizhet 4 Piezas Brazalete Reflectante Br](https://images-eu.ssl-images-amazon.com/images/I/414ccdVDXAL._SL200_.jpg)](https://www.amazon.es/dp/B07PJSPNM2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PJSPNM2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

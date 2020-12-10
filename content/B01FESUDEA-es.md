@@ -22,6 +22,9 @@ Está [French Connection Machine Gun Stretch  Pantalones para Hombre  Azul W36L3
 
 [![French Connection Machine Gun Stretch  P](https://images-eu.ssl-images-amazon.com/images/I/41Eu3asojnL._SL200_.jpg)](https://www.amazon.es/dp/B01FESUDEA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FESUDEA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

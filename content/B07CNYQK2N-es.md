@@ -22,6 +22,9 @@ Tienes [iPad 9.7 2017/2018 Funda de teclado  Besmall teclado inalámbrico Blueto
 
 [![iPad 9.7 2017/2018 Funda de teclado  Bes](https://images-eu.ssl-images-amazon.com/images/I/51EEaZbxd2L._SL200_.jpg)](https://www.amazon.es/dp/B07CNYQK2N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CNYQK2N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

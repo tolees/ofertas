@@ -22,6 +22,9 @@ Está [Hauck Sun Plus - Silla de paseo compacta y ligera  diseño Disney para be
 
 [![Hauck Sun Plus - Silla de paseo compacta](https://images-eu.ssl-images-amazon.com/images/I/41lxVV6VaaL._SL200_.jpg)](https://www.amazon.es/dp/B01LRUUYVG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LRUUYVG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

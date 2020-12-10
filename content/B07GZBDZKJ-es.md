@@ -22,6 +22,9 @@ Está [GUARD & REVIVAL TREAT Cuerda Saltar de Velocidad Profesional  Jump Rope G
 
 [![GUARD & REVIVAL TREAT Cuerda Saltar de V](https://images-eu.ssl-images-amazon.com/images/I/51zdyFCxDtL._SL200_.jpg)](https://www.amazon.es/dp/B07GZBDZKJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GZBDZKJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

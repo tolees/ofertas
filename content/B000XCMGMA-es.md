@@ -22,6 +22,9 @@ Tienes [Olympus 50-200 mm f/2.8-3.5 ED Zuiko Digital - Objetivo para Cuatro terc
 
 [![Olympus 50-200 mm f/2.8-3.5 ED Zuiko Dig](https://images-eu.ssl-images-amazon.com/images/I/41cK4MvC5VL._SL200_.jpg)](https://www.amazon.es/dp/B000XCMGMA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000XCMGMA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Colgante cromo con pantalla](https://www.amazon.es/dp/B0117OUGU6/?tag=to
 
 [![Colgante cromo con pantalla](https://images-eu.ssl-images-amazon.com/images/I/51BSjKyWXYL._SL200_.jpg)](https://www.amazon.es/dp/B0117OUGU6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0117OUGU6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Bambino Mio  pañal bañador  flamenco rosa  extra grande  2+ años ](htt
 
 [![Bambino Mio  pañal bañador  flamenco ros](https://images-eu.ssl-images-amazon.com/images/I/51iDFessYVL._SL200_.jpg)](https://www.amazon.es/dp/B07C4RJT2Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C4RJT2Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

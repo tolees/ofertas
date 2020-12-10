@@ -22,6 +22,9 @@ Tienes [PAPSTAR 18199 Pure - Tenedores de Madera  100 Unidades  16 5 cm ](https:
 
 [![PAPSTAR 18199 Pure - Tenedores de Madera](https://images-eu.ssl-images-amazon.com/images/I/414q5CIM9YL._SL200_.jpg)](https://www.amazon.es/dp/B000SYDKVO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000SYDKVO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

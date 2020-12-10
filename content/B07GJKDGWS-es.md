@@ -22,6 +22,9 @@ Está [Sergio Tacchini Focus Nbx  Zapatillas de Cross para Hombre  Azul  Navy 52
 
 [![Sergio Tacchini Focus Nbx  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41QqDx8-iYL._SL200_.jpg)](https://www.amazon.es/dp/B07GJKDGWS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GJKDGWS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

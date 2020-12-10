@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance M420V4  Zapatillas de Deporte para Hombre   Negr
 
 [![New Balance M420V4  Zapatillas de Deport](https://images-eu.ssl-images-amazon.com/images/I/41B%2BbkEBbVL._SL200_.jpg)](https://www.amazon.es/dp/B06XS68JXR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XS68JXR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

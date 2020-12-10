@@ -22,6 +22,9 @@ Está [Maybelline New York Paleta de Maquillaje Master Bzonze - 1 Paleta de Maqu
 
 [![Maybelline New York Paleta de Maquillaje](https://images-eu.ssl-images-amazon.com/images/I/514ScU0SgWL._SL200_.jpg)](https://www.amazon.es/dp/B06XDG9SN4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XDG9SN4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

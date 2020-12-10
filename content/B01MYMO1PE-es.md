@@ -22,6 +22,9 @@ Ahora mismo tienes [Easy-Link Lector De Tarjetas USB 3.0 Lector De Tarjetas De M
 
 [![Easy-Link Lector De Tarjetas USB 3.0 Lec](https://images-eu.ssl-images-amazon.com/images/I/31YjRHwYf4L._SL200_.jpg)](https://www.amazon.es/dp/B01MYMO1PE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MYMO1PE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

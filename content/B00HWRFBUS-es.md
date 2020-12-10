@@ -22,6 +22,9 @@ Tienes [Maurer 19041415 Linterna LED  72  con Colgador e imán Grande](https://w
 
 [![Maurer 19041415 Linterna LED  72  con Co](https://images-eu.ssl-images-amazon.com/images/I/31JN4ApoGfL._SL200_.jpg)](https://www.amazon.es/dp/B00HWRFBUS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HWRFBUS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

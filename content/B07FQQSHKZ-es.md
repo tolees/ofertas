@@ -22,6 +22,9 @@ Está [Clarks Step Maro Sol  Zapatillas para Hombre  Azul  Navy-   44.5 EU](http
 
 [![Clarks Step Maro Sol  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/41f3HJNBg%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07FQQSHKZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQQSHKZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

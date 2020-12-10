@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok CN4815  Zapatillas Infantil  Multicolor  Outdoor/Grap
 
 [![Reebok CN4815  Zapatillas Infantil  Mult](https://images-eu.ssl-images-amazon.com/images/I/41zq2GYvmqL._SL200_.jpg)](https://www.amazon.es/dp/B07FYV99V4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FYV99V4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

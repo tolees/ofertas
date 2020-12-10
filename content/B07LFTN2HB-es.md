@@ -22,6 +22,9 @@ Tienes [Pepe Jeans David Tech  Zapatillas para Niños  Negro  999BLACK 999   37 
 
 [![Pepe Jeans David Tech  Zapatillas para N](https://images-eu.ssl-images-amazon.com/images/I/41q17rzTyGL._SL200_.jpg)](https://www.amazon.es/dp/B07LFTN2HB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LFTN2HB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [btv 60001 Cerradura buzon kit-1 cromado Cromo  0](https://www.amazon.es/
 
 [![btv 60001 Cerradura buzon kit-1 cromado ](https://images-eu.ssl-images-amazon.com/images/I/31s2Oa4ODOL._SL200_.jpg)](https://www.amazon.es/dp/B00Q54UWM6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00Q54UWM6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

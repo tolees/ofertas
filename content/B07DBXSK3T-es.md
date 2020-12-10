@@ -22,6 +22,9 @@ Está [Puma Nova 90 s Bloc Wn s  Zapatillas para Mujer  Blanco White/Pale Pink  
 
 [![Puma Nova 90 s Bloc Wn s  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41vcxnFg2mL._SL200_.jpg)](https://www.amazon.es/dp/B07DBXSK3T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DBXSK3T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

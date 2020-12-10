@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Flex Appeal 2.0-Insights  Zapatillas sin Cordones p
 
 [![Skechers Flex Appeal 2.0-Insights  Zapat](https://images-eu.ssl-images-amazon.com/images/I/512i1nXRS8L._SL200_.jpg)](https://www.amazon.es/dp/B0721KRNK4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0721KRNK4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

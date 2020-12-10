@@ -22,6 +22,9 @@ Está [Le Coq Sportif LCS R900 Dynamic  Zapatillas para Mujer  Gris  Gray BeechG
 
 [![Le Coq Sportif LCS R900 Dynamic  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41E7uHPBszL._SL200_.jpg)](https://www.amazon.es/dp/B01GQ744FC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GQ744FC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

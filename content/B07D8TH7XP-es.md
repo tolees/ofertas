@@ -22,6 +22,9 @@ Está [Alloyseed Compresor de Aire Portátil Digital Bomba de Aire Eléctrica Au
 
 [![Alloyseed Compresor de Aire Portátil Dig](https://images-eu.ssl-images-amazon.com/images/I/51pfoMjL9AL._SL200_.jpg)](https://www.amazon.es/dp/B07D8TH7XP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D8TH7XP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [SUMGOTT Aspirador sin Cable 9000Pa Aspiración 2 Velocidades Aspirador Ci
 
 [![SUMGOTT Aspirador sin Cable 9000Pa Aspir](https://images-eu.ssl-images-amazon.com/images/I/41iGQyX914L._SL200_.jpg)](https://www.amazon.es/dp/B07KPWN3PF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPWN3PF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

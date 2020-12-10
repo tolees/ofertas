@@ -22,6 +22,9 @@ Ahora mismo tienes [ROYAL SLEEP Colchón viscoelástico 105x190 de máxima Calid
 
 [![ROYAL SLEEP Colchón viscoelástico 105x19](https://images-eu.ssl-images-amazon.com/images/I/51JZI2cL-XL._SL200_.jpg)](https://www.amazon.es/dp/B07L9CR7ZJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07L9CR7ZJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

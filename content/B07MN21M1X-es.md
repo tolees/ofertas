@@ -22,6 +22,9 @@ Ahora mismo tienes [MTNG 69056  Zapatillas para Mujer  Beige  Action PU Nude/Bla
 
 [![MTNG 69056  Zapatillas para Mujer  Beige](https://images-eu.ssl-images-amazon.com/images/I/31SKq5LsDvL._SL200_.jpg)](https://www.amazon.es/dp/B07MN21M1X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MN21M1X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

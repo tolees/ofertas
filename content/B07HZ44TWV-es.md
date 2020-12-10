@@ -22,6 +22,9 @@ Tienes [SECADOR DE PELO SECADORA SEMI PROFESIONAL 2000W DIFUSOR INCLUIDO 2 VELOC
 
 [![SECADOR DE PELO SECADORA SEMI PROFESIONA](https://images-eu.ssl-images-amazon.com/images/I/413ATZcx1zL._SL200_.jpg)](https://www.amazon.es/dp/B07HZ44TWV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HZ44TWV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

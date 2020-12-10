@@ -22,6 +22,9 @@ Está [Playtex 24h Soft Sujetador con aros  Beige  Arena   110D para Mujer](http
 
 [![Playtex 24h Soft Sujetador con aros  Bei](https://images-eu.ssl-images-amazon.com/images/I/41WSvDlA5iL._SL200_.jpg)](https://www.amazon.es/dp/B00913PCNW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00913PCNW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

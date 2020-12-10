@@ -22,6 +22,9 @@ Está [REYLEO Maleta Cabina Rígida 20" Equipaje de Mano con Puerto de Carga USB
 
 [![REYLEO Maleta Cabina Rígida 20" Equipaje](https://images-eu.ssl-images-amazon.com/images/I/51QsSzYNadL._SL200_.jpg)](https://www.amazon.es/dp/B07KCFX417/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCFX417/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

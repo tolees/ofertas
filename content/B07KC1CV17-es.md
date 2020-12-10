@@ -22,6 +22,9 @@ Está [Palazen Organizador de Ropa Interior Plegable Organizador de Armario Pleg
 
 [![Palazen Organizador de Ropa Interior Ple](https://images-eu.ssl-images-amazon.com/images/I/51RRu5NY3xL._SL200_.jpg)](https://www.amazon.es/dp/B07KC1CV17/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KC1CV17/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

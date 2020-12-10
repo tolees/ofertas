@@ -22,6 +22,9 @@ Está [New Look Faux Fur6035021  estola para Mujer  Rosa  Mid Pink 73   única  
 
 [![New Look Faux Fur6035021  estola para Mu](https://images-eu.ssl-images-amazon.com/images/I/41LgiUTq9mL._SL200_.jpg)](https://www.amazon.es/dp/B07KK2XBB1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KK2XBB1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

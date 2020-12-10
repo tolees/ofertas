@@ -22,6 +22,9 @@ Está [Calvin Klein Jeans Dora Canvas  Zapatillas para Mujer  Azul  Chambray   3
 
 [![Calvin Klein Jeans Dora Canvas  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41W40%2BcvqqL._SL200_.jpg)](https://www.amazon.es/dp/B01MQOKFWY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MQOKFWY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

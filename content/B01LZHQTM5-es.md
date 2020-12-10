@@ -22,6 +22,9 @@ Tienes [Seagate Backup Plus Slim - Disco duro externo portátil  5TB  Alámbrico
 
 [![Seagate Backup Plus Slim - Disco duro ex](https://images-eu.ssl-images-amazon.com/images/I/31FH%2BWD%2Bo-L._SL200_.jpg)](https://www.amazon.es/dp/B01LZHQTM5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LZHQTM5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

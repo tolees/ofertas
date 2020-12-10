@@ -22,6 +22,9 @@ Está [Reebok Cl Lthr Clean Exotics  Zapatillas de Deporte para Mujer  Rosa  San
 
 [![Reebok Cl Lthr Clean Exotics  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41m8PG0EWvL._SL200_.jpg)](https://www.amazon.es/dp/B073RLJP3H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RLJP3H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

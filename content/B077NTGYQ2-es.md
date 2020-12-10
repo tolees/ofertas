@@ -22,6 +22,9 @@ Está [Adidas Duramo Lite 2.0  Zapatillas de Entrenamiento para Hombre  Azul  No
 
 [![Adidas Duramo Lite 2.0  Zapatillas de En](https://images-eu.ssl-images-amazon.com/images/I/41ACasAk95L._SL200_.jpg)](https://www.amazon.es/dp/B077NTGYQ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077NTGYQ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

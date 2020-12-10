@@ -22,6 +22,9 @@ Tienes [Ewent EW7044 Carcasa para Discos Duros HDD y SSD de 2.5"   SATA I/II/III
 
 [![Ewent EW7044 Carcasa para Discos Duros H](https://images-eu.ssl-images-amazon.com/images/I/31TH%2BwsL7VL._SL200_.jpg)](https://www.amazon.es/dp/B01MRBFH2L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MRBFH2L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Emporio Armani Underwear 111389 Pantalones Cortos   Grigio Melange Nero 
 
 [![Emporio Armani Underwear 111389 Pantalon](https://images-eu.ssl-images-amazon.com/images/I/41kLMArbWmL._SL200_.jpg)](https://www.amazon.es/dp/B078YNCSF3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078YNCSF3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

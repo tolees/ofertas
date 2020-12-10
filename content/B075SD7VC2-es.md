@@ -22,6 +22,9 @@ Tienes [Gant The Crüe  suéter para Mujer  Gris  Grey Melange  12  Talla del Fa
 
 [![Gant The Crüe  suéter para Mujer  Gris  ](https://images-eu.ssl-images-amazon.com/images/I/41sc4PgM1yL._SL200_.jpg)](https://www.amazon.es/dp/B075SD7VC2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075SD7VC2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

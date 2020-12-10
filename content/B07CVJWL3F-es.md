@@ -22,6 +22,9 @@ Está [Skechers Ryler-Mobert  Botas Chukka para Hombre  Negro  Black Blk   43 EU
 
 [![Skechers Ryler-Mobert  Botas Chukka para](https://images-eu.ssl-images-amazon.com/images/I/41ab5GfBTZL._SL200_.jpg)](https://www.amazon.es/dp/B07CVJWL3F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CVJWL3F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

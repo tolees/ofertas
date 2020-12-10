@@ -22,6 +22,9 @@ Tienes [Metabo DS 125 - Esmeriladora doble  discos 125 mm](https://www.amazon.es
 
 [![Metabo DS 125 - Esmeriladora doble  disc](https://images-eu.ssl-images-amazon.com/images/I/41ssVc2IhSL._SL200_.jpg)](https://www.amazon.es/dp/B003VRBA3K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003VRBA3K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

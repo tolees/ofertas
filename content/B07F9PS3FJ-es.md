@@ -22,6 +22,9 @@ Está [NICREW Calentador de Acuario 100W  Calentador Sumergible con Indicador LE
 
 [![NICREW Calentador de Acuario 100W  Calen](https://images-eu.ssl-images-amazon.com/images/I/41KDRZcLmQL._SL200_.jpg)](https://www.amazon.es/dp/B07F9PS3FJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F9PS3FJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

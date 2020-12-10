@@ -22,6 +22,9 @@ Está [Aigostar 178635 - Lámpara de escritorio tipo flexo  LED de 5 W  última 
 
 [![Aigostar 178635 - Lámpara de escritorio ](https://images-eu.ssl-images-amazon.com/images/I/41aEBEIIDKL._SL200_.jpg)](https://www.amazon.es/dp/B06ZYQR91C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06ZYQR91C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

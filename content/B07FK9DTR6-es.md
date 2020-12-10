@@ -22,6 +22,9 @@ Está [Nike Wmns Air Zoom Pegasus 35  Zapatillas de Running para Mujer  Rojo  Tr
 
 [![Nike Wmns Air Zoom Pegasus 35  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41FOwV-tLoL._SL200_.jpg)](https://www.amazon.es/dp/B07FK9DTR6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FK9DTR6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

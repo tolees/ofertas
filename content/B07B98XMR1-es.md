@@ -22,6 +22,9 @@ Está [Clarks Tri Spark  Zapatillas para Hombre  Verde  Khaki   43 EU](https://w
 
 [![Clarks Tri Spark  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41I8K09qa5L._SL200_.jpg)](https://www.amazon.es/dp/B07B98XMR1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B98XMR1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

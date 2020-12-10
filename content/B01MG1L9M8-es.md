@@ -22,6 +22,9 @@ Está [The House of Marley Riddim BT Mini Mono Portable Speaker Negro, Madera - 
 
 [![The House of Marley Riddim BT Mini Mono ](https://images-eu.ssl-images-amazon.com/images/I/4122kX%2BEyIL._SL200_.jpg)](https://www.amazon.es/dp/B01MG1L9M8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MG1L9M8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

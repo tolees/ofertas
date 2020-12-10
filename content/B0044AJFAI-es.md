@@ -22,6 +22,9 @@ Ahora mismo tienes [Panasonic RP-HV104E-K - Auriculares de botón  negro](https:
 
 [![Panasonic RP-HV104E-K - Auriculares de b](https://images-eu.ssl-images-amazon.com/images/I/31%2ByoxfndcL._SL200_.jpg)](https://www.amazon.es/dp/B0044AJFAI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0044AJFAI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

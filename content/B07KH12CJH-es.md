@@ -22,6 +22,9 @@ Está [Burton Classic Mountain High Camisetas  Hombre  Gray Heather  L](https://
 
 [![Burton Classic Mountain High Camisetas  ](https://images-eu.ssl-images-amazon.com/images/I/31E4Z309WcL._SL200_.jpg)](https://www.amazon.es/dp/B07KH12CJH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KH12CJH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

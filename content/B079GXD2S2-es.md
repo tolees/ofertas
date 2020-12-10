@@ -22,6 +22,9 @@ Ahora mismo tienes [Donix Vibrador de Silicona Médica con Control Remoto 12 Mod
 
 [![Donix Vibrador de Silicona Médica con Co](https://images-eu.ssl-images-amazon.com/images/I/41GqdKAz6QL._SL200_.jpg)](https://www.amazon.es/dp/B079GXD2S2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079GXD2S2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Q4 BND Tech Trackster Pants  Hombre  Black Heather  M](https://www.a
 
 [![Puma Q4 BND Tech Trackster Pants  Hombre](https://images-eu.ssl-images-amazon.com/images/I/31PGc8DDieL._SL200_.jpg)](https://www.amazon.es/dp/B07DFXXRWC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFXXRWC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

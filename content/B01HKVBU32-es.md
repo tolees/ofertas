@@ -22,6 +22,9 @@ Tienes [Colchoncillo de 7 62 cm para colchón  ignífugo  Langria  Blanco  Doubl
 
 [![Colchoncillo de 7 62 cm para colchón  ig](https://images-eu.ssl-images-amazon.com/images/I/21cMj7K-zRL._SL200_.jpg)](https://www.amazon.es/dp/B01HKVBU32/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01HKVBU32/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

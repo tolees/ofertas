@@ -22,6 +22,9 @@ Tienes [Cereria Carlo Nappi Velas Apple y Canela Fragancia en blíster  30 Unid
 
 [![Cereria Carlo Nappi Velas Apple y Canela](https://images-eu.ssl-images-amazon.com/images/I/41COKikb6VL._SL200_.jpg)](https://www.amazon.es/dp/B078MNKWMR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078MNKWMR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

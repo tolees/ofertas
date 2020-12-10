@@ -22,6 +22,9 @@ Ahora mismo tienes [Nikon AF-Nikkor 20mm F2.8 D - Objetivo con Montura para Niko
 
 [![Nikon AF-Nikkor 20mm F2.8 D - Objetivo c](https://images-eu.ssl-images-amazon.com/images/I/3118SSH64FL._SL200_.jpg)](https://www.amazon.es/dp/B00005LEOC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00005LEOC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

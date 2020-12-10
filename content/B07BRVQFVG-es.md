@@ -22,6 +22,9 @@ Está [GreeSuit Discos Deslizantesde Ejercicios básicos Slider 2 Discos desliza
 
 [![GreeSuit Discos Deslizantesde Ejercicios](https://images-eu.ssl-images-amazon.com/images/I/41aK6hcEgaL._SL200_.jpg)](https://www.amazon.es/dp/B07BRVQFVG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BRVQFVG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

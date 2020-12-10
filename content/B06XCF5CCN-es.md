@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW ARC 3D Low Waist Boyfriend Jeans  Azul  lt aged r
 
 [![G-STAR RAW ARC 3D Low Waist Boyfriend Je](https://images-eu.ssl-images-amazon.com/images/I/41dker-BTQL._SL200_.jpg)](https://www.amazon.es/dp/B06XCF5CCN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XCF5CCN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

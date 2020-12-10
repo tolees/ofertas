@@ -22,6 +22,9 @@ Tienes [LANGRIA Estantería por módulos  Zapatero en Torre DIY 10 Cubos  Armari
 
 [![LANGRIA Estantería por módulos  Zapatero](https://images-eu.ssl-images-amazon.com/images/I/41Om3B9%2BF0L._SL200_.jpg)](https://www.amazon.es/dp/B06XFXVCQL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XFXVCQL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

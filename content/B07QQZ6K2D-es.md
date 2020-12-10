@@ -22,6 +22,9 @@ Tienes [Aicook Cafetera  Cafetera de Goteo  Pantalla Táctil con Reloj  Cafetera
 
 [![Aicook Cafetera  Cafetera de Goteo  Pant](https://images-eu.ssl-images-amazon.com/images/I/41pqUZQyGxL._SL200_.jpg)](https://www.amazon.es/dp/B07QQZ6K2D/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QQZ6K2D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

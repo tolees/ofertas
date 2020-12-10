@@ -22,6 +22,9 @@ Tienes [Salomon RX Moc 4.0  Calzado de recuperación para Hombre  Azul  Poseidon
 
 [![Salomon RX Moc 4.0  Calzado de recuperac](https://images-eu.ssl-images-amazon.com/images/I/41v59gEz08L._SL200_.jpg)](https://www.amazon.es/dp/B07CZF5XXY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZF5XXY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

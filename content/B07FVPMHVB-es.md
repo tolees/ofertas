@@ -22,6 +22,9 @@ Está [Luces Navidad a Pilas  2 x 4M Cadena de Luces 40 LEDs  Guirnaldas Luminos
 
 [![Luces Navidad a Pilas  2 x 4M Cadena de ](https://images-eu.ssl-images-amazon.com/images/I/517gocjw%2BTL._SL200_.jpg)](https://www.amazon.es/dp/B07FVPMHVB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FVPMHVB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

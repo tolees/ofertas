@@ -22,6 +22,9 @@ Ahora mismo tienes [Joma Champion II - Polo para niño de 14 años  Color Burdeo
 
 [![Joma Champion II - Polo para niño de 14 ](https://images-eu.ssl-images-amazon.com/images/I/41eBNyop0AL._SL200_.jpg)](https://www.amazon.es/dp/B01CYNT7ZO/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01CYNT7ZO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

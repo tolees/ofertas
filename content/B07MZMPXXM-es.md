@@ -22,6 +22,9 @@ Está [Michael Kors Shoulder  Shopper para Mujer  Blanco  Optic White   15x10x5 
 
 [![Michael Kors Shoulder  Shopper para Muje](https://images-eu.ssl-images-amazon.com/images/I/31ELzgh88cL._SL200_.jpg)](https://www.amazon.es/dp/B07MZMPXXM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MZMPXXM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Trust Gaming - Silla para Juegos GXT 705W  Color Blanco](https://www.amaz
 
 [![Trust Gaming - Silla para Juegos GXT 705](https://images-eu.ssl-images-amazon.com/images/I/418UVO%2BwUqL._SL200_.jpg)](https://www.amazon.es/dp/B07MSTZHNW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MSTZHNW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

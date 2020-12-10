@@ -22,6 +22,9 @@ Ahora mismo tienes [Purina Beyond Pienso Natural para Perro Adulto Cordero y Ceb
 
 [![Purina Beyond Pienso Natural para Perro ](https://images-eu.ssl-images-amazon.com/images/I/51McWNWCyHL._SL200_.jpg)](https://www.amazon.es/dp/B07B8YWHT5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B8YWHT5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

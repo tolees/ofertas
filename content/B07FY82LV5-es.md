@@ -22,6 +22,9 @@ Está [Zubita Set de Cortapizza  2 en 1 de Acero Inoxidable Cocina Gadgets Herra
 
 [![Zubita Set de Cortapizza  2 en 1 de Acer](https://images-eu.ssl-images-amazon.com/images/I/41saFl%2BdFdL._SL200_.jpg)](https://www.amazon.es/dp/B07FY82LV5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FY82LV5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

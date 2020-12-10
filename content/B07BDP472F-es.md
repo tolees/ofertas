@@ -22,6 +22,9 @@ Ahora mismo tienes [Miquel Rius Miquelrius-16950 Mochila Doble  Negro  Color 169
 
 [![Miquel Rius Miquelrius-16950 Mochila Dob](https://images-eu.ssl-images-amazon.com/images/I/31iwHhOuC%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07BDP472F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BDP472F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

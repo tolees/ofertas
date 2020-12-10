@@ -22,6 +22,9 @@ Está [Funko Pop!- Stranger Things Will Figura de Vinilo  13325 ](https://www.am
 
 [![Funko Pop!- Stranger Things Will Figura ](https://images-eu.ssl-images-amazon.com/images/I/511UisDPwQL._SL200_.jpg)](https://www.amazon.es/dp/B01MPZFK6N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MPZFK6N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

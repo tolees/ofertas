@@ -22,6 +22,9 @@ Está [Ultrasport Sport Indoor Schuh  Zapatillas de Deporte Niños Unisex  Blanc
 
 [![Ultrasport Sport Indoor Schuh  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/410zMd0C7aL._SL200_.jpg)](https://www.amazon.es/dp/B0062I5BCQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0062I5BCQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

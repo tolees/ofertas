@@ -22,6 +22,9 @@ Tienes [LELO TOR 2 Anillo Vibrador para el Pene Black: Anillo Ajustable  Recarga
 
 [![LELO TOR 2 Anillo Vibrador para el Pene ](https://images-eu.ssl-images-amazon.com/images/I/31zt6XSSU8L._SL200_.jpg)](https://www.amazon.es/dp/B006VXXLHY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B006VXXLHY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [AXE Desodorante Gold Duplo Ahorro - 2 Paquetes de 2 x 150 ml: Total: 600 
 
 [![AXE Desodorante Gold Duplo Ahorro - 2 Pa](https://images-eu.ssl-images-amazon.com/images/I/41hWE7QyWaL._SL200_.jpg)](https://www.amazon.es/dp/B07BJGMVSQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJGMVSQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

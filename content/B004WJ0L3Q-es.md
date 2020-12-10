@@ -22,6 +22,9 @@ Está [Furminator Herramienta de muda para gatos grandes de pelo largo L](https:
 
 [![Furminator Herramienta de muda para gato](https://images-eu.ssl-images-amazon.com/images/I/41l43V5YpeL._SL200_.jpg)](https://www.amazon.es/dp/B004WJ0L3Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004WJ0L3Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

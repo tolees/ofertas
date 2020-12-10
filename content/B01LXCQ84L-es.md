@@ -22,6 +22,9 @@ Está [American Tourister - Herolite Super Light Upright 55/20  55 cm  41L  Cact
 
 [![American Tourister - Herolite Super Ligh](https://images-eu.ssl-images-amazon.com/images/I/41OJ3KIl2lL._SL200_.jpg)](https://www.amazon.es/dp/B01LXCQ84L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LXCQ84L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

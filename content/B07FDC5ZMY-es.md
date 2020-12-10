@@ -22,6 +22,9 @@ Tienes [SUNLU LCD Writing Tablet  9 Inch Electronic Drawing and Writing Board  P
 
 [![SUNLU LCD Writing Tablet  9 Inch Electro](https://images-eu.ssl-images-amazon.com/images/I/41vq%2BCWIWlL._SL200_.jpg)](https://www.amazon.es/dp/B07FDC5ZMY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FDC5ZMY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

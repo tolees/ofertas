@@ -22,6 +22,9 @@ Está [SET 7 en 1 Herramientas de Jardinería CookJoy Kit de Jardineria con asas
 
 [![SET 7 en 1 Herramientas de Jardinería Co](https://images-eu.ssl-images-amazon.com/images/I/41ztzDw5oFL._SL200_.jpg)](https://www.amazon.es/dp/B07CXGZJJM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CXGZJJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

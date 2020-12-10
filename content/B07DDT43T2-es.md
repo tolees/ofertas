@@ -22,6 +22,9 @@ Está [Odlo Midlayer 1/2 Zip Royale Forro Polar  Niños  Rosa  Hibiscus   164](h
 
 [![Odlo Midlayer 1/2 Zip Royale Forro Polar](https://images-eu.ssl-images-amazon.com/images/I/31FTwkeMShL._SL200_.jpg)](https://www.amazon.es/dp/B07DDT43T2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDT43T2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

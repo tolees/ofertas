@@ -22,6 +22,9 @@ Tienes [Rexel Office Pencil - Pack de 144 lápices HB  madera natural   color ma
 
 [![Rexel Office Pencil - Pack de 144 lápice](https://images-eu.ssl-images-amazon.com/images/I/5151mZ4wvxL._SL200_.jpg)](https://www.amazon.es/dp/B000SHSIDG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000SHSIDG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

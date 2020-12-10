@@ -22,6 +22,9 @@ Tienes [The North Face Equipment TNF Bolsa con tapa enrollable Flyweight  Unisex
 
 [![The North Face Equipment TNF Bolsa con t](https://images-eu.ssl-images-amazon.com/images/I/31BgM4Fh7jL._SL200_.jpg)](https://www.amazon.es/dp/B072YZC51Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072YZC51Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

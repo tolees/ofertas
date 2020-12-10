@@ -22,6 +22,9 @@ Tienes [Skechers Dynamight 2.0 to Eye  Zapatillas para Mujer  Negro  Black BBK  
 
 [![Skechers Dynamight 2.0 to Eye  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41FWxb2-7KL._SL200_.jpg)](https://www.amazon.es/dp/B07CW1J1LV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CW1J1LV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

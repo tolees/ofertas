@@ -22,6 +22,9 @@ Está [Approx APPNBCP15BR - Maletín para portátil de hasta 15.6"  Color Negro 
 
 [![Approx APPNBCP15BR - Maletín para portát](https://images-eu.ssl-images-amazon.com/images/I/41qXAhXqxUL._SL200_.jpg)](https://www.amazon.es/dp/B00O82O6OW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00O82O6OW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Salomon RX Break 4.0  Zapatillas de Trail Running para Hombre  Azul  Nav
 
 [![Salomon RX Break 4.0  Zapatillas de Trai](https://images-eu.ssl-images-amazon.com/images/I/315vC7iYCJL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ5GFC3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZ5GFC3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

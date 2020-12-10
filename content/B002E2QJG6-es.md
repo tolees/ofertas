@@ -22,6 +22,9 @@ Está [St. Germain Licores - 700 ml](https://www.amazon.es/dp/B002E2QJG6/?tag=to
 
 [![St. Germain Licores - 700 ml](https://images-eu.ssl-images-amazon.com/images/I/319e7Hx00vL._SL200_.jpg)](https://www.amazon.es/dp/B002E2QJG6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B002E2QJG6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

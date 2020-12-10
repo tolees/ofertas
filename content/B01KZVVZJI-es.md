@@ -22,6 +22,9 @@ Está [Clarks Reazor Edge  Mocasines para Hombre  Negro  Black Leather-   41.5 E
 
 [![Clarks Reazor Edge  Mocasines para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41OoTHAw-SL._SL200_.jpg)](https://www.amazon.es/dp/B01KZVVZJI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01KZVVZJI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

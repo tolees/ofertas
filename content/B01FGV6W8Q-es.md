@@ -22,6 +22,9 @@ Tienes [L Óreal Mythic Oil Mascarilla Cabello Normal o Fino - 200 ml](https://w
 
 [![L Óreal Mythic Oil Mascarilla Cabello No](https://images-eu.ssl-images-amazon.com/images/I/41w4KyoyLkL._SL200_.jpg)](https://www.amazon.es/dp/B01FGV6W8Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FGV6W8Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

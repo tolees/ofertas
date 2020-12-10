@@ -22,6 +22,9 @@ Tienes [Only Onltitania L/s Pullover CC Knt suéter   Cloud Dancer Stripes: W. B
 
 [![Only Onltitania L/s Pullover CC Knt suét](https://images-eu.ssl-images-amazon.com/images/I/41iG4MC2p9L._SL200_.jpg)](https://www.amazon.es/dp/B0783RMN3T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0783RMN3T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

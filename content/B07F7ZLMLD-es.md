@@ -22,6 +22,9 @@ Ahora mismo tienes [Kivors 3G Tablet de 10.1 Pulgadas IPS HD  Quad Core Processo
 
 [![Kivors 3G Tablet de 10.1 Pulgadas IPS HD](https://images-eu.ssl-images-amazon.com/images/I/51OlDx-k3zL._SL200_.jpg)](https://www.amazon.es/dp/B07F7ZLMLD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F7ZLMLD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

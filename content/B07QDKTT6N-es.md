@@ -22,6 +22,9 @@ Está [Cortina Mosquitera Puerta  HIEHA Puerta Corredera con 32 Magnético  Tela
 
 [![Cortina Mosquitera Puerta  HIEHA Puerta ](https://images-eu.ssl-images-amazon.com/images/I/511H76zMPOL._SL200_.jpg)](https://www.amazon.es/dp/B07QDKTT6N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QDKTT6N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

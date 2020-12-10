@@ -22,6 +22,9 @@ Tienes [find. Alpargata de Cuero con Tiras Cruzadas para Mujer  Negro  Black   4
 
 [![find. Alpargata de Cuero con Tiras Cruza](https://images-eu.ssl-images-amazon.com/images/I/412zWDpXmNL._SL200_.jpg)](https://www.amazon.es/dp/B06XKMD9WC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XKMD9WC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Kempa Attack Two Contender  Zapatillas de Balonmano para Hom
 
 [![Kempa Attack Two Contender  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/513XmWHc9xL._SL200_.jpg)](https://www.amazon.es/dp/B076HCPY76/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076HCPY76/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

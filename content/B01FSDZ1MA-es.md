@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Flash Run V1  Zapatillas Deportivas para Interio
 
 [![New Balance Flash Run V1  Zapatillas Dep](https://images-eu.ssl-images-amazon.com/images/I/51WD6j0m3OL._SL200_.jpg)](https://www.amazon.es/dp/B01FSDZ1MA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01FSDZ1MA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

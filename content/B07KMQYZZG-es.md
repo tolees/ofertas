@@ -22,6 +22,9 @@ Está [L Oréal Paris Rouge Signature 110 I Deserve Pintalabios Mate Permanente 
 
 [![L Oréal Paris Rouge Signature 110 I Dese](https://images-eu.ssl-images-amazon.com/images/I/31%2Bo0IMI%2B5L._SL200_.jpg)](https://www.amazon.es/dp/B07KMQYZZG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KMQYZZG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

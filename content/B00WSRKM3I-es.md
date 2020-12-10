@@ -22,6 +22,9 @@ Tienes [HOGAR24 ES Colchón Viscoelástico Viscorelax Transpirable  180 x 190 cm
 
 [![HOGAR24 ES Colchón Viscoelástico Viscore](https://images-eu.ssl-images-amazon.com/images/I/41e7DOH7jXL._SL200_.jpg)](https://www.amazon.es/dp/B00WSRKM3I/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00WSRKM3I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

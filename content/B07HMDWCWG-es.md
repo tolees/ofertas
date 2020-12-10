@@ -22,6 +22,9 @@ Está [Xaed - Calcetines de running para mujer  negro/fucsia  38/40 ](https://ww
 
 [![Xaed - Calcetines de running para mujer ](https://images-eu.ssl-images-amazon.com/images/I/31niXq0RfML._SL200_.jpg)](https://www.amazon.es/dp/B07HMDWCWG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HMDWCWG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

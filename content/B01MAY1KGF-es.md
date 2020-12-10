@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Vasar-Bota  Entrenadores para Mujer  Negro  Black  
 
 [![Skechers Vasar-Bota  Entrenadores para M](https://images-eu.ssl-images-amazon.com/images/I/41oTewIndYL._SL200_.jpg)](https://www.amazon.es/dp/B01MAY1KGF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MAY1KGF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

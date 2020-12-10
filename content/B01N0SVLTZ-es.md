@@ -22,6 +22,9 @@ Está [Lacoste Lerond Bl 1 CAM  Zapatillas para Hombre  Azul  Nvy 003   40 EU](h
 
 [![Lacoste Lerond Bl 1 CAM  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/31W8xH9oxgL._SL200_.jpg)](https://www.amazon.es/dp/B01N0SVLTZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N0SVLTZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

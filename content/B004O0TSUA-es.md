@@ -22,6 +22,9 @@ Está [Tuscany Silver Pendientes de mujer con plata de ley  925/1000  y circonit
 
 [![Tuscany Silver Pendientes de mujer con p](https://images-eu.ssl-images-amazon.com/images/I/31AJKUB3G5L._SL200_.jpg)](https://www.amazon.es/dp/B004O0TSUA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004O0TSUA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

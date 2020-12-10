@@ -22,6 +22,9 @@ Está [Funko - POP! Vinilo Colección Rocks - Figura Amy Winehouse  10685 ](http
 
 [![Funko - POP! Vinilo Colección Rocks - Fi](https://images-eu.ssl-images-amazon.com/images/I/51h6nGXEJjL._SL200_.jpg)](https://www.amazon.es/dp/B01G5Y4UPK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01G5Y4UPK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

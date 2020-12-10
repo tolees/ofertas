@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Trilo_sz35 Cinturón  Negro  Black 405   120  Talla del
 
 [![BOSS Trilo_sz35 Cinturón  Negro  Black 4](https://images-eu.ssl-images-amazon.com/images/I/41bKx4VUjPL._SL200_.jpg)](https://www.amazon.es/dp/B07KGD4SNM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KGD4SNM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

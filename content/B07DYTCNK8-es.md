@@ -22,6 +22,9 @@ Tienes [Nike G NP Tank Top  Niñas  White/ Black   c/O   L](https://www.amazon.e
 
 [![Nike G NP Tank Top  Niñas  White/ Black ](https://images-eu.ssl-images-amazon.com/images/I/21yz1ROz7CL._SL200_.jpg)](https://www.amazon.es/dp/B07DYTCNK8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DYTCNK8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

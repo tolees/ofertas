@@ -22,6 +22,9 @@ Tienes [Carrera Must Mid  Zapatillas de Cross para Hombre  Gris  Gray 03   44 EU
 
 [![Carrera Must Mid  Zapatillas de Cross pa](https://images-eu.ssl-images-amazon.com/images/I/41B10LrYyxL._SL200_.jpg)](https://www.amazon.es/dp/B07GJP2YSX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GJP2YSX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

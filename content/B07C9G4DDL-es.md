@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks - Teddington Way  Bolsos bandolera Mujer  Marrón  Br
 
 [![Clarks - Teddington Way  Bolsos bandoler](https://images-eu.ssl-images-amazon.com/images/I/41zixfs9MxL._SL200_.jpg)](https://www.amazon.es/dp/B07C9G4DDL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C9G4DDL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

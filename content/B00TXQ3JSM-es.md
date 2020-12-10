@@ -22,6 +22,9 @@ Tienes [Sigma C82900 Cámara Sigma DP3 Quattro Negro](https://www.amazon.es/dp/B
 
 [![Sigma C82900 Cámara Sigma DP3 Quattro Ne](https://images-eu.ssl-images-amazon.com/images/I/41sTC3GiOGL._SL200_.jpg)](https://www.amazon.es/dp/B00TXQ3JSM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TXQ3JSM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

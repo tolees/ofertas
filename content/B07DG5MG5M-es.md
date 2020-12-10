@@ -22,6 +22,9 @@ Ahora mismo tienes [Gioseppo Botas Clasicas para Hombre   Negro 46398-P   44 EU]
 
 [![Gioseppo Botas Clasicas para Hombre   Ne](https://images-eu.ssl-images-amazon.com/images/I/41r1M058PFL._SL200_.jpg)](https://www.amazon.es/dp/B07DG5MG5M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DG5MG5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [adidas Campus  Zapatillas para Hombre  Negro  Core Black/Clear Brown/Nob
 
 [![adidas Campus  Zapatillas para Hombre  N](https://images-eu.ssl-images-amazon.com/images/I/41OXhr18OFL._SL200_.jpg)](https://www.amazon.es/dp/B077QJM85N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077QJM85N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

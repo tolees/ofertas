@@ -22,6 +22,9 @@ Tienes [Vikingos - Temporada 1 a 4 [Blu-ray]](https://www.amazon.es/dp/B072MPK5H
 
 [![Vikingos - Temporada 1 a 4 [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/512vVryMiPL._SL200_.jpg)](https://www.amazon.es/dp/B072MPK5H1/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072MPK5H1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

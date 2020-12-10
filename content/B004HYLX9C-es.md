@@ -22,6 +22,9 @@ Está [Diva Professional Ultima 5000 Pro New Pink - Secador profesional  motor A
 
 [![Diva Professional Ultima 5000 Pro New Pi](https://images-eu.ssl-images-amazon.com/images/I/41BGvHfTnvL._SL200_.jpg)](https://www.amazon.es/dp/B004HYLX9C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004HYLX9C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

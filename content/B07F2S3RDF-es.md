@@ -22,6 +22,9 @@ Tienes [Helly Hansen HH LIFA Active Light SS T-Shirt  Hombre  Olympian Blue  S](
 
 [![Helly Hansen HH LIFA Active Light SS T-S](https://images-eu.ssl-images-amazon.com/images/I/41iFa6pv9KL._SL200_.jpg)](https://www.amazon.es/dp/B07F2S3RDF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2S3RDF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

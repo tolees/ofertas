@@ -22,6 +22,9 @@ Está [KELME Polo Paseo 18/19 Hercules C.F](https://www.amazon.es/dp/B07SCS36LV/
 
 [![KELME Polo Paseo 18/19 Hercules C.F](https://images-eu.ssl-images-amazon.com/images/I/218VBHqR6-L._SL200_.jpg)](https://www.amazon.es/dp/B07SCS36LV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07SCS36LV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

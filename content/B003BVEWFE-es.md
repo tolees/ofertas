@@ -22,6 +22,9 @@ Tienes [Draper 12544 - Juego de alicates  mango suave  5 unidades ](https://www.
 
 [![Draper 12544 - Juego de alicates  mango ](https://images-eu.ssl-images-amazon.com/images/I/41YPpK-BwXL._SL200_.jpg)](https://www.amazon.es/dp/B003BVEWFE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003BVEWFE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

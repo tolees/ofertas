@@ -22,6 +22,9 @@ Está [Puma Sirena  Zapatillas para Mujer  Blanco White-Pale Pink  37 EU](https:
 
 [![Puma Sirena  Zapatillas para Mujer  Blan](https://images-eu.ssl-images-amazon.com/images/I/318REJ3f6tL._SL200_.jpg)](https://www.amazon.es/dp/B07DBXQCRS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DBXQCRS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

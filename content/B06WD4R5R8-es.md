@@ -22,6 +22,9 @@ Ahora mismo tienes [Garmol 404TR2 PO C5 Carro de Compra 2 Ruedas  Tela  Rojo  40
 
 [![Garmol 404TR2 PO C5 Carro de Compra 2 Ru](https://images-eu.ssl-images-amazon.com/images/I/31zctKjI8wL._SL200_.jpg)](https://www.amazon.es/dp/B06WD4R5R8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06WD4R5R8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

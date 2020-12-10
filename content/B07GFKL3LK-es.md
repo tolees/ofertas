@@ -22,6 +22,9 @@ Está [FLOUREON Walkie Talkies Toy Radio de 2 vías para Niños con 16 Canales d
 
 [![FLOUREON Walkie Talkies Toy Radio de 2 v](https://images-eu.ssl-images-amazon.com/images/I/41VmxHWh9DL._SL200_.jpg)](https://www.amazon.es/dp/B07GFKL3LK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GFKL3LK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

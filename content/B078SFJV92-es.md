@@ -22,6 +22,9 @@ Ahora mismo tienes [Gola Comet  Zapatillas para Hombre  Gris  Grey/Khaki Xn   43
 
 [![Gola Comet  Zapatillas para Hombre  Gris](https://images-eu.ssl-images-amazon.com/images/I/4160wUm3QCL._SL200_.jpg)](https://www.amazon.es/dp/B078SFJV92/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078SFJV92/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

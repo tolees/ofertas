@@ -22,6 +22,9 @@ Está [VSADEY 2 pcs Cepillo de Pelo de Madera Cepillo de Pelo Antibacterial Pein
 
 [![VSADEY 2 pcs Cepillo de Pelo de Madera C](https://images-eu.ssl-images-amazon.com/images/I/41NobVkdHPL._SL200_.jpg)](https://www.amazon.es/dp/B07MCZG8C7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MCZG8C7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

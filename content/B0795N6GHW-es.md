@@ -22,6 +22,9 @@ Tienes [HEOYSN Trípode Móvil  Trípode Cámara Réflex Ligero 128cm de Alumini
 
 [![HEOYSN Trípode Móvil  Trípode Cámara Réf](https://images-eu.ssl-images-amazon.com/images/I/51G4jb50psL._SL200_.jpg)](https://www.amazon.es/dp/B0795N6GHW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0795N6GHW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

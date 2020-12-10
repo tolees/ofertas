@@ -22,6 +22,9 @@ Está [Samsung Galaxy Tab S2 8" Wi-Fi  SM-T713NZWEPHE - Tablet   blanco](https:/
 
 [![Samsung Galaxy Tab S2 8" Wi-Fi  SM-T713N](https://images-eu.ssl-images-amazon.com/images/I/41kZ3QEyDAL._SL200_.jpg)](https://www.amazon.es/dp/B01H3S0ZHO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01H3S0ZHO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

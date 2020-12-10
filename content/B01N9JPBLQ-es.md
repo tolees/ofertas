@@ -22,6 +22,9 @@ Está [Columbia ATS Trail Lf92  Zapatillas De Deporte para Exterior para Mujer  
 
 [![Columbia ATS Trail Lf92  Zapatillas De D](https://images-eu.ssl-images-amazon.com/images/I/41wFRGM-7EL._SL200_.jpg)](https://www.amazon.es/dp/B01N9JPBLQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9JPBLQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

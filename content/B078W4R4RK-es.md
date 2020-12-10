@@ -22,6 +22,9 @@ Ahora mismo tienes [Vans Era 59  Zapatillas Unisex Adulto  Verde  Double Light G
 
 [![Vans Era 59  Zapatillas Unisex Adulto  V](https://images-eu.ssl-images-amazon.com/images/I/41DcFOmjrOL._SL200_.jpg)](https://www.amazon.es/dp/B078W4R4RK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078W4R4RK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

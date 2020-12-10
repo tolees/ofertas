@@ -22,6 +22,9 @@ Está [Zzaini Suave Piel de Cordero Sherpa Manta Lujo Super Caliente COMFOTER  F
 
 [![Zzaini Suave Piel de Cordero Sherpa Mant](https://images-eu.ssl-images-amazon.com/images/I/512giWpg-TL._SL200_.jpg)](https://www.amazon.es/dp/B07JWLJ9NN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JWLJ9NN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

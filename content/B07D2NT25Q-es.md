@@ -22,6 +22,9 @@ Está [Reebok Cl Leather Mu  Zapatillas para Hombre  Naranja  Dirty Apricot/Teal
 
 [![Reebok Cl Leather Mu  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/417sHUo0E4L._SL200_.jpg)](https://www.amazon.es/dp/B07D2NT25Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D2NT25Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

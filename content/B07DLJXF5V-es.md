@@ -22,6 +22,9 @@ Tienes [Springfield Jeans Slim Premium Bi-Stretch Pantalones  Hombre  Azul  Gama
 
 [![Springfield Jeans Slim Premium Bi-Stretc](https://images-eu.ssl-images-amazon.com/images/I/415x%2B14h%2BAL._SL200_.jpg)](https://www.amazon.es/dp/B07DLJXF5V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DLJXF5V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

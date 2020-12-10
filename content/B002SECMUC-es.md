@@ -22,6 +22,9 @@ Ahora mismo tienes [Eglo Lámparas  140 watts  Cromo  Gris y Negro  91.5 x 12.5 
 
 [![Eglo Lámparas  140 watts  Cromo  Gris y ](https://images-eu.ssl-images-amazon.com/images/I/31d8fPDgbGL._SL200_.jpg)](https://www.amazon.es/dp/B002SECMUC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B002SECMUC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

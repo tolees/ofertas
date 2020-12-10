@@ -22,6 +22,9 @@ Ahora mismo tienes [FORIZEN Pistolas de Agua para Niños Adultos  Pistola de Agu
 
 [![FORIZEN Pistolas de Agua para Niños Adul](https://images-eu.ssl-images-amazon.com/images/I/6100Cs2myzL._SL200_.jpg)](https://www.amazon.es/dp/B07RNJ7F72/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07RNJ7F72/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

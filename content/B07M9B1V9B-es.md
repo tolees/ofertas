@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face Borealis Classic Mochila  Unisex Adulto  Rojo
 
 [![The North Face Borealis Classic Mochila ](https://images-eu.ssl-images-amazon.com/images/I/41YZ95k0RlL._SL200_.jpg)](https://www.amazon.es/dp/B07M9B1V9B/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M9B1V9B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

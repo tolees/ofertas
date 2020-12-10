@@ -22,6 +22,9 @@ Está [Under Armour Boy UA Official Tour Cap 2.0 Gorra  Niños  Negro  001   S](
 
 [![Under Armour Boy UA Official Tour Cap 2.](https://images-eu.ssl-images-amazon.com/images/I/41%2B-hiVpSlL._SL200_.jpg)](https://www.amazon.es/dp/B019ZICSOI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B019ZICSOI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

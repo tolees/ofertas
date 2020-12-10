@@ -22,6 +22,9 @@ Está [ROYAL SLEEP Colchón viscoelástico 140x200 firmeza Media  adaptabilidad 
 
 [![ROYAL SLEEP Colchón viscoelástico 140x20](https://images-eu.ssl-images-amazon.com/images/I/51Ejaq7DX2L._SL200_.jpg)](https://www.amazon.es/dp/B07L9DCGZD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L9DCGZD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

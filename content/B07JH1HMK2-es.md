@@ -22,6 +22,9 @@ Está [JACK & JONES Jfweuston Combo  Zapatillas para Hombre  Gris Grey Melange  
 
 [![JACK & JONES Jfweuston Combo  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41ifvvoY87L._SL200_.jpg)](https://www.amazon.es/dp/B07JH1HMK2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JH1HMK2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

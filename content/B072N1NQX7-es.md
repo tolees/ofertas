@@ -22,6 +22,9 @@ Ahora mismo tienes [Saucony Jazz Original Vintage  Zapatillas de Cross Unisex Ad
 
 [![Saucony Jazz Original Vintage  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41C484ZFgtL._SL200_.jpg)](https://www.amazon.es/dp/B072N1NQX7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072N1NQX7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

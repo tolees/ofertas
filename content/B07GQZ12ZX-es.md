@@ -22,6 +22,9 @@ Está [Cubierta de Equipaje Funda de Maleta 18-32 Pulgadas de Fibra de carbón d
 
 [![Cubierta de Equipaje Funda de Maleta 18-](https://images-eu.ssl-images-amazon.com/images/I/41EXergoZVL._SL200_.jpg)](https://www.amazon.es/dp/B07GQZ12ZX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GQZ12ZX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

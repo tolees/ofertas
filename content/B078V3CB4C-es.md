@@ -22,6 +22,9 @@ Está [FLOUREON Apple MacBook A1322 10.95V 6100mAh 67Wh Batería de alto rendimi
 
 [![FLOUREON Apple MacBook A1322 10.95V 6100](https://images-eu.ssl-images-amazon.com/images/I/51Sm754huGL._SL200_.jpg)](https://www.amazon.es/dp/B078V3CB4C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078V3CB4C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

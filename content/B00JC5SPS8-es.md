@@ -22,6 +22,9 @@ Está [Chinchón Dulce - Anís - 1000 ml](https://www.amazon.es/dp/B00JC5SPS8/?t
 
 [![Chinchón Dulce - Anís - 1000 ml](https://images-eu.ssl-images-amazon.com/images/I/31Yo7HhqcGL._SL200_.jpg)](https://www.amazon.es/dp/B00JC5SPS8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00JC5SPS8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Emporio Armani Underwear 111507  Pantalones Hombre  Azul  Marine 00135  
 
 [![Emporio Armani Underwear 111507  Pantalo](https://images-eu.ssl-images-amazon.com/images/I/31v2kqkAsBL._SL200_.jpg)](https://www.amazon.es/dp/B078YPRCZS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078YPRCZS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Vallejo 17 ml"AV meca color acrílico aerógrafo color – verde fluor
 
 [![Vallejo 17 ml"AV meca color acrílico aer](https://images-eu.ssl-images-amazon.com/images/I/41lypkjSazL._SL200_.jpg)](https://www.amazon.es/dp/B074VGGZ5L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074VGGZ5L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [adidas Pod-S3.1 W  Zapatillas de Gimnasia para Mujer  Rosa Vivid Pink/Leg
 
 [![adidas Pod-S3.1 W  Zapatillas de Gimnasi](https://images-eu.ssl-images-amazon.com/images/I/417ks1JMqoL._SL200_.jpg)](https://www.amazon.es/dp/B07JYKZF9N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JYKZF9N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

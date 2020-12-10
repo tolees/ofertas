@@ -22,6 +22,9 @@ Tienes [Messi Training System MET05000  Football Auto Trainer  Bola no incluida 
 
 [![Messi Training System MET05000  Football](https://images-eu.ssl-images-amazon.com/images/I/51LuxF8KdYL._SL200_.jpg)](https://www.amazon.es/dp/B06XQNCQHK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XQNCQHK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

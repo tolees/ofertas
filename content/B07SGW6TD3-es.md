@@ -22,6 +22,9 @@ Está [IntimaTe WM Heart 2 x Taburetes Alto de Bar con Apoyabrazos de Cuero Sint
 
 [![IntimaTe WM Heart 2 x Taburetes Alto de ](https://images-eu.ssl-images-amazon.com/images/I/41y-uQzSDzL._SL200_.jpg)](https://www.amazon.es/dp/B07SGW6TD3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07SGW6TD3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

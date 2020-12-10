@@ -22,6 +22,9 @@ Está [MOULEI Limpiador de Poros Eléctrico Succionador de Puntos Negros 4 en 1 
 
 [![MOULEI Limpiador de Poros Eléctrico Succ](https://images-eu.ssl-images-amazon.com/images/I/51FugYv2qqL._SL200_.jpg)](https://www.amazon.es/dp/B07PGNMNBT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PGNMNBT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

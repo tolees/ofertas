@@ -22,6 +22,9 @@ Ahora mismo tienes [Deuter XV 2 SL  Mochila Unisex Adulto  Negro  Black   24x36x
 
 [![Deuter XV 2 SL  Mochila Unisex Adulto  N](https://images-eu.ssl-images-amazon.com/images/I/31xNqCtCbgL._SL200_.jpg)](https://www.amazon.es/dp/B078NFNP35/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078NFNP35/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

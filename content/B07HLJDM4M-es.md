@@ -22,6 +22,9 @@ Ahora mismo tienes [Mochilas Escolares para Adolescentes  Mochila Escolar 15.6" 
 
 [![Mochilas Escolares para Adolescentes  Mo](https://images-eu.ssl-images-amazon.com/images/I/41E6z%2BTG%2BjL._SL200_.jpg)](https://www.amazon.es/dp/B07HLJDM4M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HLJDM4M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

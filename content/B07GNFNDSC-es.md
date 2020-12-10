@@ -22,6 +22,9 @@ Está [JACK & JONES Jcocraft Knit Crew Neck  suéter Hombre  Gris  Small  Talla 
 
 [![JACK & JONES Jcocraft Knit Crew Neck  su](https://images-eu.ssl-images-amazon.com/images/I/51feQiNUOfL._SL200_.jpg)](https://www.amazon.es/dp/B07GNFNDSC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GNFNDSC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,14 @@ Ahora mismo tienes [Olivia Burton Reloj Analógico para Mujer de Cuarzo con Corr
 
 [![Olivia Burton Reloj Analógico para Mujer](https://m.media-amazon.com/images/I/31LMqi8NVUL._SL200_.jpg)](https://www.amazon.es/dp/B07FBFW7VV/?tag=tolees-21)
 
+Características:
+
+- 30 mm diameter case
+- Japanese quartz movement
+- Blush butterfly dial with rose gold roman markers
+- Rose gold ion-plated stainless steel case
+- Blush genuine leather strap
+
 [Visítala!!!](https://www.amazon.es/dp/B07FBFW7VV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

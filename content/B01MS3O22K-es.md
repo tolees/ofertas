@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Classic Leather Pastels  Zapatillas para Mujer   Wash
 
 [![Reebok Classic Leather Pastels  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41f5OUo0hZL._SL200_.jpg)](https://www.amazon.es/dp/B01MS3O22K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MS3O22K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

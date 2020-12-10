@@ -22,6 +22,9 @@ Ahora mismo tienes [Funko Pop!- Vinyl: Doctor Who: Dalek  4632 ](https://www.ama
 
 [![Funko Pop!- Vinyl: Doctor Who: Dalek  46](https://images-eu.ssl-images-amazon.com/images/I/510uUcs5auL._SL200_.jpg)](https://www.amazon.es/dp/B00TR8JUHU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00TR8JUHU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

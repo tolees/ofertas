@@ -22,6 +22,9 @@ Está [G-STAR RAW Bronson Mid Waist Skinny Chino Pantalones  Beige  Sahara 5488-
 
 [![G-STAR RAW Bronson Mid Waist Skinny Chin](https://images-eu.ssl-images-amazon.com/images/I/31aUHYlpt%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01HZUUWRS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HZUUWRS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

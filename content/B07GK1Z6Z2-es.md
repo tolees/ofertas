@@ -22,6 +22,9 @@ Está [Carrera Harper Nbx  Zapatillas de Cross para Hombre  Negro  Black 03   44
 
 [![Carrera Harper Nbx  Zapatillas de Cross ](https://images-eu.ssl-images-amazon.com/images/I/41Ym0Vo1iuL._SL200_.jpg)](https://www.amazon.es/dp/B07GK1Z6Z2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GK1Z6Z2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

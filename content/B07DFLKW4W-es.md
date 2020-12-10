@@ -22,6 +22,9 @@ Ahora mismo tienes [INTEY Chaira Diamante  Afilador de Cuchillos  Ideal Para Cuc
 
 [![INTEY Chaira Diamante  Afilador de Cuchi](https://images-eu.ssl-images-amazon.com/images/I/31yy54Y1ztL._SL200_.jpg)](https://www.amazon.es/dp/B07DFLKW4W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DFLKW4W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

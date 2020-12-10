@@ -22,6 +22,9 @@ Ahora mismo tienes [Bburago Maisto Francia bburago-Ferrari FXX K Version Blanche
 
 [![Bburago Maisto Francia bburago-Ferrari F](https://images-eu.ssl-images-amazon.com/images/I/41O%2BfJAbPAL._SL200_.jpg)](https://www.amazon.es/dp/B07KBH877M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KBH877M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

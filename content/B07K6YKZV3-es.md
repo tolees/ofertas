@@ -22,6 +22,9 @@ Está [adidas Tiro19 TR Jsyy T-Shirt  Unisex niños  Dark Bold Blue/White  7-8Y]
 
 [![adidas Tiro19 TR Jsyy T-Shirt  Unisex ni](https://images-eu.ssl-images-amazon.com/images/I/411r7Wx4SEL._SL200_.jpg)](https://www.amazon.es/dp/B07K6YKZV3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K6YKZV3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

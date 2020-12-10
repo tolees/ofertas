@@ -22,6 +22,9 @@ Está [GORE BIKE WEAR Pantalones Ciclismo Cortos hasa la Rodilla  Hombre  Super 
 
 [![GORE BIKE WEAR Pantalones Ciclismo Corto](https://images-eu.ssl-images-amazon.com/images/I/41%2Bi%2B5BjItL._SL200_.jpg)](https://www.amazon.es/dp/B00MK07QVE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00MK07QVE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

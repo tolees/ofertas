@@ -22,6 +22,9 @@ Tienes [Soundance 12W Altavoz Bluetooth estéreo inalámbrico para el hogar con 
 
 [![Soundance 12W Altavoz Bluetooth estéreo ](https://images-eu.ssl-images-amazon.com/images/I/61wSygaeFpL._SL200_.jpg)](https://www.amazon.es/dp/B06XT3LLJT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XT3LLJT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

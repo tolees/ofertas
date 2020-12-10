@@ -22,6 +22,9 @@ Tienes [GoPro Karma - Dron con HERO5  12.1 MP  4K  Color Negro y Blanco](https:/
 
 [![GoPro Karma - Dron con HERO5  12.1 MP  4](https://images-eu.ssl-images-amazon.com/images/I/41NQuP7xnpL._SL200_.jpg)](https://www.amazon.es/dp/B06XNRNWHZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XNRNWHZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

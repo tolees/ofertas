@@ -22,6 +22,9 @@ Está [Lacor - 65118 - Cafetera Luxe Inox. 1 80 Litros.](https://www.amazon.es/d
 
 [![Lacor - 65118 - Cafetera Luxe Inox. 1 80](https://images-eu.ssl-images-amazon.com/images/I/41oc16D0UBL._SL200_.jpg)](https://www.amazon.es/dp/B000T5N8UK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000T5N8UK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

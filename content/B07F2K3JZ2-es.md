@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma NRGY Neko  Zapatillas de Running para Hombre  Verde  Fo
 
 [![Puma NRGY Neko  Zapatillas de Running pa](https://images-eu.ssl-images-amazon.com/images/I/41seM%2BbZTfL._SL200_.jpg)](https://www.amazon.es/dp/B07F2K3JZ2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F2K3JZ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

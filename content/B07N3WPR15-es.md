@@ -22,6 +22,9 @@ Está [Caja para Relojes de Madera Estuche para Relojes y joyeros con 10 Compart
 
 [![Caja para Relojes de Madera Estuche para](https://images-eu.ssl-images-amazon.com/images/I/41F2xu0818L._SL200_.jpg)](https://www.amazon.es/dp/B07N3WPR15/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N3WPR15/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Férula de noche para fascitis plantar  para mujeres y hombr
 
 [![Férula de noche para fascitis plantar  p](https://images-eu.ssl-images-amazon.com/images/I/41wzQ9XUOyL._SL200_.jpg)](https://www.amazon.es/dp/B07MFZ3HY4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MFZ3HY4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

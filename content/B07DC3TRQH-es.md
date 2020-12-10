@@ -22,6 +22,9 @@ Está [LE COQ SPORTIF Deauville Sport Optical White  Zapatillas para Hombre  Bla
 
 [![LE COQ SPORTIF Deauville Sport Optical W](https://images-eu.ssl-images-amazon.com/images/I/41swD%2BpJZ4L._SL200_.jpg)](https://www.amazon.es/dp/B07DC3TRQH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC3TRQH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

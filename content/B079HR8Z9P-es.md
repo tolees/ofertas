@@ -22,6 +22,9 @@ Tienes [Puma - FS PUMA GAVETTO II Sala BL/AZ Hombre Color: Blanco Talla: 39](htt
 
 [![Puma - FS PUMA GAVETTO II Sala BL/AZ Hom](https://images-eu.ssl-images-amazon.com/images/I/41shZCaTc6L._SL200_.jpg)](https://www.amazon.es/dp/B079HR8Z9P/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079HR8Z9P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

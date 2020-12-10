@@ -22,6 +22,9 @@ Está [MP3 BENJIE 16GB 2.4" Reproductor de MP3  MP3 Bluetooth Actualizar Espejo 
 
 [![MP3 BENJIE 16GB 2.4" Reproductor de MP3 ](https://images-eu.ssl-images-amazon.com/images/I/41XkOqAZdfL._SL200_.jpg)](https://www.amazon.es/dp/B07SFCX2Z4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07SFCX2Z4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Bellfield Vaquero Negro](https://www.amazon.es/dp/B01IV32SNO/?tag=tolees
 
 [![Bellfield Vaquero Negro](https://images-eu.ssl-images-amazon.com/images/I/41T9aUvSYJL._SL200_.jpg)](https://www.amazon.es/dp/B01IV32SNO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IV32SNO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

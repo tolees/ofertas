@@ -22,6 +22,9 @@ Está [2 Pack Bastón de Senderismo Bastón Trekking Extensible Bastón Plegable
 
 [![2 Pack Bastón de Senderismo Bastón Trekk](https://images-eu.ssl-images-amazon.com/images/I/51cXxmWGOxL._SL200_.jpg)](https://www.amazon.es/dp/B07DPMHPZS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DPMHPZS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Salomon Evasion 2 Mid LTR GTX  Zapatillas de Running para Asfalto para Ho
 
 [![Salomon Evasion 2 Mid LTR GTX  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41suNQbrCTL._SL200_.jpg)](https://www.amazon.es/dp/B01MXOXCYO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MXOXCYO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Qedertek Guirnaldas Luminosas de Exterior  Cadena de Luz 7.62M de 25 Bom
 
 [![Qedertek Guirnaldas Luminosas de Exterio](https://images-eu.ssl-images-amazon.com/images/I/41qYyAVqWlL._SL200_.jpg)](https://www.amazon.es/dp/B07DMF2SYR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DMF2SYR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

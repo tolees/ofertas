@@ -22,6 +22,9 @@ Está [Omars USB C Hub 8 en 1 HDMI  Ethernet RJ45  USB 3.0  4K HDMI  VGA  Tipo C
 
 [![Omars USB C Hub 8 en 1 HDMI  Ethernet RJ](https://images-eu.ssl-images-amazon.com/images/I/51l9anV-OrL._SL200_.jpg)](https://www.amazon.es/dp/B075SVVH4K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075SVVH4K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

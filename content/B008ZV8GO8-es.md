@@ -22,6 +22,9 @@ Tienes [Dreamlove Baci Set Tanga y Accesorio Monja S/M Style 1332-2 Piezas](http
 
 [![Dreamlove Baci Set Tanga y Accesorio Mon](https://images-eu.ssl-images-amazon.com/images/I/417orCsut5L._SL200_.jpg)](https://www.amazon.es/dp/B008ZV8GO8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B008ZV8GO8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

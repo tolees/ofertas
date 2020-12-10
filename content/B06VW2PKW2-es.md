@@ -22,6 +22,9 @@ Está [LEGO-40061730 Caja de Almacenaje Apilable  Ladrillo 8 pomos  2 Cajones  9
 
 [![LEGO-40061730 Caja de Almacenaje Apilabl](https://images-eu.ssl-images-amazon.com/images/I/31hWwnUezQL._SL200_.jpg)](https://www.amazon.es/dp/B06VW2PKW2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06VW2PKW2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

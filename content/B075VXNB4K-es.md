@@ -22,6 +22,9 @@ Está [Consolador enorme15.6 pulgadas 39.6    100% silicón médico con los jugu
 
 [![Consolador enorme15.6 pulgadas 39.6    1](https://images-eu.ssl-images-amazon.com/images/I/41u3EHSeo6L._SL200_.jpg)](https://www.amazon.es/dp/B075VXNB4K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075VXNB4K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

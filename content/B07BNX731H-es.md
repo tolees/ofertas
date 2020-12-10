@@ -22,6 +22,9 @@ Tienes [Columbia Camden Outdry Leather Chukka  Botas Casual  Impermeable para Ho
 
 [![Columbia Camden Outdry Leather Chukka  B](https://images-eu.ssl-images-amazon.com/images/I/41BsWQBPmaL._SL200_.jpg)](https://www.amazon.es/dp/B07BNX731H/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BNX731H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

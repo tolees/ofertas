@@ -22,6 +22,9 @@ Tienes [Rodillos de repuesto E-Cron compatible con Emjoi Micro-Pedi eliminador d
 
 [![Rodillos de repuesto E-Cron compatible c](https://images-eu.ssl-images-amazon.com/images/I/51ihk54mMNL._SL200_.jpg)](https://www.amazon.es/dp/B01FUF1C4C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FUF1C4C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

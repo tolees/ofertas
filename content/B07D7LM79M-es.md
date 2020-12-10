@@ -22,6 +22,9 @@ Tienes [Guess M83p00j1300  Polo para Hombre  Rojo  Tulip Red Tlrd  Small](https:
 
 [![Guess M83p00j1300  Polo para Hombre  Roj](https://images-eu.ssl-images-amazon.com/images/I/41NQP5Kj39L._SL200_.jpg)](https://www.amazon.es/dp/B07D7LM79M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D7LM79M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

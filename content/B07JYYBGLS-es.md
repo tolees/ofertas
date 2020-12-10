@@ -22,6 +22,9 @@ Está [JACK & JONES Jcojames Sweat Hood Camp Capucha  Gris  Light Grey Detail: M
 
 [![JACK & JONES Jcojames Sweat Hood Camp Ca](https://images-eu.ssl-images-amazon.com/images/I/415Cr0EExoL._SL200_.jpg)](https://www.amazon.es/dp/B07JYYBGLS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JYYBGLS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

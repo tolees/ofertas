@@ -22,6 +22,9 @@ Ahora mismo tienes [DKNY Intimates Classic Lace  Sujetador Estilo Bralette para 
 
 [![DKNY Intimates Classic Lace  Sujetador E](https://images-eu.ssl-images-amazon.com/images/I/51lN3Xn00aL._SL200_.jpg)](https://www.amazon.es/dp/B01LXUK1VO/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LXUK1VO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

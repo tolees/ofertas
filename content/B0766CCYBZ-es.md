@@ -22,6 +22,9 @@ Está [Handbag - Shopper  Shoppers y bolsos de hombro Mujer  Grau  17x28x35 cm  
 
 [![Handbag - Shopper  Shoppers y bolsos de ](https://images-eu.ssl-images-amazon.com/images/I/41sJ4vDefFL._SL200_.jpg)](https://www.amazon.es/dp/B0766CCYBZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0766CCYBZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

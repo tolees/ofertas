@@ -22,6 +22,9 @@ Ahora mismo tienes [Lacoste L1212  Polo Para Hombre  Gris  Platine KC8   X-Large
 
 [![Lacoste L1212  Polo Para Hombre  Gris  P](https://images-eu.ssl-images-amazon.com/images/I/31WUrVk1EoL._SL200_.jpg)](https://www.amazon.es/dp/B00B91BLN4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00B91BLN4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [New Style Boutique 3: Estilismo para celebrities](https://ww
 
 [![New Style Boutique 3: Estilismo para cel](https://images-eu.ssl-images-amazon.com/images/I/61tY5zZ7RiL._SL200_.jpg)](https://www.amazon.es/dp/B075RJ3YG8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075RJ3YG8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

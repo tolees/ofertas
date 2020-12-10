@@ -22,6 +22,9 @@ Tienes [Moviles Libres 4G v·Mobile J6 Smartphone  Pantalla 6.0" 18:9 HD Dual Si
 
 [![Moviles Libres 4G v·Mobile J6 Smartphone](https://images-eu.ssl-images-amazon.com/images/I/5138hkIHNXL._SL200_.jpg)](https://www.amazon.es/dp/B07QVD1MZ7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QVD1MZ7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [LANGRIA Colchoncillo Topper 7.6 cm de Grosor de Espuma de Memoria  Funda 
 
 [![LANGRIA Colchoncillo Topper 7.6 cm de Gr](https://images-eu.ssl-images-amazon.com/images/I/31hbtfB%2BCoL._SL200_.jpg)](https://www.amazon.es/dp/B01HKVBU3M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HKVBU3M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

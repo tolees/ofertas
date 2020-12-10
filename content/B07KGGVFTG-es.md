@@ -22,6 +22,9 @@ Está [Buff R-Focus Visera  Unisex Adulto  Blue  Talla única](https://www.amazo
 
 [![Buff R-Focus Visera  Unisex Adulto  Blue](https://images-eu.ssl-images-amazon.com/images/I/414gHvnICCL._SL200_.jpg)](https://www.amazon.es/dp/B07KGGVFTG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGGVFTG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

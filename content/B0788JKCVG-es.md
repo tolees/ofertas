@@ -22,6 +22,9 @@ Ahora mismo tienes [MAMALICIOUS Mljuliana Woven Shorts A  Pantalones Cortos prem
 
 [![MAMALICIOUS Mljuliana Woven Shorts A  Pa](https://images-eu.ssl-images-amazon.com/images/I/416KO1nRhBL._SL200_.jpg)](https://www.amazon.es/dp/B0788JKCVG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0788JKCVG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

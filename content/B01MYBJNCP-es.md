@@ -22,6 +22,9 @@ Está [Kurtzy Bandejas de Cubitos de Hielo  Paquete de 5  con Tapa - Sin BPA Ban
 
 [![Kurtzy Bandejas de Cubitos de Hielo  Paq](https://images-eu.ssl-images-amazon.com/images/I/51g7QzAbGCL._SL200_.jpg)](https://www.amazon.es/dp/B01MYBJNCP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MYBJNCP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

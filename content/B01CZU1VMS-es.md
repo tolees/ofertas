@@ -22,6 +22,9 @@ Ahora mismo tienes [REPLAY Anbass-Azul Hombre Azul  Blue Denim 7  W33/L34](https
 
 [![REPLAY Anbass-Azul Hombre Azul  Blue Den](https://images-eu.ssl-images-amazon.com/images/I/41ACruZ79zL._SL200_.jpg)](https://www.amazon.es/dp/B01CZU1VMS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01CZU1VMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

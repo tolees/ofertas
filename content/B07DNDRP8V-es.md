@@ -22,6 +22,9 @@ Tienes [DANISH ENDURANCE Calcetines de Algodón  Rojo - 3 Pares  EU 43-47 ](http
 
 [![DANISH ENDURANCE Calcetines de Algodón  ](https://images-eu.ssl-images-amazon.com/images/I/41DLJHPyj5L._SL200_.jpg)](https://www.amazon.es/dp/B07DNDRP8V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DNDRP8V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

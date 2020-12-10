@@ -22,6 +22,9 @@ Está [Lékué Polo apilable Verde  Silicona  Agua  1 Unidad](https://www.amazon
 
 [![Lékué Polo apilable Verde  Silicona  Agu](https://images-eu.ssl-images-amazon.com/images/I/31uyqSJyieL._SL200_.jpg)](https://www.amazon.es/dp/B01EHJ330S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01EHJ330S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

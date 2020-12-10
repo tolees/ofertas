@@ -22,6 +22,9 @@ Está [BerryKing soporte de espalda negro Soporte recto para corregir la postura
 
 [![BerryKing soporte de espalda negro Sopor](https://images-eu.ssl-images-amazon.com/images/I/61FeVk9GMiL._SL200_.jpg)](https://www.amazon.es/dp/B0799NCKND/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0799NCKND/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

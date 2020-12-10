@@ -22,6 +22,9 @@ Tienes [Vans Old Skool  Zapatillas Unisex Adulto  Azul  Nautical Blue   42EU](ht
 
 [![Vans Old Skool  Zapatillas Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41KckNgdRdL._SL200_.jpg)](https://www.amazon.es/dp/B019H77BMQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B019H77BMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

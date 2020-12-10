@@ -22,6 +22,9 @@ Está [adidas Advantage Clean Vs  Zapatillas para Hombre  Blanco  Ftwbla / Ftwbl
 
 [![adidas Advantage Clean Vs  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41nY3fFw5DL._SL200_.jpg)](https://www.amazon.es/dp/B018G7XSBQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B018G7XSBQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

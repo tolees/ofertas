@@ -22,6 +22,9 @@ Está [Antena de TV  Antena Interior HDTV con Amplificador Portatil  Rango de 96
 
 [![Antena de TV  Antena Interior HDTV con A](https://images-eu.ssl-images-amazon.com/images/I/41o9rQbc17L._SL200_.jpg)](https://www.amazon.es/dp/B07QXVVNWM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QXVVNWM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

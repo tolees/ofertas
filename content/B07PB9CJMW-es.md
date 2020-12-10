@@ -22,6 +22,9 @@ Está [TedGem WiFi Display Dongle  2.4G 5G HDMI Inalámbrico 1080P TV Dongle  Wi
 
 [![TedGem WiFi Display Dongle  2.4G 5G HDMI](https://images-eu.ssl-images-amazon.com/images/I/41nTUdzbr-L._SL200_.jpg)](https://www.amazon.es/dp/B07PB9CJMW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PB9CJMW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

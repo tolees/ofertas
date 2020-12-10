@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Cl Leather II  Zapatillas para Hombre  Negro  Black/W
 
 [![Reebok Cl Leather II  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/31awomHkrJL._SL200_.jpg)](https://www.amazon.es/dp/B07D1G72BP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D1G72BP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

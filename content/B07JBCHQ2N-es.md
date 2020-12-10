@@ -22,6 +22,9 @@ Tienes [SAMSONITE Up Way Man Auto Open Paraguas Clásico  84 cm  Gris](https://w
 
 [![SAMSONITE Up Way Man Auto Open Paraguas ](https://images-eu.ssl-images-amazon.com/images/I/31pupYK-xRL._SL200_.jpg)](https://www.amazon.es/dp/B07JBCHQ2N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JBCHQ2N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Bombilla LED Esférica Casquillo E27  12W  Equivalente a 100
 
 [![Bombilla LED Esférica Casquillo E27  12W](https://images-eu.ssl-images-amazon.com/images/I/31dUS9wDUDL._SL200_.jpg)](https://www.amazon.es/dp/B072J8CMY3/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072J8CMY3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

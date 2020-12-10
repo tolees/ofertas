@@ -22,6 +22,9 @@ Está [KitchenTour balanza de cocina digital - 3000 g / 0 1 g de alta precisión
 
 [![KitchenTour balanza de cocina digital - ](https://images-eu.ssl-images-amazon.com/images/I/41vvsU7VFCL._SL200_.jpg)](https://www.amazon.es/dp/B07G9DNNGF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G9DNNGF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

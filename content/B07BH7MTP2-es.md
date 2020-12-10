@@ -22,6 +22,9 @@ Está [Mr; Wonderful Woa08982Es Libreta Notas Perfectamente Imperfectas](https:/
 
 [![Mr; Wonderful Woa08982Es Libreta Notas P](https://images-eu.ssl-images-amazon.com/images/I/413fnqV7-WL._SL200_.jpg)](https://www.amazon.es/dp/B07BH7MTP2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BH7MTP2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

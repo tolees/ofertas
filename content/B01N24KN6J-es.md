@@ -22,6 +22,9 @@ Está [Versa 19501313 Taburete redondo Minimal  35x35x35cm  Reposapiés  Otomana
 
 [![Versa 19501313 Taburete redondo Minimal ](https://images-eu.ssl-images-amazon.com/images/I/31E-ENw0MZL._SL200_.jpg)](https://www.amazon.es/dp/B01N24KN6J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N24KN6J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

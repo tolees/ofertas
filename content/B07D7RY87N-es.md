@@ -22,6 +22,9 @@ Ahora mismo tienes [Gioseppo 46702-P  Zapatillas para Niñas  Negro  31 EU](http
 
 [![Gioseppo 46702-P  Zapatillas para Niñas ](https://images-eu.ssl-images-amazon.com/images/I/51mv6-JBHQL._SL200_.jpg)](https://www.amazon.es/dp/B07D7RY87N/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D7RY87N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

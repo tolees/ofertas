@@ -22,6 +22,9 @@ Ahora mismo tienes [Salomon Women’ s Speedcross 4 - Zapatillas Para Mujer  Neg
 
 [![Salomon Women’ s Speedcross 4 - Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41T80zuO3sL._SL200_.jpg)](https://www.amazon.es/dp/B017SQZXQE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B017SQZXQE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

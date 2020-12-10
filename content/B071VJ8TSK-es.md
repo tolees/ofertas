@@ -22,6 +22,9 @@ Está [Tommy Hilfiger J1285ill 4c  Botas Chukka para Mujer  Negro  Black   39 EU
 
 [![Tommy Hilfiger J1285ill 4c  Botas Chukka](https://images-eu.ssl-images-amazon.com/images/I/411a1n5Z53L._SL200_.jpg)](https://www.amazon.es/dp/B071VJ8TSK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071VJ8TSK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

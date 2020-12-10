@@ -22,6 +22,9 @@ Está [New Balance 997H Core  Zapatillas para Hombre  Verde  Dark Covert Green/S
 
 [![New Balance 997H Core  Zapatillas para H](https://images-eu.ssl-images-amazon.com/images/I/41UKG1TXNiL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ21MPL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ21MPL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Cocoda Cortapelos Nariz  Recortador de Vello Nariz / Orejas / Ceja / Barb
 
 [![Cocoda Cortapelos Nariz  Recortador de V](https://images-eu.ssl-images-amazon.com/images/I/4151xt6EpqL._SL200_.jpg)](https://www.amazon.es/dp/B07FD81CB9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FD81CB9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

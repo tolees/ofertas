@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Kids Lifestyle Quarters 3P - Calcetines de deporte con 
 
 [![Puma Kids Lifestyle Quarters 3P - Calcet](https://images-eu.ssl-images-amazon.com/images/I/41u2%2BNembBL._SL200_.jpg)](https://www.amazon.es/dp/B003WIZF5W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B003WIZF5W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

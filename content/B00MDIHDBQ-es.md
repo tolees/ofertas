@@ -22,6 +22,9 @@ Tienes [SATURNIA 15070015 Lona Impermeable Azul Con Ojetes Metálicos 5 x 6 Metr
 
 [![SATURNIA 15070015 Lona Impermeable Azul ](https://images-eu.ssl-images-amazon.com/images/I/41DvQ2aweeL._SL200_.jpg)](https://www.amazon.es/dp/B00MDIHDBQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MDIHDBQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

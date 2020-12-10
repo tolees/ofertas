@@ -22,6 +22,9 @@ Está [Levi s Malibu Beach S  Zapatillas para Mujer  Blanco  B White 50   41 EU]
 
 [![Levi s Malibu Beach S  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/41Jxv5pVASL._SL200_.jpg)](https://www.amazon.es/dp/B06XTPSX1C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XTPSX1C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

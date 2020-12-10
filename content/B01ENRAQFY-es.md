@@ -22,6 +22,9 @@ Está [Safta Bandolera Minions Oficial Bandolera Pequeña 160x40x180mm](https://
 
 [![Safta Bandolera Minions Oficial Bandoler](https://images-eu.ssl-images-amazon.com/images/I/51AXXLly2rL._SL200_.jpg)](https://www.amazon.es/dp/B01ENRAQFY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01ENRAQFY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

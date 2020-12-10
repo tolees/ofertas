@@ -22,6 +22,9 @@ Está [Jacob Jensen Reloj Analógico para Unisex Adultos de Cuarzo con Correa en
 
 [![Jacob Jensen Reloj Analógico para Unisex](https://images-eu.ssl-images-amazon.com/images/I/41A2f9YnwVL._SL200_.jpg)](https://www.amazon.es/dp/B01N6EUAU6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6EUAU6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Auriculares Bluetooth  SYOSIN Auriculares Inalámbricos Bluetooth 5.0 Im
 
 [![Auriculares Bluetooth  SYOSIN Auriculare](https://images-eu.ssl-images-amazon.com/images/I/41jnIxwN3zL._SL200_.jpg)](https://www.amazon.es/dp/B07QLBRC35/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QLBRC35/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [New Balance 590  Zapatillas de Running  Mujer  Multicolor  Black/Pink 018
 
 [![New Balance 590  Zapatillas de Running  ](https://images-eu.ssl-images-amazon.com/images/I/411LRo10DfL._SL200_.jpg)](https://www.amazon.es/dp/B01HY510MA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HY510MA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

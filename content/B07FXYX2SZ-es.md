@@ -22,6 +22,9 @@ Tienes [Champion The Curvy Sujetador Deportivo   Blanc/Noir 8ml   Small para Muj
 
 [![Champion The Curvy Sujetador Deportivo  ](https://images-eu.ssl-images-amazon.com/images/I/41kj17612mL._SL200_.jpg)](https://www.amazon.es/dp/B07FXYX2SZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FXYX2SZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

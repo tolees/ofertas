@@ -22,6 +22,9 @@ Está [Ted Baker London Rockall - Auriculares de diadema cerrados  con micrófon
 
 [![Ted Baker London Rockall - Auriculares d](https://images-eu.ssl-images-amazon.com/images/I/41ACuU%2BcVUL._SL200_.jpg)](https://www.amazon.es/dp/B00L208HHK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00L208HHK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

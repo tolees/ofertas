@@ -22,6 +22,9 @@ Está [Ben Sherman Polo Logo Shirt  Color: Celeste  Tamaño: S](https://www.amaz
 
 [![Ben Sherman Polo Logo Shirt  Color: Cele](https://images-eu.ssl-images-amazon.com/images/I/41g9O9yUJrL._SL200_.jpg)](https://www.amazon.es/dp/B07DLZHRN6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLZHRN6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

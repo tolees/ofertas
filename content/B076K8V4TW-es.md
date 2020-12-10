@@ -22,6 +22,9 @@ Está [PNY High Performance Memoria Flash 64 GB MicroSDXC Clase 10 UHS-I - Tarje
 
 [![PNY High Performance Memoria Flash 64 GB](https://images-eu.ssl-images-amazon.com/images/I/41mw3InKyFL._SL200_.jpg)](https://www.amazon.es/dp/B076K8V4TW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076K8V4TW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

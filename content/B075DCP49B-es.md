@@ -22,6 +22,9 @@ Está [besrey Silla Ligera Carrito de Bebé Cochecito Plegable Compacta con Avi�
 
 [![besrey Silla Ligera Carrito de Bebé Coch](https://images-eu.ssl-images-amazon.com/images/I/51%2BNvk0qm3L._SL200_.jpg)](https://www.amazon.es/dp/B075DCP49B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075DCP49B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

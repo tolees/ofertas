@@ -22,6 +22,9 @@ Tienes [Innoo Tech Guirnalda Luces 10M 100 LED Bombillas Blanco C¨¢lido Decora
 
 [![Innoo Tech Guirnalda Luces 10M 100 LED B](https://images-eu.ssl-images-amazon.com/images/I/51AtjhDfUnL._SL200_.jpg)](https://www.amazon.es/dp/B010LU6BI8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B010LU6BI8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

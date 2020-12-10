@@ -22,6 +22,9 @@ Ahora mismo tienes [Philips BodyGroom TT2039/32 - Afeitadora corporal inalámbri
 
 [![Philips BodyGroom TT2039/32 - Afeitadora](https://images-eu.ssl-images-amazon.com/images/I/31GIjCLftUL._SL200_.jpg)](https://www.amazon.es/dp/B007JI7VUS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B007JI7VUS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

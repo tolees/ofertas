@@ -22,6 +22,9 @@ Ahora mismo tienes [Cocoda Soporte Tablet Coche  Universal Soporte Reposacabezas
 
 [![Cocoda Soporte Tablet Coche  Universal S](https://images-eu.ssl-images-amazon.com/images/I/51fXNOWEPNL._SL200_.jpg)](https://www.amazon.es/dp/B07GJCXPP4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GJCXPP4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

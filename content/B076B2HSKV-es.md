@@ -22,6 +22,9 @@ Tienes [Bébé Confort Axiss Silla infantil giratoria para coche del grupo 1  aj
 
 [![Bébé Confort Axiss Silla infantil girato](https://images-eu.ssl-images-amazon.com/images/I/41hV0P-zUrL._SL200_.jpg)](https://www.amazon.es/dp/B076B2HSKV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076B2HSKV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

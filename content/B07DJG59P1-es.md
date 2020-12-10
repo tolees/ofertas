@@ -22,6 +22,9 @@ Está [Dockers by Gerli 41ms704  Botas Slouch Unisex niños  Gris  Grau 200   40
 
 [![Dockers by Gerli 41ms704  Botas Slouch U](https://images-eu.ssl-images-amazon.com/images/I/41VYIk0IF3L._SL200_.jpg)](https://www.amazon.es/dp/B07DJG59P1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJG59P1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

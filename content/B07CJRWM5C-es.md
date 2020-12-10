@@ -22,6 +22,9 @@ Tienes [Aspirador de Mano 【2018 New】Holife Aspiradora de Mano Sin Cable Port
 
 [![Aspirador de Mano 【2018 New】Holife Aspir](https://images-eu.ssl-images-amazon.com/images/I/51uxs7D0%2B1L._SL200_.jpg)](https://www.amazon.es/dp/B07CJRWM5C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CJRWM5C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

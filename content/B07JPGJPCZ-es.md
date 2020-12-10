@@ -22,6 +22,9 @@ Está [Pandora Abalorios Mujer plata - 797511ENMX](https://www.amazon.es/dp/B07J
 
 [![Pandora Abalorios Mujer plata - 797511EN](https://images-eu.ssl-images-amazon.com/images/I/41hdrvyvRGL._SL200_.jpg)](https://www.amazon.es/dp/B07JPGJPCZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JPGJPCZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

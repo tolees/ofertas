@@ -22,6 +22,9 @@ Ahora mismo tienes [find. 70290 vestidos mujer  Multicolor  Black   38  Talla de
 
 [![find. 70290 vestidos mujer  Multicolor  ](https://images-eu.ssl-images-amazon.com/images/I/41hdFuGi94L._SL200_.jpg)](https://www.amazon.es/dp/B06XC12TY2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XC12TY2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

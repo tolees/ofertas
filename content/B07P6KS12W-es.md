@@ -22,6 +22,9 @@ Está [LATITOP Fuente Solar  Bomba De Mejorada Kit De Bomba De Agua Solar Al Air
 
 [![LATITOP Fuente Solar  Bomba De Mejorada ](https://images-eu.ssl-images-amazon.com/images/I/51imWCglUDL._SL200_.jpg)](https://www.amazon.es/dp/B07P6KS12W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P6KS12W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

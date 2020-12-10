@@ -22,6 +22,9 @@ Tienes [Mexifoods  Pane con harina integral envasado - Paquete de 6 x 375 gr Tot
 
 [![Mexifoods  Pane con harina integral enva](https://images-eu.ssl-images-amazon.com/images/I/51Y3y2D1biL._SL200_.jpg)](https://www.amazon.es/dp/B0792JGR9N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792JGR9N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

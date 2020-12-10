@@ -22,6 +22,9 @@ Está [XTI 48390  Mocasines para Mujer  Azul  Navy Navy   40 EU](https://www.ama
 
 [![XTI 48390  Mocasines para Mujer  Azul  N](https://images-eu.ssl-images-amazon.com/images/I/413L6t2QmVL._SL200_.jpg)](https://www.amazon.es/dp/B07D9DYLXB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9DYLXB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

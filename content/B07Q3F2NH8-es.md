@@ -22,6 +22,9 @@ Ahora mismo tienes [STOBOK 20pcs Clips de papel Organizador de documentos en for
 
 [![STOBOK 20pcs Clips de papel Organizador ](https://images-eu.ssl-images-amazon.com/images/I/51wwsUqTB%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07Q3F2NH8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07Q3F2NH8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

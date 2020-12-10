@@ -22,6 +22,9 @@ Está [Puma Cabana Racer SL V PS  Zapatillas Unisex Niños  Blanco White-Gray Vi
 
 [![Puma Cabana Racer SL V PS  Zapatillas Un](https://images-eu.ssl-images-amazon.com/images/I/31N-XzBPoxL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1C2QL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC1C2QL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

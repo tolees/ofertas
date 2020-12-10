@@ -22,6 +22,9 @@ Está [MURENKING MK36C Batidoras Amasadoras 1000W Capacidad de 5 L 6 Velocidades
 
 [![MURENKING MK36C Batidoras Amasadoras 100](https://images-eu.ssl-images-amazon.com/images/I/41qtbryvUQL._SL200_.jpg)](https://www.amazon.es/dp/B0797SVG2C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0797SVG2C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Colorido Tablero De Dibujo Magnético Para Niños Niños  Letras Magnéti
 
 [![Colorido Tablero De Dibujo Magnético Par](https://images-eu.ssl-images-amazon.com/images/I/510Af3qkKpL._SL200_.jpg)](https://www.amazon.es/dp/B074W8PKS6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074W8PKS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

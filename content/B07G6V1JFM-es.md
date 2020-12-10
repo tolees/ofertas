@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Herren Glaze Lowp Logo  Zapatillas para Hombre  Gris  M
 
 [![BOSS Herren Glaze Lowp Logo  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41TpOoUtd9L._SL200_.jpg)](https://www.amazon.es/dp/B07G6V1JFM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G6V1JFM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

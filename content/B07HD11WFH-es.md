@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Sparkle Satin Essential Sneaker  Zapatillas para Mujer  A
 
 [![Tommy Hilfiger Sparkle Satin Essential S](https://images-eu.ssl-images-amazon.com/images/I/31OsETN111L._SL200_.jpg)](https://www.amazon.es/dp/B07HD11WFH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HD11WFH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [IMITOR Calcetines de Senderismo para Hombre y Mujere Algodón Transpirabl
 
 [![IMITOR Calcetines de Senderismo para Hom](https://images-eu.ssl-images-amazon.com/images/I/41kncA1OAsL._SL200_.jpg)](https://www.amazon.es/dp/B07KJYWV57/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KJYWV57/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

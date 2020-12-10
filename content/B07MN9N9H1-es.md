@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas VL Court 2.0  Zapatillas de Deporte para Hombre  Azuo
 
 [![Adidas VL Court 2.0  Zapatillas de Depor](https://images-eu.ssl-images-amazon.com/images/I/312msoNiwXL._SL200_.jpg)](https://www.amazon.es/dp/B07MN9N9H1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MN9N9H1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

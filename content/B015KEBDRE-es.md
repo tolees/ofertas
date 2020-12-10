@@ -22,6 +22,9 @@ Tienes [Trixie Piscina para Perros  ø 160×30 cm  Azul Oscuro-Azul](https://www
 
 [![Trixie Piscina para Perros  ø 160×30 cm ](https://images-eu.ssl-images-amazon.com/images/I/61wowXNoihL._SL200_.jpg)](https://www.amazon.es/dp/B015KEBDRE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015KEBDRE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Munich Zapatillas G 3 Phylon 748  Deporte Unisex Adulto   31
 
 [![Munich Zapatillas G 3 Phylon 748  Deport](https://images-eu.ssl-images-amazon.com/images/I/41UGxoHaaAL._SL200_.jpg)](https://www.amazon.es/dp/B078JTJ5ML/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078JTJ5ML/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jcovincent Sweat Hood Capucha  Verde Rosin  Lar
 
 [![JACK & JONES Jcovincent Sweat Hood Capuc](https://images-eu.ssl-images-amazon.com/images/I/41XMPhHL9-L._SL200_.jpg)](https://www.amazon.es/dp/B07DCD3J1Z/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DCD3J1Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

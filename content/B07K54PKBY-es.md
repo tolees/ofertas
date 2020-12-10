@@ -22,6 +22,9 @@ Está [Lacoste Ramm102 Braguita   White/Ombblu/BK 974   X-Large  Pack de 3 para 
 
 [![Lacoste Ramm102 Braguita   White/Ombblu/](https://images-eu.ssl-images-amazon.com/images/I/31FswVka1EL._SL200_.jpg)](https://www.amazon.es/dp/B07K54PKBY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K54PKBY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

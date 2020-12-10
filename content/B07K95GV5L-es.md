@@ -22,6 +22,9 @@ Ahora mismo tienes [Brooks Levitate 2  Zapatillas de Running para Hombre  Naranj
 
 [![Brooks Levitate 2  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/414zF0wMoBL._SL200_.jpg)](https://www.amazon.es/dp/B07K95GV5L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K95GV5L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Amazon Essentials 2-Pack Short-Sleeve Active tee novelty-infant-and-toddl
 
 [![Amazon Essentials 2-Pack Short-Sleeve Ac](https://images-eu.ssl-images-amazon.com/images/I/51H3rmeob3L._SL200_.jpg)](https://www.amazon.es/dp/B07JQN6GXG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JQN6GXG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

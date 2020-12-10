@@ -22,6 +22,9 @@ Ahora mismo tienes [Copechilla cinturon portaherramientas electricista con base 
 
 [![Copechilla cinturon portaherramientas el](https://images-eu.ssl-images-amazon.com/images/I/41RO0zg9LfL._SL200_.jpg)](https://www.amazon.es/dp/B07CW6PBX4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CW6PBX4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

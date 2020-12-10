@@ -22,6 +22,9 @@ Está [SALOMON Pearl Casco de esquí y Snowboard para Mujer  Carcasa In-Mould  I
 
 [![SALOMON Pearl Casco de esquí y Snowboard](https://images-eu.ssl-images-amazon.com/images/I/41Yjgxr2rzL._SL200_.jpg)](https://www.amazon.es/dp/B01JJT1U2Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01JJT1U2Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

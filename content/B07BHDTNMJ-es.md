@@ -22,6 +22,9 @@ Está [edc by Esprit 078cc2b009  Pantalones Hombre  Gris  Dark Grey 020   W33/L3
 
 [![edc by Esprit 078cc2b009  Pantalones Hom](https://images-eu.ssl-images-amazon.com/images/I/41MncO-y9mL._SL200_.jpg)](https://www.amazon.es/dp/B07BHDTNMJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BHDTNMJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

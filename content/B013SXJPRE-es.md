@@ -22,6 +22,9 @@ Está [Calvin Klein Eternity Now Agua de Perfume Vaporizador - 30 ml](https://ww
 
 [![Calvin Klein Eternity Now Agua de Perfum](https://images-eu.ssl-images-amazon.com/images/I/315MpIzgcjL._SL200_.jpg)](https://www.amazon.es/dp/B013SXJPRE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B013SXJPRE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

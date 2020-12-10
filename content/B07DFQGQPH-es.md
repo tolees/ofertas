@@ -22,6 +22,9 @@ Está [Puma Active 3/4 Pants  Mujer  Black  XXL](https://www.amazon.es/dp/B07DFQ
 
 [![Puma Active 3/4 Pants  Mujer  Black  XXL](https://images-eu.ssl-images-amazon.com/images/I/31pPLAWXLBL._SL200_.jpg)](https://www.amazon.es/dp/B07DFQGQPH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFQGQPH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

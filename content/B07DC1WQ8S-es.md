@@ -22,6 +22,9 @@ Está [Puma Escaper Tech Zapatillas de deporte Unisex adulto  Blanco  Puma White
 
 [![Puma Escaper Tech Zapatillas de deporte ](https://images-eu.ssl-images-amazon.com/images/I/31-bgEx9zmL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1WQ8S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC1WQ8S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Mallas Pantalones Deportivos Leggings Mujer Yoga de Alta Cintura Elástic
 
 [![Mallas Pantalones Deportivos Leggings Mu](https://images-eu.ssl-images-amazon.com/images/I/51rK0IniuHL._SL200_.jpg)](https://www.amazon.es/dp/B07FQDT1S5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQDT1S5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

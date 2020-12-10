@@ -22,6 +22,9 @@ Está [Knipex 12 12 14 - Alicates Pelacables De Precisión Awg](https://www.amaz
 
 [![Knipex 12 12 14 - Alicates Pelacables De](https://images-eu.ssl-images-amazon.com/images/I/41jJRv-tSaL._SL200_.jpg)](https://www.amazon.es/dp/B00JBBYGZ4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00JBBYGZ4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [KAREN MILLEN Fashions Limited Above-Ankle Boots  Botas De Vaquero para M
 
 [![KAREN MILLEN Fashions Limited Above-Ankl](https://images-eu.ssl-images-amazon.com/images/I/41vKfOnEVtL._SL200_.jpg)](https://www.amazon.es/dp/B07HBBQ7S4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HBBQ7S4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

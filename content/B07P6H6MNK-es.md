@@ -22,6 +22,9 @@ Está [HolyHigh Reloj Inteligente Smartwatch Hombre Impermeable IP68 Pulsera de 
 
 [![HolyHigh Reloj Inteligente Smartwatch Ho](https://images-eu.ssl-images-amazon.com/images/I/511AeEEeQjL._SL200_.jpg)](https://www.amazon.es/dp/B07P6H6MNK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P6H6MNK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

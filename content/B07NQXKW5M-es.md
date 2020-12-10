@@ -22,6 +22,9 @@ Tienes [BLACK+DECKER BEW230BCA-QS Lijadora de detalle Mouse 55W  11.000 rpm  di√
 
 [![BLACK+DECKER BEW230BCA-QS Lijadora de de](https://images-eu.ssl-images-amazon.com/images/I/41VO2E37lYL._SL200_.jpg)](https://www.amazon.es/dp/B07NQXKW5M/?tag=tolees-21)
 
+Caracter√≠sticas principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NQXKW5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

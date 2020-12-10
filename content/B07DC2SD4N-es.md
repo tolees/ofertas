@@ -22,6 +22,9 @@ Está [Puma Smash Platform SD  Zapatillas para Mujer  Morado  Elderberry White  
 
 [![Puma Smash Platform SD  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41KibA0rKvL._SL200_.jpg)](https://www.amazon.es/dp/B07DC2SD4N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC2SD4N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Grsta Botella de Agua para Deportes de Acero Inoxidable Doble Pared de Ai
 
 [![Grsta Botella de Agua para Deportes de A](https://images-eu.ssl-images-amazon.com/images/I/41z%2BgLDsuQL._SL200_.jpg)](https://www.amazon.es/dp/B07GZGBS6D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GZGBS6D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

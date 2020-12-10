@@ -22,6 +22,9 @@ Está [HP Focus Topload 15.6" Negro - Funda  39 6 cm  15.6"   Negro  Monótono  
 
 [![HP Focus Topload 15.6" Negro - Funda  39](https://images-eu.ssl-images-amazon.com/images/I/41%2BRx-6PPOL._SL200_.jpg)](https://www.amazon.es/dp/B01N34K8AY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N34K8AY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

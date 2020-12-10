@@ -22,6 +22,9 @@ Está [GBlife RC Juguete Vehículo Anfibioanfibio RC Coche conla rotación de 36
 
 [![GBlife RC Juguete Vehículo Anfibioanfibi](https://images-eu.ssl-images-amazon.com/images/I/61oW01AuQdL._SL200_.jpg)](https://www.amazon.es/dp/B07F66ZTHG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F66ZTHG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

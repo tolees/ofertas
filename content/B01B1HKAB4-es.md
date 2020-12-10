@@ -22,6 +22,9 @@ Tienes [USAG U00920119 - Juego de 5 Destornilladores Slim para tornillos ranurad
 
 [![USAG U00920119 - Juego de 5 Destornillad](https://images-eu.ssl-images-amazon.com/images/I/51BJhJhVlHL._SL200_.jpg)](https://www.amazon.es/dp/B01B1HKAB4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01B1HKAB4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [ASUS GL704GW-EV022T - Ordenador portátil Gaming 17.3" FullH
 
 [![ASUS GL704GW-EV022T - Ordenador portátil](https://images-eu.ssl-images-amazon.com/images/I/41WFWdm6p5L._SL200_.jpg)](https://www.amazon.es/dp/B07M7F6TJ6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M7F6TJ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

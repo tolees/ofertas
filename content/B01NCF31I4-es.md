@@ -22,6 +22,9 @@ Tienes [oodji Ultra Mujer Suéter Texturizado de Manga Corta  Amarillo  ES 38 / 
 
 [![oodji Ultra Mujer Suéter Texturizado de ](https://images-eu.ssl-images-amazon.com/images/I/41aHwwDyuYL._SL200_.jpg)](https://www.amazon.es/dp/B01NCF31I4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NCF31I4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

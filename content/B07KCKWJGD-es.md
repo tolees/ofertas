@@ -22,6 +22,9 @@ Está [David Jones - 5911-2  Bolsos totes Mujer  Verde  P.Green   13x29x37 cm  W
 
 [![David Jones - 5911-2  Bolsos totes Mujer](https://images-eu.ssl-images-amazon.com/images/I/31U8ZJ1HVZL._SL200_.jpg)](https://www.amazon.es/dp/B07KCKWJGD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCKWJGD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

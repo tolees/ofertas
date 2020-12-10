@@ -22,6 +22,9 @@ Ahora mismo tienes [Joseph Joseph - Nest   Juego de Tuppers/Fiambreras integrada
 
 [![Joseph Joseph - Nest   Juego de Tuppers/](https://images-eu.ssl-images-amazon.com/images/I/410-1qicACL._SL200_.jpg)](https://www.amazon.es/dp/B00H0BKHN2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00H0BKHN2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

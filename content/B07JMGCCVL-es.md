@@ -22,6 +22,9 @@ Está [Bagotte Palo Selfie Tripode  Bluetooth Palo Selfie Movil con Control remo
 
 [![Bagotte Palo Selfie Tripode  Bluetooth P](https://images-eu.ssl-images-amazon.com/images/I/415f3na0OmL._SL200_.jpg)](https://www.amazon.es/dp/B07JMGCCVL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JMGCCVL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

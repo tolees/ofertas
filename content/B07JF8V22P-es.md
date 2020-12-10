@@ -22,6 +22,9 @@ Está [Alitoo Auriculares Bluetooth Inalámbricos Cascos Bluetooth Plegable con 
 
 [![Alitoo Auriculares Bluetooth Inalámbrico](https://images-eu.ssl-images-amazon.com/images/I/41iQzy92BYL._SL200_.jpg)](https://www.amazon.es/dp/B07JF8V22P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JF8V22P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Papillon 8130101 Barbacoa yakama 53x32 cm](https://www.amazon.es/dp/B00J
 
 [![Papillon 8130101 Barbacoa yakama 53x32 c](https://images-eu.ssl-images-amazon.com/images/I/41QzxT%2BE7RL._SL200_.jpg)](https://www.amazon.es/dp/B00JAMD9WA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JAMD9WA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

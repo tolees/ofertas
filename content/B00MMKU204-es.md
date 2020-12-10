@@ -22,6 +22,9 @@ Tienes [Devolo WiFi Repeater - Repetidor señal WiFi  300 Mbps  1 puerto LAN  am
 
 [![Devolo WiFi Repeater - Repetidor señal W](https://images-eu.ssl-images-amazon.com/images/I/51uFOzzvWtL._SL200_.jpg)](https://www.amazon.es/dp/B00MMKU204/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MMKU204/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

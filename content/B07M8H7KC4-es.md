@@ -22,6 +22,9 @@ Ahora mismo tienes [Altavoz portátil LED con Bluetooth. Blanco](https://www.ama
 
 [![Altavoz portátil LED con Bluetooth. Blan](https://images-eu.ssl-images-amazon.com/images/I/41SfQDhWCOL._SL200_.jpg)](https://www.amazon.es/dp/B07M8H7KC4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M8H7KC4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

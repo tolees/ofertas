@@ -22,6 +22,9 @@ Tienes [Retro Estilo de los años 50  por la Noche/Vestido Corto de Fiesta Audre
 
 [![Retro Estilo de los años 50  por la Noch](https://images-eu.ssl-images-amazon.com/images/I/51BP588TRbL._SL200_.jpg)](https://www.amazon.es/dp/B07S4H3SZ1/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07S4H3SZ1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Puma Vikky v2 Zapatillas Mujer  Gris  Silver Gray-White
 
 [![Puma Puma Vikky v2 Zapatillas Mujer  Gri](https://images-eu.ssl-images-amazon.com/images/I/31jnYyyGPWL._SL200_.jpg)](https://www.amazon.es/dp/B07DBYYMY1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DBYYMY1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

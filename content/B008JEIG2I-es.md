@@ -22,6 +22,9 @@ Está [Regent 11300022 - Reloj analógico de cuarzo para hombre con correa de ac
 
 [![Regent 11300022 - Reloj analógico de cua](https://images-eu.ssl-images-amazon.com/images/I/41ce58PVAOL._SL200_.jpg)](https://www.amazon.es/dp/B008JEIG2I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B008JEIG2I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

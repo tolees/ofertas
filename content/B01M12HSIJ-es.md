@@ -22,6 +22,9 @@ Está [Jeep Reversible Padded Cortavientos para Hombre J6W  Blue/Woodland Blue  
 
 [![Jeep Reversible Padded Cortavientos para](https://images-eu.ssl-images-amazon.com/images/I/41tBVeTM6WL._SL200_.jpg)](https://www.amazon.es/dp/B01M12HSIJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M12HSIJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

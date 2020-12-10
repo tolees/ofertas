@@ -22,6 +22,9 @@ Está [Milacolato Aretes de acero inoxidable minúsculos para mujer para hombre 
 
 [![Milacolato Aretes de acero inoxidable mi](https://images-eu.ssl-images-amazon.com/images/I/41-rmM9unXL._SL200_.jpg)](https://www.amazon.es/dp/B07H2WZP4X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H2WZP4X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

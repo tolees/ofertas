@@ -22,6 +22,9 @@ Está [PLANTRONICS RIG 500 Pro HC Headset Console E+A 211220-05](https://www.ama
 
 [![PLANTRONICS RIG 500 Pro HC Headset Conso](https://images-eu.ssl-images-amazon.com/images/I/51b2q4u7SSL._SL200_.jpg)](https://www.amazon.es/dp/B07G9WPQS6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G9WPQS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Arcos Serie Latina - Cuchillo chuletero - Hoja de Acero Inoxidable NITRU
 
 [![Arcos Serie Latina - Cuchillo chuletero ](https://images-eu.ssl-images-amazon.com/images/I/21JXnla971L._SL200_.jpg)](https://www.amazon.es/dp/B00R6JUIUK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00R6JUIUK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

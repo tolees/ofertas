@@ -22,6 +22,9 @@ Tienes [Asics Fuzetora Twist  Zapatillas de Running para Hombre  Gris  Slate Gre
 
 [![Asics Fuzetora Twist  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/412SKaQWUsL._SL200_.jpg)](https://www.amazon.es/dp/B07D1F4M3M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D1F4M3M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

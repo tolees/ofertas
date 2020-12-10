@@ -22,6 +22,9 @@ Está [Bosch Ingletadora PCM 8 SD con función de tracción  4x prolongaciones l
 
 [![Bosch Ingletadora PCM 8 SD con función d](https://images-eu.ssl-images-amazon.com/images/I/51aeOad86kL._SL200_.jpg)](https://www.amazon.es/dp/B01IBQMQFG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IBQMQFG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

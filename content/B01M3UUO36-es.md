@@ -22,6 +22,9 @@ Está [Campingaz Termoeléctrica Powerbox Plus Nevera  Unisex  Azul  24 l](https
 
 [![Campingaz Termoeléctrica Powerbox Plus N](https://images-eu.ssl-images-amazon.com/images/I/31IaZVoz-qL._SL200_.jpg)](https://www.amazon.es/dp/B01M3UUO36/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M3UUO36/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

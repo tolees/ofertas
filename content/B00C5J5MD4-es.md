@@ -22,6 +22,9 @@ Ahora mismo tienes [3 Claveles - Tijeras Electricistas Clásica  Aislante  Acero
 
 [![3 Claveles - Tijeras Electricistas Clási](https://images-eu.ssl-images-amazon.com/images/I/314sr0XtppL._SL200_.jpg)](https://www.amazon.es/dp/B00C5J5MD4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00C5J5MD4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Regla de nivel láser  para mediciones horizontales y vertic
 
 [![Regla de nivel láser  para mediciones ho](https://images-eu.ssl-images-amazon.com/images/I/41QGDUsGjSL._SL200_.jpg)](https://www.amazon.es/dp/B07DCQHWN7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DCQHWN7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Banana Moon - Bañador de Manga Corta para Hombre  Talla 50 - Talla Fran
 
 [![Banana Moon - Bañador de Manga Corta par](https://images-eu.ssl-images-amazon.com/images/I/419fQGBGeHL._SL200_.jpg)](https://www.amazon.es/dp/B00AMGM9KG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00AMGM9KG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

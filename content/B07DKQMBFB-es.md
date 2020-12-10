@@ -22,6 +22,9 @@ Está [Quiksilver Grebe  Botas Slouch para Hombre  Marrón Black/Brown-Combo Xck
 
 [![Quiksilver Grebe  Botas Slouch para Homb](https://images-eu.ssl-images-amazon.com/images/I/41IEF3Xkm7L._SL200_.jpg)](https://www.amazon.es/dp/B07DKQMBFB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DKQMBFB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

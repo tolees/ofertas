@@ -22,6 +22,9 @@ Ahora mismo tienes [VARLION Avant H Junior](https://www.amazon.es/dp/B07KSN658L/
 
 [![VARLION Avant H Junior](https://images-eu.ssl-images-amazon.com/images/I/41QFmZZUYWL._SL200_.jpg)](https://www.amazon.es/dp/B07KSN658L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KSN658L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

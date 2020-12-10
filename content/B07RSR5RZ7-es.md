@@ -22,6 +22,9 @@ Está [DANISH ENDURANCE Calcetines de Ciclismo 3 Pares  1 x Rayas  1 x Negro  1 
 
 [![DANISH ENDURANCE Calcetines de Ciclismo ](https://images-eu.ssl-images-amazon.com/images/I/41VGQXS8JIL._SL200_.jpg)](https://www.amazon.es/dp/B07RSR5RZ7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07RSR5RZ7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

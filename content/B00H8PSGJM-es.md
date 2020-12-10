@@ -22,6 +22,9 @@ Ahora mismo tienes [Dickies New York  Pantalones para Hombre   Camouflage CF    
 
 [![Dickies New York  Pantalones para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41VYmsEaR%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00H8PSGJM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00H8PSGJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

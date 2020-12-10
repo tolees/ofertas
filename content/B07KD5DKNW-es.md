@@ -22,6 +22,9 @@ Tienes [David Jones - Cm3808  Bolsos totes Mujer  Marrón  Brown   17x32x36 cm  
 
 [![David Jones - Cm3808  Bolsos totes Mujer](https://images-eu.ssl-images-amazon.com/images/I/414VfLFBwOL._SL200_.jpg)](https://www.amazon.es/dp/B07KD5DKNW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KD5DKNW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

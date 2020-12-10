@@ -22,6 +22,9 @@ Está [Garland 45-0039 Hidrolavadora eléctrica](https://www.amazon.es/dp/B01AUM
 
 [![Garland 45-0039 Hidrolavadora eléctrica](https://images-eu.ssl-images-amazon.com/images/I/41SrPy%2BETAL._SL200_.jpg)](https://www.amazon.es/dp/B01AUM9RG0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AUM9RG0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

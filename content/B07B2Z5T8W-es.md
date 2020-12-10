@@ -22,6 +22,9 @@ Está [Nike Wmns Oceania Textile  Zapatillas de Deporte Unisex Adulto   Gris 511
 
 [![Nike Wmns Oceania Textile  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/410dENEk4DL._SL200_.jpg)](https://www.amazon.es/dp/B07B2Z5T8W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B2Z5T8W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

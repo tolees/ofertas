@@ -22,6 +22,9 @@ Está [Calvin Klein Demi Unlined  Sujetador para Mujer  Beige  Bare 20n   70A  T
 
 [![Calvin Klein Demi Unlined  Sujetador par](https://images-eu.ssl-images-amazon.com/images/I/41noTmCKMuL._SL200_.jpg)](https://www.amazon.es/dp/B01MZGYAYE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MZGYAYE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

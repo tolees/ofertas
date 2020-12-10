@@ -22,6 +22,9 @@ Tienes [Puma Te- KU  Zapatillas Unisex Adulto  Verde  Ponderosa Pine   37 EU](ht
 
 [![Puma Te- KU  Zapatillas Unisex Adulto  V](https://images-eu.ssl-images-amazon.com/images/I/31tLWfNUekL._SL200_.jpg)](https://www.amazon.es/dp/B07DC11GRX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DC11GRX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

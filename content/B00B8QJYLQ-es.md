@@ -22,6 +22,9 @@ Ahora mismo tienes [Clinique - Self Sun Body Daily Moisturizer - Crema corporal 
 
 [![Clinique - Self Sun Body Daily Moisturiz](https://images-eu.ssl-images-amazon.com/images/I/31NClm3HeyL._SL200_.jpg)](https://www.amazon.es/dp/B00B8QJYLQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00B8QJYLQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

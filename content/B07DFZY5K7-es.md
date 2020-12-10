@@ -22,6 +22,9 @@ Está [New Balance 373  Zapatillas Unisex Niños  Rosa  Dark Pink/Grey PF   33 E
 
 [![New Balance 373  Zapatillas Unisex Niños](https://images-eu.ssl-images-amazon.com/images/I/41h1l0R3xmL._SL200_.jpg)](https://www.amazon.es/dp/B07DFZY5K7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFZY5K7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

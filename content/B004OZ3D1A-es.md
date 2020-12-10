@@ -22,6 +22,9 @@ Ahora mismo tienes [Silverline 126056 - Camilla para trabajos mecánicos](https:
 
 [![Silverline 126056 - Camilla para trabajo](https://images-eu.ssl-images-amazon.com/images/I/31lT4wS2SpL._SL200_.jpg)](https://www.amazon.es/dp/B004OZ3D1A/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B004OZ3D1A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

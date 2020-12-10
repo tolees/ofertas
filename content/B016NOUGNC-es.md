@@ -22,6 +22,9 @@ Está [Kempa Premium Trolley Bolsa de Deporte  45 cm  35 litros  Negro](https://
 
 [![Kempa Premium Trolley Bolsa de Deporte  ](https://images-eu.ssl-images-amazon.com/images/I/41sOUudJYyL._SL200_.jpg)](https://www.amazon.es/dp/B016NOUGNC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016NOUGNC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

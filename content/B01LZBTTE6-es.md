@@ -22,6 +22,9 @@ Está [oodji Ultra Mujer Suéter Estampado de Manga Corta  Rojo  ES 36 / XS](htt
 
 [![oodji Ultra Mujer Suéter Estampado de Ma](https://images-eu.ssl-images-amazon.com/images/I/51xWbQzz1QL._SL200_.jpg)](https://www.amazon.es/dp/B01LZBTTE6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZBTTE6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Uhlsport Center Basic II Pantalones Cortos  Infantil  Azul  Celeste   11
 
 [![Uhlsport Center Basic II Pantalones Cort](https://images-eu.ssl-images-amazon.com/images/I/41dPCKZX88L._SL200_.jpg)](https://www.amazon.es/dp/B00XDNGXZW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XDNGXZW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

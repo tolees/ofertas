@@ -22,6 +22,9 @@ Ahora mismo tienes [Illa bc2128 cazo con lo Especial Revestimiento Antiadherent
 
 [![Illa bc2128 cazo con lo Especial Revesti](https://images-eu.ssl-images-amazon.com/images/I/31fyApjBwhL._SL200_.jpg)](https://www.amazon.es/dp/B00L5GRERA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00L5GRERA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

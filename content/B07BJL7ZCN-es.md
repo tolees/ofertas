@@ -22,6 +22,9 @@ Ahora mismo tienes [Geomag- Gravity Motor   169 Piezas  773 ](https://www.amazon
 
 [![Geomag- Gravity Motor   169 Piezas  773 ](https://images-eu.ssl-images-amazon.com/images/I/51ThTQYfwtL._SL200_.jpg)](https://www.amazon.es/dp/B07BJL7ZCN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BJL7ZCN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

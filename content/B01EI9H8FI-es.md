@@ -22,6 +22,9 @@ Tienes [adidas Originals Gazelle  Zapatillas Unisex Adulto  Varios colores  Coll
 
 [![adidas Originals Gazelle  Zapatillas Uni](https://images-eu.ssl-images-amazon.com/images/I/41PIsRL2fsL._SL200_.jpg)](https://www.amazon.es/dp/B01EI9H8FI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01EI9H8FI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

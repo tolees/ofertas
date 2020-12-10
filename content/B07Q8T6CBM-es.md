@@ -22,6 +22,9 @@ Tienes [smartect Protector de Pantalla para ASUS Zenfone 5 Lite  ZC600KL  [2 Uni
 
 [![smartect Protector de Pantalla para ASUS](https://images-eu.ssl-images-amazon.com/images/I/41e9M76FqRL._SL200_.jpg)](https://www.amazon.es/dp/B07Q8T6CBM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Q8T6CBM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

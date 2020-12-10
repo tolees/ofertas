@@ -22,6 +22,9 @@ Ahora mismo tienes [WAVLINK N300 Ultra-Mini WiFi Repetidor Extender de Alcance W
 
 [![WAVLINK N300 Ultra-Mini WiFi Repetidor E](https://images-eu.ssl-images-amazon.com/images/I/31txdbV%2BrtL._SL200_.jpg)](https://www.amazon.es/dp/B07GNF7F6Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GNF7F6Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

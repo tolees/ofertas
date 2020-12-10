@@ -22,6 +22,9 @@ Está [Levi s Track  Botas Biker para Hombre  Negro  Noir Regular Black 59   43 
 
 [![Levi s Track  Botas Biker para Hombre  N](https://images-eu.ssl-images-amazon.com/images/I/31%2B7grUoaML._SL200_.jpg)](https://www.amazon.es/dp/B07BZDH6J6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BZDH6J6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

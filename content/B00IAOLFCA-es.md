@@ -22,6 +22,9 @@ Tienes [Casio Reloj de Pulsera AE-1300WH-2AVEF](https://www.amazon.es/dp/B00IAOL
 
 [![Casio Reloj de Pulsera AE-1300WH-2AVEF](https://images-eu.ssl-images-amazon.com/images/I/51d%2Bn1PIvML._SL200_.jpg)](https://www.amazon.es/dp/B00IAOLFCA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IAOLFCA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

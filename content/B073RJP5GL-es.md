@@ -22,6 +22,9 @@ Tienes [Adidas CF Advantage  Zapatillas de Deporte para Hombre   Blanco 000   44
 
 [![Adidas CF Advantage  Zapatillas de Depor](https://images-eu.ssl-images-amazon.com/images/I/41MsIyDB3WL._SL200_.jpg)](https://www.amazon.es/dp/B073RJP5GL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073RJP5GL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

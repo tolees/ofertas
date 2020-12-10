@@ -22,6 +22,9 @@ Está [Calvin Klein Thong - Tanga para Mujer  Rosa  Idyllic Ylc   talla del fabr
 
 [![Calvin Klein Thong - Tanga para Mujer  R](https://images-eu.ssl-images-amazon.com/images/I/41EBHrYvbsL._SL200_.jpg)](https://www.amazon.es/dp/B07LBVRCXZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBVRCXZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

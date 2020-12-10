@@ -22,6 +22,9 @@ Tienes [Sony ZS-PS50 - Boomboxon CD y Radio Am/FM de 4W  estéreo  reproducción
 
 [![Sony ZS-PS50 - Boomboxon CD y Radio Am/F](https://images-eu.ssl-images-amazon.com/images/I/515fEuWoMxL._SL200_.jpg)](https://www.amazon.es/dp/B00ULNEHU0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ULNEHU0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lico Magnus  Botas Clasicas Unisex Adulto  Marrón Braun/Marine  38 EU](h
 
 [![Lico Magnus  Botas Clasicas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/411M2PfH21L._SL200_.jpg)](https://www.amazon.es/dp/B07DKDKDFM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DKDKDFM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

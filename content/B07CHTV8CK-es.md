@@ -22,6 +22,9 @@ Tienes [BOSS Schino-Regular D Pantalones  Open Beige 299  36W/34L para Hombre](h
 
 [![BOSS Schino-Regular D Pantalones  Open B](https://images-eu.ssl-images-amazon.com/images/I/312X4F4-KYL._SL200_.jpg)](https://www.amazon.es/dp/B07CHTV8CK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CHTV8CK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

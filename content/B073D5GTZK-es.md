@@ -22,6 +22,9 @@ Tienes [Napapijri - Voyage 1  Bolsos bandolera Unisex adulto  Grau  Dark Grey So
 
 [![Napapijri - Voyage 1  Bolsos bandolera U](https://images-eu.ssl-images-amazon.com/images/I/41Z6CyZyyML._SL200_.jpg)](https://www.amazon.es/dp/B073D5GTZK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073D5GTZK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

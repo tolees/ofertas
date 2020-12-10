@@ -22,6 +22,9 @@ Está [San Ignacio PK1324 Sartenes VINUM-Ø20/24 cms  Aluminio Forjado  Mango er
 
 [![San Ignacio PK1324 Sartenes VINUM-Ø20/24](https://images-eu.ssl-images-amazon.com/images/I/51T1RY3rqkL._SL200_.jpg)](https://www.amazon.es/dp/B07P7HV2TQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P7HV2TQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

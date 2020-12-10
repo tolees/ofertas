@@ -22,6 +22,9 @@ Está [Clarks Un Adorn Strap  Mocasines para Mujer  Azul  Navy Combi-   41 EU](h
 
 [![Clarks Un Adorn Strap  Mocasines para Mu](https://images-eu.ssl-images-amazon.com/images/I/31iH6d1P0dL._SL200_.jpg)](https://www.amazon.es/dp/B07FQTZYJH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQTZYJH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

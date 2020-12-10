@@ -22,6 +22,9 @@ Está [Only Onlsway L/s Pullover Knt Noos  suéter para Mujer  Rojo  Rumba Red  
 
 [![Only Onlsway L/s Pullover Knt Noos  suét](https://images-eu.ssl-images-amazon.com/images/I/411N7mrHuGL._SL200_.jpg)](https://www.amazon.es/dp/B073MTHG51/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073MTHG51/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

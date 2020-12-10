@@ -22,6 +22,9 @@ Tienes [STAR WARS SW-EP8 Figura de Vinilo Pop 4: A Character  Episodio 8  10 cm 
 
 [![STAR WARS SW-EP8 Figura de Vinilo Pop 4:](https://images-eu.ssl-images-amazon.com/images/I/51jGfxv2F2L._SL200_.jpg)](https://www.amazon.es/dp/B072LN3YBF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072LN3YBF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Concord  Silla de coche grupo 3 Isofix  azul  Ocean Blue ](https://www.a
 
 [![Concord  Silla de coche grupo 3 Isofix  ](https://images-eu.ssl-images-amazon.com/images/I/41CqdYkeMVL._SL200_.jpg)](https://www.amazon.es/dp/B015P7U8LS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015P7U8LS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

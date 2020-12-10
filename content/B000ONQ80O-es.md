@@ -22,6 +22,9 @@ Ahora mismo tienes [Schneider Electric GV2ME14 Tesys Gv2  Disyuntor Magnetotérm
 
 [![Schneider Electric GV2ME14 Tesys Gv2  Di](https://images-eu.ssl-images-amazon.com/images/I/41IOG4AFtNL._SL200_.jpg)](https://www.amazon.es/dp/B000ONQ80O/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B000ONQ80O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

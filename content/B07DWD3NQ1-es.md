@@ -22,6 +22,9 @@ Ahora mismo tienes [Call It Spring EU - Cadyvia  Shoppers y bolsos de hombro Muj
 
 [![Call It Spring EU - Cadyvia  Shoppers y ](https://images-eu.ssl-images-amazon.com/images/I/41TCqZgbJyL._SL200_.jpg)](https://www.amazon.es/dp/B07DWD3NQ1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DWD3NQ1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

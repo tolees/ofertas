@@ -22,6 +22,9 @@ Está [Versace Bright Crystal Gel De Ducha 200 ml](https://www.amazon.es/dp/B000
 
 [![Versace Bright Crystal Gel De Ducha 200 ](https://images-eu.ssl-images-amazon.com/images/I/31IDPyOPdrL._SL200_.jpg)](https://www.amazon.es/dp/B000T2DDF8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000T2DDF8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Kappa Vyper  Zapatillas Deportivas para Interior Infantil  A
 
 [![Kappa Vyper  Zapatillas Deportivas para ](https://images-eu.ssl-images-amazon.com/images/I/415%2B6U3Zu0L._SL200_.jpg)](https://www.amazon.es/dp/B00QNQ4X7G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00QNQ4X7G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

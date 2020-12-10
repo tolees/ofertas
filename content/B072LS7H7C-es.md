@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Pulse Ignite XT  Zapatillas Deportivas para Interior pa
 
 [![Puma Pulse Ignite XT  Zapatillas Deporti](https://images-eu.ssl-images-amazon.com/images/I/51sZC7EgvJL._SL200_.jpg)](https://www.amazon.es/dp/B072LS7H7C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072LS7H7C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

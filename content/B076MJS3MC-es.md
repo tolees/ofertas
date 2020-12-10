@@ -22,6 +22,9 @@ Está [Diablo® X-Fighter Silla Gaming Silla de Oficina reposabrazos Ajustables 
 
 [![Diablo® X-Fighter Silla Gaming Silla de ](https://images-eu.ssl-images-amazon.com/images/I/41FYrd1x6fL._SL200_.jpg)](https://www.amazon.es/dp/B076MJS3MC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076MJS3MC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

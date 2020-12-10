@@ -22,6 +22,9 @@ Está [MTNG Collection 51085  Sandalia con Pulsera para Mujer   Vivin Negro C462
 
 [![MTNG Collection 51085  Sandalia con Puls](https://images-eu.ssl-images-amazon.com/images/I/31PbSTnfZDL._SL200_.jpg)](https://www.amazon.es/dp/B07MN21TJJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MN21TJJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [poetryer Cama para Perros  Cama Gato Nido para Mascotas Cama de Perro Cá
 
 [![poetryer Cama para Perros  Cama Gato Nid](https://images-eu.ssl-images-amazon.com/images/I/41FmlbfmrRL._SL200_.jpg)](https://www.amazon.es/dp/B07K9YPS9V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K9YPS9V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

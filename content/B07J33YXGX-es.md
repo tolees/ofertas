@@ -22,6 +22,9 @@ Está [AUSHEN Luces de Espejo de Tocador LED Kit 10 Bombillas Regulables Luces 
 
 [![AUSHEN Luces de Espejo de Tocador LED Ki](https://images-eu.ssl-images-amazon.com/images/I/41BZ9H0YtJL._SL200_.jpg)](https://www.amazon.es/dp/B07J33YXGX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J33YXGX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Aigostar Spin 30HLV - Batidora de vaso americana  350 W de potencia  2 v
 
 [![Aigostar Spin 30HLV - Batidora de vaso a](https://images-eu.ssl-images-amazon.com/images/I/412c3WvgeEL._SL200_.jpg)](https://www.amazon.es/dp/B01IGG8CPE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IGG8CPE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

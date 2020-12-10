@@ -22,6 +22,9 @@ Tienes [XTI 48441  Botas Altas para Mujer  Marrón Camel  36 EU](https://www.ama
 
 [![XTI 48441  Botas Altas para Mujer  Marró](https://images-eu.ssl-images-amazon.com/images/I/310XMldLXyL._SL200_.jpg)](https://www.amazon.es/dp/B07D98YCFY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D98YCFY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

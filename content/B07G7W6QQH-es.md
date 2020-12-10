@@ -22,6 +22,9 @@ Ahora mismo tienes [LANGRIA Base Ordenador Portátil 10" a 17" con Plataforma Gi
 
 [![LANGRIA Base Ordenador Portátil 10" a 17](https://images-eu.ssl-images-amazon.com/images/I/51mW-etVo-L._SL200_.jpg)](https://www.amazon.es/dp/B07G7W6QQH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G7W6QQH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

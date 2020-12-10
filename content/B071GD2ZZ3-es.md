@@ -22,6 +22,9 @@ Está [FIND 17 05 829 camisetas  Negro  Schwarz   40  Talla del Fabricante: Medi
 
 [![FIND 17 05 829 camisetas  Negro  Schwarz](https://images-eu.ssl-images-amazon.com/images/I/41f8695EYdL._SL200_.jpg)](https://www.amazon.es/dp/B071GD2ZZ3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071GD2ZZ3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

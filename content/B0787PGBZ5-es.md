@@ -22,6 +22,9 @@ Tienes [Columbia Meadows Shorty Omni-Heat 3D  Zapatillas de Senderismo para Muje
 
 [![Columbia Meadows Shorty Omni-Heat 3D  Za](https://images-eu.ssl-images-amazon.com/images/I/41%2BbcgwSpKL._SL200_.jpg)](https://www.amazon.es/dp/B0787PGBZ5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0787PGBZ5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Versa 18400212 Sillón Lerwick Gris oscuro  57x57 5x87 5cm  
 
 [![Versa 18400212 Sillón Lerwick Gris oscur](https://images-eu.ssl-images-amazon.com/images/I/31ZO0zP8plL._SL200_.jpg)](https://www.amazon.es/dp/B01N30F1VZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N30F1VZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

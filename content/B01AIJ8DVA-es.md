@@ -22,6 +22,9 @@ Tienes [UGG Bailey Button II Che  Botas de Nieve para Mujer  Beige  Chestnut   3
 
 [![UGG Bailey Button II Che  Botas de Nieve](https://images-eu.ssl-images-amazon.com/images/I/415hgbCCwtL._SL200_.jpg)](https://www.amazon.es/dp/B01AIJ8DVA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01AIJ8DVA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

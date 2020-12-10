@@ -22,6 +22,9 @@ Está [ANSIO Perchas Antideslizantes de Terciopelo Ultra Finas de Ahorro de Espa
 
 [![ANSIO Perchas Antideslizantes de Terciop](https://images-eu.ssl-images-amazon.com/images/I/41gIxGRE0CL._SL200_.jpg)](https://www.amazon.es/dp/B07BP99KJS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BP99KJS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

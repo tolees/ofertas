@@ -22,6 +22,9 @@ Está [Bruzzzler 1144 Set de Tenedor de trinchar  Negro 12.5x12.5x3.5 cm](https:
 
 [![Bruzzzler 1144 Set de Tenedor de trincha](https://images-eu.ssl-images-amazon.com/images/I/41gv5KYuBdL._SL200_.jpg)](https://www.amazon.es/dp/B01MT12RCL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MT12RCL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

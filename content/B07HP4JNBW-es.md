@@ -22,6 +22,9 @@ Ahora mismo tienes [20pcs / set Protector de Esquinas Protector de Esquinas para
 
 [![20pcs / set Protector de Esquinas Protec](https://images-eu.ssl-images-amazon.com/images/I/515Ymy9n43L._SL200_.jpg)](https://www.amazon.es/dp/B07HP4JNBW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HP4JNBW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

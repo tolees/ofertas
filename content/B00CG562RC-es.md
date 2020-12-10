@@ -22,6 +22,9 @@ Está [Lucide 77468/01/36 - Lámpara de techo  metal y cristal   diseño de avio
 
 [![Lucide 77468/01/36 - Lámpara de techo  m](https://images-eu.ssl-images-amazon.com/images/I/31d3K0dg1PL._SL200_.jpg)](https://www.amazon.es/dp/B00CG562RC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00CG562RC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

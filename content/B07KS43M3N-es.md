@@ -22,6 +22,9 @@ Ahora mismo tienes [Vintage Edisen Bombilla  4W （40W）LED Bombillas de ahorro
 
 [![Vintage Edisen Bombilla  4W （40W）LED Bom](https://images-eu.ssl-images-amazon.com/images/I/41BOeSuvm1L._SL200_.jpg)](https://www.amazon.es/dp/B07KS43M3N/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KS43M3N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

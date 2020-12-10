@@ -22,6 +22,9 @@ Está [NANOCABLE 10.20.1601-OEM - Cable de Red Ethernet RJ45 LSZH Cat.5e UTP  AW
 
 [![NANOCABLE 10.20.1601-OEM - Cable de Red ](https://images-eu.ssl-images-amazon.com/images/I/31qPAyxBPnL._SL200_.jpg)](https://www.amazon.es/dp/B00CI2Z71U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00CI2Z71U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

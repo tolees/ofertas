@@ -22,6 +22,9 @@ Está [Thermaltake View 71 TG RGB - Carcasa para PC  Color Negro](https://www.am
 
 [![Thermaltake View 71 TG RGB - Carcasa par](https://images-eu.ssl-images-amazon.com/images/I/41tlbW670-L._SL200_.jpg)](https://www.amazon.es/dp/B074SP9X8Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074SP9X8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

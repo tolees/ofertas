@@ -22,6 +22,9 @@ Está [Dockers by Gerli 41ch307  Botas Estilo Motero para Mujer  Gris  Ice 260  
 
 [![Dockers by Gerli 41ch307  Botas Estilo M](https://images-eu.ssl-images-amazon.com/images/I/41-MmjxFYuL._SL200_.jpg)](https://www.amazon.es/dp/B07DJG6TN6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJG6TN6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

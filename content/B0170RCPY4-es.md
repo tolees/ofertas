@@ -22,6 +22,9 @@ Tienes [Canton Movie 75 - Sistema de Home Cinema 5.1  Color Plata](https://www.a
 
 [![Canton Movie 75 - Sistema de Home Cinema](https://images-eu.ssl-images-amazon.com/images/I/31bIUihn-JL._SL200_.jpg)](https://www.amazon.es/dp/B0170RCPY4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0170RCPY4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

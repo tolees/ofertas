@@ -22,6 +22,9 @@ Ahora mismo tienes [Anillo pene vibrador Cockring Silicona  James Love 2-en-1 Pe
 
 [![Anillo pene vibrador Cockring Silicona  ](https://images-eu.ssl-images-amazon.com/images/I/41gawnKzSDL._SL200_.jpg)](https://www.amazon.es/dp/B074M54DGB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074M54DGB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

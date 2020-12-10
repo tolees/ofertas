@@ -22,6 +22,9 @@ Tienes [Bestway 58037 - Cobertor Protector de PVC para piscinas Steel Pro  Power
 
 [![Bestway 58037 - Cobertor Protector de PV](https://images-eu.ssl-images-amazon.com/images/I/31UvJIfAENL._SL200_.jpg)](https://www.amazon.es/dp/B00FDV6B36/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00FDV6B36/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

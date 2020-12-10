@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjepaulos Polo SS Noos  Hombre  Negro  Black De
 
 [![JACK & JONES Jjepaulos Polo SS Noos  Hom](https://images-eu.ssl-images-amazon.com/images/I/41rqIffowpL._SL200_.jpg)](https://www.amazon.es/dp/B079C79JPP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079C79JPP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

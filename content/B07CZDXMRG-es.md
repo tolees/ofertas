@@ -22,6 +22,9 @@ Está [Under Armour Challenger II Training Pant Pantalones  Hombre  Verde  Batik
 
 [![Under Armour Challenger II Training Pant](https://images-eu.ssl-images-amazon.com/images/I/31nNjG8WChL._SL200_.jpg)](https://www.amazon.es/dp/B07CZDXMRG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZDXMRG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [AmazonBasics  Mochila de estilo clásico  Azul  Azulón ](https://www.ama
 
 [![AmazonBasics  Mochila de estilo clásico ](https://images-eu.ssl-images-amazon.com/images/I/41d14FIgXwL._SL200_.jpg)](https://www.amazon.es/dp/B013TGF75O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B013TGF75O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

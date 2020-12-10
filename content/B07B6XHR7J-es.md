@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 480  Zapatillas de Running para Mujer  Azul  Ena
 
 [![New Balance 480  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/41-p%2BVN3aZL._SL200_.jpg)](https://www.amazon.es/dp/B07B6XHR7J/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B6XHR7J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

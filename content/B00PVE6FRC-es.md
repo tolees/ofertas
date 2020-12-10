@@ -22,6 +22,9 @@ Tienes [D-Link DAP-1365 - Repetidor WiFi N300 con Enchufe  1 Puerto LAN Ethernet
 
 [![D-Link DAP-1365 - Repetidor WiFi N300 co](https://images-eu.ssl-images-amazon.com/images/I/41TX5vL84rL._SL200_.jpg)](https://www.amazon.es/dp/B00PVE6FRC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00PVE6FRC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

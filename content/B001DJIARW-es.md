@@ -22,6 +22,9 @@ Está [HJH Office AIR-PORT Silla de oficina Negro 48.0x59.0x117.0 cm](https://ww
 
 [![HJH Office AIR-PORT Silla de oficina Neg](https://images-eu.ssl-images-amazon.com/images/I/41uEoODydoL._SL200_.jpg)](https://www.amazon.es/dp/B001DJIARW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001DJIARW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

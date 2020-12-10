@@ -22,6 +22,9 @@ Está [Lumiparty Doctora Juguetes  Médico Kit para Niños Juguetes Educativos p
 
 [![Lumiparty Doctora Juguetes  Médico Kit p](https://images-eu.ssl-images-amazon.com/images/I/51XoOOwMXKL._SL200_.jpg)](https://www.amazon.es/dp/B07HGQKWTR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HGQKWTR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

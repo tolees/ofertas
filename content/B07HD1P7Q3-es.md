@@ -22,6 +22,9 @@ Tienes [Prensa Ajo - Acero Inoxidable Prensa de Ajo/Ajo Mincer/Ajo Peeler/Jengib
 
 [![Prensa Ajo - Acero Inoxidable Prensa de ](https://images-eu.ssl-images-amazon.com/images/I/51ys6WtmnEL._SL200_.jpg)](https://www.amazon.es/dp/B07HD1P7Q3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HD1P7Q3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

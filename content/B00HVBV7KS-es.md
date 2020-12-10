@@ -22,6 +22,9 @@ Está [umi Ria - Merceditas de cuero para niña  Negro  Negro   EU 21](https://w
 
 [![umi Ria - Merceditas de cuero para niña ](https://images-eu.ssl-images-amazon.com/images/I/31jTMgkRi1L._SL200_.jpg)](https://www.amazon.es/dp/B00HVBV7KS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00HVBV7KS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

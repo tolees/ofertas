@@ -22,6 +22,9 @@ Está [Caja de Luz LED A4 con 250 Letras Símbolos Emojis  2 Marcadores Borrable
 
 [![Caja de Luz LED A4 con 250 Letras Símbol](https://images-eu.ssl-images-amazon.com/images/I/41xjtzZUHkL._SL200_.jpg)](https://www.amazon.es/dp/B07JHZ9DHY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JHZ9DHY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

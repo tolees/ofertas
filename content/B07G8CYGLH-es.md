@@ -22,6 +22,9 @@ Tienes [Natural Honey  Aceite corporal - 300 ml.](https://www.amazon.es/dp/B07G8
 
 [![Natural Honey  Aceite corporal - 300 ml.](https://images-eu.ssl-images-amazon.com/images/I/3165l1GBdOL._SL200_.jpg)](https://www.amazon.es/dp/B07G8CYGLH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G8CYGLH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

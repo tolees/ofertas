@@ -22,6 +22,9 @@ Ahora mismo tienes [Samsung – Carcasa de silicona para Samsung Galaxy S9  colo
 
 [![Samsung – Carcasa de silicona para Samsu](https://images-eu.ssl-images-amazon.com/images/I/315tVZELBYL._SL200_.jpg)](https://www.amazon.es/dp/B079G1LNVT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079G1LNVT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

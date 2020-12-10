@@ -22,6 +22,9 @@ Ahora mismo tienes [Naf Naf Kend4 Mono  Negro  Écru/Noir 342   36 para Mujer](h
 
 [![Naf Naf Kend4 Mono  Negro  Écru/Noir 342](https://images-eu.ssl-images-amazon.com/images/I/31uVe1ezT8L._SL200_.jpg)](https://www.amazon.es/dp/B07KKQWQ34/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KKQWQ34/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

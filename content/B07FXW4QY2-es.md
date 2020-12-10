@@ -22,6 +22,9 @@ Está [Cúter profesional Powerdelux Cúter Plegable de Cambio Rápido Cortador 
 
 [![Cúter profesional Powerdelux Cúter Plega](https://images-eu.ssl-images-amazon.com/images/I/41Gp0WnxzmL._SL200_.jpg)](https://www.amazon.es/dp/B07FXW4QY2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FXW4QY2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [marckonfort Colchón Viscoelástico Paris 140X190  18 cm de Altura  2 cm
 
 [![marckonfort Colchón Viscoelástico Paris ](https://images-eu.ssl-images-amazon.com/images/I/41LMZwFhRJL._SL200_.jpg)](https://www.amazon.es/dp/B00TZT4C2O/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TZT4C2O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

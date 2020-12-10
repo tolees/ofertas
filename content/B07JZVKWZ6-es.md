@@ -22,6 +22,9 @@ Está [JACK & JONES Jorantwon Sweat Hood Capucha  Azul  Surf The Web Fit: Reg Or
 
 [![JACK & JONES Jorantwon Sweat Hood Capuch](https://images-eu.ssl-images-amazon.com/images/I/41YbMii%2B68L._SL200_.jpg)](https://www.amazon.es/dp/B07JZVKWZ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JZVKWZ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

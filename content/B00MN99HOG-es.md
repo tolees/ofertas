@@ -22,6 +22,9 @@ Tienes [Max Factor 53047 Skin Luminizer Base de Maquillaje - 30 ml](https://www.
 
 [![Max Factor 53047 Skin Luminizer Base de ](https://images-eu.ssl-images-amazon.com/images/I/41IytQQSaOL._SL200_.jpg)](https://www.amazon.es/dp/B00MN99HOG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MN99HOG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

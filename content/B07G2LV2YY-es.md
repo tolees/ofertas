@@ -22,6 +22,9 @@ Ahora mismo tienes [Mandos para PC  Anpreme Mandos inalámbrico PS3 Gaming Contr
 
 [![Mandos para PC  Anpreme Mandos inalámbri](https://images-eu.ssl-images-amazon.com/images/I/41UlhkWWkQL._SL200_.jpg)](https://www.amazon.es/dp/B07G2LV2YY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G2LV2YY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

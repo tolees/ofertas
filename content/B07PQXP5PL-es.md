@@ -22,6 +22,9 @@ Tienes [Feob Batería Externa para Móvil  Power Bank 25800mAh Cargador portáti
 
 [![Feob Batería Externa para Móvil  Power B](https://images-eu.ssl-images-amazon.com/images/I/314u%2Bfqw-hL._SL200_.jpg)](https://www.amazon.es/dp/B07PQXP5PL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PQXP5PL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

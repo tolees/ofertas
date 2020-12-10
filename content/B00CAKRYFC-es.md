@@ -22,6 +22,9 @@ Tienes [Gloss - caja de baño  caja de regalo para mujeres - Set de Baño Regalo
 
 [![Gloss - caja de baño  caja de regalo par](https://images-eu.ssl-images-amazon.com/images/I/51gnRkhGKKL._SL200_.jpg)](https://www.amazon.es/dp/B00CAKRYFC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CAKRYFC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

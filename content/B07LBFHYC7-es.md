@@ -22,6 +22,9 @@ Ahora mismo tienes [Sierra Circular  Meterk Sierra Circular  1500W 4700RPM   Cor
 
 [![Sierra Circular  Meterk Sierra Circular ](https://images-eu.ssl-images-amazon.com/images/I/51ObK8d9maL._SL200_.jpg)](https://www.amazon.es/dp/B07LBFHYC7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07LBFHYC7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

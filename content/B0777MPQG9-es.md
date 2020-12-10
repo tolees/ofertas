@@ -22,6 +22,9 @@ Tienes [Infantino Explore and Store Sparkle Activity Gym](https://www.amazon.es/
 
 [![Infantino Explore and Store Sparkle Acti](https://images-eu.ssl-images-amazon.com/images/I/51qkxCAxu7L._SL200_.jpg)](https://www.amazon.es/dp/B0777MPQG9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0777MPQG9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Laura Vita - 2613  Shoppers y bolsos de hombro Mujer  Blanco  6.0x18.0x2
 
 [![Laura Vita - 2613  Shoppers y bolsos de ](https://images-eu.ssl-images-amazon.com/images/I/518RTo7hCYL._SL200_.jpg)](https://www.amazon.es/dp/B07GG38XN6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GG38XN6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

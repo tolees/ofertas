@@ -22,6 +22,9 @@ Está [BOSS Mix&Match Shorts Pantalones Cortos Gris Grey 031  W40  Talla del Fab
 
 [![BOSS Mix&Match Shorts Pantalones Cortos ](https://images-eu.ssl-images-amazon.com/images/I/311SDrTvlQL._SL200_.jpg)](https://www.amazon.es/dp/B07KGCXZRQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGCXZRQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [New Balance Fresh Foam Lazr Sport  Zapatillas de Running para Hombre  Azu
 
 [![New Balance Fresh Foam Lazr Sport  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41q-BhrPXDL._SL200_.jpg)](https://www.amazon.es/dp/B07B6XQSXG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B6XQSXG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

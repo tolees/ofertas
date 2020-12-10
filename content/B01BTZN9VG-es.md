@@ -22,6 +22,9 @@ Está [5 uds de cabezales para cepillos de dientes E-Cron con tapas. Totalmente 
 
 [![5 uds de cabezales para cepillos de dien](https://images-eu.ssl-images-amazon.com/images/I/41yrNROWVEL._SL200_.jpg)](https://www.amazon.es/dp/B01BTZN9VG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BTZN9VG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

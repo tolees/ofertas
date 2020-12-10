@@ -22,6 +22,9 @@ Está [Conguitos Botin Glitter con Pompon  Botas Slouch para Niñas   Rosa 11   
 
 [![Conguitos Botin Glitter con Pompon  Bota](https://images-eu.ssl-images-amazon.com/images/I/41BECG-yRXL._SL200_.jpg)](https://www.amazon.es/dp/B07CTYSV9G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CTYSV9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

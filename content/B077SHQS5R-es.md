@@ -22,6 +22,9 @@ Está [Puma Liga Baselayer Short Tight Pantalones Cortos  Hombre  Amarillo  Cybe
 
 [![Puma Liga Baselayer Short Tight Pantalon](https://images-eu.ssl-images-amazon.com/images/I/41um3VilsnL._SL200_.jpg)](https://www.amazon.es/dp/B077SHQS5R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077SHQS5R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

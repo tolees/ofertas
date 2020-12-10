@@ -22,6 +22,9 @@ Está [Kounga Yoga Mat ComfiPro 8 Esterilla  Unisex Adulto  Light Blue  One Size
 
 [![Kounga Yoga Mat ComfiPro 8 Esterilla  Un](https://images-eu.ssl-images-amazon.com/images/I/410URFQcyJL._SL200_.jpg)](https://www.amazon.es/dp/B07LC9CN66/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LC9CN66/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

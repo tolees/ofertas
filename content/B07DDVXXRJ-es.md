@@ -22,6 +22,9 @@ Está [Converse Chuck Taylor All Star Becca  Zapatillas para Mujer  Verde Utilit
 
 [![Converse Chuck Taylor All Star Becca  Za](https://images-eu.ssl-images-amazon.com/images/I/418FBKDRmLL._SL200_.jpg)](https://www.amazon.es/dp/B07DDVXXRJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDVXXRJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

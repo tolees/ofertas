@@ -22,6 +22,9 @@ Está [Severin 2034 - Mini Horno de 20 Litros Silver](https://www.amazon.es/dp/B
 
 [![Severin 2034 - Mini Horno de 20 Litros S](https://images-eu.ssl-images-amazon.com/images/I/41xK4VvhHvL._SL200_.jpg)](https://www.amazon.es/dp/B003HD7YJC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B003HD7YJC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Calvin Klein Jeans Antani Nylon/Metal Film  Zapatillas Altas para Hombre 
 
 [![Calvin Klein Jeans Antani Nylon/Metal Fi](https://images-eu.ssl-images-amazon.com/images/I/41ZJ72YzmNL._SL200_.jpg)](https://www.amazon.es/dp/B07FRCNQWH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FRCNQWH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Marvel CD-21-2266 2018 Mochila Tipo Casual  40 cm  1 litro](https://www.
 
 [![Marvel CD-21-2266 2018 Mochila Tipo Casu](https://images-eu.ssl-images-amazon.com/images/I/612vk-AY-WL._SL200_.jpg)](https://www.amazon.es/dp/B07D5TPGPS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D5TPGPS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Reebok Speedlux 3.0  Zapatillas de Trail Running para Hombre   We/Vital B
 
 [![Reebok Speedlux 3.0  Zapatillas de Trail](https://images-eu.ssl-images-amazon.com/images/I/41ZJBAyO-iL._SL200_.jpg)](https://www.amazon.es/dp/B07G1H59HL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G1H59HL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

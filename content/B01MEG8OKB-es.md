@@ -22,6 +22,9 @@ Tienes [DC Hombre Layle 20 Bañador para Hombre  Hombre  Layle 20  Blue Moon  3
 
 [![DC Hombre Layle 20 Bañador para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/51koOq%2BBGDL._SL200_.jpg)](https://www.amazon.es/dp/B01MEG8OKB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MEG8OKB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

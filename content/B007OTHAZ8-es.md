@@ -22,6 +22,9 @@ Tienes [JOSE CUERVO REPOSADO DORADO 1L.](https://www.amazon.es/dp/B007OTHAZ8/?ta
 
 [![JOSE CUERVO REPOSADO DORADO 1L.](https://images-eu.ssl-images-amazon.com/images/I/317Cj0do5sL._SL200_.jpg)](https://www.amazon.es/dp/B007OTHAZ8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B007OTHAZ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

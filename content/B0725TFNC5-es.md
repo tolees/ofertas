@@ -22,6 +22,9 @@ Está [Puma Smash Glitzsl Jr  Zapatillas Unisex Niños  Azul Baja Blue  38 EU](h
 
 [![Puma Smash Glitzsl Jr  Zapatillas Unisex](https://images-eu.ssl-images-amazon.com/images/I/51f2Wof45eL._SL200_.jpg)](https://www.amazon.es/dp/B0725TFNC5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0725TFNC5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

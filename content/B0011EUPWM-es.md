@@ -22,6 +22,9 @@ Ahora mismo tienes [Caterpillar Colorado  Botas para Hombre  Beige  Dark Beige  
 
 [![Caterpillar Colorado  Botas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/517si4FbKYL._SL200_.jpg)](https://www.amazon.es/dp/B0011EUPWM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0011EUPWM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

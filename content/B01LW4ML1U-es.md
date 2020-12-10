@@ -22,6 +22,9 @@ Tienes [GOLIATE NyX Masajeador Prostático Vibratorio de Lujo para Hombre - Vibr
 
 [![GOLIATE NyX Masajeador Prostático Vibrat](https://images-eu.ssl-images-amazon.com/images/I/41AZy9Zx5fL._SL200_.jpg)](https://www.amazon.es/dp/B01LW4ML1U/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LW4ML1U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

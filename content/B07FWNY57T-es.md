@@ -22,6 +22,9 @@ Está [Canforrales Pack de Vino "Experiencia"  - Paquete de 6 x 750 ml - Total: 
 
 [![Canforrales Pack de Vino "Experiencia"  ](https://images-eu.ssl-images-amazon.com/images/I/514uYw05uqL._SL200_.jpg)](https://www.amazon.es/dp/B07FWNY57T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FWNY57T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

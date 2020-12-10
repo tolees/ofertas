@@ -22,6 +22,9 @@ Ahora mismo tienes [Alessi Twist Frutero  Acero Inoxidable Pulido  Plata  Talla 
 
 [![Alessi Twist Frutero  Acero Inoxidable P](https://images-eu.ssl-images-amazon.com/images/I/31Hx--l4uAL._SL200_.jpg)](https://www.amazon.es/dp/B00NNN2XHO/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00NNN2XHO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

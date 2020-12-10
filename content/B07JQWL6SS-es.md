@@ -22,6 +22,9 @@ Está [adidas Powerlift 4  Zapatillas de Deporte para Hombre  Azul FTWR White/Bl
 
 [![adidas Powerlift 4  Zapatillas de Deport](https://images-eu.ssl-images-amazon.com/images/I/41ShlF51FWL._SL200_.jpg)](https://www.amazon.es/dp/B07JQWL6SS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JQWL6SS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Maslighting Flexo LED](https://www.amazon.es/dp/B016ZM0TES/?tag=tolees-21
 
 [![Maslighting Flexo LED](https://images-eu.ssl-images-amazon.com/images/I/215cS3E0ITL._SL200_.jpg)](https://www.amazon.es/dp/B016ZM0TES/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016ZM0TES/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

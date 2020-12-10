@@ -22,6 +22,9 @@ Está [SYROKAN - Sujetador Deportivo para Mujer Sujetador Sport Medium Tallas Gr
 
 [![SYROKAN - Sujetador Deportivo para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41IzuiA2g-L._SL200_.jpg)](https://www.amazon.es/dp/B076ZGSQSZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076ZGSQSZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

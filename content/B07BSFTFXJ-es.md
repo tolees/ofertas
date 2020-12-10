@@ -22,6 +22,9 @@ Está [SaintderG® Fundas para sillas Pack de 4 Fundas sillas Comedor  Lavable E
 
 [![SaintderG® Fundas para sillas Pack de 4 ](https://images-eu.ssl-images-amazon.com/images/I/41n392PyEVL._SL200_.jpg)](https://www.amazon.es/dp/B07BSFTFXJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BSFTFXJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Vans Cerus Lite  Zapatillas para Mujer  Negro   Circles  Black Ufb   34.
 
 [![Vans Cerus Lite  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41ENX4AZHxL._SL200_.jpg)](https://www.amazon.es/dp/B07BN56LQY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BN56LQY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

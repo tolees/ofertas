@@ -22,6 +22,9 @@ Tienes [Bosch MSM6S10B Ergomixx Style - Batidora de mano  750 W  12 velocidades 
 
 [![Bosch MSM6S10B Ergomixx Style - Batidora](https://images-eu.ssl-images-amazon.com/images/I/41i7oAIkAFL._SL200_.jpg)](https://www.amazon.es/dp/B075ZZV81N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075ZZV81N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

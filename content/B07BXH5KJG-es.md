@@ -22,6 +22,9 @@ Tienes [Amzdeal Espejo de aumento de pared  Espejo tocador  Con luz LED  5x Aume
 
 [![Amzdeal Espejo de aumento de pared  Espe](https://images-eu.ssl-images-amazon.com/images/I/41%2Bej27qBtL._SL200_.jpg)](https://www.amazon.es/dp/B07BXH5KJG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BXH5KJG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

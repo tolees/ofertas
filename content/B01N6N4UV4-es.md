@@ -22,6 +22,9 @@ Tienes [Reebok Cl Nylon Slim Hv  Sneakers para Mujer  Verde  Mint/Bottle Green/W
 
 [![Reebok Cl Nylon Slim Hv  Sneakers para M](https://images-eu.ssl-images-amazon.com/images/I/41Rt14sUxjL._SL200_.jpg)](https://www.amazon.es/dp/B01N6N4UV4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N6N4UV4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

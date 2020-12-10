@@ -22,6 +22,9 @@ Está [Under Armour UA W Press 2  Zapatillas de Deporte para Mujer  Negro  Black
 
 [![Under Armour UA W Press 2  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/412rWmIKemL._SL200_.jpg)](https://www.amazon.es/dp/B072LNKC19/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072LNKC19/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Napapijri Bags Mochila Tipo Casual  40 cm  20.8 Liters   Fantasy ](https
 
 [![Napapijri Bags Mochila Tipo Casual  40 c]()](https://www.amazon.es/dp/B0792QSMVD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792QSMVD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

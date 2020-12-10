@@ -22,6 +22,9 @@ Está [Reebok Classic Leather  Zapatillas de Trail Running Unisex para Niños  B
 
 [![Reebok Classic Leather  Zapatillas de Tr](https://images-eu.ssl-images-amazon.com/images/I/41xnJlBTXzL._SL200_.jpg)](https://www.amazon.es/dp/B01N5I9H7K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N5I9H7K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

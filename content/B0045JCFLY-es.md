@@ -22,6 +22,9 @@ Tienes [Arctic MX-4 – Compuesto térmico de micropartículas de carbono  pasta
 
 [![Arctic MX-4 – Compuesto térmico de micro](https://images-eu.ssl-images-amazon.com/images/I/4157p0IhTML._SL200_.jpg)](https://www.amazon.es/dp/B0045JCFLY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0045JCFLY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Plano KT500TB Rodillera Roja Negra 0](https://www.amazon.es/dp/B000XDRST
 
 [![Plano KT500TB Rodillera Roja Negra 0](https://images-eu.ssl-images-amazon.com/images/I/41PZt-qpkpL._SL200_.jpg)](https://www.amazon.es/dp/B000XDRSTU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000XDRSTU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

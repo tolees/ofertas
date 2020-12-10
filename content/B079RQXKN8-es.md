@@ -22,6 +22,9 @@ Tienes [Pepe Jeans LYS JR PG210571  Pantalones para Niñas  Negro  Black 999  5 
 
 [![Pepe Jeans LYS JR PG210571  Pantalones p](https://images-eu.ssl-images-amazon.com/images/I/21xtibLU4sL._SL200_.jpg)](https://www.amazon.es/dp/B079RQXKN8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079RQXKN8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Cámara Espía WiFi LXMIMI Altavoz Bluetooth 1080P HD Cámar
 
 [![Cámara Espía WiFi LXMIMI Altavoz Bluetoo](https://images-eu.ssl-images-amazon.com/images/I/41RUS1c4gsL._SL200_.jpg)](https://www.amazon.es/dp/B07JLCQKR1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JLCQKR1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

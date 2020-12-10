@@ -22,6 +22,9 @@ Tienes [lavera Leche Corporal Reafirmante con Grano de Café Verde y Té Verde -
 
 [![lavera Leche Corporal Reafirmante con Gr](https://images-eu.ssl-images-amazon.com/images/I/41IiuVaJ%2BkL._SL200_.jpg)](https://www.amazon.es/dp/B077RYYD49/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077RYYD49/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

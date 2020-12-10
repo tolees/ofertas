@@ -22,6 +22,9 @@ Ahora mismo tienes [Wishmaster Blu-Ray Edición Coleccionista [Blu-ray]](https:/
 
 [![Wishmaster Blu-Ray Edición Coleccionista](https://images-eu.ssl-images-amazon.com/images/I/51IzRhMumvL._SL200_.jpg)](https://www.amazon.es/dp/B074BP3V6K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074BP3V6K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

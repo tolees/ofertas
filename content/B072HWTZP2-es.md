@@ -22,6 +22,9 @@ Ahora mismo tienes [Billow Technology XS600PROB - Cámara de acción de 16 MP  4
 
 [![Billow Technology XS600PROB - Cámara de ](https://images-eu.ssl-images-amazon.com/images/I/41ZujtB7eLL._SL200_.jpg)](https://www.amazon.es/dp/B072HWTZP2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072HWTZP2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

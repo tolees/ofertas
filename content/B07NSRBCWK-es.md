@@ -22,6 +22,9 @@ Está [Kranich Espejo de Maquillaje con luz led USB Espejo cosmético de Mesa](h
 
 [![Kranich Espejo de Maquillaje con luz led](https://images-eu.ssl-images-amazon.com/images/I/41aC699FTVL._SL200_.jpg)](https://www.amazon.es/dp/B07NSRBCWK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NSRBCWK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

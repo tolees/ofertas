@@ -22,6 +22,9 @@ Ahora mismo tienes [Rinat Kraken NRG Neo Training Guante de Portero  Unisex niñ
 
 [![Rinat Kraken NRG Neo Training Guante de ](https://images-eu.ssl-images-amazon.com/images/I/51zLSAHxOvL._SL200_.jpg)](https://www.amazon.es/dp/B07D75GYS1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D75GYS1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Purina Gourmet Gold Soufflé comida para gatos con Salmón 2
 
 [![Purina Gourmet Gold Soufflé comida para ](https://images-eu.ssl-images-amazon.com/images/I/41REHbKR6ZL._SL200_.jpg)](https://www.amazon.es/dp/B071HLZ96B/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071HLZ96B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

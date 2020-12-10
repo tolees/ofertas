@@ -22,6 +22,9 @@ Ahora mismo tienes [Flower 30587 30587-Triple acción ecológico Concentrado  No
 
 [![Flower 30587 30587-Triple acción ecológi](https://images-eu.ssl-images-amazon.com/images/I/51IPBbShUxL._SL200_.jpg)](https://www.amazon.es/dp/B00GXKF2KE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00GXKF2KE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW D-STAQ 3D Skinny  Jeans para Hombre  Azul  medium
 
 [![G-STAR RAW D-STAQ 3D Skinny  Jeans para ](https://images-eu.ssl-images-amazon.com/images/I/410-XTnxNRL._SL200_.jpg)](https://www.amazon.es/dp/B07B586WPF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B586WPF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

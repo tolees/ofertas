@@ -22,6 +22,9 @@ Está [Papermania Capsule  Moroccan Haze  Craft Tape  4 x 5m ](https://www.amazo
 
 [![Papermania Capsule  Moroccan Haze  Craft](https://images-eu.ssl-images-amazon.com/images/I/51EzHJ7s05L._SL200_.jpg)](https://www.amazon.es/dp/B079QVNZNF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079QVNZNF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

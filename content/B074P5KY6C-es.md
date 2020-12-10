@@ -22,6 +22,9 @@ Está [Ni No Kuni II: El Renacer De Un Reino - King s Edition](https://www.amazo
 
 [![Ni No Kuni II: El Renacer De Un Reino - ](https://images-eu.ssl-images-amazon.com/images/I/51sJvwzj4%2BL._SL200_.jpg)](https://www.amazon.es/dp/B074P5KY6C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074P5KY6C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

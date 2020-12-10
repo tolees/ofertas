@@ -22,6 +22,9 @@ Está [SYROKAN - Sujetador Deportivo Espalda Deportiva con Cremallera para Mujer
 
 [![SYROKAN - Sujetador Deportivo Espalda De](https://images-eu.ssl-images-amazon.com/images/I/41bNAd6BaiL._SL200_.jpg)](https://www.amazon.es/dp/B00RF4RLOC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00RF4RLOC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Panasonic Eneloop Níquel Metal hidruro 750mAh - Batería/Pila Recargable
 
 [![Panasonic Eneloop Níquel Metal hidruro 7](https://images-eu.ssl-images-amazon.com/images/I/51VCFy5ehIL._SL200_.jpg)](https://www.amazon.es/dp/B019M0GP6G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B019M0GP6G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

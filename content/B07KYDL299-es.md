@@ -22,6 +22,9 @@ Tienes [New Look Dog Tooth 5992401  Pantalones para Hombre  Gris  Dark Grey 3  N
 
 [![New Look Dog Tooth 5992401  Pantalones p](https://images-eu.ssl-images-amazon.com/images/I/41pBSBUAQZL._SL200_.jpg)](https://www.amazon.es/dp/B07KYDL299/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KYDL299/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

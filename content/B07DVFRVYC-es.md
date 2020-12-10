@@ -22,6 +22,9 @@ Está [AFBEST Aspirador de Mano Sin Cable  Aspiradora de Coche  Potente 100W 600
 
 [![AFBEST Aspirador de Mano Sin Cable  Aspi](https://images-eu.ssl-images-amazon.com/images/I/41SlxeMfR4L._SL200_.jpg)](https://www.amazon.es/dp/B07DVFRVYC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVFRVYC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

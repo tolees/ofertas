@@ -22,6 +22,9 @@ Está [PANAMA JACK Tamara - Botas cortas de piel para mujer  color marrón  tall
 
 [![PANAMA JACK Tamara - Botas cortas de pie](https://images-eu.ssl-images-amazon.com/images/I/419Ij4OoZnL._SL200_.jpg)](https://www.amazon.es/dp/B00Y0R1NAU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00Y0R1NAU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

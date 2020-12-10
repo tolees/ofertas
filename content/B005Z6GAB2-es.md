@@ -22,6 +22,9 @@ Está [Farmacell 312  Carne  S/M  Faja pantalon moldeadora y contenitiva con efe
 
 [![Farmacell 312  Carne  S/M  Faja pantalon](https://images-eu.ssl-images-amazon.com/images/I/31%2BVAjZ0MnL._SL200_.jpg)](https://www.amazon.es/dp/B005Z6GAB2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B005Z6GAB2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Emporio Armani Underwear 111776  Pantalones Cortos para Hombre  Negro  N
 
 [![Emporio Armani Underwear 111776  Pantalo](https://images-eu.ssl-images-amazon.com/images/I/417OX3lo5ML._SL200_.jpg)](https://www.amazon.es/dp/B078WZJYMY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WZJYMY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

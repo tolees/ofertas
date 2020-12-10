@@ -22,6 +22,9 @@ Tienes [Desigual - Bols_discovery_capri Zipper  Shoppers y bolsos de hombro Muje
 
 [![Desigual - Bols_discovery_capri Zipper  ](https://images-eu.ssl-images-amazon.com/images/I/51grsWApJkL._SL200_.jpg)](https://www.amazon.es/dp/B079VTS68T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079VTS68T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

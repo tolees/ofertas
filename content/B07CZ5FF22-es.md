@@ -22,6 +22,9 @@ Está [Salomon X-Mission 3 W  Zapatillas de Trail Running para Mujer  Gris Shado
 
 [![Salomon X-Mission 3 W  Zapatillas de Tra](https://images-eu.ssl-images-amazon.com/images/I/412HyuDC2bL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ5FF22/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ5FF22/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

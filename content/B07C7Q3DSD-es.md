@@ -22,6 +22,9 @@ Ahora mismo tienes [KitSound Altavoz Bluetooth portátil Boogie Buddy - Ballena]
 
 [![KitSound Altavoz Bluetooth portátil Boog](https://images-eu.ssl-images-amazon.com/images/I/31RpBurTN4L._SL200_.jpg)](https://www.amazon.es/dp/B07C7Q3DSD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C7Q3DSD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

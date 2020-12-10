@@ -22,6 +22,9 @@ Está [LiBatter 2X Filtros Lavables Pre Motor para Dyson DC58 DC59 DC61 DC62 V6 
 
 [![LiBatter 2X Filtros Lavables Pre Motor p](https://images-eu.ssl-images-amazon.com/images/I/512jqZG-IKL._SL200_.jpg)](https://www.amazon.es/dp/B07H85F2YH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H85F2YH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

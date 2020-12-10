@@ -22,6 +22,9 @@ Tienes [Penn State-Opoly](https://www.amazon.es/dp/B0006HCVTU/?tag=tolees-21) co
 
 [![Penn State-Opoly](https://images-eu.ssl-images-amazon.com/images/I/51dxbxtF%2BwL._SL200_.jpg)](https://www.amazon.es/dp/B0006HCVTU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0006HCVTU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

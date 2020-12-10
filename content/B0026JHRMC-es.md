@@ -22,6 +22,9 @@ Ahora mismo tienes [ZADO - Bondage](https://www.amazon.es/dp/B0026JHRMC/?tag=tol
 
 [![ZADO - Bondage](https://images-eu.ssl-images-amazon.com/images/I/512pEzX78FL._SL200_.jpg)](https://www.amazon.es/dp/B0026JHRMC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0026JHRMC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Napapijri K Elbas 2 Polo  Blanco  Bright White 002   140  Talla del Fabri
 
 [![Napapijri K Elbas 2 Polo  Blanco  Bright](https://images-eu.ssl-images-amazon.com/images/I/31aSvLIuGqL._SL200_.jpg)](https://www.amazon.es/dp/B07L9Q9FCS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L9Q9FCS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Bollé B-Style Soft Casco de Esquí  Unisex Adulto  Negro  Black/White M
 
 [![Bollé B-Style Soft Casco de Esquí  Unise](https://images-eu.ssl-images-amazon.com/images/I/31%2BqoUTZSvL._SL200_.jpg)](https://www.amazon.es/dp/B07F6YYBD2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F6YYBD2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

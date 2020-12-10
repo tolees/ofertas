@@ -22,6 +22,9 @@ Tienes [Salomon XA Pro 3D CSWP K  Zapatillas Unisex Infantil  Rojo  Cherry Tomat
 
 [![Salomon XA Pro 3D CSWP K  Zapatillas Uni](https://images-eu.ssl-images-amazon.com/images/I/519G-wplozL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ29NKH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZ29NKH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

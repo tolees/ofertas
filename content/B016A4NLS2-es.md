@@ -22,6 +22,9 @@ Está [NGS  Funky - Teclado USB [España]](https://www.amazon.es/dp/B016A4NLS2/?
 
 [![NGS  Funky - Teclado USB [España]](https://images-eu.ssl-images-amazon.com/images/I/41d8MGFGeQL._SL200_.jpg)](https://www.amazon.es/dp/B016A4NLS2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016A4NLS2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

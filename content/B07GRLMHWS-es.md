@@ -22,6 +22,9 @@ Está [Pejoye Reductor WC Plegable  Asiento Inodoro Niños Material PP con 4 Alm
 
 [![Pejoye Reductor WC Plegable  Asiento Ino](https://images-eu.ssl-images-amazon.com/images/I/413pFltVuML._SL200_.jpg)](https://www.amazon.es/dp/B07GRLMHWS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GRLMHWS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

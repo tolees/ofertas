@@ -22,6 +22,9 @@ Está [Skechers Verrado  Zapatillas para Hombre  Marrón Chocolate  41 EU](https
 
 [![Skechers Verrado  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/31Zdm04L1KL._SL200_.jpg)](https://www.amazon.es/dp/B07HMD99XJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HMD99XJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

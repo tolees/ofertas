@@ -22,6 +22,9 @@ Tienes [Coleman Saco de Dormir  Schlafsack Hampton TM  Double  220x150 cm  Marr√
 
 [![Coleman Saco de Dormir  Schlafsack Hampt](https://images-eu.ssl-images-amazon.com/images/I/51bUqu7X4WL._SL200_.jpg)](https://www.amazon.es/dp/B0030BG9YM/?tag=tolees-21)
 
+Caracter√≠sticas principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0030BG9YM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

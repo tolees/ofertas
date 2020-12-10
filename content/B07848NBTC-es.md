@@ -22,6 +22,9 @@ Tienes [Puma Future 18.3 TT  Zapatillas de Fútbol para Hombre  Amarillo  Fizzy 
 
 [![Puma Future 18.3 TT  Zapatillas de Fútbo](https://images-eu.ssl-images-amazon.com/images/I/51PA1iyoi5L._SL200_.jpg)](https://www.amazon.es/dp/B07848NBTC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07848NBTC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

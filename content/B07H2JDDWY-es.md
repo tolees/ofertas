@@ -22,6 +22,9 @@ Tienes [AJAX Kit de alarma AJHUBK - Kit antirrobo inalámbrico  GSM + Ethernet  
 
 [![AJAX Kit de alarma AJHUBK - Kit antirrob](https://images-eu.ssl-images-amazon.com/images/I/4176oFVLLbL._SL200_.jpg)](https://www.amazon.es/dp/B07H2JDDWY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H2JDDWY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

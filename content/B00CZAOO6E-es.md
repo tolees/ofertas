@@ -22,6 +22,9 @@ Tienes [Wrangler Texas Original 5 Pocket Straight Leg  Pantalones para Hombre  B
 
 [![Wrangler Texas Original 5 Pocket Straigh](https://images-eu.ssl-images-amazon.com/images/I/41qjNDzVxQL._SL200_.jpg)](https://www.amazon.es/dp/B00CZAOO6E/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CZAOO6E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

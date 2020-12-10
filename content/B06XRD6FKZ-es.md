@@ -22,6 +22,9 @@ Tienes [YUUVE Sombrero de Paja de Verano para señoras Gorra Plegable para Playa
 
 [![YUUVE Sombrero de Paja de Verano para se](https://images-eu.ssl-images-amazon.com/images/I/51f9Ltt939L._SL200_.jpg)](https://www.amazon.es/dp/B06XRD6FKZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XRD6FKZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

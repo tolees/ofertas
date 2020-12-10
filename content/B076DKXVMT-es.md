@@ -22,6 +22,9 @@ Está [Women secret 4652185  Sujetador Básico para Mujer  Verde  Greens   90  T
 
 [![Women secret 4652185  Sujetador Básico p](https://images-eu.ssl-images-amazon.com/images/I/41wOMXy8uXL._SL200_.jpg)](https://www.amazon.es/dp/B076DKXVMT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076DKXVMT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

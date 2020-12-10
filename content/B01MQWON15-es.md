@@ -22,6 +22,9 @@ Está [Lacoste L1212  Polo Para Hombre  Azul  Olympe S5M   Small  Talla del fabr
 
 [![Lacoste L1212  Polo Para Hombre  Azul  O](https://images-eu.ssl-images-amazon.com/images/I/41mpFhXZtWL._SL200_.jpg)](https://www.amazon.es/dp/B01MQWON15/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MQWON15/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Skechers Volden-Fandom  Zapatillas para Hombre  Negro  Black Blk   42 EU
 
 [![Skechers Volden-Fandom  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/31vTSUH8OKL._SL200_.jpg)](https://www.amazon.es/dp/B078YYNV3G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078YYNV3G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

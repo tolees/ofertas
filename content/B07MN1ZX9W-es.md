@@ -22,6 +22,9 @@ Ahora mismo tienes [MTNG 84086  Zapatillas para Hombre  Rojo  Cow Suede Mesh 10 
 
 [![MTNG 84086  Zapatillas para Hombre  Rojo](https://images-eu.ssl-images-amazon.com/images/I/31F8YtEhyOL._SL200_.jpg)](https://www.amazon.es/dp/B07MN1ZX9W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MN1ZX9W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

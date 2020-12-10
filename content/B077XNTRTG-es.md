@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour HG 2.0 3/4 Leggin  Hombre  Radio Red/Black  2XL
 
 [![Under Armour HG 2.0 3/4 Leggin  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41xgohqz24L._SL200_.jpg)](https://www.amazon.es/dp/B077XNTRTG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077XNTRTG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

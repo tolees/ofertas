@@ -22,6 +22,9 @@ Tienes [BONAI Bateria Externa 20000mAh Power Bank Cargador portátil con Salida 
 
 [![BONAI Bateria Externa 20000mAh Power Ban](https://images-eu.ssl-images-amazon.com/images/I/41opa81-NCL._SL200_.jpg)](https://www.amazon.es/dp/B072K21BCY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072K21BCY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

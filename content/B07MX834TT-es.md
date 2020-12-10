@@ -22,6 +22,9 @@ Está [Splitter de Adaptador de Interfaz Dual 2 en 1 SAMMIX para IP 7/7 Plus / 8
 
 [![Splitter de Adaptador de Interfaz Dual 2](https://images-eu.ssl-images-amazon.com/images/I/31%2BCIc9FgRL._SL200_.jpg)](https://www.amazon.es/dp/B07MX834TT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MX834TT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

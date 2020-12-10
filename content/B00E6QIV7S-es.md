@@ -22,6 +22,9 @@ Está [Philips Avent SCD580/00 - Vigilabebes DECT con proyector luz de compañí
 
 [![Philips Avent SCD580/00 - Vigilabebes DE](https://images-eu.ssl-images-amazon.com/images/I/41mVldLQtRL._SL200_.jpg)](https://www.amazon.es/dp/B00E6QIV7S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00E6QIV7S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

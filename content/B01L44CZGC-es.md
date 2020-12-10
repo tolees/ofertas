@@ -22,6 +22,9 @@ Tienes [Scotch & Soda 135101-Slim  Estrechos  Hombre Azul  Fresh Curse  34W x 32
 
 [![Scotch & Soda 135101-Slim  Estrechos  Ho](https://images-eu.ssl-images-amazon.com/images/I/41WJJ86ugEL._SL200_.jpg)](https://www.amazon.es/dp/B01L44CZGC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01L44CZGC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

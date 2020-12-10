@@ -22,6 +22,9 @@ Ahora mismo tienes [3 Pommes Trousers 3M23003  Pantalones para Bebés  Azul  Mar
 
 [![3 Pommes Trousers 3M23003  Pantalones pa](https://images-eu.ssl-images-amazon.com/images/I/51JL5xQqi7L._SL200_.jpg)](https://www.amazon.es/dp/B07DXJ34ZL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DXJ34ZL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

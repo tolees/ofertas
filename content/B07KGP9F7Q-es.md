@@ -22,6 +22,9 @@ Ahora mismo tienes [Burton Elite Camisetas  Hombre  True Black  XL](https://www.
 
 [![Burton Elite Camisetas  Hombre  True Bla](https://images-eu.ssl-images-amazon.com/images/I/31Rp1W5BY3L._SL200_.jpg)](https://www.amazon.es/dp/B07KGP9F7Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KGP9F7Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

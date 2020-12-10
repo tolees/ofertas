@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Originals Funda para portátiles 15 Inch - Negro/Blan
 
 [![adidas Originals Funda para portátiles 1](https://images-eu.ssl-images-amazon.com/images/I/41L8y9si2NL._SL200_.jpg)](https://www.amazon.es/dp/B07M6KPMY4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M6KPMY4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

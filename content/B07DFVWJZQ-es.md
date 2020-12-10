@@ -22,6 +22,9 @@ Está [New Balance 570  Zapatillas de Running Unisex Niños  Rosa Purple Pink  3
 
 [![New Balance 570  Zapatillas de Running U](https://images-eu.ssl-images-amazon.com/images/I/41u1QCgXNxL._SL200_.jpg)](https://www.amazon.es/dp/B07DFVWJZQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFVWJZQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

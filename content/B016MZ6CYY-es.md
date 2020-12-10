@@ -22,6 +22,9 @@ Está [Saco/Cosy Toes Compatible con paseo Quinny Moodd océano azul](https://ww
 
 [![Saco/Cosy Toes Compatible con paseo Quin](https://images-eu.ssl-images-amazon.com/images/I/414Nf9qqpsL._SL200_.jpg)](https://www.amazon.es/dp/B016MZ6CYY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016MZ6CYY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

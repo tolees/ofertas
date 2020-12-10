@@ -22,6 +22,9 @@ Ahora mismo tienes [Onkyo CS-265-LB - Sistema mini  Bluetooth  NFC  USB frontal 
 
 [![Onkyo CS-265-LB - Sistema mini  Bluetoot](https://images-eu.ssl-images-amazon.com/images/I/41BNawC3RgL._SL200_.jpg)](https://www.amazon.es/dp/B00O8LASCC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00O8LASCC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

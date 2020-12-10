@@ -22,6 +22,9 @@ Está [Levi s Fowler  Botas Biker para Hombre  Marrón  Dark Brown 29   40 EU](h
 
 [![Levi s Fowler  Botas Biker para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41HmQftvlnL._SL200_.jpg)](https://www.amazon.es/dp/B07CBPVCPC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CBPVCPC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

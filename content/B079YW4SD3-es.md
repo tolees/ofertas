@@ -22,6 +22,14 @@ Ahora mismo tienes [Max Factor  Bronceador e iluminador facial  Tono Universal  
 
 [![Max Factor  Bronceador e iluminador faci](https://m.media-amazon.com/images/I/41ZXIA4PaXL._SL200_.jpg)](https://www.amazon.es/dp/B079YW4SD3/?tag=tolees-21)
 
+Características:
+
+- Paleta universal para hacer counturing
+- Polvos diseñados para adaptarse a todos los tonos de piel
+- Fácil de aplicar, se funde con tu piel suavemente
+- Dermatológicamente testado
+- Fórmula ligera de larga duración
+
 [Visítala!!!](https://www.amazon.es/dp/B079YW4SD3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

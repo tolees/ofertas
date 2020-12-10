@@ -22,6 +22,9 @@ Ahora mismo tienes [Gre CIPROV821 - Cobertor de Invierno para Piscina Ovalada o 
 
 [![Gre CIPROV821 - Cobertor de Invierno par](https://images-eu.ssl-images-amazon.com/images/I/61YfXtBf4XL._SL200_.jpg)](https://www.amazon.es/dp/B00DVKFSK8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00DVKFSK8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

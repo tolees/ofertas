@@ -22,6 +22,9 @@ Está [Kempa Emotion Shorts Pantalones cortos  Hombre  Multicolor  Verde/Negro  
 
 [![Kempa Emotion Shorts Pantalones cortos  ](https://images-eu.ssl-images-amazon.com/images/I/41warmivF4L._SL200_.jpg)](https://www.amazon.es/dp/B00TZA7GVM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00TZA7GVM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

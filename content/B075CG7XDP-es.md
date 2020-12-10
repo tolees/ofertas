@@ -22,6 +22,9 @@ Está [Rizador eléctrico profesional IYUTtech para pelo  para crear rizos y mas
 
 [![Rizador eléctrico profesional IYUTtech p](https://images-eu.ssl-images-amazon.com/images/I/418Yt2s5hjL._SL200_.jpg)](https://www.amazon.es/dp/B075CG7XDP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075CG7XDP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

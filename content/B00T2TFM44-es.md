@@ -22,6 +22,9 @@ Está [2pcs Fundas Cáscaras Protectores de Silicona para Ps3 Ps2 Controlador In
 
 [![2pcs Fundas Cáscaras Protectores de Sili](https://images-eu.ssl-images-amazon.com/images/I/41jm3qXnLOL._SL200_.jpg)](https://www.amazon.es/dp/B00T2TFM44/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00T2TFM44/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

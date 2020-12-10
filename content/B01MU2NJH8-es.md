@@ -22,6 +22,9 @@ Ahora mismo tienes [Bruzzzler 1147 Juego para Barbacoa  Plata 44.5x21.5x9.5 cm](
 
 [![Bruzzzler 1147 Juego para Barbacoa  Plat](https://images-eu.ssl-images-amazon.com/images/I/41yvcQXG1%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01MU2NJH8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MU2NJH8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

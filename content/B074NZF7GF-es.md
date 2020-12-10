@@ -22,6 +22,9 @@ Tienes [Aicok Sandwichera Grill 4-Serving  Panini Grill 2000W  Parrilla Eléctri
 
 [![Aicok Sandwichera Grill 4-Serving  Panin](https://images-eu.ssl-images-amazon.com/images/I/5112pP--e7L._SL200_.jpg)](https://www.amazon.es/dp/B074NZF7GF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074NZF7GF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

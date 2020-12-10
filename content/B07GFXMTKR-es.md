@@ -22,6 +22,9 @@ Está [Sombras De Guerra Definitive Edition](https://www.amazon.es/dp/B07GFXMTKR
 
 [![Sombras De Guerra Definitive Edition](https://images-eu.ssl-images-amazon.com/images/I/51iKfCqYrOL._SL200_.jpg)](https://www.amazon.es/dp/B07GFXMTKR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GFXMTKR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

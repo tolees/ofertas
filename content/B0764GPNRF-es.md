@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face Equipment TNF Mochila Jester  Unisex adulto  
 
 [![The North Face Equipment TNF Mochila Jes](https://images-eu.ssl-images-amazon.com/images/I/41fGMvM2-pL._SL200_.jpg)](https://www.amazon.es/dp/B0764GPNRF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0764GPNRF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

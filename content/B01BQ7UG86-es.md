@@ -22,6 +22,9 @@ Está [Brooks Defyance 9- Zapatillas de correr para hombre  Azul  Peacoat/Surfth
 
 [![Brooks Defyance 9- Zapatillas de correr ](https://images-eu.ssl-images-amazon.com/images/I/51VViBJriIL._SL200_.jpg)](https://www.amazon.es/dp/B01BQ7UG86/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BQ7UG86/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

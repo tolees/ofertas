@@ -22,6 +22,9 @@ Está [Pop! Stranger Things - Figura de Vinilo Movie Moment Steve & Demodog](htt
 
 [![Pop! Stranger Things - Figura de Vinilo ](https://images-eu.ssl-images-amazon.com/images/I/415%2BBxRDrrL._SL200_.jpg)](https://www.amazon.es/dp/B07J4QQHZ8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J4QQHZ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

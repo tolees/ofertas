@@ -22,6 +22,9 @@ Está [Bosch Home and Garden 2607010629 Hojas de Sierra de Calar  Set de 10 Piez
 
 [![Bosch Home and Garden 2607010629 Hojas d](https://images-eu.ssl-images-amazon.com/images/I/51o6ly92hVL._SL200_.jpg)](https://www.amazon.es/dp/B003TWP1QO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B003TWP1QO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

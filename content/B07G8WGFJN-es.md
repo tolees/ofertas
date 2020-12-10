@@ -22,6 +22,9 @@ Tienes [Adidas VL Court 2.0 B43816  Zapatillas para Hombre  Negro  Black  46 EU]
 
 [![Adidas VL Court 2.0 B43816  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/31dwvz1YIFL._SL200_.jpg)](https://www.amazon.es/dp/B07G8WGFJN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G8WGFJN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

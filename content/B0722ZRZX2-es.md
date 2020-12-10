@@ -22,6 +22,9 @@ Está [Puma One 17.4 IT  Zapatillas de Fútbol para Hombre  Azul  Atomic Blue-Wh
 
 [![Puma One 17.4 IT  Zapatillas de Fútbol p](https://images-eu.ssl-images-amazon.com/images/I/41SKQb9BO8L._SL200_.jpg)](https://www.amazon.es/dp/B0722ZRZX2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0722ZRZX2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Oflamn Bolsa Aislante Caja de Enfriador Grande con Correa de Transporte D
 
 [![Oflamn Bolsa Aislante Caja de Enfriador ](https://images-eu.ssl-images-amazon.com/images/I/51Rw37apreL._SL200_.jpg)](https://www.amazon.es/dp/B074QNV8NQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074QNV8NQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

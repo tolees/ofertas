@@ -22,6 +22,9 @@ Está [Gardena 18424-20 - Manguera espiral  10 m  multicolor](https://www.amazon
 
 [![Gardena 18424-20 - Manguera espiral  10 ](https://images-eu.ssl-images-amazon.com/images/I/51mmC4JVzLL._SL200_.jpg)](https://www.amazon.es/dp/B01MQDQGUD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MQDQGUD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

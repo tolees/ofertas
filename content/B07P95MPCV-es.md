@@ -22,6 +22,9 @@ Tienes [BOBLOV Mini Cámara 1080P Full HD con Grabadora de Audio Mini Videocáma
 
 [![BOBLOV Mini Cámara 1080P Full HD con Gra](https://images-eu.ssl-images-amazon.com/images/I/31KcSG9gliL._SL200_.jpg)](https://www.amazon.es/dp/B07P95MPCV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P95MPCV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

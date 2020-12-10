@@ -22,6 +22,9 @@ Está [Columbia MARAGAL Mid WP  Botas de Nieve para Mujer  Marrón  Tobacco  Peb
 
 [![Columbia MARAGAL Mid WP  Botas de Nieve ](https://images-eu.ssl-images-amazon.com/images/I/41O-2Oq4rjL._SL200_.jpg)](https://www.amazon.es/dp/B0787D6SMG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0787D6SMG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

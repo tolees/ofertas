@@ -22,6 +22,9 @@ Está [Wenger/SwissGear Reloj Analogico para Unisex de Cuarzo con Correa en Acer
 
 [![Wenger/SwissGear Reloj Analogico para Un](https://images-eu.ssl-images-amazon.com/images/I/41d%2BPxCeBpL._SL200_.jpg)](https://www.amazon.es/dp/B01GJD4M2I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GJD4M2I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

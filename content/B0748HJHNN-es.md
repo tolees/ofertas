@@ -22,6 +22,9 @@ Está [TACKLIFE Encendedor  ELY03 Mini Mechero Clásico Eléctrico  sin Llama ni
 
 [![TACKLIFE Encendedor  ELY03 Mini Mechero ](https://images-eu.ssl-images-amazon.com/images/I/41FN21WtL-L._SL200_.jpg)](https://www.amazon.es/dp/B0748HJHNN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0748HJHNN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

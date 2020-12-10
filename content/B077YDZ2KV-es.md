@@ -22,6 +22,9 @@ Está [HIKARO Anorak con Capucha Mujer  Rojo  Burgundy   36  Talla del fabricant
 
 [![HIKARO Anorak con Capucha Mujer  Rojo  B](https://images-eu.ssl-images-amazon.com/images/I/41osfUbVxUL._SL200_.jpg)](https://www.amazon.es/dp/B077YDZ2KV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077YDZ2KV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

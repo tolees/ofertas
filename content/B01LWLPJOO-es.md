@@ -22,6 +22,9 @@ Está [2 Piezas Corrector Juanete 1xR & 1xL - Férula Nocturna Cierre de Bucle y
 
 [![2 Piezas Corrector Juanete 1xR & 1xL - F](https://images-eu.ssl-images-amazon.com/images/I/41oHQB4rQvL._SL200_.jpg)](https://www.amazon.es/dp/B01LWLPJOO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWLPJOO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

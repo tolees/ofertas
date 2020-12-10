@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Superstar  Zapatillas de Deporte para Hombre  Blanco 
 
 [![Adidas Superstar  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/31VV7csVnEL._SL200_.jpg)](https://www.amazon.es/dp/B077QJMCFH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077QJMCFH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Classic BB Cap Gorra de béisbol  Azul  Alaskan Blue 901  
 
 [![Tommy Hilfiger Classic BB Cap Gorra de b](https://images-eu.ssl-images-amazon.com/images/I/41hQSG598kL._SL200_.jpg)](https://www.amazon.es/dp/B07L35LSC4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L35LSC4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  Gris
 
 [![Under Armour UA W Micro G Pursuit  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41ScVjXcYLL._SL200_.jpg)](https://www.amazon.es/dp/B07744FDTT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07744FDTT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

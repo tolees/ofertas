@@ -22,6 +22,9 @@ Está [Supra Hammer Run Zapatillas para Hombre  Rojo  Andorra-White  42 EU](http
 
 [![Supra Hammer Run Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41%2BdEc1x3WL._SL200_.jpg)](https://www.amazon.es/dp/B074KJ8RBQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074KJ8RBQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

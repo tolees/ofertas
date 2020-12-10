@@ -22,6 +22,9 @@ Está [MSI B450M Mortar Titanium - Placa Base  AM4  AMD B450  1 x PCI-E 3.0 x16 
 
 [![MSI B450M Mortar Titanium - Placa Base  ](https://images-eu.ssl-images-amazon.com/images/I/51WqW0QgvTL._SL200_.jpg)](https://www.amazon.es/dp/B07FQCSVYC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQCSVYC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Logitech Doodle Collection M238 - Ratón inalámbrico con 15
 
 [![Logitech Doodle Collection M238 - Ratón ](https://images-eu.ssl-images-amazon.com/images/I/51w3I2oKBOL._SL200_.jpg)](https://www.amazon.es/dp/B071NFDBS3/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071NFDBS3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

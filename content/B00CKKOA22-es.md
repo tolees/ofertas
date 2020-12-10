@@ -22,6 +22,9 @@ Está [SportPlus Banco de Sentadillas – Banco Plegable Fitness – Incluye 2 M
 
 [![SportPlus Banco de Sentadillas – Banco P](https://images-eu.ssl-images-amazon.com/images/I/41N4f%2Bin78L._SL200_.jpg)](https://www.amazon.es/dp/B00CKKOA22/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00CKKOA22/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

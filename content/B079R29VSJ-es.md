@@ -22,6 +22,9 @@ Tienes [Sharp HT-SB140 2.0 - Barra de Sonido Cine en casa  Bluetooth  HDMI  ARC/
 
 [![Sharp HT-SB140 2.0 - Barra de Sonido Cin](https://images-eu.ssl-images-amazon.com/images/I/21YdpZpnDoL._SL200_.jpg)](https://www.amazon.es/dp/B079R29VSJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079R29VSJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

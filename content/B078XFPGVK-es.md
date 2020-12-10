@@ -22,6 +22,9 @@ Tienes [Juego de manicura para hombre  CRMICL 16 en 1 Juego de cortadora de uña
 
 [![Juego de manicura para hombre  CRMICL 16](https://images-eu.ssl-images-amazon.com/images/I/51c-BeG6-VL._SL200_.jpg)](https://www.amazon.es/dp/B078XFPGVK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078XFPGVK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

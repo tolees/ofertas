@@ -22,6 +22,9 @@ Tienes [Alcatel A3 XL - Smartphone Pantalla de 6    4G  cámara de 13MP y fronta
 
 [![Alcatel A3 XL - Smartphone Pantalla de 6](https://images-eu.ssl-images-amazon.com/images/I/31pPCW3i2LL._SL200_.jpg)](https://www.amazon.es/dp/B06XYNF3VX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XYNF3VX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Esprit Accessoires - 019ea1o041  Bolsos bandolera Mujer  Gris  Ice   7.5x
 
 [![Esprit Accessoires - 019ea1o041  Bolsos ](https://images-eu.ssl-images-amazon.com/images/I/41pm8VMuROL._SL200_.jpg)](https://www.amazon.es/dp/B07KYGFM48/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYGFM48/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

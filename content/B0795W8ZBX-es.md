@@ -22,6 +22,9 @@ Ahora mismo tienes [Salomon Cinturón de running  250 ml  agile 250 belt  set  m
 
 [![Salomon Cinturón de running  250 ml  agi](https://images-eu.ssl-images-amazon.com/images/I/41d2Uy-7cuL._SL200_.jpg)](https://www.amazon.es/dp/B0795W8ZBX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0795W8ZBX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Fitbit Alta HR Pulsera de Actividad  Unisex Adulto  Rosa  L](https://www.
 
 [![Fitbit Alta HR Pulsera de Actividad  Uni](https://images-eu.ssl-images-amazon.com/images/I/31SKUmcB6mL._SL200_.jpg)](https://www.amazon.es/dp/B06XHLZ49M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XHLZ49M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

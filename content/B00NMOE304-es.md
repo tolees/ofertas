@@ -22,6 +22,9 @@ Está [Boba Wrap - Fular portabebés  multicolor](https://www.amazon.es/dp/B00NM
 
 [![Boba Wrap - Fular portabebés  multicolor](https://images-eu.ssl-images-amazon.com/images/I/519Y8CEvHcL._SL200_.jpg)](https://www.amazon.es/dp/B00NMOE304/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00NMOE304/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

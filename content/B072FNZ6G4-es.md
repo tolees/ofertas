@@ -22,6 +22,9 @@ Está [Head Solid Last Traje De Baño Olimpico  Niñas  4](https://www.amazon.es
 
 [![Head Solid Last Traje De Baño Olimpico  ](https://images-eu.ssl-images-amazon.com/images/I/41vmrlDylFL._SL200_.jpg)](https://www.amazon.es/dp/B072FNZ6G4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072FNZ6G4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

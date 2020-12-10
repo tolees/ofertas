@@ -22,6 +22,9 @@ Tienes [3M Privacy Filter For ThinkPad X250 Series Touch Laptop Diseñado para L
 
 [![3M Privacy Filter For ThinkPad X250 Seri](https://images-eu.ssl-images-amazon.com/images/I/3158e8CpqkL._SL200_.jpg)](https://www.amazon.es/dp/B00GICGGRU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GICGGRU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

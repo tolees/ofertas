@@ -22,6 +22,9 @@ Ahora mismo tienes [SELECTED HOMME Shnholes Belt Noos  Cinturón Hombre  Negro  
 
 [![SELECTED HOMME Shnholes Belt Noos  Cintu](https://images-eu.ssl-images-amazon.com/images/I/41cY9yT10aL._SL200_.jpg)](https://www.amazon.es/dp/B0716KJCBH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0716KJCBH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

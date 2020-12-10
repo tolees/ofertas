@@ -22,6 +22,9 @@ Está [Compo 1559212011 Azulador De Hortensias 800G  22x14.2x4.7 cm](https://www
 
 [![Compo 1559212011 Azulador De Hortensias ](https://images-eu.ssl-images-amazon.com/images/I/41yxd1YZtbL._SL200_.jpg)](https://www.amazon.es/dp/B00V4PN8U4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00V4PN8U4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

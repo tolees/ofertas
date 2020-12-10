@@ -22,6 +22,9 @@ Está [Desigual - Bols_red Queen Cuenca  Shoppers y bolsos de hombro Mujer  Amar
 
 [![Desigual - Bols_red Queen Cuenca  Shoppe](https://images-eu.ssl-images-amazon.com/images/I/51vPt3JSzGL._SL200_.jpg)](https://www.amazon.es/dp/B079W3VTF3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079W3VTF3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

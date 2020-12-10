@@ -22,6 +22,9 @@ Está [Scitec Nutrition Whey Protein Professional proteína chocolate-coco 920 g
 
 [![Scitec Nutrition Whey Protein Profession](https://images-eu.ssl-images-amazon.com/images/I/51f%2BSC6U3yL._SL200_.jpg)](https://www.amazon.es/dp/B004EPYEPE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004EPYEPE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

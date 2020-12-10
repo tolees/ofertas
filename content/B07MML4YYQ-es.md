@@ -22,6 +22,9 @@ Ahora mismo tienes [WOSTOO Barbacoa portátil Charcoal  minibarbacoa Plegable de
 
 [![WOSTOO Barbacoa portátil Charcoal  minib](https://images-eu.ssl-images-amazon.com/images/I/51kRnHzwhZL._SL200_.jpg)](https://www.amazon.es/dp/B07MML4YYQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MML4YYQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

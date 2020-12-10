@@ -22,6 +22,9 @@ Tienes [Kappa Meseta RB  Zapatillas Unisex Adulto  Amarillo  Honey 4848   41 EU]
 
 [![Kappa Meseta RB  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41chAQawcmL._SL200_.jpg)](https://www.amazon.es/dp/B0778ZPC8G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0778ZPC8G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

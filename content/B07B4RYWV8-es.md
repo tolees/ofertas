@@ -22,6 +22,9 @@ Está [G-Star Bronson Pleated Relaxed Tapered Chino  Pantalones Hombre  Beige  D
 
 [![G-Star Bronson Pleated Relaxed Tapered C](https://images-eu.ssl-images-amazon.com/images/I/41Wu5lQ06EL._SL200_.jpg)](https://www.amazon.es/dp/B07B4RYWV8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B4RYWV8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

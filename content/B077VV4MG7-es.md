@@ -22,6 +22,9 @@ Está [Adidas CF Advantage Cl W  Zapatillas de Deporte para Mujer  Aerorr/Ftwbla
 
 [![Adidas CF Advantage Cl W  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41KV-%2BfIyHL._SL200_.jpg)](https://www.amazon.es/dp/B077VV4MG7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077VV4MG7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,14 @@ Tienes [MVMT Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero D-MC02-
 
 [![MVMT Reloj Cronógrafo para Hombre de Cua](https://m.media-amazon.com/images/I/41oE3GOyiOL._SL200_.jpg)](https://www.amazon.es/dp/B07FD5GRKW/?tag=tolees-21)
 
+Características principales:
+
+- Caja plateada en acero inoxidable cepillado y esfera Blanca
+- Grosor de la caja de 10.5 mm / Diámetro de la caja: 40 mm
+- Ancho de la correa: 20 mm
+- 5 ATM de resistencia al agua
+- Movimiento de cuarzo Miyota
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FD5GRKW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Kingston KVR16LN11/4 - Memoria RAM de 4 GB  1600 MHz DDR3L Non-ECC CL11 
 
 [![Kingston KVR16LN11/4 - Memoria RAM de 4 ](https://images-eu.ssl-images-amazon.com/images/I/415cVjR8NLL._SL200_.jpg)](https://www.amazon.es/dp/B00GD5D1L6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GD5D1L6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

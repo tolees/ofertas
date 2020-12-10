@@ -22,6 +22,9 @@ Ahora mismo tienes [High Peak 10073 Texel 3  Tienda de campaña  3 personas  col
 
 [![High Peak 10073 Texel 3  Tienda de campa](https://images-eu.ssl-images-amazon.com/images/I/412xnMzUgEL._SL200_.jpg)](https://www.amazon.es/dp/B006J68FUG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B006J68FUG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

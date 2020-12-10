@@ -22,6 +22,9 @@ Está [G-STAR RAW Bronson Slim Chino  Pantalones para Hombre  Color Beige  Dune 
 
 [![G-STAR RAW Bronson Slim Chino  Pantalone](https://images-eu.ssl-images-amazon.com/images/I/31owUDpOR2L._SL200_.jpg)](https://www.amazon.es/dp/B01BGTOG6W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BGTOG6W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

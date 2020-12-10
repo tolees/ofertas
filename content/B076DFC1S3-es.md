@@ -22,6 +22,9 @@ Ahora mismo tienes [Ducha Led Temperatura  Ahorro de Agua Cabezal de Ducha Cnasa
 
 [![Ducha Led Temperatura  Ahorro de Agua Ca](https://images-eu.ssl-images-amazon.com/images/I/519axE9On2L._SL200_.jpg)](https://www.amazon.es/dp/B076DFC1S3/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076DFC1S3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

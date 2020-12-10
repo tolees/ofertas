@@ -22,6 +22,9 @@ Está [Springfield Chino Slim Microprint  Pantalones para Hombre   Gama Azules 1
 
 [![Springfield Chino Slim Microprint  Panta](https://images-eu.ssl-images-amazon.com/images/I/31j67VvCkUL._SL200_.jpg)](https://www.amazon.es/dp/B07DLCKZMV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLCKZMV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

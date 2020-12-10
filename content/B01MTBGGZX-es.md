@@ -22,6 +22,9 @@ Está [adidas Energy Boost W  Zapatillas de Running para Mujer  Azul  Tinley/Mor
 
 [![adidas Energy Boost W  Zapatillas de Run](https://images-eu.ssl-images-amazon.com/images/I/41U5rnvQOxL._SL200_.jpg)](https://www.amazon.es/dp/B01MTBGGZX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MTBGGZX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

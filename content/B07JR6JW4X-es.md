@@ -22,6 +22,9 @@ Ahora mismo tienes [Alfawise A32 - Tarjeta de memoria 32GB Micro SD Clase 10 UHS
 
 [![Alfawise A32 - Tarjeta de memoria 32GB M](https://images-eu.ssl-images-amazon.com/images/I/51jov%2BX907L._SL200_.jpg)](https://www.amazon.es/dp/B07JR6JW4X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JR6JW4X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

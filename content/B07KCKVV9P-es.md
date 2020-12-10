@@ -22,6 +22,9 @@ Está [David Jones - Cm3872  Bolsos bandolera Mujer  Negro  Black   7x17x18 cm  
 
 [![David Jones - Cm3872  Bolsos bandolera M](https://images-eu.ssl-images-amazon.com/images/I/41OoSealEvL._SL200_.jpg)](https://www.amazon.es/dp/B07KCKVV9P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCKVV9P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

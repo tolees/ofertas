@@ -22,6 +22,9 @@ Tienes [Silverline 399017 - Llaves combinadas con carraca articulada  14 pzas  8
 
 [![Silverline 399017 - Llaves combinadas co](https://images-eu.ssl-images-amazon.com/images/I/51jF8eX5U2L._SL200_.jpg)](https://www.amazon.es/dp/B000NBTX6I/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000NBTX6I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Shave it - Kit de maquinilla de afeitar y 1 cuchilla  tamaño de muestra
 
 [![Shave it - Kit de maquinilla de afeitar ](https://images-eu.ssl-images-amazon.com/images/I/31B4ULL1AYL._SL200_.jpg)](https://www.amazon.es/dp/B075VWNJQX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075VWNJQX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

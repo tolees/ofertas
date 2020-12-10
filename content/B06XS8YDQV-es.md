@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Mx818V3  Zapatillas Deportivas para Interior par
 
 [![New Balance Mx818V3  Zapatillas Deportiv](https://images-eu.ssl-images-amazon.com/images/I/51q-yRgxXtL._SL200_.jpg)](https://www.amazon.es/dp/B06XS8YDQV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XS8YDQV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

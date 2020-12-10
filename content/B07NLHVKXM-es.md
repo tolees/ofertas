@@ -22,6 +22,9 @@ Está [Zapatillas Mujer Purpurina Blancas con Rosa](https://www.amazon.es/dp/B07
 
 [![Zapatillas Mujer Purpurina Blancas con R](https://images-eu.ssl-images-amazon.com/images/I/216pXPZztoL._SL200_.jpg)](https://www.amazon.es/dp/B07NLHVKXM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NLHVKXM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

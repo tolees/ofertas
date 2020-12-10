@@ -22,6 +22,9 @@ Está [KAITT Furia Mate 2018](https://www.amazon.es/dp/B07ND4JKW2/?tag=tolees-21
 
 [![KAITT Furia Mate 2018](https://images-eu.ssl-images-amazon.com/images/I/411%2BGLZbEYL._SL200_.jpg)](https://www.amazon.es/dp/B07ND4JKW2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07ND4JKW2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

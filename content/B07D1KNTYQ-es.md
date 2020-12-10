@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics Gel-Rocket 8  Zapatillas Deportivas para Interior para
 
 [![Asics Gel-Rocket 8  Zapatillas Deportiva](https://images-eu.ssl-images-amazon.com/images/I/41P%2BDUemsbL._SL200_.jpg)](https://www.amazon.es/dp/B07D1KNTYQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D1KNTYQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

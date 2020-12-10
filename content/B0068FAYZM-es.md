@@ -22,6 +22,9 @@ Ahora mismo tienes [Continental  0181881 -  Cámara de Ciclismo](https://www.a
 
 [![Continental  0181881 -  Cámara de Ciclis](https://images-eu.ssl-images-amazon.com/images/I/51%2Bz0IaPC8L._SL200_.jpg)](https://www.amazon.es/dp/B0068FAYZM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0068FAYZM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

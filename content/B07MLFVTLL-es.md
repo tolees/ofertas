@@ -22,6 +22,9 @@ Está [SMTALY C1 Camara IP WiFi  1080P Camaras de Vigilancia Inalámbrico Interi
 
 [![SMTALY C1 Camara IP WiFi  1080P Camaras ](https://images-eu.ssl-images-amazon.com/images/I/41jW-ekOM4L._SL200_.jpg)](https://www.amazon.es/dp/B07MLFVTLL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MLFVTLL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

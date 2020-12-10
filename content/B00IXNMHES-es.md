@@ -22,6 +22,9 @@ Tienes [Olmitos Bear - Cuna parque de viaje plegable](https://www.amazon.es/dp/B
 
 [![Olmitos Bear - Cuna parque de viaje pleg](https://images-eu.ssl-images-amazon.com/images/I/51XfS%2BXniWL._SL200_.jpg)](https://www.amazon.es/dp/B00IXNMHES/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IXNMHES/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

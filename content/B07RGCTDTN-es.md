@@ -22,6 +22,9 @@ Está [dothnix Vibrador Calentamiento Automático Mujer Masajeador de 7 Frecuanc
 
 [![dothnix Vibrador Calentamiento Automátic](https://images-eu.ssl-images-amazon.com/images/I/41V-Lq9yu4L._SL200_.jpg)](https://www.amazon.es/dp/B07RGCTDTN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07RGCTDTN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

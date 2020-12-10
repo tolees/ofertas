@@ -22,6 +22,9 @@ Está [URCERI Pistola de Pintura  600W  1200ml/min  pulverizadora eléctrica  HV
 
 [![URCERI Pistola de Pintura  600W  1200ml/](https://images-eu.ssl-images-amazon.com/images/I/41yFBs3XaGL._SL200_.jpg)](https://www.amazon.es/dp/B07FZTWM6R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FZTWM6R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

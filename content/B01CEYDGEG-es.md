@@ -22,6 +22,9 @@ Está [Luminarc Vajilla 19 Piezas Harena  Blanco  17.52 cm](https://www.amazon.e
 
 [![Luminarc Vajilla 19 Piezas Harena  Blanc](https://images-eu.ssl-images-amazon.com/images/I/31a96Eo-sPL._SL200_.jpg)](https://www.amazon.es/dp/B01CEYDGEG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01CEYDGEG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

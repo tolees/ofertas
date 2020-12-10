@@ -22,6 +22,9 @@ Tienes [THE BLUEBEARDS REVENGE THE ULTIMATE mach 3 razor in white 1 piezas](http
 
 [![THE BLUEBEARDS REVENGE THE ULTIMATE mach](https://images-eu.ssl-images-amazon.com/images/I/312N12Os7DL._SL200_.jpg)](https://www.amazon.es/dp/B004QNW8TS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B004QNW8TS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

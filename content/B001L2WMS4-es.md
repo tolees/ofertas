@@ -22,6 +22,9 @@ Está [Stihl 0464-934-0000 Set de Herramientas de Juguete  0.02 V](https://www.a
 
 [![Stihl 0464-934-0000 Set de Herramientas ](https://images-eu.ssl-images-amazon.com/images/I/41%2B9YKlmRlL._SL200_.jpg)](https://www.amazon.es/dp/B001L2WMS4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001L2WMS4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

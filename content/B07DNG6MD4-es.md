@@ -22,6 +22,9 @@ Ahora mismo tienes [Auriculares Bluetooth Kingsky Auriculares Verdaderamente Ina
 
 [![Auriculares Bluetooth Kingsky Auriculare](https://images-eu.ssl-images-amazon.com/images/I/41FN-IPfoxL._SL200_.jpg)](https://www.amazon.es/dp/B07DNG6MD4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DNG6MD4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

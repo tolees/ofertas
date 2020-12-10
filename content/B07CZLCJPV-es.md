@@ -22,6 +22,9 @@ Está [Under Armour Tech Tank Graphic - Tanque  Mujer  Blanco  White/Black 100  
 
 [![Under Armour Tech Tank Graphic - Tanque ](https://images-eu.ssl-images-amazon.com/images/I/31j531GbnmL._SL200_.jpg)](https://www.amazon.es/dp/B07CZLCJPV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZLCJPV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

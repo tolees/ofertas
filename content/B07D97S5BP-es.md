@@ -22,6 +22,9 @@ Está [Marco Tozzi 26860-21  Botas de Nieve para Mujer  Gris  Grey Comb 221   38
 
 [![Marco Tozzi 26860-21  Botas de Nieve par](https://images-eu.ssl-images-amazon.com/images/I/41-lOdVZWnL._SL200_.jpg)](https://www.amazon.es/dp/B07D97S5BP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D97S5BP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

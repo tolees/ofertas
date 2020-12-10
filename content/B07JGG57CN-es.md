@@ -22,6 +22,9 @@ Está [G-STAR RAW Rovic 3D Straight Tapered Pantalones  Marrón  dk Fall AO 8287
 
 [![G-STAR RAW Rovic 3D Straight Tapered Pan](https://images-eu.ssl-images-amazon.com/images/I/41MsqrfVgmL._SL200_.jpg)](https://www.amazon.es/dp/B07JGG57CN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JGG57CN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

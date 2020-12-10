@@ -22,6 +22,9 @@ Tienes [Superga 2790-COTCOLOROPEW  Zapatillas para Mujer  Negro  Total Black 997
 
 [![Superga 2790-COTCOLOROPEW  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41JMO%2BDjMZL._SL200_.jpg)](https://www.amazon.es/dp/B077Y1GG6K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077Y1GG6K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Handiy LM101 - Medidor de distancia láser](https://www.amazon.es/dp/B07
 
 [![Handiy LM101 - Medidor de distancia láse](https://images-eu.ssl-images-amazon.com/images/I/41GP%2BItuFnL._SL200_.jpg)](https://www.amazon.es/dp/B07CG4J1HL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CG4J1HL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Dockers by Gerli 43ca301  Botas Militar para Mujer  Gris  Ice 260   38 E
 
 [![Dockers by Gerli 43ca301  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/41qTtngHRnL._SL200_.jpg)](https://www.amazon.es/dp/B07DJGHZ8G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJGHZ8G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Desigual Brazalete Mujer acero inoxidable - 18WAGO512000U](https://www.am
 
 [![Desigual Brazalete Mujer acero inoxidabl](https://images-eu.ssl-images-amazon.com/images/I/31NN20MX%2BnL._SL200_.jpg)](https://www.amazon.es/dp/B07C2YHTJ1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C2YHTJ1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

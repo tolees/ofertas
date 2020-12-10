@@ -22,6 +22,9 @@ Está [G-STAR RAW Attacc Straight Jeans  Azul  dk Aged 6566-89   36W / 34L para 
 
 [![G-STAR RAW Attacc Straight Jeans  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/417GwTQlIEL._SL200_.jpg)](https://www.amazon.es/dp/B00MUIYY4S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00MUIYY4S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

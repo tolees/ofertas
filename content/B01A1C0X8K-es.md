@@ -22,6 +22,9 @@ Está [La Roche Posay Lipikar Fluide Hydratant Crema - 750 ml](https://www.amazo
 
 [![La Roche Posay Lipikar Fluide Hydratant ](https://images-eu.ssl-images-amazon.com/images/I/31XOXTleJOL._SL200_.jpg)](https://www.amazon.es/dp/B01A1C0X8K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01A1C0X8K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

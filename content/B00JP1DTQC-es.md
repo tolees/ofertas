@@ -22,6 +22,9 @@ Está [Brother DCP-J105 1200 x 600DPI Inyección de tinta A4 27ppm Wifi multifun
 
 [![Brother DCP-J105 1200 x 600DPI Inyección](https://images-eu.ssl-images-amazon.com/images/I/412k0uFjhRL._SL200_.jpg)](https://www.amazon.es/dp/B00JP1DTQC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00JP1DTQC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Aigostar Fitfoodie Steel 30INA-Vaporera eléctrica para coci
 
 [![Aigostar Fitfoodie Steel 30INA-Vaporera ](https://images-eu.ssl-images-amazon.com/images/I/51epdtQ6onL._SL200_.jpg)](https://www.amazon.es/dp/B01M5AZP5C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M5AZP5C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

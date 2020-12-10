@@ -22,6 +22,9 @@ Está [Urban Classics Ladies Velvet Pants Pantalones  Rosa  Pink 185   44  Talla
 
 [![Urban Classics Ladies Velvet Pants Panta](https://images-eu.ssl-images-amazon.com/images/I/31LTRLjQQjL._SL200_.jpg)](https://www.amazon.es/dp/B01MYSAJWF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MYSAJWF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

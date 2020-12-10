@@ -22,6 +22,9 @@ Tienes [Bosch 2 608 653 065 - Hoja de sierra sable S 1542 K - Top for Wood  pack
 
 [![Bosch 2 608 653 065 - Hoja de sierra sab](https://images-eu.ssl-images-amazon.com/images/I/31aNVrj6zKL._SL200_.jpg)](https://www.amazon.es/dp/B009RFBLKM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B009RFBLKM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

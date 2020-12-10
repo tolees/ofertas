@@ -22,6 +22,9 @@ Está [Jocel JVAB030528 Ventilador nebulizador  80 W  2 litros  Plástico  3 Vel
 
 [![Jocel JVAB030528 Ventilador nebulizador ](https://images-eu.ssl-images-amazon.com/images/I/41kk-PjTgGL._SL200_.jpg)](https://www.amazon.es/dp/B06ZY88ZGV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06ZY88ZGV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

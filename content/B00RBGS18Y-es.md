@@ -22,6 +22,9 @@ Tienes [SALEWA Hiker 0 5 L Botella  Unisex Adulto  Amarillo  Talla Única](https
 
 [![SALEWA Hiker 0 5 L Botella  Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/31NoCZeyyeL._SL200_.jpg)](https://www.amazon.es/dp/B00RBGS18Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00RBGS18Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

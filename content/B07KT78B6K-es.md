@@ -22,6 +22,9 @@ Está [Cámara de Video Digital HD-100 Full HD 1080P Pantalla TFT de 2.7 Pulgada
 
 [![Cámara de Video Digital HD-100 Full HD 1](https://images-eu.ssl-images-amazon.com/images/I/41f2gg16JrL._SL200_.jpg)](https://www.amazon.es/dp/B07KT78B6K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KT78B6K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

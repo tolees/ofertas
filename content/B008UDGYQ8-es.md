@@ -22,6 +22,9 @@ Está [Central Lechera Asturiana - Leche UHT Entera - 1 L](https://www.amazon.es
 
 [![Central Lechera Asturiana - Leche UHT En](https://images-eu.ssl-images-amazon.com/images/I/41GMURMGUML._SL200_.jpg)](https://www.amazon.es/dp/B008UDGYQ8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B008UDGYQ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

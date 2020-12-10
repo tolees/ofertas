@@ -22,6 +22,9 @@ Está [LOQI Museum Gustav Klimt The Fulfilment Bag Bolsa de Tela y Playa  50 cm 
 
 [![LOQI Museum Gustav Klimt The Fulfilment ](https://images-eu.ssl-images-amazon.com/images/I/51w6WQJmuQL._SL200_.jpg)](https://www.amazon.es/dp/B014A2RESO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B014A2RESO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

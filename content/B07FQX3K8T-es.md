@@ -22,6 +22,9 @@ Tienes [Clarks Step Allenasun  Zapatillas para Mujer  Negro  Black-   37 EU](htt
 
 [![Clarks Step Allenasun  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/31g8djS0uRL._SL200_.jpg)](https://www.amazon.es/dp/B07FQX3K8T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FQX3K8T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

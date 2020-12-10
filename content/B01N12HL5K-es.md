@@ -22,6 +22,9 @@ Tienes [edc by ESPRIT 027CC1B020  Pantalones Para Mujer  Blanco  Lilac 560   W32
 
 [![edc by ESPRIT 027CC1B020  Pantalones Par](https://images-eu.ssl-images-amazon.com/images/I/41vwgt1W1nL._SL200_.jpg)](https://www.amazon.es/dp/B01N12HL5K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N12HL5K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

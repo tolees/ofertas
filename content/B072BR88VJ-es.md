@@ -22,6 +22,9 @@ Está [Puma Ignite Evoknit Lo VR  Zapatillas De Deporte para Exterior para Mujer
 
 [![Puma Ignite Evoknit Lo VR  Zapatillas De](https://images-eu.ssl-images-amazon.com/images/I/51PxZUC50nL._SL200_.jpg)](https://www.amazon.es/dp/B072BR88VJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072BR88VJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

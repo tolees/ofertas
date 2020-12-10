@@ -22,6 +22,17 @@ Tienes [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero 15
 
 [![Hugo BOSS Reloj Cronógrafo para Hombre d](https://m.media-amazon.com/images/I/41e102mM9JL._SL200_.jpg)](https://www.amazon.es/dp/B06XS9GXLR/?tag=tolees-21)
 
+Características principales:
+
+- Un reloj con elegancia, delicadeza y distinción
+- Visualización cronógrafo
+- Cierre: hebilla
+- Indicador de fecha en la posición de las 4
+- Esfera elegante con efecto "rayo de sol"
+- La serie Navigator se inspira en el diseño clásico de las brújulas para que encuentres el rumbo en todo tipo de situaciones
+- Forma del producto: redondo
+- Las diversas funciones del reloj no afectan a la elegancia de su diseño
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XS9GXLR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

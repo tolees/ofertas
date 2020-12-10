@@ -22,6 +22,9 @@ Tienes [Mx Onda MX-HC2178 - Horno de convección  23L  1500W  Eléctrico  Mesa  
 
 [![Mx Onda MX-HC2178 - Horno de convección ](https://images-eu.ssl-images-amazon.com/images/I/4125R-1G7EL._SL200_.jpg)](https://www.amazon.es/dp/B00IE3NEEO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IE3NEEO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

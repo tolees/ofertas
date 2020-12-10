@@ -22,6 +22,16 @@ Ahora mismo tienes [Castellblanch - Cava Brut Zero Reserva Botella - 75 cl - Pac
 
 [![Castellblanch - Cava Brut Zero Reserva B](https://m.media-amazon.com/images/I/41AQY7eiRiL._SL200_.jpg)](https://www.amazon.es/dp/B088MM1XTV/?tag=tolees-21)
 
+Características:
+
+- Peso neto de 750 ml
+- 0
+- 0
+- 0
+- Contiene sulfitos
+- 0
+- 0
+
 [Visítala!!!](https://www.amazon.es/dp/B088MM1XTV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

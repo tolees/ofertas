@@ -22,6 +22,9 @@ Tienes [Only & Sons Onssato 5 Multi Clr Knit Noos suéter   Light Grey Melange S
 
 [![Only & Sons Onssato 5 Multi Clr Knit Noo](https://images-eu.ssl-images-amazon.com/images/I/41kRGR8oXCL._SL200_.jpg)](https://www.amazon.es/dp/B07D7Y1YML/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D7Y1YML/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

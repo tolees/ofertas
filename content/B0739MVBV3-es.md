@@ -22,6 +22,9 @@ Está [Lector de Tarjetas de Memoria SD/Micro SD  Sonoka Adaptador Micro USB OTG
 
 [![Lector de Tarjetas de Memoria SD/Micro S](https://images-eu.ssl-images-amazon.com/images/I/51C4j6mL28L._SL200_.jpg)](https://www.amazon.es/dp/B0739MVBV3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0739MVBV3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

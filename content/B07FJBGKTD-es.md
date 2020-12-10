@@ -22,6 +22,9 @@ Está [GORE WEAR C5 Peto corto de ciclismo con badana para hombre  XL  Negro](ht
 
 [![GORE WEAR C5 Peto corto de ciclismo con ](https://images-eu.ssl-images-amazon.com/images/I/314CSlXp8sL._SL200_.jpg)](https://www.amazon.es/dp/B07FJBGKTD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FJBGKTD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

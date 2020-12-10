@@ -22,6 +22,9 @@ Tienes [Spagnolo PT Chino Basico Piping Gab. Elast 1778  Pantalones para Hombre 
 
 [![Spagnolo PT Chino Basico Piping Gab. Ela](https://images-eu.ssl-images-amazon.com/images/I/3153kP8T78L._SL200_.jpg)](https://www.amazon.es/dp/B079H3XBQ2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079H3XBQ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

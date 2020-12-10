@@ -22,6 +22,9 @@ Ahora mismo tienes [5BILLION Anillos de Gimnasia de Madera-Anillos de Gimnasio O
 
 [![5BILLION Anillos de Gimnasia de Madera-A](https://images-eu.ssl-images-amazon.com/images/I/41gv9aBYEVL._SL200_.jpg)](https://www.amazon.es/dp/B01JI8F2OS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01JI8F2OS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

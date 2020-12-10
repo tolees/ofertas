@@ -22,6 +22,9 @@ Está [Helly Hansen Tokyo T-Shirt  Hombre  White  XL](https://www.amazon.es/dp/B
 
 [![Helly Hansen Tokyo T-Shirt  Hombre  Whit]()](https://www.amazon.es/dp/B07KWQ3GD9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KWQ3GD9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

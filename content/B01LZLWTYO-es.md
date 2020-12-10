@@ -22,6 +22,9 @@ Está [edc by ESPRIT 116CC1I013  suéter Mujer  Rojo  Dark Red   40  Talla del f
 
 [![edc by ESPRIT 116CC1I013  suéter Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/51b49cUQGDL._SL200_.jpg)](https://www.amazon.es/dp/B01LZLWTYO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZLWTYO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

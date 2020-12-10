@@ -22,6 +22,9 @@ Está [Proyector Portátil Zoom - Artlii Proyector HD 720P soporta Dolby y Full 
 
 [![Proyector Portátil Zoom - Artlii Proyect](https://images-eu.ssl-images-amazon.com/images/I/41YK650-YYL._SL200_.jpg)](https://www.amazon.es/dp/B07HRHYPNK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HRHYPNK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

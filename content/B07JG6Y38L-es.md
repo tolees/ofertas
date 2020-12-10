@@ -22,6 +22,9 @@ Tienes [ESPRIT Sports Shorts WV SL Pantalones Cortos Deportivos  Negro  Black 00
 
 [![ESPRIT Sports Shorts WV SL Pantalones Co](https://images-eu.ssl-images-amazon.com/images/I/31x9jt89cZL._SL200_.jpg)](https://www.amazon.es/dp/B07JG6Y38L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JG6Y38L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

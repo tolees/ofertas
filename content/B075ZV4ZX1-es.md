@@ -22,6 +22,9 @@ Ahora mismo tienes [AIM - Teclado mecánico Gaming  RGB  19 Efectos  Software  S
 
 [![AIM - Teclado mecánico Gaming  RGB  19 E](https://images-eu.ssl-images-amazon.com/images/I/512mdzhIF5L._SL200_.jpg)](https://www.amazon.es/dp/B075ZV4ZX1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075ZV4ZX1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

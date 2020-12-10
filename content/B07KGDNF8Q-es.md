@@ -22,6 +22,9 @@ Tienes [BOSS Perch Bañador  Verde  Dark Green 302   XX-Large para Hombre](https
 
 [![BOSS Perch Bañador  Verde  Dark Green 30](https://images-eu.ssl-images-amazon.com/images/I/3102tzoapOL._SL200_.jpg)](https://www.amazon.es/dp/B07KGDNF8Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KGDNF8Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

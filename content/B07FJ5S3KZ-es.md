@@ -22,6 +22,9 @@ Tienes [Bollé Inuk Máscaras  Unisex niños  Negro  Mate Monkey   3-6 años](ht
 
 [![Bollé Inuk Máscaras  Unisex niños  Negro](https://images-eu.ssl-images-amazon.com/images/I/31qDW-c3xYL._SL200_.jpg)](https://www.amazon.es/dp/B07FJ5S3KZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FJ5S3KZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

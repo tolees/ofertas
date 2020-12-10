@@ -22,6 +22,9 @@ Está [Botanic Ultra Premium Ginebra - 700 ml](https://www.amazon.es/dp/B009T4BP
 
 [![Botanic Ultra Premium Ginebra - 700 ml](https://images-eu.ssl-images-amazon.com/images/I/41r2U3i5E7L._SL200_.jpg)](https://www.amazon.es/dp/B009T4BPIE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B009T4BPIE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

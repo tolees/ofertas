@@ -22,6 +22,9 @@ Está [AmazonBasics - Juego de fundas de edredón y de almohada de microfibra  2
 
 [![AmazonBasics - Juego de fundas de edredó](https://images-eu.ssl-images-amazon.com/images/I/31tRjH%2BuOFL._SL200_.jpg)](https://www.amazon.es/dp/B074QWLZ5M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074QWLZ5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Wrangler Texas Contrast  Jeans para Hombre  Azul  Indigo Wit 25F  34W / 3
 
 [![Wrangler Texas Contrast  Jeans para Homb](https://images-eu.ssl-images-amazon.com/images/I/41sAtOHHMyL._SL200_.jpg)](https://www.amazon.es/dp/B07BM99YXD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BM99YXD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

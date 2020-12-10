@@ -22,6 +22,9 @@ Tienes [Chicco Cuddle & Bubble - Bañera cambiador compacta 2 en 1  10 kg  color
 
 [![Chicco Cuddle & Bubble - Bañera cambiado](https://images-eu.ssl-images-amazon.com/images/I/41uYTB%2Be%2BaL._SL200_.jpg)](https://www.amazon.es/dp/B01JS9FP08/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01JS9FP08/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

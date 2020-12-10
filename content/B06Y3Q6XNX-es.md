@@ -22,6 +22,9 @@ Tienes [BIO Spirulina + BIO Chlorella Vegavero® | TESTADA EN LABORATORIO | SIN 
 
 [![BIO Spirulina + BIO Chlorella Vegavero® ](https://images-eu.ssl-images-amazon.com/images/I/41Z35qTJTAL._SL200_.jpg)](https://www.amazon.es/dp/B06Y3Q6XNX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y3Q6XNX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

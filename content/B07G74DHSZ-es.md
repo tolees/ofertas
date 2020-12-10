@@ -22,6 +22,9 @@ Tienes [Superdry Low Pro Hiker  Zapatillas de Gimnasia para Hombre  Gris  Charco
 
 [![Superdry Low Pro Hiker  Zapatillas de Gi](https://images-eu.ssl-images-amazon.com/images/I/41L7Qh36e9L._SL200_.jpg)](https://www.amazon.es/dp/B07G74DHSZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G74DHSZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

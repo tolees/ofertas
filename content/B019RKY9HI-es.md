@@ -22,6 +22,9 @@ Está [LOBKIN Auriculares de Diadema Bluetooth Inalámbrico con Micrófono y man
 
 [![LOBKIN Auriculares de Diadema Bluetooth ](https://images-eu.ssl-images-amazon.com/images/I/41wf26QRk3L._SL200_.jpg)](https://www.amazon.es/dp/B019RKY9HI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B019RKY9HI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [TopDirect 4PCS 75 x 60 x 55mm bisagras de hierro mesa patas de cama plega
 
 [![TopDirect 4PCS 75 x 60 x 55mm bisagras d](https://images-eu.ssl-images-amazon.com/images/I/51rBWXHHPdL._SL200_.jpg)](https://www.amazon.es/dp/B075K5KNV8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075K5KNV8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

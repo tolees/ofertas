@@ -22,6 +22,9 @@ Ahora mismo tienes [Tom Tailor 5870203  Botas Slouch para Niñas  Beige  Camel 0
 
 [![Tom Tailor 5870203  Botas Slouch para Ni](https://images-eu.ssl-images-amazon.com/images/I/41wD-j3bCSL._SL200_.jpg)](https://www.amazon.es/dp/B079H1PGCY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079H1PGCY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

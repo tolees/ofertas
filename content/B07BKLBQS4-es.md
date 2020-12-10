@@ -22,6 +22,9 @@ Ahora mismo tienes [Mr. Wonderful Lluvia 17 WOA08602UN Paraguas clásico  18 cm]
 
 [![Mr. Wonderful Lluvia 17 WOA08602UN Parag](https://images-eu.ssl-images-amazon.com/images/I/31XWprTfXLL._SL200_.jpg)](https://www.amazon.es/dp/B07BKLBQS4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BKLBQS4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

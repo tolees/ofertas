@@ -22,6 +22,9 @@ Ahora mismo tienes [CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga Fi
 
 [![CRZ YOGA Mujer Naked Feeling Deportivos ](https://images-eu.ssl-images-amazon.com/images/I/31y3xQGGHZL._SL200_.jpg)](https://www.amazon.es/dp/B07MPZWC61/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MPZWC61/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tefal Prima FV1251E0 - Plancha  Plancha vapor-seco  Suela de cerámica  1
 
 [![Tefal Prima FV1251E0 - Plancha  Plancha ](https://images-eu.ssl-images-amazon.com/images/I/41tVdD7mX8L._SL200_.jpg)](https://www.amazon.es/dp/B01LQVWUCC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LQVWUCC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

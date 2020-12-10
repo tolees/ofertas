@@ -22,6 +22,9 @@ Está [JACK & JONES Jjestructure Knit Crew Neck Noos  suéter para Hombre  Gris 
 
 [![JACK & JONES Jjestructure Knit Crew Neck](https://images-eu.ssl-images-amazon.com/images/I/51vOd2oSGFL._SL200_.jpg)](https://www.amazon.es/dp/B07G4HT8RJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G4HT8RJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

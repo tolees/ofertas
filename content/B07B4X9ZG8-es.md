@@ -22,6 +22,9 @@ Está [BOSS Trix  T-Shirt Slim Fit Uomo  Blu  Dark Blue 404   X-Large](https://w
 
 [![BOSS Trix  T-Shirt Slim Fit Uomo  Blu  D](https://images-eu.ssl-images-amazon.com/images/I/41xMca5TGoL._SL200_.jpg)](https://www.amazon.es/dp/B07B4X9ZG8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B4X9ZG8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

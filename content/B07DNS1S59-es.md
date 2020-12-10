@@ -22,6 +22,9 @@ Está [XIHAMA Garmin Fenix 5X Correa  Acero Inoxidable 26 mm Recambio de Anclaje
 
 [![XIHAMA Garmin Fenix 5X Correa  Acero Ino](https://images-eu.ssl-images-amazon.com/images/I/51pxKLmCYgL._SL200_.jpg)](https://www.amazon.es/dp/B07DNS1S59/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DNS1S59/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

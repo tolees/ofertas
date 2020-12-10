@@ -22,6 +22,9 @@ Tienes [San Ignacio Pixel Pro Cooper Set de 3 sartenes + 4 Cuchillos 3 Utensilio
 
 [![San Ignacio Pixel Pro Cooper Set de 3 sa](https://images-eu.ssl-images-amazon.com/images/I/51y8d3gGgFL._SL200_.jpg)](https://www.amazon.es/dp/B07NYT5NNP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NYT5NNP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

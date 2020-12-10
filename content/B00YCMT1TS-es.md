@@ -22,6 +22,9 @@ Está [caseable - Funda para Kindle y Kindle Paperwhite  diseño Colourful Strip
 
 [![caseable - Funda para Kindle y Kindle Pa](http://images.amazon.com/images/P/B00YCMT1TS.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B00YCMT1TS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00YCMT1TS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

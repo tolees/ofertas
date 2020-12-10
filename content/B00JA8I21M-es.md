@@ -22,6 +22,9 @@ Ahora mismo tienes [Yazilind regalo de la joyería de Rose plateado que se deslu
 
 [![Yazilind regalo de la joyería de Rose pl](https://images-eu.ssl-images-amazon.com/images/I/515s2Et1EUL._SL200_.jpg)](https://www.amazon.es/dp/B00JA8I21M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00JA8I21M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [DAGOSTINO HOME - Colchón Viscoelástico DIAMANTE 140 X 190 
 
 [![DAGOSTINO HOME - Colchón Viscoelástico D](https://images-eu.ssl-images-amazon.com/images/I/41q6PPMibbL._SL200_.jpg)](https://www.amazon.es/dp/B07BS43TJF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BS43TJF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

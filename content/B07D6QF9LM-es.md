@@ -22,6 +22,9 @@ Está [Clarks Demi Beat  Botas Estilo Motero para Mujer  Beige  Sand Suede-   39
 
 [![Clarks Demi Beat  Botas Estilo Motero pa](https://images-eu.ssl-images-amazon.com/images/I/41a-H%2Bx7jPL._SL200_.jpg)](https://www.amazon.es/dp/B07D6QF9LM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D6QF9LM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

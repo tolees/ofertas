@@ -22,6 +22,9 @@ Ahora mismo tienes [Case Logic Lodo - Funda para portátil de 11.6"  Color Azul 
 
 [![Case Logic Lodo - Funda para portátil de](https://images-eu.ssl-images-amazon.com/images/I/51ki6ie2jyL._SL200_.jpg)](https://www.amazon.es/dp/B013LDV4HA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B013LDV4HA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

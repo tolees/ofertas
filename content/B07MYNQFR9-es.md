@@ -22,6 +22,9 @@ Está [AIJEESI I10 Auriculares Bluetooth 5.0 In-Ear Inalámbricos con Mic pour S
 
 [![AIJEESI I10 Auriculares Bluetooth 5.0 In](https://images-eu.ssl-images-amazon.com/images/I/31xXB0E6i2L._SL200_.jpg)](https://www.amazon.es/dp/B07MYNQFR9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MYNQFR9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

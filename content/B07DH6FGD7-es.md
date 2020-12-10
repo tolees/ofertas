@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas RUN70S  Zapatillas de Running para Hombre  Negro Core
 
 [![adidas RUN70S  Zapatillas de Running par](https://images-eu.ssl-images-amazon.com/images/I/41i762m6ycL._SL200_.jpg)](https://www.amazon.es/dp/B07DH6FGD7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DH6FGD7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

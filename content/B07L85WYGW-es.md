@@ -22,6 +22,9 @@ Ahora mismo tienes [POMAIKAI Soprano Ukelele para principiantes  ukelele hawaian
 
 [![POMAIKAI Soprano Ukelele para principian](https://images-eu.ssl-images-amazon.com/images/I/41biLtpPQ1L._SL200_.jpg)](https://www.amazon.es/dp/B07L85WYGW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07L85WYGW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

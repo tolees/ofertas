@@ -22,6 +22,9 @@ Está [- Vivid Purse Lh12f  Carteras Mujer  Azul  Blau  Dark Blue    1.0x9.5x18.
 
 [![- Vivid Purse Lh12f  Carteras Mujer  Azu](https://images-eu.ssl-images-amazon.com/images/I/51ypRGZ40vL._SL200_.jpg)](https://www.amazon.es/dp/B07GH3ZJXV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GH3ZJXV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

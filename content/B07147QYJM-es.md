@@ -22,6 +22,9 @@ Está [Pepe Jeans London Ramsy Bootie  Botas para Mujer  Plateado  Chrome   38 E
 
 [![Pepe Jeans London Ramsy Bootie  Botas pa](https://images-eu.ssl-images-amazon.com/images/I/51Tjst8hyEL._SL200_.jpg)](https://www.amazon.es/dp/B07147QYJM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07147QYJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

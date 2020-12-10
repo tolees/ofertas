@@ -22,6 +22,9 @@ Está [La Antigua Lavandera Spray Oxigeno Activo - 8 Recipientes de 750 ml - Tot
 
 [![La Antigua Lavandera Spray Oxigeno Activ](https://images-eu.ssl-images-amazon.com/images/I/41wGzNcZNTL._SL200_.jpg)](https://www.amazon.es/dp/B07DY375RK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DY375RK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

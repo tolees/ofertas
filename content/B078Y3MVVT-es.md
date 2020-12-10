@@ -22,6 +22,9 @@ Tienes [RioRiva Calcetines cortos De Algodón Calientes De Trabajo Y Ocio Para H
 
 [![RioRiva Calcetines cortos De Algodón Cal](https://images-eu.ssl-images-amazon.com/images/I/51w1kfzE30L._SL200_.jpg)](https://www.amazon.es/dp/B078Y3MVVT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078Y3MVVT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

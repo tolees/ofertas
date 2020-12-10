@@ -22,6 +22,9 @@ Tienes [ZTE Blade A452 - Smartphone Libre de 5    WiFi  Bluetooth  Quad-Core 1.0
 
 [![ZTE Blade A452 - Smartphone Libre de 5  ](https://images-eu.ssl-images-amazon.com/images/I/41Jux1eObYL._SL200_.jpg)](https://www.amazon.es/dp/B018EYUKQM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B018EYUKQM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

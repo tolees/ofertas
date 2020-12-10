@@ -22,6 +22,9 @@ Tienes [Taladro atornillador electrico inalambrico 12V conjunto con 2 baterías 
 
 [![Taladro atornillador electrico inalambri](https://images-eu.ssl-images-amazon.com/images/I/51S%2BpGyiIZL._SL200_.jpg)](https://www.amazon.es/dp/B07GFXG2LS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GFXG2LS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

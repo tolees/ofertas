@@ -22,6 +22,9 @@ Está [adidas CONDIVO18 SHO Shorts  Hombre  Collegiate Gold/Black  3XL](https://
 
 [![adidas CONDIVO18 SHO Shorts  Hombre  Col](https://images-eu.ssl-images-amazon.com/images/I/31-DHGr0iaL._SL200_.jpg)](https://www.amazon.es/dp/B07K6CMDRC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K6CMDRC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

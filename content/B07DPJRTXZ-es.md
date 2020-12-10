@@ -22,6 +22,9 @@ Está [AceTend Mini Ventilador de Mano  Mini Ventilador USB Recargable Plegable 
 
 [![AceTend Mini Ventilador de Mano  Mini Ve](https://images-eu.ssl-images-amazon.com/images/I/41lixFBG06L._SL200_.jpg)](https://www.amazon.es/dp/B07DPJRTXZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DPJRTXZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

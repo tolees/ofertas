@@ -22,6 +22,9 @@ Está [adidas Adizero Defiant Bounce W  Zapatillas de Tenis para Mujer  Gris Lig
 
 [![adidas Adizero Defiant Bounce W  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41bmyL-1pUL._SL200_.jpg)](https://www.amazon.es/dp/B07HV7H98B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HV7H98B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

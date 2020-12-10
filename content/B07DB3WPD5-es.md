@@ -22,6 +22,9 @@ Tienes [IGERESS Tablero de Escritura LCD Rosa más Nuevo de 9 Pulgadas Tablero d
 
 [![IGERESS Tablero de Escritura LCD Rosa má](https://images-eu.ssl-images-amazon.com/images/I/41z-Bf0VxEL._SL200_.jpg)](https://www.amazon.es/dp/B07DB3WPD5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DB3WPD5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Go Run 600-Zeeton  Zapatillas para Niños  Gris  Ch
 
 [![Skechers Go Run 600-Zeeton  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/415p0eW3iLL._SL200_.jpg)](https://www.amazon.es/dp/B07CVGCY7B/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CVGCY7B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Rexona Desodorante Antitranspirante Active Pro+ Invisible Hombre - Paquet
 
 [![Rexona Desodorante Antitranspirante Acti](https://images-eu.ssl-images-amazon.com/images/I/31rXxkg8%2BFL._SL200_.jpg)](https://www.amazon.es/dp/B07BJGL1X2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJGL1X2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Autmor OBD II Auto Diagnóstico de Coches OBD2  OBD Lector de Código con
 
 [![Autmor OBD II Auto Diagnóstico de Coches](https://images-eu.ssl-images-amazon.com/images/I/41Iu5Ngxi2L._SL200_.jpg)](https://www.amazon.es/dp/B07DVWGXKF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVWGXKF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

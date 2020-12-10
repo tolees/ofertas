@@ -22,6 +22,9 @@ Está [Louviva Masajeador - 3D Realístita  Médica de silicona  Fácil de Lavar
 
 [![Louviva Masajeador - 3D Realístita  Médi](https://images-eu.ssl-images-amazon.com/images/I/41m3l0L7gfL._SL200_.jpg)](https://www.amazon.es/dp/B07LB297NM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LB297NM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

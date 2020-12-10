@@ -22,6 +22,9 @@ Tienes [Levi s Oversized Crewneck suéter  Verde  Garment Dye Sportswear PFD To 
 
 [![Levi s Oversized Crewneck suéter  Verde ](https://images-eu.ssl-images-amazon.com/images/I/41ZOJIqvONL._SL200_.jpg)](https://www.amazon.es/dp/B07FHB7T67/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FHB7T67/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

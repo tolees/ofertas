@@ -22,6 +22,9 @@ Tienes [Pontec MultiClear Set 5000 - Filtro compacto de gravedad](https://www.am
 
 [![Pontec MultiClear Set 5000 - Filtro comp](https://images-eu.ssl-images-amazon.com/images/I/41yLhgwztBL._SL200_.jpg)](https://www.amazon.es/dp/B002M34MES/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B002M34MES/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

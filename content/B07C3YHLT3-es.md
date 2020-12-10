@@ -22,6 +22,9 @@ Está [Philips Avance HR3752/00 - Batidora Americana de Vaso  1400 W  Jarra 1.8 
 
 [![Philips Avance HR3752/00 - Batidora Amer](https://images-eu.ssl-images-amazon.com/images/I/41iY4f2iPcL._SL200_.jpg)](https://www.amazon.es/dp/B07C3YHLT3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C3YHLT3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

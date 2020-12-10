@@ -22,6 +22,9 @@ Está [Science4you-Fábrica de Experimentos-Quimica Y Fisica   605237 ](https://
 
 [![Science4you-Fábrica de Experimentos-Quim](https://images-eu.ssl-images-amazon.com/images/I/51tUO8PVfiL._SL200_.jpg)](https://www.amazon.es/dp/B076MZFQCJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076MZFQCJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

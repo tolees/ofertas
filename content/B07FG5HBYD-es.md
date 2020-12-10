@@ -22,6 +22,9 @@ Tienes [Lacoste Ph9435  Polo para Hombre  Blanco  White 001  X-Small  Talla del 
 
 [![Lacoste Ph9435  Polo para Hombre  Blanco](https://images-eu.ssl-images-amazon.com/images/I/315oy0rGU4L._SL200_.jpg)](https://www.amazon.es/dp/B07FG5HBYD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FG5HBYD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

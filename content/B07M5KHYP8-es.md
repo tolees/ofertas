@@ -22,6 +22,9 @@ Ahora mismo tienes [MTNG Attitude 82600  Zapatillas para Hombre   Ecosu Roto/Ame
 
 [![MTNG Attitude 82600  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/31Y6mhc9UhL._SL200_.jpg)](https://www.amazon.es/dp/B07M5KHYP8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M5KHYP8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

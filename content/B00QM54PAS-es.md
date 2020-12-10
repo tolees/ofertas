@@ -22,6 +22,9 @@ Tienes [K-Swiss Performance KS TFW Accomplish LTR-White/Silver/GLCRGRAY-M  Zapat
 
 [![K-Swiss Performance KS TFW Accomplish LT](https://images-eu.ssl-images-amazon.com/images/I/410Xs5UM3FL._SL200_.jpg)](https://www.amazon.es/dp/B00QM54PAS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00QM54PAS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

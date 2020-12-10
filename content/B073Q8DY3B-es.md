@@ -22,6 +22,9 @@ Tienes [AmazonBasics - Wok en hierro fundido pretratado](https://www.amazon.es/d
 
 [![AmazonBasics - Wok en hierro fundido pre](https://images-eu.ssl-images-amazon.com/images/I/31z6HL1kqNL._SL200_.jpg)](https://www.amazon.es/dp/B073Q8DY3B/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073Q8DY3B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

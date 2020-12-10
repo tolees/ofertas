@@ -22,6 +22,9 @@ Está [Guess Walter  Zapatillas Altas para Hombre  Azul Deep  43 EU](https://www
 
 [![Guess Walter  Zapatillas Altas para Homb](https://images-eu.ssl-images-amazon.com/images/I/41iAUe4hJsL._SL200_.jpg)](https://www.amazon.es/dp/B07FDCNJWP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDCNJWP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

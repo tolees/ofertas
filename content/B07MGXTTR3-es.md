@@ -22,6 +22,9 @@ Está [TV Box Android 7.1 - VIDEN Smart TV Box Amlogic S905X Quad Core  1GB RAM 
 
 [![TV Box Android 7.1 - VIDEN Smart TV Box ](https://images-eu.ssl-images-amazon.com/images/I/51n%2BZAt%2B2aL._SL200_.jpg)](https://www.amazon.es/dp/B07MGXTTR3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MGXTTR3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

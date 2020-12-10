@@ -22,6 +22,9 @@ Está [Jacques Lemans Reloj Analógico para Mujer de Cuarzo con Correa en Acero 
 
 [![Jacques Lemans Reloj Analógico para Muje](https://images-eu.ssl-images-amazon.com/images/I/419p4ULwyFL._SL200_.jpg)](https://www.amazon.es/dp/B01ER021KA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01ER021KA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Vikky Mid WTR  Zapatillas Altas para Mujer  Azul  Peacoat-Magenta Ha
 
 [![Puma Vikky Mid WTR  Zapatillas Altas par](https://images-eu.ssl-images-amazon.com/images/I/41rruMYcCIL._SL200_.jpg)](https://www.amazon.es/dp/B07D9YY4Y8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9YY4Y8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

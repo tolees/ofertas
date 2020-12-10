@@ -22,6 +22,9 @@ Está [L-RUN Mens Hiking Shoes Transpirable Antideslizante para Hombre Zapatilla
 
 [![L-RUN Mens Hiking Shoes Transpirable Ant](https://images-eu.ssl-images-amazon.com/images/I/41vFqbtvjzL._SL200_.jpg)](https://www.amazon.es/dp/B07GWDJGQD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GWDJGQD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

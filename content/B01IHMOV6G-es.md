@@ -22,6 +22,9 @@ Está [Cortefiel Mochila Marrón Oscuro](https://www.amazon.es/dp/B01IHMOV6G/?ta
 
 [![Cortefiel Mochila Marrón Oscuro](https://images-eu.ssl-images-amazon.com/images/I/41v3Jzk3HAL._SL200_.jpg)](https://www.amazon.es/dp/B01IHMOV6G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IHMOV6G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Ignite Limitless Knit  Zapatillas de Cross para Hombre  Blanco  Puma
 
 [![Puma Ignite Limitless Knit  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41BdU5ZJwLL._SL200_.jpg)](https://www.amazon.es/dp/B074DWJ2DH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074DWJ2DH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

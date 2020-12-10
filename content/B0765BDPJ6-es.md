@@ -22,6 +22,9 @@ Tienes [Libid Toys Anillo Vibrador con Forma de Conejillo - 40 gr](https://www.a
 
 [![Libid Toys Anillo Vibrador con Forma de ](https://images-eu.ssl-images-amazon.com/images/I/41QpIg4B8DL._SL200_.jpg)](https://www.amazon.es/dp/B0765BDPJ6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0765BDPJ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

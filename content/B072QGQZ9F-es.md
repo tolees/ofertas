@@ -22,6 +22,9 @@ Tienes [adidas Nemeziz 17.1 FG  Zapatillas de Fútbol Unisex Niños  Azul Dunkel
 
 [![adidas Nemeziz 17.1 FG  Zapatillas de Fú](https://images-eu.ssl-images-amazon.com/images/I/5146IV0PoqL._SL200_.jpg)](https://www.amazon.es/dp/B072QGQZ9F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072QGQZ9F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [VINOS I LOVE YOU D.O. VALENCIA Vino Tinto - 6 Botellas x 750 ml - Total: 
 
 [![VINOS I LOVE YOU D.O. VALENCIA Vino Tint](https://images-eu.ssl-images-amazon.com/images/I/41OAXsS%2BoBL._SL200_.jpg)](https://www.amazon.es/dp/B07DCFGVFK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DCFGVFK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Black & Decker ADV-1200 RECOGETODO CICLÓNICO AUTOMÓVIL Gri
 
 [![Black & Decker ADV-1200 RECOGETODO CICLÓ](https://images-eu.ssl-images-amazon.com/images/I/41zYmY7YSBL._SL200_.jpg)](https://www.amazon.es/dp/B017COMWTS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B017COMWTS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

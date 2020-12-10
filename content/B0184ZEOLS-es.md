@@ -22,6 +22,9 @@ Está [Columbia Davenport Waterproof Leather  Oxford para Hombre  Marrón  Elk  
 
 [![Columbia Davenport Waterproof Leather  O](https://images-eu.ssl-images-amazon.com/images/I/41ZdF29kmlL._SL200_.jpg)](https://www.amazon.es/dp/B0184ZEOLS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0184ZEOLS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

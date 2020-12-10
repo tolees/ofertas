@@ -22,6 +22,9 @@ Está [CEPSA 512564188 Lubricante Sintético para Vehículos Gasolina y Diésel]
 
 [![CEPSA 512564188 Lubricante Sintético par](https://images-eu.ssl-images-amazon.com/images/I/41LYwKMEVOL._SL200_.jpg)](https://www.amazon.es/dp/B00LHYGO1C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00LHYGO1C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

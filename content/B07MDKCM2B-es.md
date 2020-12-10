@@ -22,6 +22,9 @@ Tienes [LOBKIN Hub USB-C 8 en 1 con Carga PD  Fabricado en Aluminio  Puerto ethe
 
 [![LOBKIN Hub USB-C 8 en 1 con Carga PD  Fa](https://images-eu.ssl-images-amazon.com/images/I/41X7czFCtAL._SL200_.jpg)](https://www.amazon.es/dp/B07MDKCM2B/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MDKCM2B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

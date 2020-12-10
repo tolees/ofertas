@@ -22,6 +22,9 @@ Está [Versa 20270208 Sujetapuertas Cactus Tela Multicolor 13 x 13 x 33 cm](http
 
 [![Versa 20270208 Sujetapuertas Cactus Tela](https://images-eu.ssl-images-amazon.com/images/I/41gHp2E2P6L._SL200_.jpg)](https://www.amazon.es/dp/B07B9QLS63/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B9QLS63/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Emporio Armani Underwear 9p729 Bañador  Verde  Kaki 01981   XX-Large par
 
 [![Emporio Armani Underwear 9p729 Bañador  ](https://images-eu.ssl-images-amazon.com/images/I/41RrJDmlqpL._SL200_.jpg)](https://www.amazon.es/dp/B07DMHDB9F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DMHDB9F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

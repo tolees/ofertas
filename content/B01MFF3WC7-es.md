@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW Claro Belt Wmn Cinturón  Negro  Black/antic Silv
 
 [![G-STAR RAW Claro Belt Wmn Cinturón  Negr](https://images-eu.ssl-images-amazon.com/images/I/41yZNt0KOuL._SL200_.jpg)](https://www.amazon.es/dp/B01MFF3WC7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MFF3WC7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

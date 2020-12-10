@@ -22,6 +22,9 @@ Tienes [Bollé 31437  Cascos de Esquí  Unisex Adulto  Negro  Soft Black   61-63
 
 [![Bollé 31437  Cascos de Esquí  Unisex Adu](https://images-eu.ssl-images-amazon.com/images/I/41NtTmvzknL._SL200_.jpg)](https://www.amazon.es/dp/B073SZ2MD9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073SZ2MD9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

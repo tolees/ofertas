@@ -22,6 +22,9 @@ Tienes [QUN FENG Mini Drone para Niños y Adultos RC Quadcopter con WIFI FPV 0.3
 
 [![QUN FENG Mini Drone para Niños y Adultos](https://images-eu.ssl-images-amazon.com/images/I/51tjNz%2BxMPL._SL200_.jpg)](https://www.amazon.es/dp/B0792PTCXR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792PTCXR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

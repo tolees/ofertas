@@ -22,6 +22,9 @@ Tienes [Royal Canin C-08982 S.N. Shih Tzu 24 - 1.5 Kg](https://www.amazon.es/dp/
 
 [![Royal Canin C-08982 S.N. Shih Tzu 24 - 1](https://images-eu.ssl-images-amazon.com/images/I/51AC6TgxynL._SL200_.jpg)](https://www.amazon.es/dp/B00366YHBS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00366YHBS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

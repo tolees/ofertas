@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW Lanc 3D Tapered  Jeans para Hombre  Azul  lt Aged
 
 [![G-STAR RAW Lanc 3D Tapered  Jeans para H](https://images-eu.ssl-images-amazon.com/images/I/41hWMvpBQoL._SL200_.jpg)](https://www.amazon.es/dp/B07B4SSZDX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B4SSZDX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Linterna LED Power Bank con haz Impermeable ajustable y recargable Multi
 
 [![Linterna LED Power Bank con haz Impermea](https://images-eu.ssl-images-amazon.com/images/I/31JNnUXowLL._SL200_.jpg)](https://www.amazon.es/dp/B07D5BPKSC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D5BPKSC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

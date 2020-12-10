@@ -22,6 +22,9 @@ Ahora mismo tienes [CamelBak 1115404000 - Packs y bolsas de hidratación   47 x 
 
 [![CamelBak 1115404000 - Packs y bolsas de ](https://images-eu.ssl-images-amazon.com/images/I/41yopvCcgXL._SL200_.jpg)](https://www.amazon.es/dp/B01L8JEGE2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01L8JEGE2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Gel-a-Peel - Set estación de diseño  Cife Spain 40743 ](https://www.am
 
 [![Gel-a-Peel - Set estación de diseño  Cif](https://images-eu.ssl-images-amazon.com/images/I/61La6G8UeSL._SL200_.jpg)](https://www.amazon.es/dp/B072HSKPFL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072HSKPFL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

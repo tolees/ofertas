@@ -22,6 +22,9 @@ Tienes [Karlie 44100 Northmate Green Mini  29 x 22.5 x 7 cm  L](https://www.amaz
 
 [![Karlie 44100 Northmate Green Mini  29 x ](https://images-eu.ssl-images-amazon.com/images/I/31wknq2JdrL._SL200_.jpg)](https://www.amazon.es/dp/B00FKTLM3U/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00FKTLM3U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

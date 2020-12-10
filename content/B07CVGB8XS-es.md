@@ -22,6 +22,9 @@ Tienes [Skechers Go Walk 4-Privilege  Zapatillas sin Cordones para Mujer  Morado
 
 [![Skechers Go Walk 4-Privilege  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/4176dm8JHzL._SL200_.jpg)](https://www.amazon.es/dp/B07CVGB8XS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CVGB8XS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

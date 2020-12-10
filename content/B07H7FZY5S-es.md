@@ -22,6 +22,9 @@ Está [Adidas Vs Switch 2 K  Zapatillas de Deporte Unisex niño   Azuosc/Ftwbla/
 
 [![Adidas Vs Switch 2 K  Zapatillas de Depo](https://images-eu.ssl-images-amazon.com/images/I/41sRsnSULSL._SL200_.jpg)](https://www.amazon.es/dp/B07H7FZY5S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H7FZY5S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

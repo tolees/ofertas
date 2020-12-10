@@ -22,6 +22,9 @@ Tienes [Cadena de Luces - Guirnalda Luces 10M 100 LED Cuerda Luces Bombillas Mul
 
 [![Cadena de Luces - Guirnalda Luces 10M 10](https://images-eu.ssl-images-amazon.com/images/I/51IMZd-JZwL._SL200_.jpg)](https://www.amazon.es/dp/B016CTPLI8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B016CTPLI8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

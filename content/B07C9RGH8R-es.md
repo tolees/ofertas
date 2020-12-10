@@ -22,6 +22,9 @@ Tienes [Guaiboshi Luces Solares Impermeable LED Decorativas Lámparas Solar Ilum
 
 [![Guaiboshi Luces Solares Impermeable LED ](https://images-eu.ssl-images-amazon.com/images/I/41lOEYOOMVL._SL200_.jpg)](https://www.amazon.es/dp/B07C9RGH8R/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C9RGH8R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

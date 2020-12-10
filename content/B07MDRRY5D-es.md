@@ -22,6 +22,9 @@ Tienes [YAOHU Albume Fotos  Cuero Adhesivas Álbum de Recortes Página Negra lib
 
 [![YAOHU Albume Fotos  Cuero Adhesivas Álbu](https://images-eu.ssl-images-amazon.com/images/I/41GcY3v4dVL._SL200_.jpg)](https://www.amazon.es/dp/B07MDRRY5D/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MDRRY5D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

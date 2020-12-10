@@ -22,6 +22,9 @@ Está [Aigostar - Bombilla LED A5 C37  E27  7 W equivalente a 56 W  6400K  560 l
 
 [![Aigostar - Bombilla LED A5 C37  E27  7 W](https://images-eu.ssl-images-amazon.com/images/I/31uRuS2feCL._SL200_.jpg)](https://www.amazon.es/dp/B0134BMA2C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0134BMA2C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

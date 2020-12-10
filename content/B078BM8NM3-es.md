@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Go Run 400-Kroto  Zapatillas para Niños  Negro  Bl
 
 [![Skechers Go Run 400-Kroto  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41w%2BmDrSDzL._SL200_.jpg)](https://www.amazon.es/dp/B078BM8NM3/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078BM8NM3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

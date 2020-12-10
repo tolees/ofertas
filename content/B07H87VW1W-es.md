@@ -22,6 +22,9 @@ Ahora mismo tienes [Finether Licuadora al Vacío 3 en 1  Licuadora para Verduras
 
 [![Finether Licuadora al Vacío 3 en 1  Licu](https://images-eu.ssl-images-amazon.com/images/I/51XHCoE9RcL._SL200_.jpg)](https://www.amazon.es/dp/B07H87VW1W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H87VW1W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

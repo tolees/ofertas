@@ -22,6 +22,9 @@ Está [hummel Diamant  Zapatillas Unisex Adulto  Gris  Castle Rock 2600   41 EU]
 
 [![hummel Diamant  Zapatillas Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/413YqNkJ2CL._SL200_.jpg)](https://www.amazon.es/dp/B07C9G1Q5W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C9G1Q5W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

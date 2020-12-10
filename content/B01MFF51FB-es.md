@@ -22,6 +22,9 @@ Está [G-STAR RAW Duko Belt Cinturón  Negro Black 406  115 para Hombre](https:/
 
 [![G-STAR RAW Duko Belt Cinturón  Negro Bla](https://images-eu.ssl-images-amazon.com/images/I/41YtO06Np0L._SL200_.jpg)](https://www.amazon.es/dp/B01MFF51FB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MFF51FB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

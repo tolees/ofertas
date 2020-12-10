@@ -22,6 +22,9 @@ Está [Under Armour Armour Capri Novelty Q2 Leggings  Mujer  Rojo  564   L](http
 
 [![Under Armour Armour Capri Novelty Q2 Leg](https://images-eu.ssl-images-amazon.com/images/I/31No35WviPL._SL200_.jpg)](https://www.amazon.es/dp/B071VTD4N1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071VTD4N1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

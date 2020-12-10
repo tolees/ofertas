@@ -22,6 +22,9 @@ Ahora mismo tienes [ALLPOWERS 5 Pairs MC4 Male/ Female Solar Panel Cable Connect
 
 [![ALLPOWERS 5 Pairs MC4 Male/ Female Solar](https://images-eu.ssl-images-amazon.com/images/I/51dDZAUmotL._SL200_.jpg)](https://www.amazon.es/dp/B0722Y6WBR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0722Y6WBR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

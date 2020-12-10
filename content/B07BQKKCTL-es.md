@@ -22,6 +22,9 @@ Está [New Balance 997H  Zapatillas Unisex Niños  Blanco  White/Laser Blue   32
 
 [![New Balance 997H  Zapatillas Unisex Niño](https://images-eu.ssl-images-amazon.com/images/I/415XLWp8ypL._SL200_.jpg)](https://www.amazon.es/dp/B07BQKKCTL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BQKKCTL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Lee Pique Polo  Blanco  Bright White Lj   M para Hombre](htt
 
 [![Lee Pique Polo  Blanco  Bright White Lj ](https://images-eu.ssl-images-amazon.com/images/I/31YcCvaRrRL._SL200_.jpg)](https://www.amazon.es/dp/B07FYFX4ZM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FYFX4ZM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Ignite Limitless Sr-71 Crafted  Zapatillas de Running U
 
 [![Puma Ignite Limitless Sr-71 Crafted  Zap](https://images-eu.ssl-images-amazon.com/images/I/41W8zTc0W-L._SL200_.jpg)](https://www.amazon.es/dp/B07DB1TX42/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DB1TX42/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

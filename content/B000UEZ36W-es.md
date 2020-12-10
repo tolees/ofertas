@@ -22,6 +22,9 @@ Tienes [Ratón SteelSeries QcK - Alfombrilla de ratón de juego  320mm x 270mm  
 
 [![Ratón SteelSeries QcK - Alfombrilla de r](https://images-eu.ssl-images-amazon.com/images/I/3121sGEt0lL._SL200_.jpg)](https://www.amazon.es/dp/B000UEZ36W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000UEZ36W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

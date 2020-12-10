@@ -22,6 +22,9 @@ Tienes [Balmain 1015800 Homme Agua de Colonia - 60 ml](https://www.amazon.es/dp/
 
 [![Balmain 1015800 Homme Agua de Colonia - ](https://images-eu.ssl-images-amazon.com/images/I/31hQcFNnukL._SL200_.jpg)](https://www.amazon.es/dp/B00XWD6O0W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XWD6O0W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [XOMAX XM-2R421 Radio de Coche con Bluetooth I RDS I Am  FM I USB  AUX I 
 
 [![XOMAX XM-2R421 Radio de Coche con Blueto](https://images-eu.ssl-images-amazon.com/images/I/51e7q9jx5WL._SL200_.jpg)](https://www.amazon.es/dp/B07MCD89HY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MCD89HY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

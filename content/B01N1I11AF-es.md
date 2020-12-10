@@ -22,6 +22,9 @@ Está [New Balance Mx66V2  Zapatillas de Running para Mujer   Magnet/Black   43 
 
 [![New Balance Mx66V2  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41F2xqmQrZL._SL200_.jpg)](https://www.amazon.es/dp/B01N1I11AF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N1I11AF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

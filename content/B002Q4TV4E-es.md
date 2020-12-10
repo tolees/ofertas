@@ -22,6 +22,9 @@ Está [Medisana FTN 76120  Termómetro por Infrarrojos de Medición Precisa  Med
 
 [![Medisana FTN 76120  Termómetro por Infra](https://images-eu.ssl-images-amazon.com/images/I/41aNwkEtqdL._SL200_.jpg)](https://www.amazon.es/dp/B002Q4TV4E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B002Q4TV4E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

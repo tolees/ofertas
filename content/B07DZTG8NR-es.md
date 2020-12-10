@@ -22,6 +22,9 @@ Tienes [Encendedor con Pilas Secas  TACKLIFE-ELY06 Mechero Eléctrico Cocina con
 
 [![Encendedor con Pilas Secas  TACKLIFE-ELY](https://images-eu.ssl-images-amazon.com/images/I/41lvc9temSL._SL200_.jpg)](https://www.amazon.es/dp/B07DZTG8NR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DZTG8NR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

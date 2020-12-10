@@ -22,6 +22,9 @@ Está [Bollé Freeze Máscaras  Unisex Adulto  Navy Mate  M](https://www.amazon.
 
 [![Bollé Freeze Máscaras  Unisex Adulto  Na](https://images-eu.ssl-images-amazon.com/images/I/31t3HNqlq8L._SL200_.jpg)](https://www.amazon.es/dp/B07FF9FHTB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FF9FHTB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Eros Bodyglide Lubricante Íntimo- 100 ml](https://www.amazo
 
 [![Eros Bodyglide Lubricante Íntimo- 100 ml](https://images-eu.ssl-images-amazon.com/images/I/412jkb8FQ5L._SL200_.jpg)](https://www.amazon.es/dp/B002LVWVPI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B002LVWVPI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

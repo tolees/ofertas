@@ -22,6 +22,9 @@ Tienes [Dockers CLEAN CHINO MARINA SLIM - CORDUROY  Pantalones Hombre  Azul  PEM
 
 [![Dockers CLEAN CHINO MARINA SLIM - CORDUR](https://images-eu.ssl-images-amazon.com/images/I/415SkIeO0CL._SL200_.jpg)](https://www.amazon.es/dp/B01F1STHF4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01F1STHF4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Volcom Draw Lo Suede Shoe  Zapatillas de Skateboard para Hom
 
 [![Volcom Draw Lo Suede Shoe  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/31DPVwUGZzL._SL200_.jpg)](https://www.amazon.es/dp/B077W4H2PD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077W4H2PD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

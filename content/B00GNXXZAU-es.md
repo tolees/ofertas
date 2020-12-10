@@ -22,6 +22,9 @@ Tienes [Stanley S742-024 Candado Macizo blindado  Metálico  90 mm](https://www.
 
 [![Stanley S742-024 Candado Macizo blindado](https://images-eu.ssl-images-amazon.com/images/I/51fChgGH-NL._SL200_.jpg)](https://www.amazon.es/dp/B00GNXXZAU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GNXXZAU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

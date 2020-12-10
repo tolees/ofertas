@@ -22,6 +22,9 @@ Tienes [Tamaris 26243  Botas Chukka para Mujer  Gris  Stone 231   39 EU](https:/
 
 [![Tamaris 26243  Botas Chukka para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/51%2BlYHM0-3L._SL200_.jpg)](https://www.amazon.es/dp/B01G5BL72M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01G5BL72M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

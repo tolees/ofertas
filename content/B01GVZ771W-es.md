@@ -22,6 +22,9 @@ Está [Eqiva 142950A0 - Cierre de puerta  tracción  Bluetooth Smart](https://ww
 
 [![Eqiva 142950A0 - Cierre de puerta  tracc](https://images-eu.ssl-images-amazon.com/images/I/41-FNKoL%2BrL._SL200_.jpg)](https://www.amazon.es/dp/B01GVZ771W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GVZ771W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

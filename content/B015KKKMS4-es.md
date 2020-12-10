@@ -22,6 +22,9 @@ Está [Kappa Faro Light  Mocasines Unisex Adulto  Azul  Navy/White 6710   42 EU]
 
 [![Kappa Faro Light  Mocasines Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41vZaEnyn3L._SL200_.jpg)](https://www.amazon.es/dp/B015KKKMS4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B015KKKMS4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [KRAFTWERK 3787-61pzs. 1/4 pulgada](https://www.amazon.es/dp/
 
 [![KRAFTWERK 3787-61pzs. 1/4 pulgada](https://images-eu.ssl-images-amazon.com/images/I/51667qVCPFL._SL200_.jpg)](https://www.amazon.es/dp/B000NWCBJ8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B000NWCBJ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

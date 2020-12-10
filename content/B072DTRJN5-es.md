@@ -22,6 +22,9 @@ Ahora mismo tienes [Acer ES1-132-C9NX - Ordenador Portátil de 11.6" HD  Intel C
 
 [![Acer ES1-132-C9NX - Ordenador Portátil d](https://images-eu.ssl-images-amazon.com/images/I/41fMp2sR%2BbL._SL200_.jpg)](https://www.amazon.es/dp/B072DTRJN5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072DTRJN5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

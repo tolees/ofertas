@@ -22,6 +22,9 @@ Está [Marco Tozzi 26241  Botas de Nieve para Mujer  Amarillo  Corn Antic Com   
 
 [![Marco Tozzi 26241  Botas de Nieve para M](https://images-eu.ssl-images-amazon.com/images/I/51dL2PvmwDL._SL200_.jpg)](https://www.amazon.es/dp/B072LMWF88/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072LMWF88/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

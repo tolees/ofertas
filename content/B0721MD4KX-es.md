@@ -22,6 +22,9 @@ Ahora mismo tienes [Nokia 5 - Smartphone 5.2" IPS LCD  Qualcomm Snapdragon 430  
 
 [![Nokia 5 - Smartphone 5.2" IPS LCD  Qualc](https://images-eu.ssl-images-amazon.com/images/I/415cB5y6EzL._SL200_.jpg)](https://www.amazon.es/dp/B0721MD4KX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0721MD4KX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

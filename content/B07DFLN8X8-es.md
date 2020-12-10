@@ -22,6 +22,9 @@ Ahora mismo tienes [PRODG Tracks Trolley Travel Mochila Tipo Casual  48 cm  28 L
 
 [![PRODG Tracks Trolley Travel Mochila Tipo](https://images-eu.ssl-images-amazon.com/images/I/51iGUcF%2BvuL._SL200_.jpg)](https://www.amazon.es/dp/B07DFLN8X8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DFLN8X8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

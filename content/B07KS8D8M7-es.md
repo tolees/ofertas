@@ -22,6 +22,9 @@ Tienes [Hummel HMLMATEO  Hoodies Hombre  Negro  2001   L](https://www.amazon.es/
 
 [![Hummel HMLMATEO  Hoodies Hombre  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/31WVXguMUYL._SL200_.jpg)](https://www.amazon.es/dp/B07KS8D8M7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KS8D8M7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

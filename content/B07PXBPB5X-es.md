@@ -22,6 +22,9 @@ Tienes [Charles Wilson Paquete 4 Camisetas Cuello Redondo Lisas  XX-Large  Dark 
 
 [![Charles Wilson Paquete 4 Camisetas Cuell](https://images-eu.ssl-images-amazon.com/images/I/31y3FcA7KvL._SL200_.jpg)](https://www.amazon.es/dp/B07PXBPB5X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PXBPB5X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

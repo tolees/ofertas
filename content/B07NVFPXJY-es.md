@@ -22,6 +22,9 @@ Está [SUAOKI P6 arrancador de Coche 800A Batería de automóvil máxima  hasta 
 
 [![SUAOKI P6 arrancador de Coche 800A Bater](https://images-eu.ssl-images-amazon.com/images/I/51fcv8MB7jL._SL200_.jpg)](https://www.amazon.es/dp/B07NVFPXJY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NVFPXJY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

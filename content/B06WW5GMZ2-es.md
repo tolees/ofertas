@@ -22,6 +22,9 @@ Está [Pikolinos Caceres M9e_i17  Botas Clasicas para Hombre  Marrón  Cuero   4
 
 [![Pikolinos Caceres M9e_i17  Botas Clasica](https://images-eu.ssl-images-amazon.com/images/I/41NbCeReX%2BL._SL200_.jpg)](https://www.amazon.es/dp/B06WW5GMZ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06WW5GMZ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Campart KI-0730 Cocina travel de camping con paraviento  Azul  143 x 48 
 
 [![Campart KI-0730 Cocina travel de camping](https://images-eu.ssl-images-amazon.com/images/I/41u6xCB-tPL._SL200_.jpg)](https://www.amazon.es/dp/B003UVD3T6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003UVD3T6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

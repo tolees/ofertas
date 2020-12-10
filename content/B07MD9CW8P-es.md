@@ -22,6 +22,9 @@ Tienes [Auriculares bluetooth  Auriculares inalámbricos Bluetooth 5.0 Sonido Es
 
 [![Auriculares bluetooth  Auriculares inalá](https://images-eu.ssl-images-amazon.com/images/I/41a%2By4e-rAL._SL200_.jpg)](https://www.amazon.es/dp/B07MD9CW8P/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MD9CW8P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

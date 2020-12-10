@@ -22,6 +22,9 @@ Está [Delippo USB C Hub 4K HDMI 2 USB 3.0 Ports Type C Adapter SD Card Reader 1
 
 [![Delippo USB C Hub 4K HDMI 2 USB 3.0 Port](https://images-eu.ssl-images-amazon.com/images/I/51IaK0XbePL._SL200_.jpg)](https://www.amazon.es/dp/B07D68W4KN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D68W4KN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

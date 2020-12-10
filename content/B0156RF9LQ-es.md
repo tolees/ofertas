@@ -22,6 +22,9 @@ Tienes [Taurus BAPI 800 Plus INOX Batidora con picador W  Plástico  20 Velocida
 
 [![Taurus BAPI 800 Plus INOX Batidora con p](https://images-eu.ssl-images-amazon.com/images/I/41kogNizyeL._SL200_.jpg)](https://www.amazon.es/dp/B0156RF9LQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0156RF9LQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

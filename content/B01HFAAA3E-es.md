@@ -22,6 +22,9 @@ Está [Merrell Moab 2 Vent  Zapatillas de Senderismo para Hombre  Marrón  Earth
 
 [![Merrell Moab 2 Vent  Zapatillas de Sende](https://images-eu.ssl-images-amazon.com/images/I/41PCA-o3IeL._SL200_.jpg)](https://www.amazon.es/dp/B01HFAAA3E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HFAAA3E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

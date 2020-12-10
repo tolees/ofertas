@@ -22,6 +22,9 @@ Está [Medion MD 60692 - Ordenador portátil DE 11.6" HD  Intel Atom x5-Z8350  R
 
 [![Medion MD 60692 - Ordenador portátil DE ](https://images-eu.ssl-images-amazon.com/images/I/41zdIxn2GiL._SL200_.jpg)](https://www.amazon.es/dp/B073CWY6DT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073CWY6DT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

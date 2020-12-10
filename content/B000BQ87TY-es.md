@@ -22,6 +22,9 @@ Tienes [Sorel Conquest  Botas para Hombre  Marrón  Bark 287   43 EU](https://ww
 
 [![Sorel Conquest  Botas para Hombre  Marró](https://images-eu.ssl-images-amazon.com/images/I/412fJ0%2Byp9L._SL200_.jpg)](https://www.amazon.es/dp/B000BQ87TY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000BQ87TY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

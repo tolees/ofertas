@@ -22,6 +22,9 @@ Está [SlowTon Juego de Correas para Perros sin Manos  Amortiguador Ajustable de
 
 [![SlowTon Juego de Correas para Perros sin](https://images-eu.ssl-images-amazon.com/images/I/51OvvmdCXlL._SL200_.jpg)](https://www.amazon.es/dp/B07LBDGLWK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBDGLWK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Mayoral 621770  Petos para Niñas   Tejano 5  6 años  Tamaño del Fabri
 
 [![Mayoral 621770  Petos para Niñas   Tejan](https://images-eu.ssl-images-amazon.com/images/I/41C5RI6pfGL._SL200_.jpg)](https://www.amazon.es/dp/B077YDWZ4J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077YDWZ4J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Bosch 2 607 225 322 - Cargador rápido Li-Ion AL 1860 CV - 6A; 230V  pack
 
 [![Bosch 2 607 225 322 - Cargador rápido Li](None._SL200_)](https://www.amazon.es/dp/B001IBQPEK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001IBQPEK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

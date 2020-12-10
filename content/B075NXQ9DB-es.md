@@ -22,6 +22,9 @@ Tienes [GORE WEAR C3 Calcetines para ciclismo unisex  Talla: 35-37  Color: rojo/
 
 [![GORE WEAR C3 Calcetines para ciclismo un](https://images-eu.ssl-images-amazon.com/images/I/51YfWb40fWL._SL200_.jpg)](https://www.amazon.es/dp/B075NXQ9DB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075NXQ9DB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

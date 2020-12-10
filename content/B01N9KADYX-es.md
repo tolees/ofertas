@@ -22,6 +22,9 @@ Está [Reebok BD5613  Zapatillas de Trail Running para Mujer  Rosa  Manic Cherry
 
 [![Reebok BD5613  Zapatillas de Trail Runni](https://images-eu.ssl-images-amazon.com/images/I/41M5HWwhKPL._SL200_.jpg)](https://www.amazon.es/dp/B01N9KADYX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9KADYX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

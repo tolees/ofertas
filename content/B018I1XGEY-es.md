@@ -22,6 +22,9 @@ Está [s.Oliver mit Struktur Pantalones de Traje  Azul  Blue 5920   42 para Homb
 
 [![s.Oliver mit Struktur Pantalones de Traj](https://images-eu.ssl-images-amazon.com/images/I/41m4c16cTUL._SL200_.jpg)](https://www.amazon.es/dp/B018I1XGEY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B018I1XGEY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

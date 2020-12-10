@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Quantum Flex-Hudzick  Zapatillas de Entrenamiento p
 
 [![Skechers Quantum Flex-Hudzick  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41-RaKNH8EL._SL200_.jpg)](https://www.amazon.es/dp/B06XS38RPW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XS38RPW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

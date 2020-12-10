@@ -22,6 +22,9 @@ Ahora mismo tienes [GEARGO Licuadora para Verduras y Frutas  800W Licuadora con 
 
 [![GEARGO Licuadora para Verduras y Frutas ](https://images-eu.ssl-images-amazon.com/images/I/51FTE%2BnxSKL._SL200_.jpg)](https://www.amazon.es/dp/B07FJXJ358/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FJXJ358/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

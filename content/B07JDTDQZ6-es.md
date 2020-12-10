@@ -22,6 +22,9 @@ Está [Lacoste Pj2909 Polo  Azul  Horizon 06y D4j   1 año  Talla del Fabricante
 
 [![Lacoste Pj2909 Polo  Azul  Horizon 06y D](https://images-eu.ssl-images-amazon.com/images/I/417AjRZr7SL._SL200_.jpg)](https://www.amazon.es/dp/B07JDTDQZ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JDTDQZ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

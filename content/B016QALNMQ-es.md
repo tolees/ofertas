@@ -22,6 +22,9 @@ Está [adidas Parma 16 SHO Sport Shorts  Hombre  Bold Green/White  XL](https://w
 
 [![adidas Parma 16 SHO Sport Shorts  Hombre](https://images-eu.ssl-images-amazon.com/images/I/41UZS6LD7GL._SL200_.jpg)](https://www.amazon.es/dp/B016QALNMQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016QALNMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

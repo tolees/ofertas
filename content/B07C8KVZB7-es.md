@@ -22,6 +22,9 @@ Está [Cinta Métrica Retráctil de 5 Metros con Botón de Bloqueo y Gancho Cero
 
 [![Cinta Métrica Retráctil de 5 Metros con ](https://images-eu.ssl-images-amazon.com/images/I/41xL559c0vL._SL200_.jpg)](https://www.amazon.es/dp/B07C8KVZB7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C8KVZB7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

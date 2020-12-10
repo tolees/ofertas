@@ -22,6 +22,9 @@ Tienes [Nenuco Baby - Nuco Aprendizaje  Famosa 700010793 ](https://www.amazon.es
 
 [![Nenuco Baby - Nuco Aprendizaje  Famosa 7](https://images-eu.ssl-images-amazon.com/images/I/41r7Pei2V5L._SL200_.jpg)](https://www.amazon.es/dp/B00H1K4GX4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00H1K4GX4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

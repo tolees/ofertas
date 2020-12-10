@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Wx99  Zapatillas de Atletismo para Mujer  Negro 
 
 [![New Balance Wx99  Zapatillas de Atletism](https://images-eu.ssl-images-amazon.com/images/I/41hef0wj95L._SL200_.jpg)](https://www.amazon.es/dp/B01LYM55O3/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LYM55O3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

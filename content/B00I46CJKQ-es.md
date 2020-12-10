@@ -22,6 +22,9 @@ Está [Dunlop Dee  Botas de Caucho Unisex  Verde  Green 001   44](https://www.am
 
 [![Dunlop Dee  Botas de Caucho Unisex  Verd](https://images-eu.ssl-images-amazon.com/images/I/41TyTrfq3IL._SL200_.jpg)](https://www.amazon.es/dp/B00I46CJKQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00I46CJKQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

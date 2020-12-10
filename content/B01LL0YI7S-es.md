@@ -22,6 +22,9 @@ Ahora mismo tienes [Wolfcraft 7122000 Brocas vástago hexagonal espirales de mad
 
 [![Wolfcraft 7122000 Brocas vástago hexagon](https://images-eu.ssl-images-amazon.com/images/I/41SRTNIrivL._SL200_.jpg)](https://www.amazon.es/dp/B01LL0YI7S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LL0YI7S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

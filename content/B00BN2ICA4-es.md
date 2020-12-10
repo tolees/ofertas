@@ -22,6 +22,9 @@ Tienes [McDavid Hex Thudd  Pantalones Cortos de Baloncesto para Hombre  Negro  M
 
 [![McDavid Hex Thudd  Pantalones Cortos de ]()](https://www.amazon.es/dp/B00BN2ICA4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BN2ICA4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

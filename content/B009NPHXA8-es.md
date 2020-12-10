@@ -22,6 +22,9 @@ Ahora mismo tienes [Gossard Egoboost Tankini - Traje de baño de una Pieza para 
 
 [![Gossard Egoboost Tankini - Traje de baño](https://images-eu.ssl-images-amazon.com/images/I/416f6svONBL._SL200_.jpg)](https://www.amazon.es/dp/B009NPHXA8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B009NPHXA8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

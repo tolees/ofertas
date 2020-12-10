@@ -22,6 +22,9 @@ Está [arena Fastpack 2.1 Mochila  Unisex Adulto  Negro  Black/Fuchsia/W   36x24
 
 [![arena Fastpack 2.1 Mochila  Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41h8sB7B7mL._SL200_.jpg)](https://www.amazon.es/dp/B019KHVA84/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B019KHVA84/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

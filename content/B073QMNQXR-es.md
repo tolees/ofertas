@@ -22,6 +22,9 @@ Está [FIND Chaquetón Efecto Piel Vuelta para Hombre  Gris  Grau   Small](https
 
 [![FIND Chaquetón Efecto Piel Vuelta para H](https://images-eu.ssl-images-amazon.com/images/I/41gNMk9d8FL._SL200_.jpg)](https://www.amazon.es/dp/B073QMNQXR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073QMNQXR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

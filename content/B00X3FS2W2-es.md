@@ -22,6 +22,9 @@ Está [Giochi Preziosi OFR8200400 Triciclo Smart Trike Explorer 5-en-1 de Agua A
 
 [![Giochi Preziosi OFR8200400 Triciclo Smar](https://images-eu.ssl-images-amazon.com/images/I/41IwkmBoHKL._SL200_.jpg)](https://www.amazon.es/dp/B00X3FS2W2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00X3FS2W2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

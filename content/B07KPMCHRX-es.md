@@ -22,6 +22,9 @@ Está [Oneconcept Dartor Diana Electrónica - 26 Juegos y Dardos Recambio - Puer
 
 [![Oneconcept Dartor Diana Electrónica - 26](https://images-eu.ssl-images-amazon.com/images/I/51cyR7xWgnL._SL200_.jpg)](https://www.amazon.es/dp/B07KPMCHRX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPMCHRX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

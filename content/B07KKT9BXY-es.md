@@ -22,6 +22,9 @@ Está [Roxy Arecibo Non-Denim Shorts  Mujer  Duck Green  S](https://www.amazon.e
 
 [![Roxy Arecibo Non-Denim Shorts  Mujer  Du](https://images-eu.ssl-images-amazon.com/images/I/41x-4prQOdL._SL200_.jpg)](https://www.amazon.es/dp/B07KKT9BXY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKT9BXY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

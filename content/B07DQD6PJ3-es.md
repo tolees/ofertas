@@ -22,6 +22,9 @@ Está [Blackview BV5800 - Movil Antigolpes  5.5 Pulgadas 18: 9 FHD  2GB RAM + 16
 
 [![Blackview BV5800 - Movil Antigolpes  5.5](https://images-eu.ssl-images-amazon.com/images/I/51MJBoZWMsL._SL200_.jpg)](https://www.amazon.es/dp/B07DQD6PJ3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQD6PJ3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

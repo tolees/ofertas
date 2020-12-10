@@ -22,6 +22,9 @@ Ahora mismo tienes [Superga 2750-COTJSTRAP Classic  Zapatillas Unisex Niños  Ro
 
 [![Superga 2750-COTJSTRAP Classic  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41T66HJ6E9L._SL200_.jpg)](https://www.amazon.es/dp/B077XWZXHK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077XWZXHK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

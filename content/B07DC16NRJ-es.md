@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Vikky Ribbon Jr  Zapatillas para Niñas  Rosa  Pale Pin
 
 [![Puma Vikky Ribbon Jr  Zapatillas para Ni](https://images-eu.ssl-images-amazon.com/images/I/31i-aF9uCUL._SL200_.jpg)](https://www.amazon.es/dp/B07DC16NRJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC16NRJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

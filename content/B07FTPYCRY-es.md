@@ -22,6 +22,9 @@ Está [SELECTED HOMME Slhskinny-Luca Deep Depths Pants W Noos  Pantalones para H
 
 [![SELECTED HOMME Slhskinny-Luca Deep Depth](https://images-eu.ssl-images-amazon.com/images/I/31GqDgyanZL._SL200_.jpg)](https://www.amazon.es/dp/B07FTPYCRY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTPYCRY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

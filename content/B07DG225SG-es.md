@@ -22,6 +22,9 @@ Está [New Balance 800  Zapatillas Unisex Niños  Gris  Light Grey/Black Gy   38
 
 [![New Balance 800  Zapatillas Unisex Niños](https://images-eu.ssl-images-amazon.com/images/I/41ccxih9lqL._SL200_.jpg)](https://www.amazon.es/dp/B07DG225SG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DG225SG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

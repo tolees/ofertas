@@ -22,6 +22,9 @@ Está [BOSS Tilyr Sz Cinturón  Marrón  Dark Brown 100   110  Talla del fabrica
 
 [![BOSS Tilyr Sz Cinturón  Marrón  Dark Bro](https://images-eu.ssl-images-amazon.com/images/I/41RwmbPzb%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07KGD4V8M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGD4V8M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

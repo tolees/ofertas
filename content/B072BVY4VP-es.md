@@ -22,6 +22,9 @@ Está [MTNG Marta  Botas Mujer  Negro  Monty Negro   40 EU](https://www.amazon.e
 
 [![MTNG Marta  Botas Mujer  Negro  Monty Ne](https://images-eu.ssl-images-amazon.com/images/I/41iTHQwd-1L._SL200_.jpg)](https://www.amazon.es/dp/B072BVY4VP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072BVY4VP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

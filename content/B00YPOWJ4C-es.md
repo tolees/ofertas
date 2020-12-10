@@ -22,6 +22,9 @@ Está [Cecotec - Cinta de andar FitStep con 12 programas predefinidos. 1000 W de
 
 [![Cecotec - Cinta de andar FitStep con 12 ](https://images-eu.ssl-images-amazon.com/images/I/415NNCSUHML._SL200_.jpg)](https://www.amazon.es/dp/B00YPOWJ4C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00YPOWJ4C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

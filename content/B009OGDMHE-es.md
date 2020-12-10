@@ -22,6 +22,9 @@ Tienes [SPEEDO BioFuse Aleta Entrenamiento  44-46](https://www.amazon.es/dp/B009
 
 [![SPEEDO BioFuse Aleta Entrenamiento  44-4](https://images-eu.ssl-images-amazon.com/images/I/51xkLriVN8L._SL200_.jpg)](https://www.amazon.es/dp/B009OGDMHE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B009OGDMHE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [La Hoguera Duroc Chorizo Cular - 625 gr](https://www.amazon.es/dp/B07BL6K
 
 [![La Hoguera Duroc Chorizo Cular - 625 gr](https://images-eu.ssl-images-amazon.com/images/I/31m9%2Bs2hIuL._SL200_.jpg)](https://www.amazon.es/dp/B07BL6KZZR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BL6KZZR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

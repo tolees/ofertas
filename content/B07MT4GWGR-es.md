@@ -22,6 +22,9 @@ Ahora mismo tienes [Petsure Cama para Perros Medianos 80x60x15cm M  Negro - Sof�
 
 [![Petsure Cama para Perros Medianos 80x60x](https://images-eu.ssl-images-amazon.com/images/I/41NpekJPrWL._SL200_.jpg)](https://www.amazon.es/dp/B07MT4GWGR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MT4GWGR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

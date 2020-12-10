@@ -22,6 +22,9 @@ Está [Adidas Vs Switch 2 K  Zapatillas de Deporte Unisex Adulto  000  40 EU](ht
 
 [![Adidas Vs Switch 2 K  Zapatillas de Depo](https://images-eu.ssl-images-amazon.com/images/I/41ExXXYj7aL._SL200_.jpg)](https://www.amazon.es/dp/B07MF3S5X7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MF3S5X7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

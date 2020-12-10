@@ -22,6 +22,9 @@ Tienes [Cortefiel Franq Chino Slim Print Pantalones Deportivos   Gama Azules 12 
 
 [![Cortefiel Franq Chino Slim Print Pantalo](https://images-eu.ssl-images-amazon.com/images/I/31Yk1TimXkL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ5GMKP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KZ5GMKP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

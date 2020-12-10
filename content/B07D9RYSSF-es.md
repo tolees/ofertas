@@ -22,6 +22,9 @@ Está [Adidas Advantage Cl QT  Zapatillas para Mujer  Gris Carbon/Mystery Ruby 0
 
 [![Adidas Advantage Cl QT  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41uLw8OA9HL._SL200_.jpg)](https://www.amazon.es/dp/B07D9RYSSF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9RYSSF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Pepe Jeans Becket  Jeans Slim para Niños  Azul  10Oz Md Used Ess Y39   1
 
 [![Pepe Jeans Becket  Jeans Slim para Niños](https://images-eu.ssl-images-amazon.com/images/I/412cNsPl13L._SL200_.jpg)](https://www.amazon.es/dp/B014YUS0K8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B014YUS0K8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

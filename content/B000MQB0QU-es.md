@@ -22,6 +22,9 @@ Tienes [Cressi Rondinella Bag Juego de Snorkel  Unisex  Turquesa  8.5/9.5](https
 
 [![Cressi Rondinella Bag Juego de Snorkel  ](https://images-eu.ssl-images-amazon.com/images/I/51FhdD5AXyL._SL200_.jpg)](https://www.amazon.es/dp/B000MQB0QU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000MQB0QU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

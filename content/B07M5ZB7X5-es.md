@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Bristum Paperbag Pantalones Cortos  Azul  Sartho Blue A792-60
 
 [![G-STAR RAW Bristum Paperbag Pantalones C](https://images-eu.ssl-images-amazon.com/images/I/31PeRR0nAtL._SL200_.jpg)](https://www.amazon.es/dp/B07M5ZB7X5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M5ZB7X5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

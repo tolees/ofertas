@@ -22,6 +22,9 @@ Está [Hurley W Rise Beach Tote Accesorios PEQUEÑOS  Mujer  Oil Grey  1SIZE](ht
 
 [![Hurley W Rise Beach Tote Accesorios PEQU](https://images-eu.ssl-images-amazon.com/images/I/41AtCtUb6PL._SL200_.jpg)](https://www.amazon.es/dp/B07KCWM3ZM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCWM3ZM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

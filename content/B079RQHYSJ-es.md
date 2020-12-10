@@ -22,6 +22,9 @@ Está [Pepe Jeans Silke  Suéter para Mujer  Azul  Blue 551   Small](https://www
 
 [![Pepe Jeans Silke  Suéter para Mujer  Azu](https://images-eu.ssl-images-amazon.com/images/I/41Za8Ap%2BsoL._SL200_.jpg)](https://www.amazon.es/dp/B079RQHYSJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RQHYSJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [PIECES Pcjane LS Wool Knit Noos suéter  Marrón  Ginger Snap   36  Talla
 
 [![PIECES Pcjane LS Wool Knit Noos suéter  ](https://images-eu.ssl-images-amazon.com/images/I/41ietOYCh5L._SL200_.jpg)](https://www.amazon.es/dp/B071VJ8QNQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071VJ8QNQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

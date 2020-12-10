@@ -22,6 +22,9 @@ Tienes [[50 piezas] Mini Pistola de Silicona TOQIBO Pistola de Pegamento con 50 
 
 [![[50 piezas] Mini Pistola de Silicona TOQ](https://images-eu.ssl-images-amazon.com/images/I/41jwf3fRKXL._SL200_.jpg)](https://www.amazon.es/dp/B0711XHVBR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0711XHVBR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

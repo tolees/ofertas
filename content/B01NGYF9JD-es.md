@@ -22,6 +22,9 @@ Está [WORX WX176 - Taladro Atornillador 20V 2Ah doble cabezal](https://www.amaz
 
 [![WORX WX176 - Taladro Atornillador 20V 2A](https://images-eu.ssl-images-amazon.com/images/I/414SiajsZAL._SL200_.jpg)](https://www.amazon.es/dp/B01NGYF9JD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NGYF9JD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

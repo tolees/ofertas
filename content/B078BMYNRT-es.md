@@ -22,6 +22,9 @@ Tienes [Superga 2790-ACOTW Linea UP and Down  Zapatillas para Mujer Pink  Rose M
 
 [![Superga 2790-ACOTW Linea UP and Down  Za](https://images-eu.ssl-images-amazon.com/images/I/41OUXWe48OL._SL200_.jpg)](https://www.amazon.es/dp/B078BMYNRT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078BMYNRT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

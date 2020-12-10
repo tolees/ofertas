@@ -22,6 +22,9 @@ Ahora mismo tienes [Bolsa de hidratación para mochila de senderismo  sistema de
 
 [![Bolsa de hidratación para mochila de sen](https://images-eu.ssl-images-amazon.com/images/I/41Xh5qyxw1L._SL200_.jpg)](https://www.amazon.es/dp/B072XG8ZCD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072XG8ZCD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

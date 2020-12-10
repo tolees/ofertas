@@ -22,6 +22,9 @@ Tienes [Sony SF64U - Tarjeta SDXC de 64 GB  90 MB/S ](https://www.amazon.es/dp/B
 
 [![Sony SF64U - Tarjeta SDXC de 64 GB  90 M](https://images-eu.ssl-images-amazon.com/images/I/419E7wLT%2ByL._SL200_.jpg)](https://www.amazon.es/dp/B00ENNZ7U8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ENNZ7U8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

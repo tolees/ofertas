@@ -22,6 +22,9 @@ Está [New Balance 490v4  Zapatillas de Running Hombre  Azul  Dark Denim   43 EU
 
 [![New Balance 490v4  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/413f6wFMjSL._SL200_.jpg)](https://www.amazon.es/dp/B01FSDOTBE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FSDOTBE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

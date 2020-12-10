@@ -22,6 +22,9 @@ Está [Roxy ARJB700349 - Botas de invierno para mujer  color Marrón  Tan   tall
 
 [![Roxy ARJB700349 - Botas de invierno para](https://images-eu.ssl-images-amazon.com/images/I/51E1i3MoikL._SL200_.jpg)](https://www.amazon.es/dp/B01HNSW3DI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HNSW3DI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

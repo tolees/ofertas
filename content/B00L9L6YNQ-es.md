@@ -22,6 +22,9 @@ Tienes [IBRA LUXURY - 0.75m Cable HDMI de alta velocidad | nuevo modelo 2.0 | Fu
 
 [![IBRA LUXURY - 0.75m Cable HDMI de alta v](https://images-eu.ssl-images-amazon.com/images/I/51weHoctGEL._SL200_.jpg)](https://www.amazon.es/dp/B00L9L6YNQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00L9L6YNQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

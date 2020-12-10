@@ -22,6 +22,9 @@ Tienes [Anillo vibrador para pene de silicona sumergible  7 modos de vibración 
 
 [![Anillo vibrador para pene de silicona su](https://images-eu.ssl-images-amazon.com/images/I/31k3aP7EqsL._SL200_.jpg)](https://www.amazon.es/dp/B07MXM75Q8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MXM75Q8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

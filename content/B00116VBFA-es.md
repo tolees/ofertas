@@ -22,6 +22,9 @@ Ahora mismo tienes [Happy People - Palas de playa  Colores Surtidos](https://www
 
 [![Happy People - Palas de playa  Colores S](https://images-eu.ssl-images-amazon.com/images/I/41YPONgmzAL._SL200_.jpg)](https://www.amazon.es/dp/B00116VBFA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00116VBFA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

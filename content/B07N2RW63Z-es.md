@@ -22,6 +22,9 @@ Tienes [Moviles Libres Baratos 4G V Mobile J7 5 5 Pulgadas 3GB RAM 32GB ROM 5800
 
 [![Moviles Libres Baratos 4G V Mobile J7 5 ](https://images-eu.ssl-images-amazon.com/images/I/51oKr2AYiRL._SL200_.jpg)](https://www.amazon.es/dp/B07N2RW63Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N2RW63Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

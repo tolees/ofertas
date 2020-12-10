@@ -22,6 +22,15 @@ Está [Dolce Gusto Piccolo EDG201.S - Cafetera de cápsulas  15 bares de presió
 
 [![Dolce Gusto Piccolo EDG201.S - Cafetera ](https://m.media-amazon.com/images/I/41e18+FI1YL._SL200_.jpg)](https://www.amazon.es/dp/B00B8O8V0S/?tag=tolees-21)
 
+Principales características:
+
+- Sistema Thermoblock que permite un calientamiento muy rápido
+- Depósito de agua extraíble (0,6 litros)
+- Recoge gotas ajustable con tapa de acero inoxidable para cualquier tipo de taza o vaso
+- 15 bares de presión automática regulable
+- Sistema de seguridad: sin el portacápsulas no cae agua
+- Palanca mecánica para regular la temperatura del agua
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00B8O8V0S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

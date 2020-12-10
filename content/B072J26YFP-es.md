@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Cloudfoam Ultimate  Zapatillas de Running para Hombre
 
 [![Adidas Cloudfoam Ultimate  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/51rPxnDoIEL._SL200_.jpg)](https://www.amazon.es/dp/B072J26YFP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072J26YFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

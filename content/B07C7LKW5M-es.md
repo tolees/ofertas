@@ -22,6 +22,9 @@ Está [Auriculares Bluetooth  BARA E2 Auricular Magnéticos Bluetooth 4.1  Casco
 
 [![Auriculares Bluetooth  BARA E2 Auricular](https://images-eu.ssl-images-amazon.com/images/I/41RtXDQ-qnL._SL200_.jpg)](https://www.amazon.es/dp/B07C7LKW5M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C7LKW5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

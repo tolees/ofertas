@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Flexile  Zapatillas de Deporte para Mujer  Blanco  Lu
 
 [![Reebok Flexile  Zapatillas de Deporte pa](https://images-eu.ssl-images-amazon.com/images/I/41Wluv2psUL._SL200_.jpg)](https://www.amazon.es/dp/B073FJRV46/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073FJRV46/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

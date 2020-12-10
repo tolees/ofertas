@@ -22,6 +22,9 @@ Está [Vans Atwood - Zapatillas  Canvasmagenta / Ix 8  4.5](https://www.amazon.e
 
 [![Vans Atwood - Zapatillas  Canvasmagenta ](https://images-eu.ssl-images-amazon.com/images/I/41CZJpG9HCL._SL200_.jpg)](https://www.amazon.es/dp/B00DS67YHA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00DS67YHA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

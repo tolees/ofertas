@@ -22,6 +22,9 @@ Está [Springfield 3.T.Ap.Asas Cadena Azul  Cartera de Mano para Mujer  Gamma](h
 
 [![Springfield 3.T.Ap.Asas Cadena Azul  Car](https://images-eu.ssl-images-amazon.com/images/I/41lKzwgfK9L._SL200_.jpg)](https://www.amazon.es/dp/B07KZ1PN5V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ1PN5V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

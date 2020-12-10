@@ -22,6 +22,9 @@ Tienes [Rollei Actioncam Accesorios Set Outdoor | Set de 23 piezas | Ideal para 
 
 [![Rollei Actioncam Accesorios Set Outdoor ](https://images-eu.ssl-images-amazon.com/images/I/41MGQoza%2BNL._SL200_.jpg)](https://www.amazon.es/dp/B019MFNO2Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B019MFNO2Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

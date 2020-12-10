@@ -22,6 +22,9 @@ Está [FITIBEST Sujetador sin Tirantes Invisible Push UP Bra con Gel Adhesivo y 
 
 [![FITIBEST Sujetador sin Tirantes Invisibl](https://images-eu.ssl-images-amazon.com/images/I/41DHw5hz8KL._SL200_.jpg)](https://www.amazon.es/dp/B074DTRX5S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074DTRX5S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

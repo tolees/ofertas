@@ -22,6 +22,9 @@ Está [Blackview A10  2018  Smartphone Dual Sim  2 GB Ram  16 GB ROM  2800mAh  C
 
 [![Blackview A10  2018  Smartphone Dual Sim](https://images-eu.ssl-images-amazon.com/images/I/51tNmaEJAhL._SL200_.jpg)](https://www.amazon.es/dp/B07F36XTN3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F36XTN3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

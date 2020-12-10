@@ -22,6 +22,9 @@ Está [DROP SHOT Briguitte Paletero Pádel  Adultos Unisex  Gris  1](https://www
 
 [![DROP SHOT Briguitte Paletero Pádel  Adul](https://images-eu.ssl-images-amazon.com/images/I/411Nz42cjTL._SL200_.jpg)](https://www.amazon.es/dp/B072JF82HK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072JF82HK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

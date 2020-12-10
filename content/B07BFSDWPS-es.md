@@ -22,6 +22,9 @@ Está [[Promoción] Android TV--X9T PRO Android 7.1 TV Box Amlogic S912 Octa-Cor
 
 [![[Promoción] Android TV--X9T PRO Android ](https://images-eu.ssl-images-amazon.com/images/I/41LYdyun09L._SL200_.jpg)](https://www.amazon.es/dp/B07BFSDWPS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BFSDWPS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

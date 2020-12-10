@@ -22,6 +22,9 @@ Está [Dolce & Gabbana The One Essence Perfume Mujer - 40 ml](https://www.amazon
 
 [![Dolce & Gabbana The One Essence Perfume ](https://images-eu.ssl-images-amazon.com/images/I/41VKwsnd8aL._SL200_.jpg)](https://www.amazon.es/dp/B012NJ7XWI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B012NJ7XWI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

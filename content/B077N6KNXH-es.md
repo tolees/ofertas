@@ -22,6 +22,9 @@ Ahora mismo tienes [Lenovo Ideapad 520-15IKB - Ordenador portátil de 15.6" Full
 
 [![Lenovo Ideapad 520-15IKB - Ordenador por](https://images-eu.ssl-images-amazon.com/images/I/41mWd%2BSCpnL._SL200_.jpg)](https://www.amazon.es/dp/B077N6KNXH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077N6KNXH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

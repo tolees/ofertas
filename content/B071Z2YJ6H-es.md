@@ -22,6 +22,9 @@ Está [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Acero Inoxidab
 
 [![Lotus Reloj Analógico para Hombre de Cua](https://images-eu.ssl-images-amazon.com/images/I/51I0NFgs4cL._SL200_.jpg)](https://www.amazon.es/dp/B071Z2YJ6H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071Z2YJ6H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

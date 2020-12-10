@@ -22,6 +22,9 @@ Está [Smartwatch con Whatsapp Bluetooth Smart Watch Pantalla táctil Reloj Inte
 
 [![Smartwatch con Whatsapp Bluetooth Smart ](https://images-eu.ssl-images-amazon.com/images/I/518c7t62ssL._SL200_.jpg)](https://www.amazon.es/dp/B07RTLL6HZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07RTLL6HZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

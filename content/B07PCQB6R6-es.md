@@ -22,6 +22,9 @@ Está [PUTUO Niños Calcetines De Algodón Respirable  Calcetines para Bebés Ni
 
 [![PUTUO Niños Calcetines De Algodón Respir](https://images-eu.ssl-images-amazon.com/images/I/41xnm-UWh0L._SL200_.jpg)](https://www.amazon.es/dp/B07PCQB6R6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PCQB6R6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

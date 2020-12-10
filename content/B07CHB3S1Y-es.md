@@ -22,6 +22,9 @@ Ahora mismo tienes [UUQ Almohada de Látex Natural Almohada Viscoelástica Suave
 
 [![UUQ Almohada de Látex Natural Almohada V](https://images-eu.ssl-images-amazon.com/images/I/41pcn6D45KL._SL200_.jpg)](https://www.amazon.es/dp/B07CHB3S1Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CHB3S1Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

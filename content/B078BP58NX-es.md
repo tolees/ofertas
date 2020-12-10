@@ -22,6 +22,9 @@ Está [Superga 2750-cotbumpj  Zapatillas Unisex Niños  Rosa  Pink   25 EU](http
 
 [![Superga 2750-cotbumpj  Zapatillas Unisex](https://images-eu.ssl-images-amazon.com/images/I/41epIvp0zWL._SL200_.jpg)](https://www.amazon.es/dp/B078BP58NX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078BP58NX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Gioseppo 46224-P  Botas Camperas para Mujer  Negro  37 EU](https://www.am
 
 [![Gioseppo 46224-P  Botas Camperas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41dY3dLhOnL._SL200_.jpg)](https://www.amazon.es/dp/B07FJTYMKW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FJTYMKW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

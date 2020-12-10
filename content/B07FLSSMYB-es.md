@@ -22,6 +22,9 @@ Está [Pulsera Actividad  Reloj deportivo Inteligente Fitness Tracker con Monito
 
 [![Pulsera Actividad  Reloj deportivo Intel](https://images-eu.ssl-images-amazon.com/images/I/51XE9NETKLL._SL200_.jpg)](https://www.amazon.es/dp/B07FLSSMYB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FLSSMYB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

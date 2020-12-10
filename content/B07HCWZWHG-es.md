@@ -22,6 +22,9 @@ Está [Haverland OSYRIS-20 - Placa Bajo Consumo  2000 de Potencia  1 Elementos  
 
 [![Haverland OSYRIS-20 - Placa Bajo Consumo](https://images-eu.ssl-images-amazon.com/images/I/21hGUUP2iiL._SL200_.jpg)](https://www.amazon.es/dp/B07HCWZWHG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HCWZWHG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

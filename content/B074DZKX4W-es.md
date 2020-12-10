@@ -22,6 +22,9 @@ Tienes [DURAGADGET Soporte De Coche para Smartphone Landvo S7 / Leagoo M8 / UHAN
 
 [![DURAGADGET Soporte De Coche para Smartph](https://images-eu.ssl-images-amazon.com/images/I/51wb5NAnqQL._SL200_.jpg)](https://www.amazon.es/dp/B074DZKX4W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074DZKX4W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

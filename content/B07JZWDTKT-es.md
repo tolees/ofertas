@@ -22,6 +22,9 @@ Está [Emporio Armani Underwear 9p400 Bañador  Rojo  Rossol 00074   Medium  Tal
 
 [![Emporio Armani Underwear 9p400 Bañador  ](https://images-eu.ssl-images-amazon.com/images/I/41pHU1Y2VQL._SL200_.jpg)](https://www.amazon.es/dp/B07JZWDTKT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JZWDTKT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

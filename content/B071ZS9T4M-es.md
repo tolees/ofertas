@@ -22,6 +22,9 @@ Tienes [adidas Duramo 8 Trainer M  Zapatillas de Gimnasia para Hombre  Gris Two/
 
 [![adidas Duramo 8 Trainer M  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41T6uyT4QZL._SL200_.jpg)](https://www.amazon.es/dp/B071ZS9T4M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071ZS9T4M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

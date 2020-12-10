@@ -22,6 +22,9 @@ Está [Skechers Elite Flex-Hartnell  Zapatillas sin Cordones para Hombre  Negro 
 
 [![Skechers Elite Flex-Hartnell  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/51iQZpQV5%2BL._SL200_.jpg)](https://www.amazon.es/dp/B06X9R4HJN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06X9R4HJN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

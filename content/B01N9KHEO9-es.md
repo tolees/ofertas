@@ -22,6 +22,9 @@ Está [Springfield Cotton Trouser  Pantalones para Hombre  Marine Blue  30](http
 
 [![Springfield Cotton Trouser  Pantalones p](https://images-eu.ssl-images-amazon.com/images/I/41IcuMAPYXL._SL200_.jpg)](https://www.amazon.es/dp/B01N9KHEO9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9KHEO9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

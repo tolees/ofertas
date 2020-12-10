@@ -22,6 +22,9 @@ Está [Envoltorio Cera De Abeja bee s wrap reutilizable paquete de 6 Paquete de 
 
 [![Envoltorio Cera De Abeja bee s wrap reut](https://images-eu.ssl-images-amazon.com/images/I/51-mOIdBzLL._SL200_.jpg)](https://www.amazon.es/dp/B07QFQ3SYB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QFQ3SYB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

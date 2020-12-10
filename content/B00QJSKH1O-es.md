@@ -22,6 +22,9 @@ Está [Buffalo TeraStation 1400 Almacenamiento 4 TB Raid Conectado a Red](https:
 
 [![Buffalo TeraStation 1400 Almacenamiento ](https://images-eu.ssl-images-amazon.com/images/I/31u2p-SYyXL._SL200_.jpg)](https://www.amazon.es/dp/B00QJSKH1O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00QJSKH1O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

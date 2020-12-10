@@ -22,6 +22,9 @@ Está [zociko Licuadoras para Verduras y Frutas  Exprimidor y Extractor de Zumos
 
 [![zociko Licuadoras para Verduras y Frutas](https://images-eu.ssl-images-amazon.com/images/I/51-NVfbfTDL._SL200_.jpg)](https://www.amazon.es/dp/B07FS1LMP8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FS1LMP8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

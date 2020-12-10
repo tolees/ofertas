@@ -22,6 +22,9 @@ Tienes [Skechers Skyline-Woodmist  Zapatillas para Hombre  Blanco  White Wht   4
 
 [![Skechers Skyline-Woodmist  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/31FpP9A3BwL._SL200_.jpg)](https://www.amazon.es/dp/B07CVC5DZN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CVC5DZN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

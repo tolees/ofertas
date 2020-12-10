@@ -22,6 +22,9 @@ Está [Pack Objetivo La Casa Blanca + Objetivo Londres [Blu-ray]](https://www.am
 
 [![Pack Objetivo La Casa Blanca + Objetivo ](https://images-eu.ssl-images-amazon.com/images/I/61lancrPlCL._SL200_.jpg)](https://www.amazon.es/dp/B01HQVVD0Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HQVVD0Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

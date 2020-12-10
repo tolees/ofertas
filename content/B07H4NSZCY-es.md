@@ -22,6 +22,9 @@ Ahora mismo tienes [Llama Solar Luces WZTO Lámpara de Fuego Solar 75 LED IP55 I
 
 [![Llama Solar Luces WZTO Lámpara de Fuego ](https://images-eu.ssl-images-amazon.com/images/I/41Pb2oIt6ZL._SL200_.jpg)](https://www.amazon.es/dp/B07H4NSZCY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H4NSZCY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

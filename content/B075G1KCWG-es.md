@@ -22,6 +22,9 @@ Está [Michael Kors Reloj Mujer de Digital con Correa en Acero Inoxidable MKT502
 
 [![Michael Kors Reloj Mujer de Digital con ](https://images-eu.ssl-images-amazon.com/images/I/41KKxZ1lSQL._SL200_.jpg)](https://www.amazon.es/dp/B075G1KCWG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075G1KCWG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

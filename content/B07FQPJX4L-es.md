@@ -22,6 +22,9 @@ Ahora mismo tienes [Taza de Café para llevar con Tapa  Mug Café Reutilizable c
 
 [![Taza de Café para llevar con Tapa  Mug C](https://images-eu.ssl-images-amazon.com/images/I/317laYMF9eL._SL200_.jpg)](https://www.amazon.es/dp/B07FQPJX4L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FQPJX4L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

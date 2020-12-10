@@ -22,6 +22,9 @@ Tienes [H&B HB PY4303 RC Coche Trepador Control Remoto RC Car 4WD 1:43 Monster T
 
 [![H&B HB PY4303 RC Coche Trepador Control ](https://images-eu.ssl-images-amazon.com/images/I/51fZ7edjj3L._SL200_.jpg)](https://www.amazon.es/dp/B07D77NLVK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D77NLVK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

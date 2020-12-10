@@ -22,6 +22,9 @@ Está [Energy Sistem Phone MAX 4G - Smartphone de 5"  4G LTE  IPS HD con antihue
 
 [![Energy Sistem Phone MAX 4G - Smartphone ](https://images-eu.ssl-images-amazon.com/images/I/41H2Ypr0hVL._SL200_.jpg)](https://www.amazon.es/dp/B017T2OAWA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B017T2OAWA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

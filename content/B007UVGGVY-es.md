@@ -22,6 +22,9 @@ Está [Got2b - Powder ful - Polvos para levantar la raíz del pelo - 2 unidades 
 
 [![Got2b - Powder ful - Polvos para levanta](https://images-eu.ssl-images-amazon.com/images/I/4105GcgnH0L._SL200_.jpg)](https://www.amazon.es/dp/B007UVGGVY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007UVGGVY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

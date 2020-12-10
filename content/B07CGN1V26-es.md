@@ -22,6 +22,9 @@ Está [Auriculares Bluetooth  KOOHO E1 Bluetooth Inalámbrico Estéreo Cascos  M
 
 [![Auriculares Bluetooth  KOOHO E1 Bluetoot](https://images-eu.ssl-images-amazon.com/images/I/41qn4Dg73DL._SL200_.jpg)](https://www.amazon.es/dp/B07CGN1V26/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CGN1V26/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

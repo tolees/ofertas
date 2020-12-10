@@ -22,6 +22,9 @@ Tienes [Piquadro Trolley para portátiles  Tortora  Gris  - BV3148OS/TO](https:/
 
 [![Piquadro Trolley para portátiles  Tortor](https://images-eu.ssl-images-amazon.com/images/I/41xoNb6v-OL._SL200_.jpg)](https://www.amazon.es/dp/B00REE99TS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00REE99TS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

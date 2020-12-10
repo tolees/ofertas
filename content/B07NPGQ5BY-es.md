@@ -22,6 +22,9 @@ Tienes [YI 4k Cámara de acción Full HD 12MP WiFi 155 ° Gran ángulo 1400mAh 1
 
 [![YI 4k Cámara de acción Full HD 12MP WiFi](https://images-eu.ssl-images-amazon.com/images/I/319WuUK85qL._SL200_.jpg)](https://www.amazon.es/dp/B07NPGQ5BY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NPGQ5BY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

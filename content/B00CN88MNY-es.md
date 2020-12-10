@@ -22,6 +22,9 @@ Está [BB Colorete Nude Magique Blush de L Oréal Paris](https://www.amazon.es/d
 
 [![BB Colorete Nude Magique Blush de L Oréa](https://images-eu.ssl-images-amazon.com/images/I/31-fHMvj4JL._SL200_.jpg)](https://www.amazon.es/dp/B00CN88MNY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00CN88MNY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

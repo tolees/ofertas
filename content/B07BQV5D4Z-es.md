@@ -22,6 +22,9 @@ Está [New Balance 415  Zapatillas Deportivas para Interior para Mujer  Negro  P
 
 [![New Balance 415  Zapatillas Deportivas p](https://images-eu.ssl-images-amazon.com/images/I/31J9txY5bUL._SL200_.jpg)](https://www.amazon.es/dp/B07BQV5D4Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BQV5D4Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

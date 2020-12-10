@@ -22,6 +22,9 @@ Tienes [Hummel Dual Plate Skill WS  Zapatillas de Deporte Interior para Mujer  B
 
 [![Hummel Dual Plate Skill WS  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41Mr5L8QvXL._SL200_.jpg)](https://www.amazon.es/dp/B07FJYKY44/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FJYKY44/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

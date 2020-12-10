@@ -22,6 +22,13 @@ Ahora mismo tienes [Assassin s Creed: Rogue Remastered](https://www.amazon.es/dp
 
 [![Assassin s Creed: Rogue Remastered](https://m.media-amazon.com/images/I/616xNkuML0L._SL200_.jpg)](https://www.amazon.es/dp/B0792NP8NN/?tag=tolees-21)
 
+Características:
+
+- Estilo de juego naval mejorado
+- Ahora en 4k para PS4 Pro y Xbox One X y 1080p en PS4 y Xbox One
+- Texturas de mayor resolución, sombras e iluminación mejorados, además de otras diversas mejoras a nivel gráfico
+- Nuevos packs y contenido desbloqueable
+
 [Visítala!!!](https://www.amazon.es/dp/B0792NP8NN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

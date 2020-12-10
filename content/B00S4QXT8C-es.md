@@ -22,6 +22,9 @@ Tienes [Bolsitas para Perros Delicias en Salsa de Buey y Zanahorias - [Pack de 2
 
 [![Bolsitas para Perros Delicias en Salsa d](https://images-eu.ssl-images-amazon.com/images/I/41tOmTlgM%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00S4QXT8C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00S4QXT8C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

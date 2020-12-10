@@ -22,6 +22,9 @@ Ahora mismo tienes [Hot Chocolate Design Mini Chocolaticas Candy Skull Bailarina
 
 [![Hot Chocolate Design Mini Chocolaticas C](https://images-eu.ssl-images-amazon.com/images/I/51Y-Y4BEqkL._SL200_.jpg)](https://www.amazon.es/dp/B010O10VMQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B010O10VMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

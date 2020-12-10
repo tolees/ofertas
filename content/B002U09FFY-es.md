@@ -22,6 +22,9 @@ Ahora mismo tienes [Kitchen Artist CS109273 - Máquina para hacer ravioli y spag
 
 [![Kitchen Artist CS109273 - Máquina para h](https://images-eu.ssl-images-amazon.com/images/I/41XVVYX5BxL._SL200_.jpg)](https://www.amazon.es/dp/B002U09FFY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B002U09FFY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

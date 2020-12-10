@@ -22,6 +22,9 @@ Tienes [Skechers Serene-Tranquility  Zapatillas sin Cordones para Mujer  Negro  
 
 [![Skechers Serene-Tranquility  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/411PXvrf6NL._SL200_.jpg)](https://www.amazon.es/dp/B07B1X7MND/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B1X7MND/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

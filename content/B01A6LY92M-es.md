@@ -22,6 +22,9 @@ Tienes [Crocs Classic Slipper U  Zapatillas de Estar por casa Unisex Adulto  Roj
 
 [![Crocs Classic Slipper U  Zapatillas de E](https://images-eu.ssl-images-amazon.com/images/I/31CeOcP5zlL._SL200_.jpg)](https://www.amazon.es/dp/B01A6LY92M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01A6LY92M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

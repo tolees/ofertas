@@ -22,6 +22,9 @@ Ahora mismo tienes [Ogio Lifestyle 2015 Outlaw 15 Orange Mochila Tipo Casual  15
 
 [![Ogio Lifestyle 2015 Outlaw 15 Orange Moc](https://images-eu.ssl-images-amazon.com/images/I/41E8cYaxwhL._SL200_.jpg)](https://www.amazon.es/dp/B00LPX50VK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00LPX50VK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

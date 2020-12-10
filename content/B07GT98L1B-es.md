@@ -22,6 +22,9 @@ Está [Desigual - Bag Patch Mandala Edson Women  Bolsos bandolera Mujer  Azul  A
 
 [![Desigual - Bag Patch Mandala Edson Women](https://images-eu.ssl-images-amazon.com/images/I/51rcqffAvAL._SL200_.jpg)](https://www.amazon.es/dp/B07GT98L1B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GT98L1B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

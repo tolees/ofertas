@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike Accessories - Lean Arm Band](https://www.amazon.es/dp/B
 
 [![Nike Accessories - Lean Arm Band](https://images-eu.ssl-images-amazon.com/images/I/41DDBv%2BjF8L._SL200_.jpg)](https://www.amazon.es/dp/B01J34NTNI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01J34NTNI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

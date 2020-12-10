@@ -22,6 +22,9 @@ Ahora mismo tienes [SUNLU 3D Printer Filament ABS  1.75mm ABS 3D Printer Filamen
 
 [![SUNLU 3D Printer Filament ABS  1.75mm AB](https://images-eu.ssl-images-amazon.com/images/I/51Nd4AL9MAL._SL200_.jpg)](https://www.amazon.es/dp/B07QVBR4P9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07QVBR4P9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

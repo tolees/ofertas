@@ -22,6 +22,9 @@ Está [OFITURIA ® Tablero De Corcho Laminado Resistente De Pared Con Marco De M
 
 [![OFITURIA ® Tablero De Corcho Laminado Re](https://images-eu.ssl-images-amazon.com/images/I/41-77hDdqRL._SL200_.jpg)](https://www.amazon.es/dp/B07N2VY7S9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N2VY7S9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Blend 20705356  Polo para Hombre  Rosa  Rose Red  XX-Large  Tamaño del 
 
 [![Blend 20705356  Polo para Hombre  Rosa  ](https://images-eu.ssl-images-amazon.com/images/I/41jAqZapsbL._SL200_.jpg)](https://www.amazon.es/dp/B076CKP23F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076CKP23F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

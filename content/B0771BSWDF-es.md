@@ -22,6 +22,9 @@ Tienes [Racing Gaming Silla de Escritorio Ordenador  Altura Ajustable Sillón Re
 
 [![Racing Gaming Silla de Escritorio Ordena](https://images-eu.ssl-images-amazon.com/images/I/41014AzFp3L._SL200_.jpg)](https://www.amazon.es/dp/B0771BSWDF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0771BSWDF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Fuel Core NERGIZE  Zapatillas Deportivas para In
 
 [![New Balance Fuel Core NERGIZE  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41GGvWBmKjL._SL200_.jpg)](https://www.amazon.es/dp/B07BQWSSS4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BQWSSS4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [MTNG Attitude 69432 - Zapatillas para Mujer  Verde  Raspe Gl
 
 [![MTNG Attitude 69432 - Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41TnN1%2BzMGL._SL200_.jpg)](https://www.amazon.es/dp/B07M5KJX5J/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M5KJX5J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

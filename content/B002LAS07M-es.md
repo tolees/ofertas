@@ -22,6 +22,9 @@ Tienes [Casio Reloj de Pulsera DB-360GN-9AEF](https://www.amazon.es/dp/B002LAS07
 
 [![Casio Reloj de Pulsera DB-360GN-9AEF](https://images-eu.ssl-images-amazon.com/images/I/51a3L%2BHqJ0L._SL200_.jpg)](https://www.amazon.es/dp/B002LAS07M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B002LAS07M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

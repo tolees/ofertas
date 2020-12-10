@@ -22,6 +22,9 @@ Ahora mismo tienes [【2019】 Blackview A30 2GB RAM 16GB Dual SIM Smartphone 3G
 
 [![【2019】 Blackview A30 2GB RAM 16GB Dual S](https://images-eu.ssl-images-amazon.com/images/I/41e3NnmAHyL._SL200_.jpg)](https://www.amazon.es/dp/B07GB1BXWX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GB1BXWX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

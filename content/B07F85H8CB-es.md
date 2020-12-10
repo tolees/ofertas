@@ -22,6 +22,9 @@ Está [LED Bombillas para Coche Faros Delanteros - 1 par  AUTLEAD H4 Luces Altas
 
 [![LED Bombillas para Coche Faros Delantero](https://images-eu.ssl-images-amazon.com/images/I/41l-5oOt0cL._SL200_.jpg)](https://www.amazon.es/dp/B07F85H8CB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F85H8CB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

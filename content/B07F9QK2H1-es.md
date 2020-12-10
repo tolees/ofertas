@@ -22,6 +22,9 @@ Está [Escalera Asiento Adjustable Asiento Orinal Formación Bebé Asiento con E
 
 [![Escalera Asiento Adjustable Asiento Orin](https://images-eu.ssl-images-amazon.com/images/I/41FdUxHMydL._SL200_.jpg)](https://www.amazon.es/dp/B07F9QK2H1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F9QK2H1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

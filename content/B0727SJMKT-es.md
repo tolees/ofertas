@@ -22,6 +22,9 @@ Está [Melvin & HamiltonJack 7 - Mocasines Hombre  Color marrón  Talla 42](http
 
 [![Melvin & HamiltonJack 7 - Mocasines Homb](https://images-eu.ssl-images-amazon.com/images/I/4150vIftnQL._SL200_.jpg)](https://www.amazon.es/dp/B0727SJMKT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0727SJMKT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

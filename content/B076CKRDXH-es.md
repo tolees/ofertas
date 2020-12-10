@@ -22,6 +22,9 @@ Está [American Tourister Sonicsurfer - Upright 55/20 Equipaje de Mano  55 cm  4
 
 [![American Tourister Sonicsurfer - Upright](https://images-eu.ssl-images-amazon.com/images/I/312eZ0t-SNL._SL200_.jpg)](https://www.amazon.es/dp/B076CKRDXH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076CKRDXH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

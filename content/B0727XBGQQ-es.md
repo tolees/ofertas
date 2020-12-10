@@ -22,6 +22,9 @@ Está [Levi s Jax High  Botas Desert para Hombre  Marrón  Dark Brown 29   41 EU
 
 [![Levi s Jax High  Botas Desert para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41CKCu6rSXL._SL200_.jpg)](https://www.amazon.es/dp/B0727XBGQQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0727XBGQQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

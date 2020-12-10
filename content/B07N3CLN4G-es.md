@@ -22,6 +22,9 @@ Ahora mismo tienes [Munich Dash Kid  Zapatillas de Deporte Unisex niño   Negro 
 
 [![Munich Dash Kid  Zapatillas de Deporte U](https://images-eu.ssl-images-amazon.com/images/I/41lZodSrLbL._SL200_.jpg)](https://www.amazon.es/dp/B07N3CLN4G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07N3CLN4G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

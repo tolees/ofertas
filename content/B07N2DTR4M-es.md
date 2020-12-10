@@ -22,6 +22,9 @@ Está [Fossil Reloj Analógico para Hombre de Cuarzo con Correa en Cuero FS5510]
 
 [![Fossil Reloj Analógico para Hombre de Cu](https://images-eu.ssl-images-amazon.com/images/I/41CO28Jd6aL._SL200_.jpg)](https://www.amazon.es/dp/B07N2DTR4M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N2DTR4M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

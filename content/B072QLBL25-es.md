@@ -22,6 +22,9 @@ Está [Spiderman 2100001996 Mochila Infantil](https://www.amazon.es/dp/B072QLBL2
 
 [![Spiderman 2100001996 Mochila Infantil](https://images-eu.ssl-images-amazon.com/images/I/41n18kh%2B2xL._SL200_.jpg)](https://www.amazon.es/dp/B072QLBL25/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072QLBL25/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

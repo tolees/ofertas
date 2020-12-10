@@ -22,6 +22,9 @@ Está [Puma Amplified Sweat Pants TR Pantalones  Hombre  Gris  Medium Gray Heath
 
 [![Puma Amplified Sweat Pants TR Pantalones](https://images-eu.ssl-images-amazon.com/images/I/31IIFN%2BX4jL._SL200_.jpg)](https://www.amazon.es/dp/B07JH2ZS7K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JH2ZS7K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

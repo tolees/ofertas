@@ -22,6 +22,9 @@ Está [PUPPYOO WP521 Aspiradora Sin Saco Gran Potencia Filtro HEPA  Portátil pa
 
 [![PUPPYOO WP521 Aspiradora Sin Saco Gran P](https://images-eu.ssl-images-amazon.com/images/I/41o5N5qsdKL._SL200_.jpg)](https://www.amazon.es/dp/B073VJZGDR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073VJZGDR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

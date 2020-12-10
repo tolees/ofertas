@@ -22,6 +22,9 @@ Tienes [Mpow Auriculares In Ear con Micrófono  Auriculares con Cable Control  A
 
 [![Mpow Auriculares In Ear con Micrófono  A](https://images-eu.ssl-images-amazon.com/images/I/41AQi%2B-6InL._SL200_.jpg)](https://www.amazon.es/dp/B07KW83RTM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KW83RTM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

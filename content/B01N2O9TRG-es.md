@@ -22,6 +22,9 @@ Tienes [SJCam SJ6 Legend  versión española  - Cámara deportiva 4K de 16 MP  p
 
 [![SJCam SJ6 Legend  versión española  - Cá](https://images-eu.ssl-images-amazon.com/images/I/51geX1k9L6L._SL200_.jpg)](https://www.amazon.es/dp/B01N2O9TRG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N2O9TRG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

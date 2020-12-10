@@ -22,6 +22,9 @@ Está [Puma Future 19.4 FG/AG  Zapatillas de Fútbol para Hombre  Rojo  Red Blas
 
 [![Puma Future 19.4 FG/AG  Zapatillas de Fú](https://images-eu.ssl-images-amazon.com/images/I/41Ta6wb3twL._SL200_.jpg)](https://www.amazon.es/dp/B07DCDS3SC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DCDS3SC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Soporte de papel higiénico  WisFox Nuevo tejido de papel au
 
 [![Soporte de papel higiénico  WisFox Nuevo](https://images-eu.ssl-images-amazon.com/images/I/416ds2GH4sL._SL200_.jpg)](https://www.amazon.es/dp/B07JQPWDZ7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JQPWDZ7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

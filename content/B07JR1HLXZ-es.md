@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Solar Boost M  Zapatillas de Running para Hombre  Azu
 
 [![adidas Solar Boost M  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/41z5yliETnL._SL200_.jpg)](https://www.amazon.es/dp/B07JR1HLXZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JR1HLXZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

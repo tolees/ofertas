@@ -22,6 +22,9 @@ Ahora mismo tienes [Clinique Superdefense CC Crema Tono Light Medium - 40 ml](ht
 
 [![Clinique Superdefense CC Crema Tono Ligh](https://images-eu.ssl-images-amazon.com/images/I/31yJSeTvmYL._SL200_.jpg)](https://www.amazon.es/dp/B00EO3I5CE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00EO3I5CE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

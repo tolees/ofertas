@@ -22,6 +22,9 @@ Está [Thumbs Up 1002200 videoconsola portátil 10 9 cm  4.3"  - Videoconsolas p
 
 [![Thumbs Up 1002200 videoconsola portátil ]()](https://www.amazon.es/dp/B07HQFB48T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HQFB48T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Curver Rectangular L ~19L  Blanco Oasis  37.6x26.8x21.6 cm  230005](https
 
 [![Curver Rectangular L ~19L  Blanco Oasis ](https://images-eu.ssl-images-amazon.com/images/I/51sXI719DyL._SL200_.jpg)](https://www.amazon.es/dp/B01IEKKJ9O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IEKKJ9O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

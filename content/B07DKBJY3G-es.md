@@ -22,6 +22,9 @@ Está [DOACT Saco de Dormir  Portable Saco de Dormir Ultra Ligero Multifuncional
 
 [![DOACT Saco de Dormir  Portable Saco de D](https://images-eu.ssl-images-amazon.com/images/I/41yKfWzZxlL._SL200_.jpg)](https://www.amazon.es/dp/B07DKBJY3G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DKBJY3G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Ocean ASA5399  Bóxers para Hombre  Morado Geometric  M/48 Pack de 2 ](h
 
 [![Ocean ASA5399  Bóxers para Hombre  Morad](https://images-eu.ssl-images-amazon.com/images/I/51TwlKwKJlL._SL200_.jpg)](https://www.amazon.es/dp/B01MS8RL6M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MS8RL6M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

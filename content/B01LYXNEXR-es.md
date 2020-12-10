@@ -22,6 +22,9 @@ Está [GEEKHOM Hamacas Colgantes  Tienda de Campaña  Hamacas Jardin Portátil y
 
 [![GEEKHOM Hamacas Colgantes  Tienda de Cam](https://images-eu.ssl-images-amazon.com/images/I/51Ry3WOSIhL._SL200_.jpg)](https://www.amazon.es/dp/B01LYXNEXR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LYXNEXR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

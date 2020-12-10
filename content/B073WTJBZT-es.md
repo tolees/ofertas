@@ -22,6 +22,9 @@ Está [Juego de 5 brochas para maquillaje  diseño de varitas mágicas de Harry 
 
 [![Juego de 5 brochas para maquillaje  dise](https://images-eu.ssl-images-amazon.com/images/I/41qysZnEUGL._SL200_.jpg)](https://www.amazon.es/dp/B073WTJBZT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073WTJBZT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

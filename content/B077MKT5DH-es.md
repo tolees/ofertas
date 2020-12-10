@@ -22,6 +22,9 @@ Está [Puma Escaper SL V Jr  Zapatillas Unisex Niños  Blanco Soft Fluo Peach Wh
 
 [![Puma Escaper SL V Jr  Zapatillas Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41GKSbuIpxL._SL200_.jpg)](https://www.amazon.es/dp/B077MKT5DH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077MKT5DH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

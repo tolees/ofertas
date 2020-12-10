@@ -22,6 +22,9 @@ Ahora mismo tienes [Sulion Young Flexo LED con Pantalla LCD 8 W Blanco y Negro 2
 
 [![Sulion Young Flexo LED con Pantalla LCD ](https://images-eu.ssl-images-amazon.com/images/I/21rOOhcvGlL._SL200_.jpg)](https://www.amazon.es/dp/B0797NJZ6C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0797NJZ6C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Dickies Slim Straight Work Pant Pantalones  Hombre  Amarillo  Dusk Yello
 
 [![Dickies Slim Straight Work Pant Pantalon](https://images-eu.ssl-images-amazon.com/images/I/31qIR%2BFfliL._SL200_.jpg)](https://www.amazon.es/dp/B078TQP9MP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078TQP9MP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Desigual Abrig_Michelle  Verde  Kaki Oscuro 4086   44 para Mujer](https:
 
 [![Desigual Abrig_Michelle  Verde  Kaki Osc](https://images-eu.ssl-images-amazon.com/images/I/51FXss5wkVL._SL200_.jpg)](https://www.amazon.es/dp/B06XNZ9BVC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XNZ9BVC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Puma Vista  Zapatillas de Deporte Unisex Adulto  Negro Black White-Charc
 
 [![Puma Vista  Zapatillas de Deporte Unisex](https://images-eu.ssl-images-amazon.com/images/I/414CDgnZUfL._SL200_.jpg)](https://www.amazon.es/dp/B07DC11M9G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DC11M9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [VGROUND W95 Android TV Box con Cuatro Núcleos Amlogic S905W  2 GB de RAM
 
 [![VGROUND W95 Android TV Box con Cuatro Nú](https://images-eu.ssl-images-amazon.com/images/I/51HwEqm8vWL._SL200_.jpg)](https://www.amazon.es/dp/B07GVGRRL6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GVGRRL6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

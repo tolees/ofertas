@@ -22,6 +22,9 @@ Está [Kanebo Shidenkai Tratamiento Capilar Anticaída - 150 ml](https://www.ama
 
 [![Kanebo Shidenkai Tratamiento Capilar Ant](https://images-eu.ssl-images-amazon.com/images/I/3112BYrPurL._SL200_.jpg)](https://www.amazon.es/dp/B00A8JCN26/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00A8JCN26/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

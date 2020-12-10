@@ -22,6 +22,9 @@ Está [Licuadora Portátil de Homgeek  Licuadora de Mano  Batidora de inmersión
 
 [![Licuadora Portátil de Homgeek  Licuadora](https://images-eu.ssl-images-amazon.com/images/I/51Ml6E8TDDL._SL200_.jpg)](https://www.amazon.es/dp/B07GRTRWQQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GRTRWQQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

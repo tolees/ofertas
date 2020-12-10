@@ -22,6 +22,19 @@ Tienes [H.Koenig Batidora de Vaso para Smoothies y Zumos  Licuadora para Verdura
 
 [![H.Koenig Batidora de Vaso para Smoothies](https://m.media-amazon.com/images/I/31GRnnDsl6L._SL200_.jpg)](https://www.amazon.es/dp/B00AZFJ69Q/?tag=tolees-21)
 
+Características principales:
+
+- Cuerpo de acero inoxidable y pies antideslizantes
+- Batidora de vaso de alto rendimiento: 500 w
+- Sirve tanto como batidora, licuadora y trituradora de hielo cuchilla de 4 hojas de acero inoxidable
+- Capacidad: 1.5 l
+- Cerradura de seguridad
+- Recipiente en vidrio graduado
+- Fácil de limpiar
+- 2 cuchillas enfrentadas hacia arriba para un efecto ciclónico y arrastrar los ingredientes hacia las cuchillas y 2 cuchillas orientadas hacia abajo para evitar que queden trozos en el fondo del vaso
+- 2 velocidades + función "pulse"
+- Cuchilla de 4 hojas de acero inoxidable
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00AZFJ69Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

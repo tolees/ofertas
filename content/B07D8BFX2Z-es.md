@@ -22,6 +22,9 @@ Ahora mismo tienes [Munich Dash  Zapatillas de Deporte Unisex Adulto  Gris  Gris
 
 [![Munich Dash  Zapatillas de Deporte Unise](https://images-eu.ssl-images-amazon.com/images/I/41h6-owDvgL._SL200_.jpg)](https://www.amazon.es/dp/B07D8BFX2Z/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D8BFX2Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

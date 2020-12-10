@@ -22,6 +22,9 @@ Tienes [Puma Ignite Flash Evoknit Wn s  Zapatillas de Running para Mujer  Negro 
 
 [![Puma Ignite Flash Evoknit Wn s  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/411jnkMOEfL._SL200_.jpg)](https://www.amazon.es/dp/B07CTSP5G3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CTSP5G3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

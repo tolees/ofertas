@@ -22,6 +22,9 @@ Tienes [Alkove Holt - Sofá de cuero de tres plazas  negro ](https://www.amazon.
 
 [![Alkove Holt - Sofá de cuero de tres plaz](https://images-eu.ssl-images-amazon.com/images/I/31uIdaE01hL._SL200_.jpg)](https://www.amazon.es/dp/B07G34D1DR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G34D1DR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

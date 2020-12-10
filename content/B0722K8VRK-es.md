@@ -22,6 +22,9 @@ Está [Burton Day Hiker Mochila  Unisex Adulto  Negro  Shade Heather   28 l](htt
 
 [![Burton Day Hiker Mochila  Unisex Adulto ](https://images-eu.ssl-images-amazon.com/images/I/415jlj0qf%2BL._SL200_.jpg)](https://www.amazon.es/dp/B0722K8VRK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0722K8VRK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

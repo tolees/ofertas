@@ -22,6 +22,9 @@ Tienes [Bosch 2608642530 Lame de scie circulaire expert for wood 254 x 30 x 2 4 
 
 [![Bosch 2608642530 Lame de scie circulaire](https://images-eu.ssl-images-amazon.com/images/I/41bNwKW7VrL._SL200_.jpg)](https://www.amazon.es/dp/B008HRGR28/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B008HRGR28/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

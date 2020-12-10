@@ -22,6 +22,9 @@ Está [JACK & JONES Jjitim Jjoriginal Jj 520 Lid Noos  Jeans Hombre  Azul  Blue 
 
 [![JACK & JONES Jjitim Jjoriginal Jj 520 Li](https://images-eu.ssl-images-amazon.com/images/I/419z9RFlPZL._SL200_.jpg)](https://www.amazon.es/dp/B01MPWXDWE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MPWXDWE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

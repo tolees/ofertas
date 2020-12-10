@@ -22,6 +22,9 @@ Está [Adidas ULTIMAMOTION  Zapatillas para Mujer  Gris Light Granite/Clear Brow
 
 [![Adidas ULTIMAMOTION  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/41E9-wQpelL._SL200_.jpg)](https://www.amazon.es/dp/B07D9C9MMM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9C9MMM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

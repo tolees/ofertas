@@ -22,6 +22,9 @@ Ahora mismo tienes [Optimum Nutrition Serious Mass Ganador  Vainilla - 5443 g](h
 
 [![Optimum Nutrition Serious Mass Ganador  ](https://images-eu.ssl-images-amazon.com/images/I/51zYX4VumAL._SL200_.jpg)](https://www.amazon.es/dp/B000GIPJ02/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B000GIPJ02/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

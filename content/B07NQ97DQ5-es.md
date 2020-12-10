@@ -22,6 +22,9 @@ Está [Morkka Bloques de construcción de Bloques magnéticos de 76 Piezas Juego
 
 [![Morkka Bloques de construcción de Bloque](https://images-eu.ssl-images-amazon.com/images/I/51%2BYHb8EgGL._SL200_.jpg)](https://www.amazon.es/dp/B07NQ97DQ5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NQ97DQ5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

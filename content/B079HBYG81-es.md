@@ -22,6 +22,9 @@ Está [Tom Tailor 5881901  Botas Clasicas para Hombre  Gris  Coal 00013   43 EU]
 
 [![Tom Tailor 5881901  Botas Clasicas para ](https://images-eu.ssl-images-amazon.com/images/I/411F-gxd85L._SL200_.jpg)](https://www.amazon.es/dp/B079HBYG81/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079HBYG81/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [INFINIKIT Haven Mueble TV - Roble Gris](https://www.amazon.es/dp/B073JH9P
 
 [![INFINIKIT Haven Mueble TV - Roble Gris](https://images-eu.ssl-images-amazon.com/images/I/41jrJlXe2kL._SL200_.jpg)](https://www.amazon.es/dp/B073JH9PJ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073JH9PJ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

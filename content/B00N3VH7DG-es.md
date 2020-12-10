@@ -22,6 +22,9 @@ Está [Duracell 123 High Power - Pilas especiales de litio de 6 V  CR123/CR123A
 
 [![Duracell 123 High Power - Pilas especial](https://images-eu.ssl-images-amazon.com/images/I/51lqaEA7OtL._SL200_.jpg)](https://www.amazon.es/dp/B00N3VH7DG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00N3VH7DG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

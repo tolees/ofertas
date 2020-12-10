@@ -22,6 +22,9 @@ Está [Reebok Speedlux 2.0  Zapatillas de Running para Mujer   Vicious Violet/Vi
 
 [![Reebok Speedlux 2.0  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41YHstDWBgL._SL200_.jpg)](https://www.amazon.es/dp/B073RKPC6T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RKPC6T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Klarfit King Pong Mesa de Ping-Pong Plegable  Recubrimiento Resistente a 
 
 [![Klarfit King Pong Mesa de Ping-Pong Pleg](https://images-eu.ssl-images-amazon.com/images/I/412kLh9Tn9L._SL200_.jpg)](https://www.amazon.es/dp/B01N3A3OYK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N3A3OYK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

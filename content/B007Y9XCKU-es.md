@@ -22,6 +22,9 @@ Está [Nike Pico 4  Psv   Zapatillas para niño  Blanco / Azul marino  28 EU](ht
 
 [![Nike Pico 4  Psv   Zapatillas para niño ](https://images-eu.ssl-images-amazon.com/images/I/31RgR%2BMCwAL._SL200_.jpg)](https://www.amazon.es/dp/B007Y9XCKU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007Y9XCKU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Grabadora Reproductor CD DVD Externa Portátil USB 3.0 y Tipo C 2 en 1 Qu
 
 [![Grabadora Reproductor CD DVD Externa Por](https://images-eu.ssl-images-amazon.com/images/I/41HooliWO1L._SL200_.jpg)](https://www.amazon.es/dp/B07Q36C3CN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q36C3CN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

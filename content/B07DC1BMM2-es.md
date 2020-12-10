@@ -22,6 +22,9 @@ Está [Puma Smash V2 L  Zapatillas Unisex Adulto  Gris  Quarry White   42 EU](ht
 
 [![Puma Smash V2 L  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/31uef%2B3O%2BiL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1BMM2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC1BMM2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

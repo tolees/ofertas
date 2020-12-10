@@ -22,6 +22,9 @@ Tienes [DC Shoes Mastaford Jackets  Hombre  Khaki  S](https://www.amazon.es/dp/B
 
 [![DC Shoes Mastaford Jackets  Hombre  Khak](https://images-eu.ssl-images-amazon.com/images/I/41J3m6AC8UL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ23SMR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KQ23SMR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

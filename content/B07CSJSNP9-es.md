@@ -22,6 +22,9 @@ Está [Botella de Agua Deportiva de Acero Inoxidable Hermético - Mantiene el Ca
 
 [![Botella de Agua Deportiva de Acero Inoxi](https://images-eu.ssl-images-amazon.com/images/I/4104ho6Kh3L._SL200_.jpg)](https://www.amazon.es/dp/B07CSJSNP9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CSJSNP9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

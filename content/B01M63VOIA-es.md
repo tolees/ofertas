@@ -22,6 +22,9 @@ Está [Skechers Go Step Lite-Ultrasock 2.0  Entrenadores para Mujer  Negro  Blac
 
 [![Skechers Go Step Lite-Ultrasock 2.0  Ent](https://images-eu.ssl-images-amazon.com/images/I/415wubc4ViL._SL200_.jpg)](https://www.amazon.es/dp/B01M63VOIA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M63VOIA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

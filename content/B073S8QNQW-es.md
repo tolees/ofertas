@@ -22,6 +22,9 @@ Tienes [Salomon Ellipse 2 LTR W  Zapatillas de Senderismo para Mujer  Negro  Art
 
 [![Salomon Ellipse 2 LTR W  Zapatillas de S](https://images-eu.ssl-images-amazon.com/images/I/51e86PLGMFL._SL200_.jpg)](https://www.amazon.es/dp/B073S8QNQW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073S8QNQW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

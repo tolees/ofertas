@@ -22,6 +22,9 @@ Está [Dispensador de Pasta de Dientes y Conjunto de Portacepillos de Dientes co
 
 [![Dispensador de Pasta de Dientes y Conjun](https://images-eu.ssl-images-amazon.com/images/I/41eZcpBbFxL._SL200_.jpg)](https://www.amazon.es/dp/B07GN6J9LJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GN6J9LJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

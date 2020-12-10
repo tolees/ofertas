@@ -22,6 +22,9 @@ Ahora mismo tienes [PREUP Mandolina Verduras 11 en 1 Cortador de Verduras y Frut
 
 [![PREUP Mandolina Verduras 11 en 1 Cortado](https://images-eu.ssl-images-amazon.com/images/I/51McYHp9iBL._SL200_.jpg)](https://www.amazon.es/dp/B07CZHGY4M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZHGY4M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

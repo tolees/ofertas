@@ -22,6 +22,9 @@ Tienes [Diesel 00SMNQ Bañador  Hombre  Negro  Black 900   Medium  Tamaño del F
 
 [![Diesel 00SMNQ Bañador  Hombre  Negro  Bl](https://images-eu.ssl-images-amazon.com/images/I/413z9G-fs1L._SL200_.jpg)](https://www.amazon.es/dp/B0741FDFLQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0741FDFLQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

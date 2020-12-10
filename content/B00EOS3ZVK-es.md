@@ -22,6 +22,9 @@ Tienes [NikeAIR MAX COMMAND FLEX  Zapatillas deportivas Unisex Niños  Negro  Bl
 
 [![NikeAIR MAX COMMAND FLEX  Zapatillas dep](https://images-eu.ssl-images-amazon.com/images/I/41XsIumGzrL._SL200_.jpg)](https://www.amazon.es/dp/B00EOS3ZVK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00EOS3ZVK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

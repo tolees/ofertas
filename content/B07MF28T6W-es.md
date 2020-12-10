@@ -22,6 +22,9 @@ Ahora mismo tienes [BROTOU Mesa de Luz Dibujo A4 Tableta de Luz 3.5 mm Super Del
 
 [![BROTOU Mesa de Luz Dibujo A4 Tableta de ](https://images-eu.ssl-images-amazon.com/images/I/51MoidjPWEL._SL200_.jpg)](https://www.amazon.es/dp/B07MF28T6W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MF28T6W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

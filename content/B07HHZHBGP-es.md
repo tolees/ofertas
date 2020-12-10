@@ -22,6 +22,9 @@ Está [Taladro Atornillador  TECCPO Professional Taladro Inalambrico  27 Accesor
 
 [![Taladro Atornillador  TECCPO Professiona](https://images-eu.ssl-images-amazon.com/images/I/510xKAIuZTL._SL200_.jpg)](https://www.amazon.es/dp/B07HHZHBGP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HHZHBGP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

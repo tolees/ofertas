@@ -22,6 +22,9 @@ Está [Faro Barcelona Ibiza 33288 - Ventilador sin luz  acero y palas madera ply
 
 [![Faro Barcelona Ibiza 33288 - Ventilador ](https://images-eu.ssl-images-amazon.com/images/I/31d%2BjEVnnlL._SL200_.jpg)](https://www.amazon.es/dp/B0052RH6FS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0052RH6FS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

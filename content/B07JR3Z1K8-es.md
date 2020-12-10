@@ -22,6 +22,9 @@ Está [Cocoda Soporte Reposacabezas Coche  360 Rotación Soporte Asiento Coche p
 
 [![Cocoda Soporte Reposacabezas Coche  360 ](https://images-eu.ssl-images-amazon.com/images/I/515ZlRXraFL._SL200_.jpg)](https://www.amazon.es/dp/B07JR3Z1K8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JR3Z1K8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

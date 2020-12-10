@@ -22,6 +22,9 @@ Ahora mismo tienes [Irrigador Bucal Portatil DIGOO Irrigador Recargable e Inalá
 
 [![Irrigador Bucal Portatil DIGOO Irrigador](https://images-eu.ssl-images-amazon.com/images/I/414rp77kplL._SL200_.jpg)](https://www.amazon.es/dp/B07HQMCRM4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HQMCRM4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

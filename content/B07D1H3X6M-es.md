@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics Gel-Phoenix 9  Zapatillas de Entrenamiento para Mujer 
 
 [![Asics Gel-Phoenix 9  Zapatillas de Entre](https://images-eu.ssl-images-amazon.com/images/I/513UYdYY6jL._SL200_.jpg)](https://www.amazon.es/dp/B07D1H3X6M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D1H3X6M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

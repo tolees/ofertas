@@ -22,6 +22,9 @@ Está [Superdry Classic Superstate Pique Polo  Blanco  Optic 01c   X-Large para 
 
 [![Superdry Classic Superstate Pique Polo  ](https://images-eu.ssl-images-amazon.com/images/I/418lI6SMPSL._SL200_.jpg)](https://www.amazon.es/dp/B07MZGCDKD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MZGCDKD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

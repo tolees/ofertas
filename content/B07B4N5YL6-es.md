@@ -22,6 +22,9 @@ Está [IRIS 9700 HD 02 - Receptor de TV por satélite  WiFi  HDMI  DVB-S2  color
 
 [![IRIS 9700 HD 02 - Receptor de TV por sat](https://images-eu.ssl-images-amazon.com/images/I/41Jl7Ud4lJL._SL200_.jpg)](https://www.amazon.es/dp/B07B4N5YL6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B4N5YL6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma One 4 Syn It  Zapatillas de Fútbol para Hombre  Azul  
 
 [![Puma One 4 Syn It  Zapatillas de Fútbol ](https://images-eu.ssl-images-amazon.com/images/I/41sCqd4cFRL._SL200_.jpg)](https://www.amazon.es/dp/B07D9VSH1J/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D9VSH1J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

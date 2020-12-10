@@ -22,6 +22,9 @@ Ahora mismo tienes [Vans Old Skool  Zapatillas de Skateboarding para Mujer  Negr
 
 [![Vans Old Skool  Zapatillas de Skateboard](https://images-eu.ssl-images-amazon.com/images/I/41aQ2dlu92L._SL200_.jpg)](https://www.amazon.es/dp/B071CVDJHN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071CVDJHN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

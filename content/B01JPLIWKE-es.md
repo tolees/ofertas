@@ -22,6 +22,9 @@ Está [Base de Madera Sensor de Movimiento PIR LED Luz Lámpara Mesa Redonda Noc
 
 [![Base de Madera Sensor de Movimiento PIR ](https://images-eu.ssl-images-amazon.com/images/I/31u2m2vL2TL._SL200_.jpg)](https://www.amazon.es/dp/B01JPLIWKE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01JPLIWKE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

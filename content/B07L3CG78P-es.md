@@ -22,6 +22,9 @@ Está [Calvin Klein - Dressed Up Pouch On Chain  Bolsos bandolera Mujer  Morado 
 
 [![Calvin Klein - Dressed Up Pouch On Chain](https://images-eu.ssl-images-amazon.com/images/I/41ER%2BPmj61L._SL200_.jpg)](https://www.amazon.es/dp/B07L3CG78P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L3CG78P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

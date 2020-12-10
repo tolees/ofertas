@@ -22,6 +22,9 @@ Tienes [adidas Gazelle J  Zapatillas de Gimnasia Unisex Niños  Azul Legend Mari
 
 [![adidas Gazelle J  Zapatillas de Gimnasia](https://images-eu.ssl-images-amazon.com/images/I/4132X4FN%2BCL._SL200_.jpg)](https://www.amazon.es/dp/B07K11RSXL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K11RSXL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

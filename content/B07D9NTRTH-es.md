@@ -22,6 +22,9 @@ Está [adidas Cosmic 2  Zapatillas de Trail Running para Mujer  Tinley/Tintec 00
 
 [![adidas Cosmic 2  Zapatillas de Trail Run](https://images-eu.ssl-images-amazon.com/images/I/417DxbYlDJL._SL200_.jpg)](https://www.amazon.es/dp/B07D9NTRTH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9NTRTH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

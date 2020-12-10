@@ -22,6 +22,14 @@ Tienes [adidas VS Switch 3 I  Zapatillas  Cblack Ftwwht Royblu  24 EU](https://w
 
 [![adidas VS Switch 3 I  Zapatillas  Cblack](https://m.media-amazon.com/images/I/41ufpWJGaGL._SL200_.jpg)](https://www.amazon.es/dp/B089QRHK61/?tag=tolees-21)
 
+Características principales:
+
+- Diseño acolchado
+- Zapatilla inspirada en los diseños retro de running
+- Mediasuela con amortiguación para una pisada más cómoda
+- Parte superior de nobuk sintético
+- Cierre de velcro
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B089QRHK61/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

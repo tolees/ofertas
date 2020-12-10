@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW Ladd Belt Cinturón  Marrón  Dk Brown/black Meta
 
 [![G-STAR RAW Ladd Belt Cinturón  Marrón  D](https://images-eu.ssl-images-amazon.com/images/I/51RJ%2Bq6q2-L._SL200_.jpg)](https://www.amazon.es/dp/B01MG7ULEX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MG7ULEX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Netis Extensor de WiFi 150Mbps Repetidor WiFi Amplificador I
 
 [![Netis Extensor de WiFi 150Mbps Repetidor](https://images-eu.ssl-images-amazon.com/images/I/41%2B5MN0kKzL._SL200_.jpg)](https://www.amazon.es/dp/B07KWNGSW7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KWNGSW7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

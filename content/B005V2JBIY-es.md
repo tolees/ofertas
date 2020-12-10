@@ -22,6 +22,9 @@ Está [Nike The Premier II SG-Pro AC  Zapatillas de Fútbol para Hombre  Negro V
 
 [![Nike The Premier II SG-Pro AC  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41XRcEeivgL._SL200_.jpg)](https://www.amazon.es/dp/B005V2JBIY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B005V2JBIY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

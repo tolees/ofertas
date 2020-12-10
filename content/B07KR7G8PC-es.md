@@ -22,6 +22,9 @@ Está [Finether Aspiradora Escoba sin Cable 2 en 1  Aspiradoras Hogar  13000PA  
 
 [![Finether Aspiradora Escoba sin Cable 2 e](https://images-eu.ssl-images-amazon.com/images/I/41809Sgy4%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07KR7G8PC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KR7G8PC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

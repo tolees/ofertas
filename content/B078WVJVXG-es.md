@@ -22,6 +22,9 @@ Tienes [Nike Air Huarache Run  Zapatillas de Gimnasia para Hombre  Beige Light B
 
 [![Nike Air Huarache Run  Zapatillas de Gim](https://images-eu.ssl-images-amazon.com/images/I/412Z%2BSq-HDL._SL200_.jpg)](https://www.amazon.es/dp/B078WVJVXG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WVJVXG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

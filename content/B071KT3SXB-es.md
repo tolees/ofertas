@@ -22,6 +22,9 @@ Ahora mismo tienes [Hombre Cortapelos Nariz y Orejas-USB Recargable Afeitadora 3
 
 [![Hombre Cortapelos Nariz y Orejas-USB Rec](https://images-eu.ssl-images-amazon.com/images/I/41d6b3Rhd5L._SL200_.jpg)](https://www.amazon.es/dp/B071KT3SXB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071KT3SXB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

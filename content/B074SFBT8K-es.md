@@ -22,6 +22,9 @@ Está [ALLPOWERS 18v 12v 7.5W Panel Solar Batería Cargador Mantenedor con Enchu
 
 [![ALLPOWERS 18v 12v 7.5W Panel Solar Bater](https://images-eu.ssl-images-amazon.com/images/I/41VQ0F9j-bL._SL200_.jpg)](https://www.amazon.es/dp/B074SFBT8K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074SFBT8K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

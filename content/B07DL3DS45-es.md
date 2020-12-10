@@ -22,6 +22,9 @@ Está [Android Tablet 7 Pulgadas Quad Core 8G Memory Tablet PC WiFi GPS Camera a
 
 [![Android Tablet 7 Pulgadas Quad Core 8G M](https://images-eu.ssl-images-amazon.com/images/I/31vim2Wv5DL._SL200_.jpg)](https://www.amazon.es/dp/B07DL3DS45/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DL3DS45/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Rocket Dog Jumpin  Zapatillas para Mujer  Negro  Black Topanga A00    40
 
 [![Rocket Dog Jumpin  Zapatillas para Mujer]()](https://www.amazon.es/dp/B07H5MJMB6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H5MJMB6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

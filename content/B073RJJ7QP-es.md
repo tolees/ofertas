@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas CrazyPower TR M  Zapatillas de Deporte para Hombre  G
 
 [![Adidas CrazyPower TR M  Zapatillas de De](https://images-eu.ssl-images-amazon.com/images/I/41Gvf5jW32L._SL200_.jpg)](https://www.amazon.es/dp/B073RJJ7QP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073RJJ7QP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

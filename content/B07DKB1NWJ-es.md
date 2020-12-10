@@ -22,6 +22,9 @@ Ahora mismo tienes [AICOOK Envasadora de Vacio  4 en 1 Envasadoras al Vacio Dome
 
 [![AICOOK Envasadora de Vacio  4 en 1 Envas](https://images-eu.ssl-images-amazon.com/images/I/51rAAzoUTkL._SL200_.jpg)](https://www.amazon.es/dp/B07DKB1NWJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DKB1NWJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Brooks Wire V5  Zapatillas de Running Unisex Adulto  Blanco 
 
 [![Brooks Wire V5  Zapatillas de Running Un](https://images-eu.ssl-images-amazon.com/images/I/31klIzVF6fL._SL200_.jpg)](https://www.amazon.es/dp/B07DS5QW92/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DS5QW92/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

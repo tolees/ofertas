@@ -22,6 +22,9 @@ Está [MSI B360-F Pro - Placa Base Pro Series  LGA 1151  1 x PCI-E 3.0 x16  HDMI
 
 [![MSI B360-F Pro - Placa Base Pro Series  ](https://images-eu.ssl-images-amazon.com/images/I/51Kmist7UdL._SL200_.jpg)](https://www.amazon.es/dp/B07CLYHRNR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CLYHRNR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

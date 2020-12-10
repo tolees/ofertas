@@ -22,6 +22,9 @@ Tienes [Westt® Storm · Casco Moto Integral Motocicleta Ciclomotor y Scooter en
 
 [![Westt® Storm · Casco Moto Integral Motoc](https://images-eu.ssl-images-amazon.com/images/I/41xILz3km9L._SL200_.jpg)](https://www.amazon.es/dp/B07MM5WSVC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MM5WSVC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Rebound Street V2 SD Fur  Zapatillas Altas Unisex Adulto  Verde Fore
 
 [![Puma Rebound Street V2 SD Fur  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41PRep784%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07D9ZBVS9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9ZBVS9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

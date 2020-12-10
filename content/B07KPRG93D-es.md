@@ -22,6 +22,9 @@ Está [DC Shoes Circle Star tee-Shirt  Hombre  Black  M](https://www.amazon.es/d
 
 [![DC Shoes Circle Star tee-Shirt  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41wXyIfFy7L._SL200_.jpg)](https://www.amazon.es/dp/B07KPRG93D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KPRG93D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tamaris 25100  Botas para Mujer  Azul  Navy   36 EU](https://www.amazon.e
 
 [![Tamaris 25100  Botas para Mujer  Azul  N](https://images-eu.ssl-images-amazon.com/images/I/412QadYUGDL._SL200_.jpg)](https://www.amazon.es/dp/B071XD53RB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071XD53RB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Master Series Temblor Inalámbrico Recargable Bullet Vibe - 205 gr](https
 
 [![Master Series Temblor Inalámbrico Recarg](https://images-eu.ssl-images-amazon.com/images/I/41WKBwm1kxL._SL200_.jpg)](https://www.amazon.es/dp/B01183VQIC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01183VQIC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

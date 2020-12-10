@@ -22,6 +22,9 @@ Ahora mismo tienes [Grabadora de Voz BENJIE 16G Grabador de Audio con Sonido Act
 
 [![Grabadora de Voz BENJIE 16G Grabador de ](https://images-eu.ssl-images-amazon.com/images/I/41K7wQOksNL._SL200_.jpg)](https://www.amazon.es/dp/B07PN8TTF5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07PN8TTF5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

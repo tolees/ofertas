@@ -22,6 +22,9 @@ Tienes [Tablet Android Desbloqueado teléfono 3G con Ranuras para Tarjetas Dual 
 
 [![Tablet Android Desbloqueado teléfono 3G ](https://images-eu.ssl-images-amazon.com/images/I/41PZamnxdJL._SL200_.jpg)](https://www.amazon.es/dp/B07GYF4K61/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GYF4K61/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Phyles Tapas elásticas de Silicona  6 Paquetes De Varios Cu
 
 [![Phyles Tapas elásticas de Silicona  6 Pa](https://images-eu.ssl-images-amazon.com/images/I/513AtD8Y37L._SL200_.jpg)](https://www.amazon.es/dp/B07FTFL1NR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FTFL1NR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma A.C.E. Woven Pants  Hombre  Black  XXL](https://www.amazon.es/dp/B07
 
 [![Puma A.C.E. Woven Pants  Hombre  Black  ](https://images-eu.ssl-images-amazon.com/images/I/31VrC7iENxL._SL200_.jpg)](https://www.amazon.es/dp/B07DG4G5T9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DG4G5T9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

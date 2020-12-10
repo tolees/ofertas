@@ -22,6 +22,9 @@ Está [FIND Lace Trim Cami Top para Mujer  Negro  Black Mix   36  Talla del Fabr
 
 [![FIND Lace Trim Cami Top para Mujer  Negr](https://images-eu.ssl-images-amazon.com/images/I/414x24lgvAL._SL200_.jpg)](https://www.amazon.es/dp/B01NAJHHEN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NAJHHEN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

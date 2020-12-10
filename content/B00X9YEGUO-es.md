@@ -22,6 +22,9 @@ Tienes [Dodot Pañales Talla 3  5-10 kg  140 pañales](https://www.amazon.es/dp/
 
 [![Dodot Pañales Talla 3  5-10 kg  140 paña](http://images.amazon.com/images/P/B00X9YEGUO.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B00X9YEGUO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00X9YEGUO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Meizu u680h/16GB/Black Smartphone U10  16 GB  13 MP cámar
 
 [![Meizu u680h/16GB/Black Smartphone U10  1](https://images-eu.ssl-images-amazon.com/images/I/41yJAvGUwlL._SL200_.jpg)](https://www.amazon.es/dp/B01N1FJFFP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N1FJFFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

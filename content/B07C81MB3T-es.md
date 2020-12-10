@@ -22,6 +22,9 @@ Está [Inside Sjm02sm  Pantalones Mujer  Azul  Blue 20   W24/L31  Talla del Fabr
 
 [![Inside Sjm02sm  Pantalones Mujer  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41Yr3JkF3eL._SL200_.jpg)](https://www.amazon.es/dp/B07C81MB3T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C81MB3T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

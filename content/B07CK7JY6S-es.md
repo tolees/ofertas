@@ -22,6 +22,9 @@ Ahora mismo tienes [Ora Mira S1701 - Teléfono móvil Dual SIM  Bluetooth  Panta
 
 [![Ora Mira S1701 - Teléfono móvil Dual SIM](https://images-eu.ssl-images-amazon.com/images/I/41ElGnMmXxL._SL200_.jpg)](https://www.amazon.es/dp/B07CK7JY6S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CK7JY6S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

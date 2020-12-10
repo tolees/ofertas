@@ -22,6 +22,9 @@ Está [Kempa Emotion Shorts Pantalones cortos  Hombre  Azul Marino  2XS/XS](http
 
 [![Kempa Emotion Shorts Pantalones cortos  ](https://images-eu.ssl-images-amazon.com/images/I/41zaCuHVauL._SL200_.jpg)](https://www.amazon.es/dp/B00TZA7TXW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00TZA7TXW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

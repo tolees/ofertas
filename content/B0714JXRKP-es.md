@@ -22,6 +22,9 @@ Tienes [Head Princess Traje De Baño Olimpico  Niñas  Verde  12](https://www.am
 
 [![Head Princess Traje De Baño Olimpico  Ni](https://images-eu.ssl-images-amazon.com/images/I/41Fy91OHWQL._SL200_.jpg)](https://www.amazon.es/dp/B0714JXRKP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0714JXRKP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Munich BARRU  Zapatillas Unisex Adulto   Verde/Negro 36   44 EU](https:/
 
 [![Munich BARRU  Zapatillas Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/41aX%2B0hJtHL._SL200_.jpg)](https://www.amazon.es/dp/B07D86QYJV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D86QYJV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

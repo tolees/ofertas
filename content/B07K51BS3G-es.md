@@ -22,6 +22,9 @@ Está [Levi s kids Nn23597 46 Trousers Jeans  Azul  Indigo   16 años  Talla del
 
 [![Levi s kids Nn23597 46 Trousers Jeans  A](https://images-eu.ssl-images-amazon.com/images/I/41I3b3cfnsL._SL200_.jpg)](https://www.amazon.es/dp/B07K51BS3G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K51BS3G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

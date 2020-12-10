@@ -22,6 +22,9 @@ Está [VARLION Pala de pádel LW ZYLON 4 Black LTD](https://www.amazon.es/dp/B07
 
 [![VARLION Pala de pádel LW ZYLON 4 Black L](https://images-eu.ssl-images-amazon.com/images/I/41WibrKjBkL._SL200_.jpg)](https://www.amazon.es/dp/B07LD6XV3V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LD6XV3V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

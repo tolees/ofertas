@@ -22,6 +22,9 @@ Ahora mismo tienes [Superga Cotu Classic  Zapatillas para hombre   Green  905 To
 
 [![Superga Cotu Classic  Zapatillas para ho](https://images-eu.ssl-images-amazon.com/images/I/41B57SvL7mL._SL200_.jpg)](https://www.amazon.es/dp/B017R6HIHM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B017R6HIHM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

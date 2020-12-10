@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Jax  Botas Desert para Hombre  Marrón  Dark Brown 29
 
 [![Levi s Jax  Botas Desert para Hombre  Ma](https://images-eu.ssl-images-amazon.com/images/I/41EaXUir%2BoL._SL200_.jpg)](https://www.amazon.es/dp/B07BZS82TW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BZS82TW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

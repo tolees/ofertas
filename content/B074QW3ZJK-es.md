@@ -22,6 +22,9 @@ Ahora mismo tienes [AmazonBasics - Juego de fundas de edredón y de almohada de 
 
 [![AmazonBasics - Juego de fundas de edredó](https://images-eu.ssl-images-amazon.com/images/I/41n-x3Fio2L._SL200_.jpg)](https://www.amazon.es/dp/B074QW3ZJK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074QW3ZJK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Vans  Zapatillas Altas Unisex Adulto  Negro  Black/Black   38 EU](https:/
 
 [![Vans  Zapatillas Altas Unisex Adulto  Ne](https://images-eu.ssl-images-amazon.com/images/I/31qplQqm19L._SL200_.jpg)](https://www.amazon.es/dp/B001EZXODK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001EZXODK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

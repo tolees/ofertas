@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Bs6907  Zapatillas de Running para Mujer  Gris  Flat 
 
 [![Reebok Bs6907  Zapatillas de Running par](https://images-eu.ssl-images-amazon.com/images/I/413K37gKr9L._SL200_.jpg)](https://www.amazon.es/dp/B071WCN9TN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071WCN9TN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

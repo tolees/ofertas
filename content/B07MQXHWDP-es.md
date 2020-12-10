@@ -22,6 +22,9 @@ Está [ehind Super Antideslizante Map ratón Alfombra  diseño de mapamundi prec
 
 [![ehind Super Antideslizante Map ratón Alf](https://images-eu.ssl-images-amazon.com/images/I/41jzLeHdjKL._SL200_.jpg)](https://www.amazon.es/dp/B07MQXHWDP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MQXHWDP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

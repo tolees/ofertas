@@ -22,6 +22,9 @@ Ahora mismo tienes [Yoleo - Plegable Negro Negro](https://www.amazon.es/dp/B07D3
 
 [![Yoleo - Plegable Negro Negro](https://images-eu.ssl-images-amazon.com/images/I/316V7zeryML._SL200_.jpg)](https://www.amazon.es/dp/B07D34QV6N/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D34QV6N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

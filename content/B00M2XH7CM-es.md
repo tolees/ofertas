@@ -22,6 +22,9 @@ Tienes [SimonRack SI397 Kit Estantería con 5 Estantes  Azul y blanco  1800 x 90
 
 [![SimonRack SI397 Kit Estantería con 5 Est](https://images-eu.ssl-images-amazon.com/images/I/41X10MosirL._SL200_.jpg)](https://www.amazon.es/dp/B00M2XH7CM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00M2XH7CM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Dockers by Gerli 43fa301  Botas Militar para Mujer  Azul  Hellblau 610   
 
 [![Dockers by Gerli 43fa301  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/4175aDyv2UL._SL200_.jpg)](https://www.amazon.es/dp/B07DJLDLDG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJLDLDG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

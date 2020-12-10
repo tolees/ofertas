@@ -22,6 +22,9 @@ Está [Lámpara de lectura recargable de 15 LED Moobibear  3 Modos de Brillo  C�
 
 [![Lámpara de lectura recargable de 15 LED ](https://images-eu.ssl-images-amazon.com/images/I/41AQk7HQa8L._SL200_.jpg)](https://www.amazon.es/dp/B07GVLXJG6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GVLXJG6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

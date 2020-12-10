@@ -22,6 +22,9 @@ Está [Kappa Speed II  Zapatillas Unisex Adulto  Negro  1110 Black/White   39 EU
 
 [![Kappa Speed II  Zapatillas Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41eDJxMbU8L._SL200_.jpg)](https://www.amazon.es/dp/B015KKQY04/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B015KKQY04/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

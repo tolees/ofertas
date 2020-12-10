@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans London Tom-Cut Med Boot  Botas Clasicas para Homb
 
 [![Pepe Jeans London Tom-Cut Med Boot  Bota](https://images-eu.ssl-images-amazon.com/images/I/41LLTMjjj3L._SL200_.jpg)](https://www.amazon.es/dp/B079Q4PCTF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079Q4PCTF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

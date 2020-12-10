@@ -22,6 +22,9 @@ Está [MTNG 47599  Zapatillas Unisex niño   Nitro Azul/Raspe Marino C42981   39
 
 [![MTNG 47599  Zapatillas Unisex niño   Nit](https://images-eu.ssl-images-amazon.com/images/I/51jau2C5IxL._SL200_.jpg)](https://www.amazon.es/dp/B07F6MLVKP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F6MLVKP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

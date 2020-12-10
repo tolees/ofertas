@@ -22,6 +22,9 @@ Ahora mismo tienes [Tuc Tuc Kimono - Portachupete  niñas](https://www.amazon.es
 
 [![Tuc Tuc Kimono - Portachupete  niñas](https://images-eu.ssl-images-amazon.com/images/I/41RJOJMC%2B8L._SL200_.jpg)](https://www.amazon.es/dp/B00SUEB5JI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00SUEB5JI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

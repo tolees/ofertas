@@ -22,6 +22,9 @@ Ahora mismo tienes [Kärcher Conector para grifo dos vías  2.645-199.0 ](https:
 
 [![Kärcher Conector para grifo dos vías  2.](https://images-eu.ssl-images-amazon.com/images/I/41FmT5iqMwL._SL200_.jpg)](https://www.amazon.es/dp/B00B17IWPQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00B17IWPQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

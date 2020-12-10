@@ -22,6 +22,9 @@ Ahora mismo tienes [Fetish Fantasy Elite Arnés de Doble Deleite Vibrador  Púrp
 
 [![Fetish Fantasy Elite Arnés de Doble Dele](https://images-eu.ssl-images-amazon.com/images/I/31YjAWCElWL._SL200_.jpg)](https://www.amazon.es/dp/B005OSXSV6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B005OSXSV6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

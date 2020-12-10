@@ -22,6 +22,9 @@ Está [Pioneer MVH-S210DAB - Sintonizador RDS y Radio Digital Dab/Dab+  Color Ne
 
 [![Pioneer MVH-S210DAB - Sintonizador RDS y](https://images-eu.ssl-images-amazon.com/images/I/414v8TjiHKL._SL200_.jpg)](https://www.amazon.es/dp/B07H8GPN55/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H8GPN55/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

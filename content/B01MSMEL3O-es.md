@@ -22,6 +22,9 @@ Está [Knorr - Salsa Envase Bechamel Ambiente 500 ml - [Pack de 4]](https://www.
 
 [![Knorr - Salsa Envase Bechamel Ambiente 5](https://images-eu.ssl-images-amazon.com/images/I/51w8k2HGn-L._SL200_.jpg)](https://www.amazon.es/dp/B01MSMEL3O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MSMEL3O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

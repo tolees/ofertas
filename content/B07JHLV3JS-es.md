@@ -22,6 +22,9 @@ Está [Skechers Brendon-seldor  Zapatillas para Hombre  Azul  Blue White Bla   4
 
 [![Skechers Brendon-seldor  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/31tM6X-xRgL._SL200_.jpg)](https://www.amazon.es/dp/B07JHLV3JS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JHLV3JS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

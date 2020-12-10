@@ -22,6 +22,9 @@ Tienes [New Look D-Ring 6034183  Mono Mujer  Negro  Black 1   38  Talla del Fabr
 
 [![New Look D-Ring 6034183  Mono Mujer  Neg](https://images-eu.ssl-images-amazon.com/images/I/31B6iJPEWaL._SL200_.jpg)](https://www.amazon.es/dp/B07L73KCM7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L73KCM7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

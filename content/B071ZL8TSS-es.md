@@ -22,6 +22,9 @@ Está [Under Armour Charged Cotton Qu. Youth Calcetines  Niños  Gris  True Gray
 
 [![Under Armour Charged Cotton Qu. Youth Ca](https://images-eu.ssl-images-amazon.com/images/I/41gVFGiug2L._SL200_.jpg)](https://www.amazon.es/dp/B071ZL8TSS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071ZL8TSS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

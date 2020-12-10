@@ -22,6 +22,9 @@ Tienes [Helly Hansen Daybreaker 1/2 Zip Fleece  Hombre  Azul  Evening Blue   XL]
 
 [![Helly Hansen Daybreaker 1/2 Zip Fleece  ](https://images-eu.ssl-images-amazon.com/images/I/419HPfH6hiL._SL200_.jpg)](https://www.amazon.es/dp/B06XHCSVQN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XHCSVQN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

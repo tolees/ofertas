@@ -22,6 +22,13 @@ Tienes [L Oreal Paris Dermo Expertise Age Perfect Crema de Día  Pieles Maduras 
 
 [![L Oreal Paris Dermo Expertise Age Perfec](https://m.media-amazon.com/images/I/31rahPMvUmL._SL200_.jpg)](https://www.amazon.es/dp/B00G7NSML8/?tag=tolees-21)
 
+Características principales:
+
+- Tensa la malla de la piel y vuelve a remodelar los contornos de la parte inferior del rostro
+- Estimulan las síntesis natural de las fibras de sostén de la piel
+- Fórmula contiene melanin block y filtros uv para reducir las manchas oscuras
+- Cuenta con una acción anti-descolgamiento gracias a los péptidos de soja
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00G7NSML8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

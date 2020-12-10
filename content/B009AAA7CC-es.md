@@ -22,6 +22,9 @@ Está [Samsung Book - Funda Galaxy Tab II  rosa](https://www.amazon.es/dp/B009AA
 
 [![Samsung Book - Funda Galaxy Tab II  rosa](https://images-eu.ssl-images-amazon.com/images/I/410PgIXs3kL._SL200_.jpg)](https://www.amazon.es/dp/B009AAA7CC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B009AAA7CC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

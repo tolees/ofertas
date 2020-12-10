@@ -22,6 +22,9 @@ Ahora mismo tienes [Reloj Inteligente  Elec.BGS Bluetooth Pantalla Táctil Smart
 
 [![Reloj Inteligente  Elec.BGS Bluetooth Pa](https://images-eu.ssl-images-amazon.com/images/I/41Cxib3vHBL._SL200_.jpg)](https://www.amazon.es/dp/B07CTV36F7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CTV36F7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

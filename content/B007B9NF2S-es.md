@@ -22,6 +22,9 @@ Tienes [Toni & Guy 79400204387 acondicionador - acondicionadores  Unisex  No pro
 
 [![Toni & Guy 79400204387 acondicionador - ](https://images-eu.ssl-images-amazon.com/images/I/31yYOrDndoL._SL200_.jpg)](https://www.amazon.es/dp/B007B9NF2S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B007B9NF2S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Varta High Energy 4906 - Baterías  AA 4B  10er Pack ](https://www.amazon
 
 [![Varta High Energy 4906 - Baterías  AA 4B](https://images-eu.ssl-images-amazon.com/images/I/41MpLVw74DL._SL200_.jpg)](https://www.amazon.es/dp/B00MXY34YK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00MXY34YK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

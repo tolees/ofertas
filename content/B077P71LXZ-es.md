@@ -22,6 +22,9 @@ Está [Puma Carson 2 Nature Knit Wn s  Zapatillas de Cross Mujer  Negro  Perisco
 
 [![Puma Carson 2 Nature Knit Wn s  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/51f9wYSAG8L._SL200_.jpg)](https://www.amazon.es/dp/B077P71LXZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077P71LXZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

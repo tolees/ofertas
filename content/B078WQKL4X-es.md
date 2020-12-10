@@ -22,6 +22,9 @@ Está [Samsung EVO m-SATA - Disco Estado Solido SSD  500 GB  550 megabytes/s  Co
 
 [![Samsung EVO m-SATA - Disco Estado Solido](https://images-eu.ssl-images-amazon.com/images/I/41bUUreZbhL._SL200_.jpg)](https://www.amazon.es/dp/B078WQKL4X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078WQKL4X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

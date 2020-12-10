@@ -22,6 +22,9 @@ Tienes [TEMPISH Cronos Patines Ruedas Ajustables En Línea  Unisex niños  Negro
 
 [![TEMPISH Cronos Patines Ruedas Ajustables](https://images-eu.ssl-images-amazon.com/images/I/514VoxHc8%2BL._SL200_.jpg)](https://www.amazon.es/dp/B076P8PCWD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076P8PCWD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

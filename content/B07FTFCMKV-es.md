@@ -22,6 +22,9 @@ Está [SELECTED HOMME Slhstraight-Paris Navy PE. Pants W Noos Pantalones  Azul P
 
 [![SELECTED HOMME Slhstraight-Paris Navy PE](https://images-eu.ssl-images-amazon.com/images/I/31iWZ5zJg2L._SL200_.jpg)](https://www.amazon.es/dp/B07FTFCMKV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTFCMKV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

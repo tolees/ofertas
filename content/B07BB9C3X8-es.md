@@ -22,6 +22,9 @@ Tienes [XLS Detox - Ayuda a eliminar toxinas  al metabolismo de la grasa y favor
 
 [![XLS Detox - Ayuda a eliminar toxinas  al](https://images-eu.ssl-images-amazon.com/images/I/419CwiAuEcL._SL200_.jpg)](https://www.amazon.es/dp/B07BB9C3X8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BB9C3X8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

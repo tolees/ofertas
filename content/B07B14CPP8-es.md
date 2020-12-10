@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Flex Appeal 3.0  Zapatillas para Mujer  Negro  Blac
 
 [![Skechers Flex Appeal 3.0  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41z%2B8K15g8L._SL200_.jpg)](https://www.amazon.es/dp/B07B14CPP8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B14CPP8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

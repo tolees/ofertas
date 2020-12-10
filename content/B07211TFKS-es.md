@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Copa 17.3 Fg  Zapatillas de Fútbol Hombre  Varios Co
 
 [![adidas Copa 17.3 Fg  Zapatillas de Fútbo](https://images-eu.ssl-images-amazon.com/images/I/417t2PNtpDL._SL200_.jpg)](https://www.amazon.es/dp/B07211TFKS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07211TFKS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

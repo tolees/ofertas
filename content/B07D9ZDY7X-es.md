@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Basket Classic Weatherproof  Zapatillas Unisex Adulto  
 
 [![Puma Basket Classic Weatherproof  Zapati](https://images-eu.ssl-images-amazon.com/images/I/41uaYqqB%2BdL._SL200_.jpg)](https://www.amazon.es/dp/B07D9ZDY7X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D9ZDY7X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

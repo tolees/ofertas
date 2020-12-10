@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 415  Zapatillas Deportivas para Interior para Mu
 
 [![New Balance 415  Zapatillas Deportivas p](https://images-eu.ssl-images-amazon.com/images/I/31J9txY5bUL._SL200_.jpg)](https://www.amazon.es/dp/B07BQV2Z8M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BQV2Z8M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

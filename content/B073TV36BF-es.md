@@ -22,6 +22,9 @@ Está [Grabadora voz digital ELEGIANTE 1536Kbps 8 GB pantalla LCD Estéreo Dispo
 
 [![Grabadora voz digital ELEGIANTE 1536Kbps](https://images-eu.ssl-images-amazon.com/images/I/41E3L22FZXL._SL200_.jpg)](https://www.amazon.es/dp/B073TV36BF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073TV36BF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [adidas Yung-1  Zapatillas de Deporte para Hombre  Blanco Blanub/Ftwbla 0
 
 [![adidas Yung-1  Zapatillas de Deporte par](https://images-eu.ssl-images-amazon.com/images/I/31Fsw%2Bw3U5L._SL200_.jpg)](https://www.amazon.es/dp/B07F2XRBXM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2XRBXM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

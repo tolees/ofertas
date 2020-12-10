@@ -22,6 +22,9 @@ Ahora mismo tienes [LESHP Teclado Mecánico Gaming con Disposición Española  r
 
 [![LESHP Teclado Mecánico Gaming con Dispos](https://images-eu.ssl-images-amazon.com/images/I/51G2pzrdZYL._SL200_.jpg)](https://www.amazon.es/dp/B071LHGTFR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071LHGTFR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

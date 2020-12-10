@@ -22,6 +22,9 @@ Tienes [Ringke Onyx Compatible con Funda Galaxy S10 Plus [Extrema Dura] Protecci
 
 [![Ringke Onyx Compatible con Funda Galaxy ](https://images-eu.ssl-images-amazon.com/images/I/41bhnP%2BUVuL._SL200_.jpg)](https://www.amazon.es/dp/B07N8RFLMC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N8RFLMC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

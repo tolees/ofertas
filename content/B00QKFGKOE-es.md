@@ -22,6 +22,9 @@ Tienes [Bladestorm: Nightmare [Importación Inglesa]](https://www.amazon.es/dp/B
 
 [![Bladestorm: Nightmare [Importación Ingle](https://images-eu.ssl-images-amazon.com/images/I/51jX0MReNUL._SL200_.jpg)](https://www.amazon.es/dp/B00QKFGKOE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00QKFGKOE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Asics Aaron GS - Zapatillas de Tiempo Libre y Sportwear para Hombre  Tall
 
 [![Asics Aaron GS - Zapatillas de Tiempo Li](https://images-eu.ssl-images-amazon.com/images/I/41yXK%2BF1m3L._SL200_.jpg)](https://www.amazon.es/dp/B00F1GQDLS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00F1GQDLS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

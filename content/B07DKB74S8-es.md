@@ -22,6 +22,9 @@ Ahora mismo tienes [Kipling - New Shopper S  Bolsos totes Mujer  Multicolor  Dyn
 
 [![Kipling - New Shopper S  Bolsos totes Mu](https://images-eu.ssl-images-amazon.com/images/I/51uknO-o48L._SL200_.jpg)](https://www.amazon.es/dp/B07DKB74S8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DKB74S8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Adidas Altasport CF I  Zapatillas de Gimnasia Unisex bebé  Negro Core Bl
 
 [![Adidas Altasport CF I  Zapatillas de Gim](https://images-eu.ssl-images-amazon.com/images/I/31UmID8nnhL._SL200_.jpg)](https://www.amazon.es/dp/B07JYLLC6Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JYLLC6Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

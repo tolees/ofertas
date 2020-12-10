@@ -22,6 +22,9 @@ Ahora mismo tienes [On-Guard - Candado de llave  talla 18 5 x 1 5 cm](https://ww
 
 [![On-Guard - Candado de llave  talla 18 5 ](https://images-eu.ssl-images-amazon.com/images/I/41svsZazqRL._SL200_.jpg)](https://www.amazon.es/dp/B00AW7P7HW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00AW7P7HW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

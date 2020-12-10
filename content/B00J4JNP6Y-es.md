@@ -22,6 +22,9 @@ Está [Flower 20532 20532-Anti-hormigas granulado  No No aplica  14.5x5.5x14.5 c
 
 [![Flower 20532 20532-Anti-hormigas granula](https://images-eu.ssl-images-amazon.com/images/I/51B5thWjkvL._SL200_.jpg)](https://www.amazon.es/dp/B00J4JNP6Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00J4JNP6Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

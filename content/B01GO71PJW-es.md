@@ -22,6 +22,9 @@ Tienes [Energy Sistem MAX 2+ - Smartphone de 5.5"  Quad Core Arm Cortex A53 1.3 
 
 [![Energy Sistem MAX 2+ - Smartphone de 5.5](https://images-eu.ssl-images-amazon.com/images/I/418qWDuA-RL._SL200_.jpg)](https://www.amazon.es/dp/B01GO71PJW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01GO71PJW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

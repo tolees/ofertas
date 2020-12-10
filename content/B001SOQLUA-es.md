@@ -22,6 +22,9 @@ Está [Cressi Palau SAF Aletas  Unisex  Negro/Amarillo  M-L  41-44 ](https://www
 
 [![Cressi Palau SAF Aletas  Unisex  Negro/A](https://images-eu.ssl-images-amazon.com/images/I/51Sa3L%2BRThL._SL200_.jpg)](https://www.amazon.es/dp/B001SOQLUA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001SOQLUA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

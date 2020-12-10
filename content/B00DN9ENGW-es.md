@@ -22,6 +22,9 @@ Tienes [Compañía de las Indias Té Rojo Soluble- 10 sobres.](https://www.amazo
 
 [![Compañía de las Indias Té Rojo Soluble- ](https://images-eu.ssl-images-amazon.com/images/I/3112LruxazL._SL200_.jpg)](https://www.amazon.es/dp/B00DN9ENGW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DN9ENGW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

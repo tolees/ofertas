@@ -22,6 +22,9 @@ Ahora mismo tienes [San Ignacio Cacerola con Tapa Acero Inoxidable Apta para Ind
 
 [![San Ignacio Cacerola con Tapa Acero Inox](https://images-eu.ssl-images-amazon.com/images/I/413AeN8UrtL._SL200_.jpg)](https://www.amazon.es/dp/B07C57TYR4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C57TYR4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

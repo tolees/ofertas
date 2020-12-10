@@ -22,6 +22,9 @@ Está [Esposas bondage mono para puerta](https://www.amazon.es/dp/B01A9CSRNA/?ta
 
 [![Esposas bondage mono para puerta](https://images-eu.ssl-images-amazon.com/images/I/31ojnnx3%2BrL._SL200_.jpg)](https://www.amazon.es/dp/B01A9CSRNA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01A9CSRNA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

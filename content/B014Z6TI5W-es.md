@@ -22,6 +22,9 @@ Está [G-Star Revend-azul Hombre  Azul  3D Dark Aged   W38/L36](https://www.amaz
 
 [![G-Star Revend-azul Hombre  Azul  3D Dark](https://images-eu.ssl-images-amazon.com/images/I/41lWYB5OH9L._SL200_.jpg)](https://www.amazon.es/dp/B014Z6TI5W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B014Z6TI5W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

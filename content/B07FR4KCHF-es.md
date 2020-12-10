@@ -22,6 +22,9 @@ Ahora mismo tienes [WiMaker Home - Afilador Esencial para Cuchillos de Cocina  M
 
 [![WiMaker Home - Afilador Esencial para Cu](https://images-eu.ssl-images-amazon.com/images/I/41ZsJzs6PRL._SL200_.jpg)](https://www.amazon.es/dp/B07FR4KCHF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FR4KCHF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

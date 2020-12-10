@@ -22,6 +22,9 @@ Ahora mismo tienes [Casals C05109000 Sierra circular 1200 W 230 V  Verde  Acero 
 
 [![Casals C05109000 Sierra circular 1200 W ](https://images-eu.ssl-images-amazon.com/images/I/517hVUsU%2BzL._SL200_.jpg)](https://www.amazon.es/dp/B00TCH5A0C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00TCH5A0C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

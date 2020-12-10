@@ -22,6 +22,9 @@ Está [Dalstrong Carnicería rompiendo Cimitar cuchillo - serie 10" cortadora de
 
 [![Dalstrong Carnicería rompiendo Cimitar c](https://images-eu.ssl-images-amazon.com/images/I/41I4UIz2MHL._SL200_.jpg)](https://www.amazon.es/dp/B076BPHBSM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076BPHBSM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

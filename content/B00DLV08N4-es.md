@@ -22,6 +22,9 @@ Tienes [BESTEK Soporte Tablet Coche Universal para Reposacabezas de Coche Soport
 
 [![BESTEK Soporte Tablet Coche Universal pa](https://images-eu.ssl-images-amazon.com/images/I/41HT9WbqCML._SL200_.jpg)](https://www.amazon.es/dp/B00DLV08N4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DLV08N4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

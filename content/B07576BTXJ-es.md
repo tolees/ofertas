@@ -22,6 +22,9 @@ Está [HOMTOM S8 Teléfono Inteligente 4G Teléfono FDD-LTE Android 7.0 4GB RAM 
 
 [![HOMTOM S8 Teléfono Inteligente 4G Teléfo](https://images-eu.ssl-images-amazon.com/images/I/51%2BArYeH4oL._SL200_.jpg)](https://www.amazon.es/dp/B07576BTXJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07576BTXJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

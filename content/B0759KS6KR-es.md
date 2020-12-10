@@ -22,6 +22,9 @@ Tienes [Clarks Un Haven Strap  Bailarinas para Mujer  Marrón Dark Tan Lea   38 
 
 [![Clarks Un Haven Strap  Bailarinas para M](https://images-eu.ssl-images-amazon.com/images/I/41lhbGia7gL._SL200_.jpg)](https://www.amazon.es/dp/B0759KS6KR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0759KS6KR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

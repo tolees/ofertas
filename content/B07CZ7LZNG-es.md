@@ -22,6 +22,9 @@ Ahora mismo tienes [Lacoste Explorateur Classic3181cac  Zapatillas Unisex Niños
 
 [![Lacoste Explorateur Classic3181cac  Zapa](https://images-eu.ssl-images-amazon.com/images/I/411hUjFotsL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ7LZNG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ7LZNG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Auraglow Super Bright High Visibility Light-Up LED Arm Band Pulsera refle
 
 [![Auraglow Super Bright High Visibility Li](https://images-eu.ssl-images-amazon.com/images/I/41nuIVct%2BiL._SL200_.jpg)](https://www.amazon.es/dp/B01F40W8PK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01F40W8PK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Neewer - Soporte de Brazo de Tijera Ajustable para Micrófono  Estudio d
 
 [![Neewer - Soporte de Brazo de Tijera Ajus](https://images-eu.ssl-images-amazon.com/images/I/41i8vnokzKL._SL200_.jpg)](https://www.amazon.es/dp/B00DY1F2CS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DY1F2CS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

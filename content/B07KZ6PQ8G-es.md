@@ -22,6 +22,9 @@ Tienes [Cortefiel C1Bcc Canutillo Coolmax Pantalones Deportivos  Dorado  Gama To
 
 [![Cortefiel C1Bcc Canutillo Coolmax Pantal](https://images-eu.ssl-images-amazon.com/images/I/31Mb2pOT7vL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ6PQ8G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KZ6PQ8G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

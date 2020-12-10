@@ -22,6 +22,9 @@ Tienes [Kenwood Blend X-Pro Batidora  30.000 RPM  Vaso de Tritan  tecnología He
 
 [![Kenwood Blend X-Pro Batidora  30.000 RPM](https://images-eu.ssl-images-amazon.com/images/I/41PhGrrQArL._SL200_.jpg)](https://www.amazon.es/dp/B01KPT83EK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01KPT83EK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

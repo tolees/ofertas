@@ -22,6 +22,9 @@ Ahora mismo tienes [ALLPOWERS 2 Piezas 2.5W 5V/500mAh Mini Encapsulado Panel Sol
 
 [![ALLPOWERS 2 Piezas 2.5W 5V/500mAh Mini E](https://images-eu.ssl-images-amazon.com/images/I/51Qv%2BuFn6JL._SL200_.jpg)](https://www.amazon.es/dp/B073XKPWY7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073XKPWY7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

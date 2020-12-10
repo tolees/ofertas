@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Zeta Suede  Zapatillas Unisex Adulto  Gris  Glacier Gra
 
 [![Puma Zeta Suede  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/413mL5PFSJL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1WPTW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC1WPTW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [G-STAR RAW Suzaki R Knit L/s suéter   Dk Saru Blue/Ivory 7231   Large pa
 
 [![G-STAR RAW Suzaki R Knit L/s suéter   Dk](https://images-eu.ssl-images-amazon.com/images/I/51zoyRIrrIL._SL200_.jpg)](https://www.amazon.es/dp/B0752WG5SL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0752WG5SL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

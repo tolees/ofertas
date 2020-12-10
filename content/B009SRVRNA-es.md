@@ -22,6 +22,9 @@ Tienes [Centenario 9 Years Old Commemorative Rum - 700 ml](https://www.amazon.es
 
 [![Centenario 9 Years Old Commemorative Rum](https://images-eu.ssl-images-amazon.com/images/I/51KG-NFA5nL._SL200_.jpg)](https://www.amazon.es/dp/B009SRVRNA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B009SRVRNA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

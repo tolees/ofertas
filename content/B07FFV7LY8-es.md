@@ -22,6 +22,9 @@ Está [SYROKAN - Pantalones Mallas Deportivas Fitness Para Mujer  corte de 3/4  
 
 [![SYROKAN - Pantalones Mallas Deportivas F](https://images-eu.ssl-images-amazon.com/images/I/41MkTBbStDL._SL200_.jpg)](https://www.amazon.es/dp/B07FFV7LY8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FFV7LY8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

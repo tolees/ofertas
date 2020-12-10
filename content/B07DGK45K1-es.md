@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes Tonik TX Se  Zapatillas de Skateboard para Hombre  
 
 [![DC Shoes Tonik TX Se  Zapatillas de Skat](https://images-eu.ssl-images-amazon.com/images/I/41PChIKjGkL._SL200_.jpg)](https://www.amazon.es/dp/B07DGK45K1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DGK45K1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

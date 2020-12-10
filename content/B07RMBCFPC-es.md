@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko Pop! TV: Game of Thrones - Crystal al 34.85 % de descuento'
-date: 2020-12-03 19:08:00
+title: 'Funko Pop! TV: Game of Thrones - Crystal al 35.59 % de descuento'
+date: 2020-12-10 21:30:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/315WLTVhq2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315WLTVhq2L._SL200_.jpg' ]
 comments: true
@@ -9,18 +9,25 @@ category: ofertas
 author: ring
 slug: 'B07RMBCFPC-es'
 description:
-actualPrice: 9.74 EUR
+actualPrice: 9.63 EUR
 currency: EUR
-price: 9.74
+price: 9.63
 comparePrice: 14.95 EUR
 inStock: true
 prodname: 'Funko Pop! TV: Game of Thrones - Crystal Night King w/Dagger in Chest  Multicolor  Estándar'
 country: 'es'
 ---
 
-Está [Funko Pop! TV: Game of Thrones - Crystal Night King w/Dagger in Chest  Multicolor  Estándar](https://www.amazon.es/dp/B07RMBCFPC/?tag=tolees-21) con 34.85 de descuento por 9.74 EUR (original: 14.95 EUR) en el siguiente enlace!
+Está [Funko Pop! TV: Game of Thrones - Crystal Night King w/Dagger in Chest  Multicolor  Estándar](https://www.amazon.es/dp/B07RMBCFPC/?tag=tolees-21) con 35.59 de descuento por 9.63 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![Funko Pop! TV: Game of Thrones - Crystal](https://m.media-amazon.com/images/I/315WLTVhq2L._SL200_.jpg)](https://www.amazon.es/dp/B07RMBCFPC/?tag=tolees-21)
+
+Principales características:
+
+- El artículo es adecuado para todos los fanáticos de Game of Thrones
+- El producto se envía en una caja ilustrada con ventana
+- Figura de colección de la marca Funko
+- Recomendado para niños a partir de 3 años
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RMBCFPC/?tag=tolees-21)
 

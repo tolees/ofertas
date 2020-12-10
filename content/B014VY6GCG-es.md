@@ -22,6 +22,9 @@ Ahora mismo tienes [HP LaserJet Pro M402Dn - Impresora  A4  38 ppm  Duplex  USB 
 
 [![HP LaserJet Pro M402Dn - Impresora  A4  ](https://images-eu.ssl-images-amazon.com/images/I/31EPd2h8-xL._SL200_.jpg)](https://www.amazon.es/dp/B014VY6GCG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B014VY6GCG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

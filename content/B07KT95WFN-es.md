@@ -22,6 +22,9 @@ Tienes [Saucony Freedom ISO - Zapatillas de Fitness para Hombre  Hombre  20440/3
 
 [![Saucony Freedom ISO - Zapatillas de Fitn](https://images-eu.ssl-images-amazon.com/images/I/318Y9fPCuqL._SL200_.jpg)](https://www.amazon.es/dp/B07KT95WFN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KT95WFN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

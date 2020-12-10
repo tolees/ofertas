@@ -22,6 +22,9 @@ Está [G-Star Raw 3301 Straight  Jeans Dritto Uomo  Blu  rinsed 7209-082   W32/L
 
 [![G-Star Raw 3301 Straight  Jeans Dritto U](https://images-eu.ssl-images-amazon.com/images/I/41SWHPgJPFL._SL200_.jpg)](https://www.amazon.es/dp/B07BJHRT18/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJHRT18/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

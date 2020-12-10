@@ -22,6 +22,9 @@ Ahora mismo tienes [Relec Pulsera Repelente Antimosquitos Superhéroes Superman 
 
 [![Relec Pulsera Repelente Antimosquitos Su](https://images-eu.ssl-images-amazon.com/images/I/51gcNpPRkqL._SL200_.jpg)](https://www.amazon.es/dp/B07B44J5KK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B44J5KK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

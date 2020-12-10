@@ -22,6 +22,9 @@ Está [Women s Secret MST Micro SLK SB  Sujetador básico para Mujer  Marrón  B
 
 [![Women s Secret MST Micro SLK SB  Sujetad](https://images-eu.ssl-images-amazon.com/images/I/41Rik3ufUkL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ95BQ1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ95BQ1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Nike Dualtone Racer PRM  Zapatillas de Deporte para Hombre   Blue Force/
 
 [![Nike Dualtone Racer PRM  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41Ek3ACqvdL._SL200_.jpg)](https://www.amazon.es/dp/B078RRWNVY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078RRWNVY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

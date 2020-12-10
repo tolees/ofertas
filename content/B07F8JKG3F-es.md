@@ -22,6 +22,9 @@ Tienes [HOMCOM Set Fútbol Sobremesa Juego Mesa de Fútbol con Jugadores Móvile
 
 [![HOMCOM Set Fútbol Sobremesa Juego Mesa d](https://images-eu.ssl-images-amazon.com/images/I/41QcvOA%2BKBL._SL200_.jpg)](https://www.amazon.es/dp/B07F8JKG3F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F8JKG3F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

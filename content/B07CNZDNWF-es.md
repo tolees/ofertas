@@ -22,6 +22,9 @@ Está [AVerMedia Sonicwave - Auriculares con micrófono  Color Negro](https://ww
 
 [![AVerMedia Sonicwave - Auriculares con mi](https://images-eu.ssl-images-amazon.com/images/I/41S9DZD0zML._SL200_.jpg)](https://www.amazon.es/dp/B07CNZDNWF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CNZDNWF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

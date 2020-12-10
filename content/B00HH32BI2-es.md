@@ -22,6 +22,9 @@ Está [Rotulador STABILO Pen 68 - Estuche premium Zebrui con 20 colores](https:/
 
 [![Rotulador STABILO Pen 68 - Estuche premi](https://images-eu.ssl-images-amazon.com/images/I/41CoK3g9XTL._SL200_.jpg)](https://www.amazon.es/dp/B00HH32BI2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00HH32BI2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

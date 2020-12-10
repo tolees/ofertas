@@ -22,6 +22,9 @@ Está [Festina Tour de Inglaterra edición 2015 F16874/F Reloj de Cuarzo para Ho
 
 [![Festina Tour de Inglaterra edición 2015 ](https://images-eu.ssl-images-amazon.com/images/I/41ZWdeXjzqL._SL200_.jpg)](https://www.amazon.es/dp/B0148NGKIU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0148NGKIU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

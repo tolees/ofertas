@@ -22,6 +22,9 @@ Está [Puma Future Flare Ball Balón de Fútbol  Unisex Adulto  Red Blast/Bleu A
 
 [![Puma Future Flare Ball Balón de Fútbol  ](https://images-eu.ssl-images-amazon.com/images/I/51Yva-NWIsL._SL200_.jpg)](https://www.amazon.es/dp/B07JH1F89F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JH1F89F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

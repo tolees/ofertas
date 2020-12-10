@@ -22,6 +22,9 @@ Ahora mismo tienes [Bombay - Ginebra - 70 cl](https://www.amazon.es/dp/B00XDO8LM
 
 [![Bombay - Ginebra - 70 cl](https://images-eu.ssl-images-amazon.com/images/I/41D17vmkLyL._SL200_.jpg)](https://www.amazon.es/dp/B00XDO8LMY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00XDO8LMY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

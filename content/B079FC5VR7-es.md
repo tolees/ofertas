@@ -22,6 +22,9 @@ Está [Tristar VS-3915 – Olla de cocción lenta  recipiente cerámico de 3 5 
 
 [![Tristar VS-3915 – Olla de cocción lenta ](https://images-eu.ssl-images-amazon.com/images/I/41NfZftUl1L._SL200_.jpg)](https://www.amazon.es/dp/B079FC5VR7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079FC5VR7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

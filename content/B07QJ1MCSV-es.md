@@ -22,6 +22,9 @@ Ahora mismo tienes [New Look Cosy Shirt Mono  Negro  Black 1   42  Talla del Fab
 
 [![New Look Cosy Shirt Mono  Negro  Black 1](https://images-eu.ssl-images-amazon.com/images/I/31j9t8pX1XL._SL200_.jpg)](https://www.amazon.es/dp/B07QJ1MCSV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07QJ1MCSV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

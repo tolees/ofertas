@@ -22,6 +22,9 @@ Está [Napapijri Moto Stretch S2 Pantalones  Gris  Lt Grey Solid 797   34 para H
 
 [![Napapijri Moto Stretch S2 Pantalones  Gr](https://images-eu.ssl-images-amazon.com/images/I/312VxM-ndgL._SL200_.jpg)](https://www.amazon.es/dp/B07LBMWPKL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBMWPKL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

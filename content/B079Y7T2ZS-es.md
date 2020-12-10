@@ -22,6 +22,9 @@ Está [Sacacorchos Eléctrico Recargable Abridor de vino Inalámbrico con luz in
 
 [![Sacacorchos Eléctrico Recargable Abridor](https://images-eu.ssl-images-amazon.com/images/I/51p8MtDWbgL._SL200_.jpg)](https://www.amazon.es/dp/B079Y7T2ZS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079Y7T2ZS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Proficook SM 1094 - Batidora de mano semiprofesional](https:
 
 [![Proficook SM 1094 - Batidora de mano sem](https://images-eu.ssl-images-amazon.com/images/I/31%2B5WUrxfkL._SL200_.jpg)](https://www.amazon.es/dp/B0155GEROI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0155GEROI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

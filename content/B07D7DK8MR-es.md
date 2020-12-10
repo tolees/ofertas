@@ -22,6 +22,9 @@ Está [DANISH ENDURANCE Bandas Elásticas de Resistencia  3 Unidades  Rosado  Ro
 
 [![DANISH ENDURANCE Bandas Elásticas de Res](https://images-eu.ssl-images-amazon.com/images/I/51yEQKeCRCL._SL200_.jpg)](https://www.amazon.es/dp/B07D7DK8MR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D7DK8MR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

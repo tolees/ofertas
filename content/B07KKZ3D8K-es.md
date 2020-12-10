@@ -22,6 +22,9 @@ Tienes [adidas Sport Performance Gym Sack  Unisex Adulto  Real Magenta/White  Ta
 
 [![adidas Sport Performance Gym Sack  Unise](https://images-eu.ssl-images-amazon.com/images/I/41uIpjKFEnL._SL200_.jpg)](https://www.amazon.es/dp/B07KKZ3D8K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KKZ3D8K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

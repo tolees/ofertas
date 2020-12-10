@@ -22,6 +22,9 @@ Ahora mismo tienes [Armani Exchange - Round Zip Wallet  Carteras Mujer  Rojo  Re
 
 [![Armani Exchange - Round Zip Wallet  Cart](https://images-eu.ssl-images-amazon.com/images/I/51UngrTNohL._SL200_.jpg)](https://www.amazon.es/dp/B07F1ZVDFS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F1ZVDFS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

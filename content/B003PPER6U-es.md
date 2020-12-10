@@ -22,6 +22,9 @@ Tienes [Ambiance Nature 507098 - Escurreplatos de bambú](https://www.amazon.es/
 
 [![Ambiance Nature 507098 - Escurreplatos d](https://images-eu.ssl-images-amazon.com/images/I/41mno6lwDJL._SL200_.jpg)](https://www.amazon.es/dp/B003PPER6U/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003PPER6U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

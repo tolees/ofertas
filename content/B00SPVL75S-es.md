@@ -22,6 +22,9 @@ Tienes [Gre ET1200 - Escalera standard tipo tijera para piscina de altura 120cm]
 
 [![Gre ET1200 - Escalera standard tipo tije]()](https://www.amazon.es/dp/B00SPVL75S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SPVL75S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

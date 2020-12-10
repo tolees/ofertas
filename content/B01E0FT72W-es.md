@@ -22,6 +22,9 @@ Está [Garmin Zumo 345 LM Western - Navegador GPS con mapas por vida  pantalla d
 
 [![Garmin Zumo 345 LM Western - Navegador G](https://images-eu.ssl-images-amazon.com/images/I/518BOeUI3GL._SL200_.jpg)](https://www.amazon.es/dp/B01E0FT72W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01E0FT72W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Mochila Plegable Mochila Compacta Ligera Resistente al Agua Para Viajes C
 
 [![Mochila Plegable Mochila Compacta Ligera](https://images-eu.ssl-images-amazon.com/images/I/5196d1SUYEL._SL200_.jpg)](https://www.amazon.es/dp/B078Z8RQT8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078Z8RQT8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

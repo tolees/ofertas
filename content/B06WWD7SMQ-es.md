@@ -22,6 +22,9 @@ Está [Funko - POP! Bobble Colección Spider-man - Figura Spider-Man  13317 ](ht
 
 [![Funko - POP! Bobble Colección Spider-man](https://images-eu.ssl-images-amazon.com/images/I/41o1H8FqHrL._SL200_.jpg)](https://www.amazon.es/dp/B06WWD7SMQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06WWD7SMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

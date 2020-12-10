@@ -22,6 +22,9 @@ Está [Esprit Accessoires 108ea1s005  Cinturón Mujer  Rojo  Plum Red 605   95  
 
 [![Esprit Accessoires 108ea1s005  Cinturón ](https://images-eu.ssl-images-amazon.com/images/I/41IqQjCKXDL._SL200_.jpg)](https://www.amazon.es/dp/B07HFP6HRJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HFP6HRJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

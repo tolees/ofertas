@@ -22,6 +22,9 @@ Tienes [Cybex - Silla de coche grupo 2/3 Solution S-fix  para coches con y sin I
 
 [![Cybex - Silla de coche grupo 2/3 Solutio](https://images-eu.ssl-images-amazon.com/images/I/41fcBs6KfgL._SL200_.jpg)](https://www.amazon.es/dp/B077THVT85/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077THVT85/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

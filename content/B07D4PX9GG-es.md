@@ -22,6 +22,9 @@ Ahora mismo tienes [Gliss Long&Sublime by @mypeeptoes  1 pack ](https://www.amaz
 
 [![Gliss Long&Sublime by @mypeeptoes  1 pac](https://images-eu.ssl-images-amazon.com/images/I/51sA57EXtXL._SL200_.jpg)](https://www.amazon.es/dp/B07D4PX9GG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D4PX9GG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

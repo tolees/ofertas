@@ -22,6 +22,9 @@ Está [Sennheiser Momentum 2.0 ON-Ear Wireless - Auriculares de Diadema Cerrados
 
 [![Sennheiser Momentum 2.0 ON-Ear Wireless ](https://images-eu.ssl-images-amazon.com/images/I/41EEP7Fyf4L._SL200_.jpg)](https://www.amazon.es/dp/B00TKH1AQC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00TKH1AQC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

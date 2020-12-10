@@ -22,6 +22,9 @@ Está [Columbia Irvington LTR Chukka WP  Botas Hombre  Marrón  Cinnamon/Maple  
 
 [![Columbia Irvington LTR Chukka WP  Botas ](https://images-eu.ssl-images-amazon.com/images/I/415MAoS9yRL._SL200_.jpg)](https://www.amazon.es/dp/B01MRXXCGK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MRXXCGK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

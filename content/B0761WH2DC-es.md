@@ -22,6 +22,9 @@ Está [Laimew no perfora el estante del baño  estante de ducha pegajoso de alum
 
 [![Laimew no perfora el estante del baño  e](https://images-eu.ssl-images-amazon.com/images/I/31x10jtIIfL._SL200_.jpg)](https://www.amazon.es/dp/B0761WH2DC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0761WH2DC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

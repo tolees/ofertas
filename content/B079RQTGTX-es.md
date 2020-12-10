@@ -22,6 +22,9 @@ Está [Pepe Jeans Monument Suéter  Azul  Deep Sea 597   S para Hombre](https://
 
 [![Pepe Jeans Monument Suéter  Azul  Deep S](https://images-eu.ssl-images-amazon.com/images/I/31y-pBoTCGL._SL200_.jpg)](https://www.amazon.es/dp/B079RQTGTX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RQTGTX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

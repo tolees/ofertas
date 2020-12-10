@@ -22,6 +22,9 @@ Está [Springfield 593826 Bañador  Gama Verdes 28  M  Tamaño del Fabricante:M 
 
 [![Springfield 593826 Bañador  Gama Verdes ](https://images-eu.ssl-images-amazon.com/images/I/41eTQgvcTML._SL200_.jpg)](https://www.amazon.es/dp/B078H4HVJS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078H4HVJS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

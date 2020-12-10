@@ -22,6 +22,9 @@ Está [Adidas Run70S K  Zapatillas Unisex Niños  Morado  Real Magenta/Footwear 
 
 [![Adidas Run70S K  Zapatillas Unisex Niños](https://images-eu.ssl-images-amazon.com/images/I/511e%2BtFyaJL._SL200_.jpg)](https://www.amazon.es/dp/B07DFWML9V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFWML9V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [HP ProBook 430 G5 - Ordenador Portátil Profesional 13.3" HD  Intel Core 
 
 [![HP ProBook 430 G5 - Ordenador Portátil P](https://images-eu.ssl-images-amazon.com/images/I/41ftdysDqVL._SL200_.jpg)](https://www.amazon.es/dp/B07BPBPVCZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BPBPVCZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Only & Sons Onsfiske Sweat Pants Brushed Noos Pantalones  Gris  Light Gr
 
 [![Only & Sons Onsfiske Sweat Pants Brushed](https://images-eu.ssl-images-amazon.com/images/I/41uXNhNi%2BtL._SL200_.jpg)](https://www.amazon.es/dp/B072MVJZ81/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072MVJZ81/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

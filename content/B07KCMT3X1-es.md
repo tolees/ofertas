@@ -22,6 +22,9 @@ Ahora mismo tienes [David Jones - 5964-1  Bolsos bandolera Mujer  Rosa  Pink   8
 
 [![David Jones - 5964-1  Bolsos bandolera M](https://images-eu.ssl-images-amazon.com/images/I/41P1%2BiAszNL._SL200_.jpg)](https://www.amazon.es/dp/B07KCMT3X1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KCMT3X1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

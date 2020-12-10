@@ -22,6 +22,9 @@ Tienes [Kappa Hover  Zapatillas para Mujer  Blanco  White/Black 1011   37 EU](ht
 
 [![Kappa Hover  Zapatillas para Mujer  Blan](https://images-eu.ssl-images-amazon.com/images/I/41YKN6LlGzL._SL200_.jpg)](https://www.amazon.es/dp/B07D4T9D1Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D4T9D1Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

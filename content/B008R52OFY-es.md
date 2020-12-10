@@ -22,6 +22,9 @@ Tienes [Umbra 330590-505 Escurreplatos Tub Rojo](https://www.amazon.es/dp/B008R5
 
 [![Umbra 330590-505 Escurreplatos Tub Rojo](https://images-eu.ssl-images-amazon.com/images/I/41DhdpLRADL._SL200_.jpg)](https://www.amazon.es/dp/B008R52OFY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B008R52OFY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

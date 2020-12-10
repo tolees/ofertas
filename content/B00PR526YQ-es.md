@@ -22,6 +22,9 @@ Está [rOtring Tikky - Rotulador roller de punta fina  azul  caja de 12](https:/
 
 [![rOtring Tikky - Rotulador roller de punt](https://images-eu.ssl-images-amazon.com/images/I/41YHQAuddxL._SL200_.jpg)](https://www.amazon.es/dp/B00PR526YQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00PR526YQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

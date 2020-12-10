@@ -22,6 +22,9 @@ Está [Pro-Dg KM-37990 2018 Mochila Infantil  40 cm](https://www.amazon.es/dp/B0
 
 [![Pro-Dg KM-37990 2018 Mochila Infantil  4](https://images-eu.ssl-images-amazon.com/images/I/51JPWEgPKoL._SL200_.jpg)](https://www.amazon.es/dp/B07D48LPQJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D48LPQJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

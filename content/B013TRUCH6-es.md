@@ -22,6 +22,9 @@ Está [Marvel Figura de Vinilo Holiday Dancing Groot  colección Guardians of Th
 
 [![Marvel Figura de Vinilo Holiday Dancing ](https://images-eu.ssl-images-amazon.com/images/I/41Eb2Pw7vzL._SL200_.jpg)](https://www.amazon.es/dp/B013TRUCH6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B013TRUCH6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

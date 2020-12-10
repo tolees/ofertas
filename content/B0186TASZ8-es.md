@@ -22,6 +22,9 @@ Ahora mismo tienes [Philips PHICE233 - Radio para Coche  Color Negro](https://ww
 
 [![Philips PHICE233 - Radio para Coche  Col](https://images-eu.ssl-images-amazon.com/images/I/41JJQfsA6YL._SL200_.jpg)](https://www.amazon.es/dp/B0186TASZ8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0186TASZ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

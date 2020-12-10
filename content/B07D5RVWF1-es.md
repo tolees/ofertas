@@ -22,6 +22,9 @@ Está [Puma ESS Logo Pants  Mujer  Gris  Light Gray Heather   L](https://www.ama
 
 [![Puma ESS Logo Pants  Mujer  Gris  Light ](https://images-eu.ssl-images-amazon.com/images/I/41mCpDw-OmL._SL200_.jpg)](https://www.amazon.es/dp/B07D5RVWF1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D5RVWF1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

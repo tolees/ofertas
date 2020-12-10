@@ -22,6 +22,9 @@ Tienes [Cepillo de dientes eléctrico KAMLE JB-2 Cepillo dientes eléctrico reca
 
 [![Cepillo de dientes eléctrico KAMLE JB-2 ](https://images-eu.ssl-images-amazon.com/images/I/41L-W4WyYbL._SL200_.jpg)](https://www.amazon.es/dp/B07DZVY7H7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DZVY7H7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

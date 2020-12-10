@@ -22,6 +22,9 @@ Está [Vans Old Skool  Zapatillas de Skateboarding para Mujer  Negro  Licorice B
 
 [![Vans Old Skool  Zapatillas de Skateboard](https://images-eu.ssl-images-amazon.com/images/I/41p3tEQ1r9L._SL200_.jpg)](https://www.amazon.es/dp/B074HF6LD8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074HF6LD8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

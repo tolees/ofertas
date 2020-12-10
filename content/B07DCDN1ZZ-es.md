@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike W Internationalist Heat  Zapatillas de Gimnasia para Mu
 
 [![Nike W Internationalist Heat  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41XommRo5ML._SL200_.jpg)](https://www.amazon.es/dp/B07DCDN1ZZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DCDN1ZZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

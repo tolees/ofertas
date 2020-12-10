@@ -22,6 +22,9 @@ Está [CNASA for iRobot Roomba de la Serie 800 y 900 con 2 Juegos de extractores
 
 [![CNASA for iRobot Roomba de la Serie 800 ](https://images-eu.ssl-images-amazon.com/images/I/51fgmYghUXL._SL200_.jpg)](https://www.amazon.es/dp/B078HD2GL8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078HD2GL8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

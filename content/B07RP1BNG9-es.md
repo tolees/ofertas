@@ -22,6 +22,12 @@ Ahora mismo tienes [Ghost Recon - Figura Nomad Breakpoint](https://www.amazon.es
 
 [![Ghost Recon - Figura Nomad Breakpoint](https://m.media-amazon.com/images/I/61q2obwvMWL._SL200_.jpg)](https://www.amazon.es/dp/B07RP1BNG9/?tag=tolees-21)
 
+Características:
+
+- Material: PVC
+- Height: 23 cm
+- Detailed holster, handgun, bag pack & rifle
+
 [Visítala!!!](https://www.amazon.es/dp/B07RP1BNG9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

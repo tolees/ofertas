@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Sport 3P - Calcetines unisex  Gris  43-46](https://www.
 
 [![Puma Sport 3P - Calcetines unisex  Gris ](https://images-eu.ssl-images-amazon.com/images/I/51Az7KP8zGL._SL200_.jpg)](https://www.amazon.es/dp/B0013F7ETG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0013F7ETG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

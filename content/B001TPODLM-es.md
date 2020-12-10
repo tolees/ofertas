@@ -22,6 +22,9 @@ Está [Einhell BT-GG 200P - Pistola de pegamento  12W  230V  200g ](https://www.
 
 [![Einhell BT-GG 200P - Pistola de pegament](https://images-eu.ssl-images-amazon.com/images/I/41CqH7O9c6L._SL200_.jpg)](https://www.amazon.es/dp/B001TPODLM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001TPODLM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

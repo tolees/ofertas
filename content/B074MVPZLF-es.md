@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Print Lite Rush  Zapatillas de Trail Running para Hom
 
 [![Reebok Print Lite Rush  Zapatillas de Tr](https://images-eu.ssl-images-amazon.com/images/I/41X5ocBjPVL._SL200_.jpg)](https://www.amazon.es/dp/B074MVPZLF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074MVPZLF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

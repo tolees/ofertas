@@ -22,6 +22,9 @@ Está [MSDJK Pulsera Actividad  IP 67 Pulsera Impermeable  perseguidor Actividad
 
 [![MSDJK Pulsera Actividad  IP 67 Pulsera I](https://images-eu.ssl-images-amazon.com/images/I/51RExx8HaYL._SL200_.jpg)](https://www.amazon.es/dp/B07FBJJFCW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FBJJFCW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

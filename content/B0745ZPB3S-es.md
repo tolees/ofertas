@@ -22,6 +22,9 @@ Está [MSI Clutch GM60 - Ratón  Ambidextro  Óptico  USB  10800 dpi  0 33 ms  N
 
 [![MSI Clutch GM60 - Ratón  Ambidextro  Ópt](https://images-eu.ssl-images-amazon.com/images/I/41oIddpiNhL._SL200_.jpg)](https://www.amazon.es/dp/B0745ZPB3S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0745ZPB3S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

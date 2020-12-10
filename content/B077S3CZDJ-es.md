@@ -22,6 +22,9 @@ Ahora mismo tienes [TrendVital Carbón Activado Para Blanqueamiento Dental 50 gr
 
 [![TrendVital Carbón Activado Para Blanquea](https://images-eu.ssl-images-amazon.com/images/I/51QYR5KofML._SL200_.jpg)](https://www.amazon.es/dp/B077S3CZDJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077S3CZDJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

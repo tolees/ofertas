@@ -22,6 +22,9 @@ Ahora mismo tienes [Munich BARRU Sky  Zapatillas Unisex Adulto   Rosa 12   36 EU
 
 [![Munich BARRU Sky  Zapatillas Unisex Adul](https://images-eu.ssl-images-amazon.com/images/I/415mBQAWVDL._SL200_.jpg)](https://www.amazon.es/dp/B07N3C94ZY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07N3C94ZY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

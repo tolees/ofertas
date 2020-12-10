@@ -22,6 +22,9 @@ Tienes [Excelvan Cafetera Espresso 1.25L  15 Bares con Embudo de Metal Removible
 
 [![Excelvan Cafetera Espresso 1.25L  15 Bar](https://images-eu.ssl-images-amazon.com/images/I/41i8jIyR4PL._SL200_.jpg)](https://www.amazon.es/dp/B07GNCGP8L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GNCGP8L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

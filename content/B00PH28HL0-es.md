@@ -22,6 +22,9 @@ Está [Sector Expander Reloj de Cuarzo para Hombre con Correa de Nailon – REDH
 
 [![Sector Expander Reloj de Cuarzo para Hom](https://images-eu.ssl-images-amazon.com/images/I/41vRg%2BbgByL._SL200_.jpg)](https://www.amazon.es/dp/B00PH28HL0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00PH28HL0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [adidas Nemeziz 18.3 In  Zapatillas de Fútbol para Hombre  Amarillo Sola
 
 [![adidas Nemeziz 18.3 In  Zapatillas de Fú](https://images-eu.ssl-images-amazon.com/images/I/31KrKJuGU5L._SL200_.jpg)](https://www.amazon.es/dp/B07JQTKY5N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JQTKY5N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

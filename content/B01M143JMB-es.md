@@ -22,6 +22,9 @@ Tienes [Paranix Protect. Tratamiento Preventivo para Piojos y Liendres - Sin ins
 
 [![Paranix Protect. Tratamiento Preventivo ](https://images-eu.ssl-images-amazon.com/images/I/51KWZl71DBL._SL200_.jpg)](https://www.amazon.es/dp/B01M143JMB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M143JMB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Chatham Faraday  Náuticos para Hombre  Azul  Aquamarine 001   41 EU](htt
 
 [![Chatham Faraday  Náuticos para Hombre  A](https://images-eu.ssl-images-amazon.com/images/I/31793YRc55L._SL200_.jpg)](https://www.amazon.es/dp/B07HN93PMR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HN93PMR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

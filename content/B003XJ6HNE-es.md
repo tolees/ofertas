@@ -22,6 +22,9 @@ Tienes [Steelite FW80 Calzado de Protección  Color Blanco  Talla 46 EU  11 UK ]
 
 [![Steelite FW80 Calzado de Protección  Col](https://images-eu.ssl-images-amazon.com/images/I/31TkV8%2BHmZL._SL200_.jpg)](https://www.amazon.es/dp/B003XJ6HNE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003XJ6HNE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

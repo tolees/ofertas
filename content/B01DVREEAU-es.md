@@ -22,6 +22,9 @@ Está [Sway Vibes Dispositivo de Masaje Terapéutico  Color Violeta - 1 Unidad](
 
 [![Sway Vibes Dispositivo de Masaje Terapéu](https://images-eu.ssl-images-amazon.com/images/I/31Xt7SVMoLL._SL200_.jpg)](https://www.amazon.es/dp/B01DVREEAU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DVREEAU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

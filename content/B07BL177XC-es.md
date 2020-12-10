@@ -22,6 +22,9 @@ Está [New Balance Fresh Foam Rise  Zapatillas de Running para Hombre  Azul Blue
 
 [![New Balance Fresh Foam Rise  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/417Wjs5rpFL._SL200_.jpg)](https://www.amazon.es/dp/B07BL177XC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BL177XC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

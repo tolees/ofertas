@@ -22,6 +22,9 @@ Tienes [OCYCLONE Fundas Samsung Galaxy S9 Plus Púrpura Purpurina Brillante Fund
 
 [![OCYCLONE Fundas Samsung Galaxy S9 Plus P](https://images-eu.ssl-images-amazon.com/images/I/619eE2gNyRL._SL200_.jpg)](https://www.amazon.es/dp/B07C9Z2CYY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C9Z2CYY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

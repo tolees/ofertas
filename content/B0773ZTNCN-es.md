@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Superstar  Zapatillas de Gimnasia para Mujer  Blanco 
 
 [![adidas Superstar  Zapatillas de Gimnasia](https://images-eu.ssl-images-amazon.com/images/I/41kopt-4BoL._SL200_.jpg)](https://www.amazon.es/dp/B0773ZTNCN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0773ZTNCN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

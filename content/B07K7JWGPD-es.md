@@ -22,6 +22,9 @@ Ahora mismo tienes [Smartick 3D Album de Fotos](https://www.amazon.es/dp/B07K7JW
 
 [![Smartick 3D Album de Fotos](https://images-eu.ssl-images-amazon.com/images/I/51R0X%2Blw7VL._SL200_.jpg)](https://www.amazon.es/dp/B07K7JWGPD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K7JWGPD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

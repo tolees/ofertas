@@ -22,6 +22,9 @@ Está [Under Armour Zinger Short Sleeve Polo  Mujer  Azul Academy 408  S](https:
 
 [![Under Armour Zinger Short Sleeve Polo  M](https://images-eu.ssl-images-amazon.com/images/I/4170zWlWLmL._SL200_.jpg)](https://www.amazon.es/dp/B07CZBVCVQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZBVCVQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

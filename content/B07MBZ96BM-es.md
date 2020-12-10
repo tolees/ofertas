@@ -22,6 +22,9 @@ Está [MSI GT75 Titan 8SG-017ES - Ordenador portátil Gaming 17.3" FullHD 144Hz 
 
 [![MSI GT75 Titan 8SG-017ES - Ordenador por](https://images-eu.ssl-images-amazon.com/images/I/31Tj%2ByhqmtL._SL200_.jpg)](https://www.amazon.es/dp/B07MBZ96BM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MBZ96BM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

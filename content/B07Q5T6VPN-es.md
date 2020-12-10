@@ -22,6 +22,9 @@ Tienes [smartect Protector de Pantalla para Huawei P Smart 2019 [2 Unidades] - 9
 
 [![smartect Protector de Pantalla para Huaw](https://images-eu.ssl-images-amazon.com/images/I/4157i-S8QQL._SL200_.jpg)](https://www.amazon.es/dp/B07Q5T6VPN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Q5T6VPN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

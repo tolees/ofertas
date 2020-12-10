@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjecontrast Stripe Polo SS Noos  Hombre  Verde 
 
 [![JACK & JONES Jjecontrast Stripe Polo SS ](https://images-eu.ssl-images-amazon.com/images/I/41%2B5Q2L9JCL._SL200_.jpg)](https://www.amazon.es/dp/B079C4YGGR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079C4YGGR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

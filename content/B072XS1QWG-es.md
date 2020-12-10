@@ -22,6 +22,11 @@ Está [Jack & Jones Jacdna Knit Scarf Noos Bufanda  Gris  Grey Melange Grey Mela
 
 [![Jack & Jones Jacdna Knit Scarf Noos Bufa](https://m.media-amazon.com/images/I/51j9hREYE+L._SL200_.jpg)](https://www.amazon.es/dp/B072XS1QWG/?tag=tolees-21)
 
+Principales características:
+
+- Knitted scarf
+- Scarf e of acrylic
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072XS1QWG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

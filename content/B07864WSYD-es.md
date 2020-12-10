@@ -22,6 +22,9 @@ Está [Adidas Adizero Avanti  Zapatillas de Atletismo Unisex Adulto  Negro  Negb
 
 [![Adidas Adizero Avanti  Zapatillas de Atl](https://images-eu.ssl-images-amazon.com/images/I/41ZtW0vIHZL._SL200_.jpg)](https://www.amazon.es/dp/B07864WSYD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07864WSYD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

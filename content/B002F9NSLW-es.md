@@ -22,6 +22,9 @@ Ahora mismo tienes [Kensington K72339EU - Ratón  USB  Con cables  Óptico  Negr
 
 [![Kensington K72339EU - Ratón  USB  Con ca](https://images-eu.ssl-images-amazon.com/images/I/41if3fha1yL._SL200_.jpg)](https://www.amazon.es/dp/B002F9NSLW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B002F9NSLW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

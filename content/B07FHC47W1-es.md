@@ -22,6 +22,9 @@ Está [For Time Pineapple  Bolsa de tela y de playa para Mujer  Rosa  1 x 38 x 5
 
 [![For Time Pineapple  Bolsa de tela y de p](https://images-eu.ssl-images-amazon.com/images/I/51PSzhXdQUL._SL200_.jpg)](https://www.amazon.es/dp/B07FHC47W1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FHC47W1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

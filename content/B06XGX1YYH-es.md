@@ -22,6 +22,9 @@ Está [Deyard Estuche para DJI Mavic Pro Dron y Control Remoto](https://www.amaz
 
 [![Deyard Estuche para DJI Mavic Pro Dron y](https://images-eu.ssl-images-amazon.com/images/I/41aCDZEE4VL._SL200_.jpg)](https://www.amazon.es/dp/B06XGX1YYH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XGX1YYH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

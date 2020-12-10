@@ -22,6 +22,9 @@ Está [Munich Goal  Zapatillas Unisex Adulto   Blanco/Rosa 1417   38 EU](https:/
 
 [![Munich Goal  Zapatillas Unisex Adulto   ](https://images-eu.ssl-images-amazon.com/images/I/41RwQorCdhL._SL200_.jpg)](https://www.amazon.es/dp/B07N3C6LPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N3C6LPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

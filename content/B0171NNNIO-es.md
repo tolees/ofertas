@@ -22,6 +22,9 @@ Tienes [Philips HP6393/00 cortadora de pelo y maquinilla - Afeitadora  AAA  Colo
 
 [![Philips HP6393/00 cortadora de pelo y ma](https://images-eu.ssl-images-amazon.com/images/I/21oAEyrA6sL._SL200_.jpg)](https://www.amazon.es/dp/B0171NNNIO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0171NNNIO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

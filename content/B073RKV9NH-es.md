@@ -22,6 +22,9 @@ Está [Reebok Speedlux 2.0  Zapatillas de Running para Mujer   Black/Fresh Blue/
 
 [![Reebok Speedlux 2.0  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41Sq98UECaL._SL200_.jpg)](https://www.amazon.es/dp/B073RKV9NH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RKV9NH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

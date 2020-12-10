@@ -22,6 +22,9 @@ Está [LE COQ SPORTIF Louise Sport  Zapatillas para Mujer  Beige  Optical White 
 
 [![LE COQ SPORTIF Louise Sport  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/31Eb0tG8UxL._SL200_.jpg)](https://www.amazon.es/dp/B07DC3XCVD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC3XCVD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Cherry Pitter  Cherry Stoner Tool  Removedor de Semillas de Oliva para u
 
 [![Cherry Pitter  Cherry Stoner Tool  Remov](https://images-eu.ssl-images-amazon.com/images/I/51jRIM5-GRL._SL200_.jpg)](https://www.amazon.es/dp/B07DXG2MCY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DXG2MCY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

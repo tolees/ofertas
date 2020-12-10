@@ -22,6 +22,9 @@ Está [Adidas Performance No-Show Thin 3PP  Calcetines unisex  3 pares  Blanco  
 
 [![Adidas Performance No-Show Thin 3PP  Cal](https://images-eu.ssl-images-amazon.com/images/I/41Mb9jtKvcL._SL200_.jpg)](https://www.amazon.es/dp/B00YROITE4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00YROITE4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

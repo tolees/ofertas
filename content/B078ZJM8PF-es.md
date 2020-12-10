@@ -22,6 +22,9 @@ Ahora mismo tienes [Supra Factor  Zapatillas para Hombre  Blanco Black-White 169
 
 [![Supra Factor  Zapatillas para Hombre  Bl](https://images-eu.ssl-images-amazon.com/images/I/41Hkp4k0AVL._SL200_.jpg)](https://www.amazon.es/dp/B078ZJM8PF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078ZJM8PF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

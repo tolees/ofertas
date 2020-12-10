@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Sloane Pantalones  Marrón  Toffee 896   W40/L32 
 
 [![Pepe Jeans Sloane Pantalones  Marrón  To](https://images-eu.ssl-images-amazon.com/images/I/41AlFVSd-FL._SL200_.jpg)](https://www.amazon.es/dp/B07C4RCGVH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C4RCGVH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,14 @@ Está [adidas Lite Racer CLN  Zapatillas Hombre  INDTEC/FTWBLA/Gricin  39 1/3 EU
 
 [![adidas Lite Racer CLN  Zapatillas Hombre](https://m.media-amazon.com/images/I/41wtBq0GMwL._SL200_.jpg)](https://www.amazon.es/dp/B08C95WBLW/?tag=tolees-21)
 
+Principales características:
+
+- Forro textil; suela y mediasuela Cloudfoam
+- Cierre de cordones
+- Parte superior de malla
+- Horma clásica
+- Plantilla OrthoLite que expulsa el sudor y la humedad y mantiene los pies secos
+
 [Ver la oferta!!](https://www.amazon.es/dp/B08C95WBLW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

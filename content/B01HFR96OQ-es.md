@@ -22,6 +22,9 @@ Está [G. Skill 16 GB DDR4 RAM F4-3200C16D-16GTZKW](https://www.amazon.es/dp/B01
 
 [![G. Skill 16 GB DDR4 RAM F4-3200C16D-16GT](https://images-eu.ssl-images-amazon.com/images/I/41nJku6qqGL._SL200_.jpg)](https://www.amazon.es/dp/B01HFR96OQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HFR96OQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [EasyAcc Ventilador de Mano Mudo Estupendo Portátil y Plegable con 3 velo
 
 [![EasyAcc Ventilador de Mano Mudo Estupend](https://images-eu.ssl-images-amazon.com/images/I/51jaJXqV9LL._SL200_.jpg)](https://www.amazon.es/dp/B07CXJP6HM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CXJP6HM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

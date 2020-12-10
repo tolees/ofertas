@@ -22,6 +22,9 @@ Está [Finether Aspiradora de Mano sin Cable  Aspirador para Coche  7000PA  100W
 
 [![Finether Aspiradora de Mano sin Cable  A](https://images-eu.ssl-images-amazon.com/images/I/41otEoqiDbL._SL200_.jpg)](https://www.amazon.es/dp/B07KH28KB8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KH28KB8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BANLVS Humidificador Aromaterapia Ultrasónico 400ML  Difusor de Aceites
 
 [![BANLVS Humidificador Aromaterapia Ultras](https://images-eu.ssl-images-amazon.com/images/I/51CJeiWV%2BWL._SL200_.jpg)](https://www.amazon.es/dp/B07PFTCHYG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PFTCHYG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

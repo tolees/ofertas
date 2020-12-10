@@ -22,6 +22,9 @@ Está [Vanish Quitamanchas Polvo Oxi Action  2 x 1 kg](https://www.amazon.es/dp/
 
 [![Vanish Quitamanchas Polvo Oxi Action  2 ](https://images-eu.ssl-images-amazon.com/images/I/51uBLwB2C6L._SL200_.jpg)](https://www.amazon.es/dp/B01LXTJFIO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LXTJFIO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

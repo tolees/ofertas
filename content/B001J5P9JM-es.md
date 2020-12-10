@@ -22,6 +22,9 @@ Tienes [Gardena 8141-20 Aspersor  Gris  Naranja  Plata](https://www.amazon.es/dp
 
 [![Gardena 8141-20 Aspersor  Gris  Naranja ](https://images-eu.ssl-images-amazon.com/images/I/31NHm2yWm0L._SL200_.jpg)](https://www.amazon.es/dp/B001J5P9JM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B001J5P9JM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

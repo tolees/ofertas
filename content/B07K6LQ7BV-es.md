@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics Aaron  Zapatillas de Gimnasia para Hombre  Verde  Aloe
 
 [![Asics Aaron  Zapatillas de Gimnasia para](https://images-eu.ssl-images-amazon.com/images/I/41k7pLaBU9L._SL200_.jpg)](https://www.amazon.es/dp/B07K6LQ7BV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K6LQ7BV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

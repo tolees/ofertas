@@ -22,6 +22,9 @@ Está [Moviles Libres Baratos 4G V mobile A10  +Pequeño Regalo Auricular Blueto
 
 [![Moviles Libres Baratos 4G V mobile A10  ](https://images-eu.ssl-images-amazon.com/images/I/51J7HucVDiL._SL200_.jpg)](https://www.amazon.es/dp/B07H957SVY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H957SVY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [TUXWANG 18/10 Perchas de Acero Inoxidable 30 Piezas un Conjunto Perchas 
 
 [![TUXWANG 18/10 Perchas de Acero Inoxidabl](https://images-eu.ssl-images-amazon.com/images/I/5170gEhm2CL._SL200_.jpg)](https://www.amazon.es/dp/B073H4PJ1P/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073H4PJ1P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

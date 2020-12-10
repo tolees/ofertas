@@ -22,6 +22,9 @@ Tienes [Vodka crystal head 70cl 40º](https://www.amazon.es/dp/B007MLY2CM/?tag=t
 
 [![Vodka crystal head 70cl 40º](https://images-eu.ssl-images-amazon.com/images/I/41AwxjeKTpL._SL200_.jpg)](https://www.amazon.es/dp/B007MLY2CM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B007MLY2CM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

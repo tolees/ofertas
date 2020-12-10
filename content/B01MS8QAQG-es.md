@@ -22,6 +22,9 @@ Tienes [Philips SHD8800/12 Auricular Circumaural Diadema Negro - Auriculares  Ci
 
 [![Philips SHD8800/12 Auricular Circumaural](https://images-eu.ssl-images-amazon.com/images/I/41VeImLqkYL._SL200_.jpg)](https://www.amazon.es/dp/B01MS8QAQG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MS8QAQG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Pandora Abalorios Mujer plata - 792050CZ](https://www.amazon.es/dp/B01N4R
 
 [![Pandora Abalorios Mujer plata - 792050CZ](https://images-eu.ssl-images-amazon.com/images/I/41%2BIgnpJaDL._SL200_.jpg)](https://www.amazon.es/dp/B01N4RDF8L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N4RDF8L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [RED WAGON Zapatillas Deportivas Estilo Basket para Niño  Azul  Blue   2
 
 [![RED WAGON Zapatillas Deportivas Estilo B](https://images-eu.ssl-images-amazon.com/images/I/4182odKvfdL._SL200_.jpg)](https://www.amazon.es/dp/B01NCW14M3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NCW14M3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

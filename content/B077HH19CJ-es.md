@@ -22,6 +22,9 @@ Tienes [Puma ftblNXT Casuals T-Shirt  Hombre  White  M](https://www.amazon.es/dp
 
 [![Puma ftblNXT Casuals T-Shirt  Hombre  Wh](https://images-eu.ssl-images-amazon.com/images/I/31zMlVyG-QL._SL200_.jpg)](https://www.amazon.es/dp/B077HH19CJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077HH19CJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

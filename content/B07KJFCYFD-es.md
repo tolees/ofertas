@@ -22,6 +22,9 @@ Está [IKOHS Aspiradora Netbot S14 - Robot Aspirador 4 en 1 - Barre  aspira  Pas
 
 [![IKOHS Aspiradora Netbot S14 - Robot Aspi](https://images-eu.ssl-images-amazon.com/images/I/41DLS1t%2BzrL._SL200_.jpg)](https://www.amazon.es/dp/B07KJFCYFD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KJFCYFD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

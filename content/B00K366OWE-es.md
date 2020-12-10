@@ -22,6 +22,9 @@ Tienes [Nike W NK Team Duffle Bolsa de Gimnasio  Mujeres  Indigo Force/Black/Whi
 
 [![Nike W NK Team Duffle Bolsa de Gimnasio ](https://images-eu.ssl-images-amazon.com/images/I/41UKOeSZFxL._SL200_.jpg)](https://www.amazon.es/dp/B00K366OWE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00K366OWE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

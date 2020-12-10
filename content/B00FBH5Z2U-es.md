@@ -22,6 +22,9 @@ Está [Burberry London Men Perfume hombre - 30 ml](https://www.amazon.es/dp/B00F
 
 [![Burberry London Men Perfume hombre - 30 ](https://images-eu.ssl-images-amazon.com/images/I/41x%2B5TehDSL._SL200_.jpg)](https://www.amazon.es/dp/B00FBH5Z2U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00FBH5Z2U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

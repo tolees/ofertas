@@ -22,6 +22,9 @@ Tienes [SELECTED HOMME Slharo SS Embroidery Polo W Noos  Hombre  Amarillo  Mello
 
 [![SELECTED HOMME Slharo SS Embroidery Polo](https://images-eu.ssl-images-amazon.com/images/I/31QhL1TXZgL._SL200_.jpg)](https://www.amazon.es/dp/B07FS68PHJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FS68PHJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

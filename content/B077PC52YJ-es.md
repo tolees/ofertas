@@ -22,6 +22,9 @@ Tienes [Puma Suede Bow  Zapatillas para Mujer  Negro Black  42 EU](https://www.a
 
 [![Puma Suede Bow  Zapatillas para Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/41TDXFcbk%2BL._SL200_.jpg)](https://www.amazon.es/dp/B077PC52YJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077PC52YJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

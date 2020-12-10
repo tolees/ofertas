@@ -22,6 +22,9 @@ Está [Naf Naf Kenp13 Pantalones  Negro  Noir/Blanc 627   W34  Talla del Fabrica
 
 [![Naf Naf Kenp13 Pantalones  Negro  Noir/B](https://images-eu.ssl-images-amazon.com/images/I/41DDkmIdKiL._SL200_.jpg)](https://www.amazon.es/dp/B07KKQZSSZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKQZSSZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

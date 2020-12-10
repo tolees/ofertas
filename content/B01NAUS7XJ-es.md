@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Performance 55061  Zapatillas Deportivas para Inter
 
 [![Skechers Performance 55061  Zapatillas D](https://images-eu.ssl-images-amazon.com/images/I/41iNw9ZUr4L._SL200_.jpg)](https://www.amazon.es/dp/B01NAUS7XJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01NAUS7XJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

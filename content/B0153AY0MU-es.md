@@ -22,6 +22,9 @@ Tienes [Bosch 0 603 9B0 301 Atornillador taladrador de percusión a batería de 
 
 [![Bosch 0 603 9B0 301 Atornillador taladra](https://images-eu.ssl-images-amazon.com/images/I/51%2BYboSK72L._SL200_.jpg)](https://www.amazon.es/dp/B0153AY0MU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0153AY0MU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

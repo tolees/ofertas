@@ -22,6 +22,9 @@ Ahora mismo tienes [Smartwares 10.014.72  BB6  Extintor-6kg Polvo seco Resistenc
 
 [![Smartwares 10.014.72  BB6  Extintor-6kg ](https://images-eu.ssl-images-amazon.com/images/I/41zQbqfggtL._SL200_.jpg)](https://www.amazon.es/dp/B00S52Z1GS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00S52Z1GS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

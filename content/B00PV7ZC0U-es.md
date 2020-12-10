@@ -22,6 +22,9 @@ Está [Platinum Premium The Delight Vibrating Plug Vibrador Anal Color Negro - 2
 
 [![Platinum Premium The Delight Vibrating P](https://images-eu.ssl-images-amazon.com/images/I/41%2BI0lsJwkL._SL200_.jpg)](https://www.amazon.es/dp/B00PV7ZC0U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00PV7ZC0U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

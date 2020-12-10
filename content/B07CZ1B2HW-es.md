@@ -22,6 +22,9 @@ Está [Nike MD Runner 2 Eng Mesh  Zapatillas para Hombre  Azul  Midnight Navy/Me
 
 [![Nike MD Runner 2 Eng Mesh  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/51k8DZpoyqL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ1B2HW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ1B2HW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

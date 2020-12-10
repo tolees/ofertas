@@ -22,6 +22,9 @@ Está [EKKONG Explosion Box Scrapbook Creative DIY Photo Album de Accesorios par
 
 [![EKKONG Explosion Box Scrapbook Creative ](https://images-eu.ssl-images-amazon.com/images/I/51LDRlZKqAL._SL200_.jpg)](https://www.amazon.es/dp/B07GDBJSPR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GDBJSPR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

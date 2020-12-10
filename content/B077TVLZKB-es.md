@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Speedlux 3.0  Zapatillas de Running para Hombre  Negr
 
 [![Reebok Speedlux 3.0  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41j%2BJRMi5qL._SL200_.jpg)](https://www.amazon.es/dp/B077TVLZKB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077TVLZKB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

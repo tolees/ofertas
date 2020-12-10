@@ -22,6 +22,9 @@ Está [Under Armour HG Armour Graphic Legging Leggings  Mujer  Gris  Pitch Gray 
 
 [![Under Armour HG Armour Graphic Legging L](https://images-eu.ssl-images-amazon.com/images/I/414QAHIFMrL._SL200_.jpg)](https://www.amazon.es/dp/B07CZCTWKY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZCTWKY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

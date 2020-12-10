@@ -22,6 +22,9 @@ Tienes [Lico Eaton  Botas de Nieve Unisex Adulto  Negro Schwarz  39 EU](https://
 
 [![Lico Eaton  Botas de Nieve Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41mvrFPMghL._SL200_.jpg)](https://www.amazon.es/dp/B07DK99KQ2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DK99KQ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

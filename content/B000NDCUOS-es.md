@@ -22,6 +22,9 @@ Tienes [Bosch 2 608 584 061 - Set de 7 sierras de corona - 25; 32; 38; 44; 51; 5
 
 [![Bosch 2 608 584 061 - Set de 7 sierras d](https://images-eu.ssl-images-amazon.com/images/I/41kb9xmogtL._SL200_.jpg)](https://www.amazon.es/dp/B000NDCUOS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000NDCUOS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

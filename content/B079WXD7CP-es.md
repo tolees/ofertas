@@ -22,6 +22,9 @@ Ahora mismo tienes [Medisana FM885 Masajeador de pies agradable masaje de pies p
 
 [![Medisana FM885 Masajeador de pies agrada](https://images-eu.ssl-images-amazon.com/images/I/41dWikXPZVL._SL200_.jpg)](https://www.amazon.es/dp/B079WXD7CP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079WXD7CP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

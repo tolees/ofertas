@@ -22,6 +22,9 @@ Ahora mismo tienes [ENKEEO Esterilla Yoga con Correa de Transporte 183 x 80 x 0.
 
 [![ENKEEO Esterilla Yoga con Correa de Tran](https://images-eu.ssl-images-amazon.com/images/I/41wfEIWj5KL._SL200_.jpg)](https://www.amazon.es/dp/B07F9S7ZJH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F9S7ZJH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

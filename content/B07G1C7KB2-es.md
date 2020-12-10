@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Speedlux 3.0  Zapatillas de Trail Running para Mujer 
 
 [![Reebok Speedlux 3.0  Zapatillas de Trail](https://images-eu.ssl-images-amazon.com/images/I/41hGzmR55mL._SL200_.jpg)](https://www.amazon.es/dp/B07G1C7KB2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G1C7KB2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [L Oréal Professionnel - Souple Infinium - Laca - 500 ml](https://www.am
 
 [![L Oréal Professionnel - Souple Infinium ](https://images-eu.ssl-images-amazon.com/images/I/31onK2bqUJL._SL200_.jpg)](https://www.amazon.es/dp/B00LBZFQ3Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00LBZFQ3Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

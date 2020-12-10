@@ -22,6 +22,9 @@ Está [Puma Liga Suede Perf  Zapatillas Unisex Adulto  Beige  Falcon-Whisper Whi
 
 [![Puma Liga Suede Perf  Zapatillas Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41F4rn9yd1L._SL200_.jpg)](https://www.amazon.es/dp/B07231DFKJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07231DFKJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

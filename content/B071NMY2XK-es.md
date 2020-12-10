@@ -22,6 +22,9 @@ Está [GreeSuit 150mm / 6 pulgadas vernier métrica LCD pinza digital en acero i
 
 [![GreeSuit 150mm / 6 pulgadas vernier métr](https://images-eu.ssl-images-amazon.com/images/I/41hSlJg%2BWGL._SL200_.jpg)](https://www.amazon.es/dp/B071NMY2XK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071NMY2XK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

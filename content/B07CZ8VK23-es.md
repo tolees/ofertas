@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma 365 FF 3 CT  Zapatillas de Fútbol para Hombre  Verde  
 
 [![Puma 365 FF 3 CT  Zapatillas de Fútbol p](https://images-eu.ssl-images-amazon.com/images/I/41eRYVsSR4L._SL200_.jpg)](https://www.amazon.es/dp/B07CZ8VK23/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ8VK23/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

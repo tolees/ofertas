@@ -22,6 +22,9 @@ Está [San Ignacio Professional Chef Copper Set de 3 sartenes + 4 recipientes he
 
 [![San Ignacio Professional Chef Copper Set](https://images-eu.ssl-images-amazon.com/images/I/51GH%2B0sISAL._SL200_.jpg)](https://www.amazon.es/dp/B07NZWNHLN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NZWNHLN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

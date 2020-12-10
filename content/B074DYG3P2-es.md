@@ -22,6 +22,9 @@ Está [Shots - Simplicity - Masajeadores](https://www.amazon.es/dp/B074DYG3P2/?t
 
 [![Shots - Simplicity - Masajeadores](https://images-eu.ssl-images-amazon.com/images/I/21eAtekWKaL._SL200_.jpg)](https://www.amazon.es/dp/B074DYG3P2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074DYG3P2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

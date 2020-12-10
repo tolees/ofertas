@@ -22,6 +22,9 @@ Ahora mismo tienes [NETVIP Adaptador WiFi de 600mbps Inalámbrico WiFi Stick Ban
 
 [![NETVIP Adaptador WiFi de 600mbps Inalámb](https://images-eu.ssl-images-amazon.com/images/I/41drxutbXjL._SL200_.jpg)](https://www.amazon.es/dp/B07H76DR9X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H76DR9X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

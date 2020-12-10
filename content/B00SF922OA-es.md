@@ -22,6 +22,9 @@ Está [G-STAR RAW ARC 3D Slim Jeans  Azul  Medium Aged 6090-071   34W / 30L para
 
 [![G-STAR RAW ARC 3D Slim Jeans  Azul  Medi](https://images-eu.ssl-images-amazon.com/images/I/41ewtmuJ7iL._SL200_.jpg)](https://www.amazon.es/dp/B00SF922OA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00SF922OA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

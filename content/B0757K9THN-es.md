@@ -22,6 +22,9 @@ Está [Casco Bicicleta/Casco Bicic con Luz LED Certificado CE Casco Ciclismo con
 
 [![Casco Bicicleta/Casco Bicic con Luz LED ](https://images-eu.ssl-images-amazon.com/images/I/51absaymL9L._SL200_.jpg)](https://www.amazon.es/dp/B0757K9THN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0757K9THN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

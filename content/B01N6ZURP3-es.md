@@ -22,6 +22,9 @@ Está [Vans Friend II  Boyfriend Jeans para Mujer  Azul  70s Blue 0au  W30/L32  
 
 [![Vans Friend II  Boyfriend Jeans para Muj](https://images-eu.ssl-images-amazon.com/images/I/41RwJUFYJVL._SL200_.jpg)](https://www.amazon.es/dp/B01N6ZURP3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6ZURP3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

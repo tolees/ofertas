@@ -22,6 +22,9 @@ Está [Philips Monitores 349X7FJEW/00 - Monitor de 34"  resolución 3440 x 1440 
 
 [![Philips Monitores 349X7FJEW/00 - Monitor](https://images-eu.ssl-images-amazon.com/images/I/41bMAltebXL._SL200_.jpg)](https://www.amazon.es/dp/B06XB1BJPS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XB1BJPS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

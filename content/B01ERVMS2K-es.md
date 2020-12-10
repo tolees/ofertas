@@ -22,6 +22,9 @@ Tienes [Joma Elite V  Pantalones Cortos  Unisex Adulto  Negro  L](https://www.am
 
 [![Joma Elite V  Pantalones Cortos  Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41zLko3etNL._SL200_.jpg)](https://www.amazon.es/dp/B01ERVMS2K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01ERVMS2K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

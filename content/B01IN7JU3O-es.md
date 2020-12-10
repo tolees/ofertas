@@ -22,6 +22,9 @@ Ahora mismo tienes [Gioseppo ARKADE - Botas para Mujer  Color Negro  Talla 36](h
 
 [![Gioseppo ARKADE - Botas para Mujer  Colo](https://images-eu.ssl-images-amazon.com/images/I/41WxI2l8HYL._SL200_.jpg)](https://www.amazon.es/dp/B01IN7JU3O/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01IN7JU3O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

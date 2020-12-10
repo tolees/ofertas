@@ -22,6 +22,9 @@ Está [Amazon Essentials Ae1811734 Polos Hombre  Gris  Medium Gray Heather   US 
 
 [![Amazon Essentials Ae1811734 Polos Hombre](https://images-eu.ssl-images-amazon.com/images/I/51jA2U%2Bei7L._SL200_.jpg)](https://www.amazon.es/dp/B07F1HVD68/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F1HVD68/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

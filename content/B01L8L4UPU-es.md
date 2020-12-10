@@ -22,6 +22,9 @@ Está [CamelBak 1121602900 Bolsa de hidratación  Unisex Adulto  aplicable](http
 
 [![CamelBak 1121602900 Bolsa de hidratación](https://images-eu.ssl-images-amazon.com/images/I/51VhPhZ4GeL._SL200_.jpg)](https://www.amazon.es/dp/B01L8L4UPU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01L8L4UPU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Mustang Schnür-Booty  Botas Clasicas para Hombre  Marrón  Cognac 307  
 
 [![Mustang Schnür-Booty  Botas Clasicas par](https://images-eu.ssl-images-amazon.com/images/I/41T-SAdxwqL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1V1SZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DB1V1SZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

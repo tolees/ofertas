@@ -22,6 +22,9 @@ Tienes [L Home Pantalla Carcasa Tubo led integrado 18w 60cm pantallas led techo 
 
 [![L Home Pantalla Carcasa Tubo led integra](https://images-eu.ssl-images-amazon.com/images/I/41JMPzy6dWL._SL200_.jpg)](https://www.amazon.es/dp/B07MHCG53D/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MHCG53D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

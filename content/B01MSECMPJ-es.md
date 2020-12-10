@@ -22,6 +22,9 @@ Está [Diesel DZ7395 - Reloj para Hombre](https://www.amazon.es/dp/B01MSECMPJ/?t
 
 [![Diesel DZ7395 - Reloj para Hombre](https://images-eu.ssl-images-amazon.com/images/I/51iLZseu02L._SL200_.jpg)](https://www.amazon.es/dp/B01MSECMPJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MSECMPJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

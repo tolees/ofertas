@@ -22,6 +22,9 @@ Tienes [Hyperkin - Consola Retron 3  Color Azul + 2 Mandos Wireless  SNES/NES/Ge
 
 [![Hyperkin - Consola Retron 3  Color Azul ](https://images-eu.ssl-images-amazon.com/images/I/51rjhqFm33L._SL200_.jpg)](https://www.amazon.es/dp/B00XEFLENA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XEFLENA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

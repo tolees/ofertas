@@ -22,6 +22,9 @@ Está [Lenovo Ideacentre Y900-34ISZ - Ordenador de Sobremesa  Intel Core i7-6700
 
 [![Lenovo Ideacentre Y900-34ISZ - Ordenador](https://images-eu.ssl-images-amazon.com/images/I/41icHj115qL._SL200_.jpg)](https://www.amazon.es/dp/B01MRKN0SH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MRKN0SH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

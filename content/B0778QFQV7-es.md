@@ -22,6 +22,12 @@ Ahora mismo tienes [Figura Pop! Dragonball Z Shenron Dragon Gold Exclusive 15cm]
 
 [![Figura Pop! Dragonball Z Shenron Dragon ](https://m.media-amazon.com/images/I/51W86hAu+iL._SL200_.jpg)](https://www.amazon.es/dp/B0778QFQV7/?tag=tolees-21)
 
+Características:
+
+- Alta calidad
+- Licencia oficial
+- Muy resistente
+
 [Visítala!!!](https://www.amazon.es/dp/B0778QFQV7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

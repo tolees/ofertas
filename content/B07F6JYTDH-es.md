@@ -22,6 +22,9 @@ Está [Ballistix Sport AT BLS2K16G4D26BFST - Memoria DDR4 de 32 GB Kit  16 GB x2
 
 [![Ballistix Sport AT BLS2K16G4D26BFST - Me](https://images-eu.ssl-images-amazon.com/images/I/41V%2Bs-WtCJL._SL200_.jpg)](https://www.amazon.es/dp/B07F6JYTDH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F6JYTDH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

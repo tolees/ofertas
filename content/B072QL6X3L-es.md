@@ -22,6 +22,9 @@ Tienes [4pcs toalla de deporte refrescante KAKOO paño frío de toalla hielo fr�
 
 [![4pcs toalla de deporte refrescante KAKOO](https://images-eu.ssl-images-amazon.com/images/I/61yll9otm7L._SL200_.jpg)](https://www.amazon.es/dp/B072QL6X3L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072QL6X3L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

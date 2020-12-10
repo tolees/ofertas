@@ -22,6 +22,9 @@ Está [Skechers Skech-Ascent-Sherrod  Zapatillas para Hombre  Azul  Navy/Lime   
 
 [![Skechers Skech-Ascent-Sherrod  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41s5mDSRggL._SL200_.jpg)](https://www.amazon.es/dp/B076TBMSGV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076TBMSGV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

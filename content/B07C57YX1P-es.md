@@ -22,6 +22,9 @@ Ahora mismo tienes [Hackett London Kensington Slim Chino  Pantalones para Hombre
 
 [![Hackett London Kensington Slim Chino  Pa](https://images-eu.ssl-images-amazon.com/images/I/313wOGYON5L._SL200_.jpg)](https://www.amazon.es/dp/B07C57YX1P/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C57YX1P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [16 En 1 Juego de Destornilladores de Precisión  Tacklife HP
 
 [![16 En 1 Juego de Destornilladores de Pre](https://images-eu.ssl-images-amazon.com/images/I/51b0mERZqfL._SL200_.jpg)](https://www.amazon.es/dp/B07424JRSB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07424JRSB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

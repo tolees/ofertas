@@ -22,6 +22,9 @@ Está [Under Armour Showstopper 2.0  Zapatillas Deportivas para Interior para Ho
 
 [![Under Armour Showstopper 2.0  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41gxTsFVwjL._SL200_.jpg)](https://www.amazon.es/dp/B07CTPLVBX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CTPLVBX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

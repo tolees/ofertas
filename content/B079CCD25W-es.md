@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjebasic Polo SS Noos  Turquesa  Blue Haze Deta
 
 [![JACK & JONES Jjebasic Polo SS Noos  Turq](https://images-eu.ssl-images-amazon.com/images/I/417lWVAvZjL._SL200_.jpg)](https://www.amazon.es/dp/B079CCD25W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079CCD25W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

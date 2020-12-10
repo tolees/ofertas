@@ -22,6 +22,9 @@ Está [MUSITREND Tocadiscos 33/45/78 RPM  Maleta Portátil con 2 Altavoces Integ
 
 [![MUSITREND Tocadiscos 33/45/78 RPM  Malet](https://images-eu.ssl-images-amazon.com/images/I/416OA1qtxKL._SL200_.jpg)](https://www.amazon.es/dp/B07KJV13B8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KJV13B8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

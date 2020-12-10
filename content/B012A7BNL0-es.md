@@ -22,6 +22,9 @@ Está [DKNY Intimates Modern Lights-Mesh Litewe DK1001 Copa Llena Sujetador  Bei
 
 [![DKNY Intimates Modern Lights-Mesh Litewe](https://images-eu.ssl-images-amazon.com/images/I/41WnsGT7twL._SL200_.jpg)](https://www.amazon.es/dp/B012A7BNL0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B012A7BNL0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

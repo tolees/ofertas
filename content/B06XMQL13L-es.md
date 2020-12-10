@@ -22,6 +22,9 @@ Está [Under Armour UA Charged 24/7 Low Exp  Zapatillas de Entrenamiento para Ho
 
 [![Under Armour UA Charged 24/7 Low Exp  Za](https://images-eu.ssl-images-amazon.com/images/I/4190cKGta4L._SL200_.jpg)](https://www.amazon.es/dp/B06XMQL13L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XMQL13L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

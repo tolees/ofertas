@@ -22,6 +22,9 @@ Está [Spin Master Paw Patrol Popper Game Niños Juego de Azar - Juego de Tabler
 
 [![Spin Master Paw Patrol Popper Game Niños](https://images-eu.ssl-images-amazon.com/images/I/61W3FHgNcpL._SL200_.jpg)](https://www.amazon.es/dp/B01AQF87TY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AQF87TY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

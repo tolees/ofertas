@@ -22,6 +22,9 @@ Tienes [BOSS Athleisure Titanium_Runn_act2  Zapatillas para Hombre  Azul  Dark B
 
 [![BOSS Athleisure Titanium_Runn_act2  Zapa](https://images-eu.ssl-images-amazon.com/images/I/417%2BBOUv2-L._SL200_.jpg)](https://www.amazon.es/dp/B07G746TCP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G746TCP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

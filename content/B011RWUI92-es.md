@@ -22,6 +22,9 @@ Está [Disney Minnie Bows Neceser  Color Blanco  1.42 litros](https://www.amazon
 
 [![Disney Minnie Bows Neceser  Color Blanco](https://images-eu.ssl-images-amazon.com/images/I/41-TywofMeL._SL200_.jpg)](https://www.amazon.es/dp/B011RWUI92/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B011RWUI92/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

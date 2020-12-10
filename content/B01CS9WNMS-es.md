@@ -22,6 +22,9 @@ Está [Bolsa de plástico Triplast para envíos postales  color azul  color azul
 
 [![Bolsa de plástico Triplast para envíos p](https://images-eu.ssl-images-amazon.com/images/I/41X9pnEDl3L._SL200_.jpg)](https://www.amazon.es/dp/B01CS9WNMS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01CS9WNMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

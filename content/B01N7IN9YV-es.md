@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Bangor Boot Omni-Heat  Botas de Nieve para Hombre  
 
 [![Columbia Bangor Boot Omni-Heat  Botas de](https://images-eu.ssl-images-amazon.com/images/I/41bSnI7GiOL._SL200_.jpg)](https://www.amazon.es/dp/B01N7IN9YV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N7IN9YV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

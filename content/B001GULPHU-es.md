@@ -22,6 +22,9 @@ Está [MASTER LOCK Caja fuerte para llaves [Extragrande] [Montaje mural] - 5403E
 
 [![MASTER LOCK Caja fuerte para llaves [Ext](https://images-eu.ssl-images-amazon.com/images/I/41fWXwXN%2BlL._SL200_.jpg)](https://www.amazon.es/dp/B001GULPHU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001GULPHU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

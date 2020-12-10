@@ -22,6 +22,9 @@ Está [Gigabyte GeForce RTX 2060 Mini ITX OC 6G](https://www.amazon.es/dp/B07MQ9
 
 [![Gigabyte GeForce RTX 2060 Mini ITX OC 6G](https://images-eu.ssl-images-amazon.com/images/I/51s76gIujmL._SL200_.jpg)](https://www.amazon.es/dp/B07MQ9CLMQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MQ9CLMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

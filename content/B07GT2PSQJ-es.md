@@ -22,6 +22,9 @@ Tienes [Desigual - Bag Dark Amber Cabo Women  Carteras de mano con asa Mujer  Ne
 
 [![Desigual - Bag Dark Amber Cabo Women  Ca](https://images-eu.ssl-images-amazon.com/images/I/41shz54rdXL._SL200_.jpg)](https://www.amazon.es/dp/B07GT2PSQJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GT2PSQJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

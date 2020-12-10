@@ -22,6 +22,9 @@ Está [Auriculares Inalámbricos  DEYIMEI Fun7 Auriculares Bluetooth 5.0 Sonido 
 
 [![Auriculares Inalámbricos  DEYIMEI Fun7 A](https://images-eu.ssl-images-amazon.com/images/I/31clG%2B11O6L._SL200_.jpg)](https://www.amazon.es/dp/B07MX7RP8G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MX7RP8G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

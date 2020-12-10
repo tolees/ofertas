@@ -22,6 +22,9 @@ Tienes [Under Armour Rapid  Zapatillas de Running para Hombre  Negro  Black Whit
 
 [![Under Armour Rapid  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41RQKeMdyEL._SL200_.jpg)](https://www.amazon.es/dp/B01N2OUJ0N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N2OUJ0N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

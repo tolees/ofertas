@@ -22,6 +22,9 @@ Ahora mismo tienes [Aspirador sin bolsa potente. Aspirador Ciclónico Silencioso
 
 [![Aspirador sin bolsa potente. Aspirador C](https://images-eu.ssl-images-amazon.com/images/I/41VcaeihdQL._SL200_.jpg)](https://www.amazon.es/dp/B01N6N7ADH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N6N7ADH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

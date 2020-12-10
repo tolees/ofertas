@@ -22,6 +22,9 @@ Tienes [OxyLED® Linterna UV 12 LED Detector de Urina y Manchas en Armarios Alfo
 
 [![OxyLED® Linterna UV 12 LED Detector de U](https://images-eu.ssl-images-amazon.com/images/I/41LjtiLCm2L._SL200_.jpg)](https://www.amazon.es/dp/B0132TGKJK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0132TGKJK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

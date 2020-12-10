@@ -22,6 +22,9 @@ Está [Schwarzkopf OSiS Thrill Fibre Gum  100 ml  1 unidad](https://www.amazon.e
 
 [![Schwarzkopf OSiS Thrill Fibre Gum  100 m](https://images-eu.ssl-images-amazon.com/images/I/41T%2Bum3AWkL._SL200_.jpg)](https://www.amazon.es/dp/B003RJTTE4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B003RJTTE4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

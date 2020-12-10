@@ -22,6 +22,9 @@ Ahora mismo tienes [Skil F0150755AA Tijeras 0755AA 3.6 W  3.6 V  Negro](https://
 
 [![Skil F0150755AA Tijeras 0755AA 3.6 W  3.](https://images-eu.ssl-images-amazon.com/images/I/417ZGFZHSbL._SL200_.jpg)](https://www.amazon.es/dp/B005TQROWM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B005TQROWM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [United Colors of Benetton Trousers Pantalones  Azul  BLU Navy 252   únic
 
 [![United Colors of Benetton Trousers Panta](https://images-eu.ssl-images-amazon.com/images/I/317f0ST0FQL._SL200_.jpg)](https://www.amazon.es/dp/B07KWLGKNR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KWLGKNR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

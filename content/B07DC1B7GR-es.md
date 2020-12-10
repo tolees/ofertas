@@ -22,6 +22,9 @@ Tienes [Puma Nrgy Neko Engineer Knit  Zapatillas de running para Hombre  Blanco 
 
 [![Puma Nrgy Neko Engineer Knit  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41V4P7izqAL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1B7GR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DC1B7GR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

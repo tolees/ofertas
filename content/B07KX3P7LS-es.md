@@ -22,6 +22,9 @@ Ahora mismo tienes [Cámara IP WiFi  Hi-tech Cámara de Vigilancia WiFi Interior
 
 [![Cámara IP WiFi  Hi-tech Cámara de Vigila](https://images-eu.ssl-images-amazon.com/images/I/41HYmkjdj-L._SL200_.jpg)](https://www.amazon.es/dp/B07KX3P7LS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KX3P7LS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

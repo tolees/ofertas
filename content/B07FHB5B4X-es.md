@@ -22,6 +22,9 @@ Está [LLOYD Fynn  Botas Chelsea para Hombre  Marrón  Nut/Kenia 2   45 EU](http
 
 [![LLOYD Fynn  Botas Chelsea para Hombre  M](https://images-eu.ssl-images-amazon.com/images/I/41eb8X9wtjL._SL200_.jpg)](https://www.amazon.es/dp/B07FHB5B4X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FHB5B4X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

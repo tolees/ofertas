@@ -22,6 +22,9 @@ Tienes [ENKEEO Corrector de Postura para Espalda Hombro Ajustable y Respirable  
 
 [![ENKEEO Corrector de Postura para Espalda](None._SL200_)](https://www.amazon.es/dp/B07P2CHVQY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P2CHVQY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

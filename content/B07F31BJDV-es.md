@@ -22,6 +22,9 @@ Ahora mismo tienes [Helly Hansen HH Duffel Bag 2 Bolsa de Viaje  Unisex Adulto  
 
 [![Helly Hansen HH Duffel Bag 2 Bolsa de Vi](https://images-eu.ssl-images-amazon.com/images/I/41WkwqupdDL._SL200_.jpg)](https://www.amazon.es/dp/B07F31BJDV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F31BJDV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

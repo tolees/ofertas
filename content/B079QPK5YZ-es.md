@@ -22,6 +22,9 @@ Tienes [Hackett London Tie Trim PIQ  Polo para Niños  Azul 7 Años](https://www
 
 [![Hackett London Tie Trim PIQ  Polo para N](https://images-eu.ssl-images-amazon.com/images/I/31dleWaButL._SL200_.jpg)](https://www.amazon.es/dp/B079QPK5YZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079QPK5YZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

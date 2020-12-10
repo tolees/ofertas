@@ -22,6 +22,9 @@ Está [Under Armour UA HG Armour Ankle Crop Capri  Mujer  Negro Black/Metallic S
 
 [![Under Armour UA HG Armour Ankle Crop Cap](https://images-eu.ssl-images-amazon.com/images/I/31LhfOKsCqL._SL200_.jpg)](https://www.amazon.es/dp/B071S2KWLH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071S2KWLH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

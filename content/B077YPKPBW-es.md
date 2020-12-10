@@ -22,6 +22,9 @@ Ahora mismo tienes [Shock Absorber Active Legging Mallas de Entrenamiento  Negro
 
 [![Shock Absorber Active Legging Mallas de ](https://images-eu.ssl-images-amazon.com/images/I/41ciUfaud1L._SL200_.jpg)](https://www.amazon.es/dp/B077YPKPBW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077YPKPBW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Te- KU  Zapatillas Unisex Adulto  Negro Black Team Gold  43 EU](http
 
 [![Puma Te- KU  Zapatillas Unisex Adulto  N](https://images-eu.ssl-images-amazon.com/images/I/41HHgMo%2B2fL._SL200_.jpg)](https://www.amazon.es/dp/B0759VN4ZV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0759VN4ZV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

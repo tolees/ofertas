@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Tubular Shadow W  Zapatillas de Deporte para Mujer  V
 
 [![adidas Tubular Shadow W  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/51KNFHJO7nL._SL200_.jpg)](https://www.amazon.es/dp/B071FWHTSW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071FWHTSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

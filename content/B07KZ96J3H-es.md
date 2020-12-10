@@ -22,6 +22,9 @@ Está [Women s Secret Fe Geo Lace BB  Braguita brasileña para Mujer  Azul  Blue
 
 [![Women s Secret Fe Geo Lace BB  Braguita ](https://images-eu.ssl-images-amazon.com/images/I/419y8Mh6siL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ96J3H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KZ96J3H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

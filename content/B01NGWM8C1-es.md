@@ -22,6 +22,9 @@ Está [Merrell Annex Trak Low  Zapatillas para Hombre  Azul Sodalite  44 EU](htt
 
 [![Merrell Annex Trak Low  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41oTKv%2BLLkL._SL200_.jpg)](https://www.amazon.es/dp/B01NGWM8C1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NGWM8C1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

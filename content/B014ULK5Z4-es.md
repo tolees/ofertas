@@ -22,6 +22,9 @@ Ahora mismo tienes [Wyrmwood: La Carretera De Los Muertos Vivientes [Blu-ray]](h
 
 [![Wyrmwood: La Carretera De Los Muertos Vi](https://images-eu.ssl-images-amazon.com/images/I/51xxLWUSLOL._SL200_.jpg)](https://www.amazon.es/dp/B014ULK5Z4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B014ULK5Z4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

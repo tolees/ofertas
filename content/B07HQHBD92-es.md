@@ -22,6 +22,9 @@ Tienes [Symiu Domino Madera Bloques Madera Iinfantil Numeros Animales Fruto Figu
 
 [![Symiu Domino Madera Bloques Madera Iinfa](https://images-eu.ssl-images-amazon.com/images/I/51krK9cbH0L._SL200_.jpg)](https://www.amazon.es/dp/B07HQHBD92/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HQHBD92/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

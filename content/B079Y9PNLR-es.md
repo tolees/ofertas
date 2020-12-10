@@ -22,6 +22,9 @@ Está [s.Oliver 5-5-25233-21  Botas Militar para Mujer  Gris  Graphite 206   38 
 
 [![s.Oliver 5-5-25233-21  Botas Militar par](https://images-eu.ssl-images-amazon.com/images/I/410OZdRQg0L._SL200_.jpg)](https://www.amazon.es/dp/B079Y9PNLR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079Y9PNLR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

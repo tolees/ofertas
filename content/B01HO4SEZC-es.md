@@ -22,6 +22,9 @@ Ahora mismo tienes [Taurus NEW-948 700 Vitara 3000 New-Aspiradora con Bolsa  dis
 
 [![Taurus NEW-948 700 Vitara 3000 New-Aspir](https://images-eu.ssl-images-amazon.com/images/I/41YsLyAs-IL._SL200_.jpg)](https://www.amazon.es/dp/B01HO4SEZC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01HO4SEZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

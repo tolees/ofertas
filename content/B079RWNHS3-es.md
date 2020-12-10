@@ -22,6 +22,9 @@ Está [Pepe Jeans London Gable Velvet  Zapatillas para Mujer  Rosa  Island 330  
 
 [![Pepe Jeans London Gable Velvet  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41IuspsGgpL._SL200_.jpg)](https://www.amazon.es/dp/B079RWNHS3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RWNHS3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

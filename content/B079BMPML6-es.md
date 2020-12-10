@@ -22,6 +22,9 @@ Está [JACK & JONES Jjepaulos Polo SS Noos  Hombre  Azul  Bright Cobalt Detail: 
 
 [![JACK & JONES Jjepaulos Polo SS Noos  Hom](https://images-eu.ssl-images-amazon.com/images/I/41fG-8m0TKL._SL200_.jpg)](https://www.amazon.es/dp/B079BMPML6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079BMPML6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

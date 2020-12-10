@@ -22,6 +22,9 @@ Está [PIECES Pcdonchen LS Knit suéter  Gris  Dark Grey Melange   38  Talla del
 
 [![PIECES Pcdonchen LS Knit suéter  Gris  D](https://images-eu.ssl-images-amazon.com/images/I/41TSxSuOL-L._SL200_.jpg)](https://www.amazon.es/dp/B0734ZWWD8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0734ZWWD8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Playshoes Kinder Frottee-Bademantel Bär mit Kapuze  Traje de baño Niño
 
 [![Playshoes Kinder Frottee-Bademantel Bär ](https://images-eu.ssl-images-amazon.com/images/I/41f8advOsLL._SL200_.jpg)](https://www.amazon.es/dp/B01IHHE57Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IHHE57Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Paper Mate S0977330 - Pack de 12 bolígrafos  color lila](https://www.am
 
 [![Paper Mate S0977330 - Pack de 12 bolígra](https://images-eu.ssl-images-amazon.com/images/I/51Ze3YKCk2L._SL200_.jpg)](https://www.amazon.es/dp/B00CI6LLES/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CI6LLES/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Bañador Reductor de Mujer Traje de Baño de Una Pieza de Ra
 
 [![Bañador Reductor de Mujer Traje de Baño ](https://images-eu.ssl-images-amazon.com/images/I/41%2BMYX9kcDL._SL200_.jpg)](https://www.amazon.es/dp/B07PTYNH7M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07PTYNH7M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

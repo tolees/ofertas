@@ -22,6 +22,9 @@ Está [Chicco Pocket Meal - Trona ligera y compacta  para niños de 0 a 3 años 
 
 [![Chicco Pocket Meal - Trona ligera y comp](https://images-eu.ssl-images-amazon.com/images/I/31CDVoKBoOL._SL200_.jpg)](https://www.amazon.es/dp/B07GXCL4B8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GXCL4B8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

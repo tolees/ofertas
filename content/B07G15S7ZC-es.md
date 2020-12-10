@@ -22,6 +22,9 @@ Ahora mismo tienes [Auricular Bluetooth V4.1 Magnético Auriculares Deportivos c
 
 [![Auricular Bluetooth V4.1 Magnético Auric](https://images-eu.ssl-images-amazon.com/images/I/31kyAbTjChL._SL200_.jpg)](https://www.amazon.es/dp/B07G15S7ZC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G15S7ZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

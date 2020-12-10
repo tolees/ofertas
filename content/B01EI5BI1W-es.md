@@ -22,6 +22,9 @@ Está [adidas Originals Gazelle  Zapatillas Unisex Adulto  Negro  Core Black/Cor
 
 [![adidas Originals Gazelle  Zapatillas Uni](https://images-eu.ssl-images-amazon.com/images/I/41igAt3PLzL._SL200_.jpg)](https://www.amazon.es/dp/B01EI5BI1W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01EI5BI1W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [New Balance 574v2  Entrenadores para Hombre  Negro Black/Red  43 EU](http
 
 [![New Balance 574v2  Entrenadores para Hom](https://images-eu.ssl-images-amazon.com/images/I/41E2M0MZX0L._SL200_.jpg)](https://www.amazon.es/dp/B07DVJYPVM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVJYPVM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

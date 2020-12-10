@@ -22,6 +22,9 @@ Tienes [HIWEAR Hombre 5 Pack divertidos Colorido Diseño de Lujo Rich Cotton Com
 
 [![HIWEAR Hombre 5 Pack divertidos Colorido](https://images-eu.ssl-images-amazon.com/images/I/51KO0NuY%2BrL._SL200_.jpg)](https://www.amazon.es/dp/B07PFF95DD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PFF95DD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

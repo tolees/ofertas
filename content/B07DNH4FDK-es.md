@@ -22,6 +22,9 @@ Ahora mismo tienes [Pablosky Botas Slouch para Niñas   Azul 460529   31 EU](htt
 
 [![Pablosky Botas Slouch para Niñas   Azul ](https://images-eu.ssl-images-amazon.com/images/I/519M1Jn09UL._SL200_.jpg)](https://www.amazon.es/dp/B07DNH4FDK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DNH4FDK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

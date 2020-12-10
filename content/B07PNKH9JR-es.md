@@ -22,6 +22,9 @@ Está [GRIFEMA G7002 - COLUMNAS Columna termostática para ducha telescópica  1
 
 [![GRIFEMA G7002 - COLUMNAS Columna termost](https://images-eu.ssl-images-amazon.com/images/I/31WW32aK%2BIL._SL200_.jpg)](https://www.amazon.es/dp/B07PNKH9JR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PNKH9JR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

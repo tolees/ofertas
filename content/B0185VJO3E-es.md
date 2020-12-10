@@ -22,6 +22,9 @@ Ahora mismo tienes [ORAL-B Vitality CrossAction - Cepillo Eléctrico](https://ww
 
 [![ORAL-B Vitality CrossAction - Cepillo El](https://images-eu.ssl-images-amazon.com/images/I/41UVyTodTzL._SL200_.jpg)](https://www.amazon.es/dp/B0185VJO3E/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0185VJO3E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

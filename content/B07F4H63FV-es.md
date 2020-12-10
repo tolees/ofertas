@@ -22,6 +22,9 @@ Ahora mismo tienes [Gola Ama879  Zapatillas de Running para Hombre  Azul  Navy/B
 
 [![Gola Ama879  Zapatillas de Running para ](https://images-eu.ssl-images-amazon.com/images/I/41st47zPNUL._SL200_.jpg)](https://www.amazon.es/dp/B07F4H63FV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F4H63FV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

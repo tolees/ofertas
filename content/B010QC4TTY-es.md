@@ -22,6 +22,9 @@ Ahora mismo tienes [ONLY Onlroyal High Waist Skinny Jeans Vaqueros  Medium Blue 
 
 [![ONLY Onlroyal High Waist Skinny Jeans Va](https://m.media-amazon.com/images/I/31cJ6XsbJ5L._SL200_.jpg)](https://www.amazon.es/dp/B010QC4TTY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B010QC4TTY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [SUAOKI H4/HB2/9003 Bombillas de faros delanteros coche LED  Reemplazo de 
 
 [![SUAOKI H4/HB2/9003 Bombillas de faros de](https://images-eu.ssl-images-amazon.com/images/I/517TM4fVpYL._SL200_.jpg)](https://www.amazon.es/dp/B07KHSSNGL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KHSSNGL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

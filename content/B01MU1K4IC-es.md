@@ -22,6 +22,9 @@ Tienes [Kappa Kickoff  Zapatillas de Deporte Interior Unisex Niños  Amarillo  Y
 
 [![Kappa Kickoff  Zapatillas de Deporte Int](https://images-eu.ssl-images-amazon.com/images/I/41886-2QuiL._SL200_.jpg)](https://www.amazon.es/dp/B01MU1K4IC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MU1K4IC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

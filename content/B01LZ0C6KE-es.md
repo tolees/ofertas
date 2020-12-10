@@ -22,6 +22,9 @@ Está [JBM 52566 Faro trabajo led cuadrado](https://www.amazon.es/dp/B01LZ0C6KE/
 
 [![JBM 52566 Faro trabajo led cuadrado](https://images-eu.ssl-images-amazon.com/images/I/51cyX4hgaEL._SL200_.jpg)](https://www.amazon.es/dp/B01LZ0C6KE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZ0C6KE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

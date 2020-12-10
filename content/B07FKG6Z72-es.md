@@ -22,6 +22,9 @@ Está [Nike Air Zoom Pegasus 35  GS   Zapatillas de Running para Niños   White/
 
 [![Nike Air Zoom Pegasus 35  GS   Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/31l%2B7bA%2BoYL._SL200_.jpg)](https://www.amazon.es/dp/B07FKG6Z72/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FKG6Z72/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Milestone Camping Cama de campaña Plegable Verde](https://w
 
 [![Milestone Camping Cama de campaña Plegab](https://images-eu.ssl-images-amazon.com/images/I/41CY%2Begs1ML._SL200_.jpg)](https://www.amazon.es/dp/B00CKRLB2M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00CKRLB2M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

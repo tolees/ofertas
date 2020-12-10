@@ -22,6 +22,9 @@ Ahora mismo tienes [LOHOTEK Bolsas al Vacio  Rollos para Envasadora Sellador de 
 
 [![LOHOTEK Bolsas al Vacio  Rollos para Env](https://images-eu.ssl-images-amazon.com/images/I/51tI6an7aZL._SL200_.jpg)](https://www.amazon.es/dp/B07DWPK16L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DWPK16L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

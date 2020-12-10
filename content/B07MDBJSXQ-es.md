@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 1\2  Pantalones cortos para Hombre  Azul  sartho blue 606
 
 [![G-STAR RAW 3301 1\2  Pantalones cortos p](https://images-eu.ssl-images-amazon.com/images/I/41qwkGEdiqL._SL200_.jpg)](https://www.amazon.es/dp/B07MDBJSXQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MDBJSXQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

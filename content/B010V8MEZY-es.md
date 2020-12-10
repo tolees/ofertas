@@ -22,6 +22,9 @@ Tienes [Steve Madden OCTAGON - Botas para mujer  color negro  talla   36](https:
 
 [![Steve Madden OCTAGON - Botas para mujer ](https://images-eu.ssl-images-amazon.com/images/I/31S-7OCeQyL._SL200_.jpg)](https://www.amazon.es/dp/B010V8MEZY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B010V8MEZY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

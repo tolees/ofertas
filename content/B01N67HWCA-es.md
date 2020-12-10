@@ -22,6 +22,9 @@ Ahora mismo tienes [Salomon Toundra Pro CSWP W  Botas de Senderismo para Mujer  
 
 [![Salomon Toundra Pro CSWP W  Botas de Sen](https://images-eu.ssl-images-amazon.com/images/I/51bTDtp4vvL._SL200_.jpg)](https://www.amazon.es/dp/B01N67HWCA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N67HWCA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [SEWOR reloj para Personal médico colgante reloj de bolsillo
 
 [![SEWOR reloj para Personal médico colgant](https://images-eu.ssl-images-amazon.com/images/I/41gdpxUzb%2BL._SL200_.jpg)](https://www.amazon.es/dp/B0769FMS4N/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0769FMS4N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

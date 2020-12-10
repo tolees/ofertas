@@ -22,6 +22,9 @@ Ahora mismo tienes [Hurley M Hanoi 20  BAÑADORES  Hombre  Black  30](https://ww
 
 [![Hurley M Hanoi 20  BAÑADORES  Hombre  Bl](https://images-eu.ssl-images-amazon.com/images/I/51xQ5Z9ProL._SL200_.jpg)](https://www.amazon.es/dp/B07FQMWLH1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FQMWLH1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

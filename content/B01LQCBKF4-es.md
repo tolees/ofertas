@@ -22,6 +22,9 @@ Ahora mismo tienes [Buff Original  113264.555.10.00 Tubular de Microfibra y Forr
 
 [![Buff Original  113264.555.10.00 Tubular ](https://images-eu.ssl-images-amazon.com/images/I/51q-lgRTh2L._SL200_.jpg)](https://www.amazon.es/dp/B01LQCBKF4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LQCBKF4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

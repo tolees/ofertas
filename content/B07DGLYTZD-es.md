@@ -22,6 +22,9 @@ Está [DC Shoes Tonik Se  Zapatillas de Skateboard para Hombre  Azul  Navy White
 
 [![DC Shoes Tonik Se  Zapatillas de Skatebo](https://images-eu.ssl-images-amazon.com/images/I/41qfuVhIkML._SL200_.jpg)](https://www.amazon.es/dp/B07DGLYTZD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DGLYTZD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

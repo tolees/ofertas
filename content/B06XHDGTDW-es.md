@@ -22,6 +22,9 @@ Tienes [Helly Hansen HH LIFA Merino Crew LS Baselayer  Hombre  Black  XL](https:
 
 [![Helly Hansen HH LIFA Merino Crew LS Base](https://images-eu.ssl-images-amazon.com/images/I/41EPOAd-xZL._SL200_.jpg)](https://www.amazon.es/dp/B06XHDGTDW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XHDGTDW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

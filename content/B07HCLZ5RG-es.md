@@ -22,6 +22,9 @@ Tienes [deAO Esqueleto Fósil de Dinosaurio Kit de Paleontología Figura de Jugu
 
 [![deAO Esqueleto Fósil de Dinosaurio Kit d](https://images-eu.ssl-images-amazon.com/images/I/515BWW%2BCcuL._SL200_.jpg)](https://www.amazon.es/dp/B07HCLZ5RG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HCLZ5RG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

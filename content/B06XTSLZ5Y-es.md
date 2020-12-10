@@ -22,6 +22,9 @@ Ahora mismo tienes [Spagnolo 154077747083  Pantalones para Hombre  Beige  W44/L3
 
 [![Spagnolo 154077747083  Pantalones para H](https://images-eu.ssl-images-amazon.com/images/I/411YKuilTAL._SL200_.jpg)](https://www.amazon.es/dp/B06XTSLZ5Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XTSLZ5Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

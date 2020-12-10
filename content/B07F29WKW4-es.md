@@ -22,6 +22,9 @@ Está [WELQUIC Detector de Metales con Pinpoint Tecnología VLF y Modo de Discri
 
 [![WELQUIC Detector de Metales con Pinpoint](https://images-eu.ssl-images-amazon.com/images/I/412eIdplz1L._SL200_.jpg)](https://www.amazon.es/dp/B07F29WKW4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F29WKW4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

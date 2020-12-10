@@ -22,6 +22,9 @@ Tienes [Love Moschino - Borsa Pu  Shoppers y bolsos de hombro Mujer  Negro  Nero
 
 [![Love Moschino - Borsa Pu  Shoppers y bol](https://images-eu.ssl-images-amazon.com/images/I/31Xl82b0U9L._SL200_.jpg)](https://www.amazon.es/dp/B07DPFF2HN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DPFF2HN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

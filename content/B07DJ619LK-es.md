@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Fresh Foam Hierro v4  Zapatillas de Running para
 
 [![New Balance Fresh Foam Hierro v4  Zapati](https://images-eu.ssl-images-amazon.com/images/I/41TKEWx7OiL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ619LK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DJ619LK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Les Tropéziennes - Tyr03  Bolsos de mano Mujer  Noir  Black   15x30x43 
 
 [![Les Tropéziennes - Tyr03  Bolsos de mano](https://images-eu.ssl-images-amazon.com/images/I/51rT5ZKC0tL._SL200_.jpg)](https://www.amazon.es/dp/B073X32BDB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073X32BDB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

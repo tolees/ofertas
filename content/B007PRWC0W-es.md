@@ -22,6 +22,9 @@ Está [Orbegozo CT 23105 Ventilador de Techo  Madera y Oro Viejo](https://www.am
 
 [![Orbegozo CT 23105 Ventilador de Techo  M](https://images-eu.ssl-images-amazon.com/images/I/31wjV3MquaL._SL200_.jpg)](https://www.amazon.es/dp/B007PRWC0W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007PRWC0W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

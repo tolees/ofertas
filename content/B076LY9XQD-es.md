@@ -22,6 +22,9 @@ Está [Aneken Pulsera de Actividad Pulsera Inteligente con Pulsómetro Pulsera D
 
 [![Aneken Pulsera de Actividad Pulsera Inte](https://images-eu.ssl-images-amazon.com/images/I/41qAsAwMfVL._SL200_.jpg)](https://www.amazon.es/dp/B076LY9XQD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076LY9XQD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

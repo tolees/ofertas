@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Gazelle  Zapatillas de deporte para Hombre  Gris  Leg
 
 [![adidas Gazelle  Zapatillas de deporte pa](https://images-eu.ssl-images-amazon.com/images/I/413a%2B22b-nL._SL200_.jpg)](https://www.amazon.es/dp/B07JZPPRC4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JZPPRC4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

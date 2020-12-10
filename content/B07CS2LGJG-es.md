@@ -22,6 +22,9 @@ Tienes [Cepillo Dientes Eléctrico Recargable Impermeable con Jefes Cepillo Dien
 
 [![Cepillo Dientes Eléctrico Recargable Imp](https://images-eu.ssl-images-amazon.com/images/I/419MXCAW7oL._SL200_.jpg)](https://www.amazon.es/dp/B07CS2LGJG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CS2LGJG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

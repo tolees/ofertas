@@ -22,6 +22,9 @@ Tienes [Black+Decker 51686 Aspiradora  1600 W  con depósito 30 litros](https://
 
 [![Black+Decker 51686 Aspiradora  1600 W  c](https://images-eu.ssl-images-amazon.com/images/I/41wB2h4ajTL._SL200_.jpg)](https://www.amazon.es/dp/B01ENNZ47S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01ENNZ47S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

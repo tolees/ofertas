@@ -22,6 +22,9 @@ Tienes [Severin 3667 - Báscula de Cocina](https://www.amazon.es/dp/B000FMSUTQ/?
 
 [![Severin 3667 - Báscula de Cocina](https://images-eu.ssl-images-amazon.com/images/I/31lr0R8CLoL._SL200_.jpg)](https://www.amazon.es/dp/B000FMSUTQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000FMSUTQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

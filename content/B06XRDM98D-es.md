@@ -22,6 +22,9 @@ Ahora mismo tienes [SHOE THE BEAR Ellen Fur L  Botas para Mujer  Negro  110 Blac
 
 [![SHOE THE BEAR Ellen Fur L  Botas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41NV7GXDX7L._SL200_.jpg)](https://www.amazon.es/dp/B06XRDM98D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XRDM98D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

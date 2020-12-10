@@ -22,6 +22,9 @@ Tienes [Versa 20711000 Maniqui costura con Luz Carmen  168x37x23cm  Poliéster y
 
 [![Versa 20711000 Maniqui costura con Luz C](https://images-eu.ssl-images-amazon.com/images/I/31QcHIL1%2BbL._SL200_.jpg)](https://www.amazon.es/dp/B072XGST3R/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072XGST3R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

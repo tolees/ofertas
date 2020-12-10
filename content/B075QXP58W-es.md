@@ -22,6 +22,9 @@ Está [Finether Aspirador Escoba con Cable 2 en 1  15 5KPA  500W  Aspiradora de 
 
 [![Finether Aspirador Escoba con Cable 2 en](https://images-eu.ssl-images-amazon.com/images/I/31mXPnPy%2BxL._SL200_.jpg)](https://www.amazon.es/dp/B075QXP58W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075QXP58W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Desigual Jers_paty suéter    Negro 2000   X-Small para Muje
 
 [![Desigual Jers_paty suéter    Negro 2000 ](https://images-eu.ssl-images-amazon.com/images/I/41eOY07ED9L._SL200_.jpg)](https://www.amazon.es/dp/B079SS8RR8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079SS8RR8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

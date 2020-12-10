@@ -22,6 +22,9 @@ Tienes [GORE WEAR R3 Mallas 3/4 de hombre  L  negro/amarillo neón](https://www.
 
 [![GORE WEAR R3 Mallas 3/4 de hombre  L  ne](https://images-eu.ssl-images-amazon.com/images/I/31-l2ibDNYL._SL200_.jpg)](https://www.amazon.es/dp/B075RFHSMW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075RFHSMW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

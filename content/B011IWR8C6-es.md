@@ -22,6 +22,9 @@ Está [Levi s 18195-0055  Polo para Hombre  Azul  Indigo X 9   Large](https://ww
 
 [![Levi s 18195-0055  Polo para Hombre  Azu](https://images-eu.ssl-images-amazon.com/images/I/41y4uaWQrBL._SL200_.jpg)](https://www.amazon.es/dp/B011IWR8C6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B011IWR8C6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

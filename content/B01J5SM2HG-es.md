@@ -22,6 +22,9 @@ Ahora mismo tienes [Julius k9 16IDC-Ant-0 IDC Power Harness  Tamaño 0  Antracit
 
 [![Julius k9 16IDC-Ant-0 IDC Power Harness ](https://images-eu.ssl-images-amazon.com/images/I/41qflS4M5eL._SL200_.jpg)](https://www.amazon.es/dp/B01J5SM2HG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01J5SM2HG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

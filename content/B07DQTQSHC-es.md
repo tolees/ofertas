@@ -22,6 +22,9 @@ Está [MTNG Collection 57892  Botas Biker para Mujer  Marrón  Karma Petrolatum 
 
 [![MTNG Collection 57892  Botas Biker para ](https://images-eu.ssl-images-amazon.com/images/I/41vFgPW%2BDQL._SL200_.jpg)](https://www.amazon.es/dp/B07DQTQSHC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQTQSHC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

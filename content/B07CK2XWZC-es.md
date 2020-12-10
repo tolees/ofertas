@@ -22,6 +22,9 @@ Tienes [LiBatter  16 Paquetes  AAA 1100mAh Ni-MH Baterías Recargables 500-1000 
 
 [![LiBatter  16 Paquetes  AAA 1100mAh Ni-MH](https://images-eu.ssl-images-amazon.com/images/I/51HXCVVgqAL._SL200_.jpg)](https://www.amazon.es/dp/B07CK2XWZC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CK2XWZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

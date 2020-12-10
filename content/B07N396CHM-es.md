@@ -22,6 +22,9 @@ Está [THE NORTH FACE M Litewave Fastpack II  Zapatillas de Senderismo para Homb
 
 [![THE NORTH FACE M Litewave Fastpack II  Z](https://images-eu.ssl-images-amazon.com/images/I/41omeEk9n0L._SL200_.jpg)](https://www.amazon.es/dp/B07N396CHM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N396CHM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

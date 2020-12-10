@@ -22,6 +22,9 @@ Tienes [Adidas X 17.4 FxG  Botas de fútbol para Hombre  Amarillo  Ormetr/Negbas
 
 [![Adidas X 17.4 FxG  Botas de fútbol para ](https://images-eu.ssl-images-amazon.com/images/I/41GkK4mqtIL._SL200_.jpg)](https://www.amazon.es/dp/B073RG2LGV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073RG2LGV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

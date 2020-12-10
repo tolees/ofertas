@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour Favorite Duffel Bolsa Deportiva  Mujer  Gris  T
 
 [![Under Armour Favorite Duffel Bolsa Depor](https://images-eu.ssl-images-amazon.com/images/I/41SUPXbtzAL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ9ZM1Z/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ9ZM1Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

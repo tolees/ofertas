@@ -22,6 +22,9 @@ Está [LEDMO Foco Led 50W 6000k Focos Led Exterior 4500LM Blanco Frio SMD3030 IP
 
 [![LEDMO Foco Led 50W 6000k Focos Led Exter](https://images-eu.ssl-images-amazon.com/images/I/41xhFDFgGiL._SL200_.jpg)](https://www.amazon.es/dp/B07KF9WB9T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KF9WB9T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

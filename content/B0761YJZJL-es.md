@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike Downshifter 8  Zapatillas de Entrenamiento para Mujer  
 
 [![Nike Downshifter 8  Zapatillas de Entren](https://images-eu.ssl-images-amazon.com/images/I/51RXJqNhmpL._SL200_.jpg)](https://www.amazon.es/dp/B0761YJZJL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0761YJZJL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Fossil Reloj Hombre de Digital con Correa en Cuero FTW4003](https://www.a
 
 [![Fossil Reloj Hombre de Digital con Corre](https://images-eu.ssl-images-amazon.com/images/I/41uzzyIEJrL._SL200_.jpg)](https://www.amazon.es/dp/B074JH1S4J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074JH1S4J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

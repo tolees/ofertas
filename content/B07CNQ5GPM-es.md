@@ -22,6 +22,9 @@ Tienes [Desperados Cerveza - Pack de 12 Botellas x 250 ml -Total: 3 L](https://w
 
 [![Desperados Cerveza - Pack de 12 Botellas](http://images.amazon.com/images/P/B07CNQ5GPM.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B07CNQ5GPM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CNQ5GPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

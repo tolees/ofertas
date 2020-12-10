@@ -22,6 +22,9 @@ Ahora mismo tienes [Buff Effect Logo Gorra Pack Bike  Unisex Adulto  Talla únic
 
 [![Buff Effect Logo Gorra Pack Bike  Unisex](https://images-eu.ssl-images-amazon.com/images/I/41E74hwbvBL._SL200_.jpg)](https://www.amazon.es/dp/B07KGGM19V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KGGM19V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

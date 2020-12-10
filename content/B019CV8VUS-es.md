@@ -22,6 +22,9 @@ Tienes [New Balance Vazee Urge  Zapatillas de Running para Mujer   Purple/Yellow
 
 [![New Balance Vazee Urge  Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41w7qE3yYGL._SL200_.jpg)](https://www.amazon.es/dp/B019CV8VUS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B019CV8VUS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

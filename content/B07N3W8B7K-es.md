@@ -22,6 +22,9 @@ Está [Gliss - Mascarilla Reparación Total Extra Brillo - 2 uds de 150ml - Schw
 
 [![Gliss - Mascarilla Reparación Total Extr](https://images-eu.ssl-images-amazon.com/images/I/31n-2D%2ByWQL._SL200_.jpg)](https://www.amazon.es/dp/B07N3W8B7K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N3W8B7K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

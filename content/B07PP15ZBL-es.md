@@ -22,6 +22,9 @@ Está [RIOGOO 4pcs-Pack Pesos para Carpas Bolsas Pesadas de Arena Cosida de Grad
 
 [![RIOGOO 4pcs-Pack Pesos para Carpas Bolsa](https://images-eu.ssl-images-amazon.com/images/I/41Q69aX5PzL._SL200_.jpg)](https://www.amazon.es/dp/B07PP15ZBL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PP15ZBL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

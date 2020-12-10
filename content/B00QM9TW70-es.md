@@ -22,6 +22,9 @@ Está [Kärcher Programador de riego WT 5  2.645-219.0 ](https://www.amazon.es/d
 
 [![Kärcher Programador de riego WT 5  2.645](https://images-eu.ssl-images-amazon.com/images/I/518yNRtCI8L._SL200_.jpg)](https://www.amazon.es/dp/B00QM9TW70/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00QM9TW70/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

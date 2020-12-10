@@ -22,6 +22,9 @@ Está [Salomon Race Visor Visera de Corriendo  Unisex Adulto  Blanco  Talla úni
 
 [![Salomon Race Visor Visera de Corriendo  ](https://images-eu.ssl-images-amazon.com/images/I/31yIOsdoulL._SL200_.jpg)](https://www.amazon.es/dp/B01HNYD912/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HNYD912/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

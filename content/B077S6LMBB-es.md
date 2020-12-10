@@ -22,6 +22,9 @@ Ahora mismo tienes [Bolsa deshumidificadora reutilizable para coche y hogar](htt
 
 [![Bolsa deshumidificadora reutilizable par](https://images-eu.ssl-images-amazon.com/images/I/319EID9jmtL._SL200_.jpg)](https://www.amazon.es/dp/B077S6LMBB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077S6LMBB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

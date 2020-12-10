@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes Trase TX Se  Zapatillas para Mujer  Gris  Chambray 
 
 [![DC Shoes Trase TX Se  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41Y95V2CwJL._SL200_.jpg)](https://www.amazon.es/dp/B072PVWYH8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072PVWYH8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

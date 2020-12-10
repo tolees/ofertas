@@ -22,6 +22,9 @@ Está [Siux ANTIVIBRADOR VIBRASTOP K-2.0 Azul](https://www.amazon.es/dp/B07CXQGY
 
 [![Siux ANTIVIBRADOR VIBRASTOP K-2.0 Azul](https://images-eu.ssl-images-amazon.com/images/I/41nGIBtqLfL._SL200_.jpg)](https://www.amazon.es/dp/B07CXQGYMT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CXQGYMT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

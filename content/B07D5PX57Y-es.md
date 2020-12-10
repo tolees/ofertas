@@ -22,6 +22,9 @@ Tienes [Merrell Thermo Freeze Mid WP  Botas de Senderismo para Hombre  Gris Cast
 
 [![Merrell Thermo Freeze Mid WP  Botas de S](https://images-eu.ssl-images-amazon.com/images/I/41QVbu7vcuL._SL200_.jpg)](https://www.amazon.es/dp/B07D5PX57Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D5PX57Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

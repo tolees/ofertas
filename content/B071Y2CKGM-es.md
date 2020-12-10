@@ -22,6 +22,9 @@ Está [Carita  Spray de perfume para el cuerpo - 200 ml.](https://www.amazon.es/
 
 [![Carita  Spray de perfume para el cuerpo ](https://images-eu.ssl-images-amazon.com/images/I/31EJ9ptWf8L._SL200_.jpg)](https://www.amazon.es/dp/B071Y2CKGM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071Y2CKGM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

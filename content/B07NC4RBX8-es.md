@@ -22,6 +22,9 @@ Está [Nike Legend 7 Academy Fg Zapatillas de Fútbol Hombre  Negro  Black/Mtlc 
 
 [![Nike Legend 7 Academy Fg Zapatillas de F](https://images-eu.ssl-images-amazon.com/images/I/31USNm77MGL._SL200_.jpg)](https://www.amazon.es/dp/B07NC4RBX8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NC4RBX8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

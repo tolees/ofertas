@@ -22,6 +22,9 @@ Está [Champion Freedom Seamless X2  Sujetador Deportivo para Mujer  Negro  Noir
 
 [![Champion Freedom Seamless X2  Sujetador ](https://images-eu.ssl-images-amazon.com/images/I/41EjqXSFeZL._SL200_.jpg)](https://www.amazon.es/dp/B07GG9TZ6R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GG9TZ6R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

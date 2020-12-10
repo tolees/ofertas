@@ -22,6 +22,9 @@ Está [Wolfpack 4040050 Grifo Lavadora Doble Rosca](https://www.amazon.es/dp/B00
 
 [![Wolfpack 4040050 Grifo Lavadora Doble Ro](https://images-eu.ssl-images-amazon.com/images/I/41F4LP0sI7L._SL200_.jpg)](https://www.amazon.es/dp/B00MDIY4VI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00MDIY4VI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

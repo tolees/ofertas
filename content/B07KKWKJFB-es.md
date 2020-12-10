@@ -22,6 +22,9 @@ Está [Nike B NSW tee EMB Swoosh T-Shirt  Niños  dk Grey Heather  S](https://ww
 
 [![Nike B NSW tee EMB Swoosh T-Shirt  Niños](https://images-eu.ssl-images-amazon.com/images/I/41RtPbxPggL._SL200_.jpg)](https://www.amazon.es/dp/B07KKWKJFB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKWKJFB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

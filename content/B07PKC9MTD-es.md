@@ -22,6 +22,9 @@ Está [Wrangler Forest WM9150A Amarillo Size: 40 EU](https://www.amazon.es/dp/B0
 
 [![Wrangler Forest WM9150A Amarillo Size: 4](https://images-eu.ssl-images-amazon.com/images/I/4192iN6SuCL._SL200_.jpg)](https://www.amazon.es/dp/B07PKC9MTD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PKC9MTD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

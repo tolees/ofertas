@@ -22,6 +22,9 @@ Ahora mismo tienes [COMVIP Mujeres Cuerda Adultos Multi-Wrap Nylon Pulseras Ajus
 
 [![COMVIP Mujeres Cuerda Adultos Multi-Wrap](https://images-eu.ssl-images-amazon.com/images/I/51koTkeDyHL._SL200_.jpg)](https://www.amazon.es/dp/B07FM1JDW6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FM1JDW6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

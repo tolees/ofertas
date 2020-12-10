@@ -22,6 +22,9 @@ Está [Pepe Jeans London Brompton Cock  Zapatillas para Mujer  Negro  Black 999 
 
 [![Pepe Jeans London Brompton Cock  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41uHpuKXvCL._SL200_.jpg)](https://www.amazon.es/dp/B079RFVJ6K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RFVJ6K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

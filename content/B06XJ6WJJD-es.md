@@ -22,6 +22,9 @@ Tienes [Ballistix Sport LT BLS4K8G4D240FSBK - Kit de Memoria RAM de 32 GB  8 GB 
 
 [![Ballistix Sport LT BLS4K8G4D240FSBK - Ki](https://images-eu.ssl-images-amazon.com/images/I/41J1lVd6xSL._SL200_.jpg)](https://www.amazon.es/dp/B06XJ6WJJD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XJ6WJJD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Hurley M Phantom Pierbowl Beachside 18  Bañadores  Hombre  Azul  Blue Fo
 
 [![Hurley M Phantom Pierbowl Beachside 18  ](https://images-eu.ssl-images-amazon.com/images/I/41urShrsWbL._SL200_.jpg)](https://www.amazon.es/dp/B07K834YVX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K834YVX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

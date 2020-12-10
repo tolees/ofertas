@@ -22,6 +22,9 @@ Ahora mismo tienes [KabelDirekt Conectores banana   conectores de 4mm²  5 parej
 
 [![KabelDirekt Conectores banana   conector](https://images-eu.ssl-images-amazon.com/images/I/51i6qajEG6L._SL200_.jpg)](https://www.amazon.es/dp/B078PN5GR6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078PN5GR6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

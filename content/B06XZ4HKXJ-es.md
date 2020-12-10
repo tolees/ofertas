@@ -22,6 +22,9 @@ Está [Ukelele  Hricane Ukelele Soprano 21 Pulgadas Hawaiian Ukulele Para Princi
 
 [![Ukelele  Hricane Ukelele Soprano 21 Pulg](https://images-eu.ssl-images-amazon.com/images/I/41tIvaIDGSL._SL200_.jpg)](https://www.amazon.es/dp/B06XZ4HKXJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XZ4HKXJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

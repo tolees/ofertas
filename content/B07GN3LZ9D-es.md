@@ -22,6 +22,9 @@ Está [Eono Essentials - Culote corto de ciclismo para hombre con acolchado de 3
 
 [![Eono Essentials - Culote corto de ciclis](https://images-eu.ssl-images-amazon.com/images/I/51WwX6F7GbL._SL200_.jpg)](https://www.amazon.es/dp/B07GN3LZ9D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GN3LZ9D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

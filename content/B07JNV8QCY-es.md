@@ -22,6 +22,10 @@ Tienes [Adidas Falcon  Zapatillas de Trail Running Hombre  Negro Blanco Core Bla
 
 [![Adidas Falcon  Zapatillas de Trail Runni](https://m.media-amazon.com/images/I/41Ym0mNHYtL._SL200_.jpg)](https://www.amazon.es/dp/B07JNV8QCY/?tag=tolees-21)
 
+Características principales:
+
+- Versatile and lightweight running shoe, for all distances, mesh and leather upper, durable and breathable, the midsole is a synthetic cage that offers reinforced support and provides a secure feel, the 3-Stripes cover the sides
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JNV8QCY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

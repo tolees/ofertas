@@ -22,6 +22,9 @@ Está [Ortega RU5 - Ukelele de concierto  tapa de pícea y fondo y aros de caoba
 
 [![Ortega RU5 - Ukelele de concierto  tapa ](https://images-eu.ssl-images-amazon.com/images/I/41i1R%2BZryoL._SL200_.jpg)](https://www.amazon.es/dp/B00DUQT76Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00DUQT76Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

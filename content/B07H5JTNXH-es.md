@@ -22,6 +22,9 @@ Tienes [Lacoste - Zapatillas Lacoste Rey Sport Caw - 181012 7-36CAW0034237 - Neg
 
 [![Lacoste - Zapatillas Lacoste Rey Sport C](https://images-eu.ssl-images-amazon.com/images/I/31-4hhgUcxL._SL200_.jpg)](https://www.amazon.es/dp/B07H5JTNXH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H5JTNXH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Hugo Boss Bottled Set de Regalo - 3 Unidades](https://www.am
 
 [![Hugo Boss Bottled Set de Regalo - 3 Unid](https://images-eu.ssl-images-amazon.com/images/I/41ixTo%2BVsqL._SL200_.jpg)](https://www.amazon.es/dp/B078BQ8FWS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078BQ8FWS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

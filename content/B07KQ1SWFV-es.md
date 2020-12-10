@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Apparel Vertigo Cap  Hombre  Black  1SZ](https://www.amaz
 
 [![DC Apparel Vertigo Cap  Hombre  Black  1](https://images-eu.ssl-images-amazon.com/images/I/51wdwTSnRiL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ1SWFV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KQ1SWFV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

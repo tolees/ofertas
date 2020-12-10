@@ -22,6 +22,9 @@ Ahora mismo tienes [Kealive Rizador de Pelo Automatico  Rizador de Vapor  Rizado
 
 [![Kealive Rizador de Pelo Automatico  Riza](https://images-eu.ssl-images-amazon.com/images/I/51x6rmm2OLL._SL200_.jpg)](https://www.amazon.es/dp/B07QX697YY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07QX697YY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

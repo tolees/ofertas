@@ -22,6 +22,9 @@ Tienes [Greenworks 3820037 Motosierra Eléctrica  2000 W  230 V  Verde](https://
 
 [![Greenworks 3820037 Motosierra Eléctrica ](https://images-eu.ssl-images-amazon.com/images/I/31FV00CUMCL._SL200_.jpg)](https://www.amazon.es/dp/B00DC6LDIM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DC6LDIM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Cargador Solar X-DRAGON 20000mAh Power Bank con 5 paneles solares  USB du
 
 [![Cargador Solar X-DRAGON 20000mAh Power B](https://images-eu.ssl-images-amazon.com/images/I/512kqzSLxsL._SL200_.jpg)](https://www.amazon.es/dp/B07BNFTW9Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BNFTW9Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

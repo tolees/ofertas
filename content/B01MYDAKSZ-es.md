@@ -22,6 +22,9 @@ Está [Finether-Minibicicleta para el Entrenamiento de Brazos y Piernas con 2 kg
 
 [![Finether-Minibicicleta para el Entrenami](https://images-eu.ssl-images-amazon.com/images/I/41N7vReI9jL._SL200_.jpg)](https://www.amazon.es/dp/B01MYDAKSZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MYDAKSZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Acer H7 H277H smidx - Monitor de 27"  Full HD  4 ms  250 cd 
 
 [![Acer H7 H277H smidx - Monitor de 27"  Fu](https://images-eu.ssl-images-amazon.com/images/I/51WG8Zszs-L._SL200_.jpg)](https://www.amazon.es/dp/B00ZC452NY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00ZC452NY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Keepsakes 2.0  Botas Efecto Arrugado para Mujer  Ma
 
 [![Skechers Keepsakes 2.0  Botas Efecto Arr](https://images-eu.ssl-images-amazon.com/images/I/4122Hmtp3PL._SL200_.jpg)](https://www.amazon.es/dp/B07B4YHJYH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B4YHJYH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

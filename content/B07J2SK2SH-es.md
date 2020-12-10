@@ -22,6 +22,9 @@ Ahora mismo tienes [ENKEEO Patinete Plegable Scooter Kick con Manillar Ajustable
 
 [![ENKEEO Patinete Plegable Scooter Kick co](https://images-eu.ssl-images-amazon.com/images/I/41ejdzRZyXL._SL200_.jpg)](https://www.amazon.es/dp/B07J2SK2SH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07J2SK2SH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Sony SCR24 - Funda para móvil Sony Xperia Z3  con función 
 
 [![Sony SCR24 - Funda para móvil Sony Xperi](https://images-eu.ssl-images-amazon.com/images/I/31GgaP93IFL._SL200_.jpg)](https://www.amazon.es/dp/B00N9OC2LE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00N9OC2LE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

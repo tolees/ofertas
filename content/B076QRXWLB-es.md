@@ -22,6 +22,9 @@ Está [Under Armour Rapid  Zapatillas de Running para Hombre  Negro  Anthracite 
 
 [![Under Armour Rapid  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41dHN4RJ5XL._SL200_.jpg)](https://www.amazon.es/dp/B076QRXWLB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076QRXWLB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

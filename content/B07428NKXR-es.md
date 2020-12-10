@@ -22,6 +22,9 @@ Tienes [Besrey 2 en 1 Carritos con capazo Reversible Silla de Paseo Cochecito In
 
 [![Besrey 2 en 1 Carritos con capazo Revers](https://images-eu.ssl-images-amazon.com/images/I/41ZIGWeAucL._SL200_.jpg)](https://www.amazon.es/dp/B07428NKXR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07428NKXR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

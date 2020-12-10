@@ -22,6 +22,9 @@ Está [StarVie PMEDL18 Paletero de Pádel  Unisex Adulto  Rosa  Talla Única](ht
 
 [![StarVie PMEDL18 Paletero de Pádel  Unise](https://images-eu.ssl-images-amazon.com/images/I/311HHgj0rkL._SL200_.jpg)](https://www.amazon.es/dp/B07CQ7MRR8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CQ7MRR8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

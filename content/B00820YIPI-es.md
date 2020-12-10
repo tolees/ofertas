@@ -22,6 +22,9 @@ Está [Westinghouse Comet Ventilador de Techo E14  Acabado aspas Reversibles en 
 
 [![Westinghouse Comet Ventilador de Techo E](https://images-eu.ssl-images-amazon.com/images/I/21VfpNGqksL._SL200_.jpg)](https://www.amazon.es/dp/B00820YIPI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00820YIPI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

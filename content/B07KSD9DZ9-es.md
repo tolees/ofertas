@@ -22,6 +22,9 @@ Está [AmazonBasics - Cable HDMI flexible  de 3 m](https://www.amazon.es/dp/B07
 
 [![AmazonBasics - Cable HDMI flexible  de 3](https://images-eu.ssl-images-amazon.com/images/I/41nPYaWA%2BML._SL200_.jpg)](https://www.amazon.es/dp/B07KSD9DZ9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KSD9DZ9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

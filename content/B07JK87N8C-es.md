@@ -22,6 +22,9 @@ Tienes [Audew Alcoholímetro Digital Portátil con Pantalla LCD Tecnología de S
 
 [![Audew Alcoholímetro Digital Portátil con](https://images-eu.ssl-images-amazon.com/images/I/412DfbOuL-L._SL200_.jpg)](https://www.amazon.es/dp/B07JK87N8C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JK87N8C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [H96 Max Proyector Full HD  Mini Proyector Android 6.0 Soporte 1080P Bluet
 
 [![H96 Max Proyector Full HD  Mini Proyecto](https://images-eu.ssl-images-amazon.com/images/I/41ZE1N-W0UL._SL200_.jpg)](https://www.amazon.es/dp/B07PQ9ZT6H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PQ9ZT6H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

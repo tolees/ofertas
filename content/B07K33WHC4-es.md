@@ -22,6 +22,9 @@ Ahora mismo tienes [WisFox Ratón inalámbrico  2.4 G USB Ratón de computadora 
 
 [![WisFox Ratón inalámbrico  2.4 G USB Rató](https://images-eu.ssl-images-amazon.com/images/I/41rTH-8J-9L._SL200_.jpg)](https://www.amazon.es/dp/B07K33WHC4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K33WHC4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

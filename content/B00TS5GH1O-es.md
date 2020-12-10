@@ -22,6 +22,9 @@ Tienes [Karrimor Toledo Weathertite - Low Rise Hiking de cuero mujer  color gris
 
 [![Karrimor Toledo Weathertite - Low Rise H](https://images-eu.ssl-images-amazon.com/images/I/51obgy3OP6L._SL200_.jpg)](https://www.amazon.es/dp/B00TS5GH1O/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TS5GH1O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

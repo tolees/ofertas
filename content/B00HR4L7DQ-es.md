@@ -22,6 +22,9 @@ Ahora mismo tienes [Roca A5A1318C00 Mezclador Termostático Ducha  Modelo T-500 
 
 [![Roca A5A1318C00 Mezclador Termostático D](https://images-eu.ssl-images-amazon.com/images/I/31DLkKOQU7L._SL200_.jpg)](https://www.amazon.es/dp/B00HR4L7DQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00HR4L7DQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BRIO-33097 Juego Primera Edad  33097 ](https://www.amazon.es/dp/B004RK7F2
 
 [![BRIO-33097 Juego Primera Edad  33097 ](https://images-eu.ssl-images-amazon.com/images/I/41GrVabZK7L._SL200_.jpg)](https://www.amazon.es/dp/B004RK7F2U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004RK7F2U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [OCYCLONE Fundas para iPhone X Purpurina Ultra Slim Fundas iP
 
 [![OCYCLONE Fundas para iPhone X Purpurina ](https://images-eu.ssl-images-amazon.com/images/I/51s4Oi8KhjL._SL200_.jpg)](https://www.amazon.es/dp/B077QK7T5V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077QK7T5V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

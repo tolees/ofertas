@@ -22,6 +22,9 @@ Está [Simpowel V8 - Altavoz Bluetooth Portátil con Radio FM  Reproductor Mp3  
 
 [![Simpowel V8 - Altavoz Bluetooth Portátil](https://images-eu.ssl-images-amazon.com/images/I/51Nc7DsjV1L._SL200_.jpg)](https://www.amazon.es/dp/B00MTI1GS6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00MTI1GS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

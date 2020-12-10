@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes Star Hoody Sweat Fleece Top  Hombre  Racing Red  XL
 
 [![DC Shoes Star Hoody Sweat Fleece Top  Ho](https://images-eu.ssl-images-amazon.com/images/I/41t3uUnMUiL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ2D2GV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KQ2D2GV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

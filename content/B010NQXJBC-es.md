@@ -22,6 +22,9 @@ Está [Licht-experiencia exteriores CX120113](https://www.amazon.es/dp/B010NQXJB
 
 [![Licht-experiencia exteriores CX120113](https://images-eu.ssl-images-amazon.com/images/I/318YwZKW6-L._SL200_.jpg)](https://www.amazon.es/dp/B010NQXJBC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B010NQXJBC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

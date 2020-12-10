@@ -22,6 +22,9 @@ Está [Tatay Cubo de Basura con Tapa abatible Optimist  Plástico  Blanco  Weiss
 
 [![Tatay Cubo de Basura con Tapa abatible O](https://images-eu.ssl-images-amazon.com/images/I/31j5b4J3RDL._SL200_.jpg)](https://www.amazon.es/dp/B00XN1ZDKA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00XN1ZDKA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Vaello La Valenciana - Quemador paellero Gas 1 Fuego Anillo  200 mm  
 
 [![Vaello La Valenciana - Quemador paellero](https://images-eu.ssl-images-amazon.com/images/I/21dv30NOvSL._SL200_.jpg)](https://www.amazon.es/dp/B002CN5PCQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B002CN5PCQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

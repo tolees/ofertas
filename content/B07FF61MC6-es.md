@@ -22,6 +22,9 @@ Ahora mismo tienes [GUARD & REVIVAL TREAT Cuerda Saltar de Velocidad Profesional
 
 [![GUARD & REVIVAL TREAT Cuerda Saltar de V](https://images-eu.ssl-images-amazon.com/images/I/414B5OWBxqL._SL200_.jpg)](https://www.amazon.es/dp/B07FF61MC6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FF61MC6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

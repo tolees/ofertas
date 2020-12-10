@@ -22,6 +22,9 @@ Ahora mismo tienes [Tom Tailor Denim Vaquero Caqui W31L34](https://www.amazon.es
 
 [![Tom Tailor Denim Vaquero Caqui W31L34](https://images-eu.ssl-images-amazon.com/images/I/41vtVo-qQnL._SL200_.jpg)](https://www.amazon.es/dp/B016MCGVI4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B016MCGVI4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

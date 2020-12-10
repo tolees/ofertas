@@ -22,6 +22,9 @@ Tienes [Purina Dentalife golosina dental para Perro Mediano 5 x 345 g](https://w
 
 [![Purina Dentalife golosina dental para Pe](https://images-eu.ssl-images-amazon.com/images/I/610YXYxT61L._SL200_.jpg)](https://www.amazon.es/dp/B072BN6RBJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072BN6RBJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [New Look Lattice Tea 6146329 Mono Corto  Negro  Black Pattern 9   38  Tal
 
 [![New Look Lattice Tea 6146329 Mono Corto ](https://images-eu.ssl-images-amazon.com/images/I/51nveVEgdiL._SL200_.jpg)](https://www.amazon.es/dp/B07NJLDV9L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NJLDV9L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

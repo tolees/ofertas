@@ -22,6 +22,9 @@ Está [Funnyrunstore 1PC Plum Blossom Shape Antorcha de mano Llavero portátil M
 
 [![Funnyrunstore 1PC Plum Blossom Shape Ant](https://images-eu.ssl-images-amazon.com/images/I/41BITgoMkAL._SL200_.jpg)](https://www.amazon.es/dp/B07PPMCN9Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PPMCN9Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

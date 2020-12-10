@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 574S v2  Zapatillas para Hombre  Azul  Eclipse/N
 
 [![New Balance 574S v2  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41GA1yE1sRL._SL200_.jpg)](https://www.amazon.es/dp/B07D7DDB3V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D7DDB3V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

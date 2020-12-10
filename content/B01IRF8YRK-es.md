@@ -22,6 +22,9 @@ Tienes [POLO CLUB Polo Original Big Player Rojo M](https://www.amazon.es/dp/B01I
 
 [![POLO CLUB Polo Original Big Player Rojo ](https://images-eu.ssl-images-amazon.com/images/I/41Dc5jBJfGL._SL200_.jpg)](https://www.amazon.es/dp/B01IRF8YRK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IRF8YRK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Deconstructed Skinny  Jeans para Hombre  Azul  Medium Vin
 
 [![G-STAR RAW 3301 Deconstructed Skinny  Je](https://images-eu.ssl-images-amazon.com/images/I/41-8jROSUwL._SL200_.jpg)](https://www.amazon.es/dp/B07BFH9YFY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BFH9YFY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

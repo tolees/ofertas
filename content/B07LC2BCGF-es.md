@@ -22,6 +22,9 @@ Tienes [READ Curren Reloj Impermeable para Hombres  3 Barras  Impermeable  Banda
 
 [![READ Curren Reloj Impermeable para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41%2BmhSo4JQL._SL200_.jpg)](https://www.amazon.es/dp/B07LC2BCGF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LC2BCGF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

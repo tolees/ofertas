@@ -22,6 +22,9 @@ Está [Skechers Escape Plan 2.0  Zapatillas para Hombre  Verde  Olive Black Olbk
 
 [![Skechers Escape Plan 2.0  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41hptFeQfRL._SL200_.jpg)](https://www.amazon.es/dp/B07HCQBVMW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HCQBVMW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

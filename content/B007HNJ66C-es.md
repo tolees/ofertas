@@ -22,6 +22,9 @@ Está [MAGLITE 85131000 Linterna LED Mini Pro  Unisex  Negro  17 cm](https://www
 
 [![MAGLITE 85131000 Linterna LED Mini Pro  ](https://images-eu.ssl-images-amazon.com/images/I/313dkrhbGhL._SL200_.jpg)](https://www.amazon.es/dp/B007HNJ66C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007HNJ66C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

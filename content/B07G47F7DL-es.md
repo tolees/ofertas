@@ -22,6 +22,9 @@ Está [Batidora de mano de acero inoxidable para el hogar – Herramienta versá
 
 [![Batidora de mano de acero inoxidable par](https://images-eu.ssl-images-amazon.com/images/I/41cj%2Bacl5AL._SL200_.jpg)](https://www.amazon.es/dp/B07G47F7DL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G47F7DL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

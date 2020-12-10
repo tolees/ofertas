@@ -22,6 +22,9 @@ Tienes [Kappa Action Tex  Botas Clasicas Unisex Niños  Negro  Black/Yellow 1140
 
 [![Kappa Action Tex  Botas Clasicas Unisex ](https://images-eu.ssl-images-amazon.com/images/I/51deGr8edtL._SL200_.jpg)](https://www.amazon.es/dp/B072HYLGDH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072HYLGDH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

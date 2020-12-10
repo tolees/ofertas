@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes Circle Star T-Shirt  Hombre  Hunter Green  XL](http
 
 [![DC Shoes Circle Star T-Shirt  Hombre  Hu](https://images-eu.ssl-images-amazon.com/images/I/41vn-e4LyjL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ6RSQ7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KZ6RSQ7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

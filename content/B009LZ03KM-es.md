@@ -22,6 +22,9 @@ Tienes [BH - Fitness Tactile Tonic Pro Plataforma Vibro-Masaje  Unisex  Rojo/Gri
 
 [![BH - Fitness Tactile Tonic Pro Plataform](https://images-eu.ssl-images-amazon.com/images/I/41SDGA4PkUL._SL200_.jpg)](https://www.amazon.es/dp/B009LZ03KM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B009LZ03KM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

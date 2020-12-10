@@ -22,6 +22,9 @@ Está [Cobertor Invierno para Piscina Desmontable Bestway Ø360 cm](https://www.
 
 [![Cobertor Invierno para Piscina Desmontab](https://images-eu.ssl-images-amazon.com/images/I/31F97UIvG2L._SL200_.jpg)](https://www.amazon.es/dp/B07FKVD6QV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FKVD6QV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

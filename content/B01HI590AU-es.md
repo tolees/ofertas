@@ -22,6 +22,9 @@ Tienes [Nike Huarache Run  GS   Zapatillas Unisex Niños  Negro Black 016  36 EU
 
 [![Nike Huarache Run  GS   Zapatillas Unise](https://images-eu.ssl-images-amazon.com/images/I/41%2BZDxm7hCL._SL200_.jpg)](https://www.amazon.es/dp/B01HI590AU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01HI590AU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

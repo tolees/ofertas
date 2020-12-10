@@ -22,6 +22,9 @@ Ahora mismo tienes [Pistola de Dinero  Juguete de Money Gun – Pistola para Bil
 
 [![Pistola de Dinero  Juguete de Money Gun ](https://images-eu.ssl-images-amazon.com/images/I/51edAfgH9JL._SL200_.jpg)](https://www.amazon.es/dp/B07MV5Y2PJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MV5Y2PJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

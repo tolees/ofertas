@@ -22,6 +22,9 @@ Está [NextX 993 RC Nano Quadcopter With Headless Mode  4CH 2.4GHz 6-Gyro  Azul]
 
 [![NextX 993 RC Nano Quadcopter With Headle](https://images-eu.ssl-images-amazon.com/images/I/41wUhMDaXGL._SL200_.jpg)](https://www.amazon.es/dp/B01852VARQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01852VARQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

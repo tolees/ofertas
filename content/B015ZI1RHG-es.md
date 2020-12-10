@@ -22,6 +22,9 @@ Está [Bolsas para almacenar al vacío; ahorro de espacio más fuerte  de mayor 
 
 [![Bolsas para almacenar al vacío; ahorro d](https://images-eu.ssl-images-amazon.com/images/I/51sLq1BUs%2BL._SL200_.jpg)](https://www.amazon.es/dp/B015ZI1RHG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B015ZI1RHG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [ULTRICS Cargador Coche  4 Puertos 35W/ 7A Carga Rápida 3.0 
 
 [![ULTRICS Cargador Coche  4 Puertos 35W/ 7](https://images-eu.ssl-images-amazon.com/images/I/413k0CADX1L._SL200_.jpg)](https://www.amazon.es/dp/B077QHCXM3/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077QHCXM3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

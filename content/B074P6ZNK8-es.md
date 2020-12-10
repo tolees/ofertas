@@ -22,6 +22,9 @@ Está [Helly Hansen algodón Calcetines Deportivos  3 Unidades   Unisex  Color 
 
 [![Helly Hansen algodón Calcetines Deportiv](https://images-eu.ssl-images-amazon.com/images/I/41ycsFKgSgL._SL200_.jpg)](https://www.amazon.es/dp/B074P6ZNK8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074P6ZNK8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Gant Chunky Cable Sweater  suéter para Mujer  Marfil  Eggshell   16  Ta
 
 [![Gant Chunky Cable Sweater  suéter para M](https://images-eu.ssl-images-amazon.com/images/I/41ptdOHsJML._SL200_.jpg)](https://www.amazon.es/dp/B075SDFNVG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075SDFNVG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

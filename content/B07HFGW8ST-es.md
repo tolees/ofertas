@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Baby Preppy Coverall Giftbox  Conjunto Bebé-Niños  Rojo
 
 [![Tommy Hilfiger Baby Preppy Coverall Gift](https://images-eu.ssl-images-amazon.com/images/I/51s09SlHf-L._SL200_.jpg)](https://www.amazon.es/dp/B07HFGW8ST/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HFGW8ST/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

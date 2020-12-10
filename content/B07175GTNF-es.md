@@ -22,6 +22,9 @@ Ahora mismo tienes [Dolores Promesas OI17 2040CVARIOS Pantalones  Negro  Varios 
 
 [![Dolores Promesas OI17 2040CVARIOS Pantal](https://images-eu.ssl-images-amazon.com/images/I/41DJ6tq3eCL._SL200_.jpg)](https://www.amazon.es/dp/B07175GTNF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07175GTNF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

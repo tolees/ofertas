@@ -22,6 +22,9 @@ Está [New Balance Fresh Foam 1000  Botas de Nieve Hombre  Negro  Black   42.5 E
 
 [![New Balance Fresh Foam 1000  Botas de Ni](https://images-eu.ssl-images-amazon.com/images/I/518g4GYmHBL._SL200_.jpg)](https://www.amazon.es/dp/B01CQSOTZU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01CQSOTZU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

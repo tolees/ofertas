@@ -22,6 +22,9 @@ Tienes [13 Casa Dormis Diamante Juego para Funda nórdica  Dimensiones 255 x 20
 
 [![13 Casa Dormis Diamante Juego para Funda](https://images-eu.ssl-images-amazon.com/images/I/41z1Q-vNxZL._SL200_.jpg)](https://www.amazon.es/dp/B01AY4R7KM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01AY4R7KM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

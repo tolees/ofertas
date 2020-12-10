@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Velocity_Runn_RB  Zapatillas para Hombre  Gris  Light/P
 
 [![BOSS Velocity_Runn_RB  Zapatillas para H](https://images-eu.ssl-images-amazon.com/images/I/41zhmtrVLtL._SL200_.jpg)](https://www.amazon.es/dp/B07M9C79VY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M9C79VY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

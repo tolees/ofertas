@@ -22,6 +22,9 @@ Tienes [New Balance X-90  Zapatillas para Mujer  Rosa  Pink Sand/Team Away Grey 
 
 [![New Balance X-90  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41cF0euQsZL._SL200_.jpg)](https://www.amazon.es/dp/B07BL2YCDV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BL2YCDV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

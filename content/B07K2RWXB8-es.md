@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Pro Spark 2018 Low  Zapatillas de Baloncesto para Hom
 
 [![Adidas Pro Spark 2018 Low  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/4180jkOaV5L._SL200_.jpg)](https://www.amazon.es/dp/B07K2RWXB8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K2RWXB8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

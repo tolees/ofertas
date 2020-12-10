@@ -22,6 +22,9 @@ Está [Vans Van Doren III Backpack Mochila Tipo Casual  52 cm  29 Liters  Gris  
 
 [![Vans Van Doren III Backpack Mochila Tipo](https://images-eu.ssl-images-amazon.com/images/I/41bx5w8SfJL._SL200_.jpg)](https://www.amazon.es/dp/B01EGATKO6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01EGATKO6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

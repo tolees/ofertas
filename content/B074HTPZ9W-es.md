@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Performance Go Run 6  Zapatillas Deportivas para In
 
 [![Skechers Performance Go Run 6  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41RWC7P%2BUEL._SL200_.jpg)](https://www.amazon.es/dp/B074HTPZ9W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074HTPZ9W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

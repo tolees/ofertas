@@ -22,6 +22,9 @@ Está [Merrell Moab 2 Mid GTX  Botas de Senderismo para Hombre  Marrón Earth  4
 
 [![Merrell Moab 2 Mid GTX  Botas de Senderi](https://images-eu.ssl-images-amazon.com/images/I/41fW-6Rjc0L._SL200_.jpg)](https://www.amazon.es/dp/B01HFABZEW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HFABZEW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Invicta 6977 Pro Diver - Scuba Reloj para Hombre acero inoxidable Cuarzo
 
 [![Invicta 6977 Pro Diver - Scuba Reloj par](https://images-eu.ssl-images-amazon.com/images/I/51XusIrPCYL._SL200_.jpg)](https://www.amazon.es/dp/B003MYUQKA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003MYUQKA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

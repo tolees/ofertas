@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Rebel Block FL cl Pants  Hombre  Cotton Black  L](https
 
 [![Puma Rebel Block FL cl Pants  Hombre  Co](https://images-eu.ssl-images-amazon.com/images/I/317ndZtqZlL._SL200_.jpg)](https://www.amazon.es/dp/B07DFRV1XT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DFRV1XT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

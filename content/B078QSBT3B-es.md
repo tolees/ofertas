@@ -22,6 +22,9 @@ Tienes [The North Face G Andes Down Jkt Chaquetas T934V2N4L. S  Niñas  Blue Win
 
 [![The North Face G Andes Down Jkt Chaqueta](https://images-eu.ssl-images-amazon.com/images/I/41NwllP08YL._SL200_.jpg)](https://www.amazon.es/dp/B078QSBT3B/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078QSBT3B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Baofeng Uv-5R - Radio  negro](https://www.amazon.es/dp/B00K5JJX1S/?tag=t
 
 [![Baofeng Uv-5R - Radio  negro](https://images-eu.ssl-images-amazon.com/images/I/51vt9J6xBPL._SL200_.jpg)](https://www.amazon.es/dp/B00K5JJX1S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00K5JJX1S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

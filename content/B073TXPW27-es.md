@@ -22,6 +22,9 @@ Está [Newskill Kuraokami - Silla Gaming Profesional  Inclinación y Altura Regu
 
 [![Newskill Kuraokami - Silla Gaming Profes](https://images-eu.ssl-images-amazon.com/images/I/41z6gnCc1hL._SL200_.jpg)](https://www.amazon.es/dp/B073TXPW27/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073TXPW27/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [YaYuu Garmin Fenix 3/Fenix 5 x Reloj Banda  Suave Silicona Reloj Accesori
 
 [![YaYuu Garmin Fenix 3/Fenix 5 x Reloj Ban](https://images-eu.ssl-images-amazon.com/images/I/51qD9UIkLOL._SL200_.jpg)](https://www.amazon.es/dp/B07HQG9DFS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HQG9DFS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

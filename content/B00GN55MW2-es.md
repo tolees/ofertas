@@ -22,6 +22,9 @@ Tienes [Rayen 2010 - Colgador de Bolsos  33 x 112 cm](https://www.amazon.es/dp/B
 
 [![Rayen 2010 - Colgador de Bolsos  33 x 11](https://images-eu.ssl-images-amazon.com/images/I/41YbBm0r3AL._SL200_.jpg)](https://www.amazon.es/dp/B00GN55MW2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GN55MW2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

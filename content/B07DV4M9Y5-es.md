@@ -22,6 +22,9 @@ Está [Columbia Backpedal Outdry  Zapatillas Casual  Impermeable para Hombre  Gr
 
 [![Columbia Backpedal Outdry  Zapatillas Ca](https://images-eu.ssl-images-amazon.com/images/I/41Nkd0SKtzL._SL200_.jpg)](https://www.amazon.es/dp/B07DV4M9Y5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DV4M9Y5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

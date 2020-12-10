@@ -22,6 +22,9 @@ Está [Shock Absorber Ultimate Run Bra Padded  Sujetador Deportivo para Mujer  A
 
 [![Shock Absorber Ultimate Run Bra Padded  ](https://images-eu.ssl-images-amazon.com/images/I/41yLOOGX9mL._SL200_.jpg)](https://www.amazon.es/dp/B07HFTLJCJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HFTLJCJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

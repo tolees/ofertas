@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour UA W Squad  Zapatillas Deportivas para Interior
 
 [![Under Armour UA W Squad  Zapatillas Depo](https://images-eu.ssl-images-amazon.com/images/I/41VH%2BsJ7P5L._SL200_.jpg)](https://www.amazon.es/dp/B01N1SHDTO/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N1SHDTO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

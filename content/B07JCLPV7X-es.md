@@ -22,6 +22,9 @@ Ahora mismo tienes [Funda iPhone X  Vkaiy iPhone X Carcasa Suave TPU con [Compat
 
 [![Funda iPhone X  Vkaiy iPhone X Carcasa S](https://images-eu.ssl-images-amazon.com/images/I/41n178-4KjL._SL200_.jpg)](https://www.amazon.es/dp/B07JCLPV7X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JCLPV7X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [AmazonBasics - Manta suave con tacto de terciopelo  Completa/Queen   gris
 
 [![AmazonBasics - Manta suave con tacto de ](https://images-eu.ssl-images-amazon.com/images/I/41k7kk11PML._SL200_.jpg)](https://www.amazon.es/dp/B019ZJRONM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B019ZJRONM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

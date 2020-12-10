@@ -22,6 +22,9 @@ Está [Proyector  TENKER Q5 Mini proyector de video 2200 lúmenes Full HD 1080P 
 
 [![Proyector  TENKER Q5 Mini proyector de v](https://images-eu.ssl-images-amazon.com/images/I/41DcbRp2XgL._SL200_.jpg)](https://www.amazon.es/dp/B07JGLVZJJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JGLVZJJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

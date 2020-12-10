@@ -22,6 +22,9 @@ Está [Vernee Thor Móviles Libres  Android 7.0  Pantalla HD de 5 Pulgadas  2800
 
 [![Vernee Thor Móviles Libres  Android 7.0 ](https://images-eu.ssl-images-amazon.com/images/I/51hENWok%2BcL._SL200_.jpg)](https://www.amazon.es/dp/B07G5R34GS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G5R34GS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

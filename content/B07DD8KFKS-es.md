@@ -22,6 +22,9 @@ Tienes [Samsung Galaxy A6+ SM-A605F 15 2 cm  6"  3 GB 32 GB SIM Doble 4G Negro 3
 
 [![Samsung Galaxy A6+ SM-A605F 15 2 cm  6" ](https://images-eu.ssl-images-amazon.com/images/I/31al146LZeL._SL200_.jpg)](https://www.amazon.es/dp/B07DD8KFKS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DD8KFKS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

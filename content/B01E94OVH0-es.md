@@ -22,6 +22,9 @@ Ahora mismo tienes [Desconocido H & H H & H 2041 Nadia Taza TE con Plato 0.20 
 
 [![Desconocido H & H H & H 2041 Nadia Taza ](https://images-eu.ssl-images-amazon.com/images/I/41ySf%2BkTXML._SL200_.jpg)](https://www.amazon.es/dp/B01E94OVH0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01E94OVH0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

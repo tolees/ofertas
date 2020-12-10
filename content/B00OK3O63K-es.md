@@ -22,6 +22,9 @@ Tienes [Beter Pur Pedicur - Quitadurezas con depósito](https://www.amazon.es/dp
 
 [![Beter Pur Pedicur - Quitadurezas con dep](https://images-eu.ssl-images-amazon.com/images/I/31qDIPu%2BRiL._SL200_.jpg)](https://www.amazon.es/dp/B00OK3O63K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OK3O63K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

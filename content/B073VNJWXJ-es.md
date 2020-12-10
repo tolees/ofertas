@@ -22,6 +22,9 @@ Está [PIECES - Pcrolly Bag  Bolsos bandolera Mujer  Schwarz  Black   13x26x36 c
 
 [![PIECES - Pcrolly Bag  Bolsos bandolera M](https://images-eu.ssl-images-amazon.com/images/I/41dSLHEenZL._SL200_.jpg)](https://www.amazon.es/dp/B073VNJWXJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073VNJWXJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Urban Classics Ladies Inset Striped Crew  suéter para Mujer  Negro  Bla
 
 [![Urban Classics Ladies Inset Striped Crew](https://images-eu.ssl-images-amazon.com/images/I/41ZAQtk6E-L._SL200_.jpg)](https://www.amazon.es/dp/B07DPX2ZDW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DPX2ZDW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

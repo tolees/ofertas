@@ -22,6 +22,9 @@ Está [SYROKAN - Sujetador Deportivo de Sin Aros para Mujer Negro ES:100B  EU 85
 
 [![SYROKAN - Sujetador Deportivo de Sin Aro](https://images-eu.ssl-images-amazon.com/images/I/410ZSZt%2BsYL._SL200_.jpg)](https://www.amazon.es/dp/B00OL931AM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00OL931AM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

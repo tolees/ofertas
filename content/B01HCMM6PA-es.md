@@ -22,6 +22,9 @@ Está [SportPlus Ezy Carver Board The Face Skateboard  Infantil  Talla Única](h
 
 [![SportPlus Ezy Carver Board The Face Skat](https://images-eu.ssl-images-amazon.com/images/I/41AQAEMe8kL._SL200_.jpg)](https://www.amazon.es/dp/B01HCMM6PA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HCMM6PA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Approx APPNBBUNDLE4 - Mochila para portátil de hasta 15 6” + ratón ó
 
 [![Approx APPNBBUNDLE4 - Mochila para portá](https://images-eu.ssl-images-amazon.com/images/I/41ln5uF17FL._SL200_.jpg)](https://www.amazon.es/dp/B016AQLVZU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016AQLVZU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

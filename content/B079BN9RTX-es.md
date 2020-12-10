@@ -22,6 +22,9 @@ Está [ AMOIU Gran Baúl Puff Taburete Plegable de Almacenamiento Escabel  Asie
 
 [![ AMOIU Gran Baúl Puff Taburete Plegable ](https://images-eu.ssl-images-amazon.com/images/I/416g65EZI7L._SL200_.jpg)](https://www.amazon.es/dp/B079BN9RTX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079BN9RTX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [OurLeeme Mini Máquina de coser eléctrica Máquina portátil de 2 veloci
 
 [![OurLeeme Mini Máquina de coser eléctrica](https://images-eu.ssl-images-amazon.com/images/I/41WjQ5Zol7L._SL200_.jpg)](https://www.amazon.es/dp/B07DWSHZSK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DWSHZSK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [DoreKim Slim Fit Yoga Pantalones de cintura alta Tummy Contr
 
 [![DoreKim Slim Fit Yoga Pantalones de cint](https://images-eu.ssl-images-amazon.com/images/I/31b8xmgpBqL._SL200_.jpg)](https://www.amazon.es/dp/B07GV15F1Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GV15F1Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

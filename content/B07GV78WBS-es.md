@@ -22,6 +22,9 @@ Está [Bision Kit Herramientas Bicicleta Mini Bomba Bicicleta 16 en 1 CookJoy Ki
 
 [![Bision Kit Herramientas Bicicleta Mini B](https://images-eu.ssl-images-amazon.com/images/I/41MfvjFhInL._SL200_.jpg)](https://www.amazon.es/dp/B07GV78WBS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GV78WBS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

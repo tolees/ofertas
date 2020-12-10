@@ -22,6 +22,9 @@ Tienes [NAKOSITE PB 2433 es el Mejor Monitor de Ejercicios  Monitor de Actividad
 
 [![NAKOSITE PB 2433 es el Mejor Monitor de ](https://images-eu.ssl-images-amazon.com/images/I/41djJlo8mHL._SL200_.jpg)](https://www.amazon.es/dp/B01LHX8BWW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LHX8BWW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

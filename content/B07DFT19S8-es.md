@@ -22,6 +22,9 @@ Está [New Balance 996  Zapatillas para Hombre  Azul  Pigment/Nimbus Cloud LS   
 
 [![New Balance 996  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41CnVKlg4OL._SL200_.jpg)](https://www.amazon.es/dp/B07DFT19S8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFT19S8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Adaptador USB C  adaptador iMXPW para MacBook Pro con salida HDMI 4K par
 
 [![Adaptador USB C  adaptador iMXPW para Ma](https://images-eu.ssl-images-amazon.com/images/I/51CQQih3-pL._SL200_.jpg)](https://www.amazon.es/dp/B079NXPFX8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079NXPFX8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

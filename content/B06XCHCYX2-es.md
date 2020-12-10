@@ -22,6 +22,9 @@ Ahora mismo tienes [FIND Zapato de Ante estilo Wallabee Hombre  Beige  Tan   43 
 
 [![FIND Zapato de Ante estilo Wallabee Homb](https://images-eu.ssl-images-amazon.com/images/I/31CEz7-Dw0L._SL200_.jpg)](https://www.amazon.es/dp/B06XCHCYX2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XCHCYX2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

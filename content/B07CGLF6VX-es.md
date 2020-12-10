@@ -22,6 +22,9 @@ Está [Agatha Ruiz de la Prada-16859 Mochila Grande  pilares  Miquel-Rius 16859 
 
 [![Agatha Ruiz de la Prada-16859 Mochila Gr](https://images-eu.ssl-images-amazon.com/images/I/51wKrx07BXL._SL200_.jpg)](https://www.amazon.es/dp/B07CGLF6VX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CGLF6VX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

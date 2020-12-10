@@ -22,6 +22,9 @@ Ahora mismo tienes [Joma Granada Polo de Tenis  Hombre  Vino  M](https://www.ama
 
 [![Joma Granada Polo de Tenis  Hombre  Vino](https://images-eu.ssl-images-amazon.com/images/I/419fQ-ffTQL._SL200_.jpg)](https://www.amazon.es/dp/B06XNX5LKS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XNX5LKS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Asics Gel-Contend 5  Zapatillas de Running para Hombre  Azul  Indigo Blu
 
 [![Asics Gel-Contend 5  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41KerW2DRjL._SL200_.jpg)](https://www.amazon.es/dp/B07K74K6PG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K74K6PG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

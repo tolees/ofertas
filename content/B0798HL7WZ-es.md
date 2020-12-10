@@ -22,6 +22,9 @@ Está [Armani Exchange - Small Shopping Bag  Bolsos totes Mujer  Azul  Navy   20
 
 [![Armani Exchange - Small Shopping Bag  Bo](https://images-eu.ssl-images-amazon.com/images/I/51-79VfV39L._SL200_.jpg)](https://www.amazon.es/dp/B0798HL7WZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0798HL7WZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

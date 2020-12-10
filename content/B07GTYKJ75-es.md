@@ -22,6 +22,9 @@ Está [Pro10 Banco de musculacion/Entrenamiento Adjustable y Plegable Marca](htt
 
 [![Pro10 Banco de musculacion/Entrenamiento](https://images-eu.ssl-images-amazon.com/images/I/418U7geHhCL._SL200_.jpg)](https://www.amazon.es/dp/B07GTYKJ75/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GTYKJ75/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

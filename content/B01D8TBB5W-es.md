@@ -22,6 +22,9 @@ Ahora mismo tienes [L Oreal Paris Dermo Expertise Leche Protectora Prolongadora 
 
 [![L Oreal Paris Dermo Expertise Leche Prot](https://images-eu.ssl-images-amazon.com/images/I/41rDtII59yL._SL200_.jpg)](https://www.amazon.es/dp/B01D8TBB5W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01D8TBB5W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

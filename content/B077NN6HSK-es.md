@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW Rovulc Mid AOP  Zapatillas Altas para Hombre   Mi
 
 [![G-STAR RAW Rovulc Mid AOP  Zapatillas Al](https://images-eu.ssl-images-amazon.com/images/I/41UJy3-DHGL._SL200_.jpg)](https://www.amazon.es/dp/B077NN6HSK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077NN6HSK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

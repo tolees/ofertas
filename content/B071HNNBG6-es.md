@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Fresh Foam Arishi Luxe  Zapatillas de Deporte Un
 
 [![New Balance Fresh Foam Arishi Luxe  Zapa](https://images-eu.ssl-images-amazon.com/images/I/41Mc%2Beva4aL._SL200_.jpg)](https://www.amazon.es/dp/B071HNNBG6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071HNNBG6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

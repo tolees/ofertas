@@ -22,6 +22,9 @@ Está [Reebok Royal Ultra SL  Zapatillas de Deporte para Mujer   Lavender Luck/R
 
 [![Reebok Royal Ultra SL  Zapatillas de Dep](https://images-eu.ssl-images-amazon.com/images/I/41WAf9O5ppL._SL200_.jpg)](https://www.amazon.es/dp/B07FVHZNSR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FVHZNSR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

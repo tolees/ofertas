@@ -22,6 +22,9 @@ Está [Oatly Caffé Latte  Bebida de café - 6 de 235 ml.  Total 1410 ml. ](http
 
 [![Oatly Caffé Latte  Bebida de café - 6 de](https://images-eu.ssl-images-amazon.com/images/I/41Y4wOJ1rDL._SL200_.jpg)](https://www.amazon.es/dp/B07FYZLVDP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FYZLVDP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

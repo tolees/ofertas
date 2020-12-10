@@ -22,6 +22,9 @@ Está [Converse Chuck Taylor All Star Street  Zapatillas sin Cordones Unisex Ni�
 
 [![Converse Chuck Taylor All Star Street  Z](https://images-eu.ssl-images-amazon.com/images/I/41M1KJ%2BPbGL._SL200_.jpg)](https://www.amazon.es/dp/B07DDVJNJM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDVJNJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

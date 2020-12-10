@@ -22,6 +22,9 @@ Está [DoGeek Diadema Deportiva 10 piezas Diadema Yoga Estiramiento Elástico Ci
 
 [![DoGeek Diadema Deportiva 10 piezas Diade](https://images-eu.ssl-images-amazon.com/images/I/51bLoWz1DfL._SL200_.jpg)](https://www.amazon.es/dp/B076KHGRZD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076KHGRZD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

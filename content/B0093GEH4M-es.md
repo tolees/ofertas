@@ -22,6 +22,9 @@ Está [Sigma Sport 00442 Accesorio ciclocomputador  Unisex  Negro  Talla Única]
 
 [![Sigma Sport 00442 Accesorio ciclocomputa](https://images-eu.ssl-images-amazon.com/images/I/41nVauDj%2BGL._SL200_.jpg)](https://www.amazon.es/dp/B0093GEH4M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0093GEH4M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes Trase V Se  Zapatillas de Skateboard para Niñas  R
 
 [![DC Shoes Trase V Se  Zapatillas de Skate](https://images-eu.ssl-images-amazon.com/images/I/314oS4A79%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07DW6GSW7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DW6GSW7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

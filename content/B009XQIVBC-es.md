@@ -22,6 +22,9 @@ Tienes [Princess 212023 Batidora de Vaso Licuadora  600 W  1.5 litros  Vidrio  2
 
 [![Princess 212023 Batidora de Vaso Licuado](https://images-eu.ssl-images-amazon.com/images/I/31Wh22EmzuL._SL200_.jpg)](https://www.amazon.es/dp/B009XQIVBC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B009XQIVBC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

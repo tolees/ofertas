@@ -22,6 +22,9 @@ Ahora mismo tienes [Auriculares In-Ear Estéreo Bajo Potente Manos Libre  Headph
 
 [![Auriculares In-Ear Estéreo Bajo Potente ](https://images-eu.ssl-images-amazon.com/images/I/41L3burTb5L._SL200_.jpg)](https://www.amazon.es/dp/B07D3MGQV7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D3MGQV7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

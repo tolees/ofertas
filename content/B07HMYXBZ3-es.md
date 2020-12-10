@@ -22,6 +22,9 @@ Está [Chatham Newton  Náuticos para Hombre  Verde  Olive 001   41 EU](https://
 
 [![Chatham Newton  Náuticos para Hombre  Ve](https://images-eu.ssl-images-amazon.com/images/I/31GVKniwe-L._SL200_.jpg)](https://www.amazon.es/dp/B07HMYXBZ3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HMYXBZ3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

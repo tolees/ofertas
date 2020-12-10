@@ -22,6 +22,9 @@ Tienes [36 Rotuladores Pincel  Punta Suave Rotuladores Acuarelables no toxica  F
 
 [![36 Rotuladores Pincel  Punta Suave Rotul](https://images-eu.ssl-images-amazon.com/images/I/51O%2Bc0AiYjL._SL200_.jpg)](https://www.amazon.es/dp/B07LFH5DNY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LFH5DNY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

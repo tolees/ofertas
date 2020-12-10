@@ -22,6 +22,9 @@ Está [Severin Barbacoa Grill PG 2792 - Barbacoa de Pie  Superficie de Grill  41
 
 [![Severin Barbacoa Grill PG 2792 - Barbaco](https://images-eu.ssl-images-amazon.com/images/I/41DU3e%2Bya4L._SL200_.jpg)](https://www.amazon.es/dp/B000FMM7JU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000FMM7JU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

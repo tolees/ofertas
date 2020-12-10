@@ -22,6 +22,9 @@ Está [Cortapelos Nariz Hombre 4 en 1 Trimmer Nariz Cortador de Pelo de Nariz El
 
 [![Cortapelos Nariz Hombre 4 en 1 Trimmer N](https://images-eu.ssl-images-amazon.com/images/I/4161QIDoSyL._SL200_.jpg)](https://www.amazon.es/dp/B07KWWZJJ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KWWZJJ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

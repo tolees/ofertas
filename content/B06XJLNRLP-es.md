@@ -22,6 +22,9 @@ Tienes [Braun FaceSpa 851 - Sistema 3 en 1 de depiladora facial  cepillo limpiad
 
 [![Braun FaceSpa 851 - Sistema 3 en 1 de de](https://images-eu.ssl-images-amazon.com/images/I/41bTtpl7-PL._SL200_.jpg)](https://www.amazon.es/dp/B06XJLNRLP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XJLNRLP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

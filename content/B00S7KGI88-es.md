@@ -22,6 +22,9 @@ Ahora mismo tienes [Cuerpiño de cadenas L](https://www.amazon.es/dp/B00S7KGI88/
 
 [![Cuerpiño de cadenas L](https://images-eu.ssl-images-amazon.com/images/I/413z44aq2oL._SL200_.jpg)](https://www.amazon.es/dp/B00S7KGI88/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00S7KGI88/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

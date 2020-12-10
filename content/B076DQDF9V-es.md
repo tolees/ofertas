@@ -22,6 +22,9 @@ Está [BEPER Cafetera Tradicional CA.011  3 Tazas  Alumino  0 W  0.8 litros  0.6
 
 [![BEPER Cafetera Tradicional CA.011  3 Taz](https://images-eu.ssl-images-amazon.com/images/I/41swwQ-VngL._SL200_.jpg)](https://www.amazon.es/dp/B076DQDF9V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076DQDF9V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

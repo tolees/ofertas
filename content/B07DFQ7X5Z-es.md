@@ -22,6 +22,9 @@ Está [New Balance 574S  Zapatillas para Hombre  Azul  Smoke Blue/Silver Utg  47
 
 [![New Balance 574S  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41zezFLz5tL._SL200_.jpg)](https://www.amazon.es/dp/B07DFQ7X5Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFQ7X5Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

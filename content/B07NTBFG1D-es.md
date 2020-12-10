@@ -22,6 +22,9 @@ Ahora mismo tienes [UMIDIGI F1 Play Smartphone Libres Android 9 Pie Teléfono In
 
 [![UMIDIGI F1 Play Smartphone Libres Androi](https://images-eu.ssl-images-amazon.com/images/I/518feCphfhL._SL200_.jpg)](https://www.amazon.es/dp/B07NTBFG1D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NTBFG1D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

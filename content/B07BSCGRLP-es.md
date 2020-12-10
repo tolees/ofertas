@@ -22,6 +22,9 @@ Está [OCYCLONE Cargador Inalambrico Rápido  [2-Bobinas 10 W] Compatible para G
 
 [![OCYCLONE Cargador Inalambrico Rápido  [2](https://images-eu.ssl-images-amazon.com/images/I/51YytbwASIL._SL200_.jpg)](https://www.amazon.es/dp/B07BSCGRLP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BSCGRLP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

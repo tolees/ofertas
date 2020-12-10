@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Evopower Vigor 4 Graphic It  Zapatillas de Fútbol para
 
 [![Puma Evopower Vigor 4 Graphic It  Zapati](https://images-eu.ssl-images-amazon.com/images/I/41DP8wCEWRL._SL200_.jpg)](https://www.amazon.es/dp/B0725KWJWP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0725KWJWP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

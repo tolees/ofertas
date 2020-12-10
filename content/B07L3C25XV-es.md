@@ -22,6 +22,9 @@ Ahora mismo tienes [Calvin Klein - Ck Mono Cardholder  Tarjeteros Hombre  Negro 
 
 [![Calvin Klein - Ck Mono Cardholder  Tarje](https://images-eu.ssl-images-amazon.com/images/I/61G0VDsdqpL._SL200_.jpg)](https://www.amazon.es/dp/B07L3C25XV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07L3C25XV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

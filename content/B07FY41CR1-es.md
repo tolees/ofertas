@@ -22,6 +22,9 @@ Está [Vans Palomar  Zapatillas para Hombre  Azul   Suede/Canvas  Dress Blues/Na
 
 [![Vans Palomar  Zapatillas para Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/31X9vU7qPvL._SL200_.jpg)](https://www.amazon.es/dp/B07FY41CR1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FY41CR1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Cortabordes Eléctrico  TACKLIFE Cortabordes 600W  30cm de D
 
 [![Cortabordes Eléctrico  TACKLIFE Cortabor](https://images-eu.ssl-images-amazon.com/images/I/41IdGT%2B5BlL._SL200_.jpg)](https://www.amazon.es/dp/B07F7XNRXH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F7XNRXH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

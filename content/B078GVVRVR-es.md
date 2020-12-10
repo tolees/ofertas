@@ -22,6 +22,9 @@ Tienes [Cressi Calibro + Corsica Packs de Snorkel  Unisex Adulto  Verde](https:/
 
 [![Cressi Calibro + Corsica Packs de Snorke](https://images-eu.ssl-images-amazon.com/images/I/51NwkaPHjqL._SL200_.jpg)](https://www.amazon.es/dp/B078GVVRVR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078GVVRVR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

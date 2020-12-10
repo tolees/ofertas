@@ -22,6 +22,9 @@ Está [BILLABONG All Day LB 16 Bañador  Hombre  Black  M](https://www.amazon.es
 
 [![BILLABONG All Day LB 16 Bañador  Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41U1Vb3f9YL._SL200_.jpg)](https://www.amazon.es/dp/B077RSZN8T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077RSZN8T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

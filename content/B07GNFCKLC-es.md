@@ -22,6 +22,9 @@ Está [LifeWheel - Calcetines de deporte - para hombre Multicolor A1 Style 6 Pai
 
 [![LifeWheel - Calcetines de deporte - para](https://images-eu.ssl-images-amazon.com/images/I/4145%2B5Uh7PL._SL200_.jpg)](https://www.amazon.es/dp/B07GNFCKLC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GNFCKLC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

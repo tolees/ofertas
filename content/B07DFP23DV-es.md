@@ -22,6 +22,9 @@ Tienes [New Balance 373  Zapatillas Unisex Niños  Rosa Purple Pink  30.5 EU](ht
 
 [![New Balance 373  Zapatillas Unisex Niños](https://images-eu.ssl-images-amazon.com/images/I/41sQ39JzNjL._SL200_.jpg)](https://www.amazon.es/dp/B07DFP23DV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DFP23DV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Gant 3-Pack Trunk Seasonal Solid CTN Str  Bañador Hombre  V
 
 [![Gant 3-Pack Trunk Seasonal Solid CTN Str](https://images-eu.ssl-images-amazon.com/images/I/41y5sV7365L._SL200_.jpg)](https://www.amazon.es/dp/B07D2RBF2N/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D2RBF2N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

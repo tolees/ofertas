@@ -22,6 +22,9 @@ Está [Braun Face 832-s - Set de regalo con depiladora facial y cepillo de limpi
 
 [![Braun Face 832-s - Set de regalo con dep](https://images-eu.ssl-images-amazon.com/images/I/515l1bNpa4L._SL200_.jpg)](https://www.amazon.es/dp/B012CK64BY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B012CK64BY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

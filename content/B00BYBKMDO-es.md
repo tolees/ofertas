@@ -22,6 +22,9 @@ Tienes [V per vendetta + Sucker punch [Italia] [Blu-ray]](https://www.amazon.es/
 
 [![V per vendetta + Sucker punch [Italia] [](https://images-eu.ssl-images-amazon.com/images/I/51BeO1uq-8L._SL200_.jpg)](https://www.amazon.es/dp/B00BYBKMDO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BYBKMDO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

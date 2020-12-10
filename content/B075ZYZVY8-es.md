@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Bobs Sport-Insta Cool  Zapatillas para Mujer  Beige
 
 [![Skechers Bobs Sport-Insta Cool  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/51yE3xuD7AL._SL200_.jpg)](https://www.amazon.es/dp/B075ZYZVY8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075ZYZVY8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

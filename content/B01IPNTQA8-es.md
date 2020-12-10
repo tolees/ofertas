@@ -22,6 +22,9 @@ Tienes [Kawasaki Country Washed  Zapatillas Unisex Adulto  Negro  Black/Brown/Gr
 
 [![Kawasaki Country Washed  Zapatillas Unis](https://images-eu.ssl-images-amazon.com/images/I/41PwdmaaHnL._SL200_.jpg)](https://www.amazon.es/dp/B01IPNTQA8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IPNTQA8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

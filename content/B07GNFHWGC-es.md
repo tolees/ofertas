@@ -22,6 +22,9 @@ Está [HyperX Predator DDR4 - Memoria RAM de 8 GB 3.333MHz  DDR4  PC/Servidor  2
 
 [![HyperX Predator DDR4 - Memoria RAM de 8 ](https://images-eu.ssl-images-amazon.com/images/I/31FEncaI12L._SL200_.jpg)](https://www.amazon.es/dp/B07GNFHWGC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GNFHWGC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

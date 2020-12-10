@@ -22,6 +22,9 @@ Está [The North Face Litewave Fastpack Mid Gore-Tex  Botas de Senderismo para H
 
 [![The North Face Litewave Fastpack Mid Gor](https://images-eu.ssl-images-amazon.com/images/I/41JnaflgV3L._SL200_.jpg)](https://www.amazon.es/dp/B07BB4D5HQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BB4D5HQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

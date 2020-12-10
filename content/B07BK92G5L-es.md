@@ -22,6 +22,13 @@ Ahora mismo tienes [Gorjuss CK-01A-G Set Regalo Muñeca y Despertador You Brough
 
 [![Gorjuss CK-01A-G Set Regalo Muñeca y Des](https://m.media-amazon.com/images/I/5166s8IFlTL._SL200_.jpg)](https://www.amazon.es/dp/B07BK92G5L/?tag=tolees-21)
 
+Características:
+
+- Producto Oficial Gorjuss
+- Con luz para poder ver la hora a oscuras
+- Con luz para poder ver la hora a oscuras
+- Set de regalo de muñeca de trapo y reloj despertador
+
 [Visítala!!!](https://www.amazon.es/dp/B07BK92G5L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

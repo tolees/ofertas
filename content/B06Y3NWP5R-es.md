@@ -22,6 +22,9 @@ Ahora mismo tienes [Pingko Temporizador Cronómetro Digital De Docina De Diseño
 
 [![Pingko Temporizador Cronómetro Digital D](https://images-eu.ssl-images-amazon.com/images/I/41Ue9xh3KyL._SL200_.jpg)](https://www.amazon.es/dp/B06Y3NWP5R/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06Y3NWP5R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

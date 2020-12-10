@@ -22,6 +22,9 @@ Está [Trswyop Pulsera de Actividad Inteligente  Reloj Inteligente Hombre Mujer 
 
 [![Trswyop Pulsera de Actividad Inteligente](https://images-eu.ssl-images-amazon.com/images/I/41WjdGGu%2BZL._SL200_.jpg)](https://www.amazon.es/dp/B07JYXP48Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JYXP48Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

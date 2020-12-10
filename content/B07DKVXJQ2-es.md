@@ -22,6 +22,9 @@ Tienes [Columbia Sombrero de pesca unisex  Bora Bora Print Booney  Nailon  Amari
 
 [![Columbia Sombrero de pesca unisex  Bora ](https://images-eu.ssl-images-amazon.com/images/I/51E5gghlimL._SL200_.jpg)](https://www.amazon.es/dp/B07DKVXJQ2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DKVXJQ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

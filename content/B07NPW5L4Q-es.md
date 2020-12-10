@@ -22,6 +22,9 @@ Está [auna TC-386 • Equipo de música Tocadiscos • Minicadena Hi-fi • Rad
 
 [![auna TC-386 • Equipo de música Tocadisco](https://images-eu.ssl-images-amazon.com/images/I/51KzTEpp5TL._SL200_.jpg)](https://www.amazon.es/dp/B07NPW5L4Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NPW5L4Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

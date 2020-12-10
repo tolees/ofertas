@@ -22,6 +22,9 @@ Está [Munich 705001  Bolsa para Portátil para Hombre  Negro  Black   10x45x45 
 
 [![Munich 705001  Bolsa para Portátil para ](https://images-eu.ssl-images-amazon.com/images/I/41lPyPeJ-HL._SL200_.jpg)](https://www.amazon.es/dp/B0781YXHFW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0781YXHFW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

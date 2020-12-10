@@ -22,6 +22,9 @@ Está [Maison & White 1500ml Cafetería francesa de prensa | Prensa de café de 
 
 [![Maison & White 1500ml Cafetería francesa](https://images-eu.ssl-images-amazon.com/images/I/41qpx8Tfm8L._SL200_.jpg)](https://www.amazon.es/dp/B07BZNWL81/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BZNWL81/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

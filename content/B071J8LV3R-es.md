@@ -22,6 +22,9 @@ Está [Pretender Maletín de Médico con Accesorios para Juego de rol para Niño
 
 [![Pretender Maletín de Médico con Accesori](https://images-eu.ssl-images-amazon.com/images/I/51WlChuu2SL._SL200_.jpg)](https://www.amazon.es/dp/B071J8LV3R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071J8LV3R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

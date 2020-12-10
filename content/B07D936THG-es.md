@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Medium Drawstring  Bañador para Hombre  Rosa  Navy Blazer
 
 [![Tommy Hilfiger Medium Drawstring  Bañado](https://images-eu.ssl-images-amazon.com/images/I/41mWCsohmgL._SL200_.jpg)](https://www.amazon.es/dp/B07D936THG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D936THG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

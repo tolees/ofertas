@@ -22,6 +22,9 @@ Tienes [Alcatel A3 - Tablet de 10.1   HD IPS  WiFi  Procesador QuadCore  1GB de 
 
 [![Alcatel A3 - Tablet de 10.1   HD IPS  Wi](https://images-eu.ssl-images-amazon.com/images/I/41R5G1VVgFL._SL200_.jpg)](https://www.amazon.es/dp/B078BMHHNH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078BMHHNH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Cuerda saltar ajustable Electro-weideworld Jump Rope Empuñadura Super Co
 
 [![Cuerda saltar ajustable Electro-weidewor](https://images-eu.ssl-images-amazon.com/images/I/41qP5yoB-FL._SL200_.jpg)](https://www.amazon.es/dp/B0784BLDWD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0784BLDWD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

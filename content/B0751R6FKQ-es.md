@@ -22,6 +22,9 @@ Está [New Balance Fresh Foam Cruz Decon  Zapatillas de Entrenamiento para Mujer
 
 [![New Balance Fresh Foam Cruz Decon  Zapat](https://images-eu.ssl-images-amazon.com/images/I/51AJShaBzHL._SL200_.jpg)](https://www.amazon.es/dp/B0751R6FKQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0751R6FKQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Fantasy Flight Games- X-Wing  Pilotos de Fortuna  FFSWX73 ](
 
 [![Fantasy Flight Games- X-Wing  Pilotos de](https://images-eu.ssl-images-amazon.com/images/I/41qgUWUbQzL._SL200_.jpg)](https://www.amazon.es/dp/B0776Z9CKH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0776Z9CKH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

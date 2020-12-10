@@ -22,6 +22,9 @@ Ahora mismo tienes [O Neill PM Original Cali Bermudas  Hombre  Blue Heaven  Extr
 
 [![O Neill PM Original Cali Bermudas  Hombr](https://images-eu.ssl-images-amazon.com/images/I/41%2Bv3G1HM3L._SL200_.jpg)](https://www.amazon.es/dp/B07KBFX1ST/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KBFX1ST/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Nuk Classic Set de 2 chupetes para niño Talla 1 Talla:6-18 meses](http
 
 [![Nuk Classic Set de 2 chupetes para niño ](https://images-eu.ssl-images-amazon.com/images/I/41Vne4FKmwL._SL200_.jpg)](https://www.amazon.es/dp/B075NC75RJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075NC75RJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

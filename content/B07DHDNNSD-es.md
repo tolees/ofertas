@@ -22,6 +22,9 @@ Está [FunFitness Bolsa DE Malla  Negro  XXX-Grande 70x100cm  ★ Bolsa de cord�
 
 [![FunFitness Bolsa DE Malla  Negro  XXX-Gr](https://images-eu.ssl-images-amazon.com/images/I/51wHKQ9uaJL._SL200_.jpg)](https://www.amazon.es/dp/B07DHDNNSD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DHDNNSD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

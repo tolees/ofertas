@@ -22,6 +22,9 @@ Está [Suenoszzz - Cabecero Canada  Cama90  100X57 Cms. Color Beige](https://www
 
 [![Suenoszzz - Cabecero Canada  Cama90  100](https://images-eu.ssl-images-amazon.com/images/I/41%2BWZOnWYLL._SL200_.jpg)](https://www.amazon.es/dp/B06Y15CT1G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y15CT1G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

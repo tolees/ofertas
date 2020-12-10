@@ -22,6 +22,9 @@ Ahora mismo tienes [deAO Coche de Carreras RC 2DW Vehiculo de Alta Velocidad Rad
 
 [![deAO Coche de Carreras RC 2DW Vehiculo d](https://images-eu.ssl-images-amazon.com/images/I/51fKHEofb8L._SL200_.jpg)](https://www.amazon.es/dp/B07DM1KCLB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DM1KCLB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

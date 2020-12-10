@@ -22,6 +22,9 @@ Está [KENNETH COLE Brooke  Atado al Tobillo para Mujer  Beige  Latte 261   38 E
 
 [![KENNETH COLE Brooke  Atado al Tobillo pa](https://images-eu.ssl-images-amazon.com/images/I/41qcywC5rLL._SL200_.jpg)](https://www.amazon.es/dp/B01MD0GDQP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MD0GDQP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

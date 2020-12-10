@@ -22,6 +22,9 @@ Tienes [DANISH ENDURANCE Merino Wool Light Cushion Socks  3 Pares  EU 39-42  De 
 
 [![DANISH ENDURANCE Merino Wool Light Cushi](https://images-eu.ssl-images-amazon.com/images/I/5174lHgtrOL._SL200_.jpg)](https://www.amazon.es/dp/B07D8VRCTW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D8VRCTW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

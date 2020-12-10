@@ -22,6 +22,9 @@ Está [GORE RUNNING WEAR Pantalones térmicos  Mujer  GORE Selected Fabrics  SUN
 
 [![GORE RUNNING WEAR Pantalones térmicos  M](https://images-eu.ssl-images-amazon.com/images/I/41Y%2B%2BSldJgL._SL200_.jpg)](https://www.amazon.es/dp/B01BYJA6ZY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BYJA6ZY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

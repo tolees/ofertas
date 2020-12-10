@@ -22,6 +22,9 @@ Ahora mismo tienes [No Box Bristol - Zapatillas de deporte de cuero para mujer g
 
 [![No Box Bristol - Zapatillas de deporte d](https://images-eu.ssl-images-amazon.com/images/I/51H0DJRsV0L._SL200_.jpg)](https://www.amazon.es/dp/B00KXY0A08/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00KXY0A08/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [AUKEY Altavoz Bluetooth 4.0 al Aire Libre  Altavoz Impermeable y Protecci
 
 [![AUKEY Altavoz Bluetooth 4.0 al Aire Libr](https://images-eu.ssl-images-amazon.com/images/I/51bScfpEyAL._SL200_.jpg)](https://www.amazon.es/dp/B01A6GD7F2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01A6GD7F2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

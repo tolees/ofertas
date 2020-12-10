@@ -22,6 +22,9 @@ Está [Ukelele Hricane Ukeleles Concierto 23 Pulgadas Instrumento de Caoba  Ukul
 
 [![Ukelele Hricane Ukeleles Concierto 23 Pu](https://images-eu.ssl-images-amazon.com/images/I/51l973PO7iL._SL200_.jpg)](https://www.amazon.es/dp/B074J4TXK7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074J4TXK7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

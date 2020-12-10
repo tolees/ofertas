@@ -22,6 +22,9 @@ Está [Salomon X Ultra 3 Prime W  Calzado de Senderismo y multifunción para Muj
 
 [![Salomon X Ultra 3 Prime W  Calzado de Se](https://images-eu.ssl-images-amazon.com/images/I/41gEhRDc-6L._SL200_.jpg)](https://www.amazon.es/dp/B076GVN3PR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076GVN3PR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

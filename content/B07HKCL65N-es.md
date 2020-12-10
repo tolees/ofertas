@@ -22,6 +22,9 @@ Tienes [AUTOECHO Altavoz de Ducha Bluetooth® Resistente al Agua de  Altavoz por
 
 [![AUTOECHO Altavoz de Ducha Bluetooth® Res](https://images-eu.ssl-images-amazon.com/images/I/31tAcqoGjFL._SL200_.jpg)](https://www.amazon.es/dp/B07HKCL65N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HKCL65N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

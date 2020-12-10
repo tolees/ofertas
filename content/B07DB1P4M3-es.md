@@ -22,6 +22,9 @@ Tienes [Mustang Schnür-Booty  Botas Clasicas Unisex Niños  Azul  Navy 820   35
 
 [![Mustang Schnür-Booty  Botas Clasicas Uni](https://images-eu.ssl-images-amazon.com/images/I/41BUyOWoBsL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1P4M3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DB1P4M3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

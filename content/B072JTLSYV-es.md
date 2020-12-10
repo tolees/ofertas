@@ -22,6 +22,9 @@ Tienes [HyperX Predator 32GB 3600MHz DDR4 Kit módulo de - Memoria  32 GB  4 x 8
 
 [![HyperX Predator 32GB 3600MHz DDR4 Kit mó](https://images-eu.ssl-images-amazon.com/images/I/41kAJb53O5L._SL200_.jpg)](https://www.amazon.es/dp/B072JTLSYV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072JTLSYV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Esprit 087ee1i006  suéter Mujer   Terracotta 5 809   XX-Large](https://w
 
 [![Esprit 087ee1i006  suéter Mujer   Terrac](https://images-eu.ssl-images-amazon.com/images/I/41c1ElhvLdL._SL200_.jpg)](https://www.amazon.es/dp/B074RVB83M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074RVB83M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BIC Cristal Original - Caja de 10 unidades  bolígrafos punta media  1 0 
 
 [![BIC Cristal Original - Caja de 10 unidad](https://images-eu.ssl-images-amazon.com/images/I/515daIIA7rL._SL200_.jpg)](https://www.amazon.es/dp/B004DBFPNE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004DBFPNE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

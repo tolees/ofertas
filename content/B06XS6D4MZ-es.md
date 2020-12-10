@@ -22,6 +22,9 @@ Está [New Balance M1500V4 Boa Closure  Zapatillas de Running para Hombre  Negro
 
 [![New Balance M1500V4 Boa Closure  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41BnJ9lNzpL._SL200_.jpg)](https://www.amazon.es/dp/B06XS6D4MZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XS6D4MZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

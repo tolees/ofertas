@@ -22,6 +22,9 @@ Está [FIXKIT Casco Soldadura de Oscurecimiento Automático con Protección UV  
 
 [![FIXKIT Casco Soldadura de Oscurecimiento](https://images-eu.ssl-images-amazon.com/images/I/51PLs%2BestHL._SL200_.jpg)](https://www.amazon.es/dp/B07BHNKN18/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BHNKN18/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

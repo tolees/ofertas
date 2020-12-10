@@ -22,6 +22,9 @@ Está [Android TV Box- TICTID AX9 TV Box Android 7.1 Quad Core 1GB RAM/8GB ROM s
 
 [![Android TV Box- TICTID AX9 TV Box Androi](https://images-eu.ssl-images-amazon.com/images/I/41yMcnPhXOL._SL200_.jpg)](https://www.amazon.es/dp/B07GJ2K1J3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GJ2K1J3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

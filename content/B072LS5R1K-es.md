@@ -22,6 +22,9 @@ Tienes [Puma Escaper SL V Inf  Zapatillas Unisex Niños  Negro Black White 01  2
 
 [![Puma Escaper SL V Inf  Zapatillas Unisex](https://images-eu.ssl-images-amazon.com/images/I/41uNhkdJCQL._SL200_.jpg)](https://www.amazon.es/dp/B072LS5R1K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072LS5R1K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

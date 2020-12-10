@@ -22,6 +22,9 @@ Tienes [Tosel 64869 estructura lámpara Tissue madera haya maciza  difusor de a
 
 [![Tosel 64869 estructura lámpara Tissue ma](https://images-eu.ssl-images-amazon.com/images/I/31-4aEE-gFL._SL200_.jpg)](https://www.amazon.es/dp/B06XT6JMTD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XT6JMTD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

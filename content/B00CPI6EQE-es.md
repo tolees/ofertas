@@ -22,6 +22,9 @@ Tienes [Superga 2750 Jcot Classic  Zapatillas Infantil  Gris  C26 Mushroom   33 
 
 [![Superga 2750 Jcot Classic  Zapatillas In](https://images-eu.ssl-images-amazon.com/images/I/41ZZSwRUfVL._SL200_.jpg)](https://www.amazon.es/dp/B00CPI6EQE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CPI6EQE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Farmatint Spray instantáneo capilar Stop Raíces  color castaño claro -
 
 [![Farmatint Spray instantáneo capilar Stop](https://images-eu.ssl-images-amazon.com/images/I/418vC2sFwQL._SL200_.jpg)](https://www.amazon.es/dp/B07R48GSHK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07R48GSHK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

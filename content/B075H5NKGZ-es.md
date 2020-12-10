@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger New Chiara Str Pq Polo Ss  Polo Mujer  Rojo  
 
 [![Tommy Hilfiger New Chiara Str Pq Polo Ss]()](https://www.amazon.es/dp/B075H5NKGZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075H5NKGZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Samsung 850 EVO - Disco Duro sólido  2 TB  Serial ATA III  540 MB/s  2.5
 
 [![Samsung 850 EVO - Disco Duro sólido  2 T](https://images-eu.ssl-images-amazon.com/images/I/418PfJdr2%2BL._SL200_.jpg)](https://www.amazon.es/dp/B010UFKDHY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B010UFKDHY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

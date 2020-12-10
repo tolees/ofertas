@@ -22,6 +22,9 @@ Está [SELECTED Shhroyce New Light Penny Loafer  Mocasines para Hombre  Beige  O
 
 [![SELECTED Shhroyce New Light Penny Loafer](https://images-eu.ssl-images-amazon.com/images/I/41WABa7afqL._SL200_.jpg)](https://www.amazon.es/dp/B01MXPG24A/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MXPG24A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

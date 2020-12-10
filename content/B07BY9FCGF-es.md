@@ -22,6 +22,9 @@ Está [Bulaggi - Alice Hopper  Shoppers y bolsos de hombro Mujer  Negro  Schwarz
 
 [![Bulaggi - Alice Hopper  Shoppers y bolso](https://images-eu.ssl-images-amazon.com/images/I/41sUU81NtPL._SL200_.jpg)](https://www.amazon.es/dp/B07BY9FCGF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BY9FCGF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

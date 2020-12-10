@@ -22,6 +22,9 @@ Está [Garmin Fenix 5S - Reloj multideporte  con GPS y medidor de frecuencia car
 
 [![Garmin Fenix 5S - Reloj multideporte  co](https://images-eu.ssl-images-amazon.com/images/I/51rozrVf1IL._SL200_.jpg)](https://www.amazon.es/dp/B01MXZALOB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MXZALOB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

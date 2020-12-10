@@ -22,6 +22,9 @@ Está [Only Onlnatalia L/s Ruffle Pullover CC Knt suéter  Gris  Light Grey Mela
 
 [![Only Onlnatalia L/s Ruffle Pullover CC K](https://images-eu.ssl-images-amazon.com/images/I/41c%2BVau-YTL._SL200_.jpg)](https://www.amazon.es/dp/B076BRMZNC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076BRMZNC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

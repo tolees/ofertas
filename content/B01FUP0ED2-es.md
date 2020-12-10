@@ -22,6 +22,12 @@ Tienes [INSTITUTO ESPAÑOL crema corporal reparadora urea formato viaje 50 ml](h
 
 [![INSTITUTO ESPAÑOL crema corporal reparad](https://m.media-amazon.com/images/I/3197+pgSl8L._SL200_.jpg)](https://www.amazon.es/dp/B01FUP0ED2/?tag=tolees-21)
 
+Características principales:
+
+- Marca: Instituto Español
+- Género: Unisex Adulto
+- Tipo de producto: Tratamiento corporal
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FUP0ED2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

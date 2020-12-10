@@ -22,6 +22,9 @@ Está [Maybelline New York Paleta de Labios Blushed Bombshell](https://www.amazo
 
 [![Maybelline New York Paleta de Labios Blu](https://images-eu.ssl-images-amazon.com/images/I/41eOTUwiyjL._SL200_.jpg)](https://www.amazon.es/dp/B01N6H5Y1P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6H5Y1P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

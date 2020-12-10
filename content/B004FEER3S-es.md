@@ -22,6 +22,9 @@ Está [Intex - Bomba eléctrica enchufe 220-240v + adaptador coche  66622 ](http
 
 [![Intex - Bomba eléctrica enchufe 220-240v](https://images-eu.ssl-images-amazon.com/images/I/51Yqfm0RsUL._SL200_.jpg)](https://www.amazon.es/dp/B004FEER3S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004FEER3S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

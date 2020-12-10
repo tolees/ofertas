@@ -22,6 +22,9 @@ Está [U-Kiss Transportín para Perros  Bolsa de Transporte para Mascotas Bolsa 
 
 [![U-Kiss Transportín para Perros  Bolsa de](https://images-eu.ssl-images-amazon.com/images/I/41H864ZSogL._SL200_.jpg)](https://www.amazon.es/dp/B07JDKRDRJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JDKRDRJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

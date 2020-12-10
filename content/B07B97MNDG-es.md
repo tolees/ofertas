@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Curington Rise  Botas Chelsea para Hombre  Marrón  T
 
 [![Clarks Curington Rise  Botas Chelsea par](https://images-eu.ssl-images-amazon.com/images/I/41X%2BaDR5xlL._SL200_.jpg)](https://www.amazon.es/dp/B07B97MNDG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B97MNDG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

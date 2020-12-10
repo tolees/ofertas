@@ -22,6 +22,9 @@ Ahora mismo tienes [Funko Pop! Vinyl: Disney: NBX: Oogie Boogie 2785](https://ww
 
 [![Funko Pop! Vinyl: Disney: NBX: Oogie Boo](https://images-eu.ssl-images-amazon.com/images/I/414j15DrJlL._SL200_.jpg)](https://www.amazon.es/dp/B008Z1OHI2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B008Z1OHI2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

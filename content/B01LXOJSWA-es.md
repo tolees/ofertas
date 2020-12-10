@@ -22,6 +22,9 @@ Está [Xiaomi original Monitor inteligente para plantas Sensor para detectar la 
 
 [![Xiaomi original Monitor inteligente para](https://images-eu.ssl-images-amazon.com/images/I/418ERSkaeVL._SL200_.jpg)](https://www.amazon.es/dp/B01LXOJSWA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LXOJSWA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

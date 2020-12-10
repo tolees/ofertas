@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Medium Drawstring  Bañador para Hombre  Rosa  Ultramarin
 
 [![Tommy Hilfiger Medium Drawstring  Bañado](https://images-eu.ssl-images-amazon.com/images/I/41PuxDy5C2L._SL200_.jpg)](https://www.amazon.es/dp/B07D8YBFM6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D8YBFM6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [LE COQ SPORTIF Alpha Inf Sport  Botas Unisex bebé  Beige  Dress Blue/Cro
 
 [![LE COQ SPORTIF Alpha Inf Sport  Botas Un](https://images-eu.ssl-images-amazon.com/images/I/413G4wg%2BmxL._SL200_.jpg)](https://www.amazon.es/dp/B07DC84BZ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC84BZ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

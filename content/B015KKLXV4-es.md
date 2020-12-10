@@ -22,6 +22,9 @@ Está [Kappa Sunrise Light  Zapatillas Unisex Adulto  Blanco  White/Black   37 E
 
 [![Kappa Sunrise Light  Zapatillas Unisex A](https://images-eu.ssl-images-amazon.com/images/I/41acZDEhI0L._SL200_.jpg)](https://www.amazon.es/dp/B015KKLXV4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B015KKLXV4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Emporio Armani Underwear 9p421  Bañador para Hombre   Negro 00020   X-L
 
 [![Emporio Armani Underwear 9p421  Bañador ](https://images-eu.ssl-images-amazon.com/images/I/412pFjHpVxL._SL200_.jpg)](https://www.amazon.es/dp/B07K1JR28L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K1JR28L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

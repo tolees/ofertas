@@ -22,6 +22,9 @@ Está [READ Tezer Bluetooth Headset - Mini Auriculares Bluetooth V5.0 Wireless A
 
 [![READ Tezer Bluetooth Headset - Mini Auri](https://images-eu.ssl-images-amazon.com/images/I/41OBXZMUb6L._SL200_.jpg)](https://www.amazon.es/dp/B07HJTKZBQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HJTKZBQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

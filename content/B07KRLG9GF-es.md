@@ -22,6 +22,9 @@ Está [REPLAY Zeumar Pantalones  Marrón  Mud 70   W27/L30  Talla del Fabricante
 
 [![REPLAY Zeumar Pantalones  Marrón  Mud 70](https://images-eu.ssl-images-amazon.com/images/I/31ZWLJMGsXL._SL200_.jpg)](https://www.amazon.es/dp/B07KRLG9GF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KRLG9GF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

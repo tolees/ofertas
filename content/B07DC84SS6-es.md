@@ -22,6 +22,9 @@ Está [LE COQ SPORTIF Courtset W Woven Black/Rose Gold  Zapatillas para Mujer  B
 
 [![LE COQ SPORTIF Courtset W Woven Black/Ro](https://images-eu.ssl-images-amazon.com/images/I/41B4hOsf1AL._SL200_.jpg)](https://www.amazon.es/dp/B07DC84SS6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC84SS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

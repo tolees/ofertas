@@ -22,6 +22,9 @@ Tienes [Integral INMSDH32G10-40U1 - Tarjeta Micro SD de 32 GB  Adaptador Incluid
 
 [![Integral INMSDH32G10-40U1 - Tarjeta Micr](https://images-eu.ssl-images-amazon.com/images/I/41VgUucQDpL._SL200_.jpg)](https://www.amazon.es/dp/B00CN3IJE6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CN3IJE6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

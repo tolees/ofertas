@@ -22,6 +22,9 @@ Está [Miami Beach Swimwear Julia Tankini  Negro  Black   46](https://www.amazon
 
 [![Miami Beach Swimwear Julia Tankini  Negr](https://images-eu.ssl-images-amazon.com/images/I/41eVW8FVc2L._SL200_.jpg)](https://www.amazon.es/dp/B01N2X4MC3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N2X4MC3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

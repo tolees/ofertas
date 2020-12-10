@@ -22,6 +22,9 @@ Está [High Peak Calvia Refugio de Playa Pop up  Unisex Adulto  Azul/Gris](https
 
 [![High Peak Calvia Refugio de Playa Pop up](https://images-eu.ssl-images-amazon.com/images/I/41MZptb63dL._SL200_.jpg)](https://www.amazon.es/dp/B07K2HNX28/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K2HNX28/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

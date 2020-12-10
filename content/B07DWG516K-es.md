@@ -22,6 +22,9 @@ Está [Call It Spring EU - Giran  Bolsos bandolera Mujer  Negro  Black   4x17x23
 
 [![Call It Spring EU - Giran  Bolsos bandol](https://images-eu.ssl-images-amazon.com/images/I/411wm54-MJL._SL200_.jpg)](https://www.amazon.es/dp/B07DWG516K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DWG516K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

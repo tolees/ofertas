@@ -22,6 +22,9 @@ Tienes [DC Apparel Star Hoody Sweat Fleece Top  Hombre  Racing Red  L](https://w
 
 [![DC Apparel Star Hoody Sweat Fleece Top  ](https://images-eu.ssl-images-amazon.com/images/I/41t3uUnMUiL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ2CYGT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KQ2CYGT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

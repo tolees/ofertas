@@ -22,6 +22,9 @@ Ahora mismo tienes [Medion Erazer P3615 D - Ordenador de sobremesa  AMD Ryzen5 1
 
 [![Medion Erazer P3615 D - Ordenador de sob](https://images-eu.ssl-images-amazon.com/images/I/5150396UJNL._SL200_.jpg)](https://www.amazon.es/dp/B071XD6JDS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071XD6JDS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

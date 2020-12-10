@@ -22,6 +22,9 @@ Está [Rexona Desodorante Antitranspirante Aqua 200ml Pack de 6: 1200ml](https:/
 
 [![Rexona Desodorante Antitranspirante Aqua](https://images-eu.ssl-images-amazon.com/images/I/31tQRk4lyVL._SL200_.jpg)](https://www.amazon.es/dp/B0767F5TPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0767F5TPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

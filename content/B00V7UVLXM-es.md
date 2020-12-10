@@ -22,6 +22,9 @@ Está [Belkin F8M967btWHT - Kit de carga para viajeros internacionales  2 4 A  6
 
 [![Belkin F8M967btWHT - Kit de carga para v](https://images-eu.ssl-images-amazon.com/images/I/41LY7ZO%2B33L._SL200_.jpg)](https://www.amazon.es/dp/B00V7UVLXM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00V7UVLXM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

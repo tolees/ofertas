@@ -22,6 +22,10 @@ Está [Chicco - Calienta biberón de casa y viaje con adaptador para el coche](h
 
 [![Chicco - Calienta biberón de casa y viaj](https://m.media-amazon.com/images/I/31rltfA3SbL._SL200_.jpg)](https://www.amazon.es/dp/B00SN4GQRQ/?tag=tolees-21)
 
+Principales características:
+
+- CHICCO
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00SN4GQRQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

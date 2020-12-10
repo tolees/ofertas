@@ -22,6 +22,9 @@ Tienes [Vegkey Repelente Ultrasónico Mosquitos  4 Piezas Electrónico Repelente
 
 [![Vegkey Repelente Ultrasónico Mosquitos  ](https://images-eu.ssl-images-amazon.com/images/I/41r4tb9aX8L._SL200_.jpg)](https://www.amazon.es/dp/B07RT9MP65/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RT9MP65/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

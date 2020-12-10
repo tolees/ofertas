@@ -22,6 +22,9 @@ Está [Merisny Mini Proyector Portatil  2400 Lúmenes Video Proyector LCD 40000 
 
 [![Merisny Mini Proyector Portatil  2400 Lú](https://images-eu.ssl-images-amazon.com/images/I/51LJLpRJyyL._SL200_.jpg)](https://www.amazon.es/dp/B07JBXLDCD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JBXLDCD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

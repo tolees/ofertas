@@ -22,6 +22,9 @@ Está [Oxímetro de Pulso  Morpilot Pulsioxímetro de Dedo con Pantalla OLED  Pu
 
 [![Oxímetro de Pulso  Morpilot Pulsioxímetr](https://images-eu.ssl-images-amazon.com/images/I/41ReWrky2ZL._SL200_.jpg)](https://www.amazon.es/dp/B07K7HGW5S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K7HGW5S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

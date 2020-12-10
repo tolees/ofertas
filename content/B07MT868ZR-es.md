@@ -22,6 +22,9 @@ Ahora mismo tienes [Auriculares inalámbricos Bluetooth  TWS Auriculares inalám
 
 [![Auriculares inalámbricos Bluetooth  TWS ](https://images-eu.ssl-images-amazon.com/images/I/41GS1-9haPL._SL200_.jpg)](https://www.amazon.es/dp/B07MT868ZR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MT868ZR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

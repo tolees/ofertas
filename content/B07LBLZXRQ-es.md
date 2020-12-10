@@ -22,6 +22,9 @@ Está [Tommy Hilfiger New Ivy V-nk Swtr suéter  Azul  Omphalodes Multi 909   La
 
 [![Tommy Hilfiger New Ivy V-nk Swtr suéter ](https://images-eu.ssl-images-amazon.com/images/I/41lGz5tnUYL._SL200_.jpg)](https://www.amazon.es/dp/B07LBLZXRQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBLZXRQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

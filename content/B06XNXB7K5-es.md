@@ -22,6 +22,9 @@ Tienes [Joma Granada Pantalones Cortos  Hombre  Azul  S](https://www.amazon.es/d
 
 [![Joma Granada Pantalones Cortos  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/4129lbHFLRL._SL200_.jpg)](https://www.amazon.es/dp/B06XNXB7K5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XNXB7K5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

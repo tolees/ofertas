@@ -22,6 +22,9 @@ Tienes [Vibrador Masajeador Doble Pene  Juguetes Eróticos Consolador de 64 comb
 
 [![Vibrador Masajeador Doble Pene  Juguetes](https://images-eu.ssl-images-amazon.com/images/I/41nEw2IOcZL._SL200_.jpg)](https://www.amazon.es/dp/B07KD4TM7T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KD4TM7T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

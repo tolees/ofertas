@@ -22,6 +22,9 @@ Tienes [Kärcher 1.673-121.0 Limpiadora K 2 Compact](https://www.amazon.es/dp/B0
 
 [![Kärcher 1.673-121.0 Limpiadora K 2 Compa](https://images-eu.ssl-images-amazon.com/images/I/41tl%2BxQRsSL._SL200_.jpg)](https://www.amazon.es/dp/B00JOJYL6C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JOJYL6C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

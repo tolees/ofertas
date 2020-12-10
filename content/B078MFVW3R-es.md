@@ -22,6 +22,9 @@ Tienes [Asics GT-2000 6  Zapatillas de Entrenamiento para Mujer  Porcelain Blue 
 
 [![Asics GT-2000 6  Zapatillas de Entrenami](https://images-eu.ssl-images-amazon.com/images/I/51f30JzgfDL._SL200_.jpg)](https://www.amazon.es/dp/B078MFVW3R/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078MFVW3R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

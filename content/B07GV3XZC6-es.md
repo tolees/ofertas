@@ -22,6 +22,9 @@ Está [Fly London - Dipi614fly  Bolsos maletín Mujer  Negro  Black   8x16x22 cm
 
 [![Fly London - Dipi614fly  Bolsos maletín ](https://images-eu.ssl-images-amazon.com/images/I/41ALuMmeh3L._SL200_.jpg)](https://www.amazon.es/dp/B07GV3XZC6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GV3XZC6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Kingston HyperX Fury - Memoria RAM de 16GB  2 x 8 GB  1600 MHz  DDR3  CL1
 
 [![Kingston HyperX Fury - Memoria RAM de 16](https://images-eu.ssl-images-amazon.com/images/I/41DW7F0YwaL._SL200_.jpg)](https://www.amazon.es/dp/B00J8E8ZA6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00J8E8ZA6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Philips Optimal Temp GC8650/80 - Centro de Planchado de 6.2 bares  Auton
 
 [![Philips Optimal Temp GC8650/80 - Centro ](https://images-eu.ssl-images-amazon.com/images/I/41vW4MBTvmL._SL200_.jpg)](https://www.amazon.es/dp/B00JFQVFHM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JFQVFHM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

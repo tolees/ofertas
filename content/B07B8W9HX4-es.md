@@ -22,6 +22,9 @@ Está [Purina ProPlan pienso para Gato Esterilizado Pavo 6 x 1 5 Kg](https://www
 
 [![Purina ProPlan pienso para Gato Esterili](https://images-eu.ssl-images-amazon.com/images/I/51EiwSMhzBL._SL200_.jpg)](https://www.amazon.es/dp/B07B8W9HX4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B8W9HX4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Gifort Barbacoa Portátil de Acero Inoxidable  Barbacoa Portátil on Reji
 
 [![Gifort Barbacoa Portátil de Acero Inoxid](https://images-eu.ssl-images-amazon.com/images/I/51ovxoCKxHL._SL200_.jpg)](https://www.amazon.es/dp/B07MMB3WVW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MMB3WVW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [FEIYU CREATIVE máscara de Buceo Dual snokel](https://www.am
 
 [![FEIYU CREATIVE máscara de Buceo Dual sno](https://images-eu.ssl-images-amazon.com/images/I/518MBoLFgfL._SL200_.jpg)](https://www.amazon.es/dp/B07QZ19SWG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07QZ19SWG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

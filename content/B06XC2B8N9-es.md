@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Deconstructed Super Slim  jeans ajustados Hombre  Azul  L
 
 [![G-STAR RAW 3301 Deconstructed Super Slim](https://images-eu.ssl-images-amazon.com/images/I/41CfrLFs-oL._SL200_.jpg)](https://www.amazon.es/dp/B06XC2B8N9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XC2B8N9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

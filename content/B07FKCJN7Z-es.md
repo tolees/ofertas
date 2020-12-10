@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike Air Zoom Pegasus 35  GS   Zapatillas de Running para Ni
 
 [![Nike Air Zoom Pegasus 35  GS   Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/31l%2B7bA%2BoYL._SL200_.jpg)](https://www.amazon.es/dp/B07FKCJN7Z/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FKCJN7Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

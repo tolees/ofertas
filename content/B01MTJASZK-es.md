@@ -22,6 +22,9 @@ Está [LG FH2 - Altavoz inalámbrico Mini Trolley  Bluetooth  50 W  15 horas aut
 
 [![LG FH2 - Altavoz inalámbrico Mini Trolle](https://images-eu.ssl-images-amazon.com/images/I/41GJSYDIZgL._SL200_.jpg)](https://www.amazon.es/dp/B01MTJASZK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MTJASZK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

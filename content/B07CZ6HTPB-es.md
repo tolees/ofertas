@@ -22,6 +22,9 @@ Está [Asics Fuzetora Twist  Zapatillas de Deporte para Mujer  Gris  Mid Grey/Wh
 
 [![Asics Fuzetora Twist  Zapatillas de Depo](https://images-eu.ssl-images-amazon.com/images/I/4188XJ0IFQL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ6HTPB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ6HTPB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

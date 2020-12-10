@@ -22,6 +22,9 @@ Está [Kappa AMUN II  Zapatillas Unisex adulto Schwarz  1111 Black  37 EU](https
 
 [![Kappa AMUN II  Zapatillas Unisex adulto ](https://images-eu.ssl-images-amazon.com/images/I/416g6q1VmeL._SL200_.jpg)](https://www.amazon.es/dp/B0778ZPCB3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0778ZPCB3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

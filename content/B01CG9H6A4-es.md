@@ -22,6 +22,9 @@ Ahora mismo tienes [Panasonic MJ-L500NXE - Exprimidor de velocidad lenta  motor 
 
 [![Panasonic MJ-L500NXE - Exprimidor de vel](https://images-eu.ssl-images-amazon.com/images/I/31zirIN949L._SL200_.jpg)](https://www.amazon.es/dp/B01CG9H6A4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01CG9H6A4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

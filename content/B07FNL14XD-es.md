@@ -22,6 +22,9 @@ Tienes [MagiDeal Máquina De Secador De Soplado De Ventilador De Uñas De Color 
 
 [![MagiDeal Máquina De Secador De Soplado D](https://images-eu.ssl-images-amazon.com/images/I/41Z4ESsCnwL._SL200_.jpg)](https://www.amazon.es/dp/B07FNL14XD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FNL14XD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

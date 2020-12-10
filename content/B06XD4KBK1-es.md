@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike Jr Magistax Onda II DF IC  Botas de fútbol Unisex niñ
 
 [![Nike Jr Magistax Onda II DF IC  Botas de](https://images-eu.ssl-images-amazon.com/images/I/41cWQO7lPCL._SL200_.jpg)](https://www.amazon.es/dp/B06XD4KBK1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XD4KBK1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

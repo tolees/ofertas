@@ -22,6 +22,9 @@ Ahora mismo tienes [Einhell GC-PH 2155 - Recortasetos de gasolina  motor de 2 ti
 
 [![Einhell GC-PH 2155 - Recortasetos de gas](https://images-eu.ssl-images-amazon.com/images/I/316W5g3lwLL._SL200_.jpg)](https://www.amazon.es/dp/B00B18K5PU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00B18K5PU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

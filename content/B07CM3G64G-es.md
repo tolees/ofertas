@@ -22,6 +22,9 @@ Ahora mismo tienes [Aingoo Cama de Metal Cama Individual con Listones Marco para
 
 [![Aingoo Cama de Metal Cama Individual con](https://images-eu.ssl-images-amazon.com/images/I/41EKND1vYnL._SL200_.jpg)](https://www.amazon.es/dp/B07CM3G64G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CM3G64G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

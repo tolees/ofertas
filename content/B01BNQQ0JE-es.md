@@ -22,6 +22,9 @@ Está [Black+Decker BC20BD Cargador 20 Arrancador 40 AMP](https://www.amazon.es/
 
 [![Black+Decker BC20BD Cargador 20 Arrancad](https://images-eu.ssl-images-amazon.com/images/I/41jT3gFapDL._SL200_.jpg)](https://www.amazon.es/dp/B01BNQQ0JE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BNQQ0JE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

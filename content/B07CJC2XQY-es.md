@@ -22,6 +22,9 @@ Tienes [URCERI Detector de Pared Encontrar Stud Finder con 3-en-1 Metal AC Alamb
 
 [![URCERI Detector de Pared Encontrar Stud ](https://images-eu.ssl-images-amazon.com/images/I/41f4KpZqmyL._SL200_.jpg)](https://www.amazon.es/dp/B07CJC2XQY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CJC2XQY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

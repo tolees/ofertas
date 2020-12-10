@@ -22,6 +22,9 @@ Está [New Balance 247v2  Zapatillas para Hombre  Negro  Black/Silver FF   37 EU
 
 [![New Balance 247v2  Zapatillas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41s5CQpmDtL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ21VVL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ21VVL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

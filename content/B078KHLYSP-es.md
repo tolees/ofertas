@@ -22,6 +22,9 @@ Tienes [Urban Classic Ladies Short Spaghetti Jumpsuit Mono Largo  Blau  Horizonb
 
 [![Urban Classic Ladies Short Spaghetti Jum](https://images-eu.ssl-images-amazon.com/images/I/41eSo%2BcyfaL._SL200_.jpg)](https://www.amazon.es/dp/B078KHLYSP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078KHLYSP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

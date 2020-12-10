@@ -22,6 +22,9 @@ Tienes [Only Onlpi 7/8 Wrap Pullover Knt  suéter Mujer  Gris  Pumice Stone Deta
 
 [![Only Onlpi 7/8 Wrap Pullover Knt  suéter](https://images-eu.ssl-images-amazon.com/images/I/41aeZhdINOL._SL200_.jpg)](https://www.amazon.es/dp/B071WFPV19/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071WFPV19/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

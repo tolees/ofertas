@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Zapatillas de Deporte para Mujer   Cg3388 Blanco   36
 
 [![adidas Zapatillas de Deporte para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41sCQ9Q%2BDNL._SL200_.jpg)](https://www.amazon.es/dp/B071WLRPWZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071WLRPWZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

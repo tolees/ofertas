@@ -22,6 +22,9 @@ Está [Asics Dynaflyte  Zapatillas de Running para Mujer  Rosa  Diva Pink/Silver
 
 [![Asics Dynaflyte  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/51aRQi5rOyL._SL200_.jpg)](https://www.amazon.es/dp/B01MS1K95E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MS1K95E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

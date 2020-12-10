@@ -22,6 +22,9 @@ Tienes [MYCARBON Envasadora al Vacio Comida Húmedo en Conserva Alimentos Maquin
 
 [![MYCARBON Envasadora al Vacio Comida Húme](https://images-eu.ssl-images-amazon.com/images/I/51KDoNhjZLL._SL200_.jpg)](https://www.amazon.es/dp/B06XBVGV69/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XBVGV69/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Funko Yoda figura de vinilo  colección de POP  seria Star Wars 2322](htt
 
 [![Funko Yoda figura de vinilo  colección d](https://images-eu.ssl-images-amazon.com/images/I/41Hgh54YrkL._SL200_.jpg)](https://www.amazon.es/dp/B004JZ6OV6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004JZ6OV6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

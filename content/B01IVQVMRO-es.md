@@ -22,6 +22,9 @@ Está [One For All WM2251 - Soporte de pared para TV de 13 a 40”  giratorio 18
 
 [![One For All WM2251 - Soporte de pared pa](https://images-eu.ssl-images-amazon.com/images/I/51q4Og%2Bs65L._SL200_.jpg)](https://www.amazon.es/dp/B01IVQVMRO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IVQVMRO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

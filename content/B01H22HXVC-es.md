@@ -22,6 +22,9 @@ Ahora mismo tienes [Beper VE.610R Color Rojo mosquitera eléctrica  4 W  unica](
 
 [![Beper VE.610R Color Rojo mosquitera eléc](https://images-eu.ssl-images-amazon.com/images/I/41cguvAyyxL._SL200_.jpg)](https://www.amazon.es/dp/B01H22HXVC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01H22HXVC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

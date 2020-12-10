@@ -22,6 +22,9 @@ Está [Desigual Biki_Sonar  Trikini para Mujer  Rosa  Fresa 3001  M  Talla del F
 
 [![Desigual Biki_Sonar  Trikini para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41PBDfqwmML._SL200_.jpg)](https://www.amazon.es/dp/B01LWORW3X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWORW3X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

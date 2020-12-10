@@ -22,6 +22,9 @@ Tienes [GORE WEAR C3 Peto 3/4 de ciclismo con badana para hombre  XL  negro](htt
 
 [![GORE WEAR C3 Peto 3/4 de ciclismo con ba](https://images-eu.ssl-images-amazon.com/images/I/31fhZyUM7hL._SL200_.jpg)](https://www.amazon.es/dp/B075RFVRCW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075RFVRCW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

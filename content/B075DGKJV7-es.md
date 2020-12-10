@@ -22,6 +22,9 @@ Está [Clarks Glove Puppet  Mocasines para Mujer  Naranja  Coral Nubuck-   39.5 
 
 [![Clarks Glove Puppet  Mocasines para Muje](https://images-eu.ssl-images-amazon.com/images/I/41V3-mC8uCL._SL200_.jpg)](https://www.amazon.es/dp/B075DGKJV7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075DGKJV7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

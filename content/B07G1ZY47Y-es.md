@@ -22,6 +22,9 @@ Está [adidas Predator Tango 18.3 Indoor  Zapatillas de Fútbol para Hombre  Neg
 
 [![adidas Predator Tango 18.3 Indoor  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41TG9GWTS%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07G1ZY47Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G1ZY47Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

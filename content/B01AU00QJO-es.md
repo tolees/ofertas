@@ -22,6 +22,9 @@ Está [Puella Magi Madoka Magica The Movie Rebellion [Blu-ray]](https://www.amaz
 
 [![Puella Magi Madoka Magica The Movie Rebe](https://images-eu.ssl-images-amazon.com/images/I/61x8rT0qBQL._SL200_.jpg)](https://www.amazon.es/dp/B01AU00QJO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AU00QJO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Mostrap MT8 atrapa mosquitos  Plástico  Negro](https://www.amazon.es/dp/
 
 [![Mostrap MT8 atrapa mosquitos  Plástico  ](https://images-eu.ssl-images-amazon.com/images/I/41-aDcfnVOL._SL200_.jpg)](https://www.amazon.es/dp/B00A0N4GPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00A0N4GPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

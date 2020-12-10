@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Straight Fit Jeans  Azul  dk aged 8595-89   34W / 34L par
 
 [![G-STAR RAW 3301 Straight Fit Jeans  Azul](https://images-eu.ssl-images-amazon.com/images/I/41qwjHHw-9L._SL200_.jpg)](https://www.amazon.es/dp/B06XCD88SZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XCD88SZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

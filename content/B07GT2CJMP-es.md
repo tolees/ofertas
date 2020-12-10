@@ -22,6 +22,9 @@ Tienes [Desigual - Bag Candem Rotterdam Women  Shoppers y bolsos de hombro Mujer
 
 [![Desigual - Bag Candem Rotterdam Women  S](https://images-eu.ssl-images-amazon.com/images/I/518mcvLAO4L._SL200_.jpg)](https://www.amazon.es/dp/B07GT2CJMP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GT2CJMP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

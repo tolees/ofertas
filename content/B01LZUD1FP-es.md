@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 460v1  Zapatillas de Running para Mujer  Azul  N
 
 [![New Balance 460v1  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/419P4T-V9hL._SL200_.jpg)](https://www.amazon.es/dp/B01LZUD1FP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LZUD1FP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

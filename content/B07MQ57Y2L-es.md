@@ -22,6 +22,9 @@ Tienes [Lámpara de luz de día 10000 Lux  simula la luz del día con una intens
 
 [![Lámpara de luz de día 10000 Lux  simula ](https://images-eu.ssl-images-amazon.com/images/I/31LlCZBD67L._SL200_.jpg)](https://www.amazon.es/dp/B07MQ57Y2L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MQ57Y2L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

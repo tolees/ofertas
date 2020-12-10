@@ -22,6 +22,9 @@ Ahora mismo tienes [Caterpillar Shaw  Botas Clasicas para Hombre  Negro Black  4
 
 [![Caterpillar Shaw  Botas Clasicas para Ho](https://images-eu.ssl-images-amazon.com/images/I/41mYQxpjZ9L._SL200_.jpg)](https://www.amazon.es/dp/B07DX439XB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DX439XB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

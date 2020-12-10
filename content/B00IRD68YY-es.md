@@ -22,6 +22,9 @@ Ahora mismo tienes [Shiseido 57095 - Cuidado capilar  150 ml](https://www.amazon
 
 [![Shiseido 57095 - Cuidado capilar  150 ml](https://images-eu.ssl-images-amazon.com/images/I/315X8BiiufL._SL200_.jpg)](https://www.amazon.es/dp/B00IRD68YY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00IRD68YY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

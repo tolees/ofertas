@@ -22,6 +22,9 @@ Está [Diesel 00CG3J Slip  Hombre  Gris  Grey 02   Large  Tamaño del Fabricante
 
 [![Diesel 00CG3J Slip  Hombre  Gris  Grey 0](https://images-eu.ssl-images-amazon.com/images/I/41qyt-nyqvL._SL200_.jpg)](https://www.amazon.es/dp/B073XQSXYP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073XQSXYP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

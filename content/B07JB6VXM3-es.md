@@ -22,6 +22,9 @@ Está [BLOOMWIN Bombillas de Vela LED E14 3W Reemplazo 1500K Blanco cálido LED 
 
 [![BLOOMWIN Bombillas de Vela LED E14 3W Re](https://images-eu.ssl-images-amazon.com/images/I/51sXR%2Bh%2BfdL._SL200_.jpg)](https://www.amazon.es/dp/B07JB6VXM3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JB6VXM3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

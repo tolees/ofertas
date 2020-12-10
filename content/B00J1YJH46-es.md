@@ -22,6 +22,9 @@ Ahora mismo tienes [Speck DuraFolio - Funda para Apple iPad Mini  1/2   Negro y 
 
 [![Speck DuraFolio - Funda para Apple iPad ](https://images-eu.ssl-images-amazon.com/images/I/51g2OlYKRsL._SL200_.jpg)](https://www.amazon.es/dp/B00J1YJH46/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00J1YJH46/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

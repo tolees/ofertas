@@ -22,6 +22,9 @@ Está [Pandora Charms con cierre Mujer plata - 797227NYA](https://www.amazon.es/
 
 [![Pandora Charms con cierre Mujer plata - ](https://images-eu.ssl-images-amazon.com/images/I/41o6f5DTBML._SL200_.jpg)](https://www.amazon.es/dp/B07DDQMHDK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDQMHDK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

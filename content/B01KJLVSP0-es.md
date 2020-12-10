@@ -22,6 +22,9 @@ Está [Vans Chapman Lite  Zapatillas Para Hombre  Azul  Mesh Blue/White   40.5 E
 
 [![Vans Chapman Lite  Zapatillas Para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41k%2BpeLQ46L._SL200_.jpg)](https://www.amazon.es/dp/B01KJLVSP0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01KJLVSP0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

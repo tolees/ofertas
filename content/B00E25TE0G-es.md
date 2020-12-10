@@ -22,6 +22,9 @@ Está [Fetish Tentation Premium Mordaza de Silicona - 1 unidad](https://www.amaz
 
 [![Fetish Tentation Premium Mordaza de Sili](https://images-eu.ssl-images-amazon.com/images/I/41CinEEJL%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00E25TE0G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00E25TE0G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

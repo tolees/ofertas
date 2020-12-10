@@ -22,6 +22,9 @@ Tienes [BRITA CLASSIC - Filtro de agua con recambios para 3 meses de agua filtra
 
 [![BRITA CLASSIC - Filtro de agua con recam](https://images-eu.ssl-images-amazon.com/images/I/51-Jm5XhNCL._SL200_.jpg)](https://www.amazon.es/dp/B0056A7IFE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0056A7IFE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

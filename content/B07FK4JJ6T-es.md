@@ -22,6 +22,9 @@ Ahora mismo tienes [Guess - Jade  Bolsos bandolera Mujer  Rosa  Rose/Ros   26x18
 
 [![Guess - Jade  Bolsos bandolera Mujer  Ro](https://images-eu.ssl-images-amazon.com/images/I/31%2BIFQvGCRL._SL200_.jpg)](https://www.amazon.es/dp/B07FK4JJ6T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FK4JJ6T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

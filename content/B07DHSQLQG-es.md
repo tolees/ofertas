@@ -22,6 +22,9 @@ Está [DC Shoes Backstack  Mochila Mediana para Hombre  Negro  Black/Grey   One 
 
 [![DC Shoes Backstack  Mochila Mediana para](https://images-eu.ssl-images-amazon.com/images/I/41ksVepw-KL._SL200_.jpg)](https://www.amazon.es/dp/B07DHSQLQG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DHSQLQG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Trio 5914011-42 Serie 5914 - Sobremesa  bombilla excluida  E14  60 W  230
 
 [![Trio 5914011-42 Serie 5914 - Sobremesa  ](https://images-eu.ssl-images-amazon.com/images/I/31S8bbCkvzL._SL200_.jpg)](https://www.amazon.es/dp/B001M0T3AA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001M0T3AA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

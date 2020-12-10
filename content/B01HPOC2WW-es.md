@@ -22,6 +22,9 @@ Tienes [Merrell J37601  Zapatillas de Senderismo Hombre  Negro  Black/orange   4
 
 [![Merrell J37601  Zapatillas de Senderismo](https://images-eu.ssl-images-amazon.com/images/I/41uqcVQ6oLL._SL200_.jpg)](https://www.amazon.es/dp/B01HPOC2WW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01HPOC2WW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

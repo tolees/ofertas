@@ -22,6 +22,9 @@ Está [Pepe Jeans 7382762 Cranford Mochila Tipo Casual  47 cm  16.03 litros  Mar
 
 [![Pepe Jeans 7382762 Cranford Mochila Tipo](https://images-eu.ssl-images-amazon.com/images/I/41YlKFqhS3L._SL200_.jpg)](https://www.amazon.es/dp/B07G75T3LY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G75T3LY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

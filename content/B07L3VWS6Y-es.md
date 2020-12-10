@@ -22,6 +22,9 @@ Está [Sharon SachsenRad E-Racing Bike R6  Motor de 240W hasta 25 km/h  26 Pulga
 
 [![Sharon SachsenRad E-Racing Bike R6  Moto](https://images-eu.ssl-images-amazon.com/images/I/41SBZxdQZgL._SL200_.jpg)](https://www.amazon.es/dp/B07L3VWS6Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L3VWS6Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

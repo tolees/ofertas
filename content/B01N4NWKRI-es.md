@@ -22,6 +22,9 @@ Ahora mismo tienes [Pdp - Starter Kit  Color Negro  Nintendo Switch ](https://ww
 
 [![Pdp - Starter Kit  Color Negro  Nintendo](https://images-eu.ssl-images-amazon.com/images/I/41U4DjdWBVL._SL200_.jpg)](https://www.amazon.es/dp/B01N4NWKRI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N4NWKRI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Aigostar Mint 31JHJ – Centro de planchado de vapor vertical para ropa  
 
 [![Aigostar Mint 31JHJ – Centro de planchad](https://images-eu.ssl-images-amazon.com/images/I/41cnuy3NnfL._SL200_.jpg)](https://www.amazon.es/dp/B071P8FTRH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071P8FTRH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [UMIDIGI Z2 Smartphone de 6.2" 4G Volte  Helio P23  6GB RAM + 64GB Androi
 
 [![UMIDIGI Z2 Smartphone de 6.2" 4G Volte  ](https://images-eu.ssl-images-amazon.com/images/I/41ZUXTtRDpL._SL200_.jpg)](https://www.amazon.es/dp/B07F3QWKQ8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F3QWKQ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

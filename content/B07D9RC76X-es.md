@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Terrex Swift R2 GTX W  Zapatillas de Running para Asf
 
 [![Adidas Terrex Swift R2 GTX W  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41oSyyWcc0L._SL200_.jpg)](https://www.amazon.es/dp/B07D9RC76X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D9RC76X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

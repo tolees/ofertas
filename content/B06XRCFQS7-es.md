@@ -22,6 +22,9 @@ Está [GGMM Auriculares In-Ear  Sonido Estéreo Auriculares con Microfono  Dise�
 
 [![GGMM Auriculares In-Ear  Sonido Estéreo ](https://images-eu.ssl-images-amazon.com/images/I/51PpdSG-gsL._SL200_.jpg)](https://www.amazon.es/dp/B06XRCFQS7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XRCFQS7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

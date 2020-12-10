@@ -22,6 +22,9 @@ Tienes [Alcatel One Touch Go Play 5" SIM única 4G 1GB 8GB 2500mAh Naranja  Blan
 
 [![Alcatel One Touch Go Play 5" SIM única 4](https://images-eu.ssl-images-amazon.com/images/I/41RtWdotyjL._SL200_.jpg)](https://www.amazon.es/dp/B014VB49BE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B014VB49BE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

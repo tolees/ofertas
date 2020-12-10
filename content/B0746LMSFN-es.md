@@ -22,6 +22,9 @@ Ahora mismo tienes [MyGica Geniatech DVB-T2/T USB sintonizador de TV HEVC/H.265/
 
 [![MyGica Geniatech DVB-T2/T USB sintonizad](https://images-eu.ssl-images-amazon.com/images/I/31oBbQtWdWL._SL200_.jpg)](https://www.amazon.es/dp/B0746LMSFN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0746LMSFN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

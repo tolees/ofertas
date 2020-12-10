@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger Premium Essential 3 Pack - Slip para hombre  
 
 [![Tommy Hilfiger Premium Essential 3 Pack ](https://images-eu.ssl-images-amazon.com/images/I/41OUNX2-itL._SL200_.jpg)](https://www.amazon.es/dp/B00K5RA03A/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00K5RA03A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

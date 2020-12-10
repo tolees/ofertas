@@ -22,6 +22,9 @@ Está [adidas X_PLR  Zapatillas para Hombre  Rojo Scarlet/Gum 0  43 1/3 EU](http
 
 [![adidas X_PLR  Zapatillas para Hombre  Ro](https://images-eu.ssl-images-amazon.com/images/I/418aTor11uL._SL200_.jpg)](https://www.amazon.es/dp/B07D6YLMSZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D6YLMSZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

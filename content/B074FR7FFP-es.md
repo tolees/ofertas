@@ -22,6 +22,9 @@ Tienes [MAIGG Botella de Agua Deportiva - para Correr  Gimnasio  Yoga  Aire Libr
 
 [![MAIGG Botella de Agua Deportiva - para C](https://images-eu.ssl-images-amazon.com/images/I/51T%2BwCVWWeL._SL200_.jpg)](https://www.amazon.es/dp/B074FR7FFP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074FR7FFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

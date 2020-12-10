@@ -22,6 +22,9 @@ Ahora mismo tienes [InnoBeta® Protecciones para esquinas extra gruesos 12 pieza
 
 [![InnoBeta® Protecciones para esquinas ext](https://images-eu.ssl-images-amazon.com/images/I/31r7H1XRZOL._SL200_.jpg)](https://www.amazon.es/dp/B01H70UVIQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01H70UVIQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

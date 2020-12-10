@@ -22,6 +22,9 @@ Tienes [EGEYI Electroestimulador Muscular Abdominales Cinturón Masajeador Eléc
 
 [![EGEYI Electroestimulador Muscular Abdomi](https://images-eu.ssl-images-amazon.com/images/I/51kAssJBjiL._SL200_.jpg)](https://www.amazon.es/dp/B07G5JC9TP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G5JC9TP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

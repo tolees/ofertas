@@ -22,6 +22,9 @@ Tienes [Cross Tech3+ - Bolígrafo multi-funcional  color negro](https://www.amaz
 
 [![Cross Tech3+ - Bolígrafo multi-funcional](https://images-eu.ssl-images-amazon.com/images/I/21C7QBSeOUL._SL200_.jpg)](https://www.amazon.es/dp/B000BFWJTO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000BFWJTO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

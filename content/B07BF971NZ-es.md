@@ -22,6 +22,9 @@ Tienes [Hervidor de agua Eléctrico de cristal con iluminación LED 2200 W 1 8L 
 
 [![Hervidor de agua Eléctrico de cristal co](https://images-eu.ssl-images-amazon.com/images/I/51SvbJzhonL._SL200_.jpg)](https://www.amazon.es/dp/B07BF971NZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BF971NZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

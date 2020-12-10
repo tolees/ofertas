@@ -22,6 +22,9 @@ Tienes [Asics Gel-Quest FF  Zapatillas de Running para Hombre  Negro Black 001  
 
 [![Asics Gel-Quest FF  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/31wR10Yw1wL._SL200_.jpg)](https://www.amazon.es/dp/B07D61T1DH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D61T1DH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

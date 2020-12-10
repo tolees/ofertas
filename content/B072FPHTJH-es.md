@@ -22,6 +22,9 @@ Tienes [Nike W Air Zoom Terra Kiger 4  Zapatillas de Running para Mujer   Negro/
 
 [![Nike W Air Zoom Terra Kiger 4  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/510p6yvFzjL._SL200_.jpg)](https://www.amazon.es/dp/B072FPHTJH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072FPHTJH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

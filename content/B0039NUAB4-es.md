@@ -22,6 +22,9 @@ Está [Anita Active Momentum - Sujetador deportivo para mujer  Negro  Schwarz 00
 
 [![Anita Active Momentum - Sujetador deport](https://images-eu.ssl-images-amazon.com/images/I/511VQ3%2BIklL._SL200_.jpg)](https://www.amazon.es/dp/B0039NUAB4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0039NUAB4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

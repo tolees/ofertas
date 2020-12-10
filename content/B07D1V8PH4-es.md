@@ -22,6 +22,9 @@ Ahora mismo tienes [SELECTED HOMME Slhslim-Yard T. Shell Pants W  Pantalones Hom
 
 [![SELECTED HOMME Slhslim-Yard T. Shell Pan](https://images-eu.ssl-images-amazon.com/images/I/41sasMtfb-L._SL200_.jpg)](https://www.amazon.es/dp/B07D1V8PH4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D1V8PH4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

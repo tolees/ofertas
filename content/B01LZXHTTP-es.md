@@ -22,6 +22,9 @@ Está [QICENT Cargador USB HUB 6 Puertos con Tipo C Multiple USB Cargador QC 2.0
 
 [![QICENT Cargador USB HUB 6 Puertos con Ti](https://images-eu.ssl-images-amazon.com/images/I/41Tv8TYoIZL._SL200_.jpg)](https://www.amazon.es/dp/B01LZXHTTP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZXHTTP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

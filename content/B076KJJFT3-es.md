@@ -22,6 +22,9 @@ Está [edc by Esprit 127cc1b047 Pantalones  Negro  Black 001   34 para Mujer](ht
 
 [![edc by Esprit 127cc1b047 Pantalones  Neg](https://images-eu.ssl-images-amazon.com/images/I/31i9Tf7tF5L._SL200_.jpg)](https://www.amazon.es/dp/B076KJJFT3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076KJJFT3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [La Croquetera Pack- Utensilio Multiusos Color Rojo - 4 moldes Intercambia
 
 [![La Croquetera Pack- Utensilio Multiusos ](https://images-eu.ssl-images-amazon.com/images/I/51eIrneMC-L._SL200_.jpg)](https://www.amazon.es/dp/B079BXF9YD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079BXF9YD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

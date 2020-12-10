@@ -22,6 +22,9 @@ Está [KidoME Luz Nocturna Bebé Infantil Noche Silicona LED Cargable Función d
 
 [![KidoME Luz Nocturna Bebé Infantil Noche ](https://images-eu.ssl-images-amazon.com/images/I/41uTduxutnL._SL200_.jpg)](https://www.amazon.es/dp/B07MBCD2J1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MBCD2J1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

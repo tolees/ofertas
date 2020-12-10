@@ -22,6 +22,9 @@ Está [MSV SUPLEMENTO WC  Polietileno  Blanco  39x38x15 cm](https://www.amazon.e
 
 [![MSV SUPLEMENTO WC  Polietileno  Blanco  ](https://images-eu.ssl-images-amazon.com/images/I/31KfPB1G0iL._SL200_.jpg)](https://www.amazon.es/dp/B0131H2QGO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0131H2QGO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

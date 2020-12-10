@@ -22,6 +22,9 @@ Está [Nike Vapor 12 Academy MG  Zapatillas de Fútbol Unisex Adulto  Verde  Vol
 
 [![Nike Vapor 12 Academy MG  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/31M2p0OpeNL._SL200_.jpg)](https://www.amazon.es/dp/B07DCJ5FQ7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DCJ5FQ7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Nike Free RN 2017  GS   Zapatillas de Entrenamiento Unisex Niños  Verde 
 
 [![Nike Free RN 2017  GS   Zapatillas de En](https://images-eu.ssl-images-amazon.com/images/I/517jkZDj7lL._SL200_.jpg)](https://www.amazon.es/dp/B00EVYF4AC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00EVYF4AC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [HALOViE 12 piezas Bombas de Baño Efervescentes Flotantes de
 
 [![HALOViE 12 piezas Bombas de Baño Eferves](https://images-eu.ssl-images-amazon.com/images/I/51zcn80mW%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07NVM766X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NVM766X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

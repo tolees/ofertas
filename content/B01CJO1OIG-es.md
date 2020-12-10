@@ -22,6 +22,9 @@ Ahora mismo tienes [Big Star Adela  Azul para Mujer  Black  W30L30](https://www.
 
 [![Big Star Adela  Azul para Mujer  Black  ](https://images-eu.ssl-images-amazon.com/images/I/41RvLr4H1vL._SL200_.jpg)](https://www.amazon.es/dp/B01CJO1OIG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01CJO1OIG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

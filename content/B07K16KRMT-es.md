@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas V Racer 2.0  Zapatillas de Running para Hombre  Blanc
 
 [![adidas V Racer 2.0  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/319uxRt4S7L._SL200_.jpg)](https://www.amazon.es/dp/B07K16KRMT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K16KRMT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

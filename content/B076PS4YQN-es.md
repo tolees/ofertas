@@ -22,6 +22,9 @@ Ahora mismo tienes [Sharpie 2025161 - Rotuladores permanentes  punta fina  paque
 
 [![Sharpie 2025161 - Rotuladores permanente](https://images-eu.ssl-images-amazon.com/images/I/512qFmP8BUL._SL200_.jpg)](https://www.amazon.es/dp/B076PS4YQN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076PS4YQN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

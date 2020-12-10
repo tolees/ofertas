@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Forest Grove  Zapatillas de Gimnasia para Hombre  Azu
 
 [![adidas Forest Grove  Zapatillas de Gimna](https://images-eu.ssl-images-amazon.com/images/I/41hosFw2JJL._SL200_.jpg)](https://www.amazon.es/dp/B07JZ5D9G2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JZ5D9G2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

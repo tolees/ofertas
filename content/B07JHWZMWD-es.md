@@ -22,6 +22,9 @@ Está [PUMA Bold Graphic 3/4 Tight Mallas Deporte  Mujer  Negro Black/Emboss  L]
 
 [![PUMA Bold Graphic 3/4 Tight Mallas Depor](https://images-eu.ssl-images-amazon.com/images/I/415%2B5TBSRzL._SL200_.jpg)](https://www.amazon.es/dp/B07JHWZMWD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JHWZMWD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

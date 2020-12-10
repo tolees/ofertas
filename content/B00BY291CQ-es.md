@@ -22,6 +22,9 @@ Tienes [Casio Reloj Digital para Unisex de Cuarzo con Correa en Resina W-215H-7A
 
 [![Casio Reloj Digital para Unisex de Cuarz](https://images-eu.ssl-images-amazon.com/images/I/416hUTf7%2BsL._SL200_.jpg)](https://www.amazon.es/dp/B00BY291CQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BY291CQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

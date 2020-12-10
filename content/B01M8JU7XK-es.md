@@ -22,6 +22,9 @@ Está [New Balance 420 70s Running  Zapatillas Unisex Adulto  Negro  Black   38.
 
 [![New Balance 420 70s Running  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41RHTvMNGuL._SL200_.jpg)](https://www.amazon.es/dp/B01M8JU7XK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M8JU7XK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

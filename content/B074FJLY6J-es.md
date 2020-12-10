@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics Gel-Lyte III  Zapatillas Unisex Adulto  Verde grün  3
 
 [![Asics Gel-Lyte III  Zapatillas Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/51j1SV39hAL._SL200_.jpg)](https://www.amazon.es/dp/B074FJLY6J/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074FJLY6J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

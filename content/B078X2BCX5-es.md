@@ -22,6 +22,9 @@ Está [Dockers by Gerli 40aa214-610650  Zapatillas para Mujer  Azul  Marine 650 
 
 [![Dockers by Gerli 40aa214-610650  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41HAhHkE68L._SL200_.jpg)](https://www.amazon.es/dp/B078X2BCX5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078X2BCX5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

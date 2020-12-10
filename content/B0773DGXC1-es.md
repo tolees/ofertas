@@ -22,6 +22,9 @@ Tienes [Henpone Funda Samsung Galaxy Note 8 Funda móvil Galaxy Note 8 Glitter B
 
 [![Henpone Funda Samsung Galaxy Note 8 Fund](https://images-eu.ssl-images-amazon.com/images/I/510hKw6-PtL._SL200_.jpg)](https://www.amazon.es/dp/B0773DGXC1/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0773DGXC1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

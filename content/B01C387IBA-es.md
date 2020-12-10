@@ -22,6 +22,9 @@ Está [Novadiet Complemento Alimenticio - 320 gr](https://www.amazon.es/dp/B01C3
 
 [![Novadiet Complemento Alimenticio - 320 g](https://images-eu.ssl-images-amazon.com/images/I/51dq8PoS1AL._SL200_.jpg)](https://www.amazon.es/dp/B01C387IBA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01C387IBA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

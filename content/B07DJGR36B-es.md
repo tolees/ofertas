@@ -22,6 +22,9 @@ Está [Dockers by Gerli 43st301  Botas Militar para Mujer  Marrón  Schoko 360  
 
 [![Dockers by Gerli 43st301  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/41jf8HFXjWL._SL200_.jpg)](https://www.amazon.es/dp/B07DJGR36B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJGR36B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

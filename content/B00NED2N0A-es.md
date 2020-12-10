@@ -22,6 +22,9 @@ Ahora mismo tienes [JVC HA-ETX30-A-E - Auriculares deportivos  resistentes al ag
 
 [![JVC HA-ETX30-A-E - Auriculares deportivo](https://images-eu.ssl-images-amazon.com/images/I/4172o58Ln5L._SL200_.jpg)](https://www.amazon.es/dp/B00NED2N0A/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00NED2N0A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

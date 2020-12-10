@@ -22,6 +22,9 @@ Está [FeiyuTech G5 2 Recargable de 3 Ejes Handheld Gimbal Estabilizador de G
 
 [![FeiyuTech G5 2 Recargable de 3 Ejes Hand](https://images-eu.ssl-images-amazon.com/images/I/31EwYNo4wLL._SL200_.jpg)](https://www.amazon.es/dp/B06Y3Y2TN8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y3Y2TN8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Linksys WUSB6300-EJ - Adaptador USB Wireless-AC AC1200 Links
 
 [![Linksys WUSB6300-EJ - Adaptador USB Wire](https://images-eu.ssl-images-amazon.com/images/I/21Y-X2TvhZL._SL200_.jpg)](https://www.amazon.es/dp/B00FVP0G26/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00FVP0G26/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

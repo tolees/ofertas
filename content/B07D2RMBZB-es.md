@@ -22,6 +22,9 @@ Tienes [Gant 2-Pack Trunk Flags CTN Str  Bañador Hombre  Beige  Eggshell   XX-L
 
 [![Gant 2-Pack Trunk Flags CTN Str  Bañador](https://images-eu.ssl-images-amazon.com/images/I/41R2BQCxU%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07D2RMBZB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D2RMBZB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

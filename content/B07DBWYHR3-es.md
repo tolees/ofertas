@@ -22,6 +22,9 @@ Está [Puma Vikky Stacked Ribbon S  Zapatillas para Mujer  Morado Indigo  38 EU]
 
 [![Puma Vikky Stacked Ribbon S  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41ae7XEwwlL._SL200_.jpg)](https://www.amazon.es/dp/B07DBWYHR3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DBWYHR3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

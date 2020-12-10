@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Drainmaker 3D  Zapatillas para Mujer  Violeta  Soft
 
 [![Columbia Drainmaker 3D  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41VLwrkj-HL._SL200_.jpg)](https://www.amazon.es/dp/B07DV4N3BM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DV4N3BM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

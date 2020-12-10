@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger E1285liza 7c1  Zapatillas para Mujer  Rosa  Dusty Rose 50
 
 [![Tommy Hilfiger E1285liza 7c1  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41qHN4AVzYL._SL200_.jpg)](https://www.amazon.es/dp/B01MXQU53A/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MXQU53A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

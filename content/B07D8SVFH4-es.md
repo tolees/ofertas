@@ -22,6 +22,9 @@ Está [Tommy Hilfiger SPW Flag Cap  Gorra de béisbol Hombre  Gris  Charcoal Htr
 
 [![Tommy Hilfiger SPW Flag Cap  Gorra de bé](https://images-eu.ssl-images-amazon.com/images/I/41K779afvBL._SL200_.jpg)](https://www.amazon.es/dp/B07D8SVFH4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D8SVFH4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

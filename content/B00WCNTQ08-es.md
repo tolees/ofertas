@@ -22,6 +22,9 @@ Ahora mismo tienes [CuddleBug  Fular Portabebé Unisex  Un tamaño para Todos - 
 
 [![CuddleBug  Fular Portabebé Unisex  Un ta](https://images-eu.ssl-images-amazon.com/images/I/41wgyKEcAGL._SL200_.jpg)](https://www.amazon.es/dp/B00WCNTQ08/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00WCNTQ08/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

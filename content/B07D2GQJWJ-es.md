@@ -22,6 +22,9 @@ Tienes [Loovara 2en1 masaje y Gel lubricante  250 ml  a base de agua  con aloe v
 
 [![Loovara 2en1 masaje y Gel lubricante  25](https://images-eu.ssl-images-amazon.com/images/I/31tk%2BCwk3IL._SL200_.jpg)](https://www.amazon.es/dp/B07D2GQJWJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D2GQJWJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

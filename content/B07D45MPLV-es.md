@@ -22,6 +22,9 @@ Está [Prime Socks No-Show Nature 43-46](https://www.amazon.es/dp/B07D45MPLV/?ta
 
 [![Prime Socks No-Show Nature 43-46](https://images-eu.ssl-images-amazon.com/images/I/41%2BG1CxK-fL._SL200_.jpg)](https://www.amazon.es/dp/B07D45MPLV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D45MPLV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Lima de Pies Doble Cara  Eliminador de Callos con Diseño Er
 
 [![Lima de Pies Doble Cara  Eliminador de C](https://images-eu.ssl-images-amazon.com/images/I/51FeriUQnAL._SL200_.jpg)](https://www.amazon.es/dp/B07H286BSG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H286BSG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

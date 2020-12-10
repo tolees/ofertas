@@ -22,6 +22,9 @@ Está [Levi s kids Nn21004 46 Dungaree Pantalones de Peto  Azul  Indigo   1-3 Me
 
 [![Levi s kids Nn21004 46 Dungaree Pantalon](https://images-eu.ssl-images-amazon.com/images/I/41WiC7TmbNL._SL200_.jpg)](https://www.amazon.es/dp/B07K52DGB8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K52DGB8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

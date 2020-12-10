@@ -22,6 +22,9 @@ Está [Clarks Akilah Eden  Sandalia con Pulsera para Mujer  Azul  Navy Combi SDE
 
 [![Clarks Akilah Eden  Sandalia con Pulsera](https://images-eu.ssl-images-amazon.com/images/I/51bmzKQq8fL._SL200_.jpg)](https://www.amazon.es/dp/B0756D1WHS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0756D1WHS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

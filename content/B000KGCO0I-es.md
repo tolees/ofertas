@@ -22,6 +22,9 @@ Tienes [Pyrex Classic - Fuente con tapa para pollo  5.5L](https://www.amazon.es/
 
 [![Pyrex Classic - Fuente con tapa para pol](https://images-eu.ssl-images-amazon.com/images/I/31VxUDCDwrL._SL200_.jpg)](https://www.amazon.es/dp/B000KGCO0I/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000KGCO0I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

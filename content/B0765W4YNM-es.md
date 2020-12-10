@@ -22,6 +22,9 @@ Está [Star Wars - Mochila - Star Wars Darth Vader](https://www.amazon.es/dp/B07
 
 [![Star Wars - Mochila - Star Wars Darth Va](https://images-eu.ssl-images-amazon.com/images/I/41dp8zjqKIL._SL200_.jpg)](https://www.amazon.es/dp/B0765W4YNM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0765W4YNM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

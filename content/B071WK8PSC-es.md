@@ -22,6 +22,9 @@ Está [RED WAGON Zapatillas con Lazo Niñas  Gris  Grey   32 EU](https://www.ama
 
 [![RED WAGON Zapatillas con Lazo Niñas  Gri](https://images-eu.ssl-images-amazon.com/images/I/31jE1Rtg8wL._SL200_.jpg)](https://www.amazon.es/dp/B071WK8PSC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071WK8PSC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

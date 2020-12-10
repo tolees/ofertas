@@ -22,6 +22,9 @@ Tienes [SAMSONITE Pro-DLX 5 - Backpack Expandable for 15.6   Laptop 21/26L  1.4 
 
 [![SAMSONITE Pro-DLX 5 - Backpack Expandabl](https://images-eu.ssl-images-amazon.com/images/I/41gLGVMX1WL._SL200_.jpg)](https://www.amazon.es/dp/B07DLX8CLB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DLX8CLB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

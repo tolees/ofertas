@@ -22,6 +22,9 @@ Tienes [Casio Reloj de pulsera DBC-32D-1AES](https://www.amazon.es/dp/B0014FXG1K
 
 [![Casio Reloj de pulsera DBC-32D-1AES](https://images-eu.ssl-images-amazon.com/images/I/51Dq7wt5-LL._SL200_.jpg)](https://www.amazon.es/dp/B0014FXG1K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0014FXG1K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

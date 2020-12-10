@@ -22,6 +22,9 @@ Ahora mismo tienes [Seiko SFQ830P1 - Reloj analógico de mujer de cuarzo con cor
 
 [![Seiko SFQ830P1 - Reloj analógico de muje](https://images-eu.ssl-images-amazon.com/images/I/41LexUZoHqL._SL200_.jpg)](https://www.amazon.es/dp/B002KGKON0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B002KGKON0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

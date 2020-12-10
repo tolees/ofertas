@@ -22,6 +22,9 @@ Está [Lenovo Yoga 530-14ARR - Portátil táctil Convertible 14" FullHD  Intel C
 
 [![Lenovo Yoga 530-14ARR - Portátil táctil ](https://images-eu.ssl-images-amazon.com/images/I/31kOhF-6IrL._SL200_.jpg)](https://www.amazon.es/dp/B07FXFKVGT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FXFKVGT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

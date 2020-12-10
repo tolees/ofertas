@@ -22,6 +22,9 @@ Ahora mismo tienes [Silverline WR50 Llave Inglesa Ajustable  Longitud 375 mm  Ap
 
 [![Silverline WR50 Llave Inglesa Ajustable ](https://images-eu.ssl-images-amazon.com/images/I/31B%2BH2IpcwL._SL200_.jpg)](https://www.amazon.es/dp/B000LFTQW2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B000LFTQW2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

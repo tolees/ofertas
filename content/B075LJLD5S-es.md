@@ -22,6 +22,15 @@ Ahora mismo tienes [Beurer TS15 Calientacamas individual con tiras de sujeción 
 
 [![Beurer TS15 Calientacamas individual con](https://m.media-amazon.com/images/I/31PulunX90L._SL200_.jpg)](https://www.amazon.es/dp/B075LJLD5S/?tag=tolees-21)
 
+Características:
+
+- Vataje (W): 65.0
+- Transpirable: permite utilizar la manta con la máxima comodidad e higiene
+- Lavable a máquina: la superficie se puede lavar en la lavadora a 30 grados, solo tiene que desmontar y desconectar el cable de la alimentación
+- Calientacamas con fijaciones en el colchón que evitan su desplazamiento
+- Calientacamas hecho de tela no tejida en la cara superior e inferior
+- 3 niveles de temperatura con indicador luminoso
+
 [Visítala!!!](https://www.amazon.es/dp/B075LJLD5S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

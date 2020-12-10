@@ -22,6 +22,9 @@ Tienes [Clinique Anti Blemish Solutions Crema BB Antimanchas SPF40  Tono 03 Medi
 
 [![Clinique Anti Blemish Solutions Crema BB](https://images-eu.ssl-images-amazon.com/images/I/31Tpw8PXkhL._SL200_.jpg)](https://www.amazon.es/dp/B00U09GQNG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00U09GQNG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

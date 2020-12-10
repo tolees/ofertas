@@ -22,6 +22,9 @@ Tienes [Licor Pernod 1L](https://www.amazon.es/dp/B009RUNQNM/?tag=tolees-21) con
 
 [![Licor Pernod 1L](https://images-eu.ssl-images-amazon.com/images/I/31QGdpQoVCL._SL200_.jpg)](https://www.amazon.es/dp/B009RUNQNM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B009RUNQNM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

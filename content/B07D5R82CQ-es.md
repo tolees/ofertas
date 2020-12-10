@@ -22,6 +22,9 @@ Está [Merrell Thermo Freeze WP  Zapatillas de Senderismo para Mujer  Gris Monum
 
 [![Merrell Thermo Freeze WP  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41Oxp9pWvnL._SL200_.jpg)](https://www.amazon.es/dp/B07D5R82CQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D5R82CQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

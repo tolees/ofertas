@@ -22,6 +22,9 @@ Está [New Balance Fresh Foam Cruz  Zapatillas de Entrenamiento para Hombre  Azu
 
 [![New Balance Fresh Foam Cruz  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/51EdlvgcY1L._SL200_.jpg)](https://www.amazon.es/dp/B06XRTS2G2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XRTS2G2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

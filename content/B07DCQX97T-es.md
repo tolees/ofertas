@@ -22,6 +22,9 @@ Ahora mismo tienes [Yizhet Disco Duro 2.5 Pulgadas USB 3.0 Caja Disco Duro Exter
 
 [![Yizhet Disco Duro 2.5 Pulgadas USB 3.0 C](https://images-eu.ssl-images-amazon.com/images/I/41uLhKfj15L._SL200_.jpg)](https://www.amazon.es/dp/B07DCQX97T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DCQX97T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

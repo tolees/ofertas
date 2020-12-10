@@ -22,6 +22,9 @@ Tienes [Proyector 1800 lumens  Smartphone/Tablet Compatible  LED LCD Videoproyec
 
 [![Proyector 1800 lumens  Smartphone/Tablet](https://images-eu.ssl-images-amazon.com/images/I/51IpN2Nk7JL._SL200_.jpg)](https://www.amazon.es/dp/B077HC2Y2T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077HC2Y2T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

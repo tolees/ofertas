@@ -22,6 +22,9 @@ Tienes [FIND Mocasines Borlas Texturizado en Piel para Hombre  Negro  Black   47
 
 [![FIND Mocasines Borlas Texturizado en Pie](https://images-eu.ssl-images-amazon.com/images/I/31y%2B-rAK7yL._SL200_.jpg)](https://www.amazon.es/dp/B06XG6GMCM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XG6GMCM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

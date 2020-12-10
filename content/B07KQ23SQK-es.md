@@ -22,6 +22,9 @@ Tienes [DC Apparel Lanai 22" Boardshort  Hombre  Black Iris  32](https://www.ama
 
 [![DC Apparel Lanai 22" Boardshort  Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41TKnrmI4zL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ23SQK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KQ23SQK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

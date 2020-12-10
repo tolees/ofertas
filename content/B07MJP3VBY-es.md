@@ -22,6 +22,9 @@ Está [Cascos Gaming para PS4 - Macrout Cascos Gaming Estéreo Luz LED para Jueg
 
 [![Cascos Gaming para PS4 - Macrout Cascos ](https://images-eu.ssl-images-amazon.com/images/I/51WlMwici%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07MJP3VBY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MJP3VBY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [adidas Stabil X  Zapatillas de Balonmano para Hombre  Negro Core Black/Hi
 
 [![adidas Stabil X  Zapatillas de Balonmano](https://images-eu.ssl-images-amazon.com/images/I/41RpwSiKg8L._SL200_.jpg)](https://www.amazon.es/dp/B07JQMKMW6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JQMKMW6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

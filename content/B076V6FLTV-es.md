@@ -22,6 +22,9 @@ Está [Columbia Glacial IV 1/2 Zip Forro Polar con Media Cremallera  Mujer  Negr
 
 [![Columbia Glacial IV 1/2 Zip Forro Polar ](https://images-eu.ssl-images-amazon.com/images/I/317kz9s6WjL._SL200_.jpg)](https://www.amazon.es/dp/B076V6FLTV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076V6FLTV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

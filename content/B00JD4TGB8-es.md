@@ -22,6 +22,9 @@ Tienes [TomTom Runner Cardio - Reloj GPS para running  color blanco/rojo  talla 
 
 [![TomTom Runner Cardio - Reloj GPS para ru](https://images-eu.ssl-images-amazon.com/images/I/51hoJl2hVkL._SL200_.jpg)](https://www.amazon.es/dp/B00JD4TGB8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JD4TGB8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

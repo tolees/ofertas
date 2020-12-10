@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jcowind Knit Crew Neck Noos  Suéter para Hombr
 
 [![JACK & JONES Jcowind Knit Crew Neck Noos](https://images-eu.ssl-images-amazon.com/images/I/41AvAVJt5uL._SL200_.jpg)](https://www.amazon.es/dp/B071DP6XQM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071DP6XQM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

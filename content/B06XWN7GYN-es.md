@@ -22,6 +22,9 @@ Está [Samsung EVO - Tarjeta de Memoria microSD de 128 GB  MicroSDXC EVO  128 GB
 
 [![Samsung EVO - Tarjeta de Memoria microSD](https://images-eu.ssl-images-amazon.com/images/I/41bSwUg8E-L._SL200_.jpg)](https://www.amazon.es/dp/B06XWN7GYN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XWN7GYN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

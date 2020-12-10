@@ -22,6 +22,9 @@ Ahora mismo tienes [Auriculares Bluetooth  Mugo Ipx7 Impermeable Auriculares Ina
 
 [![Auriculares Bluetooth  Mugo Ipx7 Imperme](https://images-eu.ssl-images-amazon.com/images/I/61NxTu%2BYszL._SL200_.jpg)](https://www.amazon.es/dp/B07BXG9G1G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BXG9G1G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

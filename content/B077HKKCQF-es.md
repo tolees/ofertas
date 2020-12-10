@@ -22,6 +22,9 @@ Ahora mismo tienes [Mortal Zombie Edición Coleccionista Blu-Ray [Blu-ray]](http
 
 [![Mortal Zombie Edición Coleccionista Blu-](https://images-eu.ssl-images-amazon.com/images/I/51d7Cje%2B4QL._SL200_.jpg)](https://www.amazon.es/dp/B077HKKCQF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077HKKCQF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

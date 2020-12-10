@@ -22,6 +22,9 @@ Está [Vans Ward Canvas Zapatillas Unisex Niños  Negro   Floral Mesh  Black Vht
 
 [![Vans Ward Canvas Zapatillas Unisex Niños](https://images-eu.ssl-images-amazon.com/images/I/41RBT974okL._SL200_.jpg)](https://www.amazon.es/dp/B07FXKBWFH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FXKBWFH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

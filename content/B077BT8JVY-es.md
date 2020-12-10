@@ -22,6 +22,9 @@ Está [Motorola MBP 67 Connect - Cámara de vídeo vigilabebés portátil con Wi
 
 [![Motorola MBP 67 Connect - Cámara de víde](https://images-eu.ssl-images-amazon.com/images/I/31ssYlWyzZL._SL200_.jpg)](https://www.amazon.es/dp/B077BT8JVY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077BT8JVY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

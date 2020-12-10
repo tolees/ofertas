@@ -22,6 +22,9 @@ Tienes [Puma Suede Heart Street 2 Wn s  Zapatillas para Mujer  Negro Black 01  3
 
 [![Puma Suede Heart Street 2 Wn s  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/4140jwZYcTL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1P4BT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DB1P4BT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

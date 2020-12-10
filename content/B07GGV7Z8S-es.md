@@ -22,6 +22,9 @@ Está [UniAuto Cadenas para Nieve Universales Cadenas de Nieve para Llantas para
 
 [![UniAuto Cadenas para Nieve Universales C](https://images-eu.ssl-images-amazon.com/images/I/5156ESGwvCL._SL200_.jpg)](https://www.amazon.es/dp/B07GGV7Z8S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GGV7Z8S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

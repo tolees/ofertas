@@ -22,6 +22,9 @@ Ahora mismo tienes [M MEGAWHEELS Scooter-Patinete Eléctrico Hoverboard  6.5 Pul
 
 [![M MEGAWHEELS Scooter-Patinete Eléctrico ](https://images-eu.ssl-images-amazon.com/images/I/41w8elsQdrL._SL200_.jpg)](https://www.amazon.es/dp/B077QCF3MV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077QCF3MV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

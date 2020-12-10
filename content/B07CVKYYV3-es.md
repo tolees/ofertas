@@ -22,6 +22,9 @@ Está [Skechers Recent-Meroso  Zapatillas para Hombre  Gris Charcoal  41.5 EU](h
 
 [![Skechers Recent-Meroso  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41GyFVsY9rL._SL200_.jpg)](https://www.amazon.es/dp/B07CVKYYV3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CVKYYV3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

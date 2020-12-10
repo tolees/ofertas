@@ -22,6 +22,9 @@ Está [Salomon Mochila ligera  10 L  para running  senderismo o ciclismo  40 x 1
 
 [![Salomon Mochila ligera  10 L  para runni](https://images-eu.ssl-images-amazon.com/images/I/4147QPW%2B7mL._SL200_.jpg)](https://www.amazon.es/dp/B076JQKRXS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076JQKRXS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

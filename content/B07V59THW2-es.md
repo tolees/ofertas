@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Reloj Analógico para Muje al 46.98 % de descuento'
-date: 2020-12-09 07:12:50
+date: 2020-12-10 21:55:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YSzI60GYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YSzI60GYL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,15 @@ country: 'es'
 Ahora mismo tienes [Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 1782130](https://www.amazon.es/dp/B07V59THW2/?tag=tolees-21) a 79.0 EUR (original: 149.0 EUR) (46.98 %  de descuento) en el siguiente enlace!
 
 [![Tommy Hilfiger Reloj Analógico para Muje](https://m.media-amazon.com/images/I/31YSzI60GYL._SL200_.jpg)](https://www.amazon.es/dp/B07V59THW2/?tag=tolees-21)
+
+Características:
+
+- Diámetro de la caja: 38 mm
+- Pulsadores decorativos
+- Movimiento multifunción
+- Esfera azul marina con efecto de rayo de sol
+- 3 ATM de resistencia al agua
+- Correa de piel tostado claro con estampado de cocodrilo
 
 [Visítala!!!](https://www.amazon.es/dp/B07V59THW2/?tag=tolees-21)
 

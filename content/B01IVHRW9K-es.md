@@ -22,6 +22,9 @@ Está [Dixan Duo Caps Detergente en Cápsulas - 14 lavados](https://www.amazon.e
 
 [![Dixan Duo Caps Detergente en Cápsulas - ](https://images-eu.ssl-images-amazon.com/images/I/51VHyqvboGL._SL200_.jpg)](https://www.amazon.es/dp/B01IVHRW9K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IVHRW9K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

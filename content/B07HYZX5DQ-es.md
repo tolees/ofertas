@@ -22,6 +22,9 @@ Tienes [Nike Flex Experience RN 7  GS   Zapatillas de Deporte para Hombre  Void 
 
 [![Nike Flex Experience RN 7  GS   Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41%2BO2Aru92L._SL200_.jpg)](https://www.amazon.es/dp/B07HYZX5DQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HYZX5DQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

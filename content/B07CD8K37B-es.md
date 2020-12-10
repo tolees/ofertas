@@ -22,6 +22,9 @@ Está [Nike Wmns Air Zoom Vapor X HC  Zapatillas de Tenis para Mujer   Bordeaux/
 
 [![Nike Wmns Air Zoom Vapor X HC  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41yGbayk7QL._SL200_.jpg)](https://www.amazon.es/dp/B07CD8K37B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CD8K37B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

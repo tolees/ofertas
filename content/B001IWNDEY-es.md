@@ -22,6 +22,9 @@ Está [Intex 29026 - Cobertor solar para piscinas rectangulares 549 x 274 cm](ht
 
 [![Intex 29026 - Cobertor solar para piscin](https://images-eu.ssl-images-amazon.com/images/I/41x2fh5KfuL._SL200_.jpg)](https://www.amazon.es/dp/B001IWNDEY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001IWNDEY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

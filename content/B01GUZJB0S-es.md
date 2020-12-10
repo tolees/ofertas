@@ -22,6 +22,9 @@ Está [Adidas Stan Smith  Zapatillas Unisex Niños  Blanco Footwear White/Green 
 
 [![Adidas Stan Smith  Zapatillas Unisex Niñ](https://images-eu.ssl-images-amazon.com/images/I/41BiFl2KYTL._SL200_.jpg)](https://www.amazon.es/dp/B01GUZJB0S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GUZJB0S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

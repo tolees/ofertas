@@ -22,6 +22,9 @@ Está [OxyLED Luces de cadena de hadas 120LED 12M Luces estrelladas regulables  
 
 [![OxyLED Luces de cadena de hadas 120LED 1](https://images-eu.ssl-images-amazon.com/images/I/41ETuYuijiL._SL200_.jpg)](https://www.amazon.es/dp/B07CTKBQD6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CTKBQD6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

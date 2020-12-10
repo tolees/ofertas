@@ -22,6 +22,9 @@ Está [Salomon Speedcross Vario 2 GTX Calzado de Trail Running  Hombre  Negro  B
 
 [![Salomon Speedcross Vario 2 GTX Calzado d](https://images-eu.ssl-images-amazon.com/images/I/41U-M%2BkZOBL._SL200_.jpg)](https://www.amazon.es/dp/B07CZDVQ48/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZDVQ48/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

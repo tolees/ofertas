@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Lite Step-Reactive  Zapatillas para Mujer  Beige  D
 
 [![Skechers Lite Step-Reactive  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41dlkgIwPVL._SL200_.jpg)](https://www.amazon.es/dp/B01M9CE4WZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M9CE4WZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

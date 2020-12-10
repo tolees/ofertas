@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour Threadborne Blur 3000008-3  Zapatillas de Entre
 
 [![Under Armour Threadborne Blur 3000008-3 ](https://images-eu.ssl-images-amazon.com/images/I/41TDM5R4VXL._SL200_.jpg)](https://www.amazon.es/dp/B076VQL8M2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076VQL8M2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

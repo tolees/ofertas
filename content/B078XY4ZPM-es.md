@@ -22,6 +22,9 @@ Está [BRA Advanced Sartén  24 cm  aluminio fundido con antiadherente  sin PFOA
 
 [![BRA Advanced Sartén  24 cm  aluminio fun](https://images-eu.ssl-images-amazon.com/images/I/313NQfmf46L._SL200_.jpg)](https://www.amazon.es/dp/B078XY4ZPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078XY4ZPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

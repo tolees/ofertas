@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Mega Nrgy Turbo 2  Zapatillas de Running para Hombre  A
 
 [![Puma Mega Nrgy Turbo 2  Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/412XK8lOVwL._SL200_.jpg)](https://www.amazon.es/dp/B07DB2VBV8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DB2VBV8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

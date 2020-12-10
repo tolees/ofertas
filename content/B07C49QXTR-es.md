@@ -22,6 +22,9 @@ Ahora mismo tienes [Charlie & Finn Puf Giga XXL en Negro Noche – Funda Atercio
 
 [![Charlie & Finn Puf Giga XXL en Negro Noc](https://images-eu.ssl-images-amazon.com/images/I/513RAkg4f6L._SL200_.jpg)](https://www.amazon.es/dp/B07C49QXTR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C49QXTR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

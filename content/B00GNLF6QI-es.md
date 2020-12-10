@@ -22,6 +22,9 @@ Tienes [Casio MS-20NC-PK-S-EC - Calculadora básica  con panel solar y batería 
 
 [![Casio MS-20NC-PK-S-EC - Calculadora bási](https://images-eu.ssl-images-amazon.com/images/I/51fA-z%2BlYVL._SL200_.jpg)](https://www.amazon.es/dp/B00GNLF6QI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GNLF6QI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Rocks-Off Roxy Rabbit Vibrador  Color Púrpura - 248 gr](https://www.ama
 
 [![Rocks-Off Roxy Rabbit Vibrador  Color Pú](https://images-eu.ssl-images-amazon.com/images/I/31NIgEzntJL._SL200_.jpg)](https://www.amazon.es/dp/B00J33VEFK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00J33VEFK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

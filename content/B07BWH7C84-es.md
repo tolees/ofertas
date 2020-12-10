@@ -22,6 +22,9 @@ Ahora mismo tienes [KY Doce Pulseras de constelación Trenzadas de Piel Tejida a
 
 [![KY Doce Pulseras de constelación Trenzad](https://images-eu.ssl-images-amazon.com/images/I/51OPiGsFAIL._SL200_.jpg)](https://www.amazon.es/dp/B07BWH7C84/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BWH7C84/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

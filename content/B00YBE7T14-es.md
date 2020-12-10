@@ -22,6 +22,9 @@ Tienes [Merrell All out Charge  Mocasines para Hombre  Bright Red  37 EU](https:
 
 [![Merrell All out Charge  Mocasines para H](https://images-eu.ssl-images-amazon.com/images/I/51jxuSBQQsL._SL200_.jpg)](https://www.amazon.es/dp/B00YBE7T14/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00YBE7T14/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

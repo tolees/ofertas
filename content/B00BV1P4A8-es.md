@@ -22,6 +22,9 @@ Está [POP! Vinilo - Disney: Up! Carl](https://www.amazon.es/dp/B00BV1P4A8/?tag=
 
 [![POP! Vinilo - Disney: Up! Carl](https://images-eu.ssl-images-amazon.com/images/I/51ORzaXHlXL._SL200_.jpg)](https://www.amazon.es/dp/B00BV1P4A8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00BV1P4A8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

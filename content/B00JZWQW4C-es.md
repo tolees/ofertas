@@ -22,6 +22,9 @@ Está [Linksys EA6350-EJ - Router inalámbrico Smart Wi-Fi de Doble Banda AC1200
 
 [![Linksys EA6350-EJ - Router inalámbrico S](https://images-eu.ssl-images-amazon.com/images/I/31DTBKM9c4L._SL200_.jpg)](https://www.amazon.es/dp/B00JZWQW4C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00JZWQW4C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

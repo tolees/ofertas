@@ -22,6 +22,9 @@ Está [adidas Zapatillas ZX Flux Azul/Blanco EU 36 2/3  UK 4 ](https://www.amazo
 
 [![adidas Zapatillas ZX Flux Azul/Blanco EU](https://images-eu.ssl-images-amazon.com/images/I/41LP3E4BVIL._SL200_.jpg)](https://www.amazon.es/dp/B019MPJFQS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B019MPJFQS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

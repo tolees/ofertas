@@ -22,6 +22,9 @@ Está [Funko Pop! - Young Dr. Ford figura de vinilo  seria Westworld  14258 ](ht
 
 [![Funko Pop! - Young Dr. Ford figura de vi](https://images-eu.ssl-images-amazon.com/images/I/51SyzLzHInL._SL200_.jpg)](https://www.amazon.es/dp/B06XC7FF9G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XC7FF9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

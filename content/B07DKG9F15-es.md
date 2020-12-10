@@ -22,6 +22,9 @@ Está [Kipling - New Hiphurray  Bolsos totes Mujer  Marrón  Active Tan Bl ](htt
 
 [![Kipling - New Hiphurray  Bolsos totes Mu](https://images-eu.ssl-images-amazon.com/images/I/41h5oStzzDL._SL200_.jpg)](https://www.amazon.es/dp/B07DKG9F15/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DKG9F15/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

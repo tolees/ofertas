@@ -22,6 +22,9 @@ Tienes [ Campagnolo WH15-BOCFR - Rue J  Bora Ultra Two Cubierta Campa](https://
 
 [![ Campagnolo WH15-BOCFR - Rue J  Bora Ult](https://images-eu.ssl-images-amazon.com/images/I/41Cm05cCA-L._SL200_.jpg)](https://www.amazon.es/dp/B00TQ45YCU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TQ45YCU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

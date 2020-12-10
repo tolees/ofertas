@@ -22,6 +22,9 @@ Tienes [Adidas Kanadia Trail F36056  Zapatillas de Entrenamiento para Hombre  Ne
 
 [![Adidas Kanadia Trail F36056  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/316iv3SWpmL._SL200_.jpg)](https://www.amazon.es/dp/B07K2TWSPV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K2TWSPV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

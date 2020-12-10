@@ -22,6 +22,9 @@ Está [GLOBE Motley Mid  Zapatillas de Deporte para Hombre   Partridge Brown/Gum
 
 [![GLOBE Motley Mid  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/41v4ALJrmzL._SL200_.jpg)](https://www.amazon.es/dp/B079D3K3TZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079D3K3TZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

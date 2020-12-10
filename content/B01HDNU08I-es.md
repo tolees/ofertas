@@ -22,6 +22,9 @@ Tienes [Columbia Cascade Pass Waterproof  Botas de Senderismo para Hombre  Marr√
 
 [![Columbia Cascade Pass Waterproof  Botas ](https://images-eu.ssl-images-amazon.com/images/I/419nRs-5zHL._SL200_.jpg)](https://www.amazon.es/dp/B01HDNU08I/?tag=tolees-21)
 
+Caracter√≠sticas principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01HDNU08I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

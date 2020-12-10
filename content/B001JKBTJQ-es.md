@@ -22,6 +22,9 @@ Está [BIC 1721 Whiteboard Verde - Marcador  Verde  De plástico  1 5 mm ](https
 
 [![BIC 1721 Whiteboard Verde - Marcador  Ve](https://images-eu.ssl-images-amazon.com/images/I/51MIgMwehDL._SL200_.jpg)](https://www.amazon.es/dp/B001JKBTJQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001JKBTJQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

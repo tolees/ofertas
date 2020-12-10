@@ -22,6 +22,9 @@ Ahora mismo tienes [FITTOO Mallas Pantalones Deportivos Leggings Mujer Yoga de A
 
 [![FITTOO Mallas Pantalones Deportivos Legg](https://images-eu.ssl-images-amazon.com/images/I/51rK0IniuHL._SL200_.jpg)](https://www.amazon.es/dp/B07FQ93D1T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FQ93D1T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

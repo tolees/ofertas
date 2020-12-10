@@ -22,6 +22,9 @@ Está [Philips Avent Classic - Chupete para 0-6 meses  surtido: modelos/colores 
 
 [![Philips Avent Classic - Chupete para 0-6](https://images-eu.ssl-images-amazon.com/images/I/41xWbXa4wIL._SL200_.jpg)](https://www.amazon.es/dp/B01KWX21PQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01KWX21PQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

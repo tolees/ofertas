@@ -22,6 +22,9 @@ Tienes [Sabrent HB-R3MC Nodo - Concentrador  USB 3.0  3.1 Gen 1  Type-A  USB 3.0
 
 [![Sabrent HB-R3MC Nodo - Concentrador  USB](https://images-eu.ssl-images-amazon.com/images/I/414B9sO7BzL._SL200_.jpg)](https://www.amazon.es/dp/B013XGK53E/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B013XGK53E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

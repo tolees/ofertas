@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Casual Aface  suéter Hombre  Gris  Medium Grey 039   M
 
 [![BOSS Casual Aface  suéter Hombre  Gris  ](https://images-eu.ssl-images-amazon.com/images/I/41AhiHvWwaL._SL200_.jpg)](https://www.amazon.es/dp/B07D7X7L2G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D7X7L2G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

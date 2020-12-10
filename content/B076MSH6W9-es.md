@@ -22,6 +22,9 @@ Está [VAUDE Men s Tamaro Shorts Pantalones  Hombre  Radiate Blue  L](https://ww
 
 [![VAUDE Men s Tamaro Shorts Pantalones  Ho](https://images-eu.ssl-images-amazon.com/images/I/41kSJxjrgML._SL200_.jpg)](https://www.amazon.es/dp/B076MSH6W9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076MSH6W9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

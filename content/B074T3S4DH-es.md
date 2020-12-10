@@ -22,6 +22,9 @@ Tienes [Bestway 65303 Hydro-Force Oceana - Tablas inflables de pie con remo de a
 
 [![Bestway 65303 Hydro-Force Oceana - Tabla](https://images-eu.ssl-images-amazon.com/images/I/51NsIStkJ2L._SL200_.jpg)](https://www.amazon.es/dp/B074T3S4DH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074T3S4DH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

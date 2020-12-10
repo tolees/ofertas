@@ -22,6 +22,9 @@ Tienes [Godagoda - Pulsera magnética con 2 potentes imanes para sujetar tornill
 
 [![Godagoda - Pulsera magnética con 2 poten](https://images-eu.ssl-images-amazon.com/images/I/61OvV5SINkL._SL200_.jpg)](https://www.amazon.es/dp/B07FGG7YF4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FGG7YF4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Auriculares Bluetooth 5.0  Manos Libres Bluetooth Auriculares con Estuche
 
 [![Auriculares Bluetooth 5.0  Manos Libres ](https://images-eu.ssl-images-amazon.com/images/I/41yJJsh3r9L._SL200_.jpg)](https://www.amazon.es/dp/B07RJFCZJP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07RJFCZJP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

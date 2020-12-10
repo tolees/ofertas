@@ -22,6 +22,9 @@ Está [Aquaglide Lubricante - 100 ml](https://www.amazon.es/dp/B001GHEBF6/?tag=t
 
 [![Aquaglide Lubricante - 100 ml](https://images-eu.ssl-images-amazon.com/images/I/41qkV8YePqL._SL200_.jpg)](https://www.amazon.es/dp/B001GHEBF6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001GHEBF6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

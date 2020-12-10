@@ -22,6 +22,9 @@ Está [Moleskine DHP12DC2Y19 - Diario 12m de edición limitada Harry Potter de b
 
 [![Moleskine DHP12DC2Y19 - Diario 12m de ed](https://images-eu.ssl-images-amazon.com/images/I/41Id2DCYUYL._SL200_.jpg)](https://www.amazon.es/dp/B076BK63YT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076BK63YT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

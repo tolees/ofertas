@@ -22,6 +22,9 @@ Está [Adidas Nemeziz 18.3 FG J  Zapatillas de Fútbol para Niños  Amarillo Sol
 
 [![Adidas Nemeziz 18.3 FG J  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/310cHRsRRTL._SL200_.jpg)](https://www.amazon.es/dp/B07JZ55Z8Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JZ55Z8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

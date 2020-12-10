@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Defy Luxe Wn s  Zapatillas de Deporte para Mujer  Blanc
 
 [![Puma Defy Luxe Wn s  Zapatillas de Depor](https://images-eu.ssl-images-amazon.com/images/I/41AJrofCSSL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1JVTK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DB1JVTK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

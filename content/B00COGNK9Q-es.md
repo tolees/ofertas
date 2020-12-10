@@ -22,6 +22,9 @@ Tienes [Pasabahce Breeze Copas para Vino Rojo  Vidrio  Transparente  Juego de 6 
 
 [![Pasabahce Breeze Copas para Vino Rojo  V](https://images-eu.ssl-images-amazon.com/images/I/21LK0sTt1oL._SL200_.jpg)](https://www.amazon.es/dp/B00COGNK9Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00COGNK9Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

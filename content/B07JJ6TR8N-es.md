@@ -22,6 +22,9 @@ Tienes [Lacoste Ph4241 Polo  Azul  Farine Blanc-Marin Az7   XXXX-Large  Talla de
 
 [![Lacoste Ph4241 Polo  Azul  Farine Blanc-](https://images-eu.ssl-images-amazon.com/images/I/41pDrxERfhL._SL200_.jpg)](https://www.amazon.es/dp/B07JJ6TR8N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JJ6TR8N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Wrangler Arizona  Jeans  Hombre  Negro  Black Rinsewash   W32/L34](https
 
 [![Wrangler Arizona  Jeans  Hombre  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/310Uc9mJTVL._SL200_.jpg)](https://www.amazon.es/dp/B007XI8YHI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B007XI8YHI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

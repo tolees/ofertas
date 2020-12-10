@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW 3301 Straight Tapered Jeans  Azul  medium aged 85
 
 [![G-STAR RAW 3301 Straight Tapered Jeans  ](https://images-eu.ssl-images-amazon.com/images/I/41yvqeu%2BtfL._SL200_.jpg)](https://www.amazon.es/dp/B072PX2LYM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072PX2LYM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

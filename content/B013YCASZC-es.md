@@ -22,6 +22,9 @@ Está [Bestway - Nave Espacial X-Fighter Hinchable  91206 ](https://www.amazon.e
 
 [![Bestway - Nave Espacial X-Fighter Hincha](https://images-eu.ssl-images-amazon.com/images/I/41ri6-9OVqL._SL200_.jpg)](https://www.amazon.es/dp/B013YCASZC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B013YCASZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

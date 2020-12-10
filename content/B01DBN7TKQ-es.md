@@ -22,6 +22,9 @@ Ahora mismo tienes [BaByliss Cortapelos E781E - Recortadora para cabello y barba
 
 [![BaByliss Cortapelos E781E - Recortadora ](https://images-eu.ssl-images-amazon.com/images/I/31RXf-2IxOL._SL200_.jpg)](https://www.amazon.es/dp/B01DBN7TKQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01DBN7TKQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Bunchems - Maletín  Spin Master 6027589  [Edición importada]](https://w
 
 [![Bunchems - Maletín  Spin Master 6027589 ](https://images-eu.ssl-images-amazon.com/images/I/51JxwKg49jL._SL200_.jpg)](https://www.amazon.es/dp/B018J7JT3E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B018J7JT3E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

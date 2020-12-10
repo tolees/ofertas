@@ -22,6 +22,9 @@ Ahora mismo tienes [HOM Bond Trunk  Bañador Hombre  Negro  Noir   X-Small](http
 
 [![HOM Bond Trunk  Bañador Hombre  Negro  N](https://images-eu.ssl-images-amazon.com/images/I/51K7mZp19ZL._SL200_.jpg)](https://www.amazon.es/dp/B077T3BXBL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077T3BXBL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

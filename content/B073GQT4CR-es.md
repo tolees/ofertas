@@ -22,6 +22,9 @@ Ahora mismo tienes [Esprit 097ee1b022  Pantalones Mujer  Azul  Navy 400   W40/L3
 
 [![Esprit 097ee1b022  Pantalones Mujer  Azu](https://images-eu.ssl-images-amazon.com/images/I/414yhAOUu1L._SL200_.jpg)](https://www.amazon.es/dp/B073GQT4CR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073GQT4CR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

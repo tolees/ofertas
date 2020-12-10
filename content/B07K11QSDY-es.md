@@ -22,6 +22,9 @@ Tienes [Adidas Altarun CF K  Zapatillas de Running Unisex Niños  Blanco Blue/FT
 
 [![Adidas Altarun CF K  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/318FW2aFBbL._SL200_.jpg)](https://www.amazon.es/dp/B07K11QSDY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K11QSDY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

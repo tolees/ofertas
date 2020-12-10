@@ -22,6 +22,9 @@ Está [HP - Funda  Funda  43 9 cm  17.3"   360 g  Gris ](https://www.amazon.es/d
 
 [![HP - Funda  Funda  43 9 cm  17.3"   360 ](https://images-eu.ssl-images-amazon.com/images/I/51hCn0ZDADL._SL200_.jpg)](https://www.amazon.es/dp/B071KBJZ38/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071KBJZ38/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

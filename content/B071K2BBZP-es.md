@@ -22,6 +22,9 @@ Está [find. Pantalones Regular Fit Hombre Negro  Black  W32/L29](https://www.am
 
 [![find. Pantalones Regular Fit Hombre Negr](https://images-eu.ssl-images-amazon.com/images/I/21ZoTiEbULL._SL200_.jpg)](https://www.amazon.es/dp/B071K2BBZP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071K2BBZP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

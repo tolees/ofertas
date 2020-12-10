@@ -22,6 +22,9 @@ Está [Eachy Compatible con Cristal Templado para Samsung Galaxy A8 2018 Vidrio 
 
 [![Eachy Compatible con Cristal Templado pa](https://images-eu.ssl-images-amazon.com/images/I/41qarLG4d8L._SL200_.jpg)](https://www.amazon.es/dp/B07KQ9YQZS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KQ9YQZS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

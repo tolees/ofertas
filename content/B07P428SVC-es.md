@@ -22,6 +22,9 @@ Tienes [Magic Wand Massager  Silicona Masajeador Eléctrico con 10 Modos  Masaje
 
 [![Magic Wand Massager  Silicona Masajeador](https://images-eu.ssl-images-amazon.com/images/I/41qgSNZ2qLL._SL200_.jpg)](https://www.amazon.es/dp/B07P428SVC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P428SVC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

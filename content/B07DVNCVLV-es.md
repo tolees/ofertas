@@ -22,6 +22,9 @@ Está [Relaxdays Mantel Antimanchas Rectangular  Gris  140x180 cm](https://www.a
 
 [![Relaxdays Mantel Antimanchas Rectangular](https://images-eu.ssl-images-amazon.com/images/I/41O1mQFRl9L._SL200_.jpg)](https://www.amazon.es/dp/B07DVNCVLV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVNCVLV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

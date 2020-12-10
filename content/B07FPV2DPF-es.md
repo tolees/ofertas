@@ -22,6 +22,9 @@ Tienes [Puma NRGY Comet  Zapatillas de Running Unisex Adults o  Azul  Peacoat-Bl
 
 [![Puma NRGY Comet  Zapatillas de Running U](https://images-eu.ssl-images-amazon.com/images/I/4192qcpm2oL._SL200_.jpg)](https://www.amazon.es/dp/B07FPV2DPF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FPV2DPF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

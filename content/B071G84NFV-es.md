@@ -22,6 +22,9 @@ Ahora mismo tienes [s.Oliver 26245  Botas Militar para Mujer  Rojo  Bordeaux   3
 
 [![s.Oliver 26245  Botas Militar para Mujer](https://images-eu.ssl-images-amazon.com/images/I/51iUt%2BO5ndL._SL200_.jpg)](https://www.amazon.es/dp/B071G84NFV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071G84NFV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

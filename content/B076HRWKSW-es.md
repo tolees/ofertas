@@ -22,6 +22,9 @@ Está [Adidas CORE18 JSY Y T-Shirt  Unisex niños  White/Black  7-8A](https://ww
 
 [![Adidas CORE18 JSY Y T-Shirt  Unisex niño](https://images-eu.ssl-images-amazon.com/images/I/31n60ReEbhL._SL200_.jpg)](https://www.amazon.es/dp/B076HRWKSW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076HRWKSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

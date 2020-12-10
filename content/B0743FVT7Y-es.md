@@ -22,6 +22,9 @@ Tienes [Rowenta Air Force Ultimate TN9310 - Cortapelos con sistema de aspiració
 
 [![Rowenta Air Force Ultimate TN9310 - Cort](https://images-eu.ssl-images-amazon.com/images/I/51k4wB12kQL._SL200_.jpg)](https://www.amazon.es/dp/B0743FVT7Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0743FVT7Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

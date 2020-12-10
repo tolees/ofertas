@@ -22,6 +22,9 @@ Tienes [Garmin Vívomove HR-Smartwatch  Color Oro Rosa y Negro  Adultos Unisex  
 
 [![Garmin Vívomove HR-Smartwatch  Color Oro](https://images-eu.ssl-images-amazon.com/images/I/41h5y-3wkEL._SL200_.jpg)](https://www.amazon.es/dp/B07GS6X2FH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GS6X2FH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

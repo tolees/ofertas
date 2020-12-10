@@ -22,6 +22,9 @@ Tienes [Dockers by Gerli 39or009  Zapatillas Altas para Hombre  Marrón  Cafe 32
 
 [![Dockers by Gerli 39or009  Zapatillas Alt](https://images-eu.ssl-images-amazon.com/images/I/41tdhJ7g6zL._SL200_.jpg)](https://www.amazon.es/dp/B07DJL2QBF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJL2QBF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

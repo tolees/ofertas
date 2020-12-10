@@ -22,6 +22,9 @@ Tienes [GimCat pasta extra multivitaminas   Aperitivo para gatos nutritivo con v
 
 [![GimCat pasta extra multivitaminas   Aper](https://images-eu.ssl-images-amazon.com/images/I/41KwSEHtc5L._SL200_.jpg)](https://www.amazon.es/dp/B00JDI9UII/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JDI9UII/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

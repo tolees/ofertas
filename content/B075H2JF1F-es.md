@@ -22,6 +22,9 @@ Tienes [Skechers Mecca-outer Venture Botas Clasicas Niños  Marrón  Tan Tan   3
 
 [![Skechers Mecca-outer Venture Botas Clasi](https://images-eu.ssl-images-amazon.com/images/I/41pmk6fcT4L._SL200_.jpg)](https://www.amazon.es/dp/B075H2JF1F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075H2JF1F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Burton Midweight Calzoncillos Térmicos  Hombre  Verde  Seersucker Camo  
 
 [![Burton Midweight Calzoncillos Térmicos  ](https://images-eu.ssl-images-amazon.com/images/I/414MJeASU%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07DQ4JCD2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQ4JCD2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

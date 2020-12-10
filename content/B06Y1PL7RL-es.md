@@ -22,6 +22,9 @@ Ahora mismo tienes [Samsung HW-M360/ZF - Barra de Sonido inalámbrica con 200 W 
 
 [![Samsung HW-M360/ZF - Barra de Sonido ina](https://images-eu.ssl-images-amazon.com/images/I/212eg94cyEL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1PL7RL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06Y1PL7RL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

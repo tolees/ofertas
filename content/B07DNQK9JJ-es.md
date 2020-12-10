@@ -22,6 +22,9 @@ Está [Amaza 15 Piezas Linda & Gran Flotabilidad Posavasos Flotadores Set con 1 
 
 [![Amaza 15 Piezas Linda & Gran Flotabilida](https://images-eu.ssl-images-amazon.com/images/I/51A6F9ceLRL._SL200_.jpg)](https://www.amazon.es/dp/B07DNQK9JJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DNQK9JJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Carpeta para documentos A4 1617 EU carpeta archivadora clasificadora Ext
 
 [![Carpeta para documentos A4 1617 EU carpe](https://images-eu.ssl-images-amazon.com/images/I/41pN7-Z6zrL._SL200_.jpg)](https://www.amazon.es/dp/B07DG41ZRH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DG41ZRH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

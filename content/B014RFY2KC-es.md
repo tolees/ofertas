@@ -22,6 +22,9 @@ Está [Harry Potter Jumbo - Edición Metálica [Blu-ray]](https://www.amazon.es/
 
 [![Harry Potter Jumbo - Edición Metálica [B](https://images-eu.ssl-images-amazon.com/images/I/51MPBC5-k3L._SL200_.jpg)](https://www.amazon.es/dp/B014RFY2KC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B014RFY2KC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Jenny Zandvoort  Zapatillas de Estar por casa para Mujer  Antracita  38 
 
 [![Jenny Zandvoort  Zapatillas de Estar por](https://images-eu.ssl-images-amazon.com/images/I/41GxHqI-KxL._SL200_.jpg)](https://www.amazon.es/dp/B01FO8LP9M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FO8LP9M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

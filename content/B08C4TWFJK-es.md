@@ -22,6 +22,10 @@ Tienes [Xiaomi Mi Smart LED Bulb  Warm White ](https://www.amazon.es/dp/B08C4TWF
 
 [![Xiaomi Mi Smart LED Bulb  Warm White ](https://m.media-amazon.com/images/I/31r2ZTmaJLL._SL200_.jpg)](https://www.amazon.es/dp/B08C4TWFJK/?tag=tolees-21)
 
+Características principales:
+
+- Mi Smart LED Bulb (Warm White)
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B08C4TWFJK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

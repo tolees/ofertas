@@ -22,6 +22,9 @@ Tienes [Marcapiuma - Almohada de Látex Modelo Jabón 70x40 - Almohada Látex bi
 
 [![Marcapiuma - Almohada de Látex Modelo Ja](https://images-eu.ssl-images-amazon.com/images/I/41LWi8r6e5L._SL200_.jpg)](https://www.amazon.es/dp/B075FCFJCF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075FCFJCF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

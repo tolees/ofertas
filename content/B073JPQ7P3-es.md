@@ -22,6 +22,9 @@ Ahora mismo tienes [FIND Jesery de Pico para Hombre  Gris  Charcoal Grey Marl   
 
 [![FIND Jesery de Pico para Hombre  Gris  C](https://images-eu.ssl-images-amazon.com/images/I/415SesizlML._SL200_.jpg)](https://www.amazon.es/dp/B073JPQ7P3/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073JPQ7P3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

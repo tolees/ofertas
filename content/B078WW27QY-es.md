@@ -22,6 +22,9 @@ Tienes [Munich Massana  Zapatillas Unisex Adulto  Azul  261   40 EU](https://www
 
 [![Munich Massana  Zapatillas Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41%2BB9N1ObFL._SL200_.jpg)](https://www.amazon.es/dp/B078WW27QY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WW27QY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

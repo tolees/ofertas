@@ -22,6 +22,9 @@ Está [BSK-Funda Universal para Tablet de 10-10.1 Pulgadas 360 Giratoria 360 Gra
 
 [![BSK-Funda Universal para Tablet de 10-10](https://images-eu.ssl-images-amazon.com/images/I/41bKqnJ268L._SL200_.jpg)](https://www.amazon.es/dp/B07DYVWZTG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DYVWZTG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

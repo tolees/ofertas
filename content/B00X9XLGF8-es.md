@@ -22,6 +22,9 @@ Ahora mismo tienes [Maybelline New York 2en1 Eye Make Up Desmaquillante - 125 ml
 
 [![Maybelline New York 2en1 Eye Make Up Des](https://images-eu.ssl-images-amazon.com/images/I/41TdqmlnNaL._SL200_.jpg)](https://www.amazon.es/dp/B00X9XLGF8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00X9XLGF8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

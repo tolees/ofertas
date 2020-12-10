@@ -22,6 +22,9 @@ Está [Buff Rinmann Sombrero Travel Bucket  Unisex Adulto  Blue  Talla única](h
 
 [![Buff Rinmann Sombrero Travel Bucket  Uni](https://images-eu.ssl-images-amazon.com/images/I/31Jm4vF9XcL._SL200_.jpg)](https://www.amazon.es/dp/B07KGJKLL9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGJKLL9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

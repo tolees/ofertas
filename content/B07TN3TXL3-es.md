@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES 12152840 Sudadera con capuc al 45.65 % de descuento'
-date: 2020-12-08 16:39:15
+date: 2020-12-10 21:00:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Lr-xoH9uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Lr-xoH9uL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,12 @@ country: 'es'
 Está [JACK & JONES 12152840 Sudadera con capucha  Gris  Light Melange   M para Hombre](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21) con 45.65 de descuento por 16.3 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![JACK & JONES 12152840 Sudadera con capuc](https://m.media-amazon.com/images/I/41Lr-xoH9uL._SL200_.jpg)](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21)
+
+Principales características:
+
+- Jersey con logo
+- Mezcla de algodón
+- Talla/Tamaño: Medium
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TN3TXL3/?tag=tolees-21)
 

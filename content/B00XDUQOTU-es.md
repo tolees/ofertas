@@ -22,6 +22,9 @@ Tienes [Angel Schlesser 45596 - Eau de perfume para mujer](https://www.amazon.es
 
 [![Angel Schlesser 45596 - Eau de perfume p](https://images-eu.ssl-images-amazon.com/images/I/51DoBeqpRGL._SL200_.jpg)](https://www.amazon.es/dp/B00XDUQOTU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XDUQOTU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

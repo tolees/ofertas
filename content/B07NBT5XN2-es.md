@@ -22,6 +22,9 @@ Ahora mismo tienes [CRXOOX 2-Pack Cristal Vidrio Templado para Samsung A8 2018  
 
 [![CRXOOX 2-Pack Cristal Vidrio Templado pa](https://images-eu.ssl-images-amazon.com/images/I/51Z5K-k-LDL._SL200_.jpg)](https://www.amazon.es/dp/B07NBT5XN2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NBT5XN2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

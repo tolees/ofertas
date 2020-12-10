@@ -22,6 +22,9 @@ Está [Hoidokly Cargador Inalámbrico Rápido Qi  10W Fast Wireless Charger para
 
 [![Hoidokly Cargador Inalámbrico Rápido Qi ](https://images-eu.ssl-images-amazon.com/images/I/31viMTQAiwL._SL200_.jpg)](https://www.amazon.es/dp/B07MX4X2FG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MX4X2FG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [2018 Última versión-Mini M8S Pro Android 7.1 TV Box S912 Octa Core Arm 
 
 [![2018 Última versión-Mini M8S Pro Android](https://images-eu.ssl-images-amazon.com/images/I/41CAfDG-YuL._SL200_.jpg)](https://www.amazon.es/dp/B07FNJBRGZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FNJBRGZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

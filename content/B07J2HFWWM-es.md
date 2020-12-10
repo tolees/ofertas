@@ -22,6 +22,9 @@ Tienes [EXCITE Delay Gel retardante para hombre a base de extractos vegetales. Â
 
 [![EXCITE Delay Gel retardante para hombre ](https://images-eu.ssl-images-amazon.com/images/I/51bPZMP9yOL._SL200_.jpg)](https://www.amazon.es/dp/B07J2HFWWM/?tag=tolees-21)
 
+CaracterÃ­sticas principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07J2HFWWM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

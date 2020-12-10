@@ -22,6 +22,9 @@ Está [Potensic Drone con cámara HD  Quadcopter 2.4G 6 Ejes Control Remoto  Alt
 
 [![Potensic Drone con cámara HD  Quadcopter](https://images-eu.ssl-images-amazon.com/images/I/419UKWGLxJL._SL200_.jpg)](https://www.amazon.es/dp/B07N3XQHGP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N3XQHGP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

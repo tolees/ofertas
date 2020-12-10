@@ -22,6 +22,9 @@ Ahora mismo tienes [Blazblue Cross Tag Battle Day One](https://www.amazon.es/dp/
 
 [![Blazblue Cross Tag Battle Day One](https://images-eu.ssl-images-amazon.com/images/I/51ZXpTBKxLL._SL200_.jpg)](https://www.amazon.es/dp/B07BHG4W3H/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BHG4W3H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

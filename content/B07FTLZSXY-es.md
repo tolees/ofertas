@@ -22,6 +22,9 @@ Está [Adidas CF Racer TR K  Zapatillas de Deporte Unisex Adulto   Rojsol/Negbá
 
 [![Adidas CF Racer TR K  Zapatillas de Depo](https://images-eu.ssl-images-amazon.com/images/I/41BpxXOtl-L._SL200_.jpg)](https://www.amazon.es/dp/B07FTLZSXY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTLZSXY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

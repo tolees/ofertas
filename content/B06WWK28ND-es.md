@@ -22,6 +22,9 @@ Está [Emsa Clip&Go Snack - Recipiente hermético de plástico con 2 compartimen
 
 [![Emsa Clip&Go Snack - Recipiente hermétic](https://images-eu.ssl-images-amazon.com/images/I/31iJkptNSzL._SL200_.jpg)](https://www.amazon.es/dp/B06WWK28ND/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06WWK28ND/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

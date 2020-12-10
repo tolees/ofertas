@@ -22,6 +22,9 @@ Tienes [Finish Pastillas De Lavavajillas Powerball Cuánticos  18 ](https://www.
 
 [![Finish Pastillas De Lavavajillas Powerba](https://images-eu.ssl-images-amazon.com/images/I/51pViyn87gL._SL200_.jpg)](https://www.amazon.es/dp/B00N1T08RC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00N1T08RC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

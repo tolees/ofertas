@@ -22,6 +22,9 @@ Está [adidas 6P 3S Cotto Gorra  Hombre  Azul  Maruni/Blanco   Talla única](htt
 
 [![adidas 6P 3S Cotto Gorra  Hombre  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/51zoYSkD-4L._SL200_.jpg)](https://www.amazon.es/dp/B01NALUDVM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NALUDVM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

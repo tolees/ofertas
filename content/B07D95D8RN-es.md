@@ -22,6 +22,9 @@ Ahora mismo tienes [Marco Tozzi 26241-21  Botas de Nieve para Mujer  Blanco  Ice
 
 [![Marco Tozzi 26241-21  Botas de Nieve par](https://images-eu.ssl-images-amazon.com/images/I/41ZG6C4aygL._SL200_.jpg)](https://www.amazon.es/dp/B07D95D8RN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D95D8RN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

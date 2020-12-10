@@ -22,6 +22,9 @@ Está [Kappa Bento Tex  Náuticos Unisex Niños  Azul  Navy/Orange 6744   37 EU]
 
 [![Kappa Bento Tex  Náuticos Unisex Niños  ](https://images-eu.ssl-images-amazon.com/images/I/51kRxcY%2BfSL._SL200_.jpg)](https://www.amazon.es/dp/B07D4W7RM1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D4W7RM1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

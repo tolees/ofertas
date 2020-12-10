@@ -22,6 +22,9 @@ Ahora mismo tienes [Neopreno Apoyo de Hombro de - Protector para Hombro Segurida
 
 [![Neopreno Apoyo de Hombro de - Protector ](https://images-eu.ssl-images-amazon.com/images/I/51A3i%2BnDjML._SL200_.jpg)](https://www.amazon.es/dp/B07FNPBY4P/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FNPBY4P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

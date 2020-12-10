@@ -22,6 +22,9 @@ Tienes [GORE RUNNING WEAR  Calcetines tobilleros para correr  Hombre  Anatómico
 
 [![GORE RUNNING WEAR  Calcetines tobilleros](https://images-eu.ssl-images-amazon.com/images/I/51QtBFqtrWL._SL200_.jpg)](https://www.amazon.es/dp/B003DNSFBW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003DNSFBW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

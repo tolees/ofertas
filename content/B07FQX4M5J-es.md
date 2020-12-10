@@ -22,6 +22,9 @@ Está [Calvin Klein Danica CK Momogram/Cow Silk  Zapatillas para Mujer  Negro  B
 
 [![Calvin Klein Danica CK Momogram/Cow Silk](https://images-eu.ssl-images-amazon.com/images/I/418yVglFY1L._SL200_.jpg)](https://www.amazon.es/dp/B07FQX4M5J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQX4M5J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

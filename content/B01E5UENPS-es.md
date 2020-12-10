@@ -22,6 +22,9 @@ Tienes [Lacoste Straightset 316 3 Caw Blk  Zapatillas para Mujer  Negro 024  42 
 
 [![Lacoste Straightset 316 3 Caw Blk  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41x9hzuHr4L._SL200_.jpg)](https://www.amazon.es/dp/B01E5UENPS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01E5UENPS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

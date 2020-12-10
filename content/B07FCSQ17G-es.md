@@ -22,6 +22,9 @@ Tienes [Guess - Kamryn  Bolsos bandolera Mujer  Rosa  Coral/Cor   25.5x19x6 cm  
 
 [![Guess - Kamryn  Bolsos bandolera Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41F8gC-uToL._SL200_.jpg)](https://www.amazon.es/dp/B07FCSQ17G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FCSQ17G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

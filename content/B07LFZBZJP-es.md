@@ -22,6 +22,9 @@ Está [Pepe Jeans North Court  Zapatillas para Hombre  Blanco  800WHITE 800   41
 
 [![Pepe Jeans North Court  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/31ifPVgSFpL._SL200_.jpg)](https://www.amazon.es/dp/B07LFZBZJP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFZBZJP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

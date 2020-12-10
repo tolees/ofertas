@@ -22,6 +22,9 @@ Está [Marca Amazon - Solimo -  Galletas Japonais  merengue con  chocolate y ave
 
 [![Marca Amazon - Solimo -  Galletas Japona](https://images-eu.ssl-images-amazon.com/images/I/21F5wgYOWWL._SL200_.jpg)](https://www.amazon.es/dp/B07FSNY99B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FSNY99B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

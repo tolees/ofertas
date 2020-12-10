@@ -22,6 +22,9 @@ Ahora mismo tienes [Probios Compota de Piña y Jengibre - Paquete de 6 x 320 gr 
 
 [![Probios Compota de Piña y Jengibre - Paq](http://images.amazon.com/images/P/B075FYFZ2T.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B075FYFZ2T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075FYFZ2T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

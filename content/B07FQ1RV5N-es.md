@@ -22,6 +22,9 @@ Está [find. Cotton Roll Neck suéter Negro  Black  46  Talla del Fabricante: X-
 
 [![find. Cotton Roll Neck suéter Negro  Bla](https://images-eu.ssl-images-amazon.com/images/I/31KhuZad0DL._SL200_.jpg)](https://www.amazon.es/dp/B07FQ1RV5N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQ1RV5N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

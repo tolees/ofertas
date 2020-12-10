@@ -22,6 +22,9 @@ Ahora mismo tienes [Leathario cinturon de lona para hombre y mujer de la pretina
 
 [![Leathario cinturon de lona para hombre y](https://images-eu.ssl-images-amazon.com/images/I/51S1QkpE-YL._SL200_.jpg)](https://www.amazon.es/dp/B01L1KOCTC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01L1KOCTC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

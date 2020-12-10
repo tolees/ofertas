@@ -22,6 +22,9 @@ Ahora mismo tienes [Anís del Mono Licor Carajillo - 6 Paquestes de 700 ml- Tota
 
 [![Anís del Mono Licor Carajillo - 6 Paques](https://images-eu.ssl-images-amazon.com/images/I/41gvuFoeSdL._SL200_.jpg)](https://www.amazon.es/dp/B07S12VTQ7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07S12VTQ7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

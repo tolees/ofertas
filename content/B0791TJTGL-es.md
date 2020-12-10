@@ -22,6 +22,9 @@ Ahora mismo tienes [Etnies Jameson 2 Eco  Zapatillas de Skateboard para Hombre  
 
 [![Etnies Jameson 2 Eco  Zapatillas de Skat](https://images-eu.ssl-images-amazon.com/images/I/41IaCUnNcIL._SL200_.jpg)](https://www.amazon.es/dp/B0791TJTGL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0791TJTGL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

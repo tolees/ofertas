@@ -22,6 +22,9 @@ Tienes [adidas EQT Racing ADV W  Zapatillas de Deporte para Mujer  Casbla/Negbas
 
 [![adidas EQT Racing ADV W  Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/31DxV8rrJJL._SL200_.jpg)](https://www.amazon.es/dp/B072K78FLC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072K78FLC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

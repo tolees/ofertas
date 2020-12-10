@@ -22,6 +22,9 @@ Está [Miele Scout RX1 Robot Aspirador  22 W  0.6 litros  Negro](https://www.ama
 
 [![Miele Scout RX1 Robot Aspirador  22 W  0](https://images-eu.ssl-images-amazon.com/images/I/51NQxWSEc1L._SL200_.jpg)](https://www.amazon.es/dp/B00JLGKMN4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00JLGKMN4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

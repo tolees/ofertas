@@ -22,6 +22,9 @@ Tienes [Grenade Carb Killa RTD Chocolate Mint - 8 Unidades](https://www.amazon.e
 
 [![Grenade Carb Killa RTD Chocolate Mint - ](https://images-eu.ssl-images-amazon.com/images/I/61PpKyNTeuL._SL200_.jpg)](https://www.amazon.es/dp/B01N08QBSS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N08QBSS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

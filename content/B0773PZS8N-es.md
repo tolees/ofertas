@@ -22,6 +22,9 @@ Está [Levi s Almayer Lite  Zapatillas para Hombre  Negro  Regular Black 59   45
 
 [![Levi s Almayer Lite  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41U3uh4kkmL._SL200_.jpg)](https://www.amazon.es/dp/B0773PZS8N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0773PZS8N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

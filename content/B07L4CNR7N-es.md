@@ -22,6 +22,9 @@ Tienes [Transmisor FM Bluetooth  Cocoda Adaptador de Radio Manos Libres [160° R
 
 [![Transmisor FM Bluetooth  Cocoda Adaptado](https://images-eu.ssl-images-amazon.com/images/I/41mNVf47QuL._SL200_.jpg)](https://www.amazon.es/dp/B07L4CNR7N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L4CNR7N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

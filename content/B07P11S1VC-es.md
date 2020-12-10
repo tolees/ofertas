@@ -22,6 +22,9 @@ Está [Alarma Personal 3 PCS 140dB Alto Decibeles Alarma de Llavero con Función
 
 [![Alarma Personal 3 PCS 140dB Alto Decibel](https://images-eu.ssl-images-amazon.com/images/I/51u3UXBKBsL._SL200_.jpg)](https://www.amazon.es/dp/B07P11S1VC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P11S1VC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

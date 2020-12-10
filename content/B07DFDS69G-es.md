@@ -22,6 +22,9 @@ Está [Funko – Disney Color Wreck-It-Ralph 2 Color Pop 8   33418 ](https:/
 
 [![Funko – Disney Color Wreck-It-Ralph 2 Co](https://images-eu.ssl-images-amazon.com/images/I/3140u5-grHL._SL200_.jpg)](https://www.amazon.es/dp/B07DFDS69G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFDS69G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

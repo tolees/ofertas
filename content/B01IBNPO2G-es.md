@@ -22,6 +22,9 @@ Tienes [Billow Technology XS360PROR - Cámara de acción de 16 MP  360  1080p  C
 
 [![Billow Technology XS360PROR - Cámara de ]()](https://www.amazon.es/dp/B01IBNPO2G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IBNPO2G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

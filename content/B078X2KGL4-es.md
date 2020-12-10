@@ -22,6 +22,9 @@ Tienes [Dockers by Gerli 42ma204-700921  Zapatillas para Mujer  Dorado  Gold/Sch
 
 [![Dockers by Gerli 42ma204-700921  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/5192TH2gdhL._SL200_.jpg)](https://www.amazon.es/dp/B078X2KGL4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078X2KGL4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Columbia Zero Rules Polo  Hombre   Azul   M](https://www.amazon.es/dp/B07
 
 [![Columbia Zero Rules Polo  Hombre   Azul ](https://images-eu.ssl-images-amazon.com/images/I/41ksxeXm%2BRL._SL200_.jpg)](https://www.amazon.es/dp/B07KRMJ6YP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KRMJ6YP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Uprise Knit  Zapatillas Unisex Adults o  Negro Black-Iron Gate White
 
 [![Puma Uprise Knit  Zapatillas Unisex Adul](https://images-eu.ssl-images-amazon.com/images/I/414g9UDAwpL._SL200_.jpg)](https://www.amazon.es/dp/B07CRHCJP9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CRHCJP9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

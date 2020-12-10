@@ -22,6 +22,9 @@ Está [New Balance 1500v4 Boa  Zapatillas de Running para Mujer  Blanco  White W
 
 [![New Balance 1500v4 Boa  Zapatillas de Ru](https://images-eu.ssl-images-amazon.com/images/I/41u3eebAq4L._SL200_.jpg)](https://www.amazon.es/dp/B07B7Z8QRR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B7Z8QRR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

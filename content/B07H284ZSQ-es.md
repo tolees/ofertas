@@ -22,6 +22,9 @@ Tienes [LIERAS - Grifo de cocina giratorio de latón macizo con una sola palanca
 
 [![LIERAS - Grifo de cocina giratorio de la](https://images-eu.ssl-images-amazon.com/images/I/4199u43wjoL._SL200_.jpg)](https://www.amazon.es/dp/B07H284ZSQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H284ZSQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [IDC COLOR  Maquillaje corrector ojeras](https://www.amazon.es/dp/B01FFITQ
 
 [![IDC COLOR  Maquillaje corrector ojeras](https://images-eu.ssl-images-amazon.com/images/I/41YGo0kd9jL._SL200_.jpg)](https://www.amazon.es/dp/B01FFITQRO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FFITQRO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

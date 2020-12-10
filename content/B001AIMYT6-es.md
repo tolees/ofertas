@@ -22,6 +22,9 @@ Está [Cressi Water Shoes Escarpines  Unisex Adulto  Azul  Aquamarina   36 EU](h
 
 [![Cressi Water Shoes Escarpines  Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/41ZNPNntpZL._SL200_.jpg)](https://www.amazon.es/dp/B001AIMYT6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001AIMYT6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

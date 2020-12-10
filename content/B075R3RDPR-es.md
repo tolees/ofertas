@@ -22,6 +22,9 @@ Tienes [New Balance Fresh Foam Zante v4 Neutral  Zapatillas de Running para Muje
 
 [![New Balance Fresh Foam Zante v4 Neutral ](https://images-eu.ssl-images-amazon.com/images/I/41ZL89geCTL._SL200_.jpg)](https://www.amazon.es/dp/B075R3RDPR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075R3RDPR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

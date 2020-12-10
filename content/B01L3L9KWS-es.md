@@ -22,6 +22,9 @@ Está [Panama Jack Panama 03 Igloo  Botas Militar para Mujer   Gris B20   36 EU]
 
 [![Panama Jack Panama 03 Igloo  Botas Milit](https://images-eu.ssl-images-amazon.com/images/I/41UXoxQtaoL._SL200_.jpg)](https://www.amazon.es/dp/B01L3L9KWS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01L3L9KWS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [New Balance Wl220V1  Zapatillas para Mujer  Azul  Navy   35 EU](https://
 
 [![New Balance Wl220V1  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/41srjxRbJhL._SL200_.jpg)](https://www.amazon.es/dp/B06XWTZLHD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XWTZLHD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

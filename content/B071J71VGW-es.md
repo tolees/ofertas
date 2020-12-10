@@ -22,6 +22,9 @@ Está [Under Armour 1312478-001  Calcetines Para Joven  Multicolor  True grey/He
 
 [![Under Armour 1312478-001  Calcetines Par](https://images-eu.ssl-images-amazon.com/images/I/41X8P88ARVL._SL200_.jpg)](https://www.amazon.es/dp/B071J71VGW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071J71VGW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

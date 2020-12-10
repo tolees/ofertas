@@ -22,6 +22,9 @@ Ahora mismo tienes [Dorothy Perkins - Studded Saddle  Bolsos bandolera Mujer  Ne
 
 [![Dorothy Perkins - Studded Saddle  Bolsos](https://images-eu.ssl-images-amazon.com/images/I/41eLHaiFUDL._SL200_.jpg)](https://www.amazon.es/dp/B07G3V3L4F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G3V3L4F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

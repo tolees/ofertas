@@ -22,6 +22,9 @@ Tienes [COMVIP Mujeres Cuerda Adultos Multi-Wrap Nylon Pulseras Ajustables Braza
 
 [![COMVIP Mujeres Cuerda Adultos Multi-Wrap](https://images-eu.ssl-images-amazon.com/images/I/51JSq1gtOPL._SL200_.jpg)](https://www.amazon.es/dp/B07FM2XSYQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FM2XSYQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Pro Training II Bolsa Deportiva  Unisex  New Navy  UA](https://www.a
 
 [![Puma Pro Training II Bolsa Deportiva  Un](https://images-eu.ssl-images-amazon.com/images/I/4106wnUQ2aL._SL200_.jpg)](https://www.amazon.es/dp/B073HB6HWB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073HB6HWB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

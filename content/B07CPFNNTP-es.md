@@ -22,6 +22,9 @@ Está [Polar V650 HR - Ciclocomputador con GPS y sensor de Frecuencia Cardíaca 
 
 [![Polar V650 HR - Ciclocomputador con GPS ](https://images-eu.ssl-images-amazon.com/images/I/41Aqpe1q5fL._SL200_.jpg)](https://www.amazon.es/dp/B07CPFNNTP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CPFNNTP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

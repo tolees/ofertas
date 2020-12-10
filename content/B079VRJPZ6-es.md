@@ -22,6 +22,9 @@ Está [Desigual - Mone_always Macau  Carteras Mujer  Verde  Verde Militar   1x21
 
 [![Desigual - Mone_always Macau  Carteras M](https://images-eu.ssl-images-amazon.com/images/I/51lu3xdIzrL._SL200_.jpg)](https://www.amazon.es/dp/B079VRJPZ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079VRJPZ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

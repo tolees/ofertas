@@ -22,6 +22,9 @@ Está [Motorola S1202 Duo - Teléfono fijo inalámbrico  color negro](https://ww
 
 [![Motorola S1202 Duo - Teléfono fijo inalá]()](https://www.amazon.es/dp/B007PAGH0U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007PAGH0U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

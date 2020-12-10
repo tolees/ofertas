@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Originals Stan Smith  Zapatillas de Deporte Unisex Ad
 
 [![adidas Originals Stan Smith  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41WGnV0dySL._SL200_.jpg)](https://www.amazon.es/dp/B00KP8ZKCU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00KP8ZKCU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

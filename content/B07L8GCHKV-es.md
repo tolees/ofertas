@@ -22,6 +22,9 @@ Tienes [Dockers by Gerli 43cd001-706200  Zapatillas para Hombre  Gris  Grau 200 
 
 [![Dockers by Gerli 43cd001-706200  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41WTICgYdaL._SL200_.jpg)](https://www.amazon.es/dp/B07L8GCHKV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L8GCHKV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

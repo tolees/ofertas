@@ -22,6 +22,9 @@ Está [Clarks Ellis Franklin  Botas Chelsea para Hombre  Negro  Black Leather   
 
 [![Clarks Ellis Franklin  Botas Chelsea par](https://images-eu.ssl-images-amazon.com/images/I/41lRpNSJ0oL._SL200_.jpg)](https://www.amazon.es/dp/B06XC94NRK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XC94NRK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

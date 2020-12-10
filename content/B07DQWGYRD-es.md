@@ -22,6 +22,9 @@ Está [Swarovski Juego de joyas Mujer acero inoxidable - 5416361](https://www.am
 
 [![Swarovski Juego de joyas Mujer acero ino](https://images-eu.ssl-images-amazon.com/images/I/31FnwpDnSaL._SL200_.jpg)](https://www.amazon.es/dp/B07DQWGYRD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQWGYRD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

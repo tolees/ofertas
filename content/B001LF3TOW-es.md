@@ -22,6 +22,9 @@ Está [Clatronic MWG 775 H Microondas con grill y horno convección 1300 W  23 l
 
 [![Clatronic MWG 775 H Microondas con grill](https://images-eu.ssl-images-amazon.com/images/I/41aZzV15esL._SL200_.jpg)](https://www.amazon.es/dp/B001LF3TOW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001LF3TOW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

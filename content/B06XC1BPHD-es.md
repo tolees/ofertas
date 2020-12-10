@@ -22,6 +22,9 @@ Está [SMARTCAR ADDS Parasol Coche bebé con protección UV - Protección del So
 
 [![SMARTCAR ADDS Parasol Coche bebé con pro](https://images-eu.ssl-images-amazon.com/images/I/41DxPbiTBML._SL200_.jpg)](https://www.amazon.es/dp/B06XC1BPHD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XC1BPHD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

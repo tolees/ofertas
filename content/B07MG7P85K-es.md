@@ -22,6 +22,9 @@ Tienes [ARTESANIA CERDA Gorra Premium Mickey  Niños  Gris  M  Tamaño del Fabri
 
 [![ARTESANIA CERDA Gorra Premium Mickey  Ni](https://images-eu.ssl-images-amazon.com/images/I/51Ij%2BaEDfLL._SL200_.jpg)](https://www.amazon.es/dp/B07MG7P85K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MG7P85K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

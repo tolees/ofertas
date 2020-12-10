@@ -22,6 +22,9 @@ Ahora mismo tienes [Frederick s of Hollywood Lujoso Recargable Vibrador Caja con
 
 [![Frederick s of Hollywood Lujoso Recargab](https://images-eu.ssl-images-amazon.com/images/I/31AmjhS%2BRlL._SL200_.jpg)](https://www.amazon.es/dp/B0752KZGZJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0752KZGZJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

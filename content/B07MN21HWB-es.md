@@ -22,6 +22,9 @@ Está [MTNG 47768  Zapatillas para Niñas   Tano Rosa/Mesh Blanco/Sata Azul Clar
 
 [![MTNG 47768  Zapatillas para Niñas   Tano](https://images-eu.ssl-images-amazon.com/images/I/31dal5mk9wL._SL200_.jpg)](https://www.amazon.es/dp/B07MN21HWB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MN21HWB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

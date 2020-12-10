@@ -22,6 +22,9 @@ Está [Adidas Ace 17.4 FxG  Zapatillas Deportivas para Interior para Hombre  Azu
 
 [![Adidas Ace 17.4 FxG  Zapatillas Deportiv](https://images-eu.ssl-images-amazon.com/images/I/410QtWu4sTL._SL200_.jpg)](https://www.amazon.es/dp/B06WRSTM43/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06WRSTM43/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

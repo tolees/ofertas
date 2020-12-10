@@ -22,6 +22,9 @@ Tienes [Reebok Speedlux 3.0  Zapatillas de Trail Running para Mujer   We/Smoky V
 
 [![Reebok Speedlux 3.0  Zapatillas de Trail](https://images-eu.ssl-images-amazon.com/images/I/41hGzmR55mL._SL200_.jpg)](https://www.amazon.es/dp/B07G1CHX4S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G1CHX4S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

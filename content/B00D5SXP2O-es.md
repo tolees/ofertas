@@ -22,6 +22,9 @@ Está [Beurer IH40 Inhalador eléctrico  color blanco  20.1 x 14.7 x 14.1 cm  31
 
 [![Beurer IH40 Inhalador eléctrico  color b](https://images-eu.ssl-images-amazon.com/images/I/31OZr-TXHdL._SL200_.jpg)](https://www.amazon.es/dp/B00D5SXP2O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00D5SXP2O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

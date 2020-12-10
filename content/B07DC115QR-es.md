@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Vikky Ribbon Jr  Zapatillas para Niñas  Negro Black Si
 
 [![Puma Vikky Ribbon Jr  Zapatillas para Ni](https://images-eu.ssl-images-amazon.com/images/I/31achWauLgL._SL200_.jpg)](https://www.amazon.es/dp/B07DC115QR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC115QR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

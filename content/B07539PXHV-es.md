@@ -22,6 +22,9 @@ Tienes [Jungle King Gran Capacidad 30 L Agua Densidad Senderismo Viaje Mochila 
 
 [![Jungle King Gran Capacidad 30 L Agua Den](https://images-eu.ssl-images-amazon.com/images/I/511NVooeLIL._SL200_.jpg)](https://www.amazon.es/dp/B07539PXHV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07539PXHV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

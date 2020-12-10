@@ -22,6 +22,9 @@ Está [Pepe Jeans London Tinker Pro Seal Camu  Zapatillas Hombre  Verde  Khaki G
 
 [![Pepe Jeans London Tinker Pro Seal Camu  ](https://images-eu.ssl-images-amazon.com/images/I/41Ous6UvZDL._SL200_.jpg)](https://www.amazon.es/dp/B0787CVDLT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0787CVDLT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

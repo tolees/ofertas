@@ -22,6 +22,9 @@ Está [MEIKEE led proyector solar con estaca para césped  foco solar led con es
 
 [![MEIKEE led proyector solar con estaca pa](https://images-eu.ssl-images-amazon.com/images/I/51cMOgKEq6L._SL200_.jpg)](https://www.amazon.es/dp/B07FD65F1X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FD65F1X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

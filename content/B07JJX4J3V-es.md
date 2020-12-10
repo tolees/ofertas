@@ -22,6 +22,9 @@ Ahora mismo tienes [TOTTO Mochilas Escolares con Ruedas  Grandes Infantiles Esta
 
 [![TOTTO Mochilas Escolares con Ruedas  Gra](https://images-eu.ssl-images-amazon.com/images/I/51WVDZX33hL._SL200_.jpg)](https://www.amazon.es/dp/B07JJX4J3V/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JJX4J3V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

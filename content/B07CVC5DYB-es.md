@@ -22,6 +22,9 @@ Tienes [Skechers Side Street-Ostmoor  Zapatillas para Hombre  Blanco  White Wht 
 
 [![Skechers Side Street-Ostmoor  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/319P15gonoL._SL200_.jpg)](https://www.amazon.es/dp/B07CVC5DYB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CVC5DYB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

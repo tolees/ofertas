@@ -22,6 +22,9 @@ Está [Speedo 8069201288 Manguitos  Unisex niños  Naranja  2-6](https://www.ama
 
 [![Speedo 8069201288 Manguitos  Unisex niño](https://images-eu.ssl-images-amazon.com/images/I/410NguxAuML._SL200_.jpg)](https://www.amazon.es/dp/B004CYP9CY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004CYP9CY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Desires 9188107 Pantalones  Negro  Black    Tamaño del Fabricante:36  p
 
 [![Desires 9188107 Pantalones  Negro  Black](https://images-eu.ssl-images-amazon.com/images/I/31ganspvcSL._SL200_.jpg)](https://www.amazon.es/dp/B077GW3FR1/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077GW3FR1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

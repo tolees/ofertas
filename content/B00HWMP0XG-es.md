@@ -22,6 +22,9 @@ Tienes [Olympus M.ZUIKO Digital - Objetivo  9/7  Objetivos macro  0 25 m  Micro 
 
 [![Olympus M.ZUIKO Digital - Objetivo  9/7 ](https://images-eu.ssl-images-amazon.com/images/I/41P35QJC62L._SL200_.jpg)](https://www.amazon.es/dp/B00HWMP0XG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HWMP0XG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Osram Lunetta Round Luz de Noche  0.5 W  Blanco](https://www.amazon.es/dp
 
 [![Osram Lunetta Round Luz de Noche  0.5 W ](https://images-eu.ssl-images-amazon.com/images/I/31Yy3D2jmiL._SL200_.jpg)](https://www.amazon.es/dp/B07FDCQ3WX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDCQ3WX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [adidas Nemeziz 17.4 TR  Zapatillas de Fútbol para Hombre   Core Black/So
 
 [![adidas Nemeziz 17.4 TR  Zapatillas de Fú](https://images-eu.ssl-images-amazon.com/images/I/51RNBsOWbIL._SL200_.jpg)](https://www.amazon.es/dp/B01M3TWGKZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M3TWGKZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

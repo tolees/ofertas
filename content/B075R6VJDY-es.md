@@ -22,6 +22,9 @@ Tienes [New Balance 697  Zapatillas de Running para Mujer  Negro  Black/Castlero
 
 [![New Balance 697  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/41iW-awdOAL._SL200_.jpg)](https://www.amazon.es/dp/B075R6VJDY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075R6VJDY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

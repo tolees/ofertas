@@ -22,6 +22,9 @@ Tienes [Hurley M DRI-FIT Breathe 19  Bermudas  Hombre  Khaki  32](https://www.am
 
 [![Hurley M DRI-FIT Breathe 19  Bermudas  H](https://images-eu.ssl-images-amazon.com/images/I/41npDzoJ1gL._SL200_.jpg)](https://www.amazon.es/dp/B074T2GH2F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074T2GH2F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

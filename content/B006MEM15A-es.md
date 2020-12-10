@@ -22,6 +22,9 @@ Tienes [Kenwood Prospero KM282 Robot de cocina  diseño compacto  900 W  Metal  
 
 [![Kenwood Prospero KM282 Robot de cocina  ](https://images-eu.ssl-images-amazon.com/images/I/415wCtO187L._SL200_.jpg)](https://www.amazon.es/dp/B006MEM15A/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B006MEM15A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

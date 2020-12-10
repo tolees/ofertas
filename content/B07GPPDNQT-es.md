@@ -22,6 +22,9 @@ Está [Mexx Mexx-70455 Pantalones  Negro  Jet Black 190303   38W x 32L para Muje
 
 [![Mexx Mexx-70455 Pantalones  Negro  Jet B](https://images-eu.ssl-images-amazon.com/images/I/31GVAkIepKL._SL200_.jpg)](https://www.amazon.es/dp/B07GPPDNQT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GPPDNQT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

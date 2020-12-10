@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 373  Zapatillas para Mujer  Negro  Black/Gold Ng
 
 [![New Balance 373  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41V9jNhM-5L._SL200_.jpg)](https://www.amazon.es/dp/B01EX3TL4U/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01EX3TL4U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

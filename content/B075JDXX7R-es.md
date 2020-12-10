@@ -22,6 +22,9 @@ Está [DoGeek-Látex Natural ballet elástico banda para danza Ballet y gimnasia
 
 [![DoGeek-Látex Natural ballet elástico ban](https://images-eu.ssl-images-amazon.com/images/I/417ELlzE6-L._SL200_.jpg)](https://www.amazon.es/dp/B075JDXX7R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075JDXX7R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

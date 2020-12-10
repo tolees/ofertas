@@ -22,6 +22,9 @@ Está [Skechers D Lites-Biggest Fan  11930   Zapatillas de Deporte para Mujer  A
 
 [![Skechers D Lites-Biggest Fan  11930   Za](https://images-eu.ssl-images-amazon.com/images/I/41n7m0GJlbL._SL200_.jpg)](https://www.amazon.es/dp/B016R0KS3A/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016R0KS3A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Merrell Trail Glove 5  Zapatillas Deportivas para Interior p
 
 [![Merrell Trail Glove 5  Zapatillas Deport](https://images-eu.ssl-images-amazon.com/images/I/41ffLmiL5GL._SL200_.jpg)](https://www.amazon.es/dp/B07DYR2K8T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DYR2K8T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

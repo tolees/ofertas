@@ -22,6 +22,9 @@ Está [find. Gabardina Clásica Estilo  Trench  de Cuadros Mujer  Beige  Beige M
 
 [![find. Gabardina Clásica Estilo  Trench  ](https://images-eu.ssl-images-amazon.com/images/I/51VhfcudGEL._SL200_.jpg)](https://www.amazon.es/dp/B079MRDGVP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079MRDGVP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

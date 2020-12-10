@@ -22,6 +22,9 @@ Está [Arteesol Brazalete Deportivo  Antideslizante Contra Sudor  Banda para Bra
 
 [![Arteesol Brazalete Deportivo  Antidesliz](https://images-eu.ssl-images-amazon.com/images/I/51T0wCTT8HL._SL200_.jpg)](https://www.amazon.es/dp/B0799HF9KT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0799HF9KT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Vans Authentic  Zapatillas de Tela Unisex  Negro  Black/White   34.5 EU]
 
 [![Vans Authentic  Zapatillas de Tela Unise](https://images-eu.ssl-images-amazon.com/images/I/31XXNcsD9TL._SL200_.jpg)](https://www.amazon.es/dp/B000UYCOJ6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000UYCOJ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

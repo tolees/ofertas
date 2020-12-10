@@ -22,6 +22,9 @@ Tienes [Samsonite Neopulse - Maleta  Rojo  Metallic  Red   M  69 cm-74 L ](https
 
 [![Samsonite Neopulse - Maleta  Rojo  Metal](https://images-eu.ssl-images-amazon.com/images/I/41rqoD7qtrL._SL200_.jpg)](https://www.amazon.es/dp/B00ULI8J1I/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ULI8J1I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

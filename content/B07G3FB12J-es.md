@@ -22,6 +22,9 @@ Está [adidas Cosmic 2  Zapatillas de Running para Hombre  Azul Trace Blue F17/F
 
 [![adidas Cosmic 2  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/41vzzS3E17L._SL200_.jpg)](https://www.amazon.es/dp/B07G3FB12J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G3FB12J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

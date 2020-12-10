@@ -22,6 +22,9 @@ Ahora mismo tienes [Topmo-plus 12w lámpara de pared LED impermeable IP65 modern
 
 [![Topmo-plus 12w lámpara de pared LED impe](https://images-eu.ssl-images-amazon.com/images/I/314L9O5IgNL._SL200_.jpg)](https://www.amazon.es/dp/B077VVDQCT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077VVDQCT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

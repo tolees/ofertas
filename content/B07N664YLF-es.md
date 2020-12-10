@@ -22,6 +22,9 @@ Ahora mismo tienes [Lijadora Eléctrica  200W 12000RPM TOVORK Lijadora de Acabad
 
 [![Lijadora Eléctrica  200W 12000RPM TOVORK](https://images-eu.ssl-images-amazon.com/images/I/41Jgj4kzImL._SL200_.jpg)](https://www.amazon.es/dp/B07N664YLF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07N664YLF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

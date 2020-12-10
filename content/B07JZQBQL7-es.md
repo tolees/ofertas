@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Predator 19.3 FG J  Zapatillas de Fútbol para Bebés
 
 [![adidas Predator 19.3 FG J  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/31J-njMMiXL._SL200_.jpg)](https://www.amazon.es/dp/B07JZQBQL7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JZQBQL7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

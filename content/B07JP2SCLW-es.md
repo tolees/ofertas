@@ -22,6 +22,9 @@ Tienes [Protector de almohada Impermeables 65x65 - Juego de 2 - Felpa 100% Algod
 
 [![Protector de almohada Impermeables 65x65](https://images-eu.ssl-images-amazon.com/images/I/51VRyJ52%2BnL._SL200_.jpg)](https://www.amazon.es/dp/B07JP2SCLW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JP2SCLW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

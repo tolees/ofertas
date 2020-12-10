@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Seeley  Zapatillas para Hombre  Gris  Grey/Footwear W
 
 [![Adidas Seeley  Zapatillas para Hombre  G](https://images-eu.ssl-images-amazon.com/images/I/41F1jiiEp%2BL._SL200_.jpg)](https://www.amazon.es/dp/B071FV42RM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071FV42RM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

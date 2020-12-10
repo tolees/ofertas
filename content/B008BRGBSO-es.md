@@ -22,6 +22,9 @@ Ahora mismo tienes [Philips Ledino Foco 56454/17/16 - Punto de luz  Cromo  LED  
 
 [![Philips Ledino Foco 56454/17/16 - Punto ](https://images-eu.ssl-images-amazon.com/images/I/31mtPD52EIL._SL200_.jpg)](https://www.amazon.es/dp/B008BRGBSO/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B008BRGBSO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

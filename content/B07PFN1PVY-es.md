@@ -22,6 +22,9 @@ Ahora mismo tienes [Pandahug Grifo de Cocina Baño Automático del Retraso de La
 
 [![Pandahug Grifo de Cocina Baño Automático](https://images-eu.ssl-images-amazon.com/images/I/51cwt%2BZ0YvL._SL200_.jpg)](https://www.amazon.es/dp/B07PFN1PVY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07PFN1PVY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Conjunto de Cubiertos de Madera Desechables de Bamboodlers | 100% Natura
 
 [![Conjunto de Cubiertos de Madera Desechab](https://images-eu.ssl-images-amazon.com/images/I/51OVAyPEDdL._SL200_.jpg)](https://www.amazon.es/dp/B06XDY3RXL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XDY3RXL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

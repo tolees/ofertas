@@ -22,6 +22,9 @@ Tienes [BOSS Green - Pixel R_ns Zip  Shoppers y bolsos de hombro Hombre  Azul  N
 
 [![BOSS Green - Pixel R_ns Zip  Shoppers y ](https://images-eu.ssl-images-amazon.com/images/I/514uRNq6rML._SL200_.jpg)](https://www.amazon.es/dp/B07C4Q4SKT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C4Q4SKT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

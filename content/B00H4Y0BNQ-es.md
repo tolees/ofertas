@@ -22,6 +22,9 @@ Está [Junior Joy 6149PI - Hoja de franela para cama  140 x 180 cm  color rosa](
 
 [![Junior Joy 6149PI - Hoja de franela para](https://images-eu.ssl-images-amazon.com/images/I/31qp7qac3IL._SL200_.jpg)](https://www.amazon.es/dp/B00H4Y0BNQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00H4Y0BNQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

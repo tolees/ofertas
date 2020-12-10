@@ -22,6 +22,9 @@ Tienes [Puma All Eyes On Me 3/4 Tight Mallas  Mujer  Polícromo  M](https://www.
 
 [![Puma All Eyes On Me 3/4 Tight Mallas  Mu](https://images-eu.ssl-images-amazon.com/images/I/416-1MiZ28L._SL200_.jpg)](https://www.amazon.es/dp/B072LTPDWR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072LTPDWR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

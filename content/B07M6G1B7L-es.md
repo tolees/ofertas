@@ -22,6 +22,9 @@ Tienes [adidas Ultimate 365 Climacool Solid Polo  Hombre   Morado Dq2404   Large
 
 [![adidas Ultimate 365 Climacool Solid Polo](https://images-eu.ssl-images-amazon.com/images/I/41N1O45QhFL._SL200_.jpg)](https://www.amazon.es/dp/B07M6G1B7L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M6G1B7L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Osram Luminaria LED  15 W  Blanco cálido  30 x 60cm](https://www.amazon
 
 [![Osram Luminaria LED  15 W  Blanco cálido](https://images-eu.ssl-images-amazon.com/images/I/319WpYhs%2B-L._SL200_.jpg)](https://www.amazon.es/dp/B072PZGPVC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072PZGPVC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

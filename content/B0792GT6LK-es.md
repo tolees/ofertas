@@ -22,6 +22,9 @@ Tienes [Hellmann s Ketchup con miel  - Paquete de 12 x 430ml - Total: 5160 ml](h
 
 [![Hellmann s Ketchup con miel  - Paquete d](https://images-eu.ssl-images-amazon.com/images/I/415ZuNCvorL._SL200_.jpg)](https://www.amazon.es/dp/B0792GT6LK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0792GT6LK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

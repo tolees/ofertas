@@ -22,6 +22,9 @@ Tienes [Curver 189206 - Cesta de ropa Natural Style  con tapa configurable  60 L
 
 [![Curver 189206 - Cesta de ropa Natural St](https://images-eu.ssl-images-amazon.com/images/I/51yqZZLNCkL._SL200_.jpg)](https://www.amazon.es/dp/B003WUXN0Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003WUXN0Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

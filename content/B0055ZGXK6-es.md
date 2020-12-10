@@ -22,6 +22,9 @@ Está [Jata 530 - Báscula electrónica  meteo  opción mural](https://www.amazo
 
 [![Jata 530 - Báscula electrónica  meteo  o](https://images-eu.ssl-images-amazon.com/images/I/413TlR5JbML._SL200_.jpg)](https://www.amazon.es/dp/B0055ZGXK6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0055ZGXK6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

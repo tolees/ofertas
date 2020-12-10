@@ -22,6 +22,9 @@ Tienes [Sony WHH900N - Auriculares de Diadema inalámbricos  H.Ear  Hi-Res Audio
 
 [![Sony WHH900N - Auriculares de Diadema in](https://images-eu.ssl-images-amazon.com/images/I/41WIm8KQMsL._SL200_.jpg)](https://www.amazon.es/dp/B074VM1ZFP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074VM1ZFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

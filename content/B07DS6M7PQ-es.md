@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Act Fon S Grip CZ9861 Bolsa  Unisex Adulto  Azul  25 
 
 [![Reebok Act Fon S Grip CZ9861 Bolsa  Unis](https://images-eu.ssl-images-amazon.com/images/I/51nuFdCxGqL._SL200_.jpg)](https://www.amazon.es/dp/B07DS6M7PQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DS6M7PQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

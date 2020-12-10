@@ -22,6 +22,9 @@ Está [Deuter XV 1 SL  Mochila Unisex Adulto  Rojo  Cranberry/Aubergine   24x36x
 
 [![Deuter XV 1 SL  Mochila Unisex Adulto  R](https://images-eu.ssl-images-amazon.com/images/I/418TKXya9aL._SL200_.jpg)](https://www.amazon.es/dp/B078N9WZQ1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078N9WZQ1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

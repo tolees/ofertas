@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES 12094291 Pantalones  Beige  Cornstalk   W28/L34
 
 [![JACK & JONES 12094291 Pantalones  Beige ](https://images-eu.ssl-images-amazon.com/images/I/41oHg7vvWKL._SL200_.jpg)](https://www.amazon.es/dp/B00QLOG53K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00QLOG53K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

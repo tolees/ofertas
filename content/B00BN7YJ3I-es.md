@@ -22,6 +22,9 @@ Está [L Oréal Paris Iluminador Luz Magique Concealer Dark](https://www.amazon.
 
 [![L Oréal Paris Iluminador Luz Magique Con](https://images-eu.ssl-images-amazon.com/images/I/31nGxXJKPXL._SL200_.jpg)](https://www.amazon.es/dp/B00BN7YJ3I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00BN7YJ3I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

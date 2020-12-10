@@ -22,6 +22,9 @@ Ahora mismo tienes [Belgo Prism Zizi Tapón Anal Two Finger Transparente - 115 g
 
 [![Belgo Prism Zizi Tapón Anal Two Finger T](https://images-eu.ssl-images-amazon.com/images/I/31cQGK30OaL._SL200_.jpg)](https://www.amazon.es/dp/B00V2AHT0Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00V2AHT0Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

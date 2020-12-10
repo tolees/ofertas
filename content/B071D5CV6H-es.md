@@ -22,6 +22,9 @@ Está [Esprit 997ee2i801 suéter  Azul  Dark Blue 405   Large para Hombre](https
 
 [![Esprit 997ee2i801 suéter  Azul  Dark Blu](https://images-eu.ssl-images-amazon.com/images/I/41MxL%2BIhXLL._SL200_.jpg)](https://www.amazon.es/dp/B071D5CV6H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071D5CV6H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

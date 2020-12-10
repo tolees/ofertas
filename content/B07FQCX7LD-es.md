@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjimarco Jjcharles AKM 570 Black STS Pantalones
 
 [![JACK & JONES Jjimarco Jjcharles AKM 570 ](https://images-eu.ssl-images-amazon.com/images/I/41T4jICuSKL._SL200_.jpg)](https://www.amazon.es/dp/B07FQCX7LD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FQCX7LD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

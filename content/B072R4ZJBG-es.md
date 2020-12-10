@@ -22,6 +22,9 @@ Está [QUBABOBO Hamaca de Yoga Tafetán de Nailon Antigravedad Swing Sling Inver
 
 [![QUBABOBO Hamaca de Yoga Tafetán de Nailo](https://images-eu.ssl-images-amazon.com/images/I/41hIEYpbCwL._SL200_.jpg)](https://www.amazon.es/dp/B072R4ZJBG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072R4ZJBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

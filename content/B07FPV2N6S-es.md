@@ -22,6 +22,9 @@ Tienes [Buff Brassite Tubular Reversible Polar  Unisex Adulto  marrón  Fossil  
 
 [![Buff Brassite Tubular Reversible Polar  ](https://images-eu.ssl-images-amazon.com/images/I/41BXTFZ9%2BLL._SL200_.jpg)](https://www.amazon.es/dp/B07FPV2N6S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FPV2N6S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

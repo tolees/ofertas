@@ -22,6 +22,9 @@ Tienes [BOSCH Aspirateur a main EasyVac 12](https://www.amazon.es/dp/B01NCMWG5Y/
 
 [![BOSCH Aspirateur a main EasyVac 12](https://images-eu.ssl-images-amazon.com/images/I/412T9hpZOQL._SL200_.jpg)](https://www.amazon.es/dp/B01NCMWG5Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NCMWG5Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

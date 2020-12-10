@@ -22,6 +22,9 @@ Está [Onforu 10M Tiras LED Cadena de Luz 600 LEDs Strip 2835 SMD Cinta  Blanco 
 
 [![Onforu 10M Tiras LED Cadena de Luz 600 L](https://images-eu.ssl-images-amazon.com/images/I/51FYDFHB6rL._SL200_.jpg)](https://www.amazon.es/dp/B07C3Y2Z1W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C3Y2Z1W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

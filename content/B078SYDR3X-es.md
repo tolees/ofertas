@@ -22,6 +22,9 @@ Tienes [Salomon TRAILSTER W  Zapatillas de Trail Running para Mujer  Azul  Blueb
 
 [![Salomon TRAILSTER W  Zapatillas de Trail](https://images-eu.ssl-images-amazon.com/images/I/414868zjfmL._SL200_.jpg)](https://www.amazon.es/dp/B078SYDR3X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078SYDR3X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

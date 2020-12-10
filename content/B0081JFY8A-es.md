@@ -22,6 +22,9 @@ Ahora mismo tienes [Panama Jack Panama 03  Náuticos para Hombre  Marrón  Cuero
 
 [![Panama Jack Panama 03  Náuticos para Hom](https://images-eu.ssl-images-amazon.com/images/I/41Y83-OEhmL._SL200_.jpg)](https://www.amazon.es/dp/B0081JFY8A/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0081JFY8A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

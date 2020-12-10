@@ -22,6 +22,9 @@ Está [Desigual - Bag Landscape Nimbus Imperia Women  Bolsos bandolera Mujer  Az
 
 [![Desigual - Bag Landscape Nimbus Imperia ](https://images-eu.ssl-images-amazon.com/images/I/41c%2Bhwl21kL._SL200_.jpg)](https://www.amazon.es/dp/B07H5JJ9X7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H5JJ9X7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [New Balance 574  Zapatillas para Hombre  Azul  Dark Navy/Marred Blue ESS
 
 [![New Balance 574  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41kHvhLwBGL._SL200_.jpg)](https://www.amazon.es/dp/B07BL2F3PD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BL2F3PD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

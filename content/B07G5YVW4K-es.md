@@ -22,6 +22,9 @@ Está [Teléfono móvil con Tapa para Personas Mayores  Teclas Grandes  Isheep S
 
 [![Teléfono móvil con Tapa para Personas Ma](https://images-eu.ssl-images-amazon.com/images/I/418uGWk1EHL._SL200_.jpg)](https://www.amazon.es/dp/B07G5YVW4K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G5YVW4K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

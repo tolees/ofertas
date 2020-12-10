@@ -22,6 +22,9 @@ Está [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 18149/3]
 
 [![Lotus Reloj Analógico para Hombre de Cua](https://images-eu.ssl-images-amazon.com/images/I/51tQ-LGT11L._SL200_.jpg)](https://www.amazon.es/dp/B07DDPJQ63/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDPJQ63/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

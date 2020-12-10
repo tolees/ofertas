@@ -22,6 +22,9 @@ Está [Puma Future 2.3 Netfit It  Zapatillas de Fútbol para Hombre  Plateado Si
 
 [![Puma Future 2.3 Netfit It  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41JUw2imdoL._SL200_.jpg)](https://www.amazon.es/dp/B07D9ZX3KB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9ZX3KB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

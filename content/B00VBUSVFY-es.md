@@ -22,6 +22,9 @@ Tienes [Tecnifibre Raqueta Squash CARBOFLEX S 125](https://www.amazon.es/dp/B00V
 
 [![Tecnifibre Raqueta Squash CARBOFLEX S 12](https://images-eu.ssl-images-amazon.com/images/I/41Rg1WJAbQL._SL200_.jpg)](https://www.amazon.es/dp/B00VBUSVFY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VBUSVFY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Motorola Moto X Play - Smartphone de 5.5"  Full HD  4G  1.7 GHz Octa Core
 
 [![Motorola Moto X Play - Smartphone de 5.5](https://images-eu.ssl-images-amazon.com/images/I/41lrGpN7W%2BL._SL200_.jpg)](https://www.amazon.es/dp/B0142Y6JKE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0142Y6JKE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

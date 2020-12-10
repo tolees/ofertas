@@ -22,6 +22,9 @@ Ahora mismo tienes [Severin Barbacoa Grill PG 2791 - Barbacoa de Mesa  Superfici
 
 [![Severin Barbacoa Grill PG 2791 - Barbaco](https://images-eu.ssl-images-amazon.com/images/I/41egI%2BHnVIL._SL200_.jpg)](https://www.amazon.es/dp/B000FMSUR8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B000FMSUR8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

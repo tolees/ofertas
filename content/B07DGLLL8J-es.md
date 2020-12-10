@@ -22,6 +22,9 @@ Tienes [DC Shoes Manteca  Zapatillas de Skateboard para Hombre  Rojo White/Red-C
 
 [![DC Shoes Manteca  Zapatillas de Skateboa](https://images-eu.ssl-images-amazon.com/images/I/41yZmkT4bNL._SL200_.jpg)](https://www.amazon.es/dp/B07DGLLL8J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DGLLL8J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

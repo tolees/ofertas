@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jjimike Jjoriginal Ge 616 Noos Lid  Jeans Hombre  Azul  Blu
 
 [![JACK & JONES Jjimike Jjoriginal Ge 616 N](https://images-eu.ssl-images-amazon.com/images/I/41D-NxC5j%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01FF8HSLA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FF8HSLA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Munich G-3 Indoor  Zapatillas de Deporte Unisex Adulto   Neg
 
 [![Munich G-3 Indoor  Zapatillas de Deporte](https://images-eu.ssl-images-amazon.com/images/I/41G0FO8mUkL._SL200_.jpg)](https://www.amazon.es/dp/B07N3C1RWY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07N3C1RWY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

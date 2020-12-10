@@ -22,6 +22,9 @@ Está [Puma Wired  Zapatillas Unisex Adults’o  Azul Peacoat White  46 EU](http
 
 [![Puma Wired  Zapatillas Unisex Adults’o  ](https://images-eu.ssl-images-amazon.com/images/I/418zvLvLUQL._SL200_.jpg)](https://www.amazon.es/dp/B07CSCDXMF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CSCDXMF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

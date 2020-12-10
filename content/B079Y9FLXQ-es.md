@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Core Tommy Slim Polo  Gris  Cloud Htr 501   Medium para Ho
 
 [![Tommy Hilfiger Core Tommy Slim Polo  Gri](https://images-eu.ssl-images-amazon.com/images/I/419goRu4qeL._SL200_.jpg)](https://www.amazon.es/dp/B079Y9FLXQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079Y9FLXQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Trolls 2100001571 Mochila Infantil](https://www.amazon.es/dp/B01I9FGOM0/?
 
 [![Trolls 2100001571 Mochila Infantil](https://images-eu.ssl-images-amazon.com/images/I/41djFOw%2BVgL._SL200_.jpg)](https://www.amazon.es/dp/B01I9FGOM0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01I9FGOM0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

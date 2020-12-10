@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Deconstructed Slim Jeans  Azul  3D Cobler Processed 8968-
 
 [![G-STAR RAW 3301 Deconstructed Slim Jeans](https://images-eu.ssl-images-amazon.com/images/I/414LIwa9O%2BL._SL200_.jpg)](https://www.amazon.es/dp/B072BH4BWN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072BH4BWN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Asics Jolt 2  Zapatillas de Running para Hombre  Azul Imperial 400  42.5 
 
 [![Asics Jolt 2  Zapatillas de Running para](https://images-eu.ssl-images-amazon.com/images/I/4176qQwGfAL._SL200_.jpg)](https://www.amazon.es/dp/B07K6ZPLDX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K6ZPLDX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

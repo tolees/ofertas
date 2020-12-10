@@ -22,6 +22,9 @@ Está [Wrangler Denim Short Pantalones Cortos  Azul  Mid Rocks 32e   W29 para Ho
 
 [![Wrangler Denim Short Pantalones Cortos  ](https://images-eu.ssl-images-amazon.com/images/I/41aTKa312IL._SL200_.jpg)](https://www.amazon.es/dp/B07FYZK3MG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FYZK3MG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

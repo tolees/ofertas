@@ -22,6 +22,9 @@ Está [G-Star RAW Rovulc HB Low  Zapatillas para Hombre  Blanco  White 110   41 
 
 [![G-Star RAW Rovulc HB Low  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/31O7ymvdV3L._SL200_.jpg)](https://www.amazon.es/dp/B01NBRV93G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NBRV93G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

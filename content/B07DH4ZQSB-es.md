@@ -22,6 +22,9 @@ Ahora mismo tienes [Avengers AD-AV11916 2018 Bolsa Escolar  22 cm](https://www.a
 
 [![Avengers AD-AV11916 2018 Bolsa Escolar  ](https://images-eu.ssl-images-amazon.com/images/I/51CdGe3pP1L._SL200_.jpg)](https://www.amazon.es/dp/B07DH4ZQSB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DH4ZQSB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

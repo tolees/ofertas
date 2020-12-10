@@ -22,6 +22,9 @@ Está [Nike Wmns Air MAX Motion LW  Zapatillas de Gimnasia para Mujer  Rosa  Gua
 
 [![Nike Wmns Air MAX Motion LW  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/418NTAYGlSL._SL200_.jpg)](https://www.amazon.es/dp/B07D8F6GF4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D8F6GF4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Danish Design  - Reloj Analógico de Cuarzo para Hombre  correa de Cuero 
 
 [![Danish Design  - Reloj Analógico de Cuar](https://images-eu.ssl-images-amazon.com/images/I/51EKrSHUL8L._SL200_.jpg)](https://www.amazon.es/dp/B00KM4ATVY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00KM4ATVY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

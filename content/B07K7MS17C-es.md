@@ -22,6 +22,9 @@ Está [Reebok Cl Lthr Ripple  Zapatillas de Gimnasia para Mujer  Gris Nvbk/Sea S
 
 [![Reebok Cl Lthr Ripple  Zapatillas de Gim](https://images-eu.ssl-images-amazon.com/images/I/317b4UPiAxL._SL200_.jpg)](https://www.amazon.es/dp/B07K7MS17C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K7MS17C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [TWS 5.0 Auriculares inalámbricos Bluetooth 5.0 con micrófo
 
 [![TWS 5.0 Auriculares inalámbricos Bluetoo](https://images-eu.ssl-images-amazon.com/images/I/31XZmu1-r2L._SL200_.jpg)](https://www.amazon.es/dp/B07PT4G96Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07PT4G96Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

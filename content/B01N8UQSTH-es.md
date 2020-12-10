@@ -22,6 +22,9 @@ Tienes [58MM Fisheye - [Ultra Claro] Beschoi Lente de 0.35X Ojo de Pez de Ángul
 
 [![58MM Fisheye - [Ultra Claro] Beschoi Len](https://images-eu.ssl-images-amazon.com/images/I/51dJu8PsA7L._SL200_.jpg)](https://www.amazon.es/dp/B01N8UQSTH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N8UQSTH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

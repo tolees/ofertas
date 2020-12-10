@@ -22,6 +22,9 @@ Está [Palit NEB1080015P2-1040J GeForce GTX 1080 8GB GDDR5X - Tarjeta gráfica  
 
 [![Palit NEB1080015P2-1040J GeForce GTX 108](https://images-eu.ssl-images-amazon.com/images/I/514kYfbXYnL._SL200_.jpg)](https://www.amazon.es/dp/B01GGBPXI0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GGBPXI0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

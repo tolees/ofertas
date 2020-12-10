@@ -22,6 +22,9 @@ Ahora mismo tienes [Ideus ITDECT150- Teléfono Inalámbrico Digital Dect Negro](
 
 [![Ideus ITDECT150- Teléfono Inalámbrico Di](https://images-eu.ssl-images-amazon.com/images/I/41T8ygoT4hL._SL200_.jpg)](https://www.amazon.es/dp/B00IP4DHY4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00IP4DHY4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

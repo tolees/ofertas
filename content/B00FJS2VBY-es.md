@@ -22,6 +22,9 @@ Ahora mismo tienes [High Peak Trek Light Lámpara con Led  Negro  135 x 55 x 55 
 
 [![High Peak Trek Light Lámpara con Led  Ne](https://images-eu.ssl-images-amazon.com/images/I/31yUQCU094L._SL200_.jpg)](https://www.amazon.es/dp/B00FJS2VBY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00FJS2VBY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

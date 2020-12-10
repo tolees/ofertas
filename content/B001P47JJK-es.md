@@ -22,6 +22,14 @@ Tienes [Brennenstuhl 1506950 1506950-Enchufe Adaptador Primera-Line Protegido co
 
 [![Brennenstuhl 1506950 1506950-Enchufe Ada](https://m.media-amazon.com/images/I/41kOtAXDDEL._SL200_.jpg)](https://www.amazon.es/dp/B001P47JJK/?tag=tolees-21)
 
+Características principales:
+
+- Lámpara de control para la función protectora de 230 v.
+- Protección contra sobretensiones de gran alcance de los tubos de descarga de gas y varistores de óxido metálico con protección térmica
+- Capacidad de carga de hasta 16 a/3680 w
+- Protección para sus dispositivos contra sobretensiones en la red eléctrica con corrientes de fuga máxima de hasta 13.500 a
+- Protege al conductor de fase, el de neutro y el de tierra.
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B001P47JJK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [PANAMA JACK Gunter  Zapatillas Altas para Hombre  Azul  Navy
 
 [![PANAMA JACK Gunter  Zapatillas Altas par](https://images-eu.ssl-images-amazon.com/images/I/31u4UU7yO0L._SL200_.jpg)](https://www.amazon.es/dp/B07LCPZ4BQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07LCPZ4BQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

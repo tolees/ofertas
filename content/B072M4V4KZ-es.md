@@ -22,6 +22,9 @@ Ahora mismo tienes [GUARD & REVIVAL TREAT Estera del Masaje - Estera de Acupresi
 
 [![GUARD & REVIVAL TREAT Estera del Masaje ](https://images-eu.ssl-images-amazon.com/images/I/51MXRACMyOL._SL200_.jpg)](https://www.amazon.es/dp/B072M4V4KZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072M4V4KZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

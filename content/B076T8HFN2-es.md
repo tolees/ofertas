@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Elite Flex-Attard  Zapatillas para Hombre  Gris  Ch
 
 [![Skechers Elite Flex-Attard  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/41XVchARy%2BL._SL200_.jpg)](https://www.amazon.es/dp/B076T8HFN2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076T8HFN2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

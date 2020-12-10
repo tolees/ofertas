@@ -22,6 +22,9 @@ Está [Blåsjø - Par de manoplas para horno  negro ](https://www.amazon.es/dp/B
 
 [![Blåsjø - Par de manoplas para horno  neg](https://images-eu.ssl-images-amazon.com/images/I/415hQX3AY6L._SL200_.jpg)](https://www.amazon.es/dp/B07GXJH9PC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GXJH9PC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

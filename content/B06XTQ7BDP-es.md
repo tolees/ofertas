@@ -22,6 +22,9 @@ Está [Mochila Fotografía - K&F Concept Mochila de Nailon Resistente Impermeabl
 
 [![Mochila Fotografía - K&F Concept Mochila](https://images-eu.ssl-images-amazon.com/images/I/51vtcuEErIL._SL200_.jpg)](https://www.amazon.es/dp/B06XTQ7BDP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XTQ7BDP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [NGS MSX6 Pro - Auriculares de diadema cerrados  color blanco
 
 [![NGS MSX6 Pro - Auriculares de diadema ce](https://images-eu.ssl-images-amazon.com/images/I/4179ycTf9QL._SL200_.jpg)](https://www.amazon.es/dp/B005GIZQXM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B005GIZQXM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

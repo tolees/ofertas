@@ -22,6 +22,9 @@ Está [Pepe Jeans MC Queen Short para Hombre  Azul  Middle Blue 531  W40  Talla 
 
 [![Pepe Jeans MC Queen Short para Hombre  A](https://images-eu.ssl-images-amazon.com/images/I/41mJOIa8l2L._SL200_.jpg)](https://www.amazon.es/dp/B07NCB1J29/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NCB1J29/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Atlético de Madrid- Futbolín  Proyectum Sport Team 10ATL-0000-1 ](http
 
 [![Atlético de Madrid- Futbolín  Proyectum ](https://images-eu.ssl-images-amazon.com/images/I/51P06DCvMQL._SL200_.jpg)](https://www.amazon.es/dp/B01GE2HI0C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01GE2HI0C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

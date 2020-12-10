@@ -22,6 +22,9 @@ Tienes [DeWalt DPSB2IN1-XJ 2en1: Clavadora Brad de acabado 18Ga para puntas de 1
 
 [![DeWalt DPSB2IN1-XJ 2en1: Clavadora Brad ](https://images-eu.ssl-images-amazon.com/images/I/419hmMWKXRL._SL200_.jpg)](https://www.amazon.es/dp/B01BU0I2QW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01BU0I2QW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

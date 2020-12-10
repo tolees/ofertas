@@ -22,6 +22,9 @@ Ahora mismo tienes [Love Moschino Jeans Skinny Fit Denim Trousers with Hearth Sh
 
 [![Love Moschino Jeans Skinny Fit Denim Tro](https://images-eu.ssl-images-amazon.com/images/I/31QMP27f6wL._SL200_.jpg)](https://www.amazon.es/dp/B07C4S6GV9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C4S6GV9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

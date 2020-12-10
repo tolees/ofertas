@@ -22,6 +22,9 @@ Tienes [Gardena 8872-20 Recortasetos  18 W  18 V  Negro](https://www.amazon.es/d
 
 [![Gardena 8872-20 Recortasetos  18 W  18 V](https://images-eu.ssl-images-amazon.com/images/I/31lzKXTkQDL._SL200_.jpg)](https://www.amazon.es/dp/B006MWDL60/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B006MWDL60/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

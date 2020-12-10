@@ -22,6 +22,9 @@ Está [Auriculares Bluetooth multifunción S530X Bluetooth 4.1  1Pcs Negro ](htt
 
 [![Auriculares Bluetooth multifunción S530X](https://images-eu.ssl-images-amazon.com/images/I/31hqzPzSf0L._SL200_.jpg)](https://www.amazon.es/dp/B07HGZG9KX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HGZG9KX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

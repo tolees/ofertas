@@ -22,6 +22,9 @@ Está [Skechers Side Street  Zapatillas para Mujer  Negro  Black/Gold   36 EU](h
 
 [![Skechers Side Street  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41-q3Ntj6qL._SL200_.jpg)](https://www.amazon.es/dp/B06XBN4DJT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XBN4DJT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

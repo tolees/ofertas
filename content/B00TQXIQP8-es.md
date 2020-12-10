@@ -22,6 +22,9 @@ Ahora mismo tienes [Samyang F1322506101 - Objetivo para vídeo VDSLR para Sony E
 
 [![Samyang F1322506101 - Objetivo para víde](https://images-eu.ssl-images-amazon.com/images/I/41aLoMQu30L._SL200_.jpg)](https://www.amazon.es/dp/B00TQXIQP8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00TQXIQP8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

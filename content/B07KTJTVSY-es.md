@@ -22,6 +22,9 @@ Está [Asics Gel-Beyond 5 Women s Zapatillas Indoor - 44](https://www.amazon.es/
 
 [![Asics Gel-Beyond 5 Women s Zapatillas In](https://images-eu.ssl-images-amazon.com/images/I/41f7iYK3EQL._SL200_.jpg)](https://www.amazon.es/dp/B07KTJTVSY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTJTVSY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

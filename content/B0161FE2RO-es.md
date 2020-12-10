@@ -22,6 +22,9 @@ Está [Bresser SS-28 Carpa de Foto + Power Softbox con portalámpara 70x70cm](ht
 
 [![Bresser SS-28 Carpa de Foto + Power Soft](https://images-eu.ssl-images-amazon.com/images/I/51YqniNrBvL._SL200_.jpg)](https://www.amazon.es/dp/B0161FE2RO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0161FE2RO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

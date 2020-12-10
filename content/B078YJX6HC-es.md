@@ -22,6 +22,9 @@ Tienes [CNASA 24 bolsillos Ampliación carpeta de archivos/A4 organizador de arc
 
 [![CNASA 24 bolsillos Ampliación carpeta de](https://images-eu.ssl-images-amazon.com/images/I/51sGNYTKlKL._SL200_.jpg)](https://www.amazon.es/dp/B078YJX6HC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078YJX6HC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

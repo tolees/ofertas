@@ -22,6 +22,9 @@ Tienes [Adidas Falcon Zapatillas de Running Hombre  Gris  Grey Three F17/Grey Si
 
 [![Adidas Falcon Zapatillas de Running Homb](https://images-eu.ssl-images-amazon.com/images/I/41u6mMPwsPL._SL200_.jpg)](https://www.amazon.es/dp/B07K2LKKZV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K2LKKZV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [NEXGADGET Calefactor Cerámico PTC 950W Calentacdor Eléctrico de Espaci
 
 [![NEXGADGET Calefactor Cerámico PTC 950W C](https://images-eu.ssl-images-amazon.com/images/I/41soW3K6lRL._SL200_.jpg)](https://www.amazon.es/dp/B07G5FZTSJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G5FZTSJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

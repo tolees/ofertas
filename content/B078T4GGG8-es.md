@@ -22,6 +22,9 @@ Tienes [Women’secret Bañador  Negro  Black 1   40  Tamaño del Fabricante:M  
 
 [![Women’secret Bañador  Negro  Black 1   4](https://images-eu.ssl-images-amazon.com/images/I/41ZQOUtVPHL._SL200_.jpg)](https://www.amazon.es/dp/B078T4GGG8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078T4GGG8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

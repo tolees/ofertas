@@ -22,6 +22,9 @@ Tienes [Amazon Essentials Straight-Fit Cargo Pant casual-pants  Dark Khaki  36W 
 
 [![Amazon Essentials Straight-Fit Cargo Pan](https://images-eu.ssl-images-amazon.com/images/I/31MTphUgcsL._SL200_.jpg)](https://www.amazon.es/dp/B07F2CXMGV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2CXMGV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

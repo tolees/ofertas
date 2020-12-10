@@ -22,6 +22,9 @@ Ahora mismo tienes [Lámpara de sal Himalaya  Relassy regulable  lámpara de sal
 
 [![Lámpara de sal Himalaya  Relassy regulab](https://images-eu.ssl-images-amazon.com/images/I/417uqhyLs8L._SL200_.jpg)](https://www.amazon.es/dp/B07JVK38W2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JVK38W2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

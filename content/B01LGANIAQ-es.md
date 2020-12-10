@@ -22,6 +22,9 @@ Está [Asics Gel-cumulus 18 G-tx   Zapatillas de running Mujer  Multicolor  Blac
 
 [![Asics Gel-cumulus 18 G-tx   Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/51TtI4Zm9wL._SL200_.jpg)](https://www.amazon.es/dp/B01LGANIAQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LGANIAQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

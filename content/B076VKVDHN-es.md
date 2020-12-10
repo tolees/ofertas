@@ -22,6 +22,9 @@ Está [DANISH ENDURANCE Calcetines de Deporte Quarter Pro  EU 43-47  Azul Tormen
 
 [![DANISH ENDURANCE Calcetines de Deporte Q](https://images-eu.ssl-images-amazon.com/images/I/41ZQihWdm5L._SL200_.jpg)](https://www.amazon.es/dp/B076VKVDHN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076VKVDHN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

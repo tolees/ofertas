@@ -22,6 +22,9 @@ Está [FIND - Choco Rush  Lápiz iluminador de cejas con brocha kabuki n.3 + Má
 
 [![FIND - Choco Rush  Lápiz iluminador de c](https://images-eu.ssl-images-amazon.com/images/I/31vaQ%2BqX1xL._SL200_.jpg)](https://www.amazon.es/dp/B07CTQNRFN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CTQNRFN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

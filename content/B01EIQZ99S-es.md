@@ -22,6 +22,9 @@ Está [JBL Club 5020 Altavoces Coaxiales 6"x9"  152mm x 230mm   Color Negro](htt
 
 [![JBL Club 5020 Altavoces Coaxiales 6"x9" ](https://images-eu.ssl-images-amazon.com/images/I/51EBLhdVYNL._SL200_.jpg)](https://www.amazon.es/dp/B01EIQZ99S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01EIQZ99S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [SHIMANO 80098551 Cable de Freno  Adultos Unisex  Gris  Talla Única](http
 
 [![SHIMANO 80098551 Cable de Freno  Adultos](https://images-eu.ssl-images-amazon.com/images/I/41GPmU2P6jL._SL200_.jpg)](https://www.amazon.es/dp/B007TVGGTC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007TVGGTC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

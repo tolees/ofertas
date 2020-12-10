@@ -22,6 +22,9 @@ Tienes [Antena de TV Digital Konesky Antena de TV HD 1080P de 50 Millas de Largo
 
 [![Antena de TV Digital Konesky Antena de T](https://images-eu.ssl-images-amazon.com/images/I/41DMTlH-cKL._SL200_.jpg)](https://www.amazon.es/dp/B07HR8RK6N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HR8RK6N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

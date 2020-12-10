@@ -22,6 +22,9 @@ Está [adidas Ultimate 365 Solid  Polo para Hombre   Gris CY5397   Medium  Tama�
 
 [![adidas Ultimate 365 Solid  Polo para Hom](https://images-eu.ssl-images-amazon.com/images/I/41lijFNmhsL._SL200_.jpg)](https://www.amazon.es/dp/B07G9S9BFZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G9S9BFZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

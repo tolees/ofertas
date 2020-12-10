@@ -22,6 +22,9 @@ Ahora mismo tienes [Licor del Polo - Enjuague Bucal Non-Stop White - 4 uds de 50
 
 [![Licor del Polo - Enjuague Bucal Non-Stop](https://images-eu.ssl-images-amazon.com/images/I/418SMc9AXVL._SL200_.jpg)](https://www.amazon.es/dp/B06XTL77H6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XTL77H6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

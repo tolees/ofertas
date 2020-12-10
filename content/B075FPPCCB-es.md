@@ -22,6 +22,9 @@ Tienes [Nightaste Ropa Interior Tanga de Algodón para Mujeres Paquete de 5 Piez
 
 [![Nightaste Ropa Interior Tanga de Algodón](https://images-eu.ssl-images-amazon.com/images/I/51JQ%2B8R5lSL._SL200_.jpg)](https://www.amazon.es/dp/B075FPPCCB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075FPPCCB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

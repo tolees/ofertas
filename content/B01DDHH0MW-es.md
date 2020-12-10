@@ -22,6 +22,9 @@ Está [Sony DSC-HX80 - Cámara digital](https://www.amazon.es/dp/B01DDHH0MW/?tag
 
 [![Sony DSC-HX80 - Cámara digital](https://images-eu.ssl-images-amazon.com/images/I/41zy8rqZv2L._SL200_.jpg)](https://www.amazon.es/dp/B01DDHH0MW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DDHH0MW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

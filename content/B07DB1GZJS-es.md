@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Court Star FS  Zapatillas Unisex Adulto  Naranja  Dusty
 
 [![Puma Court Star FS  Zapatillas Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/41iOcE2LRDL._SL200_.jpg)](https://www.amazon.es/dp/B07DB1GZJS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DB1GZJS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

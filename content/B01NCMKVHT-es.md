@@ -22,6 +22,9 @@ Está [Vans Sk8-hi Zip  Zapatillas de Entrenamiento Unisex Niños  Hueso  Star G
 
 [![Vans Sk8-hi Zip  Zapatillas de Entrenami](https://images-eu.ssl-images-amazon.com/images/I/41v1i2oeauL._SL200_.jpg)](https://www.amazon.es/dp/B01NCMKVHT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCMKVHT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

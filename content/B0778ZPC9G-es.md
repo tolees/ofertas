@@ -22,6 +22,9 @@ Está [Kappa Meseta RB  Zapatillas Unisex Adulto  Negro  Black 1111   37 EU](htt
 
 [![Kappa Meseta RB  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41Bah7QQB7L._SL200_.jpg)](https://www.amazon.es/dp/B0778ZPC9G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0778ZPC9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

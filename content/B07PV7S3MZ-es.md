@@ -22,6 +22,9 @@ Ahora mismo tienes [Sendowtek Mini Ventilador USB Clip 4400mAh Batería Recargab
 
 [![Sendowtek Mini Ventilador USB Clip 4400m](https://images-eu.ssl-images-amazon.com/images/I/51S1Ootip1L._SL200_.jpg)](https://www.amazon.es/dp/B07PV7S3MZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07PV7S3MZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

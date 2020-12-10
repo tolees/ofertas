@@ -22,6 +22,9 @@ Está [Missborderlike - Agenda Anual 2019 - Cine  desde septiembre 2018 a diciem
 
 [![Missborderlike - Agenda Anual 2019 - Cin](https://images-eu.ssl-images-amazon.com/images/I/519HL67FIDL._SL200_.jpg)](https://www.amazon.es/dp/B07H96XTQW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H96XTQW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

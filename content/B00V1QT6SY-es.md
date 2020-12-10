@@ -22,6 +22,9 @@ Está [Ubiquiti UAP Punto de Acceso](https://www.amazon.es/dp/B00V1QT6SY/?tag=to
 
 [![Ubiquiti UAP Punto de Acceso]()](https://www.amazon.es/dp/B00V1QT6SY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00V1QT6SY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

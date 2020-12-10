@@ -22,6 +22,9 @@ Ahora mismo tienes [ARTESANIA CERDA Gorra Premium Minnie  Niñas  Rojo  M  Tama�
 
 [![ARTESANIA CERDA Gorra Premium Minnie  Ni](https://images-eu.ssl-images-amazon.com/images/I/413ftey0oiL._SL200_.jpg)](https://www.amazon.es/dp/B07MG7N7P2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MG7N7P2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

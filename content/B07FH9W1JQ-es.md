@@ -22,6 +22,9 @@ Ahora mismo tienes [Amazon Essentials Classic-fit 7\" Print Short Pantalones Cor
 
 [![Amazon Essentials Classic-fit 7\" Print ](https://images-eu.ssl-images-amazon.com/images/I/31nNP9EKOqL._SL200_.jpg)](https://www.amazon.es/dp/B07FH9W1JQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FH9W1JQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

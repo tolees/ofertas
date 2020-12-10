@@ -22,6 +22,9 @@ Está [MSI B360M PRO-VD - Placa Base PRO Series](https://www.amazon.es/dp/B07BWD
 
 [![MSI B360M PRO-VD - Placa Base PRO Series](https://images-eu.ssl-images-amazon.com/images/I/51cjq%2BnVNSL._SL200_.jpg)](https://www.amazon.es/dp/B07BWDKFZT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BWDKFZT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

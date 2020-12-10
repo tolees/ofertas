@@ -22,6 +22,9 @@ Está [Hackett London AMR HKT  Polo para Hombre   Blk/Multi 9EG  M](https://www.
 
 [![Hackett London AMR HKT  Polo para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41he7HCb54L._SL200_.jpg)](https://www.amazon.es/dp/B07BYZGNDG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BYZGNDG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

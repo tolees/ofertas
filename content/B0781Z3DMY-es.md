@@ -22,6 +22,9 @@ Está [Puma Energy Tech Tight Pantalones  Hombre   Negro   L](https://www.amazon
 
 [![Puma Energy Tech Tight Pantalones  Hombr](https://images-eu.ssl-images-amazon.com/images/I/41hSEza61dL._SL200_.jpg)](https://www.amazon.es/dp/B0781Z3DMY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0781Z3DMY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

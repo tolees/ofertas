@@ -22,6 +22,9 @@ Está [INTEY Purificador de Aire  5 Velocidades-Limpiador de Aire  Tríple Filtr
 
 [![INTEY Purificador de Aire  5 Velocidades](https://images-eu.ssl-images-amazon.com/images/I/41oRqIZJLTL._SL200_.jpg)](https://www.amazon.es/dp/B07MVXNKXJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MVXNKXJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

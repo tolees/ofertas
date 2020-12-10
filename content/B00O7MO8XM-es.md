@@ -22,6 +22,9 @@ Tienes [Buff 108723  Cinta de Pelo Unisex Adulto  Negro  Talla Única](https://w
 
 [![Buff 108723  Cinta de Pelo Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/31X4bs6xEjL._SL200_.jpg)](https://www.amazon.es/dp/B00O7MO8XM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00O7MO8XM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

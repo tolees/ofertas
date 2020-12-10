@@ -22,6 +22,9 @@ Tienes [Oria Conjunto de Destornilladores de Precisión 60 en 1  Juego de Herram
 
 [![Oria Conjunto de Destornilladores de Pre](https://images-eu.ssl-images-amazon.com/images/I/51uthPe8ODL._SL200_.jpg)](https://www.amazon.es/dp/B01G2YJ7I8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01G2YJ7I8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

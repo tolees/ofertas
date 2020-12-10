@@ -22,6 +22,9 @@ Tienes [Corsair Force Series LS - Unidad de Estado sólido de 120 GB  SATA 3  6 
 
 [![Corsair Force Series LS - Unidad de Esta](https://images-eu.ssl-images-amazon.com/images/I/51ejqq4uqEL._SL200_.jpg)](https://www.amazon.es/dp/B00V5M1NRG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00V5M1NRG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

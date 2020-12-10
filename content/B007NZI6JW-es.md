@@ -22,6 +22,9 @@ Está [Suavinex 300830 - Vajilla para niño](https://www.amazon.es/dp/B007NZI6JW
 
 [![Suavinex 300830 - Vajilla para niño](https://images-eu.ssl-images-amazon.com/images/I/31oqUoQCLzL._SL200_.jpg)](https://www.amazon.es/dp/B007NZI6JW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007NZI6JW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

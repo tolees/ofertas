@@ -22,6 +22,9 @@ Está [SELECTED HOMME Slharo SS Embroidery Polo W Noos  Hombre  Rosa  Bubblegum 
 
 [![SELECTED HOMME Slharo SS Embroidery Polo](https://images-eu.ssl-images-amazon.com/images/I/31M5GonupQL._SL200_.jpg)](https://www.amazon.es/dp/B07FSMKQBV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FSMKQBV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

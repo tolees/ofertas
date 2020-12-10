@@ -22,6 +22,9 @@ Tienes [Imixcity Hombre Bañadores de Natación Pantalones Cortos Baño Bóxers 
 
 [![Imixcity Hombre Bañadores de Natación Pa](https://images-eu.ssl-images-amazon.com/images/I/41VxPEx%2BgpL._SL200_.jpg)](https://www.amazon.es/dp/B012GXDIQG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B012GXDIQG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

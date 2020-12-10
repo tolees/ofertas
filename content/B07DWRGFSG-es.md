@@ -22,6 +22,9 @@ Está [Call It Spring EU - Frelang  Bolsos mochila Mujer  Negro  Black   16x40x3
 
 [![Call It Spring EU - Frelang  Bolsos moch](https://images-eu.ssl-images-amazon.com/images/I/41ncNAD0oBL._SL200_.jpg)](https://www.amazon.es/dp/B07DWRGFSG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DWRGFSG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

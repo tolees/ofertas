@@ -22,6 +22,9 @@ Está [Munich Mundial U  Zapatillas de Deporte Unisex Adulto  Negro  Negro 215  
 
 [![Munich Mundial U  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/41n98LN4r2L._SL200_.jpg)](https://www.amazon.es/dp/B00EO3S1QO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00EO3S1QO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

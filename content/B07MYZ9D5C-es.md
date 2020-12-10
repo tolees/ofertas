@@ -22,6 +22,9 @@ Tienes [Rollos de Sellador al Vacío con Caja Cúter 6 Paquete 20cm x 300cm y 28
 
 [![Rollos de Sellador al Vacío con Caja Cút](https://images-eu.ssl-images-amazon.com/images/I/41rwhG3nmTL._SL200_.jpg)](https://www.amazon.es/dp/B07MYZ9D5C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MYZ9D5C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

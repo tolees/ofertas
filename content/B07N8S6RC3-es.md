@@ -22,6 +22,9 @@ Tienes [Ringke Fusion Diseñado para Funda Galaxy S10 Plus Transparente PC [Tecn
 
 [![Ringke Fusion Diseñado para Funda Galaxy](https://images-eu.ssl-images-amazon.com/images/I/41QNIPKGBTL._SL200_.jpg)](https://www.amazon.es/dp/B07N8S6RC3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N8S6RC3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

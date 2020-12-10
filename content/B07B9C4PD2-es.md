@@ -22,6 +22,9 @@ Está [Ballistix Tactical Tracer BLT16G4D26BFT4 - Memoria DDR4 de 16 GB para Jue
 
 [![Ballistix Tactical Tracer BLT16G4D26BFT4](https://images-eu.ssl-images-amazon.com/images/I/41keFecSJFL._SL200_.jpg)](https://www.amazon.es/dp/B07B9C4PD2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B9C4PD2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Paraguas Sin Teflón Grande y Automático a Prueba de Viento Hombre - Dap
 
 [![Paraguas Sin Teflón Grande y Automático ](https://images-eu.ssl-images-amazon.com/images/I/41Jo-i65QqL._SL200_.jpg)](https://www.amazon.es/dp/B07LGDMTSK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LGDMTSK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [SUNUV Lámpara Secador de Uñas  24W LED UV Gel Esmalte de Uñas Curado L
 
 [![SUNUV Lámpara Secador de Uñas  24W LED U](https://images-eu.ssl-images-amazon.com/images/I/310P3KekjBL._SL200_.jpg)](https://www.amazon.es/dp/B07MQJHSF6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MQJHSF6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Polisport Profex - Botella isotérmica  500 ml  Blanco Blanco Talla:500 
 
 [![Polisport Profex - Botella isotérmica  5](https://images-eu.ssl-images-amazon.com/images/I/310VGgQRnRL._SL200_.jpg)](https://www.amazon.es/dp/B006OWQFES/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B006OWQFES/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

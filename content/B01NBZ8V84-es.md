@@ -22,6 +22,9 @@ Tienes [G-STAR RAW 3301 Deconstructed 1/2  Pantalones Cortos Hombre  Azul  Mediu
 
 [![G-STAR RAW 3301 Deconstructed 1/2  Panta](https://images-eu.ssl-images-amazon.com/images/I/413m7mJEJ3L._SL200_.jpg)](https://www.amazon.es/dp/B01NBZ8V84/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NBZ8V84/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

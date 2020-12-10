@@ -22,6 +22,9 @@ Está [Lenovo Legion Y520 - Ordenador portátil 15.6" FullHD  Intel Core i7-7700
 
 [![Lenovo Legion Y520 - Ordenador portátil ](https://images-eu.ssl-images-amazon.com/images/I/41Vd4DOWWSL._SL200_.jpg)](https://www.amazon.es/dp/B079JDK6YJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079JDK6YJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

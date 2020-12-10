@@ -22,6 +22,9 @@ Está [Bottari 13173 Cojines del Pedal para Coches  Conjunto de 3 Piezas  Color 
 
 [![Bottari 13173 Cojines del Pedal para Coc](https://images-eu.ssl-images-amazon.com/images/I/41iBToCyfyL._SL200_.jpg)](https://www.amazon.es/dp/B00EE7XMT6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00EE7XMT6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

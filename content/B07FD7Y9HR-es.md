@@ -22,6 +22,9 @@ Ahora mismo tienes [AJOXEL Afilador Cuchillos Profesional  3 Pasos Sistema Manua
 
 [![AJOXEL Afilador Cuchillos Profesional  3](https://images-eu.ssl-images-amazon.com/images/I/41NDuXXwsrL._SL200_.jpg)](https://www.amazon.es/dp/B07FD7Y9HR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FD7Y9HR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

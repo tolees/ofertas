@@ -22,6 +22,9 @@ Está [Puma Ignite V2 Zapatillas de Running  Mujer  Varios colores  Black/ White
 
 [![Puma Ignite V2 Zapatillas de Running  Mu](https://images-eu.ssl-images-amazon.com/images/I/519T5qDrXJL._SL200_.jpg)](https://www.amazon.es/dp/B01DKK9WFU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DKK9WFU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

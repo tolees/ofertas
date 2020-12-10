@@ -22,6 +22,9 @@ Tienes [Calvin Klein Unlined Bralette  Sujetador sin Aros para Mujer  Gris  Grey
 
 [![Calvin Klein Unlined Bralette  Sujetador](https://images-eu.ssl-images-amazon.com/images/I/41xhFDXrWBL._SL200_.jpg)](https://www.amazon.es/dp/B078WWMNZQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WWMNZQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

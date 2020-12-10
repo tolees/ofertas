@@ -22,6 +22,9 @@ Tienes [Philips Sonicare Diamond Clean - Cepillo de dientes electrico recargable
 
 [![Philips Sonicare Diamond Clean - Cepillo](https://images-eu.ssl-images-amazon.com/images/I/31S78iQ81SL._SL200_.jpg)](https://www.amazon.es/dp/B075JNPJNL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075JNPJNL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

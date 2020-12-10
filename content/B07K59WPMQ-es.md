@@ -22,6 +22,9 @@ Tienes [Levi s kids Nn26587 Short Bañador  Blanco  White 01   4 años  Talla de
 
 [![Levi s kids Nn26587 Short Bañador  Blanc](https://images-eu.ssl-images-amazon.com/images/I/315LOHy8HyL._SL200_.jpg)](https://www.amazon.es/dp/B07K59WPMQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K59WPMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

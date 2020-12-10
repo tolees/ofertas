@@ -22,6 +22,9 @@ Tienes [DC Shoes Rebel Pantalones Cortos  Niños  Azul  campunula   14/L](https:
 
 [![DC Shoes Rebel Pantalones Cortos  Niños ](https://images-eu.ssl-images-amazon.com/images/I/51fohJCaaUL._SL200_.jpg)](https://www.amazon.es/dp/B078FSJP3T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078FSJP3T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

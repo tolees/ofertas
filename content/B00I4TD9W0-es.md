@@ -22,6 +22,9 @@ Está [ROYAL CANIN Comida para Gatos Babycat Instinctive 12 * 195gr](https://www
 
 [![ROYAL CANIN Comida para Gatos Babycat In](https://images-eu.ssl-images-amazon.com/images/I/41dXidMldML._SL200_.jpg)](https://www.amazon.es/dp/B00I4TD9W0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00I4TD9W0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

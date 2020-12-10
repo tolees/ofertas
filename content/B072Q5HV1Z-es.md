@@ -22,6 +22,9 @@ Tienes [Cressi Summer-Neoprene 2.5 Mm Traje de Buceo  Hombre  Negro  S](https://
 
 [![Cressi Summer-Neoprene 2.5 Mm Traje de B](https://images-eu.ssl-images-amazon.com/images/I/31Ado0aPDSL._SL200_.jpg)](https://www.amazon.es/dp/B072Q5HV1Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072Q5HV1Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

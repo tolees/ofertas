@@ -22,6 +22,12 @@ Está [adidas Lite Racer CLN  Sneaker  Legend Ink/Footwear White/Signal Green  3
 
 [![adidas Lite Racer CLN  Sneaker  Legend I](https://m.media-amazon.com/images/I/41k7PdFdSPL._SL200_.jpg)](https://www.amazon.es/dp/B08BX8J9WT/?tag=tolees-21)
 
+Principales características:
+
+- Tejido superior de punto
+- Ajuste regular
+- Cordones de zapatos
+
 [Ver la oferta!!](https://www.amazon.es/dp/B08BX8J9WT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [LIYSET HHB1772 - Hervidor de Agua Compacto de Acero Inoxidable Pulido  Ca
 
 [![LIYSET HHB1772 - Hervidor de Agua Compac](https://images-eu.ssl-images-amazon.com/images/I/41MLtdwSDsL._SL200_.jpg)](https://www.amazon.es/dp/B07DYPKMYZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DYPKMYZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

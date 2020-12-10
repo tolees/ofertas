@@ -22,6 +22,9 @@ Está [TANBURO Cabezal de Ducha LED de temperatura 3 cambio de color  20 x 20 cm
 
 [![TANBURO Cabezal de Ducha LED de temperat](https://images-eu.ssl-images-amazon.com/images/I/51HO7MIW5XL._SL200_.jpg)](https://www.amazon.es/dp/B07GN7VS53/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GN7VS53/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

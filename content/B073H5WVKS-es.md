@@ -22,6 +22,9 @@ Tienes [Only Onlsway L/s Pullover Knt Noos  suéter para Mujer  Verde  Rain Fore
 
 [![Only Onlsway L/s Pullover Knt Noos  suét](https://images-eu.ssl-images-amazon.com/images/I/41%2Byuod5emL._SL200_.jpg)](https://www.amazon.es/dp/B073H5WVKS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073H5WVKS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Ar K1Pp040B4Bb01 - Kit 5 Estant.Bricol 40 180X90X40 Blanco](
 
 [![Ar K1Pp040B4Bb01 - Kit 5 Estant.Bricol 4](https://images-eu.ssl-images-amazon.com/images/I/31vdUj6clJL._SL200_.jpg)](https://www.amazon.es/dp/B00QKQ8G90/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00QKQ8G90/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

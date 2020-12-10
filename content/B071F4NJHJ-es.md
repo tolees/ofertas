@@ -22,6 +22,9 @@ Tienes [Puma Basket Platform Patent  Zapatillas para Mujer  Blanco Marshmallow  
 
 [![Puma Basket Platform Patent  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/519JlzTZv3L._SL200_.jpg)](https://www.amazon.es/dp/B071F4NJHJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071F4NJHJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

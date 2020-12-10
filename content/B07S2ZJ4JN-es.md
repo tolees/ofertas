@@ -22,6 +22,9 @@ Está [Llave USB 16 GB Thanos - Memoria Flash Drive 2.0 Original Marvel  Llave U
 
 [![Llave USB 16 GB Thanos - Memoria Flash D](https://images-eu.ssl-images-amazon.com/images/I/51JGJ1XJqVL._SL200_.jpg)](https://www.amazon.es/dp/B07S2ZJ4JN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07S2ZJ4JN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Columbia Gorro unisex  Pine Mountain Bucket Hat  Algodón  Azul  Collegia
 
 [![Columbia Gorro unisex  Pine Mountain Buc](https://images-eu.ssl-images-amazon.com/images/I/31vA29D-jwL._SL200_.jpg)](https://www.amazon.es/dp/B07DKZKMHV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DKZKMHV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

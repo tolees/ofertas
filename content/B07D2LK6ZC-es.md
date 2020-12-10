@@ -22,6 +22,9 @@ Tienes [Dim Socq Ecodim X12 Calcetines  30 DEN  Beige  Daim 18q   Small  Talla d
 
 [![Dim Socq Ecodim X12 Calcetines  30 DEN  ](https://images-eu.ssl-images-amazon.com/images/I/31g3mPzEviL._SL200_.jpg)](https://www.amazon.es/dp/B07D2LK6ZC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D2LK6ZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

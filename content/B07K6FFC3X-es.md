@@ -22,6 +22,9 @@ Está [HANPURE Adaptador de WLAN  WiFi Stick 1200Mbps  Banda Dual  USB Stick ina
 
 [![HANPURE Adaptador de WLAN  WiFi Stick 12](https://images-eu.ssl-images-amazon.com/images/I/31R%2BLsLSaML._SL200_.jpg)](https://www.amazon.es/dp/B07K6FFC3X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K6FFC3X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

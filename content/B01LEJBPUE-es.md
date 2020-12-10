@@ -22,6 +22,9 @@ Está [Funko- Assassin S Creed Movie Callum Lynch Figura de Vinilo  11533 ](http
 
 [![Funko- Assassin S Creed Movie Callum Lyn](https://images-eu.ssl-images-amazon.com/images/I/51ELVxXHo-L._SL200_.jpg)](https://www.amazon.es/dp/B01LEJBPUE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LEJBPUE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [PIECES - Pcfunella Bag  Shoppers y bolsos de hombro Mujer  Verde  Winter 
 
 [![PIECES - Pcfunella Bag  Shoppers y bolso](https://images-eu.ssl-images-amazon.com/images/I/31nOhPB5YgL._SL200_.jpg)](https://www.amazon.es/dp/B07KMRV1L5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KMRV1L5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

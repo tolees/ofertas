@@ -22,6 +22,9 @@ Está [Marco Tozzi Premio 23749  Zapatillas para Mujer  Beige  Dune Met.Comb   3
 
 [![Marco Tozzi Premio 23749  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41F38-vNyZL._SL200_.jpg)](https://www.amazon.es/dp/B077SMGT8J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077SMGT8J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Luces De Espiga de Jardín - GreeSuit Bolardo de Luz Solar Para Jardín L
 
 [![Luces De Espiga de Jardín - GreeSuit Bol](https://images-eu.ssl-images-amazon.com/images/I/4129yGHwS-L._SL200_.jpg)](https://www.amazon.es/dp/B07GST2NR4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GST2NR4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

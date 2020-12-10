@@ -22,6 +22,9 @@ Está [Cámara de Coche  GEARGO Dashcam Full HD 1080P Dual Lens Cámara para Coc
 
 [![Cámara de Coche  GEARGO Dashcam Full HD ](https://images-eu.ssl-images-amazon.com/images/I/513m8RYVO1L._SL200_.jpg)](https://www.amazon.es/dp/B07Q8K1VQD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q8K1VQD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

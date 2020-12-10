@@ -22,6 +22,9 @@ Tienes [Pulsera de Actividad Inteligente Pantalla a Color Impermeable IP67 Puls√
 
 [![Pulsera de Actividad Inteligente Pantall](https://images-eu.ssl-images-amazon.com/images/I/517L4S1GsGL._SL200_.jpg)](https://www.amazon.es/dp/B07L8FVHZR/?tag=tolees-21)
 
+Caracter√≠sticas principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L8FVHZR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [VIBOX Vision 2S - Ordenador para Gaming  AMD A4-6300  8 GB de RAM  2 TB 
 
 [![VIBOX Vision 2S - Ordenador para Gaming ](https://images-eu.ssl-images-amazon.com/images/I/51hywJPiKEL._SL200_.jpg)](https://www.amazon.es/dp/B00JRDHEWS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JRDHEWS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

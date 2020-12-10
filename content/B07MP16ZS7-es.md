@@ -22,6 +22,9 @@ Tienes [Nanocable 10.15.4402 - Cable conversor DisplayPort a VGA  DisplayPort/M 
 
 [![Nanocable 10.15.4402 - Cable conversor D](https://images-eu.ssl-images-amazon.com/images/I/41UhoQ4on0L._SL200_.jpg)](https://www.amazon.es/dp/B07MP16ZS7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MP16ZS7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Osram 4058075152250 LED | Casquillo: E14 | Warm White | 2700. 6500 K |
 
 [![Osram 4058075152250 LED | Casquillo: E14](https://images-eu.ssl-images-amazon.com/images/I/31nZNS5OLeL._SL200_.jpg)](https://www.amazon.es/dp/B07GZ46CH8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GZ46CH8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

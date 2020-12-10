@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Mxqikv3  Zapatillas de Running para Hombre  Negr
 
 [![New Balance Mxqikv3  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41Xt-vzWv9L._SL200_.jpg)](https://www.amazon.es/dp/B01N0GK28I/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N0GK28I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

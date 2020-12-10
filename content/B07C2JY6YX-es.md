@@ -22,6 +22,9 @@ Tienes [Desigual Pendientes de botón Mujer Sin Metal - 18WAGO483017U](https://w
 
 [![Desigual Pendientes de botón Mujer Sin M](https://images-eu.ssl-images-amazon.com/images/I/31Sn4vq4u8L._SL200_.jpg)](https://www.amazon.es/dp/B07C2JY6YX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C2JY6YX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

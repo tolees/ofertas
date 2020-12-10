@@ -22,6 +22,9 @@ Ahora mismo tienes [Spalding Attack Shorts - Pantalones Cortos de Baloncesto par
 
 [![Spalding Attack Shorts - Pantalones Cort](https://images-eu.ssl-images-amazon.com/images/I/41mOYflb6GL._SL200_.jpg)](https://www.amazon.es/dp/B00D9E2APC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00D9E2APC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

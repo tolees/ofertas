@@ -22,6 +22,9 @@ Ahora mismo tienes [Care 4132-Body Bebé-Niñas  pack de 3  Rosa  Pink 569  18 m
 
 [![Care 4132-Body Bebé-Niñas  pack de 3  Ro](https://images-eu.ssl-images-amazon.com/images/I/51tFfVtI1IL._SL200_.jpg)](https://www.amazon.es/dp/B0157YU7EM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0157YU7EM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Schwarzkopf Professional Essensity Permanent Color Ammonia F
 
 [![Schwarzkopf Professional Essensity Perma](https://images-eu.ssl-images-amazon.com/images/I/416DUg6IQPL._SL200_.jpg)](https://www.amazon.es/dp/B005NCHICI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B005NCHICI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Training AOP Leggings  Niñas  Rojo  Flame Scarlet   176](https://ww
 
 [![Puma Training AOP Leggings  Niñas  Rojo ](https://images-eu.ssl-images-amazon.com/images/I/5103gNIPURL._SL200_.jpg)](https://www.amazon.es/dp/B07864YJVM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07864YJVM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

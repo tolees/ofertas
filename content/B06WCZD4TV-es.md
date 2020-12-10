@@ -22,6 +22,9 @@ Está [Tableros de Dibujo  A4 LED Mesa de Luz Dibujo  fina para diseño Art Disp
 
 [![Tableros de Dibujo  A4 LED Mesa de Luz D](https://images-eu.ssl-images-amazon.com/images/I/51VrJM%2BowiL._SL200_.jpg)](https://www.amazon.es/dp/B06WCZD4TV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06WCZD4TV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

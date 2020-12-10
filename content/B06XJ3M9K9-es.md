@@ -22,6 +22,9 @@ Tienes [Joma Bali II Polo  Hombre  Blanco  XL](https://www.amazon.es/dp/B06XJ3M9
 
 [![Joma Bali II Polo  Hombre  Blanco  XL](https://images-eu.ssl-images-amazon.com/images/I/41thhTjhfPL._SL200_.jpg)](https://www.amazon.es/dp/B06XJ3M9K9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XJ3M9K9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

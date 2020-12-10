@@ -22,6 +22,9 @@ Está [Braun MultiMix3 HM3100WH - Batidora de varillas  500 W  5 Velocidades  ac
 
 [![Braun MultiMix3 HM3100WH - Batidora de v](https://images-eu.ssl-images-amazon.com/images/I/417fsUnn8iL._SL200_.jpg)](https://www.amazon.es/dp/B00U91FNWU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00U91FNWU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

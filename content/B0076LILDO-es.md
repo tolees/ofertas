@@ -22,6 +22,9 @@ Está [Nike Wmns Air Cardio III Lea T-Shirt de Tenis  Mujer  Blanco  38](https:/
 
 [![Nike Wmns Air Cardio III Lea T-Shirt de ](https://images-eu.ssl-images-amazon.com/images/I/41ImnnW4kkL._SL200_.jpg)](https://www.amazon.es/dp/B0076LILDO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0076LILDO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

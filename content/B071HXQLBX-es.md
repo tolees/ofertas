@@ -22,6 +22,9 @@ Ahora mismo tienes [ara - Florenz  cartera Mujer  Schwarz  15x32x36 cm  B x H T 
 
 [![ara - Florenz  cartera Mujer  Schwarz  1](https://images-eu.ssl-images-amazon.com/images/I/51LIPxLnGyL._SL200_.jpg)](https://www.amazon.es/dp/B071HXQLBX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071HXQLBX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

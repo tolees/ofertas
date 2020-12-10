@@ -22,6 +22,9 @@ Ahora mismo tienes [JBL T450 - Auriculares supraaurales con micrófono incluido 
 
 [![JBL T450 - Auriculares supraaurales con ](https://images-eu.ssl-images-amazon.com/images/I/41mHFjPTW3L._SL200_.jpg)](https://www.amazon.es/dp/B01MF7CLRP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MF7CLRP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

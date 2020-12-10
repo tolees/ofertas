@@ -22,6 +22,9 @@ Está [Guess - Peony  Shoppers y bolsos de hombro Mujer  Marrón  Camel   56x16.
 
 [![Guess - Peony  Shoppers y bolsos de homb](https://images-eu.ssl-images-amazon.com/images/I/41QXnclg%2BJL._SL200_.jpg)](https://www.amazon.es/dp/B07FCHR9QK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FCHR9QK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

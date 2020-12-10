@@ -22,6 +22,9 @@ Ahora mismo tienes [Botella Agua para Deportes  SHENKEY Botellas de Agua a Prueb
 
 [![Botella Agua para Deportes  SHENKEY Bote](https://images-eu.ssl-images-amazon.com/images/I/41t4l3UweOL._SL200_.jpg)](https://www.amazon.es/dp/B07LC4JWQV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07LC4JWQV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

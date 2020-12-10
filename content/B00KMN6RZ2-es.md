@@ -22,6 +22,9 @@ Ahora mismo tienes [Uhlsport Match - Polo  Color Negro y Dorado Verde y Blanco T
 
 [![Uhlsport Match - Polo  Color Negro y Dor](https://images-eu.ssl-images-amazon.com/images/I/41EdO%2BmXcKL._SL200_.jpg)](https://www.amazon.es/dp/B00KMN6RZ2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00KMN6RZ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

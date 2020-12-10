@@ -22,6 +22,9 @@ Tienes [Play Funky - Silla de paseo  color blue stars](https://www.amazon.es/dp/
 
 [![Play Funky - Silla de paseo  color blue ](https://images-eu.ssl-images-amazon.com/images/I/516kop%2BhM5L._SL200_.jpg)](https://www.amazon.es/dp/B076D8Y3GF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076D8Y3GF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

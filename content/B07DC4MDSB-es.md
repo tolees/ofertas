@@ -22,6 +22,9 @@ Ahora mismo tienes [LE COQ SPORTIF Deauville Inf Princess  Botas Unisex bebé  N
 
 [![LE COQ SPORTIF Deauville Inf Princess  B](https://images-eu.ssl-images-amazon.com/images/I/41iTOo8CTBL._SL200_.jpg)](https://www.amazon.es/dp/B07DC4MDSB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC4MDSB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

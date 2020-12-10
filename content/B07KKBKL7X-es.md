@@ -22,6 +22,9 @@ Ahora mismo tienes [Opret Bolas de Gel de 10 Colores Más de 9 Oz  50000 Perlas 
 
 [![Opret Bolas de Gel de 10 Colores Más de ](https://images-eu.ssl-images-amazon.com/images/I/61j%2BBEItMvL._SL200_.jpg)](https://www.amazon.es/dp/B07KKBKL7X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KKBKL7X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

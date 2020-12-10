@@ -22,6 +22,9 @@ Tienes [P Prettyia Lámpara Lupa de Sobremesa Ampliación 2X con 2 Luces LED](ht
 
 [![P Prettyia Lámpara Lupa de Sobremesa Amp](https://images-eu.ssl-images-amazon.com/images/I/31I1vKbuOTL._SL200_.jpg)](https://www.amazon.es/dp/B07KYKV6B5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KYKV6B5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

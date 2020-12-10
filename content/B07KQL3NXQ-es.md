@@ -22,6 +22,9 @@ Está [hummel Hmlarena Pelota  Unisex  Blanco  White Red Blue   3](https://www.a
 
 [![hummel Hmlarena Pelota  Unisex  Blanco  ](https://images-eu.ssl-images-amazon.com/images/I/417oy1DQEcL._SL200_.jpg)](https://www.amazon.es/dp/B07KQL3NXQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KQL3NXQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

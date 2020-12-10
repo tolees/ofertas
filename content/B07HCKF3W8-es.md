@@ -22,6 +22,9 @@ Tienes [Skechers Escape Plan 2.0  Zapatillas para Hombre  Gris  Charcoal Black C
 
 [![Skechers Escape Plan 2.0  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41kJj6lD1FL._SL200_.jpg)](https://www.amazon.es/dp/B07HCKF3W8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HCKF3W8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

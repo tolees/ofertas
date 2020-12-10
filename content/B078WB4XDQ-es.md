@@ -22,6 +22,9 @@ Está [Samsung Galaxy A8 - Smartphone de 5.6"  4G  WiFi  Bluetooth 5.0  Exynos 7
 
 [![Samsung Galaxy A8 - Smartphone de 5.6"  ](https://images-eu.ssl-images-amazon.com/images/I/31L26Zt%2BbSL._SL200_.jpg)](https://www.amazon.es/dp/B078WB4XDQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078WB4XDQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

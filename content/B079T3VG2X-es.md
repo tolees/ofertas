@@ -22,6 +22,9 @@ Tienes [Cbx Etu 518002487 Silla de Paseo  0-15 kg  con Cubierta para Lluvia  Roj
 
 [![Cbx Etu 518002487 Silla de Paseo  0-15 k](https://images-eu.ssl-images-amazon.com/images/I/41fU1sAA4oL._SL200_.jpg)](https://www.amazon.es/dp/B079T3VG2X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079T3VG2X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Emporio Armani Underwear 9p406 Bañador  Azul  BLU Navy Stampato 01038   
 
 [![Emporio Armani Underwear 9p406 Bañador  ](https://images-eu.ssl-images-amazon.com/images/I/51R1zbAuS3L._SL200_.jpg)](https://www.amazon.es/dp/B07JZWDTST/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JZWDTST/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

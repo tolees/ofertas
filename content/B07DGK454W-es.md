@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes Lynnfield  Zapatillas de Skateboard para Hombre  Ne
 
 [![DC Shoes Lynnfield  Zapatillas de Skateb](https://images-eu.ssl-images-amazon.com/images/I/31Ml7duec6L._SL200_.jpg)](https://www.amazon.es/dp/B07DGK454W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DGK454W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

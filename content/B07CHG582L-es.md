@@ -22,6 +22,9 @@ Está [Liu Jo Karli  Zapatillas para Niñas   Black/White/Red 1S19A   40 EU](htt
 
 [![Liu Jo Karli  Zapatillas para Niñas   Bl](https://images-eu.ssl-images-amazon.com/images/I/512SQ-14y7L._SL200_.jpg)](https://www.amazon.es/dp/B07CHG582L/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CHG582L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

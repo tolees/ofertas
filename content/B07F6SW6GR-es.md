@@ -22,6 +22,9 @@ Está [Salomon Mochila Ligera para Senderismo o Ciclismo  20 L  Unisex Adulto  A
 
 [![Salomon Mochila Ligera para Senderismo o](https://images-eu.ssl-images-amazon.com/images/I/410WPrGZutL._SL200_.jpg)](https://www.amazon.es/dp/B07F6SW6GR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F6SW6GR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

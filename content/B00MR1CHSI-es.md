@@ -22,6 +22,9 @@ Está [G-Star Arc 3D Low Boyfriend Wmn - Vaquero boyfriend para mujer  Blau  lt 
 
 [![G-Star Arc 3D Low Boyfriend Wmn - Vaquer](https://images-eu.ssl-images-amazon.com/images/I/416Dm2CHYIL._SL200_.jpg)](https://www.amazon.es/dp/B00MR1CHSI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00MR1CHSI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Plafón LED para exterior  IP54   con temperatura de color ajustable](ht
 
 [![Plafón LED para exterior  IP54   con tem](https://images-eu.ssl-images-amazon.com/images/I/21pJ8quB1fL._SL200_.jpg)](https://www.amazon.es/dp/B01FX80XKU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FX80XKU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

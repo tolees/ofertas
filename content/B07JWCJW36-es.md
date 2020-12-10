@@ -22,6 +22,9 @@ Está [DBPOWER Mini proyector  2200 Lumen Proyector LED de Video HD 1080P con Pa
 
 [![DBPOWER Mini proyector  2200 Lumen Proye](https://images-eu.ssl-images-amazon.com/images/I/41PsL6Z6U3L._SL200_.jpg)](https://www.amazon.es/dp/B07JWCJW36/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JWCJW36/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

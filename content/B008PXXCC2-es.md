@@ -22,6 +22,9 @@ Está [CASIO Reloj Digital para Mujer de Automático con Correa en Acero Inoxida
 
 [![CASIO Reloj Digital para Mujer de Automá](https://images-eu.ssl-images-amazon.com/images/I/41KzDdwW8zL._SL200_.jpg)](https://www.amazon.es/dp/B008PXXCC2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B008PXXCC2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

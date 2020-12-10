@@ -22,6 +22,9 @@ Está [Amor Mista Condones Color Fruta - 12 Unidades](https://www.amazon.es/dp/B
 
 [![Amor Mista Condones Color Fruta - 12 Uni](https://images-eu.ssl-images-amazon.com/images/I/41CjBuDSxAL._SL200_.jpg)](https://www.amazon.es/dp/B0036A1MDU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0036A1MDU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

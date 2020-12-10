@@ -22,6 +22,9 @@ Ahora mismo tienes [Vans Otw Pullover Fleece Capucha  Azul  Dress Blues-White Ou
 
 [![Vans Otw Pullover Fleece Capucha  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41ukCKCe%2BNL._SL200_.jpg)](https://www.amazon.es/dp/B07BJGDV22/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BJGDV22/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

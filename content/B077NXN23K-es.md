@@ -22,6 +22,9 @@ Está [XTI 85961  Shopper para Mujer  Rosa  Nude   43x29x16 cm  W x H x L ](http
 
 [![XTI 85961  Shopper para Mujer  Rosa  Nud](https://images-eu.ssl-images-amazon.com/images/I/51dvYABDsLL._SL200_.jpg)](https://www.amazon.es/dp/B077NXN23K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077NXN23K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

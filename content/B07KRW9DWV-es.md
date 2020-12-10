@@ -22,6 +22,9 @@ Está [Columbia Triple Canyon Polo técnico  Hombre  Verde  Cypress   L](https:/
 
 [![Columbia Triple Canyon Polo técnico  Hom](https://images-eu.ssl-images-amazon.com/images/I/41Jtr91pIAL._SL200_.jpg)](https://www.amazon.es/dp/B07KRW9DWV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KRW9DWV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [TerraMaster F2-210 Servidor NAS Multimedia de Almacenamiento en la Nube P
 
 [![TerraMaster F2-210 Servidor NAS Multimed](https://images-eu.ssl-images-amazon.com/images/I/41fVq02XIPL._SL200_.jpg)](https://www.amazon.es/dp/B07Q6KGLJG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q6KGLJG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Deconst Mid Skinny Wmn  jeans ajustados Mujer  Azul  Raw 
 
 [![G-STAR RAW 3301 Deconst Mid Skinny Wmn  ](https://images-eu.ssl-images-amazon.com/images/I/3106OovVbuL._SL200_.jpg)](https://www.amazon.es/dp/B01MZEKT3B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MZEKT3B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [caseable - Funda para Kindle y Kindle Paperwhite  diseño de París](htt
 
 [![caseable - Funda para Kindle y Kindle Pa](https://images-eu.ssl-images-amazon.com/images/I/51D-5ZgcvxL._SL200_.jpg)](https://www.amazon.es/dp/B00CHUKK9M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CHUKK9M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

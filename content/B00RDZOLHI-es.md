@@ -22,6 +22,9 @@ Tienes [Netgear GSS108E-100EUS - Click switch gestionable inteligente de 8 puert
 
 [![Netgear GSS108E-100EUS - Click switch ge](https://images-eu.ssl-images-amazon.com/images/I/31GemR3sUDL._SL200_.jpg)](https://www.amazon.es/dp/B00RDZOLHI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00RDZOLHI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

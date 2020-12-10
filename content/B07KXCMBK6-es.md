@@ -22,6 +22,9 @@ Está [YaYuu Forerunner 235/220 / 230/620 / 630/735 Correa Reemplazo Suave Silic
 
 [![YaYuu Forerunner 235/220 / 230/620 / 630](https://images-eu.ssl-images-amazon.com/images/I/41WTxcjEgPL._SL200_.jpg)](https://www.amazon.es/dp/B07KXCMBK6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KXCMBK6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

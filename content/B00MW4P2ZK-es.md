@@ -22,6 +22,9 @@ Tienes [Neo Tools 08-036 Llave de vaso  6 cantos 36 mm  1/2"](https://www.amazon
 
 [![Neo Tools 08-036 Llave de vaso  6 cantos](https://images-eu.ssl-images-amazon.com/images/I/51YO8sTMfKL._SL200_.jpg)](https://www.amazon.es/dp/B00MW4P2ZK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MW4P2ZK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

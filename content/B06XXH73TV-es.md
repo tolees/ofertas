@@ -22,6 +22,9 @@ Está [BQ Aquaris X Pro - Smartphone DE 5.2"  Nano SIM  Bluetooth 4.2  Octa Core
 
 [![BQ Aquaris X Pro - Smartphone DE 5.2"  N](https://images-eu.ssl-images-amazon.com/images/I/41CYu1LBWgL._SL200_.jpg)](https://www.amazon.es/dp/B06XXH73TV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XXH73TV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

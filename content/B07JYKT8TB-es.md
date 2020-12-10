@@ -22,6 +22,9 @@ Tienes [adidas Deerupt Runner J  Zapatillas de Gimnasia Unisex Niños  Verde Ice
 
 [![adidas Deerupt Runner J  Zapatillas de G](https://images-eu.ssl-images-amazon.com/images/I/41AzP09y85L._SL200_.jpg)](https://www.amazon.es/dp/B07JYKT8TB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JYKT8TB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

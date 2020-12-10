@@ -22,6 +22,9 @@ Está [Versace Jeans Couture Shoes  Zapatillas de Gimnasia para Mujer  Plateado 
 
 [![Versace Jeans Couture Shoes  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/417X6zru%2BXL._SL200_.jpg)](https://www.amazon.es/dp/B07KTM6QH6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTM6QH6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Ring Formstripe  Calcetines  Azul  43-46](https://www.a
 
 [![Puma Ring Formstripe  Calcetines  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41Jb5v3qwSL._SL200_.jpg)](https://www.amazon.es/dp/B003WIZE5I/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B003WIZE5I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

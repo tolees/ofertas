@@ -22,6 +22,9 @@ Tienes [YUES M20 Auriculares Bluetooth 5.0  Mini Estéreo 3D Inalámbricos Micr�
 
 [![YUES M20 Auriculares Bluetooth 5.0  Mini](https://images-eu.ssl-images-amazon.com/images/I/41eOjR3PCEL._SL200_.jpg)](https://www.amazon.es/dp/B07MZWQ5N6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MZWQ5N6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

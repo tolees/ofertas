@@ -22,6 +22,9 @@ Está [Fitness Mad Neo - Set de 2 Mancuernas / pesas de 5kg/u  color negro](http
 
 [![Fitness Mad Neo - Set de 2 Mancuernas / ](https://images-eu.ssl-images-amazon.com/images/I/4197WpSnqeL._SL200_.jpg)](https://www.amazon.es/dp/B001EITAGW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001EITAGW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

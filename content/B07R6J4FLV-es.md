@@ -22,6 +22,9 @@ Ahora mismo tienes [Roundhouly 2en1 Vibradores para Mujer Consolador Estimulaci�
 
 [![Roundhouly 2en1 Vibradores para Mujer Co](https://images-eu.ssl-images-amazon.com/images/I/312-V7jh02L._SL200_.jpg)](https://www.amazon.es/dp/B07R6J4FLV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07R6J4FLV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

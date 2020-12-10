@@ -22,6 +22,9 @@ Está [Brazalete Deportivo Running para Móviles iPhone XS/XS MAX/XR/7 Plus/8 Pl
 
 [![Brazalete Deportivo Running para Móviles](https://images-eu.ssl-images-amazon.com/images/I/51l9LmU3ljL._SL200_.jpg)](https://www.amazon.es/dp/B01MZ9G63Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MZ9G63Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

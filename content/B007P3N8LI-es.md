@@ -22,6 +22,9 @@ Tienes [Brabantia 100482 - Mesa de Planchar  135 x 45 cm  sin Soporte  Funda Pro
 
 [![Brabantia 100482 - Mesa de Planchar  135](https://images-eu.ssl-images-amazon.com/images/I/31rSk4dQVcL._SL200_.jpg)](https://www.amazon.es/dp/B007P3N8LI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B007P3N8LI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

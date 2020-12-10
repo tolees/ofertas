@@ -22,6 +22,9 @@ Está [ASUS Zenfone ZOOM - Smartphone libre Android  pantalla 5.5"  cámara 13 M
 
 [![ASUS Zenfone ZOOM - Smartphone libre And](https://images-eu.ssl-images-amazon.com/images/I/41r4utNyBWL._SL200_.jpg)](https://www.amazon.es/dp/B01BY5I1KK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BY5I1KK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

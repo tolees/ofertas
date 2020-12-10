@@ -22,6 +22,9 @@ Está [Levis Footwear and Accessories Malibu Beach S  Zapatillas para Mujer  Azu
 
 [![Levis Footwear and Accessories Malibu Be](https://images-eu.ssl-images-amazon.com/images/I/41oNB0dzI2L._SL200_.jpg)](https://www.amazon.es/dp/B07DZW6HV9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DZW6HV9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

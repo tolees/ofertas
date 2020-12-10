@@ -22,6 +22,9 @@ Está [BABYBJÖRN  One Air- Mochila Porta Bebé  2018 Edition  3D Tejido de red 
 
 [![BABYBJÖRN  One Air- Mochila Porta Bebé  ](https://images-eu.ssl-images-amazon.com/images/I/51Bvz3FwQ2L._SL200_.jpg)](https://www.amazon.es/dp/B0793BQTZT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0793BQTZT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

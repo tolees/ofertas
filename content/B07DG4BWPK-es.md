@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Energy Tech Tight Pants  Hombre  Black  XXL](https://ww
 
 [![Puma Energy Tech Tight Pants  Hombre  Bl](https://images-eu.ssl-images-amazon.com/images/I/310BGwtVT-L._SL200_.jpg)](https://www.amazon.es/dp/B07DG4BWPK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DG4BWPK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

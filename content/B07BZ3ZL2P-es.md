@@ -22,6 +22,9 @@ Tienes [Hilfiger Denim Tommy Jeans Light Textile Low  Zapatillas para Mujer  Ros
 
 [![Hilfiger Denim Tommy Jeans Light Textile](https://images-eu.ssl-images-amazon.com/images/I/41Q9jZgwrWL._SL200_.jpg)](https://www.amazon.es/dp/B07BZ3ZL2P/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BZ3ZL2P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

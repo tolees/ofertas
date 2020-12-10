@@ -22,6 +22,9 @@ Está [Triumph Perfect Sensation W24  Sujetador para Mujer  Negro  Black 04   80
 
 [![Triumph Perfect Sensation W24  Sujetador](https://images-eu.ssl-images-amazon.com/images/I/51ScE3YgZ1L._SL200_.jpg)](https://www.amazon.es/dp/B00N4PBPCU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00N4PBPCU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

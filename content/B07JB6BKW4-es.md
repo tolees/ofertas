@@ -22,6 +22,9 @@ Ahora mismo tienes [Bovon Soporte Móvil Coche Magnético  Soporte Smartphone pa
 
 [![Bovon Soporte Móvil Coche Magnético  Sop](https://images-eu.ssl-images-amazon.com/images/I/41fuVjF0OqL._SL200_.jpg)](https://www.amazon.es/dp/B07JB6BKW4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JB6BKW4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

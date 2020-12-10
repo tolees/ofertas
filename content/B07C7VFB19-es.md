@@ -22,6 +22,9 @@ Tienes [Metal Max Xeno](https://www.amazon.es/dp/B07C7VFB19/?tag=tolees-21) con 
 
 [![Metal Max Xeno](https://images-eu.ssl-images-amazon.com/images/I/51xo1f4HckL._SL200_.jpg)](https://www.amazon.es/dp/B07C7VFB19/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C7VFB19/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

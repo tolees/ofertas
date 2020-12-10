@@ -22,6 +22,9 @@ Está [New Balance 247v2  Zapatillas para Mujer  Verde  Covert Green/Thistle OB 
 
 [![New Balance 247v2  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41DJ32blQCL._SL200_.jpg)](https://www.amazon.es/dp/B077XPM5LJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077XPM5LJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

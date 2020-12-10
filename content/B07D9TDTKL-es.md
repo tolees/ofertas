@@ -22,6 +22,9 @@ Está [adidas CF Advantage Cl  Zapatillas para Hombre  Negro Core Black/Trace Ca
 
 [![adidas CF Advantage Cl  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/31XvRR76v8L._SL200_.jpg)](https://www.amazon.es/dp/B07D9TDTKL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9TDTKL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

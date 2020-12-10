@@ -22,6 +22,9 @@ Ahora mismo tienes [ASICS Gel-Padel Pro 3 SG Padel  Sports.Padel-Padel  - Hombre
 
 [![ASICS Gel-Padel Pro 3 SG Padel  Sports.P](https://images-eu.ssl-images-amazon.com/images/I/31d1eNEYrZL._SL200_.jpg)](https://www.amazon.es/dp/B07L4VTWQJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07L4VTWQJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

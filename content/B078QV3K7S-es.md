@@ -22,6 +22,9 @@ Está [The North Face Kids TNF Chaquetas  Niñas  New Taupe Green  S](https://ww
 
 [![The North Face Kids TNF Chaquetas  Niñas](https://images-eu.ssl-images-amazon.com/images/I/41CHSdHsyEL._SL200_.jpg)](https://www.amazon.es/dp/B078QV3K7S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078QV3K7S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

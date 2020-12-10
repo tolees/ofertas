@@ -22,6 +22,9 @@ Está [New Balance 410  Zapatillas para Mujer  Rojo  NB Burgundy/Sea Salt BBW   
 
 [![New Balance 410  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41KaGlDBBlL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3JJRW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ3JJRW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [edc by Esprit 048cc2c015  Pantalones Cortos para Hombre  Verde  Olive 36
 
 [![edc by Esprit 048cc2c015  Pantalones Cor](https://images-eu.ssl-images-amazon.com/images/I/417NK-aDwaL._SL200_.jpg)](https://www.amazon.es/dp/B078SFMRBH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078SFMRBH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

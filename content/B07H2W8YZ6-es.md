@@ -22,6 +22,9 @@ Ahora mismo tienes [Knorrtoys 68211 Stars White – Saco de Asiento Infantil]
 
 [![Knorrtoys 68211 Stars White – Saco de As](https://images-eu.ssl-images-amazon.com/images/I/41QF%2B-zMUGL._SL200_.jpg)](https://www.amazon.es/dp/B07H2W8YZ6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H2W8YZ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

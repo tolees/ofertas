@@ -22,6 +22,9 @@ Está [Cortefiel Traje Hombre Azul Marino ES 52](https://www.amazon.es/dp/B01IHH
 
 [![Cortefiel Traje Hombre Azul Marino ES 52](https://images-eu.ssl-images-amazon.com/images/I/31belr4EtlL._SL200_.jpg)](https://www.amazon.es/dp/B01IHHTZTE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IHHTZTE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

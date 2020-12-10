@@ -22,6 +22,9 @@ Tienes [Taurus Horizon 30 Horno potencia de 1500 W  Negro](https://www.amazon.es
 
 [![Taurus Horizon 30 Horno potencia de 1500](https://images-eu.ssl-images-amazon.com/images/I/41EMADShhuL._SL200_.jpg)](https://www.amazon.es/dp/B06Y67ZX5K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06Y67ZX5K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

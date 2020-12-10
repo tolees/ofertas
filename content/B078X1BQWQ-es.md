@@ -22,6 +22,9 @@ Está [Emporio Armani Underwear 111357  Pantalones Cortos para Hombre   Nero/Maz
 
 [![Emporio Armani Underwear 111357  Pantalo](https://images-eu.ssl-images-amazon.com/images/I/41Ekkh1Ag6L._SL200_.jpg)](https://www.amazon.es/dp/B078X1BQWQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078X1BQWQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

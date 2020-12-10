@@ -22,6 +22,9 @@ Ahora mismo tienes [Bollé Freeze Máscaras  Unisex Adulto  Azul Mate  M](https:
 
 [![Bollé Freeze Máscaras  Unisex Adulto  Az](https://images-eu.ssl-images-amazon.com/images/I/31M6ducfiVL._SL200_.jpg)](https://www.amazon.es/dp/B07F7ZBJHR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F7ZBJHR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

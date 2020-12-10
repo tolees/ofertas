@@ -22,6 +22,9 @@ Ahora mismo tienes [Keeeper Bañera Ergonómica con Tapón Funny Farm  De 0 a 12
 
 [![Keeeper Bañera Ergonómica con Tapón Funn](https://images-eu.ssl-images-amazon.com/images/I/31C-rVfn5VL._SL200_.jpg)](https://www.amazon.es/dp/B01N49MCHM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N49MCHM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

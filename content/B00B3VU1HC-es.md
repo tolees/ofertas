@@ -22,6 +22,9 @@ Está [Yamato 7020507 Esmeriladora de banco 200 W  220 V  gris](https://www.amaz
 
 [![Yamato 7020507 Esmeriladora de banco 200](https://images-eu.ssl-images-amazon.com/images/I/41DioZjdZkL._SL200_.jpg)](https://www.amazon.es/dp/B00B3VU1HC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00B3VU1HC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

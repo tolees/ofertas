@@ -22,6 +22,9 @@ Ahora mismo tienes [Lifewit Bolsa Térmica Porta Alimentos Bolsa de Almuerzo Ais
 
 [![Lifewit Bolsa Térmica Porta Alimentos Bo](https://images-eu.ssl-images-amazon.com/images/I/513uMTJ8tUL._SL200_.jpg)](https://www.amazon.es/dp/B07B2VVQ8Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B2VVQ8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

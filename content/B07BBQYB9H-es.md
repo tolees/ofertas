@@ -22,6 +22,9 @@ Está [JACK & JONES Jjichris Jjtool Shorts JJ 135  Pantalones Cortos para Hombre
 
 [![JACK & JONES Jjichris Jjtool Shorts JJ 1](https://images-eu.ssl-images-amazon.com/images/I/41WMGebc0CL._SL200_.jpg)](https://www.amazon.es/dp/B07BBQYB9H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BBQYB9H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

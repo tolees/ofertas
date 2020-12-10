@@ -22,6 +22,9 @@ Está [GHD V Gold Professional Classic Styler - Plancha para el pelo  color negr
 
 [![GHD V Gold Professional Classic Styler -](https://images-eu.ssl-images-amazon.com/images/I/41QsyoWeoAL._SL200_.jpg)](https://www.amazon.es/dp/B00B7K0WU0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00B7K0WU0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

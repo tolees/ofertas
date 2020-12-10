@@ -22,6 +22,9 @@ Está [Munich One Indoor  Zapatillas de Deporte Unisex Adulto  Multicolor  Black
 
 [![Munich One Indoor  Zapatillas de Deporte](https://images-eu.ssl-images-amazon.com/images/I/41nVqDY9fcL._SL200_.jpg)](https://www.amazon.es/dp/B078WW2CJ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078WW2CJ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

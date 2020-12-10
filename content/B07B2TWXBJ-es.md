@@ -22,6 +22,9 @@ Tienes [⭐Sabana Bajera Ajustable 100% Poliéster Microfibra  140 x 190/200 cm 
 
 [![⭐Sabana Bajera Ajustable 100% Poliéster ](https://images-eu.ssl-images-amazon.com/images/I/41RMpmSX6CL._SL200_.jpg)](https://www.amazon.es/dp/B07B2TWXBJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B2TWXBJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

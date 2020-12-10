@@ -22,6 +22,9 @@ Está [PUMA ftblNXT Shorts Pantalones Cortos  Hombre  Negro Black  L](https://ww
 
 [![PUMA ftblNXT Shorts Pantalones Cortos  H](https://images-eu.ssl-images-amazon.com/images/I/31E414c61NL._SL200_.jpg)](https://www.amazon.es/dp/B07JHW6WKF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JHW6WKF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

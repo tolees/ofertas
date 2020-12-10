@@ -22,6 +22,9 @@ Tienes [Vans Camden Stripe  Zapatillas para Mujer  Gris  Canvas   34.5 EU](https
 
 [![Vans Camden Stripe  Zapatillas para Muje](https://images-eu.ssl-images-amazon.com/images/I/41RNcRw38DL._SL200_.jpg)](https://www.amazon.es/dp/B017YW0V7I/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B017YW0V7I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Samsung SM-G960FZBDPHE Smartphone Samsung Galaxy S9  5.8"  Wi-Fi  Bluetoo
 
 [![Samsung SM-G960FZBDPHE Smartphone Samsun](https://images-eu.ssl-images-amazon.com/images/I/314CRHTWT9L._SL200_.jpg)](https://www.amazon.es/dp/B079XHRSWC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079XHRSWC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

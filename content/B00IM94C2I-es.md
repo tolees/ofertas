@@ -22,6 +22,9 @@ Tienes [AEG EWA7800 Hervidor 2400 W  1.7 litros  Acero Inoxidable  8 Velocidades
 
 [![AEG EWA7800 Hervidor 2400 W  1.7 litros ](https://images-eu.ssl-images-amazon.com/images/I/41ldIX25gVL._SL200_.jpg)](https://www.amazon.es/dp/B00IM94C2I/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IM94C2I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Hurley Paradise Volley 17" Bermudas  Hombre  Beige  Khaki   L/43](https:/
 
 [![Hurley Paradise Volley 17" Bermudas  Hom]()](https://www.amazon.es/dp/B079QT1C5M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079QT1C5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

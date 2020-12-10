@@ -22,6 +22,9 @@ Ahora mismo tienes [Astan Hogar automático Exprimidor Eléctrico Jugix AH-KC604
 
 [![Astan Hogar automático Exprimidor Eléctr]()](https://www.amazon.es/dp/B07CJJK1DK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CJJK1DK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

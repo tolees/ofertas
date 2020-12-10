@@ -22,6 +22,9 @@ Está [Munich Dash  Zapatillas de Deporte Unisex Adulto  Rojo  Granate 36   40 E
 
 [![Munich Dash  Zapatillas de Deporte Unise](https://images-eu.ssl-images-amazon.com/images/I/419lGPjfxDL._SL200_.jpg)](https://www.amazon.es/dp/B07KYM9TXW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KYM9TXW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Asics Gel-Zaraca 5 GS  Zapatillas de Deporte Infantil  Rosa  Diva Pink/S
 
 [![Asics Gel-Zaraca 5 GS  Zapatillas de Dep](https://images-eu.ssl-images-amazon.com/images/I/51L5oe9RH9L._SL200_.jpg)](https://www.amazon.es/dp/B01N671SUH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N671SUH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

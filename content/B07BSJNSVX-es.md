@@ -22,6 +22,9 @@ Está [Nike Vapor 12 Academy Cr7 MG  Zapatillas de Fútbol Unisex Adulto  Rojo  
 
 [![Nike Vapor 12 Academy Cr7 MG  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41osRObcYFL._SL200_.jpg)](https://www.amazon.es/dp/B07BSJNSVX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BSJNSVX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Vans Clamber Backpack Mochila Tipo Casual  51 cm  26.5 Liters  Azul  Delf
 
 [![Vans Clamber Backpack Mochila Tipo Casua]()](https://www.amazon.es/dp/B06Y3WN79Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y3WN79Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

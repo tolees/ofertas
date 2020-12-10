@@ -22,6 +22,9 @@ Tienes [Puma Smash Platform Vt  Zapatillas para Mujer  Rojo  Ribbon Red White 02
 
 [![Puma Smash Platform Vt  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/412fyFQhRmL._SL200_.jpg)](https://www.amazon.es/dp/B07D9Z38CL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D9Z38CL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

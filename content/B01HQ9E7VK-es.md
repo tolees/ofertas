@@ -22,6 +22,9 @@ Ahora mismo tienes [Habitdesign 004605BO - Mesa de despacho 3 cajones  Color Bla
 
 [![Habitdesign 004605BO - Mesa de despacho ](https://images-eu.ssl-images-amazon.com/images/I/31a11KUO9UL._SL200_.jpg)](https://www.amazon.es/dp/B01HQ9E7VK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01HQ9E7VK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

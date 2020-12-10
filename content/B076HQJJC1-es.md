@@ -22,6 +22,13 @@ Ahora mismo tienes [Adidas REGI18 PES PNT Sport trousers  Hombre  Black/ White  
 
 [![Adidas REGI18 PES PNT Sport trousers  Ho](https://m.media-amazon.com/images/I/41PWJN9YBvL._SL200_.jpg)](https://www.amazon.es/dp/B076HQJJC1/?tag=tolees-21)
 
+Características:
+
+- Para aficionados a la natación que buscan comodidad y estilo.
+- Front pockets
+- Cordón interior en la cintura.
+- Bloques de color y detalles de adidas engomados en contraste.
+
 [Visítala!!!](https://www.amazon.es/dp/B076HQJJC1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Hunletai Cable USB Tipo C Carga Rapida Cable USB C Blanco [5-Pack] 1m](ht
 
 [![Hunletai Cable USB Tipo C Carga Rapida C](https://images-eu.ssl-images-amazon.com/images/I/4132lNilVtL._SL200_.jpg)](https://www.amazon.es/dp/B07C6HDTB9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C6HDTB9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

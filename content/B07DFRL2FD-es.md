@@ -22,6 +22,9 @@ Tienes [adidas Real  Polo para Hombre  Hombre  CW8641  Tech Onix/Nero/Core White
 
 [![adidas Real  Polo para Hombre  Hombre  C](https://images-eu.ssl-images-amazon.com/images/I/41ESiNmkokL._SL200_.jpg)](https://www.amazon.es/dp/B07DFRL2FD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DFRL2FD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Ballistix Sport LT BLS2C8G4D26BFSCK/BLS2K8G4D26BFSCK - Kit de Memoria RAM
 
 [![Ballistix Sport LT BLS2C8G4D26BFSCK/BLS2](https://images-eu.ssl-images-amazon.com/images/I/41JmxuCw8BL._SL200_.jpg)](https://www.amazon.es/dp/B06XJ68LK5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XJ68LK5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

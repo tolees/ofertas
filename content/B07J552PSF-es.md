@@ -22,6 +22,9 @@ Está [KEXIN 8GB Memoria USB 2.0 Pendrive 8GB Flash Drive Memory Stick para Comp
 
 [![KEXIN 8GB Memoria USB 2.0 Pendrive 8GB F](https://images-eu.ssl-images-amazon.com/images/I/41XCi3zQHDL._SL200_.jpg)](https://www.amazon.es/dp/B07J552PSF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J552PSF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma One 4 Syn AG Jr  Zapatillas de Fútbol Unisex Niños  P
 
 [![Puma One 4 Syn AG Jr  Zapatillas de Fútb](https://images-eu.ssl-images-amazon.com/images/I/41cinkMZXLL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ96FQ4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ96FQ4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

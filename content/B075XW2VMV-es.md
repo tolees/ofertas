@@ -22,6 +22,9 @@ Ahora mismo tienes [HP 400 Conjunto de Altavoces 2.1 Canales 8 W Negro - Set de 
 
 [![HP 400 Conjunto de Altavoces 2.1 Canales](https://images-eu.ssl-images-amazon.com/images/I/31lFn275RFL._SL200_.jpg)](https://www.amazon.es/dp/B075XW2VMV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075XW2VMV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

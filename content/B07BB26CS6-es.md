@@ -22,6 +22,9 @@ Tienes [Merrell Burnt Rock Tura Suede  Zapatillas para Hombre  Marrón Stone  42
 
 [![Merrell Burnt Rock Tura Suede  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41mRIAB8OTL._SL200_.jpg)](https://www.amazon.es/dp/B07BB26CS6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BB26CS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

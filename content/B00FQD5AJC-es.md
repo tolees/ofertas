@@ -22,6 +22,9 @@ Ahora mismo tienes [Bestway - Pisc.Cobertor Piscina Rect.410x226cm.](https://www
 
 [![Bestway - Pisc.Cobertor Piscina Rect.410](https://images-eu.ssl-images-amazon.com/images/I/41wOzd2RVgL._SL200_.jpg)](https://www.amazon.es/dp/B00FQD5AJC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00FQD5AJC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

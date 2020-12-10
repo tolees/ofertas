@@ -22,6 +22,9 @@ Está [adidas WTS Hoody&Tight Chándal  Mujer  Negro/multco/blapur  2XS](https:/
 
 [![adidas WTS Hoody&Tight Chándal  Mujer  N](https://images-eu.ssl-images-amazon.com/images/I/41Ux%2B3k-IoL._SL200_.jpg)](https://www.amazon.es/dp/B07KTXK9QL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTXK9QL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

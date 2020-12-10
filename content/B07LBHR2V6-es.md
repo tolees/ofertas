@@ -22,6 +22,9 @@ Tienes [Love Moschino Scarpad. Gomma30 Nappa PU  Zapatillas de Gimnasia para Muj
 
 [![Love Moschino Scarpad. Gomma30 Nappa PU ](https://images-eu.ssl-images-amazon.com/images/I/3161FIsTLFL._SL200_.jpg)](https://www.amazon.es/dp/B07LBHR2V6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07LBHR2V6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

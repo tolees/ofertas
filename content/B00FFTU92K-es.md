@@ -22,6 +22,9 @@ Ahora mismo tienes [Braun TS505 - Plancha ropa vapor  2000w  suela cerámica  su
 
 [![Braun TS505 - Plancha ropa vapor  2000w ](https://images-eu.ssl-images-amazon.com/images/I/415TdaxBupL._SL200_.jpg)](https://www.amazon.es/dp/B00FFTU92K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00FFTU92K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

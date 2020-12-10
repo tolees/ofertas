@@ -22,6 +22,9 @@ Está [Vitaldiet  ACEITE DE ALMENDRAS PURO-250 ML VEGANO ](https://www.amazon.es
 
 [![Vitaldiet  ACEITE DE ALMENDRAS PURO-250 ](https://images-eu.ssl-images-amazon.com/images/I/41BEBNcvOaL._SL200_.jpg)](https://www.amazon.es/dp/B07NSPN6MJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NSPN6MJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

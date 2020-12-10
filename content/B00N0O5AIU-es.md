@@ -22,6 +22,9 @@ Ahora mismo tienes [Anself Pistola de pegar con 50 Barra De Pegamento 20W](https
 
 [![Anself Pistola de pegar con 50 Barra De ](https://images-eu.ssl-images-amazon.com/images/I/31dyik5Ao0L._SL200_.jpg)](https://www.amazon.es/dp/B00N0O5AIU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00N0O5AIU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

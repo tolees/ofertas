@@ -22,6 +22,9 @@ Está [Scotch CAT-810 - Dispensador de cinta adhesiva  incluye 1 rollo de cinta 
 
 [![Scotch CAT-810 - Dispensador de cinta ad](https://images-eu.ssl-images-amazon.com/images/I/41mYm7OjTxL._SL200_.jpg)](https://www.amazon.es/dp/B00OB5SOQ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00OB5SOQ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

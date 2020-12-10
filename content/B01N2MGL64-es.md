@@ -22,6 +22,9 @@ Está [GlobeEncore-2  Zapatillas de Skateboard Hombre  Azul  Navy/Yellow   40.5 
 
 [![GlobeEncore-2  Zapatillas de Skateboard ](https://images-eu.ssl-images-amazon.com/images/I/41ozU-bDA6L._SL200_.jpg)](https://www.amazon.es/dp/B01N2MGL64/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N2MGL64/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [HOMELODY Desagüe para Lavabo Universal Válvula Pop Up de Drenaje Cobre 
 
 [![HOMELODY Desagüe para Lavabo Universal V](https://images-eu.ssl-images-amazon.com/images/I/41fGWGkvN1L._SL200_.jpg)](https://www.amazon.es/dp/B07GNGHMSC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GNGHMSC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

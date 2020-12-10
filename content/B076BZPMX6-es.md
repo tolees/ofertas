@@ -22,6 +22,9 @@ Está [Divoom Air Beat 10 - Altavoz portatil  3.5"  Bluetooth 3.0  microfono  Ma
 
 [![Divoom Air Beat 10 - Altavoz portatil  3](https://images-eu.ssl-images-amazon.com/images/I/41fj6DnsDrL._SL200_.jpg)](https://www.amazon.es/dp/B076BZPMX6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076BZPMX6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

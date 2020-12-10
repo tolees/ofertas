@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Flex Advantage 2.0-The Happs  Zapatillas para Hombr
 
 [![Skechers Flex Advantage 2.0-The Happs  Z](https://images-eu.ssl-images-amazon.com/images/I/41rTPS%2B%2B57L._SL200_.jpg)](https://www.amazon.es/dp/B01M8L1UF1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M8L1UF1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

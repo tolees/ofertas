@@ -22,6 +22,9 @@ Está [Tous MOCHILA VERA JEANS](https://www.amazon.es/dp/B07SL9ZKX6/?tag=tolees-
 
 [![Tous MOCHILA VERA JEANS](https://images-eu.ssl-images-amazon.com/images/I/41X8%2B-qK97L._SL200_.jpg)](https://www.amazon.es/dp/B07SL9ZKX6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07SL9ZKX6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

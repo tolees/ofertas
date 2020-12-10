@@ -22,6 +22,9 @@ Tienes [HP Lap Dock - Soporte para Elite X3  pantalla 12 5    FHD  teclado compl
 
 [![HP Lap Dock - Soporte para Elite X3  pan](https://images-eu.ssl-images-amazon.com/images/I/41KyrfYLAIL._SL200_.jpg)](https://www.amazon.es/dp/B01LYS71IY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LYS71IY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

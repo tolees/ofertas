@@ -22,6 +22,9 @@ Está [Diadora Game S  Zapatillas de Gimnasia Unisex Adulto  Azul  BLU Profondo 
 
 [![Diadora Game S  Zapatillas de Gimnasia U](https://images-eu.ssl-images-amazon.com/images/I/41exd1h2e5L._SL200_.jpg)](https://www.amazon.es/dp/B07DRYBX3D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DRYBX3D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

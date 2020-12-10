@@ -22,6 +22,9 @@ Ahora mismo tienes [Philips VisaCare SC6240/01 - Tratamiento rejuvenecimiento de
 
 [![Philips VisaCare SC6240/01 - Tratamiento](https://images-eu.ssl-images-amazon.com/images/I/31DyIAZYeOL._SL200_.jpg)](https://www.amazon.es/dp/B00SD8DT9K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00SD8DT9K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

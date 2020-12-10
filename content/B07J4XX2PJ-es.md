@@ -22,6 +22,9 @@ Está [Nike Benassi JDI TXT Se  Zapatillas Impermeables para Hombre   Bright Cri
 
 [![Nike Benassi JDI TXT Se  Zapatillas Impe](https://images-eu.ssl-images-amazon.com/images/I/31e2y0qAggL._SL200_.jpg)](https://www.amazon.es/dp/B07J4XX2PJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J4XX2PJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

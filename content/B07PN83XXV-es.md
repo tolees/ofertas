@@ -22,6 +22,9 @@ Tienes [VIDEN Luz Nocturna  Luz Armario Led Sensor Recargable  Luz con Led Senso
 
 [![VIDEN Luz Nocturna  Luz Armario Led Sens](https://images-eu.ssl-images-amazon.com/images/I/41eUw1GgzzL._SL200_.jpg)](https://www.amazon.es/dp/B07PN83XXV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PN83XXV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Mardozon 13 Piezas Correas para Xiaomi Mi Band 3 - Silicona Reloj de Rec
 
 [![Mardozon 13 Piezas Correas para Xiaomi M](https://images-eu.ssl-images-amazon.com/images/I/51O5anB7v5L._SL200_.jpg)](https://www.amazon.es/dp/B07L6GWP5F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L6GWP5F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

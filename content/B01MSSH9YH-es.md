@@ -22,6 +22,9 @@ Está [AEG STM3400 Batidora de mano  600W  2 velocidades  85dB  pie de metal  m�
 
 [![AEG STM3400 Batidora de mano  600W  2 ve](https://images-eu.ssl-images-amazon.com/images/I/316LztgU-LL._SL200_.jpg)](https://www.amazon.es/dp/B01MSSH9YH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MSSH9YH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

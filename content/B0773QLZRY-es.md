@@ -22,6 +22,9 @@ Ahora mismo tienes [Blend 20705881  Pantalones para Hombre  Azul  Denim Light Bl
 
 [![Blend 20705881  Pantalones para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/419XjpaZTsL._SL200_.jpg)](https://www.amazon.es/dp/B0773QLZRY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0773QLZRY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

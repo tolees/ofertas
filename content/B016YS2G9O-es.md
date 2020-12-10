@@ -22,6 +22,9 @@ Tienes [BEPER VE.620 Mosquitera Eléctrica Aluminio  Unica](https://www.amazon.e
 
 [![BEPER VE.620 Mosquitera Eléctrica Alumin](https://images-eu.ssl-images-amazon.com/images/I/513k2SlDfML._SL200_.jpg)](https://www.amazon.es/dp/B016YS2G9O/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B016YS2G9O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

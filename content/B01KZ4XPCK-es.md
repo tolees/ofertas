@@ -22,6 +22,9 @@ Ahora mismo tienes [Canon EF 16-35mm f/2.8L III USM - Objetivo Canon EF 16-35mm 
 
 [![Canon EF 16-35mm f/2.8L III USM - Objeti](https://images-eu.ssl-images-amazon.com/images/I/51I5aFslhKL._SL200_.jpg)](https://www.amazon.es/dp/B01KZ4XPCK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01KZ4XPCK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

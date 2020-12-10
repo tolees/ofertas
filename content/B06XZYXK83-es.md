@@ -22,6 +22,9 @@ Ahora mismo tienes [Marco Tozzi 25308  Botas para Mujer  Rojo  Chianti A.c.   37
 
 [![Marco Tozzi 25308  Botas para Mujer  Roj](https://images-eu.ssl-images-amazon.com/images/I/41UT3qbkZ8L._SL200_.jpg)](https://www.amazon.es/dp/B06XZYXK83/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XZYXK83/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Mega NRGY Turbo  Zapatillas De Deporte para Exterior pa
 
 [![Puma Mega NRGY Turbo  Zapatillas De Depo](https://images-eu.ssl-images-amazon.com/images/I/51A%2BLkuIplL._SL200_.jpg)](https://www.amazon.es/dp/B0716V9XLC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0716V9XLC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

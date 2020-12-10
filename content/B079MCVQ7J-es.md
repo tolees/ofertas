@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Bay Primrose  Sandalia con Pulsera para Mujer  Negro 
 
 [![Clarks Bay Primrose  Sandalia con Pulser](https://images-eu.ssl-images-amazon.com/images/I/31E8H5vwa6L._SL200_.jpg)](https://www.amazon.es/dp/B079MCVQ7J/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079MCVQ7J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

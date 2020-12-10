@@ -22,6 +22,9 @@ Tienes [Ultrasport - Cinturón con luz LED y Bolsillo de Neopreno con Cierre de 
 
 [![Ultrasport - Cinturón con luz LED y Bols](https://images-eu.ssl-images-amazon.com/images/I/416coK3lkXL._SL200_.jpg)](https://www.amazon.es/dp/B01FXVB2AC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FXVB2AC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [LOBKIN Auriculares Bluetooth  Auriculares Inalámbricos Blue
 
 [![LOBKIN Auriculares Bluetooth  Auriculare](https://images-eu.ssl-images-amazon.com/images/I/41gbx2YGRiL._SL200_.jpg)](https://www.amazon.es/dp/B07KQV7XCV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KQV7XCV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

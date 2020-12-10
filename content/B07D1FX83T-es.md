@@ -22,6 +22,9 @@ Está [SELECTED HOMME Slhslim-mylobill Grey TRS B Noos  Pantalones de Traje Homb
 
 [![SELECTED HOMME Slhslim-mylobill Grey TRS](https://images-eu.ssl-images-amazon.com/images/I/41aweINSCEL._SL200_.jpg)](https://www.amazon.es/dp/B07D1FX83T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D1FX83T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Cable USB C  KEXIN Cable USB Tipo C a USB A 2.0 Nylon Trenzado Carga Rá
 
 [![Cable USB C  KEXIN Cable USB Tipo C a US](https://images-eu.ssl-images-amazon.com/images/I/51NpFqZr0NL._SL200_.jpg)](https://www.amazon.es/dp/B07KP6HH8H/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KP6HH8H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

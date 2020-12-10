@@ -22,6 +22,9 @@ Está [Palladium Pallaphoenix Mblty Lt  Botas Clasicas Unisex Adulto  Negro Blac
 
 [![Palladium Pallaphoenix Mblty Lt  Botas C](https://images-eu.ssl-images-amazon.com/images/I/41ZjzmS71kL._SL200_.jpg)](https://www.amazon.es/dp/B07FDG3QKS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDG3QKS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Emma & Giovanni - Pullover - Top - Mujer  M/L  Verde ](https://www.amazo
 
 [![Emma & Giovanni - Pullover - Top - Mujer](https://images-eu.ssl-images-amazon.com/images/I/51vW1A04uIL._SL200_.jpg)](https://www.amazon.es/dp/B07HP5SBK6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HP5SBK6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

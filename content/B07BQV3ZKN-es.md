@@ -22,6 +22,9 @@ Está [New Balance 574  Zapatillas Unisex  Rosa  Light Cashmere/Dark Currant MLG
 
 [![New Balance 574  Zapatillas Unisex  Rosa](https://images-eu.ssl-images-amazon.com/images/I/41Uvd-aaUtL._SL200_.jpg)](https://www.amazon.es/dp/B07BQV3ZKN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BQV3ZKN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Bourjois Effect 3d Gloss Gloss Tono 20 Rose symphonic - 21 gr.](https://
 
 [![Bourjois Effect 3d Gloss Gloss Tono 20 R](https://images-eu.ssl-images-amazon.com/images/I/41dekm1MTbL._SL200_.jpg)](https://www.amazon.es/dp/B005IEH4RU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B005IEH4RU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

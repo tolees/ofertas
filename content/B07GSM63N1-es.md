@@ -22,6 +22,9 @@ Ahora mismo tienes [find. Cotton Utility Abrigos Negro 52  Talla del Fabricante:
 
 [![find. Cotton Utility Abrigos Negro 52  T](https://images-eu.ssl-images-amazon.com/images/I/31-CrsS63OL._SL200_.jpg)](https://www.amazon.es/dp/B07GSM63N1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GSM63N1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

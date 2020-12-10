@@ -22,6 +22,9 @@ Ahora mismo tienes [Samsonite Uplite Duffle/WH 55 cm Bolsa de Viaje  68.5 litros
 
 [![Samsonite Uplite Duffle/WH 55 cm Bolsa d](https://images-eu.ssl-images-amazon.com/images/I/41vECrZ-ndL._SL200_.jpg)](https://www.amazon.es/dp/B01M1XUVYA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M1XUVYA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

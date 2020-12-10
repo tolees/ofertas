@@ -22,6 +22,9 @@ Está [Uhlsport Hose Match GK Shorts - Pantalones Cortos de fútbol para Hombre 
 
 [![Uhlsport Hose Match GK Shorts - Pantalon](https://images-eu.ssl-images-amazon.com/images/I/41UJS7A51DL._SL200_.jpg)](https://www.amazon.es/dp/B00IYD4BRS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00IYD4BRS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

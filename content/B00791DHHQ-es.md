@@ -22,6 +22,9 @@ Ahora mismo tienes [Orbegozo TRSL 1400 Termo para sólido y líquido  1400 ml  A
 
 [![Orbegozo TRSL 1400 Termo para sólido y l](https://images-eu.ssl-images-amazon.com/images/I/41KozRSg%2BZL._SL200_.jpg)](https://www.amazon.es/dp/B00791DHHQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00791DHHQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

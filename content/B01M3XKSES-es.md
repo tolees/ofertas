@@ -22,6 +22,9 @@ Está [G-STAR RAW Lynn Mid Waist Skinny Jeans Ajustados  Negro  3D Dark Aged 846
 
 [![G-STAR RAW Lynn Mid Waist Skinny Jeans A](https://images-eu.ssl-images-amazon.com/images/I/417xgBzhWTL._SL200_.jpg)](https://www.amazon.es/dp/B01M3XKSES/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M3XKSES/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

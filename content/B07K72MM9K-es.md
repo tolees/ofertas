@@ -22,6 +22,9 @@ Está [Asics Gel-Game 7  Zapatillas de Tenis para Hombre   White/Silver 104   41
 
 [![Asics Gel-Game 7  Zapatillas de Tenis pa](https://images-eu.ssl-images-amazon.com/images/I/31d0faHn3YL._SL200_.jpg)](https://www.amazon.es/dp/B07K72MM9K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K72MM9K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

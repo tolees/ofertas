@@ -22,6 +22,9 @@ Está [VAUDE Timok Mochila  Unisex Adulto  Verde  Olive   90](https://www.amazon
 
 [![VAUDE Timok Mochila  Unisex Adulto  Verd]()](https://www.amazon.es/dp/B01LXKQENS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LXKQENS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

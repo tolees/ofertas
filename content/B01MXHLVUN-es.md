@@ -22,6 +22,9 @@ Está [Puma Evotouch 3 SG  Botas de fútbol para Hombre  Blanco White-True Blue 
 
 [![Puma Evotouch 3 SG  Botas de fútbol para](https://images-eu.ssl-images-amazon.com/images/I/417RBU%2BToOL._SL200_.jpg)](https://www.amazon.es/dp/B01MXHLVUN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MXHLVUN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

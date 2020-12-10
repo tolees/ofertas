@@ -22,6 +22,9 @@ Está [Dometic Coolfreeze CDF 18 - Nevera de compresor portátil  conexiones 12 
 
 [![Dometic Coolfreeze CDF 18 - Nevera de co](https://images-eu.ssl-images-amazon.com/images/I/41qmqI4ArSL._SL200_.jpg)](https://www.amazon.es/dp/B001TPN3TA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001TPN3TA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

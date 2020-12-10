@@ -22,6 +22,9 @@ Tienes [Taza de café con aislamiento doble Y  500 ml  acero inoxidable Black-lx
 
 [![Taza de café con aislamiento doble Y  50](https://images-eu.ssl-images-amazon.com/images/I/51lWUuoZinL._SL200_.jpg)](https://www.amazon.es/dp/B07FSSVL8G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FSSVL8G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

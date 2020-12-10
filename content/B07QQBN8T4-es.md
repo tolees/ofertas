@@ -22,6 +22,9 @@ Está [Vbiger Mochila Senderismo 65L+5L Viajes Excursiones Acampadas Escalar Mon
 
 [![Vbiger Mochila Senderismo 65L+5L Viajes ](https://images-eu.ssl-images-amazon.com/images/I/41F9m9po%2B2L._SL200_.jpg)](https://www.amazon.es/dp/B07QQBN8T4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QQBN8T4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Rieker 15253  Mocasines para Hombre  Azul  Denim/Atlantis/Chalk   40 EU]
 
 [![Rieker 15253  Mocasines para Hombre  Azu](https://images-eu.ssl-images-amazon.com/images/I/41f5FmpwiRL._SL200_.jpg)](https://www.amazon.es/dp/B01M32OLIE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M32OLIE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

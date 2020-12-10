@@ -22,6 +22,9 @@ Está [Asics T7E3N4149  Zapatillas de Running para Hombre  Azul  Hawaiian Surf/I
 
 [![Asics T7E3N4149  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/513fVLlcxUL._SL200_.jpg)](https://www.amazon.es/dp/B071LBBQQ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071LBBQQ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

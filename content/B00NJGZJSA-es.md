@@ -22,6 +22,9 @@ Tienes [Acuvue Oasys - Lentes de contacto esféricas quincenales  R 8.8 / D 14/1
 
 [![Acuvue Oasys - Lentes de contacto esféri](https://images-eu.ssl-images-amazon.com/images/I/31oEebwyZAL._SL200_.jpg)](https://www.amazon.es/dp/B00NJGZJSA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00NJGZJSA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

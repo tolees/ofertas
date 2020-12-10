@@ -22,6 +22,9 @@ Ahora mismo tienes [De Longhi ETAM29.510.SB Cafetera súper automática  con pan
 
 [![De Longhi ETAM29.510.SB Cafetera súper a](https://images-eu.ssl-images-amazon.com/images/I/41FqUIWlL2L._SL200_.jpg)](https://www.amazon.es/dp/B00LPG2KBA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00LPG2KBA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

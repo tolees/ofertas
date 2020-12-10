@@ -22,6 +22,9 @@ Tienes [Homever Tabla de Cortar  Juego de Tablas de Cortar de bambú de 3 Piezas
 
 [![Homever Tabla de Cortar  Juego de Tablas](https://images-eu.ssl-images-amazon.com/images/I/41TlcYiTUVL._SL200_.jpg)](https://www.amazon.es/dp/B07F2ZBMQP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2ZBMQP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

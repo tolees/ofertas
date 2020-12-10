@@ -22,6 +22,9 @@ Está [Auriculares Bluetooth  AIJEESI I9 Auriculares Inalámbricos Bluetooth 5.0
 
 [![Auriculares Bluetooth  AIJEESI I9 Auricu](https://images-eu.ssl-images-amazon.com/images/I/31WtEUktqPL._SL200_.jpg)](https://www.amazon.es/dp/B07MYNZYXB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MYNZYXB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

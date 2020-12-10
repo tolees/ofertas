@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Future 19.4 TT Jr  Zapatillas de Fútbol para Niños  R
 
 [![Puma Future 19.4 TT Jr  Zapatillas de Fú](https://images-eu.ssl-images-amazon.com/images/I/41BB-ncSf8L._SL200_.jpg)](https://www.amazon.es/dp/B07DCBYXL7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DCBYXL7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

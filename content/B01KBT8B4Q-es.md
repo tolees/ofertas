@@ -22,6 +22,9 @@ Está [Lacoste Sport Straightset Bl 1 Spj  Zapatillas Bajos Unisex Niños  Negro
 
 [![Lacoste Sport Straightset Bl 1 Spj  Zapa](https://images-eu.ssl-images-amazon.com/images/I/41ht537tVsL._SL200_.jpg)](https://www.amazon.es/dp/B01KBT8B4Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01KBT8B4Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

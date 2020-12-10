@@ -22,6 +22,9 @@ Está [ISENPENK Colchón de Aire Colchón Hinchable  191 x 99.1 x 45.7 cm   Cama
 
 [![ISENPENK Colchón de Aire Colchón Hinchab](https://images-eu.ssl-images-amazon.com/images/I/41rFUaYLiAL._SL200_.jpg)](https://www.amazon.es/dp/B07C5R7VZ3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C5R7VZ3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

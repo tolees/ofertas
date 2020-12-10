@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Hi-Lites-Block Poppers  Zapatillas Altas para Mujer
 
 [![Skechers Hi-Lites-Block Poppers  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41mj4t6C9NL._SL200_.jpg)](https://www.amazon.es/dp/B074CMXXD9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074CMXXD9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

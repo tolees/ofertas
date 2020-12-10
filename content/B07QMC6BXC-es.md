@@ -22,6 +22,9 @@ Está [Cámara de Coche Dash CAM 4 Pulgadas Camara Delantera y Trasera 1080P Ful
 
 [![Cámara de Coche Dash CAM 4 Pulgadas Cama](https://images-eu.ssl-images-amazon.com/images/I/51CTXev0V6L._SL200_.jpg)](https://www.amazon.es/dp/B07QMC6BXC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QMC6BXC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

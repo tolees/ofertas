@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Stan Smith CF I  Zapatillas Unisex bebé  Blanco Foot
 
 [![adidas Stan Smith CF I  Zapatillas Unise](https://images-eu.ssl-images-amazon.com/images/I/41fu18P2dwL._SL200_.jpg)](https://www.amazon.es/dp/B071PFGMTP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071PFGMTP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

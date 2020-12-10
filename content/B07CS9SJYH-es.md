@@ -22,6 +22,9 @@ Está [Puma Smash Wns v2 SD  Zapatillas para Mujer  Rosa Dusty Coral  38 EU](htt
 
 [![Puma Smash Wns v2 SD  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41WGk4LaPiL._SL200_.jpg)](https://www.amazon.es/dp/B07CS9SJYH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CS9SJYH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

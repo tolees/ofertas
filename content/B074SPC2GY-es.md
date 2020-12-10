@@ -22,6 +22,9 @@ Está [BOSS Zime suéter  Azul  Open Blue 489   Large para Hombre](https://www.a
 
 [![BOSS Zime suéter  Azul  Open Blue 489   ](https://images-eu.ssl-images-amazon.com/images/I/41zUgWcILaL._SL200_.jpg)](https://www.amazon.es/dp/B074SPC2GY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074SPC2GY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

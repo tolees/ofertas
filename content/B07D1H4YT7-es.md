@@ -22,6 +22,9 @@ Está [Asics Gel-Phoenix 9  Zapatillas de Entrenamiento para Hombre  Azul  Deep 
 
 [![Asics Gel-Phoenix 9  Zapatillas de Entre](https://images-eu.ssl-images-amazon.com/images/I/51ApMBU2BOL._SL200_.jpg)](https://www.amazon.es/dp/B07D1H4YT7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D1H4YT7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

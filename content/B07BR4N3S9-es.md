@@ -22,6 +22,9 @@ Ahora mismo tienes [Dickies Flex Work Pant Pantalones  Hombre  Negro  Black BK  
 
 [![Dickies Flex Work Pant Pantalones  Hombr](https://images-eu.ssl-images-amazon.com/images/I/31fOQPtNNaL._SL200_.jpg)](https://www.amazon.es/dp/B07BR4N3S9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BR4N3S9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

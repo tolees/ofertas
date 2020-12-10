@@ -22,6 +22,9 @@ Tienes [Contigo Pinacle 10 - Termo antigoteo  Color sandía  300 ml](https://www
 
 [![Contigo Pinacle 10 - Termo antigoteo  Co](https://images-eu.ssl-images-amazon.com/images/I/31DkYg8t1vL._SL200_.jpg)](https://www.amazon.es/dp/B01A5EO09W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01A5EO09W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Napapijri Nore  Pantalones Cortos para Hombre  Beige  Mineral Beige Nb4  
 
 [![Napapijri Nore  Pantalones Cortos para H](https://images-eu.ssl-images-amazon.com/images/I/31FA6aqQyGL._SL200_.jpg)](https://www.amazon.es/dp/B07LBMFRGL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBMFRGL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [David Jones - Cm5047  Bolsos totes Mujer  Gris  Grey   13x34x43 cm  W x 
 
 [![David Jones - Cm5047  Bolsos totes Mujer](https://images-eu.ssl-images-amazon.com/images/I/51Zd913RENL._SL200_.jpg)](https://www.amazon.es/dp/B07KCHBX5J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KCHBX5J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [James & Nicholson Laufhose Jogging  Pantalones de Deporte Infantil  Color
 
 [![James & Nicholson Laufhose Jogging  Pant](https://images-eu.ssl-images-amazon.com/images/I/31FLU09A3cL._SL200_.jpg)](https://www.amazon.es/dp/B008O5CCWC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B008O5CCWC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

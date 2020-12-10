@@ -22,6 +22,9 @@ Tienes [New Balance 247v2  Zapatillas para Mujer  Negro  Black/Himalayan Pink Co
 
 [![New Balance 247v2  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/31Iu--8Vz-L._SL200_.jpg)](https://www.amazon.es/dp/B077XQJZ1S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077XQJZ1S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [APC Surge Arrest Performance - PL8VT3-DE - Regleta con prote
 
 [![APC Surge Arrest Performance - PL8VT3-DE](https://images-eu.ssl-images-amazon.com/images/I/41AjlZnH1UL._SL200_.jpg)](https://www.amazon.es/dp/B005MNROQS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B005MNROQS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

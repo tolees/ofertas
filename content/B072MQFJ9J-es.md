@@ -22,6 +22,9 @@ Tienes [Casals VDLI14M-2 - Taladro atornillador con batería de litio de 14.4 V 
 
 [![Casals VDLI14M-2 - Taladro atornillador ](https://images-eu.ssl-images-amazon.com/images/I/41KC3t8PD5L._SL200_.jpg)](https://www.amazon.es/dp/B072MQFJ9J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072MQFJ9J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

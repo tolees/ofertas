@@ -22,6 +22,9 @@ Está [Anker Eufy by Anker - Robovac 11  T2102311 ](https://www.amazon.es/dp/B01
 
 [![Anker Eufy by Anker - Robovac 11  T21023](https://images-eu.ssl-images-amazon.com/images/I/41vKW5cyoYL._SL200_.jpg)](https://www.amazon.es/dp/B01I9QKQBE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01I9QKQBE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

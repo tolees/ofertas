@@ -22,6 +22,9 @@ Ahora mismo tienes [Medion MD 15709 - Tostador  1.400 vatios  dos ranuras largas
 
 [![Medion MD 15709 - Tostador  1.400 vatios](https://images-eu.ssl-images-amazon.com/images/I/31wKjLF7f7L._SL200_.jpg)](https://www.amazon.es/dp/B018SNSA2K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B018SNSA2K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

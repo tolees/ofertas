@@ -22,6 +22,9 @@ Tienes [Columbia Silver Ridge II Shorts  Hombre  Negro  Abyss   W38/L6](https://
 
 [![Columbia Silver Ridge II Shorts  Hombre ](https://images-eu.ssl-images-amazon.com/images/I/31O3HSJv4hL._SL200_.jpg)](https://www.amazon.es/dp/B0772VMT2J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0772VMT2J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

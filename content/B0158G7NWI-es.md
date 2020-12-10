@@ -22,6 +22,9 @@ Tienes [ASUS ZenFone Go ZE500TG - Smartphone Libre Android de 5"  cámara 8 MP  
 
 [![ASUS ZenFone Go ZE500TG - Smartphone Lib](https://images-eu.ssl-images-amazon.com/images/I/41n1Q5q3SGL._SL200_.jpg)](https://www.amazon.es/dp/B0158G7NWI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0158G7NWI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

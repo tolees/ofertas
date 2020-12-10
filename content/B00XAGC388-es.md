@@ -22,6 +22,9 @@ Está [Olay 2 en 1 Crema facial Anti-edad + Sérum reafirmante Firmeza & Efecto 
 
 [![Olay 2 en 1 Crema facial Anti-edad + Sér](https://images-eu.ssl-images-amazon.com/images/I/517EQM%2BIp6L._SL200_.jpg)](https://www.amazon.es/dp/B00XAGC388/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00XAGC388/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

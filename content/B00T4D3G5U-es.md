@@ -22,6 +22,9 @@ Tienes [Renberg Set de de 5 Cuchillos de Acero Inoxidable](https://www.amazon.es
 
 [![Renberg Set de de 5 Cuchillos de Acero I](https://images-eu.ssl-images-amazon.com/images/I/41oH3TxXIFL._SL200_.jpg)](https://www.amazon.es/dp/B00T4D3G5U/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00T4D3G5U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

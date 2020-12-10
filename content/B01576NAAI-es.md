@@ -22,6 +22,9 @@ Está [Apple Silicone Case - Bolsa iPad Mini 4  Color Naranja](https://www.amazo
 
 [![Apple Silicone Case - Bolsa iPad Mini 4 ](https://images-eu.ssl-images-amazon.com/images/I/31zb%2BCVF-jL._SL200_.jpg)](https://www.amazon.es/dp/B01576NAAI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01576NAAI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

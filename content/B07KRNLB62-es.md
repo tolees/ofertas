@@ -22,6 +22,9 @@ Tienes [Kappa Inspection  Zapatillas Unisex Adulto  Blanco  White/Blue 1060   42
 
 [![Kappa Inspection  Zapatillas Unisex Adul](https://images-eu.ssl-images-amazon.com/images/I/41zyHUL1vlL._SL200_.jpg)](https://www.amazon.es/dp/B07KRNLB62/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KRNLB62/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

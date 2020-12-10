@@ -22,6 +22,9 @@ Tienes [Panama Jack Amur GTX  Botas Clasicas para Hombre  Negro  Black C18   46 
 
 [![Panama Jack Amur GTX  Botas Clasicas par](https://images-eu.ssl-images-amazon.com/images/I/41BlGdK2NlL._SL200_.jpg)](https://www.amazon.es/dp/B07B9PBS5X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07B9PBS5X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

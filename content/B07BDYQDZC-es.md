@@ -22,6 +22,9 @@ Está [Dixan Detergente Líquido Aromaterapia Frescor Energizante - Pack de 4 - 
 
 [![Dixan Detergente Líquido Aromaterapia Fr](https://images-eu.ssl-images-amazon.com/images/I/41oStgbko6L._SL200_.jpg)](https://www.amazon.es/dp/B07BDYQDZC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BDYQDZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

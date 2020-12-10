@@ -22,6 +22,9 @@ Tienes [Jagermeister Jagermeister Licor 35º - 1000 ml](https://www.amazon.es/dp
 
 [![Jagermeister Jagermeister Licor 35º - 10](https://images-eu.ssl-images-amazon.com/images/I/41TlDu0aMrL._SL200_.jpg)](https://www.amazon.es/dp/B07MPR9VN8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MPR9VN8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

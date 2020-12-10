@@ -22,6 +22,9 @@ Está [New Balance MRZHLL1  Zapatillas Hombre  Multicolor  Bolt/black   43 EU](h
 
 [![New Balance MRZHLL1  Zapatillas Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41S3LLhxQ7L._SL200_.jpg)](https://www.amazon.es/dp/B01MXNYB6E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MXNYB6E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Targus Topload Prospect TBT258EU - Maletín para portátil hasta 17"  Co
 
 [![Targus Topload Prospect TBT258EU - Malet](https://images-eu.ssl-images-amazon.com/images/I/31glCS5FRxL._SL200_.jpg)](https://www.amazon.es/dp/B00TIBHHIU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TIBHHIU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

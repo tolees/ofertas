@@ -22,6 +22,9 @@ Está [Armor All 85500SPI Limpia Salpicaderos Aroma Limón 500 ML Eficaz para pl
 
 [![Armor All 85500SPI Limpia Salpicaderos A](https://images-eu.ssl-images-amazon.com/images/I/41kgqwd1UzL._SL200_.jpg)](https://www.amazon.es/dp/B071VKHRD8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071VKHRD8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

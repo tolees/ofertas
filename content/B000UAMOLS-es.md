@@ -22,6 +22,9 @@ Tienes [WMF Perfect - Olla Rápida  Acero Inoxidable  Diámetro 22 cm  Capacidad
 
 [![WMF Perfect - Olla Rápida  Acero Inoxida](https://images-eu.ssl-images-amazon.com/images/I/41RPzUwjHjL._SL200_.jpg)](https://www.amazon.es/dp/B000UAMOLS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000UAMOLS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

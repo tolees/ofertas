@@ -22,6 +22,9 @@ Tienes [Helly Hansen Hh Logo Crew Sweat  Hombre  Pepper Green  S](https://www.am
 
 [![Helly Hansen Hh Logo Crew Sweat  Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41LZ1ISn4zL._SL200_.jpg)](https://www.amazon.es/dp/B07F2Q9YX9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2Q9YX9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

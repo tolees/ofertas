@@ -22,6 +22,9 @@ Está [Adidas N-5923 J Zapatillas de Gimnasia Unisex Niños  Negro  Core Black/C
 
 [![Adidas N-5923 J Zapatillas de Gimnasia U](https://images-eu.ssl-images-amazon.com/images/I/41%2BPZWX1OLL._SL200_.jpg)](https://www.amazon.es/dp/B07K15Q9BL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K15Q9BL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

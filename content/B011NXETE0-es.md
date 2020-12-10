@@ -22,6 +22,9 @@ Ahora mismo tienes [BabyBjörn Balance soft - Hamaca  Gris Oscuro](https://www.a
 
 [![BabyBjörn Balance soft - Hamaca  Gris Os](https://images-eu.ssl-images-amazon.com/images/I/41usDkwg6zL._SL200_.jpg)](https://www.amazon.es/dp/B011NXETE0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B011NXETE0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

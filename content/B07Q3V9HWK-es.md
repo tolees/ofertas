@@ -22,6 +22,9 @@ Está [Receptor transmisor Bluetooth 5.0 Plus  Adaptador Bluetooth de Baja laten
 
 [![Receptor transmisor Bluetooth 5.0 Plus  ](https://images-eu.ssl-images-amazon.com/images/I/51g5%2BphPgNL._SL200_.jpg)](https://www.amazon.es/dp/B07Q3V9HWK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q3V9HWK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

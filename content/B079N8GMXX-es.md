@@ -22,6 +22,9 @@ Tienes [Aigostar Windmill 30KPW - Batidora americana de vaso  1000W  vaso de cri
 
 [![Aigostar Windmill 30KPW - Batidora ameri](https://images-eu.ssl-images-amazon.com/images/I/517b%2BMF5g1L._SL200_.jpg)](https://www.amazon.es/dp/B079N8GMXX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079N8GMXX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

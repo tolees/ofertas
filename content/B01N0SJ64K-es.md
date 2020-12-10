@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Ww 420 Noos  Pantalones para Hombre  Negro  Bla
 
 [![JACK & JONES Ww 420 Noos  Pantalones par](https://images-eu.ssl-images-amazon.com/images/I/31zDrCjtGtL._SL200_.jpg)](https://www.amazon.es/dp/B01N0SJ64K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N0SJ64K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

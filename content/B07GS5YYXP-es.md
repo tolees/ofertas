@@ -22,6 +22,9 @@ Tienes [XXL Set 3x250ml - Lubricante médico PlayGel"med + 2-in-1 + all-in-one" 
 
 [![XXL Set 3x250ml - Lubricante médico Play](https://images-eu.ssl-images-amazon.com/images/I/51euk49Zr2L._SL200_.jpg)](https://www.amazon.es/dp/B07GS5YYXP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GS5YYXP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

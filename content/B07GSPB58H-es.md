@@ -22,6 +22,9 @@ Ahora mismo tienes [LANGRIA Manta de Punto con Ondas y Flecos Muy Suave al Tacto
 
 [![LANGRIA Manta de Punto con Ondas y Fleco](https://images-eu.ssl-images-amazon.com/images/I/51uzG2yRrrL._SL200_.jpg)](https://www.amazon.es/dp/B07GSPB58H/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GSPB58H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

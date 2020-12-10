@@ -22,6 +22,9 @@ Está [Somat Gel Cápsulas Lavavajillas Limón 30 Dosis](https://www.amazon.es/d
 
 [![Somat Gel Cápsulas Lavavajillas Limón 30](https://images-eu.ssl-images-amazon.com/images/I/614G5KB9MnL._SL200_.jpg)](https://www.amazon.es/dp/B00X9VQRP4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00X9VQRP4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

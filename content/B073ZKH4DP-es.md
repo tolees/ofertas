@@ -22,6 +22,9 @@ Ahora mismo tienes [SELECTED FEMME Sfpana LS Knit O-Neck  suéter Mujer  Blanco 
 
 [![SELECTED FEMME Sfpana LS Knit O-Neck  su](https://images-eu.ssl-images-amazon.com/images/I/41vk%2BnuBIYL._SL200_.jpg)](https://www.amazon.es/dp/B073ZKH4DP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073ZKH4DP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

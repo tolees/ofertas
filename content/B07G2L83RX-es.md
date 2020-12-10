@@ -22,6 +22,9 @@ Ahora mismo tienes [Mandarina Duck - Hunter Minuteria  Carteras de mano Mujer  A
 
 [![Mandarina Duck - Hunter Minuteria  Carte](https://images-eu.ssl-images-amazon.com/images/I/41QvIuf2gGL._SL200_.jpg)](https://www.amazon.es/dp/B07G2L83RX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G2L83RX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

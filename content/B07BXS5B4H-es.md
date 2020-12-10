@@ -22,6 +22,9 @@ Está [EONO Essentials ABS Maleta Equipaje de Mano Cabina rígida Ligera con 4 R
 
 [![EONO Essentials ABS Maleta Equipaje de M](https://images-eu.ssl-images-amazon.com/images/I/41inCApXY9L._SL200_.jpg)](https://www.amazon.es/dp/B07BXS5B4H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BXS5B4H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

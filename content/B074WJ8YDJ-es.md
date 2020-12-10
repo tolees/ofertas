@@ -22,6 +22,9 @@ Está [Samsung Galaxy Note 8  Smartphone de 6.3"  4G  escáner de iris  Exynos 8
 
 [![Samsung Galaxy Note 8  Smartphone de 6.3](https://images-eu.ssl-images-amazon.com/images/I/31%2BXi7qWBoL._SL200_.jpg)](https://www.amazon.es/dp/B074WJ8YDJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074WJ8YDJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Barra de Sonido  MeihuaTu Altavoz de Audio Bluetooth Inalámbrico para T
 
 [![Barra de Sonido  MeihuaTu Altavoz de Aud](https://images-eu.ssl-images-amazon.com/images/I/51sV7oA2v-L._SL200_.jpg)](https://www.amazon.es/dp/B07KCB257Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KCB257Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

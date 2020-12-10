@@ -22,6 +22,9 @@ Ahora mismo tienes [Basix Consolador - 1151 gr](https://www.amazon.es/dp/B005C3W
 
 [![Basix Consolador - 1151 gr](https://images-eu.ssl-images-amazon.com/images/I/31W6dxCcwIL._SL200_.jpg)](https://www.amazon.es/dp/B005C3W0VW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B005C3W0VW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

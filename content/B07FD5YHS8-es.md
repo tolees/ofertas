@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Microburst-Tender Soul  Zapatillas sin Cordones par
 
 [![Skechers Microburst-Tender Soul  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41zQXBaGt5L._SL200_.jpg)](https://www.amazon.es/dp/B07FD5YHS8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FD5YHS8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

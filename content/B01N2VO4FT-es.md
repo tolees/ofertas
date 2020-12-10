@@ -22,6 +22,9 @@ Está [GUESS M64b29w80v0  Pantalones para Hombre  Grigio  Sweet Grey   46  Talla
 
 [![GUESS M64b29w80v0  Pantalones para Hombr](https://images-eu.ssl-images-amazon.com/images/I/31Z202JBuTL._SL200_.jpg)](https://www.amazon.es/dp/B01N2VO4FT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N2VO4FT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

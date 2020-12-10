@@ -22,6 +22,9 @@ Tienes [Telefonos Moviles Libres  DOOGEE X10S Dual Sim Android 8.1 Móviles y Sm
 
 [![Telefonos Moviles Libres  DOOGEE X10S Du](https://images-eu.ssl-images-amazon.com/images/I/41ieMV-HvzL._SL200_.jpg)](https://www.amazon.es/dp/B07MW4R4W6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MW4R4W6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

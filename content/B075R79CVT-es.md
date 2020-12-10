@@ -22,6 +22,9 @@ Está [New Balance 574v2  Zapatillas Hombre  Azul  Pigment/Munsell White Lpn   4
 
 [![New Balance 574v2  Zapatillas Hombre  Az](https://images-eu.ssl-images-amazon.com/images/I/41ePMS6ShzL._SL200_.jpg)](https://www.amazon.es/dp/B075R79CVT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075R79CVT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

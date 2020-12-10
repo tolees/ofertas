@@ -22,6 +22,9 @@ Está [Nike Air MAX 270  GS  - Zapatillas para Hombre  Multicolor  Wolf Grey/Tot
 
 [![Nike Air MAX 270  GS  - Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41CfKjLzvYL._SL200_.jpg)](https://www.amazon.es/dp/B07RGXRVHK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07RGXRVHK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

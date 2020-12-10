@@ -22,6 +22,9 @@ Tienes [Sony WISP600NP.CE7 - Auriculares deportivos inalámbricos  modo sonido a
 
 [![Sony WISP600NP.CE7 - Auriculares deporti](https://images-eu.ssl-images-amazon.com/images/I/31CNF7HaOAL._SL200_.jpg)](https://www.amazon.es/dp/B078VGLCHH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078VGLCHH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

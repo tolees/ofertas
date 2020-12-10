@@ -22,6 +22,9 @@ Está [homgeek  Tostadora  7 Niveles de Browning  850W  Funciones de descongelac
 
 [![homgeek  Tostadora  7 Niveles de Brownin](https://images-eu.ssl-images-amazon.com/images/I/41saOSTzwQL._SL200_.jpg)](https://www.amazon.es/dp/B07BQ1HZG2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BQ1HZG2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

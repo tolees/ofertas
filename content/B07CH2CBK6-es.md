@@ -22,6 +22,9 @@ Tienes [HZHY Cinturón Para Hombres  100% Cuero Genuino de Grano Completo Traje 
 
 [![HZHY Cinturón Para Hombres  100% Cuero G](https://images-eu.ssl-images-amazon.com/images/I/51d1zcs4PcL._SL200_.jpg)](https://www.amazon.es/dp/B07CH2CBK6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CH2CBK6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

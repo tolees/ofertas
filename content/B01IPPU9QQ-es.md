@@ -22,6 +22,9 @@ Está [adidas X PLR J 579  Zapatillas Unisex Adulto   Red Bb2579   36 EU](https:
 
 [![adidas X PLR J 579  Zapatillas Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/41p6FLl85QL._SL200_.jpg)](https://www.amazon.es/dp/B01IPPU9QQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IPPU9QQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

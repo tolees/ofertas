@@ -22,6 +22,9 @@ Está [INTEY Centrifugadora Ensalada  Centrifugadora de Lechugas  Diseño Refina
 
 [![INTEY Centrifugadora Ensalada  Centrifug](https://images-eu.ssl-images-amazon.com/images/I/41lrLZYR2QL._SL200_.jpg)](https://www.amazon.es/dp/B07CLG8QN4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CLG8QN4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

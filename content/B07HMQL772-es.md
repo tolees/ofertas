@@ -22,6 +22,9 @@ Ahora mismo tienes [Dohiker Mochila para niños Anti-perdido Infantil Animal de 
 
 [![Dohiker Mochila para niños Anti-perdido ](https://images-eu.ssl-images-amazon.com/images/I/41wzwDiX4WL._SL200_.jpg)](https://www.amazon.es/dp/B07HMQL772/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HMQL772/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

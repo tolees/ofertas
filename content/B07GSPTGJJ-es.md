@@ -22,6 +22,9 @@ Está [NIVEA Aceite en Loción Flor de cerezo & Aceite de Jojoba - 400 ml - 6 un
 
 [![NIVEA Aceite en Loción Flor de cerezo & ](https://images-eu.ssl-images-amazon.com/images/I/31dE0B4c-9L._SL200_.jpg)](https://www.amazon.es/dp/B07GSPTGJJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GSPTGJJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

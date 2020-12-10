@@ -22,6 +22,9 @@ Está [Puma Smash Wns Buckle  Zapatillas para Mujer  Rosa Bud-Bright Peach White
 
 [![Puma Smash Wns Buckle  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/41QeKLIP-JL._SL200_.jpg)](https://www.amazon.es/dp/B07DC24JY3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC24JY3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

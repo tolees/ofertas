@@ -22,6 +22,9 @@ Está [Fifty Shades Of Grey Toys Latigo Erotico - 500 gr](https://www.amazon.es/
 
 [![Fifty Shades Of Grey Toys Latigo Erotico](https://images-eu.ssl-images-amazon.com/images/I/41ViE061acL._SL200_.jpg)](https://www.amazon.es/dp/B00A2SNH50/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00A2SNH50/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

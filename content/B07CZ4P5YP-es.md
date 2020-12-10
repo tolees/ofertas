@@ -22,6 +22,9 @@ Está [G-STAR RAW Classic Trunk 3 Pack Bañador   Khaki Ao/Sage/Dk Black A411   
 
 [![G-STAR RAW Classic Trunk 3 Pack Bañador ](https://images-eu.ssl-images-amazon.com/images/I/41A1ZP%2Bn%2BWL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ4P5YP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ4P5YP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Trapa  Chocolate en Polvo - 350 gr](https://www.amazon.es/dp/B07QD9C69J/?
 
 [![Trapa  Chocolate en Polvo - 350 gr](https://images-eu.ssl-images-amazon.com/images/I/41juH-qlwOL._SL200_.jpg)](https://www.amazon.es/dp/B07QD9C69J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QD9C69J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

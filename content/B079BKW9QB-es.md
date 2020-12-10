@@ -22,6 +22,9 @@ Está [Homyl Detener Ladrido de Perros Ultrasonido Probado de Seguridad Portable
 
 [![Homyl Detener Ladrido de Perros Ultrason](https://images-eu.ssl-images-amazon.com/images/I/41pOyaG-zdL._SL200_.jpg)](https://www.amazon.es/dp/B079BKW9QB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079BKW9QB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

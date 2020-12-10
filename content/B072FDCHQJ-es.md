@@ -22,6 +22,9 @@ Tienes [Kappa Rookie Tex  Náuticos Unisex Niños  Azul  Navy/Orange 6744   39 E
 
 [![Kappa Rookie Tex  Náuticos Unisex Niños ](https://images-eu.ssl-images-amazon.com/images/I/516x4EZsNFL._SL200_.jpg)](https://www.amazon.es/dp/B072FDCHQJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072FDCHQJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

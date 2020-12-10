@@ -22,6 +22,9 @@ Tienes [ELINKUME G9 LED Lámpara 4W Blanco cálido  G9 Bombilla LED no regulable
 
 [![ELINKUME G9 LED Lámpara 4W Blanco cálido](https://images-eu.ssl-images-amazon.com/images/I/51YdS3QuazL._SL200_.jpg)](https://www.amazon.es/dp/B07H7FH1C3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H7FH1C3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

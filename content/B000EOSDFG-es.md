@@ -22,6 +22,9 @@ Tienes [TFA 40.2003 Neptun - Termómetro para piscinas](https://www.amazon.es/dp
 
 [![TFA 40.2003 Neptun - Termómetro para pis](https://images-eu.ssl-images-amazon.com/images/I/41kXjgYLNuL._SL200_.jpg)](https://www.amazon.es/dp/B000EOSDFG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000EOSDFG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

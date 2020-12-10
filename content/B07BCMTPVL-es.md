@@ -22,6 +22,9 @@ Está [Columbia Nelson Point Polo de Manga Corta  Hombre  Azul  Collegiate Navy 
 
 [![Columbia Nelson Point Polo de Manga Cort](https://images-eu.ssl-images-amazon.com/images/I/41fElOKcd4L._SL200_.jpg)](https://www.amazon.es/dp/B07BCMTPVL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BCMTPVL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

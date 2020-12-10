@@ -22,6 +22,9 @@ Tienes [Bomann VL 1139 S CB Ventilador de pie oscilante  40 cm  45 W  Metal  3 V
 
 [![Bomann VL 1139 S CB Ventilador de pie os](https://images-eu.ssl-images-amazon.com/images/I/31Y5--%2BktKL._SL200_.jpg)](https://www.amazon.es/dp/B00RGKV9FW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00RGKV9FW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

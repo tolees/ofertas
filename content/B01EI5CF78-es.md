@@ -22,6 +22,9 @@ Tienes [adidas Originals Gazelle  Zapatillas Casual Unisex Adulto  Negro Core Bl
 
 [![adidas Originals Gazelle  Zapatillas Cas](https://images-eu.ssl-images-amazon.com/images/I/41igAt3PLzL._SL200_.jpg)](https://www.amazon.es/dp/B01EI5CF78/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01EI5CF78/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

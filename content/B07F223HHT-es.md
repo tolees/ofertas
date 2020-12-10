@@ -22,6 +22,9 @@ Ahora mismo tienes [Vila Clothes Viventine Knit 7/8 Top/TB suéter  Gris Dark Gr
 
 [![Vila Clothes Viventine Knit 7/8 Top/TB s](https://images-eu.ssl-images-amazon.com/images/I/41w8bv7UDlL._SL200_.jpg)](https://www.amazon.es/dp/B07F223HHT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F223HHT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

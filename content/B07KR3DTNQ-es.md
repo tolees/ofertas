@@ -22,6 +22,9 @@ Está [RATEL Funda para Moto  Cubierta de la Motocicleta  Funda de Moto de Tela 
 
 [![RATEL Funda para Moto  Cubierta de la Mo](https://images-eu.ssl-images-amazon.com/images/I/41hA08PfXlL._SL200_.jpg)](https://www.amazon.es/dp/B07KR3DTNQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KR3DTNQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Osprey Raptor 10 Men s Hydration Pack with 2.5L HydraulicsTM LT Reservoir
 
 [![Osprey Raptor 10 Men s Hydration Pack wi](https://images-eu.ssl-images-amazon.com/images/I/413ni1MHieL._SL200_.jpg)](https://www.amazon.es/dp/B07GHP1GJ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GHP1GJ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Reebok Road Supreme  Zapatillas de Entrenamiento para Niñas  Rosa  Twis
 
 [![Reebok Road Supreme  Zapatillas de Entre](https://images-eu.ssl-images-amazon.com/images/I/41w2G2aS7kL._SL200_.jpg)](https://www.amazon.es/dp/B07D2NR3M9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D2NR3M9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

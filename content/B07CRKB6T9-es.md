@@ -22,6 +22,9 @@ Está [Puma Rise XT 3  Zapatillas de Deporte Interior Unisex Adults’o  Negro B
 
 [![Puma Rise XT 3  Zapatillas de Deporte In](https://images-eu.ssl-images-amazon.com/images/I/41RwhsQxo-L._SL200_.jpg)](https://www.amazon.es/dp/B07CRKB6T9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CRKB6T9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

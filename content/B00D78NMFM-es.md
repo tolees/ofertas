@@ -22,6 +22,9 @@ Tienes [S&M 94884 - Programador Estaciones Modelo Ultra 4 Zonas  Gris  6 5 x 23 
 
 [![S&M 94884 - Programador Estaciones Model](https://images-eu.ssl-images-amazon.com/images/I/41wBnToXICL._SL200_.jpg)](https://www.amazon.es/dp/B00D78NMFM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00D78NMFM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Derby E1 - Pack de 100 hojas en acero inoxidable](https://www.amazon.es/d
 
 [![Derby E1 - Pack de 100 hojas en acero in](https://images-eu.ssl-images-amazon.com/images/I/41-R9YHYqPL._SL200_.jpg)](https://www.amazon.es/dp/B004SGKMA0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004SGKMA0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [KEEPOW 3 Pack Mopas para Vileda Turbo 2 en 1  Recambios de Mopas Microfi
 
 [![KEEPOW 3 Pack Mopas para Vileda Turbo 2 ](https://images-eu.ssl-images-amazon.com/images/I/51nNRLcZFnL._SL200_.jpg)](https://www.amazon.es/dp/B07QJ95HKH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QJ95HKH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

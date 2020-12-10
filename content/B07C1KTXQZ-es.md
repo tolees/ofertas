@@ -22,6 +22,9 @@ Ahora mismo tienes [RecoverPad 8pcs 50x100mm Profesional TENS Electrodos 3rd Gel
 
 [![RecoverPad 8pcs 50x100mm Profesional TEN](https://images-eu.ssl-images-amazon.com/images/I/41TbByepQ3L._SL200_.jpg)](https://www.amazon.es/dp/B07C1KTXQZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C1KTXQZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

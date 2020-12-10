@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES PREMIUM JPRMARK KNIT CREW NECK NOOS  suéter Ho
 
 [![JACK & JONES PREMIUM JPRMARK KNIT CREW N](https://images-eu.ssl-images-amazon.com/images/I/31H8%2Bg0J11L._SL200_.jpg)](https://www.amazon.es/dp/B01J1C6CVI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01J1C6CVI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

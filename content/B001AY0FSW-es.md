@@ -22,6 +22,9 @@ Está [Tuscany Silver 8.24.6012 - Pulsera de plata de ley  925/1000 ](https://ww
 
 [![Tuscany Silver 8.24.6012 - Pulsera de pl](https://images-eu.ssl-images-amazon.com/images/I/31dJphuHH0L._SL200_.jpg)](https://www.amazon.es/dp/B001AY0FSW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001AY0FSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

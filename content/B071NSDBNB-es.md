@@ -22,6 +22,9 @@ Ahora mismo tienes [PIECES - Pcnadeen Leather Cross Body  Bolsos bandolera Mujer
 
 [![PIECES - Pcnadeen Leather Cross Body  Bo](https://images-eu.ssl-images-amazon.com/images/I/51QVn7U%2BXML._SL200_.jpg)](https://www.amazon.es/dp/B071NSDBNB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071NSDBNB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

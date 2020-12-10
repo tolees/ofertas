@@ -22,6 +22,9 @@ Ahora mismo tienes [Champion Low Cut Shoe 1980 PU  Zapatillas de Running para As
 
 [![Champion Low Cut Shoe 1980 PU  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/31VmOW2bX5L._SL200_.jpg)](https://www.amazon.es/dp/B07DCZ7BPV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DCZ7BPV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Globe Motley Mid  Zapatillas de Deporte para Hombre   Blue/Antique 000   
 
 [![Globe Motley Mid  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/418iSLMeUpL._SL200_.jpg)](https://www.amazon.es/dp/B079DDC6NX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079DDC6NX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

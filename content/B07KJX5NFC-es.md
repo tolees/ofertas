@@ -22,6 +22,9 @@ Tienes [U839 Mini Compact Orange 2.4 GHz 3D 6 Axis GYRO 4 Canales Quadcopter](ht
 
 [![U839 Mini Compact Orange 2.4 GHz 3D 6 Ax](https://images-eu.ssl-images-amazon.com/images/I/41mM0B9zBIL._SL200_.jpg)](https://www.amazon.es/dp/B07KJX5NFC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KJX5NFC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

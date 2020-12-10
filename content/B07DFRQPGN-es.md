@@ -22,6 +22,9 @@ Está [Puma Rebel Block FL cl Pants  Hombre  Peacoat  XL](https://www.amazon.es/
 
 [![Puma Rebel Block FL cl Pants  Hombre  Pe](https://images-eu.ssl-images-amazon.com/images/I/31rUut4eERL._SL200_.jpg)](https://www.amazon.es/dp/B07DFRQPGN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFRQPGN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

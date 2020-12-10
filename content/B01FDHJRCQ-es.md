@@ -22,6 +22,9 @@ Está [Optoma X340 Video - Proyector  3100 lúmenes ANSI  DLP  XGA  1024x768   4
 
 [![Optoma X340 Video - Proyector  3100 lúme](https://images-eu.ssl-images-amazon.com/images/I/419MUTU-aaL._SL200_.jpg)](https://www.amazon.es/dp/B01FDHJRCQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FDHJRCQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Thomas Sabo - Charm con Cierre para Mujer de Plata de Ley 925/1000 con Ci
 
 [![Thomas Sabo - Charm con Cierre para Muje](https://images-eu.ssl-images-amazon.com/images/I/41PdtoNuldL._SL200_.jpg)](https://www.amazon.es/dp/B00U2Q95DK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00U2Q95DK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Disney Juego de 2 botellas de agua Mickey y Minnie Mouse mirando Tritan 
 
 [![Disney Juego de 2 botellas de agua Micke](https://images-eu.ssl-images-amazon.com/images/I/41odGz3PSyL._SL200_.jpg)](https://www.amazon.es/dp/B0716LCN2H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0716LCN2H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

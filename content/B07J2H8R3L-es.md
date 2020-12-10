@@ -22,6 +22,9 @@ Ahora mismo tienes [FIND Slip On Alpargata  Azul Navy  45 EU](https://www.amazon
 
 [![FIND Slip On Alpargata  Azul Navy  45 EU](https://images-eu.ssl-images-amazon.com/images/I/31k0NQMO0PL._SL200_.jpg)](https://www.amazon.es/dp/B07J2H8R3L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07J2H8R3L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

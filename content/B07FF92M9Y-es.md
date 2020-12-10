@@ -22,6 +22,9 @@ Tienes [Bollé Beat Cascos  Unisex Adulto  Blanco  Mate montañas   61-63 cm](ht
 
 [![Bollé Beat Cascos  Unisex Adulto  Blanco](https://images-eu.ssl-images-amazon.com/images/I/417D%2BRg9-GL._SL200_.jpg)](https://www.amazon.es/dp/B07FF92M9Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FF92M9Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

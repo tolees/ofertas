@@ -22,6 +22,9 @@ Ahora mismo tienes [TwobeFit Bandas de Resistencia de la Cadera  Bandas de Ejerc
 
 [![TwobeFit Bandas de Resistencia de la Cad](https://images-eu.ssl-images-amazon.com/images/I/51A7f3WGQQL._SL200_.jpg)](https://www.amazon.es/dp/B07HQ7YWN9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HQ7YWN9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

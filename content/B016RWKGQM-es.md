@@ -22,6 +22,9 @@ Está [Trust Urban Aurus - Auriculares de botón in-ear impermeables  negro](htt
 
 [![Trust Urban Aurus - Auriculares de botón](https://images-eu.ssl-images-amazon.com/images/I/31t-uV4DBPL._SL200_.jpg)](https://www.amazon.es/dp/B016RWKGQM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016RWKGQM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

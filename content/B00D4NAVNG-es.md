@@ -22,6 +22,9 @@ Está [Beechfield - Gorra/Visera hombre/chico Media tejido de abeja transpirable
 
 [![Beechfield - Gorra/Visera hombre/chico M](https://images-eu.ssl-images-amazon.com/images/I/412KKAKhKOL._SL200_.jpg)](https://www.amazon.es/dp/B00D4NAVNG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00D4NAVNG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

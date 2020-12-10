@@ -22,6 +22,9 @@ Ahora mismo tienes [Dickies Original 874  Pantalones para Hombre  Azul  Dark Nav
 
 [![Dickies Original 874  Pantalones para Ho](https://images-eu.ssl-images-amazon.com/images/I/41hTLWu5VLL._SL200_.jpg)](https://www.amazon.es/dp/B008S99LUU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B008S99LUU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

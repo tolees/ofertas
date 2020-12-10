@@ -22,6 +22,9 @@ Está [Cortefiel Pantalone Bordeaux IT 44  ES 40 ](https://www.amazon.es/dp/B01I
 
 [![Cortefiel Pantalone Bordeaux IT 44  ES 4](https://images-eu.ssl-images-amazon.com/images/I/318B57Rt4OL._SL200_.jpg)](https://www.amazon.es/dp/B01IHR55U2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IHR55U2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

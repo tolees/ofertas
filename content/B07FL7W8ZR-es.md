@@ -22,6 +22,9 @@ Está [Superdry Orange Label Cotton Crew Suéter  Gris  Ash Grey Grit Zf1   Medi
 
 [![Superdry Orange Label Cotton Crew Suéter](https://images-eu.ssl-images-amazon.com/images/I/41U1EUdaHZL._SL200_.jpg)](https://www.amazon.es/dp/B07FL7W8ZR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FL7W8ZR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

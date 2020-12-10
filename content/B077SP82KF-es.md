@@ -22,6 +22,9 @@ Tienes [adidas Galaxy 4 m  Zapatillas de Entrenamiento para Hombre  Negro Core B
 
 [![adidas Galaxy 4 m  Zapatillas de Entrena](https://images-eu.ssl-images-amazon.com/images/I/41BoIzX9VhL._SL200_.jpg)](https://www.amazon.es/dp/B077SP82KF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077SP82KF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

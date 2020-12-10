@@ -22,6 +22,9 @@ Está [Izar 46270 Macho Mano Perfil Rosca Completa  HSS  3023  DIN 352  M16-2.00
 
 [![Izar 46270 Macho Mano Perfil Rosca Compl](https://images-eu.ssl-images-amazon.com/images/I/21oUTBPbv%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01HBYGK9C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HBYGK9C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

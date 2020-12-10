@@ -22,6 +22,9 @@ Tienes [Little Dutch-LD4628 Doudou  Color Rosa  Blanco  4628 ](https://www.amazo
 
 [![Little Dutch-LD4628 Doudou  Color Rosa  ](https://images-eu.ssl-images-amazon.com/images/I/41-99HyWGUL._SL200_.jpg)](https://www.amazon.es/dp/B079HD1G1L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079HD1G1L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

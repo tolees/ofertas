@@ -22,6 +22,9 @@ Está [LANGRIA Manta de Sofá y Cama de Microfibra de Poliéster  Suave  Cálida
 
 [![LANGRIA Manta de Sofá y Cama de Microfib](https://images-eu.ssl-images-amazon.com/images/I/41TDikv6JHL._SL200_.jpg)](https://www.amazon.es/dp/B01NCOXBWI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCOXBWI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

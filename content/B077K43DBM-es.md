@@ -22,6 +22,9 @@ Tienes [BQ Easy Go - Filamento PLA de 1.75 mm  100% PLA  resistente a la acetona
 
 [![BQ Easy Go - Filamento PLA de 1.75 mm  1](https://images-eu.ssl-images-amazon.com/images/I/41CHAipDGsL._SL200_.jpg)](https://www.amazon.es/dp/B077K43DBM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077K43DBM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

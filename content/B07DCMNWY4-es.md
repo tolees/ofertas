@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike Wmns Air Zoom Vomero 14  Zapatillas de Running para Muj
 
 [![Nike Wmns Air Zoom Vomero 14  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41smes%2BzywL._SL200_.jpg)](https://www.amazon.es/dp/B07DCMNWY4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DCMNWY4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

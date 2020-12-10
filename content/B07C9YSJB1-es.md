@@ -22,6 +22,9 @@ Ahora mismo tienes [Diadora - Vellón Hoodie FZ 5PALLE para Hombre ES XXL](https
 
 [![Diadora - Vellón Hoodie FZ 5PALLE para H](https://images-eu.ssl-images-amazon.com/images/I/31hac5qtMHL._SL200_.jpg)](https://www.amazon.es/dp/B07C9YSJB1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C9YSJB1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

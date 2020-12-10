@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics C740N4358  Zapatillas de Running Unisex niños  Azul  
 
 [![Asics C740N4358  Zapatillas de Running U](https://images-eu.ssl-images-amazon.com/images/I/51v0G2oSOlL._SL200_.jpg)](https://www.amazon.es/dp/B071HQDJFP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071HQDJFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

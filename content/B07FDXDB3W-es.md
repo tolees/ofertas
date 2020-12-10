@@ -22,6 +22,9 @@ Está [BLAVOR Cargador Solar Móvil 10000mAh Batería Externa Portátil Qi Power
 
 [![BLAVOR Cargador Solar Móvil 10000mAh Bat](https://images-eu.ssl-images-amazon.com/images/I/51oKK0y8icL._SL200_.jpg)](https://www.amazon.es/dp/B07FDXDB3W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDXDB3W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

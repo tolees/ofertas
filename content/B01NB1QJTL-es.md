@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Hi-Lite  Entrenadores para Mujer  Azul  Navy   41 E
 
 [![Skechers Hi-Lite  Entrenadores para Muje](https://images-eu.ssl-images-amazon.com/images/I/419GvYlBtZL._SL200_.jpg)](https://www.amazon.es/dp/B01NB1QJTL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01NB1QJTL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

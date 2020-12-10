@@ -22,6 +22,9 @@ Tienes [The North Face TNF - Chaquetas  Niños  Negro  TNF Black   M](https://ww
 
 [![The North Face TNF - Chaquetas  Niños  N](https://images-eu.ssl-images-amazon.com/images/I/41ECVNa9kLL._SL200_.jpg)](https://www.amazon.es/dp/B07BB54B8G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BB54B8G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Mesa de ping-pong de IFOYO de 1 8 m  4 piezas plegables  portátil  para
 
 [![Mesa de ping-pong de IFOYO de 1 8 m  4 p](https://images-eu.ssl-images-amazon.com/images/I/41MIrQUAE6L._SL200_.jpg)](https://www.amazon.es/dp/B077T4JSTV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077T4JSTV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

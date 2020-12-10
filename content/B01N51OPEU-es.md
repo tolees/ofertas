@@ -22,6 +22,9 @@ Está [Córdoba Jewels | Conjunto de Gargantilla y Pendientes en Plata de Ley 92
 
 [![Córdoba Jewels | Conjunto de Gargantilla](https://images-eu.ssl-images-amazon.com/images/I/41UXUFm2EqL._SL200_.jpg)](https://www.amazon.es/dp/B01N51OPEU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N51OPEU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

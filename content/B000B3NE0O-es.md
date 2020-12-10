@@ -22,6 +22,9 @@ Tienes [Etnies Kingpin - Zapatillas de skate para hombre  Negro  41](https://www
 
 [![Etnies Kingpin - Zapatillas de skate par](https://images-eu.ssl-images-amazon.com/images/I/41wrGsHfzRL._SL200_.jpg)](https://www.amazon.es/dp/B000B3NE0O/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000B3NE0O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

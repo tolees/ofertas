@@ -22,6 +22,9 @@ Está [RIRGI Cortapelos Profesional Hombre  Cortapelos y Recortador 10 en 1 Cort
 
 [![RIRGI Cortapelos Profesional Hombre  Cor](https://images-eu.ssl-images-amazon.com/images/I/51zD4irdhFL._SL200_.jpg)](https://www.amazon.es/dp/B07GRRMX3H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GRRMX3H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

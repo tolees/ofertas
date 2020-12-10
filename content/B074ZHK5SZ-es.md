@@ -22,6 +22,9 @@ Está [Unbox - Newbie s Adventure](https://www.amazon.es/dp/B074ZHK5SZ/?tag=tole
 
 [![Unbox - Newbie s Adventure](https://images-eu.ssl-images-amazon.com/images/I/51o0ueZnAVL._SL200_.jpg)](https://www.amazon.es/dp/B074ZHK5SZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074ZHK5SZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

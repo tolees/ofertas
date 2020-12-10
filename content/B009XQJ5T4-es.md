@@ -22,6 +22,9 @@ Tienes [Princess 01.103020.01.403 - Table Grill Fiësta   26 x 46 cm ](https://w
 
 [![Princess 01.103020.01.403 - Table Grill ](https://images-eu.ssl-images-amazon.com/images/I/416jDXoz2iL._SL200_.jpg)](https://www.amazon.es/dp/B009XQJ5T4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B009XQJ5T4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

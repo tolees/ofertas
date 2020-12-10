@@ -22,6 +22,9 @@ Está [Birkenstock Arran Men  Zapatillas Hommes  Noir  Aviator Aviation Black   
 
 [![Birkenstock Arran Men  Zapatillas Hommes](https://images-eu.ssl-images-amazon.com/images/I/31332yD4QIL._SL200_.jpg)](https://www.amazon.es/dp/B07G4XN35H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G4XN35H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Scalpers Basic Polo  Rojo  Burgundy 18033   Large  Tamaño d
 
 [![Scalpers Basic Polo  Rojo  Burgundy 1803](https://images-eu.ssl-images-amazon.com/images/I/31tSFcg4TSL._SL200_.jpg)](https://www.amazon.es/dp/B07NPGDV31/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NPGDV31/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

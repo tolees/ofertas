@@ -22,6 +22,9 @@ Tienes [Nike Wmns Court Royale  Zapatillas de Gimnasia Mujer  Blanco  White / Me
 
 [![Nike Wmns Court Royale  Zapatillas de Gi](https://images-eu.ssl-images-amazon.com/images/I/41PrTxx9UUL._SL200_.jpg)](https://www.amazon.es/dp/B00PZB2K70/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00PZB2K70/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [adidas Questar Tnd  Zapatillas para Hombre  Negro  Core Black/Footwear W
 
 [![adidas Questar Tnd  Zapatillas para Homb](https://images-eu.ssl-images-amazon.com/images/I/417GXTP%2B%2BFL._SL200_.jpg)](https://www.amazon.es/dp/B073RJS8VT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073RJS8VT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Transcend TS16GJMA524H JetMemory - Kit de memoria RAM de 16 GB para Apple
 
 [![Transcend TS16GJMA524H JetMemory - Kit d](https://images-eu.ssl-images-amazon.com/images/I/61OxmHa4HJL._SL200_.jpg)](https://www.amazon.es/dp/B00JIJU6E4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00JIJU6E4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Gre Y28 - Piscina infantil tubular Ø 160 x 40 cm](https://www.amazon.es
 
 [![Gre Y28 - Piscina infantil tubular Ø 160]()](https://www.amazon.es/dp/B00DYSKKJ6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DYSKKJ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

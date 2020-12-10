@@ -22,6 +22,9 @@ Tienes [TOPELEK Bandeja de Hielo PP+TPE Moldes para Cubitos de Hielo 14 Bandeja 
 
 [![TOPELEK Bandeja de Hielo PP+TPE Moldes p](https://images-eu.ssl-images-amazon.com/images/I/519il8BT78L._SL200_.jpg)](https://www.amazon.es/dp/B074QMNS7N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074QMNS7N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

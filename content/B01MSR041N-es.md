@@ -22,6 +22,9 @@ Tienes [HP 24ea – Monitor para PC Desktop  de 24’’  FHD  1920 x 1080 a 60 
 
 [![HP 24ea – Monitor para PC Desktop  de 24](https://images-eu.ssl-images-amazon.com/images/I/41tYrgWz7aL._SL200_.jpg)](https://www.amazon.es/dp/B01MSR041N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MSR041N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

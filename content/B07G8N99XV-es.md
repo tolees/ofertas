@@ -22,6 +22,9 @@ Tienes [Guess - Downtown Cool Cvrtbl Xbody Flp  Mujer  Multicolor  Turquoise   2
 
 [![Guess - Downtown Cool Cvrtbl Xbody Flp  ](https://images-eu.ssl-images-amazon.com/images/I/51T4DYXfnwL._SL200_.jpg)](https://www.amazon.es/dp/B07G8N99XV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G8N99XV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

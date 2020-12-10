@@ -22,6 +22,9 @@ Ahora mismo tienes [Tableta de escritura LCD 2 en 1 Funda de teléfono de 4.7 pu
 
 [![Tableta de escritura LCD 2 en 1 Funda de](https://images-eu.ssl-images-amazon.com/images/I/41ZiqByRJ8L._SL200_.jpg)](https://www.amazon.es/dp/B07P9ZQP4J/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07P9ZQP4J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

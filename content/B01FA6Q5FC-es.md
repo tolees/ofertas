@@ -22,6 +22,9 @@ Tienes [Angerella Traje de baño Monokinis Vintage 86s Pin Up Halter una Pieza S
 
 [![Angerella Traje de baño Monokinis Vintag](https://images-eu.ssl-images-amazon.com/images/I/41Trn42zbRL._SL200_.jpg)](https://www.amazon.es/dp/B01FA6Q5FC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FA6Q5FC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

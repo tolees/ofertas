@@ -22,6 +22,9 @@ Está [Armani Exchange 8nzp43  Pantalones Hombre  Gris  Magnet 1920   W28/L32  T
 
 [![Armani Exchange 8nzp43  Pantalones Hombr](https://images-eu.ssl-images-amazon.com/images/I/41mp371u2sL._SL200_.jpg)](https://www.amazon.es/dp/B07D3CY99Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D3CY99Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

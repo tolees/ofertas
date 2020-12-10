@@ -22,6 +22,9 @@ Tienes [Original Buff - Knitted & Polar Hat Solid Unisex Adulto  talla unica  co
 
 [![Original Buff - Knitted & Polar Hat Soli](https://images-eu.ssl-images-amazon.com/images/I/51MkHfOgsUL._SL200_.jpg)](https://www.amazon.es/dp/B01LQC71HK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LQC71HK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Twinzee Pro - Pelador Dual de Verduras en Juliana con Mango 
 
 [![Twinzee Pro - Pelador Dual de Verduras e](https://images-eu.ssl-images-amazon.com/images/I/41pB23yG1ZL._SL200_.jpg)](https://www.amazon.es/dp/B0164BLED0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0164BLED0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

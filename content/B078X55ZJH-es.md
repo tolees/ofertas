@@ -22,6 +22,9 @@ Está [Only Onljosephine Stripe C.s L/s Pullover Knt  suéter para Mujer   Night
 
 [![Only Onljosephine Stripe C.s L/s Pullove](https://images-eu.ssl-images-amazon.com/images/I/41UgXAIX4xL._SL200_.jpg)](https://www.amazon.es/dp/B078X55ZJH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078X55ZJH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

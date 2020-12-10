@@ -22,6 +22,9 @@ Ahora mismo tienes [LANGRIA Almohada Cervical con Capucha 6-en-1 Multiposición 
 
 [![LANGRIA Almohada Cervical con Capucha 6-](https://images-eu.ssl-images-amazon.com/images/I/41z2ndvOrnL._SL200_.jpg)](https://www.amazon.es/dp/B076ZHG76G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076ZHG76G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

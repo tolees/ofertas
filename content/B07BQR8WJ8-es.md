@@ -22,6 +22,9 @@ Ahora mismo tienes [hummel Slimmer Stadil Duo Oiled High  Zapatillas Altas Unise
 
 [![hummel Slimmer Stadil Duo Oiled High  Za](https://images-eu.ssl-images-amazon.com/images/I/410-xM6EV9L._SL200_.jpg)](https://www.amazon.es/dp/B07BQR8WJ8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BQR8WJ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

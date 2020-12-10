@@ -22,6 +22,9 @@ Ahora mismo tienes [WMF KULT X - Batidora  Batidora de mano  1 m  Botones  Amasa
 
 [![WMF KULT X - Batidora  Batidora de mano ](https://images-eu.ssl-images-amazon.com/images/I/31bPe1SzQFL._SL200_.jpg)](https://www.amazon.es/dp/B077PJH9V3/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077PJH9V3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

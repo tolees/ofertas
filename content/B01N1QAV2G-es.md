@@ -22,6 +22,9 @@ Está [Reef Rover Low  Zapatillas para Mujer  Gris  Bungee UNE   35 EU](https://
 
 [![Reef Rover Low  Zapatillas para Mujer  G](https://images-eu.ssl-images-amazon.com/images/I/41mBkkyGosL._SL200_.jpg)](https://www.amazon.es/dp/B01N1QAV2G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N1QAV2G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

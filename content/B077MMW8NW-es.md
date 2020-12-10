@@ -22,6 +22,9 @@ Está [Puma Urban Plus SD  Zapatillas Unisex Adults’o  Azul  Peacoat White   4
 
 [![Puma Urban Plus SD  Zapatillas Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/41c7f6qLk2L._SL200_.jpg)](https://www.amazon.es/dp/B077MMW8NW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077MMW8NW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Columbia Men s Silver Shorts Cargo  Hombre  Beige  Tusk   30](https://www
 
 [![Columbia Men s Silver Shorts Cargo  Homb](https://images-eu.ssl-images-amazon.com/images/I/41TyHYAheTL._SL200_.jpg)](https://www.amazon.es/dp/B0058YXPY6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0058YXPY6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

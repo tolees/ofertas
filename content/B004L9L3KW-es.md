@@ -22,6 +22,9 @@ Está [simplehuman 40L Slim Plastic Pedal Bin  Plateado  40 L](https://www.amazo
 
 [![simplehuman 40L Slim Plastic Pedal Bin  ](https://images-eu.ssl-images-amazon.com/images/I/31hpj7513cL._SL200_.jpg)](https://www.amazon.es/dp/B004L9L3KW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004L9L3KW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

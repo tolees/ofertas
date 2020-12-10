@@ -22,6 +22,9 @@ Está [POLO NOX NILY BLANCO](https://www.amazon.es/dp/B077N5PPT6/?tag=tolees-21)
 
 [![POLO NOX NILY BLANCO](https://images-eu.ssl-images-amazon.com/images/I/31PHYmMbdmL._SL200_.jpg)](https://www.amazon.es/dp/B077N5PPT6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077N5PPT6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

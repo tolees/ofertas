@@ -22,6 +22,9 @@ Tienes [Raqueta de tenis junior  bastidor de aluminio de carbono de 19.7 Inch Ra
 
 [![Raqueta de tenis junior  bastidor de alu](https://images-eu.ssl-images-amazon.com/images/I/41TXt6T70PL._SL200_.jpg)](https://www.amazon.es/dp/B07GZTL2VK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GZTL2VK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

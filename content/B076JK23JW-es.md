@@ -22,6 +22,9 @@ Tienes [Astor Soft Sentation Color & Care Barra de Labios](https://www.amazon.es
 
 [![Astor Soft Sentation Color & Care Barra ](https://images-eu.ssl-images-amazon.com/images/I/31PoNkDm5nL._SL200_.jpg)](https://www.amazon.es/dp/B076JK23JW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076JK23JW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

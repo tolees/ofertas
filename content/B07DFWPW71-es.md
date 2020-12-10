@@ -22,6 +22,9 @@ Tienes [Lenovo 120S-11IAP - Ordenador portátil 11.6" HD  Intel Celeron N3350  2
 
 [![Lenovo 120S-11IAP - Ordenador portátil 1](https://images-eu.ssl-images-amazon.com/images/I/4199kEXKbRL._SL200_.jpg)](https://www.amazon.es/dp/B07DFWPW71/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DFWPW71/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Mandil de Soldador Premium de Cuero Protector para Hombre. Delantal de He
 
 [![Mandil de Soldador Premium de Cuero Prot](https://images-eu.ssl-images-amazon.com/images/I/41dVLKIAsFL._SL200_.jpg)](https://www.amazon.es/dp/B00RJWR10O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00RJWR10O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Apple Funda Silicone Case  para el iPhone 6s  -  PRODUCT RED](https://ww
 
 [![Apple Funda Silicone Case  para el iPhon](https://images-eu.ssl-images-amazon.com/images/I/31N%2B6GYpFiL._SL200_.jpg)](https://www.amazon.es/dp/B0159SZA6G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0159SZA6G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Diadora - Zapatillas de Deporte Game L Low Waxed para Hombre
 
 [![Diadora - Zapatillas de Deporte Game L L](https://images-eu.ssl-images-amazon.com/images/I/41uIzCHb-nL._SL200_.jpg)](https://www.amazon.es/dp/B00UTYBD2Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00UTYBD2Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

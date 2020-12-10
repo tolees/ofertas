@@ -22,6 +22,9 @@ Está [TACKLIFE Encendedor - ELY07 220mAh Mechero Eléctrico Cocina Recargable  
 
 [![TACKLIFE Encendedor - ELY07 220mAh Meche](https://images-eu.ssl-images-amazon.com/images/I/418Yu5dALiL._SL200_.jpg)](https://www.amazon.es/dp/B07F156SKF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F156SKF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

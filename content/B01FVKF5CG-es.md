@@ -22,6 +22,9 @@ Tienes [Hoover IronJet TIM2500EU TIM2500EU-Plancha A Vapor  Potencia 0 3 litros-
 
 [![Hoover IronJet TIM2500EU TIM2500EU-Planc](https://images-eu.ssl-images-amazon.com/images/I/41ZtqQV5NmL._SL200_.jpg)](https://www.amazon.es/dp/B01FVKF5CG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FVKF5CG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

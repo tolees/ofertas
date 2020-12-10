@@ -22,6 +22,9 @@ Tienes [Samsung ET-FT700CTEGWW - Protector de Pantalla Galaxy Tab S 8.4"](https:
 
 [![Samsung ET-FT700CTEGWW - Protector de Pa](https://images-eu.ssl-images-amazon.com/images/I/31EaDn%2BWBpL._SL200_.jpg)](https://www.amazon.es/dp/B00L7S3X8A/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00L7S3X8A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

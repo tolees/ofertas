@@ -22,6 +22,9 @@ Está [Draper 32667 - Comprobador de corriente para coches  6 a 24 v CC ](https:
 
 [![Draper 32667 - Comprobador de corriente ](https://images-eu.ssl-images-amazon.com/images/I/411GNFa5m1L._SL200_.jpg)](https://www.amazon.es/dp/B00HE9I1RY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00HE9I1RY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

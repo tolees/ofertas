@@ -22,6 +22,9 @@ Está [Lee L706AA36 - Pantalones para hombre  Azul  Rinse   W28 / L32  ES 36 ](h
 
 [![Lee L706AA36 - Pantalones para hombre  A](https://images-eu.ssl-images-amazon.com/images/I/31vRCLABeBL._SL200_.jpg)](https://www.amazon.es/dp/B00N1PKNZI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00N1PKNZI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

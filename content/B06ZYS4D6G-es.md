@@ -22,6 +22,9 @@ Está [YEMA Casco Motocross Niño ECE Homologado YM-211 Casco de Moto Infantil C
 
 [![YEMA Casco Motocross Niño ECE Homologado](https://images-eu.ssl-images-amazon.com/images/I/51M77Kj5L9L._SL200_.jpg)](https://www.amazon.es/dp/B06ZYS4D6G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06ZYS4D6G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

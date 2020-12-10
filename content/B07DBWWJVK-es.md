@@ -22,6 +22,9 @@ Está [Puma AVID Fusefit  Zapatillas Unisex Adulto  Negro Black White  45 EU](ht
 
 [![Puma AVID Fusefit  Zapatillas Unisex Adu](https://images-eu.ssl-images-amazon.com/images/I/41Mr6vmjF7L._SL200_.jpg)](https://www.amazon.es/dp/B07DBWWJVK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DBWWJVK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

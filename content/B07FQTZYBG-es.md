@@ -22,6 +22,9 @@ Está [Clarks Glove Puppet  Mocasines para Mujer  Beige  Nude Suede-   37 EU](ht
 
 [![Clarks Glove Puppet  Mocasines para Muje](https://images-eu.ssl-images-amazon.com/images/I/31xRJpAvy3L._SL200_.jpg)](https://www.amazon.es/dp/B07FQTZYBG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FQTZYBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

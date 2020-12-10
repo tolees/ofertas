@@ -22,6 +22,9 @@ Está [Vans WM Atwood  Zapatillas para Mujer  Verde  Canvas   36 EU](https://www
 
 [![Vans WM Atwood  Zapatillas para Mujer  V](https://images-eu.ssl-images-amazon.com/images/I/41BuS8zMHtL._SL200_.jpg)](https://www.amazon.es/dp/B01MSH9A3E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MSH9A3E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

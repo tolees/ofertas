@@ -22,6 +22,9 @@ Está [ValueHall Broca Escalonada 3 Piezas Paso Taladro  4-12mm  4-20mm y 4-32mm
 
 [![ValueHall Broca Escalonada 3 Piezas Paso](https://images-eu.ssl-images-amazon.com/images/I/4166GKyC%2BhL._SL200_.jpg)](https://www.amazon.es/dp/B07CSNFCTT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CSNFCTT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

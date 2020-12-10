@@ -22,6 +22,9 @@ Está [Medion Erazer X57425 - Monitor gaming curvo de 68.6 cm  27"  Full HD  HDM
 
 [![Medion Erazer X57425 - Monitor gaming cu](https://images-eu.ssl-images-amazon.com/images/I/31-6aSzrNcL._SL200_.jpg)](https://www.amazon.es/dp/B06XCT3H1K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XCT3H1K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

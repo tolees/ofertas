@@ -22,6 +22,9 @@ Está [Caja de Luz LED Regulable SIKIWIND A4 Tableros de Dibujo de Seguimiento U
 
 [![Caja de Luz LED Regulable SIKIWIND A4 Ta](https://images-eu.ssl-images-amazon.com/images/I/41A51HTrXvL._SL200_.jpg)](https://www.amazon.es/dp/B079NRPDDP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079NRPDDP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

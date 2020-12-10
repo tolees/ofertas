@@ -22,6 +22,9 @@ Está [Donix Vibrador Mujer de 27 Modos de Silicona Impermeable para Masaje y Re
 
 [![Donix Vibrador Mujer de 27 Modos de Sili](https://images-eu.ssl-images-amazon.com/images/I/413FhninloL._SL200_.jpg)](https://www.amazon.es/dp/B07GVKQMKJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GVKQMKJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

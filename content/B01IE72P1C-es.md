@@ -22,6 +22,9 @@ Ahora mismo tienes [Etnies Fader - Zapatillas para Hombre  Blanco  White/Gum 104
 
 [![Etnies Fader - Zapatillas para Hombre  B](https://images-eu.ssl-images-amazon.com/images/I/413lY-5tUlL._SL200_.jpg)](https://www.amazon.es/dp/B01IE72P1C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01IE72P1C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

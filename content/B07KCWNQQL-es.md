@@ -22,6 +22,9 @@ Está [Hurley M Icon Stretch Chino 19  Bermudas  Hombre  Khaki  38](https://www.
 
 [![Hurley M Icon Stretch Chino 19  Bermudas](https://images-eu.ssl-images-amazon.com/images/I/41VMoUJ6vcL._SL200_.jpg)](https://www.amazon.es/dp/B07KCWNQQL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCWNQQL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

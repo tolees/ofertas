@@ -22,6 +22,9 @@ Está [992/5000 Kealive Nose Hair Trimmer  Removedor de cabello en la nariz  Ear
 
 [![992/5000 Kealive Nose Hair Trimmer  Remo](https://images-eu.ssl-images-amazon.com/images/I/41R552Zz-jL._SL200_.jpg)](https://www.amazon.es/dp/B07D3N6VY9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D3N6VY9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

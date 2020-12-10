@@ -22,6 +22,9 @@ Está [New Balance 247v1  Zapatillas para Mujer  Rojo  NB Scarlet/Gold HC   40.5
 
 [![New Balance 247v1  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41vHDnEYS4L._SL200_.jpg)](https://www.amazon.es/dp/B07DFQYXMB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFQYXMB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

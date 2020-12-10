@@ -22,6 +22,9 @@ Tienes [MTNG Attitude 84091  Zapatillas para Hombre   Vertigo Jakmesh Negro C427
 
 [![MTNG Attitude 84091  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41SUfkA8JsL._SL200_.jpg)](https://www.amazon.es/dp/B07DQTQS86/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DQTQS86/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

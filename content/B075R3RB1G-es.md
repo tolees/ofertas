@@ -22,6 +22,9 @@ Está [New Balance Fuel Core Sonic v2  Zapatillas de Running para Mujer  Naranja
 
 [![New Balance Fuel Core Sonic v2  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41lCj-3OfkL._SL200_.jpg)](https://www.amazon.es/dp/B075R3RB1G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075R3RB1G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

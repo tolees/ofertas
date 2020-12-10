@@ -22,6 +22,9 @@ Está [L Oréal Paris Colorista Coloración Temporal Colorista Washout - Blue Ha
 
 [![L Oréal Paris Colorista Coloración Tempo](https://images-eu.ssl-images-amazon.com/images/I/41D8hz67UUL._SL200_.jpg)](https://www.amazon.es/dp/B01NB8QR7T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NB8QR7T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

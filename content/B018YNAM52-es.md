@@ -22,6 +22,9 @@ Está [Wilson  Raqueta de tenis para niños  Burn Pink 23  Rosa/Negro  Para niñ
 
 [![Wilson  Raqueta de tenis para niños  Bur](https://images-eu.ssl-images-amazon.com/images/I/41Q8M2OQPaL._SL200_.jpg)](https://www.amazon.es/dp/B018YNAM52/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B018YNAM52/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

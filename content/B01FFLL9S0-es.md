@@ -22,6 +22,9 @@ Está [OxyLED SL01 Foco LED Solar para Exterior Luz LED de Jardín Lámpara Gira
 
 [![OxyLED SL01 Foco LED Solar para Exterior](https://images-eu.ssl-images-amazon.com/images/I/41Cdv9cJiUL._SL200_.jpg)](https://www.amazon.es/dp/B01FFLL9S0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FFLL9S0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Advanced ShareMe Tech Auriculares  Mixcder Auriculares Over-
 
 [![Advanced ShareMe Tech Auriculares  Mixcd](https://images-eu.ssl-images-amazon.com/images/I/41kWxttvaCL._SL200_.jpg)](https://www.amazon.es/dp/B01LMY4RMO/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LMY4RMO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

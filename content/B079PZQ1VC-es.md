@@ -22,6 +22,9 @@ Ahora mismo tienes [Funko Pop!- Marvel: Avengers Infinity War Figura de Vinilo  
 
 [![Funko Pop!- Marvel: Avengers Infinity Wa](https://images-eu.ssl-images-amazon.com/images/I/41AXrqMUQYL._SL200_.jpg)](https://www.amazon.es/dp/B079PZQ1VC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079PZQ1VC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

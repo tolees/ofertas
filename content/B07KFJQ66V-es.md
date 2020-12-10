@@ -22,6 +22,9 @@ Está [G-STAR RAW Dunda Slim Polo S\\s  white 110  Large para Hombre](https://ww
 
 [![G-STAR RAW Dunda Slim Polo S\\s  white 1](https://images-eu.ssl-images-amazon.com/images/I/31TnzO95CbL._SL200_.jpg)](https://www.amazon.es/dp/B07KFJQ66V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KFJQ66V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

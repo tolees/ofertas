@@ -22,6 +22,9 @@ Está [Pelepas Vibrador con Control Remoto 12 Frecuencias Vibrador Sexual Mujer 
 
 [![Pelepas Vibrador con Control Remoto 12 F](https://images-eu.ssl-images-amazon.com/images/I/516RnLgF80L._SL200_.jpg)](https://www.amazon.es/dp/B07CWQMF36/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CWQMF36/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Hybrid NX  Zapatillas de Running para Hombre  Azul  Peacoat-High Ris
 
 [![Puma Hybrid NX  Zapatillas de Running pa](https://images-eu.ssl-images-amazon.com/images/I/41HBvCQcOKL._SL200_.jpg)](https://www.amazon.es/dp/B07DBZLBLZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DBZLBLZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

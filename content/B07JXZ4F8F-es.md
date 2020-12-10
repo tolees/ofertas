@@ -22,6 +22,9 @@ Está [ZEROVIDA Respaldo Masaje Shiatsu 3D Masajeador de Espalda Asiento Masajea
 
 [![ZEROVIDA Respaldo Masaje Shiatsu 3D Masa](https://images-eu.ssl-images-amazon.com/images/I/41Qj9eWrvnL._SL200_.jpg)](https://www.amazon.es/dp/B07JXZ4F8F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JXZ4F8F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Auriculares Bluetooth  Funcl AI Auriculares Inalámbricos Bl
 
 [![Auriculares Bluetooth  Funcl AI Auricula](https://images-eu.ssl-images-amazon.com/images/I/31ope8WV0YL._SL200_.jpg)](https://www.amazon.es/dp/B07MFX9H1Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MFX9H1Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

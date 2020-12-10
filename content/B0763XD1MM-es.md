@@ -22,6 +22,9 @@ Ahora mismo tienes [Funko Pop!- The Walking Dead Richard Figura de Vinilo  25203
 
 [![Funko Pop!- The Walking Dead Richard Fig](https://images-eu.ssl-images-amazon.com/images/I/41vhD6KTt7L._SL200_.jpg)](https://www.amazon.es/dp/B0763XD1MM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0763XD1MM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

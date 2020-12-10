@@ -22,6 +22,9 @@ Ahora mismo tienes [Hoidokly Auriculares Bluetooth 4.1 Cascos Inalámbricos Depo
 
 [![Hoidokly Auriculares Bluetooth 4.1 Casco](https://images-eu.ssl-images-amazon.com/images/I/41L-HEqvXKL._SL200_.jpg)](https://www.amazon.es/dp/B07GN4L3PK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GN4L3PK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

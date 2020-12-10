@@ -22,6 +22,9 @@ Está [adidas Swivel Push Ups Barras](https://www.amazon.es/dp/B003ULP8L2/?tag=t
 
 [![adidas Swivel Push Ups Barras](https://images-eu.ssl-images-amazon.com/images/I/41nubhF%2BJBL._SL200_.jpg)](https://www.amazon.es/dp/B003ULP8L2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B003ULP8L2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

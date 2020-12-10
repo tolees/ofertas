@@ -22,6 +22,9 @@ Está [New Balance Fuel Core Coast v4  Zapatillas de Running para Mujer  Azul  G
 
 [![New Balance Fuel Core Coast v4  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41aayM54fjL._SL200_.jpg)](https://www.amazon.es/dp/B075R7N3HP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075R7N3HP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

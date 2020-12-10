@@ -22,6 +22,9 @@ Ahora mismo tienes [Trust Urban Primo - Altavoz inalámbrico con Bluetooth  Colo
 
 [![Trust Urban Primo - Altavoz inalámbrico ](https://images-eu.ssl-images-amazon.com/images/I/41VoKgx82rL._SL200_.jpg)](https://www.amazon.es/dp/B07BHCXP1Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BHCXP1Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [DC Shoes Harpoon V Botas Clasicas Hombre  Beige  Tan - Solid   45 EU](ht
 
 [![DC Shoes Harpoon V Botas Clasicas Hombre](https://images-eu.ssl-images-amazon.com/images/I/41u0obPfcsL._SL200_.jpg)](https://www.amazon.es/dp/B071J4WZHG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071J4WZHG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

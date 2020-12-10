@@ -22,6 +22,9 @@ Tienes [The North Face Kids TNF Sudaderas  Niños  TNF Black  M](https://www.ama
 
 [![The North Face Kids TNF Sudaderas  Niños](https://images-eu.ssl-images-amazon.com/images/I/411PHRI%2BxIL._SL200_.jpg)](https://www.amazon.es/dp/B07FP3F5GJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FP3F5GJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

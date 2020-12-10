@@ -22,6 +22,9 @@ Está [JACK & JONES Jorantwon Sweat Hood Capucha  Gris  Light Grey Melange Fit: 
 
 [![JACK & JONES Jorantwon Sweat Hood Capuch](https://images-eu.ssl-images-amazon.com/images/I/41DFuiUOpSL._SL200_.jpg)](https://www.amazon.es/dp/B07K4WF5PZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K4WF5PZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Future 2.3 Netfit FG/AG  Zapatillas de Fútbol para Hombre  Negro Bl
 
 [![Puma Future 2.3 Netfit FG/AG  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41MbeBpqbpL._SL200_.jpg)](https://www.amazon.es/dp/B07D9TMPGK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9TMPGK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

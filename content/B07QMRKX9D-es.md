@@ -22,6 +22,9 @@ Está [AL OFA Restricciones de cama con cómodos Muñeca y Tobillo Cuffs Strap K
 
 [![AL OFA Restricciones de cama con cómodos](https://images-eu.ssl-images-amazon.com/images/I/51ZVpDatQaL._SL200_.jpg)](https://www.amazon.es/dp/B07QMRKX9D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QMRKX9D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

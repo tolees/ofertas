@@ -22,6 +22,9 @@ Está [OCDAY Autoradio Bluetooth Apoyo de Reproductor MP3  Llamadas Manos Libres
 
 [![OCDAY Autoradio Bluetooth Apoyo de Repro](https://images-eu.ssl-images-amazon.com/images/I/51vOUT2eZ3L._SL200_.jpg)](https://www.amazon.es/dp/B07G7B8ZGY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G7B8ZGY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

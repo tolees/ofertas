@@ -22,6 +22,9 @@ Está [Kelme Flamenco  Zapatillas de fútbol Sala para Hombre   Blanco Y Rojo 14
 
 [![Kelme Flamenco  Zapatillas de fútbol Sal](https://images-eu.ssl-images-amazon.com/images/I/217dOAe5CML._SL200_.jpg)](https://www.amazon.es/dp/B07C4W3BQ8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C4W3BQ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

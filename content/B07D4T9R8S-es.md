@@ -22,6 +22,9 @@ Está [Kappa Moxie  Zapatillas Unisex Adulto  Blanco  White 1010   46 EU](https:
 
 [![Kappa Moxie  Zapatillas Unisex Adulto  B](https://images-eu.ssl-images-amazon.com/images/I/4169YI-0vUL._SL200_.jpg)](https://www.amazon.es/dp/B07D4T9R8S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D4T9R8S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

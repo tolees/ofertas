@@ -22,6 +22,9 @@ Está [Draper 12400 - Guía para afilar  3-67 mm ](https://www.amazon.es/dp/B000
 
 [![Draper 12400 - Guía para afilar  3-67 mm](https://images-eu.ssl-images-amazon.com/images/I/41ZnyDSAshL._SL200_.jpg)](https://www.amazon.es/dp/B0001K9OMY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0001K9OMY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

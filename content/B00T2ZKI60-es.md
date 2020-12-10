@@ -22,6 +22,9 @@ Ahora mismo tienes [Lässig Schwimmshirt Mix and Match Short Sleeve Rashguard Su
 
 [![Lässig Schwimmshirt Mix and Match Short ](https://images-eu.ssl-images-amazon.com/images/I/31CCljq1kNL._SL200_.jpg)](https://www.amazon.es/dp/B00T2ZKI60/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00T2ZKI60/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

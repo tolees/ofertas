@@ -22,6 +22,9 @@ Está [Pepe Jeans Thrasher Sparks Bañador  Azul  Denim 000   W25  Talla del Fab
 
 [![Pepe Jeans Thrasher Sparks Bañador  Azul](https://images-eu.ssl-images-amazon.com/images/I/41bgGZD8gdL._SL200_.jpg)](https://www.amazon.es/dp/B07NC7SQ2N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NC7SQ2N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

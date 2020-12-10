@@ -22,6 +22,9 @@ Está [Homyl 1 Pieza de Sombrero Gorra de Algodon Suministros de Deportes de Fut
 
 [![Homyl 1 Pieza de Sombrero Gorra de Algod](https://images-eu.ssl-images-amazon.com/images/I/31ECLZ-IMeL._SL200_.jpg)](https://www.amazon.es/dp/B07CGLMRTK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CGLMRTK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

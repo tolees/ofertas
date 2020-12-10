@@ -22,6 +22,9 @@ Está [Wrangler Double Loop Cinturón  Negro  Black 01   No No Aplica  Talla del
 
 [![Wrangler Double Loop Cinturón  Negro  Bl](https://images-eu.ssl-images-amazon.com/images/I/41lAuyG-V0L._SL200_.jpg)](https://www.amazon.es/dp/B07DHY7B5P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DHY7B5P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

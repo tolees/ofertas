@@ -22,6 +22,9 @@ Tienes [Asics Aaron  Zapatillas para Hombre  Gris  Dark Taupe/Sandstorm 250   43
 
 [![Asics Aaron  Zapatillas para Hombre  Gri](https://images-eu.ssl-images-amazon.com/images/I/41O128UWs-L._SL200_.jpg)](https://www.amazon.es/dp/B07D1MQ8F8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D1MQ8F8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

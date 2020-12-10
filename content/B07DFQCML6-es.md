@@ -22,6 +22,9 @@ Está [Puma A.C.E. Slogan Tank Top  Mujer  Laurel Wreath  S](https://www.amazon.
 
 [![Puma A.C.E. Slogan Tank Top  Mujer  Laur](https://images-eu.ssl-images-amazon.com/images/I/41TJnxZHMaL._SL200_.jpg)](https://www.amazon.es/dp/B07DFQCML6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFQCML6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

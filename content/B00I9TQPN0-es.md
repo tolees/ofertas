@@ -22,6 +22,9 @@ Tienes [Fotima FTF-160 - Kit estudio flash  2 x 160 W](https://www.amazon.es/dp/
 
 [![Fotima FTF-160 - Kit estudio flash  2 x ](https://images-eu.ssl-images-amazon.com/images/I/41aV32L0eIL._SL200_.jpg)](https://www.amazon.es/dp/B00I9TQPN0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I9TQPN0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

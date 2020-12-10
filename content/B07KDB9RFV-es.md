@@ -22,6 +22,9 @@ Está [adidas Convertible 3 Stripes Duffel Bag S Womens Graphic  Unisex Adulto  
 
 [![adidas Convertible 3 Stripes Duffel Bag ](https://images-eu.ssl-images-amazon.com/images/I/419JKPlIJ%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07KDB9RFV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KDB9RFV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

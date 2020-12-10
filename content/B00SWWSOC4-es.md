@@ -22,6 +22,9 @@ Está [Nike Air Zoom Vomero 14  Zapatillas de Running para Hombre  Rojo  Red Orb
 
 [![Nike Air Zoom Vomero 14  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/41ZafCXXivL._SL200_.jpg)](https://www.amazon.es/dp/B00SWWSOC4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00SWWSOC4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

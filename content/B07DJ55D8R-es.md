@@ -22,6 +22,9 @@ Está [Asics Gel-Quest FF  Zapatillas de Running para Mujer  Azul  Soft Sky/Whit
 
 [![Asics Gel-Quest FF  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41HatiDE5TL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ55D8R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ55D8R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

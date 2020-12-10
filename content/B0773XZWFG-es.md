@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas NMD_R1 STLT PK  Zapatillas para Hombre  Negro  Core B
 
 [![adidas NMD_R1 STLT PK  Zapatillas para H](https://images-eu.ssl-images-amazon.com/images/I/51KlymZaDIL._SL200_.jpg)](https://www.amazon.es/dp/B0773XZWFG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0773XZWFG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

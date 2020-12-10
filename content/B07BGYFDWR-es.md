@@ -22,6 +22,9 @@ Está [FITTOO Mallas Leggings 3/4 Mujer Yoga de Alta Cintura Elásticos y Transp
 
 [![FITTOO Mallas Leggings 3/4 Mujer Yoga de](https://images-eu.ssl-images-amazon.com/images/I/41wJYYg4b-L._SL200_.jpg)](https://www.amazon.es/dp/B07BGYFDWR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BGYFDWR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

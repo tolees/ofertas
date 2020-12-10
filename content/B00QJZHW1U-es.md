@@ -22,6 +22,9 @@ Está [Post-It Super Sticky 6556SR - Pack de 6 blocs de notas  76 x 127 mm  colo
 
 [![Post-It Super Sticky 6556SR - Pack de 6 ](https://images-eu.ssl-images-amazon.com/images/I/412GR5POgHL._SL200_.jpg)](https://www.amazon.es/dp/B00QJZHW1U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00QJZHW1U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

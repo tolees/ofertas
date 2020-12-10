@@ -22,6 +22,9 @@ Está [adidas Element Refresh 3 W  Zapatillas de running para Mujer  Varios colo
 
 [![adidas Element Refresh 3 W  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/51ho34VdJAL._SL200_.jpg)](https://www.amazon.es/dp/B072QGRJR7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072QGRJR7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

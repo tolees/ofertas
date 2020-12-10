@@ -22,6 +22,9 @@ Ahora mismo tienes [Lékué Cookie Glass  Silicona  Rojo  5 cm  8 Unidades](http
 
 [![Lékué Cookie Glass  Silicona  Rojo  5 cm](https://images-eu.ssl-images-amazon.com/images/I/31PfAsWiPbL._SL200_.jpg)](https://www.amazon.es/dp/B01LQB2G80/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LQB2G80/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

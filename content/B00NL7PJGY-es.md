@@ -22,6 +22,9 @@ Está [MAURER - Mantel Hule Rollo 140cmx20m Flores Color](https://www.amazon.es/
 
 [![MAURER - Mantel Hule Rollo 140cmx20m Flo](https://images-eu.ssl-images-amazon.com/images/I/61pScikYPpL._SL200_.jpg)](https://www.amazon.es/dp/B00NL7PJGY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00NL7PJGY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Alpha  + BD  [Blu-ray]](https://www.amazon.es/dp/B07K2NV88R/?tag=tolees-2
 
 [![Alpha  + BD  [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51yWhNMo5bL._SL200_.jpg)](https://www.amazon.es/dp/B07K2NV88R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K2NV88R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

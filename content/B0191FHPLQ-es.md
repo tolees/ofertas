@@ -22,6 +22,9 @@ Ahora mismo tienes [Underground Toys Star Wars - Set de imanes Darth Vader  Stor
 
 [![Underground Toys Star Wars - Set de iman](https://images-eu.ssl-images-amazon.com/images/I/51lXO8nKX1L._SL200_.jpg)](https://www.amazon.es/dp/B0191FHPLQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0191FHPLQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

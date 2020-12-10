@@ -22,6 +22,9 @@ Está [SYOSIN Taladro Juguete con Destornillador Kit Mosaico Infantiles para Ni�
 
 [![SYOSIN Taladro Juguete con Destornillado](https://images-eu.ssl-images-amazon.com/images/I/51dLZ%2BWbCIL._SL200_.jpg)](https://www.amazon.es/dp/B07FDQLL9C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDQLL9C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

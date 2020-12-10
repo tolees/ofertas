@@ -22,6 +22,9 @@ Está [Nike Tanjun Se  GS   Zapatillas de Gimnasia para Niñas  Rosa  Storm Rust
 
 [![Nike Tanjun Se  GS   Zapatillas de Gimna](https://images-eu.ssl-images-amazon.com/images/I/41tRW3OzJXL._SL200_.jpg)](https://www.amazon.es/dp/B079G4BHB5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079G4BHB5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

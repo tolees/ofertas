@@ -22,6 +22,9 @@ Ahora mismo tienes [Speedo Fastskin Kick Fin Aletas  Unisex Adulto  Negro/Rojo S
 
 [![Speedo Fastskin Kick Fin Aletas  Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41Rwz-9OfUL._SL200_.jpg)](https://www.amazon.es/dp/B01N2W8EN0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N2W8EN0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

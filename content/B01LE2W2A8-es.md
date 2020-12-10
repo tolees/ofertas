@@ -22,6 +22,9 @@ Está [Adelheid - Gut  v  erzogen Kinderrucksack  Mochilas Unisex Niños  Blau  
 
 [![Adelheid - Gut  v  erzogen Kinderrucksac](https://images-eu.ssl-images-amazon.com/images/I/51e0L0AN4KL._SL200_.jpg)](https://www.amazon.es/dp/B01LE2W2A8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LE2W2A8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

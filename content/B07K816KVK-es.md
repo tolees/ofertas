@@ -22,6 +22,9 @@ Está [Afeitadora Eléctrica Rotativa Máquina de Afeitar Recortador de Barba pa
 
 [![Afeitadora Eléctrica Rotativa Máquina de](https://images-eu.ssl-images-amazon.com/images/I/41fnvH6cf0L._SL200_.jpg)](https://www.amazon.es/dp/B07K816KVK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K816KVK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

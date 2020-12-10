@@ -22,6 +22,9 @@ Tienes [ROCKS-OFF 10RO120PP - Vibrador  color dorado](https://www.amazon.es/dp/B
 
 [![ROCKS-OFF 10RO120PP - Vibrador  color do](https://images-eu.ssl-images-amazon.com/images/I/41q3VUNMYQL._SL200_.jpg)](https://www.amazon.es/dp/B00I4VZV56/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I4VZV56/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

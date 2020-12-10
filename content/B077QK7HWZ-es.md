@@ -22,6 +22,9 @@ Tienes [SUAOKI - Auriculares Intercomunicador Moto  1200m  Bluetooth para Casco 
 
 [![SUAOKI - Auriculares Intercomunicador Mo](https://images-eu.ssl-images-amazon.com/images/I/51JlV-Rr%2B8L._SL200_.jpg)](https://www.amazon.es/dp/B077QK7HWZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077QK7HWZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

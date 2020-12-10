@@ -22,6 +22,9 @@ Tienes [Birkenstock - Madrid  Mules Hombre  Negro  42  normal ](https://www.amaz
 
 [![Birkenstock - Madrid  Mules Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/31FR7p8M8RL._SL200_.jpg)](https://www.amazon.es/dp/B000QDTV0Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000QDTV0Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

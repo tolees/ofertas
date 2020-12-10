@@ -22,6 +22,9 @@ Ahora mismo tienes [Grabadora DVD Externa  OUDEKAY USB 3.0 Unidad CD/DVD Externa
 
 [![Grabadora DVD Externa  OUDEKAY USB 3.0 U](https://images-eu.ssl-images-amazon.com/images/I/41SKCkPQlvL._SL200_.jpg)](https://www.amazon.es/dp/B07KGDJ1NG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KGDJ1NG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

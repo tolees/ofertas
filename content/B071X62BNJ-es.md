@@ -22,6 +22,9 @@ Está [Aigostar Blueberry 30JDI - Batidora de vaso portátil  600W  tubo refrige
 
 [![Aigostar Blueberry 30JDI - Batidora de v](https://images-eu.ssl-images-amazon.com/images/I/5119rlPkcEL._SL200_.jpg)](https://www.amazon.es/dp/B071X62BNJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071X62BNJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

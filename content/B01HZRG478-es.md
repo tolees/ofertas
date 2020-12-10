@@ -22,6 +22,9 @@ Ahora mismo tienes [Philips Monitores 276E7QDAB/00 - Monitor de 27"  resolución
 
 [![Philips Monitores 276E7QDAB/00 - Monitor](https://images-eu.ssl-images-amazon.com/images/I/5192EvbI5dL._SL200_.jpg)](https://www.amazon.es/dp/B01HZRG478/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01HZRG478/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Ignite 3/4 Tight W Pants  Mujer  Black  M](https://www.amazon.es/dp/
 
 [![Puma Ignite 3/4 Tight W Pants  Mujer  Bl](https://images-eu.ssl-images-amazon.com/images/I/31UPJ5XxM2L._SL200_.jpg)](https://www.amazon.es/dp/B07DFVSDB9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFVSDB9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [New Balance Mrl420v1 Zapatillas Hombre  Verde  Olive/Weiss   38.5 EU](ht
 
 [![New Balance Mrl420v1 Zapatillas Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41CVwXZmIsL._SL200_.jpg)](https://www.amazon.es/dp/B077QDKXG4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077QDKXG4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [VAUDE Ayla - Pequeña mochila para niños - 6 litros  29 x 21 x 12 cm  co
 
 [![VAUDE Ayla - Pequeña mochila para niños ](https://images-eu.ssl-images-amazon.com/images/I/41ZZG3Y68BL._SL200_.jpg)](https://www.amazon.es/dp/B004IYJPT6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004IYJPT6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

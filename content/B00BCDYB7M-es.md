@@ -22,6 +22,9 @@ Está [Royal Canin Comida ligera para perros adultos  1 unidad  195 g](https://w
 
 [![Royal Canin Comida ligera para perros ad](https://images-eu.ssl-images-amazon.com/images/I/51na-W60E6L._SL200_.jpg)](https://www.amazon.es/dp/B00BCDYB7M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00BCDYB7M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

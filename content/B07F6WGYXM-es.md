@@ -22,6 +22,9 @@ Está [Wonderbra Fabulous Feel Padded Wireless Bra Sujetador  Negro  Noir 001   
 
 [![Wonderbra Fabulous Feel Padded Wireless ](https://images-eu.ssl-images-amazon.com/images/I/41YGnyf0R9L._SL200_.jpg)](https://www.amazon.es/dp/B07F6WGYXM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F6WGYXM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

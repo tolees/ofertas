@@ -22,6 +22,9 @@ Está [Calypso Reloj de Pulsera K5748/2](https://www.amazon.es/dp/B0767DGWL8/?ta
 
 [![Calypso Reloj de Pulsera K5748/2](https://images-eu.ssl-images-amazon.com/images/I/31F-loYAWcL._SL200_.jpg)](https://www.amazon.es/dp/B0767DGWL8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0767DGWL8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

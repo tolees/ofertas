@@ -22,6 +22,9 @@ Tienes [InnooCare 300ml Aroma Difusor Ultrasónico Humidificador para Aromaterap
 
 [![InnooCare 300ml Aroma Difusor Ultrasónic](https://images-eu.ssl-images-amazon.com/images/I/510sAKs-ZAL._SL200_.jpg)](https://www.amazon.es/dp/B07G73G1DJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G73G1DJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

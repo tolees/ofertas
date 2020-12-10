@@ -22,6 +22,9 @@ Está [Camara de Fotos para Niños Cámara para Niños Camara Digital Niños con
 
 [![Camara de Fotos para Niños Cámara para N](https://images-eu.ssl-images-amazon.com/images/I/51e5TLMfRGL._SL200_.jpg)](https://www.amazon.es/dp/B07P56N1PF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P56N1PF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

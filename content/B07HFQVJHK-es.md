@@ -22,6 +22,9 @@ Está [HOMCOM Patinete Eléctrico Scooter Plegable para Niño con Manillar y Tip
 
 [![HOMCOM Patinete Eléctrico Scooter Plegab](https://images-eu.ssl-images-amazon.com/images/I/31Q1IaeipqL._SL200_.jpg)](https://www.amazon.es/dp/B07HFQVJHK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HFQVJHK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

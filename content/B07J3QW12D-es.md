@@ -22,6 +22,9 @@ Está [Dim Shorty Mod Bañador  Amarillo  Jaune Or 7Vo   38 para Mujer](https://
 
 [![Dim Shorty Mod Bañador  Amarillo  Jaune ](https://images-eu.ssl-images-amazon.com/images/I/41dVXi5bLiL._SL200_.jpg)](https://www.amazon.es/dp/B07J3QW12D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J3QW12D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

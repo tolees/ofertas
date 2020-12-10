@@ -22,6 +22,9 @@ Ahora mismo tienes [Munich Gresca 08  Zapatillas de Deporte para Hombre   Rojo 6
 
 [![Munich Gresca 08  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/31jgAg4AC%2BL._SL200_.jpg)](https://www.amazon.es/dp/B078T5LYYJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078T5LYYJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

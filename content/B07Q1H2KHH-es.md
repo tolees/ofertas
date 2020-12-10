@@ -22,6 +22,9 @@ Está [Robluee - Juego de 8 Tuercas para Taladro de percusión  Adaptador Hexago
 
 [![Robluee - Juego de 8 Tuercas para Taladr](https://images-eu.ssl-images-amazon.com/images/I/41X9E-a%2BWiL._SL200_.jpg)](https://www.amazon.es/dp/B07Q1H2KHH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q1H2KHH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

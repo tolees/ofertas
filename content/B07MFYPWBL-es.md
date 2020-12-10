@@ -22,6 +22,9 @@ Está [Android TV Box 8.1  2019 Newest Android Box with 4GB RAM 32GB ROM Amlogic
 
 [![Android TV Box 8.1  2019 Newest Android ](https://images-eu.ssl-images-amazon.com/images/I/51QA6OHKCSL._SL200_.jpg)](https://www.amazon.es/dp/B07MFYPWBL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MFYPWBL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

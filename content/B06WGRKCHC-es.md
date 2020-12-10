@@ -22,6 +22,9 @@ Tienes [Boe Gin Violet Gin - 700 ml](https://www.amazon.es/dp/B06WGRKCHC/?tag=to
 
 [![Boe Gin Violet Gin - 700 ml](https://images-eu.ssl-images-amazon.com/images/I/41ey3Wwd-LL._SL200_.jpg)](https://www.amazon.es/dp/B06WGRKCHC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06WGRKCHC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

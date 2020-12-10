@@ -22,6 +22,9 @@ Está [SYROKAN - Sujetador Deportivo con Aros Espalda Deportiva Sin Relleno para
 
 [![SYROKAN - Sujetador Deportivo con Aros E](https://images-eu.ssl-images-amazon.com/images/I/51BTaE1bnEL._SL200_.jpg)](https://www.amazon.es/dp/B00O9YYH4I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00O9YYH4I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Suede Classic Bubble  Zapatillas para Mujer  Negro Blac
 
 [![Puma Suede Classic Bubble  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41qvXz5CoxL._SL200_.jpg)](https://www.amazon.es/dp/B077P6TRDS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077P6TRDS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

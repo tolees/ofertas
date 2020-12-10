@@ -22,6 +22,9 @@ Está [K-Swiss Nova Court  Zapatillas para Hombre  Negro  Black/White   43 EU](h
 
 [![K-Swiss Nova Court  Zapatillas para Homb](https://images-eu.ssl-images-amazon.com/images/I/41KvMIHzXEL._SL200_.jpg)](https://www.amazon.es/dp/B073WVDK3W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073WVDK3W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

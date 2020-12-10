@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjestructure Knit Crew Neck Noos  suéter Hombr
 
 [![JACK & JONES Jjestructure Knit Crew Neck](https://images-eu.ssl-images-amazon.com/images/I/31D5dX7UuDL._SL200_.jpg)](https://www.amazon.es/dp/B07FNGP4KK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FNGP4KK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

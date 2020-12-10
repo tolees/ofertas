@@ -22,6 +22,9 @@ Tienes [Philips OneBlade Set Recorte Facial - 800 gr](https://www.amazon.es/dp/B
 
 [![Philips OneBlade Set Recorte Facial - 80](https://images-eu.ssl-images-amazon.com/images/I/31jIn%2B92IsL._SL200_.jpg)](https://www.amazon.es/dp/B06XXFG9SS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XXFG9SS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

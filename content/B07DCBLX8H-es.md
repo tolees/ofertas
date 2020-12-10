@@ -22,6 +22,9 @@ Tienes [Puma Smash Wns V2 SD  Zapatillas para Mujer  Rosa  Peach Bud-Silver Whit
 
 [![Puma Smash Wns V2 SD  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/31bD9HLcuHL._SL200_.jpg)](https://www.amazon.es/dp/B07DCBLX8H/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DCBLX8H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Lékué Cortador de Galletas  Centimeters](https://www.amazon.es/dp/B00S
 
 [![Lékué Cortador de Galletas  Centimeters](https://images-eu.ssl-images-amazon.com/images/I/316kEYC9gAL._SL200_.jpg)](https://www.amazon.es/dp/B00SL5Z1CI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SL5Z1CI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

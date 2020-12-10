@@ -22,6 +22,9 @@ Tienes [Double Retractable Washing Line 26M  2 x 13M  Durable Garden Clothes Dry
 
 [![Double Retractable Washing Line 26M  2 x](https://images-eu.ssl-images-amazon.com/images/I/31qfOf0OEqL._SL200_.jpg)](https://www.amazon.es/dp/B078S3MJSW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078S3MJSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

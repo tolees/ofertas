@@ -22,6 +22,9 @@ Está [Julius-K9 16IDC-BR-M IDC Power Harness  Tamaño Mini  Borgoña  Burdeos](
 
 [![Julius-K9 16IDC-BR-M IDC Power Harness  ](https://images-eu.ssl-images-amazon.com/images/I/41U2x5Ytn5L._SL200_.jpg)](https://www.amazon.es/dp/B01LXX27SV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LXX27SV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

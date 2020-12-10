@@ -22,6 +22,9 @@ Tienes [Black+Decker NVB-115-JL Recogetodo ciclónico inalámbrico Blanco](https
 
 [![Black+Decker NVB-115-JL Recogetodo cicló](https://images-eu.ssl-images-amazon.com/images/I/414zADiP%2BQL._SL200_.jpg)](https://www.amazon.es/dp/B06XTXHWRQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XTXHWRQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

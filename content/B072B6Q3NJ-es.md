@@ -22,6 +22,9 @@ Tienes [Estante de Almacenamiento para Garaje - 180cm x 90cm x 45cm - Galvanizad
 
 [![Estante de Almacenamiento para Garaje - ](https://images-eu.ssl-images-amazon.com/images/I/51Cp7v1KU2L._SL200_.jpg)](https://www.amazon.es/dp/B072B6Q3NJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072B6Q3NJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [MOSUO Luz Solar Jardín  2 Pack Luces Solares LED Foco Solar
 
 [![MOSUO Luz Solar Jardín  2 Pack Luces Sol](https://images-eu.ssl-images-amazon.com/images/I/41HG%2BDPfFdL._SL200_.jpg)](https://www.amazon.es/dp/B07JGSZ1DW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JGSZ1DW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

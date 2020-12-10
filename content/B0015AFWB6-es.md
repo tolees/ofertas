@@ -22,6 +22,9 @@ Tienes [Whiskas Temptations Premios para Gatos Sabor Pollo y Queso - Paquete de 
 
 [![Whiskas Temptations Premios para Gatos S](https://images-eu.ssl-images-amazon.com/images/I/41R8n8Ch2GL._SL200_.jpg)](https://www.amazon.es/dp/B0015AFWB6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0015AFWB6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

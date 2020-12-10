@@ -22,6 +22,9 @@ Tienes [Lacor 69314 - Máquina para cubitos de hielo  150 W  1 5 litros](https:/
 
 [![Lacor 69314 - Máquina para cubitos de hi](https://images-eu.ssl-images-amazon.com/images/I/514LGCH608L._SL200_.jpg)](https://www.amazon.es/dp/B00JAZCX6A/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JAZCX6A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

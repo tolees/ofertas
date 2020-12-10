@@ -22,6 +22,9 @@ Tienes [Panasonic ES-WE22-P503 - Lima electrica para pedicura  color blanco y ro
 
 [![Panasonic ES-WE22-P503 - Lima electrica ](https://images-eu.ssl-images-amazon.com/images/I/31Jr-dPV0aL._SL200_.jpg)](https://www.amazon.es/dp/B06XRMWXMY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XRMWXMY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

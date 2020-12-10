@@ -22,6 +22,9 @@ Está [Vibram Five Fingers Spyridon Mr  Zapatillas Hombre  Negro  Black/Grey   4
 
 [![Vibram Five Fingers Spyridon Mr  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/410CzCCy2RL._SL200_.jpg)](https://www.amazon.es/dp/B00DYYS1CI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00DYYS1CI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

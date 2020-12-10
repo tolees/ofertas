@@ -22,6 +22,9 @@ Está [Funko- Pocket Pop Keychain: Disney-Cinderella   21321 ](https://www.amazo
 
 [![Funko- Pocket Pop Keychain: Disney-Cinde](https://images-eu.ssl-images-amazon.com/images/I/31fzJKheVxL._SL200_.jpg)](https://www.amazon.es/dp/B074HKQ8T9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074HKQ8T9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

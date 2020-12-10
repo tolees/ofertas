@@ -22,6 +22,9 @@ Ahora mismo tienes [Dakine  - Mochila Atlas  49 x 30 x 20 cm  25 litros  color
 
 [![Dakine  - Mochila Atlas  49 x 30 x 20 cm](https://images-eu.ssl-images-amazon.com/images/I/51fiNhOTMTL._SL200_.jpg)](https://www.amazon.es/dp/B01BNZRN46/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01BNZRN46/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

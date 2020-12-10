@@ -22,6 +22,9 @@ Tienes [NWOUIIAY 8Pcs 17-P Cepillo Cabezales Cepillo elétrico Diente Profesiona
 
 [![NWOUIIAY 8Pcs 17-P Cepillo Cabezales Cep](https://images-eu.ssl-images-amazon.com/images/I/41ukT1kdQcL._SL200_.jpg)](https://www.amazon.es/dp/B07N2JP9QH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N2JP9QH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Yamaha Elektronik Europa MCR-B020 Sistema de microcomponentes](https://w
 
 [![Yamaha Elektronik Europa MCR-B020 Sistem](https://images-eu.ssl-images-amazon.com/images/I/31L6vnajPvL._SL200_.jpg)](https://www.amazon.es/dp/B01AUXDDTQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AUXDDTQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

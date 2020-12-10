@@ -22,6 +22,9 @@ Tienes [Reebok Royal Cl Jogger 2  Zapatillas de Running para Hombre  Negro  Blac
 
 [![Reebok Royal Cl Jogger 2  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41VeuU8lwFL._SL200_.jpg)](https://www.amazon.es/dp/B018SH5S7G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B018SH5S7G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

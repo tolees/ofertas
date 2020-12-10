@@ -22,6 +22,9 @@ Tienes [Ymiko Fieltro Letter Board  Tablero de Letras  Fieltro Negro con 423 Let
 
 [![Ymiko Fieltro Letter Board  Tablero de L](https://images-eu.ssl-images-amazon.com/images/I/51G8qEvUCCL._SL200_.jpg)](https://www.amazon.es/dp/B07F2N69MN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2N69MN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

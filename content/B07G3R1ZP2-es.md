@@ -22,6 +22,9 @@ Está [Porsche Design Business Backpack BackPack MVZ 2 Shyrt 2.0 Nylon Nailon I]
 
 [![Porsche Design Business Backpack BackPac](https://images-eu.ssl-images-amazon.com/images/I/31cQeci4meL._SL200_.jpg)](https://www.amazon.es/dp/B07G3R1ZP2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G3R1ZP2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

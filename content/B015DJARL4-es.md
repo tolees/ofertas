@@ -22,6 +22,9 @@ Está [Camelbak- Eddy Cardinal  Botella de agua  750 ml](https://www.amazon.es/d
 
 [![Camelbak- Eddy Cardinal  Botella de agua](https://images-eu.ssl-images-amazon.com/images/I/314ISUUvllL._SL200_.jpg)](https://www.amazon.es/dp/B015DJARL4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B015DJARL4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

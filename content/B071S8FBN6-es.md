@@ -22,6 +22,9 @@ Está [Under Armour Press 2  Zapatillas de Deporte para Mujer  Rosa Korall/Weiß
 
 [![Under Armour Press 2  Zapatillas de Depo](https://images-eu.ssl-images-amazon.com/images/I/41TV6DwL%2BXL._SL200_.jpg)](https://www.amazon.es/dp/B071S8FBN6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071S8FBN6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

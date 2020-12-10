@@ -22,6 +22,9 @@ Está [AiHom 7 Piezas Gancho de Pared Autoadhesivo Perchero Pared Aluminio sin C
 
 [![AiHom 7 Piezas Gancho de Pared Autoadhes](https://images-eu.ssl-images-amazon.com/images/I/317M6rc7WgL._SL200_.jpg)](https://www.amazon.es/dp/B07JZL57SW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JZL57SW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

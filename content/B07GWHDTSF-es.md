@@ -22,6 +22,9 @@ Está [Cámara IP  AFBEST 1080P Cámaras de seguridad inalámbricas con control 
 
 [![Cámara IP  AFBEST 1080P Cámaras de segur](https://images-eu.ssl-images-amazon.com/images/I/41P4peEJXRL._SL200_.jpg)](https://www.amazon.es/dp/B07GWHDTSF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GWHDTSF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

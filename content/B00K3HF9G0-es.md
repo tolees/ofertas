@@ -22,6 +22,9 @@ Tienes [Trust Gaming XL Endurance GXT 330 - Auriculares Gaming con Almohadillas 
 
 [![Trust Gaming XL Endurance GXT 330 - Auri](https://images-eu.ssl-images-amazon.com/images/I/41Hf71iKtfL._SL200_.jpg)](https://www.amazon.es/dp/B00K3HF9G0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00K3HF9G0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

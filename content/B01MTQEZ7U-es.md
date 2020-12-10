@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Blaze Ignite Plus Breathe  Zapatillas Unisex Adulto  Ne
 
 [![Puma Blaze Ignite Plus Breathe  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/414B6d4ywtL._SL200_.jpg)](https://www.amazon.es/dp/B01MTQEZ7U/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MTQEZ7U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

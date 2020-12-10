@@ -22,6 +22,9 @@ Está [RAU AMROS0333 Alfombrillas de Coche sin FijaciÃ³n  Color Negro](https:/
 
 [![RAU AMROS0333 Alfombrillas de Coche sin ](https://images-eu.ssl-images-amazon.com/images/I/41zxeo24EHL._SL200_.jpg)](https://www.amazon.es/dp/B007BBBLYU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007BBBLYU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

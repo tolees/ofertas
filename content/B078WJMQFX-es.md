@@ -22,6 +22,9 @@ Tienes [BILLABONG All Day X Print 18 Bañador  Hombre  Azul  Navy 21   Medium](h
 
 [![BILLABONG All Day X Print 18 Bañador  Ho](https://images-eu.ssl-images-amazon.com/images/I/41zA8qP14GL._SL200_.jpg)](https://www.amazon.es/dp/B078WJMQFX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078WJMQFX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

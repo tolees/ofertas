@@ -22,6 +22,9 @@ Tienes [Trust Urban PowerBank - Batería externa portátil para dispositivos mó
 
 [![Trust Urban PowerBank - Batería externa ](https://images-eu.ssl-images-amazon.com/images/I/41IlRhs9iPL._SL200_.jpg)](https://www.amazon.es/dp/B00OE1BAR8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OE1BAR8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

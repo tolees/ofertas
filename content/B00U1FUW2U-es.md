@@ -22,6 +22,9 @@ Tienes [Faber-Castell 183526 – Sacapuntas doble  Mariquita Incluye Borrador]
 
 [![Faber-Castell 183526 – Sacapuntas doble ](https://images-eu.ssl-images-amazon.com/images/I/41cy3pVNbeL._SL200_.jpg)](https://www.amazon.es/dp/B00U1FUW2U/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00U1FUW2U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [HyperX Predator HX429C15PB3A/8 - Kit Memoria DDR4 RGB 8GB  2933Mhz CL15 D
 
 [![HyperX Predator HX429C15PB3A/8 - Kit Mem](https://images-eu.ssl-images-amazon.com/images/I/41j%2BKlZ8qRL._SL200_.jpg)](https://www.amazon.es/dp/B07CHPVVFN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CHPVVFN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

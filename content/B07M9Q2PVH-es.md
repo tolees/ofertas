@@ -22,6 +22,9 @@ Tienes [ieGeek 1080P Cámara de Vigilancia WiFi Cámara IP Interior HD P2P Pan/T
 
 [![ieGeek 1080P Cámara de Vigilancia WiFi C](https://images-eu.ssl-images-amazon.com/images/I/410GMsCVKDL._SL200_.jpg)](https://www.amazon.es/dp/B07M9Q2PVH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M9Q2PVH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

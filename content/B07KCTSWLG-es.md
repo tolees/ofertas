@@ -22,6 +22,9 @@ Está [Devil May Cry 5 Lenticular Edition  Edición Exclusiva Amazon ](https://w
 
 [![Devil May Cry 5 Lenticular Edition  Edic](http://images.amazon.com/images/P/B07KCTSWLG.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B07KCTSWLG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCTSWLG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

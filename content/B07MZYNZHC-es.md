@@ -22,6 +22,9 @@ Está [Munich Continental V2  Zapatillas de Deporte Unisex Adulto  Marrón  Amar
 
 [![Munich Continental V2  Zapatillas de Dep](https://images-eu.ssl-images-amazon.com/images/I/31JnUnKbqyL._SL200_.jpg)](https://www.amazon.es/dp/B07MZYNZHC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MZYNZHC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

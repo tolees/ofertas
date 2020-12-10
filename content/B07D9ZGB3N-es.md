@@ -22,6 +22,9 @@ Está [adidas CF QT Racer  Zapatillas para Mujer  Negro Core Black 0  40 EU](htt
 
 [![adidas CF QT Racer  Zapatillas para Muje](https://images-eu.ssl-images-amazon.com/images/I/41n3TMYnsKL._SL200_.jpg)](https://www.amazon.es/dp/B07D9ZGB3N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9ZGB3N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

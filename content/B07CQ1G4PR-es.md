@@ -22,6 +22,9 @@ Tienes [Xiaomi Mi Power Bank 2S  Batería Portátil 10000Mah  Aleación De Alumi
 
 [![Xiaomi Mi Power Bank 2S  Batería Portáti](https://images-eu.ssl-images-amazon.com/images/I/313EbGLsrQL._SL200_.jpg)](https://www.amazon.es/dp/B07CQ1G4PR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CQ1G4PR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

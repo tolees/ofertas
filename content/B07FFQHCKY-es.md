@@ -22,6 +22,9 @@ Está [Millet Mystic 15 Mochila, Unisex Adultos, Poseidon, 45 cm](https://www.am
 
 [![Millet Mystic 15 Mochila, Unisex Adultos](https://images-eu.ssl-images-amazon.com/images/I/41-CPUtLuwL._SL200_.jpg)](https://www.amazon.es/dp/B07FFQHCKY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FFQHCKY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

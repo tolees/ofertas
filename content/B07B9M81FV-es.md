@@ -22,6 +22,9 @@ Está [Tous Shopping Teatime  Shopper para Mujer  Multicolor  Gris/Negro  10.5x2
 
 [![Tous Shopping Teatime  Shopper para Muje](https://images-eu.ssl-images-amazon.com/images/I/51iwyA3cmUL._SL200_.jpg)](https://www.amazon.es/dp/B07B9M81FV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B9M81FV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Pioneer N-30AE-S - Network Media Player  Reproductor de CD  Reproductor d
 
 [![Pioneer N-30AE-S - Network Media Player ](https://images-eu.ssl-images-amazon.com/images/I/31yPOjJ%2Bh2L._SL200_.jpg)](https://www.amazon.es/dp/B01LZBMWWU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZBMWWU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

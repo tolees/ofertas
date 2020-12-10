@@ -22,6 +22,9 @@ Tienes [s.Oliver 5-5-23612-21 098  Zapatillas para Mujer  Negro  Black Comb 98  
 
 [![s.Oliver 5-5-23612-21 098  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41BGy9aLt-L._SL200_.jpg)](https://www.amazon.es/dp/B079YC44TM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079YC44TM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

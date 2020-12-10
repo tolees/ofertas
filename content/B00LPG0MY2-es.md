@@ -22,6 +22,9 @@ Ahora mismo tienes [Braun Minipimer 5 MQ5045 Aperitif - Batidora de mano  750 W 
 
 [![Braun Minipimer 5 MQ5045 Aperitif - Bati](https://images-eu.ssl-images-amazon.com/images/I/51afwEr88ML._SL200_.jpg)](https://www.amazon.es/dp/B00LPG0MY2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00LPG0MY2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Only & Sons Onsgarson 12 Wash Crew Neck Knit Noos  suéter para Hombre  
 
 [![Only & Sons Onsgarson 12 Wash Crew Neck ](https://images-eu.ssl-images-amazon.com/images/I/41BA4KbV0YL._SL200_.jpg)](https://www.amazon.es/dp/B07CW4T22Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CW4T22Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

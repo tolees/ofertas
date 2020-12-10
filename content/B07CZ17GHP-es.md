@@ -22,6 +22,9 @@ Tienes [Puma Uprise Color Shift  Zapatillas Unisex Adults’o  Gris  Iron Gate-S
 
 [![Puma Uprise Color Shift  Zapatillas Unis](https://images-eu.ssl-images-amazon.com/images/I/41zAw1d9oIL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ17GHP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZ17GHP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

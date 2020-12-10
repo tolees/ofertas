@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jjimarco Jjenzo Tan WW 420 Noos  Pantalones par
 
 [![JACK & JONES Jjimarco Jjenzo Tan WW 420 ](https://images-eu.ssl-images-amazon.com/images/I/31uOWDN8E0L._SL200_.jpg)](https://www.amazon.es/dp/B01N0SJ4XE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N0SJ4XE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

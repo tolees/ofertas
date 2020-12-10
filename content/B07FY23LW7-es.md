@@ -22,6 +22,9 @@ Está [TP-Link TL-SG116 Gigabit Ethernet de 16 Puertos  Conmutador no Gestionado
 
 [![TP-Link TL-SG116 Gigabit Ethernet de 16 ](https://images-eu.ssl-images-amazon.com/images/I/31CiFTy2mXL._SL200_.jpg)](https://www.amazon.es/dp/B07FY23LW7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FY23LW7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Redken shape factor 22 sculpture cream 50ml](https://www.amazon.es/dp/B0
 
 [![Redken shape factor 22 sculpture cream 5](https://images-eu.ssl-images-amazon.com/images/I/41HIO90lEGL._SL200_.jpg)](https://www.amazon.es/dp/B00IYFX9II/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IYFX9II/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

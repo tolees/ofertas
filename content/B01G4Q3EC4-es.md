@@ -22,6 +22,9 @@ Tienes [LANGRIA Estantería Metálica de Almacenamiento y Organización  6 Balda
 
 [![LANGRIA Estantería Metálica de Almacenam](https://images-eu.ssl-images-amazon.com/images/I/41ACg-CG%2BCL._SL200_.jpg)](https://www.amazon.es/dp/B01G4Q3EC4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01G4Q3EC4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

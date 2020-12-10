@@ -22,6 +22,9 @@ Tienes [The Feathery Blended Highland Sherry Malt Scotch Whisky - 700 ml](https:
 
 [![The Feathery Blended Highland Sherry Mal](https://images-eu.ssl-images-amazon.com/images/I/51x0E8AR%2BQL._SL200_.jpg)](https://www.amazon.es/dp/B00SSMSKEU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SSMSKEU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

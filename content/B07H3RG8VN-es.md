@@ -22,6 +22,9 @@ Tienes [Guante Cepillo Manopla para Mascotas  Retiro del Pelo para Limpieza Suav
 
 [![Guante Cepillo Manopla para Mascotas  Re](https://images-eu.ssl-images-amazon.com/images/I/51ZKIHuwXsL._SL200_.jpg)](https://www.amazon.es/dp/B07H3RG8VN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H3RG8VN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Jamara Ride on Mercedes SL65 12 V  Color Negro  460295 ](https://www.amaz
 
 [![Jamara Ride on Mercedes SL65 12 V  Color](https://images-eu.ssl-images-amazon.com/images/I/41zhFOPSDiL._SL200_.jpg)](https://www.amazon.es/dp/B078YJ4HZN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078YJ4HZN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

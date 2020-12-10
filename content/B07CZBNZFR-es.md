@@ -22,6 +22,9 @@ Está [Nike Tanjun Prem  Zapatillas para Hombre  Black-Mushroom 200  42 EU](http
 
 [![Nike Tanjun Prem  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41MaTPgkT5L._SL200_.jpg)](https://www.amazon.es/dp/B07CZBNZFR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZBNZFR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

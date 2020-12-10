@@ -22,6 +22,9 @@ Tienes [HOMIEE Tensiómetros de Muñeca  Detección del Pulso Arrítmico，Valid
 
 [![HOMIEE Tensiómetros de Muñeca  Detección](https://images-eu.ssl-images-amazon.com/images/I/510Ea6NHH2L._SL200_.jpg)](https://www.amazon.es/dp/B07GDF5PS3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GDF5PS3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

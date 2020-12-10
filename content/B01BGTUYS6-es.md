@@ -22,6 +22,9 @@ Está [G-STAR RAW Midge Saddle Mid Waist Straight Jeans  Azul  Dk Aged 6553-89  
 
 [![G-STAR RAW Midge Saddle Mid Waist Straig](https://images-eu.ssl-images-amazon.com/images/I/41AKNyzgCwL._SL200_.jpg)](https://www.amazon.es/dp/B01BGTUYS6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BGTUYS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

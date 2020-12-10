@@ -22,6 +22,9 @@ Está [Plata de ley Anillo de Claddagh Cubic Zirconia - Tamaño  4  14 05 mm ](h
 
 [![Plata de ley Anillo de Claddagh Cubic Zi](https://images-eu.ssl-images-amazon.com/images/I/41DyW0cEejL._SL200_.jpg)](https://www.amazon.es/dp/B00CMFN9A4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00CMFN9A4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

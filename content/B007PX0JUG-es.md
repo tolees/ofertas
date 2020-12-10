@@ -22,6 +22,9 @@ Está [Picobong Vibrador  Color Lila - 1 Vibrador](https://www.amazon.es/dp/B007
 
 [![Picobong Vibrador  Color Lila - 1 Vibrad](https://images-eu.ssl-images-amazon.com/images/I/310-EhZpeaL._SL200_.jpg)](https://www.amazon.es/dp/B007PX0JUG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007PX0JUG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

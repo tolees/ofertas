@@ -22,6 +22,9 @@ Está [Miss Selfridge - Bucket  Bolsos bandolera Mujer  Rojo  Red   10x25x15 cm 
 
 [![Miss Selfridge - Bucket  Bolsos bandoler](https://images-eu.ssl-images-amazon.com/images/I/41GxsD3J60L._SL200_.jpg)](https://www.amazon.es/dp/B07DM2G7WJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DM2G7WJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

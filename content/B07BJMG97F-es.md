@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike SX7167 Socks  Unisex Adulto  White/Black  L](https://ww
 
 [![Nike SX7167 Socks  Unisex Adulto  White/](https://images-eu.ssl-images-amazon.com/images/I/31%2BjnI6ywRL._SL200_.jpg)](https://www.amazon.es/dp/B07BJMG97F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BJMG97F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

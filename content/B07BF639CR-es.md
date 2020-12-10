@@ -22,6 +22,9 @@ Está [Pluma 3D Fede  Lápiz 3D con[12 Rollo Filamento de PLA ]en 12 Colores de 
 
 [![Pluma 3D Fede  Lápiz 3D con[12 Rollo Fil](https://images-eu.ssl-images-amazon.com/images/I/51JEvoV1vSL._SL200_.jpg)](https://www.amazon.es/dp/B07BF639CR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BF639CR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

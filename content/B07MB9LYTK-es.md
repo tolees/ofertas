@@ -22,6 +22,9 @@ Está [Deofde Antena de TV Interior  Ultra Plana Antena Interior DVB-T  4 Metros
 
 [![Deofde Antena de TV Interior  Ultra Plan](https://images-eu.ssl-images-amazon.com/images/I/41KNM051x8L._SL200_.jpg)](https://www.amazon.es/dp/B07MB9LYTK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MB9LYTK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

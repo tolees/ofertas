@@ -22,6 +22,9 @@ Ahora mismo tienes [Walden Farms  Salsa roja para aperitivo - 6 de 355 ml.  Tota
 
 [![Walden Farms  Salsa roja para aperitivo ](https://images-eu.ssl-images-amazon.com/images/I/41t2hhPHVEL._SL200_.jpg)](https://www.amazon.es/dp/B073ZJ8FR5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073ZJ8FR5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

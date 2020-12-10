@@ -22,6 +22,9 @@ Está [Kipling - Inami S  Monederos Mujer  Multicolor  Colab Print ](https://www
 
 [![Kipling - Inami S  Monederos Mujer  Mult](https://images-eu.ssl-images-amazon.com/images/I/515mYU0fuFL._SL200_.jpg)](https://www.amazon.es/dp/B07DK9ZGTC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DK9ZGTC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

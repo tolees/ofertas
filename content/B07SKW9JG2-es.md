@@ -22,6 +22,9 @@ Tienes [Abadía de San Quirce Vino tinto crianza 500 ml](https://www.amazon.es/d
 
 [![Abadía de San Quirce Vino tinto crianza ](https://images-eu.ssl-images-amazon.com/images/I/314l%2BVTAmwL._SL200_.jpg)](https://www.amazon.es/dp/B07SKW9JG2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SKW9JG2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

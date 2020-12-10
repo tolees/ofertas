@@ -22,6 +22,9 @@ Está [Lacoste Sport Yh7900  Polo Hombre  Plateado  Argent Chiné/Marine-Blanc 5
 
 [![Lacoste Sport Yh7900  Polo Hombre  Plate](https://images-eu.ssl-images-amazon.com/images/I/41JmYr%2B1oQL._SL200_.jpg)](https://www.amazon.es/dp/B07JGQDSDW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JGQDSDW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

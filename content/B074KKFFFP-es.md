@@ -22,6 +22,9 @@ Ahora mismo tienes [Maison & White Tassimo 60 Pod Holder | Cajón de cápsulas y
 
 [![Maison & White Tassimo 60 Pod Holder | C](https://images-eu.ssl-images-amazon.com/images/I/41rNr-%2B3K9L._SL200_.jpg)](https://www.amazon.es/dp/B074KKFFFP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074KKFFFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

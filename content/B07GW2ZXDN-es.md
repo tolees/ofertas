@@ -22,6 +22,9 @@ Tienes [Let S Sing 11 - Edición Estándar Con 2 Micrófonos](https://www.amazon
 
 [![Let S Sing 11 - Edición Estándar Con 2 M](https://images-eu.ssl-images-amazon.com/images/I/51W43zWWNyL._SL200_.jpg)](https://www.amazon.es/dp/B07GW2ZXDN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GW2ZXDN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

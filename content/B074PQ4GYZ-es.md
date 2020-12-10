@@ -22,6 +22,9 @@ Tienes [SGILE Robot Juguete Control Remoto para Niños  Juguete Control Remoto c
 
 [![SGILE Robot Juguete Control Remoto para ](https://images-eu.ssl-images-amazon.com/images/I/51qVZ98jJrL._SL200_.jpg)](https://www.amazon.es/dp/B074PQ4GYZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074PQ4GYZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

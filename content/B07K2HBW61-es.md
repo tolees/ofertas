@@ -22,6 +22,9 @@ Está [hummel Actus Ml Infant  Zapatillas para Niñas  Rosa  Pale Liliac 3333   
 
 [![hummel Actus Ml Infant  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41eqj3i402L._SL200_.jpg)](https://www.amazon.es/dp/B07K2HBW61/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K2HBW61/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

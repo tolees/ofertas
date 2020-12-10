@@ -22,6 +22,9 @@ Tienes [iTrunk 23 en 1 Kit de Accesorios GoPro Hero 7 2018 6 5 con Paquete Peque
 
 [![iTrunk 23 en 1 Kit de Accesorios GoPro H](https://images-eu.ssl-images-amazon.com/images/I/41aClXNuIqL._SL200_.jpg)](https://www.amazon.es/dp/B072JM9MSR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072JM9MSR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

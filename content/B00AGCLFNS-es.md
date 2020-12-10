@@ -22,6 +22,9 @@ Tienes [Victoria](https://www.amazon.es/dp/B00AGCLFNS/?tag=tolees-21) con un 62.
 
 [![Victoria](https://images-eu.ssl-images-amazon.com/images/I/41zmmwr2HnL._SL200_.jpg)](https://www.amazon.es/dp/B00AGCLFNS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00AGCLFNS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

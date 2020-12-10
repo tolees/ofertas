@@ -22,6 +22,9 @@ Ahora mismo tienes [Kool Stop Magura Julie Pastillas freno disco  Unisex adulto 
 
 [![Kool Stop Magura Julie Pastillas freno d](https://images-eu.ssl-images-amazon.com/images/I/519af5rmOxL._SL200_.jpg)](https://www.amazon.es/dp/B000C17KVE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B000C17KVE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

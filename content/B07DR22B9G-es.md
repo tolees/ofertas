@@ -22,6 +22,9 @@ Ahora mismo tienes [K-Swiss Addison Vulc LTR  Zapatillas de Estar por casa Unise
 
 [![K-Swiss Addison Vulc LTR  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/315ryqGTKAL._SL200_.jpg)](https://www.amazon.es/dp/B07DR22B9G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DR22B9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

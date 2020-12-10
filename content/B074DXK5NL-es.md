@@ -22,6 +22,9 @@ Está [Sony DSX-A212UI - Receptor Multimedia de Coche  Extra Bass  4X 55 W  Ecua
 
 [![Sony DSX-A212UI - Receptor Multimedia de](https://images-eu.ssl-images-amazon.com/images/I/411XJ%2BIZMUL._SL200_.jpg)](https://www.amazon.es/dp/B074DXK5NL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074DXK5NL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

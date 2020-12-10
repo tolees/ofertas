@@ -22,6 +22,9 @@ Ahora mismo tienes [Garmin Etrex Touch 25T-Navigador GPS  Negro/Azul](https://ww
 
 [![Garmin Etrex Touch 25T-Navigador GPS  Ne](https://images-eu.ssl-images-amazon.com/images/I/51MsPNOnxWL._SL200_.jpg)](https://www.amazon.es/dp/B010UQ7BA0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B010UQ7BA0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

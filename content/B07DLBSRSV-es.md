@@ -22,6 +22,9 @@ Está [Element Cornell Classic ZH Fleece  Hombre  Flint Black  L](https://www.am
 
 [![Element Cornell Classic ZH Fleece  Hombr](https://images-eu.ssl-images-amazon.com/images/I/413beiJgBLL._SL200_.jpg)](https://www.amazon.es/dp/B07DLBSRSV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLBSRSV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

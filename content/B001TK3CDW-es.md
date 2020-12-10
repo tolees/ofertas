@@ -22,6 +22,9 @@ Está [Reloj Casio para Hombre AQW-101-1AVER](https://www.amazon.es/dp/B001TK3CD
 
 [![Reloj Casio para Hombre AQW-101-1AVER](https://images-eu.ssl-images-amazon.com/images/I/51XZgr-gLGL._SL200_.jpg)](https://www.amazon.es/dp/B001TK3CDW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001TK3CDW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

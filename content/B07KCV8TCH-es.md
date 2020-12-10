@@ -22,6 +22,9 @@ Tienes [David Jones - 5948-4  Bolsos de mano Mujer  Rosa  Pink   16x21x31 cm  W 
 
 [![David Jones - 5948-4  Bolsos de mano Muj](https://images-eu.ssl-images-amazon.com/images/I/41GI9ZJs2tL._SL200_.jpg)](https://www.amazon.es/dp/B07KCV8TCH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KCV8TCH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

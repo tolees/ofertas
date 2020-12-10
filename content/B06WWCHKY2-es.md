@@ -22,6 +22,9 @@ Ahora mismo tienes [Pikolinos Santander W4j_i17  Botas para Mujer  Negro  Black 
 
 [![Pikolinos Santander W4j_i17  Botas para ](https://images-eu.ssl-images-amazon.com/images/I/41pfJQAGVxL._SL200_.jpg)](https://www.amazon.es/dp/B06WWCHKY2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06WWCHKY2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

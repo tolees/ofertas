@@ -22,6 +22,9 @@ Ahora mismo tienes [Merrell MOAB Mid GTX  Botas de Senderismo para Mujer  Grey/P
 
 [![Merrell MOAB Mid GTX  Botas de Senderism](https://images-eu.ssl-images-amazon.com/images/I/51UQbXwqQNL._SL200_.jpg)](https://www.amazon.es/dp/B000RJ2BNS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B000RJ2BNS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Fortnite Pack 2 Figuras Pint Size Heroes Raptor & Elite Agent](https://w
 
 [![Fortnite Pack 2 Figuras Pint Size Heroes](https://images-eu.ssl-images-amazon.com/images/I/41nOl06tD%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07JQSY8YB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JQSY8YB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

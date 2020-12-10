@@ -22,6 +22,9 @@ Está [Ckeyin® Máscara de Buceo Visión 180 ° Anti-Fugas Anti-Niebla con Sopo
 
 [![Ckeyin® Máscara de Buceo Visión 180 ° An](https://images-eu.ssl-images-amazon.com/images/I/41ZqTp0j9aL._SL200_.jpg)](https://www.amazon.es/dp/B07CPFJYXG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CPFJYXG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

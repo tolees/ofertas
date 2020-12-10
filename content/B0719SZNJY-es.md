@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Conspiracy IV Outdry  Zapatillas De Deporte para Ex
 
 [![Columbia Conspiracy IV Outdry  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/51kXrFVc-tL._SL200_.jpg)](https://www.amazon.es/dp/B0719SZNJY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0719SZNJY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

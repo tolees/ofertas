@@ -22,6 +22,9 @@ Está [Tumi maletín  negro - negro  026108D2_Black_42](https://www.amazon.es/dp
 
 [![Tumi maletín  negro - negro  026108D2_Bl](https://images-eu.ssl-images-amazon.com/images/I/31Vz5JFcb5L._SL200_.jpg)](https://www.amazon.es/dp/B00KFRNZ1E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00KFRNZ1E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

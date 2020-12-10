@@ -22,6 +22,9 @@ Tienes [Skechers You-Spirit  Zapatillas sin Cordones para Mujer  Negro  Black BB
 
 [![Skechers You-Spirit  Zapatillas sin Cord](https://images-eu.ssl-images-amazon.com/images/I/41qx9ffO4dL._SL200_.jpg)](https://www.amazon.es/dp/B072K7C2PV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072K7C2PV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

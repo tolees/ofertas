@@ -22,6 +22,9 @@ Tienes [Revell- R.M.S. Titanic Escala 1/1200-Revell RE05804   22 3 cm de Largo  
 
 [![Revell- R.M.S. Titanic Escala 1/1200-Rev](https://images-eu.ssl-images-amazon.com/images/I/51ntobDZCYL._SL200_.jpg)](https://www.amazon.es/dp/B0006HJEMC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0006HJEMC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

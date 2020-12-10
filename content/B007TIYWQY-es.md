@@ -22,6 +22,9 @@ Está [HP Wireless Classic Desktop - Pack de teclado QWERTY y ratón inalámbric
 
 [![HP Wireless Classic Desktop - Pack de te](https://images-eu.ssl-images-amazon.com/images/I/41Fs5i88TPL._SL200_.jpg)](https://www.amazon.es/dp/B007TIYWQY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007TIYWQY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Levi s Rectangular Buckle Belt - Cinturón Hombre  Negro  BLACK   105 cm
 
 [![Levi s Rectangular Buckle Belt - Cinturó](https://images-eu.ssl-images-amazon.com/images/I/41xuCqyuoVL._SL200_.jpg)](https://www.amazon.es/dp/B00U03XYZK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00U03XYZK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

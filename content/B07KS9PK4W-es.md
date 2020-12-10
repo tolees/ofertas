@@ -22,6 +22,9 @@ Ahora mismo tienes [Hummel HMLJOSEPH Shorts  Hombre Blu  L](https://www.amazon.e
 
 [![Hummel HMLJOSEPH Shorts  Hombre Blu  L](https://images-eu.ssl-images-amazon.com/images/I/31n8h2O0PAL._SL200_.jpg)](https://www.amazon.es/dp/B07KS9PK4W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KS9PK4W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

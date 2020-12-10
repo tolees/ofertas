@@ -22,6 +22,9 @@ Ahora mismo tienes [Diesel S-GIM-Hood-a Sweat-Shirt Capucha  Blanco  Bright Whit
 
 [![Diesel S-GIM-Hood-a Sweat-Shirt Capucha ](https://images-eu.ssl-images-amazon.com/images/I/310S7j-wEPL._SL200_.jpg)](https://www.amazon.es/dp/B07QC35B5B/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07QC35B5B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

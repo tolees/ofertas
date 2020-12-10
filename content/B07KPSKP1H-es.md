@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes Lanai 22" Boardshort  Hombre  Black Iris  30](https
 
 [![DC Shoes Lanai 22" Boardshort  Hombre  B](https://images-eu.ssl-images-amazon.com/images/I/41TKnrmI4zL._SL200_.jpg)](https://www.amazon.es/dp/B07KPSKP1H/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KPSKP1H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Fossil Reloj Analogico para Hombre de Cuarzo con Correa en A
 
 [![Fossil Reloj Analogico para Hombre de Cu](https://images-eu.ssl-images-amazon.com/images/I/51P-k0uvnGL._SL200_.jpg)](https://www.amazon.es/dp/B077SK3XGL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077SK3XGL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour UA W Blur  Zapatillas de Entrenamiento para Muj
 
 [![Under Armour UA W Blur  Zapatillas de En](https://images-eu.ssl-images-amazon.com/images/I/413UBK19ItL._SL200_.jpg)](https://www.amazon.es/dp/B0716QSQDW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0716QSQDW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

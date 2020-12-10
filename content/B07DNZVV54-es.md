@@ -22,6 +22,9 @@ Está [Eastpak out of Office Mochila Infantil  44 cm  27 Liters  Verde  Pine Gre
 
 [![Eastpak out of Office Mochila Infantil  ](https://images-eu.ssl-images-amazon.com/images/I/4163DjQJKVL._SL200_.jpg)](https://www.amazon.es/dp/B07DNZVV54/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DNZVV54/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

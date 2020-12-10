@@ -22,6 +22,9 @@ Ahora mismo tienes [Superga 2750-COTROPEU  Zapatillas para Mujer  Azul  Blue Gra
 
 [![Superga 2750-COTROPEU  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/41M10eXsUUL._SL200_.jpg)](https://www.amazon.es/dp/B07N4LFCVF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07N4LFCVF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

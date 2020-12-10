@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Lin Per Bp  Mochila Unisex Adulto  Negro  Negro/Negro
 
 [![Adidas Lin Per Bp  Mochila Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41rVlSVDA9L._SL200_.jpg)](https://www.amazon.es/dp/B01LSZ2V5C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LSZ2V5C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [GORE WEAR M Gorra unisex GORE-TEX   Talla: única  Color: am
 
 [![GORE WEAR M Gorra unisex GORE-TEX   Tall](https://images-eu.ssl-images-amazon.com/images/I/31TsOiY2UbL._SL200_.jpg)](https://www.amazon.es/dp/B075QLXZ2Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075QLXZ2Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Giaride 12V 18V 7.5W Cargador Solar de 12V Baterías Cargador de Coche Po
 
 [![Giaride 12V 18V 7.5W Cargador Solar de 1](https://images-eu.ssl-images-amazon.com/images/I/41R57yM2aWL._SL200_.jpg)](https://www.amazon.es/dp/B071ZZ2Z6X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071ZZ2Z6X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

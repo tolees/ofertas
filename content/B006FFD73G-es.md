@@ -22,6 +22,9 @@ Está [Biotin MGM - Cinturón para mujer  talla 90 cm  color Cognac](https://www
 
 [![Biotin MGM - Cinturón para mujer  talla ](https://images-eu.ssl-images-amazon.com/images/I/41w15BYa15L._SL200_.jpg)](https://www.amazon.es/dp/B006FFD73G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B006FFD73G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

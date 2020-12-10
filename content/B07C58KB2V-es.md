@@ -22,6 +22,9 @@ Está [Kelme Precision Kids V  Zapatillas de fútbol Sala para Niños  Amarillo 
 
 [![Kelme Precision Kids V  Zapatillas de fú](https://images-eu.ssl-images-amazon.com/images/I/31xB3bMvyBL._SL200_.jpg)](https://www.amazon.es/dp/B07C58KB2V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C58KB2V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

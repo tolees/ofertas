@@ -22,6 +22,9 @@ Ahora mismo tienes [Calvin Klein - Instant Clutch On Chain Metalic  Carteras de 
 
 [![Calvin Klein - Instant Clutch On Chain M](https://images-eu.ssl-images-amazon.com/images/I/31VqgFNTENL._SL200_.jpg)](https://www.amazon.es/dp/B079XHFQV4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079XHFQV4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

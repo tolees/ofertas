@@ -22,6 +22,9 @@ Está [Cife - Trendy Lights Selfie con accesorios](https://www.amazon.es/dp/B01K
 
 [![Cife - Trendy Lights Selfie con accesori](https://images-eu.ssl-images-amazon.com/images/I/51R1ZV%2BsMsL._SL200_.jpg)](https://www.amazon.es/dp/B01KHWS138/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01KHWS138/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

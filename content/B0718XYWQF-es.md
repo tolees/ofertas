@@ -22,6 +22,9 @@ Está [Puma Suede XL Lace VR  Zapatillas para Mujer  Verde  Olive Night-Avocado 
 
 [![Puma Suede XL Lace VR  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/41JKAv-nQqL._SL200_.jpg)](https://www.amazon.es/dp/B0718XYWQF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0718XYWQF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

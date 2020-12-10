@@ -22,6 +22,9 @@ Está [Pepe Jeans London Jayden Deck  Zapatillas para Hombre  Azul  Marine   43 
 
 [![Pepe Jeans London Jayden Deck  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41YJ4MCsHLL._SL200_.jpg)](https://www.amazon.es/dp/B0787GLLJH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0787GLLJH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Breaker Suede  Zapatillas Unisex Adulto  Gris White-Charcoal Gray  4
 
 [![Puma Breaker Suede  Zapatillas Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/41fP%2B720lGL._SL200_.jpg)](https://www.amazon.es/dp/B07DC12CNJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC12CNJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

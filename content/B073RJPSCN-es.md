@@ -22,6 +22,9 @@ Está [Reebok Trainfusion Nine 2.0  Zapatillas de Deporte para Hombre  Rojo  Pri
 
 [![Reebok Trainfusion Nine 2.0  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41FQdtnb-1L._SL200_.jpg)](https://www.amazon.es/dp/B073RJPSCN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RJPSCN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [BaByliss 2655E - Cepillo moldeador  300 W  color Morado](https://www.amaz
 
 [![BaByliss 2655E - Cepillo moldeador  300 ](https://images-eu.ssl-images-amazon.com/images/I/31vGxaHfJFL._SL200_.jpg)](https://www.amazon.es/dp/B0017I5DUQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0017I5DUQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

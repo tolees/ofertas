@@ -22,6 +22,9 @@ Está [SKYSPER 60L Mochila de Senderismo con Cubierta Lluvia Impermeable Trekkin
 
 [![SKYSPER 60L Mochila de Senderismo con Cu](https://images-eu.ssl-images-amazon.com/images/I/41o%2BvMgfOSL._SL200_.jpg)](https://www.amazon.es/dp/B07GVFPQWY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GVFPQWY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

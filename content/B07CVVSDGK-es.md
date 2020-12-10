@@ -22,6 +22,9 @@ Está [RAOYI Memoria Flash USB de 16GB USB 2.0 Pendrive 16GB USB Memory Stick Fl
 
 [![RAOYI Memoria Flash USB de 16GB USB 2.0 ](https://images-eu.ssl-images-amazon.com/images/I/51ES9RnR4gL._SL200_.jpg)](https://www.amazon.es/dp/B07CVVSDGK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CVVSDGK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

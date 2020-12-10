@@ -22,6 +22,9 @@ Ahora mismo tienes [Magic Bodyfashion V-Body  Negro  Black 100   38  Talla del F
 
 [![Magic Bodyfashion V-Body  Negro  Black 1](https://images-eu.ssl-images-amazon.com/images/I/413ccQ3LLfL._SL200_.jpg)](https://www.amazon.es/dp/B018K5DWJM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B018K5DWJM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

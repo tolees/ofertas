@@ -22,6 +22,9 @@ Tienes [Edge Entertainment EDGRC01- Robinson Crusoe  Aventuras en la isla maldit
 
 [![Edge Entertainment EDGRC01- Robinson Cru](https://images-eu.ssl-images-amazon.com/images/I/51uQXSmx42L._SL200_.jpg)](https://www.amazon.es/dp/B0198FJD0K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0198FJD0K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

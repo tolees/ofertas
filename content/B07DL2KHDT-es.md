@@ -22,6 +22,9 @@ Tienes [Lámpara colgante de techo  1M Vintage Cuerda de cáñamo gruesa 220V  E
 
 [![Lámpara colgante de techo  1M Vintage Cu](https://images-eu.ssl-images-amazon.com/images/I/31qbsDD5duL._SL200_.jpg)](https://www.amazon.es/dp/B07DL2KHDT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DL2KHDT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

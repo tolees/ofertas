@@ -22,6 +22,9 @@ Tienes [Reebok DA1670 Mochila  S](https://www.amazon.es/dp/B07F6W14XW/?tag=tolee
 
 [![Reebok DA1670 Mochila  S](https://images-eu.ssl-images-amazon.com/images/I/51G6iK8eZGL._SL200_.jpg)](https://www.amazon.es/dp/B07F6W14XW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F6W14XW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

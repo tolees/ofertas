@@ -22,6 +22,9 @@ Tienes [Gardena EasyCut - Fusible de seguridad  Batería  18 V  2.9 kg  Li-18/50
 
 [![Gardena EasyCut - Fusible de seguridad  ](https://images-eu.ssl-images-amazon.com/images/I/31ujnSy4jjL._SL200_.jpg)](https://www.amazon.es/dp/B00GHDXSYO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GHDXSYO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

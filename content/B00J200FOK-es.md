@@ -22,6 +22,9 @@ Ahora mismo tienes [AEG PW 5644 FA - Báscula de análisis corporal de 7 funcion
 
 [![AEG PW 5644 FA - Báscula de análisis cor](https://images-eu.ssl-images-amazon.com/images/I/31szdmZeIBL._SL200_.jpg)](https://www.amazon.es/dp/B00J200FOK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00J200FOK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

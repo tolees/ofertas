@@ -22,6 +22,9 @@ Está [5BILLION Almohadilla de Equilibrio Balance Pad - 49cm x 39cm x 6cm - Almo
 
 [![5BILLION Almohadilla de Equilibrio Balan](https://images-eu.ssl-images-amazon.com/images/I/41kh1UYuVDL._SL200_.jpg)](https://www.amazon.es/dp/B01LEOMCTC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LEOMCTC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Calvin Klein Perfume para Mujeres - 50 ml](https://www.amazon.es/dp/B01AU
 
 [![Calvin Klein Perfume para Mujeres - 50 m](https://images-eu.ssl-images-amazon.com/images/I/31aeVS998PL._SL200_.jpg)](https://www.amazon.es/dp/B01AU3JTC6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AU3JTC6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Draper 64970 - Taburete Plegable](https://www.amazon.es/dp/B0001K9ZAU/?ta
 
 [![Draper 64970 - Taburete Plegable](https://images-eu.ssl-images-amazon.com/images/I/41FiZy%2BEkHL._SL200_.jpg)](https://www.amazon.es/dp/B0001K9ZAU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0001K9ZAU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

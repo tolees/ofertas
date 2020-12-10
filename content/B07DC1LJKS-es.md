@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Basket Heart Patent Wn s  Zapatillas para Mujer  Morado
 
 [![Puma Basket Heart Patent Wn s  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41t9X51qaWL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1LJKS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC1LJKS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

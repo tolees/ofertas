@@ -22,6 +22,9 @@ Ahora mismo tienes [Marca Amazon-  Solimo  Chocolate con leche suizo 1 2 kg  12 
 
 [![Marca Amazon-  Solimo  Chocolate con lec](https://images-eu.ssl-images-amazon.com/images/I/31FMzWh0ViL._SL200_.jpg)](https://www.amazon.es/dp/B07HS4WXXH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HS4WXXH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

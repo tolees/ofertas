@@ -22,6 +22,9 @@ Tienes [New Classic L Cinta 8 m  negro](https://www.amazon.es/dp/B01HDAX59W/?tag
 
 [![New Classic L Cinta 8 m  negro](https://images-eu.ssl-images-amazon.com/images/I/41FzmtyjNiL._SL200_.jpg)](https://www.amazon.es/dp/B01HDAX59W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01HDAX59W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

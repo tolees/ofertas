@@ -22,6 +22,9 @@ Ahora mismo tienes [Aigital Repetidor Extensor de Rango Inalámbrico de 300 Mbps
 
 [![Aigital Repetidor Extensor de Rango Inal](https://images-eu.ssl-images-amazon.com/images/I/41JXq73NmHL._SL200_.jpg)](https://www.amazon.es/dp/B07JGWR8Z5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JGWR8Z5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

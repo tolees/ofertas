@@ -22,6 +22,9 @@ Está [adidas VL Court 2.0  Zapatillas de Skateboard para Hombre  Negro Core Bla
 
 [![adidas VL Court 2.0  Zapatillas de Skate](https://images-eu.ssl-images-amazon.com/images/I/31dwvz1YIFL._SL200_.jpg)](https://www.amazon.es/dp/B07H4FFD71/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H4FFD71/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

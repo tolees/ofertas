@@ -22,6 +22,9 @@ Tienes [Intex 29051 - Red con bolsa y compatible con mango de 29 8 mm de diámet
 
 [![Intex 29051 - Red con bolsa y compatible](https://images-eu.ssl-images-amazon.com/images/I/41fmOOocyAL._SL200_.jpg)](https://www.amazon.es/dp/B00I9LZ75K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I9LZ75K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

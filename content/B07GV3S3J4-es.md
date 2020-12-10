@@ -22,6 +22,9 @@ Ahora mismo tienes [Fly London - Dipi614fly  Bolsos maletín Mujer  Amarillo  Mu
 
 [![Fly London - Dipi614fly  Bolsos maletín ](https://images-eu.ssl-images-amazon.com/images/I/419SbrDeXcL._SL200_.jpg)](https://www.amazon.es/dp/B07GV3S3J4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GV3S3J4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Mickey Mouse Mochila Cremallera Frontal 24x21x8 cms. Mickey 
 
 [![Mickey Mouse Mochila Cremallera Frontal ](https://images-eu.ssl-images-amazon.com/images/I/51ez8WO-XAL._SL200_.jpg)](https://www.amazon.es/dp/B01LXWML7U/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LXWML7U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

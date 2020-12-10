@@ -22,6 +22,9 @@ Está [Muñequera Brazalete Movil para iPhoneX/8 Plus/7Plus Banda de Antebrazo c
 
 [![Muñequera Brazalete Movil para iPhoneX/8](https://images-eu.ssl-images-amazon.com/images/I/41MgyPfG8PL._SL200_.jpg)](https://www.amazon.es/dp/B07HHWFJKS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HHWFJKS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

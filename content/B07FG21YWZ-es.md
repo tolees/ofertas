@@ -22,6 +22,9 @@ Está [Reebok DN1529 Act Core S Grip Bolsa de Deporte  25 cm  24 litros](https:/
 
 [![Reebok DN1529 Act Core S Grip Bolsa de D](https://images-eu.ssl-images-amazon.com/images/I/41yjt9bLqzL._SL200_.jpg)](https://www.amazon.es/dp/B07FG21YWZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FG21YWZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

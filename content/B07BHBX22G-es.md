@@ -22,6 +22,9 @@ Ahora mismo tienes [Oflamn Mochila para Mochila portátil Bolsa de Escuela de Lo
 
 [![Oflamn Mochila para Mochila portátil Bol](https://images-eu.ssl-images-amazon.com/images/I/41kCl89qylL._SL200_.jpg)](https://www.amazon.es/dp/B07BHBX22G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BHBX22G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

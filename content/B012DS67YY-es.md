@@ -22,6 +22,9 @@ Está [Reebok NPC II  - Zapatillas de tenis  Niños  Negro  36 EU](https://www.a
 
 [![Reebok NPC II  - Zapatillas de tenis  Ni](https://images-eu.ssl-images-amazon.com/images/I/41Z9HcQ9tYL._SL200_.jpg)](https://www.amazon.es/dp/B012DS67YY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B012DS67YY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

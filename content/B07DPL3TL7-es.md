@@ -22,6 +22,9 @@ Ahora mismo tienes [Carpeta Archivadora Acordeon  Carpeta para Documentos A4  Ar
 
 [![Carpeta Archivadora Acordeon  Carpeta pa](https://images-eu.ssl-images-amazon.com/images/I/41802%2BSNpkL._SL200_.jpg)](https://www.amazon.es/dp/B07DPL3TL7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DPL3TL7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

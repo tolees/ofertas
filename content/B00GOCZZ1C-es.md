@@ -22,6 +22,9 @@ Está [Superga S002J20 Lamej - Zapatillas  Unisex infantil  Dorado  24 EU](https
 
 [![Superga S002J20 Lamej - Zapatillas  Unis](https://images-eu.ssl-images-amazon.com/images/I/51l9noAfdEL._SL200_.jpg)](https://www.amazon.es/dp/B00GOCZZ1C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00GOCZZ1C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

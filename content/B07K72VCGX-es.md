@@ -22,6 +22,9 @@ Está [Asics Gel-Nimbus 21 1011a257-001  Zapatillas de Running para Hombre  Negr
 
 [![Asics Gel-Nimbus 21 1011a257-001  Zapati](https://images-eu.ssl-images-amazon.com/images/I/41NRR9-hBlL._SL200_.jpg)](https://www.amazon.es/dp/B07K72VCGX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K72VCGX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Supra Titanium  Zapatillas para Hombre  Negro  Black-White 002   45.5 EU
 
 [![Supra Titanium  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41fZSBRkRwL._SL200_.jpg)](https://www.amazon.es/dp/B078ZL4B5X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078ZL4B5X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Pulsera de Actividad Pulsómetro Impermeable IP67 Pulsera In
 
 [![Pulsera de Actividad Pulsómetro Impermea](https://images-eu.ssl-images-amazon.com/images/I/51BM2ClERWL._SL200_.jpg)](https://www.amazon.es/dp/B07BH7F9BG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BH7F9BG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

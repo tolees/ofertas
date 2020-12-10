@@ -22,6 +22,9 @@ Ahora mismo tienes [FLAMEER Rueda De Acero Rueda Libre 34mm 18 Dientes Diente De
 
 [![FLAMEER Rueda De Acero Rueda Libre 34mm ](https://images-eu.ssl-images-amazon.com/images/I/41zWS3djQmL._SL200_.jpg)](https://www.amazon.es/dp/B07DG82DTM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DG82DTM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Kryptonics sk15162275 monopatín 22.5 Pulgadas de Drop Through – Mo
 
 [![Kryptonics sk15162275 monopatín 22.5 Pul](https://images-eu.ssl-images-amazon.com/images/I/415JMC%2BmeqL._SL200_.jpg)](https://www.amazon.es/dp/B014KWCQ5U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B014KWCQ5U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

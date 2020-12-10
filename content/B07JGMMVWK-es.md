@@ -22,6 +22,9 @@ Está [LiChiLan Diadema Bluetooth Auricular Estéreo Inalámbrico Deporte Sleep 
 
 [![LiChiLan Diadema Bluetooth Auricular Est](https://images-eu.ssl-images-amazon.com/images/I/51q5rD5FT-L._SL200_.jpg)](https://www.amazon.es/dp/B07JGMMVWK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JGMMVWK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

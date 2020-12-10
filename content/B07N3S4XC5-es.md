@@ -22,6 +22,9 @@ Está [Gliss - Mascarilla Mini Total Repair - 10 uds de 20ml - Formato Viaje - S
 
 [![Gliss - Mascarilla Mini Total Repair - 1](https://images-eu.ssl-images-amazon.com/images/I/31xSs-VahGL._SL200_.jpg)](https://www.amazon.es/dp/B07N3S4XC5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N3S4XC5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

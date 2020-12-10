@@ -22,6 +22,9 @@ Está [Masterpro PK1181 Set cubertería 24 Piezas Tenedores y Cuchillos  Negro](
 
 [![Masterpro PK1181 Set cubertería 24 Pieza](https://images-eu.ssl-images-amazon.com/images/I/513XGLhmOoL._SL200_.jpg)](https://www.amazon.es/dp/B07H8K7XQP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H8K7XQP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

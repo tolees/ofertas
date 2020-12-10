@@ -22,6 +22,9 @@ Está [POC Omne Air SPIN Helmet  Unisex Adulto  Uranium Black  LRG](https://www.
 
 [![POC Omne Air SPIN Helmet  Unisex Adulto ](https://images-eu.ssl-images-amazon.com/images/I/41nUr0Cp2kL._SL200_.jpg)](https://www.amazon.es/dp/B07K97C2SM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K97C2SM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

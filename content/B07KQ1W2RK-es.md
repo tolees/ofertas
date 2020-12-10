@@ -22,6 +22,9 @@ Está [Puerto de cúpula para Gopro para Hero 6 5 con Estuche a Prueba de Agua L
 
 [![Puerto de cúpula para Gopro para Hero 6 ](https://images-eu.ssl-images-amazon.com/images/I/41-x83urODL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ1W2RK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KQ1W2RK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

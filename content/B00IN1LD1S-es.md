@@ -22,6 +22,9 @@ Ahora mismo tienes [Bestway 8320539 Bomba para vaciar Piscinas  29x29x28 cm](htt
 
 [![Bestway 8320539 Bomba para vaciar Piscin](https://images-eu.ssl-images-amazon.com/images/I/31o85L0F-7L._SL200_.jpg)](https://www.amazon.es/dp/B00IN1LD1S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00IN1LD1S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Imperial Confort Paris - Colchón viscoelástico - 150 x 190 x 24 cm - C
 
 [![Imperial Confort Paris - Colchón viscoel](https://images-eu.ssl-images-amazon.com/images/I/41aG1JMuIXL._SL200_.jpg)](https://www.amazon.es/dp/B0793MHDH5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0793MHDH5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

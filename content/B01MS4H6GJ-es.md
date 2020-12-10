@@ -22,6 +22,9 @@ Ahora mismo tienes [Brother RJ-2140 - Impresora portátil 203 x 203 dpi  térmic
 
 [![Brother RJ-2140 - Impresora portátil 203](https://images-eu.ssl-images-amazon.com/images/I/41J3WqTtYpL._SL200_.jpg)](https://www.amazon.es/dp/B01MS4H6GJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MS4H6GJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

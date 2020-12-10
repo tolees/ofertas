@@ -22,6 +22,9 @@ Está [Puma Suede Platform Animal  Zapatillas para Mujer  Naranja  Dusty Coral S
 
 [![Puma Suede Platform Animal  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/41UMq44Tx3L._SL200_.jpg)](https://www.amazon.es/dp/B07CZ3HSPV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ3HSPV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

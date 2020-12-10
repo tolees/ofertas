@@ -22,6 +22,9 @@ Tienes [Silverline 675056 - Abrazadera guía  1270 mm ](https://www.amazon.es/d
 
 [![Silverline 675056 - Abrazadera guía  127](https://images-eu.ssl-images-amazon.com/images/I/31ng4yKInTL._SL200_.jpg)](https://www.amazon.es/dp/B000LFVGZC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000LFVGZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

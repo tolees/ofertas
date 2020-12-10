@@ -22,6 +22,9 @@ Está [Skechers Go 600-fun Run  Zapatillas para Niñas  Negro  Black/Multi Bkmt 
 
 [![Skechers Go 600-fun Run  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/417kkJVaH3L._SL200_.jpg)](https://www.amazon.es/dp/B07B68WWM4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B68WWM4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

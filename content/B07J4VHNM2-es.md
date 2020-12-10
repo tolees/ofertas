@@ -22,6 +22,9 @@ Está [120W Focos de Coche LED 7 Pulgadas  2pcs Superbrillantes LED Faros de Tra
 
 [![120W Focos de Coche LED 7 Pulgadas  2pcs](https://images-eu.ssl-images-amazon.com/images/I/51bIjaq17wL._SL200_.jpg)](https://www.amazon.es/dp/B07J4VHNM2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J4VHNM2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

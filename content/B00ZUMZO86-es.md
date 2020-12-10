@@ -22,6 +22,9 @@ Ahora mismo tienes [Hercules DJ Control Glow - Consola DJ con 2 ruedas Jog y eff
 
 [![Hercules DJ Control Glow - Consola DJ co](https://images-eu.ssl-images-amazon.com/images/I/51Urn0JLpaL._SL200_.jpg)](https://www.amazon.es/dp/B00ZUMZO86/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00ZUMZO86/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

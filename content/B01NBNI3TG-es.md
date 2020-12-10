@@ -22,6 +22,9 @@ Está [Reebok BD3365  Zapatillas de Trail Running para Mujer  Azul  Echo Sky Blu
 
 [![Reebok BD3365  Zapatillas de Trail Runni](https://images-eu.ssl-images-amazon.com/images/I/41iuHX%2BFxtL._SL200_.jpg)](https://www.amazon.es/dp/B01NBNI3TG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NBNI3TG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

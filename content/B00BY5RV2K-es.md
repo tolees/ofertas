@@ -22,6 +22,9 @@ Está [Samsonite Termo Young Upright Maleta  75 cm  88 L  Negro](https://www.ama
 
 [![Samsonite Termo Young Upright Maleta  75](https://images-eu.ssl-images-amazon.com/images/I/41gAeSNlFrL._SL200_.jpg)](https://www.amazon.es/dp/B00BY5RV2K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00BY5RV2K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

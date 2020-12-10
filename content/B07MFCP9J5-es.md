@@ -22,6 +22,9 @@ Tienes [Louviva Masajeador  10 Modos de Frecuencia  Silicona Suave  Impermeable 
 
 [![Louviva Masajeador  10 Modos de Frecuenc](https://images-eu.ssl-images-amazon.com/images/I/41UNWv0B2UL._SL200_.jpg)](https://www.amazon.es/dp/B07MFCP9J5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MFCP9J5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

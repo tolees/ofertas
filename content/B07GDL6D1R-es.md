@@ -22,6 +22,9 @@ Ahora mismo tienes [OxyLED luces de armario luces LED inalámbricas de batería 
 
 [![OxyLED luces de armario luces LED inalám](https://images-eu.ssl-images-amazon.com/images/I/41tArUSK6vL._SL200_.jpg)](https://www.amazon.es/dp/B07GDL6D1R/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GDL6D1R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

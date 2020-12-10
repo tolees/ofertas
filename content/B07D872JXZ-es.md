@@ -22,6 +22,9 @@ Tienes [Munich TIGA Indoor  Zapatillas de Deporte Unisex Adulto   Verde 24   42 
 
 [![Munich TIGA Indoor  Zapatillas de Deport](https://images-eu.ssl-images-amazon.com/images/I/41jzoX7CJ4L._SL200_.jpg)](https://www.amazon.es/dp/B07D872JXZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D872JXZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

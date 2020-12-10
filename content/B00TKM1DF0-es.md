@@ -22,6 +22,9 @@ Está [Superga 4524 Cotu - Zapatillas Unisex adulto  Rosso  Geranium   40](https
 
 [![Superga 4524 Cotu - Zapatillas Unisex ad](https://images-eu.ssl-images-amazon.com/images/I/41XizjdeBjL._SL200_.jpg)](https://www.amazon.es/dp/B00TKM1DF0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00TKM1DF0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

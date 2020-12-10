@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Qt Vulc 2.0 W  Zapatillas de Deporte para Mujer  Azul
 
 [![Adidas Qt Vulc 2.0 W  Zapatillas de Depo](https://images-eu.ssl-images-amazon.com/images/I/41WfgKhMFXL._SL200_.jpg)](https://www.amazon.es/dp/B077VSFP84/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077VSFP84/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

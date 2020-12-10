@@ -22,6 +22,9 @@ Ahora mismo tienes [Luz Trasera para Bicicleta Recargable USB  Super Brillante R
 
 [![Luz Trasera para Bicicleta Recargable US](https://images-eu.ssl-images-amazon.com/images/I/51QStDxSkiL._SL200_.jpg)](https://www.amazon.es/dp/B071ZPHDMN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071ZPHDMN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

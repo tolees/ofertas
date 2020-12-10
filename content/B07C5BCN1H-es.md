@@ -22,6 +22,9 @@ Está [JACK & JONES Jconewlinn Sweat Hood Capucha  Negro Black  Large para Hombr
 
 [![JACK & JONES Jconewlinn Sweat Hood Capuc](https://images-eu.ssl-images-amazon.com/images/I/41YR-pluonL._SL200_.jpg)](https://www.amazon.es/dp/B07C5BCN1H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C5BCN1H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

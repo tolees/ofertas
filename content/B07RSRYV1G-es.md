@@ -22,6 +22,9 @@ Ahora mismo tienes [Aire Acondicionado Johnson JT09K 2200 Fr](https://www.amazon
 
 [![Aire Acondicionado Johnson JT09K 2200 Fr](https://images-eu.ssl-images-amazon.com/images/I/516ZnY1V7sL._SL200_.jpg)](https://www.amazon.es/dp/B07RSRYV1G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07RSRYV1G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

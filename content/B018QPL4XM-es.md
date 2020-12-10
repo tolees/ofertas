@@ -22,6 +22,9 @@ Está [Dr. Scholl - Lima electrónica azul velvet smooth](https://www.amazon.es/
 
 [![Dr. Scholl - Lima electrónica azul velve](https://images-eu.ssl-images-amazon.com/images/I/51MFLSnhDLL._SL200_.jpg)](https://www.amazon.es/dp/B018QPL4XM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B018QPL4XM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

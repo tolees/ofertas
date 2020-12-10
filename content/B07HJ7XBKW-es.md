@@ -22,6 +22,9 @@ Ahora mismo tienes [Calvin Klein Hombre 3.5cm Adj.belt Cinturón Not Applicable 
 
 [![Calvin Klein Hombre 3.5cm Adj.belt Cintu](https://images-eu.ssl-images-amazon.com/images/I/31zPh-fg43L._SL200_.jpg)](https://www.amazon.es/dp/B07HJ7XBKW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HJ7XBKW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

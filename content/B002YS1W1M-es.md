@@ -22,6 +22,9 @@ Está [Nayblan Fox 40 - Silbato 15300  color rojo  talla única](https://www.ama
 
 [![Nayblan Fox 40 - Silbato 15300  color ro](https://images-eu.ssl-images-amazon.com/images/I/41L2xxyb6CL._SL200_.jpg)](https://www.amazon.es/dp/B002YS1W1M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B002YS1W1M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Bosch Professional 611910007 Martillo Perforador A Batería  18 V  Negro/
 
 [![Bosch Professional 611910007 Martillo Pe](https://images-eu.ssl-images-amazon.com/images/I/41xkwUOObML._SL200_.jpg)](https://www.amazon.es/dp/B01N0S4Y5X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N0S4Y5X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

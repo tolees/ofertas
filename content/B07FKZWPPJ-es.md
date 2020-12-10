@@ -22,6 +22,9 @@ Está [Besrey Silla de paseo viaje compacta y ligera avión cochecito bebe con a
 
 [![Besrey Silla de paseo viaje compacta y l](https://images-eu.ssl-images-amazon.com/images/I/51kuzHndFwL._SL200_.jpg)](https://www.amazon.es/dp/B07FKZWPPJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FKZWPPJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

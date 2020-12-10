@@ -22,6 +22,9 @@ Tienes [SRICAM SP015 Cámara de Vigilancia IP con IR Vision Nocturna  IP66 Imper
 
 [![SRICAM SP015 Cámara de Vigilancia IP con](https://images-eu.ssl-images-amazon.com/images/I/31fVGvtFv%2BL._SL200_.jpg)](https://www.amazon.es/dp/B075QBZKPQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075QBZKPQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

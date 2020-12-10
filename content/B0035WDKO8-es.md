@@ -22,6 +22,9 @@ Está [BIODERMA Matricium Cofre 30 Dosis 1 ml](https://www.amazon.es/dp/B0035WDK
 
 [![BIODERMA Matricium Cofre 30 Dosis 1 ml](https://images-eu.ssl-images-amazon.com/images/I/31eNO%2BIz0uL._SL200_.jpg)](https://www.amazon.es/dp/B0035WDKO8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0035WDKO8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

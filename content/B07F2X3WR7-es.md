@@ -22,6 +22,9 @@ Está [Sistema de Depilación por Luz Pulsada Intensa IPL  Dispositivo DEESS ser
 
 [![Sistema de Depilación por Luz Pulsada In](https://images-eu.ssl-images-amazon.com/images/I/41XG-TrMg8L._SL200_.jpg)](https://www.amazon.es/dp/B07F2X3WR7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F2X3WR7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

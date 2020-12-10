@@ -22,6 +22,9 @@ Está [SYROKAN Sujetador Deportivo de Alto Impacto con Cremallera para Mujer Bla
 
 [![SYROKAN Sujetador Deportivo de Alto Impa](https://images-eu.ssl-images-amazon.com/images/I/41Prh4ydb1L._SL200_.jpg)](https://www.amazon.es/dp/B07FCFYHCZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FCFYHCZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Russell Hobbs 25081-56 - Tostadora Bubble 2S de acero inoxidable con det
 
 [![Russell Hobbs 25081-56 - Tostadora Bubbl](https://images-eu.ssl-images-amazon.com/images/I/511DtYwg41L._SL200_.jpg)](https://www.amazon.es/dp/B079TC4M7K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079TC4M7K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Kingston DataTraveler Micro 3.1 DTMC3/64GB Llave USB 3.1 Ultra Pequeña 
 
 [![Kingston DataTraveler Micro 3.1 DTMC3/64](https://images-eu.ssl-images-amazon.com/images/I/21Zf5zTzIFL._SL200_.jpg)](https://www.amazon.es/dp/B00ZRHY9LM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ZRHY9LM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

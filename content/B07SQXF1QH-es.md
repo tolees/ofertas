@@ -22,6 +22,9 @@ Ahora mismo tienes [Cámara Digital Cámara Vlogging con WiFi 2.7K Ultra HD 24MP
 
 [![Cámara Digital Cámara Vlogging con WiFi ](https://images-eu.ssl-images-amazon.com/images/I/51fAA4OAE3L._SL200_.jpg)](https://www.amazon.es/dp/B07SQXF1QH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07SQXF1QH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

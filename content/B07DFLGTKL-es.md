@@ -22,6 +22,9 @@ Está [adidas Cy5606 Bolsa de Deporte Infantil  58 cm  Blabas/Negro](https://www
 
 [![adidas Cy5606 Bolsa de Deporte Infantil ](https://images-eu.ssl-images-amazon.com/images/I/41Htvk1nmcL._SL200_.jpg)](https://www.amazon.es/dp/B07DFLGTKL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFLGTKL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

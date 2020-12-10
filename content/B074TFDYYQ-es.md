@@ -22,6 +22,9 @@ Ahora mismo tienes [flintronic Linterna de Trabajo Led  2 Pezzi Lámpara de Trab
 
 [![flintronic Linterna de Trabajo Led  2 Pe](https://images-eu.ssl-images-amazon.com/images/I/41G9If2507L._SL200_.jpg)](https://www.amazon.es/dp/B074TFDYYQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074TFDYYQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

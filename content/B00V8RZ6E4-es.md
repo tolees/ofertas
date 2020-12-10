@@ -22,6 +22,9 @@ Tienes [SRAM 00.2418.052.003 Cassette  PG-1130  11V  11-36  M](https://www.amazo
 
 [![SRAM 00.2418.052.003 Cassette  PG-1130  ](https://images-eu.ssl-images-amazon.com/images/I/516EPTkg29L._SL200_.jpg)](https://www.amazon.es/dp/B00V8RZ6E4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00V8RZ6E4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

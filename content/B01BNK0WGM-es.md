@@ -22,6 +22,9 @@ Está [Rimmel London Super Gel Esmalte de Uñas Tono 25-47 gr](https://www.amazo
 
 [![Rimmel London Super Gel Esmalte de Uñas ](https://images-eu.ssl-images-amazon.com/images/I/31v1iACIS3L._SL200_.jpg)](https://www.amazon.es/dp/B01BNK0WGM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BNK0WGM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

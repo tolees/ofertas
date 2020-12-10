@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Ultra Flex-Capsule  Zapatillas sin Cordones para Mu
 
 [![Skechers Ultra Flex-Capsule  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41H%2Bd6SXpjL._SL200_.jpg)](https://www.amazon.es/dp/B074BYYYGG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074BYYYGG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

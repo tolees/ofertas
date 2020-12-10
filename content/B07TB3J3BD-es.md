@@ -22,6 +22,10 @@ Está [LEVIS FOOTWEAR AND ACCESSORIES New Duncan Cinturón  Marrón  Dark Brown 
 
 [![LEVIS FOOTWEAR AND ACCESSORIES New Dunca](https://m.media-amazon.com/images/I/412tRLfsGkL._SL200_.jpg)](https://www.amazon.es/dp/B07TB3J3BD/?tag=tolees-21)
 
+Principales características:
+
+- Belt
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07TB3J3BD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

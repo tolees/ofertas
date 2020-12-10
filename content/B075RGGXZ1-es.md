@@ -22,6 +22,9 @@ Está [GORE WEAR C3 Mallas cortas de ciclismo para hombre con badana  Talla: L  
 
 [![GORE WEAR C3 Mallas cortas de ciclismo p](https://images-eu.ssl-images-amazon.com/images/I/31nUaUXF%2BiL._SL200_.jpg)](https://www.amazon.es/dp/B075RGGXZ1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075RGGXZ1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [David Jones - 5728-2a  Bolsos de mano Mujer  Verde  Khaki   13x26x32 cm  
 
 [![David Jones - 5728-2a  Bolsos de mano Mu](https://images-eu.ssl-images-amazon.com/images/I/41F5%2BzcT-zL._SL200_.jpg)](https://www.amazon.es/dp/B07KCKVHPK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCKVHPK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

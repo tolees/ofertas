@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas DU9597 Mallas  Mujer  Negro/Blanco  42](https://www.a
 
 [![adidas DU9597 Mallas  Mujer  Negro/Blanc](https://images-eu.ssl-images-amazon.com/images/I/31x38xWp-dL._SL200_.jpg)](https://www.amazon.es/dp/B07KQJRS4Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KQJRS4Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [edc by Esprit 027cc1b032  Pantalones para Mujer  Azul  Light
 
 [![edc by Esprit 027cc1b032  Pantalones par](https://images-eu.ssl-images-amazon.com/images/I/41ifO206k5L._SL200_.jpg)](https://www.amazon.es/dp/B01MXR04SR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MXR04SR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

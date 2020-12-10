@@ -22,6 +22,9 @@ Tienes [Under Armour UA HG Armour Capri Leggings  Mujer  Negro Black/Metallic Si
 
 [![Under Armour UA HG Armour Capri Leggings](https://images-eu.ssl-images-amazon.com/images/I/415qwBFFJtL._SL200_.jpg)](https://www.amazon.es/dp/B0719CW4XR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0719CW4XR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

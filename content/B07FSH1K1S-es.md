@@ -22,6 +22,9 @@ Tienes [Cynthia 6.5 Pulgadas Grande LED Digital Reloj Despertador con Puerto USB
 
 [![Cynthia 6.5 Pulgadas Grande LED Digital ](https://images-eu.ssl-images-amazon.com/images/I/41EndqY6wpL._SL200_.jpg)](https://www.amazon.es/dp/B07FSH1K1S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FSH1K1S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

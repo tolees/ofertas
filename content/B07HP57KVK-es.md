@@ -22,6 +22,9 @@ Está [Volcom Men s Lido Volley 16" Boardshorts  Hombre  Charcoal Heather  XL](h
 
 [![Volcom Men s Lido Volley 16" Boardshorts](https://images-eu.ssl-images-amazon.com/images/I/316xsB-piOL._SL200_.jpg)](https://www.amazon.es/dp/B07HP57KVK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HP57KVK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

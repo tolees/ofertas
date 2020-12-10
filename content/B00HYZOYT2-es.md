@@ -22,6 +22,9 @@ Ahora mismo tienes [Keter -  Conjunto de terraza o balcón Río  Color blanco](h
 
 [![Keter -  Conjunto de terraza o balcón Rí]()](https://www.amazon.es/dp/B00HYZOYT2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00HYZOYT2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

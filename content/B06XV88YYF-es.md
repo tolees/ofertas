@@ -22,6 +22,9 @@ Está [PJ Masks P.J.Masks Taza plastico  STOR 01904   Estampado  Color Azul y Ro
 
 [![PJ Masks P.J.Masks Taza plastico  STOR 0](https://images-eu.ssl-images-amazon.com/images/I/51gfO6abEaL._SL200_.jpg)](https://www.amazon.es/dp/B06XV88YYF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XV88YYF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

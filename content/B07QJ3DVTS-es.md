@@ -22,6 +22,9 @@ Está [Limxems LX-007B - Cargador rápido inalámbrico de 10 W para iPhone  Sams
 
 [![Limxems LX-007B - Cargador rápido inalám](https://images-eu.ssl-images-amazon.com/images/I/31kHxfSfH6L._SL200_.jpg)](https://www.amazon.es/dp/B07QJ3DVTS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QJ3DVTS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

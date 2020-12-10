@@ -22,6 +22,9 @@ Tienes [Alpino - Kit de Modelado Magic Dough 8 x 40 gr](https://www.amazon.es/dp
 
 [![Alpino - Kit de Modelado Magic Dough 8 x](https://images-eu.ssl-images-amazon.com/images/I/515E5k1JIQL._SL200_.jpg)](https://www.amazon.es/dp/B00AO0DE6S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00AO0DE6S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

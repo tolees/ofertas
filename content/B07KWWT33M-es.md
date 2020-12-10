@@ -22,6 +22,9 @@ Está [Victure Reproductor MP3 Bluetooth 4.1 16GB Soporta hasta 128GB Cuerpo Efe
 
 [![Victure Reproductor MP3 Bluetooth 4.1 16](https://images-eu.ssl-images-amazon.com/images/I/41EYbKEEKdL._SL200_.jpg)](https://www.amazon.es/dp/B07KWWT33M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KWWT33M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

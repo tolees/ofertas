@@ -22,6 +22,9 @@ Ahora mismo tienes [Blackview BV5800 Movil Antigolpes 5580mAh 18:9 Pantalla Comp
 
 [![Blackview BV5800 Movil Antigolpes 5580mA](https://images-eu.ssl-images-amazon.com/images/I/51Z9VPvTs6L._SL200_.jpg)](https://www.amazon.es/dp/B07JG1RQFT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JG1RQFT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

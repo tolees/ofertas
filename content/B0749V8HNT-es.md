@@ -22,6 +22,9 @@ Está [Dickies Maysville Pantalones Cortos Deportivos  Hombre  Naranja  Energy O
 
 [![Dickies Maysville Pantalones Cortos Depo](https://images-eu.ssl-images-amazon.com/images/I/41hGKe-p7SL._SL200_.jpg)](https://www.amazon.es/dp/B0749V8HNT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0749V8HNT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Emma & Giovanni - T-Shirt Algodón Manga Corta - Hombre  Bla
 
 [![Emma & Giovanni - T-Shirt Algodón Manga ](https://images-eu.ssl-images-amazon.com/images/I/41FGKE97UHL._SL200_.jpg)](https://www.amazon.es/dp/B07Q58GYN6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07Q58GYN6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

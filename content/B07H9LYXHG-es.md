@@ -22,6 +22,9 @@ Está [TRUTH & FABLE Jcm40478 Vestidos de Fiesta para Bodas  Multicoloured  40  
 
 [![TRUTH & FABLE Jcm40478 Vestidos de Fiest](https://images-eu.ssl-images-amazon.com/images/I/318F0eODzqL._SL200_.jpg)](https://www.amazon.es/dp/B07H9LYXHG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H9LYXHG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

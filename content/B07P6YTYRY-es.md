@@ -22,6 +22,9 @@ Está [Weiao Marcos de Fotos Marco para Foto Marco de Madera Photo Frame Conjunt
 
 [![Weiao Marcos de Fotos Marco para Foto Ma](https://images-eu.ssl-images-amazon.com/images/I/41y3-lJxFcL._SL200_.jpg)](https://www.amazon.es/dp/B07P6YTYRY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P6YTYRY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

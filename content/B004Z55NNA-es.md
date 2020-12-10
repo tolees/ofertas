@@ -22,6 +22,9 @@ Ahora mismo tienes [Makita P-71772 - Porta bolsa con correa](https://www.amazon.
 
 [![Makita P-71772 - Porta bolsa con correa](https://images-eu.ssl-images-amazon.com/images/I/41GIHNgILjL._SL200_.jpg)](https://www.amazon.es/dp/B004Z55NNA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B004Z55NNA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

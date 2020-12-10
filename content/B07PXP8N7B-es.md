@@ -22,6 +22,9 @@ Está [ASUS TUF Gaming FX705DY-AU017T - Portátil Gaming de 17.3" FHD  AMD Ryzen
 
 [![ASUS TUF Gaming FX705DY-AU017T - Portáti](https://images-eu.ssl-images-amazon.com/images/I/417vpWf6%2B1L._SL200_.jpg)](https://www.amazon.es/dp/B07PXP8N7B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PXP8N7B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Grohe Mecanismo aquadimer Ref. 12433000](https://www.amazon.es/dp/B004PUA
 
 [![Grohe Mecanismo aquadimer Ref. 12433000](https://images-eu.ssl-images-amazon.com/images/I/41AG3Z84YPL._SL200_.jpg)](https://www.amazon.es/dp/B004PUA9GQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004PUA9GQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

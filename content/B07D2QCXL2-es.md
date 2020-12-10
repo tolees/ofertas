@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Classic Nylon  Zapatillas para Hombre  Azul  Weather-
 
 [![Reebok Classic Nylon  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/41qLQH2ttTL._SL200_.jpg)](https://www.amazon.es/dp/B07D2QCXL2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D2QCXL2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

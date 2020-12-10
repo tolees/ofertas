@@ -22,6 +22,9 @@ Está [Puma 4Keeps Bra Top  Mujer  Black/Bronze  XS](https://www.amazon.es/dp/B0
 
 [![Puma 4Keeps Bra Top  Mujer  Black/Bronze](https://images-eu.ssl-images-amazon.com/images/I/41LwFUcnmdL._SL200_.jpg)](https://www.amazon.es/dp/B07DFQP9YW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFQP9YW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

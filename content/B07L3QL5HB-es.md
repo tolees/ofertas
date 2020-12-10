@@ -22,6 +22,9 @@ Tienes [L Oreal Paris Make-Up Infalible - Pack de 2 Pintalabios 24H Permanentes 
 
 [![L Oreal Paris Make-Up Infalible - Pack d](https://images-eu.ssl-images-amazon.com/images/I/41yJxgbTISL._SL200_.jpg)](https://www.amazon.es/dp/B07L3QL5HB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L3QL5HB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

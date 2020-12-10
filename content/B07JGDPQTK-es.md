@@ -22,6 +22,9 @@ Está [Lacoste Mh7092 Bañador  Azul  Capitaine/Calanque 9ba   Small para Hombre
 
 [![Lacoste Mh7092 Bañador  Azul  Capitaine/](https://images-eu.ssl-images-amazon.com/images/I/41tkEr8soxL._SL200_.jpg)](https://www.amazon.es/dp/B07JGDPQTK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JGDPQTK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

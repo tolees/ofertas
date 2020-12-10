@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Bradley PM202056 Jeans Rectos  Azul  Dark Used Cb4   32W / 34
 
 [![Pepe Jeans Bradley PM202056 Jeans Rectos]()](https://www.amazon.es/dp/B06XK573GR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XK573GR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

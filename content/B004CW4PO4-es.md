@@ -22,6 +22,9 @@ Tienes [Elite Arion - Rodillo de ciclismo  color rojo y negro](https://www.amazo
 
 [![Elite Arion - Rodillo de ciclismo  color](https://images-eu.ssl-images-amazon.com/images/I/31xOqi3-ibL._SL200_.jpg)](https://www.amazon.es/dp/B004CW4PO4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B004CW4PO4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

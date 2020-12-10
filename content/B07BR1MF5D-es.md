@@ -22,6 +22,9 @@ Está [oodji Ultra Mujer Top de Tejido Texturizado con Decoración Étnica  38 /
 
 [![oodji Ultra Mujer Top de Tejido Texturiz](https://images-eu.ssl-images-amazon.com/images/I/51BGXaQujdL._SL200_.jpg)](https://www.amazon.es/dp/B07BR1MF5D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BR1MF5D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

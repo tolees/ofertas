@@ -22,6 +22,9 @@ Está [X96 MAX TV Box Android 8.1 RAM 2GB + ROM 16GB CPU:Amlogic S905X2 Quad Cor
 
 [![X96 MAX TV Box Android 8.1 RAM 2GB + ROM](https://images-eu.ssl-images-amazon.com/images/I/41P4c7IbTSL._SL200_.jpg)](https://www.amazon.es/dp/B07KSXKVKX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KSXKVKX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

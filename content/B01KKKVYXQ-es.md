@@ -22,6 +22,9 @@ Está [Beoplay H5 - Auriculares inalámbricos In-Ear  Bluetooth 4.2  aptX  Li-Io
 
 [![Beoplay H5 - Auriculares inalámbricos In](https://images-eu.ssl-images-amazon.com/images/I/31%2BGKBO9QjL._SL200_.jpg)](https://www.amazon.es/dp/B01KKKVYXQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01KKKVYXQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [OurLeeme Multifunciã³n Prensa de ajo del Acero Inoxidable Jengibre Amo
 
 [![OurLeeme Multifunciã³n Prensa de ajo del](https://images-eu.ssl-images-amazon.com/images/I/41hFgdy%2BJZL._SL200_.jpg)](https://www.amazon.es/dp/B07HKVSZ2N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HKVSZ2N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

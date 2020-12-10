@@ -22,6 +22,9 @@ Está [Ultrasport 331100000029 - Pesas gimnásticas de goma  2 x 1.5 kg](https:/
 
 [![Ultrasport 331100000029 - Pesas gimnásti](https://images-eu.ssl-images-amazon.com/images/I/41lTeiBS%2BwL._SL200_.jpg)](https://www.amazon.es/dp/B003FSTA1O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B003FSTA1O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

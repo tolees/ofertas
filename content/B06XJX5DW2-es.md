@@ -22,6 +22,9 @@ Está [TW steel-men de watch-vs37](https://www.amazon.es/dp/B06XJX5DW2/?tag=tole
 
 [![TW steel-men de watch-vs37](https://images-eu.ssl-images-amazon.com/images/I/51k1JoPvniL._SL200_.jpg)](https://www.amazon.es/dp/B06XJX5DW2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XJX5DW2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

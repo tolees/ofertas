@@ -22,6 +22,9 @@ Está [Plumas para impresión 3D  NEWSTYLE 3D Pluma Inteligente Pen Bolígrafo d
 
 [![Plumas para impresión 3D  NEWSTYLE 3D Pl](https://images-eu.ssl-images-amazon.com/images/I/41tDNNGzCGL._SL200_.jpg)](https://www.amazon.es/dp/B07DGBZVBT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DGBZVBT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

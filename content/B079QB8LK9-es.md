@@ -22,6 +22,9 @@ Tienes [Pepe Jeans London Collie Warm  Botas para Mujer  Negro  Black 999   41 E
 
 [![Pepe Jeans London Collie Warm  Botas par](https://images-eu.ssl-images-amazon.com/images/I/41drq6z%2BDoL._SL200_.jpg)](https://www.amazon.es/dp/B079QB8LK9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079QB8LK9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

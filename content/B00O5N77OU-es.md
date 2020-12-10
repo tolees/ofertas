@@ -22,6 +22,9 @@ Está [Nike Stefan Janoski  GS   Zapatillas de Skateboard para Niños  Azul Blue
 
 [![Nike Stefan Janoski  GS   Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41P%2BOknauwL._SL200_.jpg)](https://www.amazon.es/dp/B00O5N77OU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00O5N77OU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

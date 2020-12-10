@@ -22,6 +22,9 @@ Está [Stanley 1-84-280 tijeras de electricista - Tijeras de electricista  Rojo 
 
 [![Stanley 1-84-280 tijeras de electricista](https://images-eu.ssl-images-amazon.com/images/I/41g8bgvj%2BkL._SL200_.jpg)](https://www.amazon.es/dp/B008BGZ2TY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B008BGZ2TY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

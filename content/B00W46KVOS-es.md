@@ -22,6 +22,9 @@ Está [Sony Cyber-Shot DSC-WX500 - Cámara compacta de 18 MP  Pantalla de 3"  Zo
 
 [![Sony Cyber-Shot DSC-WX500 - Cámara compa](https://images-eu.ssl-images-amazon.com/images/I/413K5k21iNL._SL200_.jpg)](https://www.amazon.es/dp/B00W46KVOS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00W46KVOS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

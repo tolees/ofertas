@@ -22,6 +22,9 @@ Tienes [Trixie Saco Suave Jasira  25x27x45 cm  Negro/Beige](https://www.amazon.e
 
 [![Trixie Saco Suave Jasira  25x27x45 cm  N](https://images-eu.ssl-images-amazon.com/images/I/41O117OrbAL._SL200_.jpg)](https://www.amazon.es/dp/B000OLWTCC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000OLWTCC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

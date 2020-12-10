@@ -22,6 +22,9 @@ Está [Heineken 00 Cerveza - Caja de 24 Latas x 330 ml - Total: 7.92 L](https://
 
 [![Heineken 00 Cerveza - Caja de 24 Latas x](https://images-eu.ssl-images-amazon.com/images/I/414HW5O6NhL._SL200_.jpg)](https://www.amazon.es/dp/B06XRR7NBQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XRR7NBQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

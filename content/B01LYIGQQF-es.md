@@ -22,6 +22,9 @@ Está [2 piezas Cadena de luces LED De pilas 5m 50 LED blanco con Control Remoto
 
 [![2 piezas Cadena de luces LED De pilas 5m](https://images-eu.ssl-images-amazon.com/images/I/618mByxUzKL._SL200_.jpg)](https://www.amazon.es/dp/B01LYIGQQF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LYIGQQF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

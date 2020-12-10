@@ -22,6 +22,9 @@ Ahora mismo tienes [Marvel. Ultimate Heroes  Pack 6 películas  [Blu-ray]](https
 
 [![Marvel. Ultimate Heroes  Pack 6 película](https://images-eu.ssl-images-amazon.com/images/I/5175C2RZyXL._SL200_.jpg)](https://www.amazon.es/dp/B009G8ERNI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B009G8ERNI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

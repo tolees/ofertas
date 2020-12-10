@@ -22,6 +22,9 @@ Está [Diadora Shape 10 SL  Zapatillas de Running Unisex Adulto  Negro Nero C020
 
 [![Diadora Shape 10 SL  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41qHRabhgCL._SL200_.jpg)](https://www.amazon.es/dp/B07DRXT9LY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DRXT9LY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

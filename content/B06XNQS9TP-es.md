@@ -22,6 +22,9 @@ Tienes [HyperX Fury - Memoria RAM de 32 GB  DDR4  Kit 4 x 8 GB  2400 MHz  CL15  
 
 [![HyperX Fury - Memoria RAM de 32 GB  DDR4](https://images-eu.ssl-images-amazon.com/images/I/51gn2zrr0JL._SL200_.jpg)](https://www.amazon.es/dp/B06XNQS9TP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XNQS9TP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

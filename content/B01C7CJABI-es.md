@@ -22,6 +22,9 @@ Ahora mismo tienes [MyKronoz ZeCircle - Smartwatch  Reloj de Pulsera  con Pantal
 
 [![MyKronoz ZeCircle - Smartwatch  Reloj de](https://images-eu.ssl-images-amazon.com/images/I/41FinAl538L._SL200_.jpg)](https://www.amazon.es/dp/B01C7CJABI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01C7CJABI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

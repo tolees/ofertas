@@ -22,6 +22,9 @@ Ahora mismo tienes [Finether-Cuchillo de Cocina Cuchillo de Cocinero Chef Profes
 
 [![Finether-Cuchillo de Cocina Cuchillo de ](https://images-eu.ssl-images-amazon.com/images/I/41dSnbt1nGL._SL200_.jpg)](https://www.amazon.es/dp/B07B7KTSXM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B7KTSXM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Salomon XA Pro 3D CSWP J  Calzado de Trail Running Impermeable para Niñ
 
 [![Salomon XA Pro 3D CSWP J  Calzado de Tra](https://images-eu.ssl-images-amazon.com/images/I/51L-AOdej2L._SL200_.jpg)](https://www.amazon.es/dp/B07CYYF512/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CYYF512/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES PREMIUM Jprcorban Trouser Sts  Pantalones De Tr
 
 [![JACK & JONES PREMIUM Jprcorban Trouser S](https://images-eu.ssl-images-amazon.com/images/I/41Oxs6W2KZL._SL200_.jpg)](https://www.amazon.es/dp/B01N8TQ6N8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N8TQ6N8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

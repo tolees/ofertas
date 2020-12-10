@@ -22,6 +22,9 @@ Tienes [Dakine Eq Duffle Bolsa de Deporte  29 cm  35 litros  Black](https://www.
 
 [![Dakine Eq Duffle Bolsa de Deporte  29 cm](https://images-eu.ssl-images-amazon.com/images/I/41YYamVrBhL._SL200_.jpg)](https://www.amazon.es/dp/B078VH9QDK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078VH9QDK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

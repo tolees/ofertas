@@ -22,6 +22,9 @@ Ahora mismo tienes [Burberry Weekend Men Eau de Toilette Vaporizador 50 ml](http
 
 [![Burberry Weekend Men Eau de Toilette Vap](https://images-eu.ssl-images-amazon.com/images/I/41mu0YpGGiL._SL200_.jpg)](https://www.amazon.es/dp/B0009OAH5K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0009OAH5K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

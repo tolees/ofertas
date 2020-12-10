@@ -22,6 +22,9 @@ Ahora mismo tienes [BLACK+DECKER BDCSFL20C-QW Atornillador con Batería de Litio
 
 [![BLACK+DECKER BDCSFL20C-QW Atornillador c](https://images-eu.ssl-images-amazon.com/images/I/41OdP4fX44L._SL200_.jpg)](https://www.amazon.es/dp/B075PY8JFK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075PY8JFK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

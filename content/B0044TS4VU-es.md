@@ -22,6 +22,9 @@ Tienes [Vans Authentic  Zapatillas De Lona Infantil  Rojo  Red   28 EU](https://
 
 [![Vans Authentic  Zapatillas De Lona Infan](https://images-eu.ssl-images-amazon.com/images/I/51dt90gP8pL._SL200_.jpg)](https://www.amazon.es/dp/B0044TS4VU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0044TS4VU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

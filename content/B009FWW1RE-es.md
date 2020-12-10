@@ -22,6 +22,9 @@ Está [Ciroc Coconut Vodka - 700 ml](https://www.amazon.es/dp/B009FWW1RE/?tag=to
 
 [![Ciroc Coconut Vodka - 700 ml](https://images-eu.ssl-images-amazon.com/images/I/31JoRvBSZyL._SL200_.jpg)](https://www.amazon.es/dp/B009FWW1RE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B009FWW1RE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

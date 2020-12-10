@@ -22,6 +22,9 @@ Está [Anal Fantasy Anal Adventure Kit Erótico - 269 gr](https://www.amazon.es/
 
 [![Anal Fantasy Anal Adventure Kit Erótico ](https://images-eu.ssl-images-amazon.com/images/I/31cBGOtbxGL._SL200_.jpg)](https://www.amazon.es/dp/B00GD64DYY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00GD64DYY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

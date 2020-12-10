@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Zoe PL211255 Pantalones    Deep Sea 597   W24  Ta
 
 [![Pepe Jeans Zoe PL211255 Pantalones    De](https://images-eu.ssl-images-amazon.com/images/I/31tbV490y5L._SL200_.jpg)](https://www.amazon.es/dp/B07CRF19FC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CRF19FC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [L Oreal Paris Dermo Expertise Crema Cuidado Revitalift Laser x3 Doble Cu
 
 [![L Oreal Paris Dermo Expertise Crema Cuid](https://images-eu.ssl-images-amazon.com/images/I/418LmDolTuL._SL200_.jpg)](https://www.amazon.es/dp/B01MDOZFJ5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MDOZFJ5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

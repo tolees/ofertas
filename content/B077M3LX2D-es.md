@@ -22,6 +22,9 @@ Está [Curren hombres reloj de cuarzo analógico  reloj de pulsera de estilo mil
 
 [![Curren hombres reloj de cuarzo analógico](https://images-eu.ssl-images-amazon.com/images/I/51SBbh72PUL._SL200_.jpg)](https://www.amazon.es/dp/B077M3LX2D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077M3LX2D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

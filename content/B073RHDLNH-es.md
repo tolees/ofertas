@@ -22,6 +22,9 @@ Está [Adidas Adizero Tempo 9 Aktiv  Zapatillas de Deporte Unisex Adulto  Negro 
 
 [![Adidas Adizero Tempo 9 Aktiv  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41kedqloMlL._SL200_.jpg)](https://www.amazon.es/dp/B073RHDLNH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RHDLNH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

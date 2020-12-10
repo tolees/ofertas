@@ -22,6 +22,9 @@ Ahora mismo tienes [Lacoste Sport Avance 318 1 SPM  Zapatillas para Hombre  Blan
 
 [![Lacoste Sport Avance 318 1 SPM  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/31TYjNcWA2L._SL200_.jpg)](https://www.amazon.es/dp/B07CZ7LXFK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ7LXFK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

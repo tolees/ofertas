@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Core Straight R Knit suéter  Marfil  Sahara/Ivory A374   XX-
 
 [![G-STAR RAW Core Straight R Knit suéter  ](https://images-eu.ssl-images-amazon.com/images/I/41bLB8of1rL._SL200_.jpg)](https://www.amazon.es/dp/B07M5Z9HFX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07M5Z9HFX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

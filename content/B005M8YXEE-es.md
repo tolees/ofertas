@@ -22,6 +22,9 @@ Está [Umbra 299330-491 Colgador de joyas Trigem Nickel](https://www.amazon.es/d
 
 [![Umbra 299330-491 Colgador de joyas Trige](https://images-eu.ssl-images-amazon.com/images/I/41GQo4Z9rIL._SL200_.jpg)](https://www.amazon.es/dp/B005M8YXEE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B005M8YXEE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

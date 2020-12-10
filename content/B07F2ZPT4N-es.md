@@ -22,6 +22,9 @@ Está [adidas Adultos Run gurteltasche  Raw ámbar/Anti-Reflective  5.5 x 27 c
 
 [![adidas Adultos Run gurteltasche  Raw ámb](https://images-eu.ssl-images-amazon.com/images/I/417SmQVSVwL._SL200_.jpg)](https://www.amazon.es/dp/B07F2ZPT4N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F2ZPT4N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

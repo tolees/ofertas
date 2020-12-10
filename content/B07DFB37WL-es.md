@@ -22,6 +22,9 @@ Ahora mismo tienes [Funko 32861 Pop Vinyl: South Park: Cartman  Multi](https://w
 
 [![Funko 32861 Pop Vinyl: South Park: Cartm](https://images-eu.ssl-images-amazon.com/images/I/41AX-ENqrRL._SL200_.jpg)](https://www.amazon.es/dp/B07DFB37WL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DFB37WL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

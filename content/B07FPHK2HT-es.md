@@ -22,6 +22,9 @@ Tienes [Paquete de 6 Piezas de Ropa Interior de Niña de Algodón de Entre 1 y 7
 
 [![Paquete de 6 Piezas de Ropa Interior de ](https://images-eu.ssl-images-amazon.com/images/I/41iCxS6l1zL._SL200_.jpg)](https://www.amazon.es/dp/B07FPHK2HT/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FPHK2HT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

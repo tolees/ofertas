@@ -22,6 +22,9 @@ Tienes [Lacoste Sport L1230  Polo Hombre  Azul  Pratensis Adb   X-Small  Talla d
 
 [![Lacoste Sport L1230  Polo Hombre  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/31U6aNQ1qeL._SL200_.jpg)](https://www.amazon.es/dp/B07JDTF8ZR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JDTF8ZR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [LE COQ SPORTIF Nationale  Zapatillas Unisex Adulto  Negro Tr
 
 [![LE COQ SPORTIF Nationale  Zapatillas Uni](https://images-eu.ssl-images-amazon.com/images/I/313KeBTzuZL._SL200_.jpg)](https://www.amazon.es/dp/B07DVX16J3/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DVX16J3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

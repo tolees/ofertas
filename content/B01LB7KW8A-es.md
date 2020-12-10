@@ -22,6 +22,9 @@ Está [deAO Camión de Construcción RC Profesional Funcion Completa de 6 Canale
 
 [![deAO Camión de Construcción RC Profesion](https://images-eu.ssl-images-amazon.com/images/I/51QuXro6ZwL._SL200_.jpg)](https://www.amazon.es/dp/B01LB7KW8A/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LB7KW8A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

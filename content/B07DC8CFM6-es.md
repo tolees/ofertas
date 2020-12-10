@@ -22,6 +22,9 @@ Tienes [LE COQ SPORTIF Courtace Sport Dress Blue  Zapatillas para Mujer  Azul Bl
 
 [![LE COQ SPORTIF Courtace Sport Dress Blue](https://images-eu.ssl-images-amazon.com/images/I/41r49KTIbdL._SL200_.jpg)](https://www.amazon.es/dp/B07DC8CFM6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DC8CFM6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

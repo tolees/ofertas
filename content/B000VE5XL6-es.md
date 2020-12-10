@@ -22,6 +22,14 @@ Ahora mismo tienes [Casio Collection W-800H-1AVES  Reloj Digital Unisex  Negro](
 
 [![Casio Collection W-800H-1AVES  Reloj Dig](https://m.media-amazon.com/images/I/51q5oz0Ib5L._SL200_.jpg)](https://www.amazon.es/dp/B000VE5XL6/?tag=tolees-21)
 
+Características:
+
+- Resistente al agua hasta 10 bar / 100 metros
+- Caja y correa de resina sintética, un material resistente y flexible
+- Incluye cronómetro, alarma, función de despertador y calendario automático
+- La duración de la batería es de 10 años
+- Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
+
 [Visítala!!!](https://www.amazon.es/dp/B000VE5XL6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

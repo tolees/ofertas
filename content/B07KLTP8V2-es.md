@@ -22,6 +22,9 @@ Ahora mismo tienes [Auricular Bluetooth TIMMY Estilo Gancho Cascos Solo Auricula
 
 [![Auricular Bluetooth TIMMY Estilo Gancho ](https://images-eu.ssl-images-amazon.com/images/I/41mhAlf5p0L._SL200_.jpg)](https://www.amazon.es/dp/B07KLTP8V2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KLTP8V2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

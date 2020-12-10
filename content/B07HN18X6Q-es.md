@@ -22,6 +22,9 @@ Está [Mufly Weld - Delantal de piel de vaca para soldar  color amarillo](https:
 
 [![Mufly Weld - Delantal de piel de vaca pa](https://images-eu.ssl-images-amazon.com/images/I/41imIw6DZNL._SL200_.jpg)](https://www.amazon.es/dp/B07HN18X6Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HN18X6Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

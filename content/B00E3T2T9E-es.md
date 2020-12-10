@@ -22,6 +22,9 @@ Ahora mismo tienes [Figura Skylanders Single: Rip Tide](https://www.amazon.es/dp
 
 [![Figura Skylanders Single: Rip Tide](https://images-eu.ssl-images-amazon.com/images/I/51X4i0y8zgL._SL200_.jpg)](https://www.amazon.es/dp/B00E3T2T9E/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00E3T2T9E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

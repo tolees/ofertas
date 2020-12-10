@@ -22,6 +22,9 @@ Ahora mismo tienes [El Profesor Layton Y La Diva Eterna - Edición Coleccionista
 
 [![El Profesor Layton Y La Diva Eterna - Ed](https://images-eu.ssl-images-amazon.com/images/I/5109DhHOjjL._SL200_.jpg)](https://www.amazon.es/dp/B00M40K1TY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00M40K1TY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

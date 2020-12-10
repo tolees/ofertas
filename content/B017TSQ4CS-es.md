@@ -22,6 +22,9 @@ Tienes [Nike Ebernon Mid  Zapatillas Altas para Mujer  Blanco White 100  38.5 EU
 
 [![Nike Ebernon Mid  Zapatillas Altas para ](https://images-eu.ssl-images-amazon.com/images/I/31aHUlAoRRL._SL200_.jpg)](https://www.amazon.es/dp/B017TSQ4CS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B017TSQ4CS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

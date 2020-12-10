@@ -22,6 +22,9 @@ Tienes [Bushnell 10x50mm Legacy - Prismático  resistente al agua  negro](https:
 
 [![Bushnell 10x50mm Legacy - Prismático  re](https://images-eu.ssl-images-amazon.com/images/I/31kHjKwaadL._SL200_.jpg)](https://www.amazon.es/dp/B000HI6RFC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000HI6RFC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

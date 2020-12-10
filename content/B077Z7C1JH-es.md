@@ -22,6 +22,9 @@ Está [BOSS Athleisure Piro  Polo para Hombre  Gris  Grey 20   S](https://www.am
 
 [![BOSS Athleisure Piro  Polo para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41QY102FgCL._SL200_.jpg)](https://www.amazon.es/dp/B077Z7C1JH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077Z7C1JH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

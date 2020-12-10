@@ -22,6 +22,9 @@ Tienes [Linksys LGS318P-EU - Smart Switch Gigabit PoE+ para empresas de 18 puert
 
 [![Linksys LGS318P-EU - Smart Switch Gigabi](https://images-eu.ssl-images-amazon.com/images/I/31TCR60mLSL._SL200_.jpg)](https://www.amazon.es/dp/B00GK63YSI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GK63YSI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

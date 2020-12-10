@@ -22,6 +22,9 @@ Está [STANLEY FMHT0-75438 - Mordaza FatMax boca larga 150 mm](https://www.amazo
 
 [![STANLEY FMHT0-75438 - Mordaza FatMax boc](https://images-eu.ssl-images-amazon.com/images/I/31m4npCwolL._SL200_.jpg)](https://www.amazon.es/dp/B01MSN138F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MSN138F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Havaianas Origine Iii  Alpargatas para Unisex Adulto  Azul  Blue   39 EU
 
 [![Havaianas Origine Iii  Alpargatas para U](https://images-eu.ssl-images-amazon.com/images/I/41fGPX0mU3L._SL200_.jpg)](https://www.amazon.es/dp/B01L41BW3W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01L41BW3W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

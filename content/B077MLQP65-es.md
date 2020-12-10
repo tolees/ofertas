@@ -22,6 +22,9 @@ Está [Only Onltitania L/s Pullover CC Knt suéter  Rojo Flame Scarlet  40  Tall
 
 [![Only Onltitania L/s Pullover CC Knt suét](https://images-eu.ssl-images-amazon.com/images/I/51HTjfCj9eL._SL200_.jpg)](https://www.amazon.es/dp/B077MLQP65/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077MLQP65/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [AmazonBasics - Set de 2 soportes ajustables de techo - Níqu
 
 [![AmazonBasics - Set de 2 soportes ajustab](https://images-eu.ssl-images-amazon.com/images/I/41iTnwn%2BNUL._SL200_.jpg)](https://www.amazon.es/dp/B01N7DWO15/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N7DWO15/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

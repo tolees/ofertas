@@ -22,6 +22,9 @@ Está [1080P Dash CAM Espejo Retrovisor Directtyteam 7 Pulgadas Full HD Cámara 
 
 [![1080P Dash CAM Espejo Retrovisor Directt](https://images-eu.ssl-images-amazon.com/images/I/51dd7dosHpL._SL200_.jpg)](https://www.amazon.es/dp/B07DWJPBFY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DWJPBFY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

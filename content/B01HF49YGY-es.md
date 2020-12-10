@@ -22,6 +22,9 @@ Ahora mismo tienes [Integral XPRESSION 32GB USB 2.0 Type-A Multi Unidad Flash US
 
 [![Integral XPRESSION 32GB USB 2.0 Type-A M](https://images-eu.ssl-images-amazon.com/images/I/41ehYy5zVkL._SL200_.jpg)](https://www.amazon.es/dp/B01HF49YGY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01HF49YGY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [LeaderPro Auriculares In-Ear Mini Auriculares Bluetooth Inal
 
 [![LeaderPro Auriculares In-Ear Mini Auricu](https://images-eu.ssl-images-amazon.com/images/I/41-a5AyciQL._SL200_.jpg)](https://www.amazon.es/dp/B07DL11C8Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DL11C8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

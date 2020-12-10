@@ -22,6 +22,9 @@ Tienes [Bandai Star Wars 1/12 C-3po [ Japan Import ] by Bandai](https://www.amaz
 
 [![Bandai Star Wars 1/12 C-3po [ Japan Impo](https://images-eu.ssl-images-amazon.com/images/I/413QsOUqUmL._SL200_.jpg)](https://www.amazon.es/dp/B00T41EW1O/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00T41EW1O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

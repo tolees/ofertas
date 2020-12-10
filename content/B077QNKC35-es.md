@@ -22,6 +22,9 @@ Está [adidas Superstar Cm8073  Zapatillas para Hombre  Blanco  White  42 2/3 EU
 
 [![adidas Superstar Cm8073  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/41oJ905kNqL._SL200_.jpg)](https://www.amazon.es/dp/B077QNKC35/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077QNKC35/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Emma & Giovanni - T-Shirt Algodón Manga Corta - Hombre  Blanco  XXL ](h
 
 [![Emma & Giovanni - T-Shirt Algodón Manga ](https://images-eu.ssl-images-amazon.com/images/I/41-lmT3X18L._SL200_.jpg)](https://www.amazon.es/dp/B07Q46FH1P/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Q46FH1P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

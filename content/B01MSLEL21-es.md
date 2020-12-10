@@ -22,6 +22,9 @@ Está [Lee Scarlett Cropped  Jeans Mujer  Negro  Black Rinse   W27/L31  Talla de
 
 [![Lee Scarlett Cropped  Jeans Mujer  Negro](https://images-eu.ssl-images-amazon.com/images/I/317XO7K-VCL._SL200_.jpg)](https://www.amazon.es/dp/B01MSLEL21/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MSLEL21/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

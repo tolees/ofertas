@@ -22,6 +22,9 @@ Ahora mismo tienes [Pawise Troley para Transporte  37 x 27 x 33 cm](https://www.
 
 [![Pawise Troley para Transporte  37 x 27 x](https://images-eu.ssl-images-amazon.com/images/I/419z5SFEXzL._SL200_.jpg)](https://www.amazon.es/dp/B01MRE2GG8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MRE2GG8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

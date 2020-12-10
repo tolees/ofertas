@@ -22,6 +22,9 @@ Está [Regatta Edgepoint II Low Rise Hiking Boot  Zapatillas de Senderismo para 
 
 [![Regatta Edgepoint II Low Rise Hiking Boo](https://images-eu.ssl-images-amazon.com/images/I/416Y7MVh6oL._SL200_.jpg)](https://www.amazon.es/dp/B07BZV3SLG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BZV3SLG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

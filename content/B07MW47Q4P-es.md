@@ -22,6 +22,9 @@ Está [Sistema de Sonido de la Barra de Sonido Majority Ben Nevis II+ 150W - Sub
 
 [![Sistema de Sonido de la Barra de Sonido ](https://images-eu.ssl-images-amazon.com/images/I/41gAvT2jdKL._SL200_.jpg)](https://www.amazon.es/dp/B07MW47Q4P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MW47Q4P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

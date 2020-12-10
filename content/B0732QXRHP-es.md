@@ -22,6 +22,9 @@ Tienes [Electro-Weideworld Brazalete Deportivo Respirable Ajustable con Bandas R
 
 [![Electro-Weideworld Brazalete Deportivo R](https://images-eu.ssl-images-amazon.com/images/I/51YENb7CROL._SL200_.jpg)](https://www.amazon.es/dp/B0732QXRHP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0732QXRHP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

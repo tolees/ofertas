@@ -22,6 +22,9 @@ Está [Spalding Essential Reversible Short de Juego  Hombre  Rojo/Blanco  L](htt
 
 [![Spalding Essential Reversible Short de J](https://images-eu.ssl-images-amazon.com/images/I/61wIy%2BK7VeL._SL200_.jpg)](https://www.amazon.es/dp/B00V5LTQU8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00V5LTQU8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

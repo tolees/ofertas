@@ -22,6 +22,9 @@ Tienes [Head Xtremesoft Overgrip  Unisex Adulto  Rosa  Talla Única](https://www
 
 [![Head Xtremesoft Overgrip  Unisex Adulto ](https://images-eu.ssl-images-amazon.com/images/I/51b7bdP08mL._SL200_.jpg)](https://www.amazon.es/dp/B01BILU950/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01BILU950/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

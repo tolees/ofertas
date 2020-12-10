@@ -22,6 +22,9 @@ Está [Foco LED Proyector  Lámpara Camping 15W  Foco LED Reflector para Trabajo
 
 [![Foco LED Proyector  Lámpara Camping 15W ](https://images-eu.ssl-images-amazon.com/images/I/51jdzTmmjxL._SL200_.jpg)](https://www.amazon.es/dp/B01H6YJ0I0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01H6YJ0I0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

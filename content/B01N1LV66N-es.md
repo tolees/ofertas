@@ -22,6 +22,9 @@ Ahora mismo tienes [Dakine 8160105 Kit Escolar  Unisex Adulto  Negro  Tory   Tal
 
 [![Dakine 8160105 Kit Escolar  Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41BEkovzYFL._SL200_.jpg)](https://www.amazon.es/dp/B01N1LV66N/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N1LV66N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

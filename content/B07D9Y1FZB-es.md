@@ -22,6 +22,9 @@ Ahora mismo tienes [Energy Sistem Extra Battery 2200 - Batería externa  2200 mA
 
 [![Energy Sistem Extra Battery 2200 - Bater](https://images-eu.ssl-images-amazon.com/images/I/310fSWc9kwL._SL200_.jpg)](https://www.amazon.es/dp/B07D9Y1FZB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D9Y1FZB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [SAMSONITE Dream Rider - Suitcase  Equipaje Infantil](https://www.amazon.
 
 [![SAMSONITE Dream Rider - Suitcase  Equipa](https://images-eu.ssl-images-amazon.com/images/I/31NCGoWMaGL._SL200_.jpg)](https://www.amazon.es/dp/B07FR8WFFD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FR8WFFD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

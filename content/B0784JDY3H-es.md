@@ -22,6 +22,9 @@ Está [Lypumso Sketch Lápiz de dibujo lápices  boceto conjunto herramientas de
 
 [![Lypumso Sketch Lápiz de dibujo lápices  ](https://images-eu.ssl-images-amazon.com/images/I/51X33rJ9JYL._SL200_.jpg)](https://www.amazon.es/dp/B0784JDY3H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0784JDY3H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

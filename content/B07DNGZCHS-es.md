@@ -22,6 +22,9 @@ Está [Pablosky Botas para Bebés   Rosa 041875   29 EU](https://www.amazon.es/d
 
 [![Pablosky Botas para Bebés   Rosa 041875 ](https://images-eu.ssl-images-amazon.com/images/I/414VwL58IzL._SL200_.jpg)](https://www.amazon.es/dp/B07DNGZCHS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DNGZCHS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

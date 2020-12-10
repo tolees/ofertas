@@ -22,6 +22,9 @@ Tienes [Speedo 8-09040C259 Bañador de Competición  Niños  Rojo  Lava Red/Blan
 
 [![Speedo 8-09040C259 Bañador de Competició](https://images-eu.ssl-images-amazon.com/images/I/61RRK6VYHxL._SL200_.jpg)](https://www.amazon.es/dp/B078GSQFVH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078GSQFVH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

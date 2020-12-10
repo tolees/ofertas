@@ -22,6 +22,9 @@ Tienes [Medisana HP 605 61147  Almohadilla Térmica  manta eléctrica con 4 conf
 
 [![Medisana HP 605 61147  Almohadilla Térmi](https://images-eu.ssl-images-amazon.com/images/I/41pxIcupimL._SL200_.jpg)](https://www.amazon.es/dp/B008KWO4GQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B008KWO4GQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

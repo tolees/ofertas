@@ -22,6 +22,9 @@ Ahora mismo tienes [Bosch Professional GBH 18 V-EC - Martillo perforador a bater
 
 [![Bosch Professional GBH 18 V-EC - Martill](https://images-eu.ssl-images-amazon.com/images/I/51u4KleQ7zL._SL200_.jpg)](https://www.amazon.es/dp/B009ZCZWO8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B009ZCZWO8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

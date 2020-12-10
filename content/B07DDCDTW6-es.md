@@ -22,6 +22,9 @@ Está [Puma ESS Logo Pants  Mujer  Dark Gray Heather  S](https://www.amazon.es/d
 
 [![Puma ESS Logo Pants  Mujer  Dark Gray He](https://images-eu.ssl-images-amazon.com/images/I/31aDfNlQV1L._SL200_.jpg)](https://www.amazon.es/dp/B07DDCDTW6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDCDTW6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

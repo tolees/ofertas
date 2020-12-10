@@ -22,6 +22,9 @@ Está [Kipling - New Shopper S  Bolsos totes Mujer  Verde  Jaded Green C ](https
 
 [![Kipling - New Shopper S  Bolsos totes Mu](https://images-eu.ssl-images-amazon.com/images/I/41NenuNHelL._SL200_.jpg)](https://www.amazon.es/dp/B07DKHFZMP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DKHFZMP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

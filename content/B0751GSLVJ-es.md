@@ -22,6 +22,9 @@ Está [New Balance Fresh Foam Arishi Sport  Zapatillas de Running para Hombre  G
 
 [![New Balance Fresh Foam Arishi Sport  Zap](https://images-eu.ssl-images-amazon.com/images/I/41UHJqUjfJL._SL200_.jpg)](https://www.amazon.es/dp/B0751GSLVJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0751GSLVJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

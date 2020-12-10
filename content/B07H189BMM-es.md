@@ -22,6 +22,9 @@ Está [Gant Cotton Pique Crew  suéter Hombre  Azul  Periwinkle Blue 440   Large
 
 [![Gant Cotton Pique Crew  suéter Hombre  A](https://images-eu.ssl-images-amazon.com/images/I/41s-H1PUaZL._SL200_.jpg)](https://www.amazon.es/dp/B07H189BMM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H189BMM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

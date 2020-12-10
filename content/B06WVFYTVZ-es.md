@@ -22,6 +22,9 @@ Tienes [Esprit - 077ea1v020  Carteras Mujer  Grau  Gunmetal   1x9x14 cm  W x H D
 
 [![Esprit - 077ea1v020  Carteras Mujer  Gra](https://images-eu.ssl-images-amazon.com/images/I/518gae3q%2BCL._SL200_.jpg)](https://www.amazon.es/dp/B06WVFYTVZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06WVFYTVZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

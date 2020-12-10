@@ -22,6 +22,9 @@ Está [Reloj Chronostar Watches - Mujer R3753258504](https://www.amazon.es/dp/B0
 
 [![Reloj Chronostar Watches - Mujer R375325](https://images-eu.ssl-images-amazon.com/images/I/411pyLlC8IL._SL200_.jpg)](https://www.amazon.es/dp/B01M0JNXWH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M0JNXWH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

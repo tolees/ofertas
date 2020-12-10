@@ -22,6 +22,9 @@ Está [bass3d 41573  Zapatillas para Mujer  Gris  38 EU](https://www.amazon.es/d
 
 [![bass3d 41573  Zapatillas para Mujer  Gri](https://images-eu.ssl-images-amazon.com/images/I/415H3qZ-ceL._SL200_.jpg)](https://www.amazon.es/dp/B07DDSQRYR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDSQRYR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

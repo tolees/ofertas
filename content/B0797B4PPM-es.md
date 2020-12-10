@@ -22,6 +22,9 @@ Tienes [Sony Xperia XA2 DS - Smartphone de 5.2"  Octa Core 2.2 GHz  RAM de 3 GB 
 
 [![Sony Xperia XA2 DS - Smartphone de 5.2" ](https://images-eu.ssl-images-amazon.com/images/I/41ah3842rkL._SL200_.jpg)](https://www.amazon.es/dp/B0797B4PPM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0797B4PPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [CM-7 Auriculares Inalámbricos Bluetooth IPX4 Resistente al Sudor Deport
 
 [![CM-7 Auriculares Inalámbricos Bluetooth ](https://images-eu.ssl-images-amazon.com/images/I/315AltUrMmL._SL200_.jpg)](https://www.amazon.es/dp/B0731K7LMY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0731K7LMY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

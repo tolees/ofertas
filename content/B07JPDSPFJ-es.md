@@ -22,6 +22,9 @@ Está [Esprit Hombre 128ee2i002 suéter Not Applicable  Azul  Navy 400   Large](
 
 [![Esprit Hombre 128ee2i002 suéter Not Appl](https://images-eu.ssl-images-amazon.com/images/I/41UfQHlsdxL._SL200_.jpg)](https://www.amazon.es/dp/B07JPDSPFJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JPDSPFJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

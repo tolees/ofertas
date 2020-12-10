@@ -22,6 +22,9 @@ Ahora mismo tienes [AIJEESI I10 TWS 5.0 Auriculares Bluetooth inalámbricos con 
 
 [![AIJEESI I10 TWS 5.0 Auriculares Bluetoot](https://images-eu.ssl-images-amazon.com/images/I/31xXB0E6i2L._SL200_.jpg)](https://www.amazon.es/dp/B07N13HHXM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07N13HHXM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

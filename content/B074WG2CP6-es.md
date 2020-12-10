@@ -22,6 +22,9 @@ Está [DP Grifería Bahamas - Columna de hidromasaje en aluminio  Blanco](https:
 
 [![DP Grifería Bahamas - Columna de hidroma](https://images-eu.ssl-images-amazon.com/images/I/31YsglODxXL._SL200_.jpg)](https://www.amazon.es/dp/B074WG2CP6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074WG2CP6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

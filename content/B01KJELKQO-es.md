@@ -22,6 +22,9 @@ Está [Tarjeta de Memoria SanDisk Extreme SDXC de 128 GB con hasta 90 MB/s  Clas
 
 [![Tarjeta de Memoria SanDisk Extreme SDXC ](https://images-eu.ssl-images-amazon.com/images/I/511fFxd5VuL._SL200_.jpg)](https://www.amazon.es/dp/B01KJELKQO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01KJELKQO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

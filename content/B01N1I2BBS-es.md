@@ -22,6 +22,9 @@ Está [JACK & JONES Jfwvision Mixed Anthracite  Zapatillas para Hombre  Gris  41
 
 [![JACK & JONES Jfwvision Mixed Anthracite ](https://images-eu.ssl-images-amazon.com/images/I/41lR1vhwW1L._SL200_.jpg)](https://www.amazon.es/dp/B01N1I2BBS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N1I2BBS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

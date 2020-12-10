@@ -22,6 +22,9 @@ Ahora mismo tienes [A Farewell To Kings: 40th Anniversary [Vinilo]](https://www.
 
 [![A Farewell To Kings: 40th Anniversary [V](https://images-eu.ssl-images-amazon.com/images/I/51vPlzFxqZL._SL200_.jpg)](https://www.amazon.es/dp/B076JGYZ43/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076JGYZ43/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

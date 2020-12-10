@@ -22,6 +22,9 @@ Está [Columbia Backpedal  Zapatillas Casual para Hombre  Gris  Ti Grey Steel  B
 
 [![Columbia Backpedal  Zapatillas Casual pa](https://images-eu.ssl-images-amazon.com/images/I/41HCa1iC3HL._SL200_.jpg)](https://www.amazon.es/dp/B07DVDYPQR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVDYPQR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

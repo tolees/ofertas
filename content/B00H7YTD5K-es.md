@@ -22,6 +22,9 @@ Tienes [LifeProof Belkin Funda para móvil Apple iPhone 5/5S  color blanco](http
 
 [![LifeProof Belkin Funda para móvil Apple ](https://images-eu.ssl-images-amazon.com/images/I/41Nk05uD0-L._SL200_.jpg)](https://www.amazon.es/dp/B00H7YTD5K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00H7YTD5K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

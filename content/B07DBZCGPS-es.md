@@ -22,6 +22,9 @@ Está [Puma Persist XT  Zapatillas de Deporte para Hombre  Gris  Quarry-Fizzy Ye
 
 [![Puma Persist XT  Zapatillas de Deporte p](https://images-eu.ssl-images-amazon.com/images/I/41SyFiY12iL._SL200_.jpg)](https://www.amazon.es/dp/B07DBZCGPS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DBZCGPS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

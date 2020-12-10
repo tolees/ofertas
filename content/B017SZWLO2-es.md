@@ -22,6 +22,9 @@ Está [Newskill Atami Speed Tamaño L - Alfombrilla gaming profesional  borde co
 
 [![Newskill Atami Speed Tamaño L - Alfombri](https://images-eu.ssl-images-amazon.com/images/I/319%2BVa7EgEL._SL200_.jpg)](https://www.amazon.es/dp/B017SZWLO2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B017SZWLO2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

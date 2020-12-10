@@ -22,6 +22,9 @@ Tienes [San Ignacio PK1176 Hogar Cocina 3 Sartenes Y Set 6 Mugs  Azul](https://w
 
 [![San Ignacio PK1176 Hogar Cocina 3 Sarten](https://images-eu.ssl-images-amazon.com/images/I/41ncsFRBXqL._SL200_.jpg)](https://www.amazon.es/dp/B07H8LD3HX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H8LD3HX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

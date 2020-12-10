@@ -22,6 +22,9 @@ Tienes [Asics Patriot 10 Zapatillas de Running Hombre  Multicolor  Deep Ocean/Fl
 
 [![Asics Patriot 10 Zapatillas de Running H](https://images-eu.ssl-images-amazon.com/images/I/41rYak4lA2L._SL200_.jpg)](https://www.amazon.es/dp/B079J5TQHH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079J5TQHH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

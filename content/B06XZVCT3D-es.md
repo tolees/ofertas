@@ -22,6 +22,9 @@ Tienes [Acer RC271U 27" Wide Quad HD IPS Negro  Plata pantalla para PC - Monitor
 
 [![Acer RC271U 27" Wide Quad HD IPS Negro  ](https://images-eu.ssl-images-amazon.com/images/I/51VhcJ9K59L._SL200_.jpg)](https://www.amazon.es/dp/B06XZVCT3D/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XZVCT3D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

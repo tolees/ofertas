@@ -22,6 +22,9 @@ Está [Spalding NBA Marble BW out Sz. 7  83-635Z  Balón de Baloncesto  Unisex  
 
 [![Spalding NBA Marble BW out Sz. 7  83-635](https://images-eu.ssl-images-amazon.com/images/I/51AkmQMpOdL._SL200_.jpg)](https://www.amazon.es/dp/B0794SB8RC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0794SB8RC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

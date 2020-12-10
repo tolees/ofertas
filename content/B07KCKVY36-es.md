@@ -22,6 +22,9 @@ Está [David Jones - 5948-4  Bolsos de mano Mujer  Azul  P.Blue   16x21x31 cm  W
 
 [![David Jones - 5948-4  Bolsos de mano Muj](https://images-eu.ssl-images-amazon.com/images/I/41Lmu-t9P2L._SL200_.jpg)](https://www.amazon.es/dp/B07KCKVY36/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCKVY36/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

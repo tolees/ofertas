@@ -22,6 +22,9 @@ Está [adidas DM6160 Bolsa de Tela y de Playa Mujer   Negro/Blanco   15x24x45 cm
 
 [![adidas DM6160 Bolsa de Tela y de Playa M](https://images-eu.ssl-images-amazon.com/images/I/41NT2In5o9L._SL200_.jpg)](https://www.amazon.es/dp/B07DDJSDYL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DDJSDYL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

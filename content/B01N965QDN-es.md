@@ -22,6 +22,9 @@ Tienes [Puma Pulse Ignite XT Swan Wn s  Zapatillas Deportivas para Interior para
 
 [![Puma Pulse Ignite XT Swan Wn s  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41AejF-dlQL._SL200_.jpg)](https://www.amazon.es/dp/B01N965QDN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N965QDN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

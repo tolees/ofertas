@@ -22,6 +22,9 @@ Ahora mismo tienes [HOMFY Protector de Colchón Impermeable 160x200  150x190   F
 
 [![HOMFY Protector de Colchón Impermeable 1](https://images-eu.ssl-images-amazon.com/images/I/41E1O47e7%2BL._SL200_.jpg)](https://www.amazon.es/dp/B075T2CRXP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075T2CRXP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

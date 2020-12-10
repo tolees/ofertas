@@ -22,6 +22,9 @@ Ahora mismo tienes [COMLIFE Lámpara Antimosquitos UV 360° Mata Insectos No Pos
 
 [![COMLIFE Lámpara Antimosquitos UV 360° Ma](https://images-eu.ssl-images-amazon.com/images/I/41jfGbEW6YL._SL200_.jpg)](https://www.amazon.es/dp/B07FJPBVM7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FJPBVM7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

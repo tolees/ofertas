@@ -22,6 +22,9 @@ Está [TFA 20.1028.05 Domatic - Estación meteorológica analógica de madera de
 
 [![TFA 20.1028.05 Domatic - Estación meteor](https://images-eu.ssl-images-amazon.com/images/I/41GIZIUTzzL._SL200_.jpg)](https://www.amazon.es/dp/B00139RPPU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00139RPPU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

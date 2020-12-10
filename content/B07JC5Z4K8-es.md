@@ -22,6 +22,9 @@ Tienes [Venom - Edición Especial Figura  4K UHD + BD 3D + BD + BD Extras  [Blu-
 
 [![Venom - Edición Especial Figura  4K UHD ](https://images-eu.ssl-images-amazon.com/images/I/41LCh0RObFL._SL200_.jpg)](https://www.amazon.es/dp/B07JC5Z4K8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JC5Z4K8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

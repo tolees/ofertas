@@ -22,6 +22,9 @@ Ahora mismo tienes [D-Link DHP-P601AV – Kit Powerline AV2 PLC 1000 Extensor de
 
 [![D-Link DHP-P601AV – Kit Powerline AV2 PL](https://images-eu.ssl-images-amazon.com/images/I/41b-2imxgRL._SL200_.jpg)](https://www.amazon.es/dp/B00PVE2DP0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00PVE2DP0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

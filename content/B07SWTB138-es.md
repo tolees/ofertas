@@ -22,6 +22,9 @@ Está [Lamtwheel Scooter Eléctrico Motor De 1200 Vatios - Rango De 40-50 Km/Hy 
 
 [![Lamtwheel Scooter Eléctrico Motor De 120](https://images-eu.ssl-images-amazon.com/images/I/51YugvPV0RL._SL200_.jpg)](https://www.amazon.es/dp/B07SWTB138/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07SWTB138/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

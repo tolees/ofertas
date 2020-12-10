@@ -22,6 +22,9 @@ Está [Nike Wmns Md Runner 2 Eng Mesh  Zapatillas de Running para Mujer  Multico
 
 [![Nike Wmns Md Runner 2 Eng Mesh  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41r6Xdr3jLL._SL200_.jpg)](https://www.amazon.es/dp/B07CYGHP9Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CYGHP9Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [5BILLION Rodillo de Espuma - Rodillo Muscular de Alta Densidad 43 * 15 cm
 
 [![5BILLION Rodillo de Espuma - Rodillo Mus](https://images-eu.ssl-images-amazon.com/images/I/41AfC9wwoFL._SL200_.jpg)](https://www.amazon.es/dp/B07CPRXJPV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CPRXJPV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

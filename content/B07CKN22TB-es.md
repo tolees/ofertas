@@ -22,6 +22,9 @@ Ahora mismo tienes [GEARGO - Filtro para Reemplazo de Purificador de Aire Domés
 
 [![GEARGO - Filtro para Reemplazo de Purifi](https://images-eu.ssl-images-amazon.com/images/I/41j0SJSiG-L._SL200_.jpg)](https://www.amazon.es/dp/B07CKN22TB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CKN22TB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

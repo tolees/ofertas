@@ -22,6 +22,9 @@ Está [Tamaris 26793  Botas Chukka para Mujer  Rosa  Old Rose   38 EU](https://w
 
 [![Tamaris 26793  Botas Chukka para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/514YAzli9YL._SL200_.jpg)](https://www.amazon.es/dp/B072R7SJ6N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072R7SJ6N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

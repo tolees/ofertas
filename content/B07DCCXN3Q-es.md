@@ -22,6 +22,9 @@ Está [Puma Jaab XT Wn s  Zapatillas de Deporte para Mujer  Gris  Quarry White  
 
 [![Puma Jaab XT Wn s  Zapatillas de Deporte](https://images-eu.ssl-images-amazon.com/images/I/41Prgscue8L._SL200_.jpg)](https://www.amazon.es/dp/B07DCCXN3Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DCCXN3Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

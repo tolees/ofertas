@@ -22,6 +22,9 @@ Está [TRESemmé Acondicionador Liso Keratina  675 ml - Paquete de 4](https://ww
 
 [![TRESemmé Acondicionador Liso Keratina  6](https://images-eu.ssl-images-amazon.com/images/I/31R9FJeKPZL._SL200_.jpg)](https://www.amazon.es/dp/B072MK1Q6P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072MK1Q6P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

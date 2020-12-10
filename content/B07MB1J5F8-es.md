@@ -22,6 +22,9 @@ Tienes [GRIFEMA G11503 - PORTO Grifo de lavabo empotrado con función de ahorro 
 
 [![GRIFEMA G11503 - PORTO Grifo de lavabo e](https://images-eu.ssl-images-amazon.com/images/I/31sMOhrec5L._SL200_.jpg)](https://www.amazon.es/dp/B07MB1J5F8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MB1J5F8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

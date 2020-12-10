@@ -22,6 +22,9 @@ Está [La Roche-Posay Kerium  Champú  125 ml](https://www.amazon.es/dp/B000Y7WI
 
 [![La Roche-Posay Kerium  Champú  125 ml](https://images-eu.ssl-images-amazon.com/images/I/31vsqb8aGDL._SL200_.jpg)](https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000Y7WIQI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

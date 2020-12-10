@@ -22,6 +22,9 @@ Está [Desires Kunta 2 Pantalones  Negro  Black   WNA/L34  Tamaño del Fabricant
 
 [![Desires Kunta 2 Pantalones  Negro  Black](https://images-eu.ssl-images-amazon.com/images/I/4103oA%2B30aL._SL200_.jpg)](https://www.amazon.es/dp/B0733HMWCF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0733HMWCF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

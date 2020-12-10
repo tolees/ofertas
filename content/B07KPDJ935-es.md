@@ -22,6 +22,9 @@ Tienes [Adidas Predator 19.3 FG  Botas de fútbol para Hombre  000  39 1/3 EU](h
 
 [![Adidas Predator 19.3 FG  Botas de fútbol](https://images-eu.ssl-images-amazon.com/images/I/41c8J4ZfYTL._SL200_.jpg)](https://www.amazon.es/dp/B07KPDJ935/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KPDJ935/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

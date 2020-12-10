@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Logo Rib Hoody  Capucha Hombre  Gris  Cloud Htr 501   Lar
 
 [![Tommy Hilfiger Logo Rib Hoody  Capucha H](https://images-eu.ssl-images-amazon.com/images/I/3159ZniXdWL._SL200_.jpg)](https://www.amazon.es/dp/B07HFNCQL5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HFNCQL5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

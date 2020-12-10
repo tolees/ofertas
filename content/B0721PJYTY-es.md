@@ -22,6 +22,9 @@ Está [Arlo VMA4600-10000S Panel Solar diseñado para Alimentar videocámaras Pr
 
 [![Arlo VMA4600-10000S Panel Solar diseñado](https://images-eu.ssl-images-amazon.com/images/I/41QoucUW8yL._SL200_.jpg)](https://www.amazon.es/dp/B0721PJYTY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0721PJYTY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

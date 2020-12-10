@@ -22,6 +22,9 @@ Tienes [Philonext Volantes de bádminton  12 Piezas Volantes de Pluma de Ganso  
 
 [![Philonext Volantes de bádminton  12 Piez](https://images-eu.ssl-images-amazon.com/images/I/51LJ90b2BpL._SL200_.jpg)](https://www.amazon.es/dp/B07CZH7K31/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZH7K31/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

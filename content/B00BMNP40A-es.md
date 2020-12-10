@@ -22,6 +22,9 @@ Está [Libid Toys Vibrador  17 Cm  Resistente Al Agua - 245 gr](https://www.amaz
 
 [![Libid Toys Vibrador  17 Cm  Resistente A](https://images-eu.ssl-images-amazon.com/images/I/31dl9Pq1nyL._SL200_.jpg)](https://www.amazon.es/dp/B00BMNP40A/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00BMNP40A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

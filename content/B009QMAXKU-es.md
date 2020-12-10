@@ -22,6 +22,9 @@ Tienes [Tayg 21070037 Gaveta apilable nº55  336 x 216 x 200 mm   Azul ](https:/
 
 [![Tayg 21070037 Gaveta apilable nº55  336 ](https://images-eu.ssl-images-amazon.com/images/I/413I3RnVSmL._SL200_.jpg)](https://www.amazon.es/dp/B009QMAXKU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B009QMAXKU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

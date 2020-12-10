@@ -22,6 +22,9 @@ Está [Canon IXUS 190 - Cámara compacta de 20 MP  Pantalla de 2.7"  20x ZoomPlu
 
 [![Canon IXUS 190 - Cámara compacta de 20 M](https://images-eu.ssl-images-amazon.com/images/I/41Fc82aBiLL._SL200_.jpg)](https://www.amazon.es/dp/B01NAR8O1I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NAR8O1I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

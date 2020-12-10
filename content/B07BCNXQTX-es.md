@@ -22,6 +22,9 @@ Está [Clarks Enfield Coco  Botas Slouch para Mujer  Negro  Black   41.5 EU](htt
 
 [![Clarks Enfield Coco  Botas Slouch para M](https://images-eu.ssl-images-amazon.com/images/I/31mcmJ8lf8L._SL200_.jpg)](https://www.amazon.es/dp/B07BCNXQTX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BCNXQTX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

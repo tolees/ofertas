@@ -22,6 +22,9 @@ Está [Dockers by Gerli 38ay634-730600  Zapatillas Altas Infantil  Azul  Blau 60
 
 [![Dockers by Gerli 38ay634-730600  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41R%2BepII1DL._SL200_.jpg)](https://www.amazon.es/dp/B01N8PZ1JN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N8PZ1JN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

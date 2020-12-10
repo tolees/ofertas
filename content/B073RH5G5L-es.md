@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Alphabounce RC M  Zapatillas de Entrenamiento para Ho
 
 [![adidas Alphabounce RC M  Zapatillas de E](https://images-eu.ssl-images-amazon.com/images/I/41UqWVypXOL._SL200_.jpg)](https://www.amazon.es/dp/B073RH5G5L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073RH5G5L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

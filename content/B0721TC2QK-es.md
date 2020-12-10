@@ -22,6 +22,9 @@ Tienes [Nike Air MAX Prime  Zapatillas para Hombre  Negro Black/Dark Grey  44.5 
 
 [![Nike Air MAX Prime  Zapatillas para Homb](https://images-eu.ssl-images-amazon.com/images/I/41GTT0MsYtL._SL200_.jpg)](https://www.amazon.es/dp/B0721TC2QK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0721TC2QK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Velcro Redondo 20 mm de Diámetro 500 Pares Monedas Autoadhesivo Pegajos
 
 [![Velcro Redondo 20 mm de Diámetro 500 Par](https://images-eu.ssl-images-amazon.com/images/I/31PhpaL2T9L._SL200_.jpg)](https://www.amazon.es/dp/B07HCG5TXF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HCG5TXF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

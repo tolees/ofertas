@@ -22,6 +22,9 @@ Está [Sony HT-MT500 - Barra de Sonido compacta  2.1 Canales  WiFi  Bluetooth  N
 
 [![Sony HT-MT500 - Barra de Sonido compacta](https://images-eu.ssl-images-amazon.com/images/I/31aORF-nIzL._SL200_.jpg)](https://www.amazon.es/dp/B01N6O3GCA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6O3GCA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

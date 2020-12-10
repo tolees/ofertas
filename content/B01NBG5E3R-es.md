@@ -22,6 +22,9 @@ Tienes [Puma Esito 4 Polo  Hombre  Esito 4 Polo  puma Royal-puma White-puma New 
 
 [![Puma Esito 4 Polo  Hombre  Esito 4 Polo ](https://images-eu.ssl-images-amazon.com/images/I/412kDDxrliL._SL200_.jpg)](https://www.amazon.es/dp/B01NBG5E3R/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NBG5E3R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

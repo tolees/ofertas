@@ -22,6 +22,9 @@ Está [JFUNE 1200W Termoventiladores y calefactores cerámicos  Mini Calentador 
 
 [![JFUNE 1200W Termoventiladores y calefact](https://images-eu.ssl-images-amazon.com/images/I/51dUTgqDh2L._SL200_.jpg)](https://www.amazon.es/dp/B07JMJVNSW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JMJVNSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

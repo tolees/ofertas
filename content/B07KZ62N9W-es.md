@@ -22,6 +22,9 @@ Tienes [Cortefiel C1Cbc Americana Estructur  Verde Oscuro 20    Tamaño del Fabr
 
 [![Cortefiel C1Cbc Americana Estructur  Ver](https://images-eu.ssl-images-amazon.com/images/I/41pFSzZf5TL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ62N9W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KZ62N9W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Samsonite Spark SNG Maleta  Negro  Negro  - 115770/1041](https://www.amaz
 
 [![Samsonite Spark SNG Maleta  Negro  Negro](https://images-eu.ssl-images-amazon.com/images/I/311IT8jYKFL._SL200_.jpg)](https://www.amazon.es/dp/B07N9HHHCH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N9HHHCH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

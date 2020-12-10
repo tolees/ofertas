@@ -22,6 +22,12 @@ Ahora mismo tienes [Elli Collares colgante en forma de plumas con cristales Swar
 
 [![Elli Collares colgante en forma de pluma](https://m.media-amazon.com/images/I/31HjH2P3QzL._SL200_.jpg)](https://www.amazon.es/dp/B01N91POKU/?tag=tolees-21)
 
+Características:
+
+- Elegant crafted in high quality 925 sterling silver (fineness 925), durable enough and high gloss polished
+- If festive or casual - classic and fine jewellery
+- Designed in Germany
+
 [Visítala!!!](https://www.amazon.es/dp/B01N91POKU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

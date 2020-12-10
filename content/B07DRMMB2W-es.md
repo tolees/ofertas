@@ -22,6 +22,9 @@ Tienes [Pandora Mujer Plata fina 925 oro plata](https://www.amazon.es/dp/B07DRMM
 
 [![Pandora Mujer Plata fina 925 oro plata](https://images-eu.ssl-images-amazon.com/images/I/414h7OJilBL._SL200_.jpg)](https://www.amazon.es/dp/B07DRMMB2W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DRMMB2W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

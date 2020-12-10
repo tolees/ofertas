@@ -22,6 +22,9 @@ Tienes [Skechers You-Spirit  Zapatillas sin Cordones para Mujer   Peach   37.5 E
 
 [![Skechers You-Spirit  Zapatillas sin Cord](https://images-eu.ssl-images-amazon.com/images/I/41kC-M0IObL._SL200_.jpg)](https://www.amazon.es/dp/B0721DBP8W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0721DBP8W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

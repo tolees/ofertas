@@ -22,6 +22,9 @@ Está [Helly Hansen W Salt Power Jacket  Mujer  Navy  XS](https://www.amazon.es/
 
 [![Helly Hansen W Salt Power Jacket  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41VeTl-dSXL._SL200_.jpg)](https://www.amazon.es/dp/B017XP2WFA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B017XP2WFA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

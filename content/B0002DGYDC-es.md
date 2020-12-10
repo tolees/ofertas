@@ -22,6 +22,9 @@ Ahora mismo tienes [Tropican Mantenimiento para Loros - 9 kg](https://www.ama
 
 [![Tropican Mantenimiento para Loros - 9 kg](https://images-eu.ssl-images-amazon.com/images/I/61%2BTjy%2BCVhL._SL200_.jpg)](https://www.amazon.es/dp/B0002DGYDC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0002DGYDC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

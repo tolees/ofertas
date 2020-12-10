@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Equalizer Persistent  Zapatillas para Hombre  Negro
 
 [![Skechers Equalizer Persistent  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41u%2BfwcvFOL._SL200_.jpg)](https://www.amazon.es/dp/B00R2KJZGQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00R2KJZGQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

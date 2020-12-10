@@ -22,6 +22,9 @@ Ahora mismo tienes [Globe Motley Mid  Zapatillas de Deporte para Hombre   Black/
 
 [![Globe Motley Mid  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/41Tprn7rhML._SL200_.jpg)](https://www.amazon.es/dp/B079D7XHH9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079D7XHH9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Varsity Cover Up T-Shirt  Mujer  Black  M](https://www.amazon.es/dp/
 
 [![Puma Varsity Cover Up T-Shirt  Mujer  Bl](https://images-eu.ssl-images-amazon.com/images/I/41mAz47FMoL._SL200_.jpg)](https://www.amazon.es/dp/B07DFW76S8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFW76S8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

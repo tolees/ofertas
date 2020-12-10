@@ -22,6 +22,9 @@ Está [Emporio Armani Reloj Analógico para Hombre de Cuarzo con Correa en Tela 
 
 [![Emporio Armani Reloj Analógico para Homb](https://images-eu.ssl-images-amazon.com/images/I/41JkXvbgamL._SL200_.jpg)](https://www.amazon.es/dp/B07G9XQWDL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G9XQWDL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

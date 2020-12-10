@@ -22,6 +22,9 @@ Está [Sony MDR-1AM2S - Auriculares inalámbricos  Hi-Res  NFC  controladores de
 
 [![Sony MDR-1AM2S - Auriculares inalámbrico](https://images-eu.ssl-images-amazon.com/images/I/41bkR39ZwdL._SL200_.jpg)](https://www.amazon.es/dp/B078VGQ1WQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078VGQ1WQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

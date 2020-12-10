@@ -22,6 +22,9 @@ Está [Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre  Negro  Black
 
 [![Nike Air Zoom Pegasus 35  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41Sh86GGYFL._SL200_.jpg)](https://www.amazon.es/dp/B075ZXQ85K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075ZXQ85K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

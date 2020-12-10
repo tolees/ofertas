@@ -22,6 +22,9 @@ Está [Antena Interior TV  Antena de TV de Rango Amplificado de 120 Millas Ant
 
 [![Antena Interior TV  Antena de TV de Rang](https://images-eu.ssl-images-amazon.com/images/I/51BncQBLjKL._SL200_.jpg)](https://www.amazon.es/dp/B07PBH5T4Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PBH5T4Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

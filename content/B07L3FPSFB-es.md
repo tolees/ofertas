@@ -22,6 +22,9 @@ Está [Hilfiger Denim Tommy Jeans Casual Sneaker  Zapatillas para Mujer  Rosa  L
 
 [![Hilfiger Denim Tommy Jeans Casual Sneake](https://images-eu.ssl-images-amazon.com/images/I/31pwBj6aoFL._SL200_.jpg)](https://www.amazon.es/dp/B07L3FPSFB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L3FPSFB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

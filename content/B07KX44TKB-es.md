@@ -22,6 +22,9 @@ Tienes [Kosee Marco Digital de Fotos 1.5 Pulgadas DI-15 Portafotos Electrónico 
 
 [![Kosee Marco Digital de Fotos 1.5 Pulgada](https://images-eu.ssl-images-amazon.com/images/I/41eooowj6xL._SL200_.jpg)](https://www.amazon.es/dp/B07KX44TKB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KX44TKB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

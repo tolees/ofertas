@@ -22,6 +22,9 @@ Tienes [Champion Performance Ankle X6  Deporte para Hombre  Multicolor  Noir/Gri
 
 [![Champion Performance Ankle X6  Deporte p](https://images-eu.ssl-images-amazon.com/images/I/41DxPGM8lqL._SL200_.jpg)](https://www.amazon.es/dp/B07GG8RXZJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GG8RXZJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

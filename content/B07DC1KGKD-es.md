@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Smash Wns v2 L  Zapatillas para Mujer  Rosa  Peach Bud 
 
 [![Puma Smash Wns v2 L  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/31MHO1e0%2BgL._SL200_.jpg)](https://www.amazon.es/dp/B07DC1KGKD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC1KGKD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

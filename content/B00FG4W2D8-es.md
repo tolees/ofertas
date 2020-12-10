@@ -22,6 +22,9 @@ Ahora mismo tienes [abril et nature bain shampoo Gold Lifting 250 ml](https://ww
 
 [![abril et nature bain shampoo Gold Liftin](https://images-eu.ssl-images-amazon.com/images/I/31EzBHEwCOL._SL200_.jpg)](https://www.amazon.es/dp/B00FG4W2D8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00FG4W2D8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

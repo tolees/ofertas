@@ -22,6 +22,9 @@ Está [Grsafety Funda de cojín - Funda de Almohada de Punto  Funda de Almohada 
 
 [![Grsafety Funda de cojín - Funda de Almoh](https://images-eu.ssl-images-amazon.com/images/I/51XrGSuqPnL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ6XBLT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KQ6XBLT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

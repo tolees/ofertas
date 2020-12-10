@@ -22,6 +22,9 @@ Ahora mismo tienes [PJ Masks Hero - Bolsa de Deporte  Viaje  Safta 711717273 ](h
 
 [![PJ Masks Hero - Bolsa de Deporte  Viaje ](https://images-eu.ssl-images-amazon.com/images/I/51TQ3u3D7DL._SL200_.jpg)](https://www.amazon.es/dp/B076Q85BTZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076Q85BTZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

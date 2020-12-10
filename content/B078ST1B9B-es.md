@@ -22,6 +22,9 @@ Está [Portacepillos De Dientes Pared Con Ventosa  Soporte Para Cepillos De Dien
 
 [![Portacepillos De Dientes Pared Con Vento](https://images-eu.ssl-images-amazon.com/images/I/41i%2BH8XX0DL._SL200_.jpg)](https://www.amazon.es/dp/B078ST1B9B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078ST1B9B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

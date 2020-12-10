@@ -22,6 +22,9 @@ Está [Tsing Auriculares Cascos Gaming de Diadema Abiertos Estéreo con Micrófo
 
 [![Tsing Auriculares Cascos Gaming de Diade](https://images-eu.ssl-images-amazon.com/images/I/412SZwVSIIL._SL200_.jpg)](https://www.amazon.es/dp/B01DA0DWLA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DA0DWLA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

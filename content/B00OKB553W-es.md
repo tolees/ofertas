@@ -22,6 +22,9 @@ Está [CHUWI Hi 9 Air - Tablet de 10.1" 2K  4G + WiFi  Helio X20  4 GB RAM  64 G
 
 [![CHUWI Hi 9 Air - Tablet de 10.1" 2K  4G ](https://images-eu.ssl-images-amazon.com/images/I/31IkDdXx%2B5L._SL200_.jpg)](https://www.amazon.es/dp/B00OKB553W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00OKB553W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

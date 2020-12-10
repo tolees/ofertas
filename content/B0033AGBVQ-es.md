@@ -22,6 +22,9 @@ Tienes [OMRON BF 511 - Báscula de análisis corporal  color turquesa](https://w
 
 [![OMRON BF 511 - Báscula de análisis corpo](https://images-eu.ssl-images-amazon.com/images/I/41o2o9oM3GL._SL200_.jpg)](https://www.amazon.es/dp/B0033AGBVQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0033AGBVQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

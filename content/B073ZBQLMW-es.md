@@ -22,6 +22,9 @@ Está [Escala de grasa de cuerpo de Bluetooth THZY Escala de baño de peso de cu
 
 [![Escala de grasa de cuerpo de Bluetooth T](https://images-eu.ssl-images-amazon.com/images/I/41Zi%2Bx6xCeL._SL200_.jpg)](https://www.amazon.es/dp/B073ZBQLMW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073ZBQLMW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

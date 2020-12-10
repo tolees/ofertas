@@ -22,6 +22,9 @@ Tienes [Skechers Go Walk Joy-Predict  Zapatillas sin Cordones para Mujer  Morado
 
 [![Skechers Go Walk Joy-Predict  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/31hAkp4HAdL._SL200_.jpg)](https://www.amazon.es/dp/B07CVJ5QGB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CVJ5QGB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

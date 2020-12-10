@@ -22,6 +22,9 @@ Está [Nike G NP Cl Boy Mallas Cortas  niños  Negro  Black/White   L](https://w
 
 [![Nike G NP Cl Boy Mallas Cortas  niños  N](https://images-eu.ssl-images-amazon.com/images/I/41xh4lIrUHL._SL200_.jpg)](https://www.amazon.es/dp/B01A9EUPJC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01A9EUPJC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

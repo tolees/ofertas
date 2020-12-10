@@ -22,6 +22,9 @@ Está [The North Face Flex Tank Top  Mujer  Azul  Dazzling Blue   L](https://www
 
 [![The North Face Flex Tank Top  Mujer  Azu](https://images-eu.ssl-images-amazon.com/images/I/41D-OSFs-IL._SL200_.jpg)](https://www.amazon.es/dp/B07MN9XC6V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MN9XC6V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Reebok BS5135  Zapatillas de Running Mujer  Negro  Black / Chalk / Viciou
 
 [![Reebok BS5135  Zapatillas de Running Muj](https://images-eu.ssl-images-amazon.com/images/I/51EH35FriSL._SL200_.jpg)](https://www.amazon.es/dp/B072ZXNFK7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072ZXNFK7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

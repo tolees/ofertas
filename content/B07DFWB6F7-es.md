@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance WX715V3  Zapatillas Deportivas para Interior par
 
 [![New Balance WX715V3  Zapatillas Deportiv](https://images-eu.ssl-images-amazon.com/images/I/41HMx4oHu%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07DFWB6F7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DFWB6F7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

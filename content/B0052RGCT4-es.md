@@ -22,6 +22,9 @@ Ahora mismo tienes [Faro Barcelona Ibiza 33287 - Ventilador sin luz  acero y pal
 
 [![Faro Barcelona Ibiza 33287 - Ventilador ](https://images-eu.ssl-images-amazon.com/images/I/313ExHBJymL._SL200_.jpg)](https://www.amazon.es/dp/B0052RGCT4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0052RGCT4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

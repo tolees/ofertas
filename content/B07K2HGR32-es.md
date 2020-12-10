@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Deerupt Runner Zapatillas de Gimnasia Hombre  Gris  G
 
 [![adidas Deerupt Runner Zapatillas de Gimn](https://images-eu.ssl-images-amazon.com/images/I/41OyxcD-UpL._SL200_.jpg)](https://www.amazon.es/dp/B07K2HGR32/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K2HGR32/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

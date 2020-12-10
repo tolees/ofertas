@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 220v1  Zapatillas para Mujer   Salt   36.5 EU](h
 
 [![New Balance 220v1  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41fnqAydpvL._SL200_.jpg)](https://www.amazon.es/dp/B077QFRPFH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077QFRPFH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [PANAMA JACK Manhattan  Zapatillas Altas para Hombre  Beige  
 
 [![PANAMA JACK Manhattan  Zapatillas Altas ](https://images-eu.ssl-images-amazon.com/images/I/41dTI7l%2B0bL._SL200_.jpg)](https://www.amazon.es/dp/B07LCPY7VN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07LCPY7VN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

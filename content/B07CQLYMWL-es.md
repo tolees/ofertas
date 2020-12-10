@@ -22,6 +22,9 @@ Está [MSI Trident 3 Arctic 8RB-009XEU - Ordenador de sobremesa gaming  Intel Co
 
 [![MSI Trident 3 Arctic 8RB-009XEU - Ordena](https://images-eu.ssl-images-amazon.com/images/I/41h20kRdM9L._SL200_.jpg)](https://www.amazon.es/dp/B07CQLYMWL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CQLYMWL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

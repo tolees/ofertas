@@ -22,6 +22,9 @@ Está [Lenovo Yoga Book 1.44GHz 10.1" 1920 x 1200Pixeles Pantalla táctil Negro 
 
 [![Lenovo Yoga Book 1.44GHz 10.1" 1920 x 12](https://images-eu.ssl-images-amazon.com/images/I/41grAQv2nkL._SL200_.jpg)](https://www.amazon.es/dp/B01LT2T7RE/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LT2T7RE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

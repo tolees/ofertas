@@ -22,6 +22,9 @@ Ahora mismo tienes [Goobay 95038 - Cable de alimentación 3 m  Negro](https://ww
 
 [![Goobay 95038 - Cable de alimentación 3 m](https://images-eu.ssl-images-amazon.com/images/I/31pNIGf6U-L._SL200_.jpg)](https://www.amazon.es/dp/B003ZA9UK8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B003ZA9UK8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

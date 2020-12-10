@@ -22,6 +22,9 @@ Está [High Peak Kira 4 Tienda  Claro/Gris Oscuro/Rojo  350 x 240 x 130 cm](http
 
 [![High Peak Kira 4 Tienda  Claro/Gris Oscu](https://images-eu.ssl-images-amazon.com/images/I/41D7F%2BZL%2B2L._SL200_.jpg)](https://www.amazon.es/dp/B00OJ61QFO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00OJ61QFO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

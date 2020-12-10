@@ -22,6 +22,9 @@ Está [Burg-Wächter 3877Ni Buzón de Acero Inoxidable con Apertura Stop  Gris](
 
 [![Burg-Wächter 3877Ni Buzón de Acero Inoxi](https://images-eu.ssl-images-amazon.com/images/I/41K53WG1A1L._SL200_.jpg)](https://www.amazon.es/dp/B000JI94TQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000JI94TQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

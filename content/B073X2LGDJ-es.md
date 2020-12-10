@@ -22,6 +22,9 @@ Tienes [Vila Clothes Viflary L/s Turtleneck Knit Top/TB  suéter Mujer  Rosa  Re
 
 [![Vila Clothes Viflary L/s Turtleneck Knit](https://images-eu.ssl-images-amazon.com/images/I/41AKBagFJDL._SL200_.jpg)](https://www.amazon.es/dp/B073X2LGDJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073X2LGDJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [shenkey Linterna Frontal LED USB Recargable Super Bright Headlights 300 
 
 [![shenkey Linterna Frontal LED USB Recarga](https://images-eu.ssl-images-amazon.com/images/I/51xAZ1PT1tL._SL200_.jpg)](https://www.amazon.es/dp/B078M75HQG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078M75HQG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

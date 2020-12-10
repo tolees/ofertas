@@ -22,6 +22,9 @@ Tienes [Sony SF32M - Tarjeta de memoria SD de 32 GB  color negro](https://www.am
 
 [![Sony SF32M - Tarjeta de memoria SD de 32](https://images-eu.ssl-images-amazon.com/images/I/41zBuPUy2tL._SL200_.jpg)](https://www.amazon.es/dp/B01D8H09CK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01D8H09CK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

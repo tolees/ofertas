@@ -22,6 +22,9 @@ Tienes [Curver Nevera Portátil  32 L  Azul](https://www.amazon.es/dp/B00BHW0TME
 
 [![Curver Nevera Portátil  32 L  Azul]()](https://www.amazon.es/dp/B00BHW0TME/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BHW0TME/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Little Band Estuche nacimiento gorro/zapatillas/peluche](htt
 
 [![Little Band Estuche nacimiento gorro/zap](https://images-eu.ssl-images-amazon.com/images/I/41c5W1w2%2BbL._SL200_.jpg)](https://www.amazon.es/dp/B0779GDWSV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0779GDWSV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

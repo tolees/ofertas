@@ -22,6 +22,9 @@ Está [TEENO Sierra circular  hoja de Ø185mm x 25.4 mm  4700 rpm  1400 W  230V]
 
 [![TEENO Sierra circular  hoja de Ø185mm x ](https://images-eu.ssl-images-amazon.com/images/I/41Ieno-awYL._SL200_.jpg)](https://www.amazon.es/dp/B07DF981JC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DF981JC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

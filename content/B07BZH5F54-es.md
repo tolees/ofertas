@@ -22,6 +22,9 @@ Tienes [Tacklife EST02 Avanzado comprobador de enchufes  testeador del cableado 
 
 [![Tacklife EST02 Avanzado comprobador de e](https://images-eu.ssl-images-amazon.com/images/I/41s%2BLAPfCZL._SL200_.jpg)](https://www.amazon.es/dp/B07BZH5F54/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BZH5F54/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

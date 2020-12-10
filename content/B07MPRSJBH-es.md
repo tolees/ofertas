@@ -22,6 +22,9 @@ Está [BEISK Soporte Móvil Coche Magnético Soporte Móvil Coche Imán Soporte 
 
 [![BEISK Soporte Móvil Coche Magnético Sopo](https://images-eu.ssl-images-amazon.com/images/I/41Tr3Dwpl6L._SL200_.jpg)](https://www.amazon.es/dp/B07MPRSJBH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MPRSJBH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

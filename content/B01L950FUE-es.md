@@ -22,6 +22,9 @@ Tienes [Gioseppo 37049  Mocasines para Niños   Negro 000   32 EU](https://www.a
 
 [![Gioseppo 37049  Mocasines para Niños   N](https://images-eu.ssl-images-amazon.com/images/I/313-iO84h4L._SL200_.jpg)](https://www.amazon.es/dp/B01L950FUE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01L950FUE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

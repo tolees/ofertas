@@ -22,6 +22,9 @@ Ahora mismo tienes [Enchantimals Oficial Mochila Espalda Ergonómica Con Carro S
 
 [![Enchantimals Oficial Mochila Espalda Erg](https://images-eu.ssl-images-amazon.com/images/I/51TcIsnZRqL._SL200_.jpg)](https://www.amazon.es/dp/B07MD8CT2W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MD8CT2W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

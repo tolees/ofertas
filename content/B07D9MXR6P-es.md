@@ -22,6 +22,9 @@ Está [adidas CF Lite Racer  Zapatillas para Hombre  Negro  Core Black/Grey/Hi-R
 
 [![adidas CF Lite Racer  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/41cy3siB6jL._SL200_.jpg)](https://www.amazon.es/dp/B07D9MXR6P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9MXR6P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

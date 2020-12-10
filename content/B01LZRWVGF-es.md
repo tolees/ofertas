@@ -22,6 +22,9 @@ Está [Aladdin - Algodón Limpia Metales  Pack de 3 x 75 g](https://www.amazon.e
 
 [![Aladdin - Algodón Limpia Metales  Pack d](https://images-eu.ssl-images-amazon.com/images/I/51wcYsoENhL._SL200_.jpg)](https://www.amazon.es/dp/B01LZRWVGF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZRWVGF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Abus 592225 FG110 B - Manilla con Cerrojo para Ventana  Colo
 
 [![Abus 592225 FG110 B - Manilla con Cerroj](https://images-eu.ssl-images-amazon.com/images/I/41XbaY6qOcL._SL200_.jpg)](https://www.amazon.es/dp/B00CV3OS5M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00CV3OS5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

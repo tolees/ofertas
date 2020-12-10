@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Liga Suede Perf  Zapatillas Unisex Adulto  Beige  Birch
 
 [![Puma Liga Suede Perf  Zapatillas Unisex ](https://images-eu.ssl-images-amazon.com/images/I/413NGYppbmL._SL200_.jpg)](https://www.amazon.es/dp/B071NHSYMD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071NHSYMD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

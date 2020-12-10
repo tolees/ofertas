@@ -22,6 +22,9 @@ Está [Levi s Capucha  Blanco  CB Sportswear Hoodie White + C30768 & L 0000   X-
 
 [![Levi s Capucha  Blanco  CB Sportswear Ho](https://images-eu.ssl-images-amazon.com/images/I/4128%2BtXi0wL._SL200_.jpg)](https://www.amazon.es/dp/B07GDWDHGX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GDWDHGX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

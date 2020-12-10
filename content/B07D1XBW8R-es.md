@@ -22,6 +22,9 @@ Está [Gerry Weber Pullover 1/1 Arm  suéter Mujer   Schwarz/Sand/Rot 1115   48]
 
 [![Gerry Weber Pullover 1/1 Arm  suéter Muj](https://images-eu.ssl-images-amazon.com/images/I/413JmmASbpL._SL200_.jpg)](https://www.amazon.es/dp/B07D1XBW8R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D1XBW8R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

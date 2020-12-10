@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike Vapor 12 Academy Cr7 MG  Zapatillas de Fútbol Unisex A
 
 [![Nike Vapor 12 Academy Cr7 MG  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41osRObcYFL._SL200_.jpg)](https://www.amazon.es/dp/B07BSSQCS4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BSSQCS4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

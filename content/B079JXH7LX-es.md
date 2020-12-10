@@ -22,6 +22,9 @@ Ahora mismo tienes [Brrnoo Cuello Masajeador con Calor infrarrojo Dispositivo de
 
 [![Brrnoo Cuello Masajeador con Calor infra](https://images-eu.ssl-images-amazon.com/images/I/519Mss18FbL._SL200_.jpg)](https://www.amazon.es/dp/B079JXH7LX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079JXH7LX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

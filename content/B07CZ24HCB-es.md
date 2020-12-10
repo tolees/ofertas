@@ -22,6 +22,9 @@ Está [Asics Patriot 10  Zapatillas de Running para Mujer  Negro  Black/White 00
 
 [![Asics Patriot 10  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/41K9HU1tChL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ24HCB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ24HCB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

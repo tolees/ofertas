@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour UA Charged Bandit 3 Ombre  Zapatillas de Entren
 
 [![Under Armour UA Charged Bandit 3 Ombre  ](https://images-eu.ssl-images-amazon.com/images/I/41KO5jl45OL._SL200_.jpg)](https://www.amazon.es/dp/B071YZCQYS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071YZCQYS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

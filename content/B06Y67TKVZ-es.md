@@ -22,6 +22,9 @@ Está [Palette Intense Cream Coloration Intensive Coloración del Cabello 6 Rubi
 
 [![Palette Intense Cream Coloration Intensi](https://images-eu.ssl-images-amazon.com/images/I/513qKFxZ0LL._SL200_.jpg)](https://www.amazon.es/dp/B06Y67TKVZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y67TKVZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

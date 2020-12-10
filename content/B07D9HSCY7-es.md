@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas X Tango 18.3 in  Zapatillas de Fútbol para Niños  A
 
 [![adidas X Tango 18.3 in  Zapatillas de Fú](https://images-eu.ssl-images-amazon.com/images/I/41SluZYGunL._SL200_.jpg)](https://www.amazon.es/dp/B07D9HSCY7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D9HSCY7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

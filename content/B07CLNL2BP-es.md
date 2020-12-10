@@ -22,6 +22,9 @@ Tienes [YaYuu Compatible para Apple Watch Correa 42mm 38mm Correa de Pulsera de 
 
 [![YaYuu Compatible para Apple Watch Correa](https://images-eu.ssl-images-amazon.com/images/I/41K3WvN9MyL._SL200_.jpg)](https://www.amazon.es/dp/B07CLNL2BP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CLNL2BP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

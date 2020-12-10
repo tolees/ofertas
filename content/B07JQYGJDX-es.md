@@ -22,6 +22,9 @@ Está [adidas Tiro DU L - Bolsa de deporte  Unisex Adulto  Negro/Blanco  70 x 32
 
 [![adidas Tiro DU L - Bolsa de deporte  Uni](https://images-eu.ssl-images-amazon.com/images/I/31JbH54zyKL._SL200_.jpg)](https://www.amazon.es/dp/B07JQYGJDX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JQYGJDX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

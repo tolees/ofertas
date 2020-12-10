@@ -22,6 +22,9 @@ Está [Casio Reloj de Pulsera A159WGEA-1EF](https://www.amazon.es/dp/B005FEY47Q/
 
 [![Casio Reloj de Pulsera A159WGEA-1EF](https://images-eu.ssl-images-amazon.com/images/I/519y3YIxmAL._SL200_.jpg)](https://www.amazon.es/dp/B005FEY47Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B005FEY47Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

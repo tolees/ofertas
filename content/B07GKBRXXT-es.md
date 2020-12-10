@@ -22,6 +22,9 @@ Está [Carrera Must Mid  Zapatillas de Cross para Hombre  Negro  Black 04   41 E
 
 [![Carrera Must Mid  Zapatillas de Cross pa](https://images-eu.ssl-images-amazon.com/images/I/41qc8YYUejL._SL200_.jpg)](https://www.amazon.es/dp/B07GKBRXXT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GKBRXXT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [AIMEILI Base y Top Coat Semipermanente Esmalte Semipermanent
 
 [![AIMEILI Base y Top Coat Semipermanente E](https://images-eu.ssl-images-amazon.com/images/I/51EEUESb4pL._SL200_.jpg)](https://www.amazon.es/dp/B00PF9Q5EG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00PF9Q5EG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

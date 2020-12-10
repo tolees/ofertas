@@ -22,6 +22,9 @@ Tienes [Helly Hansen Brono Short  Hombre  Ebony  2XL](https://www.amazon.es/dp/B
 
 [![Helly Hansen Brono Short  Hombre  Ebony ](https://images-eu.ssl-images-amazon.com/images/I/31S7-2HQrIL._SL200_.jpg)](https://www.amazon.es/dp/B07FHDR2CS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FHDR2CS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

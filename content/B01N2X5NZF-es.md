@@ -22,6 +22,9 @@ Ahora mismo tienes [Gant Elastic Braid Belt Cinturón  Azul  Marine 410   95  Ta
 
 [![Gant Elastic Braid Belt Cinturón  Azul  ](https://images-eu.ssl-images-amazon.com/images/I/41JL8jbk22L._SL200_.jpg)](https://www.amazon.es/dp/B01N2X5NZF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N2X5NZF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

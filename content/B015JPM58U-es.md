@@ -22,6 +22,9 @@ Está [Compo 1721612011 Composter 2 Kg  32x18.399999999999999x7.65 cm](https://w
 
 [![Compo 1721612011 Composter 2 Kg  32x18.3](https://images-eu.ssl-images-amazon.com/images/I/51yabfFYRhL._SL200_.jpg)](https://www.amazon.es/dp/B015JPM58U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B015JPM58U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

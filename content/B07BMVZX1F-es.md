@@ -22,6 +22,9 @@ Ahora mismo tienes [AmazonBasics - Maleta rígida giratoria - Juego de 3 piezas 
 
 [![AmazonBasics - Maleta rígida giratoria -](https://images-eu.ssl-images-amazon.com/images/I/41SXUVdUxdL._SL200_.jpg)](https://www.amazon.es/dp/B07BMVZX1F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BMVZX1F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

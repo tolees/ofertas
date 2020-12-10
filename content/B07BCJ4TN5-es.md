@@ -22,6 +22,9 @@ Está [adidas REAL POWER ATTK LTD](https://www.amazon.es/dp/B07BCJ4TN5/?tag=tole
 
 [![adidas REAL POWER ATTK LTD](https://images-eu.ssl-images-amazon.com/images/I/41h7n-8aOUL._SL200_.jpg)](https://www.amazon.es/dp/B07BCJ4TN5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BCJ4TN5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

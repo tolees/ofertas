@@ -22,6 +22,9 @@ Ahora mismo tienes [OCB Papel de Fumar  Azul  25 Unidades](https://www.amazon.es
 
 [![OCB Papel de Fumar  Azul  25 Unidades](https://images-eu.ssl-images-amazon.com/images/I/51Gw86YwxkL._SL200_.jpg)](https://www.amazon.es/dp/B015ZSY2LY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B015ZSY2LY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

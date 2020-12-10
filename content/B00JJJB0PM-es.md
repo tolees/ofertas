@@ -22,6 +22,9 @@ Tienes [Swarovski Stone Bracciale rigido  Bianco  placcatura rodio](https://www.
 
 [![Swarovski Stone Bracciale rigido  Bianco](https://images-eu.ssl-images-amazon.com/images/I/41HRfMVpm%2BL._SL200_.jpg)](https://www.amazon.es/dp/B00JJJB0PM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00JJJB0PM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Kappa Follow  Zapatillas Unisex Adulto  Gris  Grey/Pink 1622
 
 [![Kappa Follow  Zapatillas Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/41D3HgL%2B%2BRL._SL200_.jpg)](https://www.amazon.es/dp/B07D4T2NQ1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D4T2NQ1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

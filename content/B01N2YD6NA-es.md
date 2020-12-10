@@ -22,6 +22,9 @@ Tienes [Doctor Strange  Blu-ray 3D + Blu-ray  [Blu-ray]](https://www.amazon.es/d
 
 [![Doctor Strange  Blu-ray 3D + Blu-ray  [B](https://images-eu.ssl-images-amazon.com/images/I/51Mes1yTnkL._SL200_.jpg)](https://www.amazon.es/dp/B01N2YD6NA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N2YD6NA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [iTrunk Paquete de 2 Bolsas de Cultivo de Papa  Bolsa de 7 galones para Pl
 
 [![iTrunk Paquete de 2 Bolsas de Cultivo de](https://images-eu.ssl-images-amazon.com/images/I/51l-LGmCV3L._SL200_.jpg)](https://www.amazon.es/dp/B07L4GD5KG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L4GD5KG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

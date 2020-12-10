@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Bright Deja  Mules para Mujer  Gris  Grey Leather-   
 
 [![Clarks Bright Deja  Mules para Mujer  Gr](https://images-eu.ssl-images-amazon.com/images/I/31gHCH9UngL._SL200_.jpg)](https://www.amazon.es/dp/B07FR9V4BN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FR9V4BN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

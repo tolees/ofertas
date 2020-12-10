@@ -22,6 +22,9 @@ Tienes [Alfombrista Diseño 23 Alfombra Moderna Acrílico Multicolor 60x110x1 cm
 
 [![Alfombrista Diseño 23 Alfombra Moderna A](https://images-eu.ssl-images-amazon.com/images/I/61ZemaIXMFL._SL200_.jpg)](https://www.amazon.es/dp/B078KVB6HH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078KVB6HH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

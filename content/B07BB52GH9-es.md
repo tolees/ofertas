@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face Ascentials TNF Gorra 66 Classic  Unisex adult
 
 [![The North Face Ascentials TNF Gorra 66 C](https://images-eu.ssl-images-amazon.com/images/I/318LvOuKOXL._SL200_.jpg)](https://www.amazon.es/dp/B07BB52GH9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BB52GH9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

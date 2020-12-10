@@ -22,6 +22,9 @@ Está [Vintage Edison Bombilla  Bombilla de Filamento de 4W Equivalente Incandes
 
 [![Vintage Edison Bombilla  Bombilla de Fil](https://images-eu.ssl-images-amazon.com/images/I/51vt-M8NHVL._SL200_.jpg)](https://www.amazon.es/dp/B07FPL1J8C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FPL1J8C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

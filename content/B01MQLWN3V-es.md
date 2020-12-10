@@ -22,6 +22,9 @@ Está [Las Mulas Cabernet Sauvignon  Vino Tinto  6 botellas de 75 cl - Total: 45
 
 [![Las Mulas Cabernet Sauvignon  Vino Tinto](https://images-eu.ssl-images-amazon.com/images/I/41J0p8%2BsiSL._SL200_.jpg)](https://www.amazon.es/dp/B01MQLWN3V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MQLWN3V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

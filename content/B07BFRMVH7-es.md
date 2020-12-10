@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Arrow Moon GTX  Botas de Nieve para Niñas  Marrón  
 
 [![Clarks Arrow Moon GTX  Botas de Nieve pa](https://images-eu.ssl-images-amazon.com/images/I/41KUQW7ol-L._SL200_.jpg)](https://www.amazon.es/dp/B07BFRMVH7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BFRMVH7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

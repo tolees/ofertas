@@ -22,6 +22,9 @@ Tienes [Nike MD Runner 2 Se  Zapatillas para Hombre  Negro Black 001  40.5 EU](h
 
 [![Nike MD Runner 2 Se  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/31M8XCMlP9L._SL200_.jpg)](https://www.amazon.es/dp/B00J3NGKOK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00J3NGKOK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

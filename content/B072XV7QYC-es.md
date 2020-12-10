@@ -22,6 +22,9 @@ Está [Call Of Duty: Modern Warfare - Remastered](https://www.amazon.es/dp/B072X
 
 [![Call Of Duty: Modern Warfare - Remastere](https://images-eu.ssl-images-amazon.com/images/I/519ZF0puXFL._SL200_.jpg)](https://www.amazon.es/dp/B072XV7QYC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072XV7QYC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Tarjetas Lexar Professional 1000x SDHC/SDXC UHS-II 64 GB [Em
 
 [![Tarjetas Lexar Professional 1000x SDHC/S](https://images-eu.ssl-images-amazon.com/images/I/51HRgJ6LO9L._SL200_.jpg)](https://www.amazon.es/dp/B07F9TNNW1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F9TNNW1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Ducha de mano  ducha fija Marsoul 3 color LED Cabeza de duch
 
 [![Ducha de mano  ducha fija Marsoul 3 colo](https://images-eu.ssl-images-amazon.com/images/I/51Lqs2tP6kL._SL200_.jpg)](https://www.amazon.es/dp/B071XTMHDM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071XTMHDM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

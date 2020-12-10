@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Fabio Neceser de Viaje  22 cm  1.32 litros  Azul]
 
 [![Pepe Jeans Fabio Neceser de Viaje  22 cm](https://images-eu.ssl-images-amazon.com/images/I/51455YfiXlL._SL200_.jpg)](https://www.amazon.es/dp/B079MD7L6T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079MD7L6T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

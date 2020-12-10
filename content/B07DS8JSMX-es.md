@@ -22,6 +22,9 @@ Tienes [Samsung Galaxy J6 - Smartphone de 5.6"  4G  WiFi  Bluetooth  Octa Core 1
 
 [![Samsung Galaxy J6 - Smartphone de 5.6"  ](https://images-eu.ssl-images-amazon.com/images/I/41NE3aWr1OL._SL200_.jpg)](https://www.amazon.es/dp/B07DS8JSMX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DS8JSMX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

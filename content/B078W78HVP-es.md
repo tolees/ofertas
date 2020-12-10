@@ -22,6 +22,9 @@ Tienes [Kappa Meseta  Zapatillas Unisex Adulto  Blanco  White 1010   46 EU](http
 
 [![Kappa Meseta  Zapatillas Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/319nZJeeFiL._SL200_.jpg)](https://www.amazon.es/dp/B078W78HVP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078W78HVP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

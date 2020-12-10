@@ -22,6 +22,9 @@ Está [Asics Gel-kenun Lyte MX  Zapatillas de Entrenamiento para Hombre  Azul  D
 
 [![Asics Gel-kenun Lyte MX  Zapatillas de E](https://images-eu.ssl-images-amazon.com/images/I/41-qXj6vJOL._SL200_.jpg)](https://www.amazon.es/dp/B07FNCDXF3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FNCDXF3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

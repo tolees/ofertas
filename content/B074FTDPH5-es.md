@@ -22,6 +22,9 @@ Está [Pioneer Rayz - Auriculares con Cable Lightning  Color Blanco](https://www
 
 [![Pioneer Rayz - Auriculares con Cable Lig]()](https://www.amazon.es/dp/B074FTDPH5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074FTDPH5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

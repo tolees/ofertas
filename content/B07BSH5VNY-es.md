@@ -22,6 +22,9 @@ Tienes [Levi s Larkspur  Cinturón Mujer  Marrón  Medium Brown 28   95](https:/
 
 [![Levi s Larkspur  Cinturón Mujer  Marrón ](https://images-eu.ssl-images-amazon.com/images/I/41CEYzX5dQL._SL200_.jpg)](https://www.amazon.es/dp/B07BSH5VNY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BSH5VNY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [dodocool Reproductor Música Alta Resolución de Audio HiFi Music Player
 
 [![dodocool Reproductor Música Alta Resoluc](https://images-eu.ssl-images-amazon.com/images/I/41m-5TN4DpL._SL200_.jpg)](https://www.amazon.es/dp/B072XKJRF6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072XKJRF6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

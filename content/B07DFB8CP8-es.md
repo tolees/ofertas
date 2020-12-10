@@ -22,6 +22,9 @@ Ahora mismo tienes [Pop! Disney Mickey 90 Years - Figura de Vinilo Brave Little 
 
 [![Pop! Disney Mickey 90 Years - Figura de ](https://images-eu.ssl-images-amazon.com/images/I/41xox6-Qt5L._SL200_.jpg)](https://www.amazon.es/dp/B07DFB8CP8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DFB8CP8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

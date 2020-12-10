@@ -22,6 +22,9 @@ Tienes [YoYoFit Rock Pulsómetros Pulsera de Actividad Inteligente  Reloj Podome
 
 [![YoYoFit Rock Pulsómetros Pulsera de Acti](https://images-eu.ssl-images-amazon.com/images/I/41xxmNKVNmL._SL200_.jpg)](https://www.amazon.es/dp/B07G872PRV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G872PRV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

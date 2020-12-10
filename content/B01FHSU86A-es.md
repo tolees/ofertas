@@ -22,6 +22,9 @@ Tienes [Battlefield 1](https://www.amazon.es/dp/B01FHSU86A/?tag=tolees-21) con u
 
 [![Battlefield 1](https://images-eu.ssl-images-amazon.com/images/I/514L3qb5qmL._SL200_.jpg)](https://www.amazon.es/dp/B01FHSU86A/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01FHSU86A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

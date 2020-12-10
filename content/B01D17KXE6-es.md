@@ -22,6 +22,9 @@ Tienes [Samsonite Rewind  Bolsa de viaje  55 cm  Negro  Black ](https://www.amaz
 
 [![Samsonite Rewind  Bolsa de viaje  55 cm ](https://images-eu.ssl-images-amazon.com/images/I/3138-09mKtL._SL200_.jpg)](https://www.amazon.es/dp/B01D17KXE6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01D17KXE6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

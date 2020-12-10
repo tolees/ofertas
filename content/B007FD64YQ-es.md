@@ -22,6 +22,9 @@ Ahora mismo tienes [VARTA CR 2450 - Pack de 2 Pilas  Litio  3V  570 mAh ](https:
 
 [![VARTA CR 2450 - Pack de 2 Pilas  Litio  ](https://images-eu.ssl-images-amazon.com/images/I/51dKWvPspiL._SL200_.jpg)](https://www.amazon.es/dp/B007FD64YQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B007FD64YQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

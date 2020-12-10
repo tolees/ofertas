@@ -22,6 +22,9 @@ Ahora mismo tienes [CentrumElektroniki Cámara IR1100 P Dummy LED Vigilancia Fa
 
 [![CentrumElektroniki Cámara IR1100 P Dummy](https://images-eu.ssl-images-amazon.com/images/I/412W%2BVzNJTL._SL200_.jpg)](https://www.amazon.es/dp/B00K6J8JLM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00K6J8JLM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

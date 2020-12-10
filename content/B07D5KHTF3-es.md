@@ -22,6 +22,9 @@ Tienes [adidas Solar Glide M  Zapatillas de Deporte para Hombre  Blanco  Ftwbla/
 
 [![adidas Solar Glide M  Zapatillas de Depo](https://images-eu.ssl-images-amazon.com/images/I/41ef8xEZbYL._SL200_.jpg)](https://www.amazon.es/dp/B07D5KHTF3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D5KHTF3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

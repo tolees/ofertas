@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Cell Viper  Zapatillas Unisex Adulto  Blanco White-High
 
 [![Puma Cell Viper  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41Qka0UU0SL._SL200_.jpg)](https://www.amazon.es/dp/B07DC7NGQS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC7NGQS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

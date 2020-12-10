@@ -22,6 +22,9 @@ Tienes [ALDO Wicardowia  Zapatillas para Mujer  Negro  Jet Black 96   37 EU](htt
 
 [![ALDO Wicardowia  Zapatillas para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/31dwIeZd9AL._SL200_.jpg)](https://www.amazon.es/dp/B07DHVTXC5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DHVTXC5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

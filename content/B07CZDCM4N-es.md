@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Pacer Next Cage Zapatillas Unisex adulto  Rosa  Winsome
 
 [![Puma Pacer Next Cage Zapatillas Unisex a](https://images-eu.ssl-images-amazon.com/images/I/412JFhZXc6L._SL200_.jpg)](https://www.amazon.es/dp/B07CZDCM4N/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZDCM4N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

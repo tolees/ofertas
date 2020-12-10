@@ -22,6 +22,9 @@ Tienes [The North Face Kanga Riñonera  Kelp Tan Dark Heather  One Size](https:/
 
 [![The North Face Kanga Riñonera  Kelp Tan ](https://images-eu.ssl-images-amazon.com/images/I/413P1N3%2B8zL._SL200_.jpg)](https://www.amazon.es/dp/B07FKCJD5V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FKCJD5V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

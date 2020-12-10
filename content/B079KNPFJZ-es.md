@@ -22,6 +22,9 @@ Está [Lenovo Ideacentre 510S - Ordenador de sobremesa  Intel Core i5-7400  4GB 
 
 [![Lenovo Ideacentre 510S - Ordenador de so](https://images-eu.ssl-images-amazon.com/images/I/41HWryu4tGL._SL200_.jpg)](https://www.amazon.es/dp/B079KNPFJZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079KNPFJZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

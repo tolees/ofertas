@@ -22,6 +22,9 @@ Está [Silver HT 93036 - Cable impresora USB tipo A y B de 1.5 m  color negro](h
 
 [![Silver HT 93036 - Cable impresora USB ti](https://images-eu.ssl-images-amazon.com/images/I/31Fkxi-RQ7L._SL200_.jpg)](https://www.amazon.es/dp/B075TXY1NM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075TXY1NM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

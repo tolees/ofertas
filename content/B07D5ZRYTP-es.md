@@ -22,6 +22,9 @@ Tienes [Asics As001  Zapatillas de Deporte Unisex Adulto   P70ns 4901  39 EU](ht
 
 [![Asics As001  Zapatillas de Deporte Unise](https://images-eu.ssl-images-amazon.com/images/I/31XiFWi-ARL._SL200_.jpg)](https://www.amazon.es/dp/B07D5ZRYTP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D5ZRYTP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

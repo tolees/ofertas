@@ -22,6 +22,9 @@ Ahora mismo tienes [Denver SDQ-52004L - Smartphone Dual SIM DE 5.2"  4G  Quad Co
 
 [![Denver SDQ-52004L - Smartphone Dual SIM ](https://images-eu.ssl-images-amazon.com/images/I/41763QefH5L._SL200_.jpg)](https://www.amazon.es/dp/B07B6B1PQF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07B6B1PQF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Einhell Bomba de Aguas sucias GC-DP 6315 N  630 W  230 V  rojo/negro  re
 
 [![Einhell Bomba de Aguas sucias GC-DP 6315](https://images-eu.ssl-images-amazon.com/images/I/41xF9ydz8wL._SL200_.jpg)](https://www.amazon.es/dp/B00B18KAEQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00B18KAEQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Only Onlsantana L/s Block Pullover Knt  suéter para Mujer   Dark Grey M
 
 [![Only Onlsantana L/s Block Pullover Knt  ](https://images-eu.ssl-images-amazon.com/images/I/418vJoQMZ-L._SL200_.jpg)](https://www.amazon.es/dp/B07FMBRZW2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FMBRZW2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Reebok Triplehall 4 0  Zapatillas de Running Para Mujer  color blanco  ta
 
 [![Reebok Triplehall 4 0  Zapatillas de Run](https://images-eu.ssl-images-amazon.com/images/I/4199m423pFL._SL200_.jpg)](https://www.amazon.es/dp/B013R9QEOG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B013R9QEOG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

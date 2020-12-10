@@ -22,6 +22,9 @@ Está [LG 34UM88C-P - Monitor UltraWide de 87 cm  34 pulgadas  IPS  3440 x 1440 
 
 [![LG 34UM88C-P - Monitor UltraWide de 87 c](https://images-eu.ssl-images-amazon.com/images/I/217iQ7RgXzL._SL200_.jpg)](https://www.amazon.es/dp/B01CKLTE3U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01CKLTE3U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Hurley Triblaze 18 Bañador  Hombre  Negro  XS/28](https://www.amazon.es/
 
 [![Hurley Triblaze 18 Bañador  Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/41tW-tNDGPL._SL200_.jpg)](https://www.amazon.es/dp/B076FFW4Y2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076FFW4Y2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

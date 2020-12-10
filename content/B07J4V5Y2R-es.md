@@ -22,6 +22,9 @@ Tienes [Excelvan Q6 1800 lúmenes 4   LED Mini portátil Proyector de Video Mult
 
 [![Excelvan Q6 1800 lúmenes 4   LED Mini po](https://images-eu.ssl-images-amazon.com/images/I/41BnS1XO1CL._SL200_.jpg)](https://www.amazon.es/dp/B07J4V5Y2R/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07J4V5Y2R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

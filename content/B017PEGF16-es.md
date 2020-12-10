@@ -22,6 +22,9 @@ Tienes [Maybelline New York Barra de Labios Superstay 24H  Larga duración   Ton
 
 [![Maybelline New York Barra de Labios Supe](https://images-eu.ssl-images-amazon.com/images/I/211JCdrrxiL._SL200_.jpg)](https://www.amazon.es/dp/B017PEGF16/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B017PEGF16/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

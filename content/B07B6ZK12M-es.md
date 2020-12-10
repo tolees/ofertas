@@ -22,6 +22,9 @@ Está [New Balance 480 Zapatillas de Running para Mujer  Azul  Enamel Blue/Polar
 
 [![New Balance 480 Zapatillas de Running pa](https://images-eu.ssl-images-amazon.com/images/I/41G9a1LkpFL._SL200_.jpg)](https://www.amazon.es/dp/B07B6ZK12M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B6ZK12M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

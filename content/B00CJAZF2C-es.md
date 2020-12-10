@@ -22,6 +22,9 @@ Ahora mismo tienes [Essie Esmalte de Uñas 034 Jamaica Me Crazy](https://www.ama
 
 [![Essie Esmalte de Uñas 034 Jamaica Me Cra](https://images-eu.ssl-images-amazon.com/images/I/41SMCDOnT6L._SL200_.jpg)](https://www.amazon.es/dp/B00CJAZF2C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00CJAZF2C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

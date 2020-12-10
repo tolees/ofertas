@@ -22,6 +22,9 @@ Tienes [Schwarzkopf Professional Silhouette Espuma de Fijación Extra Fuerte - 5
 
 [![Schwarzkopf Professional Silhouette Espu](https://images-eu.ssl-images-amazon.com/images/I/31u9yQ%2BaBzL._SL200_.jpg)](https://www.amazon.es/dp/B005UM7RE0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B005UM7RE0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

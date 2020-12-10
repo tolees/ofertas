@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour UA W Rapid  Zapatillas de Running para Mujer  N
 
 [![Under Armour UA W Rapid  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/41HYKdOjQ1L._SL200_.jpg)](https://www.amazon.es/dp/B07BHBG4DN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BHBG4DN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

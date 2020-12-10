@@ -22,6 +22,9 @@ Está [Shunga Kit Tickle Me  Color Rosa/Negro - 235 gr](https://www.amazon.es/dp
 
 [![Shunga Kit Tickle Me  Color Rosa/Negro -](https://images-eu.ssl-images-amazon.com/images/I/51AbZ3IVGWL._SL200_.jpg)](https://www.amazon.es/dp/B01BVMXJ6M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BVMXJ6M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

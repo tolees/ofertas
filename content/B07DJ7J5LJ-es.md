@@ -22,6 +22,9 @@ Está [New Balance 420  Zapatillas Unisex Adulto  Blanco  Nimbus Cloud/Outerspac
 
 [![New Balance 420  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/315ma6k9w6L._SL200_.jpg)](https://www.amazon.es/dp/B07DJ7J5LJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ7J5LJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Casio Reloj Analógico para Hombre de Cuarzo con Correa en Resina MWC-100
 
 [![Casio Reloj Analógico para Hombre de Cua](https://images-eu.ssl-images-amazon.com/images/I/41ABaJZZawL._SL200_.jpg)](https://www.amazon.es/dp/B07GB8YZQ7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GB8YZQ7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

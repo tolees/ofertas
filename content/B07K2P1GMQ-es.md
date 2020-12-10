@@ -22,6 +22,9 @@ Está [Pack: The Equalizer 1 + The Equalizer 2  + BD  [Blu-ray]](https://www.ama
 
 [![Pack: The Equalizer 1 + The Equalizer 2 ](https://images-eu.ssl-images-amazon.com/images/I/51jdqm%2BEDnL._SL200_.jpg)](https://www.amazon.es/dp/B07K2P1GMQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K2P1GMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

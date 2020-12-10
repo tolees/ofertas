@@ -22,6 +22,9 @@ Está [Guess - Felix  Shoppers y bolsos de hombro Mujer  Azul  Blue   34x28x15.5
 
 [![Guess - Felix  Shoppers y bolsos de homb](https://images-eu.ssl-images-amazon.com/images/I/31xkk7F%2BFKL._SL200_.jpg)](https://www.amazon.es/dp/B07F83RQ4J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F83RQ4J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Hurley M Phantom Dot Rise 18  BAÑADORES  Hombre  Obsidian  38](https://w
 
 [![Hurley M Phantom Dot Rise 18  BAÑADORES ](https://images-eu.ssl-images-amazon.com/images/I/41IO%2BHFJq3L._SL200_.jpg)](https://www.amazon.es/dp/B07KCWQZLF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCWQZLF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

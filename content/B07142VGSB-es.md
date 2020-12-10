@@ -22,6 +22,9 @@ Ahora mismo tienes [Playtex Ideal Beauty Lace  Sujetador de Encaje Sin Aros para
 
 [![Playtex Ideal Beauty Lace  Sujetador de ](https://images-eu.ssl-images-amazon.com/images/I/51XjcjU0gBL._SL200_.jpg)](https://www.amazon.es/dp/B07142VGSB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07142VGSB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

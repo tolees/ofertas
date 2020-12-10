@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Tri Trail  Zapatillas para Mujer  Negro  Black Intere
 
 [![Clarks Tri Trail  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41x6wLV41bL._SL200_.jpg)](https://www.amazon.es/dp/B06XBX8CQZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XBX8CQZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

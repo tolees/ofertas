@@ -22,6 +22,9 @@ Tienes [FLEX Colchón Inteligente y personalizado iBed FLEX  90 x 190 cm](https:
 
 [![FLEX Colchón Inteligente y personalizado](https://images-eu.ssl-images-amazon.com/images/I/319eOHysNNL._SL200_.jpg)](https://www.amazon.es/dp/B003JXHZBM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003JXHZBM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

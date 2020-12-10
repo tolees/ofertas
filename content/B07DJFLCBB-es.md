@@ -22,6 +22,9 @@ Está [Dockers by Gerli 19pa240  Botas Militar para Mujer  Verde  Oliv 840   38 
 
 [![Dockers by Gerli 19pa240  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/414TedaZJeL._SL200_.jpg)](https://www.amazon.es/dp/B07DJFLCBB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJFLCBB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

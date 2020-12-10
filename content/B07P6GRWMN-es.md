@@ -22,6 +22,9 @@ Está [Homelody Grifo Lavabo Anti-ruido para Baño Acabado Cromado con Aireador 
 
 [![Homelody Grifo Lavabo Anti-ruido para Ba](https://images-eu.ssl-images-amazon.com/images/I/31vqKN%2BIkvL._SL200_.jpg)](https://www.amazon.es/dp/B07P6GRWMN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P6GRWMN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

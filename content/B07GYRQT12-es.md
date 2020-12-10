@@ -22,6 +22,9 @@ Está [LeaderPro Cadena de Luces LED USB IP65 Impermeable 8 Modos Guirnalda de L
 
 [![LeaderPro Cadena de Luces LED USB IP65 I](https://images-eu.ssl-images-amazon.com/images/I/51w7s7Ye0wL._SL200_.jpg)](https://www.amazon.es/dp/B07GYRQT12/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GYRQT12/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

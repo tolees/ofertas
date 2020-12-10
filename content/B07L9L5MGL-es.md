@@ -22,6 +22,9 @@ Tienes [Adidas Predator 19.3 FG J  Botas de fútbol Unisex niño  Azul  Blanco  
 
 [![Adidas Predator 19.3 FG J  Botas de fútb](https://images-eu.ssl-images-amazon.com/images/I/41Iu888oUXL._SL200_.jpg)](https://www.amazon.es/dp/B07L9L5MGL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L9L5MGL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

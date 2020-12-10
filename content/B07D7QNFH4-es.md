@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Straight Denton Chino Gmd Flex  Pantalones para Hombre  A
 
 [![Tommy Hilfiger Straight Denton Chino Gmd](https://images-eu.ssl-images-amazon.com/images/I/31M3kYd9B%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07D7QNFH4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D7QNFH4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

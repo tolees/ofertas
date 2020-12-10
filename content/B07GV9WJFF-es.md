@@ -22,6 +22,9 @@ Está [Blackview A10 - Smartphone Libre Android 7.0  5.0   HD IPS  16GB ROM  5.0
 
 [![Blackview A10 - Smartphone Libre Android](https://images-eu.ssl-images-amazon.com/images/I/51Yv7Vn8CjL._SL200_.jpg)](https://www.amazon.es/dp/B07GV9WJFF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GV9WJFF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

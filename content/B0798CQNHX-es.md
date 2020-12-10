@@ -22,6 +22,9 @@ Tienes [G-STAR RAW Rovulc Low  Zapatillas para Mujer  Azul  Sea 366   41 EU](htt
 
 [![G-STAR RAW Rovulc Low  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/41oMWnGKhEL._SL200_.jpg)](https://www.amazon.es/dp/B0798CQNHX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0798CQNHX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

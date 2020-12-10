@@ -22,6 +22,9 @@ Ahora mismo tienes [Trigger Point Performance The Grid - Rodillo de espuma para 
 
 [![Trigger Point Performance The Grid - Rod](https://images-eu.ssl-images-amazon.com/images/I/41rjetHWUeL._SL200_.jpg)](https://www.amazon.es/dp/B008YPZQCU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B008YPZQCU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

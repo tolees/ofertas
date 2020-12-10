@@ -22,6 +22,9 @@ Está [VICHY Desodorante Antitranspirante Roll-On 48h 50 ml](https://www.amazon.
 
 [![VICHY Desodorante Antitranspirante Roll-](https://images-eu.ssl-images-amazon.com/images/I/31SGKj%2BRfDL._SL200_.jpg)](https://www.amazon.es/dp/B001M0VG9Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001M0VG9Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

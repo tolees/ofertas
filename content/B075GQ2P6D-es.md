@@ -22,6 +22,9 @@ Ahora mismo tienes [Only Onljuliana L/s Pullover Knt  suéter Mujer   Strawberry
 
 [![Only Onljuliana L/s Pullover Knt  suéter](https://images-eu.ssl-images-amazon.com/images/I/41LS5x%2BUNsL._SL200_.jpg)](https://www.amazon.es/dp/B075GQ2P6D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075GQ2P6D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

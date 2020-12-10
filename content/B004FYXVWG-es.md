@@ -22,6 +22,9 @@ Está [Tuscany Silver 8.43.5904 - Cadena con colgante de plata de ley  925/1000 
 
 [![Tuscany Silver 8.43.5904 - Cadena con co](https://images-eu.ssl-images-amazon.com/images/I/31OdY9CbEWL._SL200_.jpg)](https://www.amazon.es/dp/B004FYXVWG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004FYXVWG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

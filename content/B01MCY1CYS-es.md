@@ -22,6 +22,9 @@ Ahora mismo tienes [Salomon Soft Cup Speed Vaso Flexible de 150 ml para Botella 
 
 [![Salomon Soft Cup Speed Vaso Flexible de ](https://images-eu.ssl-images-amazon.com/images/I/41fSpp9C4jL._SL200_.jpg)](https://www.amazon.es/dp/B01MCY1CYS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MCY1CYS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [New Look Mustard Tape  Capucha para Hombre  Negro  Black  Small  Talla de
 
 [![New Look Mustard Tape  Capucha para Homb](https://images-eu.ssl-images-amazon.com/images/I/31-9Yiy3DYL._SL200_.jpg)](https://www.amazon.es/dp/B07GBVHMZP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GBVHMZP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

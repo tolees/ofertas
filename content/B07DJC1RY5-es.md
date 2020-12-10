@@ -22,6 +22,9 @@ Está [Dockers by Gerli 43mr005  Zapatillas Altas para Hombre  Marrón  Schoko 3
 
 [![Dockers by Gerli 43mr005  Zapatillas Alt](https://images-eu.ssl-images-amazon.com/images/I/41neSy%2B4aAL._SL200_.jpg)](https://www.amazon.es/dp/B07DJC1RY5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJC1RY5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

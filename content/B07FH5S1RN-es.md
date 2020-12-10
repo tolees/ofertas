@@ -22,6 +22,9 @@ Está [Mustang Schnür-Booty  Zapatillas Altas para Niñas  Azul  Navy 820   40 
 
 [![Mustang Schnür-Booty  Zapatillas Altas p](https://images-eu.ssl-images-amazon.com/images/I/41pgOPqVk8L._SL200_.jpg)](https://www.amazon.es/dp/B07FH5S1RN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FH5S1RN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Salomon Gorra](https://www.amazon.es/dp/B01HNYDRD2/?tag=tolees-21) con u
 
 [![Salomon Gorra](https://images-eu.ssl-images-amazon.com/images/I/314yfQRpASL._SL200_.jpg)](https://www.amazon.es/dp/B01HNYDRD2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01HNYDRD2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

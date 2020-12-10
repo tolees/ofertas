@@ -22,6 +22,9 @@ Está [Alcatel 3L - Smartphone DE 5.5"  Memoria Interna DE 16 GB  RAM de 2 GB  D
 
 [![Alcatel 3L - Smartphone DE 5.5"  Memoria](https://images-eu.ssl-images-amazon.com/images/I/31qCQmZRncL._SL200_.jpg)](https://www.amazon.es/dp/B07CXHLXBR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CXHLXBR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

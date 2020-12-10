@@ -22,6 +22,9 @@ Está [G-Star 29 Art Polo S/s  Hombre  Gris  Raven  Small](https://www.amazon.es
 
 [![G-Star 29 Art Polo S/s  Hombre  Gris  Ra](https://images-eu.ssl-images-amazon.com/images/I/41vaYb2zUZL._SL200_.jpg)](https://www.amazon.es/dp/B07B4LHNG8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B4LHNG8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

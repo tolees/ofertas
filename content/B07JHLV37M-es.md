@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Relsen  Zapatillas para Hombre  Azul  Navy Nvy   46
 
 [![Skechers Relsen  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41yQ8nqbOmL._SL200_.jpg)](https://www.amazon.es/dp/B07JHLV37M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JHLV37M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

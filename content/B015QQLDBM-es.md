@@ -22,6 +22,9 @@ Tienes [Crocs Crocband - Sandalias/Chancletas para Caballero  42 EU/Azul Marino 
 
 [![Crocs Crocband - Sandalias/Chancletas pa](https://images-eu.ssl-images-amazon.com/images/I/31ztAOENsJL._SL200_.jpg)](https://www.amazon.es/dp/B015QQLDBM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015QQLDBM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

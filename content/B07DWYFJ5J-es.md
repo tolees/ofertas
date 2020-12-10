@@ -22,6 +22,9 @@ Tienes [OurLeeme universal antideslizante Volante de malla elástica de coches C
 
 [![OurLeeme universal antideslizante Volant](https://images-eu.ssl-images-amazon.com/images/I/619Bb6cPNDL._SL200_.jpg)](https://www.amazon.es/dp/B07DWYFJ5J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DWYFJ5J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

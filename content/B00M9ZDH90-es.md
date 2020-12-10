@@ -22,6 +22,9 @@ Tienes [Casio Reloj de Pulsera GA-400-1AER](https://www.amazon.es/dp/B00M9ZDH90/
 
 [![Casio Reloj de Pulsera GA-400-1AER](https://images-eu.ssl-images-amazon.com/images/I/51o-FZw6rlL._SL200_.jpg)](https://www.amazon.es/dp/B00M9ZDH90/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00M9ZDH90/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

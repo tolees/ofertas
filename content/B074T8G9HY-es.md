@@ -22,6 +22,9 @@ Está [40L Mens impermeable al aire libre impermeable deportes mochila viajes de
 
 [![40L Mens impermeable al aire libre imper](https://images-eu.ssl-images-amazon.com/images/I/51RmYb8CviL._SL200_.jpg)](https://www.amazon.es/dp/B074T8G9HY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074T8G9HY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

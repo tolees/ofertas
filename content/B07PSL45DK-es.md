@@ -22,6 +22,9 @@ Está [SUAOKI K12 - Jump Starter de 8000mAh 300A Batería Arrancador de Coche  D
 
 [![SUAOKI K12 - Jump Starter de 8000mAh 300](https://images-eu.ssl-images-amazon.com/images/I/414TslUJA4L._SL200_.jpg)](https://www.amazon.es/dp/B07PSL45DK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PSL45DK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

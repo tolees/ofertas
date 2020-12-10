@@ -22,6 +22,9 @@ Ahora mismo tienes [Pequeña Bolsa de Viaje Bolsa Fin de Semana - Bolsa de Depor
 
 [![Pequeña Bolsa de Viaje Bolsa Fin de Sema](https://images-eu.ssl-images-amazon.com/images/I/51Q375rUY0L._SL200_.jpg)](https://www.amazon.es/dp/B07BGW1KFX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BGW1KFX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

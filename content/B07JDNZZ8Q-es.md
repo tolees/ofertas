@@ -22,6 +22,9 @@ Tienes [Termómetro Digital Bebé  JUSALE Termómetro Frente y Oído-Termómetro
 
 [![Termómetro Digital Bebé  JUSALE Termómet](https://images-eu.ssl-images-amazon.com/images/I/41HZRlsh04L._SL200_.jpg)](https://www.amazon.es/dp/B07JDNZZ8Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JDNZZ8Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

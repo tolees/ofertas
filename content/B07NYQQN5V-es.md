@@ -22,6 +22,9 @@ Tienes [San Ignacio Premium Set de Bateria 8 Piezas + 4 Cuchillos 3 Utensilios d
 
 [![San Ignacio Premium Set de Bateria 8 Pie](https://images-eu.ssl-images-amazon.com/images/I/510RdDLs-kL._SL200_.jpg)](https://www.amazon.es/dp/B07NYQQN5V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NYQQN5V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

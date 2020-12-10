@@ -22,6 +22,9 @@ Tienes [Puma ESS Pique Polo T-Shirt  Hombre  Gris  Medium Gray Heather/Cat   L](
 
 [![Puma ESS Pique Polo T-Shirt  Hombre  Gri](https://images-eu.ssl-images-amazon.com/images/I/417lg84HSeL._SL200_.jpg)](https://www.amazon.es/dp/B077HLV9V7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077HLV9V7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

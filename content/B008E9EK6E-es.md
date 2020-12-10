@@ -22,6 +22,9 @@ Ahora mismo tienes [Plantronics Savi W710 - Auricular de diadema abierta  con mi
 
 [![Plantronics Savi W710 - Auricular de dia](https://images-eu.ssl-images-amazon.com/images/I/41YqaGOF4rL._SL200_.jpg)](https://www.amazon.es/dp/B008E9EK6E/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B008E9EK6E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

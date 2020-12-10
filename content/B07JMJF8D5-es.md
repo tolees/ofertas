@@ -22,6 +22,9 @@ Ahora mismo tienes [Android 8.1 TV Box  Android Box 4GB RAM + 64GB ROM  Leelbox 
 
 [![Android 8.1 TV Box  Android Box 4GB RAM ](https://images-eu.ssl-images-amazon.com/images/I/51HW-ZeCmfL._SL200_.jpg)](https://www.amazon.es/dp/B07JMJF8D5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JMJF8D5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

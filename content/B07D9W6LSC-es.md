@@ -22,6 +22,9 @@ Está [Mustang Booty  Botas Clasicas para Hombre  Marrón  Mittelbraun 360   43 
 
 [![Mustang Booty  Botas Clasicas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41QP987OaYL._SL200_.jpg)](https://www.amazon.es/dp/B07D9W6LSC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9W6LSC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

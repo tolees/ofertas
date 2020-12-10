@@ -22,6 +22,9 @@ Tienes [Skandika Aberdeen - Saco de dormir tipo momia](https://www.amazon.es/dp/
 
 [![Skandika Aberdeen - Saco de dormir tipo ](https://images-eu.ssl-images-amazon.com/images/I/41pdG2KtjAL._SL200_.jpg)](https://www.amazon.es/dp/B00BHEKXFK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BHEKXFK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

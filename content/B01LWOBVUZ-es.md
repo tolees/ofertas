@@ -22,6 +22,9 @@ Está [ZEP Montreaux Marco para apoyar  Madera Natural  66 X 21 X 4.5 Cm](https:
 
 [![ZEP Montreaux Marco para apoyar  Madera ](https://images-eu.ssl-images-amazon.com/images/I/517fvics7fL._SL200_.jpg)](https://www.amazon.es/dp/B01LWOBVUZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LWOBVUZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

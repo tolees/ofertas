@@ -22,6 +22,9 @@ Tienes [Gel Separadores de Dedos  Correctores de Dedos  Enderezadores de Dedos d
 
 [![Gel Separadores de Dedos  Correctores de](https://images-eu.ssl-images-amazon.com/images/I/31nktFYorVL._SL200_.jpg)](https://www.amazon.es/dp/B07NV6BG2J/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NV6BG2J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

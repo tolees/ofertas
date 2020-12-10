@@ -22,6 +22,9 @@ Está [Marca Amazon - Happy Belly Mango deshidratado  500 g](https://www.amazon.
 
 [![Marca Amazon - Happy Belly Mango deshidr](https://images-eu.ssl-images-amazon.com/images/I/51H2J%2BgYadL._SL200_.jpg)](https://www.amazon.es/dp/B077K4HC7D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077K4HC7D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

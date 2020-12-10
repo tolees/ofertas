@@ -22,6 +22,9 @@ Está [Xylazel M91402 - Intemperie incoloro 750ml](https://www.amazon.es/dp/B00H
 
 [![Xylazel M91402 - Intemperie incoloro 750](https://images-eu.ssl-images-amazon.com/images/I/41WYFVnBviL._SL200_.jpg)](https://www.amazon.es/dp/B00H2YBCB8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00H2YBCB8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

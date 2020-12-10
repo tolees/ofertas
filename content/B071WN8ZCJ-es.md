@@ -22,6 +22,9 @@ Está [Aigostar Speedy 30JIL - Batidora de mano de 800W de potencia  control gra
 
 [![Aigostar Speedy 30JIL - Batidora de mano](https://images-eu.ssl-images-amazon.com/images/I/41OcxZFntwL._SL200_.jpg)](https://www.amazon.es/dp/B071WN8ZCJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071WN8ZCJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

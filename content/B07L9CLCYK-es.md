@@ -22,6 +22,9 @@ Está [ROYAL SLEEP Colchón viscoelástico 135x182 de máxima Calidad  Confort y
 
 [![ROYAL SLEEP Colchón viscoelástico 135x18](https://images-eu.ssl-images-amazon.com/images/I/51CgQb3tBCL._SL200_.jpg)](https://www.amazon.es/dp/B07L9CLCYK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L9CLCYK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

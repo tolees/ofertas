@@ -22,6 +22,14 @@ Ahora mismo tienes [realme X3 Super Zoom  smartphone de 6.5"  8GB de RAM + 128GB
 
 [![realme X3 Super Zoom  smartphone de 6.5"](https://m.media-amazon.com/images/I/41iBR7RWNBL._SL200_.jpg)](https://www.amazon.es/dp/B088XP1DM6/?tag=tolees-21)
 
+Características:
+
+- Batería de 4200 mAh con carga rápida Super Dart 30w
+- Procesador Qualcomm Snapdragon 855+ con frecuencia de 2.96 GHz
+- Selfie dual integrado; doble cámara frontal 32MP+8MP
+- Pantalla Ultra fluida 120Hz y 6.6” FHD+; imágenes realistas y suaves como nunca
+- Super Zoom periscópico 60X; cámara cuádruple 64MP
+
 [Visítala!!!](https://www.amazon.es/dp/B088XP1DM6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

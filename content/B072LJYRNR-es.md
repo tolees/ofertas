@@ -22,6 +22,9 @@ Tienes [Puma Carson 2 Terrain  Zapatillas De Deporte para Exterior para Mujer  G
 
 [![Puma Carson 2 Terrain  Zapatillas De Dep](https://images-eu.ssl-images-amazon.com/images/I/51GFuGpbdmL._SL200_.jpg)](https://www.amazon.es/dp/B072LJYRNR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072LJYRNR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

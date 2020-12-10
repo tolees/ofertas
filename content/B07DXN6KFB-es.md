@@ -22,6 +22,9 @@ Está [Abody Plancha de Pelo Profesional  Alisador Pelo con Placas Anchas de 4.4
 
 [![Abody Plancha de Pelo Profesional  Alisa](https://images-eu.ssl-images-amazon.com/images/I/31rc4TZX%2BtL._SL200_.jpg)](https://www.amazon.es/dp/B07DXN6KFB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DXN6KFB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

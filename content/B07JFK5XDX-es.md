@@ -22,6 +22,9 @@ Tienes [Puma Axis  Zapatillas Unisex Adulto  Blanco White-Bright Peach 06  37.5 
 
 [![Puma Axis  Zapatillas Unisex Adulto  Bla](https://images-eu.ssl-images-amazon.com/images/I/41MNf7JlgoL._SL200_.jpg)](https://www.amazon.es/dp/B07JFK5XDX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JFK5XDX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

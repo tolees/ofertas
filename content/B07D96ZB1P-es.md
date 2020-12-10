@@ -22,6 +22,9 @@ Ahora mismo tienes [Motorola Moto E5 Plus - Smartphone de 6"  Cámara de 12 MP  
 
 [![Motorola Moto E5 Plus - Smartphone de 6"](https://images-eu.ssl-images-amazon.com/images/I/41EEb%2B1CGKL._SL200_.jpg)](https://www.amazon.es/dp/B07D96ZB1P/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D96ZB1P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

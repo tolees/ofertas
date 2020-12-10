@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Adizero Avanti  Zapatillas de Atletismo Unisex Adulto
 
 [![Adidas Adizero Avanti  Zapatillas de Atl](https://images-eu.ssl-images-amazon.com/images/I/41ZtW0vIHZL._SL200_.jpg)](https://www.amazon.es/dp/B0781Z7TRW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0781Z7TRW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

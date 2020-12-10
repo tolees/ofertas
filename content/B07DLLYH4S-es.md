@@ -22,6 +22,9 @@ Ahora mismo tienes [Soradoo 40L Mochila de Senderismo Impermeable Ergonómica Ca
 
 [![Soradoo 40L Mochila de Senderismo Imperm](https://images-eu.ssl-images-amazon.com/images/I/51v%2BZDPu3uL._SL200_.jpg)](https://www.amazon.es/dp/B07DLLYH4S/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DLLYH4S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

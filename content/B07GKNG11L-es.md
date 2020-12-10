@@ -22,6 +22,9 @@ Tienes [H.Koenig NV700 Limpiador A Vapor Escoba y De Mano 2 en 1  Vaporeta 1050 
 
 [![H.Koenig NV700 Limpiador A Vapor Escoba ](https://images-eu.ssl-images-amazon.com/images/I/31nW%2BoGXuVL._SL200_.jpg)](https://www.amazon.es/dp/B07GKNG11L/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GKNG11L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

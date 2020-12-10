@@ -22,6 +22,9 @@ Está [Lsnisni Luz nocturna de inducción LED con sensor inteligente  sensor dig
 
 [![Lsnisni Luz nocturna de inducción LED co](https://images-eu.ssl-images-amazon.com/images/I/315qR3LXBFL._SL200_.jpg)](https://www.amazon.es/dp/B07PZKVRHH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PZKVRHH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Indicode 40-149-Camiseta Hombre Negro  Black  XXL](https://www.amazon.es/
 
 [![Indicode 40-149-Camiseta Hombre Negro  B](https://images-eu.ssl-images-amazon.com/images/I/41GoC6-w7tL._SL200_.jpg)](https://www.amazon.es/dp/B01LXKDPA9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LXKDPA9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

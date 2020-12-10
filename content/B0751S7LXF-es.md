@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Mrl005V1  Zapatillas para Hombre  Negro  Black  
 
 [![New Balance Mrl005V1  Zapatillas para Ho](https://images-eu.ssl-images-amazon.com/images/I/41ihhSh2iLL._SL200_.jpg)](https://www.amazon.es/dp/B0751S7LXF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0751S7LXF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

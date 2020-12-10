@@ -22,6 +22,9 @@ Tienes [Genius SW HF5.1 4800 Conjunto de Altavoces 5.1 Canales 125 W Negro  Made
 
 [![Genius SW HF5.1 4800 Conjunto de Altavoc](https://images-eu.ssl-images-amazon.com/images/I/41Q3T0zojaL._SL200_.jpg)](https://www.amazon.es/dp/B00GLQ0YMQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GLQ0YMQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

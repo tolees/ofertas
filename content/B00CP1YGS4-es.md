@@ -22,6 +22,9 @@ Ahora mismo tienes [Soliera - Vino Tinto Tempranillo Botella 75 cl D.O. La Manch
 
 [![Soliera - Vino Tinto Tempranillo Botella](https://images-eu.ssl-images-amazon.com/images/I/41DrPs2IO9L._SL200_.jpg)](https://www.amazon.es/dp/B00CP1YGS4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00CP1YGS4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

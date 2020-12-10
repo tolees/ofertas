@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301.5  Pantalones Cortos Hombre  Azul  Medium Aged 071   36  
 
 [![G-STAR RAW 3301.5  Pantalones Cortos Hom](https://images-eu.ssl-images-amazon.com/images/I/41gRuuTESGL._SL200_.jpg)](https://www.amazon.es/dp/B076VNWFXW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076VNWFXW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

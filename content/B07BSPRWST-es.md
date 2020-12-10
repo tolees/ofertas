@@ -22,6 +22,9 @@ Está [Salomon Brigade Casco de esquí y Snowboard para Hombre  Carcasa ABS  Int
 
 [![Salomon Brigade Casco de esquí y Snowboa](https://images-eu.ssl-images-amazon.com/images/I/31C0CruHG8L._SL200_.jpg)](https://www.amazon.es/dp/B07BSPRWST/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BSPRWST/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

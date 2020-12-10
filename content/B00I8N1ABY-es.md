@@ -22,6 +22,9 @@ Tienes [Makita DUH523Z - Cortasetos 18V Litio 52cm](https://www.amazon.es/dp/B00
 
 [![Makita DUH523Z - Cortasetos 18V Litio 52](https://images-eu.ssl-images-amazon.com/images/I/311Iz2JbsVL._SL200_.jpg)](https://www.amazon.es/dp/B00I8N1ABY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00I8N1ABY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

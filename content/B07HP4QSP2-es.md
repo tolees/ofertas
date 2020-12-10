@@ -22,6 +22,9 @@ Está [ELEGIANT Pulsera de Actividad Reloj Inteligente Deportivo IP68 Hombre Muj
 
 [![ELEGIANT Pulsera de Actividad Reloj Inte](https://images-eu.ssl-images-amazon.com/images/I/41aLBmYzBlL._SL200_.jpg)](https://www.amazon.es/dp/B07HP4QSP2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HP4QSP2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

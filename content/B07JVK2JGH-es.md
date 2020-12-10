@@ -22,6 +22,9 @@ Tienes [Symiu Circuito de Coches de Madera Rampas para 4 Coches Juguete Juegos E
 
 [![Symiu Circuito de Coches de Madera Rampa](https://images-eu.ssl-images-amazon.com/images/I/51IY2P7x32L._SL200_.jpg)](https://www.amazon.es/dp/B07JVK2JGH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JVK2JGH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

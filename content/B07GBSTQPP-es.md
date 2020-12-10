@@ -22,6 +22,9 @@ Está [New Look Ella Sweat  suéter para Mujer  Beige  Camel  46  Talla del Fabr
 
 [![New Look Ella Sweat  suéter para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41gEuGwiFdL._SL200_.jpg)](https://www.amazon.es/dp/B07GBSTQPP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GBSTQPP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

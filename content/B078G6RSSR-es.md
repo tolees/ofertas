@@ -22,6 +22,9 @@ Tienes [oodji Ultra Hombre Polo de Algodón con Bordado Sin Etiqueta  Azul  ES 5
 
 [![oodji Ultra Hombre Polo de Algodón con B](https://images-eu.ssl-images-amazon.com/images/I/516sFFIk79L._SL200_.jpg)](https://www.amazon.es/dp/B078G6RSSR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078G6RSSR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

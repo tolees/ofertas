@@ -22,6 +22,9 @@ Tienes [YZPUSI Bluetooth 3.0 Inalámbrico Wireless Teclado  Ultra Slim y Ligero 
 
 [![YZPUSI Bluetooth 3.0 Inalámbrico Wireles](https://images-eu.ssl-images-amazon.com/images/I/51jdxSJw8sL._SL200_.jpg)](https://www.amazon.es/dp/B07KCZ2MDD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KCZ2MDD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

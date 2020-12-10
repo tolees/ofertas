@@ -22,6 +22,9 @@ Tienes [Nike Air MAX Invigor Print  Zapatillas Unisex niño  Gris  Cool Wolf Gre
 
 [![Nike Air MAX Invigor Print  Zapatillas U](https://images-eu.ssl-images-amazon.com/images/I/41ClsNMDmBL._SL200_.jpg)](https://www.amazon.es/dp/B00YFJMZJQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00YFJMZJQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

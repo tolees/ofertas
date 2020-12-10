@@ -22,6 +22,9 @@ Está [Auriculares Bluetooth inalámbrico in-ear Auricular Cancelación de Ruido
 
 [![Auriculares Bluetooth inalámbrico in-ear]()](https://www.amazon.es/dp/B07DQJ8G1M/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQJ8G1M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

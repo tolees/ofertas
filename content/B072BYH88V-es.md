@@ -22,6 +22,9 @@ Está [Crocs Specialist II Clog  Unisex Adulto Zueco  Blanco  White   42-43 EU](
 
 [![Crocs Specialist II Clog  Unisex Adulto ](https://images-eu.ssl-images-amazon.com/images/I/31SmLDhichL._SL200_.jpg)](https://www.amazon.es/dp/B072BYH88V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072BYH88V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

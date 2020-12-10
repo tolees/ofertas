@@ -22,6 +22,9 @@ Está [Las Mulas Sauvignon Blanc  Vino Blanco  6 botellas de 75 cl - Total: 450 
 
 [![Las Mulas Sauvignon Blanc  Vino Blanco  ](https://images-eu.ssl-images-amazon.com/images/I/31oia7GcjHL._SL200_.jpg)](https://www.amazon.es/dp/B01N0GOTKI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N0GOTKI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

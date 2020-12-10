@@ -22,6 +22,9 @@ Ahora mismo tienes [Abrelatas Manual - Morpilot Abrebotellas Profesional 3 en 1 
 
 [![Abrelatas Manual - Morpilot Abrebotellas](https://images-eu.ssl-images-amazon.com/images/I/41OqsX8a5UL._SL200_.jpg)](https://www.amazon.es/dp/B07M7VM96K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M7VM96K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

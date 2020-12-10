@@ -22,6 +22,9 @@ Ahora mismo tienes [SUENOSZZZ - Cabecero Dakota  Cama90  100X57 Cms. Color Plata
 
 [![SUENOSZZZ - Cabecero Dakota  Cama90  100](https://images-eu.ssl-images-amazon.com/images/I/51SRlJoYUwL._SL200_.jpg)](https://www.amazon.es/dp/B01LNSRME4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LNSRME4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

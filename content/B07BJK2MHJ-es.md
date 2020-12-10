@@ -22,6 +22,9 @@ Tienes [HyperX FURY - Módulo de memoria  16 GB  1 x 16 GB  DDR4  3200 MHz  288-
 
 [![HyperX FURY - Módulo de memoria  16 GB  ](https://images-eu.ssl-images-amazon.com/images/I/41zSPopFsRL._SL200_.jpg)](https://www.amazon.es/dp/B07BJK2MHJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BJK2MHJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

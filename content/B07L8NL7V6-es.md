@@ -22,6 +22,9 @@ Está [iWork - L-82-362 - Compresor de Aire Portátil 12v inflador de neumático
 
 [![iWork - L-82-362 - Compresor de Aire Por](https://images-eu.ssl-images-amazon.com/images/I/51GnQSBab1L._SL200_.jpg)](https://www.amazon.es/dp/B07L8NL7V6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L8NL7V6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

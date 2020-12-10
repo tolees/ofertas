@@ -22,6 +22,9 @@ Ahora mismo tienes [Corsair Vengeance LPX - Módulo de Memoria XMP 2.0 de Alto R
 
 [![Corsair Vengeance LPX - Módulo de Memori]()](https://www.amazon.es/dp/B06XYNSYS8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XYNSYS8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

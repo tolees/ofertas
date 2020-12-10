@@ -22,6 +22,9 @@ Tienes [resol Rita Set Infantil  1 Mesa Roja + 4 Sillas Rosa/Naranja/Azul/Lima](
 
 [![resol Rita Set Infantil  1 Mesa Roja + 4](https://images-eu.ssl-images-amazon.com/images/I/41%2BqjUDX4IL._SL200_.jpg)](https://www.amazon.es/dp/B075VDSMH3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075VDSMH3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

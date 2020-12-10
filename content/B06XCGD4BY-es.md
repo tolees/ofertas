@@ -22,6 +22,9 @@ Está [Clarks Varby Top  Cargadores clásicos para Hombre  Negro  Black Leather 
 
 [![Clarks Varby Top  Cargadores clásicos pa](https://images-eu.ssl-images-amazon.com/images/I/41DVyJe40RL._SL200_.jpg)](https://www.amazon.es/dp/B06XCGD4BY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XCGD4BY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

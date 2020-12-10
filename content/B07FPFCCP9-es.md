@@ -22,6 +22,9 @@ Está [New Balance 500  Zapatillas para Hombre  Gris Magnet  42 EU](https://www.
 
 [![New Balance 500  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/51DhkEHRTAL._SL200_.jpg)](https://www.amazon.es/dp/B07FPFCCP9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FPFCCP9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

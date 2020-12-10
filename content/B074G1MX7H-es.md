@@ -22,6 +22,9 @@ Está [gb Gold - Silla de paseo Qbit+  viaje de lujo  Travel System 3 en 1  desd
 
 [![gb Gold - Silla de paseo Qbit+  viaje de](https://images-eu.ssl-images-amazon.com/images/I/41mpW5ByTjL._SL200_.jpg)](https://www.amazon.es/dp/B074G1MX7H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074G1MX7H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

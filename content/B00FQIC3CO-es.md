@@ -22,6 +22,9 @@ Tienes [BLACK+DECKER ST5530CM-QS - Podadora 3 en 1  cortacésped  cortabordes y 
 
 [![BLACK+DECKER ST5530CM-QS - Podadora 3 en](https://images-eu.ssl-images-amazon.com/images/I/41qqFb2rhcL._SL200_.jpg)](https://www.amazon.es/dp/B00FQIC3CO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00FQIC3CO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Flydo Traje de Cosplay del Traje de Cosplay de Lenceria Sexy Mujer  Traje
 
 [![Flydo Traje de Cosplay del Traje de Cosp](https://images-eu.ssl-images-amazon.com/images/I/41MPnG0wvBL._SL200_.jpg)](https://www.amazon.es/dp/B07J5PML91/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J5PML91/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

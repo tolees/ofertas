@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Sublite XT Cushion MT  Zapatillas de Running para Muj
 
 [![Reebok Sublite XT Cushion MT  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41oY8YT5nEL._SL200_.jpg)](https://www.amazon.es/dp/B072M7T1MX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072M7T1MX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

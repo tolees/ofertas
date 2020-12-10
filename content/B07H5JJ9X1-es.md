@@ -22,6 +22,9 @@ Está [Desigual - Bag Colorama Gela Women  Bolsos bandolera Mujer  Amarillo  Ocr
 
 [![Desigual - Bag Colorama Gela Women  Bols](https://images-eu.ssl-images-amazon.com/images/I/31oM4LoEGRL._SL200_.jpg)](https://www.amazon.es/dp/B07H5JJ9X1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H5JJ9X1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

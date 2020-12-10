@@ -22,6 +22,9 @@ Está [Coninx Spicero Especiero Giratorio | 12 Botes de Cristal con Tapas de Pl�
 
 [![Coninx Spicero Especiero Giratorio | 12 ](https://images-eu.ssl-images-amazon.com/images/I/41Ck7-ZTZLL._SL200_.jpg)](https://www.amazon.es/dp/B01CPK84AU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01CPK84AU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

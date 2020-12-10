@@ -22,6 +22,9 @@ Ahora mismo tienes [OROPY Pajitas de Acero Inoxidable 2 cepillos de Limpieza  Pa
 
 [![OROPY Pajitas de Acero Inoxidable 2 cepi](https://images-eu.ssl-images-amazon.com/images/I/51OyuFGnP3L._SL200_.jpg)](https://www.amazon.es/dp/B07J4JHWTS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07J4JHWTS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

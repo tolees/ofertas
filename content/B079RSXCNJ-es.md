@@ -22,6 +22,9 @@ Está [Pepe Jeans Suna  Suéter para Mujer  Amarillo  Siena 089  M](https://www.
 
 [![Pepe Jeans Suna  Suéter para Mujer  Amar](https://images-eu.ssl-images-amazon.com/images/I/41JNcv2yVsL._SL200_.jpg)](https://www.amazon.es/dp/B079RSXCNJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079RSXCNJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

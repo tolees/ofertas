@@ -22,6 +22,9 @@ Tienes [FIND 16 11 RB 026 camisetas  Blanco  White   38  Talla del Fabricante: S
 
 [![FIND 16 11 RB 026 camisetas  Blanco  Whi](https://images-eu.ssl-images-amazon.com/images/I/41yfzp4O4%2BL._SL200_.jpg)](https://www.amazon.es/dp/B06VXHNH3Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06VXHNH3Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

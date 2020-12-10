@@ -22,6 +22,9 @@ Ahora mismo tienes [Schwarzkopf Gliss Champú Seco Anti-Grasa - 24 Horas de Fres
 
 [![Schwarzkopf Gliss Champú Seco Anti-Grasa](https://images-eu.ssl-images-amazon.com/images/I/41UEuxaBU4L._SL200_.jpg)](https://www.amazon.es/dp/B07QB1JYPG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07QB1JYPG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

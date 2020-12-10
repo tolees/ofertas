@@ -22,6 +22,9 @@ Tienes [NOUDOO Tableta de Escritura LCD  21 Pulgadas LCD eWriter Tableta gráfic
 
 [![NOUDOO Tableta de Escritura LCD  21 Pulg](https://images-eu.ssl-images-amazon.com/images/I/411Q6-boSnL._SL200_.jpg)](https://www.amazon.es/dp/B07RW8NK9X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07RW8NK9X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

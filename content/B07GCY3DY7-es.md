@@ -22,6 +22,9 @@ Ahora mismo tienes [ThxMadam Scrapbook Cuero Álbum de Fotos Libro de Visitas de
 
 [![ThxMadam Scrapbook Cuero Álbum de Fotos ](https://images-eu.ssl-images-amazon.com/images/I/41A2WbEUhjL._SL200_.jpg)](https://www.amazon.es/dp/B07GCY3DY7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GCY3DY7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma St Runner V2 Nl  Zapatillas de Cross Unisex adulto  Blanco  Puma Whi
 
 [![Puma St Runner V2 Nl  Zapatillas de Cros](https://images-eu.ssl-images-amazon.com/images/I/31WdXXTczOL._SL200_.jpg)](https://www.amazon.es/dp/B07DBXQDJR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DBXQDJR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

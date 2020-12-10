@@ -22,6 +22,9 @@ Está [Pepe Jeans Tinker Zero Seal  Zapatillas para Hombre  Blanco  800WHITE 800
 
 [![Pepe Jeans Tinker Zero Seal  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/419T8A28GSL._SL200_.jpg)](https://www.amazon.es/dp/B07LFSRJMD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LFSRJMD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

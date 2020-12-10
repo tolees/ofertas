@@ -22,6 +22,9 @@ Está [Superga 2754 COTU - Zapatillas Unisex  Negro  997   39 EU / 5.5 UK](https
 
 [![Superga 2754 COTU - Zapatillas Unisex  N](https://images-eu.ssl-images-amazon.com/images/I/41-rKOzwxfL._SL200_.jpg)](https://www.amazon.es/dp/B004O6LIPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004O6LIPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

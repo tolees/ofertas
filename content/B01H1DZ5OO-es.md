@@ -22,6 +22,9 @@ Está [Mascarilla barro de mar muerto  200g  - faciales de mar muerto arcillas p
 
 [![Mascarilla barro de mar muerto  200g  - ](https://images-eu.ssl-images-amazon.com/images/I/413J%2BqJANpL._SL200_.jpg)](https://www.amazon.es/dp/B01H1DZ5OO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01H1DZ5OO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

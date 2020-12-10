@@ -22,6 +22,9 @@ Tienes [La Tita Sangría Lata - 24 latas x 330 ml](https://www.amazon.es/dp/B07H
 
 [![La Tita Sangría Lata - 24 latas x 330 ml](https://images-eu.ssl-images-amazon.com/images/I/51oSi0vp2OL._SL200_.jpg)](https://www.amazon.es/dp/B07HHMQQM5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HHMQQM5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

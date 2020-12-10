@@ -22,6 +22,9 @@ Está [Chung Shi Dux Beach  Alpargata para Mujer  Azul  36.5 EU](https://www.ama
 
 [![Chung Shi Dux Beach  Alpargata para Muje](https://images-eu.ssl-images-amazon.com/images/I/41EPJYKwp%2BL._SL200_.jpg)](https://www.amazon.es/dp/B003EQ3OQ4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B003EQ3OQ4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [NIVEA Gel de Ducha Sunshine - Paquete de 12 x 500 ml - Total: 6 l](https
 
 [![NIVEA Gel de Ducha Sunshine - Paquete de](https://images-eu.ssl-images-amazon.com/images/I/417LzO%2B7sAL._SL200_.jpg)](https://www.amazon.es/dp/B07BM9Z2WJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BM9Z2WJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

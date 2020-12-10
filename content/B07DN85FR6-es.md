@@ -22,6 +22,9 @@ Ahora mismo tienes [CNASA Kit de Reemplazo para iRobot Roomba Serie 800/900 Reca
 
 [![CNASA Kit de Reemplazo para iRobot Roomb](https://images-eu.ssl-images-amazon.com/images/I/51yEpiaxl2L._SL200_.jpg)](https://www.amazon.es/dp/B07DN85FR6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DN85FR6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

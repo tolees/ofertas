@@ -22,6 +22,9 @@ Está [Makita HM0870C Martillo Demoledor Sds Max 1100W 5.1 Kg Azul 0](https://ww
 
 [![Makita HM0870C Martillo Demoledor Sds Ma](https://images-eu.ssl-images-amazon.com/images/I/41uK4JjPAmL._SL200_.jpg)](https://www.amazon.es/dp/B004PR81ZU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004PR81ZU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

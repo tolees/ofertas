@@ -22,6 +22,9 @@ Está [Miraculous 10619 bañador Bebe  Rojo Rouge  4 años para Niñas](https://
 
 [![Miraculous 10619 bañador Bebe  Rojo Roug](https://images-eu.ssl-images-amazon.com/images/I/41XoISQ3lYL._SL200_.jpg)](https://www.amazon.es/dp/B07MZ4JRX5/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MZ4JRX5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

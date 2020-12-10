@@ -22,6 +22,9 @@ Está [Salomon XA Pro 3D J  Zapatillas de Trail Running para Niños  Rojo  Red D
 
 [![Salomon XA Pro 3D J  Zapatillas de Trail](https://images-eu.ssl-images-amazon.com/images/I/41kkNEk2eVL._SL200_.jpg)](https://www.amazon.es/dp/B07CZKSQVT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZKSQVT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger Straight Denton 5pkt Gmd Flex  Pantalones Hombre  Negro  
 
 [![Tommy Hilfiger Straight Denton 5pkt Gmd ](https://images-eu.ssl-images-amazon.com/images/I/31PghhfQ9gL._SL200_.jpg)](https://www.amazon.es/dp/B07HJB5WNR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HJB5WNR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

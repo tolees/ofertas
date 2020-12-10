@@ -22,6 +22,9 @@ Ahora mismo tienes [Project Cars 2: Collector s Edition](https://www.amazon.es/d
 
 [![Project Cars 2: Collector s Edition](https://images-eu.ssl-images-amazon.com/images/I/51aqwuOmqAL._SL200_.jpg)](https://www.amazon.es/dp/B0722W3ZRV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0722W3ZRV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

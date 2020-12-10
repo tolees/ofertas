@@ -22,6 +22,9 @@ Está [Dockers by Gerli 41ju201  Botas Militar para Mujer  Gris  Hellgrau 210   
 
 [![Dockers by Gerli 41ju201  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/41j4z-Rxb0L._SL200_.jpg)](https://www.amazon.es/dp/B07DJL66WR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJL66WR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

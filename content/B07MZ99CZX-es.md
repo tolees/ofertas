@@ -22,6 +22,9 @@ Está [AIJEESI TWS 5.0 Auriculares Bluetooth inalámbricos con micrófono estér
 
 [![AIJEESI TWS 5.0 Auriculares Bluetooth in](https://images-eu.ssl-images-amazon.com/images/I/31UBPJkM2hL._SL200_.jpg)](https://www.amazon.es/dp/B07MZ99CZX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MZ99CZX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Joma Tokio II Pantalones Cortos  Hombre   Blanco/Negro   S](https://www.a
 
 [![Joma Tokio II Pantalones Cortos  Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41dlSJ%2BI7QL._SL200_.jpg)](https://www.amazon.es/dp/B06XHW6Y19/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XHW6Y19/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

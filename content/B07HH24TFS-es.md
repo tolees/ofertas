@@ -22,6 +22,9 @@ Está [Pendientes colgantes geométricos de madera hueca para mujer](https://www
 
 [![Pendientes colgantes geométricos de made](https://images-eu.ssl-images-amazon.com/images/I/41SI%2BEa075L._SL200_.jpg)](https://www.amazon.es/dp/B07HH24TFS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HH24TFS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

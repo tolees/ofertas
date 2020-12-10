@@ -22,6 +22,9 @@ Ahora mismo tienes [Muscletech Hydroxycut Hardcore Next Gen Cápsulas - 100 Unid
 
 [![Muscletech Hydroxycut Hardcore Next Gen ](https://images-eu.ssl-images-amazon.com/images/I/51XkEYnSKML._SL200_.jpg)](https://www.amazon.es/dp/B012BC2FRA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B012BC2FRA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

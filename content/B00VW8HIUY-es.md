@@ -22,6 +22,9 @@ Ahora mismo tienes [Gordini - Zapatillas de Tela con Cierre de Velcro Hombre Cab
 
 [![Gordini - Zapatillas de Tela con Cierre ](https://images-eu.ssl-images-amazon.com/images/I/41foMDJ33NL._SL200_.jpg)](https://www.amazon.es/dp/B00VW8HIUY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00VW8HIUY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [American Tourister - Soundbox Spinner 67/24 Expansible 71 5/81 L - 3 7 K
 
 [![American Tourister - Soundbox Spinner 67](https://images-eu.ssl-images-amazon.com/images/I/41rR-OLTqvL._SL200_.jpg)](https://www.amazon.es/dp/B079LZ4GL7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079LZ4GL7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Casio Reloj de Pulsera AQ-S800WD-1EVEF](https://www.amazon.es/dp/B005FEY5
 
 [![Casio Reloj de Pulsera AQ-S800WD-1EVEF](https://images-eu.ssl-images-amazon.com/images/I/5122F5H6NuL._SL200_.jpg)](https://www.amazon.es/dp/B005FEY56G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B005FEY56G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

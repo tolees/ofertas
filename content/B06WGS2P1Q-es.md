@@ -22,6 +22,9 @@ Tienes [Stardew Valley CollectorŽs Edition](https://www.amazon.es/dp/B06WGS2P1Q
 
 [![Stardew Valley CollectorŽs Edition](https://images-eu.ssl-images-amazon.com/images/I/512JknvM73L._SL200_.jpg)](https://www.amazon.es/dp/B06WGS2P1Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06WGS2P1Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

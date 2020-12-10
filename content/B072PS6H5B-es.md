@@ -22,6 +22,9 @@ Ahora mismo tienes [Gallo Pastalover Macarrones Napolitana - 200g](https://www.a
 
 [![Gallo Pastalover Macarrones Napolitana -](https://images-eu.ssl-images-amazon.com/images/I/51KK1MIV12L._SL200_.jpg)](https://www.amazon.es/dp/B072PS6H5B/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072PS6H5B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

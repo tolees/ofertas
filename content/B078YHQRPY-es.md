@@ -22,6 +22,9 @@ Tienes [Menú Sanae Tabulé de Quinoa Vegetariano - 4 Paquetes de 320 gr - Total
 
 [![Menú Sanae Tabulé de Quinoa Vegetariano ](https://images-eu.ssl-images-amazon.com/images/I/51ogM8lBkVL._SL200_.jpg)](https://www.amazon.es/dp/B078YHQRPY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078YHQRPY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

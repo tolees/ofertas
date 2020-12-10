@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics Gt-1000 5  Zapatillas de Deporte para Mujer  Gris  Mid
 
 [![Asics Gt-1000 5  Zapatillas de Deporte p](https://images-eu.ssl-images-amazon.com/images/I/51GlOaqAGPL._SL200_.jpg)](https://www.amazon.es/dp/B01N42TW4W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N42TW4W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

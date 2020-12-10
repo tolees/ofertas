@@ -22,6 +22,9 @@ Está [Kärcher 2.645-106.0 Enrollador móvil de manguera HC 50](https://www.ama
 
 [![Kärcher 2.645-106.0 Enrollador móvil de ](https://images-eu.ssl-images-amazon.com/images/I/41%2Bx-X5Ek4L._SL200_.jpg)](https://www.amazon.es/dp/B001TJ4GN8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001TJ4GN8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

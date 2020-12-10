@@ -22,6 +22,9 @@ Está [Asics Gel-Kayano Trainer EVO  Zapatillas para Hombre  Verde Dark Forest 8
 
 [![Asics Gel-Kayano Trainer EVO  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/41JJFGMk%2BBL._SL200_.jpg)](https://www.amazon.es/dp/B078VP4ST9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078VP4ST9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

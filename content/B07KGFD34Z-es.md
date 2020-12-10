@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Octopus  Bañador para Hombre  Rosa  Bright Pink 671  L
 
 [![BOSS Octopus  Bañador para Hombre  Rosa ](https://images-eu.ssl-images-amazon.com/images/I/41B7WNbzqbL._SL200_.jpg)](https://www.amazon.es/dp/B07KGFD34Z/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KGFD34Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

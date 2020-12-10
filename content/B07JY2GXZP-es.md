@@ -22,6 +22,9 @@ Tienes [Amazon Essentials 2-Pack Active Tank Fashion-t-Shirts  Charcoal Heather/
 
 [![Amazon Essentials 2-Pack Active Tank Fas](https://images-eu.ssl-images-amazon.com/images/I/41dC1yRksgL._SL200_.jpg)](https://www.amazon.es/dp/B07JY2GXZP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JY2GXZP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

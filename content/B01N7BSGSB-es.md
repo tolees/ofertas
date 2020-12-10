@@ -22,6 +22,9 @@ Ahora mismo tienes [Dakine EQ Bag 31L Sporttasche  48 cm  Rot  Burntrose ](https
 
 [![Dakine EQ Bag 31L Sporttasche  48 cm  Ro](https://images-eu.ssl-images-amazon.com/images/I/51DF8PhX3uL._SL200_.jpg)](https://www.amazon.es/dp/B01N7BSGSB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N7BSGSB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

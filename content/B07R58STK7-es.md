@@ -22,6 +22,9 @@ Tienes [Farmatint Spray instantáneo capilar Stop Raíces  color negro - 75 ml](
 
 [![Farmatint Spray instantáneo capilar Stop](https://images-eu.ssl-images-amazon.com/images/I/415mX4ArbXL._SL200_.jpg)](https://www.amazon.es/dp/B07R58STK7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07R58STK7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

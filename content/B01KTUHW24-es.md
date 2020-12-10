@@ -22,6 +22,9 @@ Está [S&R Mango Articulado Llaves de Carraca Tuerca Torsión / SET 1/2 "600 mm.
 
 [![S&R Mango Articulado Llaves de Carraca T](https://images-eu.ssl-images-amazon.com/images/I/41dN65mOzhL._SL200_.jpg)](https://www.amazon.es/dp/B01KTUHW24/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01KTUHW24/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

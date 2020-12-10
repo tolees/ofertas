@@ -22,6 +22,9 @@ Tienes [Easton Marlowe 6 PR Calcetines Lisos Negros Hombre  Algodón Peinado - 6
 
 [![Easton Marlowe 6 PR Calcetines Lisos Neg](https://images-eu.ssl-images-amazon.com/images/I/41pTLZaGjaL._SL200_.jpg)](https://www.amazon.es/dp/B07C7VTH1F/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C7VTH1F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

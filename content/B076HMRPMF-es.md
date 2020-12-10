@@ -22,6 +22,9 @@ Está [adidas CORE18 Y Sweatshirt  Unisex Niños  Gris  Dark Grey Heather/Black 
 
 [![adidas CORE18 Y Sweatshirt  Unisex Niños](https://images-eu.ssl-images-amazon.com/images/I/51iUM4dinSL._SL200_.jpg)](https://www.amazon.es/dp/B076HMRPMF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076HMRPMF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

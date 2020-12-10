@@ -22,6 +22,9 @@ Está [Corsair Force MP500 - Unidad de Estado sólido  SSD de 120 GB  M.2 PCIe G
 
 [![Corsair Force MP500 - Unidad de Estado s](https://images-eu.ssl-images-amazon.com/images/I/4171Z6V5wHL._SL200_.jpg)](https://www.amazon.es/dp/B01MQU72O9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MQU72O9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Guess - Kamryn  Bolsos bandolera Mujer  Azul  Aqua/Aqu   25.5x19x6 cm  W 
 
 [![Guess - Kamryn  Bolsos bandolera Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/5121Cm6MxqL._SL200_.jpg)](https://www.amazon.es/dp/B07FCGNWGL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FCGNWGL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Bolsa para Proyector 25 x 21 x 11cm Estuche de Proyector Portátil Mini B
 
 [![Bolsa para Proyector 25 x 21 x 11cm Estu](https://images-eu.ssl-images-amazon.com/images/I/41NDAHUtqKL._SL200_.jpg)](https://www.amazon.es/dp/B07DXPVZX9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DXPVZX9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

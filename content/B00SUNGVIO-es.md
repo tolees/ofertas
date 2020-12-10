@@ -22,6 +22,9 @@ Tienes [Shunga Vela de Masaje Excitation  Aroma de Chocolate  Color Blanco - 30 
 
 [![Shunga Vela de Masaje Excitation  Aroma ](https://images-eu.ssl-images-amazon.com/images/I/511wiibTTYL._SL200_.jpg)](https://www.amazon.es/dp/B00SUNGVIO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SUNGVIO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

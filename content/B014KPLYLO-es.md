@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Tube de Resistencia - Medio](https://www.amazon.es/dp
 
 [![Reebok Tube de Resistencia - Medio](https://images-eu.ssl-images-amazon.com/images/I/31CCMepsF8L._SL200_.jpg)](https://www.amazon.es/dp/B014KPLYLO/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B014KPLYLO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

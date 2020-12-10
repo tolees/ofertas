@@ -22,6 +22,9 @@ Ahora mismo tienes [WMF Perfect - Set con Olla Rápida  Diámetro 22 cm  Capacid
 
 [![WMF Perfect - Set con Olla Rápida  Diáme](https://images-eu.ssl-images-amazon.com/images/I/41xK5N3ZaRL._SL200_.jpg)](https://www.amazon.es/dp/B0015Z5AWM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0015Z5AWM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

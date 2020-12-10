@@ -22,6 +22,9 @@ Está [Curren Original para Mujer  Deportes  Deportes  Acero Inoxidable  Cuarzo 
 
 [![Curren Original para Mujer  Deportes  De](https://images-eu.ssl-images-amazon.com/images/I/41bBy9zwgPL._SL200_.jpg)](https://www.amazon.es/dp/B07JNNJK3F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JNNJK3F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

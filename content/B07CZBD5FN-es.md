@@ -22,6 +22,9 @@ Tienes [Pistola de Aire Caliente 2000W 2 Temperatura Ajustable Modelos 122℉~10
 
 [![Pistola de Aire Caliente 2000W 2 Tempera](https://images-eu.ssl-images-amazon.com/images/I/41yX5oV5rxL._SL200_.jpg)](https://www.amazon.es/dp/B07CZBD5FN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZBD5FN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

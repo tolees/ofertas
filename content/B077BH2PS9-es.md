@@ -22,6 +22,9 @@ Está [FIND Mocasines Clásicos Hombre  Azul  Navy   42 EU](https://www.amazon.e
 
 [![FIND Mocasines Clásicos Hombre  Azul  Na](https://images-eu.ssl-images-amazon.com/images/I/31WDeTL7OQL._SL200_.jpg)](https://www.amazon.es/dp/B077BH2PS9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077BH2PS9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

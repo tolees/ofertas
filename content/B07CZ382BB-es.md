@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Ignite Flash Camo  Zapatillas de Entrenamiento para Hom
 
 [![Puma Ignite Flash Camo  Zapatillas de En](https://images-eu.ssl-images-amazon.com/images/I/419sDMBUlXL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ382BB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ382BB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

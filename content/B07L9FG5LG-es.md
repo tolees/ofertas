@@ -22,6 +22,9 @@ Tienes [Frank Pressie 5 Piezas de Tope de Puerta Gris Goma Antideslizante de Cu√
 
 [![Frank Pressie 5 Piezas de Tope de Puerta](https://images-eu.ssl-images-amazon.com/images/I/41XsoRTG-WL._SL200_.jpg)](https://www.amazon.es/dp/B07L9FG5LG/?tag=tolees-21)
 
+Caracter√≠sticas principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L9FG5LG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

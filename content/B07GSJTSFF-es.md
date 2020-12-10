@@ -22,6 +22,9 @@ Está [CUBOT P20 Smartphone 4G Móviles Libres Android 8.0 LTE Pantalla IPS de 6
 
 [![CUBOT P20 Smartphone 4G Móviles Libres A](https://images-eu.ssl-images-amazon.com/images/I/51iyDIjm3BL._SL200_.jpg)](https://www.amazon.es/dp/B07GSJTSFF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GSJTSFF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

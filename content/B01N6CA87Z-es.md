@@ -22,6 +22,9 @@ Está [ONLY & SONS Onswarp Light Blue 6666 Pk Noos  Jeans Hombre  Azul  Light De
 
 [![ONLY & SONS Onswarp Light Blue 6666 Pk N](https://images-eu.ssl-images-amazon.com/images/I/41Wa3yNu-hL._SL200_.jpg)](https://www.amazon.es/dp/B01N6CA87Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6CA87Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

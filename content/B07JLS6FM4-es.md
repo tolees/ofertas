@@ -22,6 +22,9 @@ Ahora mismo tienes [XTI 49012  Zapatillas para Mujer  Rosa Nude  37 EU](https://
 
 [![XTI 49012  Zapatillas para Mujer  Rosa N](https://images-eu.ssl-images-amazon.com/images/I/41-whTOz-FL._SL200_.jpg)](https://www.amazon.es/dp/B07JLS6FM4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JLS6FM4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

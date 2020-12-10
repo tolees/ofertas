@@ -22,6 +22,9 @@ Tienes [Reebok Princess EB  Zapatillas de Deporte para Mujer  Blanco  Chalk/Seas
 
 [![Reebok Princess EB  Zapatillas de Deport](https://images-eu.ssl-images-amazon.com/images/I/41h5vI%2B%2BhFL._SL200_.jpg)](https://www.amazon.es/dp/B073RMKC2Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073RMKC2Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

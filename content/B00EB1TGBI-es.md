@@ -22,6 +22,9 @@ Está [WMF Lineo Batidora de Varillas  350 W  Acero Inoxidable  5 Velocidades  C
 
 [![WMF Lineo Batidora de Varillas  350 W  A](https://images-eu.ssl-images-amazon.com/images/I/41kzcbmyYNL._SL200_.jpg)](https://www.amazon.es/dp/B00EB1TGBI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00EB1TGBI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

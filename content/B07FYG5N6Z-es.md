@@ -22,6 +22,9 @@ Tienes [Michael Kors - Mott  Carteras de mano Mujer  Marrón  ACORN   4.5x12x24 
 
 [![Michael Kors - Mott  Carteras de mano Mu](https://images-eu.ssl-images-amazon.com/images/I/31rrFuYuEKL._SL200_.jpg)](https://www.amazon.es/dp/B07FYG5N6Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FYG5N6Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

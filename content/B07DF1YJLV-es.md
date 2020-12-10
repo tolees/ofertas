@@ -22,6 +22,9 @@ Ahora mismo tienes [Pop! Disney Mickey 90 Years - Figura de Vinilo Steamboat Wil
 
 [![Pop! Disney Mickey 90 Years - Figura de ](https://images-eu.ssl-images-amazon.com/images/I/41yhY-iXdVL._SL200_.jpg)](https://www.amazon.es/dp/B07DF1YJLV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DF1YJLV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

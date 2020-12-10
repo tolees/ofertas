@@ -22,6 +22,9 @@ Ahora mismo tienes [murtoo Pulsera Cuero Hombre Acero Inoxidable Cuero Trenzada 
 
 [![murtoo Pulsera Cuero Hombre Acero Inoxid](https://images-eu.ssl-images-amazon.com/images/I/513dU9uikiL._SL200_.jpg)](https://www.amazon.es/dp/B07H3J49CW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H3J49CW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

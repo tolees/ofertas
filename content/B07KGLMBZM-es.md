@@ -22,6 +22,9 @@ Está [BOSS Heritage Pants Pantalones de Deporte  Azul  Bright Blue 435   W41  T
 
 [![BOSS Heritage Pants Pantalones de Deport](https://images-eu.ssl-images-amazon.com/images/I/31PrZ-8qcuL._SL200_.jpg)](https://www.amazon.es/dp/B07KGLMBZM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGLMBZM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

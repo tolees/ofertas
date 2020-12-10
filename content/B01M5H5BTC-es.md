@@ -22,6 +22,9 @@ Ahora mismo tienes [Woxter Stinger Laptop Cooler Vacuum - Base de Refrigeración
 
 [![Woxter Stinger Laptop Cooler Vacuum - Ba]()](https://www.amazon.es/dp/B01M5H5BTC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M5H5BTC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

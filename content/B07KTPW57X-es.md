@@ -22,6 +22,9 @@ Está [United Colors of Benetton Hombre L/s Polo Shirt Polo Not Applicable  Blan
 
 [![United Colors of Benetton Hombre L/s Pol](https://images-eu.ssl-images-amazon.com/images/I/3178HjqdnUL._SL200_.jpg)](https://www.amazon.es/dp/B07KTPW57X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTPW57X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

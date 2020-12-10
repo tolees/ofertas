@@ -22,6 +22,9 @@ Está [adidas Court Stabil Jr Zapatillas de Balonmano Unisex Niños  Negro  Core
 
 [![adidas Court Stabil Jr Zapatillas de Bal](https://images-eu.ssl-images-amazon.com/images/I/41gU%2BaSS2xL._SL200_.jpg)](https://www.amazon.es/dp/B07JQZ6NRT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JQZ6NRT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Auriculares Bluetooth Deportivos Impermeables IPX7  Cascos B
 
 [![Auriculares Bluetooth Deportivos Imperme](https://images-eu.ssl-images-amazon.com/images/I/61Kli0LRLvL._SL200_.jpg)](https://www.amazon.es/dp/B07DNJ4GJF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DNJ4GJF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

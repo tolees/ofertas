@@ -22,6 +22,9 @@ Ahora mismo tienes [Dim Slip De X1  Braguita Hombre  Negro  Noir 0hz   Small  Ta
 
 [![Dim Slip De X1  Braguita Hombre  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/41ARXp3Sf8L._SL200_.jpg)](https://www.amazon.es/dp/B07JVPZP7H/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JVPZP7H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

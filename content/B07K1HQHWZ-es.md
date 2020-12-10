@@ -22,6 +22,9 @@ Ahora mismo tienes [Emporio Armani 211725  Calzoncillos para Hombre  Blanco  Bia
 
 [![Emporio Armani 211725  Calzoncillos para](https://images-eu.ssl-images-amazon.com/images/I/41YS2tAYM1L._SL200_.jpg)](https://www.amazon.es/dp/B07K1HQHWZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K1HQHWZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

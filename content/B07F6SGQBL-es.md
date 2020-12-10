@@ -22,6 +22,9 @@ Está [Café Royal Ristretto 48 cápsulas compatibles con Nescafé* Dolce Gusto*
 
 [![Café Royal Ristretto 48 cápsulas compati](https://images-eu.ssl-images-amazon.com/images/I/41RhR-j6eoL._SL200_.jpg)](https://www.amazon.es/dp/B07F6SGQBL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F6SGQBL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

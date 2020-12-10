@@ -22,6 +22,9 @@ Tienes [Tatuo 12 Pulgada de Alto Fuego Artificial Hoguera de Cartón Decorativa 
 
 [![Tatuo 12 Pulgada de Alto Fuego Artificia](https://images-eu.ssl-images-amazon.com/images/I/51R9nO%2BYTuL._SL200_.jpg)](https://www.amazon.es/dp/B07KFCXD2W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KFCXD2W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

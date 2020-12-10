@@ -22,6 +22,9 @@ Ahora mismo tienes [Acer H7 H277HU 27" Wide Quad HD IPS Plata pantalla para PC -
 
 [![Acer H7 H277HU 27" Wide Quad HD IPS Plat](https://images-eu.ssl-images-amazon.com/images/I/51xCiBsnrOL._SL200_.jpg)](https://www.amazon.es/dp/B01BSIL4WU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01BSIL4WU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

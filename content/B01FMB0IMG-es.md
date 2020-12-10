@@ -22,6 +22,9 @@ Está [Lixada Lámpara Cuerda Vintage  E27 100 cm Lámpara de Techo de Cáñamo 
 
 [![Lixada Lámpara Cuerda Vintage  E27 100 c](None._SL200_)](https://www.amazon.es/dp/B01FMB0IMG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FMB0IMG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

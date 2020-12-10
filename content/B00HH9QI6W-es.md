@@ -22,6 +22,9 @@ Tienes [Kärcher FJ 10C boquilla para espuma C  n  C 1l  2.643-144.0 ](https://w
 
 [![Kärcher FJ 10C boquilla para espuma C  n](https://images-eu.ssl-images-amazon.com/images/I/315MWbUiZYL._SL200_.jpg)](https://www.amazon.es/dp/B00HH9QI6W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HH9QI6W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

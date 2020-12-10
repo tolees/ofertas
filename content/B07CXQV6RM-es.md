@@ -22,6 +22,9 @@ Está [Sedhoom Cortador de Verduras En Trozos Picadora de Verduras 3 Cuchillas d
 
 [![Sedhoom Cortador de Verduras En Trozos P](https://images-eu.ssl-images-amazon.com/images/I/41nVTIglSeL._SL200_.jpg)](https://www.amazon.es/dp/B07CXQV6RM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CXQV6RM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

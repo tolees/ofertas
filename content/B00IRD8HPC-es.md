@@ -22,6 +22,9 @@ Ahora mismo tienes [Senscience Champú - 1000 ml](https://www.amazon.es/dp/B00IR
 
 [![Senscience Champú - 1000 ml](https://images-eu.ssl-images-amazon.com/images/I/31TJlplflIL._SL200_.jpg)](https://www.amazon.es/dp/B00IRD8HPC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00IRD8HPC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

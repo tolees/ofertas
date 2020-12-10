@@ -22,6 +22,9 @@ Tienes [Dickie Toys 3154001 - Buggy Woody Radiocontrol Toys Story 4  Multicolor]
 
 [![Dickie Toys 3154001 - Buggy Woody Radioc](https://images-eu.ssl-images-amazon.com/images/I/517qBxl%2B5-L._SL200_.jpg)](https://www.amazon.es/dp/B07QCB23FK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QCB23FK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

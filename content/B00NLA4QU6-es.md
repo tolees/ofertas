@@ -22,6 +22,9 @@ Está [KitSound KSCUBBTBL - Altavoz portátil con Bluetooth  inalámbrico  unive
 
 [![KitSound KSCUBBTBL - Altavoz portátil co](https://images-eu.ssl-images-amazon.com/images/I/41pqDNa9wxL._SL200_.jpg)](https://www.amazon.es/dp/B00NLA4QU6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00NLA4QU6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

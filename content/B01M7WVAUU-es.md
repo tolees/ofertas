@@ -22,6 +22,9 @@ Ahora mismo tienes [Funko- Stranger Things Mike Figura de Vinilo  13322 ](https:
 
 [![Funko- Stranger Things Mike Figura de Vi](https://images-eu.ssl-images-amazon.com/images/I/51BfLPynbAL._SL200_.jpg)](https://www.amazon.es/dp/B01M7WVAUU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M7WVAUU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

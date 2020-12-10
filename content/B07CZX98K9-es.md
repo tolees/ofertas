@@ -22,6 +22,9 @@ Tienes [Salomon XA Pro 3D GTX  Zapatillas de Running para Hombre  Rojo  Red Dahl
 
 [![Salomon XA Pro 3D GTX  Zapatillas de Run](https://images-eu.ssl-images-amazon.com/images/I/41sY%2Bjk6EpL._SL200_.jpg)](https://www.amazon.es/dp/B07CZX98K9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZX98K9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

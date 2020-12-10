@@ -22,6 +22,9 @@ Está [Ellis Harper Masajeador Eléctrico de Mano Inalámbrico Recargable Magic 
 
 [![Ellis Harper Masajeador Eléctrico de Man](https://images-eu.ssl-images-amazon.com/images/I/51qjKO6GofL._SL200_.jpg)](https://www.amazon.es/dp/B07JKMXXSW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JKMXXSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

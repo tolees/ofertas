@@ -22,6 +22,9 @@ Tienes [Lenovo Lenovo TB-X304L - Tablet de 10.1" IPS/HD  Procesador Qualcomm Sna
 
 [![Lenovo Lenovo TB-X304L - Tablet de 10.1"](https://images-eu.ssl-images-amazon.com/images/I/51EM2ib99lL._SL200_.jpg)](https://www.amazon.es/dp/B075RB87XL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075RB87XL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Under Armour Remix  Zapatillas de Running para Hombre  Marrón  Khaki Bas
 
 [![Under Armour Remix  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41uoq3oy8QL._SL200_.jpg)](https://www.amazon.es/dp/B07CTQ828K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CTQ828K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

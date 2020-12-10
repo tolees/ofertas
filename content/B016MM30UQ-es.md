@@ -22,6 +22,9 @@ Está [Tattu Batería LiPo 1800mAh 14.8V 45C 4S para Multicopteros FPV Racing He
 
 [![Tattu Batería LiPo 1800mAh 14.8V 45C 4S ](https://images-eu.ssl-images-amazon.com/images/I/513w9C5VCQL._SL200_.jpg)](https://www.amazon.es/dp/B016MM30UQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016MM30UQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

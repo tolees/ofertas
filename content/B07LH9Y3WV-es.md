@@ -22,6 +22,9 @@ Está [adidas Copa Gloro 19.2 Fg  Botas de Fútbol para Hombre  Multicolor  Negb
 
 [![adidas Copa Gloro 19.2 Fg  Botas de Fútb](https://images-eu.ssl-images-amazon.com/images/I/31p%2B6u%2B3gvL._SL200_.jpg)](https://www.amazon.es/dp/B07LH9Y3WV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LH9Y3WV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

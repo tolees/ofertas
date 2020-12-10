@@ -22,6 +22,9 @@ Está [Led Atomant Pack 10x GU10 7W Halogeno LED 680 lumenes Reales Color Blanco
 
 [![Led Atomant Pack 10x GU10 7W Halogeno LE](https://images-eu.ssl-images-amazon.com/images/I/31AUTU9lS0L._SL200_.jpg)](https://www.amazon.es/dp/B07HHV8C7H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HHV8C7H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

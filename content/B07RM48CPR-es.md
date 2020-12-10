@@ -22,6 +22,9 @@ Está [Taylormia Sombreros Panamá para Hombre Fedora para Hombre Sombrero de So
 
 [![Taylormia Sombreros Panamá para Hombre F](https://images-eu.ssl-images-amazon.com/images/I/41zps48k-TL._SL200_.jpg)](https://www.amazon.es/dp/B07RM48CPR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07RM48CPR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Auricular Bluetooth  Auricular Manos Libres Bluetooth Oreja 
 
 [![Auricular Bluetooth  Auricular Manos Lib](https://images-eu.ssl-images-amazon.com/images/I/51ERHQEH66L._SL200_.jpg)](https://www.amazon.es/dp/B07BF82TGC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BF82TGC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

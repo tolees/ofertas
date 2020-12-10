@@ -22,6 +22,9 @@ Está [Diadora Action +3  Zapatillas de Running para Hombre   Nero/Grigio Acciai
 
 [![Diadora Action +3  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/41OZuIkrbnL._SL200_.jpg)](https://www.amazon.es/dp/B07DRRSYJS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DRRSYJS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

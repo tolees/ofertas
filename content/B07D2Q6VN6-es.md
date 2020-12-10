@@ -22,6 +22,9 @@ Tienes [Reebok Speedlux 3.0  Zapatillas de Entrenamiento para Hombre  Azul  La-V
 
 [![Reebok Speedlux 3.0  Zapatillas de Entre](https://images-eu.ssl-images-amazon.com/images/I/41Gfq4LhGfL._SL200_.jpg)](https://www.amazon.es/dp/B07D2Q6VN6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D2Q6VN6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

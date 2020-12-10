@@ -22,6 +22,9 @@ Está [Star Wars Rebels Mochila Escolar  25 cm](https://www.amazon.es/dp/B00NZ4X
 
 [![Star Wars Rebels Mochila Escolar  25 cm](https://images-eu.ssl-images-amazon.com/images/I/51IryWUrDEL._SL200_.jpg)](https://www.amazon.es/dp/B00NZ4XVKO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00NZ4XVKO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

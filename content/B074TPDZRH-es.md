@@ -22,6 +22,9 @@ Ahora mismo tienes [Vans Sk8-hi 46 MTE DX  Zapatillas Unisex Adulto  Marrón  36
 
 [![Vans Sk8-hi 46 MTE DX  Zapatillas Unisex](https://images-eu.ssl-images-amazon.com/images/I/516ZEDw5XuL._SL200_.jpg)](https://www.amazon.es/dp/B074TPDZRH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074TPDZRH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Recbot Lámpara con Pinza 2000 mAh Batería de Litio Recargable con USB F
 
 [![Recbot Lámpara con Pinza 2000 mAh Baterí](https://images-eu.ssl-images-amazon.com/images/I/418OT5YzAlL._SL200_.jpg)](https://www.amazon.es/dp/B07D7WKZ8S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D7WKZ8S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

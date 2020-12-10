@@ -22,6 +22,9 @@ Está [BLACK+DECKER CLMA4820L2-QW - Cortacésped Autosense 36V  ancho de corte 4
 
 [![BLACK+DECKER CLMA4820L2-QW - Cortacésped](https://images-eu.ssl-images-amazon.com/images/I/41JrwkrcRdL._SL200_.jpg)](https://www.amazon.es/dp/B017WD5PZC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B017WD5PZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

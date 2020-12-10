@@ -22,6 +22,9 @@ Está [Chicos - Classics  Montaña Rusa Blizzard Blast  Set con 561 Piezas  4121
 
 [![Chicos - Classics  Montaña Rusa Blizzard](https://images-eu.ssl-images-amazon.com/images/I/51Aw2KlUe%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01I3LWQ54/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01I3LWQ54/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

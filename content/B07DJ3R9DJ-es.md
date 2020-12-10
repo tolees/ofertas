@@ -22,6 +22,9 @@ Está [New Balance Revlite 890v6  Zapatillas de Running para Mujer  Verde  Neon 
 
 [![New Balance Revlite 890v6  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/419sHOf4zZL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3R9DJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ3R9DJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

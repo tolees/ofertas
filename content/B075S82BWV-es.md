@@ -22,6 +22,9 @@ Está [Dockers by Gerli 40cu201  Botas Militar para Mujer  Azul  Navy 660   41 E
 
 [![Dockers by Gerli 40cu201  Botas Militar ](https://images-eu.ssl-images-amazon.com/images/I/31QJGf5inYL._SL200_.jpg)](https://www.amazon.es/dp/B075S82BWV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075S82BWV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

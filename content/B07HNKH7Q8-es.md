@@ -22,6 +22,9 @@ Está [Xnuoyo 20000mAh Batería Externa mit 2 USB Puertos Power Bank con Pantall
 
 [![Xnuoyo 20000mAh Batería Externa mit 2 US](https://images-eu.ssl-images-amazon.com/images/I/41iJP8oBORL._SL200_.jpg)](https://www.amazon.es/dp/B07HNKH7Q8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HNKH7Q8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

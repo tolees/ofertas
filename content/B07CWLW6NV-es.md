@@ -22,6 +22,9 @@ Está [Alcachofa de ducha Guguda Mano la Cabeza de Ducha 5 Modos Ahorro de Agua 
 
 [![Alcachofa de ducha Guguda Mano la Cabeza](https://images-eu.ssl-images-amazon.com/images/I/51VWinroYOL._SL200_.jpg)](https://www.amazon.es/dp/B07CWLW6NV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CWLW6NV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

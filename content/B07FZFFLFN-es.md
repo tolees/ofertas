@@ -22,6 +22,9 @@ Está [adidas Vs Switch 2 K  Zapatillas Unisex Niños  Blau  Collegiate Royal/Ac
 
 [![adidas Vs Switch 2 K  Zapatillas Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41LqIX-6GyL._SL200_.jpg)](https://www.amazon.es/dp/B07FZFFLFN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FZFFLFN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

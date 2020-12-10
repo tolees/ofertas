@@ -22,6 +22,9 @@ Tienes [Calvin Klein Stitch Detail Belt 3.0cm Cinturón  Marrón  Toast 230   10
 
 [![Calvin Klein Stitch Detail Belt 3.0cm Ci](https://images-eu.ssl-images-amazon.com/images/I/41PcoHrlf4L._SL200_.jpg)](https://www.amazon.es/dp/B078NGDNYC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078NGDNYC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

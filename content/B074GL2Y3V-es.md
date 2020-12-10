@@ -22,6 +22,9 @@ Está [NatureFun Hamaca ultraligera para camping| 300kg de capacidad de carga   
 
 [![NatureFun Hamaca ultraligera para campin](https://images-eu.ssl-images-amazon.com/images/I/51cL2OBYqqL._SL200_.jpg)](https://www.amazon.es/dp/B074GL2Y3V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074GL2Y3V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

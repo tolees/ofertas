@@ -22,6 +22,9 @@ Tienes [XTI 030603  Bailarinas con Punta Cerrada para Mujer  Rosa  Nude   38 EU]
 
 [![XTI 030603  Bailarinas con Punta Cerrada](https://images-eu.ssl-images-amazon.com/images/I/41kLR6DkNLL._SL200_.jpg)](https://www.amazon.es/dp/B01N35J0KF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N35J0KF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

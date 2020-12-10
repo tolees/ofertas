@@ -22,6 +22,9 @@ Tienes [Corsair Vengeance RGB Pro - Kit de Memoria Entusiasta 16 GB  2 x 8 GB   
 
 [![Corsair Vengeance RGB Pro - Kit de Memor](https://images-eu.ssl-images-amazon.com/images/I/41iU5vqzvbL._SL200_.jpg)](https://www.amazon.es/dp/B07D5QM1Q5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D5QM1Q5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

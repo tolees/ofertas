@@ -22,6 +22,9 @@ Está [Beurer IPL-6500 - Depiladora de luz pulsada compacta](https://www.amazon.
 
 [![Beurer IPL-6500 - Depiladora de luz puls](https://images-eu.ssl-images-amazon.com/images/I/41HS2T0Y2DL._SL200_.jpg)](https://www.amazon.es/dp/B01KRGSSNW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01KRGSSNW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

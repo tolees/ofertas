@@ -22,6 +22,9 @@ Está [Adaptador USB C a Micro USB  5x Lucklystar® Adaptador USB C a Micro USB 
 
 [![Adaptador USB C a Micro USB  5x Lucklyst](https://images-eu.ssl-images-amazon.com/images/I/41HvU82izGL._SL200_.jpg)](https://www.amazon.es/dp/B076BL7Y2G/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076BL7Y2G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

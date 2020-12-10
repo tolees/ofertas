@@ -22,6 +22,9 @@ Tienes [Pikolin Home - Almohada viscoelástica  desenfundable   firmeza media  3
 
 [![Pikolin Home - Almohada viscoelástica  d](https://images-eu.ssl-images-amazon.com/images/I/21r45q0wJLL._SL200_.jpg)](https://www.amazon.es/dp/B00U2IIAI4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00U2IIAI4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lower East Le222 Pantalones  Beige  W32/L32](https://www.amazon.es/dp/B01
 
 [![Lower East Le222 Pantalones  Beige  W32/](https://images-eu.ssl-images-amazon.com/images/I/41ThSRPQv%2BL._SL200_.jpg)](https://www.amazon.es/dp/B01MYV9XIC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MYV9XIC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

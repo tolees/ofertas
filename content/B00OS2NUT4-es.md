@@ -22,6 +22,9 @@ Tienes [The North Face Borealis Mochila   Negro  50 x 34.5 x 22 cm  28 Liter](ht
 
 [![The North Face Borealis Mochila   Negro ](https://images-eu.ssl-images-amazon.com/images/I/41KnE4rjF-L._SL200_.jpg)](https://www.amazon.es/dp/B00OS2NUT4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OS2NUT4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

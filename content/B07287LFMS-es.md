@@ -22,6 +22,9 @@ Tienes [Almohada para Bebe para plagiocefalia desenfundable  con dos forros  par
 
 [![Almohada para Bebe para plagiocefalia de](https://images-eu.ssl-images-amazon.com/images/I/411V1EVDT3L._SL200_.jpg)](https://www.amazon.es/dp/B07287LFMS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07287LFMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

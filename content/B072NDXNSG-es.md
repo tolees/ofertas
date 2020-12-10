@@ -22,6 +22,9 @@ Tienes [Nike Heritage Gmsk  Mochila Unisex Adultos  Rosa  Rush Pink/White   Tall
 
 [![Nike Heritage Gmsk  Mochila Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/51cM7cU%2BzFL._SL200_.jpg)](https://www.amazon.es/dp/B072NDXNSG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072NDXNSG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

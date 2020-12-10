@@ -22,6 +22,9 @@ Tienes [POWER GUIDANCE Barbell Squat Pad Protectora del Cuello y del Hombro Idea
 
 [![POWER GUIDANCE Barbell Squat Pad Protect]()](https://www.amazon.es/dp/B01CJHDTV8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01CJHDTV8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

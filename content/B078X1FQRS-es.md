@@ -22,6 +22,9 @@ Está [Nike Dualtone Racer PRM  Zapatillas de Running para Hombre   Blue Force/O
 
 [![Nike Dualtone Racer PRM  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/41mYY%2B2fF9L._SL200_.jpg)](https://www.amazon.es/dp/B078X1FQRS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078X1FQRS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

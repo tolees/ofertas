@@ -22,6 +22,9 @@ Está [Tommy Jeans TJM Essential Chino Short Bañador  Blau  Limoges 434   30W x
 
 [![Tommy Jeans TJM Essential Chino Short Ba](https://images-eu.ssl-images-amazon.com/images/I/41KckwkwheL._SL200_.jpg)](https://www.amazon.es/dp/B07LBLWLMV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBLWLMV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

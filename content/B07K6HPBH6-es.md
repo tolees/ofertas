@@ -22,6 +22,9 @@ Está [TV Box Android 7.1 - VIDEN W2 Smart TV Box Amlogic S905X Quad Core  2GB R
 
 [![TV Box Android 7.1 - VIDEN W2 Smart TV B](https://images-eu.ssl-images-amazon.com/images/I/51SkJ0FHgPL._SL200_.jpg)](https://www.amazon.es/dp/B07K6HPBH6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K6HPBH6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

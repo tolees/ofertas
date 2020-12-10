@@ -22,6 +22,9 @@ Está [JANE Mini Goumi - Robot de cocina  unisex](https://www.amazon.es/dp/B01I2
 
 [![JANE Mini Goumi - Robot de cocina  unise](https://images-eu.ssl-images-amazon.com/images/I/41WGvYFIikL._SL200_.jpg)](https://www.amazon.es/dp/B01I2YJ4SY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01I2YJ4SY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Timex Reloj Análogo clásico para Hombre de Cuarzo con Correa en Cuero T
 
 [![Timex Reloj Análogo clásico para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41aR35bV1PL._SL200_.jpg)](https://www.amazon.es/dp/B0744PX4LH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0744PX4LH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Pistola de Pintura 400 W  Meterk Pistola de Pulverización Pintura con 3 
 
 [![Pistola de Pintura 400 W  Meterk Pistola](https://images-eu.ssl-images-amazon.com/images/I/414Toa5Ww4L._SL200_.jpg)](https://www.amazon.es/dp/B07DLXRMKR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLXRMKR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

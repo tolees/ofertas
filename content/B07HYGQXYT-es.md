@@ -22,6 +22,9 @@ Está [Bergner Q2921 Set 5pc batería de cocina aluminio forjado  inducción  Or
 
 [![Bergner Q2921 Set 5pc batería de cocina ](https://images-eu.ssl-images-amazon.com/images/I/41Qtcb1s6tL._SL200_.jpg)](https://www.amazon.es/dp/B07HYGQXYT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HYGQXYT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

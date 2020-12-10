@@ -22,6 +22,9 @@ Está [Philips SoniCare Healthy White HX6711/02 - Cepillo de Dientes Electrico R
 
 [![Philips SoniCare Healthy White HX6711/02](https://images-eu.ssl-images-amazon.com/images/I/41dGwGhMRZL._SL200_.jpg)](https://www.amazon.es/dp/B01LLH69KK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LLH69KK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

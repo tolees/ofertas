@@ -22,6 +22,9 @@ Tienes [INTEY Detector de Pared con Pantalla LCD para Detecta AC Cable  Azulejos
 
 [![INTEY Detector de Pared con Pantalla LCD](https://images-eu.ssl-images-amazon.com/images/I/412WMbB%2BpBL._SL200_.jpg)](https://www.amazon.es/dp/B07MTZHBP8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MTZHBP8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

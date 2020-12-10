@@ -22,6 +22,9 @@ Tienes [Superalimento NaturGreen Experience Espirulina - 175 gr.](https://www.am
 
 [![Superalimento NaturGreen Experience Espi](https://images-eu.ssl-images-amazon.com/images/I/41p5CXXsy3L._SL200_.jpg)](https://www.amazon.es/dp/B00UMZDSOI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00UMZDSOI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

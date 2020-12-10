@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Soho  Pantalones para Mujer  Azul  Ocean 588  31W / 28L](http
 
 [![Pepe Jeans Soho  Pantalones para Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/41GtRIJX-IL._SL200_.jpg)](https://www.amazon.es/dp/B07C4RCC52/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C4RCC52/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [MEJORES 12 AGUJAS GANCHILLO CON EMPUÑADURAS ERGONÓMICAS PA
 
 [![MEJORES 12 AGUJAS GANCHILLO CON EMPUÑADU](https://images-eu.ssl-images-amazon.com/images/I/41xd2cnOanL._SL200_.jpg)](https://www.amazon.es/dp/B072LC5SMF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072LC5SMF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

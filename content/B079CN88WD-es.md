@@ -22,6 +22,9 @@ Ahora mismo tienes [NIMAXI marco de fotos para bebé para huella de mano y pie 3
 
 [![NIMAXI marco de fotos para bebé para hue](https://images-eu.ssl-images-amazon.com/images/I/41wUzDjAmCL._SL200_.jpg)](https://www.amazon.es/dp/B079CN88WD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079CN88WD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

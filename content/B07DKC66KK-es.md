@@ -22,6 +22,9 @@ Está [Alcachofa de Ducha Música  con Altavoz Inalámbrica Bluetooth  Alcachofa
 
 [![Alcachofa de Ducha Música  con Altavoz I](https://images-eu.ssl-images-amazon.com/images/I/41o8C9KjlIL._SL200_.jpg)](https://www.amazon.es/dp/B07DKC66KK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DKC66KK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

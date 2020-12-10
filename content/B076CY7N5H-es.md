@@ -22,6 +22,9 @@ Está [Sony Xperia XZ1 13 2 cm  5.2"  4 GB 64 GB 4G Azul 2700 mAh - Smartphone  
 
 [![Sony Xperia XZ1 13 2 cm  5.2"  4 GB 64 G](https://images-eu.ssl-images-amazon.com/images/I/41F2O4gKjqL._SL200_.jpg)](https://www.amazon.es/dp/B076CY7N5H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076CY7N5H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

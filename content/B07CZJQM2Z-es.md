@@ -22,6 +22,9 @@ Tienes [Salomon X Ultra 3 Prime W  Zapatillas de Senderismo para Mujer  Gris  Al
 
 [![Salomon X Ultra 3 Prime W  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41maGhfmFnL._SL200_.jpg)](https://www.amazon.es/dp/B07CZJQM2Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZJQM2Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

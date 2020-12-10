@@ -22,6 +22,9 @@ Ahora mismo tienes [Orbegozo 16717 Ventilador de pie SERIE OVAL  60 W  Negro y p
 
 [![Orbegozo 16717 Ventilador de pie SERIE O](https://images-eu.ssl-images-amazon.com/images/I/31h-MB5PQHL._SL200_.jpg)](https://www.amazon.es/dp/B01D4YVY9Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01D4YVY9Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [G-STAR RAW Revend Skinny Jeans  Negro  rinsed 8970-082   34W / 32L para H
 
 [![G-STAR RAW Revend Skinny Jeans  Negro  r](https://images-eu.ssl-images-amazon.com/images/I/41sh5A7HQPL._SL200_.jpg)](https://www.amazon.es/dp/B07BJHBNJJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJHBNJJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

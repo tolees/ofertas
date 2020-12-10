@@ -22,6 +22,9 @@ Está [David Jones - 5944-2  Bolsos bandolera Mujer  Azul  L.Blue   5x23x22 cm  
 
 [![David Jones - 5944-2  Bolsos bandolera M](https://images-eu.ssl-images-amazon.com/images/I/412Jds1LpWL._SL200_.jpg)](https://www.amazon.es/dp/B07KCKVCDP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCKVCDP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

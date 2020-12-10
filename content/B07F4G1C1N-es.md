@@ -22,6 +22,9 @@ Está [JACK & JONES Jcovincent Knit Shawl Neck  suéter para Hombre  Gris  Dark 
 
 [![JACK & JONES Jcovincent Knit Shawl Neck ](https://images-eu.ssl-images-amazon.com/images/I/51ivQ3zFf4L._SL200_.jpg)](https://www.amazon.es/dp/B07F4G1C1N/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F4G1C1N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

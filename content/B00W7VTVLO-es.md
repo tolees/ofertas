@@ -22,6 +22,9 @@ Está [eleMar Badeanzug  Bañador para Mujer   Neonpink/Bunt   40  Talla Fabrica
 
 [![eleMar Badeanzug  Bañador para Mujer   N](https://images-eu.ssl-images-amazon.com/images/I/51bgocIddzL._SL200_.jpg)](https://www.amazon.es/dp/B00W7VTVLO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00W7VTVLO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

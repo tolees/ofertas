@@ -22,6 +22,9 @@ Está [SGILE Coche de Desmontar y Ensamblar Coches con la Herramienta 31 Piezas 
 
 [![SGILE Coche de Desmontar y Ensamblar Coc](https://images-eu.ssl-images-amazon.com/images/I/51HC24ecEyL._SL200_.jpg)](https://www.amazon.es/dp/B01M69CH6P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M69CH6P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

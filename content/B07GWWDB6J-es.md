@@ -22,6 +22,9 @@ Está [New Look Crew  suéter para Hombre  Rojo  Dark Burgundy  Small  Talla del
 
 [![New Look Crew  suéter para Hombre  Rojo ](https://images-eu.ssl-images-amazon.com/images/I/41WbTNf1POL._SL200_.jpg)](https://www.amazon.es/dp/B07GWWDB6J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GWWDB6J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

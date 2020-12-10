@@ -22,6 +22,9 @@ Está [Philips Avent SCF696/17 - Biberón  tetina suave y flexible  anticólicos
 
 [![Philips Avent SCF696/17 - Biberón  tetin](https://images-eu.ssl-images-amazon.com/images/I/31-GxK%2Bc%2BPL._SL200_.jpg)](https://www.amazon.es/dp/B00BCC8A8E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00BCC8A8E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

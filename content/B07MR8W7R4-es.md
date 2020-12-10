@@ -22,6 +22,9 @@ Ahora mismo tienes [Mini Proyector LED Portátil para Android/ iPhone/ PC/ TV Bo
 
 [![Mini Proyector LED Portátil para Android](https://images-eu.ssl-images-amazon.com/images/I/5106bODgKFL._SL200_.jpg)](https://www.amazon.es/dp/B07MR8W7R4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MR8W7R4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

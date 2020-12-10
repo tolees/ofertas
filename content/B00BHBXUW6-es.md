@@ -22,6 +22,9 @@ Tienes [Bosch 2609256B61 - Plato de soporte para discos abrasivos](https://www.a
 
 [![Bosch 2609256B61 - Plato de soporte para](https://images-eu.ssl-images-amazon.com/images/I/41C8JTifbkL._SL200_.jpg)](https://www.amazon.es/dp/B00BHBXUW6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BHBXUW6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

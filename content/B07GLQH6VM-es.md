@@ -22,6 +22,9 @@ Está [Zanmini Decantador Eléctrico de Vino  Decantar su vino con elegancia y r
 
 [![Zanmini Decantador Eléctrico de Vino  De](https://images-eu.ssl-images-amazon.com/images/I/41qxd2-fITL._SL200_.jpg)](https://www.amazon.es/dp/B07GLQH6VM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GLQH6VM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

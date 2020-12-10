@@ -22,6 +22,9 @@ Tienes [Lacoste Straightset BL 1 CAM NVY  Zapatillas para Hombre  Azul  44.5 EU]
 
 [![Lacoste Straightset BL 1 CAM NVY  Zapati](https://images-eu.ssl-images-amazon.com/images/I/31XPw6nPLLL._SL200_.jpg)](https://www.amazon.es/dp/B01N2VYCPY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N2VYCPY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

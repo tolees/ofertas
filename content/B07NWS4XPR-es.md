@@ -22,6 +22,9 @@ Ahora mismo tienes [DROP SHOT Hornet Carbon 2019](https://www.amazon.es/dp/B07NW
 
 [![DROP SHOT Hornet Carbon 2019](https://images-eu.ssl-images-amazon.com/images/I/41DupO4qZSL._SL200_.jpg)](https://www.amazon.es/dp/B07NWS4XPR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NWS4XPR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

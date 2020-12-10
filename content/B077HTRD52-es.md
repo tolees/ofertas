@@ -22,6 +22,9 @@ Tienes [Real Madrid 5382362 RM GOL Mochila Tipo Casual  44 cm  20.46 litros  Bla
 
 [![Real Madrid 5382362 RM GOL Mochila Tipo ](https://images-eu.ssl-images-amazon.com/images/I/41k9xkWWjGL._SL200_.jpg)](https://www.amazon.es/dp/B077HTRD52/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077HTRD52/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

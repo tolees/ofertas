@@ -22,6 +22,9 @@ Ahora mismo tienes [Garnier Delial Aceite Protector Solar Dorado Sublime para Pi
 
 [![Garnier Delial Aceite Protector Solar Do](https://images-eu.ssl-images-amazon.com/images/I/41bxRVvfH6L._SL200_.jpg)](https://www.amazon.es/dp/B0051PWBT2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0051PWBT2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

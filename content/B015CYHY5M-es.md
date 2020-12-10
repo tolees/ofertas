@@ -22,6 +22,9 @@ Ahora mismo tienes [Mars Gaming MK215 - Teclado Gaming de Membrana  Software Dua
 
 [![Mars Gaming MK215 - Teclado Gaming de Me](https://images-eu.ssl-images-amazon.com/images/I/41L36vFZLCL._SL200_.jpg)](https://www.amazon.es/dp/B015CYHY5M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B015CYHY5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

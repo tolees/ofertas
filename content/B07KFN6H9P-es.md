@@ -22,6 +22,9 @@ Está [Helly Hansen HH Duffel Bag 2 Bolsa de Viaje  Unisex Adulto  Azul  Evening
 
 [![Helly Hansen HH Duffel Bag 2 Bolsa de Vi](https://images-eu.ssl-images-amazon.com/images/I/418XxVrWMaL._SL200_.jpg)](https://www.amazon.es/dp/B07KFN6H9P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KFN6H9P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

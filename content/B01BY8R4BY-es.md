@@ -22,6 +22,9 @@ Está [Intex 26772NP - Piscina desmontable Prisma Frame 300 x 175 x 80 cm  3.539
 
 [![Intex 26772NP - Piscina desmontable Pris](https://images-eu.ssl-images-amazon.com/images/I/41kMtXtCUVL._SL200_.jpg)](https://www.amazon.es/dp/B01BY8R4BY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BY8R4BY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

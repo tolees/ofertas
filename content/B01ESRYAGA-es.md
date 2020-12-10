@@ -22,6 +22,9 @@ Está [ENKEEO Juego de 5 Bandas Elásticas Resistencia 11 Piezas  Cinta Ejercici
 
 [![ENKEEO Juego de 5 Bandas Elásticas Resis](https://images-eu.ssl-images-amazon.com/images/I/51dfe5l8vbL._SL200_.jpg)](https://www.amazon.es/dp/B01ESRYAGA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01ESRYAGA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

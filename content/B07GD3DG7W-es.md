@@ -22,6 +22,9 @@ Ahora mismo tienes [Reloj Inteligente Smartwatch SN07 Redondo con Podómetro de 
 
 [![Reloj Inteligente Smartwatch SN07 Redond](https://images-eu.ssl-images-amazon.com/images/I/41L6OHPRXFL._SL200_.jpg)](https://www.amazon.es/dp/B07GD3DG7W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GD3DG7W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

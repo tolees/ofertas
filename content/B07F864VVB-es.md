@@ -22,6 +22,9 @@ Está [Bombilla H7 LED - 1 par  AUTLEAD para Coche Faros Delanteros  Luces Altas
 
 [![Bombilla H7 LED - 1 par  AUTLEAD para Co](https://images-eu.ssl-images-amazon.com/images/I/51tb7wg24VL._SL200_.jpg)](https://www.amazon.es/dp/B07F864VVB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F864VVB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

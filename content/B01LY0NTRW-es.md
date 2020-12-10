@@ -22,6 +22,9 @@ Está [Schott NYC TR RANGER 70  Pantalones Para Hombre  Gris  grey   talla del f
 
 [![Schott NYC TR RANGER 70  Pantalones Para](https://images-eu.ssl-images-amazon.com/images/I/41Ff1%2ByJT1L._SL200_.jpg)](https://www.amazon.es/dp/B01LY0NTRW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LY0NTRW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

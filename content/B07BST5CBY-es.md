@@ -22,6 +22,9 @@ Tienes [Nike Downshifter 8  GS   Zapatillas de Deporte para Mujer   Midnight Nav
 
 [![Nike Downshifter 8  GS   Zapatillas de D](https://images-eu.ssl-images-amazon.com/images/I/41aKGglrtuL._SL200_.jpg)](https://www.amazon.es/dp/B07BST5CBY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BST5CBY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

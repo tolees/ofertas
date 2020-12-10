@@ -22,6 +22,9 @@ Tienes [Desigual Bols_tantra  Shoppers y bolsos de hombro para Mujer  Marrón  M
 
 [![Desigual Bols_tantra  Shoppers y bolsos ](https://images-eu.ssl-images-amazon.com/images/I/41G%2Bf%2BxrLXL._SL200_.jpg)](https://www.amazon.es/dp/B075QG3FX9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075QG3FX9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

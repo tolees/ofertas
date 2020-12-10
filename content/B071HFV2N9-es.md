@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Deconstructed Slim  Jeans para Hombre  Azul  Rinsed 7599-
 
 [![G-STAR RAW 3301 Deconstructed Slim  Jean](https://images-eu.ssl-images-amazon.com/images/I/41oQMinB9iL._SL200_.jpg)](https://www.amazon.es/dp/B071HFV2N9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071HFV2N9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

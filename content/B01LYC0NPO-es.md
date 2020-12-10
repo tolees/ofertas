@@ -22,6 +22,9 @@ Está [Pioneer Betty-Bermuda Mujer Blau  Dark Blue Stone Used 06  40 W](https://
 
 [![Pioneer Betty-Bermuda Mujer Blau  Dark B](https://images-eu.ssl-images-amazon.com/images/I/41z2i4woRhL._SL200_.jpg)](https://www.amazon.es/dp/B01LYC0NPO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LYC0NPO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

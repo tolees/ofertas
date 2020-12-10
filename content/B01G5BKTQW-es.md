@@ -22,6 +22,9 @@ Tienes [Tamaris 26239  Botas Militar para Mujer  Verde  Olive 722   38 EU](https
 
 [![Tamaris 26239  Botas Militar para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/51OsGjNHHYL._SL200_.jpg)](https://www.amazon.es/dp/B01G5BKTQW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01G5BKTQW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

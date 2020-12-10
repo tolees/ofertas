@@ -22,6 +22,9 @@ Está [smartect Protector de Pantalla para Motorola Moto E5 Plus [2 Unidades] - 
 
 [![smartect Protector de Pantalla para Moto](https://images-eu.ssl-images-amazon.com/images/I/41kk5DYpCuL._SL200_.jpg)](https://www.amazon.es/dp/B07Q81TZX3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q81TZX3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

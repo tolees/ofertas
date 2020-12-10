@@ -22,6 +22,9 @@ Está [ETNAB|#Etnies Jameson Vulc  Zapatillas de Skateboard para Hombre  Black/W
 
 [![ETNAB|#Etnies Jameson Vulc  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41mqOJttwmL._SL200_.jpg)](https://www.amazon.es/dp/B074PWZ2Q6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074PWZ2Q6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

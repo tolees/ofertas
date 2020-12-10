@@ -22,6 +22,9 @@ Ahora mismo tienes [Crucial CT2C8G4S24AM - Kit de Memoria para Mac de 16 GB  8 G
 
 [![Crucial CT2C8G4S24AM - Kit de Memoria pa](https://images-eu.ssl-images-amazon.com/images/I/41P8Wf6rerL._SL200_.jpg)](https://www.amazon.es/dp/B0721BL4NP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0721BL4NP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

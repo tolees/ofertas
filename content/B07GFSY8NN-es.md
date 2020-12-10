@@ -22,6 +22,9 @@ Tienes [Lexar lsd64gcb1eu633 Professional Class 10 95 MB/s Tarjeta de Memoria
 
 [![Lexar lsd64gcb1eu633 Professional Class ](https://images-eu.ssl-images-amazon.com/images/I/41-pLww9S2L._SL200_.jpg)](https://www.amazon.es/dp/B07GFSY8NN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GFSY8NN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

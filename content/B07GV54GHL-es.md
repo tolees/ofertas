@@ -22,6 +22,9 @@ Está [Wetoph - Controlador para Wii U GX03 inalámbrico Wii U con Cable de Carg
 
 [![Wetoph - Controlador para Wii U GX03 ina](https://images-eu.ssl-images-amazon.com/images/I/41cyIX9quVL._SL200_.jpg)](https://www.amazon.es/dp/B07GV54GHL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GV54GHL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

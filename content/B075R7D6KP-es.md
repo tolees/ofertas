@@ -22,6 +22,9 @@ Está [New Balance Fresh Foam Kaymin  Zapatillas de Running para Mujer  Azul  Pi
 
 [![New Balance Fresh Foam Kaymin  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/41GlfyL63IL._SL200_.jpg)](https://www.amazon.es/dp/B075R7D6KP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075R7D6KP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Salomon Mochila ligera de hidratación 12 l  adv skin 12 set  azul  Hawai
 
 [![Salomon Mochila ligera de hidratación 12](https://images-eu.ssl-images-amazon.com/images/I/51sEyGqUuPL._SL200_.jpg)](https://www.amazon.es/dp/B07DVX3MMR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVX3MMR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

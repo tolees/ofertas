@@ -22,6 +22,9 @@ Está [Juego de brújula  Brújula de Muscccm para geometría Kit de geometría 
 
 [![Juego de brújula  Brújula de Muscccm par](https://images-eu.ssl-images-amazon.com/images/I/51WF3-yM7WL._SL200_.jpg)](https://www.amazon.es/dp/B07GSYXKFR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GSYXKFR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

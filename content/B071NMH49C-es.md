@@ -22,6 +22,9 @@ Tienes [LG 22V270-L - Ordenador de sobremesa todo en uno de 21.5" IPS FullHD  In
 
 [![LG 22V270-L - Ordenador de sobremesa tod](https://images-eu.ssl-images-amazon.com/images/I/41Lj9CxHMEL._SL200_.jpg)](https://www.amazon.es/dp/B071NMH49C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071NMH49C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

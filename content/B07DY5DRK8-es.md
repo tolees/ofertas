@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour Favorite Tapered Slouch Pantalones  Mujer  Alum
 
 [![Under Armour Favorite Tapered Slouch Pan](https://images-eu.ssl-images-amazon.com/images/I/41P6GeF4ZSL._SL200_.jpg)](https://www.amazon.es/dp/B07DY5DRK8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DY5DRK8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

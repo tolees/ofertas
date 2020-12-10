@@ -22,6 +22,9 @@ Está [berghaus Freeflow Mochila  Unisex Adulto  Mykonos Blue  40L](https://www.
 
 [![berghaus Freeflow Mochila  Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41HjMr6nExL._SL200_.jpg)](https://www.amazon.es/dp/B01MTD6NFR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MTD6NFR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

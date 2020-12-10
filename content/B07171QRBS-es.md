@@ -22,6 +22,9 @@ Está [Dalber Dinos - Lámpara Colgante E27  Multicolor](https://www.amazon.es/d
 
 [![Dalber Dinos - Lámpara Colgante E27  Mul](https://images-eu.ssl-images-amazon.com/images/I/41BVurOvm-L._SL200_.jpg)](https://www.amazon.es/dp/B07171QRBS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07171QRBS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [CUBOT X18 Plus 4G Teléfono Móvil 5 .99 Pulgadas FHD + 18: 9 Pantalla A
 
 [![CUBOT X18 Plus 4G Teléfono Móvil 5 .99 P](https://images-eu.ssl-images-amazon.com/images/I/41Z%2BMp9tyKL._SL200_.jpg)](https://www.amazon.es/dp/B07BGZ47BY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BGZ47BY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

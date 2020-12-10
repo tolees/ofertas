@@ -22,6 +22,9 @@ Está [Puma AVID NU Knit  Zapatillas Unisex Adulto  Gris  Glacier Gray-Indigo Bu
 
 [![Puma AVID NU Knit  Zapatillas Unisex Adu](https://images-eu.ssl-images-amazon.com/images/I/41lEUT65otL._SL200_.jpg)](https://www.amazon.es/dp/B07DC7MXZ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC7MXZ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

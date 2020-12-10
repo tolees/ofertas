@@ -22,6 +22,9 @@ Ahora mismo tienes [Casio Reloj de Pulsera AW-80D-1AVES](https://www.amazon.es/d
 
 [![Casio Reloj de Pulsera AW-80D-1AVES](https://images-eu.ssl-images-amazon.com/images/I/51QvZkqQhcL._SL200_.jpg)](https://www.amazon.es/dp/B000GY74EA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B000GY74EA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

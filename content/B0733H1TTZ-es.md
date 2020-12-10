@@ -22,6 +22,9 @@ Ahora mismo tienes [Desires Kalvin 3 Mono Largo  Negro  Black   X-Small  Tamaño
 
 [![Desires Kalvin 3 Mono Largo  Negro  Blac](https://images-eu.ssl-images-amazon.com/images/I/31mv7dNrvhL._SL200_.jpg)](https://www.amazon.es/dp/B0733H1TTZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0733H1TTZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

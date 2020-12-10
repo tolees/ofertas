@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics Aaron  Zapatillas de Gimnasia para Hombre   Midnight/L
 
 [![Asics Aaron  Zapatillas de Gimnasia para](https://images-eu.ssl-images-amazon.com/images/I/41CHv1AB6VL._SL200_.jpg)](https://www.amazon.es/dp/B07K6L91ZX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K6L91ZX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [find. Top de Encaje de Tirantes para Mujer   Rosa  Blush   4
 
 [![find. Top de Encaje de Tirantes para Muj](https://images-eu.ssl-images-amazon.com/images/I/41GQC%2BY8LPL._SL200_.jpg)](https://www.amazon.es/dp/B01N3BI43J/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N3BI43J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

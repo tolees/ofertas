@@ -22,6 +22,9 @@ Está [HOMIEE Oxímetro de Pulso  Pulsioxímetro de Dedo Profesional  Medidor de
 
 [![HOMIEE Oxímetro de Pulso  Pulsioxímetro ](https://images-eu.ssl-images-amazon.com/images/I/41UOovrB7sL._SL200_.jpg)](https://www.amazon.es/dp/B07DW8LF82/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DW8LF82/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

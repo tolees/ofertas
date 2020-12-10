@@ -22,6 +22,9 @@ Ahora mismo tienes [INTEY Carro Compra  Carrito de Compra  38L Bolsa Impermeable
 
 [![INTEY Carro Compra  Carrito de Compra  3](https://images-eu.ssl-images-amazon.com/images/I/41CX-zamNlL._SL200_.jpg)](https://www.amazon.es/dp/B07BS8L29Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BS8L29Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

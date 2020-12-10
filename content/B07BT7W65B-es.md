@@ -22,6 +22,9 @@ Está [Skechers Bobs Squad 2-Shot Caller  Zapatillas para Mujer  Gris  Slate Gre
 
 [![Skechers Bobs Squad 2-Shot Caller  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41A-h8quNCL._SL200_.jpg)](https://www.amazon.es/dp/B07BT7W65B/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BT7W65B/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

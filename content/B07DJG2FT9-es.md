@@ -22,6 +22,9 @@ Tienes [Dockers by Gerli 41ce314  Zapatillas Altas para Mujer  Marrón  Dunkelbr
 
 [![Dockers by Gerli 41ce314  Zapatillas Alt](https://images-eu.ssl-images-amazon.com/images/I/41CxMeoL1wL._SL200_.jpg)](https://www.amazon.es/dp/B07DJG2FT9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DJG2FT9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

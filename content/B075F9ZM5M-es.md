@@ -22,6 +22,13 @@ Ahora mismo tienes [Leyendas de Luma-¡Oh Capitán  Ludonaute LDOC0001 ](https:/
 
 [![Leyendas de Luma-¡Oh Capitán  Ludonaute ](https://m.media-amazon.com/images/I/41l2wN3dWSL._SL200_.jpg)](https://www.amazon.es/dp/B075F9ZM5M/?tag=tolees-21)
 
+Características:
+
+- Con su mano derecha sostiene sobre las aguas la botella que contiene el misterioso mensaje que inició esta aventura
+- El Intrépido lleva surcando los mares las tres últimas lunas
+- Producto en castellano
+- Recostado en la cubierta, Red otea el horizonte murmurando para sí: «condenadas medusas brillantes». 
+
 [Visítala!!!](https://www.amazon.es/dp/B075F9ZM5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

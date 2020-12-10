@@ -22,6 +22,9 @@ Está [BILLABONG Command Pack Backpack  Hombre  Carmel  U](https://www.amazon.es
 
 [![BILLABONG Command Pack Backpack  Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41h-MKhsliL._SL200_.jpg)](https://www.amazon.es/dp/B07KJVVNTQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KJVVNTQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

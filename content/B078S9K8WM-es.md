@@ -22,6 +22,9 @@ Ahora mismo tienes [TROLLEY CABINA MANIJA RÍGIDA ALKA TRAVEL  CABINA TAMAÑO BA
 
 [![TROLLEY CABINA MANIJA RÍGIDA ALKA TRAVEL](https://images-eu.ssl-images-amazon.com/images/I/41newJadR3L._SL200_.jpg)](https://www.amazon.es/dp/B078S9K8WM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078S9K8WM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Asics California 78 Ex  Zapatillas de Deporte Unisex Adulto  Beige Cream
 
 [![Asics California 78 Ex  Zapatillas de De](https://images-eu.ssl-images-amazon.com/images/I/31rNl%2BS4YFL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ455TF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZ455TF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

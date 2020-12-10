@@ -22,6 +22,9 @@ Está [New Balance 410  Zapatillas Unisex Adulto  Rojo  Red/White Ar   38.5 EU](
 
 [![New Balance 410  Zapatillas Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41LTv2a1gwL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ3G6ZV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ3G6ZV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

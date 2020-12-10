@@ -22,6 +22,9 @@ Está [Kempa Attack One Contender  Zapatillas de Balonmano para Hombre   Verde E
 
 [![Kempa Attack One Contender  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/51wKKrcNb2L._SL200_.jpg)](https://www.amazon.es/dp/B076HD3HCJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076HD3HCJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

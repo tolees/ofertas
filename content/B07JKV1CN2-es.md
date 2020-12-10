@@ -22,6 +22,9 @@ Está [IKERLEX USB Linterna Recargable Directamente LED Linterna Tácticas Milit
 
 [![IKERLEX USB Linterna Recargable Directam](https://images-eu.ssl-images-amazon.com/images/I/51HNwJMYiDL._SL200_.jpg)](https://www.amazon.es/dp/B07JKV1CN2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JKV1CN2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Vans Ua Classic Slip-on  Zapatillas para Mujer  Negro  Metallic Dots Silv
 
 [![Vans Ua Classic Slip-on  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/41XwO29J5iL._SL200_.jpg)](https://www.amazon.es/dp/B01IAFWP6S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01IAFWP6S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

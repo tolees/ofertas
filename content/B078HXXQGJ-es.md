@@ -22,6 +22,9 @@ Tienes [Roxy Local In The Sky Top con Tirantes  Mujer  Rosa  Tropical Peach/Soli
 
 [![Roxy Local In The Sky Top con Tirantes  ](https://images-eu.ssl-images-amazon.com/images/I/41GR0A4miRL._SL200_.jpg)](https://www.amazon.es/dp/B078HXXQGJ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078HXXQGJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

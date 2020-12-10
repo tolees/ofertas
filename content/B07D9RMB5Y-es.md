@@ -22,6 +22,9 @@ Tienes [Adidas RUN70S  Zapatillas de Running para Hombre  Gris Three F17/Ftwr Wh
 
 [![Adidas RUN70S  Zapatillas de Running par](https://images-eu.ssl-images-amazon.com/images/I/41b49eSwGeL._SL200_.jpg)](https://www.amazon.es/dp/B07D9RMB5Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D9RMB5Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

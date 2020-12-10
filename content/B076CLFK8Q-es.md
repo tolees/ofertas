@@ -22,6 +22,9 @@ Tienes [Chicco Trío Sprint - Sistema de paseo y viaje 3 en 1  capazo/carrito/co
 
 [![Chicco Trío Sprint - Sistema de paseo y ](https://images-eu.ssl-images-amazon.com/images/I/51giHcH5gdL._SL200_.jpg)](https://www.amazon.es/dp/B076CLFK8Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076CLFK8Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

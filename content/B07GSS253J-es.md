@@ -22,6 +22,9 @@ Ahora mismo tienes [SUNLU Tablet de Escritura LCD  9 Pulgadas de Dibujo electró
 
 [![SUNLU Tablet de Escritura LCD  9 Pulgada](https://images-eu.ssl-images-amazon.com/images/I/41ihbqk1oSL._SL200_.jpg)](https://www.amazon.es/dp/B07GSS253J/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GSS253J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

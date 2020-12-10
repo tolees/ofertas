@@ -22,6 +22,9 @@ Está [Ferrari 0830261 - Reloj analógico de pulsera para hombre  cuarzo  correa
 
 [![Ferrari 0830261 - Reloj analógico de pul](https://images-eu.ssl-images-amazon.com/images/I/51MxrYfl45L._SL200_.jpg)](https://www.amazon.es/dp/B01276KRUM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01276KRUM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

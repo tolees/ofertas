@@ -22,6 +22,9 @@ Está [New Balance 574v2  Zapatillas para Mujer  Negro  Black/North Sea Snc   39
 
 [![New Balance 574v2  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41NMsNrVkOL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ34D5C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ34D5C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

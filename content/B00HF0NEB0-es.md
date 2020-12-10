@@ -22,6 +22,9 @@ Tienes [WMF Ceramill Natura Juego 2 molinillos  Madera](https://www.amazon.es/dp
 
 [![WMF Ceramill Natura Juego 2 molinillos  ](https://images-eu.ssl-images-amazon.com/images/I/516-l3oXySL._SL200_.jpg)](https://www.amazon.es/dp/B00HF0NEB0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HF0NEB0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

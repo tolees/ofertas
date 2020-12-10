@@ -22,6 +22,9 @@ Tienes [Robot Transformers Bumblebee transformable en coche con luz y sonido  Di
 
 [![Robot Transformers Bumblebee transformab](https://images-eu.ssl-images-amazon.com/images/I/510n0l--9KL._SL200_.jpg)](https://www.amazon.es/dp/B06XYBGFCQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XYBGFCQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

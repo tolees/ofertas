@@ -22,6 +22,9 @@ Ahora mismo tienes [Afuaim Tenor Ukulele Mate Sapele Ukulele Kit para Principian
 
 [![Afuaim Tenor Ukulele Mate Sapele Ukulele](https://images-eu.ssl-images-amazon.com/images/I/512jIehFMoL._SL200_.jpg)](https://www.amazon.es/dp/B07CCZFCV4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CCZFCV4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

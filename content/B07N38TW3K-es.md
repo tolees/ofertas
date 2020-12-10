@@ -22,6 +22,9 @@ Tienes [THE NORTH FACE M Litewave Fastpack II GTX  Zapatillas de Senderismo para
 
 [![THE NORTH FACE M Litewave Fastpack II GT](https://images-eu.ssl-images-amazon.com/images/I/41vDx8J0xZL._SL200_.jpg)](https://www.amazon.es/dp/B07N38TW3K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N38TW3K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

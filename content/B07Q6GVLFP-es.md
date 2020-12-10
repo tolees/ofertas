@@ -22,6 +22,9 @@ Está [G-STAR RAW Dend Swimshort Pantalones Cortos  Verde  Sage 724   Large para
 
 [![G-STAR RAW Dend Swimshort Pantalones Cor](https://images-eu.ssl-images-amazon.com/images/I/41JTj%2BV3t-L._SL200_.jpg)](https://www.amazon.es/dp/B07Q6GVLFP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q6GVLFP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

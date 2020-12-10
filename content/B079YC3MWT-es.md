@@ -22,6 +22,9 @@ Está [s.Oliver 5-5-46111-21  Botas de Nieve para Niños  Rojo  Berry 531   35 E
 
 [![s.Oliver 5-5-46111-21  Botas de Nieve pa](https://images-eu.ssl-images-amazon.com/images/I/41OHQSbEKVL._SL200_.jpg)](https://www.amazon.es/dp/B079YC3MWT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079YC3MWT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

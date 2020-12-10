@@ -22,6 +22,9 @@ Está [CNASA Repelente Ultrasónico Mosquitos Electrónico Enchufable  Control d
 
 [![CNASA Repelente Ultrasónico Mosquitos El](https://images-eu.ssl-images-amazon.com/images/I/41Z-2eDjqmL._SL200_.jpg)](https://www.amazon.es/dp/B07TNJFN9J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07TNJFN9J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

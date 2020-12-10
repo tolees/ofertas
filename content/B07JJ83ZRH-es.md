@@ -22,6 +22,9 @@ Tienes [Lacoste Pj3594 Polo  Rojo  Salvia Adx   6 años  Talla del Fabricante: 6
 
 [![Lacoste Pj3594 Polo  Rojo  Salvia Adx   ](https://images-eu.ssl-images-amazon.com/images/I/31KdUQRpioL._SL200_.jpg)](https://www.amazon.es/dp/B07JJ83ZRH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JJ83ZRH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

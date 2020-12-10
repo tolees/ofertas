@@ -22,6 +22,9 @@ Ahora mismo tienes [Elizabeth Arden 33833 - Loción anti-imperfecciones](https:/
 
 [![Elizabeth Arden 33833 - Loción anti-impe](https://images-eu.ssl-images-amazon.com/images/I/31H1FYnGwxL._SL200_.jpg)](https://www.amazon.es/dp/B003QUEM2I/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B003QUEM2I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

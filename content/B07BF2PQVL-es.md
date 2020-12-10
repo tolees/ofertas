@@ -22,6 +22,9 @@ Tienes [Mazinger Z Infinity Blu-Ray Edición Coleccionistas [Blu-ray]](https://w
 
 [![Mazinger Z Infinity Blu-Ray Edición Cole](https://images-eu.ssl-images-amazon.com/images/I/514u8562V4L._SL200_.jpg)](https://www.amazon.es/dp/B07BF2PQVL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BF2PQVL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

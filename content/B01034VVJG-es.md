@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Synergy-Scene Stealer  Zapatillas para Mujer  NVPK 
 
 [![Skechers Synergy-Scene Stealer  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41GA1uEsNWL._SL200_.jpg)](https://www.amazon.es/dp/B01034VVJG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01034VVJG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

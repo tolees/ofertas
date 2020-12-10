@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas X 18.3 AG  Botas de fútbol para Hombre  Azul  Fooblu
 
 [![adidas X 18.3 AG  Botas de fútbol para H](https://images-eu.ssl-images-amazon.com/images/I/41NOFKWgOTL._SL200_.jpg)](https://www.amazon.es/dp/B07D7RKNDL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D7RKNDL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

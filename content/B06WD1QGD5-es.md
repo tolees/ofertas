@@ -22,6 +22,9 @@ Tienes [EVGA GeForce GTX 1070 FTW2 Gaming  8 GB GDDR5  tecnología iCX - 9 senso
 
 [![EVGA GeForce GTX 1070 FTW2 Gaming  8 GB ](https://images-eu.ssl-images-amazon.com/images/I/51roWIpUsCL._SL200_.jpg)](https://www.amazon.es/dp/B06WD1QGD5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06WD1QGD5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

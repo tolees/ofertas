@@ -22,6 +22,9 @@ Ahora mismo tienes [Targus AMU76EU - Ratón óptico retráctil con diseño ergon
 
 [![Targus AMU76EU - Ratón óptico retráctil ](https://images-eu.ssl-images-amazon.com/images/I/31Wa-0iOCTL._SL200_.jpg)](https://www.amazon.es/dp/B002Q96GJW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B002Q96GJW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

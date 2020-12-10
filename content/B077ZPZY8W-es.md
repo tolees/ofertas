@@ -22,6 +22,9 @@ Está [Anna Smith Las señoras Loose Fitting Tops  Womens Cute Pullover Dress Ar
 
 [![Anna Smith Las señoras Loose Fitting Top](https://images-eu.ssl-images-amazon.com/images/I/41VUB0yhblL._SL200_.jpg)](https://www.amazon.es/dp/B077ZPZY8W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077ZPZY8W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

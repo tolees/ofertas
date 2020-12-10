@@ -22,6 +22,9 @@ Está [New Balance 420  Zapatillas de Running para Mujer   Blue/Green 458   37.5
 
 [![New Balance 420  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/41aCcJudvqL._SL200_.jpg)](https://www.amazon.es/dp/B01HY57WD6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HY57WD6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

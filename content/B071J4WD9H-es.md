@@ -22,6 +22,9 @@ Tienes [Dc Shoes Magnolia Se  Zapatillas para Mujer  Negro  Black/White   41 EU]
 
 [![Dc Shoes Magnolia Se  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/41kF%2BvRKqEL._SL200_.jpg)](https://www.amazon.es/dp/B071J4WD9H/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071J4WD9H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [MTNG Nolita  Botas Mujer  Negro  Antil Negro   36 EU](https:
 
 [![MTNG Nolita  Botas Mujer  Negro  Antil N](https://images-eu.ssl-images-amazon.com/images/I/31wFlnU2RCL._SL200_.jpg)](https://www.amazon.es/dp/B071HVKGTT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071HVKGTT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

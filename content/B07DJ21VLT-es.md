@@ -22,6 +22,9 @@ Está [New Balance 247v2  Zapatillas para Hombre  Azul  Eclipse/Silver Fd   44 E
 
 [![New Balance 247v2  Zapatillas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41-D95wd7NL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ21VLT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ21VLT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

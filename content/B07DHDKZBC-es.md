@@ -22,6 +22,9 @@ Está [SUNLU 3D Printer Filament PLA Plus Grey Blue  PLA Plus Filament 1.75 mm L
 
 [![SUNLU 3D Printer Filament PLA Plus Grey ](https://images-eu.ssl-images-amazon.com/images/I/51b7FMSVgJL._SL200_.jpg)](https://www.amazon.es/dp/B07DHDKZBC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DHDKZBC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

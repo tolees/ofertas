@@ -22,6 +22,9 @@ Está [LOBKIN Peine electrico para cabello y barba con funcion alisadora  rizado
 
 [![LOBKIN Peine electrico para cabello y ba](https://images-eu.ssl-images-amazon.com/images/I/51gURI%2B2nOL._SL200_.jpg)](https://www.amazon.es/dp/B07Q3DLZBL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q3DLZBL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

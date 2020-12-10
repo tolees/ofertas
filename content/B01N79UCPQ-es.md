@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Copa Tango 17.2 TR  Botas de Fútbol Hombre  Negro  C
 
 [![adidas Copa Tango 17.2 TR  Botas de Fútb](https://images-eu.ssl-images-amazon.com/images/I/41TvAY%2B7GUL._SL200_.jpg)](https://www.amazon.es/dp/B01N79UCPQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N79UCPQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

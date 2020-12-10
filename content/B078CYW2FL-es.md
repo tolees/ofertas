@@ -22,6 +22,9 @@ Ahora mismo tienes [Superga 2750-MESHU  Zapatillas Unisex Adulto  Verde  Green H
 
 [![Superga 2750-MESHU  Zapatillas Unisex Ad](https://images-eu.ssl-images-amazon.com/images/I/41-4110TGsL._SL200_.jpg)](https://www.amazon.es/dp/B078CYW2FL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078CYW2FL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

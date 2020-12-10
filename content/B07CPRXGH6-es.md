@@ -22,6 +22,9 @@ Está [Guess - Jade  Shoppers y bolsos de hombro Mujer  Negro  Black/Bla   26x20
 
 [![Guess - Jade  Shoppers y bolsos de hombr](https://images-eu.ssl-images-amazon.com/images/I/41OEnA-MWZL._SL200_.jpg)](https://www.amazon.es/dp/B07CPRXGH6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CPRXGH6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [LG LMG710 - Smartphone DE 6.1"  Octa-Core 2.8 GHz Qualcomm Snapdragon 845
 
 [![LG LMG710 - Smartphone DE 6.1"  Octa-Cor](https://images-eu.ssl-images-amazon.com/images/I/312RQ4k2AEL._SL200_.jpg)](https://www.amazon.es/dp/B07DPWZBDZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DPWZBDZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

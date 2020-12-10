@@ -22,6 +22,9 @@ Está [LE COQ SPORTIF Alpha Sport  Zapatillas para Hombre  Beige  Titanium Gris 
 
 [![LE COQ SPORTIF Alpha Sport  Zapatillas p](https://images-eu.ssl-images-amazon.com/images/I/41rvGjKj8sL._SL200_.jpg)](https://www.amazon.es/dp/B07DC6KJ69/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC6KJ69/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

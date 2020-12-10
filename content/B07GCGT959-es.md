@@ -22,6 +22,9 @@ Tienes [iRegro 35L Mochila Plegable 300D Nylon Resistente al Agua Ligero Mochila
 
 [![iRegro 35L Mochila Plegable 300D Nylon R](https://images-eu.ssl-images-amazon.com/images/I/41mTlNAyr8L._SL200_.jpg)](https://www.amazon.es/dp/B07GCGT959/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GCGT959/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

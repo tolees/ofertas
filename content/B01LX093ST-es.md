@@ -22,6 +22,9 @@ Está [Trotec 1410000083 - Soplador calefactor eléctrico TDS 29 E  Max. 5 kW ](
 
 [![Trotec 1410000083 - Soplador calefactor ](https://images-eu.ssl-images-amazon.com/images/I/51plsBuM-bL._SL200_.jpg)](https://www.amazon.es/dp/B01LX093ST/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LX093ST/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

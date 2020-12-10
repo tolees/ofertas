@@ -22,6 +22,9 @@ Está [GIOVARA 3 x 120 litros de Bolsas de Basura de jardín  Resistentes al Agu
 
 [![GIOVARA 3 x 120 litros de Bolsas de Basu](https://images-eu.ssl-images-amazon.com/images/I/41MUpcet7lL._SL200_.jpg)](https://www.amazon.es/dp/B0788GGVJ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0788GGVJ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

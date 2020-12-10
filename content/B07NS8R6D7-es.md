@@ -22,6 +22,9 @@ Está [JYDMIX USB C Cargador  2 Puertos USB Cargador de Escritorio con Tipo C de
 
 [![JYDMIX USB C Cargador  2 Puertos USB Car](https://images-eu.ssl-images-amazon.com/images/I/41CQ-kmTkeL._SL200_.jpg)](https://www.amazon.es/dp/B07NS8R6D7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NS8R6D7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

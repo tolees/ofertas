@@ -22,6 +22,9 @@ Ahora mismo tienes [VAUDE Bike XT Kit de Primeros Auxilios  Unisex  Rojo  Red/Wh
 
 [![VAUDE Bike XT Kit de Primeros Auxilios  ](https://images-eu.ssl-images-amazon.com/images/I/4151X572iJL._SL200_.jpg)](https://www.amazon.es/dp/B0035JKQR0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0035JKQR0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

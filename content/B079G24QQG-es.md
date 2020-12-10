@@ -22,6 +22,9 @@ Está [boboli Stretch Fleece Leggings Floral For Girl Pantalones Deportivos  Ni�
 
 [![boboli Stretch Fleece Leggings Floral Fo](https://images-eu.ssl-images-amazon.com/images/I/51ETJ9Gf%2BGL._SL200_.jpg)](https://www.amazon.es/dp/B079G24QQG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079G24QQG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

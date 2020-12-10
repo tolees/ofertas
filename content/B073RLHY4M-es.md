@@ -22,6 +22,9 @@ Ahora mismo tienes [Relaxdays – 10021786 Cestas  bambú  MDF  Natural  22 
 
 [![Relaxdays – 10021786 Cestas  bambú  MDF ](https://images-eu.ssl-images-amazon.com/images/I/41Y0RdQnBdL._SL200_.jpg)](https://www.amazon.es/dp/B073RLHY4M/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073RLHY4M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

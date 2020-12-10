@@ -22,6 +22,9 @@ Ahora mismo tienes [OROPY Juego de pajitas de Acero Inoxidable de 8 con 2 cepill
 
 [![OROPY Juego de pajitas de Acero Inoxidab](https://images-eu.ssl-images-amazon.com/images/I/41oXmikIAUL._SL200_.jpg)](https://www.amazon.es/dp/B07J4MF6S9/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07J4MF6S9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

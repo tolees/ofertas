@@ -22,6 +22,9 @@ Tienes [G-STAR RAW D-STAQ 3D Skinny  Jeans para Hombre  Azul  lt Vintage Aged De
 
 [![G-STAR RAW D-STAQ 3D Skinny  Jeans para ](https://images-eu.ssl-images-amazon.com/images/I/4116Qog-e8L._SL200_.jpg)](https://www.amazon.es/dp/B071ZNHR1T/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071ZNHR1T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

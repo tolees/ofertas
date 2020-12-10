@@ -22,6 +22,9 @@ Está [Desigual Denim_refriposas  Slim para Mujer    Jeans Vaquero 5053  W33](ht
 
 [![Desigual Denim_refriposas  Slim para Muj](https://images-eu.ssl-images-amazon.com/images/I/41H2dQtFlmL._SL200_.jpg)](https://www.amazon.es/dp/B079SMNTY9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079SMNTY9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

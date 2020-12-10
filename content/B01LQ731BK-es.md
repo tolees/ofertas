@@ -22,6 +22,9 @@ Tienes [Swarovski Brazalete Crystaldust  Gris  Acero Inoxidable](https://www.ama
 
 [![Swarovski Brazalete Crystaldust  Gris  A]()](https://www.amazon.es/dp/B01LQ731BK/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LQ731BK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Emporio Armani Underwear 9p420 Bañador  Rojo  Rossol 00074   X-Large  Ta
 
 [![Emporio Armani Underwear 9p420 Bañador  ](https://images-eu.ssl-images-amazon.com/images/I/414AyLJK0hL._SL200_.jpg)](https://www.amazon.es/dp/B07JZBLTSP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JZBLTSP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

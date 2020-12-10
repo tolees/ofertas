@@ -22,6 +22,9 @@ Está [Timbre Inalámbrico para Puerta  Timbre Impermeable con LED Flash  Volume
 
 [![Timbre Inalámbrico para Puerta  Timbre I](https://images-eu.ssl-images-amazon.com/images/I/41pbYzX7kPL._SL200_.jpg)](https://www.amazon.es/dp/B07DXBCHSR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DXBCHSR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

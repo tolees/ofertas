@@ -22,6 +22,9 @@ Ahora mismo tienes [Entrenamiento en Suspensión Anoopsyche Entrenador de Suspen
 
 [![Entrenamiento en Suspensión Anoopsyche E](https://images-eu.ssl-images-amazon.com/images/I/412k5KxYKEL._SL200_.jpg)](https://www.amazon.es/dp/B07HCNG7JL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HCNG7JL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

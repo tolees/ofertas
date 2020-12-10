@@ -22,6 +22,9 @@ Está [Harmont & Blaine Pantaloni  Pantalones para Hombre  Azul  831 Italia  48 
 
 [![Harmont & Blaine Pantaloni  Pantalones p](https://images-eu.ssl-images-amazon.com/images/I/31ErQlBEtYL._SL200_.jpg)](https://www.amazon.es/dp/B07J5PLT85/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J5PLT85/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

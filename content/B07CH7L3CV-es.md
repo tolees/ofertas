@@ -22,6 +22,9 @@ Ahora mismo tienes [TZLong Músculo Abdominal tóner ABS Entrenamiento Engranaje
 
 [![TZLong Músculo Abdominal tóner ABS Entre](https://images-eu.ssl-images-amazon.com/images/I/51KNTQk%2BznL._SL200_.jpg)](https://www.amazon.es/dp/B07CH7L3CV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CH7L3CV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

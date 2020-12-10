@@ -22,6 +22,9 @@ Está [Los Siete Magníficos  4K Uhd  [Blu-ray]](https://www.amazon.es/dp/B01N6O
 
 [![Los Siete Magníficos  4K Uhd  [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/5152-222zIL._SL200_.jpg)](https://www.amazon.es/dp/B01N6O0ASN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6O0ASN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

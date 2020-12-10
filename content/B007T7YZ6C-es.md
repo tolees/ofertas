@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike Poloshirt TS Core Polo de Golf  Hombre  Azul/Blanco  Ro
 
 [![Nike Poloshirt TS Core Polo de Golf  Hom](https://images-eu.ssl-images-amazon.com/images/I/41RNipmZjoL._SL200_.jpg)](https://www.amazon.es/dp/B007T7YZ6C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B007T7YZ6C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

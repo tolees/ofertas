@@ -22,6 +22,9 @@ Ahora mismo tienes [Cisa - Cierrapuerta cancela negro](https://www.amazon.es/dp/
 
 [![Cisa - Cierrapuerta cancela negro](https://images-eu.ssl-images-amazon.com/images/I/41zAn5Ci55L._SL200_.jpg)](https://www.amazon.es/dp/B01INRY94E/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01INRY94E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

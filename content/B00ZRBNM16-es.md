@@ -22,6 +22,9 @@ Está [Papillon 8130175 Set Barbacoa 3 Piezas.](https://www.amazon.es/dp/B00ZRBN
 
 [![Papillon 8130175 Set Barbacoa 3 Piezas.](https://images-eu.ssl-images-amazon.com/images/I/41H6owXxLkL._SL200_.jpg)](https://www.amazon.es/dp/B00ZRBNM16/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00ZRBNM16/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

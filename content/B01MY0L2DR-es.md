@@ -22,6 +22,9 @@ Tienes [Rowenta Premio BS1220V0 - Báscula Digital de Baño  con Pantalla LCD  D
 
 [![Rowenta Premio BS1220V0 - Báscula Digita](https://images-eu.ssl-images-amazon.com/images/I/313%2BOyiZFuL._SL200_.jpg)](https://www.amazon.es/dp/B01MY0L2DR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MY0L2DR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

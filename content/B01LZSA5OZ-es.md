@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jjimike Jjdash Ge 784 Indigo Knit Noos  Jeans Hombre  Negro
 
 [![JACK & JONES Jjimike Jjdash Ge 784 Indig](https://images-eu.ssl-images-amazon.com/images/I/312zvT07snL._SL200_.jpg)](https://www.amazon.es/dp/B01LZSA5OZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LZSA5OZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

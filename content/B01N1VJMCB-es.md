@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Adizero Tempo  Zapatillas de Running para Hombre  Azu
 
 [![adidas Adizero Tempo  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/51S0rIWhm-L._SL200_.jpg)](https://www.amazon.es/dp/B01N1VJMCB/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N1VJMCB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [LE COQ SPORTIF Solas W Sport Dusty Coral/Olive Night  Zapatillas para Mu
 
 [![LE COQ SPORTIF Solas W Sport Dusty Coral](https://images-eu.ssl-images-amazon.com/images/I/415auLAmbDL._SL200_.jpg)](https://www.amazon.es/dp/B07DC38ZTR/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DC38ZTR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

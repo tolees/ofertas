@@ -22,6 +22,9 @@ Está [Gore Wear 100365 Culote  Hombre  Negro  S](https://www.amazon.es/dp/B000S
 
 [![Gore Wear 100365 Culote  Hombre  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/31EjsbMB-kL._SL200_.jpg)](https://www.amazon.es/dp/B000SKAJ7Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000SKAJ7Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [FIND Zapatillas Grabado Reptil para Mujer  Blanco  White   37 EU](https:
 
 [![FIND Zapatillas Grabado Reptil para Muje](https://images-eu.ssl-images-amazon.com/images/I/319j0b6xB%2BL._SL200_.jpg)](https://www.amazon.es/dp/B072MFFWSS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072MFFWSS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

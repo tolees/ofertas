@@ -22,6 +22,9 @@ Tienes [Funda Huawei Enjoy 6s/P9 Lite Smart/Nova Smart  Carcasa Silicona Purpuri
 
 [![Funda Huawei Enjoy 6s/P9 Lite Smart/Nova](https://images-eu.ssl-images-amazon.com/images/I/51WtzEbH8zL._SL200_.jpg)](https://www.amazon.es/dp/B07T1CSR1Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07T1CSR1Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

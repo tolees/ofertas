@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Cuerda Saltar](https://www.amazon.es/dp/B003ULP8JE/?t
 
 [![adidas Cuerda Saltar](https://images-eu.ssl-images-amazon.com/images/I/41ZD-0lYt9L._SL200_.jpg)](https://www.amazon.es/dp/B003ULP8JE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B003ULP8JE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

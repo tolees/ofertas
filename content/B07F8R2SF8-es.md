@@ -22,6 +22,9 @@ Está [Linterna LED  Cofuture Literna de Mano 4 Modos USB Recargable 800 Lumen B
 
 [![Linterna LED  Cofuture Literna de Mano 4](https://images-eu.ssl-images-amazon.com/images/I/41InPjyIcBL._SL200_.jpg)](https://www.amazon.es/dp/B07F8R2SF8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F8R2SF8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

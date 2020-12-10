@@ -22,6 +22,9 @@ Está [AONIJIE Mochila Hidratación Mochila Ligera 10 L Impermeable para Viajes 
 
 [![AONIJIE Mochila Hidratación Mochila Lige](https://images-eu.ssl-images-amazon.com/images/I/51Yf%2BOTH27L._SL200_.jpg)](https://www.amazon.es/dp/B074TCSMF2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074TCSMF2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

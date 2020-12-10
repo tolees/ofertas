@@ -22,6 +22,9 @@ Tienes [Bosch PSM 200 AES - Multilijadora  2 hojas de lija  placa lijadora recta
 
 [![Bosch PSM 200 AES - Multilijadora  2 hoj](https://images-eu.ssl-images-amazon.com/images/I/41uFM68F4SL._SL200_.jpg)](https://www.amazon.es/dp/B00IPIYLKO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IPIYLKO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

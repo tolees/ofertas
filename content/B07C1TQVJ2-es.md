@@ -22,6 +22,9 @@ Está [JACK & JONES Jjipaul Jjflake AKM 542 Asphalt Noos Pantalones  Gris  W34/L
 
 [![JACK & JONES Jjipaul Jjflake AKM 542 Asp](https://images-eu.ssl-images-amazon.com/images/I/41Cs%2BBvhB7L._SL200_.jpg)](https://www.amazon.es/dp/B07C1TQVJ2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C1TQVJ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

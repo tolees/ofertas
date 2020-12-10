@@ -22,6 +22,9 @@ Está [Levi s Skinner  Zapatillas para Hombre  Gris  Dull Grey 58   44 EU](https
 
 [![Levi s Skinner  Zapatillas para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/31x2j06O5NL._SL200_.jpg)](https://www.amazon.es/dp/B07CF8X7DS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CF8X7DS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

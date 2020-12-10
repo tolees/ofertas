@@ -22,6 +22,9 @@ Ahora mismo tienes [Pack: Dragon Ball Fighterz + Dragon Ball Xenoverse 2](https:
 
 [![Pack: Dragon Ball Fighterz + Dragon Ball](https://images-eu.ssl-images-amazon.com/images/I/51yduA5q4BL._SL200_.jpg)](https://www.amazon.es/dp/B07HG7RM36/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HG7RM36/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

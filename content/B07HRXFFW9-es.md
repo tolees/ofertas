@@ -22,6 +22,9 @@ Está [ApolloStar Mujer Pendientes de Chapado en Oro Sparkling Round Cubic Zirco
 
 [![ApolloStar Mujer Pendientes de Chapado e](https://images-eu.ssl-images-amazon.com/images/I/51zmyB%2BqEhL._SL200_.jpg)](https://www.amazon.es/dp/B07HRXFFW9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HRXFFW9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

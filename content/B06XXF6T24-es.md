@@ -22,6 +22,9 @@ Tienes [Jordi Labanda 16636 Mochila Grande  20l](https://www.amazon.es/dp/B06XXF
 
 [![Jordi Labanda 16636 Mochila Grande  20l](https://images-eu.ssl-images-amazon.com/images/I/51SuCKAL3aL._SL200_.jpg)](https://www.amazon.es/dp/B06XXF6T24/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XXF6T24/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

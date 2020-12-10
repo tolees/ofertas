@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Core-Run 3/4 Tight Pantalones  Hombre  Negro  M](https:
 
 [![Puma Core-Run 3/4 Tight Pantalones  Homb](https://images-eu.ssl-images-amazon.com/images/I/4189ejeQv6L._SL200_.jpg)](https://www.amazon.es/dp/B01N4BOIBG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N4BOIBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

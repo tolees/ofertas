@@ -22,6 +22,9 @@ Tienes [External CD DVD Drive Type-C USB 3.0  JFUNE Grabadora CD DVD Externa Lec
 
 [![External CD DVD Drive Type-C USB 3.0  JF](https://images-eu.ssl-images-amazon.com/images/I/51hOB3EfH%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07KPBRJQ8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KPBRJQ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

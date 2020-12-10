@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike SB Check Suede  PS   Zapatillas de Skateboarding para N
 
 [![Nike SB Check Suede  PS   Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41r4uiv2cJL._SL200_.jpg)](https://www.amazon.es/dp/B07FWC4HZR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FWC4HZR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Burton Taproot Sudaderas  Hombre  Weeds  XXL](https://www.amazon.es/dp/B0
 
 [![Burton Taproot Sudaderas  Hombre  Weeds ](https://images-eu.ssl-images-amazon.com/images/I/41UJRgM751L._SL200_.jpg)](https://www.amazon.es/dp/B07KKYFBYY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKYFBYY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

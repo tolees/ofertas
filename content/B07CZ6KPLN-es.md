@@ -22,6 +22,9 @@ Está [G-STAR RAW Bronson Slim Chino  Pantalon para Hombre  Verde  Dk Vermont Gr
 
 [![G-STAR RAW Bronson Slim Chino  Pantalon ](https://images-eu.ssl-images-amazon.com/images/I/41dWUg-3QfL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ6KPLN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ6KPLN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Thomas Earnshaw Smart Watch Armbanduhr ES-8006-02](https://www.amazon.es/
 
 [![Thomas Earnshaw Smart Watch Armbanduhr E](https://images-eu.ssl-images-amazon.com/images/I/51fHR4pWhFL._SL200_.jpg)](https://www.amazon.es/dp/B00EP5A8RQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00EP5A8RQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

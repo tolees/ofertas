@@ -22,6 +22,9 @@ Está [Lonely And Blue + At The Rock House + 7 Bonus Tracks](https://www.amazon.
 
 [![Lonely And Blue + At The Rock House + 7 ](https://images-eu.ssl-images-amazon.com/images/I/61d2DDRz-1L._SL200_.jpg)](https://www.amazon.es/dp/B006AEU28A/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B006AEU28A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

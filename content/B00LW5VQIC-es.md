@@ -22,6 +22,9 @@ Ahora mismo tienes [Acer Consumo - Monitor de 21.5"](https://www.amazon.es/dp/B0
 
 [![Acer Consumo - Monitor de 21.5"](https://images-eu.ssl-images-amazon.com/images/I/51lfNg-nldL._SL200_.jpg)](https://www.amazon.es/dp/B00LW5VQIC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00LW5VQIC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

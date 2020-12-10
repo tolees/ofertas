@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Run 3S SHO M Shorts  Hombre  Black/White  2XL7](https
 
 [![adidas Run 3S SHO M Shorts  Hombre  Blac](https://images-eu.ssl-images-amazon.com/images/I/41A12OtMqgL._SL200_.jpg)](https://www.amazon.es/dp/B07FTP895F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FTP895F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

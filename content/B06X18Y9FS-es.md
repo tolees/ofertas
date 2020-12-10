@@ -22,6 +22,9 @@ Tienes [Tamaris 25100  Botas para Mujer  Negro  Black   40 EU](https://www.amazo
 
 [![Tamaris 25100  Botas para Mujer  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/41DrKBNEGbL._SL200_.jpg)](https://www.amazon.es/dp/B06X18Y9FS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06X18Y9FS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Lector CD DVD Externo USB 3.0 con Type C PIAEK Lector Grabadora Unidad Re
 
 [![Lector CD DVD Externo USB 3.0 con Type C](https://images-eu.ssl-images-amazon.com/images/I/51KNldO7nkL._SL200_.jpg)](https://www.amazon.es/dp/B07PGCR87J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07PGCR87J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

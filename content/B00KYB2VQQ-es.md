@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike M Nk Dry Acdmy Top SS T-Shirt  Hombre  University Red  
 
 [![Nike M Nk Dry Acdmy Top SS T-Shirt  Homb](https://images-eu.ssl-images-amazon.com/images/I/31B3UuLZY6L._SL200_.jpg)](https://www.amazon.es/dp/B00KYB2VQQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00KYB2VQQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

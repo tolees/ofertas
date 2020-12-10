@@ -22,6 +22,9 @@ Está [Vans Authentic  Zapatillas de Tela Unisex  Blanco  White   46 EU](https:/
 
 [![Vans Authentic  Zapatillas de Tela Unise](https://images-eu.ssl-images-amazon.com/images/I/411wKsG7qrL._SL200_.jpg)](https://www.amazon.es/dp/B001AIW24I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001AIW24I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

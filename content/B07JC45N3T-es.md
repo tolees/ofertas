@@ -22,6 +22,9 @@ Está [Zagzog Auriculares Bluetooth Inalámbricos  Bluetooth V5.0 Caja de Carga 
 
 [![Zagzog Auriculares Bluetooth Inalámbrico](https://images-eu.ssl-images-amazon.com/images/I/41%2Bjo6k5VvL._SL200_.jpg)](https://www.amazon.es/dp/B07JC45N3T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JC45N3T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

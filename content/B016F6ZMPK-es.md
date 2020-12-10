@@ -22,6 +22,9 @@ Está [Hoover CA2IN1D 011 STEAM CAPSULE  Vaporeta  Gregor Titanium/Aqua Blu](htt
 
 [![Hoover CA2IN1D 011 STEAM CAPSULE  Vapore](https://images-eu.ssl-images-amazon.com/images/I/31tfruozldL._SL200_.jpg)](https://www.amazon.es/dp/B016F6ZMPK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B016F6ZMPK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

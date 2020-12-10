@@ -22,6 +22,9 @@ Ahora mismo tienes [Bolsas de Almacenaje al Vacío - 15 Unidades para Ahorrar Es
 
 [![Bolsas de Almacenaje al Vacío - 15 Unida](https://images-eu.ssl-images-amazon.com/images/I/41LYPH8SJeL._SL200_.jpg)](https://www.amazon.es/dp/B07CKPYYJ4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CKPYYJ4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

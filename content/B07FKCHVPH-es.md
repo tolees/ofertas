@@ -22,6 +22,9 @@ Está [Nike Air Zoom Pegasus 35  Zapatillas de Running para Hombre  Azul  Indigo
 
 [![Nike Air Zoom Pegasus 35  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41MriBezk9L._SL200_.jpg)](https://www.amazon.es/dp/B07FKCHVPH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FKCHVPH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Suede Classic+  Zapatillas Unisex Adulto  Azul  Olympian Blue/White 
 
 [![Puma Suede Classic+  Zapatillas Unisex A](https://images-eu.ssl-images-amazon.com/images/I/413QORfmG3L._SL200_.jpg)](https://www.amazon.es/dp/B011UZLXR2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B011UZLXR2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

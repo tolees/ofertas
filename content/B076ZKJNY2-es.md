@@ -22,6 +22,9 @@ Tienes [HAHAKEE Lápiz Capacitivo Activo de Punta Fina 40 Horas de Funcionamient
 
 [![HAHAKEE Lápiz Capacitivo Activo de Punta](https://images-eu.ssl-images-amazon.com/images/I/41VdT0BpjwL._SL200_.jpg)](https://www.amazon.es/dp/B076ZKJNY2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076ZKJNY2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

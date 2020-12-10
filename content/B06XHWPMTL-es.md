@@ -22,6 +22,9 @@ Tienes [AMIBOT Spirit H2O - Robot aspirador y limpiador](https://www.amazon.es/d
 
 [![AMIBOT Spirit H2O - Robot aspirador y li](https://images-eu.ssl-images-amazon.com/images/I/41Dh8-9PffL._SL200_.jpg)](https://www.amazon.es/dp/B06XHWPMTL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XHWPMTL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

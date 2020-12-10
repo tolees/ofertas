@@ -22,6 +22,9 @@ Está [FUNKID Xiaomi Mi Band 2 Pulsera Correa para reemplazo XIAO MI 2 Blanco Az
 
 [![FUNKID Xiaomi Mi Band 2 Pulsera Correa p](https://images-eu.ssl-images-amazon.com/images/I/41A3GJ0oQLL._SL200_.jpg)](https://www.amazon.es/dp/B06Y3Z2VC8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y3Z2VC8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

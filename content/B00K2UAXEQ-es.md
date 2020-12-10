@@ -22,6 +22,15 @@ Ahora mismo tienes [Oral-B Crossaction - Cabezal de Recambio  Set de 8 Recambios
 
 [![Oral-B Crossaction - Cabezal de Recambio](https://m.media-amazon.com/images/I/51uk4DpIj2L._SL200_.jpg)](https://www.amazon.es/dp/B00K2UAXEQ/?tag=tolees-21)
 
+Características:
+
+- Los dentistas recomiendan substituir el cabezal cada 3 meses para una mejor limpieza
+- El cabezal redondo exclusivo de Oral-B limpia diente por diente para conseguir unos dientes más limpios y unas encías más sanas
+- Elimina hasta un 100 % más de placa que un cepillo de dientes manual
+- Ángulo perfecto de 16 grados para limpiar entre los dientes en profundidad y eliminar la placa
+- Solo los cabezales Oral-B se ajustan con total garantía a la gama completa de cepillos Oral-B (excepto Oral-B Pulsonic)
+- Número de cabezales de cepillo de dientes incluidos en este pack: 8
+
 [Visítala!!!](https://www.amazon.es/dp/B00K2UAXEQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Hurley M One&Only Box 2.0 Pullover Sudaderas  Hombre  Obsidian  XXL](http
 
 [![Hurley M One&Only Box 2.0 Pullover Sudad](https://images-eu.ssl-images-amazon.com/images/I/41Xbw8d6oLL._SL200_.jpg)](https://www.amazon.es/dp/B07KCVVFLN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KCVVFLN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

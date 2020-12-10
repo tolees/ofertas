@@ -22,6 +22,9 @@ Tienes [DAMARTSPORT 31937 - Pantalones Pirata de Running para Mujer  Color Negro
 
 [![DAMARTSPORT 31937 - Pantalones Pirata de](https://images-eu.ssl-images-amazon.com/images/I/411iMtAGZfL._SL200_.jpg)](https://www.amazon.es/dp/B00SYDQM9S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SYDQM9S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

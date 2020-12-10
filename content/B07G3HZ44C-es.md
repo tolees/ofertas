@@ -22,6 +22,9 @@ Tienes [SELECTED HOMME Slhslim-Carlo Pants B  Pantalones para Hombre  Rojo  Sun-
 
 [![SELECTED HOMME Slhslim-Carlo Pants B  Pa](https://images-eu.ssl-images-amazon.com/images/I/31aaNLNz5NL._SL200_.jpg)](https://www.amazon.es/dp/B07G3HZ44C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G3HZ44C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

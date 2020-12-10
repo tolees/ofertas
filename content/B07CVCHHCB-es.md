@@ -22,6 +22,9 @@ Está [Under Armour Grade School Ripple NM  Zapatillas de Running para Niños   
 
 [![Under Armour Grade School Ripple NM  Zap](https://images-eu.ssl-images-amazon.com/images/I/41wWhSUdltL._SL200_.jpg)](https://www.amazon.es/dp/B07CVCHHCB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CVCHHCB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

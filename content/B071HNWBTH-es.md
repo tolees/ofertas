@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Adreno III It  Zapatillas de Fútbol para Hombre  Blanc
 
 [![Puma Adreno III It  Zapatillas de Fútbol](https://images-eu.ssl-images-amazon.com/images/I/41WQpXAFtAL._SL200_.jpg)](https://www.amazon.es/dp/B071HNWBTH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071HNWBTH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

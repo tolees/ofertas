@@ -22,6 +22,9 @@ Está [PawHut Caseta para Perro 85 x 58 x 58cm Madera Impermeable con Tejado Ver
 
 [![PawHut Caseta para Perro 85 x 58 x 58cm ](https://images-eu.ssl-images-amazon.com/images/I/41MPNQzOQYL._SL200_.jpg)](https://www.amazon.es/dp/B01MRZLT0F/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MRZLT0F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Munich G-3 Kid Glow  Zapatillas de Deporte Unisex niño  Plateado  Gris 
 
 [![Munich G-3 Kid Glow  Zapatillas de Depor](https://images-eu.ssl-images-amazon.com/images/I/41NoNr%2BpavL._SL200_.jpg)](https://www.amazon.es/dp/B07N3CVJ47/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N3CVJ47/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

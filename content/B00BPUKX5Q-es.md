@@ -22,6 +22,9 @@ Ahora mismo tienes [Hawaiian Tropic Satin Protection SPF 15 - Crema Solar Spray 
 
 [![Hawaiian Tropic Satin Protection SPF 15 ](https://images-eu.ssl-images-amazon.com/images/I/31tED4KK-9L._SL200_.jpg)](https://www.amazon.es/dp/B00BPUKX5Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00BPUKX5Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

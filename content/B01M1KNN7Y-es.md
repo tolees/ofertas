@@ -22,6 +22,9 @@ Tienes [RED WAGON Twill Trouser - Pantalones Niños  Azul  Navy   9 años](https
 
 [![RED WAGON Twill Trouser - Pantalones Niñ](https://images-eu.ssl-images-amazon.com/images/I/41YWSQL8KDL._SL200_.jpg)](https://www.amazon.es/dp/B01M1KNN7Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01M1KNN7Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

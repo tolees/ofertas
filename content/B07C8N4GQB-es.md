@@ -22,6 +22,9 @@ Está [AmazonBasics - Maleta rígida giratoria - 78 cm  Azul Marino](https://www
 
 [![AmazonBasics - Maleta rígida giratoria -](https://images-eu.ssl-images-amazon.com/images/I/41Vz0tIOhDL._SL200_.jpg)](https://www.amazon.es/dp/B07C8N4GQB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C8N4GQB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

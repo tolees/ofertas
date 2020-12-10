@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Athl ID BP  Mochila Unisex Adulto  Marrón  Cartra/Ca
 
 [![adidas Athl ID BP  Mochila Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/417AddZ5CBL._SL200_.jpg)](https://www.amazon.es/dp/B078B56CFD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078B56CFD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

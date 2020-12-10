@@ -22,6 +22,9 @@ Está [SYROKAN - Sujetador Deportivo con Aros Preformado Tallas Grandes Run para
 
 [![SYROKAN - Sujetador Deportivo con Aros P](https://images-eu.ssl-images-amazon.com/images/I/411qs4BG1NL._SL200_.jpg)](https://www.amazon.es/dp/B01N0ZTXPI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N0ZTXPI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

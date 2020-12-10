@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers 15372  Zapatillas sin Cordones para Mujer  Azul  Na
 
 [![Skechers 15372  Zapatillas sin Cordones ](https://images-eu.ssl-images-amazon.com/images/I/51Py9hg5MFL._SL200_.jpg)](https://www.amazon.es/dp/B072R5WSJ6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072R5WSJ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

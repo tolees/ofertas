@@ -22,6 +22,9 @@ Ahora mismo tienes [VIBOX Ultra 11A - Ordenador para Gaming  AMD A8-7600  8 GB d
 
 [![VIBOX Ultra 11A - Ordenador para Gaming ](https://images-eu.ssl-images-amazon.com/images/I/51hywJPiKEL._SL200_.jpg)](https://www.amazon.es/dp/B00JWW02UA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00JWW02UA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

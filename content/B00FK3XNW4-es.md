@@ -22,6 +22,9 @@ Está [Hansgrohe 31815000 Focus grifo de cocina con ducha extraíble  cromo](htt
 
 [![Hansgrohe 31815000 Focus grifo de cocina](https://images-eu.ssl-images-amazon.com/images/I/317WPj2NxpL._SL200_.jpg)](https://www.amazon.es/dp/B00FK3XNW4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00FK3XNW4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

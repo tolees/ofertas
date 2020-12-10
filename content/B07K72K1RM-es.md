@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics Gt-2000 7  Zapatillas de Running para Mujer  Azul  Mis
 
 [![Asics Gt-2000 7  Zapatillas de Running p](https://images-eu.ssl-images-amazon.com/images/I/51ABXqRXHiL._SL200_.jpg)](https://www.amazon.es/dp/B07K72K1RM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K72K1RM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

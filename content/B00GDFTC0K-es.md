@@ -22,6 +22,9 @@ Tienes [Makita DF347DWE - Taladro Atornillador 14.4V](https://www.amazon.es/dp/B
 
 [![Makita DF347DWE - Taladro Atornillador 1](https://images-eu.ssl-images-amazon.com/images/I/51o2DyQO43L._SL200_.jpg)](https://www.amazon.es/dp/B00GDFTC0K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GDFTC0K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

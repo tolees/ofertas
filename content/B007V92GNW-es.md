@@ -22,6 +22,9 @@ Tienes [Playtex 24h Soft Sujetador con aros  Negro  90D para Mujer](https://www.
 
 [![Playtex 24h Soft Sujetador con aros  Neg](https://images-eu.ssl-images-amazon.com/images/I/51YBS80xICL._SL200_.jpg)](https://www.amazon.es/dp/B007V92GNW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B007V92GNW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

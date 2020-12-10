@@ -22,6 +22,9 @@ Tienes [Puma Future Pulse Ball  Unisex Adulto  Silver/Peacoat/Black  5](https://
 
 [![Puma Future Pulse Ball  Unisex Adulto  S](https://images-eu.ssl-images-amazon.com/images/I/51mpRxeEUeL._SL200_.jpg)](https://www.amazon.es/dp/B07DCZ5RBN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DCZ5RBN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

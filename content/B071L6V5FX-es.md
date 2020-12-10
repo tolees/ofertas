@@ -22,6 +22,9 @@ Está [Izas Vancouver Calzado  Unisex Adulto  Azul Cian / Gris Oscuro  41](https
 
 [![Izas Vancouver Calzado  Unisex Adulto  A](https://images-eu.ssl-images-amazon.com/images/I/51RmOMJSEZL._SL200_.jpg)](https://www.amazon.es/dp/B071L6V5FX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071L6V5FX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

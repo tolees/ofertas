@@ -22,6 +22,9 @@ Está [RUICHENXI Memoria USB 1000GB Pendrive Flash Drive Mental USB Impermeable 
 
 [![RUICHENXI Memoria USB 1000GB Pendrive Fl](https://images-eu.ssl-images-amazon.com/images/I/41UnPi4aySL._SL200_.jpg)](https://www.amazon.es/dp/B07Q6WGPSL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07Q6WGPSL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

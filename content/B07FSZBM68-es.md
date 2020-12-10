@@ -22,6 +22,9 @@ Tienes [Clarks Step Cali Cove  Zapatillas para Mujer  Rojo  Rose-   39.5 EU](htt
 
 [![Clarks Step Cali Cove  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/41iCNe%2BOAbL._SL200_.jpg)](https://www.amazon.es/dp/B07FSZBM68/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FSZBM68/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

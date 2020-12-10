@@ -22,6 +22,9 @@ Ahora mismo tienes [Batidora Americana de Vaso  AICOOK Batidora para Smoothie de
 
 [![Batidora Americana de Vaso  AICOOK Batid](https://images-eu.ssl-images-amazon.com/images/I/412J%2BOkdYBL._SL200_.jpg)](https://www.amazon.es/dp/B07PNPLP25/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07PNPLP25/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

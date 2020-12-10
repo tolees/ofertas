@@ -22,6 +22,9 @@ Ahora mismo tienes [Comtervi - Accesorio para secador de pelo  gorro de secado d
 
 [![Comtervi - Accesorio para secador de pel](https://images-eu.ssl-images-amazon.com/images/I/41tNuG0DAwL._SL200_.jpg)](https://www.amazon.es/dp/B07MM4MHTN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MM4MHTN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

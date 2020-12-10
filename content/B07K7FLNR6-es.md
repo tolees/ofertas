@@ -22,6 +22,9 @@ Ahora mismo tienes [Reflector GreeSuit-Super brillante de 20 vatios  luz blanca 
 
 [![Reflector GreeSuit-Super brillante de 20](https://images-eu.ssl-images-amazon.com/images/I/51JIof%2BkG1L._SL200_.jpg)](https://www.amazon.es/dp/B07K7FLNR6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K7FLNR6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

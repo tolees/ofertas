@@ -22,6 +22,9 @@ Tienes [MSI GS63VR 7RG-084XES - Ordenador portátil 15.6   Full-HD  Intel Core i
 
 [![MSI GS63VR 7RG-084XES - Ordenador portát](https://images-eu.ssl-images-amazon.com/images/I/41-W5a5WZpL._SL200_.jpg)](https://www.amazon.es/dp/B076CXT5CZ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076CXT5CZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

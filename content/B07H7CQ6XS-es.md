@@ -22,6 +22,9 @@ Ahora mismo tienes [Trswyop Luces Solares Exterior con 3 Modos Para Pared  Senso
 
 [![Trswyop Luces Solares Exterior con 3 Mod](https://images-eu.ssl-images-amazon.com/images/I/513u4ifxxLL._SL200_.jpg)](https://www.amazon.es/dp/B07H7CQ6XS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07H7CQ6XS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

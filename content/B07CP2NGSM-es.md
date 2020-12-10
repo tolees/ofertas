@@ -22,6 +22,9 @@ Tienes [Calypso Watches Reloj Digital para Hombre de Cuarzo con Correa en Plást
 
 [![Calypso Watches Reloj Digital para Hombr](https://images-eu.ssl-images-amazon.com/images/I/4148CtCHmiL._SL200_.jpg)](https://www.amazon.es/dp/B07CP2NGSM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CP2NGSM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Dockers by Gerli 42fz003-797100  Zapatillas para Hombre  Negro  Schwarz 
 
 [![Dockers by Gerli 42fz003-797100  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/51j0JUmTY4L._SL200_.jpg)](https://www.amazon.es/dp/B078X2S4QW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078X2S4QW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

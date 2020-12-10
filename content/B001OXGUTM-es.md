@@ -22,6 +22,9 @@ Está [Bahco 361-18 Llave Tubo Stillson 18  45.7 cm](https://www.amazon.es/dp/B0
 
 [![Bahco 361-18 Llave Tubo Stillson 18  45.](https://images-eu.ssl-images-amazon.com/images/I/4116FCth7NL._SL200_.jpg)](https://www.amazon.es/dp/B001OXGUTM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B001OXGUTM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

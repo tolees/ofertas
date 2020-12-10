@@ -22,6 +22,9 @@ Ahora mismo tienes [Biotherm Pure-Fect Skin Gel Hidratante - 50 ml](https://www.
 
 [![Biotherm Pure-Fect Skin Gel Hidratante -](https://images-eu.ssl-images-amazon.com/images/I/31-v1%2BoGTzL._SL200_.jpg)](https://www.amazon.es/dp/B008KH2R1U/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B008KH2R1U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

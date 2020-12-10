@@ -22,6 +22,9 @@ Está [AGM Luz Solar Pared 12 LED Lámpara de Pared Exterior 180 ° Amplio Lámp
 
 [![AGM Luz Solar Pared 12 LED Lámpara de Pa](https://images-eu.ssl-images-amazon.com/images/I/51Z7uDWcDpL._SL200_.jpg)](https://www.amazon.es/dp/B0784STQWQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0784STQWQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

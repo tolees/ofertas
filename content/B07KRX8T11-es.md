@@ -22,6 +22,9 @@ Ahora mismo tienes [Kit 149 pcs Herramienta Reloj de Reparación  CookJoy Kit Re
 
 [![Kit 149 pcs Herramienta Reloj de Reparac](https://images-eu.ssl-images-amazon.com/images/I/51dxUwQUlRL._SL200_.jpg)](https://www.amazon.es/dp/B07KRX8T11/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KRX8T11/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Wedo Universa 150100837 - Caja para dinero  355 x 275 x 100 mm   color g
 
 [![Wedo Universa 150100837 - Caja para dine](https://images-eu.ssl-images-amazon.com/images/I/51k9FVx7stL._SL200_.jpg)](https://www.amazon.es/dp/B000KJMOHI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000KJMOHI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

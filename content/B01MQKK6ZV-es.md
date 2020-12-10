@@ -22,6 +22,9 @@ Está [Puma Pacer EVO  Zapatillas Unisex Adulto  Azul Peacoat 03  44.5 EU](https
 
 [![Puma Pacer EVO  Zapatillas Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41v7gY4ql9L._SL200_.jpg)](https://www.amazon.es/dp/B01MQKK6ZV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MQKK6ZV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

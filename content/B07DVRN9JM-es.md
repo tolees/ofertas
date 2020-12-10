@@ -22,6 +22,9 @@ Está [Skechers Nitrate 2.0  Zapatillas para Niños  Azul  Navy Lime Nvlm   27 E
 
 [![Skechers Nitrate 2.0  Zapatillas para Ni](https://images-eu.ssl-images-amazon.com/images/I/410YPR3-rtL._SL200_.jpg)](https://www.amazon.es/dp/B07DVRN9JM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVRN9JM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

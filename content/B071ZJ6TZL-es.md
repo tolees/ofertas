@@ -22,6 +22,9 @@ Ahora mismo tienes [DC Shoes Crisis High WNT  Zapatillas para Hombre  Marrón  W
 
 [![DC Shoes Crisis High WNT  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/51LHuqXIBDL._SL200_.jpg)](https://www.amazon.es/dp/B071ZJ6TZL/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071ZJ6TZL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

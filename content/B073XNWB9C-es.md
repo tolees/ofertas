@@ -22,6 +22,9 @@ Está [SanDisk SDIB20N-032G-GN9KN - Base iXpand de 32 GB  Clavija para el Reino 
 
 [![SanDisk SDIB20N-032G-GN9KN - Base iXpand](https://images-eu.ssl-images-amazon.com/images/I/41Ug2El6ZBL._SL200_.jpg)](https://www.amazon.es/dp/B073XNWB9C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073XNWB9C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

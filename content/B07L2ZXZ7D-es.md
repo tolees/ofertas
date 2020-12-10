@@ -22,6 +22,9 @@ Está [Tommy Hilfiger - Bi-material Mini Cc Wallet  Tarjeteros Hombre  Negro  Bl
 
 [![Tommy Hilfiger - Bi-material Mini Cc Wal](https://images-eu.ssl-images-amazon.com/images/I/51xrDhUhgmL._SL200_.jpg)](https://www.amazon.es/dp/B07L2ZXZ7D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L2ZXZ7D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

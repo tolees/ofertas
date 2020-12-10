@@ -22,6 +22,9 @@ Está [adidas Vs Advantage Cl K  Zapatillas de Deporte Unisex Niños  Blanco  Ft
 
 [![adidas Vs Advantage Cl K  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41AqGa7Q97L._SL200_.jpg)](https://www.amazon.es/dp/B01GKDYMWC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GKDYMWC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

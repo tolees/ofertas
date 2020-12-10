@@ -22,6 +22,9 @@ Ahora mismo tienes [Outsunny Juego de 2 Tumbonas y 1 Mesa Plegables Silla Graved
 
 [![Outsunny Juego de 2 Tumbonas y 1 Mesa Pl](https://images-eu.ssl-images-amazon.com/images/I/41aoeDYTnqL._SL200_.jpg)](https://www.amazon.es/dp/B07P4DCC9X/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07P4DCC9X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Bahco 4211-14-6T - Serruchos P/Podar 14](https://www.amazon.es/dp/B000QCW
 
 [![Bahco 4211-14-6T - Serruchos P/Podar 14](https://images-eu.ssl-images-amazon.com/images/I/31YVfq5kXYL._SL200_.jpg)](https://www.amazon.es/dp/B000QCWY7Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000QCWY7Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

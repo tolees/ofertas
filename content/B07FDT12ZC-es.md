@@ -22,6 +22,9 @@ Está [Lico Recent Indoor Kids V  Zapatillas de Deporte Interior Unisex Adulto  
 
 [![Lico Recent Indoor Kids V  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41A6y6oUk-L._SL200_.jpg)](https://www.amazon.es/dp/B07FDT12ZC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDT12ZC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

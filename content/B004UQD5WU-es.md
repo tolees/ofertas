@@ -22,6 +22,9 @@ Tienes [Superga 2095- SUEU  Zapatillas de deporte Unisex  Beige  Beige/Sand   35
 
 [![Superga 2095- SUEU  Zapatillas de deport](https://images-eu.ssl-images-amazon.com/images/I/410QuVjxw0L._SL200_.jpg)](https://www.amazon.es/dp/B004UQD5WU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B004UQD5WU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

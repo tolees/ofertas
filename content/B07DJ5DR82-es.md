@@ -22,6 +22,9 @@ Está [New Balance 997H  Zapatillas para Mujer  Blanco  White/Gunmetal Ed Blue  
 
 [![New Balance 997H  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/414TZ0%2BMBCL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ5DR82/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ5DR82/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

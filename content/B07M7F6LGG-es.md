@@ -22,6 +22,9 @@ Ahora mismo tienes [ASUS GL504GW-ES043 - Ordenador portátil Gaming 15.6" FullHD
 
 [![ASUS GL504GW-ES043 - Ordenador portátil ](https://images-eu.ssl-images-amazon.com/images/I/51uvZT1XGlL._SL200_.jpg)](https://www.amazon.es/dp/B07M7F6LGG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M7F6LGG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

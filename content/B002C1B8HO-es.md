@@ -22,6 +22,9 @@ Ahora mismo tienes [Weider Thermo - 120 Capsulas](https://www.amazon.es/dp/B002C
 
 [![Weider Thermo - 120 Capsulas](http://images.amazon.com/images/P/B002C1B8HO.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B002C1B8HO/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B002C1B8HO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

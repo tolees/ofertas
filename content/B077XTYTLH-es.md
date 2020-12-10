@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance 247v2  Zapatillas para Mujer  Verde  Covert Gree
 
 [![New Balance 247v2  Zapatillas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41DJ32blQCL._SL200_.jpg)](https://www.amazon.es/dp/B077XTYTLH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077XTYTLH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

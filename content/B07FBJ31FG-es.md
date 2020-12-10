@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance MC NB Ice 2E Polo  Mujer  Naranja  Dragonfly   M
 
 [![New Balance MC NB Ice 2E Polo  Mujer  Na]()](https://www.amazon.es/dp/B07FBJ31FG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FBJ31FG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

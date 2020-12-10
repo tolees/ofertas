@@ -22,6 +22,9 @@ Está [Parker 1950325 - Rambio para bolígrafo de punta redonda con punta media 
 
 [![Parker 1950325 - Rambio para bolígrafo d](https://images-eu.ssl-images-amazon.com/images/I/31r8L0sRsuL._SL200_.jpg)](https://www.amazon.es/dp/B01GPM3OD6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GPM3OD6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

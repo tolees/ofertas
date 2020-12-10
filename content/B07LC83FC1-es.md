@@ -22,6 +22,9 @@ Está [Licuadora Prensado en Frio Aobosi Licuadora Frutas Verduras，Extractor d
 
 [![Licuadora Prensado en Frio Aobosi Licuad](https://images-eu.ssl-images-amazon.com/images/I/51aDgj4Vp6L._SL200_.jpg)](https://www.amazon.es/dp/B07LC83FC1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LC83FC1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

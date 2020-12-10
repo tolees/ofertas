@@ -22,6 +22,9 @@ Ahora mismo tienes [Brother QL700 - Impresora de etiquetas profesional con tecno
 
 [![Brother QL700 - Impresora de etiquetas p](https://images-eu.ssl-images-amazon.com/images/I/21RcOZD%2BwcL._SL200_.jpg)](https://www.amazon.es/dp/B0083WHWGM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0083WHWGM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

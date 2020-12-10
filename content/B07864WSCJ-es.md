@@ -22,6 +22,9 @@ Está [Puma Pwrrun 2in1 7 Pantalones  Hombre  Gris  Castor Gray/Flame Scarlet   
 
 [![Puma Pwrrun 2in1 7 Pantalones  Hombre  G](https://images-eu.ssl-images-amazon.com/images/I/41GGCRXvATL._SL200_.jpg)](https://www.amazon.es/dp/B07864WSCJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07864WSCJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

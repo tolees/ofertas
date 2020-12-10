@@ -22,6 +22,9 @@ Está [Maybelline New York Base de Maquillaje El Borrador 30 Sand](https://www.a
 
 [![Maybelline New York Base de Maquillaje E](https://images-eu.ssl-images-amazon.com/images/I/41b9VHyZF0L._SL200_.jpg)](https://www.amazon.es/dp/B00D7OKOFW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00D7OKOFW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Sulion Hydra Regleta de 2 Focos LED Apta para Baño GU10 10 W Metal  Gris
 
 [![Sulion Hydra Regleta de 2 Focos LED Apta](https://images-eu.ssl-images-amazon.com/images/I/31cmqNjptWL._SL200_.jpg)](https://www.amazon.es/dp/B06ZZBV1ST/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06ZZBV1ST/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

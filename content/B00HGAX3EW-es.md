@@ -22,6 +22,9 @@ Tienes [Lolita Lempicka 41487 - Eau de perfume para mujer  40 ml](https://www.am
 
 [![Lolita Lempicka 41487 - Eau de perfume p](https://images-eu.ssl-images-amazon.com/images/I/51%2Bg5chs4JL._SL200_.jpg)](https://www.amazon.es/dp/B00HGAX3EW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HGAX3EW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

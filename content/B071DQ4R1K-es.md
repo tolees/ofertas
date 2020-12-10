@@ -22,6 +22,9 @@ Está [JACK & JONES Jfwhoughton Nubuck Burgundy  Zapatillas para Hombre  Morado 
 
 [![JACK & JONES Jfwhoughton Nubuck Burgundy](https://images-eu.ssl-images-amazon.com/images/I/41xY7lH4DZL._SL200_.jpg)](https://www.amazon.es/dp/B071DQ4R1K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071DQ4R1K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

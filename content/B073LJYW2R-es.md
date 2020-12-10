@@ -22,6 +22,9 @@ Tienes [Alien: Covenant - Blu-Ray  4K  Ultra HD [Blu-ray]](https://www.amazon.es
 
 [![Alien: Covenant - Blu-Ray  4K  Ultra HD ](https://images-eu.ssl-images-amazon.com/images/I/51JeavWdpHL._SL200_.jpg)](https://www.amazon.es/dp/B073LJYW2R/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073LJYW2R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

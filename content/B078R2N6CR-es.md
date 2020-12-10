@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics Gel-Lyte V  Zapatillas para Hombre  Beige Marzipan 050
 
 [![Asics Gel-Lyte V  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/417eCBVQMDL._SL200_.jpg)](https://www.amazon.es/dp/B078R2N6CR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078R2N6CR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

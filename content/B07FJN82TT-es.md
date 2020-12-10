@@ -22,6 +22,9 @@ Ahora mismo tienes [ENKEEO Cámara de Caza 20MP  1080P Trailcam  Tarjeta SD 32GB
 
 [![ENKEEO Cámara de Caza 20MP  1080P Trailc](https://images-eu.ssl-images-amazon.com/images/I/51-2pksPDhL._SL200_.jpg)](https://www.amazon.es/dp/B07FJN82TT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FJN82TT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

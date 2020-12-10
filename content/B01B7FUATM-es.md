@@ -22,6 +22,9 @@ Ahora mismo tienes [Braun BT5070 – Recortadora de barba con ajuste fino cada 0
 
 [![Braun BT5070 – Recortadora de barba con ](https://images-eu.ssl-images-amazon.com/images/I/418hRMyGNZL._SL200_.jpg)](https://www.amazon.es/dp/B01B7FUATM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01B7FUATM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

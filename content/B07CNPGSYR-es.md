@@ -22,6 +22,9 @@ Está [MSI H310M Gaming Arctic - Placa Base Performance Gaming  LGA 1151  1 x PC
 
 [![MSI H310M Gaming Arctic - Placa Base Per](https://images-eu.ssl-images-amazon.com/images/I/51uoCnxI3TL._SL200_.jpg)](https://www.amazon.es/dp/B07CNPGSYR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CNPGSYR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [JACK & JONES PREMIUM Jprpaulos Ss Noos  Polo para Hombre  Azul  Mood Ind
 
 [![JACK & JONES PREMIUM Jprpaulos Ss Noos  ](https://images-eu.ssl-images-amazon.com/images/I/31%2Br0KhRoTL._SL200_.jpg)](https://www.amazon.es/dp/B017Z4DARS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B017Z4DARS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

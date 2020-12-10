@@ -22,6 +22,9 @@ Tienes [Emporio Armani Underwear 9p717 Bañador  Nero 23820  Large para Hombre](
 
 [![Emporio Armani Underwear 9p717 Bañador  ](https://images-eu.ssl-images-amazon.com/images/I/41WzQPVp2FL._SL200_.jpg)](https://www.amazon.es/dp/B07DMF77MS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DMF77MS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

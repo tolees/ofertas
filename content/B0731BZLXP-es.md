@@ -22,6 +22,9 @@ Ahora mismo tienes [Volcom Draw Lo Shoe  Zapatillas de Skateboard para Hombre  A
 
 [![Volcom Draw Lo Shoe  Zapatillas de Skate](https://images-eu.ssl-images-amazon.com/images/I/41bSGw8%2B9yL._SL200_.jpg)](https://www.amazon.es/dp/B0731BZLXP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0731BZLXP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

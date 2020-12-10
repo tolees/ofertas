@@ -22,6 +22,9 @@ Está [Rollei City Traveler Mini - Trípode Mesa superligero de Carbono - Titán
 
 [![Rollei City Traveler Mini - Trípode Mesa](https://images-eu.ssl-images-amazon.com/images/I/41KQwOdStFL._SL200_.jpg)](https://www.amazon.es/dp/B0797C5YYL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0797C5YYL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

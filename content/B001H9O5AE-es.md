@@ -22,6 +22,9 @@ Tienes [Tuscany Silver Cadena con Colgante de Plata para Mujer  46 cm](https://w
 
 [![Tuscany Silver Cadena con Colgante de Pl](https://images-eu.ssl-images-amazon.com/images/I/31ybfoUgYuL._SL200_.jpg)](https://www.amazon.es/dp/B001H9O5AE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B001H9O5AE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

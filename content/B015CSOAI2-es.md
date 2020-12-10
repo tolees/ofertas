@@ -22,6 +22,9 @@ Ahora mismo tienes [1 x cabezal de cepillo E-Cron. Cabezal de cepillo compatible
 
 [![1 x cabezal de cepillo E-Cron. Cabezal d](https://images-eu.ssl-images-amazon.com/images/I/41hhO8KX8UL._SL200_.jpg)](https://www.amazon.es/dp/B015CSOAI2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B015CSOAI2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

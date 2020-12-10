@@ -22,6 +22,9 @@ Tienes [Trust Gaming GXT 340 - Auriculares gaming de diadema cerrados  con micr√
 
 [![Trust Gaming GXT 340 - Auriculares gamin](https://images-eu.ssl-images-amazon.com/images/I/41%2Bm487cqbL._SL200_.jpg)](https://www.amazon.es/dp/B00D9QFLII/?tag=tolees-21)
 
+Caracter√≠sticas principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00D9QFLII/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

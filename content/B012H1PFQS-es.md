@@ -22,6 +22,9 @@ Está [Leifheit 6940 6940-Aspirador limpiacristales Dry & Clean con Palo  Multic
 
 [![Leifheit 6940 6940-Aspirador limpiacrist](https://images-eu.ssl-images-amazon.com/images/I/411F3c-ptwL._SL200_.jpg)](https://www.amazon.es/dp/B012H1PFQS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B012H1PFQS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

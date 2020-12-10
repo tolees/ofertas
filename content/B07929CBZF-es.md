@@ -22,6 +22,9 @@ Tienes [Merrell Moab 2 Mid GTX  Botas de Senderismo para Hombre  Azul Navy  43 E
 
 [![Merrell Moab 2 Mid GTX  Botas de Senderi](https://images-eu.ssl-images-amazon.com/images/I/41HX%2Bb08miL._SL200_.jpg)](https://www.amazon.es/dp/B07929CBZF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07929CBZF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

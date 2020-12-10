@@ -22,6 +22,9 @@ Tienes [Puma Aril Blaze Geometric  Hombre Zapatillas  Azul  41 EU](https://www.a
 
 [![Puma Aril Blaze Geometric  Hombre Zapati](https://images-eu.ssl-images-amazon.com/images/I/51CewM2XLOL._SL200_.jpg)](https://www.amazon.es/dp/B015OD1HM2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015OD1HM2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

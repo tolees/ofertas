@@ -22,6 +22,9 @@ Está [Puma Rise XT Fuse 2  Zapatillas de Deporte Interior Unisex Adulto  Negro 
 
 [![Puma Rise XT Fuse 2  Zapatillas de Depor](https://images-eu.ssl-images-amazon.com/images/I/41t7EY6qfdL._SL200_.jpg)](https://www.amazon.es/dp/B07CRJDM6V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CRJDM6V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

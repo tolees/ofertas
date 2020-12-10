@@ -22,6 +22,9 @@ Está [COMFAST Repetidor de red WiFi CF-WR302S 300Mbps Enrutador Inalámbrico 2.
 
 [![COMFAST Repetidor de red WiFi CF-WR302S ](https://images-eu.ssl-images-amazon.com/images/I/31QyAsg5ZHL._SL200_.jpg)](https://www.amazon.es/dp/B07BXLHSGX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BXLHSGX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

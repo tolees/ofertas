@@ -22,6 +22,9 @@ Está [FLEX Colchón muelles continuos Multielastic Visco  90 x 200 cm](https://
 
 [![FLEX Colchón muelles continuos Multielas](https://images-eu.ssl-images-amazon.com/images/I/31CjiH3YBvL._SL200_.jpg)](https://www.amazon.es/dp/B01B61MKM2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01B61MKM2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Lenovo ThinkVision S27i LED Display 68 6 cm  27"  Full HD Plana Negro - 
 
 [![Lenovo ThinkVision S27i LED Display 68 6](https://images-eu.ssl-images-amazon.com/images/I/5147W4Uc0FL._SL200_.jpg)](https://www.amazon.es/dp/B07H2WHFRH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H2WHFRH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

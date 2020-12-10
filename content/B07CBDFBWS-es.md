@@ -22,6 +22,9 @@ Está [ID Italian Design - Secador de Pelo Pequeño 2 Modos de Calor  2 Velocida
 
 [![ID Italian Design - Secador de Pelo Pequ](https://images-eu.ssl-images-amazon.com/images/I/413zL-0GP-L._SL200_.jpg)](https://www.amazon.es/dp/B07CBDFBWS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CBDFBWS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

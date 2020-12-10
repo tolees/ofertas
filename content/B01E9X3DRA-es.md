@@ -22,6 +22,9 @@ Está [OUTAD 500ml Botella Térmica en Acero Inoxidable Forma de Bolos/Bowling  
 
 [![OUTAD 500ml Botella Térmica en Acero Ino](https://images-eu.ssl-images-amazon.com/images/I/41TdoczqPCL._SL200_.jpg)](https://www.amazon.es/dp/B01E9X3DRA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01E9X3DRA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

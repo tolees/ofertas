@@ -22,6 +22,9 @@ Está [A.S. Création cenefa autoadhesivo Stick Ups 2  beige  5 00 m x 0 05 m 30
 
 [![A.S. Création cenefa autoadhesivo Stick ](https://images-eu.ssl-images-amazon.com/images/I/213ALCdi2iL._SL200_.jpg)](https://www.amazon.es/dp/B01DWBPX6E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DWBPX6E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

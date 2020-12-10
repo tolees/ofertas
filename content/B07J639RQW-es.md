@@ -22,6 +22,9 @@ Está [Excelvan Aspiradora de Mano Sin Cable  Aspiradora de Coche Inalámbrico 9
 
 [![Excelvan Aspiradora de Mano Sin Cable  A](https://images-eu.ssl-images-amazon.com/images/I/41gDWn-uc3L._SL200_.jpg)](https://www.amazon.es/dp/B07J639RQW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J639RQW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

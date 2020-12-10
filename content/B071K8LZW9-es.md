@@ -22,6 +22,9 @@ Está [Hoppe 10760880hoppe Ventana Mango Atlanta - Secustik 90 °  VK 7 x 32
 
 [![Hoppe 10760880hoppe Ventana Mango Atlant](https://images-eu.ssl-images-amazon.com/images/I/311NvLs2HgL._SL200_.jpg)](https://www.amazon.es/dp/B071K8LZW9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071K8LZW9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

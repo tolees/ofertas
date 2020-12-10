@@ -22,6 +22,9 @@ Está [Braun BG 5010 Afeitadora Corporal para Hombres  depiladora Masculina para
 
 [![Braun BG 5010 Afeitadora Corporal para H](https://images-eu.ssl-images-amazon.com/images/I/31TRqG%2B2VYL._SL200_.jpg)](https://www.amazon.es/dp/B019FELD48/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B019FELD48/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

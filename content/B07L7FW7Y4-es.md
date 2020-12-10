@@ -22,6 +22,9 @@ Está [Mini Máquina de Coser Portátil  Herramienta Manual Portátil Herramient
 
 [![Mini Máquina de Coser Portátil  Herramie](https://images-eu.ssl-images-amazon.com/images/I/41Fg3TvQK5L._SL200_.jpg)](https://www.amazon.es/dp/B07L7FW7Y4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L7FW7Y4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

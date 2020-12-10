@@ -22,6 +22,9 @@ Tienes [Tamaris 26050  Botas Militar para Mujer  Gris  Fog   38 EU](https://www.
 
 [![Tamaris 26050  Botas Militar para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/51j0J3ch6YL._SL200_.jpg)](https://www.amazon.es/dp/B071GV4JLL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071GV4JLL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

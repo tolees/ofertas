@@ -22,6 +22,9 @@ Ahora mismo tienes [LEDMO focos led 10W blanco frío 990LM focos exterior led SM
 
 [![LEDMO focos led 10W blanco frío 990LM fo](https://images-eu.ssl-images-amazon.com/images/I/51FHeMTLUCL._SL200_.jpg)](https://www.amazon.es/dp/B07BS5SRQ8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BS5SRQ8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

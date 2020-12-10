@@ -22,6 +22,9 @@ Tienes [Only Onlindia 7/8 Pullover Knt  suéter Mujer   Cloud Dancer Black/Green
 
 [![Only Onlindia 7/8 Pullover Knt  suéter M](https://images-eu.ssl-images-amazon.com/images/I/41kD01maUbL._SL200_.jpg)](https://www.amazon.es/dp/B07FKZ2YVC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FKZ2YVC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Vans Ward Canvas  Zapatillas para Hombre Azul  Dress Blues/White Jy3  41 
 
 [![Vans Ward Canvas  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41x-S3x9PnL._SL200_.jpg)](https://www.amazon.es/dp/B07C8Y73JM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C8Y73JM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [APC Back-UPS PRO 900VA - BR900GI - Sistema de alimentación ininterrumpi
 
 [![APC Back-UPS PRO 900VA - BR900GI - Siste](https://images-eu.ssl-images-amazon.com/images/I/41o39Q0lygL._SL200_.jpg)](https://www.amazon.es/dp/B0042F0JMS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0042F0JMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

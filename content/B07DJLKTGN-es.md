@@ -22,6 +22,9 @@ Está [Dockers by Gerli 43ra203  Botas Chukka para Mujer  Beige  Tan 440   38 EU
 
 [![Dockers by Gerli 43ra203  Botas Chukka p](https://images-eu.ssl-images-amazon.com/images/I/41BEYwZoT-L._SL200_.jpg)](https://www.amazon.es/dp/B07DJLKTGN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJLKTGN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

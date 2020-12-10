@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Silver Ridge Cargo Short AL4596 Shorts  Mujer  Azul
 
 [![Columbia Silver Ridge Cargo Short AL4596](https://images-eu.ssl-images-amazon.com/images/I/41jcUhyORTL._SL200_.jpg)](https://www.amazon.es/dp/B0772VK1MV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0772VK1MV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

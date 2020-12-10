@@ -22,6 +22,9 @@ Está [Sennheiser CX 1.00 - Auriculares in-Ear  reducción de Ruido   Blanco](ht
 
 [![Sennheiser CX 1.00 - Auriculares in-Ear ](https://images-eu.ssl-images-amazon.com/images/I/21CILrZz25L._SL200_.jpg)](https://www.amazon.es/dp/B00MEIA772/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00MEIA772/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

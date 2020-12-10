@@ -22,6 +22,9 @@ Está [ITACA - Maleta Trolley 55 cm Cabina ABS Texturizado. Equipaje de Mano. R�
 
 [![ITACA - Maleta Trolley 55 cm Cabina ABS ](https://images-eu.ssl-images-amazon.com/images/I/41hhSeXwQIL._SL200_.jpg)](https://www.amazon.es/dp/B079YGRJGT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079YGRJGT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

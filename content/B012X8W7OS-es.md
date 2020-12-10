@@ -22,6 +22,9 @@ Tienes [Alverlamp LPRO1041_C - Proyector led 10w 4000k](https://www.amazon.es/dp
 
 [![Alverlamp LPRO1041_C - Proyector led 10w](https://images-eu.ssl-images-amazon.com/images/I/41ipwEpjZcL._SL200_.jpg)](https://www.amazon.es/dp/B012X8W7OS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B012X8W7OS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

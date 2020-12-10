@@ -22,6 +22,9 @@ Está [Buff Block Camo Cinta Windproof L/XL  Mujer  Flamingo Pink  Talla única]
 
 [![Buff Block Camo Cinta Windproof L/XL  Mu](https://images-eu.ssl-images-amazon.com/images/I/41OWrW6fpAL._SL200_.jpg)](https://www.amazon.es/dp/B07FNW6GQH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FNW6GQH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

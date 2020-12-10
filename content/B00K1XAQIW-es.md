@@ -22,6 +22,10 @@ Está [Hunter Original Tall Classic  Botas de Agua para Unisex Adulto  Verde  Da
 
 [![Hunter Original Tall Classic  Botas de A](https://m.media-amazon.com/images/I/31+p0J7zbYL._SL200_.jpg)](https://www.amazon.es/dp/B00K1XAQIW/?tag=tolees-21)
 
+Principales características:
+
+- Precio mínimo en los 30 días previos a la oferta: 98.96€
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00K1XAQIW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

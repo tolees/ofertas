@@ -22,6 +22,9 @@ Tienes [Bosch AHS 70-34 - Cortasetos  240 V  700 W  ref. 0600847K00 ](https://ww
 
 [![Bosch AHS 70-34 - Cortasetos  240 V  700](https://images-eu.ssl-images-amazon.com/images/I/31UsCHxJGTL._SL200_.jpg)](https://www.amazon.es/dp/B006OMHYJS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B006OMHYJS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

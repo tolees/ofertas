@@ -22,6 +22,9 @@ Está [Under Armour Grade School Pursuit Ng  Zapatillas de Running para Niñas  
 
 [![Under Armour Grade School Pursuit Ng  Za](https://images-eu.ssl-images-amazon.com/images/I/41EHt90Q86L._SL200_.jpg)](https://www.amazon.es/dp/B07CTNT3SY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CTNT3SY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Bolero gh551 pavimento estilo acero sillas  gris  Pack de 2
 
 [![Bolero gh551 pavimento estilo acero sill](https://images-eu.ssl-images-amazon.com/images/I/31v72atVC2L._SL200_.jpg)](https://www.amazon.es/dp/B014FXH0JG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B014FXH0JG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

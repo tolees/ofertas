@@ -22,6 +22,9 @@ Tienes [BLACK+DECKER CS1835-QS - Motosierra eléctrica 1800W  espada 35 cm  velo
 
 [![BLACK+DECKER CS1835-QS - Motosierra eléc](https://images-eu.ssl-images-amazon.com/images/I/41ZioMLqncL._SL200_.jpg)](https://www.amazon.es/dp/B00XXQGNZE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XXQGNZE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

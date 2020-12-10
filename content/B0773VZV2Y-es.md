@@ -22,6 +22,9 @@ Está [Under Armour Ripple  Zapatillas de Running para Hombre  Rojo  Radio Red/B
 
 [![Under Armour Ripple  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41un-S2soaL._SL200_.jpg)](https://www.amazon.es/dp/B0773VZV2Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0773VZV2Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301 Straight Tapered Jeans  Azul  dk aged 6553-89   31W / 32L
 
 [![G-STAR RAW 3301 Straight Tapered Jeans  ](https://images-eu.ssl-images-amazon.com/images/I/41-Z8wlv7FL._SL200_.jpg)](https://www.amazon.es/dp/B07BJHHYGM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BJHHYGM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

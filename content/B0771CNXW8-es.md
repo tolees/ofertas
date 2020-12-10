@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR RAW Dunda Polo S/s  Gris  Grey Htr 906   Medium para 
 
 [![G-STAR RAW Dunda Polo S/s  Gris  Grey Ht](https://images-eu.ssl-images-amazon.com/images/I/41ic-Fw005L._SL200_.jpg)](https://www.amazon.es/dp/B0771CNXW8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0771CNXW8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Sloane PM210564 Pantalones  Marrón  Truffle 886   32W / 32L 
 
 [![Pepe Jeans Sloane PM210564 Pantalones  M](https://images-eu.ssl-images-amazon.com/images/I/31Eg%2BnJmgWL._SL200_.jpg)](https://www.amazon.es/dp/B079WJ5SK6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079WJ5SK6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

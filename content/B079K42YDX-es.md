@@ -22,6 +22,9 @@ Está [Nike Dry Academy 18 Football Trkst Chandal  Unisex niños  Negro  Black/A
 
 [![Nike Dry Academy 18 Football Trkst Chand](https://images-eu.ssl-images-amazon.com/images/I/316sAhK7lJL._SL200_.jpg)](https://www.amazon.es/dp/B079K42YDX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079K42YDX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

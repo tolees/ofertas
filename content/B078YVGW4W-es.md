@@ -22,6 +22,9 @@ Está [IBRA Cable Auxiliar Espiral 1M 2 Pack   Cable de Audio Estéreo Auxiliar 
 
 [![IBRA Cable Auxiliar Espiral 1M 2 Pack   ](https://images-eu.ssl-images-amazon.com/images/I/51dPlYmLRpL._SL200_.jpg)](https://www.amazon.es/dp/B078YVGW4W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078YVGW4W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

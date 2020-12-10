@@ -22,6 +22,9 @@ Está [SOLIS Tomate Frito Estilo Casero Frasco Cristal - Tomate sin gluten - 350
 
 [![SOLIS Tomate Frito Estilo Casero Frasco ](https://images-eu.ssl-images-amazon.com/images/I/51FI18WJpAL._SL200_.jpg)](https://www.amazon.es/dp/B01N6LCBVU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N6LCBVU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

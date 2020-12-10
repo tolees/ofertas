@@ -22,6 +22,9 @@ Tienes [Sony Xperia C5 Ultra - Smartphone de 6"  Full HD  4G  MT6752  1.7 GHz Oc
 
 [![Sony Xperia C5 Ultra - Smartphone de 6" ](https://images-eu.ssl-images-amazon.com/images/I/41ePlw%2Bs-LL._SL200_.jpg)](https://www.amazon.es/dp/B013GCKA8U/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B013GCKA8U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

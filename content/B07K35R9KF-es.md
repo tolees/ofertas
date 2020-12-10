@@ -22,6 +22,9 @@ Tienes [Blend Shorts  Pantalones cortos para Hombre  Azul  Navy 70230    Medium]
 
 [![Blend Shorts  Pantalones cortos para Hom](https://images-eu.ssl-images-amazon.com/images/I/31D77jl2XAL._SL200_.jpg)](https://www.amazon.es/dp/B07K35R9KF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K35R9KF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

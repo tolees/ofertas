@@ -22,6 +22,9 @@ Tienes [Vans Sk8-hi  Zapatillas Altas para Mujer  Negro  Black VA2XSBOGG   39 EU
 
 [![Vans Sk8-hi  Zapatillas Altas para Mujer](https://images-eu.ssl-images-amazon.com/images/I/41NqwUdi5nL._SL200_.jpg)](https://www.amazon.es/dp/B01MYZ2QUA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MYZ2QUA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Marantz Professional MPM1000 - Micrófono de Condensador de Diafragma Gra
 
 [![Marantz Professional MPM1000 - Micrófono](https://images-eu.ssl-images-amazon.com/images/I/41O7GV9uZmL._SL200_.jpg)](https://www.amazon.es/dp/B01C05AL4C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01C05AL4C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

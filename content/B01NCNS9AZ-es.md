@@ -22,6 +22,9 @@ Está [Science4you-Junior Building 4 in 1  Juguete Educativo y científico  4882
 
 [![Science4you-Junior Building 4 in 1  Jugu](https://images-eu.ssl-images-amazon.com/images/I/51R9BCsB9VL._SL200_.jpg)](https://www.amazon.es/dp/B01NCNS9AZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCNS9AZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

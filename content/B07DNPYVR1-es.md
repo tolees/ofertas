@@ -22,6 +22,9 @@ Ahora mismo tienes [ACTOPP Cargador Inalámbrico Qi Estación de Carga 3 Bobinas
 
 [![ACTOPP Cargador Inalámbrico Qi Estación ](https://images-eu.ssl-images-amazon.com/images/I/51Z39yxR3LL._SL200_.jpg)](https://www.amazon.es/dp/B07DNPYVR1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DNPYVR1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

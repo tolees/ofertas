@@ -22,6 +22,9 @@ Ahora mismo tienes [Hopekings Picadora de Carne Eléctrica 350W  Máquina Picado
 
 [![Hopekings Picadora de Carne Eléctrica 35](https://images-eu.ssl-images-amazon.com/images/I/51gtsc0J1GL._SL200_.jpg)](https://www.amazon.es/dp/B07M6WFPV4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07M6WFPV4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

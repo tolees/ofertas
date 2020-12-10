@@ -22,6 +22,9 @@ Tienes [DDR3 4 GB 1600MHZ GOODRAM 512X8 CL11 SR](https://www.amazon.es/dp/B00HNF
 
 [![DDR3 4 GB 1600MHZ GOODRAM 512X8 CL11 SR](https://images-eu.ssl-images-amazon.com/images/I/41AOGHuxxjL._SL200_.jpg)](https://www.amazon.es/dp/B00HNFPFJQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00HNFPFJQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

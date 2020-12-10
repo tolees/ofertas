@@ -22,6 +22,9 @@ Tienes [Wolfcraft 8725000 - Destornillador manual con portapuntas  largo 197 mm]
 
 [![Wolfcraft 8725000 - Destornillador manua](https://images-eu.ssl-images-amazon.com/images/I/21I1vmABFUL._SL200_.jpg)](https://www.amazon.es/dp/B000P3DYTG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000P3DYTG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

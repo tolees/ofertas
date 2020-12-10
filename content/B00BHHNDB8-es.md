@@ -22,6 +22,9 @@ Ahora mismo tienes [Bahco 4128-JT-H - Serrucho Poda 28 Cm + Funda](https://www.a
 
 [![Bahco 4128-JT-H - Serrucho Poda 28 Cm + ](https://images-eu.ssl-images-amazon.com/images/I/31MIjBZyR-L._SL200_.jpg)](https://www.amazon.es/dp/B00BHHNDB8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00BHHNDB8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

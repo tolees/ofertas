@@ -22,6 +22,9 @@ Ahora mismo tienes [ASICS Curreo II Zapatillas  Hombre  Burdeos/Marino  40](http
 
 [![ASICS Curreo II Zapatillas  Hombre  Burd](https://images-eu.ssl-images-amazon.com/images/I/416U93dxvvL._SL200_.jpg)](https://www.amazon.es/dp/B074JFDZGJ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B074JFDZGJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

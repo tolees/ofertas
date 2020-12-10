@@ -22,6 +22,9 @@ Está [Huawei P9 - Smartphone de 5.2"  WiFi  Bluetooth  HiSilicon Kirin 955  Oct
 
 [![Huawei P9 - Smartphone de 5.2"  WiFi  Bl](https://images-eu.ssl-images-amazon.com/images/I/41p7TjbIgML._SL200_.jpg)](https://www.amazon.es/dp/B01DZOAWMI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DZOAWMI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

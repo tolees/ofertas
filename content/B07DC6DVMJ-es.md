@@ -22,6 +22,9 @@ Está [JYDMIX Hub USB C  Tipo C Adaptador con USB-C Carga Rápida 60W  HDMI 4K U
 
 [![JYDMIX Hub USB C  Tipo C Adaptador con U](https://images-eu.ssl-images-amazon.com/images/I/516ZiGeeQJL._SL200_.jpg)](https://www.amazon.es/dp/B07DC6DVMJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DC6DVMJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

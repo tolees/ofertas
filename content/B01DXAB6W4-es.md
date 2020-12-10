@@ -22,6 +22,9 @@ Ahora mismo tienes [Vans Authentic  Zapatillas Unisex Adulto  Marrón  Leather  
 
 [![Vans Authentic  Zapatillas Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41sf%2B4AdCdL._SL200_.jpg)](https://www.amazon.es/dp/B01DXAB6W4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01DXAB6W4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

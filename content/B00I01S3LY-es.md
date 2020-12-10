@@ -22,6 +22,9 @@ Está [Handevision Ibelux - Objetivo para Sony E-Mount  40 mm f/0.85 ](https://w
 
 [![Handevision Ibelux - Objetivo para Sony ](https://images-eu.ssl-images-amazon.com/images/I/41ZA6z39zYL._SL200_.jpg)](https://www.amazon.es/dp/B00I01S3LY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00I01S3LY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Pluma de escritura antigua y en buen estado  de cobre y con 
 
 [![Pluma de escritura antigua y en buen est](https://images-eu.ssl-images-amazon.com/images/I/51sNMAXmX0L._SL200_.jpg)](https://www.amazon.es/dp/B01GCCH7RI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01GCCH7RI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

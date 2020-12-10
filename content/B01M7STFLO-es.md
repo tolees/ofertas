@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR Revend Super Slim  Jeans Hombre  Azul  Medium Aged An
 
 [![G-STAR Revend Super Slim  Jeans Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41Ge0Pt-w8L._SL200_.jpg)](https://www.amazon.es/dp/B01M7STFLO/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01M7STFLO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

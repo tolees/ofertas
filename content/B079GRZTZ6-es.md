@@ -22,6 +22,9 @@ Está [Pokemon JCC Colección Especial Raichu-GX de Leyendas Luminosas - Españo
 
 [![Pokemon JCC Colección Especial Raichu-GX](https://images-eu.ssl-images-amazon.com/images/I/51WmP6TNTqL._SL200_.jpg)](https://www.amazon.es/dp/B079GRZTZ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079GRZTZ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

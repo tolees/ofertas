@@ -22,6 +22,9 @@ Está [DXIII DELUXE13 Topper para Colchón viscolástico | Cubre Colchon viscol�
 
 [![DXIII DELUXE13 Topper para Colchón visco](https://images-eu.ssl-images-amazon.com/images/I/41C99xp9e1L._SL200_.jpg)](https://www.amazon.es/dp/B07P159QQT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P159QQT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

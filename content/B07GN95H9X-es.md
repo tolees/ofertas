@@ -22,6 +22,9 @@ Tienes [Auriculares Bluetooth Audífonos inalámbricos Auriculares inalámbricos
 
 [![Auriculares Bluetooth Audífonos inalámbr](https://images-eu.ssl-images-amazon.com/images/I/31Cu4eW1PJL._SL200_.jpg)](https://www.amazon.es/dp/B07GN95H9X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GN95H9X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

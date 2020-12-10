@@ -22,6 +22,9 @@ Está [Lexar Jds75256Aeamzn Memoria Usb 3.0  256 Gb  Blanco](https://www.amazon.
 
 [![Lexar Jds75256Aeamzn Memoria Usb 3.0  25](https://images-eu.ssl-images-amazon.com/images/I/31V8FERSzWL._SL200_.jpg)](https://www.amazon.es/dp/B07F9SLP36/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F9SLP36/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

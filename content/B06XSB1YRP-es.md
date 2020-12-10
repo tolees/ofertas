@@ -22,6 +22,9 @@ Está [New Balance Mt590V3  Zapatillas de Deporte Unisex Adulto  Mt590rp3  45 EU
 
 [![New Balance Mt590V3  Zapatillas de Depor](https://images-eu.ssl-images-amazon.com/images/I/41jBIbDENIL._SL200_.jpg)](https://www.amazon.es/dp/B06XSB1YRP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XSB1YRP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

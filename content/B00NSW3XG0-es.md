@@ -22,6 +22,9 @@ Tienes [SMEG Batidora amasadora SMF01BLEU  800 W  Acero Inoxidable  10 Velocidad
 
 [![SMEG Batidora amasadora SMF01BLEU  800 W](https://images-eu.ssl-images-amazon.com/images/I/31ZgEMdqxlL._SL200_.jpg)](https://www.amazon.es/dp/B00NSW3XG0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00NSW3XG0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

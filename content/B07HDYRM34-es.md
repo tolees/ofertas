@@ -22,6 +22,9 @@ Ahora mismo tienes [Minghuo Quitapelusas Eléctrico Lint Remover para Todas Las 
 
 [![Minghuo Quitapelusas Eléctrico Lint Remo](https://images-eu.ssl-images-amazon.com/images/I/41Bul0IKN-L._SL200_.jpg)](https://www.amazon.es/dp/B07HDYRM34/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HDYRM34/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [MTNG Collection 57400  Botas Mosqueteras para Mujer   Antil Negro C35442 
 
 [![MTNG Collection 57400  Botas Mosqueteras](https://images-eu.ssl-images-amazon.com/images/I/21Vxef%2ByDvL._SL200_.jpg)](https://www.amazon.es/dp/B07DQ6YXJV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQ6YXJV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

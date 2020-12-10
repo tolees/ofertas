@@ -22,6 +22,9 @@ Está [Adidas Predator 19.4 in Sala H&l J  Botas de fútbol Unisex niño  000  2
 
 [![Adidas Predator 19.4 in Sala H&l J  Bota](https://images-eu.ssl-images-amazon.com/images/I/4146aPCngvL._SL200_.jpg)](https://www.amazon.es/dp/B07N7B8VPH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N7B8VPH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

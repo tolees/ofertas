@@ -22,6 +22,9 @@ Está [Gliss Long & Sublime Acondicionador para Cabello Largo de Schwarzkopf - 3
 
 [![Gliss Long & Sublime Acondicionador para](https://images-eu.ssl-images-amazon.com/images/I/4102p3w12qL._SL200_.jpg)](https://www.amazon.es/dp/B07NRHS6HB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NRHS6HB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

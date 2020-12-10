@@ -22,6 +22,9 @@ Tienes [Dr. Martens 1460  Botas Militares Unisex  Rojo  Cherry Red   37 EU](http
 
 [![Dr. Martens 1460  Botas Militares Unisex](https://images-eu.ssl-images-amazon.com/images/I/41iX82%2BRr4L._SL200_.jpg)](https://www.amazon.es/dp/B000W3YMLS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000W3YMLS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Adidas Runfalcon  Zapatillas de Running para Hombre  Nero Core Black  40 
 
 [![Adidas Runfalcon  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/31sPWIZRQEL._SL200_.jpg)](https://www.amazon.es/dp/B07K37ZMR2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K37ZMR2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

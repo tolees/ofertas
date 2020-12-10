@@ -22,6 +22,9 @@ Está [SONGMICS Hamaca Ultraligera con Mosquitera  Hamaca Doble Portátil  Nylon
 
 [![SONGMICS Hamaca Ultraligera con Mosquite](https://images-eu.ssl-images-amazon.com/images/I/41vFxgj8lnL._SL200_.jpg)](https://www.amazon.es/dp/B07LGTVQ6C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LGTVQ6C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

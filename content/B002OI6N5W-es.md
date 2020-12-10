@@ -22,6 +22,9 @@ Está [Brennenstuhl 1508100 - Distribuidor con 3 tomas + interruptor](https://ww
 
 [![Brennenstuhl 1508100 - Distribuidor con ](https://images-eu.ssl-images-amazon.com/images/I/41Tx0dR6SoL._SL200_.jpg)](https://www.amazon.es/dp/B002OI6N5W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B002OI6N5W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

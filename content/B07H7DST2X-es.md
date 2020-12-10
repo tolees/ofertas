@@ -22,6 +22,9 @@ Está [Espumador Leche Eléctrico  OZAVO Espumador/Batidor de leche Automático 
 
 [![Espumador Leche Eléctrico  OZAVO Espumad](https://images-eu.ssl-images-amazon.com/images/I/31hBkqM82YL._SL200_.jpg)](https://www.amazon.es/dp/B07H7DST2X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07H7DST2X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

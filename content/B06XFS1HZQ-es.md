@@ -22,6 +22,9 @@ Está [Galileo Casa 2414738 - Ventilador de pie Aria  45 W  130 cm  color aguama
 
 [![Galileo Casa 2414738 - Ventilador de pie](https://images-eu.ssl-images-amazon.com/images/I/31afTt4jKCL._SL200_.jpg)](https://www.amazon.es/dp/B06XFS1HZQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XFS1HZQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

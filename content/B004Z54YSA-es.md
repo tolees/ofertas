@@ -22,6 +22,9 @@ Está [Gardena Aspersor oscilante Polo Classic Alcance Ajustable en Continuo Sup
 
 [![Gardena Aspersor oscilante Polo Classic ](https://images-eu.ssl-images-amazon.com/images/I/31cFu8u1pqL._SL200_.jpg)](https://www.amazon.es/dp/B004Z54YSA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B004Z54YSA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Lotus Reloj Multiesfera para Niños de Cuarzo con Correa en Acero Inoxid
 
 [![Lotus Reloj Multiesfera para Niños de Cu](https://images-eu.ssl-images-amazon.com/images/I/51d9FIZyjhL._SL200_.jpg)](https://www.amazon.es/dp/B00BPVH9R0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BPVH9R0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

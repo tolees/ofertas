@@ -22,6 +22,9 @@ Está [MINGWEN Universal Kit de Reparación de Neumáticos para Arreglar Pinchaz
 
 [![MINGWEN Universal Kit de Reparación de N](https://images-eu.ssl-images-amazon.com/images/I/412wfbJFrSL._SL200_.jpg)](https://www.amazon.es/dp/B07KQ84FCK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KQ84FCK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

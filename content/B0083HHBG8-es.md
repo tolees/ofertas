@@ -22,6 +22,9 @@ Está [LELO SMART Wand Mediano Vibrador de Cuerpo Entero Black: Potente Masajead
 
 [![LELO SMART Wand Mediano Vibrador de Cuer](https://images-eu.ssl-images-amazon.com/images/I/31kVtFh%2BRBL._SL200_.jpg)](https://www.amazon.es/dp/B0083HHBG8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0083HHBG8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

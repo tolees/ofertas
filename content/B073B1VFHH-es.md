@@ -22,6 +22,9 @@ Ahora mismo tienes [Tostadora  Tostadora 2 Rebanadas de Acero Inoxidable  950W  
 
 [![Tostadora  Tostadora 2 Rebanadas de Acer](https://images-eu.ssl-images-amazon.com/images/I/415BHCxU%2BSL._SL200_.jpg)](https://www.amazon.es/dp/B073B1VFHH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B073B1VFHH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

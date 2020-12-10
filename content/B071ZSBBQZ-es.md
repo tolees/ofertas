@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Nemeziz 17.4 TR  Zapatillas de Deporte para Hombre  N
 
 [![adidas Nemeziz 17.4 TR  Zapatillas de De](https://images-eu.ssl-images-amazon.com/images/I/41nbZYZjF%2BL._SL200_.jpg)](https://www.amazon.es/dp/B071ZSBBQZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071ZSBBQZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

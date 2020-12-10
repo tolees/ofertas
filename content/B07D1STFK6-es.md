@@ -22,6 +22,9 @@ Ahora mismo tienes [Gerry Weber Bluse 1/1 Arm  Rosa  Rot 60627   46 para Mujer](
 
 [![Gerry Weber Bluse 1/1 Arm  Rosa  Rot 606](https://images-eu.ssl-images-amazon.com/images/I/41Zi8CDPK5L._SL200_.jpg)](https://www.amazon.es/dp/B07D1STFK6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D1STFK6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

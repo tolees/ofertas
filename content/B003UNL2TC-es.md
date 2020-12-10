@@ -22,6 +22,9 @@ Ahora mismo tienes [Panasonic Lumix H-FS014042E - Objetivo para Cuatro tercios  
 
 [![Panasonic Lumix H-FS014042E - Objetivo p](https://images-eu.ssl-images-amazon.com/images/I/41XYQ5vJ-GL._SL200_.jpg)](https://www.amazon.es/dp/B003UNL2TC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B003UNL2TC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

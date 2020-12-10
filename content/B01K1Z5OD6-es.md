@@ -22,6 +22,9 @@ Está [Sharp R843INW - Microondas  3 en 1  900 W  Plata  51.3 x 30.62 x 39.94 cm
 
 [![Sharp R843INW - Microondas  3 en 1  900 ](https://images-eu.ssl-images-amazon.com/images/I/418OAa8v5qL._SL200_.jpg)](https://www.amazon.es/dp/B01K1Z5OD6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01K1Z5OD6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Clarks Addiy Zora  Botas Militar  Mujer  Marrón  Tan Leather   38 EU](ht
 
 [![Clarks Addiy Zora  Botas Militar  Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41IZRncIMKL._SL200_.jpg)](https://www.amazon.es/dp/B06W5JNZY8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06W5JNZY8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

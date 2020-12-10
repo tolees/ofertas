@@ -22,6 +22,9 @@ Ahora mismo tienes [Diesel 0858D-00S54W L.34  Jeans para Mujer  1 28](https://ww
 
 [![Diesel 0858D-00S54W L.34  Jeans para Muj](https://images-eu.ssl-images-amazon.com/images/I/417m7Qr422L._SL200_.jpg)](https://www.amazon.es/dp/B01LYI1V3T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LYI1V3T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

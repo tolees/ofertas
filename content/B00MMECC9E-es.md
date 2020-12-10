@@ -22,6 +22,9 @@ Tienes [Ultrasport Cama elástica de jardín Jumper Set de Trampolin  Incl. Supe
 
 [![Ultrasport Cama elástica de jardín Jumpe](https://images-eu.ssl-images-amazon.com/images/I/41ovFW2nXcL._SL200_.jpg)](https://www.amazon.es/dp/B00MMECC9E/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00MMECC9E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

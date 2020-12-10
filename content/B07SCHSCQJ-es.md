@@ -22,6 +22,9 @@ Está [loveryoyo Pene Anillo Silicona pene vibrador Mando a Distancia de 10 Spee
 
 [![loveryoyo Pene Anillo Silicona pene vibr](https://images-eu.ssl-images-amazon.com/images/I/31hqaEC1v2L._SL200_.jpg)](https://www.amazon.es/dp/B07SCHSCQJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07SCHSCQJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

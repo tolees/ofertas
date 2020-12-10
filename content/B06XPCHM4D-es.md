@@ -22,6 +22,9 @@ Está [Kipling - Uzario  Carteras Mujer  Blau  Lacquer Indigo   10x18.5x3.5 cm  
 
 [![Kipling - Uzario  Carteras Mujer  Blau  ](https://images-eu.ssl-images-amazon.com/images/I/51JoAJEGIiL._SL200_.jpg)](https://www.amazon.es/dp/B06XPCHM4D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06XPCHM4D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

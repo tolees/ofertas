@@ -22,6 +22,9 @@ Está [Dockers by Gerli 39or001  Zapatillas Altas para Hombre  Negro  Schwarz 10
 
 [![Dockers by Gerli 39or001  Zapatillas Alt](https://images-eu.ssl-images-amazon.com/images/I/413WgG2YAnL._SL200_.jpg)](https://www.amazon.es/dp/B076N3MVWT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076N3MVWT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

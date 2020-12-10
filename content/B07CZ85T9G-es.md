@@ -22,6 +22,9 @@ Ahora mismo tienes [Salomon XA Pro 3D J  Calzado de Trail Running para Niños  R
 
 [![Salomon XA Pro 3D J  Calzado de Trail Ru](https://images-eu.ssl-images-amazon.com/images/I/41kkNEk2eVL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ85T9G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ85T9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

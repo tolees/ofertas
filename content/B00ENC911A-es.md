@@ -22,6 +22,9 @@ Ahora mismo tienes [Bahco MR227L - Tijera Para Chapa Tradicional Corte Izquierda
 
 [![Bahco MR227L - Tijera Para Chapa Tradici](https://images-eu.ssl-images-amazon.com/images/I/41edg4OY0EL._SL200_.jpg)](https://www.amazon.es/dp/B00ENC911A/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00ENC911A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

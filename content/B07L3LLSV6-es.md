@@ -22,6 +22,9 @@ Está [SachsenRad E-Racing Bike R5  Motor de 240 vatios  36V  hasta 25 km/h  24 
 
 [![SachsenRad E-Racing Bike R5  Motor de 24](https://images-eu.ssl-images-amazon.com/images/I/41bGvJOpx2L._SL200_.jpg)](https://www.amazon.es/dp/B07L3LLSV6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07L3LLSV6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

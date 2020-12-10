@@ -22,6 +22,9 @@ Tienes [Camomila Intea Té Verde & Menta Mascarilla Cabello Graso - 250 ml](http
 
 [![Camomila Intea Té Verde & Menta Mascaril](https://images-eu.ssl-images-amazon.com/images/I/51GXJ067L%2BL._SL200_.jpg)](https://www.amazon.es/dp/B011EPJ1WM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B011EPJ1WM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

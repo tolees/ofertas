@@ -22,6 +22,9 @@ Ahora mismo tienes [Jako Shorts Attack 2.0 - Pantalones Cortos de fútbol para H
 
 [![Jako Shorts Attack 2.0 - Pantalones Cort](https://images-eu.ssl-images-amazon.com/images/I/41mZMJz0DEL._SL200_.jpg)](https://www.amazon.es/dp/B00BPGX5EG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00BPGX5EG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

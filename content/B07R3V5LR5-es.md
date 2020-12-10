@@ -22,6 +22,9 @@ Ahora mismo tienes [INTEY Rodillos de Yoga de la Aptitud del Rodillo de la Espum
 
 [![INTEY Rodillos de Yoga de la Aptitud del](https://images-eu.ssl-images-amazon.com/images/I/51e7gVuQMsL._SL200_.jpg)](https://www.amazon.es/dp/B07R3V5LR5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07R3V5LR5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

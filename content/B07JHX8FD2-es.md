@@ -22,6 +22,9 @@ Ahora mismo tienes [Lacoste Sport Yh7900  Polo Hombre  Plateado  Argent Chiné/M
 
 [![Lacoste Sport Yh7900  Polo Hombre  Plate](https://images-eu.ssl-images-amazon.com/images/I/41JmYr%2B1oQL._SL200_.jpg)](https://www.amazon.es/dp/B07JHX8FD2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JHX8FD2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

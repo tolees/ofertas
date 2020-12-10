@@ -22,6 +22,9 @@ Está [Napapijri Nellary Fantasy  Pantalones cortos Hombre  Multicolor  Fantasy 
 
 [![Napapijri Nellary Fantasy  Pantalones co](https://images-eu.ssl-images-amazon.com/images/I/41D4aqq%2BsML._SL200_.jpg)](https://www.amazon.es/dp/B07LBM6YLX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LBM6YLX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

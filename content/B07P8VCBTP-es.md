@@ -22,6 +22,9 @@ Tienes [OUKITEL U18 – 4G Teléfono Móvil Lbres Libre DE 5.85" 21:9 Full HD Pa
 
 [![OUKITEL U18 – 4G Teléfono Móvil Lbres Li](https://images-eu.ssl-images-amazon.com/images/I/41Fjj6B07iL._SL200_.jpg)](https://www.amazon.es/dp/B07P8VCBTP/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P8VCBTP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

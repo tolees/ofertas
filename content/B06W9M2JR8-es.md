@@ -22,6 +22,9 @@ Está [Pop! Games: Street Fighter Green Blanka [Importación Alemana]](https://w
 
 [![Pop! Games: Street Fighter Green Blanka ](https://images-eu.ssl-images-amazon.com/images/I/51GvP5RxsDL._SL200_.jpg)](https://www.amazon.es/dp/B06W9M2JR8/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06W9M2JR8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

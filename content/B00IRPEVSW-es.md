@@ -22,6 +22,9 @@ Tienes [Nike Court Suede  Zapatillas de Gimnasia para Hombre  Azul Deep Royal Bl
 
 [![Nike Court Suede  Zapatillas de Gimnasia](https://images-eu.ssl-images-amazon.com/images/I/31VmyPCl8SL._SL200_.jpg)](https://www.amazon.es/dp/B00IRPEVSW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IRPEVSW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

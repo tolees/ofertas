@@ -22,6 +22,9 @@ Está [MSI B360 Gaming Pro Carbon - Placa Base Performance Gaming  LGA 1151  2 x
 
 [![MSI B360 Gaming Pro Carbon - Placa Base ](https://images-eu.ssl-images-amazon.com/images/I/51arjncwMJL._SL200_.jpg)](https://www.amazon.es/dp/B07BWP6N33/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BWP6N33/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

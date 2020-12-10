@@ -22,6 +22,9 @@ Ahora mismo tienes [Cargador Inalámbrico Rápido Compatible con Samsung S8  S8+
 
 [![Cargador Inalámbrico Rápido Compatible c](https://images-eu.ssl-images-amazon.com/images/I/41-JeH5hoPL._SL200_.jpg)](https://www.amazon.es/dp/B078T5NNJW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B078T5NNJW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

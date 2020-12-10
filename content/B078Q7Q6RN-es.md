@@ -22,6 +22,9 @@ Está [Reebok Walk Ultra 6 DMX MAX  Zapatillas de Gimnasia para Mujer  Negro Bla
 
 [![Reebok Walk Ultra 6 DMX MAX  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41tYvbMm98L._SL200_.jpg)](https://www.amazon.es/dp/B078Q7Q6RN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078Q7Q6RN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

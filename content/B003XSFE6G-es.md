@@ -22,6 +22,9 @@ Tienes [Karlie 1031299 Transportín de Nylon Smart Top Lounge  79 x 56 x 61 cm  
 
 [![Karlie 1031299 Transportín de Nylon Smar](https://images-eu.ssl-images-amazon.com/images/I/51kxeCuxrGL._SL200_.jpg)](https://www.amazon.es/dp/B003XSFE6G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003XSFE6G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

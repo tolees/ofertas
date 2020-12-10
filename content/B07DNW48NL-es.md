@@ -22,6 +22,9 @@ Está [LOSMILE Hombres Bolsos Bandolera Bolsa de Mensajero Lona 15.6" Bolsas par
 
 [![LOSMILE Hombres Bolsos Bandolera Bolsa d](https://images-eu.ssl-images-amazon.com/images/I/41bwASzi0BL._SL200_.jpg)](https://www.amazon.es/dp/B07DNW48NL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DNW48NL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

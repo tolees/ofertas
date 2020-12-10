@@ -22,6 +22,9 @@ Tienes [Nano pulverizador  NanoSteamer Nano vapor Facial iónico con cargador po
 
 [![Nano pulverizador  NanoSteamer Nano vapo](https://images-eu.ssl-images-amazon.com/images/I/31llQyqugjL._SL200_.jpg)](https://www.amazon.es/dp/B06XDFXQDC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XDFXQDC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

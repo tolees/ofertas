@@ -22,6 +22,9 @@ Ahora mismo tienes [RENBERG TWISTER- SET 15 BOLES CRISTAL - AZUL](https://www.am
 
 [![RENBERG TWISTER- SET 15 BOLES CRISTAL - ](https://images-eu.ssl-images-amazon.com/images/I/51m2t0jmHqL._SL200_.jpg)](https://www.amazon.es/dp/B071DFD3VF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B071DFD3VF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

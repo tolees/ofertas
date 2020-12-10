@@ -22,6 +22,9 @@ Está [lingvi 30L Mochila de Senderismo a Prueba de Agua al Aire Libre Mochila d
 
 [![lingvi 30L Mochila de Senderismo a Prueb](https://images-eu.ssl-images-amazon.com/images/I/51C4WwDNprL._SL200_.jpg)](https://www.amazon.es/dp/B07GNC6HHF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GNC6HHF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

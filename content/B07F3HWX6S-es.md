@@ -22,6 +22,9 @@ Está [Johnson s -  Vita-Rich Gel de Ducha Reconfortante  3 x 750 ml](https://ww
 
 [![Johnson s -  Vita-Rich Gel de Ducha Reco](https://images-eu.ssl-images-amazon.com/images/I/41M-pmwzNpL._SL200_.jpg)](https://www.amazon.es/dp/B07F3HWX6S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07F3HWX6S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

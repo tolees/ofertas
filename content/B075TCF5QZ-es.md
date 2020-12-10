@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jfwvision Chambray Mix SS Anthracite  Zapatilla
 
 [![JACK & JONES Jfwvision Chambray Mix SS A](https://images-eu.ssl-images-amazon.com/images/I/41zoEU%2BGgGL._SL200_.jpg)](https://www.amazon.es/dp/B075TCF5QZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075TCF5QZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

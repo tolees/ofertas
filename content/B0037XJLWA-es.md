@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Remington NE3150 Smart -Cortapelos de Ve al 27.93 % de descuento'
-date: 2020-12-09 12:33:30
+date: 2020-12-10 21:09:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rIIiwhw9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rIIiwhw9L._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,13 @@ country: 'es'
 Está [Remington NE3150 Smart -Cortapelos de Vello  Nariz y Orejas  Recortador con Cuchillas de Acero Avanzado  Lavable  Negro](https://www.amazon.es/dp/B0037XJLWA/?tag=tolees-21) con 27.93 de descuento por 7.92 EUR (original: 10.99 EUR) en el siguiente enlace!
 
 [![Remington NE3150 Smart -Cortapelos de Ve](https://m.media-amazon.com/images/I/41rIIiwhw9L._SL200_.jpg)](https://www.amazon.es/dp/B0037XJLWA/?tag=tolees-21)
+
+Principales características:
+
+- Cuchillas de acero avanzado
+- Funciona con pilas: 1 x AA, no incluida
+- Recortador facial con cortador lineal para cejas, nariz y orejas
+- Cabezal lavable
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0037XJLWA/?tag=tolees-21)
 

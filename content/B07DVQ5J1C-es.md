@@ -22,6 +22,9 @@ Está [Levi s Modern Hm Hoodie Capucha  Azul  Sky Captain 0003   X-Large para Ho
 
 [![Levi s Modern Hm Hoodie Capucha  Azul  S](https://images-eu.ssl-images-amazon.com/images/I/31WfH5%2BP6AL._SL200_.jpg)](https://www.amazon.es/dp/B07DVQ5J1C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVQ5J1C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

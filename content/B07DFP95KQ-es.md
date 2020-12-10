@@ -22,6 +22,9 @@ Tienes [New Balance WX715V3  Zapatillas Deportivas para Interior para Mujer  Neg
 
 [![New Balance WX715V3  Zapatillas Deportiv](https://images-eu.ssl-images-amazon.com/images/I/41HMx4oHu%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07DFP95KQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DFP95KQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

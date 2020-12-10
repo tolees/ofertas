@@ -22,6 +22,9 @@ Está [Apple Mac Pro - Ordenador  Xeon E5 de seis núcleos de Intel a 3 5 GHz ](
 
 [![Apple Mac Pro - Ordenador  Xeon E5 de se](None._SL200_)](https://www.amazon.es/dp/B00HI8WKD2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00HI8WKD2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

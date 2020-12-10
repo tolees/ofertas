@@ -22,6 +22,9 @@ Ahora mismo tienes [Tamaris 24317  Mocasines para Mujer  Rojo  Bordeaux 549   40
 
 [![Tamaris 24317  Mocasines para Mujer  Roj](https://images-eu.ssl-images-amazon.com/images/I/41u4vo0YKvL._SL200_.jpg)](https://www.amazon.es/dp/B0149XAJEU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0149XAJEU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

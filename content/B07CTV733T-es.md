@@ -22,6 +22,9 @@ Ahora mismo tienes [SOGO SS-16120 Aspirador Ciclónico Vertical con Potencia de 
 
 [![SOGO SS-16120 Aspirador Ciclónico Vertic](https://images-eu.ssl-images-amazon.com/images/I/31TLkbk2mbL._SL200_.jpg)](https://www.amazon.es/dp/B07CTV733T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CTV733T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

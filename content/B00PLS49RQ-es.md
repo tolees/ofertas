@@ -22,6 +22,14 @@ Está [BRA Prior - Juego de 2 Sartenes de Aluminio + 1 Tapa Protectora  20 y 24 
 
 [![BRA Prior - Juego de 2 Sartenes de Alumi](https://m.media-amazon.com/images/I/412TA96JZlL._SL200_.jpg)](https://www.amazon.es/dp/B00PLS49RQ/?tag=tolees-21)
 
+Principales características:
+
+- Apta para todo tipo de cocinas, incluido inducción
+- Aluminio fundido
+- Recubrimiento antiadherente de alta calidad tricapa Teflon Classic sin PFOA
+- Mango ergonómico y apilable
+- Fondo difusor uniforme de gran eficiencia (Save energy system)
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00PLS49RQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

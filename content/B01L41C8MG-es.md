@@ -22,6 +22,9 @@ Ahora mismo tienes [Havaianas Origine Iii  Alpargatas para Unisex Adulto  Negro 
 
 [![Havaianas Origine Iii  Alpargatas para U](https://images-eu.ssl-images-amazon.com/images/I/41DJTcMawDL._SL200_.jpg)](https://www.amazon.es/dp/B01L41C8MG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01L41C8MG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [El Ron Prohibido 12 Years Old Solera Blended Mexican Rum - 3 Paquetes de 
 
 [![El Ron Prohibido 12 Years Old Solera Ble](https://images-eu.ssl-images-amazon.com/images/I/418AABIwx1L._SL200_.jpg)](https://www.amazon.es/dp/B07DCXPVGH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DCXPVGH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

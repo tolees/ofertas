@@ -22,6 +22,9 @@ Está [Reebok Instalite Run  Zapatillas de Running para Mujer  Gris  Meteor Grey
 
 [![Reebok Instalite Run  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/41qCgupONeL._SL200_.jpg)](https://www.amazon.es/dp/B073FMZQNT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073FMZQNT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

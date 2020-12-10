@@ -22,6 +22,9 @@ Tienes [TFA 40.2005  110 x 110 x 140 mm  180 g - Termómetro](https://www.amazon
 
 [![TFA 40.2005  110 x 110 x 140 mm  180 g -](https://images-eu.ssl-images-amazon.com/images/I/41X592KtTxL._SL200_.jpg)](https://www.amazon.es/dp/B000EOQ9SY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000EOQ9SY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Tokidoki 10 Function Silicone Estimulador Vibrador del Clít
 
 [![Tokidoki 10 Function Silicone Estimulado](https://images-eu.ssl-images-amazon.com/images/I/412MNDciW0L._SL200_.jpg)](https://www.amazon.es/dp/B01N0D1KKF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N0D1KKF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

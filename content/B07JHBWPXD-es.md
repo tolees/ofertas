@@ -22,6 +22,9 @@ Está [Lifewit Porta Alimentos Niños Bolsa Térmica Bolsa de Almuerzo de Aislam
 
 [![Lifewit Porta Alimentos Niños Bolsa Térm](https://images-eu.ssl-images-amazon.com/images/I/510xA8ADSAL._SL200_.jpg)](https://www.amazon.es/dp/B07JHBWPXD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JHBWPXD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

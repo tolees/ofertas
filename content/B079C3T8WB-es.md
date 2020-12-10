@@ -22,6 +22,9 @@ Tienes [HUGO San Bastio  suéter para Hombre  Gris  Medium Grey 032  XX-Large](h
 
 [![HUGO San Bastio  suéter para Hombre  Gri](https://images-eu.ssl-images-amazon.com/images/I/41jjmAvVksL._SL200_.jpg)](https://www.amazon.es/dp/B079C3T8WB/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079C3T8WB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

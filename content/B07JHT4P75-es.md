@@ -22,6 +22,9 @@ Ahora mismo tienes [Formulaone Universal Car Dashboard Magic Anti-Slip Mat Antid
 
 [![Formulaone Universal Car Dashboard Magic](https://images-eu.ssl-images-amazon.com/images/I/410FE8mEnGL._SL200_.jpg)](https://www.amazon.es/dp/B07JHT4P75/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JHT4P75/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

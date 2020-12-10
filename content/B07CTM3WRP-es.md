@@ -22,6 +22,9 @@ Está [Under Armour UA Magnetico Select FG Jr  Botas de fútbol Unisex Niños  N
 
 [![Under Armour UA Magnetico Select FG Jr  ](https://images-eu.ssl-images-amazon.com/images/I/41ZT4eWGU9L._SL200_.jpg)](https://www.amazon.es/dp/B07CTM3WRP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CTM3WRP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

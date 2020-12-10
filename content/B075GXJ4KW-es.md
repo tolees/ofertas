@@ -22,6 +22,9 @@ Está [Camper Peu Pista  Zapatillas altas para Mujer  Negro  Black 001   36 EU](
 
 [![Camper Peu Pista  Zapatillas altas para ](https://images-eu.ssl-images-amazon.com/images/I/31CEwEmNMTL._SL200_.jpg)](https://www.amazon.es/dp/B075GXJ4KW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075GXJ4KW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

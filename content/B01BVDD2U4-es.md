@@ -22,6 +22,9 @@ Está [EasyToys Vibe Collection ET265PNK Pink Charm - 284 gr](https://www.amazon
 
 [![EasyToys Vibe Collection ET265PNK Pink C](https://images-eu.ssl-images-amazon.com/images/I/31m%2BDUITCOL._SL200_.jpg)](https://www.amazon.es/dp/B01BVDD2U4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BVDD2U4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Intenso 4111156 - DVD+R  16x  4.7 GB](https://www.amazon.es/dp/B000OIFT0
 
 [![Intenso 4111156 - DVD+R  16x  4.7 GB](https://images-eu.ssl-images-amazon.com/images/I/41D8iqY3NsL._SL200_.jpg)](https://www.amazon.es/dp/B000OIFT0Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000OIFT0Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Vila Clothes Viril L/s V-Neck Knit Top-Noos suéter  Verde  Pine Grove De
 
 [![Vila Clothes Viril L/s V-Neck Knit Top-N](https://images-eu.ssl-images-amazon.com/images/I/41vy9VrBd7L._SL200_.jpg)](https://www.amazon.es/dp/B071R8TZQS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071R8TZQS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

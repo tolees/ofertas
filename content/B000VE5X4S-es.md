@@ -22,6 +22,9 @@ Tienes [Casio Reloj Digital para Hombre de Cuarzo con Correa en Resina G-7700-1E
 
 [![Casio Reloj Digital para Hombre de Cuarz](https://images-eu.ssl-images-amazon.com/images/I/51dVdAxCZCL._SL200_.jpg)](https://www.amazon.es/dp/B000VE5X4S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B000VE5X4S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

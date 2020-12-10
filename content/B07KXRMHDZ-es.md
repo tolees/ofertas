@@ -22,6 +22,9 @@ Está [G-STAR RAW Classic Trunk 3 Pack Bañador  Negro ao/dk Port Red/Legion Blu
 
 [![G-STAR RAW Classic Trunk 3 Pack Bañador ](https://images-eu.ssl-images-amazon.com/images/I/41iAB0Y2wnL._SL200_.jpg)](https://www.amazon.es/dp/B07KXRMHDZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KXRMHDZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

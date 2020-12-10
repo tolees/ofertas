@@ -22,6 +22,9 @@ Está [Estilo Hollywood Luces de Espejo de Tocador LED Kit con 10 bombillas regu
 
 [![Estilo Hollywood Luces de Espejo de Toca](https://images-eu.ssl-images-amazon.com/images/I/51FHJ-TqGOL._SL200_.jpg)](https://www.amazon.es/dp/B07DYM6XJK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DYM6XJK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

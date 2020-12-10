@@ -22,6 +22,9 @@ Está [Colchón Viscografeno Imperial Deluxe 30cm Todas las Medidas  105x190 ](h
 
 [![Colchón Viscografeno Imperial Deluxe 30c](https://images-eu.ssl-images-amazon.com/images/I/51-7DvolR6L._SL200_.jpg)](https://www.amazon.es/dp/B01N65PD7D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N65PD7D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

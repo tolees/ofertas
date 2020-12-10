@@ -22,6 +22,9 @@ Tienes [Wenko Jabonera  Acero Inoxidable  11 5 x 3 5 cm](https://www.amazon.es/d
 
 [![Wenko Jabonera  Acero Inoxidable  11 5 x](https://images-eu.ssl-images-amazon.com/images/I/31zF1VadDwL._SL200_.jpg)](https://www.amazon.es/dp/B001TH8JFQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B001TH8JFQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

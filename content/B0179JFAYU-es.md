@@ -22,6 +22,9 @@ Ahora mismo tienes [Parrot BEBOP 2 - Dron cuadricóptero  Full HD 1080P  14 Mpx 
 
 [![Parrot BEBOP 2 - Dron cuadricóptero  Ful](https://images-eu.ssl-images-amazon.com/images/I/41oYQQTK6BL._SL200_.jpg)](https://www.amazon.es/dp/B0179JFAYU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0179JFAYU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

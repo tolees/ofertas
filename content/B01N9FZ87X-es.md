@@ -22,6 +22,9 @@ Está [Under Armour UA W Rapid  Zapatillas de Entrenamiento para Mujer  Negro  B
 
 [![Under Armour UA W Rapid  Zapatillas de E](https://images-eu.ssl-images-amazon.com/images/I/4119DjpZQOL._SL200_.jpg)](https://www.amazon.es/dp/B01N9FZ87X/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N9FZ87X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

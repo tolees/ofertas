@@ -22,6 +22,9 @@ Tienes [Puma Icra Trainer SD Zapatillas  Unisex adulto  Negro  Black-white   47 
 
 [![Puma Icra Trainer SD Zapatillas  Unisex ](https://images-eu.ssl-images-amazon.com/images/I/41jU5SC51WL._SL200_.jpg)](https://www.amazon.es/dp/B015OJSDWS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015OJSDWS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

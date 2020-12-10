@@ -22,6 +22,9 @@ Está [BOSS Mooneye Bañador  Azul  Navy 413   Large para Hombre](https://www.am
 
 [![BOSS Mooneye Bañador  Azul  Navy 413   L](https://images-eu.ssl-images-amazon.com/images/I/41Dv8CUeTAL._SL200_.jpg)](https://www.amazon.es/dp/B07KGFN9QV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KGFN9QV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

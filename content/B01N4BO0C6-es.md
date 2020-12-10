@@ -22,6 +22,9 @@ Ahora mismo tienes [Britax Römer Advansafix III SICT  Silla de coche grupo 1/2/
 
 [![Britax Römer Advansafix III SICT  Silla ](https://images-eu.ssl-images-amazon.com/images/I/51o-tbszuhL._SL200_.jpg)](https://www.amazon.es/dp/B01N4BO0C6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N4BO0C6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

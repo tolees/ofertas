@@ -22,6 +22,9 @@ Tienes [TECNOCOLCHÓN Colchón Viscoelástico Visco Clinic 150 x 200 cm. y 20 cm
 
 [![TECNOCOLCHÓN Colchón Viscoelástico Visco](https://images-eu.ssl-images-amazon.com/images/I/51XaAYP5VoL._SL200_.jpg)](https://www.amazon.es/dp/B07HZ2HKPF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HZ2HKPF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

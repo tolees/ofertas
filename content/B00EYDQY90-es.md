@@ -22,6 +22,9 @@ Tienes [De Longhi EO20312 Horno De Sobremesa  1300 W  20 L  4 modos de función 
 
 [![De Longhi EO20312 Horno De Sobremesa  13](https://images-eu.ssl-images-amazon.com/images/I/418iDj09HWL._SL200_.jpg)](https://www.amazon.es/dp/B00EYDQY90/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00EYDQY90/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

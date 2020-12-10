@@ -22,6 +22,9 @@ Está [Reebok Trainflex Lite  Zapatillas de Deporte para Mujer  Gris  Cloud Grey
 
 [![Reebok Trainflex Lite  Zapatillas de Dep](https://images-eu.ssl-images-amazon.com/images/I/41KHT5HGiNL._SL200_.jpg)](https://www.amazon.es/dp/B073RJXKPD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RJXKPD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

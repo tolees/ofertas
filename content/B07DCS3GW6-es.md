@@ -22,6 +22,9 @@ Está [CRZ YOGA Mujer Naked Feeling Deportivos 7/8 Leggings Yoga Fitness Pantalo
 
 [![CRZ YOGA Mujer Naked Feeling Deportivos ](https://images-eu.ssl-images-amazon.com/images/I/318J5heazsL._SL200_.jpg)](https://www.amazon.es/dp/B07DCS3GW6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DCS3GW6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Havaianas Origine Iii  Alpargatas para Unisex Adulto  Verde  Green   39 
 
 [![Havaianas Origine Iii  Alpargatas para U](https://images-eu.ssl-images-amazon.com/images/I/41owewqdpiL._SL200_.jpg)](https://www.amazon.es/dp/B01L41EBGM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01L41EBGM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

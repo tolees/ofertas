@@ -22,6 +22,9 @@ Está [No Label 5388040 Felpudo 50 x 25 cm – 100% Fibra de Coco – Cam
 
 [![No Label 5388040 Felpudo 50 x 25 cm – 10](https://images-eu.ssl-images-amazon.com/images/I/416uVbGgXYL._SL200_.jpg)](https://www.amazon.es/dp/B06Y1PTZDX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B06Y1PTZDX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

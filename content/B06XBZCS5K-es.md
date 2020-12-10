@@ -22,6 +22,9 @@ Ahora mismo tienes [MYMAHDI Reproductor de MP3 portátil de 8GB  ampliable a 12
 
 [![MYMAHDI Reproductor de MP3 portátil de 8](https://images-eu.ssl-images-amazon.com/images/I/51O0RP152KL._SL200_.jpg)](https://www.amazon.es/dp/B06XBZCS5K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XBZCS5K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Berlei - Sujetador con Bordados para Mujer  Talla 90C  Color Negro](http
 
 [![Berlei - Sujetador con Bordados para Muj](https://images-eu.ssl-images-amazon.com/images/I/41IlN5wM2FL._SL200_.jpg)](https://www.amazon.es/dp/B00FJ0HYY6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00FJ0HYY6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

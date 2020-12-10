@@ -22,6 +22,9 @@ Está [Real Feel Deluxe Vibrador Clásico Negro - 649 gr](https://www.amazon.es/
 
 [![Real Feel Deluxe Vibrador Clásico Negro ](https://images-eu.ssl-images-amazon.com/images/I/31hl%2BkEzYTL._SL200_.jpg)](https://www.amazon.es/dp/B00IUL1UKU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00IUL1UKU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

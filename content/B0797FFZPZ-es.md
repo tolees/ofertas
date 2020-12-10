@@ -22,6 +22,9 @@ Ahora mismo tienes [Sony Xperia L2 - Smartphone de 5.2"  Octa Core 1.45 GHz  RAM
 
 [![Sony Xperia L2 - Smartphone de 5.2"  Oct](https://images-eu.ssl-images-amazon.com/images/I/41XqM-xjZSL._SL200_.jpg)](https://www.amazon.es/dp/B0797FFZPZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0797FFZPZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

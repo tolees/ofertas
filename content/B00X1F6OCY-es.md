@@ -22,6 +22,9 @@ Está [Kaporal Ricky - Botas para Mujer  Color Negro  Noir   Talla 40](https://w
 
 [![Kaporal Ricky - Botas para Mujer  Color ](https://images-eu.ssl-images-amazon.com/images/I/41K20vULu-L._SL200_.jpg)](https://www.amazon.es/dp/B00X1F6OCY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00X1F6OCY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

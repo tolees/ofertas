@@ -22,6 +22,9 @@ Está [Mizuno Ezrun  Zapatillas de Running para Mujer  Rojo  Fierycoral/Ombreblu
 
 [![Mizuno Ezrun  Zapatillas de Running para](https://images-eu.ssl-images-amazon.com/images/I/41vmjHTCb7L._SL200_.jpg)](https://www.amazon.es/dp/B07D2VW4GT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D2VW4GT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

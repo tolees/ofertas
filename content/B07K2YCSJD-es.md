@@ -22,6 +22,9 @@ Tienes [Longruner Arduino Mega 2560 Board Module para Arduino UNO R3 Pantalla TF
 
 [![Longruner Arduino Mega 2560 Board Module](https://images-eu.ssl-images-amazon.com/images/I/51LZSBzBHbL._SL200_.jpg)](https://www.amazon.es/dp/B07K2YCSJD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K2YCSJD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Cbx Misu - Silla de paseo  incluye cubierta para lluvia  desde el nacimie
 
 [![Cbx Misu - Silla de paseo  incluye cubie](https://images-eu.ssl-images-amazon.com/images/I/41O3AzB3zrL._SL200_.jpg)](https://www.amazon.es/dp/B0793JSMMY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0793JSMMY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

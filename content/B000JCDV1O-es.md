@@ -22,6 +22,9 @@ Está [Calvin Klein 10662 - Agua de colonia  30 ml](https://www.amazon.es/dp/B00
 
 [![Calvin Klein 10662 - Agua de colonia  30](https://images-eu.ssl-images-amazon.com/images/I/41RvuRlXVlL._SL200_.jpg)](https://www.amazon.es/dp/B000JCDV1O/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B000JCDV1O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

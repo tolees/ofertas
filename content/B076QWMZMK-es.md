@@ -22,6 +22,9 @@ Está [Under Armour UA Rapid  Zapatillas de Running para Hombre  Rojo  Dark Maro
 
 [![Under Armour UA Rapid  Zapatillas de Run](https://images-eu.ssl-images-amazon.com/images/I/417B13agXUL._SL200_.jpg)](https://www.amazon.es/dp/B076QWMZMK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076QWMZMK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

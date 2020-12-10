@@ -22,6 +22,9 @@ Tienes [Lenovo Ideapad 320-15AST - Ordenador Portátil DE 15.6" HD  AMD E2-9000 
 
 [![Lenovo Ideapad 320-15AST - Ordenador Por](https://images-eu.ssl-images-amazon.com/images/I/41GTFK13jyL._SL200_.jpg)](https://www.amazon.es/dp/B07HS3M11Q/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07HS3M11Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

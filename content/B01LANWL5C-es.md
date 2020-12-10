@@ -22,6 +22,9 @@ Tienes [CASTELLANISIMOS C00100 - Mocasín de cuero para hombre  Burdeos 40 EU](h
 
 [![CASTELLANISIMOS C00100 - Mocasín de cuer](https://images-eu.ssl-images-amazon.com/images/I/41mW5SxXCeL._SL200_.jpg)](https://www.amazon.es/dp/B01LANWL5C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LANWL5C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

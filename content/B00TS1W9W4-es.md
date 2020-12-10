@@ -22,6 +22,9 @@ Ahora mismo tienes [Hummel HUMMEL Crosslite - Zapatillas Deportivas para Interio
 
 [![Hummel HUMMEL Crosslite - Zapatillas Dep](https://images-eu.ssl-images-amazon.com/images/I/41CC4wauCQL._SL200_.jpg)](https://www.amazon.es/dp/B00TS1W9W4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00TS1W9W4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

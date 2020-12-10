@@ -22,6 +22,9 @@ Ahora mismo tienes [Gant Barstripe Pique Rugger  Polo Hombre  Gris  Grey Melange
 
 [![Gant Barstripe Pique Rugger  Polo Hombre](https://images-eu.ssl-images-amazon.com/images/I/41Vg%2BrL1TYL._SL200_.jpg)](https://www.amazon.es/dp/B07KPQ7YQC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KPQ7YQC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

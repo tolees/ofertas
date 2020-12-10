@@ -22,6 +22,9 @@ Está [Reebok Bs7010  Zapatillas de Running para Mujer  Morado  HS Shadow/Lilac 
 
 [![Reebok Bs7010  Zapatillas de Running par](https://images-eu.ssl-images-amazon.com/images/I/41mtsueClRL._SL200_.jpg)](https://www.amazon.es/dp/B073RHXLSM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RHXLSM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

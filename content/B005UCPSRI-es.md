@@ -22,6 +22,9 @@ Ahora mismo tienes [Canon 729 Bk Cartucho de toner original Negro para Impresora
 
 [![Canon 729 Bk Cartucho de toner original ](https://images-eu.ssl-images-amazon.com/images/I/41XIGlKYwkL._SL200_.jpg)](https://www.amazon.es/dp/B005UCPSRI/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B005UCPSRI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

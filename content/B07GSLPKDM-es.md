@@ -22,6 +22,9 @@ Está [CUBOT P20 4G Smartphone Móviles Libres Baratos Android 8.0 LTE Pantalla 
 
 [![CUBOT P20 4G Smartphone Móviles Libres B](https://images-eu.ssl-images-amazon.com/images/I/515qT7BCnYL._SL200_.jpg)](https://www.amazon.es/dp/B07GSLPKDM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GSLPKDM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [New Balance ML373  Zapatillas para Hombre  Azul  Navy   38 EU](https://ww
 
 [![New Balance ML373  Zapatillas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/412n81BWqcL._SL200_.jpg)](https://www.amazon.es/dp/B01M6VZKPJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01M6VZKPJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Curren Reloj de Pulsera de Cuero  Cuarzo analógico  diseño clásico de
 
 [![Curren Reloj de Pulsera de Cuero  Cuarzo](https://images-eu.ssl-images-amazon.com/images/I/51hN2TNM97L._SL200_.jpg)](https://www.amazon.es/dp/B079KFVW2X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B079KFVW2X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

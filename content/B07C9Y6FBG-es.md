@@ -22,6 +22,9 @@ Está [Pilas Recargables AAA POWEROWL 1000mAh Alta Capacidad 1.2V Precarga Ni-MH
 
 [![Pilas Recargables AAA POWEROWL 1000mAh A](https://images-eu.ssl-images-amazon.com/images/I/51qIFhJto1L._SL200_.jpg)](https://www.amazon.es/dp/B07C9Y6FBG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C9Y6FBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

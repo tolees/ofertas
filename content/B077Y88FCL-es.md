@@ -22,6 +22,9 @@ Tienes [HUGO Gennar_sz35  Cinturón para Hombre  Marrón  Dark Brown 202   130 c
 
 [![HUGO Gennar_sz35  Cinturón para Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/41BQkfrLJfL._SL200_.jpg)](https://www.amazon.es/dp/B077Y88FCL/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B077Y88FCL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

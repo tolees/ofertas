@@ -22,6 +22,9 @@ Está [Garmin Vivosmart 4 Pulsera de Actividad  Granate  S/M](https://www.amazon
 
 [![Garmin Vivosmart 4 Pulsera de Actividad ](https://images-eu.ssl-images-amazon.com/images/I/31WORNdSj6L._SL200_.jpg)](https://www.amazon.es/dp/B07G9ZRVHP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G9ZRVHP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

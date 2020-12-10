@@ -22,6 +22,9 @@ Tienes [Puma 231011001  Calcetines Unisex Adulto  Multicolor  460   35-38](https
 
 [![Puma 231011001  Calcetines Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/51AXn%2BmoJ4L._SL200_.jpg)](https://www.amazon.es/dp/B00KHJYMTO/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00KHJYMTO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

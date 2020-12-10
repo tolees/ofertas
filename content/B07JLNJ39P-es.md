@@ -22,6 +22,9 @@ Está [ZD Paños de Cocina Rizo 100% Algodón con Dibujo Bordado  Pack 6 Toallas
 
 [![ZD Paños de Cocina Rizo 100% Algodón con](https://images-eu.ssl-images-amazon.com/images/I/51WYcCsb4zL._SL200_.jpg)](https://www.amazon.es/dp/B07JLNJ39P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JLNJ39P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

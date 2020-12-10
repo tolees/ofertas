@@ -22,6 +22,9 @@ Está [Adidas Solar Lt Trainer M  Zapatillas de Deporte para Hombre  000  40 EU]
 
 [![Adidas Solar Lt Trainer M  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41LTvzirHiL._SL200_.jpg)](https://www.amazon.es/dp/B07KSWWYP3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KSWWYP3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

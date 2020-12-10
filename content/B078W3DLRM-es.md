@@ -22,6 +22,9 @@ Tienes [Vans Chauffeur SF  Zapatillas Unisex Adulto  Azul  Dress Blues/Gum Fs1  
 
 [![Vans Chauffeur SF  Zapatillas Unisex Adu](https://images-eu.ssl-images-amazon.com/images/I/417m-Xnz1mL._SL200_.jpg)](https://www.amazon.es/dp/B078W3DLRM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078W3DLRM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

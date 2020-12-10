@@ -22,6 +22,9 @@ Está [DVR Kit de Vigilancia  FLOUREON CCTV Seguridad Sistema de DVR 4CH 5MP Vid
 
 [![DVR Kit de Vigilancia  FLOUREON CCTV Seg](https://images-eu.ssl-images-amazon.com/images/I/41%2BJBz-po3L._SL200_.jpg)](https://www.amazon.es/dp/B07HVXWNGD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HVXWNGD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

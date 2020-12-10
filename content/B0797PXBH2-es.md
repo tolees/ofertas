@@ -22,6 +22,9 @@ Está [Puma Liga Sideline Poly Core Jacket  Niños  Electric Blue Lemonade/White
 
 [![Puma Liga Sideline Poly Core Jacket  Niñ](https://images-eu.ssl-images-amazon.com/images/I/41qgu9%2BnS1L._SL200_.jpg)](https://www.amazon.es/dp/B0797PXBH2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0797PXBH2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

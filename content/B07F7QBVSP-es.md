@@ -22,6 +22,9 @@ Ahora mismo tienes [Hajo Pullover  suéter para Mujer   Silber 105   52  Talla d
 
 [![Hajo Pullover  suéter para Mujer   Silbe](https://images-eu.ssl-images-amazon.com/images/I/41un1GKcTgL._SL200_.jpg)](https://www.amazon.es/dp/B07F7QBVSP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F7QBVSP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

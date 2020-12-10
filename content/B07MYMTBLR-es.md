@@ -22,6 +22,9 @@ Está [Verdaderos Auriculares inalámbricos Bluetooth V5.0 para iPad iPhone XS M
 
 [![Verdaderos Auriculares inalámbricos Blue](https://images-eu.ssl-images-amazon.com/images/I/31xXB0E6i2L._SL200_.jpg)](https://www.amazon.es/dp/B07MYMTBLR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MYMTBLR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

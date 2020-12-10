@@ -22,6 +22,9 @@ Tienes [Kappa Meseta  Zapatillas Unisex Adulto   Rosa/White 2110   36 EU](https:
 
 [![Kappa Meseta  Zapatillas Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/41WKhl98KbL._SL200_.jpg)](https://www.amazon.es/dp/B07D4T2W8S/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D4T2W8S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

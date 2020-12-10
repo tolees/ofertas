@@ -22,6 +22,9 @@ Está [ELINKUME LED Bolas de algodón luces de hadas  20 LEDs 10 8 pies  Operado
 
 [![ELINKUME LED Bolas de algodón luces de h](https://images-eu.ssl-images-amazon.com/images/I/61AZRDXtE2L._SL200_.jpg)](https://www.amazon.es/dp/B072WPTGT4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072WPTGT4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

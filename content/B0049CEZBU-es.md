@@ -22,6 +22,9 @@ Está [Bering Ceramic - Reloj analógico de caballero de cuarzo con correa de pi
 
 [![Bering Ceramic - Reloj analógico de caba](https://images-eu.ssl-images-amazon.com/images/I/31o2zYzBVkL._SL200_.jpg)](https://www.amazon.es/dp/B0049CEZBU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0049CEZBU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

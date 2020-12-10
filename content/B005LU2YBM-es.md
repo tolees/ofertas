@@ -22,6 +22,9 @@ Está [Walk on Water Bogart 15" 38 1 cm  15"  Bandolera Marrón - Funda  Bandole
 
 [![Walk on Water Bogart 15" 38 1 cm  15"  B](https://images-eu.ssl-images-amazon.com/images/I/41wDdWqW%2BOL._SL200_.jpg)](https://www.amazon.es/dp/B005LU2YBM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B005LU2YBM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

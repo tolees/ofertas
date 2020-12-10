@@ -22,6 +22,9 @@ Está [Monitor](https://www.amazon.es/dp/B07LG5V7QD/?tag=tolees-21) con 68.76 de
 
 [![Monitor](https://images-eu.ssl-images-amazon.com/images/I/41YqdOnDtML._SL200_.jpg)](https://www.amazon.es/dp/B07LG5V7QD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07LG5V7QD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Clarks Un Loop  Mocasines Mujer  Negro  Black Leather   37 EU](https://w
 
 [![Clarks Un Loop  Mocasines Mujer  Negro  ](https://images-eu.ssl-images-amazon.com/images/I/41Aa1hoLsjL._SL200_.jpg)](https://www.amazon.es/dp/B002SNAT58/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B002SNAT58/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

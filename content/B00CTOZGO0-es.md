@@ -22,6 +22,9 @@ Tienes [Deyard electrónica dinamómetro la Fuerza de Agarre de la Mano del medi
 
 [![Deyard electrónica dinamómetro la Fuerza](https://images-eu.ssl-images-amazon.com/images/I/41Zw%2BOJE7ML._SL200_.jpg)](https://www.amazon.es/dp/B00CTOZGO0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00CTOZGO0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

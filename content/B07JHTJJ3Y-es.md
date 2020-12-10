@@ -22,6 +22,9 @@ Está [Puma Campus Reporter PU Bolsa Deporte  Unisex Adulto  Elderberry Silver/M
 
 [![Puma Campus Reporter PU Bolsa Deporte  U](https://images-eu.ssl-images-amazon.com/images/I/41Gp60b6iCL._SL200_.jpg)](https://www.amazon.es/dp/B07JHTJJ3Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JHTJJ3Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

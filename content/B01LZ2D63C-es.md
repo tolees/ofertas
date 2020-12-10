@@ -22,6 +22,9 @@ Tienes [Samsonite Uplite Duffle/WH 55 cm Bolsa de Viaje  68.5 litros  Color Rojo
 
 [![Samsonite Uplite Duffle/WH 55 cm Bolsa d](https://images-eu.ssl-images-amazon.com/images/I/41917zGGkNL._SL200_.jpg)](https://www.amazon.es/dp/B01LZ2D63C/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LZ2D63C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

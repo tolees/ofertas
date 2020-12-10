@@ -22,6 +22,9 @@ Tienes [Diadora Game Metallic  Zapatillas para Hombre  Negro  Nero/Argento   39 
 
 [![Diadora Game Metallic  Zapatillas para H](https://images-eu.ssl-images-amazon.com/images/I/41JN-qbX67L._SL200_.jpg)](https://www.amazon.es/dp/B073D8HMKF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073D8HMKF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

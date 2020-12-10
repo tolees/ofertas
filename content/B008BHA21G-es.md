@@ -22,6 +22,9 @@ Ahora mismo tienes [Spalding Bekleidung Teamsport MVP Shorts - Pantalones cortos
 
 [![Spalding Bekleidung Teamsport MVP Shorts](https://images-eu.ssl-images-amazon.com/images/I/41oRbU0JlFL._SL200_.jpg)](https://www.amazon.es/dp/B008BHA21G/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B008BHA21G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

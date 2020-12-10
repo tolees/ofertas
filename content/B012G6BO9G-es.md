@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger - pendientes para mujer Classic Signature  acero - 270075
 
 [![Tommy Hilfiger - pendientes para mujer C](https://images-eu.ssl-images-amazon.com/images/I/41GajJv80kL._SL200_.jpg)](https://www.amazon.es/dp/B012G6BO9G/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B012G6BO9G/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

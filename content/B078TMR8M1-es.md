@@ -22,6 +22,9 @@ Tienes [adidas Gazelle J  Zapatillas de Gimnasia Unisex Niños  Rojo Collegiate 
 
 [![adidas Gazelle J  Zapatillas de Gimnasia](https://images-eu.ssl-images-amazon.com/images/I/51qskDUDPwL._SL200_.jpg)](https://www.amazon.es/dp/B078TMR8M1/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078TMR8M1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

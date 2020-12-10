@@ -22,6 +22,9 @@ Ahora mismo tienes [EMNT Batería para iPhone 6s 2250 mAh  Reemplazo con una May
 
 [![EMNT Batería para iPhone 6s 2250 mAh  Re](https://images-eu.ssl-images-amazon.com/images/I/418MdE9xHvL._SL200_.jpg)](https://www.amazon.es/dp/B07RLK1NYP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07RLK1NYP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

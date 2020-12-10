@@ -22,6 +22,9 @@ Está [Hauck Rapid 4 - Sillita compacta y deportiva  de 0 meses a 25 kg  manilla
 
 [![Hauck Rapid 4 - Sillita compacta y depor](https://images-eu.ssl-images-amazon.com/images/I/41I66Z1F6-L._SL200_.jpg)](https://www.amazon.es/dp/B01LRUWB9E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LRUWB9E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

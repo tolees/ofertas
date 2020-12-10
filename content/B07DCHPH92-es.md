@@ -22,6 +22,9 @@ Tienes [Nike Jr Superfly 6 Club TF  Zapatillas de Fútbol Unisex Niños  Gris  W
 
 [![Nike Jr Superfly 6 Club TF  Zapatillas d](https://images-eu.ssl-images-amazon.com/images/I/41xvYw1u-FL._SL200_.jpg)](https://www.amazon.es/dp/B07DCHPH92/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DCHPH92/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

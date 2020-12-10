@@ -22,6 +22,9 @@ Tienes [Brandit 9153-Pantalones Cortos de baño premamá Hombre  Hibiscus 158  X
 
 [![Brandit 9153-Pantalones Cortos de baño p](https://images-eu.ssl-images-amazon.com/images/I/41CcKpajR8L._SL200_.jpg)](https://www.amazon.es/dp/B01MTLO2QI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MTLO2QI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [AmazonBasics - Maleta blanda con ruedas giratorias  66.5 cm  Negro](https
 
 [![AmazonBasics - Maleta blanda con ruedas ](https://images-eu.ssl-images-amazon.com/images/I/310QnDB3yTL._SL200_.jpg)](https://www.amazon.es/dp/B072F91DNR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072F91DNR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

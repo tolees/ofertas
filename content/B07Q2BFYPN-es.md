@@ -22,6 +22,9 @@ Tienes [Zagzog Auriculares Bluetooth Inalámbricos  Auriculares Inalambricos Blu
 
 [![Zagzog Auriculares Bluetooth Inalámbrico](https://images-eu.ssl-images-amazon.com/images/I/41MqQ1HksaL._SL200_.jpg)](https://www.amazon.es/dp/B07Q2BFYPN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07Q2BFYPN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

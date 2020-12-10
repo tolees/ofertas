@@ -22,6 +22,9 @@ Tienes [Radiant Reloj analogico para Hombre de Cuarzo con Correa en Caucho RA179
 
 [![Radiant Reloj analogico para Hombre de C](https://images-eu.ssl-images-amazon.com/images/I/41eypbs9jtL._SL200_.jpg)](https://www.amazon.es/dp/B00DEEFTBE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00DEEFTBE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

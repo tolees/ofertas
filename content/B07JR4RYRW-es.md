@@ -22,6 +22,9 @@ Ahora mismo tienes [Almohada Reposacabezas coche - Cojín Cervical Coche Ortoped
 
 [![Almohada Reposacabezas coche - Cojín Cer](https://images-eu.ssl-images-amazon.com/images/I/51cRCsnm-BL._SL200_.jpg)](https://www.amazon.es/dp/B07JR4RYRW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07JR4RYRW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [SELECTED HOMME Slhnewseason SS Polo W Noos  Hombre  Blanco B
 
 [![SELECTED HOMME Slhnewseason SS Polo W No](https://images-eu.ssl-images-amazon.com/images/I/315QJnKT8iL._SL200_.jpg)](https://www.amazon.es/dp/B077NBX3TH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077NBX3TH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

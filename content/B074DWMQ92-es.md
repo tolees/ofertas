@@ -22,6 +22,9 @@ Está [Versace 1969 Hombres Albornoz  Gris  Medium - Large](https://www.amazo
 
 [![Versace 1969 Hombres Albornoz  Gris  Med](https://images-eu.ssl-images-amazon.com/images/I/41OlVR964GL._SL200_.jpg)](https://www.amazon.es/dp/B074DWMQ92/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074DWMQ92/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

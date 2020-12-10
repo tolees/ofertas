@@ -22,6 +22,9 @@ Ahora mismo tienes [adidas Courtvantage  Zapatillas para Hombre  Rojo Mystery Ro
 
 [![adidas Courtvantage  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41V5FhDKawL._SL200_.jpg)](https://www.amazon.es/dp/B077QJLKHZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077QJLKHZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Etnies FADER 4101000203 - Zapatillas de skate de cuero para hombre  / Bl
 
 [![Etnies FADER 4101000203 - Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/31fHhsLqshL._SL200_.jpg)](https://www.amazon.es/dp/B005DB9HL4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B005DB9HL4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

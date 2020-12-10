@@ -22,6 +22,9 @@ Tienes [ProfiCook PC-UMS 1085 Batidora de Vaso y picadora de Frutas para Smoothi
 
 [![ProfiCook PC-UMS 1085 Batidora de Vaso y](https://images-eu.ssl-images-amazon.com/images/I/41vRSMua2CL._SL200_.jpg)](https://www.amazon.es/dp/B00XUJLPQQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XUJLPQQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

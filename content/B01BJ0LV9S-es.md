@@ -22,6 +22,9 @@ Está [MONRAY PASSENGER - Maletín 40 6 cm  16"   765 g  Negro](https://www.amaz
 
 [![MONRAY PASSENGER - Maletín 40 6 cm  16" ](https://images-eu.ssl-images-amazon.com/images/I/31Mt-U-ZA0L._SL200_.jpg)](https://www.amazon.es/dp/B01BJ0LV9S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01BJ0LV9S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

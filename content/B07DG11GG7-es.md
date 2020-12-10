@@ -22,6 +22,9 @@ Está [Homyl Altavoz Estéreo Inalámbrico Portátil De Rugby TF/USB Para Los Di
 
 [![Homyl Altavoz Estéreo Inalámbrico Portát](https://images-eu.ssl-images-amazon.com/images/I/41uUbROGXzL._SL200_.jpg)](https://www.amazon.es/dp/B07DG11GG7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DG11GG7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

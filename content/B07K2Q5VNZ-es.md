@@ -22,6 +22,9 @@ Ahora mismo tienes [Love Moschino Baseball Striped Trousers Pantalones   Blue/L.
 
 [![Love Moschino Baseball Striped Trousers ](https://images-eu.ssl-images-amazon.com/images/I/41DQqs4UqVL._SL200_.jpg)](https://www.amazon.es/dp/B07K2Q5VNZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K2Q5VNZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

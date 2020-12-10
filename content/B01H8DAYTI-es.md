@@ -22,6 +22,9 @@ Tienes [Skechers ON-The-GO  Zapatillas de Deporte para Hombre  WTN 44 EU](https:
 
 [![Skechers ON-The-GO  Zapatillas de Deport](https://images-eu.ssl-images-amazon.com/images/I/41QsDKWcM-L._SL200_.jpg)](https://www.amazon.es/dp/B01H8DAYTI/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01H8DAYTI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

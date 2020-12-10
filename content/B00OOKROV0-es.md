@@ -22,6 +22,9 @@ Tienes [Superga 2790Cotw Linea Up And Down  Zapatillas Unisex adulto  Rosa  C06 
 
 [![Superga 2790Cotw Linea Up And Down  Zapa](https://images-eu.ssl-images-amazon.com/images/I/41gjCt0NRhL._SL200_.jpg)](https://www.amazon.es/dp/B00OOKROV0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OOKROV0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

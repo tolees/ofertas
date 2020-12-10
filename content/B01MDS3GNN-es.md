@@ -22,6 +22,9 @@ Está [KEXIN 32GB Memoria USB 2.0 Pendrive 32GB Flash Drive Memory Stick para Co
 
 [![KEXIN 32GB Memoria USB 2.0 Pendrive 32GB](https://images-eu.ssl-images-amazon.com/images/I/41ZLGDx-m3L._SL200_.jpg)](https://www.amazon.es/dp/B01MDS3GNN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MDS3GNN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

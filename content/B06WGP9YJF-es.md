@@ -22,6 +22,9 @@ Tienes [Soggy Doggy Juego  Perro Que Moja  Giochi Preziosi Spagna GGY00001](http
 
 [![Soggy Doggy Juego  Perro Que Moja  Gioch](https://images-eu.ssl-images-amazon.com/images/I/61r6y9x3qpL._SL200_.jpg)](https://www.amazon.es/dp/B06WGP9YJF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06WGP9YJF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

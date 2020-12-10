@@ -22,6 +22,9 @@ Ahora mismo tienes [Pepe Jeans Tinker Zero Seal  Zapatillas para Hombre  Verde  
 
 [![Pepe Jeans Tinker Zero Seal  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41nDXYxVUqL._SL200_.jpg)](https://www.amazon.es/dp/B07LFKZ1XN/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07LFKZ1XN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

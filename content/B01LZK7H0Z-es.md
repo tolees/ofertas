@@ -22,6 +22,9 @@ Ahora mismo tienes [JBL 106413 - Auriculares Deportivos de botón  Color Negro](
 
 [![JBL 106413 - Auriculares Deportivos de b](https://images-eu.ssl-images-amazon.com/images/I/41ov7clBACL._SL200_.jpg)](https://www.amazon.es/dp/B01LZK7H0Z/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01LZK7H0Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

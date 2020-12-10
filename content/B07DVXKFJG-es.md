@@ -22,6 +22,9 @@ Está [DC Shoes Tonik  Zapatillas de Skateboard para Hombre  Azul  Navy/Royal Nr
 
 [![DC Shoes Tonik  Zapatillas de Skateboard](https://images-eu.ssl-images-amazon.com/images/I/41YtYY%2BT7BL._SL200_.jpg)](https://www.amazon.es/dp/B07DVXKFJG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVXKFJG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

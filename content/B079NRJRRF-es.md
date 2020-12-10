@@ -22,6 +22,9 @@ Está [TACKLIFE Bomba Sumergible  Bombas de Aguas Sucias 400W  9000 L/H  6M de I
 
 [![TACKLIFE Bomba Sumergible  Bombas de Agu](https://images-eu.ssl-images-amazon.com/images/I/41qf%2B3imaqL._SL200_.jpg)](https://www.amazon.es/dp/B079NRJRRF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079NRJRRF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

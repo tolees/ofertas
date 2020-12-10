@@ -22,6 +22,9 @@ Ahora mismo tienes [Tontarelli Set Caja de Almacenamiento 8 Uds. Arianna 4L](htt
 
 [![Tontarelli Set Caja de Almacenamiento 8 ](https://images-eu.ssl-images-amazon.com/images/I/51l%2Bo8cwBEL._SL200_.jpg)](https://www.amazon.es/dp/B00Z0ACE5O/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00Z0ACE5O/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Klipsch RSB-14 - Barra de Sonido  Negro](https://www.amazon.
 
 [![Klipsch RSB-14 - Barra de Sonido  Negro]()](https://www.amazon.es/dp/B01N5F2HHT/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N5F2HHT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

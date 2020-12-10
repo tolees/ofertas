@@ -22,6 +22,9 @@ Está [Osram Luminarias Móviles  0.4 W  Plateada  3.6 x 10.8 x 4.2 cm](https://
 
 [![Osram Luminarias Móviles  0.4 W  Platead](https://images-eu.ssl-images-amazon.com/images/I/31l7ad09Y%2BL._SL200_.jpg)](https://www.amazon.es/dp/B072JT4XJV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B072JT4XJV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

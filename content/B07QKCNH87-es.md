@@ -22,6 +22,9 @@ Está [Almohada de espuma de memoria INTEY  75 x 50 cm   almohada de viscoelást
 
 [![Almohada de espuma de memoria INTEY  75 ](https://images-eu.ssl-images-amazon.com/images/I/41vypGpoxiL._SL200_.jpg)](https://www.amazon.es/dp/B07QKCNH87/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QKCNH87/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Marco Tozzi 25054  Botas Chelsea para Mujer  Negro  Black Comb   37 EU](
 
 [![Marco Tozzi 25054  Botas Chelsea para Mu](https://images-eu.ssl-images-amazon.com/images/I/41oiNAl6YcL._SL200_.jpg)](https://www.amazon.es/dp/B0711MWQDS/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0711MWQDS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

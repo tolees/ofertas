@@ -22,6 +22,9 @@ Está [G-STAR RAW 3301.5  Pantalones Cortos Hombre  Azul  Lt Aged 424   40  Tall
 
 [![G-STAR RAW 3301.5  Pantalones Cortos Hom](https://images-eu.ssl-images-amazon.com/images/I/4116%2BM4T0nL._SL200_.jpg)](https://www.amazon.es/dp/B076VNPPWV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076VNPPWV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

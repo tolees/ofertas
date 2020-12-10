@@ -22,6 +22,9 @@ Está [Puma Oceanaire Hybrid Pantalones  Hombre   Azul Oscuro/Blanco   XL](https
 
 [![Puma Oceanaire Hybrid Pantalones  Hombre](https://images-eu.ssl-images-amazon.com/images/I/41uJyMbLWiL._SL200_.jpg)](https://www.amazon.es/dp/B0781YYMD3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0781YYMD3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Triumph Amourette Charm W Sujetador con Aros  Rosa  Pink 00bc   95B  Tall
 
 [![Triumph Amourette Charm W Sujetador con ](https://images-eu.ssl-images-amazon.com/images/I/416JBJcIz5L._SL200_.jpg)](https://www.amazon.es/dp/B07J5DS94Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J5DS94Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

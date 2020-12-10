@@ -22,6 +22,9 @@ Tienes [Kappa Speed II  Zapatillas Unisex Adulto  Gris  1410 LŽgrey/White   41 
 
 [![Kappa Speed II  Zapatillas Unisex Adulto](https://images-eu.ssl-images-amazon.com/images/I/41oNIccvI9L._SL200_.jpg)](https://www.amazon.es/dp/B015KKQOTA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015KKQOTA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

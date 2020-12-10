@@ -22,6 +22,9 @@ Ahora mismo tienes [Sony MicroVault X 3.0 - Memoria USB de 32 GB  Azul](https://
 
 [![Sony MicroVault X 3.0 - Memoria USB de 3](https://images-eu.ssl-images-amazon.com/images/I/31nPuVgd4RL._SL200_.jpg)](https://www.amazon.es/dp/B00JE5OKQM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00JE5OKQM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

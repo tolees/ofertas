@@ -22,6 +22,9 @@ Está [Jana 23600  Zapatillas para Mujer  Gris  Lt. Grey   41 EU](https://www.am
 
 [![Jana 23600  Zapatillas para Mujer  Gris ](https://images-eu.ssl-images-amazon.com/images/I/41n6b8to%2BpL._SL200_.jpg)](https://www.amazon.es/dp/B077FNM2FC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077FNM2FC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

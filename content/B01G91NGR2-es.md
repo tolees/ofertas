@@ -22,6 +22,9 @@ Está [Bound by Loving Joy Nubuck Mordaza de Bola  de Cuero  Color Marrón - 1 U
 
 [![Bound by Loving Joy Nubuck Mordaza de Bo](https://images-eu.ssl-images-amazon.com/images/I/31rWUNjmyVL._SL200_.jpg)](https://www.amazon.es/dp/B01G91NGR2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01G91NGR2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

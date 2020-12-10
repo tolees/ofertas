@@ -22,6 +22,9 @@ Está [Krups Lattespress QF Die Cast EA82FD - Cafetera Super Automáticas de 15 
 
 [![Krups Lattespress QF Die Cast EA82FD - C](https://images-eu.ssl-images-amazon.com/images/I/51Dx6yEZBrL._SL200_.jpg)](https://www.amazon.es/dp/B01JRZUTYA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01JRZUTYA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

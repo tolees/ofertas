@@ -22,6 +22,9 @@ Está [roba-kids - Cama palacio real  multicolor  roba Baumann 20330 ](https://w
 
 [![roba-kids - Cama palacio real  multicolo](https://images-eu.ssl-images-amazon.com/images/I/31dTRtNVDKL._SL200_.jpg)](https://www.amazon.es/dp/B076LYVWRQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076LYVWRQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

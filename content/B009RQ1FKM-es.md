@@ -22,6 +22,9 @@ Está [Bosch 2 609 256 561 - Disco de fieltro de pulido](https://www.amazon.es/d
 
 [![Bosch 2 609 256 561 - Disco de fieltro d](https://images-eu.ssl-images-amazon.com/images/I/3185PkQ600L._SL200_.jpg)](https://www.amazon.es/dp/B009RQ1FKM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B009RQ1FKM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

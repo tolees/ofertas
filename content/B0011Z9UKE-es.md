@@ -22,6 +22,9 @@ Ahora mismo tienes [Apli 04128 - Papel Apli camisetas blancas](https://www.amazo
 
 [![Apli 04128 - Papel Apli camisetas blanca](https://images-eu.ssl-images-amazon.com/images/I/51bMGwaJpnL._SL200_.jpg)](https://www.amazon.es/dp/B0011Z9UKE/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0011Z9UKE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

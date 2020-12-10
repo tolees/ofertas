@@ -22,6 +22,9 @@ Está [Pioneer AVIC-F160 Fijo Negro navegador - Navegador GPS  Tarjeta de memori
 
 [![Pioneer AVIC-F160 Fijo Negro navegador -](https://images-eu.ssl-images-amazon.com/images/I/41mzFLmSSAL._SL200_.jpg)](https://www.amazon.es/dp/B00JFTPT1C/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00JFTPT1C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

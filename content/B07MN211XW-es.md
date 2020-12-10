@@ -22,6 +22,9 @@ Ahora mismo tienes [MTNG Attitude 84100  Zapatillas para Hombre  Rojo  Wax Suede
 
 [![MTNG Attitude 84100  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41nloXO7-qL._SL200_.jpg)](https://www.amazon.es/dp/B07MN211XW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MN211XW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

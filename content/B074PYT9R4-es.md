@@ -22,6 +22,9 @@ Tienes [Osram Smart Mini W Pulsador  Blanco  Lote de 1](https://www.amazon.es/dp
 
 [![Osram Smart Mini W Pulsador  Blanco  Lot](https://images-eu.ssl-images-amazon.com/images/I/31JH2CpY90L._SL200_.jpg)](https://www.amazon.es/dp/B074PYT9R4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074PYT9R4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

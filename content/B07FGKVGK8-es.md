@@ -22,6 +22,9 @@ Tienes [Gioseppo 45662-P Zapatillas  Niño  Marrón  Cuero 45662-P   35 EU](http
 
 [![Gioseppo 45662-P Zapatillas  Niño  Marró](https://images-eu.ssl-images-amazon.com/images/I/41QXVKhCJQL._SL200_.jpg)](https://www.amazon.es/dp/B07FGKVGK8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FGKVGK8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

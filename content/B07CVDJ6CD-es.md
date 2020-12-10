@@ -22,6 +22,9 @@ Está [Under Armour Micro G Pursuit Se  Zapatillas de Running para Hombre  Negro
 
 [![Under Armour Micro G Pursuit Se  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41lDezL6QwL._SL200_.jpg)](https://www.amazon.es/dp/B07CVDJ6CD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CVDJ6CD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Puma Active Woven Short 9` Chándal  Hombre  Azul  Peacoat  
 
 [![Puma Active Woven Short 9` Chándal  Homb](https://images-eu.ssl-images-amazon.com/images/I/31JmQJkDQgL._SL200_.jpg)](https://www.amazon.es/dp/B07F463WFZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F463WFZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

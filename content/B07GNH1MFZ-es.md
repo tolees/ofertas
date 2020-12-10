@@ -22,6 +22,9 @@ Ahora mismo tienes [JACK & JONES Jcotop Sweat Hood  Capucha para Hombre  Negro S
 
 [![JACK & JONES Jcotop Sweat Hood  Capucha ](https://images-eu.ssl-images-amazon.com/images/I/4188CQKNWaL._SL200_.jpg)](https://www.amazon.es/dp/B07GNH1MFZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GNH1MFZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

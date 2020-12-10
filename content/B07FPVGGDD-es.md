@@ -22,6 +22,9 @@ Está [Homever Licuadora Prensado Frio  Licuadora Frutas Verduras Total con Boca
 
 [![Homever Licuadora Prensado Frio  Licuado](https://images-eu.ssl-images-amazon.com/images/I/41SYMvNb4pL._SL200_.jpg)](https://www.amazon.es/dp/B07FPVGGDD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FPVGGDD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

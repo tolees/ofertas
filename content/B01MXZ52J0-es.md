@@ -22,6 +22,9 @@ Ahora mismo tienes [Kappa Olymp  Zapatillas Unisex Adulto  Blanco  White/Black 1
 
 [![Kappa Olymp  Zapatillas Unisex Adulto  B](https://images-eu.ssl-images-amazon.com/images/I/31ETzDlR3UL._SL200_.jpg)](https://www.amazon.es/dp/B01MXZ52J0/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01MXZ52J0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Roccat Ryos MK Pro Mechanical Gaming Teclado con per-Key Illumination  E
 
 [![Roccat Ryos MK Pro Mechanical Gaming Tec](https://images-eu.ssl-images-amazon.com/images/I/41DYaiDm3nL._SL200_.jpg)](https://www.amazon.es/dp/B01F3Q86ZG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01F3Q86ZG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

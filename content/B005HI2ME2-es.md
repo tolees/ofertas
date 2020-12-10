@@ -22,6 +22,9 @@ Tienes [Plantronics CS540/A - Auriculares con micrófono para teléfonos digital
 
 [![Plantronics CS540/A - Auriculares con mi](https://images-eu.ssl-images-amazon.com/images/I/31XRXvEJg8L._SL200_.jpg)](https://www.amazon.es/dp/B005HI2ME2/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B005HI2ME2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

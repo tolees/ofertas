@@ -22,6 +22,9 @@ Está [New Balance 574  Zapatillas para Hombre  Azul  Pigment EPA   40.5 EU  Tal
 
 [![New Balance 574  Zapatillas para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/41awp6%2BDdNL._SL200_.jpg)](https://www.amazon.es/dp/B07DFR9HVS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFR9HVS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

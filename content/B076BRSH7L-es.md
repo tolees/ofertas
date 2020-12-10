@@ -22,6 +22,9 @@ Ahora mismo tienes [Only Onlnoleta L/s Lace Up Pullover Knt suéter  Azul  Plein
 
 [![Only Onlnoleta L/s Lace Up Pullover Knt ](https://images-eu.ssl-images-amazon.com/images/I/411WXQB8jpL._SL200_.jpg)](https://www.amazon.es/dp/B076BRSH7L/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B076BRSH7L/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

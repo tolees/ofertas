@@ -22,6 +22,9 @@ Está [Under Armour UA Micro G Fuel RN  Zapatillas de Entrenamiento para Hombre 
 
 [![Under Armour UA Micro G Fuel RN  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/414d1eAZr7L._SL200_.jpg)](https://www.amazon.es/dp/B01GOS30XK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GOS30XK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

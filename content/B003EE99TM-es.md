@@ -22,6 +22,9 @@ Tienes [Casio Smart Watch Armbanduhr LTP-1302SG-7A](https://www.amazon.es/dp/B00
 
 [![Casio Smart Watch Armbanduhr LTP-1302SG-](https://images-eu.ssl-images-amazon.com/images/I/41fMT54OknL._SL200_.jpg)](https://www.amazon.es/dp/B003EE99TM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003EE99TM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Medion Akoya S3409 - Ordenador portátil de 13.3" FHD  Intel Core i3-710
 
 [![Medion Akoya S3409 - Ordenador portátil ](https://images-eu.ssl-images-amazon.com/images/I/41ykhqUXETL._SL200_.jpg)](https://www.amazon.es/dp/B07BRNF5X3/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BRNF5X3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

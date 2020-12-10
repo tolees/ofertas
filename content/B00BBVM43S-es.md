@@ -22,6 +22,9 @@ Está [Beppi Casual  Mocasines para Hombre  Azul  Navy Blue   45 EU](https://www
 
 [![Beppi Casual  Mocasines para Hombre  Azu](https://images-eu.ssl-images-amazon.com/images/I/41t4wWKFx-L._SL200_.jpg)](https://www.amazon.es/dp/B00BBVM43S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00BBVM43S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

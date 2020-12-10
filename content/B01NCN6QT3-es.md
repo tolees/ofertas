@@ -22,6 +22,9 @@ Está [SANNCE Kit de seguridad Inalámbrica 4 Cámaras de vigilancia  Onvif H.26
 
 [![SANNCE Kit de seguridad Inalámbrica 4 Cá](https://images-eu.ssl-images-amazon.com/images/I/519yzQYaDFL._SL200_.jpg)](https://www.amazon.es/dp/B01NCN6QT3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCN6QT3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

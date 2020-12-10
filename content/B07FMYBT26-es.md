@@ -22,6 +22,9 @@ Tienes [Eono Essentials Mochila con cordón Ligero deportivo Sackpack Bolsa de g
 
 [![Eono Essentials Mochila con cordón Liger](https://images-eu.ssl-images-amazon.com/images/I/41kIr%2BqmO3L._SL200_.jpg)](https://www.amazon.es/dp/B07FMYBT26/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FMYBT26/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

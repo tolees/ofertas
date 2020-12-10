@@ -22,6 +22,9 @@ Tienes [Champion Socken Crew Socks Calcetines de Deporte  Blanco  35-38 Unisex](
 
 [![Champion Socken Crew Socks Calcetines de](https://images-eu.ssl-images-amazon.com/images/I/41XAlHqsKyL._SL200_.jpg)](https://www.amazon.es/dp/B00ZUGMOGC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ZUGMOGC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

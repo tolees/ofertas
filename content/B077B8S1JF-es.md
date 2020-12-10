@@ -22,6 +22,9 @@ Ahora mismo tienes [Arrancador de Coche Portatil 6000mAh 400A Jump Starter Power
 
 [![Arrancador de Coche Portatil 6000mAh 400](https://images-eu.ssl-images-amazon.com/images/I/41hTaZW65uL._SL200_.jpg)](https://www.amazon.es/dp/B077B8S1JF/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B077B8S1JF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

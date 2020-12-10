@@ -22,6 +22,9 @@ Ahora mismo tienes [Colorado Denim C940  Azul para Hombre  Azul Denim  W30L32](h
 
 [![Colorado Denim C940  Azul para Hombre  A](https://images-eu.ssl-images-amazon.com/images/I/41AW-M7C6QL._SL200_.jpg)](https://www.amazon.es/dp/B01H5IR8YU/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01H5IR8YU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

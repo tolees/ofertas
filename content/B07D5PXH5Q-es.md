@@ -22,6 +22,9 @@ Ahora mismo tienes [Merrell Bare Access Flex  Zapatillas Deportivas para Interio
 
 [![Merrell Bare Access Flex  Zapatillas Dep](https://images-eu.ssl-images-amazon.com/images/I/41UASdrVmBL._SL200_.jpg)](https://www.amazon.es/dp/B07D5PXH5Q/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D5PXH5Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

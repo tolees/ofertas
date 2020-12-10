@@ -22,6 +22,9 @@ Está [Hotter Whisper  Botas Efecto Arrugado para Mujer  Gris  Grey 048   38.5 E
 
 [![Hotter Whisper  Botas Efecto Arrugado pa](https://images-eu.ssl-images-amazon.com/images/I/41q2EAocCjL._SL200_.jpg)](https://www.amazon.es/dp/B07HM9ZPLH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07HM9ZPLH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

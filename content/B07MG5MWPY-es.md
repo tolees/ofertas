@@ -22,6 +22,9 @@ Tienes [G-Star Raw 3301 Straight  Jeans Dritto Uomo  Nero  Medium Aged 9882-071 
 
 [![G-Star Raw 3301 Straight  Jeans Dritto U](https://images-eu.ssl-images-amazon.com/images/I/31dVa-PLYKL._SL200_.jpg)](https://www.amazon.es/dp/B07MG5MWPY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MG5MWPY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

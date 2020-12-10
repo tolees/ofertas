@@ -22,6 +22,9 @@ Está [Max Factor  Maquillaje corrector  Tono: 003 Medium  Pieles Medias  - 15 m
 
 [![Max Factor  Maquillaje corrector  Tono: ](https://images-eu.ssl-images-amazon.com/images/I/314NmhEULQL._SL200_.jpg)](https://www.amazon.es/dp/B07G57CKJV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07G57CKJV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

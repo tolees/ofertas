@@ -22,6 +22,9 @@ Está [VBIGER Mujer Tartán Bufanda Caliente Mantas Pashmina Larga Enrejado Mant
 
 [![VBIGER Mujer Tartán Bufanda Caliente Man](https://images-eu.ssl-images-amazon.com/images/I/51iMKgZI0QL._SL200_.jpg)](https://www.amazon.es/dp/B07J9ZQRDJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J9ZQRDJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

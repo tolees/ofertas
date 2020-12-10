@@ -22,6 +22,9 @@ Ahora mismo tienes [Shiseido Crema Ultra Hidratante para Hombres - 50 ml](https:
 
 [![Shiseido Crema Ultra Hidratante para Hom](https://images-eu.ssl-images-amazon.com/images/I/419poOA7-PL._SL200_.jpg)](https://www.amazon.es/dp/B002B5L1AA/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B002B5L1AA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

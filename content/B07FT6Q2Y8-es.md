@@ -22,6 +22,9 @@ Ahora mismo tienes [EVERPEAKZ Cuchillo Para Chef Damasco  67 Capas de Acero Inox
 
 [![EVERPEAKZ Cuchillo Para Chef Damasco  67](https://images-eu.ssl-images-amazon.com/images/I/31stgYQcBmL._SL200_.jpg)](https://www.amazon.es/dp/B07FT6Q2Y8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FT6Q2Y8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

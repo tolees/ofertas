@@ -22,6 +22,9 @@ Tienes [BIC Velleda Pocket rotuladores de Pizarra punta media - Azul  Caja de 12
 
 [![BIC Velleda Pocket rotuladores de Pizarr](https://images-eu.ssl-images-amazon.com/images/I/512MP4njeqL._SL200_.jpg)](https://www.amazon.es/dp/B00ARAE4H8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ARAE4H8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

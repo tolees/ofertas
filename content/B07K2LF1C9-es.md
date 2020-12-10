@@ -22,6 +22,9 @@ Está [Adidas X_PLR J  Zapatillas de Deporte Unisex Adulto  000  40 EU](https://
 
 [![Adidas X_PLR J  Zapatillas de Deporte Un](https://images-eu.ssl-images-amazon.com/images/I/41uAJr1WUKL._SL200_.jpg)](https://www.amazon.es/dp/B07K2LF1C9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K2LF1C9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [adidas X Tango 18.4 in J  Zapatillas de fútbol Sala Unisex Adulto  Negb�
 
 [![adidas X Tango 18.4 in J  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/419D5iOAexL._SL200_.jpg)](https://www.amazon.es/dp/B07DTFGYH9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DTFGYH9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

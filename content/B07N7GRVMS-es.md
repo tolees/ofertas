@@ -22,6 +22,9 @@ Ahora mismo tienes [Adidas Nemeziz 18.4 in J  Botas de fútbol Unisex niño  000
 
 [![Adidas Nemeziz 18.4 in J  Botas de fútbo](https://images-eu.ssl-images-amazon.com/images/I/41z3HCfIeRL._SL200_.jpg)](https://www.amazon.es/dp/B07N7GRVMS/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07N7GRVMS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Nike Downshifter 8  TDV   Zapatillas de Running para Niños  Negro  Black
 
 [![Nike Downshifter 8  TDV   Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/41AZi21eN1L._SL200_.jpg)](https://www.amazon.es/dp/B07D8BXX37/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D8BXX37/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

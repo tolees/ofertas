@@ -22,6 +22,9 @@ Está [New Balance Fresh Foam Cruz v2 Silent Rave Pack  Zapatillas para Mujer  N
 
 [![New Balance Fresh Foam Cruz v2 Silent Ra](https://images-eu.ssl-images-amazon.com/images/I/41PnV1o59hL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ6NFXX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJ6NFXX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

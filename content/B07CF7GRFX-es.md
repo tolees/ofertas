@@ -22,6 +22,9 @@ Ahora mismo tienes [HUANUO Soporte Elevador de Monitor de Ordenador Portátil co
 
 [![HUANUO Soporte Elevador de Monitor de Or](https://images-eu.ssl-images-amazon.com/images/I/41wPjV7ndiL._SL200_.jpg)](https://www.amazon.es/dp/B07CF7GRFX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CF7GRFX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Almohadillas de Gel para Antepié  Cojines de Bola de Pie  Almohadillas d
 
 [![Almohadillas de Gel para Antepié  Cojine](https://images-eu.ssl-images-amazon.com/images/I/41K%2BK9wvkEL._SL200_.jpg)](https://www.amazon.es/dp/B07QDLTHLG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QDLTHLG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

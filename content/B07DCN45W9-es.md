@@ -22,6 +22,9 @@ Está [Nike Air Huarache Run PRM  Zapatillas de Gimnasia para Hombre  Beige  Whe
 
 [![Nike Air Huarache Run PRM  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/41NAm3e9hNL._SL200_.jpg)](https://www.amazon.es/dp/B07DCN45W9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DCN45W9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

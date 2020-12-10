@@ -22,6 +22,9 @@ Tienes [DlandHome 80 * 40 cm Ajustable Mesa de Ordenador Portatil con Ruedas Sof
 
 [![DlandHome 80 * 40 cm Ajustable Mesa de O](https://images-eu.ssl-images-amazon.com/images/I/31-5oE0nVFL._SL200_.jpg)](https://www.amazon.es/dp/B07GB2FPRN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GB2FPRN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

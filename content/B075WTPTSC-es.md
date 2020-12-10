@@ -22,6 +22,9 @@ Tienes [Versa 19501329 Sillón tapizado Rhune  89x71x72 cm  Gris y Negro   Butac
 
 [![Versa 19501329 Sillón tapizado Rhune  89](https://images-eu.ssl-images-amazon.com/images/I/51%2BXOCsHIqL._SL200_.jpg)](https://www.amazon.es/dp/B075WTPTSC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B075WTPTSC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

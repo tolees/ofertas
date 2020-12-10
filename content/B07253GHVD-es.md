@@ -22,6 +22,9 @@ Ahora mismo tienes [Tamaris 23734  Zapatillas para Mujer  Gris  Light Grey   39 
 
 [![Tamaris 23734  Zapatillas para Mujer  Gr](https://images-eu.ssl-images-amazon.com/images/I/41lCyPSVo6L._SL200_.jpg)](https://www.amazon.es/dp/B07253GHVD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07253GHVD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

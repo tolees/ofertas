@@ -22,6 +22,9 @@ Tienes [Globe Castro LYT  Mocasines para Hombre  Negro  Black/White 10046   37 E
 
 [![Globe Castro LYT  Mocasines para Hombre ](https://images-eu.ssl-images-amazon.com/images/I/31ERvZ9bFoL._SL200_.jpg)](https://www.amazon.es/dp/B01MQOO5KN/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MQOO5KN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

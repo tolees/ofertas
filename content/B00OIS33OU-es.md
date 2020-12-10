@@ -22,6 +22,9 @@ Tienes [KS Tools 515.1980 Pistola de limpieza por aire comprimido](https://www.a
 
 [![KS Tools 515.1980 Pistola de limpieza po](https://images-eu.ssl-images-amazon.com/images/I/41ai%2BiAr3ZL._SL200_.jpg)](https://www.amazon.es/dp/B00OIS33OU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00OIS33OU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

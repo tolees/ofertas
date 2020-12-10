@@ -22,6 +22,9 @@ Ahora mismo tienes [SUAOKI Mini Compresor de Aire portátil batería Recargable 
 
 [![SUAOKI Mini Compresor de Aire portátil b](https://images-eu.ssl-images-amazon.com/images/I/411zduHdkqL._SL200_.jpg)](https://www.amazon.es/dp/B07L4D69FP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07L4D69FP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

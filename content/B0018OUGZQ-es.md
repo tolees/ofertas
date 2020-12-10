@@ -22,6 +22,9 @@ Tienes [deAO Mesita Cajón de Arena y Agua con Accesorios y Tapa Protectora Acti
 
 [![deAO Mesita Cajón de Arena y Agua con Ac](https://images-eu.ssl-images-amazon.com/images/I/41Y%2B3YdvwLL._SL200_.jpg)](https://www.amazon.es/dp/B0018OUGZQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0018OUGZQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

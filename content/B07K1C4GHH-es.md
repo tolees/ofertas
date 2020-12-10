@@ -22,6 +22,9 @@ Tienes [adidas Tiro19 TR Pnt Sport Trousers  Hombre  Black/White  3XL](https://w
 
 [![adidas Tiro19 TR Pnt Sport Trousers  Hom]()](https://www.amazon.es/dp/B07K1C4GHH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K1C4GHH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

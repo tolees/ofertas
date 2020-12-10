@@ -22,6 +22,9 @@ Está [Moussel Gel Líquido Classique con Aceites Esenciales Naturales - Paquete
 
 [![Moussel Gel Líquido Classique con Aceite](https://m.media-amazon.com/images/I/41qITatNObL._SL200_.jpg)](https://www.amazon.es/dp/B077HZW65P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077HZW65P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

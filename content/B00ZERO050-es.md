@@ -22,6 +22,9 @@ Ahora mismo tienes [Superga 2790-suew - Plataforma Mujer  Azul  35 EU](https://w
 
 [![Superga 2790-suew - Plataforma Mujer  Az](https://images-eu.ssl-images-amazon.com/images/I/41NaDGI40ZL._SL200_.jpg)](https://www.amazon.es/dp/B00ZERO050/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00ZERO050/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

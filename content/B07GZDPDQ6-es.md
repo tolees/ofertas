@@ -22,6 +22,9 @@ Está [Proyector  WiMiUS Video Proyector 4200 Lúmenes Soporta Full HD 1080P Pro
 
 [![Proyector  WiMiUS Video Proyector 4200 L](https://images-eu.ssl-images-amazon.com/images/I/51VqPymMkKL._SL200_.jpg)](https://www.amazon.es/dp/B07GZDPDQ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GZDPDQ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

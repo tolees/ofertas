@@ -22,6 +22,9 @@ Está [MagiDeal Carillón de Viento de Cobre Estilo Chino Feng Shui Antiguo Camp
 
 [![MagiDeal Carillón de Viento de Cobre Est](https://images-eu.ssl-images-amazon.com/images/I/514LJvbiwCL._SL200_.jpg)](https://www.amazon.es/dp/B077JZ23JF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B077JZ23JF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

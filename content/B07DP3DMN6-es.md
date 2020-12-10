@@ -22,6 +22,9 @@ Está [Under Armour Zinger SL Polo  Mujer  Blanco White 100  XS](https://www.ama
 
 [![Under Armour Zinger SL Polo  Mujer  Blan](https://images-eu.ssl-images-amazon.com/images/I/314yhHbdQmL._SL200_.jpg)](https://www.amazon.es/dp/B07DP3DMN6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DP3DMN6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

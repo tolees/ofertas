@@ -22,6 +22,9 @@ Ahora mismo tienes [Rieker 56466  Mocasines para Mujer  Marrón  Bronze   40 EU]
 
 [![Rieker 56466  Mocasines para Mujer  Marr](https://images-eu.ssl-images-amazon.com/images/I/41vSnsWJuJL._SL200_.jpg)](https://www.amazon.es/dp/B01NBQU7TZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01NBQU7TZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

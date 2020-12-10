@@ -22,6 +22,12 @@ Ahora mismo tienes [Diablo III - Eternal Collection](https://www.amazon.es/dp/B0
 
 [![Diablo III - Eternal Collection](https://m.media-amazon.com/images/I/51T8wJVoAYL._SL200_.jpg)](https://www.amazon.es/dp/B07GS1RYP6/?tag=tolees-21)
 
+Características:
+
+- Incluye bonificaciones cosméticas exclusivas para switch, como el intimidante conjunto de armadura para transfigurar creado especialmente para el rey de la maldad, ganondorf.
+- Es compatible con todas las configuraciones del mando switch, y se puede jugar con un solo joy-con o con los dos.
+- Puedes jugar con un máximo de 4 amigos en línea, en cooperativa local, sin conexión o en la misma consola en modo cooperativa sofá.
+
 [Visítala!!!](https://www.amazon.es/dp/B07GS1RYP6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Salomon XA Pro 3D GTX  Zapatillas de Running para Hombre  Az
 
 [![Salomon XA Pro 3D GTX  Zapatillas de Run](https://images-eu.ssl-images-amazon.com/images/I/416i3wbv6lL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ7HSFR/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CZ7HSFR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

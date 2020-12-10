@@ -22,6 +22,9 @@ Está [Marco Tozzi 25032  Botas Chelsea para Mujer  Azul  Navy   36 EU](https://
 
 [![Marco Tozzi 25032  Botas Chelsea para Mu](https://images-eu.ssl-images-amazon.com/images/I/41FWWcDelLL._SL200_.jpg)](https://www.amazon.es/dp/B0714C1CSQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0714C1CSQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

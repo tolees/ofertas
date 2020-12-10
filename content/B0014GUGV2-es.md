@@ -22,6 +22,9 @@ Está [Bosch 1 618 661 000 - Cincel pala con inserción hexagonal de 28 mm x 400
 
 [![Bosch 1 618 661 000 - Cincel pala con in](https://images-eu.ssl-images-amazon.com/images/I/21Lhw4cYFyL._SL200_.jpg)](https://www.amazon.es/dp/B0014GUGV2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0014GUGV2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

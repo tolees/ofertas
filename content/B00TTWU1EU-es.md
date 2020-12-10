@@ -22,6 +22,9 @@ Está [Farmatint Gel 8N Rubio Claro. Tinte permanente. Cabello natural y color d
 
 [![Farmatint Gel 8N Rubio Claro. Tinte perm](https://images-eu.ssl-images-amazon.com/images/I/41JDxIlKKWL._SL200_.jpg)](https://www.amazon.es/dp/B00TTWU1EU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00TTWU1EU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

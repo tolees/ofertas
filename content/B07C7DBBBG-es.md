@@ -22,6 +22,9 @@ Ahora mismo tienes [oneConcept All-You-Can-Eat Horno eléctrico doble • 2 cám
 
 [![oneConcept All-You-Can-Eat Horno eléctri](https://images-eu.ssl-images-amazon.com/images/I/51xKuNDsxTL._SL200_.jpg)](https://www.amazon.es/dp/B07C7DBBBG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C7DBBBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

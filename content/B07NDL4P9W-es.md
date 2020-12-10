@@ -22,6 +22,9 @@ Ahora mismo tienes [Esprit 049ee2c010 Pantalones Cortos  Azul  Light Blue 440   
 
 [![Esprit 049ee2c010 Pantalones Cortos  Azu](https://images-eu.ssl-images-amazon.com/images/I/41OVozK660L._SL200_.jpg)](https://www.amazon.es/dp/B07NDL4P9W/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07NDL4P9W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

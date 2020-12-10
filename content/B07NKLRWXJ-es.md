@@ -22,6 +22,9 @@ Está [Prismáticos 10x42-Binoculares Profesionales HD compactos con Soporte par
 
 [![Prismáticos 10x42-Binoculares Profesiona](https://images-eu.ssl-images-amazon.com/images/I/51zOnVAwdDL._SL200_.jpg)](https://www.amazon.es/dp/B07NKLRWXJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NKLRWXJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

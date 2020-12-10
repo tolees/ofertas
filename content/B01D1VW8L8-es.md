@@ -22,6 +22,9 @@ Tienes [KangaROOS K-Vulca 5054 S  Zapatillas para Mujer  Negro  Bopink/ftwwht/sh
 
 [![KangaROOS K-Vulca 5054 S  Zapatillas par](https://images-eu.ssl-images-amazon.com/images/I/41kALWPoHsL._SL200_.jpg)](https://www.amazon.es/dp/B01D1VW8L8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01D1VW8L8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

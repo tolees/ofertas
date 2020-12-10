@@ -22,6 +22,9 @@ Ahora mismo tienes [Eferri 0JV1108  Shopper para Mujer   Beige   32x13x37 cm  W 
 
 [![Eferri 0JV1108  Shopper para Mujer   Bei](https://images-eu.ssl-images-amazon.com/images/I/41Pl0roO5nL._SL200_.jpg)](https://www.amazon.es/dp/B07CDSD6M4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CDSD6M4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

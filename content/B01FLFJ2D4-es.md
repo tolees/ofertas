@@ -22,6 +22,9 @@ Está [Under Armour Run True Heatgear Capri Leggings  Hombre  Negro  001   L](ht
 
 [![Under Armour Run True Heatgear Capri Leg](https://images-eu.ssl-images-amazon.com/images/I/31uVIPZOstL._SL200_.jpg)](https://www.amazon.es/dp/B01FLFJ2D4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01FLFJ2D4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

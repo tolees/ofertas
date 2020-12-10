@@ -22,6 +22,9 @@ Ahora mismo tienes [Nike 3Ppk Value Pack 3 Calcetines para hombre  Multicolor  N
 
 [![Nike 3Ppk Value Pack 3 Calcetines para h](https://images-eu.ssl-images-amazon.com/images/I/419VkvmmcYL._SL200_.jpg)](https://www.amazon.es/dp/B002GO0JCM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B002GO0JCM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

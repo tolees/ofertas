@@ -22,6 +22,9 @@ Está [XTI 48891  Zapatillas para Mujer  Negro  38 EU](https://www.amazon.es/dp/
 
 [![XTI 48891  Zapatillas para Mujer  Negro ](https://images-eu.ssl-images-amazon.com/images/I/41bvKFMWdpL._SL200_.jpg)](https://www.amazon.es/dp/B07JLS6JFR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JLS6JFR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

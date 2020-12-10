@@ -22,6 +22,9 @@ Está [Superga 2095- SUEU  Zapatillas de deporte Unisex  Azul  Blue Night Shadow
 
 [![Superga 2095- SUEU  Zapatillas de deport](https://images-eu.ssl-images-amazon.com/images/I/41lJivPb%2BqL._SL200_.jpg)](https://www.amazon.es/dp/B00G95Q8MO/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00G95Q8MO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

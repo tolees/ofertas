@@ -22,6 +22,9 @@ Ahora mismo tienes [hummel Diamant Glitter Jr  Zapatillas para Niñas  Rosa  Pal
 
 [![hummel Diamant Glitter Jr  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41rm9vu-zCL._SL200_.jpg)](https://www.amazon.es/dp/B07K2FJT5D/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07K2FJT5D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Asics Gel-Nimbus 20  Zapatillas de Entrenamiento para Mujer 
 
 [![Asics Gel-Nimbus 20  Zapatillas de Entre](https://images-eu.ssl-images-amazon.com/images/I/41br9Bz73wL._SL200_.jpg)](https://www.amazon.es/dp/B07D1GRRST/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D1GRRST/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

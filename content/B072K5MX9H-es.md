@@ -22,6 +22,9 @@ Ahora mismo tienes [Victoria Bota Serraje Animales  Zapatillas Unisex Niños  Be
 
 [![Victoria Bota Serraje Animales  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/51cwhEtcA-L._SL200_.jpg)](https://www.amazon.es/dp/B072K5MX9H/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B072K5MX9H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

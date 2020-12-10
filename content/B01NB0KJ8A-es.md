@@ -22,6 +22,9 @@ Tienes [Panasonic RP-NJ300BE-K - Auriculares  Inalámbrico  Dentro de oído  Bin
 
 [![Panasonic RP-NJ300BE-K - Auriculares  In](https://images-eu.ssl-images-amazon.com/images/I/31BwI9INyoL._SL200_.jpg)](https://www.amazon.es/dp/B01NB0KJ8A/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01NB0KJ8A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

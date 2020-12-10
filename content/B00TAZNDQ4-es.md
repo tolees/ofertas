@@ -22,6 +22,9 @@ Está [Hansgrohe 26824400 Crometta 100 Vario ducha de mano  4 tipos de chorro  b
 
 [![Hansgrohe 26824400 Crometta 100 Vario du](https://images-eu.ssl-images-amazon.com/images/I/31%2BfvtL-IpL._SL200_.jpg)](https://www.amazon.es/dp/B00TAZNDQ4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00TAZNDQ4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

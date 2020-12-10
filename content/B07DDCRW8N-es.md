@@ -22,6 +22,9 @@ Tienes [HYPE - Space Hues Box Bag  Mochilas Unisex adulto  Multicolor  Multi   3
 
 [![HYPE - Space Hues Box Bag  Mochilas Unis](https://images-eu.ssl-images-amazon.com/images/I/51a1QUhTouL._SL200_.jpg)](https://www.amazon.es/dp/B07DDCRW8N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DDCRW8N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

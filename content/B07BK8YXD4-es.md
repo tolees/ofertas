@@ -22,6 +22,9 @@ Está [Hellmann S Mayonesa Light - Paquete de 12 x 225 ml: Total: 2700 ml](https
 
 [![Hellmann S Mayonesa Light - Paquete de 1](https://images-eu.ssl-images-amazon.com/images/I/41xGRP82p9L._SL200_.jpg)](https://www.amazon.es/dp/B07BK8YXD4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BK8YXD4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

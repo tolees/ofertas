@@ -22,6 +22,9 @@ Tienes [Skechers Go Walk 4-Sporty Starz  Entrenadores para Niñas  Rosa  Hot Pin
 
 [![Skechers Go Walk 4-Sporty Starz  Entrena](https://images-eu.ssl-images-amazon.com/images/I/516I6MZsSvL._SL200_.jpg)](https://www.amazon.es/dp/B06XQNM93V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XQNM93V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

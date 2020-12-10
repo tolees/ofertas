@@ -22,6 +22,9 @@ Está [Sport Direct™ The Hand™ BMX Casco verde 55-58cm](https://www.amazon.e
 
 [![Sport Direct™ The Hand™ BMX Casco verde ](https://images-eu.ssl-images-amazon.com/images/I/41Yn7Kpr1WL._SL200_.jpg)](https://www.amazon.es/dp/B018GAC1MK/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B018GAC1MK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [L Oréal Paris Men Expert Gel Limpiador Carbón Magnético Hydra Energet
 
 [![L Oréal Paris Men Expert Gel Limpiador C](https://images-eu.ssl-images-amazon.com/images/I/4143wuVMs7L._SL200_.jpg)](https://www.amazon.es/dp/B00X9W9C0A/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00X9W9C0A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

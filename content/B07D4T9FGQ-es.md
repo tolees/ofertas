@@ -22,6 +22,9 @@ Ahora mismo tienes [Kappa Trooper Light Ice  Zapatillas para Niñas  Azul  Navy/
 
 [![Kappa Trooper Light Ice  Zapatillas para](https://images-eu.ssl-images-amazon.com/images/I/41iIAS2tXVL._SL200_.jpg)](https://www.amazon.es/dp/B07D4T9FGQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D4T9FGQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

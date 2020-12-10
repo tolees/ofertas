@@ -22,6 +22,9 @@ Está [StillCool Saco de dormir fácil de llevar y limpiar sábana con cierre fu
 
 [![StillCool Saco de dormir fácil de llevar](https://images-eu.ssl-images-amazon.com/images/I/51oHk44NWIL._SL200_.jpg)](https://www.amazon.es/dp/B01ICOS90S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01ICOS90S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

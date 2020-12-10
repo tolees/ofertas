@@ -22,6 +22,9 @@ Está [Sricam SP018 Cámara WiFi IP HD de Seguridad para el hogar  1080p cámara
 
 [![Sricam SP018 Cámara WiFi IP HD de Seguri](https://images-eu.ssl-images-amazon.com/images/I/41exbIWx76L._SL200_.jpg)](https://www.amazon.es/dp/B07MV42RVJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MV42RVJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

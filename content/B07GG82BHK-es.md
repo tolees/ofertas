@@ -22,6 +22,9 @@ Ahora mismo tienes [Laura Vita - 2591  Bolsos maletín Mujer  Rosa  Rs   13.0x20
 
 [![Laura Vita - 2591  Bolsos maletín Mujer ](https://images-eu.ssl-images-amazon.com/images/I/511tvbBlNGL._SL200_.jpg)](https://www.amazon.es/dp/B07GG82BHK/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GG82BHK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

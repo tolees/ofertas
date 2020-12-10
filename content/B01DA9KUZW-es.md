@@ -22,6 +22,9 @@ Está [Belino Stars - Juguetero oval de tela  30 x 45 x 27 cm  color gris](https
 
 [![Belino Stars - Juguetero oval de tela  3](https://images-eu.ssl-images-amazon.com/images/I/516bsCz0EPL._SL200_.jpg)](https://www.amazon.es/dp/B01DA9KUZW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DA9KUZW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [EZVIZ Mini Plus 1080P FHD IP Cámara de Seguridad  2.4Ghz & 5Ghz Doble B
 
 [![EZVIZ Mini Plus 1080P FHD IP Cámara de S](https://images-eu.ssl-images-amazon.com/images/I/41nJ4r6%2B47L._SL200_.jpg)](https://www.amazon.es/dp/B0756KMNBQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0756KMNBQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

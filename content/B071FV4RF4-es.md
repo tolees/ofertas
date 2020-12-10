@@ -22,6 +22,9 @@ Está [Adidas Swift Run PK W CG4134  Zapatillas de Running para Mujer  Rosa Icey
 
 [![Adidas Swift Run PK W CG4134  Zapatillas](https://images-eu.ssl-images-amazon.com/images/I/51TD610tLaL._SL200_.jpg)](https://www.amazon.es/dp/B071FV4RF4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071FV4RF4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Safety 1st SOFT DREAMS  Red lines  - Cuna de viaje  0-3 años  15kg  colo
 
 [![Safety 1st SOFT DREAMS  Red lines  - Cun](https://images-eu.ssl-images-amazon.com/images/I/41hR0U10ZPL._SL200_.jpg)](https://www.amazon.es/dp/B01LRRZMJI/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LRRZMJI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

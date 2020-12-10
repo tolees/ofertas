@@ -22,6 +22,9 @@ Está [DoreenBow - Perchero para Abrigos en la Puerta con 5 Ganchos para Ropa  s
 
 [![DoreenBow - Perchero para Abrigos en la ](https://images-eu.ssl-images-amazon.com/images/I/31NBQHl1WfL._SL200_.jpg)](https://www.amazon.es/dp/B07P8RXJW1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07P8RXJW1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

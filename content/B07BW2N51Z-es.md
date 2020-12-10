@@ -22,6 +22,9 @@ Tienes [Plancha Ropa Vapor Vertical  Aicok Plancha Vertical & Horizontal  1500W 
 
 [![Plancha Ropa Vapor Vertical  Aicok Planc](https://images-eu.ssl-images-amazon.com/images/I/41eAe2VPiGL._SL200_.jpg)](https://www.amazon.es/dp/B07BW2N51Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BW2N51Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

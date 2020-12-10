@@ -22,6 +22,9 @@ Está [MTNG Attitude 84091  Zapatillas para Hombre   Vertigo Marino/Skull Azul C
 
 [![MTNG Attitude 84091  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/41zrCgVtcoL._SL200_.jpg)](https://www.amazon.es/dp/B07DQSL9MZ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DQSL9MZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

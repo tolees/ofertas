@@ -22,6 +22,9 @@ Tienes [Puma Vikky v2 Studs  Zapatillas para Mujer  Negro Black Silver-Whisper W
 
 [![Puma Vikky v2 Studs  Zapatillas para Muj](https://images-eu.ssl-images-amazon.com/images/I/31GsvrNfE2L._SL200_.jpg)](https://www.amazon.es/dp/B07DBXSJ2Z/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DBXSJ2Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

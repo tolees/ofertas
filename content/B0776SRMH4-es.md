@@ -22,6 +22,9 @@ Tienes [Tommy Jeans Hombre Original suéter Manga Larga  Negro  Tommy Black 078 
 
 [![Tommy Jeans Hombre Original suéter Manga](https://images-eu.ssl-images-amazon.com/images/I/41B%2BMy8Ip-L._SL200_.jpg)](https://www.amazon.es/dp/B0776SRMH4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0776SRMH4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

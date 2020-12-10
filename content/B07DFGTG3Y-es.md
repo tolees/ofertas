@@ -22,6 +22,9 @@ Está [Funko – Five Nights at at S Pizza Simulator Idea Regalo  Statue  coll
 
 [![Funko – Five Nights at at S Pizza Simula](https://images-eu.ssl-images-amazon.com/images/I/41anHz-o7LL._SL200_.jpg)](https://www.amazon.es/dp/B07DFGTG3Y/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DFGTG3Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

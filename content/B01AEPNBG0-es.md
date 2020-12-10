@@ -22,6 +22,9 @@ Está [LarKoo Ultra Portable Wireles Rechargeable Handsfree Bracket Bluetooth Sp
 
 [![LarKoo Ultra Portable Wireles Rechargeab](https://images-eu.ssl-images-amazon.com/images/I/41u8eR6IIBL._SL200_.jpg)](https://www.amazon.es/dp/B01AEPNBG0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AEPNBG0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

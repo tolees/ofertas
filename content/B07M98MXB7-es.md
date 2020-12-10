@@ -22,6 +22,9 @@ Está [The North Face Millerton Chubasquero  Hombre  Azul  Night Bomber Blue   L
 
 [![The North Face Millerton Chubasquero  Ho](https://images-eu.ssl-images-amazon.com/images/I/414v4HDjvQL._SL200_.jpg)](https://www.amazon.es/dp/B07M98MXB7/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07M98MXB7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

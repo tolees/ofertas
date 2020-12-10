@@ -22,6 +22,9 @@ Está [PAZZiMO Caja organizadora cables grande y blanca  pasacables protector y 
 
 [![PAZZiMO Caja organizadora cables grande ](https://images-eu.ssl-images-amazon.com/images/I/31lInQ5KEcL._SL200_.jpg)](https://www.amazon.es/dp/B07DJN72Z3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DJN72Z3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

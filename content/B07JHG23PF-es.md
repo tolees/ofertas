@@ -22,6 +22,9 @@ Tienes [Ultimate Ears WONDERBOOM -  Altavoz Bluetooth impermeable con conexión 
 
 [![Ultimate Ears WONDERBOOM -  Altavoz Blue](https://images-eu.ssl-images-amazon.com/images/I/51Or6KA7iNL._SL200_.jpg)](https://www.amazon.es/dp/B07JHG23PF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JHG23PF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

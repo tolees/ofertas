@@ -22,6 +22,9 @@ Está [Michael Kors - Ava Extra-small Leather Crossbody  Bolsos bandolera Mujer 
 
 [![Michael Kors - Ava Extra-small Leather C](https://images-eu.ssl-images-amazon.com/images/I/41GPLwmiNCL._SL200_.jpg)](https://www.amazon.es/dp/B07DM48JNM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DM48JNM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

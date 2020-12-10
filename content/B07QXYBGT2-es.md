@@ -22,6 +22,13 @@ Tienes [Dragon Ball Z: Kakarot](https://www.amazon.es/dp/B07QXYBGT2/?tag=tolees-
 
 [![Dragon Ball Z: Kakarot](https://m.media-amazon.com/images/I/517hYggQGsL._SL200_.jpg)](https://www.amazon.es/dp/B07QXYBGT2/?tag=tolees-21)
 
+Características principales:
+
+- Fácil de usar
+- 80 gramos
+- 17.02 x 13.46 x 0.25 cm
+- Muy conveniente
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QXYBGT2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

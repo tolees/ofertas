@@ -22,6 +22,9 @@ Ahora mismo tienes [Lacoste Lancelle 6 Eye 117 2 Caw LT GRY  Entrenadores Bajos 
 
 [![Lacoste Lancelle 6 Eye 117 2 Caw LT GRY ](https://images-eu.ssl-images-amazon.com/images/I/31s88uyUqbL._SL200_.jpg)](https://www.amazon.es/dp/B01N4G0YVH/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N4G0YVH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

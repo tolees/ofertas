@@ -22,6 +22,9 @@ Está [New Balance Fresh Foam Cruz v2 Deconstructed  Zapatillas de Running para 
 
 [![New Balance Fresh Foam Cruz v2 Deconstru](https://images-eu.ssl-images-amazon.com/images/I/41k-V6ceueL._SL200_.jpg)](https://www.amazon.es/dp/B07B717ZKL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07B717ZKL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

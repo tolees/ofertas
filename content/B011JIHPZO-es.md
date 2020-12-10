@@ -22,6 +22,9 @@ Ahora mismo tienes [Supra Zapatillas abotinadas  Blanco  EU 42.5](https://www.am
 
 [![Supra Zapatillas abotinadas  Blanco  EU ](https://images-eu.ssl-images-amazon.com/images/I/41y0l3LFOnL._SL200_.jpg)](https://www.amazon.es/dp/B011JIHPZO/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B011JIHPZO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

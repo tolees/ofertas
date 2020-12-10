@@ -22,6 +22,9 @@ Está [New Balance 247v1  Zapatillas para Hombre  Negro  Black/White Ve   45 EU]
 
 [![New Balance 247v1  Zapatillas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41uisBEFwML._SL200_.jpg)](https://www.amazon.es/dp/B01NCPUI9P/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCPUI9P/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

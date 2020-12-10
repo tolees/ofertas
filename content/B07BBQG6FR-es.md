@@ -22,6 +22,9 @@ Está [Corsair Vengeance 16 GB  DDR4  2666 MHz módulo de - Memoria  DDR4  2666 
 
 [![Corsair Vengeance 16 GB  DDR4  2666 MHz ](http://images.amazon.com/images/P/B07BBQG6FR.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B07BBQG6FR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BBQG6FR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

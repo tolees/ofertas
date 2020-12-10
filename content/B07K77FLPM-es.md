@@ -22,6 +22,9 @@ Tienes [Asics Gel-Sonoma 4  Zapatillas de Running para Hombre  Negro  Black/Isla
 
 [![Asics Gel-Sonoma 4  Zapatillas de Runnin](https://images-eu.ssl-images-amazon.com/images/I/41UNJdq0u6L._SL200_.jpg)](https://www.amazon.es/dp/B07K77FLPM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K77FLPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

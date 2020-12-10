@@ -22,6 +22,9 @@ Está [1898: Los Últimos De Filipinas [Blu-ray]](https://www.amazon.es/dp/B01MY
 
 [![1898: Los Últimos De Filipinas [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/61u73Ub8jFL._SL200_.jpg)](https://www.amazon.es/dp/B01MYFDEQA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MYFDEQA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Vans Classic Zip Hoodie Capucha  Rojo  Jazzy-Black TD   Small para Hombr
 
 [![Vans Classic Zip Hoodie Capucha  Rojo  J](https://images-eu.ssl-images-amazon.com/images/I/415EN2IgpLL._SL200_.jpg)](https://www.amazon.es/dp/B07F2MCM15/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F2MCM15/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

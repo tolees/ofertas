@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommee Tippee Explora - Platos de 3 compartimentos  2 unidad
 
 [![Tommee Tippee Explora - Platos de 3 comp](https://images-eu.ssl-images-amazon.com/images/I/41IR60bdX9L._SL200_.jpg)](https://www.amazon.es/dp/B00158DRUG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00158DRUG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

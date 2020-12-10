@@ -22,6 +22,9 @@ Está [LANGRIA Juego de 4 Vasos de Whisky de Vidrio Incoloro  Estilo Tradicional
 
 [![LANGRIA Juego de 4 Vasos de Whisky de Vi](https://images-eu.ssl-images-amazon.com/images/I/51bkpsv20QL._SL200_.jpg)](https://www.amazon.es/dp/B07GKW3NXW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GKW3NXW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Women s Secret PM Little Stars 3Bt Braguita   Varios 98     Tamaño del 
 
 [![Women s Secret PM Little Stars 3Bt Bragu](https://images-eu.ssl-images-amazon.com/images/I/41AN0KPv2RL._SL200_.jpg)](https://www.amazon.es/dp/B07DLJZ6Y5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DLJZ6Y5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

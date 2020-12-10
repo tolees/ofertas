@@ -22,6 +22,9 @@ Está [Kingston SDC4/8GBSP - Tarjeta Micro SDHC de 8 GB  Clase 4](https://www.am
 
 [![Kingston SDC4/8GBSP - Tarjeta Micro SDHC]()](https://www.amazon.es/dp/B0027CA7UW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0027CA7UW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

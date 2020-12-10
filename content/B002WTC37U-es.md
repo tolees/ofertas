@@ -22,6 +22,9 @@ Tienes [Macadamia 54991 - Cuidado capilar  125 ml](https://www.amazon.es/dp/B002
 
 [![Macadamia 54991 - Cuidado capilar  125 m](https://images-eu.ssl-images-amazon.com/images/I/31dzTZRJaKL._SL200_.jpg)](https://www.amazon.es/dp/B002WTC37U/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B002WTC37U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Nike Air Vapor Adavantage Carpet  Zapatillas de Tenis para Niños  Blanc
 
 [![Nike Air Vapor Adavantage Carpet  Zapati](https://images-eu.ssl-images-amazon.com/images/I/41iW-FBF1PL._SL200_.jpg)](https://www.amazon.es/dp/B01IO0AKY8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01IO0AKY8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

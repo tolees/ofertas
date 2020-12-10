@@ -22,6 +22,9 @@ Tienes [Asics Light Stretch Woven Colour Blocking Pants  Pantalones de Deporte p
 
 [![Asics Light Stretch Woven Colour Blockin](https://images-eu.ssl-images-amazon.com/images/I/31ZlBh7GKGL._SL200_.jpg)](https://www.amazon.es/dp/B07H7JHG16/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07H7JHG16/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

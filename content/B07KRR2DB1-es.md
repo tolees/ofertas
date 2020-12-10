@@ -22,6 +22,9 @@ Está [TedGem Ratón inalámbrico  2 4 G Ratón inalámbrico  portátil  ratón 
 
 [![TedGem Ratón inalámbrico  2 4 G Ratón in](https://images-eu.ssl-images-amazon.com/images/I/41yn8eNu2sL._SL200_.jpg)](https://www.amazon.es/dp/B07KRR2DB1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KRR2DB1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

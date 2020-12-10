@@ -22,6 +22,9 @@ Está [TomTom Runner Cardio - Reloj con GPS para correr  color Negro  Talla úni
 
 [![TomTom Runner Cardio - Reloj con GPS par](https://images-eu.ssl-images-amazon.com/images/I/41utMI9CZeL._SL200_.jpg)](https://www.amazon.es/dp/B00JF2QK62/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00JF2QK62/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

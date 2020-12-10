@@ -22,6 +22,9 @@ Está [Flower 40556 40556-Cristal Concentrado  100 g  No No Aplica  10.3x3.7x14.
 
 [![Flower 40556 40556-Cristal Concentrado  ](https://images-eu.ssl-images-amazon.com/images/I/51O7e0RI33L._SL200_.jpg)](https://www.amazon.es/dp/B01DAQFDPM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DAQFDPM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma Vega SL  Zapatillas para Mujer  Negro Black  40.5 EU](https://www.am
 
 [![Puma Vega SL  Zapatillas para Mujer  Neg](https://images-eu.ssl-images-amazon.com/images/I/41UJndtsHuL._SL200_.jpg)](https://www.amazon.es/dp/B071F8G3DT/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071F8G3DT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

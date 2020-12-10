@@ -22,6 +22,9 @@ Tienes [Compo 1648402011 Antihormigas 300 G  16.5x7x7 cm](https://www.amazon.es/
 
 [![Compo 1648402011 Antihormigas 300 G  16.](https://images-eu.ssl-images-amazon.com/images/I/41MZ0SKT5FL._SL200_.jpg)](https://www.amazon.es/dp/B00V4PB89W/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00V4PB89W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

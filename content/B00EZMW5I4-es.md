@@ -22,6 +22,9 @@ Tienes [Weck 10074  Juntas para ollas y tarros  pack de 10](https://www.amazon.e
 
 [![Weck 10074  Juntas para ollas y tarros  ](https://images-eu.ssl-images-amazon.com/images/I/41MqHchjyZL._SL200_.jpg)](https://www.amazon.es/dp/B00EZMW5I4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00EZMW5I4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

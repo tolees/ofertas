@@ -22,6 +22,9 @@ Tienes [Closet Structured Pleated Jumpsuit  Mono para Mujer  Crema  36](https://
 
 [![Closet Structured Pleated Jumpsuit  Mono](https://images-eu.ssl-images-amazon.com/images/I/31jrmKmurkL._SL200_.jpg)](https://www.amazon.es/dp/B00SWSKHTQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SWSKHTQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [G-STAR RAW Tach Trunk 3 Pack Bañador   Hudson Blue/gurin Green/Deep Flam
 
 [![G-STAR RAW Tach Trunk 3 Pack Bañador   H](https://images-eu.ssl-images-amazon.com/images/I/31k13UoavCL._SL200_.jpg)](https://www.amazon.es/dp/B07MTJFCPJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07MTJFCPJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Reebok Reago Train  Zapatillas de Deporte para Hombre   Black/Ash Porcela
 
 [![Reebok Reago Train  Zapatillas de Deport](https://images-eu.ssl-images-amazon.com/images/I/41%2BFIPM5FML._SL200_.jpg)](https://www.amazon.es/dp/B07DS6MGVB/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DS6MGVB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

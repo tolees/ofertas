@@ -22,6 +22,9 @@ Está [Philips Avent Magic - Taza antigoteo de 260 ml  color negro](https://www.
 
 [![Philips Avent Magic - Taza antigoteo de ](https://images-eu.ssl-images-amazon.com/images/I/415N1yvCKtL._SL200_.jpg)](https://www.amazon.es/dp/B00M6POI1E/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00M6POI1E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Softline 25461  Botas para Mujer  Gris  Asphalt   39 EU](https://www.amaz
 
 [![Softline 25461  Botas para Mujer  Gris  ](https://images-eu.ssl-images-amazon.com/images/I/51mP%2B%2BKyWdL._SL200_.jpg)](https://www.amazon.es/dp/B01MV4I2RS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MV4I2RS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

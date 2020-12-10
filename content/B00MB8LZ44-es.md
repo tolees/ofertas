@@ -22,6 +22,9 @@ Está [Kenwood HDP308WH Batidora de brazo con accesorio pasapurés  800 W  plás
 
 [![Kenwood HDP308WH Batidora de brazo con a](https://images-eu.ssl-images-amazon.com/images/I/41pFS%2BSfSoL._SL200_.jpg)](https://www.amazon.es/dp/B00MB8LZ44/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00MB8LZ44/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Michael Kors - Ava  Bolsos maletín Mujer  Beige  TRUFFLE   
 
 [![Michael Kors - Ava  Bolsos maletín Mujer](https://images-eu.ssl-images-amazon.com/images/I/41ibgHE6YbL._SL200_.jpg)](https://www.amazon.es/dp/B07C2WXZ74/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07C2WXZ74/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

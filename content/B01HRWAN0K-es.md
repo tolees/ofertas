@@ -22,6 +22,9 @@ Está [Skechers Empress-Splendid  Zapatillas para Mujer  Negro  Black   36 EU](h
 
 [![Skechers Empress-Splendid  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/41Q0%2BUZ87tL._SL200_.jpg)](https://www.amazon.es/dp/B01HRWAN0K/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HRWAN0K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

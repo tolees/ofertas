@@ -22,6 +22,9 @@ Ahora mismo tienes [INTEY Silla de Gaming  Silla de Oficina Ergonómica  PU y Aj
 
 [![INTEY Silla de Gaming  Silla de Oficina ](https://images-eu.ssl-images-amazon.com/images/I/41NusRVdmLL._SL200_.jpg)](https://www.amazon.es/dp/B07G86LHQ2/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07G86LHQ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Supra Factor  Zapatillas Unisex Adulto  Negro  Black/Lt Grey-White 071   
 
 [![Supra Factor  Zapatillas Unisex Adulto  ](https://images-eu.ssl-images-amazon.com/images/I/41fo1gLcCeL._SL200_.jpg)](https://www.amazon.es/dp/B078ZL4WJL/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078ZL4WJL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

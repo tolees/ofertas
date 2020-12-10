@@ -22,6 +22,9 @@ Ahora mismo tienes [Speedo Boom Splice Bañador  Hombre  Negro  Black/White/Lava
 
 [![Speedo Boom Splice Bañador  Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/41TqFhBTc3L._SL200_.jpg)](https://www.amazon.es/dp/B01N07CZPY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N07CZPY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

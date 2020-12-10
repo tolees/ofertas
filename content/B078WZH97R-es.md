@@ -22,6 +22,9 @@ Está [Emporio Armani Underwear 111776  Pantalones Cortos para Hombre  Azul  Maz
 
 [![Emporio Armani Underwear 111776  Pantalo](https://images-eu.ssl-images-amazon.com/images/I/411k26cBatL._SL200_.jpg)](https://www.amazon.es/dp/B078WZH97R/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B078WZH97R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Reebok Cloudride DMX 2.0  Zapatillas de Deporte para Mujer  Negro  Black
 
 [![Reebok Cloudride DMX 2.0  Zapatillas de ](https://images-eu.ssl-images-amazon.com/images/I/51zM%2BQj-56L._SL200_.jpg)](https://www.amazon.es/dp/B072Q6RWTH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072Q6RWTH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

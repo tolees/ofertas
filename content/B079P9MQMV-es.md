@@ -22,6 +22,9 @@ Está [Sigma Sport Sigma Faro Delantero Buster 700  Adultos Unisex  Negro  Talla
 
 [![Sigma Sport Sigma Faro Delantero Buster ](https://images-eu.ssl-images-amazon.com/images/I/31HRMPXCooL._SL200_.jpg)](https://www.amazon.es/dp/B079P9MQMV/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079P9MQMV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

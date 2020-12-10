@@ -22,6 +22,9 @@ Tienes [Reebok DA1261 Junior Motion TR BP Mochila Tipo Casual  25 cm  20 litros 
 
 [![Reebok DA1261 Junior Motion TR BP Mochil](https://images-eu.ssl-images-amazon.com/images/I/51HIZmh0VXL._SL200_.jpg)](https://www.amazon.es/dp/B07F6YHB71/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07F6YHB71/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

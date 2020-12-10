@@ -22,6 +22,9 @@ Tienes [Floid 52026 - After shave](https://www.amazon.es/dp/B00BGBW258/?tag=tole
 
 [![Floid 52026 - After shave](https://images-eu.ssl-images-amazon.com/images/I/41bz5gDUE1L._SL200_.jpg)](https://www.amazon.es/dp/B00BGBW258/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00BGBW258/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

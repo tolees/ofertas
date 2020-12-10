@@ -22,6 +22,9 @@ Tienes [adidas Vl Court 2.0  Zapatillas de Skateboard para Hombre  Verde  Raw Kh
 
 [![adidas Vl Court 2.0  Zapatillas de Skate](https://images-eu.ssl-images-amazon.com/images/I/41UgKxUUZML._SL200_.jpg)](https://www.amazon.es/dp/B07K2R9DQ6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07K2R9DQ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

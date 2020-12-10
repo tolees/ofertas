@@ -22,6 +22,9 @@ Está [Adidas Aerobounce M  Zapatillas de Trail Running para Hombre  Azul  Azalr
 
 [![Adidas Aerobounce M  Zapatillas de Trail](https://images-eu.ssl-images-amazon.com/images/I/51q-TmsuJ%2BL._SL200_.jpg)](https://www.amazon.es/dp/B073WT3RWM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073WT3RWM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

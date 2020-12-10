@@ -22,6 +22,9 @@ Está [EMPO Toalla Grande Microfibra de 140cm x 80cm Toalla Deportiva con Bolsa 
 
 [![EMPO Toalla Grande Microfibra de 140cm x](https://images-eu.ssl-images-amazon.com/images/I/41yldWlUvqL._SL200_.jpg)](https://www.amazon.es/dp/B01DJ0IWW0/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01DJ0IWW0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Termómetro tiras para la frente  cuidado del bebé  adhesivo de temperat
 
 [![Termómetro tiras para la frente  cuidado](https://images-eu.ssl-images-amazon.com/images/I/51J3bx1yZVL._SL200_.jpg)](https://www.amazon.es/dp/B07C5L6V7D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C5L6V7D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Sigma 10-20mm f/3.5 EX DC HSM PAF - Objetivo para Pentax  Distancia Focal
 
 [![Sigma 10-20mm f/3.5 EX DC HSM PAF - Obje](https://images-eu.ssl-images-amazon.com/images/I/51zClP14MNL._SL200_.jpg)](https://www.amazon.es/dp/B002D2YYLY/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B002D2YYLY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

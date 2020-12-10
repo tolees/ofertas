@@ -22,6 +22,9 @@ Ahora mismo tienes [HALSEA Salcar Placa de vibración con 3D basculante Vibratio
 
 [![HALSEA Salcar Placa de vibración con 3D ](https://images-eu.ssl-images-amazon.com/images/I/51rAugX4XQL._SL200_.jpg)](https://www.amazon.es/dp/B07DC3LV7T/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07DC3LV7T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [The North Face Thermoball Traction  Botas de Nieve para Mujer  Negro  Shi
 
 [![The North Face Thermoball Traction  Bota](https://images-eu.ssl-images-amazon.com/images/I/4163sIXocEL._SL200_.jpg)](https://www.amazon.es/dp/B01NAKY486/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NAKY486/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

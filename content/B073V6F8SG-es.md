@@ -22,6 +22,9 @@ Tienes [Funko Pop!- Marvel Lockjaw Figura de Vinilo  3.75 Inches  20237](https:/
 
 [![Funko Pop!- Marvel Lockjaw Figura de Vin](https://images-eu.ssl-images-amazon.com/images/I/51c4ESCGU-L._SL200_.jpg)](https://www.amazon.es/dp/B073V6F8SG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B073V6F8SG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

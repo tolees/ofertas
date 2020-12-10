@@ -22,6 +22,9 @@ Ahora mismo tienes [Pata Negra Apasionado D.O Jumilla Vino Tinto. 6 Botellas x 7
 
 [![Pata Negra Apasionado D.O Jumilla Vino T](https://images-eu.ssl-images-amazon.com/images/I/41OL9asCpsL._SL200_.jpg)](https://www.amazon.es/dp/B01N940OAY/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01N940OAY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

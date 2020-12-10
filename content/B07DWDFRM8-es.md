@@ -22,6 +22,9 @@ Tienes [Burton Moto Boa Botas de Snowboard  Hombres  Black  7.0](https://www.ama
 
 [![Burton Moto Boa Botas de Snowboard  Homb](https://images-eu.ssl-images-amazon.com/images/I/41Tl7dBGe3L._SL200_.jpg)](https://www.amazon.es/dp/B07DWDFRM8/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DWDFRM8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

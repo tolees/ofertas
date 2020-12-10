@@ -22,6 +22,9 @@ Tienes [Braun Minipimer 5 MQ5037WH Puree and sauce - Batidora de mano  incluye p
 
 [![Braun Minipimer 5 MQ5037WH Puree and sau](https://images-eu.ssl-images-amazon.com/images/I/516cRpX%2BwfL._SL200_.jpg)](https://www.amazon.es/dp/B00PFYKAA6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00PFYKAA6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

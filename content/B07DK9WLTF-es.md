@@ -22,6 +22,9 @@ Está [xuehaostore Perro Gato Juguete Mascotas Aseo Masaje Remover el Pelo Guant
 
 [![xuehaostore Perro Gato Juguete Mascotas ](https://images-eu.ssl-images-amazon.com/images/I/517ZwqP6voL._SL200_.jpg)](https://www.amazon.es/dp/B07DK9WLTF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DK9WLTF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

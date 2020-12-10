@@ -22,6 +22,9 @@ Ahora mismo tienes [Bosch - Taladro combinado AdvancedImpact 18  sin batería  s
 
 [![Bosch - Taladro combinado AdvancedImpact](https://images-eu.ssl-images-amazon.com/images/I/41SI6fdCDeL._SL200_.jpg)](https://www.amazon.es/dp/B07HHP7CQM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HHP7CQM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

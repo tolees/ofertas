@@ -22,6 +22,9 @@ Está [Salomon Evasion 2 Aero  Zapatillas de Senderismo para Hombre  Negro/Gris 
 
 [![Salomon Evasion 2 Aero  Zapatillas de Se](https://images-eu.ssl-images-amazon.com/images/I/41tyOAsafJL._SL200_.jpg)](https://www.amazon.es/dp/B01HD6RFVA/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01HD6RFVA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

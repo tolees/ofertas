@@ -22,6 +22,9 @@ Tienes [Lacoste Masters 119 2 SMA  Zapatillas para Hombre  Blanco  Wht/Grn 082  
 
 [![Lacoste Masters 119 2 SMA  Zapatillas pa](https://images-eu.ssl-images-amazon.com/images/I/31HijMvffWL._SL200_.jpg)](https://www.amazon.es/dp/B07DHTH8MH/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DHTH8MH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

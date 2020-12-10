@@ -22,6 +22,9 @@ Tienes [SKYEE [3 Unidades Adaptador USB C a USB 3.0 con OTG  Aluminio Conector A
 
 [![SKYEE [3 Unidades Adaptador USB C a USB ](https://images-eu.ssl-images-amazon.com/images/I/41sGh8%2BadCL._SL200_.jpg)](https://www.amazon.es/dp/B078NVYQNC/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B078NVYQNC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

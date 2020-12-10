@@ -22,6 +22,9 @@ Tienes [Pepe Jeans Checks Bañador de natación   Multi 0Aa   2 años  Talla del
 
 [![Pepe Jeans Checks Bañador de natación   ](https://images-eu.ssl-images-amazon.com/images/I/51dXg%2B2HZZL._SL200_.jpg)](https://www.amazon.es/dp/B07NCB62KW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NCB62KW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

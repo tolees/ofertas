@@ -22,6 +22,9 @@ Tienes [Vans Atwood Synthetic Leather  Zapatillas para Hombre  Negro   Classic T
 
 [![Vans Atwood Synthetic Leather  Zapatilla](https://images-eu.ssl-images-amazon.com/images/I/31gu7sDyjxL._SL200_.jpg)](https://www.amazon.es/dp/B07BN53LSF/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07BN53LSF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

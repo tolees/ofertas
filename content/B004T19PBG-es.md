@@ -22,6 +22,9 @@ Ahora mismo tienes [Bed Head by TIGI Acondicionador Resurrection Urban Antidotes
 
 [![Bed Head by TIGI Acondicionador Resurrec](https://images-eu.ssl-images-amazon.com/images/I/41qEiHvlJGL._SL200_.jpg)](https://www.amazon.es/dp/B004T19PBG/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B004T19PBG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

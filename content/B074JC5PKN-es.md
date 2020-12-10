@@ -22,6 +22,9 @@ Está [G-Star RAW Deline Aop  Zapatillas para Hombre  Amarillo  Neon Yellow/Asfa
 
 [![G-Star RAW Deline Aop  Zapatillas para H](https://images-eu.ssl-images-amazon.com/images/I/41BOIC2ls1L._SL200_.jpg)](https://www.amazon.es/dp/B074JC5PKN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074JC5PKN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

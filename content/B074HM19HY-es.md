@@ -22,6 +22,9 @@ Tienes [Funko Aqua Man Figura de Vinilo 14662](https://www.amazon.es/dp/B074HM19
 
 [![Funko Aqua Man Figura de Vinilo 14662](https://images-eu.ssl-images-amazon.com/images/I/51M3r9ZfpWL._SL200_.jpg)](https://www.amazon.es/dp/B074HM19HY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074HM19HY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

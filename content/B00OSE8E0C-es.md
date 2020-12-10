@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face Vault Mochila  Unisex Adulto  Negro  TNF Blac
 
 [![The North Face Vault Mochila  Unisex Adu](https://images-eu.ssl-images-amazon.com/images/I/4196aW%2BW52L._SL200_.jpg)](https://www.amazon.es/dp/B00OSE8E0C/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00OSE8E0C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Baby Boum Softy Stary 92 - Saco  0-3 meses   color grizou](https://www.am
 
 [![Baby Boum Softy Stary 92 - Saco  0-3 mes](https://images-eu.ssl-images-amazon.com/images/I/514rRnGwJuL._SL200_.jpg)](https://www.amazon.es/dp/B00E18TD7I/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00E18TD7I/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

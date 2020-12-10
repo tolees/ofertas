@@ -22,6 +22,9 @@ Ahora mismo tienes [New Balance Fuel Core Sonic v2  Zapatillas de Running para M
 
 [![New Balance Fuel Core Sonic v2  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41lCj-3OfkL._SL200_.jpg)](https://www.amazon.es/dp/B075R7PN1R/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075R7PN1R/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

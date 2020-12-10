@@ -22,6 +22,9 @@ Está [Skechers Equalizer 3.0  Zapatillas para Niños  Negro  Black Grey Bkgy   
 
 [![Skechers Equalizer 3.0  Zapatillas para ](https://images-eu.ssl-images-amazon.com/images/I/41V%2BT42BpVL._SL200_.jpg)](https://www.amazon.es/dp/B07BMWGV9S/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BMWGV9S/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

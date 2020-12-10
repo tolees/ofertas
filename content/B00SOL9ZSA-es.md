@@ -22,6 +22,9 @@ Tienes [Kingston DataTraveler SE9 G2 - Memoria 16GB USB 3.0  Plateado](https://w
 
 [![Kingston DataTraveler SE9 G2 - Memoria 1](https://images-eu.ssl-images-amazon.com/images/I/31UfXeVT7oL._SL200_.jpg)](https://www.amazon.es/dp/B00SOL9ZSA/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00SOL9ZSA/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

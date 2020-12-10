@@ -22,6 +22,9 @@ Tienes [Puma Unisex Lifestyle Quarters 3P - Calcetines unisex  color Negro/Blanc
 
 [![Puma Unisex Lifestyle Quarters 3P - Calc](https://images-eu.ssl-images-amazon.com/images/I/41MSiAIUmpL._SL200_.jpg)](https://www.amazon.es/dp/B003WIZEBW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B003WIZEBW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

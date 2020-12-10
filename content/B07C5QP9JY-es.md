@@ -22,6 +22,9 @@ Tienes [Envasadora al Vacío  ACRATO Sellador al Vacío Portátil con 3 modos de
 
 [![Envasadora al Vacío  ACRATO Sellador al ]()](https://www.amazon.es/dp/B07C5QP9JY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C5QP9JY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

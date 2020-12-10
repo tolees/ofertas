@@ -22,6 +22,9 @@ Está [Tuscany Silver 8.55.2199 - Pendientes de plata de ley  925/1000   sin gem
 
 [![Tuscany Silver 8.55.2199 - Pendientes de](https://images-eu.ssl-images-amazon.com/images/I/313jFaNjz7L._SL200_.jpg)](https://www.amazon.es/dp/B00EU37GTG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00EU37GTG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

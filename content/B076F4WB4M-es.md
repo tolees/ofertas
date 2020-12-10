@@ -22,6 +22,9 @@ Tienes [JACK & JONES Jortippi Sweat Hood  Capucha para Hombre  Rosa  Silver Pink
 
 [![JACK & JONES Jortippi Sweat Hood  Capuch](https://images-eu.ssl-images-amazon.com/images/I/51SdZc5EmPL._SL200_.jpg)](https://www.amazon.es/dp/B076F4WB4M/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B076F4WB4M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Puma 365 Ignite Fuse 2  Zapatillas de Fútbol para Hombre  Verde  Forest 
 
 [![Puma 365 Ignite Fuse 2  Zapatillas de Fú](https://images-eu.ssl-images-amazon.com/images/I/41js51pyRNL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ42JWC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CZ42JWC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

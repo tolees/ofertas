@@ -22,6 +22,9 @@ Está [Simon - 75251-39 conmutador cruce s-75 Ref. 6557539025](https://www.amazo
 
 [![Simon - 75251-39 conmutador cruce s-75 R](https://images-eu.ssl-images-amazon.com/images/I/41o7eDoJ2ML._SL200_.jpg)](https://www.amazon.es/dp/B01AVFUS0U/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01AVFUS0U/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

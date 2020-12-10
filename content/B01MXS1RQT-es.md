@@ -22,6 +22,13 @@ Ahora mismo tienes [Adidas Vs Pace  Zapatillas para Hombre  Negro  Core Black/Fo
 
 [![Adidas Vs Pace  Zapatillas para Hombre  ](https://m.media-amazon.com/images/I/41AoqevxXQL._SL200_.jpg)](https://www.amazon.es/dp/B01MXS1RQT/?tag=tolees-21)
 
+Características:
+
+- Puntera reforzada.
+- Cómodo forro textil.
+- Cómodo forro textil.
+- 3 bandas de piel sintética.
+
 [Visítala!!!](https://www.amazon.es/dp/B01MXS1RQT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

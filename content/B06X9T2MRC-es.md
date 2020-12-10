@@ -22,6 +22,9 @@ Ahora mismo tienes [find. Mocasines Abiertos Mujer  Negro  Black   37 EU](https:
 
 [![find. Mocasines Abiertos Mujer  Negro  B](https://images-eu.ssl-images-amazon.com/images/I/31-Luxv7CWL._SL200_.jpg)](https://www.amazon.es/dp/B06X9T2MRC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06X9T2MRC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

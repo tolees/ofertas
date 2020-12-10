@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Rumba_Tenn_sd2  Zapatillas para Hombre  Gris  Light/Pas
 
 [![BOSS Rumba_Tenn_sd2  Zapatillas para Hom](https://images-eu.ssl-images-amazon.com/images/I/410RXk230BL._SL200_.jpg)](https://www.amazon.es/dp/B07MKBGXT4/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MKBGXT4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

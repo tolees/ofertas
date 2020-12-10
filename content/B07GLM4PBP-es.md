@@ -22,6 +22,9 @@ Ahora mismo tienes [Juego de Bondage de cuero rosa 7pcs Juego de esposas Conjunt
 
 [![Juego de Bondage de cuero rosa 7pcs Jueg](https://images-eu.ssl-images-amazon.com/images/I/51BC0eCXEQL._SL200_.jpg)](https://www.amazon.es/dp/B07GLM4PBP/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GLM4PBP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

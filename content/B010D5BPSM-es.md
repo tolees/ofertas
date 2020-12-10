@@ -22,6 +22,9 @@ Tienes [T400 Jewelers Plata de ley 925 Cubo Forma Swarovski Zirconia Clear Stud 
 
 [![T400 Jewelers Plata de ley 925 Cubo Form](https://images-eu.ssl-images-amazon.com/images/I/41d51WRXM4L._SL200_.jpg)](https://www.amazon.es/dp/B010D5BPSM/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B010D5BPSM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

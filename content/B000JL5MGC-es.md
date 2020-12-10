@@ -22,6 +22,9 @@ Ahora mismo tienes [Calvin Klein 4040 - After shave  125 ml](https://www.amazon.
 
 [![Calvin Klein 4040 - After shave  125 ml](https://images-eu.ssl-images-amazon.com/images/I/21buWo0nEsL._SL200_.jpg)](https://www.amazon.es/dp/B000JL5MGC/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B000JL5MGC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

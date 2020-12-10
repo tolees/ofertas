@@ -22,6 +22,9 @@ Ahora mismo tienes [32GB Flash Drive de USB OTG  En el Go  Memoria USB del eslab
 
 [![32GB Flash Drive de USB OTG  En el Go  M](https://images-eu.ssl-images-amazon.com/images/I/41PbR-hSAwL._SL200_.jpg)](https://www.amazon.es/dp/B00MB5NMKM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00MB5NMKM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

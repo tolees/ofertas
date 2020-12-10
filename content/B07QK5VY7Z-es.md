@@ -22,6 +22,9 @@ Está [MILIER Mini Enfriador de Aire  Portable Air Cooler 2019 New Air Space Coo
 
 [![MILIER Mini Enfriador de Aire  Portable ](https://images-eu.ssl-images-amazon.com/images/I/41Emfli4pLL._SL200_.jpg)](https://www.amazon.es/dp/B07QK5VY7Z/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QK5VY7Z/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

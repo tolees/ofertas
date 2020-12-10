@@ -22,6 +22,9 @@ Está [ECHILUCK Escobilla para Inodoro y Cepillo de plástico para Inodoro  con 
 
 [![ECHILUCK Escobilla para Inodoro y Cepill](https://images-eu.ssl-images-amazon.com/images/I/31OC24S4skL._SL200_.jpg)](https://www.amazon.es/dp/B07BWB9N15/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07BWB9N15/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

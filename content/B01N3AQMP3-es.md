@@ -22,6 +22,9 @@ Está [Samsung Dream Silicone Cover  Funda para smartphone Samsung Galaxy S8  Gr
 
 [![Samsung Dream Silicone Cover  Funda para](https://images-eu.ssl-images-amazon.com/images/I/31H4mwKTjwL._SL200_.jpg)](https://www.amazon.es/dp/B01N3AQMP3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01N3AQMP3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

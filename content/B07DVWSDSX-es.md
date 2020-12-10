@@ -22,6 +22,9 @@ Está [LE COQ SPORTIF Agate  Zapatillas para Mujer  Verde Olive Night  39 EU](ht
 
 [![LE COQ SPORTIF Agate  Zapatillas para Mu](https://images-eu.ssl-images-amazon.com/images/I/410OVNz1EFL._SL200_.jpg)](https://www.amazon.es/dp/B07DVWSDSX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DVWSDSX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

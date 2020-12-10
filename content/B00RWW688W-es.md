@@ -22,6 +22,9 @@ Está [Yep by Jonak Aceline - Bailarinas para niñas  Color Gris  taches Orange 
 
 [![Yep by Jonak Aceline - Bailarinas para n](https://images-eu.ssl-images-amazon.com/images/I/41MSpNWW56L._SL200_.jpg)](https://www.amazon.es/dp/B00RWW688W/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00RWW688W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

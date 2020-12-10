@@ -22,6 +22,9 @@ Está [Asics Gel-Kayano 25  Zapatillas de Running para Hombre  Negro  Black/Glac
 
 [![Asics Gel-Kayano 25  Zapatillas de Runni](https://images-eu.ssl-images-amazon.com/images/I/41oNFf65V9L._SL200_.jpg)](https://www.amazon.es/dp/B07J9XBF6D/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07J9XBF6D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

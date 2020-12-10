@@ -22,6 +22,9 @@ Tienes [Deuter Fox 40  Mochila Unisex Adulto  Rojo  Cranberry/Steel   24x36x45 c
 
 [![Deuter Fox 40  Mochila Unisex Adulto  Ro](https://images-eu.ssl-images-amazon.com/images/I/41Ec-rXpRZL._SL200_.jpg)](https://www.amazon.es/dp/B074D2XW2V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B074D2XW2V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

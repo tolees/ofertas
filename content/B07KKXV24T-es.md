@@ -22,6 +22,9 @@ Está [Burton Durable Goods Sudaderas  Hombre  Gray Heather  XXL](https://www.am
 
 [![Burton Durable Goods Sudaderas  Hombre  ](https://images-eu.ssl-images-amazon.com/images/I/415VokgZX5L._SL200_.jpg)](https://www.amazon.es/dp/B07KKXV24T/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KKXV24T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

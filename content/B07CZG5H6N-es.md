@@ -22,6 +22,9 @@ Tienes [Asics Gel-Cumulus 20  Zapatillas de Entrenamiento Unisex Adulto  Naranja
 
 [![Asics Gel-Cumulus 20  Zapatillas de Entr](https://images-eu.ssl-images-amazon.com/images/I/413m0XzEbJL._SL200_.jpg)](https://www.amazon.es/dp/B07CZG5H6N/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZG5H6N/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

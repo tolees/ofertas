@@ -22,6 +22,9 @@ Tienes [The North Face Base Camp Duffel Bolsa de Deporte  Unisex Adulto  Dorado 
 
 [![The North Face Base Camp Duffel Bolsa de](https://images-eu.ssl-images-amazon.com/images/I/41kTHVCU8oL._SL200_.jpg)](https://www.amazon.es/dp/B072WJD6N9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B072WJD6N9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

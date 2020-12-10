@@ -22,6 +22,9 @@ Está [Eono Essentials - Juego de 3 bolsas de malla para lavadora resistentes: 3
 
 [![Eono Essentials - Juego de 3 bolsas de m](https://images-eu.ssl-images-amazon.com/images/I/51-2v-UsnkL._SL200_.jpg)](https://www.amazon.es/dp/B07CVC12PW/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07CVC12PW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

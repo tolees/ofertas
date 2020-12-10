@@ -22,6 +22,9 @@ Está [Philips Azur Performer Plus GC4527/00 - Plancha de Vapor 2600W  golpe de 
 
 [![Philips Azur Performer Plus GC4527/00 - ](https://images-eu.ssl-images-amazon.com/images/I/41QedLCy7sL._SL200_.jpg)](https://www.amazon.es/dp/B01LZP3LHC/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01LZP3LHC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

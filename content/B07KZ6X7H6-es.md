@@ -22,6 +22,9 @@ Ahora mismo tienes [Cortefiel C1Bcc Canutillo Coolmax Pantalones Deportivos  Hom
 
 [![Cortefiel C1Bcc Canutillo Coolmax Pantal](https://images-eu.ssl-images-amazon.com/images/I/31BumgFtCrL._SL200_.jpg)](https://www.amazon.es/dp/B07KZ6X7H6/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07KZ6X7H6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

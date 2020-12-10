@@ -22,6 +22,9 @@ Está [Eachy Compatible con Cristal Templado Samsung Galaxy J3 2017 Vidrio Templ
 
 [![Eachy Compatible con Cristal Templado Sa](https://images-eu.ssl-images-amazon.com/images/I/41utE1BL1dL._SL200_.jpg)](https://www.amazon.es/dp/B07QXKK6V3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07QXKK6V3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

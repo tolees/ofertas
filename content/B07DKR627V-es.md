@@ -22,6 +22,9 @@ Está [Panasonic TX-55FZ800E - Televisor OLED de 55"  Color Negro](https://www.a
 
 [![Panasonic TX-55FZ800E - Televisor OLED d](https://images-eu.ssl-images-amazon.com/images/I/31F0sultxmL._SL200_.jpg)](https://www.amazon.es/dp/B07DKR627V/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DKR627V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

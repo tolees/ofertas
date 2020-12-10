@@ -22,6 +22,9 @@ Está [San Ignacio Navy Black Set de 3 sartenes + 4 Cuchillos 3 Utensilios de Co
 
 [![San Ignacio Navy Black Set de 3 sartenes](https://images-eu.ssl-images-amazon.com/images/I/51LH3zEna2L._SL200_.jpg)](https://www.amazon.es/dp/B07NYSBDH9/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NYSBDH9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

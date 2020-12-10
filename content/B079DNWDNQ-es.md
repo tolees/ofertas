@@ -22,6 +22,9 @@ Está [EISFEU Lámpara LED de techo moderna 24W  Plafón led de techo redonda  L
 
 [![EISFEU Lámpara LED de techo moderna 24W ](https://images-eu.ssl-images-amazon.com/images/I/316SHOUs91L._SL200_.jpg)](https://www.amazon.es/dp/B079DNWDNQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B079DNWDNQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

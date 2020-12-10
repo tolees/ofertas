@@ -22,6 +22,9 @@ Tienes [Homyl 1x Reloj de Entrenamiento con GPS y Registro Actividad con Sensor 
 
 [![Homyl 1x Reloj de Entrenamiento con GPS ](https://images-eu.ssl-images-amazon.com/images/I/413Oquu9T3L._SL200_.jpg)](https://www.amazon.es/dp/B07G3TTK2X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G3TTK2X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

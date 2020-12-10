@@ -22,6 +22,9 @@ Está [Mujer Pantalones Anchos Palazzo Alta División para Yoga Danza Ganduleado
 
 [![Mujer Pantalones Anchos Palazzo Alta Div](https://images-eu.ssl-images-amazon.com/images/I/41n9uzsDRuL._SL200_.jpg)](https://www.amazon.es/dp/B07C3ZYNRQ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C3ZYNRQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

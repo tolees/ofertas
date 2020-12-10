@@ -22,6 +22,9 @@ Ahora mismo tienes [Clarks Step Allenabay  Zapatillas para Mujer  Morado  Auberg
 
 [![Clarks Step Allenabay  Zapatillas para M](https://images-eu.ssl-images-amazon.com/images/I/31esxHyAjdL._SL200_.jpg)](https://www.amazon.es/dp/B07BCSD1KX/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07BCSD1KX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

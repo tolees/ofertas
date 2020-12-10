@@ -22,6 +22,9 @@ Ahora mismo tienes [AIVANE Tostadora  Tostadora Pan de 2 Rebanadas con 6 Niveles
 
 [![AIVANE Tostadora  Tostadora Pan de 2 Reb](https://images-eu.ssl-images-amazon.com/images/I/41rHbmHUpZL._SL200_.jpg)](https://www.amazon.es/dp/B07MV38P8Y/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07MV38P8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

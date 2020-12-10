@@ -22,6 +22,9 @@ Ahora mismo tienes [LEORX Face Contour Kit marcador maquillaje Kit 15 paleta cre
 
 [![LEORX Face Contour Kit marcador maquilla](https://images-eu.ssl-images-amazon.com/images/I/41BSVZ2or9L._SL200_.jpg)](https://www.amazon.es/dp/B018XDFIO8/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B018XDFIO8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Kingston KVR1333D3S9/8G - Memoria RAM DDR3  CL9 204-Pin SODIMM  1333  8 
 
 [![Kingston KVR1333D3S9/8G - Memoria RAM DD](https://images-eu.ssl-images-amazon.com/images/I/51bKiP%2BKGbL._SL200_.jpg)](https://www.amazon.es/dp/B0069RXHQW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B0069RXHQW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,16 @@ Tienes [HP 27FW - Monitor Full HD de 27"  1920 x 1080  panel IPS LED  16:9  HDMI
 
 [![HP 27FW - Monitor Full HD de 27"  1920 x](https://m.media-amazon.com/images/I/41+4IKPy8WL._SL200_.jpg)](https://www.amazon.es/dp/B07MSRJ11J/?tag=tolees-21)
 
+Características principales:
+
+- Nota sobre el tipo de entrada de pantalla: compatibilidad HDCP en entradas HDMI
+- Pantalla de 68.58 cm con audio y retroiluminación led
+- El diseño de microborde crea una experiencia de visualización más amplia
+- La tecnología ips te ofrece vistas claras desde casi cualquier ángulo
+- Tipo de entrada de la pantalla: 1 VGA, 2 HDMI 1.4
+- Un panel casi de borde a borde equivale a un área de pantalla maximizada y entretenimiento expansivo
+- Tecnología amd freesync
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MSRJ11J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Linterna Led Alta Potencia  Linterna de Mano con 4 Modos  Linterna Tácti
 
 [![Linterna Led Alta Potencia  Linterna de ](https://images-eu.ssl-images-amazon.com/images/I/41AWXyyzpbL._SL200_.jpg)](https://www.amazon.es/dp/B07DLWQ2P1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLWQ2P1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

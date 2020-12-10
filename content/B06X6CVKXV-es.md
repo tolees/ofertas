@@ -22,6 +22,9 @@ Tienes [Laken RF75P Botella Flexible y Plegable con Base y Poliuretano Termplás
 
 [![Laken RF75P Botella Flexible y Plegable ](https://images-eu.ssl-images-amazon.com/images/I/41w4NhL2A4L._SL200_.jpg)](https://www.amazon.es/dp/B06X6CVKXV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06X6CVKXV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [SYOSS - Hair Mascara - Cubre Canas - Color Rubio Oscuro - 2 uds de 16ml]
 
 [![SYOSS - Hair Mascara - Cubre Canas - Col](https://images-eu.ssl-images-amazon.com/images/I/3189VIj06RL._SL200_.jpg)](https://www.amazon.es/dp/B07N3RL8NY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07N3RL8NY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

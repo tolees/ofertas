@@ -22,6 +22,9 @@ Está [Lacoste Sport L1230  Polo para Hombre  Azul  Neottia Ad0  Medium  Talla d
 
 [![Lacoste Sport L1230  Polo para Hombre  A](https://images-eu.ssl-images-amazon.com/images/I/41Vemhr2SdL._SL200_.jpg)](https://www.amazon.es/dp/B07JGC7T5J/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JGC7T5J/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

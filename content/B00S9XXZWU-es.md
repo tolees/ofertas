@@ -22,6 +22,9 @@ Tienes [Lamberts Vitamina C 1000 mg - 180 Tabletas](https://www.amazon.es/dp/B00
 
 [![Lamberts Vitamina C 1000 mg - 180 Tablet](https://images-eu.ssl-images-amazon.com/images/I/51iDaTVZB5L._SL200_.jpg)](https://www.amazon.es/dp/B00S9XXZWU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00S9XXZWU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

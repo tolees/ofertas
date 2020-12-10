@@ -22,6 +22,9 @@ Tienes [Under Armour Micro G Pursuit Se  Zapatillas de Running para Mujer  Gris 
 
 [![Under Armour Micro G Pursuit Se  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41e3Bg28ofL._SL200_.jpg)](https://www.amazon.es/dp/B07CTPKL2K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CTPKL2K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

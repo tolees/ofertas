@@ -22,6 +22,9 @@ Está [Bellota M 3-1200 Mango de Madera](https://www.amazon.es/dp/B00F2NW2BU/?ta
 
 [![Bellota M 3-1200 Mango de Madera](https://images-eu.ssl-images-amazon.com/images/I/11HYwY5%2BnCL._SL200_.jpg)](https://www.amazon.es/dp/B00F2NW2BU/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B00F2NW2BU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

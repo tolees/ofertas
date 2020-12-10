@@ -22,6 +22,9 @@ Está [LANGRIA Carrito Auxiliar de 4 Baldas Metálicas con Ruedas y Pies Interca
 
 [![LANGRIA Carrito Auxiliar de 4 Baldas Met](https://images-eu.ssl-images-amazon.com/images/I/51k2KGwL3YL._SL200_.jpg)](https://www.amazon.es/dp/B075R55TRX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B075R55TRX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

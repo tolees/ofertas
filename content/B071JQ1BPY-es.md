@@ -22,6 +22,9 @@ Tienes [Menton Ezil Love Encounter` con Cristales Swarovski Brazalete Mujer Blan
 
 [![Menton Ezil Love Encounter` con Cristale](https://images-eu.ssl-images-amazon.com/images/I/41q4W%2B1SRBL._SL200_.jpg)](https://www.amazon.es/dp/B071JQ1BPY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B071JQ1BPY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

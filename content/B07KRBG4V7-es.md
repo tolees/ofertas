@@ -22,6 +22,9 @@ Tienes [adidas DT8637 Gym Backpack  Unisex Adulto   Dark Blue/Legend Ink/White  
 
 [![adidas DT8637 Gym Backpack  Unisex Adult](https://images-eu.ssl-images-amazon.com/images/I/41PGtCIKROL._SL200_.jpg)](https://www.amazon.es/dp/B07KRBG4V7/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KRBG4V7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

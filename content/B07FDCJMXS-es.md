@@ -22,6 +22,9 @@ Está [Guess Tamara  Botas Altas para Mujer  Negro Black  39 EU](https://www.ama
 
 [![Guess Tamara  Botas Altas para Mujer  Ne](https://images-eu.ssl-images-amazon.com/images/I/41e9y3cG8UL._SL200_.jpg)](https://www.amazon.es/dp/B07FDCJMXS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FDCJMXS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

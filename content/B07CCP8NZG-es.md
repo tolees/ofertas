@@ -22,6 +22,9 @@ Tienes [HP EliteBook 840 G5 - Ordenador Portátil Profesional 14" FullHD  Intel 
 
 [![HP EliteBook 840 G5 - Ordenador Portátil](https://images-eu.ssl-images-amazon.com/images/I/415GFM9brgL._SL200_.jpg)](https://www.amazon.es/dp/B07CCP8NZG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CCP8NZG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

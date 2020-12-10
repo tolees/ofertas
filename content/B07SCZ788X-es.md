@@ -22,6 +22,9 @@ Tienes [Samsonite S Cure - Spinner Equipaje de Mano 81 Centimeters 138 Azul  Sto
 
 [![Samsonite S Cure - Spinner Equipaje de M](https://images-eu.ssl-images-amazon.com/images/I/31TMc-alczL._SL200_.jpg)](https://www.amazon.es/dp/B07SCZ788X/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SCZ788X/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

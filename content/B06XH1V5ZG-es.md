@@ -22,6 +22,9 @@ Tienes [Bqeel Z83V Mini PC soporte Windows 10 Home/Intel Atom x5-Z8350 procesado
 
 [![Bqeel Z83V Mini PC soporte Windows 10 Ho](https://images-eu.ssl-images-amazon.com/images/I/41Lrvhmt%2BmL._SL200_.jpg)](https://www.amazon.es/dp/B06XH1V5ZG/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XH1V5ZG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

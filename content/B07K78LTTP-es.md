@@ -22,6 +22,9 @@ Está [Slender Man [Blu-ray]](https://www.amazon.es/dp/B07K78LTTP/?tag=tolees-21
 
 [![Slender Man [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51jclGJTXYL._SL200_.jpg)](https://www.amazon.es/dp/B07K78LTTP/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07K78LTTP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

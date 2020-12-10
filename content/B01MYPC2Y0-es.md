@@ -22,6 +22,9 @@ Tienes [SYROKAN - Sujetador Deportivo Máximo Soporte Sin Relleno para Mujer Ver
 
 [![SYROKAN - Sujetador Deportivo Máximo Sop](https://images-eu.ssl-images-amazon.com/images/I/51JlOLMx4ML._SL200_.jpg)](https://www.amazon.es/dp/B01MYPC2Y0/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B01MYPC2Y0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

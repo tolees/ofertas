@@ -22,6 +22,9 @@ Está [New Look Sporty Block 6067095 Polo  Blanco  White 10   Small  Talla del F
 
 [![New Look Sporty Block 6067095 Polo  Blan](https://images-eu.ssl-images-amazon.com/images/I/41i-jl9SiUL._SL200_.jpg)](https://www.amazon.es/dp/B07N6MWMQ6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07N6MWMQ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

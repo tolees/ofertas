@@ -22,6 +22,9 @@ Está [DKNY Intimates Modern Lights-Mesh Litewe Body  Negro  Black B7p     Talla
 
 [![DKNY Intimates Modern Lights-Mesh Litewe](https://images-eu.ssl-images-amazon.com/images/I/419ODjtDMwL._SL200_.jpg)](https://www.amazon.es/dp/B01GTAWZ6Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01GTAWZ6Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

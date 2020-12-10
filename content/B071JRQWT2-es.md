@@ -22,6 +22,9 @@ Está [TRESemmé Mascarilla Regenerador de Puntas  300 ml - Paquete de 6](https:
 
 [![TRESemmé Mascarilla Regenerador de Punta](https://images-eu.ssl-images-amazon.com/images/I/51guFiUV8cL._SL200_.jpg)](https://www.amazon.es/dp/B071JRQWT2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B071JRQWT2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

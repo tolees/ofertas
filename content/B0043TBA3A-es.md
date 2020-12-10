@@ -22,6 +22,9 @@ Está [Nalgene Everyday OTF - Cantimplora  0 7 L   Color Azul](https://www.amazo
 
 [![Nalgene Everyday OTF - Cantimplora  0 7 ](https://images-eu.ssl-images-amazon.com/images/I/31RH3pYTaUL._SL200_.jpg)](https://www.amazon.es/dp/B0043TBA3A/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0043TBA3A/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

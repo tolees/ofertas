@@ -22,6 +22,9 @@ Tienes [Bosch Professional 06019E3001 Aspiradora en seco y húmedo  12 V  Azul](
 
 [![Bosch Professional 06019E3001 Aspiradora](https://images-eu.ssl-images-amazon.com/images/I/41KLfRenROL._SL200_.jpg)](https://www.amazon.es/dp/B00NEKHUCE/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00NEKHUCE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

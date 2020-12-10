@@ -22,6 +22,9 @@ Está [JACK & JONES Jcostanford Knit Crew Neck Camp suéter para Hombre  Verde R
 
 [![JACK & JONES Jcostanford Knit Crew Neck ](https://images-eu.ssl-images-amazon.com/images/I/416szU1heoL._SL200_.jpg)](https://www.amazon.es/dp/B07FPXD5K4/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07FPXD5K4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

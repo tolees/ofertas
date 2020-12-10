@@ -22,6 +22,9 @@ Tienes [Reebok CL Leather MU  Zapatillas de Running para Hombre   estl-Black/Tru
 
 [![Reebok CL Leather MU  Zapatillas de Runn](https://images-eu.ssl-images-amazon.com/images/I/31r8XeAGgqL._SL200_.jpg)](https://www.amazon.es/dp/B07L9V3D2V/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07L9V3D2V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

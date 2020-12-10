@@ -22,6 +22,9 @@ Ahora mismo tienes [ENKEEO - Faja Lumbar  Faja Reductora para Hombre/Mujer  Faja
 
 [![ENKEEO - Faja Lumbar  Faja Reductora par](https://images-eu.ssl-images-amazon.com/images/I/51mytR6B0JL._SL200_.jpg)](https://www.amazon.es/dp/B06XK17MGW/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B06XK17MGW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

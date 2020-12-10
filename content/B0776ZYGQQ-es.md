@@ -22,6 +22,9 @@ Ahora mismo tienes [s.Oliver 23630  Zapatillas para Mujer  Rosa  Nude   37 EU](h
 
 [![s.Oliver 23630  Zapatillas para Mujer  R](https://images-eu.ssl-images-amazon.com/images/I/416UT3Auv0L._SL200_.jpg)](https://www.amazon.es/dp/B0776ZYGQQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0776ZYGQQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

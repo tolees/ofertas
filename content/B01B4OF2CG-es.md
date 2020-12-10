@@ -22,6 +22,9 @@ Está [Max Factor Colour Elixir Marilyn Monroe Collection Barra de Labios Tono 2
 
 [![Max Factor Colour Elixir Marilyn Monroe ](https://images-eu.ssl-images-amazon.com/images/I/412plzHNRKL._SL200_.jpg)](https://www.amazon.es/dp/B01B4OF2CG/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01B4OF2CG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [EZARC 3D-MAX Multi herramientas Oscilantes 3 in 1 Multifuncional Hoja par
 
 [![EZARC 3D-MAX Multi herramientas Oscilant](https://images-eu.ssl-images-amazon.com/images/I/41RnfmQmnZL._SL200_.jpg)](https://www.amazon.es/dp/B07C9XZKTH/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07C9XZKTH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

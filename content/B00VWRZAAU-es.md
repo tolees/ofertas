@@ -22,6 +22,9 @@ Tienes [Viking ULTRA 2.0 Botas de Material Sintético para Niños  rosa  fuchsia
 
 [![Viking ULTRA 2.0 Botas de Material Sinté](https://images-eu.ssl-images-amazon.com/images/I/41MDg6N6tNL._SL200_.jpg)](https://www.amazon.es/dp/B00VWRZAAU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00VWRZAAU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

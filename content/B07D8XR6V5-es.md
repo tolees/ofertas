@@ -22,6 +22,9 @@ Ahora mismo tienes [Asmuse™ Trigger Cejilla Guitarra Española Electricas Clá
 
 [![Asmuse™ Trigger Cejilla Guitarra Español](https://images-eu.ssl-images-amazon.com/images/I/51EGApBg55L._SL200_.jpg)](https://www.amazon.es/dp/B07D8XR6V5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07D8XR6V5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

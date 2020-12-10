@@ -22,6 +22,9 @@ Está [Medion Akoya S22001  MD 34036  - Mini Ordenador de sobremesa  Intel Celer
 
 [![Medion Akoya S22001  MD 34036  - Mini Or](https://images-eu.ssl-images-amazon.com/images/I/41Cnp4KwqCL._SL200_.jpg)](https://www.amazon.es/dp/B076VTQ6LD/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076VTQ6LD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

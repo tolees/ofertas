@@ -22,6 +22,9 @@ Tienes [Wilson Fusion XL Raqueta  Unisex Adulto  Rojo/Negro  2](https://www.amaz
 
 [![Wilson Fusion XL Raqueta  Unisex Adulto ](https://images-eu.ssl-images-amazon.com/images/I/419Mz3oIAEL._SL200_.jpg)](https://www.amazon.es/dp/B06X3VZBSQ/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B06X3VZBSQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

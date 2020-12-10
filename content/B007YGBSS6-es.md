@@ -22,6 +22,9 @@ Está [Bloch Kids Girls Arabella Animal 168430-30 - Bailarinas para niña  Color
 
 [![Bloch Kids Girls Arabella Animal 168430-](https://images-eu.ssl-images-amazon.com/images/I/41sZEn1%2BkcL._SL200_.jpg)](https://www.amazon.es/dp/B007YGBSS6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B007YGBSS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

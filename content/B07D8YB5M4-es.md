@@ -22,6 +22,9 @@ Tienes [Tommy Hilfiger 3p Trunk  Bóxers Para Hombre  Azul  Blue Heaven/Mazzarin
 
 [![Tommy Hilfiger 3p Trunk  Bóxers Para Hom](https://images-eu.ssl-images-amazon.com/images/I/411ABSZlv8L._SL200_.jpg)](https://www.amazon.es/dp/B07D8YB5M4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D8YB5M4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

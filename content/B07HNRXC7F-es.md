@@ -22,6 +22,9 @@ Ahora mismo tienes [Barra de Sonido  Wellwerks 95W Altavoz de Audio para TV Blue
 
 [![Barra de Sonido  Wellwerks 95W Altavoz d](https://images-eu.ssl-images-amazon.com/images/I/31WU1bh8EcL._SL200_.jpg)](https://www.amazon.es/dp/B07HNRXC7F/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07HNRXC7F/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

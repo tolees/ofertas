@@ -22,6 +22,9 @@ Está [Cortabordes  28V TECCPO 4.0Ah Cortabordes Eléctrico  Diámetro de Corte 
 
 [![Cortabordes  28V TECCPO 4.0Ah Cortaborde](https://images-eu.ssl-images-amazon.com/images/I/414AM7GTX4L._SL200_.jpg)](https://www.amazon.es/dp/B07DR8BFM1/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DR8BFM1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Supra Hammer Run  Zapatillas para Hombre  Gris  Lt Grey/Risk Red-White 05
 
 [![Supra Hammer Run  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41f2iP9v33L._SL200_.jpg)](https://www.amazon.es/dp/B07DMB3PT6/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07DMB3PT6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

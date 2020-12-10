@@ -22,6 +22,9 @@ Tienes [LOSMILE Mujer Bolsos mochila Bolsos de mano Bolsos bandolera Mochila de 
 
 [![LOSMILE Mujer Bolsos mochila Bolsos de m](https://images-eu.ssl-images-amazon.com/images/I/41cF9Pez5UL._SL200_.jpg)](https://www.amazon.es/dp/B07DYM4SQ4/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DYM4SQ4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

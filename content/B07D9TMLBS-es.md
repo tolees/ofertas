@@ -22,6 +22,9 @@ Está [Puma Future 2.4 MG Jr  Zapatillas de Fútbol para Niños  Negro Black-Sho
 
 [![Puma Future 2.4 MG Jr  Zapatillas de Fút](https://images-eu.ssl-images-amazon.com/images/I/41oJA4hqWvL._SL200_.jpg)](https://www.amazon.es/dp/B07D9TMLBS/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07D9TMLBS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Einhell TE-MX 1600-2 CE - Batidor de pintura y mortero  1600 W  caja de 
 
 [![Einhell TE-MX 1600-2 CE - Batidor de pin](https://images-eu.ssl-images-amazon.com/images/I/31YwHq%2BD6yL._SL200_.jpg)](https://www.amazon.es/dp/B015VQKQRY/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B015VQKQRY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

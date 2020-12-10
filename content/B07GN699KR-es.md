@@ -22,6 +22,9 @@ Está [Aingoo Silla de Oficina de Malla Silla de Trabajo para computadora con Re
 
 [![Aingoo Silla de Oficina de Malla Silla d](https://images-eu.ssl-images-amazon.com/images/I/41X4nxpUsuL._SL200_.jpg)](https://www.amazon.es/dp/B07GN699KR/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07GN699KR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

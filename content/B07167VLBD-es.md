@@ -22,6 +22,9 @@ Tienes [Prada Candy Gloss Agua de Colonia - 30 ml](https://www.amazon.es/dp/B071
 
 [![Prada Candy Gloss Agua de Colonia - 30 m](https://images-eu.ssl-images-amazon.com/images/I/51U385hlW%2BL._SL200_.jpg)](https://www.amazon.es/dp/B07167VLBD/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07167VLBD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

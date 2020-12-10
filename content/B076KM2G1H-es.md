@@ -22,6 +22,9 @@ Está [Apple iPhone X - Smartphone de 5.8"  256 GB  cámara de 12 MP  iOS   Plat
 
 [![Apple iPhone X - Smartphone de 5.8"  256](https://images-eu.ssl-images-amazon.com/images/I/31DblSBnVyL._SL200_.jpg)](https://www.amazon.es/dp/B076KM2G1H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B076KM2G1H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

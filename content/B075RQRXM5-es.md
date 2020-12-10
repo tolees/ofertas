@@ -22,6 +22,9 @@ Ahora mismo tienes [BQ Aquaris V Plus - Smartphone DE 5.5"  WiFi  3 GB de RAM  3
 
 [![BQ Aquaris V Plus - Smartphone DE 5.5"  ](https://images-eu.ssl-images-amazon.com/images/I/41lFsTsRwiL._SL200_.jpg)](https://www.amazon.es/dp/B075RQRXM5/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B075RQRXM5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

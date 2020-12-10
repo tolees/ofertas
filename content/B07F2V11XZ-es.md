@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Fast Trek II Jacket Forro Polar  Mujer  Rosa  Cactu
 
 [![Columbia Fast Trek II Jacket Forro Polar](https://images-eu.ssl-images-amazon.com/images/I/418maAzguOL._SL200_.jpg)](https://www.amazon.es/dp/B07F2V11XZ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07F2V11XZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

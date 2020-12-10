@@ -22,6 +22,9 @@ Está [Béaba 913414 - Set de 4 cucharas ergonómicas  primera edad](https://www
 
 [![Béaba 913414 - Set de 4 cucharas ergonóm](https://images-eu.ssl-images-amazon.com/images/I/41whzmz6-LL._SL200_.jpg)](https://www.amazon.es/dp/B01MU3UNPF/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01MU3UNPF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

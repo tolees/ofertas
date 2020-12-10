@@ -22,6 +22,9 @@ Está [arena M Dynamo 5.5cm Brief  Hombre  Navy  95](https://www.amazon.es/dp/B0
 
 [![arena M Dynamo 5.5cm Brief  Hombre  Navy](https://images-eu.ssl-images-amazon.com/images/I/41UjAV1q%2BbL._SL200_.jpg)](https://www.amazon.es/dp/B01NCLZG0H/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCLZG0H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

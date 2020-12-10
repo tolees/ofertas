@@ -22,6 +22,14 @@ Ahora mismo tienes [Max Factor  Maquillaje corrector  Tono: 004 Deep  Pieles Osc
 
 [![Max Factor  Maquillaje corrector  Tono: ](https://m.media-amazon.com/images/I/31lneS+l5-L._SL200_.jpg)](https://www.amazon.es/dp/B07G57JY1H/?tag=tolees-21)
 
+Características:
+
+- Textura ligera y cómoda en la piel
+- Oculta los signos de fatiga y minimiza las líneas finas de expresión con acción anti-edad
+- Crea tu look de rostro perfecto con la base de maquillaje Radiant Lift
+- Cuida tu piel con vitaminas C y e
+- Corrector Radiant Lift de Max Factor de larga duración y acabado luminoso
+
 [Visítala!!!](https://www.amazon.es/dp/B07G57JY1H/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

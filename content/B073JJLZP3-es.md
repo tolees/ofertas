@@ -22,6 +22,9 @@ Está [Philips 8718696706350 Bombilla LED Vela E14  2.2 W  Blanco](https://www.a
 
 [![Philips 8718696706350 Bombilla LED Vela ](https://images-eu.ssl-images-amazon.com/images/I/21zwV0RML%2BL._SL200_.jpg)](https://www.amazon.es/dp/B073JJLZP3/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073JJLZP3/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Farmatint Gel 1N Negro. Tinte permanente. Cabello natural y 
 
 [![Farmatint Gel 1N Negro. Tinte permanente](https://images-eu.ssl-images-amazon.com/images/I/41p6fKVjRtL._SL200_.jpg)](https://www.amazon.es/dp/B00J5FYBOM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00J5FYBOM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

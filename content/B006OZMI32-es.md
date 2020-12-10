@@ -22,6 +22,9 @@ Ahora mismo tienes [Meguiar s Car Care Products ME G19216 Ultimate Polish](https
 
 [![Meguiar s Car Care Products ME G19216 Ul](https://images-eu.ssl-images-amazon.com/images/I/41HLSiTZwJL._SL200_.jpg)](https://www.amazon.es/dp/B006OZMI32/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B006OZMI32/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

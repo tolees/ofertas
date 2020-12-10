@@ -22,6 +22,9 @@ Tienes [Calvin Klein Perfume - 100 ml](https://www.amazon.es/dp/B019WZR5VU/?tag=
 
 [![Calvin Klein Perfume - 100 ml](https://images-eu.ssl-images-amazon.com/images/I/319nJkMQXWL._SL200_.jpg)](https://www.amazon.es/dp/B019WZR5VU/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B019WZR5VU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

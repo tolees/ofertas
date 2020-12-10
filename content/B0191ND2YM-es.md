@@ -22,6 +22,9 @@ Está [New Balance 390v2  Zapatillas de Running para Hombre  Azul  Navy/White   
 
 [![New Balance 390v2  Zapatillas de Running](https://images-eu.ssl-images-amazon.com/images/I/41atud-5CgL._SL200_.jpg)](https://www.amazon.es/dp/B0191ND2YM/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0191ND2YM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

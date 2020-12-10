@@ -22,6 +22,9 @@ Ahora mismo tienes [The North Face M Hedgehg Fp GTX EU   Zapatillas de Senderism
 
 [![The North Face M Hedgehg Fp GTX EU   Zap](https://images-eu.ssl-images-amazon.com/images/I/41IHfO%2BTwQL._SL200_.jpg)](https://www.amazon.es/dp/B07N394CJV/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07N394CJV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

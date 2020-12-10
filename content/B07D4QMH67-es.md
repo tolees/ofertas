@@ -22,6 +22,9 @@ Tienes [Fjällräven Kanken Mochila tipo casual  38 cm  16 litros  Glacier Verde
 
 [![Fjällräven Kanken Mochila tipo casual  3](https://images-eu.ssl-images-amazon.com/images/I/41hUrkec1JL._SL200_.jpg)](https://www.amazon.es/dp/B07D4QMH67/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D4QMH67/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

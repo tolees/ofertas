@@ -22,6 +22,9 @@ Ahora mismo tienes [Joma Grafity Malla Corsaria  Mujer  Negro  M](https://www.am
 
 [![Joma Grafity Malla Corsaria  Mujer  Negr](https://images-eu.ssl-images-amazon.com/images/I/51QRIEifObL._SL200_.jpg)](https://www.amazon.es/dp/B0722VSBRD/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B0722VSBRD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

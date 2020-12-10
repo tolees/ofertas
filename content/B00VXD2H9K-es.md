@@ -22,6 +22,9 @@ Ahora mismo tienes [G-STAR Attacc Straight - Pantalones para Hombre  Negro  Medi
 
 [![G-STAR Attacc Straight - Pantalones para](https://images-eu.ssl-images-amazon.com/images/I/41ofXpbXuPL._SL200_.jpg)](https://www.amazon.es/dp/B00VXD2H9K/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B00VXD2H9K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

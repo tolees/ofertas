@@ -22,6 +22,9 @@ Tienes [Buffalo LinkStation 210  LS210D0301-EU  Unidad RAID  HDD  Marvell  800 G
 
 [![Buffalo LinkStation 210  LS210D0301-EU  ](https://images-eu.ssl-images-amazon.com/images/I/31tNtFveVzL._SL200_.jpg)](https://www.amazon.es/dp/B00IAEDT60/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00IAEDT60/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

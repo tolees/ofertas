@@ -22,6 +22,9 @@ Tienes [homgeek horno de microondas con frontal de espejo  20L  700W  6 niveles 
 
 [![homgeek horno de microondas con frontal ](https://images-eu.ssl-images-amazon.com/images/I/41cy9ckrteL._SL200_.jpg)](https://www.amazon.es/dp/B07FVVXCZ5/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FVVXCZ5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [5BILLION Juego de Bandas de Ejercicio de Bandas de resistencia-12  x3  B
 
 [![5BILLION Juego de Bandas de Ejercicio de](https://images-eu.ssl-images-amazon.com/images/I/411O5upY%2BLL._SL200_.jpg)](https://www.amazon.es/dp/B07MD5PMJ6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07MD5PMJ6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

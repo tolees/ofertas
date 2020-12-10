@@ -22,6 +22,9 @@ Está [Nokia 7.1 - Smartphone de 5.84"  Qualcomm Snapdragon 636 1.8 GHz  RAM de 
 
 [![Nokia 7.1 - Smartphone de 5.84"  Qualcom](https://images-eu.ssl-images-amazon.com/images/I/41StAw43xML._SL200_.jpg)](https://www.amazon.es/dp/B07JR5M7HJ/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07JR5M7HJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

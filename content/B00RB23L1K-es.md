@@ -22,6 +22,9 @@ Tienes [SKYSPER 12BB 6.3:1 izquierda/derecha intercambiable manija plegable de g
 
 [![SKYSPER 12BB 6.3:1 izquierda/derecha int](https://images-eu.ssl-images-amazon.com/images/I/41OcQDSrpjL._SL200_.jpg)](https://www.amazon.es/dp/B00RB23L1K/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00RB23L1K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

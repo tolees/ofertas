@@ -22,6 +22,9 @@ Ahora mismo tienes [LOBKIN Set de regalo de 12 bombas de baño. Regalo ideal par
 
 [![LOBKIN Set de regalo de 12 bombas de bañ](https://images-eu.ssl-images-amazon.com/images/I/51fZmVe8dZL._SL200_.jpg)](https://www.amazon.es/dp/B07CNHPLB1/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07CNHPLB1/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

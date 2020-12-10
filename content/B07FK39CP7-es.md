@@ -22,6 +22,9 @@ Ahora mismo tienes [Hummel Aerocharge HB 200 2.0 WS  Zapatillas de Deporte Inter
 
 [![Hummel Aerocharge HB 200 2.0 WS  Zapatil](https://images-eu.ssl-images-amazon.com/images/I/41dYuw%2BDD7L._SL200_.jpg)](https://www.amazon.es/dp/B07FK39CP7/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07FK39CP7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

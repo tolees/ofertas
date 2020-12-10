@@ -22,6 +22,9 @@ Ahora mismo tienes [SUAOKI 1A 6V/12V Cargador de Batería Portátil  Mantenimien
 
 [![SUAOKI 1A 6V/12V Cargador de Batería Por](https://images-eu.ssl-images-amazon.com/images/I/517Rse%2BG5RL._SL200_.jpg)](https://www.amazon.es/dp/B07GBRC1LQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B07GBRC1LQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

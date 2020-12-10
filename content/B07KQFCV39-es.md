@@ -22,6 +22,9 @@ Está [Asus TUF Gaming H5 Lite Diadema Negro - Auriculares con micrófono  PC/Ju
 
 [![Asus TUF Gaming H5 Lite Diadema Negro - ](https://images-eu.ssl-images-amazon.com/images/I/316MLkgELyL._SL200_.jpg)](https://www.amazon.es/dp/B07KQFCV39/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07KQFCV39/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [PIECES Pcfortuna LS Wool Knit Noos  suéter para Mujer  Negro  Black  40
 
 [![PIECES Pcfortuna LS Wool Knit Noos  suét](https://images-eu.ssl-images-amazon.com/images/I/412HzgPsCBL._SL200_.jpg)](https://www.amazon.es/dp/B07DM9YH8Y/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DM9YH8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

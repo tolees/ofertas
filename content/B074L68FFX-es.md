@@ -22,6 +22,9 @@ Está [Kappa Orbit  Zapatillas Unisex Adulto  Gris  Grey 1616   37 EU](https://w
 
 [![Kappa Orbit  Zapatillas Unisex Adulto  G](https://images-eu.ssl-images-amazon.com/images/I/41DxeBanxsL._SL200_.jpg)](https://www.amazon.es/dp/B074L68FFX/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B074L68FFX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

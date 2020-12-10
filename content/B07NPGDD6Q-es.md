@@ -22,6 +22,9 @@ Está [Teclast A10H-tablet 10.1 Pulgadas Android 7.0 Quad Core 2GB RAM +16GB ROM
 
 [![Teclast A10H-tablet 10.1 Pulgadas Androi](https://images-eu.ssl-images-amazon.com/images/I/41pxJfaWYSL._SL200_.jpg)](https://www.amazon.es/dp/B07NPGDD6Q/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B07NPGDD6Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [VicTsing Aspirador Mano Inalámbrico de Doble Uso-Homasy  Aspirador de C
 
 [![VicTsing Aspirador Mano Inalámbrico de D](https://images-eu.ssl-images-amazon.com/images/I/41Gr99qSVFL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ8NYTX/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07CZ8NYTX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

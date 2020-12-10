@@ -22,6 +22,9 @@ Está [Reebok Fithex Tr  Zapatillas de Deporte para Mujer  Negro  Black / White 
 
 [![Reebok Fithex Tr  Zapatillas de Deporte ](https://images-eu.ssl-images-amazon.com/images/I/41mup41xLBL._SL200_.jpg)](https://www.amazon.es/dp/B073RM6LSN/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B073RM6LSN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

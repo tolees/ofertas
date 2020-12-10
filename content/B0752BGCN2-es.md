@@ -22,6 +22,9 @@ Está [G-STAR RAW D-STAQ 5-Pocket Slim  Jeans  Azul  medium indigo aged 8968-602
 
 [![G-STAR RAW D-STAQ 5-Pocket Slim  Jeans  ](https://images-eu.ssl-images-amazon.com/images/I/31Tn-b7nQiL._SL200_.jpg)](https://www.amazon.es/dp/B0752BGCN2/?tag=tolees-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.es/dp/B0752BGCN2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

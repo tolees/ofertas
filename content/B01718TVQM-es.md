@@ -22,6 +22,9 @@ Ahora mismo tienes [DDP F4WEAM7-Blusa Mujer Negro  Talla del Fabricante: L ](htt
 
 [![DDP F4WEAM7-Blusa Mujer Negro  Talla del](https://images-eu.ssl-images-amazon.com/images/I/41WeCCennbL._SL200_.jpg)](https://www.amazon.es/dp/B01718TVQM/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B01718TVQM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

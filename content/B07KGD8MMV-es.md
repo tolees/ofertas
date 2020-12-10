@@ -22,6 +22,9 @@ Tienes [BOSS Schino-Slim D Pantalones  Verde  Open Green 345   W30/L32  Talla de
 
 [![BOSS Schino-Slim D Pantalones  Verde  Op](https://images-eu.ssl-images-amazon.com/images/I/31jjEQOytmL._SL200_.jpg)](https://www.amazon.es/dp/B07KGD8MMV/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KGD8MMV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

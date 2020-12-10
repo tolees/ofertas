@@ -22,6 +22,9 @@ Tienes [Dickies Slim Fit Straight - Pantalones para hombre  Negro  Black   W38/L
 
 [![Dickies Slim Fit Straight - Pantalones p](https://images-eu.ssl-images-amazon.com/images/I/31rNlfGunxL._SL200_.jpg)](https://www.amazon.es/dp/B008J7DGB6/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B008J7DGB6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Reebok PT Prime Runner FC  Zapatillas de Trail Running para Hombre   Tin
 
 [![Reebok PT Prime Runner FC  Zapatillas de](https://images-eu.ssl-images-amazon.com/images/I/418G9S6Yo0L._SL200_.jpg)](https://www.amazon.es/dp/B07DS6C2T9/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DS6C2T9/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

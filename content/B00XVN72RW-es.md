@@ -22,6 +22,9 @@ Tienes [NGS Grid 500 - Regleta con 5 enchufes](https://www.amazon.es/dp/B00XVN72
 
 [![NGS Grid 500 - Regleta con 5 enchufes](https://images-eu.ssl-images-amazon.com/images/I/41wPKbuEHHL._SL200_.jpg)](https://www.amazon.es/dp/B00XVN72RW/?tag=tolees-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.es/dp/B00XVN72RW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

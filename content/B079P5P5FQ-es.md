@@ -22,6 +22,9 @@ Ahora mismo tienes [Furla - 941911  Bolsos bandolera Mujer  Negro  Onyx   9x15x2
 
 [![Furla - 941911  Bolsos bandolera Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/416vNFvnMkL._SL200_.jpg)](https://www.amazon.es/dp/B079P5P5FQ/?tag=tolees-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.es/dp/B079P5P5FQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
