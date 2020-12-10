@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Dolce & Gabbana Perfumes y Fragancias Light Blue Eau Intense Eau de Perfumé Vaporizador - 25 ml'
 ---
 
-Está [Dolce & Gabbana Perfumes y Fragancias Light Blue Eau Intense Eau de Perfumé Vaporizador - 25 ml](https://www.amazon.es/dp/B071HY4NVC/?tag=tolees-21) con 30.37 de descuento por 37.95 EUR (original: 54.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dolce & Gabbana Perfumes y Fragancias Light Blue Eau Intense Eau de Perfumé Vaporizador - 25 ml](https://www.amazon.es/dp/B071HY4NVC/?tag=tolees-21) a 37.95 EUR (original: 54.5 EUR) (30.37 %  de descuento) en el siguiente enlace!
 
 [![Dolce & Gabbana Perfumes y Fragancias Li](https://images-eu.ssl-images-amazon.com/images/I/314iX6oCPDL._SL200_.jpg)](https://www.amazon.es/dp/B071HY4NVC/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B071HY4NVC/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B071HY4NVC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

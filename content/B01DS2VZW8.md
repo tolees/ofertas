@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Redken Champú - 1000 ml'
 ---
 
-Ahora mismo tienes [Redken Champú - 1000 ml](https://www.amazon.es/dp/B01DS2VZW8/?tag=tolees-21) a 32.96 EUR (original: 61.5 EUR) (46.41 %  de descuento) en el siguiente enlace!
+Está [Redken Champú - 1000 ml](https://www.amazon.es/dp/B01DS2VZW8/?tag=tolees-21) con 46.41 de descuento por 32.96 EUR (original: 61.5 EUR) en el siguiente enlace!
 
 [![Redken Champú - 1000 ml](https://images-eu.ssl-images-amazon.com/images/I/31mqxIiGtKL._SL200_.jpg)](https://www.amazon.es/dp/B01DS2VZW8/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01DS2VZW8/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01DS2VZW8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Marvel vs. Capcom Infinite'
 ---
 
-Ahora mismo tienes [Marvel vs. Capcom Infinite](https://www.amazon.es/dp/B073ZPHNNN/?tag=tolees-21) a 14.73 EUR (original: 19.86 EUR) (25.83 %  de descuento) en el siguiente enlace!
+Está [Marvel vs. Capcom Infinite](https://www.amazon.es/dp/B073ZPHNNN/?tag=tolees-21) con 25.83 de descuento por 14.73 EUR (original: 19.86 EUR) en el siguiente enlace!
 
 [![Marvel vs. Capcom Infinite](https://m.media-amazon.com/images/I/61jmVPMObSL._SL200_.jpg)](https://www.amazon.es/dp/B073ZPHNNN/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B073ZPHNNN/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B073ZPHNNN/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

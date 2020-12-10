@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Melissa & Doug- Created by Me Heart Beads Kit de Cuentas de Madera  Multicolor  14175    color/modelo surtido'
 ---
 
-Está [Melissa & Doug- Created by Me Heart Beads Kit de Cuentas de Madera  Multicolor  14175    color/modelo surtido](https://www.amazon.es/dp/B004PBLOPU/?tag=tolees-21) con 30.03 de descuento por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Melissa & Doug- Created by Me Heart Beads Kit de Cuentas de Madera  Multicolor  14175    color/modelo surtido](https://www.amazon.es/dp/B004PBLOPU/?tag=tolees-21) a 6.99 EUR (original: 9.99 EUR) (30.03 %  de descuento) en el siguiente enlace!
 
 [![Melissa & Doug- Created by Me Heart Bead](https://m.media-amazon.com/images/I/41R5gd3P6CL._SL200_.jpg)](https://www.amazon.es/dp/B004PBLOPU/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B004PBLOPU/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B004PBLOPU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

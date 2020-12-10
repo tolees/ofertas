@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Neutrogena Hydro Boost Bálsamo Corporal - 200 ml.'
 ---
 
-Está [Neutrogena Hydro Boost Bálsamo Corporal - 200 ml.](https://www.amazon.es/dp/B078VMLPQR/?tag=tolees-21) con 25.47 de descuento por 3.95 EUR (original: 5.3 EUR) en el siguiente enlace!
+Ahora mismo tienes [Neutrogena Hydro Boost Bálsamo Corporal - 200 ml.](https://www.amazon.es/dp/B078VMLPQR/?tag=tolees-21) a 3.95 EUR (original: 5.3 EUR) (25.47 %  de descuento) en el siguiente enlace!
 
 [![Neutrogena Hydro Boost Bálsamo Corporal ](https://m.media-amazon.com/images/I/41APc-ZSClL._SL200_.jpg)](https://www.amazon.es/dp/B078VMLPQR/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078VMLPQR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B078VMLPQR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
