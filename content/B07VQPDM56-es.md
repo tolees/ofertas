@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'SanDisk iXpand Go - Memoria Flash USB de al 40.91 % de descuento'
+date: 2020-11-28 13:24:57
+thumbnailImage: 'https://m.media-amazon.com/images/I/317t17SbgLL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/317t17SbgLL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07VQPDM56-es'
+description:
+actualPrice: 64.99 EUR
+currency: EUR
+price: 64.99
+comparePrice: 109.99 EUR
+inStock: true
+prodname: 'SanDisk iXpand Go - Memoria Flash USB de 256 GB para iPhone y iPad'
+country: 'es'
+---
+
+Está [SanDisk iXpand Go - Memoria Flash USB de 256 GB para iPhone y iPad](https://www.amazon.es/dp/B07VQPDM56/?tag=tolees-21) con 40.91 de descuento por 64.99 EUR (original: 109.99 EUR) en el siguiente enlace!
+
+[![SanDisk iXpand Go - Memoria Flash USB de](https://m.media-amazon.com/images/I/317t17SbgLL._SL200_.jpg)](https://www.amazon.es/dp/B07VQPDM56/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07VQPDM56/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

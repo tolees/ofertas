@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Greenworks Cortacésped con batería G24X2 al 43.75 % de descuento'
+date: 2020-11-18 18:05:38
+thumbnailImage: 'https://m.media-amazon.com/images/I/41OSey5xIuL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41OSey5xIuL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B084D8LM4Y-es'
+description:
+actualPrice: 224.99 EUR
+currency: EUR
+price: 224.99
+comparePrice: 399.99 EUR
+inStock: true
+prodname: 'Greenworks Cortacésped con batería G24X2LM412x  Li-Ion 24V/48V 41cm ancho corte hasta 220m² 50L recolector de hierba 6x ajuste central altura corte incluyendo 2x 2Ah batería y cargador '
+country: 'es'
+---
+
+Está [Greenworks Cortacésped con batería G24X2LM412x  Li-Ion 24V/48V 41cm ancho corte hasta 220m² 50L recolector de hierba 6x ajuste central altura corte incluyendo 2x 2Ah batería y cargador ](https://www.amazon.es/dp/B084D8LM4Y/?tag=tolees-21) con 43.75 de descuento por 224.99 EUR (original: 399.99 EUR) en el siguiente enlace!
+
+[![Greenworks Cortacésped con batería G24X2](https://m.media-amazon.com/images/I/41OSey5xIuL._SL200_.jpg)](https://www.amazon.es/dp/B084D8LM4Y/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B084D8LM4Y/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

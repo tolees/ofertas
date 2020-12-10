@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 31.34 % en Xiaomi VXN4286GL POWERBANK REDMI Power B'
+date: 2020-11-27 07:13:11
+thumbnailImage: 'https://m.media-amazon.com/images/I/21+lVDRZGrL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/21+lVDRZGrL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B081K7WVC7-es'
+description:
+actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
+comparePrice: 14.55 EUR
+inStock: true
+prodname: 'Xiaomi VXN4286GL POWERBANK REDMI Power Bank 10000MAH White'
+country: 'es'
+---
+
+Tienes [Xiaomi VXN4286GL POWERBANK REDMI Power Bank 10000MAH White](https://www.amazon.es/dp/B081K7WVC7/?tag=tolees-21) con un 31.34 % de descuento con precio de oferta de 9.99 EUR (original: 14.55 EUR) en el siguiente enlace!
+
+[![Xiaomi VXN4286GL POWERBANK REDMI Power B](https://m.media-amazon.com/images/I/21+lVDRZGrL._SL200_.jpg)](https://www.amazon.es/dp/B081K7WVC7/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B081K7WVC7/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

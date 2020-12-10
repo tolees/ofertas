@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 30.41 % en Metaltex Tidy-Tex - Organizador Modular '
+date: 2020-12-02 11:38:03
+thumbnailImage: 'https://m.media-amazon.com/images/I/41yUek7QvpL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41yUek7QvpL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B06X9H6XN5-es'
+description:
+actualPrice: 11.49 EUR
+currency: EUR
+price: 11.49
+comparePrice: 16.51 EUR
+inStock: true
+prodname: 'Metaltex Tidy-Tex - Organizador Modular de Limpieza de Cocina  Gris'
+country: 'es'
+---
+
+Tienes [Metaltex Tidy-Tex - Organizador Modular de Limpieza de Cocina  Gris](https://www.amazon.es/dp/B06X9H6XN5/?tag=tolees-21) con un 30.41 % de descuento con precio de oferta de 11.49 EUR (original: 16.51 EUR) en el siguiente enlace!
+
+[![Metaltex Tidy-Tex - Organizador Modular ](https://m.media-amazon.com/images/I/41yUek7QvpL._SL200_.jpg)](https://www.amazon.es/dp/B06X9H6XN5/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B06X9H6XN5/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

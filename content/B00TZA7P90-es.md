@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Kempa Emotion Shorts Pantalones cortos   al 64.78 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41HUMCQT1OL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41HUMCQT1OL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00TZA7P90-es'
+description:
+actualPrice: 8.95 EUR
+currency: EUR
+price: 8.95
+comparePrice: 25.41 EUR
+inStock: true
+prodname: 'Kempa Emotion Shorts Pantalones cortos  Hombre  Multicolor  Amarillo/Negro   2XL'
+country: 'es'
+---
+
+Está [Kempa Emotion Shorts Pantalones cortos  Hombre  Multicolor  Amarillo/Negro   2XL](https://www.amazon.es/dp/B00TZA7P90/?tag=tolees-21) con 64.78 de descuento por 8.95 EUR (original: 25.41 EUR) en el siguiente enlace!
+
+[![Kempa Emotion Shorts Pantalones cortos  ](https://images-eu.ssl-images-amazon.com/images/I/41HUMCQT1OL._SL200_.jpg)](https://www.amazon.es/dp/B00TZA7P90/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B00TZA7P90/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

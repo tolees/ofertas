@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Philips 275E1S/00 - Monitor de 27" Quad  al 43.15 % de descuento'
+date: 2020-11-19 12:43:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Bhc6WT1vL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Bhc6WT1vL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07TV2J72X-es'
+description:
+actualPrice: 169.99 EUR
+currency: EUR
+price: 169.99
+comparePrice: 299.0 EUR
+inStock: true
+prodname: 'Philips 275E1S/00 - Monitor de 27" Quad HD  2560x1440   75 Hz  4 ms  FreeSync/AdptiveSync  FlickerFree  HDMI  Displayport  VGA   Negro'
+country: 'es'
+---
+
+Ahora mismo tienes [Philips 275E1S/00 - Monitor de 27" Quad HD  2560x1440   75 Hz  4 ms  FreeSync/AdptiveSync  FlickerFree  HDMI  Displayport  VGA   Negro](https://www.amazon.es/dp/B07TV2J72X/?tag=tolees-21) a 169.99 EUR (original: 299.0 EUR) (43.15 %  de descuento) en el siguiente enlace!
+
+[![Philips 275E1S/00 - Monitor de 27" Quad ](https://m.media-amazon.com/images/I/41Bhc6WT1vL._SL200_.jpg)](https://www.amazon.es/dp/B07TV2J72X/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07TV2J72X/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

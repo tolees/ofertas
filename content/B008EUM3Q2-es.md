@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 28.71 % en Urko 2432390 Puntal Extensible 43129-160'
+date: 2020-11-22 13:14:17
+thumbnailImage: 'https://m.media-amazon.com/images/I/31RxTb-0l6L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31RxTb-0l6L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B008EUM3Q2-es'
+description:
+actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
+comparePrice: 39.26 EUR
+inStock: true
+prodname: 'Urko 2432390 Puntal Extensible 43129-160-290 cm  160-290 cm'
+country: 'es'
+---
+
+Tienes [Urko 2432390 Puntal Extensible 43129-160-290 cm  160-290 cm](https://www.amazon.es/dp/B008EUM3Q2/?tag=tolees-21) con un 28.71 % de descuento con precio de oferta de 27.99 EUR (original: 39.26 EUR) en el siguiente enlace!
+
+[![Urko 2432390 Puntal Extensible 43129-160](https://m.media-amazon.com/images/I/31RxTb-0l6L._SL200_.jpg)](https://www.amazon.es/dp/B008EUM3Q2/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B008EUM3Q2/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

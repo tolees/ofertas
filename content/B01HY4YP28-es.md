@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'New Balance W390  Zapatillas de Running  al 57.80 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51UQYq0lXVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51UQYq0lXVL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01HY4YP28-es'
+description:
+actualPrice: 23.21 EUR
+currency: EUR
+price: 23.21
+comparePrice: 55 EUR
+inStock: true
+prodname: 'New Balance W390  Zapatillas de Running para Mujer  Morado  Purple/Silver Cs2   36 EU'
+country: 'es'
+---
+
+Está [New Balance W390  Zapatillas de Running para Mujer  Morado  Purple/Silver Cs2   36 EU](https://www.amazon.es/dp/B01HY4YP28/?tag=tolees-21) con 57.80 de descuento por 23.21 EUR (original: 55 EUR) en el siguiente enlace!
+
+[![New Balance W390  Zapatillas de Running ](https://images-eu.ssl-images-amazon.com/images/I/51UQYq0lXVL._SL200_.jpg)](https://www.amazon.es/dp/B01HY4YP28/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B01HY4YP28/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

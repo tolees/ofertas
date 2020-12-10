@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Organic Shop Exfoliante Corporal Estimul al 30.11 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41QYnrSAb6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41QYnrSAb6L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01H241EZQ-es'
+description:
+actualPrice: 6.8 EUR
+currency: EUR
+price: 6.8
+comparePrice: 9.73 EUR
+inStock: true
+prodname: 'Organic Shop Exfoliante Corporal Estimulante Almendra y Leche de Miel - 450 ml'
+country: 'es'
+---
+
+Está [Organic Shop Exfoliante Corporal Estimulante Almendra y Leche de Miel - 450 ml](https://www.amazon.es/dp/B01H241EZQ/?tag=tolees-21) con 30.11 de descuento por 6.8 EUR (original: 9.73 EUR) en el siguiente enlace!
+
+[![Organic Shop Exfoliante Corporal Estimul](https://images-eu.ssl-images-amazon.com/images/I/41QYnrSAb6L._SL200_.jpg)](https://www.amazon.es/dp/B01H241EZQ/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B01H241EZQ/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

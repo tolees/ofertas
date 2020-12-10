@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Munich MASSANA 359  Zapatillas Adulto  V al 42.99 % de descuento'
+date: 2020-10-13 22:21:09
+thumbnailImage: 'https://m.media-amazon.com/images/I/41I8nMHxGzL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41I8nMHxGzL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07VF69FR4-es'
+description:
+actualPrice: 77.32 EUR
+currency: EUR
+price: 77.32
+comparePrice: 135.63 EUR
+inStock: true
+prodname: 'Munich MASSANA 359  Zapatillas Adulto  Verde  43 EU'
+country: 'es'
+---
+
+Está [Munich MASSANA 359  Zapatillas Adulto  Verde  43 EU](https://www.amazon.es/dp/B07VF69FR4/?tag=tolees-21) con 42.99 de descuento por 77.32 EUR (original: 135.63 EUR) en el siguiente enlace!
+
+[![Munich MASSANA 359  Zapatillas Adulto  V](https://m.media-amazon.com/images/I/41I8nMHxGzL._SL200_.jpg)](https://www.amazon.es/dp/B07VF69FR4/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07VF69FR4/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

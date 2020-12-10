@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 54.38 % en Philips myGarden Napels Farol de pared  '
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31EqKmpJYaL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31EqKmpJYaL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B008OX4A6A-es'
+description:
+actualPrice: 11.86 EUR
+currency: EUR
+price: 11.86
+comparePrice: 26 EUR
+inStock: true
+prodname: 'Philips myGarden Napels Farol de pared  IP44  iluminación exterior  resistente a la humedad y la intemperie  100 W  negro'
+country: 'es'
+---
+
+Tienes [Philips myGarden Napels Farol de pared  IP44  iluminación exterior  resistente a la humedad y la intemperie  100 W  negro](https://www.amazon.es/dp/B008OX4A6A/?tag=tolees-21) con un 54.38 % de descuento con precio de oferta de 11.86 EUR (original: 26 EUR) en el siguiente enlace!
+
+[![Philips myGarden Napels Farol de pared  ](https://images-eu.ssl-images-amazon.com/images/I/31EqKmpJYaL._SL200_.jpg)](https://www.amazon.es/dp/B008OX4A6A/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B008OX4A6A/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

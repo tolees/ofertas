@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'adidas Regista 18 SHO Sport Shorts  Homb al 60.83 % de descuento'
+date: 2020-12-07 13:12:46
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Yor8M1KKL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Yor8M1KKL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0779BZYN6-es'
+description:
+actualPrice: 11.73 EUR
+currency: EUR
+price: 11.73
+comparePrice: 29.95 EUR
+inStock: true
+prodname: 'adidas Regista 18 SHO Sport Shorts  Hombre  Power Red/White  XL'
+country: 'es'
+---
+
+Está [adidas Regista 18 SHO Sport Shorts  Hombre  Power Red/White  XL](https://www.amazon.es/dp/B0779BZYN6/?tag=tolees-21) con 60.83 de descuento por 11.73 EUR (original: 29.95 EUR) en el siguiente enlace!
+
+[![adidas Regista 18 SHO Sport Shorts  Homb](https://m.media-amazon.com/images/I/41Yor8M1KKL._SL200_.jpg)](https://www.amazon.es/dp/B0779BZYN6/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B0779BZYN6/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

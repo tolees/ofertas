@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Merrell Vapor Glove 3  Zapatillas Deport al 38.60 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41wwocRyB-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41wwocRyB-L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01N140ZHE-es'
+description:
+actualPrice: 61.4 EUR
+currency: EUR
+price: 61.4
+comparePrice: 100 EUR
+inStock: true
+prodname: 'Merrell Vapor Glove 3  Zapatillas Deportivas para Interior para Mujer  Rosa Azalea  42.5 EU'
+country: 'es'
+---
+
+Está [Merrell Vapor Glove 3  Zapatillas Deportivas para Interior para Mujer  Rosa Azalea  42.5 EU](https://www.amazon.es/dp/B01N140ZHE/?tag=tolees-21) con 38.60 de descuento por 61.4 EUR (original: 100 EUR) en el siguiente enlace!
+
+[![Merrell Vapor Glove 3  Zapatillas Deport](https://images-eu.ssl-images-amazon.com/images/I/41wwocRyB-L._SL200_.jpg)](https://www.amazon.es/dp/B01N140ZHE/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B01N140ZHE/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 59.79 % en Salomon X-Mission 3 W  Zapatillas de Tra'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412HyuDC2bL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412HyuDC2bL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07CZ5FF22-es'
+description:
+actualPrice: 46.22 EUR
+currency: EUR
+price: 46.22
+comparePrice: 114.95 EUR
+inStock: true
+prodname: 'Salomon X-Mission 3 W  Zapatillas de Trail Running para Mujer  Gris Shadow/Dark Purple/Nile Blue  36 2/3 EU'
+country: 'es'
+---
+
+Tienes [Salomon X-Mission 3 W  Zapatillas de Trail Running para Mujer  Gris Shadow/Dark Purple/Nile Blue  36 2/3 EU](https://www.amazon.es/dp/B07CZ5FF22/?tag=tolees-21) con un 59.79 % de descuento con precio de oferta de 46.22 EUR (original: 114.95 EUR) en el siguiente enlace!
+
+[![Salomon X-Mission 3 W  Zapatillas de Tra](https://images-eu.ssl-images-amazon.com/images/I/412HyuDC2bL._SL200_.jpg)](https://www.amazon.es/dp/B07CZ5FF22/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B07CZ5FF22/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

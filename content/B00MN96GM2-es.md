@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 35.86 % en Suunto - Ambit3 Peak Sapphire HR - SS020'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UlESgUHBL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UlESgUHBL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00MN96GM2-es'
+description:
+actualPrice: 287.99 EUR
+currency: EUR
+price: 287.99
+comparePrice: 449 EUR
+inStock: true
+prodname: 'Suunto - Ambit3 Peak Sapphire HR - SS020673000 - Reloj GPS Multideporte + Cinturón de frecuencia cardiaca  Talla M  - Sumergible 50 m - Negro y gris - Cristal Zafiro'
+country: 'es'
+---
+
+Tienes [Suunto - Ambit3 Peak Sapphire HR - SS020673000 - Reloj GPS Multideporte + Cinturón de frecuencia cardiaca  Talla M  - Sumergible 50 m - Negro y gris - Cristal Zafiro](https://www.amazon.es/dp/B00MN96GM2/?tag=tolees-21) con un 35.86 % de descuento con precio de oferta de 287.99 EUR (original: 449 EUR) en el siguiente enlace!
+
+[![Suunto - Ambit3 Peak Sapphire HR - SS020](https://images-eu.ssl-images-amazon.com/images/I/41UlESgUHBL._SL200_.jpg)](https://www.amazon.es/dp/B00MN96GM2/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B00MN96GM2/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

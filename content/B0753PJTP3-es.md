@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Bourjois Air Mate Powder Polvos Tono 04  al 46.30 % de descuento'
+date: 2020-10-17 15:45:05
+thumbnailImage: 'https://m.media-amazon.com/images/I/41JUxZGJiJL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41JUxZGJiJL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0753PJTP3-es'
+description:
+actualPrice: 5.37 EUR
+currency: EUR
+price: 5.37
+comparePrice: 10.0 EUR
+inStock: true
+prodname: 'Bourjois Air Mate Powder Polvos Tono 04 Light Bronze - 10 gr'
+country: 'es'
+---
+
+Ahora mismo tienes [Bourjois Air Mate Powder Polvos Tono 04 Light Bronze - 10 gr](https://www.amazon.es/dp/B0753PJTP3/?tag=tolees-21) a 5.37 EUR (original: 10.0 EUR) (46.30 %  de descuento) en el siguiente enlace!
+
+[![Bourjois Air Mate Powder Polvos Tono 04 ](https://m.media-amazon.com/images/I/41JUxZGJiJL._SL200_.jpg)](https://www.amazon.es/dp/B0753PJTP3/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B0753PJTP3/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

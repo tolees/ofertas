@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'WORKPRO - Bolsa de boca ancha de 40 6 cm al 40.54 % de descuento'
+date: 2020-11-26 11:42:06
+thumbnailImage: 'https://m.media-amazon.com/images/I/515bl1hzFpL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/515bl1hzFpL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B017SODKZ2-es'
+description:
+actualPrice: 14.86 EUR
+currency: EUR
+price: 14.86
+comparePrice: 24.99 EUR
+inStock: true
+prodname: 'WORKPRO - Bolsa de boca ancha de 40 6 cm para herramientas  con base moldeada impermeable'
+country: 'es'
+---
+
+Ahora mismo tienes [WORKPRO - Bolsa de boca ancha de 40 6 cm para herramientas  con base moldeada impermeable](https://www.amazon.es/dp/B017SODKZ2/?tag=tolees-21) a 14.86 EUR (original: 24.99 EUR) (40.54 %  de descuento) en el siguiente enlace!
+
+[![WORKPRO - Bolsa de boca ancha de 40 6 cm](https://m.media-amazon.com/images/I/515bl1hzFpL._SL200_.jpg)](https://www.amazon.es/dp/B017SODKZ2/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B017SODKZ2/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

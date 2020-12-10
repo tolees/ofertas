@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'dodocool Hub USB C para iPad Pro 2018/20 al 36.67 % de descuento'
+date: 2020-10-26 19:11:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/41mG3Af4RIL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41mG3Af4RIL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0888CZSB1-es'
+description:
+actualPrice: 30.39 EUR
+currency: EUR
+price: 30.39
+comparePrice: 47.99 EUR
+inStock: true
+prodname: 'dodocool Hub USB C para iPad Pro 2018/2020  6 en 1 Adaptador iPad Pro a 4K HDMI  100W Carga PD  USB 3.0  Lector de Tarjetas SD/TF  Auriculares de 3.5mm  Hub para MacBook Pro y USB C Laptop'
+country: 'es'
+---
+
+Ahora mismo tienes [dodocool Hub USB C para iPad Pro 2018/2020  6 en 1 Adaptador iPad Pro a 4K HDMI  100W Carga PD  USB 3.0  Lector de Tarjetas SD/TF  Auriculares de 3.5mm  Hub para MacBook Pro y USB C Laptop](https://www.amazon.es/dp/B0888CZSB1/?tag=tolees-21) a 30.39 EUR (original: 47.99 EUR) (36.67 %  de descuento) en el siguiente enlace!
+
+[![dodocool Hub USB C para iPad Pro 2018/20](https://m.media-amazon.com/images/I/41mG3Af4RIL._SL200_.jpg)](https://www.amazon.es/dp/B0888CZSB1/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B0888CZSB1/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

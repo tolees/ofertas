@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'New Balance 997H  Zapatillas para Mujer  al 44.44 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41pqIeY-H6L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41pqIeY-H6L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07BL17GN2-es'
+description:
+actualPrice: 50 EUR
+currency: EUR
+price: 50
+comparePrice: 90 EUR
+inStock: true
+prodname: 'New Balance 997H  Zapatillas para Mujer  Blanco  Sea Salt/Peony   41.5 EU'
+country: 'es'
+---
+
+Está [New Balance 997H  Zapatillas para Mujer  Blanco  Sea Salt/Peony   41.5 EU](https://www.amazon.es/dp/B07BL17GN2/?tag=tolees-21) con 44.44 de descuento por 50 EUR (original: 90 EUR) en el siguiente enlace!
+
+[![New Balance 997H  Zapatillas para Mujer ](https://images-eu.ssl-images-amazon.com/images/I/41pqIeY-H6L._SL200_.jpg)](https://www.amazon.es/dp/B07BL17GN2/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07BL17GN2/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

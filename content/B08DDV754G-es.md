@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Ruffles York Eso 160 g - Pack de 19 al 26.98 % de descuento'
+date: 2020-11-03 17:31:02
+thumbnailImage: 'https://m.media-amazon.com/images/I/41340wgeBKL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41340wgeBKL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B08DDV754G-es'
+description:
+actualPrice: 20.81 EUR
+currency: EUR
+price: 20.81
+comparePrice: 28.5 EUR
+inStock: true
+prodname: 'Ruffles York Eso 160 g - Pack de 19'
+country: 'es'
+---
+
+Está [Ruffles York Eso 160 g - Pack de 19](https://www.amazon.es/dp/B08DDV754G/?tag=tolees-21) con 26.98 de descuento por 20.81 EUR (original: 28.5 EUR) en el siguiente enlace!
+
+[![Ruffles York Eso 160 g - Pack de 19](https://m.media-amazon.com/images/I/41340wgeBKL._SL200_.jpg)](https://www.amazon.es/dp/B08DDV754G/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B08DDV754G/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

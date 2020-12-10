@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Project Cars 2: Collector s Edition al 62.44 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51aqwuOmqAL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51aqwuOmqAL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0722W3ZRV-es'
+description:
+actualPrice: 60.1 EUR
+currency: EUR
+price: 60.1
+comparePrice: 160 EUR
+inStock: true
+prodname: 'Project Cars 2: Collector s Edition'
+country: 'es'
+---
+
+Está [Project Cars 2: Collector s Edition](https://www.amazon.es/dp/B0722W3ZRV/?tag=tolees-21) con 62.44 de descuento por 60.1 EUR (original: 160 EUR) en el siguiente enlace!
+
+[![Project Cars 2: Collector s Edition](https://images-eu.ssl-images-amazon.com/images/I/51aqwuOmqAL._SL200_.jpg)](https://www.amazon.es/dp/B0722W3ZRV/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B0722W3ZRV/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

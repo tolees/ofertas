@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Durex Preservativos Intense con Puntos y al 38.80 % de descuento'
+date: 2020-11-22 21:24:25
+thumbnailImage: 'https://m.media-amazon.com/images/I/41zD-PKn4iL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41zD-PKn4iL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B086B2LR2D-es'
+description:
+actualPrice: 7.95 EUR
+currency: EUR
+price: 7.95
+comparePrice: 12.99 EUR
+inStock: true
+prodname: 'Durex Preservativos Intense con Puntos y Estrías y gel estimulante - 12 condones'
+country: 'es'
+---
+
+Ahora mismo tienes [Durex Preservativos Intense con Puntos y Estrías y gel estimulante - 12 condones](https://www.amazon.es/dp/B086B2LR2D/?tag=tolees-21) a 7.95 EUR (original: 12.99 EUR) (38.80 %  de descuento) en el siguiente enlace!
+
+[![Durex Preservativos Intense con Puntos y](https://m.media-amazon.com/images/I/41zD-PKn4iL._SL200_.jpg)](https://www.amazon.es/dp/B086B2LR2D/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B086B2LR2D/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

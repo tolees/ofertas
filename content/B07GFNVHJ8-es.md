@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Pioneer Altavoces Coaxiales TS-A6990F 5  al 45.19 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41KnEgRT3nL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41KnEgRT3nL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07GFNVHJ8-es'
+description:
+actualPrice: 70.7 EUR
+currency: EUR
+price: 70.7
+comparePrice: 129 EUR
+inStock: true
+prodname: 'Pioneer Altavoces Coaxiales TS-A6990F 5 vías  6X9  120W RMS  Negro'
+country: 'es'
+---
+
+Está [Pioneer Altavoces Coaxiales TS-A6990F 5 vías  6X9  120W RMS  Negro](https://www.amazon.es/dp/B07GFNVHJ8/?tag=tolees-21) con 45.19 de descuento por 70.7 EUR (original: 129 EUR) en el siguiente enlace!
+
+[![Pioneer Altavoces Coaxiales TS-A6990F 5 ](https://images-eu.ssl-images-amazon.com/images/I/41KnEgRT3nL._SL200_.jpg)](https://www.amazon.es/dp/B07GFNVHJ8/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07GFNVHJ8/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

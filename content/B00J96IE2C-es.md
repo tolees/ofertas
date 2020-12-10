@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'adidas Sere14 PES Su Y Chándal  Niños  N al 44.60 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/419c0IKwDiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/419c0IKwDiL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00J96IE2C-es'
+description:
+actualPrice: 30.44 EUR
+currency: EUR
+price: 30.44
+comparePrice: 54.95 EUR
+inStock: true
+prodname: 'adidas Sere14 PES Su Y Chándal  Niños  Negro/Rojo/Blanco  164'
+country: 'es'
+---
+
+Está [adidas Sere14 PES Su Y Chándal  Niños  Negro/Rojo/Blanco  164](https://www.amazon.es/dp/B00J96IE2C/?tag=tolees-21) con 44.60 de descuento por 30.44 EUR (original: 54.95 EUR) en el siguiente enlace!
+
+[![adidas Sere14 PES Su Y Chándal  Niños  N](https://images-eu.ssl-images-amazon.com/images/I/419c0IKwDiL._SL200_.jpg)](https://www.amazon.es/dp/B00J96IE2C/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B00J96IE2C/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

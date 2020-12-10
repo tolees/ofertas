@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'New Balance 247v2  Zapatillas para Hombr al 30.00 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41p1oSyPAsL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41p1oSyPAsL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B075R6VH9W-es'
+description:
+actualPrice: 66.5 EUR
+currency: EUR
+price: 66.5
+comparePrice: 95 EUR
+inStock: true
+prodname: 'New Balance 247v2  Zapatillas para Hombre  Blanco White Munsell EW Blue  42 EU'
+country: 'es'
+---
+
+Ahora mismo tienes [New Balance 247v2  Zapatillas para Hombre  Blanco White Munsell EW Blue  42 EU](https://www.amazon.es/dp/B075R6VH9W/?tag=tolees-21) a 66.5 EUR (original: 95 EUR) (30.00 %  de descuento) en el siguiente enlace!
+
+[![New Balance 247v2  Zapatillas para Hombr](https://images-eu.ssl-images-amazon.com/images/I/41p1oSyPAsL._SL200_.jpg)](https://www.amazon.es/dp/B075R6VH9W/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B075R6VH9W/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

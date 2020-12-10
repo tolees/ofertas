@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Kounga Yoga Mat ComfiPro 8 Esterilla  Un al 63.00 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/410URFQcyJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/410URFQcyJL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07LC9CN66-es'
+description:
+actualPrice: 8.95 EUR
+currency: EUR
+price: 8.95
+comparePrice: 24.19 EUR
+inStock: true
+prodname: 'Kounga Yoga Mat ComfiPro 8 Esterilla  Unisex Adulto  Light Blue  One Size'
+country: 'es'
+---
+
+Está [Kounga Yoga Mat ComfiPro 8 Esterilla  Unisex Adulto  Light Blue  One Size](https://www.amazon.es/dp/B07LC9CN66/?tag=tolees-21) con 63.00 de descuento por 8.95 EUR (original: 24.19 EUR) en el siguiente enlace!
+
+[![Kounga Yoga Mat ComfiPro 8 Esterilla  Un](https://images-eu.ssl-images-amazon.com/images/I/410URFQcyJL._SL200_.jpg)](https://www.amazon.es/dp/B07LC9CN66/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07LC9CN66/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

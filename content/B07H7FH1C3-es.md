@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'ELINKUME G9 LED Lámpara 4W Blanco cálido al 43.43 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YdS3QuazL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YdS3QuazL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07H7FH1C3-es'
+description:
+actualPrice: 16.97 EUR
+currency: EUR
+price: 16.97
+comparePrice: 30 EUR
+inStock: true
+prodname: 'ELINKUME G9 LED Lámpara 4W Blanco cálido  G9 Bombilla LED no regulable  Reemplazo para 40W G9 Bombillas halógenas  320Lumen 3000K  AC 200-240V  Ángulo de 360 grados  CRI> 80  Paquete de 10'
+country: 'es'
+---
+
+Ahora mismo tienes [ELINKUME G9 LED Lámpara 4W Blanco cálido  G9 Bombilla LED no regulable  Reemplazo para 40W G9 Bombillas halógenas  320Lumen 3000K  AC 200-240V  Ángulo de 360 grados  CRI> 80  Paquete de 10](https://www.amazon.es/dp/B07H7FH1C3/?tag=tolees-21) a 16.97 EUR (original: 30 EUR) (43.43 %  de descuento) en el siguiente enlace!
+
+[![ELINKUME G9 LED Lámpara 4W Blanco cálido](https://images-eu.ssl-images-amazon.com/images/I/51YdS3QuazL._SL200_.jpg)](https://www.amazon.es/dp/B07H7FH1C3/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07H7FH1C3/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'GIM Ventilador de Carcasa RGB de 120 mm  al 37.51 % de descuento'
+date: 2020-10-30 12:44:28
+thumbnailImage: 'https://m.media-amazon.com/images/I/51gqMivrGrL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51gqMivrGrL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07QQS19F7-es'
+description:
+actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
+comparePrice: 39.99 EUR
+inStock: true
+prodname: 'GIM Ventilador de Carcasa RGB de 120 mm  Paquete de 3  Kit 3 en 1 de ICETEK LED para PC con Ventilador RGB  366 Modos con Controlador y Mando a Distancia  diseño de Ventilador silencioso Reforzado'
+country: 'es'
+---
+
+Ahora mismo tienes [GIM Ventilador de Carcasa RGB de 120 mm  Paquete de 3  Kit 3 en 1 de ICETEK LED para PC con Ventilador RGB  366 Modos con Controlador y Mando a Distancia  diseño de Ventilador silencioso Reforzado](https://www.amazon.es/dp/B07QQS19F7/?tag=tolees-21) a 24.99 EUR (original: 39.99 EUR) (37.51 %  de descuento) en el siguiente enlace!
+
+[![GIM Ventilador de Carcasa RGB de 120 mm ](https://m.media-amazon.com/images/I/51gqMivrGrL._SL200_.jpg)](https://www.amazon.es/dp/B07QQS19F7/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07QQS19F7/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

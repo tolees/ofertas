@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Bosch Professional GEX 125-150 AVE - Lij al 47.66 % de descuento'
+date: 2020-11-29 20:44:17
+thumbnailImage: 'https://m.media-amazon.com/images/I/51DZZ54fbrL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51DZZ54fbrL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0050KAZ1O-es'
+description:
+actualPrice: 189.99 EUR
+currency: EUR
+price: 189.99
+comparePrice: 363.0 EUR
+inStock: true
+prodname: 'Bosch Professional GEX 125-150 AVE - Lijadora excéntrica  400 W  Microfiltro  platos lijadores 125/150 mm  en L-BOXX '
+country: 'es'
+---
+
+Ahora mismo tienes [Bosch Professional GEX 125-150 AVE - Lijadora excéntrica  400 W  Microfiltro  platos lijadores 125/150 mm  en L-BOXX ](https://www.amazon.es/dp/B0050KAZ1O/?tag=tolees-21) a 189.99 EUR (original: 363.0 EUR) (47.66 %  de descuento) en el siguiente enlace!
+
+[![Bosch Professional GEX 125-150 AVE - Lij](https://m.media-amazon.com/images/I/51DZZ54fbrL._SL200_.jpg)](https://www.amazon.es/dp/B0050KAZ1O/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B0050KAZ1O/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

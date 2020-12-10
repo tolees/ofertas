@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Nanocable 10.15.4402 - Cable conversor D al 29.51 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41UhoQ4on0L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41UhoQ4on0L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07MP16ZS7-es'
+description:
+actualPrice: 10.75 EUR
+currency: EUR
+price: 10.75
+comparePrice: 15.25 EUR
+inStock: true
+prodname: 'Nanocable 10.15.4402 - Cable conversor DisplayPort a VGA  DisplayPort/M - VGA/M  negro  2.0 m'
+country: 'es'
+---
+
+Está [Nanocable 10.15.4402 - Cable conversor DisplayPort a VGA  DisplayPort/M - VGA/M  negro  2.0 m](https://www.amazon.es/dp/B07MP16ZS7/?tag=tolees-21) con 29.51 de descuento por 10.75 EUR (original: 15.25 EUR) en el siguiente enlace!
+
+[![Nanocable 10.15.4402 - Cable conversor D](https://images-eu.ssl-images-amazon.com/images/I/41UhoQ4on0L._SL200_.jpg)](https://www.amazon.es/dp/B07MP16ZS7/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07MP16ZS7/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

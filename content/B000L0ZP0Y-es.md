@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'MicroConnect IC11101 - Adaptador Jack St al 40.00 % de descuento'
+date: 2020-11-28 15:04:12
+thumbnailImage: 'https://m.media-amazon.com/images/I/31MZxbVNgaL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31MZxbVNgaL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B000L0ZP0Y-es'
+description:
+actualPrice: 1.2 EUR
+currency: EUR
+price: 1.2
+comparePrice: 2.0 EUR
+inStock: true
+prodname: 'MicroConnect IC11101 - Adaptador Jack Stereo 3.5 Mach  Color Negro'
+country: 'es'
+---
+
+Ahora mismo tienes [MicroConnect IC11101 - Adaptador Jack Stereo 3.5 Mach  Color Negro](https://www.amazon.es/dp/B000L0ZP0Y/?tag=tolees-21) a 1.2 EUR (original: 2.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
+
+[![MicroConnect IC11101 - Adaptador Jack St](https://m.media-amazon.com/images/I/31MZxbVNgaL._SL200_.jpg)](https://www.amazon.es/dp/B000L0ZP0Y/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B000L0ZP0Y/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

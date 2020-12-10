@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'FILA Disruptor  Zapatillas para Mujer  W al 34.62 % de descuento'
+date: 2020-12-07 11:27:29
+thumbnailImage: 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B078WQ6L8F-es'
+description:
+actualPrice: 65.35 EUR
+currency: EUR
+price: 65.35
+comparePrice: 99.95 EUR
+inStock: true
+prodname: 'FILA Disruptor  Zapatillas para Mujer  White  38 EU'
+country: 'es'
+---
+
+Está [FILA Disruptor  Zapatillas para Mujer  White  38 EU](https://www.amazon.es/dp/B078WQ6L8F/?tag=tolees-21) con 34.62 de descuento por 65.35 EUR (original: 99.95 EUR) en el siguiente enlace!
+
+[![FILA Disruptor  Zapatillas para Mujer  W](https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg)](https://www.amazon.es/dp/B078WQ6L8F/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B078WQ6L8F/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

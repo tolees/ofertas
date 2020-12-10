@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Thule TSLB315EMB Mochila para Ordenador  al 28.35 % de descuento'
+date: 2020-11-10 21:30:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/41oMVs+cvOL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41oMVs+cvOL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01N5FE03W-es'
+description:
+actualPrice: 85.95 EUR
+currency: EUR
+price: 85.95
+comparePrice: 119.95 EUR
+inStock: true
+prodname: 'Thule TSLB315EMB Mochila para Ordenador portátil  Apple MacBook Pro de 15" o PC de 15.6"   Granate'
+country: 'es'
+---
+
+Está [Thule TSLB315EMB Mochila para Ordenador portátil  Apple MacBook Pro de 15" o PC de 15.6"   Granate](https://www.amazon.es/dp/B01N5FE03W/?tag=tolees-21) con 28.35 de descuento por 85.95 EUR (original: 119.95 EUR) en el siguiente enlace!
+
+[![Thule TSLB315EMB Mochila para Ordenador ](https://m.media-amazon.com/images/I/41oMVs+cvOL._SL200_.jpg)](https://www.amazon.es/dp/B01N5FE03W/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B01N5FE03W/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Bandai – Justice League 57552 SH Figuart al 49.99 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41%2BskLV0YJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41%2BskLV0YJL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B074C8YZ8C-es'
+description:
+actualPrice: 30 EUR
+currency: EUR
+price: 30
+comparePrice: 59.99 EUR
+inStock: true
+prodname: 'Bandai – Justice League 57552 SH Figuarts – Wonder Woman  15 cm  19781'
+country: 'es'
+---
+
+Está [Bandai – Justice League 57552 SH Figuarts – Wonder Woman  15 cm  19781](https://www.amazon.es/dp/B074C8YZ8C/?tag=tolees-21) con 49.99 de descuento por 30 EUR (original: 59.99 EUR) en el siguiente enlace!
+
+[![Bandai – Justice League 57552 SH Figuart](https://images-eu.ssl-images-amazon.com/images/I/41%2BskLV0YJL._SL200_.jpg)](https://www.amazon.es/dp/B074C8YZ8C/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B074C8YZ8C/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'VUPOINT Share Q Mini Lifestyle  Sport  A al 35.00 % de descuento'
+date: 2020-11-04 14:28:29
+thumbnailImage: 'https://m.media-amazon.com/images/I/41-WHk4ripL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41-WHk4ripL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B081SB5G1Y-es'
+description:
+actualPrice: 71.5 EUR
+currency: EUR
+price: 71.5
+comparePrice: 110.0 EUR
+inStock: true
+prodname: 'VUPOINT Share Q Mini Lifestyle  Sport  Action  Waterproof 1080p Full HD Video Camera  Built-in USB-C Connector  MicroSD Card  White'
+country: 'es'
+---
+
+Está [VUPOINT Share Q Mini Lifestyle  Sport  Action  Waterproof 1080p Full HD Video Camera  Built-in USB-C Connector  MicroSD Card  White](https://www.amazon.es/dp/B081SB5G1Y/?tag=tolees-21) con 35.00 de descuento por 71.5 EUR (original: 110.0 EUR) en el siguiente enlace!
+
+[![VUPOINT Share Q Mini Lifestyle  Sport  A](https://m.media-amazon.com/images/I/41-WHk4ripL._SL200_.jpg)](https://www.amazon.es/dp/B081SB5G1Y/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B081SB5G1Y/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

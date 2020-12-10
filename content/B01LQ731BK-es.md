@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Swarovski Brazalete Crystaldust  Gris  A al 28.99 % de descuento'
+date: 
+thumbnailImage: ''
+images: [ '' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01LQ731BK-es'
+description:
+actualPrice: 49 EUR
+currency: EUR
+price: 49
+comparePrice: 69 EUR
+inStock: true
+prodname: 'Swarovski Brazalete Crystaldust  Gris  Acero Inoxidable'
+country: 'es'
+---
+
+Ahora mismo tienes [Swarovski Brazalete Crystaldust  Gris  Acero Inoxidable](https://www.amazon.es/dp/B01LQ731BK/?tag=tolees-21) a 49 EUR (original: 69 EUR) (28.99 %  de descuento) en el siguiente enlace!
+
+[![Swarovski Brazalete Crystaldust  Gris  A]()](https://www.amazon.es/dp/B01LQ731BK/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B01LQ731BK/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

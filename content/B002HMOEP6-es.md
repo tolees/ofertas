@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 66.17 % en Bahco 808050L - Destornillador Carraca C'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31HYgR%2BX49L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31HYgR%2BX49L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B002HMOEP6-es'
+description:
+actualPrice: 12.79 EUR
+currency: EUR
+price: 12.79
+comparePrice: 37.81 EUR
+inStock: true
+prodname: 'Bahco 808050L - Destornillador Carraca C/Lampara'
+country: 'es'
+---
+
+Tienes [Bahco 808050L - Destornillador Carraca C/Lampara](https://www.amazon.es/dp/B002HMOEP6/?tag=tolees-21) con un 66.17 % de descuento con precio de oferta de 12.79 EUR (original: 37.81 EUR) en el siguiente enlace!
+
+[![Bahco 808050L - Destornillador Carraca C](https://images-eu.ssl-images-amazon.com/images/I/31HYgR%2BX49L._SL200_.jpg)](https://www.amazon.es/dp/B002HMOEP6/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B002HMOEP6/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

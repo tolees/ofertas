@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'ESSIE VAO TOP COAT Gel Setter al 42.08 % de descuento'
+date: 2020-11-07 18:14:26
+thumbnailImage: 'https://m.media-amazon.com/images/I/41J20MgA4bL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41J20MgA4bL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07D9J11YN-es'
+description:
+actualPrice: 7.5 EUR
+currency: EUR
+price: 7.5
+comparePrice: 12.95 EUR
+inStock: true
+prodname: 'ESSIE VAO TOP COAT Gel Setter'
+country: 'es'
+---
+
+Ahora mismo tienes [ESSIE VAO TOP COAT Gel Setter](https://www.amazon.es/dp/B07D9J11YN/?tag=tolees-21) a 7.5 EUR (original: 12.95 EUR) (42.08 %  de descuento) en el siguiente enlace!
+
+[![ESSIE VAO TOP COAT Gel Setter](https://m.media-amazon.com/images/I/41J20MgA4bL._SL200_.jpg)](https://www.amazon.es/dp/B07D9J11YN/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07D9J11YN/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

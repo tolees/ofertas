@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Trust Gaming GXT 278 - Soporte de refrig al 42.51 % de descuento'
+date: 2020-12-05 10:15:32
+thumbnailImage: 'https://m.media-amazon.com/images/I/417y9kjn3PL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/417y9kjn3PL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B019XX69EA-es'
+description:
+actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
+comparePrice: 39.99 EUR
+inStock: true
+prodname: 'Trust Gaming GXT 278 - Soporte de refrigeración para portátiles Gaming  Negro'
+country: 'es'
+---
+
+Ahora mismo tienes [Trust Gaming GXT 278 - Soporte de refrigeración para portátiles Gaming  Negro](https://www.amazon.es/dp/B019XX69EA/?tag=tolees-21) a 22.99 EUR (original: 39.99 EUR) (42.51 %  de descuento) en el siguiente enlace!
+
+[![Trust Gaming GXT 278 - Soporte de refrig](https://m.media-amazon.com/images/I/417y9kjn3PL._SL200_.jpg)](https://www.amazon.es/dp/B019XX69EA/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B019XX69EA/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Chanel Allure Homme Eau de Toilette Vapo al 43.24 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41m6kwMQJOL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41m6kwMQJOL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0002JBS3M-es'
+description:
+actualPrice: 54.4 EUR
+currency: EUR
+price: 54.4
+comparePrice: 95.84 EUR
+inStock: true
+prodname: 'Chanel Allure Homme Eau de Toilette Vaporizador 50 ml'
+country: 'es'
+---
+
+Está [Chanel Allure Homme Eau de Toilette Vaporizador 50 ml](https://www.amazon.es/dp/B0002JBS3M/?tag=tolees-21) con 43.24 de descuento por 54.4 EUR (original: 95.84 EUR) en el siguiente enlace!
+
+[![Chanel Allure Homme Eau de Toilette Vapo](https://images-eu.ssl-images-amazon.com/images/I/41m6kwMQJOL._SL200_.jpg)](https://www.amazon.es/dp/B0002JBS3M/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B0002JBS3M/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 30.72 % en Samsung Galaxy S20+ - Smartphone 6.7" Dy'
+date: 2020-11-27 03:15:53
+thumbnailImage: 'https://m.media-amazon.com/images/I/41+mPkcRMsL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41+mPkcRMsL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B084J4Y4LJ-es'
+description:
+actualPrice: 699.0 EUR
+currency: EUR
+price: 699.0
+comparePrice: 1009.0 EUR
+inStock: true
+prodname: 'Samsung Galaxy S20+ - Smartphone 6.7" Dynamic AMOLED  8GB RAM  128GB ROM   cuádruple cámara trasera 64MP  Octa-core Exynos 990  4500mAh batería  carga ultra rápida   Cloud Blue [Versión española]'
+country: 'es'
+---
+
+Tienes [Samsung Galaxy S20+ - Smartphone 6.7" Dynamic AMOLED  8GB RAM  128GB ROM   cuádruple cámara trasera 64MP  Octa-core Exynos 990  4500mAh batería  carga ultra rápida   Cloud Blue [Versión española]](https://www.amazon.es/dp/B084J4Y4LJ/?tag=tolees-21) con un 30.72 % de descuento con precio de oferta de 699.0 EUR (original: 1009.0 EUR) en el siguiente enlace!
+
+[![Samsung Galaxy S20+ - Smartphone 6.7" Dy](https://m.media-amazon.com/images/I/41+mPkcRMsL._SL200_.jpg)](https://www.amazon.es/dp/B084J4Y4LJ/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B084J4Y4LJ/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

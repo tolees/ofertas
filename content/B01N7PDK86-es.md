@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 25.21 % en Rimmel London Oh My Gloss Tint Brillo de'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31kJpzhFyoL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31kJpzhFyoL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01N7PDK86-es'
+description:
+actualPrice: 4.45 EUR
+currency: EUR
+price: 4.45
+comparePrice: 5.95 EUR
+inStock: true
+prodname: 'Rimmel London Oh My Gloss Tint Brillo de Labios Tono 400 - 22 6 gr'
+country: 'es'
+---
+
+Tienes [Rimmel London Oh My Gloss Tint Brillo de Labios Tono 400 - 22 6 gr](https://www.amazon.es/dp/B01N7PDK86/?tag=tolees-21) con un 25.21 % de descuento con precio de oferta de 4.45 EUR (original: 5.95 EUR) en el siguiente enlace!
+
+[![Rimmel London Oh My Gloss Tint Brillo de](https://images-eu.ssl-images-amazon.com/images/I/31kJpzhFyoL._SL200_.jpg)](https://www.amazon.es/dp/B01N7PDK86/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B01N7PDK86/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

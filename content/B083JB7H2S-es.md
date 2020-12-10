@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'JaneYi - Juego de 10 brocas hexagonales  al 27.49 % de descuento'
+date: 2020-10-27 19:02:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/41yenNax2GL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41yenNax2GL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B083JB7H2S-es'
+description:
+actualPrice: 13.19 EUR
+currency: EUR
+price: 13.19
+comparePrice: 18.19 EUR
+inStock: true
+prodname: 'JaneYi - Juego de 10 brocas hexagonales  adaptador para llaves de vaso con punta de destornillador '
+country: 'es'
+---
+
+Está [JaneYi - Juego de 10 brocas hexagonales  adaptador para llaves de vaso con punta de destornillador ](https://www.amazon.es/dp/B083JB7H2S/?tag=tolees-21) con 27.49 de descuento por 13.19 EUR (original: 18.19 EUR) en el siguiente enlace!
+
+[![JaneYi - Juego de 10 brocas hexagonales ](https://m.media-amazon.com/images/I/41yenNax2GL._SL200_.jpg)](https://www.amazon.es/dp/B083JB7H2S/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B083JB7H2S/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 48.27 % en TP-Link TL-WN823N - Mini Adaptador USB I'
+date: 2020-12-09 22:45:06
+thumbnailImage: 'https://m.media-amazon.com/images/I/31DrWTYZPrL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31DrWTYZPrL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0088TKTY2-es'
+description:
+actualPrice: 8.39 EUR
+currency: EUR
+price: 8.39
+comparePrice: 16.22 EUR
+inStock: true
+prodname: 'TP-Link TL-WN823N - Mini Adaptador USB Inalámbrico N de 300Mbps'
+country: 'es'
+---
+
+Tienes [TP-Link TL-WN823N - Mini Adaptador USB Inalámbrico N de 300Mbps](https://www.amazon.es/dp/B0088TKTY2/?tag=tolees-21) con un 48.27 % de descuento con precio de oferta de 8.39 EUR (original: 16.22 EUR) en el siguiente enlace!
+
+[![TP-Link TL-WN823N - Mini Adaptador USB I](https://m.media-amazon.com/images/I/31DrWTYZPrL._SL200_.jpg)](https://www.amazon.es/dp/B0088TKTY2/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B0088TKTY2/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

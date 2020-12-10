@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Bosch Professional Medidor láser de dist al 46.53 % de descuento'
+date: 2020-11-18 19:39:04
+thumbnailImage: 'https://m.media-amazon.com/images/I/41pTBkggq0L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41pTBkggq0L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07BRS1N19-es'
+description:
+actualPrice: 186.99 EUR
+currency: EUR
+price: 186.99
+comparePrice: 349.69 EUR
+inStock: true
+prodname: 'Bosch Professional Medidor láser de distancia GLM 120 C  cámara integrada  transmisión de datos Bluetooth  máx. distancia:120 m  cable micro USB  cargador  correa de transporte  funda '
+country: 'es'
+---
+
+Ahora mismo tienes [Bosch Professional Medidor láser de distancia GLM 120 C  cámara integrada  transmisión de datos Bluetooth  máx. distancia:120 m  cable micro USB  cargador  correa de transporte  funda ](https://www.amazon.es/dp/B07BRS1N19/?tag=tolees-21) a 186.99 EUR (original: 349.69 EUR) (46.53 %  de descuento) en el siguiente enlace!
+
+[![Bosch Professional Medidor láser de dist](https://m.media-amazon.com/images/I/41pTBkggq0L._SL200_.jpg)](https://www.amazon.es/dp/B07BRS1N19/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B07BRS1N19/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

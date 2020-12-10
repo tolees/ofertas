@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Puma Liga Sideline Poly Core Jacket  Niñ al 53.09 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41qgu9%2BnS1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41qgu9%2BnS1L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0797PXBH2-es'
+description:
+actualPrice: 14.05 EUR
+currency: EUR
+price: 14.05
+comparePrice: 29.95 EUR
+inStock: true
+prodname: 'Puma Liga Sideline Poly Core Jacket  Niños  Electric Blue Lemonade/White  164'
+country: 'es'
+---
+
+Está [Puma Liga Sideline Poly Core Jacket  Niños  Electric Blue Lemonade/White  164](https://www.amazon.es/dp/B0797PXBH2/?tag=tolees-21) con 53.09 de descuento por 14.05 EUR (original: 29.95 EUR) en el siguiente enlace!
+
+[![Puma Liga Sideline Poly Core Jacket  Niñ](https://images-eu.ssl-images-amazon.com/images/I/41qgu9%2BnS1L._SL200_.jpg)](https://www.amazon.es/dp/B0797PXBH2/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B0797PXBH2/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Timberland Newport Bay  Zapatos de Cordo al 65.42 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/413t1CKAhGL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/413t1CKAhGL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B078SY3GJ4-es'
+description:
+actualPrice: 22.48 EUR
+currency: EUR
+price: 22.48
+comparePrice: 65 EUR
+inStock: true
+prodname: 'Timberland Newport Bay  Zapatos de Cordones Oxford para Hombre  Azul  Nebulas Blue Canvas J45   41.5 EU'
+country: 'es'
+---
+
+Ahora mismo tienes [Timberland Newport Bay  Zapatos de Cordones Oxford para Hombre  Azul  Nebulas Blue Canvas J45   41.5 EU](https://www.amazon.es/dp/B078SY3GJ4/?tag=tolees-21) a 22.48 EUR (original: 65 EUR) (65.42 %  de descuento) en el siguiente enlace!
+
+[![Timberland Newport Bay  Zapatos de Cordo](https://images-eu.ssl-images-amazon.com/images/I/413t1CKAhGL._SL200_.jpg)](https://www.amazon.es/dp/B078SY3GJ4/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B078SY3GJ4/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

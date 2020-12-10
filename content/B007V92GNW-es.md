@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Playtex 24h Soft Sujetador con aros  Neg al 51.64 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51YBS80xICL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51YBS80xICL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B007V92GNW-es'
+description:
+actualPrice: 17 EUR
+currency: EUR
+price: 17
+comparePrice: 35.15 EUR
+inStock: true
+prodname: 'Playtex 24h Soft Sujetador con aros  Negro  90D para Mujer'
+country: 'es'
+---
+
+Está [Playtex 24h Soft Sujetador con aros  Negro  90D para Mujer](https://www.amazon.es/dp/B007V92GNW/?tag=tolees-21) con 51.64 de descuento por 17 EUR (original: 35.15 EUR) en el siguiente enlace!
+
+[![Playtex 24h Soft Sujetador con aros  Neg](https://images-eu.ssl-images-amazon.com/images/I/51YBS80xICL._SL200_.jpg)](https://www.amazon.es/dp/B007V92GNW/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B007V92GNW/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

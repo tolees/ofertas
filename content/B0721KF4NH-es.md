@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 26.92 % en Lenovo TAB4 - Tablet de 8" HD/IPS  Qualc'
+date: 2020-12-08 08:50:59
+thumbnailImage: 'https://m.media-amazon.com/images/I/411UThQ9ETL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/411UThQ9ETL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0721KF4NH-es'
+description:
+actualPrice: 108.89 EUR
+currency: EUR
+price: 108.89
+comparePrice: 149.0 EUR
+inStock: true
+prodname: 'Lenovo TAB4 - Tablet de 8" HD/IPS  Qualcomm Snapdragon 425  2 GB de RAM  16 GB de eMCP  Android 7.1.1  Wifi + Bluetooth 4.0   Color blanco'
+country: 'es'
+---
+
+Tienes [Lenovo TAB4 - Tablet de 8" HD/IPS  Qualcomm Snapdragon 425  2 GB de RAM  16 GB de eMCP  Android 7.1.1  Wifi + Bluetooth 4.0   Color blanco](https://www.amazon.es/dp/B0721KF4NH/?tag=tolees-21) con un 26.92 % de descuento con precio de oferta de 108.89 EUR (original: 149.0 EUR) en el siguiente enlace!
+
+[![Lenovo TAB4 - Tablet de 8" HD/IPS  Qualc](https://m.media-amazon.com/images/I/411UThQ9ETL._SL200_.jpg)](https://www.amazon.es/dp/B0721KF4NH/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B0721KF4NH/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

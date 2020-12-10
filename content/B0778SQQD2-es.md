@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'XTI 30704  Sandalia con Pulsera para Muj al 71.74 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51dqJm7eBaL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51dqJm7eBaL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0778SQQD2-es'
+description:
+actualPrice: 13.27 EUR
+currency: EUR
+price: 13.27
+comparePrice: 46.95 EUR
+inStock: true
+prodname: 'XTI 30704  Sandalia con Pulsera para Mujer  Rosa  Nude   39 EU'
+country: 'es'
+---
+
+Está [XTI 30704  Sandalia con Pulsera para Mujer  Rosa  Nude   39 EU](https://www.amazon.es/dp/B0778SQQD2/?tag=tolees-21) con 71.74 de descuento por 13.27 EUR (original: 46.95 EUR) en el siguiente enlace!
+
+[![XTI 30704  Sandalia con Pulsera para Muj](https://images-eu.ssl-images-amazon.com/images/I/51dqJm7eBaL._SL200_.jpg)](https://www.amazon.es/dp/B0778SQQD2/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B0778SQQD2/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

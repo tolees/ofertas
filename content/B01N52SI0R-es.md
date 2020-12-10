@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 27.77 % en Unold 58850 Fiambrera eléctrica  de plás'
+date: 2020-10-16 11:00:40
+thumbnailImage: 'https://m.media-amazon.com/images/I/41dQYhW3wpL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41dQYhW3wpL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01N52SI0R-es'
+description:
+actualPrice: 28.17 EUR
+currency: EUR
+price: 28.17
+comparePrice: 39.0 EUR
+inStock: true
+prodname: 'Unold 58850 Fiambrera eléctrica  de plástico  Color Blanco  23 2 x 16 5 x 11 5 cm'
+country: 'es'
+---
+
+Tienes [Unold 58850 Fiambrera eléctrica  de plástico  Color Blanco  23 2 x 16 5 x 11 5 cm](https://www.amazon.es/dp/B01N52SI0R/?tag=tolees-21) con un 27.77 % de descuento con precio de oferta de 28.17 EUR (original: 39.0 EUR) en el siguiente enlace!
+
+[![Unold 58850 Fiambrera eléctrica  de plás](https://m.media-amazon.com/images/I/41dQYhW3wpL._SL200_.jpg)](https://www.amazon.es/dp/B01N52SI0R/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B01N52SI0R/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

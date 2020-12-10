@@ -1,0 +1,29 @@
+---
+layout: post
+title: '[New] TP-Link AC1900 - Router inalámbric al 26.67 % de descuento'
+date: 2020-12-10 10:51:50
+thumbnailImage: 'https://m.media-amazon.com/images/I/41FEtf9DOeL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41FEtf9DOeL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0859MHXXB-es'
+description:
+actualPrice: 54.99 EUR
+currency: EUR
+price: 54.99
+comparePrice: 74.99 EUR
+inStock: true
+prodname: '[New] TP-Link AC1900 - Router inalámbrico Doble Banda  2 4 GHz / 5 GHz  WiFi MU-MIMO  4xGigabit LAN Ports /1xWAN Port  Tecnología Beamforming  Smart Connect  Control Parental  Archer C80 '
+country: 'es'
+---
+
+Está [[New] TP-Link AC1900 - Router inalámbrico Doble Banda  2 4 GHz / 5 GHz  WiFi MU-MIMO  4xGigabit LAN Ports /1xWAN Port  Tecnología Beamforming  Smart Connect  Control Parental  Archer C80 ](https://www.amazon.es/dp/B0859MHXXB/?tag=tolees-21) con 26.67 de descuento por 54.99 EUR (original: 74.99 EUR) en el siguiente enlace!
+
+[![[New] TP-Link AC1900 - Router inalámbric](https://m.media-amazon.com/images/I/41FEtf9DOeL._SL200_.jpg)](https://www.amazon.es/dp/B0859MHXXB/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B0859MHXXB/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

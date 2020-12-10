@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 26.93 % en AFAITH Impermeable Selfie palo de aleaci'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/21qNd2he1%2BL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/21qNd2he1%2BL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B072JJS74R-es'
+description:
+actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
+comparePrice: 25.99 EUR
+inStock: true
+prodname: 'AFAITH Impermeable Selfie palo de aleación de aluminio Hand Grip Telescópico Handheld Monopod para GoPro Hero 4/5/6/7  iPhone 7 / 7 Plus / 6s Plus / 6s / 6  Samsung Galaxy S8 S7 and Smartphones GP073'
+country: 'es'
+---
+
+Tienes [AFAITH Impermeable Selfie palo de aleación de aluminio Hand Grip Telescópico Handheld Monopod para GoPro Hero 4/5/6/7  iPhone 7 / 7 Plus / 6s Plus / 6s / 6  Samsung Galaxy S8 S7 and Smartphones GP073](https://www.amazon.es/dp/B072JJS74R/?tag=tolees-21) con un 26.93 % de descuento con precio de oferta de 18.99 EUR (original: 25.99 EUR) en el siguiente enlace!
+
+[![AFAITH Impermeable Selfie palo de aleaci](https://images-eu.ssl-images-amazon.com/images/I/21qNd2he1%2BL._SL200_.jpg)](https://www.amazon.es/dp/B072JJS74R/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B072JJS74R/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

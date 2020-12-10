@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Los imprescindibles del cine cómico  Pac al 32.47 % de descuento'
+date: 2020-10-18 20:46:50
+thumbnailImage: 'https://m.media-amazon.com/images/I/51WOgy0TzRL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51WOgy0TzRL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01EG46H6Q-es'
+description:
+actualPrice: 13.5 EUR
+currency: EUR
+price: 13.5
+comparePrice: 19.99 EUR
+inStock: true
+prodname: 'Los imprescindibles del cine cómico  Pack  [DVD]'
+country: 'es'
+---
+
+Está [Los imprescindibles del cine cómico  Pack  [DVD]](https://www.amazon.es/dp/B01EG46H6Q/?tag=tolees-21) con 32.47 de descuento por 13.5 EUR (original: 19.99 EUR) en el siguiente enlace!
+
+[![Los imprescindibles del cine cómico  Pac](https://m.media-amazon.com/images/I/51WOgy0TzRL._SL200_.jpg)](https://www.amazon.es/dp/B01EG46H6Q/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B01EG46H6Q/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

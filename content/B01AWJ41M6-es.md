@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Talking Tables Tsalice-Treatstand Shaped al 29.46 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51D4kvhxG-L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51D4kvhxG-L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01AWJ41M6-es'
+description:
+actualPrice: 16.93 EUR
+currency: EUR
+price: 16.93
+comparePrice: 24 EUR
+inStock: true
+prodname: 'Talking Tables Tsalice-Treatstand Shaped Cake Stand  Multicolor'
+country: 'es'
+---
+
+Está [Talking Tables Tsalice-Treatstand Shaped Cake Stand  Multicolor](https://www.amazon.es/dp/B01AWJ41M6/?tag=tolees-21) con 29.46 de descuento por 16.93 EUR (original: 24 EUR) en el siguiente enlace!
+
+[![Talking Tables Tsalice-Treatstand Shaped](https://images-eu.ssl-images-amazon.com/images/I/51D4kvhxG-L._SL200_.jpg)](https://www.amazon.es/dp/B01AWJ41M6/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B01AWJ41M6/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

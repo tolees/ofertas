@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'HP 805349-B21 - Servidor de Red al 26.24 % de descuento'
+date: 2020-11-11 04:36:30
+thumbnailImage: 'https://m.media-amazon.com/images/I/41LfCSQb-fL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41LfCSQb-fL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01EU5SK66-es'
+description:
+actualPrice: 140.4 EUR
+currency: EUR
+price: 140.4
+comparePrice: 190.35 EUR
+inStock: true
+prodname: 'HP 805349-B21 - Servidor de Red'
+country: 'es'
+---
+
+Está [HP 805349-B21 - Servidor de Red](https://www.amazon.es/dp/B01EU5SK66/?tag=tolees-21) con 26.24 de descuento por 140.4 EUR (original: 190.35 EUR) en el siguiente enlace!
+
+[![HP 805349-B21 - Servidor de Red](https://m.media-amazon.com/images/I/41LfCSQb-fL._SL200_.jpg)](https://www.amazon.es/dp/B01EU5SK66/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B01EU5SK66/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

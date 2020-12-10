@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 50.03 % en Xsories MTRP2 Bend  N  Twist - Trípode F'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41jcGFXsTiL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41jcGFXsTiL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B011R96TAM-es'
+description:
+actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
+comparePrice: 19.99 EUR
+inStock: true
+prodname: 'Xsories MTRP2 Bend  N  Twist - Trípode Flexible con Pholder  Naranja'
+country: 'es'
+---
+
+Tienes [Xsories MTRP2 Bend  N  Twist - Trípode Flexible con Pholder  Naranja](https://www.amazon.es/dp/B011R96TAM/?tag=tolees-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
+
+[![Xsories MTRP2 Bend  N  Twist - Trípode F](https://images-eu.ssl-images-amazon.com/images/I/41jcGFXsTiL._SL200_.jpg)](https://www.amazon.es/dp/B011R96TAM/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B011R96TAM/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

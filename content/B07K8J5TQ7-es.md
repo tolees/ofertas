@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Alicates multiherramientas portátiles de al 73.37 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31C4zOhoD1L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31C4zOhoD1L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07K8J5TQ7-es'
+description:
+actualPrice: 2.99 EUR
+currency: EUR
+price: 2.99
+comparePrice: 11.23 EUR
+inStock: true
+prodname: 'Alicates multiherramientas portátiles de acero inoxidable mini multifunción alicates para regalo de empresa/al aire libre'
+country: 'es'
+---
+
+Está [Alicates multiherramientas portátiles de acero inoxidable mini multifunción alicates para regalo de empresa/al aire libre](https://www.amazon.es/dp/B07K8J5TQ7/?tag=tolees-21) con 73.37 de descuento por 2.99 EUR (original: 11.23 EUR) en el siguiente enlace!
+
+[![Alicates multiherramientas portátiles de](https://images-eu.ssl-images-amazon.com/images/I/31C4zOhoD1L._SL200_.jpg)](https://www.amazon.es/dp/B07K8J5TQ7/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07K8J5TQ7/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

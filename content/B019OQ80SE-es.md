@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'STABILO Lápices - Estuche con 12 colores al 30.12 % de descuento'
+date: 2020-12-02 21:55:30
+thumbnailImage: 'https://m.media-amazon.com/images/I/51EPsXEkrmL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51EPsXEkrmL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B019OQ80SE-es'
+description:
+actualPrice: 2.32 EUR
+currency: EUR
+price: 2.32
+comparePrice: 3.32 EUR
+inStock: true
+prodname: 'STABILO Lápices - Estuche con 12 colores'
+country: 'es'
+---
+
+Está [STABILO Lápices - Estuche con 12 colores](https://www.amazon.es/dp/B019OQ80SE/?tag=tolees-21) con 30.12 de descuento por 2.32 EUR (original: 3.32 EUR) en el siguiente enlace!
+
+[![STABILO Lápices - Estuche con 12 colores](https://m.media-amazon.com/images/I/51EPsXEkrmL._SL200_.jpg)](https://www.amazon.es/dp/B019OQ80SE/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B019OQ80SE/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

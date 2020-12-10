@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 28.82 % en Springfield Solid Pinpoint Color-c/99 Ca'
+date: 2020-11-08 23:37:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/3196XosazFL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/3196XosazFL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07WLY31S6-es'
+description:
+actualPrice: 12.4 EUR
+currency: EUR
+price: 12.4
+comparePrice: 17.42 EUR
+inStock: true
+prodname: 'Springfield Solid Pinpoint Color-c/99 Camisa Casual  Blanco  White 27740199   L  Tamaño del Fabricante: L  para Hombre'
+country: 'es'
+---
+
+Tienes [Springfield Solid Pinpoint Color-c/99 Camisa Casual  Blanco  White 27740199   L  Tamaño del Fabricante: L  para Hombre](https://www.amazon.es/dp/B07WLY31S6/?tag=tolees-21) con un 28.82 % de descuento con precio de oferta de 12.4 EUR (original: 17.42 EUR) en el siguiente enlace!
+
+[![Springfield Solid Pinpoint Color-c/99 Ca](https://m.media-amazon.com/images/I/3196XosazFL._SL200_.jpg)](https://www.amazon.es/dp/B07WLY31S6/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B07WLY31S6/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

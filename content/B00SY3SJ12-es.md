@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Einhell 4513660 Taladro atornillador sin al 40.04 % de descuento'
+date: 2020-12-07 12:05:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/41CYjRw6TzL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41CYjRw6TzL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00SY3SJ12-es'
+description:
+actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
+comparePrice: 49.95 EUR
+inStock: true
+prodname: 'Einhell 4513660 Taladro atornillador sin cable TH-CD 12-2 Li  12 V  Fuerza 24Nm  Par de apriete 20  color rojo'
+country: 'es'
+---
+
+Ahora mismo tienes [Einhell 4513660 Taladro atornillador sin cable TH-CD 12-2 Li  12 V  Fuerza 24Nm  Par de apriete 20  color rojo](https://www.amazon.es/dp/B00SY3SJ12/?tag=tolees-21) a 29.95 EUR (original: 49.95 EUR) (40.04 %  de descuento) en el siguiente enlace!
+
+[![Einhell 4513660 Taladro atornillador sin](https://m.media-amazon.com/images/I/41CYjRw6TzL._SL200_.jpg)](https://www.amazon.es/dp/B00SY3SJ12/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B00SY3SJ12/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 79.96 % en Figura Skylanders Single: Rip Tide'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51X4i0y8zgL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51X4i0y8zgL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00E3T2T9E-es'
+description:
+actualPrice: 1 EUR
+currency: EUR
+price: 1
+comparePrice: 4.99 EUR
+inStock: true
+prodname: 'Figura Skylanders Single: Rip Tide'
+country: 'es'
+---
+
+Tienes [Figura Skylanders Single: Rip Tide](https://www.amazon.es/dp/B00E3T2T9E/?tag=tolees-21) con un 79.96 % de descuento con precio de oferta de 1 EUR (original: 4.99 EUR) en el siguiente enlace!
+
+[![Figura Skylanders Single: Rip Tide](https://images-eu.ssl-images-amazon.com/images/I/51X4i0y8zgL._SL200_.jpg)](https://www.amazon.es/dp/B00E3T2T9E/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B00E3T2T9E/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Polar A370 Reloj de fitness con GPS cone al 50.00 % de descuento'
+date: 2020-10-30 18:30:29
+thumbnailImage: 'https://m.media-amazon.com/images/I/31pQMSw9tEL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31pQMSw9tEL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B072FTL2R4-es'
+description:
+actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
+comparePrice: 119.99 EUR
+inStock: true
+prodname: 'Polar A370 Reloj de fitness con GPS conectado y Frecuencia cardíaca en la muñeca. Actividad 24/7 - Negro  M/L'
+country: 'es'
+---
+
+Está [Polar A370 Reloj de fitness con GPS conectado y Frecuencia cardíaca en la muñeca. Actividad 24/7 - Negro  M/L](https://www.amazon.es/dp/B072FTL2R4/?tag=tolees-21) con 50.00 de descuento por 59.99 EUR (original: 119.99 EUR) en el siguiente enlace!
+
+[![Polar A370 Reloj de fitness con GPS cone](https://m.media-amazon.com/images/I/31pQMSw9tEL._SL200_.jpg)](https://www.amazon.es/dp/B072FTL2R4/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B072FTL2R4/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

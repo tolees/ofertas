@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Mannesman 211-430 - Caja Herramientas Me al 25.05 % de descuento'
+date: 2020-11-17 18:47:16
+thumbnailImage: 'https://m.media-amazon.com/images/I/41C6fyKisIL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41C6fyKisIL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0053S7ZCA-es'
+description:
+actualPrice: 28.78 EUR
+currency: EUR
+price: 28.78
+comparePrice: 38.4 EUR
+inStock: true
+prodname: 'Mannesman 211-430 - Caja Herramientas Metalica 430X200X200'
+country: 'es'
+---
+
+Ahora mismo tienes [Mannesman 211-430 - Caja Herramientas Metalica 430X200X200](https://www.amazon.es/dp/B0053S7ZCA/?tag=tolees-21) a 28.78 EUR (original: 38.4 EUR) (25.05 %  de descuento) en el siguiente enlace!
+
+[![Mannesman 211-430 - Caja Herramientas Me](https://m.media-amazon.com/images/I/41C6fyKisIL._SL200_.jpg)](https://www.amazon.es/dp/B0053S7ZCA/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B0053S7ZCA/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

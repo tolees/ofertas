@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Fellowes 99715 - Dispensador 100 toallit al 34.35 % de descuento'
+date: 2020-12-06 13:15:37
+thumbnailImage: 'https://m.media-amazon.com/images/I/51Api2Z-M0L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51Api2Z-M0L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00017IJQE-es'
+description:
+actualPrice: 3.02 EUR
+currency: EUR
+price: 3.02
+comparePrice: 4.6 EUR
+inStock: true
+prodname: 'Fellowes 99715 - Dispensador 100 toallitas limpiadoras superficies'
+country: 'es'
+---
+
+Está [Fellowes 99715 - Dispensador 100 toallitas limpiadoras superficies](https://www.amazon.es/dp/B00017IJQE/?tag=tolees-21) con 34.35 de descuento por 3.02 EUR (original: 4.6 EUR) en el siguiente enlace!
+
+[![Fellowes 99715 - Dispensador 100 toallit](https://m.media-amazon.com/images/I/51Api2Z-M0L._SL200_.jpg)](https://www.amazon.es/dp/B00017IJQE/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B00017IJQE/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

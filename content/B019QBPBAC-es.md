@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 62.01 % en Philips Linterna 717679916  0.3 W  Negro'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41IzMU9F0oL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41IzMU9F0oL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B019QBPBAC-es'
+description:
+actualPrice: 3.78 EUR
+currency: EUR
+price: 3.78
+comparePrice: 9.95 EUR
+inStock: true
+prodname: 'Philips Linterna 717679916  0.3 W  Negro  LED'
+country: 'es'
+---
+
+Tienes [Philips Linterna 717679916  0.3 W  Negro  LED](https://www.amazon.es/dp/B019QBPBAC/?tag=tolees-21) con un 62.01 % de descuento con precio de oferta de 3.78 EUR (original: 9.95 EUR) en el siguiente enlace!
+
+[![Philips Linterna 717679916  0.3 W  Negro](https://images-eu.ssl-images-amazon.com/images/I/41IzMU9F0oL._SL200_.jpg)](https://www.amazon.es/dp/B019QBPBAC/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B019QBPBAC/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

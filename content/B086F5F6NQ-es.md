@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Catherine Full Body al 50.09 % de descuento'
+date: 2020-11-30 21:56:30
+thumbnailImage: 'https://m.media-amazon.com/images/I/51++S+cMv7L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51++S+cMv7L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B086F5F6NQ-es'
+description:
+actualPrice: 24.95 EUR
+currency: EUR
+price: 24.95
+comparePrice: 49.99 EUR
+inStock: true
+prodname: 'Catherine Full Body'
+country: 'es'
+---
+
+Ahora mismo tienes [Catherine Full Body](https://www.amazon.es/dp/B086F5F6NQ/?tag=tolees-21) a 24.95 EUR (original: 49.99 EUR) (50.09 %  de descuento) en el siguiente enlace!
+
+[![Catherine Full Body](https://m.media-amazon.com/images/I/51++S+cMv7L._SL200_.jpg)](https://www.amazon.es/dp/B086F5F6NQ/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B086F5F6NQ/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

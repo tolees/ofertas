@@ -1,0 +1,27 @@
+---
+layout: post
+title: '6.35Mm Male To Male TRS Stereo Audio Cab al 33.50 % de descuento'
+date: 2020-10-23 16:05:50
+thumbnailImage: 'https://m.media-amazon.com/images/I/41wkJR-zWRL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41wkJR-zWRL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B083SNVV64-es'
+description:
+actualPrice: 20.17 EUR
+currency: EUR
+price: 20.17
+comparePrice: 30.33 EUR
+inStock: true
+prodname: '6.35Mm Male To Male TRS Stereo Audio Cable with Metal Housing and Nylon Braid For iPod Laptop Home Theater Device Tc030G - 20m'
+country: 'es'
+---
+
+Ahora mismo tienes [6.35Mm Male To Male TRS Stereo Audio Cable with Metal Housing and Nylon Braid For iPod Laptop Home Theater Device Tc030G - 20m](https://www.amazon.es/dp/B083SNVV64/?tag=tolees-21) a 20.17 EUR (original: 30.33 EUR) (33.50 %  de descuento) en el siguiente enlace!
+
+[![6.35Mm Male To Male TRS Stereo Audio Cab](https://m.media-amazon.com/images/I/41wkJR-zWRL._SL200_.jpg)](https://www.amazon.es/dp/B083SNVV64/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B083SNVV64/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

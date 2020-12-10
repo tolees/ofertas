@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Esky® ES-KF02 Localizador Inalámbrico de al 32.27 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/412jUmodVSL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/412jUmodVSL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B011F97OSU-es'
+description:
+actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
+comparePrice: 30.99 EUR
+inStock: true
+prodname: 'Esky® ES-KF02 Localizador Inalámbrico de Llaves con Base de Soporte y LED  Control Remoto  1 Radio Frecuencia Transmisor  4 Receptores-Negro'
+country: 'es'
+---
+
+Está [Esky® ES-KF02 Localizador Inalámbrico de Llaves con Base de Soporte y LED  Control Remoto  1 Radio Frecuencia Transmisor  4 Receptores-Negro](https://www.amazon.es/dp/B011F97OSU/?tag=tolees-21) con 32.27 de descuento por 20.99 EUR (original: 30.99 EUR) en el siguiente enlace!
+
+[![Esky® ES-KF02 Localizador Inalámbrico de](https://images-eu.ssl-images-amazon.com/images/I/412jUmodVSL._SL200_.jpg)](https://www.amazon.es/dp/B011F97OSU/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B011F97OSU/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

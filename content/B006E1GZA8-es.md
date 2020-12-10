@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'H.Koenig GR20 Parrilla Eléctrica  Grill  al 25.23 % de descuento'
+date: 2020-11-16 13:30:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/3187xqx7N3L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/3187xqx7N3L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B006E1GZA8-es'
+description:
+actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
+comparePrice: 39.99 EUR
+inStock: true
+prodname: 'H.Koenig GR20 Parrilla Eléctrica  Grill y Sandwichera  2000 W  Temperatura hasta 230º  Revestimiento Antiadherente  Apertura 180º  Dimensiones 29.7 x 23 cm  Acero Inoxidable  Gris'
+country: 'es'
+---
+
+Está [H.Koenig GR20 Parrilla Eléctrica  Grill y Sandwichera  2000 W  Temperatura hasta 230º  Revestimiento Antiadherente  Apertura 180º  Dimensiones 29.7 x 23 cm  Acero Inoxidable  Gris](https://www.amazon.es/dp/B006E1GZA8/?tag=tolees-21) con 25.23 de descuento por 29.9 EUR (original: 39.99 EUR) en el siguiente enlace!
+
+[![H.Koenig GR20 Parrilla Eléctrica  Grill ](https://m.media-amazon.com/images/I/3187xqx7N3L._SL200_.jpg)](https://www.amazon.es/dp/B006E1GZA8/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B006E1GZA8/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

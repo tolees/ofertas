@@ -1,0 +1,29 @@
+---
+layout: post
+title: '5 Hojas Papel de Regalo y 1 Cinta de Ras al 75.02 % de descuento'
+date: 2020-12-10 04:35:33
+thumbnailImage: 'https://m.media-amazon.com/images/I/51BESRhS2-L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51BESRhS2-L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B08K8Z65RC-es'
+description:
+actualPrice: 10.94 EUR
+currency: EUR
+price: 10.94
+comparePrice: 43.79 EUR
+inStock: true
+prodname: '5 Hojas Papel de Regalo y 1 Cinta de Raso Hojas Grandes Papel de Envoltura de Regalos de Navidad'
+country: 'es'
+---
+
+Está [5 Hojas Papel de Regalo y 1 Cinta de Raso Hojas Grandes Papel de Envoltura de Regalos de Navidad](https://www.amazon.es/dp/B08K8Z65RC/?tag=tolees-21) con 75.02 de descuento por 10.94 EUR (original: 43.79 EUR) en el siguiente enlace!
+
+[![5 Hojas Papel de Regalo y 1 Cinta de Ras](https://m.media-amazon.com/images/I/51BESRhS2-L._SL200_.jpg)](https://www.amazon.es/dp/B08K8Z65RC/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B08K8Z65RC/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

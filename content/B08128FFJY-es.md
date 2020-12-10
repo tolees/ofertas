@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Genesis Holm - Mesa de juego  Negro al 35.77 % de descuento'
+date: 2020-11-23 13:08:30
+thumbnailImage: 'https://m.media-amazon.com/images/I/31JZoI2giyL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31JZoI2giyL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B08128FFJY-es'
+description:
+actualPrice: 134.25 EUR
+currency: EUR
+price: 134.25
+comparePrice: 209.0 EUR
+inStock: true
+prodname: 'Genesis Holm - Mesa de juego  Negro'
+country: 'es'
+---
+
+Ahora mismo tienes [Genesis Holm - Mesa de juego  Negro](https://www.amazon.es/dp/B08128FFJY/?tag=tolees-21) a 134.25 EUR (original: 209.0 EUR) (35.77 %  de descuento) en el siguiente enlace!
+
+[![Genesis Holm - Mesa de juego  Negro](https://m.media-amazon.com/images/I/31JZoI2giyL._SL200_.jpg)](https://www.amazon.es/dp/B08128FFJY/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B08128FFJY/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

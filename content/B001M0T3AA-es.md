@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Trio 5914011-42 Serie 5914 - Sobremesa   al 40.76 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31S8bbCkvzL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31S8bbCkvzL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B001M0T3AA-es'
+description:
+actualPrice: 23.27 EUR
+currency: EUR
+price: 23.27
+comparePrice: 39.28 EUR
+inStock: true
+prodname: 'Trio 5914011-42 Serie 5914 - Sobremesa  bombilla excluida  E14  60 W  230 V  A++  E  IP20  35 5 x 12 x 12 cm  diámetro 12 cm  metal  níquel mate'
+country: 'es'
+---
+
+Ahora mismo tienes [Trio 5914011-42 Serie 5914 - Sobremesa  bombilla excluida  E14  60 W  230 V  A++  E  IP20  35 5 x 12 x 12 cm  diámetro 12 cm  metal  níquel mate](https://www.amazon.es/dp/B001M0T3AA/?tag=tolees-21) a 23.27 EUR (original: 39.28 EUR) (40.76 %  de descuento) en el siguiente enlace!
+
+[![Trio 5914011-42 Serie 5914 - Sobremesa  ](https://images-eu.ssl-images-amazon.com/images/I/31S8bbCkvzL._SL200_.jpg)](https://www.amazon.es/dp/B001M0T3AA/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B001M0T3AA/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

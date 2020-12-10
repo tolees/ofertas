@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Bosch PEX 220 A - Lijadora excéntrica  2 al 30.02 % de descuento'
+date: 2020-11-02 08:05:34
+thumbnailImage: 'https://m.media-amazon.com/images/I/41mJE9xz04L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41mJE9xz04L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0007VHJD8-es'
+description:
+actualPrice: 41.98 EUR
+currency: EUR
+price: 41.98
+comparePrice: 59.99 EUR
+inStock: true
+prodname: 'Bosch PEX 220 A - Lijadora excéntrica  220 W  Ø-plato lijador: 125 mm  Microfilter System  Excentricidad: 4 mm '
+country: 'es'
+---
+
+Ahora mismo tienes [Bosch PEX 220 A - Lijadora excéntrica  220 W  Ø-plato lijador: 125 mm  Microfilter System  Excentricidad: 4 mm ](https://www.amazon.es/dp/B0007VHJD8/?tag=tolees-21) a 41.98 EUR (original: 59.99 EUR) (30.02 %  de descuento) en el siguiente enlace!
+
+[![Bosch PEX 220 A - Lijadora excéntrica  2](https://m.media-amazon.com/images/I/41mJE9xz04L._SL200_.jpg)](https://www.amazon.es/dp/B0007VHJD8/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B0007VHJD8/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

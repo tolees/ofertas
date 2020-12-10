@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Hummel Hmljaki S/S Camiseta  Unisex niño al 55.52 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41CDMDSlSEL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41CDMDSlSEL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07DW6Y3V5-es'
+description:
+actualPrice: 6.65 EUR
+currency: EUR
+price: 6.65
+comparePrice: 14.95 EUR
+inStock: true
+prodname: 'Hummel Hmljaki S/S Camiseta  Unisex niños  Verde  Storm   152'
+country: 'es'
+---
+
+Está [Hummel Hmljaki S/S Camiseta  Unisex niños  Verde  Storm   152](https://www.amazon.es/dp/B07DW6Y3V5/?tag=tolees-21) con 55.52 de descuento por 6.65 EUR (original: 14.95 EUR) en el siguiente enlace!
+
+[![Hummel Hmljaki S/S Camiseta  Unisex niño](https://images-eu.ssl-images-amazon.com/images/I/41CDMDSlSEL._SL200_.jpg)](https://www.amazon.es/dp/B07DW6Y3V5/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07DW6Y3V5/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

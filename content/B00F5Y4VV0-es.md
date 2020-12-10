@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Hexbug - Juego electrónico portátil  477 al 34.80 % de descuento'
+date: 2020-11-25 20:08:13
+thumbnailImage: 'https://m.media-amazon.com/images/I/41UFxH9a4UL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41UFxH9a4UL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00F5Y4VV0-es'
+description:
+actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
+comparePrice: 22.99 EUR
+inStock: true
+prodname: 'Hexbug - Juego electrónico portátil  477-3137   Surtido '
+country: 'es'
+---
+
+Está [Hexbug - Juego electrónico portátil  477-3137   Surtido ](https://www.amazon.es/dp/B00F5Y4VV0/?tag=tolees-21) con 34.80 de descuento por 14.99 EUR (original: 22.99 EUR) en el siguiente enlace!
+
+[![Hexbug - Juego electrónico portátil  477](https://m.media-amazon.com/images/I/41UFxH9a4UL._SL200_.jpg)](https://www.amazon.es/dp/B00F5Y4VV0/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B00F5Y4VV0/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

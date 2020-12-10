@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Bébé Confort Citi  Silla de coche grupo  al 59.99 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41uR3AXuOCL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41uR3AXuOCL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B014W2CO2I-es'
+description:
+actualPrice: 66.02 EUR
+currency: EUR
+price: 66.02
+comparePrice: 165 EUR
+inStock: true
+prodname: 'Bébé Confort Citi  Silla de coche grupo 0+  turquesa  Triangle Flow '
+country: 'es'
+---
+
+Está [Bébé Confort Citi  Silla de coche grupo 0+  turquesa  Triangle Flow ](https://www.amazon.es/dp/B014W2CO2I/?tag=tolees-21) con 59.99 de descuento por 66.02 EUR (original: 165 EUR) en el siguiente enlace!
+
+[![Bébé Confort Citi  Silla de coche grupo ](https://images-eu.ssl-images-amazon.com/images/I/41uR3AXuOCL._SL200_.jpg)](https://www.amazon.es/dp/B014W2CO2I/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B014W2CO2I/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

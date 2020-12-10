@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 46.24 % en Kappa Trooper Light Sun  Zapatillas Unis'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41ioUbWY38L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41ioUbWY38L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01NBL5L47-es'
+description:
+actualPrice: 16.1 EUR
+currency: EUR
+price: 16.1
+comparePrice: 29.95 EUR
+inStock: true
+prodname: 'Kappa Trooper Light Sun  Zapatillas Unisex Niños  Negro  Black/White   30 EU'
+country: 'es'
+---
+
+Tienes [Kappa Trooper Light Sun  Zapatillas Unisex Niños  Negro  Black/White   30 EU](https://www.amazon.es/dp/B01NBL5L47/?tag=tolees-21) con un 46.24 % de descuento con precio de oferta de 16.1 EUR (original: 29.95 EUR) en el siguiente enlace!
+
+[![Kappa Trooper Light Sun  Zapatillas Unis](https://images-eu.ssl-images-amazon.com/images/I/41ioUbWY38L._SL200_.jpg)](https://www.amazon.es/dp/B01NBL5L47/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B01NBL5L47/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

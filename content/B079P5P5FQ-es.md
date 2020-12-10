@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Furla - 941911  Bolsos bandolera Mujer   al 25.42 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/416vNFvnMkL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/416vNFvnMkL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B079P5P5FQ-es'
+description:
+actualPrice: 220 EUR
+currency: EUR
+price: 220
+comparePrice: 295 EUR
+inStock: true
+prodname: 'Furla - 941911  Bolsos bandolera Mujer  Negro  Onyx   9x15x21 cm  B x H T '
+country: 'es'
+---
+
+Está [Furla - 941911  Bolsos bandolera Mujer  Negro  Onyx   9x15x21 cm  B x H T ](https://www.amazon.es/dp/B079P5P5FQ/?tag=tolees-21) con 25.42 de descuento por 220 EUR (original: 295 EUR) en el siguiente enlace!
+
+[![Furla - 941911  Bolsos bandolera Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/416vNFvnMkL._SL200_.jpg)](https://www.amazon.es/dp/B079P5P5FQ/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B079P5P5FQ/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

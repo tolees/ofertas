@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 73.07 % en New Balance Wx99  Zapatillas de Atletism'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41hef0wj95L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41hef0wj95L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01LYM55O3-es'
+description:
+actualPrice: 24.24 EUR
+currency: EUR
+price: 24.24
+comparePrice: 90 EUR
+inStock: true
+prodname: 'New Balance Wx99  Zapatillas de Atletismo para Mujer  Negro  Black   40 EU'
+country: 'es'
+---
+
+Tienes [New Balance Wx99  Zapatillas de Atletismo para Mujer  Negro  Black   40 EU](https://www.amazon.es/dp/B01LYM55O3/?tag=tolees-21) con un 73.07 % de descuento con precio de oferta de 24.24 EUR (original: 90 EUR) en el siguiente enlace!
+
+[![New Balance Wx99  Zapatillas de Atletism](https://images-eu.ssl-images-amazon.com/images/I/41hef0wj95L._SL200_.jpg)](https://www.amazon.es/dp/B01LYM55O3/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B01LYM55O3/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

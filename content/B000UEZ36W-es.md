@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Ratón SteelSeries QcK - Alfombrilla de r al 25.35 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/3121sGEt0lL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/3121sGEt0lL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B000UEZ36W-es'
+description:
+actualPrice: 8.95 EUR
+currency: EUR
+price: 8.95
+comparePrice: 11.99 EUR
+inStock: true
+prodname: 'Ratón SteelSeries QcK - Alfombrilla de ratón de juego  320mm x 270mm  tela  base de caucho  compatible con ratón láser y óptico  negro'
+country: 'es'
+---
+
+Ahora mismo tienes [Ratón SteelSeries QcK - Alfombrilla de ratón de juego  320mm x 270mm  tela  base de caucho  compatible con ratón láser y óptico  negro](https://www.amazon.es/dp/B000UEZ36W/?tag=tolees-21) a 8.95 EUR (original: 11.99 EUR) (25.35 %  de descuento) en el siguiente enlace!
+
+[![Ratón SteelSeries QcK - Alfombrilla de r](https://images-eu.ssl-images-amazon.com/images/I/3121sGEt0lL._SL200_.jpg)](https://www.amazon.es/dp/B000UEZ36W/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B000UEZ36W/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

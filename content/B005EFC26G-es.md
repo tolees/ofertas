@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Máquina de cupcakes Tristar SA-1122 - Cu al 49.95 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41kc3SivBJL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41kc3SivBJL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B005EFC26G-es'
+description:
+actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
+comparePrice: 27.95 EUR
+inStock: true
+prodname: 'Máquina de cupcakes Tristar SA-1122 - Cuatro cupcakes a la vez - Carcasa plateada'
+country: 'es'
+---
+
+Ahora mismo tienes [Máquina de cupcakes Tristar SA-1122 - Cuatro cupcakes a la vez - Carcasa plateada](https://www.amazon.es/dp/B005EFC26G/?tag=tolees-21) a 13.99 EUR (original: 27.95 EUR) (49.95 %  de descuento) en el siguiente enlace!
+
+[![Máquina de cupcakes Tristar SA-1122 - Cu](https://images-eu.ssl-images-amazon.com/images/I/41kc3SivBJL._SL200_.jpg)](https://www.amazon.es/dp/B005EFC26G/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B005EFC26G/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

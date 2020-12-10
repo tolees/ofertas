@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 30.02 % en Durex Preservativos Originales Naturales'
+date: 2020-11-22 17:22:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/518g-g1OtYL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/518g-g1OtYL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B08BPG5L54-es'
+description:
+actualPrice: 16.13 EUR
+currency: EUR
+price: 16.13
+comparePrice: 23.05 EUR
+inStock: true
+prodname: 'Durex Preservativos Originales Naturales Natural Comfort - 48 Condones'
+country: 'es'
+---
+
+Tienes [Durex Preservativos Originales Naturales Natural Comfort - 48 Condones](https://www.amazon.es/dp/B08BPG5L54/?tag=tolees-21) con un 30.02 % de descuento con precio de oferta de 16.13 EUR (original: 23.05 EUR) en el siguiente enlace!
+
+[![Durex Preservativos Originales Naturales](https://m.media-amazon.com/images/I/518g-g1OtYL._SL200_.jpg)](https://www.amazon.es/dp/B08BPG5L54/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B08BPG5L54/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

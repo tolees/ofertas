@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Siux Pantalon Corto CALIXTO Blanco Negro al 41.30 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31NHm4gv7GL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31NHm4gv7GL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B073G2W1NF-es'
+description:
+actualPrice: 13.5 EUR
+currency: EUR
+price: 13.5
+comparePrice: 23 EUR
+inStock: true
+prodname: 'Siux Pantalon Corto CALIXTO Blanco Negro'
+country: 'es'
+---
+
+Ahora mismo tienes [Siux Pantalon Corto CALIXTO Blanco Negro](https://www.amazon.es/dp/B073G2W1NF/?tag=tolees-21) a 13.5 EUR (original: 23 EUR) (41.30 %  de descuento) en el siguiente enlace!
+
+[![Siux Pantalon Corto CALIXTO Blanco Negro](https://images-eu.ssl-images-amazon.com/images/I/31NHm4gv7GL._SL200_.jpg)](https://www.amazon.es/dp/B073G2W1NF/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B073G2W1NF/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

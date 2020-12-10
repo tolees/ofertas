@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Bosch Keo 0600861900 - Sierra de jardín  al 33.00 % de descuento'
+date: 2020-11-28 18:38:07
+thumbnailImage: 'https://m.media-amazon.com/images/I/41ir5nXyblL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41ir5nXyblL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B004QQ3U2Y-es'
+description:
+actualPrice: 66.99 EUR
+currency: EUR
+price: 66.99
+comparePrice: 99.99 EUR
+inStock: true
+prodname: 'Bosch Keo 0600861900 - Sierra de jardín a batería  Tiempo de carga de la batería: 3.5 H  10.8 V '
+country: 'es'
+---
+
+Está [Bosch Keo 0600861900 - Sierra de jardín a batería  Tiempo de carga de la batería: 3.5 H  10.8 V ](https://www.amazon.es/dp/B004QQ3U2Y/?tag=tolees-21) con 33.00 de descuento por 66.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+
+[![Bosch Keo 0600861900 - Sierra de jardín ](https://m.media-amazon.com/images/I/41ir5nXyblL._SL200_.jpg)](https://www.amazon.es/dp/B004QQ3U2Y/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B004QQ3U2Y/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Einhell RT-RO 55 Fresadora  1200 W  230  al 25.83 % de descuento'
+date: 2020-11-01 18:10:21
+thumbnailImage: 'https://m.media-amazon.com/images/I/41lwM3O5hUL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41lwM3O5hUL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B001T0HFB2-es'
+description:
+actualPrice: 60.4 EUR
+currency: EUR
+price: 60.4
+comparePrice: 81.43 EUR
+inStock: true
+prodname: 'Einhell RT-RO 55 Fresadora  1200 W  230 V  control electrónico  profundidad de fresado regulable  Gris y Rojo  ref. 4350490 '
+country: 'es'
+---
+
+Está [Einhell RT-RO 55 Fresadora  1200 W  230 V  control electrónico  profundidad de fresado regulable  Gris y Rojo  ref. 4350490 ](https://www.amazon.es/dp/B001T0HFB2/?tag=tolees-21) con 25.83 de descuento por 60.4 EUR (original: 81.43 EUR) en el siguiente enlace!
+
+[![Einhell RT-RO 55 Fresadora  1200 W  230 ](https://m.media-amazon.com/images/I/41lwM3O5hUL._SL200_.jpg)](https://www.amazon.es/dp/B001T0HFB2/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B001T0HFB2/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

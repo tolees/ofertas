@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 36.64 % en Nike Pico 4  PSV   Zapatillas de Tenis U'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AXQGeQjBL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AXQGeQjBL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B009QD2M9Y-es'
+description:
+actualPrice: 19.45 EUR
+currency: EUR
+price: 19.45
+comparePrice: 30.7 EUR
+inStock: true
+prodname: 'Nike Pico 4  PSV   Zapatillas de Tenis Unisex  Blanco/Rosa  33.5 EU'
+country: 'es'
+---
+
+Tienes [Nike Pico 4  PSV   Zapatillas de Tenis Unisex  Blanco/Rosa  33.5 EU](https://www.amazon.es/dp/B009QD2M9Y/?tag=tolees-21) con un 36.64 % de descuento con precio de oferta de 19.45 EUR (original: 30.7 EUR) en el siguiente enlace!
+
+[![Nike Pico 4  PSV   Zapatillas de Tenis U](https://images-eu.ssl-images-amazon.com/images/I/31AXQGeQjBL._SL200_.jpg)](https://www.amazon.es/dp/B009QD2M9Y/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B009QD2M9Y/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

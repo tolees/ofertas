@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Refresh 69837  Zapatos de tacón con Punt al 58.20 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41gtLQFRXPL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41gtLQFRXPL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07JX9D8C3-es'
+description:
+actualPrice: 16.7 EUR
+currency: EUR
+price: 16.7
+comparePrice: 39.95 EUR
+inStock: true
+prodname: 'Refresh 69837  Zapatos de tacón con Punta Abierta para Mujer  Negro  39 EU'
+country: 'es'
+---
+
+Está [Refresh 69837  Zapatos de tacón con Punta Abierta para Mujer  Negro  39 EU](https://www.amazon.es/dp/B07JX9D8C3/?tag=tolees-21) con 58.20 de descuento por 16.7 EUR (original: 39.95 EUR) en el siguiente enlace!
+
+[![Refresh 69837  Zapatos de tacón con Punt](https://images-eu.ssl-images-amazon.com/images/I/41gtLQFRXPL._SL200_.jpg)](https://www.amazon.es/dp/B07JX9D8C3/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07JX9D8C3/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

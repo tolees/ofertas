@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Karactermania Toy Story Claw-Quadrat HS  al 41.30 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51teOL2unKL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51teOL2unKL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07S37N8ZP-es'
+description:
+actualPrice: 5.8 EUR
+currency: EUR
+price: 5.8
+comparePrice: 9.88 EUR
+inStock: true
+prodname: 'Karactermania Toy Story Claw-Quadrat HS Federmäppchen Estuches 22 Centimeters  Multicolour '
+country: 'es'
+---
+
+Está [Karactermania Toy Story Claw-Quadrat HS Federmäppchen Estuches 22 Centimeters  Multicolour ](https://www.amazon.es/dp/B07S37N8ZP/?tag=tolees-21) con 41.30 de descuento por 5.8 EUR (original: 9.88 EUR) en el siguiente enlace!
+
+[![Karactermania Toy Story Claw-Quadrat HS ](https://images-eu.ssl-images-amazon.com/images/I/51teOL2unKL._SL200_.jpg)](https://www.amazon.es/dp/B07S37N8ZP/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07S37N8ZP/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

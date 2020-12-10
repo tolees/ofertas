@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 51.17 % en Toshiba TransMemory - Memoria USB U302 d'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41NMAzemvVL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41NMAzemvVL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01F97P8RI-es'
+description:
+actualPrice: 14.01 EUR
+currency: EUR
+price: 14.01
+comparePrice: 28.69 EUR
+inStock: true
+prodname: 'Toshiba TransMemory - Memoria USB U302 de 64 GB  Color Negro'
+country: 'es'
+---
+
+Tienes [Toshiba TransMemory - Memoria USB U302 de 64 GB  Color Negro](https://www.amazon.es/dp/B01F97P8RI/?tag=tolees-21) con un 51.17 % de descuento con precio de oferta de 14.01 EUR (original: 28.69 EUR) en el siguiente enlace!
+
+[![Toshiba TransMemory - Memoria USB U302 d](https://images-eu.ssl-images-amazon.com/images/I/41NMAzemvVL._SL200_.jpg)](https://www.amazon.es/dp/B01F97P8RI/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B01F97P8RI/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Adidas Samba OG  Zapatillas de Gimnasia  al 40.02 % de descuento'
+date: 2020-11-27 14:18:38
+thumbnailImage: 'https://m.media-amazon.com/images/I/41punizQPBL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41punizQPBL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07D72Y5DD-es'
+description:
+actualPrice: 53.95 EUR
+currency: EUR
+price: 53.95
+comparePrice: 89.95 EUR
+inStock: true
+prodname: 'Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Footwear White/Gum 0   36 EU'
+country: 'es'
+---
+
+Está [Adidas Samba OG  Zapatillas de Gimnasia para Hombre  Negro  Core Black/Footwear White/Gum 0   36 EU](https://www.amazon.es/dp/B07D72Y5DD/?tag=tolees-21) con 40.02 de descuento por 53.95 EUR (original: 89.95 EUR) en el siguiente enlace!
+
+[![Adidas Samba OG  Zapatillas de Gimnasia ](https://m.media-amazon.com/images/I/41punizQPBL._SL200_.jpg)](https://www.amazon.es/dp/B07D72Y5DD/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B07D72Y5DD/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

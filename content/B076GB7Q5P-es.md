@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Pepe Jeans Soho Pantalones  Azul  Electr al 81.25 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ayvr3sxxL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ayvr3sxxL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B076GB7Q5P-es'
+description:
+actualPrice: 12.19 EUR
+currency: EUR
+price: 12.19
+comparePrice: 65 EUR
+inStock: true
+prodname: 'Pepe Jeans Soho Pantalones  Azul  Electric BLU 554   24W / 32L para Mujer'
+country: 'es'
+---
+
+Está [Pepe Jeans Soho Pantalones  Azul  Electric BLU 554   24W / 32L para Mujer](https://www.amazon.es/dp/B076GB7Q5P/?tag=tolees-21) con 81.25 de descuento por 12.19 EUR (original: 65 EUR) en el siguiente enlace!
+
+[![Pepe Jeans Soho Pantalones  Azul  Electr](https://images-eu.ssl-images-amazon.com/images/I/41Ayvr3sxxL._SL200_.jpg)](https://www.amazon.es/dp/B076GB7Q5P/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B076GB7Q5P/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

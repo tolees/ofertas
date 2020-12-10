@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 32.13 % en erima 318609 Calcetines de Deporte  Unis'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51vGty4hutL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51vGty4hutL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01JG8RA40-es'
+description:
+actualPrice: 6.78 EUR
+currency: EUR
+price: 6.78
+comparePrice: 9.99 EUR
+inStock: true
+prodname: 'erima 318609 Calcetines de Deporte  Unisex niños  Negro/Blanco  XXS'
+country: 'es'
+---
+
+Tienes [erima 318609 Calcetines de Deporte  Unisex niños  Negro/Blanco  XXS](https://www.amazon.es/dp/B01JG8RA40/?tag=tolees-21) con un 32.13 % de descuento con precio de oferta de 6.78 EUR (original: 9.99 EUR) en el siguiente enlace!
+
+[![erima 318609 Calcetines de Deporte  Unis](https://images-eu.ssl-images-amazon.com/images/I/51vGty4hutL._SL200_.jpg)](https://www.amazon.es/dp/B01JG8RA40/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B01JG8RA40/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

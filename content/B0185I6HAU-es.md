@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 49.44 % en Izas Dera Pantalones de montaña  Mujer  '
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31CHlkbQATL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31CHlkbQATL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0185I6HAU-es'
+description:
+actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
+comparePrice: 55.36 EUR
+inStock: true
+prodname: 'Izas Dera Pantalones de montaña  Mujer  Multicolor  Turquesa / Gris oscuro   M'
+country: 'es'
+---
+
+Tienes [Izas Dera Pantalones de montaña  Mujer  Multicolor  Turquesa / Gris oscuro   M](https://www.amazon.es/dp/B0185I6HAU/?tag=tolees-21) con un 49.44 % de descuento con precio de oferta de 27.99 EUR (original: 55.36 EUR) en el siguiente enlace!
+
+[![Izas Dera Pantalones de montaña  Mujer  ](https://images-eu.ssl-images-amazon.com/images/I/31CHlkbQATL._SL200_.jpg)](https://www.amazon.es/dp/B0185I6HAU/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B0185I6HAU/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

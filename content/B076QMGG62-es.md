@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Vaude Dream 10 L Colchoneta  Unisex Adul al 50.01 % de descuento'
+date: 2020-11-24 12:08:22
+thumbnailImage: 'https://m.media-amazon.com/images/I/410+7BAoHdL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/410+7BAoHdL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B076QMGG62-es'
+description:
+actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
+comparePrice: 160.0 EUR
+inStock: true
+prodname: 'Vaude Dream 10 L Colchoneta  Unisex Adulto  Rojo  Cherrywood   Única'
+country: 'es'
+---
+
+Está [Vaude Dream 10 L Colchoneta  Unisex Adulto  Rojo  Cherrywood   Única](https://www.amazon.es/dp/B076QMGG62/?tag=tolees-21) con 50.01 de descuento por 79.99 EUR (original: 160.0 EUR) en el siguiente enlace!
+
+[![Vaude Dream 10 L Colchoneta  Unisex Adul](https://m.media-amazon.com/images/I/410+7BAoHdL._SL200_.jpg)](https://www.amazon.es/dp/B076QMGG62/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B076QMGG62/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

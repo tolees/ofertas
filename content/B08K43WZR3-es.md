@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'HUYIYI Cuerda de Yute Cordel Yute Cuerda al 38.22 % de descuento'
+date: 2020-10-18 19:47:04
+thumbnailImage: 'https://m.media-amazon.com/images/I/51Ykczy+OiL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51Ykczy+OiL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B08K43WZR3-es'
+description:
+actualPrice: 6.79 EUR
+currency: EUR
+price: 6.79
+comparePrice: 10.99 EUR
+inStock: true
+prodname: 'HUYIYI Cuerda de Yute Cordel Yute Cuerdas de Esparto Cordel Cuerda Yute Manualidades  Rollo Grande Marrón Natural Gruesa Fuerte Decoración  Floristería  Artesanía y Bricolaje 3mm*100m'
+country: 'es'
+---
+
+Ahora mismo tienes [HUYIYI Cuerda de Yute Cordel Yute Cuerdas de Esparto Cordel Cuerda Yute Manualidades  Rollo Grande Marrón Natural Gruesa Fuerte Decoración  Floristería  Artesanía y Bricolaje 3mm*100m](https://www.amazon.es/dp/B08K43WZR3/?tag=tolees-21) a 6.79 EUR (original: 10.99 EUR) (38.22 %  de descuento) en el siguiente enlace!
+
+[![HUYIYI Cuerda de Yute Cordel Yute Cuerda](https://m.media-amazon.com/images/I/51Ykczy+OiL._SL200_.jpg)](https://www.amazon.es/dp/B08K43WZR3/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B08K43WZR3/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

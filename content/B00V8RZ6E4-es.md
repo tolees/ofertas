@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 36.28 % en SRAM 00.2418.052.003 Cassette  PG-1130  '
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/516EPTkg29L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/516EPTkg29L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00V8RZ6E4-es'
+description:
+actualPrice: 52.25 EUR
+currency: EUR
+price: 52.25
+comparePrice: 82 EUR
+inStock: true
+prodname: 'SRAM 00.2418.052.003 Cassette  PG-1130  11V  11-36  M'
+country: 'es'
+---
+
+Tienes [SRAM 00.2418.052.003 Cassette  PG-1130  11V  11-36  M](https://www.amazon.es/dp/B00V8RZ6E4/?tag=tolees-21) con un 36.28 % de descuento con precio de oferta de 52.25 EUR (original: 82 EUR) en el siguiente enlace!
+
+[![SRAM 00.2418.052.003 Cassette  PG-1130  ](https://images-eu.ssl-images-amazon.com/images/I/516EPTkg29L._SL200_.jpg)](https://www.amazon.es/dp/B00V8RZ6E4/?tag=tolees-21)
+
+[Accede a la oferta!!](https://www.amazon.es/dp/B00V8RZ6E4/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

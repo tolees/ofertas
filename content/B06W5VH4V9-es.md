@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Kenwood kMix KMX750RD - Robot de cocina  al 32.63 % de descuento'
+date: 2020-11-10 15:53:35
+thumbnailImage: 'https://m.media-amazon.com/images/I/31G2+9IDKgL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31G2+9IDKgL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B06W5VH4V9-es'
+description:
+actualPrice: 289.0 EUR
+currency: EUR
+price: 289.0
+comparePrice: 429.0 EUR
+inStock: true
+prodname: 'Kenwood kMix KMX750RD - Robot de cocina multifunción  1000 W  bol metálico de 5 L con asa  gancho para amasar  varillas  mezclado K  Aacero inoxidable  6 velocidades  color rojo'
+country: 'es'
+---
+
+Ahora mismo tienes [Kenwood kMix KMX750RD - Robot de cocina multifunción  1000 W  bol metálico de 5 L con asa  gancho para amasar  varillas  mezclado K  Aacero inoxidable  6 velocidades  color rojo](https://www.amazon.es/dp/B06W5VH4V9/?tag=tolees-21) a 289.0 EUR (original: 429.0 EUR) (32.63 %  de descuento) en el siguiente enlace!
+
+[![Kenwood kMix KMX750RD - Robot de cocina ](https://m.media-amazon.com/images/I/31G2+9IDKgL._SL200_.jpg)](https://www.amazon.es/dp/B06W5VH4V9/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B06W5VH4V9/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

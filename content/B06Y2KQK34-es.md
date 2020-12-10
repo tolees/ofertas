@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Geox J Kalispera Girl I  Zapatillas Alta al 50.00 % de descuento'
+date: 2020-12-04 10:46:32
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Wk3m9up+L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Wk3m9up+L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B06Y2KQK34-es'
+description:
+actualPrice: 31.45 EUR
+currency: EUR
+price: 31.45
+comparePrice: 62.9 EUR
+inStock: true
+prodname: 'Geox J Kalispera Girl I  Zapatillas Altas para Niñas  Azul  Navy   39 EU'
+country: 'es'
+---
+
+Ahora mismo tienes [Geox J Kalispera Girl I  Zapatillas Altas para Niñas  Azul  Navy   39 EU](https://www.amazon.es/dp/B06Y2KQK34/?tag=tolees-21) a 31.45 EUR (original: 62.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
+
+[![Geox J Kalispera Girl I  Zapatillas Alta](https://m.media-amazon.com/images/I/41Wk3m9up+L._SL200_.jpg)](https://www.amazon.es/dp/B06Y2KQK34/?tag=tolees-21)
+
+[Visítala!!!](https://www.amazon.es/dp/B06Y2KQK34/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

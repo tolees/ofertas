@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Leifheit Rotaro S turquesa  barredora de al 33.76 % de descuento'
+date: 
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41SNwjiLxrL._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41SNwjiLxrL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0002AE2FC-es'
+description:
+actualPrice: 56.27 EUR
+currency: EUR
+price: 56.27
+comparePrice: 84.95 EUR
+inStock: true
+prodname: 'Leifheit Rotaro S turquesa  barredora de alfombras sin alimentación y cable  regulable en altura  limpieza de alfombras con tres cepillos de barrido'
+country: 'es'
+---
+
+Está [Leifheit Rotaro S turquesa  barredora de alfombras sin alimentación y cable  regulable en altura  limpieza de alfombras con tres cepillos de barrido](https://www.amazon.es/dp/B0002AE2FC/?tag=tolees-21) con 33.76 de descuento por 56.27 EUR (original: 84.95 EUR) en el siguiente enlace!
+
+[![Leifheit Rotaro S turquesa  barredora de](https://images-eu.ssl-images-amazon.com/images/I/41SNwjiLxrL._SL200_.jpg)](https://www.amazon.es/dp/B0002AE2FC/?tag=tolees-21)
+
+[Ver la oferta!!](https://www.amazon.es/dp/B0002AE2FC/?tag=tolees-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
