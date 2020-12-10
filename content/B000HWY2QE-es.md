@@ -24,15 +24,15 @@ Ahora mismo tienes [Alessi 9090/6 - Cafetera italiana de acero inoxidable brillo
 
 Características:
 
-- Profundidad: 125 mm
 - Descripción del producto: Alessi 9090/6
-- Tipo de entrada de café: Café molido
-- Color: Acero inoxidable
 - Tipos de bebidas : café espresso
-- Altura: 205 mm
-- Diseño de caso: Autónoma
+- Color: Acero inoxidable
+- Profundidad: 125 mm
 - Tipo de café : Manuel
+- Diseño de caso: Autónoma
+- Tipo de entrada de café: Café molido
 - Material de la carcasa / cuerpo: Acero inoxidable
+- Altura: 205 mm
 
 [Visítala!!!](https://www.amazon.es/dp/B000HWY2QE/?tag=tolees-21)
 

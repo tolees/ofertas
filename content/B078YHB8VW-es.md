@@ -25,9 +25,9 @@ Ahora mismo tienes [Scuderia Ferrari Reloj Analógico para Hombre de Cuarzo con 
 Características:
 
 - Correa de silicona
-- Bisel de aluminio
 - 5 ATM de resistencia al agua
 - Colección Red Rev
+- Bisel de aluminio
 - Esfera negra de diseño apanalado
 
 [Visítala!!!](https://www.amazon.es/dp/B078YHB8VW/?tag=tolees-21)

@@ -24,10 +24,10 @@ Está [Remington NE3150 Smart -Cortapelos de Vello  Nariz y Orejas  Recortador c
 
 Principales características:
 
-- Cuchillas de acero avanzado
-- Funciona con pilas: 1 x AA, no incluida
 - Recortador facial con cortador lineal para cejas, nariz y orejas
 - Cabezal lavable
+- Funciona con pilas: 1 x AA, no incluida
+- Cuchillas de acero avanzado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0037XJLWA/?tag=tolees-21)
 

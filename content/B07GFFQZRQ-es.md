@@ -26,9 +26,9 @@ Principales características:
 
 - Tablero aglomerado de 16 mm de estructura resistente
 - Acabado minimalista en melamina blanca
-- Viene sin ensamblar
 - Montaje sencillo. Se requieren dos personas.
 - 2 años de garantía
+- Viene sin ensamblar
 - Diseño elegante y a la vez completamente práctico
 - Medidas: 50 x 90 x 73 cm
 

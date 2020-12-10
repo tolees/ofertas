@@ -24,12 +24,12 @@ Ahora mismo tienes [Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Cor
 
 Características:
 
-- Diámetro de la caja: 38 mm
-- Pulsadores decorativos
-- Movimiento multifunción
-- Esfera azul marina con efecto de rayo de sol
 - 3 ATM de resistencia al agua
+- Movimiento multifunción
+- Diámetro de la caja: 38 mm
 - Correa de piel tostado claro con estampado de cocodrilo
+- Pulsadores decorativos
+- Esfera azul marina con efecto de rayo de sol
 
 [Visítala!!!](https://www.amazon.es/dp/B07V59THW2/?tag=tolees-21)
 

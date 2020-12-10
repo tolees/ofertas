@@ -24,9 +24,9 @@ Está [Philips Avent SCH400/30  Set Para Cuidado Del Bebé  Amarillo  Estándar 
 
 Principales características:
 
-- A partir de 6 meses
 - Ofrece el espacio suficiente para guardar los productos adicionales para el cuidado del bebé
 - Incluye un termómetro digital, un aspirador nasal, un cepillo de dientes dedal y un kit para el cuidado del cabello y las uñas
+- A partir de 6 meses
 - Adecuado para viajes y guardería
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00J28GPSC/?tag=tolees-21)

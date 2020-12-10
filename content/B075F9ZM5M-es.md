@@ -24,8 +24,8 @@ Ahora mismo tienes [Leyendas de Luma-¡Oh Capitán  Ludonaute LDOC0001 ](https:/
 
 Características:
 
-- Con su mano derecha sostiene sobre las aguas la botella que contiene el misterioso mensaje que inició esta aventura
 - El Intrépido lleva surcando los mares las tres últimas lunas
+- Con su mano derecha sostiene sobre las aguas la botella que contiene el misterioso mensaje que inició esta aventura
 - Producto en castellano
 - Recostado en la cubierta, Red otea el horizonte murmurando para sí: «condenadas medusas brillantes». 
 

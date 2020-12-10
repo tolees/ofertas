@@ -24,10 +24,10 @@ Tienes [JACK & JONES SENSE TRUNKS 3-PACK Bóxer  Negro  Small  Pack de 3  para H
 
 Características principales:
 
+- Paquete Triple
 - Estiramiento
 - Conjunto De Calzoncillos Boxer
 - Pretina Ancha
-- Paquete Triple
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00WWPEJIK/?tag=tolees-21)
 

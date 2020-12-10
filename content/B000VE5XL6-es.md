@@ -24,9 +24,9 @@ Ahora mismo tienes [Casio Collection W-800H-1AVES  Reloj Digital Unisex  Negro](
 
 Características:
 
-- Resistente al agua hasta 10 bar / 100 metros
-- Caja y correa de resina sintética, un material resistente y flexible
 - Incluye cronómetro, alarma, función de despertador y calendario automático
+- Caja y correa de resina sintética, un material resistente y flexible
+- Resistente al agua hasta 10 bar / 100 metros
 - La duración de la batería es de 10 años
 - Para iluminar la esfera del reloj se usa un diodo emisor de luz LED
 

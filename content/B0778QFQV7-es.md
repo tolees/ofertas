@@ -24,9 +24,9 @@ Ahora mismo tienes [Figura Pop! Dragonball Z Shenron Dragon Gold Exclusive 15cm]
 
 Características:
 
-- Alta calidad
-- Licencia oficial
 - Muy resistente
+- Licencia oficial
+- Alta calidad
 
 [Visítala!!!](https://www.amazon.es/dp/B0778QFQV7/?tag=tolees-21)
 

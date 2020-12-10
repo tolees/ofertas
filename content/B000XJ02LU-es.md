@@ -24,12 +24,12 @@ Ahora mismo tienes [STANLEY 0-30-697 - Flexómetro Tylon  5 metros](https://www.
 
 Características:
 
-- Diseño compacto de la caja con foma ergonómica, máximo confort y fácil manejo.
-- Revestimiento mate de la cinta que facilita la lectura sin brillos.
 - Revestimiento Tylon que aumenta hasta un 50% la durabilidad de la hoja.
+- Dispone de fijador y rebobinado automático
 - Gran resistencia a los golpes gracias a la caja 100% contorneada de caucho que protege la cinta.
 - Anchura: 19 mm
-- Dispone de fijador y rebobinado automático
+- Diseño compacto de la caja con foma ergonómica, máximo confort y fácil manejo.
+- Revestimiento mate de la cinta que facilita la lectura sin brillos.
 
 [Visítala!!!](https://www.amazon.es/dp/B000XJ02LU/?tag=tolees-21)
 

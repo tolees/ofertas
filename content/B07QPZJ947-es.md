@@ -24,11 +24,11 @@ Tienes [Amazon Brand - Movian Rom - Mesa de centro  80 x 80 x 45 cm  blanco](htt
 
 Características principales:
 
-- Mesa de centro moderna y resistente con una base metálica cruzada y estructura de apoyo; superficie de vidrio templado de gran calidad y fácil de cuidar con un original diseño en imitación de mármol blanco
+- Materiales: superficie de cristal, diseño en mármol y estructura metálica
 - Viene con las instrucciones de montaje; 2 años de garantía
 - Medidas: 80 x 80 x 45 cm (largo x ancho x alto)
 - Amplia superficie redonda para bandejas, revistas y platos; base cromada pintada con topes de goma en los pies para evitar rayones en el piso
-- Materiales: superficie de cristal, diseño en mármol y estructura metálica
+- Mesa de centro moderna y resistente con una base metálica cruzada y estructura de apoyo; superficie de vidrio templado de gran calidad y fácil de cuidar con un original diseño en imitación de mármol blanco
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07QPZJ947/?tag=tolees-21)
 
