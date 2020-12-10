@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ruffles Jamon  Patatas fritas - 295 gr al 25.10 % de descuento'
-date: 2020-12-09 06:35:56
+date: 2020-12-10 11:13:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/5108QnmHtAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5108QnmHtAL._SL200_.jpg' ]
 comments: true

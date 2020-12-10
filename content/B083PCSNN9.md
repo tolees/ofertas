@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.00 % en Rowenta Compact Power Cyclonic XL Animal'
-date: 2020-11-28 21:04:15
+date: 2020-12-10 11:01:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Gsm5a9d4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Gsm5a9d4L._SL200_.jpg' ]
 comments: true

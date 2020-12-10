@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Fast & Furious Crossroads'
 ---
 
-Está [Fast & Furious Crossroads](https://www.amazon.es/dp/B082VTBRWV/?tag=tolees-21) con 53.07 de descuento por 19.9 EUR (original: 42.4 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fast & Furious Crossroads](https://www.amazon.es/dp/B082VTBRWV/?tag=tolees-21) a 19.9 EUR (original: 42.4 EUR) (53.07 %  de descuento) en el siguiente enlace!
 
 [![Fast & Furious Crossroads](https://m.media-amazon.com/images/I/51-sj05QmAL._SL200_.jpg)](https://www.amazon.es/dp/B082VTBRWV/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B082VTBRWV/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B082VTBRWV/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

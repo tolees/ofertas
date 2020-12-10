@@ -17,12 +17,10 @@ inStock: true
 prodname: 'BLACK+DECKER A7063-QZ - Kit de 76 herramientas para coche'
 ---
 
-Está [BLACK+DECKER A7063-QZ - Kit de 76 herramientas para coche](https://www.amazon.es/dp/B003NE4USI/?tag=tolees-21) con 35.15 de descuento por 32.36 EUR (original: 49.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [BLACK+DECKER A7063-QZ - Kit de 76 herramientas para coche](https://www.amazon.es/dp/B003NE4USI/?tag=tolees-21) a 32.36 EUR (original: 49.9 EUR) (35.15 %  de descuento) en el siguiente enlace!
 
 [![BLACK+DECKER A7063-QZ - Kit de 76 herram](https://m.media-amazon.com/images/I/41LkmCvuJfL._SL200_.jpg)](https://www.amazon.es/dp/B003NE4USI/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B003NE4USI/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B003NE4USI/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

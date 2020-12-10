@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Faber Castell 120112 - Estuche cartón con 12 lápices hexagonales multicolor  lápices escolares de colores'
 ---
 
-Está [Faber Castell 120112 - Estuche cartón con 12 lápices hexagonales multicolor  lápices escolares de colores](https://www.amazon.es/dp/B00JME9JAW/?tag=tolees-21) con 25.28 de descuento por 2.66 EUR (original: 3.56 EUR) en el siguiente enlace!
+Ahora mismo tienes [Faber Castell 120112 - Estuche cartón con 12 lápices hexagonales multicolor  lápices escolares de colores](https://www.amazon.es/dp/B00JME9JAW/?tag=tolees-21) a 2.66 EUR (original: 3.56 EUR) (25.28 %  de descuento) en el siguiente enlace!
 
 [![Faber Castell 120112 - Estuche cartón co](https://m.media-amazon.com/images/I/41RN6ti9UkL._SL200_.jpg)](https://www.amazon.es/dp/B00JME9JAW/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00JME9JAW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00JME9JAW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

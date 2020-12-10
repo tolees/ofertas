@@ -17,10 +17,12 @@ inStock: true
 prodname: 'NaturGreen Semillas de Sésamo Tostado Bio 225g'
 ---
 
-Ahora mismo tienes [NaturGreen Semillas de Sésamo Tostado Bio 225g](https://www.amazon.es/dp/B01MQ0RBB5/?tag=tolees-21) a 2.45 EUR (original: 8.04 EUR) (69.53 %  de descuento) en el siguiente enlace!
+Está [NaturGreen Semillas de Sésamo Tostado Bio 225g](https://www.amazon.es/dp/B01MQ0RBB5/?tag=tolees-21) con 69.53 de descuento por 2.45 EUR (original: 8.04 EUR) en el siguiente enlace!
 
 [![NaturGreen Semillas de Sésamo Tostado Bi](https://m.media-amazon.com/images/I/411u12Ah9eL._SL200_.jpg)](https://www.amazon.es/dp/B01MQ0RBB5/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MQ0RBB5/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MQ0RBB5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

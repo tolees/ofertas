@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Collistar 32417 - Lápiz de ojos'
 ---
 
-Está [Collistar 32417 - Lápiz de ojos](https://www.amazon.es/dp/B00IRFCMAG/?tag=tolees-21) con 51.23 de descuento por 12.68 EUR (original: 26 EUR) en el siguiente enlace!
+Ahora mismo tienes [Collistar 32417 - Lápiz de ojos](https://www.amazon.es/dp/B00IRFCMAG/?tag=tolees-21) a 12.68 EUR (original: 26 EUR) (51.23 %  de descuento) en el siguiente enlace!
 
 [![Collistar 32417 - Lápiz de ojos](https://images-eu.ssl-images-amazon.com/images/I/31KcATAmh5L._SL200_.jpg)](https://www.amazon.es/dp/B00IRFCMAG/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00IRFCMAG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00IRFCMAG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

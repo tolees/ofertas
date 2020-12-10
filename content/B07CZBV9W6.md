@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Under Armour Playoff Polo 2.0  Hombre  Azul  Academy/Pitch Gray 408   XL'
 ---
 
-Está [Under Armour Playoff Polo 2.0  Hombre  Azul  Academy/Pitch Gray 408   XL](https://www.amazon.es/dp/B07CZBV9W6/?tag=tolees-21) con 39.18 de descuento por 31.16 EUR (original: 51.23 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Playoff Polo 2.0  Hombre  Azul  Academy/Pitch Gray 408   XL](https://www.amazon.es/dp/B07CZBV9W6/?tag=tolees-21) a 31.16 EUR (original: 51.23 EUR) (39.18 %  de descuento) en el siguiente enlace!
 
 [![Under Armour Playoff Polo 2.0  Hombre  A](https://images-eu.ssl-images-amazon.com/images/I/41YSZxacZ1L._SL200_.jpg)](https://www.amazon.es/dp/B07CZBV9W6/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07CZBV9W6/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07CZBV9W6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

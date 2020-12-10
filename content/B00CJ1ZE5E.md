@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Cooler Master RSA00-AFBAG1-EU - Fuente de alimentación  1000 W'
 ---
 
-Está [Cooler Master RSA00-AFBAG1-EU - Fuente de alimentación  1000 W](https://www.amazon.es/dp/B00CJ1ZE5E/?tag=tolees-21) con 32.99 de descuento por 151.97 EUR (original: 226.78 EUR) en el siguiente enlace!
+Ahora mismo tienes [Cooler Master RSA00-AFBAG1-EU - Fuente de alimentación  1000 W](https://www.amazon.es/dp/B00CJ1ZE5E/?tag=tolees-21) a 151.97 EUR (original: 226.78 EUR) (32.99 %  de descuento) en el siguiente enlace!
 
 [![Cooler Master RSA00-AFBAG1-EU - Fuente d](https://images-eu.ssl-images-amazon.com/images/I/41Yoywpm-zL._SL200_.jpg)](https://www.amazon.es/dp/B00CJ1ZE5E/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00CJ1ZE5E/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00CJ1ZE5E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

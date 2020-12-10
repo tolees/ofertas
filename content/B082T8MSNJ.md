@@ -17,12 +17,10 @@ inStock: true
 prodname: 'My Hero One´s Justice 2 - Plus Ultra Edition'
 ---
 
-Está [My Hero One´s Justice 2 - Plus Ultra Edition](https://www.amazon.es/dp/B082T8MSNJ/?tag=tolees-21) con 30.80 de descuento por 89.95 EUR (original: 129.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [My Hero One´s Justice 2 - Plus Ultra Edition](https://www.amazon.es/dp/B082T8MSNJ/?tag=tolees-21) a 89.95 EUR (original: 129.99 EUR) (30.80 %  de descuento) en el siguiente enlace!
 
 [![My Hero One´s Justice 2 - Plus Ultra Edi](https://m.media-amazon.com/images/I/51bNWTnhX-L._SL200_.jpg)](https://www.amazon.es/dp/B082T8MSNJ/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B082T8MSNJ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B082T8MSNJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
