@@ -17,12 +17,10 @@ inStock: true
 prodname: 'ACUVUE® OASYS with HYDRACLEAR® PLUS - Lentillas quincenales - protección UV - 12 lentes'
 ---
 
-Está [ACUVUE® OASYS with HYDRACLEAR® PLUS - Lentillas quincenales - protección UV - 12 lentes](https://www.amazon.es/dp/B00F9RVKMG/?tag=tolees-21) con 46.78 de descuento por 34.59 EUR (original: 65.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [ACUVUE® OASYS with HYDRACLEAR® PLUS - Lentillas quincenales - protección UV - 12 lentes](https://www.amazon.es/dp/B00F9RVKMG/?tag=tolees-21) a 34.59 EUR (original: 65.0 EUR) (46.78 %  de descuento) en el siguiente enlace!
 
 [![ACUVUE® OASYS with HYDRACLEAR® PLUS - Le](https://m.media-amazon.com/images/I/31oEebwyZAL._SL200_.jpg)](https://www.amazon.es/dp/B00F9RVKMG/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00F9RVKMG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00F9RVKMG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Davidoff Cool Water Summer 2019 Edt Vapo 125 Ml - 125 ml'
 ---
 
-Está [Davidoff Cool Water Summer 2019 Edt Vapo 125 Ml - 125 ml](https://www.amazon.es/dp/B07NLFRS63/?tag=tolees-21) con 25.05 de descuento por 17.95 EUR (original: 23.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Davidoff Cool Water Summer 2019 Edt Vapo 125 Ml - 125 ml](https://www.amazon.es/dp/B07NLFRS63/?tag=tolees-21) a 17.95 EUR (original: 23.95 EUR) (25.05 %  de descuento) en el siguiente enlace!
 
 [![Davidoff Cool Water Summer 2019 Edt Vapo](https://m.media-amazon.com/images/I/51YCbwdIaYL._SL200_.jpg)](https://www.amazon.es/dp/B07NLFRS63/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07NLFRS63/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07NLFRS63/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,12 +17,10 @@ inStock: true
 prodname: 'SELECTED HOMME Slharo SS Embroidery Polo W Noos  Hombre  Amarillo  Mellow Yellow Mellow Yellow   Medium'
 ---
 
-Está [SELECTED HOMME Slharo SS Embroidery Polo W Noos  Hombre  Amarillo  Mellow Yellow Mellow Yellow   Medium](https://www.amazon.es/dp/B07FS68PHJ/?tag=tolees-21) con 67.95 de descuento por 8.01 EUR (original: 24.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [SELECTED HOMME Slharo SS Embroidery Polo W Noos  Hombre  Amarillo  Mellow Yellow Mellow Yellow   Medium](https://www.amazon.es/dp/B07FS68PHJ/?tag=tolees-21) a 8.01 EUR (original: 24.99 EUR) (67.95 %  de descuento) en el siguiente enlace!
 
 [![SELECTED HOMME Slharo SS Embroidery Polo](https://images-eu.ssl-images-amazon.com/images/I/31QhL1TXZgL._SL200_.jpg)](https://www.amazon.es/dp/B07FS68PHJ/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07FS68PHJ/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07FS68PHJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

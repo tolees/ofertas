@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Smanos X500 X500EU-Sistema de Alarma  3.7 V  Blanco'
 ---
 
-Ahora mismo tienes [Smanos X500 X500EU-Sistema de Alarma  3.7 V  Blanco](https://www.amazon.es/dp/B00RMNNEA6/?tag=tolees-21) a 159 EUR (original: 268.99 EUR) (40.89 %  de descuento) en el siguiente enlace!
+Está [Smanos X500 X500EU-Sistema de Alarma  3.7 V  Blanco](https://www.amazon.es/dp/B00RMNNEA6/?tag=tolees-21) con 40.89 de descuento por 159 EUR (original: 268.99 EUR) en el siguiente enlace!
 
 [![Smanos X500 X500EU-Sistema de Alarma  3.](https://images-eu.ssl-images-amazon.com/images/I/31mrdxoXbwL._SL200_.jpg)](https://www.amazon.es/dp/B00RMNNEA6/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00RMNNEA6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00RMNNEA6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

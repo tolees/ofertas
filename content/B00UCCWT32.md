@@ -17,10 +17,12 @@ inStock: true
 prodname: 'GIOR - Detergente Líquido para Lavadora  Ropa Blanca y de Color - 1950 ml'
 ---
 
-Ahora mismo tienes [GIOR - Detergente Líquido para Lavadora  Ropa Blanca y de Color - 1950 ml](https://www.amazon.es/dp/B00UCCWT32/?tag=tolees-21) a 12.27 EUR (original: 23.94 EUR) (48.75 %  de descuento) en el siguiente enlace!
+Está [GIOR - Detergente Líquido para Lavadora  Ropa Blanca y de Color - 1950 ml](https://www.amazon.es/dp/B00UCCWT32/?tag=tolees-21) con 48.75 de descuento por 12.27 EUR (original: 23.94 EUR) en el siguiente enlace!
 
 [![GIOR - Detergente Líquido para Lavadora ](https://m.media-amazon.com/images/I/31fTj70HFqL._SL200_.jpg)](https://www.amazon.es/dp/B00UCCWT32/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00UCCWT32/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00UCCWT32/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

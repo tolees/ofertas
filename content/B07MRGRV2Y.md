@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Rimmel London Provocalips Barra de Labios Tono 570 Firecracker  Gama Morados  - 18 g'
 ---
 
-Ahora mismo tienes [Rimmel London Provocalips Barra de Labios Tono 570 Firecracker  Gama Morados  - 18 g](https://www.amazon.es/dp/B07MRGRV2Y/?tag=tolees-21) a 3.3 EUR (original: 9.0 EUR) (63.33 %  de descuento) en el siguiente enlace!
+Está [Rimmel London Provocalips Barra de Labios Tono 570 Firecracker  Gama Morados  - 18 g](https://www.amazon.es/dp/B07MRGRV2Y/?tag=tolees-21) con 63.33 de descuento por 3.3 EUR (original: 9.0 EUR) en el siguiente enlace!
 
 [![Rimmel London Provocalips Barra de Labio](https://m.media-amazon.com/images/I/31JRB0B3Z0L._SL200_.jpg)](https://www.amazon.es/dp/B07MRGRV2Y/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07MRGRV2Y/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07MRGRV2Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
