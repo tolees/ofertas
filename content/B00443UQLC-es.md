@@ -24,12 +24,12 @@ Ahora mismo tienes [Duracell Ultra D con Powercheck  Pilas Alcalinas  Paquete de
 
 Características:
 
-- Rendimiento de longevidad comparado con la duración promedio mínima en el ensayo de cámara digitalde 2015 por la CEI para pilas D, los resultados pueden variar según el dispositivo o su método de uso
 - TEST DE ENERGÍA: la pila Duracell Ultra utiliza la tecnología Powercheck, que le permite comprobar la energía restante, en cada pila
-- POTENCIA Y LONGEVIDAD: las pilas Duracell Ultra 9V proporcionan energía confiable y duradera para alimentar todos sus dispositivos con hasta un 100% más de energía
-- DURABILIDAD: la tecnología Duralock mantiene durante 5 años toda la energía de las pilas Duracell sin utilizar y en su embalaje, en condiciones normales de almacenamiento
-- Todos conocen la resistencia del conejito Duracell, descubre lo optimo de Duracell con la gama Ultra
 - SEGURIDAD: el cierre superior de nylon ayuda a evitar fugas y protege los dispositivos cotidianos como detectores de humo
+- Rendimiento de longevidad comparado con la duración promedio mínima en el ensayo de cámara digitalde 2015 por la CEI para pilas D, los resultados pueden variar según el dispositivo o su método de uso
+- POTENCIA Y LONGEVIDAD: las pilas Duracell Ultra 9V proporcionan energía confiable y duradera para alimentar todos sus dispositivos con hasta un 100% más de energía
+- Todos conocen la resistencia del conejito Duracell, descubre lo optimo de Duracell con la gama Ultra
+- DURABILIDAD: la tecnología Duralock mantiene durante 5 años toda la energía de las pilas Duracell sin utilizar y en su embalaje, en condiciones normales de almacenamiento
 - Fabricado en Bélgica, disponible en tamaños AA, AAA, C, D, 4.5V y 9V
 
 [Visítala!!!](https://www.amazon.es/dp/B00443UQLC/?tag=tolees-21)

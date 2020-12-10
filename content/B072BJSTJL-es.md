@@ -24,11 +24,11 @@ Tienes [Chicos Correpasillos con Cuatro Ruedas Mini Custom Rojo   Fábrica de Ju
 
 Características principales:
 
-- Para niños y niñas de entre 10 y 36 meses
 - Corre pasillos muy ligero, práctico y seguro con 4 ruedas para dar mayor estabilidad
+- Para niños y niñas de entre 10 y 36 meses
+- Corre pasillos Mini Custom de gran resistencia y durabilidad
 - Diseño moderno inspirado en una moto Custom clásica
 - Color rojo
-- Corre pasillos Mini Custom de gran resistencia y durabilidad
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B072BJSTJL/?tag=tolees-21)
 

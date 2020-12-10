@@ -24,9 +24,9 @@ Está [Loony Quest: Gesellschaftsspiel](https://www.amazon.es/dp/B00U01OLSQ/?tag
 
 Principales características:
 
+- Para 2 hasta 5 Jugador
 - Duración de juego aprox. 20 Minutos
 - ¿Quién será el sucesor del viejo rey y Fedoor nuevo gobernante en la mística Unido Arkadia?
-- Para 2 hasta 5 Jugador
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00U01OLSQ/?tag=tolees-21)
 

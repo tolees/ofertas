@@ -24,11 +24,11 @@ Ahora mismo tienes [Olivia Burton Reloj Analógico para Mujer de Cuarzo con Corr
 
 Características:
 
-- Japanese quartz movement
-- 30 mm diameter case
 - Blush genuine leather strap
-- Rose gold ion-plated stainless steel case
 - Blush butterfly dial with rose gold roman markers
+- 30 mm diameter case
+- Japanese quartz movement
+- Rose gold ion-plated stainless steel case
 
 [Visítala!!!](https://www.amazon.es/dp/B07FBFW7VV/?tag=tolees-21)
 

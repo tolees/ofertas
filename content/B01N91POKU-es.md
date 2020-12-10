@@ -25,8 +25,8 @@ Ahora mismo tienes [Elli Collares colgante en forma de plumas con cristales Swar
 Características:
 
 - Elegant crafted in high quality 925 sterling silver (fineness 925), durable enough and high gloss polished
-- If festive or casual - classic and fine jewellery
 - Designed in Germany
+- If festive or casual - classic and fine jewellery
 
 [Visítala!!!](https://www.amazon.es/dp/B01N91POKU/?tag=tolees-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Panasonic KX-TG1612 - Teléfono Fijo inal al 29.37 % de descuento'
-date: 2020-12-09 20:26:20
+date: 2020-12-10 22:15:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DliBwKv1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DliBwKv1L._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,15 @@ country: 'es'
 Está [Panasonic KX-TG1612 - Teléfono Fijo inalámbrico Dúo  LCD  identificador de Llamadas  Intercomunicación  tecla de navegación  Alarma  Reloj   Color Negro y Blanco](https://www.amazon.es/dp/B005IZGMG8/?tag=tolees-21) con 29.37 de descuento por 31.75 EUR (original: 44.95 EUR) en el siguiente enlace!
 
 [![Panasonic KX-TG1612 - Teléfono Fijo inal](https://m.media-amazon.com/images/I/41DliBwKv1L._SL200_.jpg)](https://www.amazon.es/dp/B005IZGMG8/?tag=tolees-21)
+
+Principales características:
+
+- Registro de llamada: 50 artículos (número y nombres)
+- Altavoz: no
+- Identificación de llamada audible: no
+- Tecla de navegación: sí
+- Jack de auriculares: no
+- Identificador de llamada: compatibilidad con identificador de llamada: sí
 
 [Ver la oferta!!](https://www.amazon.es/dp/B005IZGMG8/?tag=tolees-21)
 

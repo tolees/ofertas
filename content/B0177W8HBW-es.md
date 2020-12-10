@@ -24,12 +24,12 @@ Ahora mismo tienes [Safety 1st Easy Close Metal Barrera de seguridad metalica pa
 
 Características:
 
-- Autoajuste: la desalineación/ranura inicial a nivel del mecanismo de cierre desaparece apretando los tornillos de fijación en el marco
 - Se puede extender hasta 136 cm con extensiones separadas (7 cm, 14 cm, 28 cm)
 - El indicador visual SecureTech confirma cuándo la barrera de escalera está bien cerrada e instalada
-- Para barandillas redondas: utilizar los adaptadores en Y (disponibles por separado), la puerta también puede fijarse a barandillas redondas de hasta 10 cm de diámetro
 - Seguridad: gracias al doble sistema de cierre, los niños no pueden abrir la puerta, mientras que los adultos pueden abrirla con una mano en ambas direcciones
 - Fácil de instalar: esta barrera para niños se fija con cuatro tornillos de ajuste dentro de las puertas o escaleras con una abertura de 73 cm a 80 cm; no es necesario hacer agujeros
+- Para barandillas redondas: utilizar los adaptadores en Y (disponibles por separado), la puerta también puede fijarse a barandillas redondas de hasta 10 cm de diámetro
+- Autoajuste: la desalineación/ranura inicial a nivel del mecanismo de cierre desaparece apretando los tornillos de fijación en el marco
 
 [Visítala!!!](https://www.amazon.es/dp/B0177W8HBW/?tag=tolees-21)
 

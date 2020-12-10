@@ -24,8 +24,8 @@ Está [Nike Stefan Janoski  GS   Zapatillas de Skateboarding Niños  Negro  Blac
 
 Principales características:
 
-- Black
 - niños
+- Black
 - textile/leather
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00M4DAZAG/?tag=tolees-21)

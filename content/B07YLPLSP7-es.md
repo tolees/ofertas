@@ -24,11 +24,11 @@ Ahora mismo tienes [Michael Kors Mujer MK4451](https://www.amazon.es/dp/B07YLPLS
 
 Características:
 
-- Grosor de la caja: 8mm; Tamaño de la caja: 34mm
-- Material de la correa: Acero inoxidable
-- Ancho de la correa: 16mm; Circunferencia de la correa: 175+/- 5mm
 - Se presenta en caja de regalo Michael Kors
+- Material de la correa: Acero inoxidable
 - Resistente al agua: 3 ATM
+- Ancho de la correa: 16mm; Circunferencia de la correa: 175+/- 5mm
+- Grosor de la caja: 8mm; Tamaño de la caja: 34mm
 
 [Visítala!!!](https://www.amazon.es/dp/B07YLPLSP7/?tag=tolees-21)
 

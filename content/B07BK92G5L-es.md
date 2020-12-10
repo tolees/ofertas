@@ -24,8 +24,8 @@ Ahora mismo tienes [Gorjuss CK-01A-G Set Regalo Muñeca y Despertador You Brough
 
 Características:
 
-- Set de regalo de muñeca de trapo y reloj despertador
 - Con luz para poder ver la hora a oscuras
+- Set de regalo de muñeca de trapo y reloj despertador
 - Con luz para poder ver la hora a oscuras
 - Producto Oficial Gorjuss
 

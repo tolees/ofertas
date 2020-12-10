@@ -24,11 +24,11 @@ Está [Microsoft Signature Type Cover - Funda con teclado para Surface Go  Burde
 
 Principales características:
 
-- Ultra delgado, pero funciona como un teclado portátil tradicional completo; cuando está cerrado, protege tu pantalla Surface Go y apaga la pantalla, manteniendo la duración de la batería
-- Agrega un toque de elegancia a las tareas cotidianas en su dispositivo Surface Go con una cubierta de material Alcántara ultrasuave y lisa como la gamuza, pero increíblemente duradera y resistente a las manchas
-- Estabilidad magnética mejorada: se adapta a prácticamente cualquier ángulo con un espaciado de clave óptimo para una escritura rápida y fluida con retroiluminación LED y un trackpad de cristal grande para un control y navegación precisos
-- Compatible con dispositivos Surface Pro 7, Surface Pro 3, Surface Pro 4, Surface Pro 5 y Surface Pro 6
 - Complementa tu propio gusto y estilo personal con una selección de colores intensos; compatible con Surface Go
+- Agrega un toque de elegancia a las tareas cotidianas en su dispositivo Surface Go con una cubierta de material Alcántara ultrasuave y lisa como la gamuza, pero increíblemente duradera y resistente a las manchas
+- Compatible con dispositivos Surface Pro 7, Surface Pro 3, Surface Pro 4, Surface Pro 5 y Surface Pro 6
+- Ultra delgado, pero funciona como un teclado portátil tradicional completo; cuando está cerrado, protege tu pantalla Surface Go y apaga la pantalla, manteniendo la duración de la batería
+- Estabilidad magnética mejorada: se adapta a prácticamente cualquier ángulo con un espaciado de clave óptimo para una escritura rápida y fluida con retroiluminación LED y un trackpad de cristal grande para un control y navegación precisos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07FTG4DJ8/?tag=tolees-21)
 

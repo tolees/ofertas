@@ -24,9 +24,9 @@ Tienes [MVMT Reloj Cronógrafo para Hombre de Cuarzo con Correa en Cuero D-MC02-
 
 Características principales:
 
+- Grosor de la caja de 10.5 mm / Diámetro de la caja: 40 mm
 - Movimiento de cuarzo Miyota
 - 5 ATM de resistencia al agua
-- Grosor de la caja de 10.5 mm / Diámetro de la caja: 40 mm
 - Caja plateada en acero inoxidable cepillado y esfera Blanca
 - Ancho de la correa: 20 mm
 

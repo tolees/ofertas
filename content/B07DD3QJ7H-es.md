@@ -26,9 +26,9 @@ Características:
 
 - El juego Game of Life está lleno de sorpresas
 - Puedes adoptar mascotas en esta edición
-- Empieza a tomar tus propias decisiones mientras recorres las diferentes etapas de la vida
 - Elige el camino para una vida de acción, aventura y sorpresas inesperadas
 - Juega con la familia y amigos
+- Empieza a tomar tus propias decisiones mientras recorres las diferentes etapas de la vida
 
 [Visítala!!!](https://www.amazon.es/dp/B07DD3QJ7H/?tag=tolees-21)
 

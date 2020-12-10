@@ -24,8 +24,8 @@ Ahora mismo tienes [Adidas Vs Pace  Zapatillas para Hombre  Negro  Core Black/Fo
 
 Características:
 
-- 3 bandas de piel sintética.
 - Puntera reforzada.
+- 3 bandas de piel sintética.
 - Cómodo forro textil.
 - Cómodo forro textil.
 

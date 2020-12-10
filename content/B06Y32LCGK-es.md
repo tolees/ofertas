@@ -24,8 +24,8 @@ Ahora mismo tienes [Joma Miami Bermuda Deporte de Tenis  Hombre  Blanco  2XS](ht
 
 Características:
 
-- Hecho 100 % de poliéster
 - Tiene un ajuste óptimo
+- Hecho 100 % de poliéster
 - Cintura elástica con cordón
 - Pantalón corto con bolsillos
 

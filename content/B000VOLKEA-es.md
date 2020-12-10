@@ -25,9 +25,9 @@ Tienes [Calvin Klein - Eau De Toilette Ckin2U Hombre  100 ml](https://www.amazon
 Características principales:
 
 - Este producto está indicado para hombres.
-- Las notas olfativas principales de este producto son especiado y cítrico.
 - De la marca Calvin Klein.
 - Contiene 100 ml.
+- Las notas olfativas principales de este producto son especiado y cítrico.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000VOLKEA/?tag=tolees-21)
 

@@ -25,9 +25,9 @@ Está [MSI Optix MAG322CR - Monitor Gaming Curvo de 31.5" FullHD 180Hz   1920x10
 Principales características:
 
 - AMD FreeSync: evita el desgarro de la pantalla. Antiparpadeo y menos luz azul: juego aún más prolongado y evita fatiga y fatiga visual.
-- Brillo de la pantalla de 300 nits, Adaptative Sync, Anti-Flicker y Less Blue Light. Curvatura 1500R y ratio 16:9. Diseño sin marco: la mejor experiencia de juego.
-- Frecuencia de actualización de 180Hz: juegos realmente suaves. Tiempo de respuesta de 1 ms: elimine el desgarro de la pantalla y las velocidades de fotogramas entrecortadas.
 - Monitor gaming de 31.5 " con resolución FullHD (1920 x 1080pixeles) y tecnología Anti:Glare
+- Frecuencia de actualización de 180Hz: juegos realmente suaves. Tiempo de respuesta de 1 ms: elimine el desgarro de la pantalla y las velocidades de fotogramas entrecortadas.
+- Brillo de la pantalla de 300 nits, Adaptative Sync, Anti-Flicker y Less Blue Light. Curvatura 1500R y ratio 16:9. Diseño sin marco: la mejor experiencia de juego.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B086RLGN2K/?tag=tolees-21)
 

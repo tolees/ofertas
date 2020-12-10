@@ -27,8 +27,8 @@ Características:
 - Dermatológicamente testado
 - Paleta universal para hacer counturing
 - Fórmula ligera de larga duración
-- Fácil de aplicar, se funde con tu piel suavemente
 - Polvos diseñados para adaptarse a todos los tonos de piel
+- Fácil de aplicar, se funde con tu piel suavemente
 
 [Visítala!!!](https://www.amazon.es/dp/B079YW4SD3/?tag=tolees-21)
 
