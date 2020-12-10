@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Philips Bombilla LED esférica casquillo E27  8 W  equivalente a 60 W  luz blanca cálida  806 lúmenes  pack de 6'
 ---
 
-Ahora mismo tienes [Philips Bombilla LED esférica casquillo E27  8 W  equivalente a 60 W  luz blanca cálida  806 lúmenes  pack de 6](https://www.amazon.es/dp/B01KHIM7OG/?tag=tolees-21) a 18.47 EUR (original: 29.99 EUR) (38.41 %  de descuento) en el siguiente enlace!
+Está [Philips Bombilla LED esférica casquillo E27  8 W  equivalente a 60 W  luz blanca cálida  806 lúmenes  pack de 6](https://www.amazon.es/dp/B01KHIM7OG/?tag=tolees-21) con 38.41 de descuento por 18.47 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Philips Bombilla LED esférica casquillo ](https://m.media-amazon.com/images/I/41MaEaOXJIL._SL200_.jpg)](https://www.amazon.es/dp/B01KHIM7OG/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01KHIM7OG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01KHIM7OG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

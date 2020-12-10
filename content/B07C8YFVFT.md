@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Vans Ward Canvas  Zapatillas para Hombre Azul  Dress Blues/White Jy3  44 EU'
 ---
 
-Ahora mismo tienes [Vans Ward Canvas  Zapatillas para Hombre Azul  Dress Blues/White Jy3  44 EU](https://www.amazon.es/dp/B07C8YFVFT/?tag=tolees-21) a 49 EUR (original: 70 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [Vans Ward Canvas  Zapatillas para Hombre Azul  Dress Blues/White Jy3  44 EU](https://www.amazon.es/dp/B07C8YFVFT/?tag=tolees-21) con 30.00 de descuento por 49 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![Vans Ward Canvas  Zapatillas para Hombre](https://images-eu.ssl-images-amazon.com/images/I/41x-S3x9PnL._SL200_.jpg)](https://www.amazon.es/dp/B07C8YFVFT/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07C8YFVFT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07C8YFVFT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
