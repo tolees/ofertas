@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Neutrogena Exfoliante facial eliminador de puntos negros  150 ml'
 ---
 
-Está [Neutrogena Exfoliante facial eliminador de puntos negros  150 ml](https://www.amazon.es/dp/B07WK6WL9Q/?tag=tolees-21) con 47.82 de descuento por 5.5 EUR (original: 10.54 EUR) en el siguiente enlace!
+Ahora mismo tienes [Neutrogena Exfoliante facial eliminador de puntos negros  150 ml](https://www.amazon.es/dp/B07WK6WL9Q/?tag=tolees-21) a 5.5 EUR (original: 10.54 EUR) (47.82 %  de descuento) en el siguiente enlace!
 
 [![Neutrogena Exfoliante facial eliminador ](https://m.media-amazon.com/images/I/41i6+BHHN1L._SL200_.jpg)](https://www.amazon.es/dp/B07WK6WL9Q/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07WK6WL9Q/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07WK6WL9Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

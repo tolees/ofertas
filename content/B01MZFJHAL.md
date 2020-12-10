@@ -17,10 +17,12 @@ inStock: true
 prodname: 'ASICS 141107-0904 S Mallas  Hombre  Negro  Performance Black   S'
 ---
 
-Ahora mismo tienes [ASICS 141107-0904 S Mallas  Hombre  Negro  Performance Black   S](https://www.amazon.es/dp/B01MZFJHAL/?tag=tolees-21) a 34.49 EUR (original: 86.24 EUR) (60.01 %  de descuento) en el siguiente enlace!
+Está [ASICS 141107-0904 S Mallas  Hombre  Negro  Performance Black   S](https://www.amazon.es/dp/B01MZFJHAL/?tag=tolees-21) con 60.01 de descuento por 34.49 EUR (original: 86.24 EUR) en el siguiente enlace!
 
 [![ASICS 141107-0904 S Mallas  Hombre  Negr](https://images-eu.ssl-images-amazon.com/images/I/41XicQXxVyL._SL200_.jpg)](https://www.amazon.es/dp/B01MZFJHAL/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01MZFJHAL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01MZFJHAL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

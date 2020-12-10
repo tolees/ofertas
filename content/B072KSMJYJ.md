@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Pyramid International Harry Potter - Llavero Gryffindor'
 ---
 
-Ahora mismo tienes [Pyramid International Harry Potter - Llavero Gryffindor](https://www.amazon.es/dp/B072KSMJYJ/?tag=tolees-21) a 1.95 EUR (original: 2.95 EUR) (33.90 %  de descuento) en el siguiente enlace!
+Está [Pyramid International Harry Potter - Llavero Gryffindor](https://www.amazon.es/dp/B072KSMJYJ/?tag=tolees-21) con 33.90 de descuento por 1.95 EUR (original: 2.95 EUR) en el siguiente enlace!
 
 [![Pyramid International Harry Potter - Lla](https://m.media-amazon.com/images/I/51kNg39uZJL._SL200_.jpg)](https://www.amazon.es/dp/B072KSMJYJ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B072KSMJYJ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B072KSMJYJ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
