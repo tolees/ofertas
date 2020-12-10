@@ -17,12 +17,10 @@ inStock: true
 prodname: 'STANLEY STST1-75518 - Caja de herramientas de plastico con cierre metálico  20 x 19.5 x 41 cm'
 ---
 
-Está [STANLEY STST1-75518 - Caja de herramientas de plastico con cierre metálico  20 x 19.5 x 41 cm](https://www.amazon.es/dp/B013ERLQDK/?tag=tolees-21) con 40.83 de descuento por 10.0 EUR (original: 16.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [STANLEY STST1-75518 - Caja de herramientas de plastico con cierre metálico  20 x 19.5 x 41 cm](https://www.amazon.es/dp/B013ERLQDK/?tag=tolees-21) a 10.0 EUR (original: 16.9 EUR) (40.83 %  de descuento) en el siguiente enlace!
 
 [![STANLEY STST1-75518 - Caja de herramient](https://m.media-amazon.com/images/I/41beEXlI6lL._SL200_.jpg)](https://www.amazon.es/dp/B013ERLQDK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B013ERLQDK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B013ERLQDK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Lancome - La Vie Est Belle - Eau de Parfum para mujer - 30 ml'
 ---
 
-Ahora mismo tienes [Lancome - La Vie Est Belle - Eau de Parfum para mujer - 30 ml](https://www.amazon.es/dp/B008SBKTZ4/?tag=tolees-21) a 33.95 EUR (original: 58.5 EUR) (41.97 %  de descuento) en el siguiente enlace!
+Está [Lancome - La Vie Est Belle - Eau de Parfum para mujer - 30 ml](https://www.amazon.es/dp/B008SBKTZ4/?tag=tolees-21) con 41.97 de descuento por 33.95 EUR (original: 58.5 EUR) en el siguiente enlace!
 
 [![Lancome - La Vie Est Belle - Eau de Parf](https://images-eu.ssl-images-amazon.com/images/I/31ttbaG%2BYqL._SL200_.jpg)](https://www.amazon.es/dp/B008SBKTZ4/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B008SBKTZ4/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B008SBKTZ4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

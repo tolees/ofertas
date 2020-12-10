@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Funko Pop! Movies: Terminator Dark Fate - T-800'
 ---
 
-Ahora mismo tienes [Funko Pop! Movies: Terminator Dark Fate - T-800](https://www.amazon.es/dp/B07RTLSLW8/?tag=tolees-21) a 8.99 EUR (original: 17.18 EUR) (47.67 %  de descuento) en el siguiente enlace!
+Está [Funko Pop! Movies: Terminator Dark Fate - T-800](https://www.amazon.es/dp/B07RTLSLW8/?tag=tolees-21) con 47.67 de descuento por 8.99 EUR (original: 17.18 EUR) en el siguiente enlace!
 
 [![Funko Pop! Movies: Terminator Dark Fate ](https://m.media-amazon.com/images/I/41u8I5zxuLL._SL200_.jpg)](https://www.amazon.es/dp/B07RTLSLW8/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07RTLSLW8/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07RTLSLW8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

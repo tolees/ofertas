@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Yamaha Elektronik Europa MCR-B020 Sistema de microcomponentes'
 ---
 
-Ahora mismo tienes [Yamaha Elektronik Europa MCR-B020 Sistema de microcomponentes](https://www.amazon.es/dp/B01AUXDDTQ/?tag=tolees-21) a 116.91 EUR (original: 199.99 EUR) (41.54 %  de descuento) en el siguiente enlace!
+Está [Yamaha Elektronik Europa MCR-B020 Sistema de microcomponentes](https://www.amazon.es/dp/B01AUXDDTQ/?tag=tolees-21) con 41.54 de descuento por 116.91 EUR (original: 199.99 EUR) en el siguiente enlace!
 
 [![Yamaha Elektronik Europa MCR-B020 Sistem](https://images-eu.ssl-images-amazon.com/images/I/31L6vnajPvL._SL200_.jpg)](https://www.amazon.es/dp/B01AUXDDTQ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01AUXDDTQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01AUXDDTQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

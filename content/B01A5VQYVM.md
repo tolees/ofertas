@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 41.20 % en WORX WX479 Sierra de Calar Pendular  750'
+title: 'WORX WX479 Sierra de Calar Pendular  750 al 41.20 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41MX8L18IHL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41MX8L18IHL._SL200_.jpg' ]
@@ -17,11 +17,11 @@ inStock: true
 prodname: 'WORX WX479 Sierra de Calar Pendular  750 W'
 ---
 
-Tienes [WORX WX479 Sierra de Calar Pendular  750 W](https://www.amazon.es/dp/B01A5VQYVM/?tag=tolees-21) con un 41.20 % de descuento con precio de oferta de 49.95 EUR (original: 84.95 EUR) en el siguiente enlace!
+Está [WORX WX479 Sierra de Calar Pendular  750 W](https://www.amazon.es/dp/B01A5VQYVM/?tag=tolees-21) con 41.20 de descuento por 49.95 EUR (original: 84.95 EUR) en el siguiente enlace!
 
 [![WORX WX479 Sierra de Calar Pendular  750](https://images-eu.ssl-images-amazon.com/images/I/41MX8L18IHL._SL200_.jpg)](https://www.amazon.es/dp/B01A5VQYVM/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B01A5VQYVM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01A5VQYVM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

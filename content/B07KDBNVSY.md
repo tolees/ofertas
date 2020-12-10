@@ -17,12 +17,10 @@ inStock: true
 prodname: 'P Prettyia Colgante de Recuerdo Urna de Ceniza de Cremación de Forma Corazón de Acero Inoxidable - Corazón  1.9cm Alto  2cm Ancho '
 ---
 
-Está [P Prettyia Colgante de Recuerdo Urna de Ceniza de Cremación de Forma Corazón de Acero Inoxidable - Corazón  1.9cm Alto  2cm Ancho ](https://www.amazon.es/dp/B07KDBNVSY/?tag=tolees-21) con 44.44 de descuento por 8.09 EUR (original: 14.56 EUR) en el siguiente enlace!
+Ahora mismo tienes [P Prettyia Colgante de Recuerdo Urna de Ceniza de Cremación de Forma Corazón de Acero Inoxidable - Corazón  1.9cm Alto  2cm Ancho ](https://www.amazon.es/dp/B07KDBNVSY/?tag=tolees-21) a 8.09 EUR (original: 14.56 EUR) (44.44 %  de descuento) en el siguiente enlace!
 
 [![P Prettyia Colgante de Recuerdo Urna de ](https://images-eu.ssl-images-amazon.com/images/I/31SZSMYfwHL._SL200_.jpg)](https://www.amazon.es/dp/B07KDBNVSY/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07KDBNVSY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07KDBNVSY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

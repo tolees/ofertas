@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Funko- Captain Salazar figura de vinilo  colección de POP  seria Pirates 5  12804    color/modelo surtido'
 ---
 
-Está [Funko- Captain Salazar figura de vinilo  colección de POP  seria Pirates 5  12804    color/modelo surtido](https://www.amazon.es/dp/B06XGG6MTY/?tag=tolees-21) con 37.37 de descuento por 9.99 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko- Captain Salazar figura de vinilo  colección de POP  seria Pirates 5  12804    color/modelo surtido](https://www.amazon.es/dp/B06XGG6MTY/?tag=tolees-21) a 9.99 EUR (original: 15.95 EUR) (37.37 %  de descuento) en el siguiente enlace!
 
 [![Funko- Captain Salazar figura de vinilo ](https://m.media-amazon.com/images/I/41kOBh4K40L._SL200_.jpg)](https://www.amazon.es/dp/B06XGG6MTY/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06XGG6MTY/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B06XGG6MTY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

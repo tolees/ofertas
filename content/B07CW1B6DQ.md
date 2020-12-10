@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Lenovo ThinkPad L580 - Ordenador portátil de 15    Intel Core i5-8250U  DDR4 de 8 GB 2 DIMM  256 GB  Windows 10 Pro '
 ---
 
-Ahora mismo tienes [Lenovo ThinkPad L580 - Ordenador portátil de 15    Intel Core i5-8250U  DDR4 de 8 GB 2 DIMM  256 GB  Windows 10 Pro ](https://www.amazon.es/dp/B07CW1B6DQ/?tag=tolees-21) a 732.8 EUR (original: 1009.99 EUR) (27.44 %  de descuento) en el siguiente enlace!
+Está [Lenovo ThinkPad L580 - Ordenador portátil de 15    Intel Core i5-8250U  DDR4 de 8 GB 2 DIMM  256 GB  Windows 10 Pro ](https://www.amazon.es/dp/B07CW1B6DQ/?tag=tolees-21) con 27.44 de descuento por 732.8 EUR (original: 1009.99 EUR) en el siguiente enlace!
 
 [![Lenovo ThinkPad L580 - Ordenador portáti](https://images-eu.ssl-images-amazon.com/images/I/41oeL5f%2BZRL._SL200_.jpg)](https://www.amazon.es/dp/B07CW1B6DQ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07CW1B6DQ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07CW1B6DQ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

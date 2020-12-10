@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial P5 1TB CT1000P5SSD8 Unidad inter al 27.65 % de descuento'
-date: 2020-12-09 02:26:36
+date: 2020-12-10 08:33:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/317282Qw8CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/317282Qw8CL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.44 % en LIDA Jabón 100% Natural Glicerina - 600 '
-date: 2020-12-08 20:07:41
+date: 2020-12-10 08:43:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41U-AG-W4eL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41U-AG-W4eL._SL200_.jpg' ]
 comments: true

@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Kill the Gringo [Francia] [Blu-ray]'
 ---
 
-Ahora mismo tienes [Kill the Gringo [Francia] [Blu-ray]](https://www.amazon.es/dp/B008EJDSEE/?tag=tolees-21) a 7.46 EUR (original: 19.33 EUR) (61.41 %  de descuento) en el siguiente enlace!
+Está [Kill the Gringo [Francia] [Blu-ray]](https://www.amazon.es/dp/B008EJDSEE/?tag=tolees-21) con 61.41 de descuento por 7.46 EUR (original: 19.33 EUR) en el siguiente enlace!
 
 [![Kill the Gringo [Francia] [Blu-ray]](https://images-eu.ssl-images-amazon.com/images/I/51Qaf6W3WIL._SL200_.jpg)](https://www.amazon.es/dp/B008EJDSEE/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B008EJDSEE/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B008EJDSEE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
