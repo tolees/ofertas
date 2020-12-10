@@ -18,10 +18,12 @@ prodname: 'OGX  Champú Aceite de Argán de Marruecos  Cabellos Secos y Dañados
 country: 'es'
 ---
 
-Ahora mismo tienes [OGX  Champú Aceite de Argán de Marruecos  Cabellos Secos y Dañados  385 ml](https://www.amazon.es/dp/B0097FVTW2/?tag=tolees-21) a 5.49 EUR (original: 7.9 EUR) (30.51 %  de descuento) en el siguiente enlace!
+Está [OGX  Champú Aceite de Argán de Marruecos  Cabellos Secos y Dañados  385 ml](https://www.amazon.es/dp/B0097FVTW2/?tag=tolees-21) con 30.51 de descuento por 5.49 EUR (original: 7.9 EUR) en el siguiente enlace!
 
 [![OGX  Champú Aceite de Argán de Marruecos](https://m.media-amazon.com/images/I/41DYIp5yyxL._SL200_.jpg)](https://www.amazon.es/dp/B0097FVTW2/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0097FVTW2/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0097FVTW2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

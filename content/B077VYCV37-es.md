@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Ultra Fit  Memoria flash USB 3.1 al 48.11 % de descuento'
-date: 2020-12-08 21:17:13
+date: 2020-12-10 13:25:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XBPPF1zNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XBPPF1zNL._SL200_.jpg' ]
 comments: true

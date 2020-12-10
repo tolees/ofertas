@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 69.98 % en Diablo III'
+title: 'Diablo III al 69.98 % de descuento'
 date: 2020-11-14 22:50:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GsenvQiZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GsenvQiZL._SL200_.jpg' ]
@@ -18,12 +18,10 @@ prodname: 'Diablo III'
 country: 'es'
 ---
 
-Tienes [Diablo III](https://www.amazon.es/dp/B007D1JK1E/?tag=tolees-21) con un 69.98 % de descuento con precio de oferta de 3.9 EUR (original: 12.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Diablo III](https://www.amazon.es/dp/B007D1JK1E/?tag=tolees-21) a 3.9 EUR (original: 12.99 EUR) (69.98 %  de descuento) en el siguiente enlace!
 
 [![Diablo III](https://m.media-amazon.com/images/I/51GsenvQiZL._SL200_.jpg)](https://www.amazon.es/dp/B007D1JK1E/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B007D1JK1E/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B007D1JK1E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

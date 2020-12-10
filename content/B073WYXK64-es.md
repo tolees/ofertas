@@ -18,12 +18,10 @@ prodname: 'Rimmel London Magnifeyes Palette Nude Edition Paleta de Sombras Tono 
 country: 'es'
 ---
 
-Está [Rimmel London Magnifeyes Palette Nude Edition Paleta de Sombras Tono 1 - 14.16 gr](https://www.amazon.es/dp/B073WYXK64/?tag=tolees-21) con 41.00 de descuento por 5.9 EUR (original: 10.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London Magnifeyes Palette Nude Edition Paleta de Sombras Tono 1 - 14.16 gr](https://www.amazon.es/dp/B073WYXK64/?tag=tolees-21) a 5.9 EUR (original: 10.0 EUR) (41.00 %  de descuento) en el siguiente enlace!
 
 [![Rimmel London Magnifeyes Palette Nude Ed](https://m.media-amazon.com/images/I/415INS7PreL._SL200_.jpg)](https://www.amazon.es/dp/B073WYXK64/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B073WYXK64/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B073WYXK64/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

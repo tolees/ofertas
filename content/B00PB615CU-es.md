@@ -18,12 +18,10 @@ prodname: 'Hohner Melody 9508 - Flauta de plástico'
 country: 'es'
 ---
 
-Está [Hohner Melody 9508 - Flauta de plástico](https://www.amazon.es/dp/B00PB615CU/?tag=tolees-21) con 60.76 de descuento por 3.21 EUR (original: 8.18 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hohner Melody 9508 - Flauta de plástico](https://www.amazon.es/dp/B00PB615CU/?tag=tolees-21) a 3.21 EUR (original: 8.18 EUR) (60.76 %  de descuento) en el siguiente enlace!
 
 [![Hohner Melody 9508 - Flauta de plástico](https://m.media-amazon.com/images/I/312GnYkelUL._SL200_.jpg)](https://www.amazon.es/dp/B00PB615CU/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00PB615CU/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00PB615CU/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

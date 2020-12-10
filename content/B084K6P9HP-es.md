@@ -18,10 +18,12 @@ prodname: 'Samsung Galaxy S20 Ultra 5G - Smartphone 6.9" Dynamic AMOLED  12GB RA
 country: 'es'
 ---
 
-Ahora mismo tienes [Samsung Galaxy S20 Ultra 5G - Smartphone 6.9" Dynamic AMOLED  12GB RAM  128GB ROM  cámara 108MP gran angular  Octa-core Exynos 990  5000mAh batería  carga ultra rápida  Cosmic Black [Versión española]](https://www.amazon.es/dp/B084K6P9HP/?tag=tolees-21) a 999.0 EUR (original: 1359.0 EUR) (26.49 %  de descuento) en el siguiente enlace!
+Está [Samsung Galaxy S20 Ultra 5G - Smartphone 6.9" Dynamic AMOLED  12GB RAM  128GB ROM  cámara 108MP gran angular  Octa-core Exynos 990  5000mAh batería  carga ultra rápida  Cosmic Black [Versión española]](https://www.amazon.es/dp/B084K6P9HP/?tag=tolees-21) con 26.49 de descuento por 999.0 EUR (original: 1359.0 EUR) en el siguiente enlace!
 
 [![Samsung Galaxy S20 Ultra 5G - Smartphone](https://m.media-amazon.com/images/I/31rdtuyJAiL._SL200_.jpg)](https://www.amazon.es/dp/B084K6P9HP/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B084K6P9HP/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B084K6P9HP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

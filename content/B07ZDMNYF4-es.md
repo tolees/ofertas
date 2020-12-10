@@ -18,12 +18,10 @@ prodname: 'Marca Amazon - Happy Belly - Anís  4x33g'
 country: 'es'
 ---
 
-Está [Marca Amazon - Happy Belly - Anís  4x33g](https://www.amazon.es/dp/B07ZDMNYF4/?tag=tolees-21) con 49.90 de descuento por 2.6 EUR (original: 5.19 EUR) en el siguiente enlace!
+Ahora mismo tienes [Marca Amazon - Happy Belly - Anís  4x33g](https://www.amazon.es/dp/B07ZDMNYF4/?tag=tolees-21) a 2.6 EUR (original: 5.19 EUR) (49.90 %  de descuento) en el siguiente enlace!
 
 [![Marca Amazon - Happy Belly - Anís  4x33g](https://m.media-amazon.com/images/I/41DEhf6xJUL._SL200_.jpg)](https://www.amazon.es/dp/B07ZDMNYF4/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07ZDMNYF4/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07ZDMNYF4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

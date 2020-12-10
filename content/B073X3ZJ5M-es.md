@@ -18,12 +18,10 @@ prodname: 'Battle Chasers: Nightwar'
 country: 'es'
 ---
 
-Está [Battle Chasers: Nightwar](https://www.amazon.es/dp/B073X3ZJ5M/?tag=tolees-21) con 40.71 de descuento por 17.78 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Battle Chasers: Nightwar](https://www.amazon.es/dp/B073X3ZJ5M/?tag=tolees-21) a 17.78 EUR (original: 29.99 EUR) (40.71 %  de descuento) en el siguiente enlace!
 
 [![Battle Chasers: Nightwar](https://images-eu.ssl-images-amazon.com/images/I/61Jj6VNq1iL._SL200_.jpg)](https://www.amazon.es/dp/B073X3ZJ5M/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B073X3ZJ5M/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B073X3ZJ5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

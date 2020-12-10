@@ -18,10 +18,12 @@ prodname: 'Figura Princesa Anna Frozen Disney'
 country: 'es'
 ---
 
-Ahora mismo tienes [Figura Princesa Anna Frozen Disney](https://www.amazon.es/dp/B00PJN4W52/?tag=tolees-21) a 6.11 EUR (original: 9.99 EUR) (38.84 %  de descuento) en el siguiente enlace!
+Está [Figura Princesa Anna Frozen Disney](https://www.amazon.es/dp/B00PJN4W52/?tag=tolees-21) con 38.84 de descuento por 6.11 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![Figura Princesa Anna Frozen Disney](https://m.media-amazon.com/images/I/41stWFTaCHL._SL200_.jpg)](https://www.amazon.es/dp/B00PJN4W52/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00PJN4W52/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00PJN4W52/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

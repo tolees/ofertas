@@ -18,10 +18,12 @@ prodname: 'D-Link GO-SW-24G - Switch 24p Gigabit  Ethernet RJ-45'
 country: 'es'
 ---
 
-Ahora mismo tienes [D-Link GO-SW-24G - Switch 24p Gigabit  Ethernet RJ-45](https://www.amazon.es/dp/B00IMC1QJ2/?tag=tolees-21) a 75.82 EUR (original: 115.9 EUR) (34.58 %  de descuento) en el siguiente enlace!
+Está [D-Link GO-SW-24G - Switch 24p Gigabit  Ethernet RJ-45](https://www.amazon.es/dp/B00IMC1QJ2/?tag=tolees-21) con 34.58 de descuento por 75.82 EUR (original: 115.9 EUR) en el siguiente enlace!
 
 [![D-Link GO-SW-24G - Switch 24p Gigabit  E](https://images-eu.ssl-images-amazon.com/images/I/31TiEG1sXrL._SL200_.jpg)](https://www.amazon.es/dp/B00IMC1QJ2/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00IMC1QJ2/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00IMC1QJ2/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'Collection of Mana'
 country: 'es'
 ---
 
-Ahora mismo tienes [Collection of Mana](https://www.amazon.es/dp/B07SZ2M4KX/?tag=tolees-21) a 25.24 EUR (original: 39.99 EUR) (36.88 %  de descuento) en el siguiente enlace!
+Está [Collection of Mana](https://www.amazon.es/dp/B07SZ2M4KX/?tag=tolees-21) con 36.88 de descuento por 25.24 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Collection of Mana](https://m.media-amazon.com/images/I/51eyXj6UFyL._SL200_.jpg)](https://www.amazon.es/dp/B07SZ2M4KX/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07SZ2M4KX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07SZ2M4KX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

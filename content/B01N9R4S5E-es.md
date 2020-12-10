@@ -18,12 +18,10 @@ prodname: 'Motorola Baby MBP 50 - Vigilabebés vídeo con pantalla LCD a color d
 country: 'es'
 ---
 
-Está [Motorola Baby MBP 50 - Vigilabebés vídeo con pantalla LCD a color de 5.0"  modo eco y visión nocturna  color blanco](https://www.amazon.es/dp/B01N9R4S5E/?tag=tolees-21) con 30.00 de descuento por 139.99 EUR (original: 199.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Motorola Baby MBP 50 - Vigilabebés vídeo con pantalla LCD a color de 5.0"  modo eco y visión nocturna  color blanco](https://www.amazon.es/dp/B01N9R4S5E/?tag=tolees-21) a 139.99 EUR (original: 199.99 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
 [![Motorola Baby MBP 50 - Vigilabebés vídeo](https://m.media-amazon.com/images/I/413YOTxkaWL._SL200_.jpg)](https://www.amazon.es/dp/B01N9R4S5E/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01N9R4S5E/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01N9R4S5E/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -18,10 +18,12 @@ prodname: 'Kerastase Elixir Ultime Masque À L Huile Sublimatrice 200 ml'
 country: 'es'
 ---
 
-Ahora mismo tienes [Kerastase Elixir Ultime Masque À L Huile Sublimatrice 200 ml](https://www.amazon.es/dp/B00HCQZTV0/?tag=tolees-21) a 28.2 EUR (original: 40.6 EUR) (30.54 %  de descuento) en el siguiente enlace!
+Está [Kerastase Elixir Ultime Masque À L Huile Sublimatrice 200 ml](https://www.amazon.es/dp/B00HCQZTV0/?tag=tolees-21) con 30.54 de descuento por 28.2 EUR (original: 40.6 EUR) en el siguiente enlace!
 
 [![Kerastase Elixir Ultime Masque À L Huile](https://images-eu.ssl-images-amazon.com/images/I/41yloBkUKnL._SL200_.jpg)](https://www.amazon.es/dp/B00HCQZTV0/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00HCQZTV0/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00HCQZTV0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

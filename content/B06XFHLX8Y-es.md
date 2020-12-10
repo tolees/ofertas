@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'La Tierra-Media: Sombras De Guerra al 82.00 % de descuento'
+title: 'Descuento del 82.00 % en La Tierra-Media: Sombras De Guerra'
 date: 
 thumbnailImage: 'http://images.amazon.com/images/P/B06XFHLX8Y.01._PI_SCMZZZZZZZ_._SL200_.jpg'
 images: [ 'http://images.amazon.com/images/P/B06XFHLX8Y.01._PI_SCMZZZZZZZ_._SL200_.jpg' ]
@@ -18,10 +18,12 @@ prodname: 'La Tierra-Media: Sombras De Guerra'
 country: 'es'
 ---
 
-Ahora mismo tienes [La Tierra-Media: Sombras De Guerra](https://www.amazon.es/dp/B06XFHLX8Y/?tag=tolees-21) a 10.79 EUR (original: 59.95 EUR) (82.00 %  de descuento) en el siguiente enlace!
+Tienes [La Tierra-Media: Sombras De Guerra](https://www.amazon.es/dp/B06XFHLX8Y/?tag=tolees-21) con un 82.00 % de descuento con precio de oferta de 10.79 EUR (original: 59.95 EUR) en el siguiente enlace!
 
 [![La Tierra-Media: Sombras De Guerra](http://images.amazon.com/images/P/B06XFHLX8Y.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B06XFHLX8Y/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B06XFHLX8Y/?tag=tolees-21)
+[Accede a la oferta!!](https://www.amazon.es/dp/B06XFHLX8Y/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

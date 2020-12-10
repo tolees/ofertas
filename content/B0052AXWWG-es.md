@@ -18,10 +18,12 @@ prodname: 'Columbia Fast Trek II Forro Polar con Cremallera  Hombre  Negro  M'
 country: 'es'
 ---
 
-Ahora mismo tienes [Columbia Fast Trek II Forro Polar con Cremallera  Hombre  Negro  M](https://www.amazon.es/dp/B0052AXWWG/?tag=tolees-21) a 24.49 EUR (original: 49.99 EUR) (51.01 %  de descuento) en el siguiente enlace!
+Está [Columbia Fast Trek II Forro Polar con Cremallera  Hombre  Negro  M](https://www.amazon.es/dp/B0052AXWWG/?tag=tolees-21) con 51.01 de descuento por 24.49 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Columbia Fast Trek II Forro Polar con Cr](https://m.media-amazon.com/images/I/416M6UGFfzL._SL200_.jpg)](https://www.amazon.es/dp/B0052AXWWG/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0052AXWWG/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0052AXWWG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'Jaume Serra Chardonnay Brut Cava – 6 Botellas x 750 ml - Total : 45
 country: 'es'
 ---
 
-Ahora mismo tienes [Jaume Serra Chardonnay Brut Cava – 6 Botellas x 750 ml - Total : 4500 ml](https://www.amazon.es/dp/B07B35YJDY/?tag=tolees-21) a 24.3 EUR (original: 48.0 EUR) (49.38 %  de descuento) en el siguiente enlace!
+Está [Jaume Serra Chardonnay Brut Cava – 6 Botellas x 750 ml - Total : 4500 ml](https://www.amazon.es/dp/B07B35YJDY/?tag=tolees-21) con 49.38 de descuento por 24.3 EUR (original: 48.0 EUR) en el siguiente enlace!
 
 [![Jaume Serra Chardonnay Brut Cava – 6 Bot](https://m.media-amazon.com/images/I/51fNRTBsdWL._SL200_.jpg)](https://www.amazon.es/dp/B07B35YJDY/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07B35YJDY/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07B35YJDY/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

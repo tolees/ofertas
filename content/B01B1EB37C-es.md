@@ -18,10 +18,12 @@ prodname: 'Nike Jr Mercurial Vortex II TF  Zapatillas de Deporte para Niñas  Am
 country: 'es'
 ---
 
-Ahora mismo tienes [Nike Jr Mercurial Vortex II TF  Zapatillas de Deporte para Niñas  Amarillo/Plateado/Morado  Brght MNG/Mtllc Slvr-Hypr TRQ   37 1/2 EU](https://www.amazon.es/dp/B01B1EB37C/?tag=tolees-21) a 10 EUR (original: 39.95 EUR) (74.97 %  de descuento) en el siguiente enlace!
+Está [Nike Jr Mercurial Vortex II TF  Zapatillas de Deporte para Niñas  Amarillo/Plateado/Morado  Brght MNG/Mtllc Slvr-Hypr TRQ   37 1/2 EU](https://www.amazon.es/dp/B01B1EB37C/?tag=tolees-21) con 74.97 de descuento por 10 EUR (original: 39.95 EUR) en el siguiente enlace!
 
 [![Nike Jr Mercurial Vortex II TF  Zapatill](https://images-eu.ssl-images-amazon.com/images/I/41qeUGR-IfL._SL200_.jpg)](https://www.amazon.es/dp/B01B1EB37C/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01B1EB37C/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01B1EB37C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

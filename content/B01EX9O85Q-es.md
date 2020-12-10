@@ -18,10 +18,12 @@ prodname: 'Placa LED Cuadrada SuperSlim 18W Silver Blanco Cálido 2900K - 3200K'
 country: 'es'
 ---
 
-Ahora mismo tienes [Placa LED Cuadrada SuperSlim 18W Silver Blanco Cálido 2900K - 3200K](https://www.amazon.es/dp/B01EX9O85Q/?tag=tolees-21) a 9.03 EUR (original: 16.27 EUR) (44.50 %  de descuento) en el siguiente enlace!
+Está [Placa LED Cuadrada SuperSlim 18W Silver Blanco Cálido 2900K - 3200K](https://www.amazon.es/dp/B01EX9O85Q/?tag=tolees-21) con 44.50 de descuento por 9.03 EUR (original: 16.27 EUR) en el siguiente enlace!
 
 [![Placa LED Cuadrada SuperSlim 18W Silver ](https://m.media-amazon.com/images/I/31SEtI-rZKL._SL200_.jpg)](https://www.amazon.es/dp/B01EX9O85Q/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01EX9O85Q/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01EX9O85Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

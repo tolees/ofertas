@@ -18,12 +18,10 @@ prodname: 'Pepe Jeans Vincent Polo  Blanco  White 800   Large para Hombre'
 country: 'es'
 ---
 
-Está [Pepe Jeans Vincent Polo  Blanco  White 800   Large para Hombre](https://www.amazon.es/dp/B078TMCKQR/?tag=tolees-21) con 59.15 de descuento por 16.3 EUR (original: 39.9 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pepe Jeans Vincent Polo  Blanco  White 800   Large para Hombre](https://www.amazon.es/dp/B078TMCKQR/?tag=tolees-21) a 16.3 EUR (original: 39.9 EUR) (59.15 %  de descuento) en el siguiente enlace!
 
 [![Pepe Jeans Vincent Polo  Blanco  White 8](https://m.media-amazon.com/images/I/31srO0TMWyL._SL200_.jpg)](https://www.amazon.es/dp/B078TMCKQR/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B078TMCKQR/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B078TMCKQR/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

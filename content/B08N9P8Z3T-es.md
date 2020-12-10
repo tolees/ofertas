@@ -18,10 +18,12 @@ prodname: 'Metrópolis  edición especial digibook  [Blu-ray]'
 country: 'es'
 ---
 
-Ahora mismo tienes [Metrópolis  edición especial digibook  [Blu-ray]](https://www.amazon.es/dp/B08N9P8Z3T/?tag=tolees-21) a 10.49 EUR (original: 22.99 EUR) (54.37 %  de descuento) en el siguiente enlace!
+Está [Metrópolis  edición especial digibook  [Blu-ray]](https://www.amazon.es/dp/B08N9P8Z3T/?tag=tolees-21) con 54.37 de descuento por 10.49 EUR (original: 22.99 EUR) en el siguiente enlace!
 
 [![Metrópolis  edición especial digibook  [](https://m.media-amazon.com/images/I/51zGvdvgt2L._SL200_.jpg)](https://www.amazon.es/dp/B08N9P8Z3T/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B08N9P8Z3T/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B08N9P8Z3T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

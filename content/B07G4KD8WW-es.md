@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer Kraken Tournament Edition Auricula al 40.00 % de descuento'
-date: 2020-12-08 14:20:46
+date: 2020-12-10 13:40:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/3148MC1CzuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3148MC1CzuL._SL200_.jpg' ]
 comments: true

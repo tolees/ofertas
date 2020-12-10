@@ -18,10 +18,12 @@ prodname: 'Real Madrid Eau de Toilette  100 ml'
 country: 'es'
 ---
 
-Ahora mismo tienes [Real Madrid Eau de Toilette  100 ml](https://www.amazon.es/dp/B01GLP95LW/?tag=tolees-21) a 9.95 EUR (original: 13.5 EUR) (26.30 %  de descuento) en el siguiente enlace!
+Está [Real Madrid Eau de Toilette  100 ml](https://www.amazon.es/dp/B01GLP95LW/?tag=tolees-21) con 26.30 de descuento por 9.95 EUR (original: 13.5 EUR) en el siguiente enlace!
 
 [![Real Madrid Eau de Toilette  100 ml](https://m.media-amazon.com/images/I/41AbTCFTd5L._SL200_.jpg)](https://www.amazon.es/dp/B01GLP95LW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01GLP95LW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01GLP95LW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

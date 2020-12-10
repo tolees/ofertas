@@ -18,10 +18,12 @@ prodname: 'Alicia En El País De Las Maravillas [Blu-ray]'
 country: 'es'
 ---
 
-Ahora mismo tienes [Alicia En El País De Las Maravillas [Blu-ray]](https://www.amazon.es/dp/B00ALWA1N8/?tag=tolees-21) a 7.12 EUR (original: 11.99 EUR) (40.62 %  de descuento) en el siguiente enlace!
+Está [Alicia En El País De Las Maravillas [Blu-ray]](https://www.amazon.es/dp/B00ALWA1N8/?tag=tolees-21) con 40.62 de descuento por 7.12 EUR (original: 11.99 EUR) en el siguiente enlace!
 
 [![Alicia En El País De Las Maravillas [Blu](https://m.media-amazon.com/images/I/51hEZGQi5GL._SL200_.jpg)](https://www.amazon.es/dp/B00ALWA1N8/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00ALWA1N8/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00ALWA1N8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

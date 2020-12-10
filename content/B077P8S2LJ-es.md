@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus Tallin 900 - Emisor térmico  tecn al 40.00 % de descuento'
-date: 2020-12-09 10:25:34
+date: 2020-12-10 13:23:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31fx-FUB-8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31fx-FUB-8L._SL200_.jpg' ]
 comments: true

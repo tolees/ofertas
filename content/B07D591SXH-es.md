@@ -18,12 +18,10 @@ prodname: 'El príncipe de las tinieblas [Blu-ray]'
 country: 'es'
 ---
 
-Está [El príncipe de las tinieblas [Blu-ray]](https://www.amazon.es/dp/B07D591SXH/?tag=tolees-21) con 73.59 de descuento por 3.0 EUR (original: 11.36 EUR) en el siguiente enlace!
+Ahora mismo tienes [El príncipe de las tinieblas [Blu-ray]](https://www.amazon.es/dp/B07D591SXH/?tag=tolees-21) a 3.0 EUR (original: 11.36 EUR) (73.59 %  de descuento) en el siguiente enlace!
 
 [![El príncipe de las tinieblas [Blu-ray]](https://m.media-amazon.com/images/I/51HouE02KlL._SL200_.jpg)](https://www.amazon.es/dp/B07D591SXH/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07D591SXH/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07D591SXH/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

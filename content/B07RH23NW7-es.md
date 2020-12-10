@@ -18,10 +18,12 @@ prodname: 'National Geographic Kit Trípode Foto Pequeño  Bolsa  Rótula 3 way 
 country: 'es'
 ---
 
-Ahora mismo tienes [National Geographic Kit Trípode Foto Pequeño  Bolsa  Rótula 3 way  Zapata Liber/Rápida  Bloqueos Palanca en Patas 4 Secc  Estabilizador Central  Carga 1 kg  Aluminio  para Canon  Nikon  Sony  NGHPMIDI](https://www.amazon.es/dp/B07RH23NW7/?tag=tolees-21) a 9.99 EUR (original: 24.28 EUR) (58.86 %  de descuento) en el siguiente enlace!
+Está [National Geographic Kit Trípode Foto Pequeño  Bolsa  Rótula 3 way  Zapata Liber/Rápida  Bloqueos Palanca en Patas 4 Secc  Estabilizador Central  Carga 1 kg  Aluminio  para Canon  Nikon  Sony  NGHPMIDI](https://www.amazon.es/dp/B07RH23NW7/?tag=tolees-21) con 58.86 de descuento por 9.99 EUR (original: 24.28 EUR) en el siguiente enlace!
 
 [![National Geographic Kit Trípode Foto Peq](https://m.media-amazon.com/images/I/41qeVc8-l2L._SL200_.jpg)](https://www.amazon.es/dp/B07RH23NW7/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07RH23NW7/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07RH23NW7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

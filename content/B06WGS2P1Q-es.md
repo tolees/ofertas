@@ -18,12 +18,10 @@ prodname: 'Stardew Valley CollectorŽs Edition'
 country: 'es'
 ---
 
-Está [Stardew Valley CollectorŽs Edition](https://www.amazon.es/dp/B06WGS2P1Q/?tag=tolees-21) con 27.32 de descuento por 14.9 EUR (original: 20.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Stardew Valley CollectorŽs Edition](https://www.amazon.es/dp/B06WGS2P1Q/?tag=tolees-21) a 14.9 EUR (original: 20.5 EUR) (27.32 %  de descuento) en el siguiente enlace!
 
 [![Stardew Valley CollectorŽs Edition](https://images-eu.ssl-images-amazon.com/images/I/512JknvM73L._SL200_.jpg)](https://www.amazon.es/dp/B06WGS2P1Q/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B06WGS2P1Q/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B06WGS2P1Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

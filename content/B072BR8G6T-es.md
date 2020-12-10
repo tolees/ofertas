@@ -18,12 +18,10 @@ prodname: 'Asics Gel-DS Trainer 22  Zapatillas de Running para Hombre   Black/Ph
 country: 'es'
 ---
 
-Está [Asics Gel-DS Trainer 22  Zapatillas de Running para Hombre   Black/Phantom/White   44.5 EU](https://www.amazon.es/dp/B072BR8G6T/?tag=tolees-21) con 50.00 de descuento por 68.99 EUR (original: 137.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Asics Gel-DS Trainer 22  Zapatillas de Running para Hombre   Black/Phantom/White   44.5 EU](https://www.amazon.es/dp/B072BR8G6T/?tag=tolees-21) a 68.99 EUR (original: 137.99 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Asics Gel-DS Trainer 22  Zapatillas de R](https://images-eu.ssl-images-amazon.com/images/I/51dXzzEVhwL._SL200_.jpg)](https://www.amazon.es/dp/B072BR8G6T/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B072BR8G6T/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B072BR8G6T/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

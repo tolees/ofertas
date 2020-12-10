@@ -18,10 +18,12 @@ prodname: 'adidas Stan Smith W  Zapatillas de Gimnasia para Mujer  Naranja FTWR 
 country: 'es'
 ---
 
-Ahora mismo tienes [adidas Stan Smith W  Zapatillas de Gimnasia para Mujer  Naranja FTWR White/Clear Orange  38 EU](https://www.amazon.es/dp/B07K142PKT/?tag=tolees-21) a 49.9 EUR (original: 99.95 EUR) (50.08 %  de descuento) en el siguiente enlace!
+Está [adidas Stan Smith W  Zapatillas de Gimnasia para Mujer  Naranja FTWR White/Clear Orange  38 EU](https://www.amazon.es/dp/B07K142PKT/?tag=tolees-21) con 50.08 de descuento por 49.9 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![adidas Stan Smith W  Zapatillas de Gimna](https://images-eu.ssl-images-amazon.com/images/I/31tmPci2VTL._SL200_.jpg)](https://www.amazon.es/dp/B07K142PKT/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07K142PKT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07K142PKT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

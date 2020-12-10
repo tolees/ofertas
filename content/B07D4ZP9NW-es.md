@@ -18,12 +18,10 @@ prodname: 'Rage 2'
 country: 'es'
 ---
 
-Está [Rage 2](https://www.amazon.es/dp/B07D4ZP9NW/?tag=tolees-21) con 78.58 de descuento por 14.99 EUR (original: 69.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rage 2](https://www.amazon.es/dp/B07D4ZP9NW/?tag=tolees-21) a 14.99 EUR (original: 69.99 EUR) (78.58 %  de descuento) en el siguiente enlace!
 
 [![Rage 2](https://m.media-amazon.com/images/I/619keLHZtML._SL200_.jpg)](https://www.amazon.es/dp/B07D4ZP9NW/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07D4ZP9NW/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07D4ZP9NW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

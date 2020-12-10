@@ -18,10 +18,12 @@ prodname: 'Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  
 country: 'es'
 ---
 
-Ahora mismo tienes [Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  Gris  Elemental/White/Metallic Silver   37.5 EU](https://www.amazon.es/dp/B07744FDTT/?tag=tolees-21) a 32.19 EUR (original: 70 EUR) (54.01 %  de descuento) en el siguiente enlace!
+Está [Under Armour UA W Micro G Pursuit  Zapatillas de Running para Mujer  Gris  Elemental/White/Metallic Silver   37.5 EU](https://www.amazon.es/dp/B07744FDTT/?tag=tolees-21) con 54.01 de descuento por 32.19 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![Under Armour UA W Micro G Pursuit  Zapat](https://images-eu.ssl-images-amazon.com/images/I/41ScVjXcYLL._SL200_.jpg)](https://www.amazon.es/dp/B07744FDTT/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07744FDTT/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07744FDTT/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

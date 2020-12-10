@@ -18,12 +18,10 @@ prodname: 'Fantasy Flight Games- Star Wars X-Wing: halcon milenario  Edge Entert
 country: 'es'
 ---
 
-Está [Fantasy Flight Games- Star Wars X-Wing: halcon milenario  Edge Entertainment EDGSWX06 ](https://www.amazon.es/dp/B00U79Y0ZK/?tag=tolees-21) con 49.95 de descuento por 14.99 EUR (original: 29.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Fantasy Flight Games- Star Wars X-Wing: halcon milenario  Edge Entertainment EDGSWX06 ](https://www.amazon.es/dp/B00U79Y0ZK/?tag=tolees-21) a 14.99 EUR (original: 29.95 EUR) (49.95 %  de descuento) en el siguiente enlace!
 
 [![Fantasy Flight Games- Star Wars X-Wing: ](https://m.media-amazon.com/images/I/41r61GkFxmL._SL200_.jpg)](https://www.amazon.es/dp/B00U79Y0ZK/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00U79Y0ZK/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00U79Y0ZK/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -18,12 +18,10 @@ prodname: 'Funko Pop!- BTVS 25th: Giles  25199 '
 country: 'es'
 ---
 
-Está [Funko Pop!- BTVS 25th: Giles  25199 ](https://www.amazon.es/dp/B0763XD2CG/?tag=tolees-21) con 49.84 de descuento por 8 EUR (original: 15.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop!- BTVS 25th: Giles  25199 ](https://www.amazon.es/dp/B0763XD2CG/?tag=tolees-21) a 8 EUR (original: 15.95 EUR) (49.84 %  de descuento) en el siguiente enlace!
 
 [![Funko Pop!- BTVS 25th: Giles  25199 ](https://images-eu.ssl-images-amazon.com/images/I/41j12ydMVPL._SL200_.jpg)](https://www.amazon.es/dp/B0763XD2CG/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0763XD2CG/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0763XD2CG/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

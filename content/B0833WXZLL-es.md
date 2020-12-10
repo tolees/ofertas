@@ -18,10 +18,12 @@ prodname: 'Peste  la - temporadas 1 y 2 [Blu-ray]'
 country: 'es'
 ---
 
-Ahora mismo tienes [Peste  la - temporadas 1 y 2 [Blu-ray]](https://www.amazon.es/dp/B0833WXZLL/?tag=tolees-21) a 23.09 EUR (original: 36.93 EUR) (37.48 %  de descuento) en el siguiente enlace!
+Está [Peste  la - temporadas 1 y 2 [Blu-ray]](https://www.amazon.es/dp/B0833WXZLL/?tag=tolees-21) con 37.48 de descuento por 23.09 EUR (original: 36.93 EUR) en el siguiente enlace!
 
 [![Peste  la - temporadas 1 y 2 [Blu-ray]](https://m.media-amazon.com/images/I/51Mcimz089L._SL200_.jpg)](https://www.amazon.es/dp/B0833WXZLL/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B0833WXZLL/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B0833WXZLL/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'Nike Dry Academy 18 Football Trkst Chandal  Unisex niños  Negro  Bla
 country: 'es'
 ---
 
-Ahora mismo tienes [Nike Dry Academy 18 Football Trkst Chandal  Unisex niños  Negro  Black/Anthracite   XL](https://www.amazon.es/dp/B079K42YDX/?tag=tolees-21) a 33.08 EUR (original: 70 EUR) (52.74 %  de descuento) en el siguiente enlace!
+Está [Nike Dry Academy 18 Football Trkst Chandal  Unisex niños  Negro  Black/Anthracite   XL](https://www.amazon.es/dp/B079K42YDX/?tag=tolees-21) con 52.74 de descuento por 33.08 EUR (original: 70 EUR) en el siguiente enlace!
 
 [![Nike Dry Academy 18 Football Trkst Chand](https://images-eu.ssl-images-amazon.com/images/I/316sAhK7lJL._SL200_.jpg)](https://www.amazon.es/dp/B079K42YDX/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B079K42YDX/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B079K42YDX/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

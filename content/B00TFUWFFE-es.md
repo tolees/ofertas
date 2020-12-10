@@ -18,12 +18,10 @@ prodname: 'La Lista De Schindler  Colección Oscar 2015  [Blu-ray]'
 country: 'es'
 ---
 
-Está [La Lista De Schindler  Colección Oscar 2015  [Blu-ray]](https://www.amazon.es/dp/B00TFUWFFE/?tag=tolees-21) con 51.41 de descuento por 4.99 EUR (original: 10.27 EUR) en el siguiente enlace!
+Ahora mismo tienes [La Lista De Schindler  Colección Oscar 2015  [Blu-ray]](https://www.amazon.es/dp/B00TFUWFFE/?tag=tolees-21) a 4.99 EUR (original: 10.27 EUR) (51.41 %  de descuento) en el siguiente enlace!
 
 [![La Lista De Schindler  Colección Oscar 2](https://m.media-amazon.com/images/I/51oHycVCE8L._SL200_.jpg)](https://www.amazon.es/dp/B00TFUWFFE/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00TFUWFFE/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00TFUWFFE/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
