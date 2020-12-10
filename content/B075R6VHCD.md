@@ -17,10 +17,12 @@ inStock: true
 prodname: 'New Balance Fresh Foam Cruz V2 Mcruzkr2  Zapatillas de Running para Hombre  Azul  Team Royal/Black/White Kr2   44 EU'
 ---
 
-Ahora mismo tienes [New Balance Fresh Foam Cruz V2 Mcruzkr2  Zapatillas de Running para Hombre  Azul  Team Royal/Black/White Kr2   44 EU](https://www.amazon.es/dp/B075R6VHCD/?tag=tolees-21) a 63 EUR (original: 90 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [New Balance Fresh Foam Cruz V2 Mcruzkr2  Zapatillas de Running para Hombre  Azul  Team Royal/Black/White Kr2   44 EU](https://www.amazon.es/dp/B075R6VHCD/?tag=tolees-21) con 30.00 de descuento por 63 EUR (original: 90 EUR) en el siguiente enlace!
 
 [![New Balance Fresh Foam Cruz V2 Mcruzkr2 ](https://images-eu.ssl-images-amazon.com/images/I/41UOO%2BLC3-L._SL200_.jpg)](https://www.amazon.es/dp/B075R6VHCD/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B075R6VHCD/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B075R6VHCD/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Sonic: La Pelicula  BD  [Blu-ray]'
 ---
 
-Está [Sonic: La Pelicula  BD  [Blu-ray]](https://www.amazon.es/dp/B0853PGQPC/?tag=tolees-21) con 47.09 de descuento por 8.99 EUR (original: 16.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sonic: La Pelicula  BD  [Blu-ray]](https://www.amazon.es/dp/B0853PGQPC/?tag=tolees-21) a 8.99 EUR (original: 16.99 EUR) (47.09 %  de descuento) en el siguiente enlace!
 
 [![Sonic: La Pelicula  BD  [Blu-ray]](https://m.media-amazon.com/images/I/51q5Z09-MlL._SL200_.jpg)](https://www.amazon.es/dp/B0853PGQPC/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0853PGQPC/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0853PGQPC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

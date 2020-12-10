@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Alimento básico Tetra Rubin  diferentes tamaños'
 ---
 
-Ahora mismo tienes [Alimento básico Tetra Rubin  diferentes tamaños](https://www.amazon.es/dp/B000XA8JRS/?tag=tolees-21) a 7.28 EUR (original: 12.99 EUR) (43.96 %  de descuento) en el siguiente enlace!
+Está [Alimento básico Tetra Rubin  diferentes tamaños](https://www.amazon.es/dp/B000XA8JRS/?tag=tolees-21) con 43.96 de descuento por 7.28 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![Alimento básico Tetra Rubin  diferentes ](https://m.media-amazon.com/images/I/51fhDwf4SdL._SL200_.jpg)](https://www.amazon.es/dp/B000XA8JRS/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000XA8JRS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000XA8JRS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

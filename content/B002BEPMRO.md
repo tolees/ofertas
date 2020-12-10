@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Sebastian Professional - Crema modelante para cabello  52 ml'
 ---
 
-Está [Sebastian Professional - Crema modelante para cabello  52 ml](https://www.amazon.es/dp/B002BEPMRO/?tag=tolees-21) con 45.45 de descuento por 12.0 EUR (original: 22.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sebastian Professional - Crema modelante para cabello  52 ml](https://www.amazon.es/dp/B002BEPMRO/?tag=tolees-21) a 12.0 EUR (original: 22.0 EUR) (45.45 %  de descuento) en el siguiente enlace!
 
 [![Sebastian Professional - Crema modelante](https://m.media-amazon.com/images/I/31UkZ3DfvlL._SL200_.jpg)](https://www.amazon.es/dp/B002BEPMRO/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B002BEPMRO/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B002BEPMRO/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

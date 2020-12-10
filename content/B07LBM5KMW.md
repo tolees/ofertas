@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Tommy Jeans TJM Essential Garment Dye Polo  Verde  Dynasty Green 399   L para Hombre'
 ---
 
-Ahora mismo tienes [Tommy Jeans TJM Essential Garment Dye Polo  Verde  Dynasty Green 399   L para Hombre](https://www.amazon.es/dp/B07LBM5KMW/?tag=tolees-21) a 32 EUR (original: 65 EUR) (50.77 %  de descuento) en el siguiente enlace!
+Está [Tommy Jeans TJM Essential Garment Dye Polo  Verde  Dynasty Green 399   L para Hombre](https://www.amazon.es/dp/B07LBM5KMW/?tag=tolees-21) con 50.77 de descuento por 32 EUR (original: 65 EUR) en el siguiente enlace!
 
 [![Tommy Jeans TJM Essential Garment Dye Po](https://images-eu.ssl-images-amazon.com/images/I/318GhMNevLL._SL200_.jpg)](https://www.amazon.es/dp/B07LBM5KMW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07LBM5KMW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07LBM5KMW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

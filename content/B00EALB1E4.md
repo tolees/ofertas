@@ -17,10 +17,12 @@ inStock: true
 prodname: 'BAUSCH + LOMB - Biotrue® ONEday - Lentes de contacto de reemplazo diario'
 ---
 
-Ahora mismo tienes [BAUSCH + LOMB - Biotrue® ONEday - Lentes de contacto de reemplazo diario](https://www.amazon.es/dp/B00EALB1E4/?tag=tolees-21) a 13.76 EUR (original: 29.9 EUR) (53.98 %  de descuento) en el siguiente enlace!
+Está [BAUSCH + LOMB - Biotrue® ONEday - Lentes de contacto de reemplazo diario](https://www.amazon.es/dp/B00EALB1E4/?tag=tolees-21) con 53.98 de descuento por 13.76 EUR (original: 29.9 EUR) en el siguiente enlace!
 
 [![BAUSCH + LOMB - Biotrue® ONEday - Lentes](https://m.media-amazon.com/images/I/31Vnh3KlK-L._SL200_.jpg)](https://www.amazon.es/dp/B00EALB1E4/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00EALB1E4/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00EALB1E4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

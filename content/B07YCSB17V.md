@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Liberty Caffè - Café intenso en cápsulas compatibles con A Modo Mio  100 x 7 5 g '
 ---
 
-Está [Liberty Caffè - Café intenso en cápsulas compatibles con A Modo Mio  100 x 7 5 g ](https://www.amazon.es/dp/B07YCSB17V/?tag=tolees-21) con 40.01 de descuento por 17.99 EUR (original: 29.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Liberty Caffè - Café intenso en cápsulas compatibles con A Modo Mio  100 x 7 5 g ](https://www.amazon.es/dp/B07YCSB17V/?tag=tolees-21) a 17.99 EUR (original: 29.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
 [![Liberty Caffè - Café intenso en cápsulas](https://m.media-amazon.com/images/I/41oci82ja3L._SL200_.jpg)](https://www.amazon.es/dp/B07YCSB17V/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07YCSB17V/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07YCSB17V/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

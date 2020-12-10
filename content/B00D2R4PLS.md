@@ -17,10 +17,12 @@ inStock: true
 prodname: 'STANLEY 0-28-217 - Rascavidrios con 5 hojas'
 ---
 
-Ahora mismo tienes [STANLEY 0-28-217 - Rascavidrios con 5 hojas](https://www.amazon.es/dp/B00D2R4PLS/?tag=tolees-21) a 2.28 EUR (original: 3.3 EUR) (30.91 %  de descuento) en el siguiente enlace!
+Está [STANLEY 0-28-217 - Rascavidrios con 5 hojas](https://www.amazon.es/dp/B00D2R4PLS/?tag=tolees-21) con 30.91 de descuento por 2.28 EUR (original: 3.3 EUR) en el siguiente enlace!
 
 [![STANLEY 0-28-217 - Rascavidrios con 5 ho](https://m.media-amazon.com/images/I/41O0PrKKvkL._SL200_.jpg)](https://www.amazon.es/dp/B00D2R4PLS/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00D2R4PLS/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00D2R4PLS/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
