@@ -18,10 +18,12 @@ prodname: 'Columbia Roffe Ridge II Forro Polar  Mujer  Blanco Naranja  Bold Oran
 country: 'es'
 ---
 
-Ahora mismo tienes [Columbia Roffe Ridge II Forro Polar  Mujer  Blanco Naranja  Bold Orange   S](https://www.amazon.es/dp/B087VJ67CM/?tag=tolees-21) a 43.99 EUR (original: 79.99 EUR) (45.01 %  de descuento) en el siguiente enlace!
+Está [Columbia Roffe Ridge II Forro Polar  Mujer  Blanco Naranja  Bold Orange   S](https://www.amazon.es/dp/B087VJ67CM/?tag=tolees-21) con 45.01 de descuento por 43.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![Columbia Roffe Ridge II Forro Polar  Muj](https://m.media-amazon.com/images/I/41HYYfluuWL._SL200_.jpg)](https://www.amazon.es/dp/B087VJ67CM/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B087VJ67CM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B087VJ67CM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'NYX Professional Makeup Paleta de sombras de ojos Perfect Filter Shad
 country: 'es'
 ---
 
-Ahora mismo tienes [NYX Professional Makeup Paleta de sombras de ojos Perfect Filter Shadow Palette Tono 2 Rustic Antique Color Multicolor](https://www.amazon.es/dp/B07531HDFM/?tag=tolees-21) a 8.95 EUR (original: 12.51 EUR) (28.46 %  de descuento) en el siguiente enlace!
+Está [NYX Professional Makeup Paleta de sombras de ojos Perfect Filter Shadow Palette Tono 2 Rustic Antique Color Multicolor](https://www.amazon.es/dp/B07531HDFM/?tag=tolees-21) con 28.46 de descuento por 8.95 EUR (original: 12.51 EUR) en el siguiente enlace!
 
 [![NYX Professional Makeup Paleta de sombra](https://m.media-amazon.com/images/I/41cMe6pQnLL._SL200_.jpg)](https://www.amazon.es/dp/B07531HDFM/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07531HDFM/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07531HDFM/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

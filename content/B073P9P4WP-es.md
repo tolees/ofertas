@@ -18,12 +18,10 @@ prodname: 'Bourjois Velvet The Lipstick Barra de Labios Tono 04  Hip Hip Pink   
 country: 'es'
 ---
 
-Está [Bourjois Velvet The Lipstick Barra de Labios Tono 04  Hip Hip Pink   2.3 gr](https://www.amazon.es/dp/B073P9P4WP/?tag=tolees-21) con 29.61 de descuento por 3.78 EUR (original: 5.37 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bourjois Velvet The Lipstick Barra de Labios Tono 04  Hip Hip Pink   2.3 gr](https://www.amazon.es/dp/B073P9P4WP/?tag=tolees-21) a 3.78 EUR (original: 5.37 EUR) (29.61 %  de descuento) en el siguiente enlace!
 
 [![Bourjois Velvet The Lipstick Barra de La](https://m.media-amazon.com/images/I/41Xdlqzz-+L._SL200_.jpg)](https://www.amazon.es/dp/B073P9P4WP/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B073P9P4WP/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B073P9P4WP/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

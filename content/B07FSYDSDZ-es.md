@@ -18,10 +18,12 @@ prodname: 'Marca Amazon- Solimo -  Galletas Petit Biscuits - 3 packs de 550g'
 country: 'es'
 ---
 
-Ahora mismo tienes [Marca Amazon- Solimo -  Galletas Petit Biscuits - 3 packs de 550g](https://www.amazon.es/dp/B07FSYDSDZ/?tag=tolees-21) a 7.65 EUR (original: 11.25 EUR) (32.00 %  de descuento) en el siguiente enlace!
+Está [Marca Amazon- Solimo -  Galletas Petit Biscuits - 3 packs de 550g](https://www.amazon.es/dp/B07FSYDSDZ/?tag=tolees-21) con 32.00 de descuento por 7.65 EUR (original: 11.25 EUR) en el siguiente enlace!
 
 [![Marca Amazon- Solimo -  Galletas Petit B](https://images-eu.ssl-images-amazon.com/images/I/31AOjWEz11L._SL200_.jpg)](https://www.amazon.es/dp/B07FSYDSDZ/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07FSYDSDZ/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07FSYDSDZ/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

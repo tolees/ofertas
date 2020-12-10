@@ -18,10 +18,12 @@ prodname: 'Canon EOS rp - cámara mirroless de 26.2 MP  wi-fi  Bluetooth  Sensor
 country: 'es'
 ---
 
-Ahora mismo tienes [Canon EOS rp - cámara mirroless de 26.2 MP  wi-fi  Bluetooth  Sensor Dual Pixel.](https://www.amazon.es/dp/B07NJJ59J4/?tag=tolees-21) a 1076.92 EUR (original: 1599.0 EUR) (32.65 %  de descuento) en el siguiente enlace!
+Está [Canon EOS rp - cámara mirroless de 26.2 MP  wi-fi  Bluetooth  Sensor Dual Pixel.](https://www.amazon.es/dp/B07NJJ59J4/?tag=tolees-21) con 32.65 de descuento por 1076.92 EUR (original: 1599.0 EUR) en el siguiente enlace!
 
 [![Canon EOS rp - cámara mirroless de 26.2 ](https://m.media-amazon.com/images/I/41SQJWEhIIL._SL200_.jpg)](https://www.amazon.es/dp/B07NJJ59J4/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07NJJ59J4/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07NJJ59J4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

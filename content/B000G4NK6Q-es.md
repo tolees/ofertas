@@ -18,10 +18,12 @@ prodname: 'adidas Samba Classic  Zapatillas de Fútbol para Hombre  Negro  Black
 country: 'es'
 ---
 
-Ahora mismo tienes [adidas Samba Classic  Zapatillas de Fútbol para Hombre  Negro  Black/Running White   36 EU](https://www.amazon.es/dp/B000G4NK6Q/?tag=tolees-21) a 45.45 EUR (original: 69.95 EUR) (35.03 %  de descuento) en el siguiente enlace!
+Está [adidas Samba Classic  Zapatillas de Fútbol para Hombre  Negro  Black/Running White   36 EU](https://www.amazon.es/dp/B000G4NK6Q/?tag=tolees-21) con 35.03 de descuento por 45.45 EUR (original: 69.95 EUR) en el siguiente enlace!
 
 [![adidas Samba Classic  Zapatillas de Fútb](https://m.media-amazon.com/images/I/415xhdqolcL._SL200_.jpg)](https://www.amazon.es/dp/B000G4NK6Q/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000G4NK6Q/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000G4NK6Q/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

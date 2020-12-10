@@ -18,12 +18,10 @@ prodname: 'DKNY Be Delicious Fresh Blossom - Agua de perfume spray  100 ml'
 country: 'es'
 ---
 
-Está [DKNY Be Delicious Fresh Blossom - Agua de perfume spray  100 ml](https://www.amazon.es/dp/B0036FTF5M/?tag=tolees-21) con 64.91 de descuento por 31.41 EUR (original: 89.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [DKNY Be Delicious Fresh Blossom - Agua de perfume spray  100 ml](https://www.amazon.es/dp/B0036FTF5M/?tag=tolees-21) a 31.41 EUR (original: 89.5 EUR) (64.91 %  de descuento) en el siguiente enlace!
 
 [![DKNY Be Delicious Fresh Blossom - Agua d](https://m.media-amazon.com/images/I/41oOMqY4H1L._SL200_.jpg)](https://www.amazon.es/dp/B0036FTF5M/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0036FTF5M/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0036FTF5M/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

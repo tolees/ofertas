@@ -18,12 +18,10 @@ prodname: 'WD Elements Portable - Disco duro portátil de 750 GB  USB 3.0   colo
 country: 'es'
 ---
 
-Está [WD Elements Portable - Disco duro portátil de 750 GB  USB 3.0   color negro](https://www.amazon.es/dp/B00H53ET0C/?tag=tolees-21) con 26.46 de descuento por 47.0 EUR (original: 63.91 EUR) en el siguiente enlace!
+Ahora mismo tienes [WD Elements Portable - Disco duro portátil de 750 GB  USB 3.0   color negro](https://www.amazon.es/dp/B00H53ET0C/?tag=tolees-21) a 47.0 EUR (original: 63.91 EUR) (26.46 %  de descuento) en el siguiente enlace!
 
 [![WD Elements Portable - Disco duro portát](https://m.media-amazon.com/images/I/31xY-VUyQCL._SL200_.jpg)](https://www.amazon.es/dp/B00H53ET0C/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00H53ET0C/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00H53ET0C/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

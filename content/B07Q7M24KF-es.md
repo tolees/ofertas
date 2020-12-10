@@ -18,12 +18,10 @@ prodname: 'Under Armour Rush Heatgear Compression SL Tanque  Hombre  Gris  XL'
 country: 'es'
 ---
 
-Está [Under Armour Rush Heatgear Compression SL Tanque  Hombre  Gris  XL](https://www.amazon.es/dp/B07Q7M24KF/?tag=tolees-21) con 64.10 de descuento por 17.95 EUR (original: 50.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Under Armour Rush Heatgear Compression SL Tanque  Hombre  Gris  XL](https://www.amazon.es/dp/B07Q7M24KF/?tag=tolees-21) a 17.95 EUR (original: 50.0 EUR) (64.10 %  de descuento) en el siguiente enlace!
 
 [![Under Armour Rush Heatgear Compression S](https://m.media-amazon.com/images/I/31vdRAM8UDL._SL200_.jpg)](https://www.amazon.es/dp/B07Q7M24KF/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B07Q7M24KF/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B07Q7M24KF/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

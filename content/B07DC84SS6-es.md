@@ -18,10 +18,12 @@ prodname: 'LE COQ SPORTIF Courtset W Woven Black/Rose Gold  Zapatillas para Muje
 country: 'es'
 ---
 
-Ahora mismo tienes [LE COQ SPORTIF Courtset W Woven Black/Rose Gold  Zapatillas para Mujer  Beige Noir  38 EU](https://www.amazon.es/dp/B07DC84SS6/?tag=tolees-21) a 20.61 EUR (original: 85 EUR) (75.75 %  de descuento) en el siguiente enlace!
+Está [LE COQ SPORTIF Courtset W Woven Black/Rose Gold  Zapatillas para Mujer  Beige Noir  38 EU](https://www.amazon.es/dp/B07DC84SS6/?tag=tolees-21) con 75.75 de descuento por 20.61 EUR (original: 85 EUR) en el siguiente enlace!
 
 [![LE COQ SPORTIF Courtset W Woven Black/Ro](https://images-eu.ssl-images-amazon.com/images/I/41B4hOsf1AL._SL200_.jpg)](https://www.amazon.es/dp/B07DC84SS6/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DC84SS6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DC84SS6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

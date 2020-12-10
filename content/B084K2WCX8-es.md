@@ -18,10 +18,12 @@ prodname: 'GARNIER Fructis Hair Food Acondicionador de Aloe Vera Hidratante para
 country: 'es'
 ---
 
-Ahora mismo tienes [GARNIER Fructis Hair Food Acondicionador de Aloe Vera Hidratante para Pelo Normal a Seco - 350 ml](https://www.amazon.es/dp/B084K2WCX8/?tag=tolees-21) a 1.99 EUR (original: 4.25 EUR) (53.18 %  de descuento) en el siguiente enlace!
+Está [GARNIER Fructis Hair Food Acondicionador de Aloe Vera Hidratante para Pelo Normal a Seco - 350 ml](https://www.amazon.es/dp/B084K2WCX8/?tag=tolees-21) con 53.18 de descuento por 1.99 EUR (original: 4.25 EUR) en el siguiente enlace!
 
 [![GARNIER Fructis Hair Food Acondicionador](https://m.media-amazon.com/images/I/31NSX5T1XHL._SL200_.jpg)](https://www.amazon.es/dp/B084K2WCX8/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B084K2WCX8/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B084K2WCX8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'Nike B NSW tee EMB Swoosh T-Shirt  Niños  dk Grey Heather  S'
 country: 'es'
 ---
 
-Ahora mismo tienes [Nike B NSW tee EMB Swoosh T-Shirt  Niños  dk Grey Heather  S](https://www.amazon.es/dp/B07KKWKJFB/?tag=tolees-21) a 13.5 EUR (original: 18 EUR) (25.00 %  de descuento) en el siguiente enlace!
+Está [Nike B NSW tee EMB Swoosh T-Shirt  Niños  dk Grey Heather  S](https://www.amazon.es/dp/B07KKWKJFB/?tag=tolees-21) con 25.00 de descuento por 13.5 EUR (original: 18 EUR) en el siguiente enlace!
 
 [![Nike B NSW tee EMB Swoosh T-Shirt  Niños](https://images-eu.ssl-images-amazon.com/images/I/41RtPbxPggL._SL200_.jpg)](https://www.amazon.es/dp/B07KKWKJFB/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07KKWKJFB/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07KKWKJFB/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'L Oréal Paris Color Riche Mate Pintalabios mate rosa 101 Candy Stile
 country: 'es'
 ---
 
-Ahora mismo tienes [L Oréal Paris Color Riche Mate Pintalabios mate rosa 101 Candy Stiletto](https://www.amazon.es/dp/B01N9UOVG0/?tag=tolees-21) a 5.9 EUR (original: 13.95 EUR) (57.71 %  de descuento) en el siguiente enlace!
+Está [L Oréal Paris Color Riche Mate Pintalabios mate rosa 101 Candy Stiletto](https://www.amazon.es/dp/B01N9UOVG0/?tag=tolees-21) con 57.71 de descuento por 5.9 EUR (original: 13.95 EUR) en el siguiente enlace!
 
 [![L Oréal Paris Color Riche Mate Pintalabi](https://m.media-amazon.com/images/I/31OILeOqweL._SL200_.jpg)](https://www.amazon.es/dp/B01N9UOVG0/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01N9UOVG0/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N9UOVG0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

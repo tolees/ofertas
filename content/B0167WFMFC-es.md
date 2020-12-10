@@ -18,12 +18,10 @@ prodname: 'Skechers Equalizer-Double Play  Mocasines Hombre  Azul  Navy   39 EU'
 country: 'es'
 ---
 
-Está [Skechers Equalizer-Double Play  Mocasines Hombre  Azul  Navy   39 EU](https://www.amazon.es/dp/B0167WFMFC/?tag=tolees-21) con 40.00 de descuento por 38.97 EUR (original: 64.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Skechers Equalizer-Double Play  Mocasines Hombre  Azul  Navy   39 EU](https://www.amazon.es/dp/B0167WFMFC/?tag=tolees-21) a 38.97 EUR (original: 64.95 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![Skechers Equalizer-Double Play  Mocasine](https://m.media-amazon.com/images/I/41GZYIk3CpL._SL200_.jpg)](https://www.amazon.es/dp/B0167WFMFC/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0167WFMFC/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0167WFMFC/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

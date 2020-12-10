@@ -18,10 +18,12 @@ prodname: 'THE G-LAB - KEYZ-Iridium - Teclado Gaming de Alto Rendimiento - Membr
 country: 'es'
 ---
 
-Ahora mismo tienes [THE G-LAB - KEYZ-Iridium - Teclado Gaming de Alto Rendimiento - Membrana de Alta Precisión- Retroiluminación RGB - Layout Español](https://www.amazon.es/dp/B07D7VXK2D/?tag=tolees-21) a 17.75 EUR (original: 29.99 EUR) (40.81 %  de descuento) en el siguiente enlace!
+Está [THE G-LAB - KEYZ-Iridium - Teclado Gaming de Alto Rendimiento - Membrana de Alta Precisión- Retroiluminación RGB - Layout Español](https://www.amazon.es/dp/B07D7VXK2D/?tag=tolees-21) con 40.81 de descuento por 17.75 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![THE G-LAB - KEYZ-Iridium - Teclado Gamin](https://images-eu.ssl-images-amazon.com/images/I/41mr3GwwD3L._SL200_.jpg)](https://www.amazon.es/dp/B07D7VXK2D/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07D7VXK2D/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07D7VXK2D/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

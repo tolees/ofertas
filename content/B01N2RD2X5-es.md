@@ -18,10 +18,12 @@ prodname: 'Colgate Animal Gang  Pasta de dientes infantil  niños +3 años - 50m
 country: 'es'
 ---
 
-Ahora mismo tienes [Colgate Animal Gang  Pasta de dientes infantil  niños +3 años - 50ml](https://www.amazon.es/dp/B01N2RD2X5/?tag=tolees-21) a 1.75 EUR (original: 2.6 EUR) (32.69 %  de descuento) en el siguiente enlace!
+Está [Colgate Animal Gang  Pasta de dientes infantil  niños +3 años - 50ml](https://www.amazon.es/dp/B01N2RD2X5/?tag=tolees-21) con 32.69 de descuento por 1.75 EUR (original: 2.6 EUR) en el siguiente enlace!
 
 [![Colgate Animal Gang  Pasta de dientes in](https://m.media-amazon.com/images/I/41N9BYc8JCL._SL200_.jpg)](https://www.amazon.es/dp/B01N2RD2X5/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B01N2RD2X5/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B01N2RD2X5/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

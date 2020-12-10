@@ -18,12 +18,10 @@ prodname: 'Pesadilla Antes De Navidad - Edición Coleccionista [Blu-ray]'
 country: 'es'
 ---
 
-Está [Pesadilla Antes De Navidad - Edición Coleccionista [Blu-ray]](https://www.amazon.es/dp/B0053CABO0/?tag=tolees-21) con 40.82 de descuento por 9.99 EUR (original: 16.88 EUR) en el siguiente enlace!
+Ahora mismo tienes [Pesadilla Antes De Navidad - Edición Coleccionista [Blu-ray]](https://www.amazon.es/dp/B0053CABO0/?tag=tolees-21) a 9.99 EUR (original: 16.88 EUR) (40.82 %  de descuento) en el siguiente enlace!
 
 [![Pesadilla Antes De Navidad - Edición Col](https://m.media-amazon.com/images/I/61uCyamsiVL._SL200_.jpg)](https://www.amazon.es/dp/B0053CABO0/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B0053CABO0/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B0053CABO0/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

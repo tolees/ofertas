@@ -18,10 +18,12 @@ prodname: 'PUMA Carina L  Zapatillas Mujer  Negro Black/White/Silver  40 EU'
 country: 'es'
 ---
 
-Ahora mismo tienes [PUMA Carina L  Zapatillas Mujer  Negro Black/White/Silver  40 EU](https://www.amazon.es/dp/B07JWQBV9W/?tag=tolees-21) a 39.95 EUR (original: 59.99 EUR) (33.41 %  de descuento) en el siguiente enlace!
+Está [PUMA Carina L  Zapatillas Mujer  Negro Black/White/Silver  40 EU](https://www.amazon.es/dp/B07JWQBV9W/?tag=tolees-21) con 33.41 de descuento por 39.95 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![PUMA Carina L  Zapatillas Mujer  Negro B](https://m.media-amazon.com/images/I/41q-ZuyaTqL._SL200_.jpg)](https://www.amazon.es/dp/B07JWQBV9W/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07JWQBV9W/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07JWQBV9W/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

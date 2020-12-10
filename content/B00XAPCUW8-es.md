@@ -18,12 +18,10 @@ prodname: 'Haribo Gummy Beans Caramelos Grageados - 1000 gr'
 country: 'es'
 ---
 
-Está [Haribo Gummy Beans Caramelos Grageados - 1000 gr](https://www.amazon.es/dp/B00XAPCUW8/?tag=tolees-21) con 40.39 de descuento por 6.67 EUR (original: 11.19 EUR) en el siguiente enlace!
+Ahora mismo tienes [Haribo Gummy Beans Caramelos Grageados - 1000 gr](https://www.amazon.es/dp/B00XAPCUW8/?tag=tolees-21) a 6.67 EUR (original: 11.19 EUR) (40.39 %  de descuento) en el siguiente enlace!
 
 [![Haribo Gummy Beans Caramelos Grageados -](http://images.amazon.com/images/P/B00XAPCUW8.01._PI_SCMZZZZZZZ_._SL200_.jpg)](https://www.amazon.es/dp/B00XAPCUW8/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B00XAPCUW8/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B00XAPCUW8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

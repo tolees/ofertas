@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 54.24 % en St. Germain Licores - 700 ml'
+title: 'St. Germain Licores - 700 ml al 54.24 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/319e7Hx00vL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/319e7Hx00vL._SL200_.jpg' ]
@@ -18,11 +18,11 @@ prodname: 'St. Germain Licores - 700 ml'
 country: 'es'
 ---
 
-Tienes [St. Germain Licores - 700 ml](https://www.amazon.es/dp/B002E2QJG6/?tag=tolees-21) con un 54.24 % de descuento con precio de oferta de 11 EUR (original: 24.04 EUR) en el siguiente enlace!
+Está [St. Germain Licores - 700 ml](https://www.amazon.es/dp/B002E2QJG6/?tag=tolees-21) con 54.24 de descuento por 11 EUR (original: 24.04 EUR) en el siguiente enlace!
 
 [![St. Germain Licores - 700 ml](https://images-eu.ssl-images-amazon.com/images/I/319e7Hx00vL._SL200_.jpg)](https://www.amazon.es/dp/B002E2QJG6/?tag=tolees-21)
 
-[Accede a la oferta!!](https://www.amazon.es/dp/B002E2QJG6/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B002E2QJG6/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

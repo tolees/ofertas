@@ -18,10 +18,12 @@ prodname: 'Instituto Español Poseidon Gold Eau de Toilette para Hombre - Set Co
 country: 'es'
 ---
 
-Ahora mismo tienes [Instituto Español Poseidon Gold Eau de Toilette para Hombre - Set Colonia 150 ML y After Shave](https://www.amazon.es/dp/B00RROAQM4/?tag=tolees-21) a 11.89 EUR (original: 15.95 EUR) (25.45 %  de descuento) en el siguiente enlace!
+Está [Instituto Español Poseidon Gold Eau de Toilette para Hombre - Set Colonia 150 ML y After Shave](https://www.amazon.es/dp/B00RROAQM4/?tag=tolees-21) con 25.45 de descuento por 11.89 EUR (original: 15.95 EUR) en el siguiente enlace!
 
 [![Instituto Español Poseidon Gold Eau de T](https://m.media-amazon.com/images/I/51nNnkVyadL._SL200_.jpg)](https://www.amazon.es/dp/B00RROAQM4/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B00RROAQM4/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B00RROAQM4/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

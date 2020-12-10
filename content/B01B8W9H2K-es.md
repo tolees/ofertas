@@ -18,12 +18,10 @@ prodname: 'Bosch Professional GSR 18 - Atornillador a batería  2 baterías x 2.
 country: 'es'
 ---
 
-Está [Bosch Professional GSR 18 - Atornillador a batería  2 baterías x 2.0 Ah  18 V  en L-BOXX ](https://www.amazon.es/dp/B01B8W9H2K/?tag=tolees-21) con 43.27 de descuento por 202.5 EUR (original: 356.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch Professional GSR 18 - Atornillador a batería  2 baterías x 2.0 Ah  18 V  en L-BOXX ](https://www.amazon.es/dp/B01B8W9H2K/?tag=tolees-21) a 202.5 EUR (original: 356.95 EUR) (43.27 %  de descuento) en el siguiente enlace!
 
 [![Bosch Professional GSR 18 - Atornillador](https://images-eu.ssl-images-amazon.com/images/I/41Ey851DKuL._SL200_.jpg)](https://www.amazon.es/dp/B01B8W9H2K/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B01B8W9H2K/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B01B8W9H2K/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

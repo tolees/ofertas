@@ -18,10 +18,12 @@ prodname: 'Davidoff Cool Water - Eau de toilette para mujer  30 ml'
 country: 'es'
 ---
 
-Ahora mismo tienes [Davidoff Cool Water - Eau de toilette para mujer  30 ml](https://www.amazon.es/dp/B000C1UDWW/?tag=tolees-21) a 19.22 EUR (original: 42.15 EUR) (54.40 %  de descuento) en el siguiente enlace!
+Está [Davidoff Cool Water - Eau de toilette para mujer  30 ml](https://www.amazon.es/dp/B000C1UDWW/?tag=tolees-21) con 54.40 de descuento por 19.22 EUR (original: 42.15 EUR) en el siguiente enlace!
 
 [![Davidoff Cool Water - Eau de toilette pa](https://images-eu.ssl-images-amazon.com/images/I/31wSLSphGeL._SL200_.jpg)](https://www.amazon.es/dp/B000C1UDWW/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B000C1UDWW/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B000C1UDWW/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

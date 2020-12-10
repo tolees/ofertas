@@ -18,10 +18,12 @@ prodname: 'Lacoste La Piquee 119 1 Cfa  Zapatillas para Mujer  Gris  Lt Gry/Wht 
 country: 'es'
 ---
 
-Ahora mismo tienes [Lacoste La Piquee 119 1 Cfa  Zapatillas para Mujer  Gris  Lt Gry/Wht 2q5   39 EU](https://www.amazon.es/dp/B07DJ31GY8/?tag=tolees-21) a 78.55 EUR (original: 119 EUR) (33.99 %  de descuento) en el siguiente enlace!
+Está [Lacoste La Piquee 119 1 Cfa  Zapatillas para Mujer  Gris  Lt Gry/Wht 2q5   39 EU](https://www.amazon.es/dp/B07DJ31GY8/?tag=tolees-21) con 33.99 de descuento por 78.55 EUR (original: 119 EUR) en el siguiente enlace!
 
 [![Lacoste La Piquee 119 1 Cfa  Zapatillas ](https://images-eu.ssl-images-amazon.com/images/I/41f3i%2BE5oyL._SL200_.jpg)](https://www.amazon.es/dp/B07DJ31GY8/?tag=tolees-21)
 
-[Visítala!!!](https://www.amazon.es/dp/B07DJ31GY8/?tag=tolees-21)
+[Ver la oferta!!](https://www.amazon.es/dp/B07DJ31GY8/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

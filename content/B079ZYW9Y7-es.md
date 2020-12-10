@@ -18,12 +18,10 @@ prodname: 'Nestlé Caja Roja Bombones de Chocolate - Bombones 2x800g'
 country: 'es'
 ---
 
-Está [Nestlé Caja Roja Bombones de Chocolate - Bombones 2x800g](https://www.amazon.es/dp/B079ZYW9Y7/?tag=tolees-21) con 35.92 de descuento por 23.99 EUR (original: 37.44 EUR) en el siguiente enlace!
+Ahora mismo tienes [Nestlé Caja Roja Bombones de Chocolate - Bombones 2x800g](https://www.amazon.es/dp/B079ZYW9Y7/?tag=tolees-21) a 23.99 EUR (original: 37.44 EUR) (35.92 %  de descuento) en el siguiente enlace!
 
 [![Nestlé Caja Roja Bombones de Chocolate -](https://m.media-amazon.com/images/I/41kca+8GP2L._SL200_.jpg)](https://www.amazon.es/dp/B079ZYW9Y7/?tag=tolees-21)
 
-[Ver la oferta!!](https://www.amazon.es/dp/B079ZYW9Y7/?tag=tolees-21)
+[Visítala!!!](https://www.amazon.es/dp/B079ZYW9Y7/?tag=tolees-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
