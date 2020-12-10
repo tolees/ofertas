@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.38 % en IKOHS Cafetera KAFFETA ESPRESS - Cafeter'
-date: 2020-12-09 15:06:22
+date: 2020-12-10 19:06:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/416bHTjvuTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416bHTjvuTL._SL200_.jpg' ]
 comments: true

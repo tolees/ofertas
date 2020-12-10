@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hauck Rapid 3 - silla de paseo de 3 rued al 29.44 % de descuento'
-date: 2020-12-09 19:08:34
+date: 2020-12-10 20:42:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/415vJzpBBWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415vJzpBBWL._SL200_.jpg' ]
 comments: true

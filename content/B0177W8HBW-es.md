@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Safety 1st Easy Close Metal Barrera de s al 33.33 % de descuento'
-date: 2020-12-09 17:31:32
+date: 2020-12-10 20:24:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/314MjX8c4HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/314MjX8c4HL._SL200_.jpg' ]
 comments: true

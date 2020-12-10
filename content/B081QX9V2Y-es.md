@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Razer DeathAdder V2 - Ratón para Juegos  al 37.50 % de descuento'
-date: 2020-12-08 18:48:56
+date: 2020-12-10 20:19:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31dDsw6QfdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31dDsw6QfdL._SL200_.jpg' ]
 comments: true

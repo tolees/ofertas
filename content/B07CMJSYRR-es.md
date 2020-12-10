@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei P20 Pro – Smartphone de 6 1"  Kir al 52.93 % de descuento'
-date: 2020-12-09 07:18:30
+date: 2020-12-10 20:33:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jdravShpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jdravShpL._SL200_.jpg' ]
 comments: true

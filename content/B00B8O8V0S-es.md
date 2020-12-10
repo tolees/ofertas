@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dolce Gusto Piccolo EDG201.S - Cafetera  al 33.72 % de descuento'
-date: 2020-12-09 20:21:21
+date: 2020-12-10 20:32:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41e18+FI1YL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41e18+FI1YL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'YONMIG Reloj Inteligente Mujer y Hombre  al 32.21 % de descuento'
-date: 2020-11-21 07:50:47
+date: 2020-12-10 20:10:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uxL8B8SWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uxL8B8SWL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lápiz Para Pantalla Táctil  Zspeed Lápiz al 31.74 % de descuento'
-date: 2020-12-09 11:07:28
+date: 2020-12-10 20:01:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/21srCxTtAML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21srCxTtAML._SL200_.jpg' ]
 comments: true

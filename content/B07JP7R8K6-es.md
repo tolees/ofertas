@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pioneer Club 7 Altavoz de Bluetooth  LED al 46.50 % de descuento'
-date: 2020-11-24 18:27:54
+date: 2020-12-10 20:12:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Y9qZQ+G7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Y9qZQ+G7L._SL200_.jpg' ]
 comments: true

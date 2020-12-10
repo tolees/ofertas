@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.01 % en Logitech MK120 Combo Teclado y Ratón con'
-date: 2020-12-09 13:21:13
+date: 2020-12-10 20:17:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wWSCOMj1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wWSCOMj1L._SL200_.jpg' ]
 comments: true

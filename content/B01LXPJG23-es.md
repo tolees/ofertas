@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en tado° Cabezal Termostático Inteligente d'
-date: 2020-12-05 21:40:13
+date: 2020-12-10 20:12:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/21jKcZYvo+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21jKcZYvo+L._SL200_.jpg' ]
 comments: true

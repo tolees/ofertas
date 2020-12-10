@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jacdna Knit Scarf Noos Bufa al 38.91 % de descuento'
-date: 2020-12-08 20:51:28
+date: 2020-12-10 20:41:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51j9hREYE+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51j9hREYE+L._SL200_.jpg' ]
 comments: true

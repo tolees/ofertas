@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ultratec Tostadora con dos ranuras  tost al 29.76 % de descuento'
-date: 2020-12-09 13:36:43
+date: 2020-12-10 20:08:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/4168n+lJcSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4168n+lJcSL._SL200_.jpg' ]
 comments: true

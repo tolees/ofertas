@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Instituto Español - Pieles Atópicas - Cr al 76.65 % de descuento'
-date: 2020-12-09 14:06:50
+date: 2020-12-10 20:28:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yzdPxkLPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yzdPxkLPL._SL200_.jpg' ]
 comments: true

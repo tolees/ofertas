@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.21 % en FAIRY Lavavajillas 1 Unidad  820 ml'
-date: 2020-12-01 11:36:05
+date: 2020-12-10 20:23:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41P3TFTj-yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41P3TFTj-yL._SL200_.jpg' ]
 comments: true

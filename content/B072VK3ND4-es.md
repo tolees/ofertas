@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Force Titanium 520 - Plancha de  al 35.90 % de descuento'
-date: 2020-12-07 15:30:19
+date: 2020-12-10 20:07:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IEWEHJszL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IEWEHJszL._SL200_.jpg' ]
 comments: true

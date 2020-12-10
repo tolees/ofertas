@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Adidas Kaiser 5 Team Botas de fútbol hom al 39.98 % de descuento'
-date: 2020-12-09 07:53:04
+title: 'Adidas Kaiser 5 Team Botas de fútbol hom al 29.99 % de descuento'
+date: 2020-12-10 20:14:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yCJHiV79L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yCJHiV79L._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: 'B000NGDBI4-es'
 description:
-actualPrice: 59.99 EUR
+actualPrice: 69.97 EUR
 currency: EUR
-price: 59.99
+price: 69.97
 comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Adidas Kaiser 5 Team Botas de fútbol hombre  Multicolor  Negro/Blanco  38 EU'
 country: 'es'
 ---
 
-Está [Adidas Kaiser 5 Team Botas de fútbol hombre  Multicolor  Negro/Blanco  38 EU](https://www.amazon.es/dp/B000NGDBI4/?tag=tolees-21) con 39.98 de descuento por 59.99 EUR (original: 99.95 EUR) en el siguiente enlace!
+Está [Adidas Kaiser 5 Team Botas de fútbol hombre  Multicolor  Negro/Blanco  38 EU](https://www.amazon.es/dp/B000NGDBI4/?tag=tolees-21) con 29.99 de descuento por 69.97 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Adidas Kaiser 5 Team Botas de fútbol hom](https://m.media-amazon.com/images/I/41yCJHiV79L._SL200_.jpg)](https://www.amazon.es/dp/B000NGDBI4/?tag=tolees-21)
 

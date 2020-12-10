@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.15 % en HyperX FURY Black HX426C16FB3/8 Memoria '
-date: 2020-12-07 03:30:49
+date: 2020-12-10 20:25:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31u9bWu-+aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31u9bWu-+aL._SL200_.jpg' ]
 comments: true

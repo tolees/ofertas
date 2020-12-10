@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG Galaxy Buds Live - Auriculares B al 33.33 % de descuento'
-date: 2020-11-27 09:51:35
+date: 2020-12-10 20:17:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/313DrFgpA0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313DrFgpA0L._SL200_.jpg' ]
 comments: true

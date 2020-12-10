@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G502 SE Hero  Ratón High Perfor al 44.55 % de descuento'
-date: 2020-12-05 02:16:40
+date: 2020-12-10 20:10:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nqwo1fmBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nqwo1fmBL._SL200_.jpg' ]
 comments: true

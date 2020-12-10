@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chicco - Calienta biberón de casa y viaj al 27.28 % de descuento'
-date: 2020-12-09 15:56:36
+date: 2020-12-10 20:20:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rltfA3SbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rltfA3SbL._SL200_.jpg' ]
 comments: true

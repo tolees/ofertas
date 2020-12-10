@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRA Prior - Juego de 2 Sartenes de Alumi al 40.46 % de descuento'
-date: 2020-12-09 16:11:27
+date: 2020-12-10 20:59:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/412TA96JZlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412TA96JZlL._SL200_.jpg' ]
 comments: true

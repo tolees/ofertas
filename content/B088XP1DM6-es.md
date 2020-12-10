@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'realme X3 Super Zoom  smartphone de 6.5" al 33.41 % de descuento'
-date: 2020-12-09 17:02:14
+date: 2020-12-10 20:24:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iBR7RWNBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iBR7RWNBL._SL200_.jpg' ]
 comments: true

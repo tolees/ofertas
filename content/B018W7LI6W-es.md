@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus Mycook Legend - Robot de Cocina p al 47.49 % de descuento'
-date: 2020-12-09 17:02:47
+date: 2020-12-10 21:00:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RznNI4NOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RznNI4NOL._SL200_.jpg' ]
 comments: true

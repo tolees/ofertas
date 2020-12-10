@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Fisiocrem Solugel - Gel de masaje para c al 49.44 % de descuento'
-date: 2020-12-08 23:03:35
+title: 'Fisiocrem Solugel - Gel de masaje para c al 47.04 % de descuento'
+date: 2020-12-10 20:26:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/4163bHSk4PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4163bHSk4PL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: 'B00C1W13GU-es'
 description:
-actualPrice: 9.49 EUR
+actualPrice: 9.94 EUR
 currency: EUR
-price: 9.49
+price: 9.94
 comparePrice: 18.77 EUR
 inStock: true
 prodname: 'Fisiocrem Solugel - Gel de masaje para cuello  hombros y espalda con Arnica  250 ml'
 country: 'es'
 ---
 
-Ahora mismo tienes [Fisiocrem Solugel - Gel de masaje para cuello  hombros y espalda con Arnica  250 ml](https://www.amazon.es/dp/B00C1W13GU/?tag=tolees-21) a 9.49 EUR (original: 18.77 EUR) (49.44 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Fisiocrem Solugel - Gel de masaje para cuello  hombros y espalda con Arnica  250 ml](https://www.amazon.es/dp/B00C1W13GU/?tag=tolees-21) a 9.94 EUR (original: 18.77 EUR) (47.04 %  de descuento) en el siguiente enlace!
 
 [![Fisiocrem Solugel - Gel de masaje para c](https://m.media-amazon.com/images/I/4163bHSk4PL._SL200_.jpg)](https://www.amazon.es/dp/B00C1W13GU/?tag=tolees-21)
 

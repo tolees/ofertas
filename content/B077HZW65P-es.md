@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Moussel Gel Líquido Classique con Aceite al 33.53 % de descuento'
-date: 2020-12-09 16:26:18
+date: 2020-12-10 20:08:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qITatNObL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qITatNObL._SL200_.jpg' ]
 comments: true

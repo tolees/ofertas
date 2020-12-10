@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'STANLEY 0-30-697 - Flexómetro Tylon  5 m al 38.05 % de descuento'
-date: 2020-11-18 19:31:38
+title: 'STANLEY 0-30-697 - Flexómetro Tylon  5 m al 44.56 % de descuento'
+date: 2020-12-10 20:02:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/414xw1BqGRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414xw1BqGRL._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: 'B000XJ02LU-es'
 description:
-actualPrice: 4.95 EUR
+actualPrice: 4.43 EUR
 currency: EUR
-price: 4.95
+price: 4.43
 comparePrice: 7.99 EUR
 inStock: true
 prodname: 'STANLEY 0-30-697 - Flexómetro Tylon  5 metros'
 country: 'es'
 ---
 
-Ahora mismo tienes [STANLEY 0-30-697 - Flexómetro Tylon  5 metros](https://www.amazon.es/dp/B000XJ02LU/?tag=tolees-21) a 4.95 EUR (original: 7.99 EUR) (38.05 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [STANLEY 0-30-697 - Flexómetro Tylon  5 metros](https://www.amazon.es/dp/B000XJ02LU/?tag=tolees-21) a 4.43 EUR (original: 7.99 EUR) (44.56 %  de descuento) en el siguiente enlace!
 
 [![STANLEY 0-30-697 - Flexómetro Tylon  5 m](https://m.media-amazon.com/images/I/414xw1BqGRL._SL200_.jpg)](https://www.amazon.es/dp/B000XJ02LU/?tag=tolees-21)
 
