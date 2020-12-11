@@ -26,9 +26,9 @@ Principales características:
 
 - [IP65 a prueba de agua y luz duradera] Coeficiente a prueba de agua IP65, la lámpara solar a prueba de agua profesional IP65 funciona muy brillante Incluso en días de lluvia puede iluminar su jardín, patio, garaje, entradas de automóviles, puertas delanteras, patios, paredes, etc.
 - [Modo de sensor de movimiento] Con el sensor PIR actualizado, las luces de Seguridad con energía solar detectan a las personas a una distancia de 10 a 16 pies. Cuando alguien venga, la luz se iluminará. Se apagará después de que alguien se vaya por 20-25 segundos.
+- [Inalámbrico y fácil de instalar] Sin cables complicados, puede usar el enchufe de pared y el tornillo suministrados para montar el dispositivo. Por favor, tenga en cuenta que la altura de instalación recomendada sería de 1.8-2.5m.
 - [Lámpara solar respetuosa con el medio ambiente 1200 mAh] La batería recargable de iones de litio de 1200 mAh permite que las luces solares se iluminen continuamente durante largos períodos de tiempo para satisfacer las necesidades diarias de iluminación. Mayor eficiencia solar hasta un 17% a través de silicio monocristalino. Los paneles solares funcionan durante el día para almacenar electricidad e iluminar el exterior para usted por la noche.
 - [Iluminación de gran angular de 120 °] Se actualizaron 42 potentes luces LED y una iluminación de gran angular de 150º, proporcionando una iluminación súper brillante para un área amplia. Más sol lo cargó, puede iluminar más tiempo. Nota: Si no hay buena luz solar durante varios días, es posible que la luz no se encienda durante la noche. Obtendrá energía si llega el día soleado y se enciende después de 8-10 horas de carga.
-- [Inalámbrico y fácil de instalar] Sin cables complicados, puede usar el enchufe de pared y el tornillo suministrados para montar el dispositivo. Por favor, tenga en cuenta que la altura de instalación recomendada sería de 1.8-2.5m.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07RXKGWWT/?tag=tolees-21)
 

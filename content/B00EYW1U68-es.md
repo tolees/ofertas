@@ -24,14 +24,14 @@ Tienes [TP-Link TL-WA855RE Amplificador Señal de WiFi Repetidor 300 Mbps Extens
 
 Características principales:
 
-- Soporta el modo AP con el que podrás crear un nuevo punto de acceso Wi-Fi
 - Potencia de transmisión: < 20 dBm (EIRP)
-- Aumenta la cobertura Wi-Fi existente para repartir conexiones inalámbricas y cableadas de manera rápida y fiable
-- Extensión de red super sencilla: dos clicks y listo para conectarse
-- Compatible: funciona con cualquier Router Wi-Fi
-- Temperatura de funcionamiento: 0°C~40°C (32°F~104°F)
-- Antenas externas para un conexión Wi-Fi más rápida y fiable
 - Extensión de Red Super Sencilla: Simplemente pulsa el botón “WPS” de tu router, y después pulsa el botón “Range Extender” del TL-WA855RE, y comienza a disfrutar de cobertura Wi-Fi en toda la casa
+- Temperatura de funcionamiento: 0°C~40°C (32°F~104°F)
+- Compatible: funciona con cualquier Router Wi-Fi
+- Extensión de red super sencilla: dos clicks y listo para conectarse
+- Aumenta la cobertura Wi-Fi existente para repartir conexiones inalámbricas y cableadas de manera rápida y fiable
+- Antenas externas para un conexión Wi-Fi más rápida y fiable
+- Soporta el modo AP con el que podrás crear un nuevo punto de acceso Wi-Fi
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00EYW1U68/?tag=tolees-21)
 

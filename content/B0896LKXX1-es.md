@@ -24,11 +24,11 @@ Tienes [Homedics Mascarillas Médicas Desechables – Pack 50 unidades - 3 Capas
 
 Características principales:
 
+- SE ADAPTA A TU CARA - Con el diseño del puente nasal y los pendientes, se adapta exactamente a tu cara para una protección duradera y cómoda
 - PROTECCIÓN ANTIBACTERIANA – La eficiencia de la filtración bacteriana (Bacterial Filtration Efficiency BFE) de las mascarillas HoMedics es superior a 99% y han pasados las pruebas y son cumplen los requisitos europeos
 - 3 CAPAS DE PROTECCIÓN – Capa interna: no tejido suave absorbe agua y sudor. Capa de filtro central: diseñada para filtrar bacterias. Capa hidrófoba externa: proporciona una barrera física para proteger al usuario de las gotas, la contaminación del aire…
-- SE ADAPTA A TU CARA - Con el diseño del puente nasal y los pendientes, se adapta exactamente a tu cara para una protección duradera y cómoda
-- PAQUETE DE 50 – Debido a la alta demanda, las mascarillas pueden llegar en cajas de fabricas
 - FILTRA LAS PARTICULAS – Estas mascarillas médicas desechables son una barrera física para proteger al usuario de las gotas, la contaminación del aire, el polvo, la suciedad, el humo y el polvo.
+- PAQUETE DE 50 – Debido a la alta demanda, las mascarillas pueden llegar en cajas de fabricas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0896LKXX1/?tag=tolees-21)
 
