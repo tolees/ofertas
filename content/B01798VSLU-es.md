@@ -26,8 +26,8 @@ Principales características:
 
 - Sin desgaste, sin problemas: bordes rodeados con costuras que protegen la superficie y evitan que se pele para la óptima durabilidad
 - Exactitud y precisión: optimizada para ratones ópticos y láser para juegos
-- Control superior: superficie tejida pensada para una precisión extrema y un rastreo de baja fricción
 - Sin deslizamiento: la base de caucho antideslizante la mantiene fija en su sitio
+- Control superior: superficie tejida pensada para una precisión extrema y un rastreo de baja fricción
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01798VSLU/?tag=tolees-21)
 

@@ -26,8 +26,8 @@ Principales características:
 
 - Brazalete de malla de acero inoxidable negro - Cierre deslizante
 - Esfera negra con índices en oro rosa - Movimiento de 3 agujas con fecha - Agujas en color oro rosa - Cristal mineral
-- Presentado en estuche SKAGEN
 - Reloj de hombre SKAGEN - Caja redonda de acero inoxidable (diám. 40 mm) con acabado mate en color oro rosa - 5 ATM de resistencia a la presión del agua
+- Presentado en estuche SKAGEN
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01EHC6HDK/?tag=tolees-21)
 

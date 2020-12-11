@@ -24,8 +24,8 @@ Tienes [HUAWEI Watch GT 2 - Smartwatch con Caja de 42 mm  hasta 1 Semana de Bate
 
 Características principales:
 
-- No es un dispositivo médico ni pretende diagnosticar, tratar, curar o prevenir ninguna enfermedad
 - 15 modos de deporte para todos los niveles preinstalados en el reloj; compatible con los sistemas de posicionamiento GPS y GLONASS
+- No es un dispositivo médico ni pretende diagnosticar, tratar, curar o prevenir ninguna enfermedad
 - HUAWEI WATCH GT 2 (42 mm) con pantalla curva 3D y cuerpo fino de 9.4 mm incorpora un display de 1.2 pulgadas AMOLED con una tasa de respuesta rápida y precisa
 - La saturación de oxígeno en la sangre se proporciona como una estimación calculada en función de diferentes factores en combinación con los datos de Huawei Health App
 - Kirin A1, el primer procesador desarrollado en su totalidad por HUAWEI, ofrece un alto rendimiento y un bajo consumo de energía, hasta una semana de batería
