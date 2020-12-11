@@ -24,11 +24,11 @@ Tienes [Rimmel London Magnifeyes Palette Blush Edition Paleta de Sombras Tono 2 
 
 Características principales:
 
+- 12 sombras complementarias perfectas para hacer contouring
+- Aplicador duo para crear múltiples looks para un acabado preciso
 - Color intenso para todos los tonos de piel
 - Todo en uno, sombra de ojos, delineador y iluminador
 - Perfecto para esculpir, sombrear y definir
-- 12 sombras complementarias perfectas para hacer contouring
-- Aplicador duo para crear múltiples looks para un acabado preciso
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073WZ2BDD/?tag=tolees-21)
 

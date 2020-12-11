@@ -24,11 +24,11 @@ Ahora mismo tienes [John Wick Hex](https://www.amazon.es/dp/B08L5ZK1WM/?tag=tole
 
 Características:
 
-- Estrategia de línea temporal única: con una combinación exclusiva de combate estratégico basado en el impulso, John Wick Hex refleja la sensación del combate táctico propio de las películas y difumina la línea entre los videojuegos de estrategia y de acción.
 - Reparto de voces estelares: la historia cobra vida gracias a la voz de actores de primera nivel como Ian McShane y Lance Reddick, que repiten en los emblemáticos papeles de las películas, y la auténtica leyenda del doblaje Troy Baker.
-- Elaborado sistema de combate: Desbloquea nuevas armas, opciones de vestimenta y ubicaciones. Cada arma cambia las tácticas que debes utilizar y tu forma de jugar.
-- Nueva trama original: Disfruta de una nueva trama original ambientada antes de los eventos de las películas, en la que John se embarca en una misión desesperada para rescatar a Winston y Charon de un nuevo y peligroso adversario.
 - Música electrizante: John Wick Hex complementa el estilo de las películas con un diseño artístico de tipo “graphic noir” único y una partitura original del reconocido compositor Austin Wintory.
+- Nueva trama original: Disfruta de una nueva trama original ambientada antes de los eventos de las películas, en la que John se embarca en una misión desesperada para rescatar a Winston y Charon de un nuevo y peligroso adversario.
+- Estrategia de línea temporal única: con una combinación exclusiva de combate estratégico basado en el impulso, John Wick Hex refleja la sensación del combate táctico propio de las películas y difumina la línea entre los videojuegos de estrategia y de acción.
+- Elaborado sistema de combate: Desbloquea nuevas armas, opciones de vestimenta y ubicaciones. Cada arma cambia las tácticas que debes utilizar y tu forma de jugar.
 
 [Visítala!!!](https://www.amazon.es/dp/B08L5ZK1WM/?tag=tolees-21)
 

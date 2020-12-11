@@ -26,9 +26,9 @@ Principales características:
 
 - Con función de Control Parental
 - Con función de reproducción de audio Dolby Digital
+- Con puerto USB 2.0 para conectar la cámara digital, reproductor de MP3 o una memoria USB
 - Formatos de audio compatibles: MP3, WMA
 - Reproductor de DVD
-- Con puerto USB 2.0 para conectar la cámara digital, reproductor de MP3 o una memoria USB
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00FW7ATEI/?tag=tolees-21)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beurer EM49 - Electroestimulador digital al 32.47 % de descuento'
-date: 2020-12-10 11:50:04
+date: 2020-12-11 18:10:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41F2qEt6phL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41F2qEt6phL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,19 @@ country: 'es'
 Ahora mismo tienes [Beurer EM49 - Electroestimulador digital  para aliviar el dolor muscular y el fortalecimiento muscular  masaje  EMS  TENS  pantalla LCD azul  2 Canales  4 electrodos autoadhesivos  color blanco](https://www.amazon.es/dp/B01KUJ1VMG/?tag=tolees-21) a 47.2 EUR (original: 69.9 EUR) (32.47 %  de descuento) en el siguiente enlace!
 
 [![Beurer EM49 - Electroestimulador digital](https://m.media-amazon.com/images/I/41F2qEt6phL._SL200_.jpg)](https://www.amazon.es/dp/B01KUJ1VMG/?tag=tolees-21)
+
+Características:
+
+- Desconexión de seguridad
+- 2 canales regulables por separado
+- 4 electrodos de gel autoadhesivos incluidos (45 x 45 mm)
+- 64 aplicaciones preprogramadas
+- Tratamiento del dolor (TENS); Estimulación muscular (EMS)
+- Indicación de posicionamiento de los electrodos
+- Doctors-Function para conseguir la adaptación ideal a su programa de tratamiento personalizado
+- Pantalla LCD inversa con retroiluminación azul
+- 6 programas individualizables: frecuencia, ancho del pulso, tiempo de encendido/apagado programables
+- Intensidad ajustable
 
 [Visítala!!!](https://www.amazon.es/dp/B01KUJ1VMG/?tag=tolees-21)
 
