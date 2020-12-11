@@ -25,9 +25,9 @@ Ahora mismo tienes [Sony WI-C200 - Auriculares in ear inalámbricos más ligeros
 Características:
 
 - Wear all day, keep on listening
+- Easy hands-free calling
 - Bluetooth
 - Stream quality sound all day
-- Easy hands-free calling
 - Easy operation with buttons
 
 [Visítala!!!](https://www.amazon.es/dp/B07QYWD718/?tag=tolees-21)
