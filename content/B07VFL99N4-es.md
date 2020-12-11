@@ -24,8 +24,8 @@ Ahora mismo tienes [Clarks Un Trail Form  Derbys Derby  Braun Mahogany Leather M
 
 Características:
 
-- Material de la suela: goma.
 - Color exacto: piedra Nubuck
+- Material de la suela: goma.
 
 [Visítala!!!](https://www.amazon.es/dp/B07VFL99N4/?tag=tolees-21)
 

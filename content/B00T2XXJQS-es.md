@@ -24,11 +24,11 @@ Ahora mismo tienes [Remington BHT250 Delicates - Afeitadora Corporal  Cuchillas 
 
 Características:
 
-- Recortadora corporal con cuchilla TST de acero inoxidable: corta a 0.2 milímetros y consigue ese aspecto afeitado, pero sin irritación
 - Incluye 3 peines fijos (2, 4 y 6 milímetros) y gancho para colgar
+- Recortadora corporal con cuchilla TST de acero inoxidable: corta a 0.2 milímetros y consigue ese aspecto afeitado, pero sin irritación
 - Inalámbrico: hasta 60 minutos de autonomía y tiempo de carga completa de 4 horas; batería de Litio y LED indicador de carga
-- Resistente al agua y puerto de lavado que facilita la limpieza; diseño ligero y estilizado que facilita el manejo
 - Cómoda cuchilla superior: minimiza cortes y rasguños
+- Resistente al agua y puerto de lavado que facilita la limpieza; diseño ligero y estilizado que facilita el manejo
 
 [Visítala!!!](https://www.amazon.es/dp/B00T2XXJQS/?tag=tolees-21)
 

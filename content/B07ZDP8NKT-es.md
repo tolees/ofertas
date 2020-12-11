@@ -24,12 +24,12 @@ Tienes [Maxi-Cosi CabrioFix Silla coche bebé  silla de auto infantil reclinable
 
 Características principales:
 
-- Asa de transporte ergonómica, capucha plegable integrada con protección UV50+ y guías para mantener el arnés abierto mientras el niño se sienta
-- Se instala fácilmente en el coche en la dirección inversa usando el cinturón de seguridad
-- En este asiento, Maxi-Cosi prevé el uso del dispositivo antiabandono Maxi-Cosi e-Safety para niños de 0 a 4 años, probado y aprobado de acuerdo con la normativa de la CE
-- Silla de coche para bebés desde el nacimiento hasta aproximadamente los 12 meses (13 kg) con almohadilla de reposacabezas y almohada reductora que se puede quitar cuando el bebé crezca
-- La funda del asiento se puede quitar sin necesidad de desmontar nada y se lava a máquina a 30 grados, con la posibilidad de comprar una funda de verano (se vende por separado)
 - Silla de auto para bebés equipada con protectores laterales SPS para una protección óptima en caso de impacto lateral
+- Asa de transporte ergonómica, capucha plegable integrada con protección UV50+ y guías para mantener el arnés abierto mientras el niño se sienta
+- Silla de coche para bebés desde el nacimiento hasta aproximadamente los 12 meses (13 kg) con almohadilla de reposacabezas y almohada reductora que se puede quitar cuando el bebé crezca
+- Se instala fácilmente en el coche en la dirección inversa usando el cinturón de seguridad
+- La funda del asiento se puede quitar sin necesidad de desmontar nada y se lava a máquina a 30 grados, con la posibilidad de comprar una funda de verano (se vende por separado)
+- En este asiento, Maxi-Cosi prevé el uso del dispositivo antiabandono Maxi-Cosi e-Safety para niños de 0 a 4 años, probado y aprobado de acuerdo con la normativa de la CE
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07ZDP8NKT/?tag=tolees-21)
 

@@ -24,10 +24,10 @@ Está [Kipling Gabbie S  Bolsos Bandolera para Mujer  Negro  Lively Black   29x2
 
 Principales características:
 
-- Material exterior: Sintético
-- Cierre: Cremallera
 - Composición: 100% Poliamida
+- Material exterior: Sintético
 - Revestimiento: Sintético
+- Cierre: Cremallera
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BHBW78C/?tag=tolees-21)
 

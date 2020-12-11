@@ -24,8 +24,8 @@ Ahora mismo tienes [Nesquik Noche - Cacao Soluble Instantáneo - Pack de 2 x 400
 
 Características:
 
-- Instantáneo
 - Sin gluten
+- Instantáneo
 - Contiene melisa, tila y manzanilla
 
 [Visítala!!!](https://www.amazon.es/dp/B01LY58VVK/?tag=tolees-21)
