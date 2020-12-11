@@ -27,8 +27,8 @@ Principales características:
 - Altura del tacón: 1.5 pulgadas
 - Material exterior: Espuma
 - Cierre: Sin cordones
-- Material de la suela: Goma
 - Revestimiento: Sintético
+- Material de la suela: Goma
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0044WVRT8/?tag=tolees-21)
 

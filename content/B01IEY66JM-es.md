@@ -24,11 +24,11 @@ Está [Hrph Ordenador portátil USB 3.0 Macho a USB 3.1 USB3.1 Tipo C Datos Hemb
 
 Principales características:
 
-- USB 3.1 Tipo de conector hembra de C USB3.0 un adaptador de datos de sexo masculino, que ayuda al usuario a obtener un USB-C Puerto
-- conector de tipo C es el nuevo diseÃ±o para USB 3.1
 - a travÃs del puerto USB 3.0, actualice el ordenador portÃ¡til, de escritorio, etc el dispositivo.
-- DiseÃ±o reversible para conector tipo C
+- conector de tipo C es el nuevo diseÃ±o para USB 3.1
 - Reversible de la orientaciÃ³n y direcciÃ³n de enchufe de cable
+- DiseÃ±o reversible para conector tipo C
+- USB 3.1 Tipo de conector hembra de C USB3.0 un adaptador de datos de sexo masculino, que ayuda al usuario a obtener un USB-C Puerto
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01IEY66JM/?tag=tolees-21)
 

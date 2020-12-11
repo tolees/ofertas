@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.89 % en Sony SRSXB01L - Altavoz inalámbrico port'
-date: 2020-12-06 11:25:36
+date: 2020-12-11 00:13:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51o+SVc+A2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51o+SVc+A2L._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,13 @@ country: 'es'
 Tienes [Sony SRSXB01L - Altavoz inalámbrico portátil  Compacto  Bluetooth  Extra Bass  6h de batería  Resistente al Agua IPX5  Viene con Correa  Color Azul](https://www.amazon.es/dp/B07GT8CMHP/?tag=tolees-21) con un 42.89 % de descuento con precio de oferta de 19.99 EUR (original: 35.0 EUR) en el siguiente enlace!
 
 [![Sony SRSXB01L - Altavoz inalámbrico port](https://m.media-amazon.com/images/I/51o+SVc+A2L._SL200_.jpg)](https://www.amazon.es/dp/B07GT8CMHP/?tag=tolees-21)
+
+Características principales:
+
+- Resistente al agua IPX5 para un uso sin preocupaciones
+- Diseño compacto y portátil
+- Extra Bass para un sonido rotundo y profundo
+- Hasta 6 horas de duración de la batería
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07GT8CMHP/?tag=tolees-21)
 
