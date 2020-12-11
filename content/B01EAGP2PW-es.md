@@ -24,9 +24,9 @@ Tienes [Flower 40512 40512-Conservante Flor Cortada liquido  250 ml  No Aplica  
 
 Características principales:
 
-- Conservante para ramos y flores cortadas
 - 250ml
 - Prolonga el frescor de las flores
+- Conservante para ramos y flores cortadas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01EAGP2PW/?tag=tolees-21)
 

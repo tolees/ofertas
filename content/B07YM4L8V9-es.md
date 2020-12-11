@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joker [DVD] al 31.85 % de descuento'
-date: 2020-12-10 04:38:39
+date: 2020-12-11 17:47:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Zay40tmoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Zay40tmoL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,9 @@ country: 'es'
 Está [Joker [DVD]](https://www.amazon.es/dp/B07YM4L8V9/?tag=tolees-21) con 31.85 de descuento por 11.15 EUR (original: 16.36 EUR) en el siguiente enlace!
 
 [![Joker [DVD]](https://m.media-amazon.com/images/I/51Zay40tmoL._SL200_.jpg)](https://www.amazon.es/dp/B07YM4L8V9/?tag=tolees-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07YM4L8V9/?tag=tolees-21)
 

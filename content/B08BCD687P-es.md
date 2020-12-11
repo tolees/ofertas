@@ -24,8 +24,8 @@ Ahora mismo tienes [Lijadora Eléctrica Morpilot Lijadora Compacta para Madera 1
 
 Características:
 
-- 【El paquete incluye】 1 x lijadora Eléctrica, 1 x caja de polvo, 1 x manual de usuario, 18 x papel de lija estándar (6x P80, 6x P180 y 6x P240) Con el papel de lija Velcro puede cambiar el papel de lija rápida y fácilmente.
 - 【Fácil de operar】Esta lijadora puede manejarse con una sola mano, es muy apreciada por los clientes y considerada un colaborador indispensable a la hora de lijar la superficie en el hogar.
+- 【El paquete incluye】 1 x lijadora Eléctrica, 1 x caja de polvo, 1 x manual de usuario, 18 x papel de lija estándar (6x P80, 6x P180 y 6x P240) Con el papel de lija Velcro puede cambiar el papel de lija rápida y fácilmente.
 - 【130W Lijadora Eléctrica】 La lijadora triangular Morpilot trabaja con una potencia de 130W y una velocidad de 14000RPM. Se puede utilizar de forma más agresiva para más material, reduciendo así el tiempo de trabajo con mejor calidad.
 - 【Baja vibración y ruido】 Su asa de goma es ergonómica y puede reducir efectivamente las vibraciones durante el trabajo, prevenir el entumecimiento de las manos y reducir la fatiga causada por el uso prolongado.
 - 【Potente Sistema de Recolección de Polvo】 La alta potencia de succión facilitan la limpieza. La bolsa de polvo es más conveniente, fácil para lavar. Lo que reduce el polvo y mantiene limpia el área de trabajo.
