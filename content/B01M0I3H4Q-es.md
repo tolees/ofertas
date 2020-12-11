@@ -24,11 +24,11 @@ Ahora mismo tienes [SanDisk Extreme - Tarjeta de memoria SDXC  64 GB  velocidad 
 
 Características:
 
-- Dispone del estándar UHS Speed Class 3 (U3), que le permitirá grabar vídeo Full HD y 4K UHD
-- Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperatura, al agua, a golpes y a rayos X
-- Disponible en capacidades que van de 16 GB a 256 GB para grabar vídeos más largos y hacer sesiones fotográficas ininterrumpidas
 - Velocidades de escritura de hasta 40 MB/s para un rendimiento rápido de disparo a disparo y hasta 90 MB/s para una transferencia más rápida
+- Fabricada para ser usada en condiciones difíciles y sometida a ensayos en dichas condiciones: resistente a temperatura, al agua, a golpes y a rayos X
+- Dispone del estándar UHS Speed Class 3 (U3), que le permitirá grabar vídeo Full HD y 4K UHD
 - El estándar UHS Video Speed Class 30 (V30) significa que su tarjeta está lista para los nuevos avances en materia de realidad virtual y grabación de vídeo en 360°
+- Disponible en capacidades que van de 16 GB a 256 GB para grabar vídeos más largos y hacer sesiones fotográficas ininterrumpidas
 
 [Visítala!!!](https://www.amazon.es/dp/B01M0I3H4Q/?tag=tolees-21)
 

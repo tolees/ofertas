@@ -24,11 +24,11 @@ Está [Paladone PP4140PS  Lámpara "PlayStation"  Multicolor](https://www.amazon
 
 Principales características:
 
+- Medidas aprox. 30cm (w) x 5.6cm (d) x 9.5cm (h)
 - Cuenta con 3 modos; iluminación estándar, fase de color y música reactiva
 - Requiere 3 x pilas aaa (no incluidas)
-- El embalaje puede variar de cualquier imagen mostrada
 - Mercancía 100% con licencia oficial
-- Medidas aprox. 30cm (w) x 5.6cm (d) x 9.5cm (h)
+- El embalaje puede variar de cualquier imagen mostrada
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079CBP6P9/?tag=tolees-21)
 

@@ -24,12 +24,12 @@ Está [Panasonic KX-TG1612 - Teléfono Fijo inalámbrico Dúo  LCD  identificado
 
 Principales características:
 
-- Registro de llamada: 50 artículos (número y nombres)
 - Altavoz: no
 - Identificación de llamada audible: no
-- Tecla de navegación: sí
 - Jack de auriculares: no
+- Tecla de navegación: sí
 - Identificador de llamada: compatibilidad con identificador de llamada: sí
+- Registro de llamada: 50 artículos (número y nombres)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B005IZGMG8/?tag=tolees-21)
 
