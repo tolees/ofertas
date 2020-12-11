@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kipling - Fundamental Nc  Mochilas Mujer al 60.41 % de descuento'
-date: 2020-12-10 10:32:42
+date: 2020-12-11 13:17:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CyoO3IieL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CyoO3IieL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,12 @@ country: 'es'
 Está [Kipling - Fundamental Nc  Mochilas Mujer  Negro  Lively Black   16.5x42x42 cm  B x H T ](https://www.amazon.es/dp/B07BH9T87T/?tag=tolees-21) con 60.41 de descuento por 29.65 EUR (original: 74.9 EUR) en el siguiente enlace!
 
 [![Kipling - Fundamental Nc  Mochilas Mujer](https://m.media-amazon.com/images/I/41CyoO3IieL._SL200_.jpg)](https://www.amazon.es/dp/B07BH9T87T/?tag=tolees-21)
+
+Principales características:
+
+- Material exterior: Sintético
+- Composición: Sintético
+- Cierre: Cordón
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07BH9T87T/?tag=tolees-21)
 

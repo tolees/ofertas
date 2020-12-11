@@ -24,11 +24,11 @@ Está [Navaja Suiza Morpilot Pedernal Navaja Multifuncional con Encendedor de Fu
 
 Principales características:
 
-- 🍁【Material Robusto y Diseño】Cada herramienta es fabricada de aceroinoxidable que hace la navaja multiuso más sólido y robusto yevitar la oxidacióne eficaz. Además garantiza y prolonga lavida de uso. El diseño de color negro y rojo es muy elegante y clásico.
 - 🍁【Muchas Aplicaciones】Esta navaja de suiza con arrancador de fuego puede usar enlos siguientes ámbitos: campings, ocio al aire libre, supervivencia, ejército, caza, exploración, turismo de aventura, etc
 - 🍁【LO QUE OBTENDRÁ】1x Morpilot Navaja Suiza, 1x Pedernal, 1x Manuel de Instrucciones, (Si tiene algún problema con el producto, puede contactar a nuestro equipo de servicio en cualquier momento.)
-- 🍁【Pedernal Impermeable y Fácil de Usar】Elarrancador de fuego de morpilot puede funcionar incluso con humedad, lluvia,frío, en las cimas de montañas con aire ligero y con viento. Además, tiene unabrújula y silbato para usar enemergencias. Es la herramienta ideal para supervivencia.
 - 🍁【Navaja Multiuso15 en 1】Diseño de 15 en 1 para satisfacer las diferentes necesidades. La Morpilot navaja suiza con Abrebotellas, Abrelatas, Sacacorchos, Llavero, Navaja, Sacabocados decuero, Aguja, Sierra, Tijeras, Destornillador Ranurado, etc.
+- 🍁【Pedernal Impermeable y Fácil de Usar】Elarrancador de fuego de morpilot puede funcionar incluso con humedad, lluvia,frío, en las cimas de montañas con aire ligero y con viento. Además, tiene unabrújula y silbato para usar enemergencias. Es la herramienta ideal para supervivencia.
+- 🍁【Material Robusto y Diseño】Cada herramienta es fabricada de aceroinoxidable que hace la navaja multiuso más sólido y robusto yevitar la oxidacióne eficaz. Además garantiza y prolonga lavida de uso. El diseño de color negro y rojo es muy elegante y clásico.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07DLTW18N/?tag=tolees-21)
 

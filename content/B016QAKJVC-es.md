@@ -25,8 +25,8 @@ Está [adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Negro/Bla
 Principales características:
 
 - Cordón elástico en la cintura.
-- El tejido Climalite elimina el sudor de la piel.
 - Marca Adidas
+- El tejido Climalite elimina el sudor de la piel.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016QAKJVC/?tag=tolees-21)
 

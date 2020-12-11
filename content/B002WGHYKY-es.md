@@ -24,8 +24,8 @@ Ahora mismo tienes [Superga 2750 COTU Classic  Zapatillas  Negro S  35 EU](https
 
 Características:
 
-- Fully breathablecotton
 - Vulcanised gum sole
+- Fully breathablecotton
 - Superga tab on side and heel
 - Superga embossed eyelets
 

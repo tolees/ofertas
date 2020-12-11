@@ -24,10 +24,10 @@ Tienes [Superdry Orange Label Vntge Emb S/S tee Camiseta  Azul  Eclipse Navy 98T
 
 Características principales:
 
-- Pequeño logo estampado en el pecho
+- Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
 - Tiene un tejido ligero y suave
 - Adecuada para el uso diario
-- Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
+- Pequeño logo estampado en el pecho
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07FDJ68GP/?tag=tolees-21)
 
