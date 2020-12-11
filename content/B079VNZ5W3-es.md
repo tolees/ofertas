@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 59.33 % en Black Panther [Blu-ray]'
-date: 2020-12-10 22:31:18
+date: 2020-12-11 22:56:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/516tqmkMa2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516tqmkMa2L._SL200_.jpg' ]
 comments: true

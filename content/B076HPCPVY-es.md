@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Regista 18 - Pantalónes de fútbol al 28.71 % de descuento'
-date: 2020-12-10 22:34:13
+date: 2020-12-11 22:57:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hzqiBztfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hzqiBztfL._SL200_.jpg' ]
 comments: true
@@ -24,10 +24,10 @@ Está [Adidas Regista 18 - Pantalónes de fútbol para Hombre  Negro  XL](https:
 
 Principales características:
 
-- Prácticos puños con cremallera
-- Cintura elástica con cordón
 - Hecho de tela Climacool transpirable que te mantiene fresco y seco
+- Prácticos puños con cremallera
 - Bolsillos ocultos en las costuras laterales
+- Cintura elástica con cordón
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076HPCPVY/?tag=tolees-21)
 

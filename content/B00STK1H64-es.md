@@ -24,11 +24,11 @@ Ahora mismo tienes [Lotus Reloj Análogo clásico para niñas de Cuarzo con Corr
 
 Características:
 
-- Caja: acero inoxidable plateado.
-- Diámetro de la caja: 23 mm.
-- Esfera: plata, con números arábigos rosados y manecillas plateadas.
 - Resistencia al agua: 5 bares.
+- Esfera: plata, con números arábigos rosados y manecillas plateadas.
+- Diámetro de la caja: 23 mm.
 - Pulsera: piel blanca y rosa.
+- Caja: acero inoxidable plateado.
 
 [Visítala!!!](https://www.amazon.es/dp/B00STK1H64/?tag=tolees-21)
 

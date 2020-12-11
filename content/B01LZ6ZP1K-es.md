@@ -26,9 +26,9 @@ Características:
 
 - Fácil de limpiar. Apto para lavavajillas.
 - Vaso extraíble de 500ml con filtro para la pulpa. Más rápido, sencillo y limpio que los exprimidores convencionales
-- Incluye un cortador de cítricos en la tapa. Corte y exprimido de dos mitades con un solo aplique de presión.
-- Turbo-exprimidor de 90 W con doble cabezal. Exprime dos mitades de naranja a la vez.
 - Tiene ventosas para aportar estabilidad y un espacio para guardar el cable.
+- Turbo-exprimidor de 90 W con doble cabezal. Exprime dos mitades de naranja a la vez.
+- Incluye un cortador de cítricos en la tapa. Corte y exprimido de dos mitades con un solo aplique de presión.
 
 [Visítala!!!](https://www.amazon.es/dp/B01LZ6ZP1K/?tag=tolees-21)
 

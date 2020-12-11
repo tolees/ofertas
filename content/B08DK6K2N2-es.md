@@ -25,9 +25,9 @@ Tienes [Pack de 3 Mascarillas Homologadas de Tela Reutilizable Negras](https://w
 Características principales:
 
 - 100% FABRICADAS EN ESPAÑA: Mascarillas de fabricación 100% española.
+- Este producto no es un producto sanitario en el sentido de la Directiva 93/42 o del Reglamento UE/2017/745 ni un equipo de protección individual en el sentido del Reglamento UE/2016/425. La mascarilla higiénica no exime al usuario de la aplicación de gestos barrera complementados por las medidas de distanciamiento social, esenciales conforme a las indicaciones del Ministerio de Sanidad del Gobierno de España.
 - LAVABLE hasta 40 lavados: Mantenimiento y duración: Esta mascarilla es reutilizable y lavable a 60º - 40 ciclos de lavado con el detergente habitual y preferiblemente separada de la ropa limpia. Dejarla secar al aire durante 2 h.
 - MASCARILLA REUTILIZABLE: HOMOLOGADA según norma UNE 0065/2020. Confeccionada con doble capa de tejido homologado según la norma UNE-0065/2020. No precisa de filtro. Goma elástica CON REGULADOR y ajustador interior no visible para la nariz.
-- Este producto no es un producto sanitario en el sentido de la Directiva 93/42 o del Reglamento UE/2017/745 ni un equipo de protección individual en el sentido del Reglamento UE/2016/425. La mascarilla higiénica no exime al usuario de la aplicación de gestos barrera complementados por las medidas de distanciamiento social, esenciales conforme a las indicaciones del Ministerio de Sanidad del Gobierno de España.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B08DK6K2N2/?tag=tolees-21)
 

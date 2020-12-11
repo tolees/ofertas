@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.91 % en Columbia Woodburn II Chukka Waterproof O'
-date: 2020-12-10 22:08:06
+date: 2020-12-11 22:39:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41I+MroBtvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41I+MroBtvL._SL200_.jpg' ]
 comments: true
@@ -24,14 +24,14 @@ Tienes [Columbia Woodburn II Chukka Waterproof Omni-Heat  Zapatos Hombre  Marró
 
 Características principales:
 
-- Altura del tacón: 1 centímetros
-- Cierre: Cordones
-- Material exterior: Cuero
-- Composición: Cuero
-- Anchura del zapato: Normal
 - Revestimiento: Sintético
-- Tipo de tacón: Plano
+- Composición: Cuero
+- Material exterior: Cuero
+- Cierre: Cordones
+- Altura del tacón: 1 centímetros
+- Anchura del zapato: Normal
 - Material de la suela: Caucho
+- Tipo de tacón: Plano
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GUXJKWA/?tag=tolees-21)
 
