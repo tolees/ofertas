@@ -24,11 +24,11 @@ Tienes [Alfombrilla Gaming Ozone Ground Level L - Diseño Gamer - Tamaño Grande
 
 Características principales:
 
-- 3 TIPOS DE TAMAÑOS: Puedes encontrar la alfombrilla que mejor se adapte a tu escritorio y estilo de juego. Desde una alfombrilla pequeña tamaño S, una alfombrilla intermedia (M) , hasta una alfombrilla grande (L).
-- DISEÑO GAMER: Ground Level es una serie de alfombrillas diseñada especificamente para los e-sports. Esta alfombrilla de raton gaming dispone de una superficie de textura suave, perfecta para gran velocidad de deslizamiento, adecuada para reducir el ruido y proporcionar un alto confort.
 - MATERIALES AVANZADOS: Gracias a sus materiales avanzados la Ozone Groun permanece sujera a la mesa y asegura el máximo agarre durante el juego, así como una gran comodidad tanto para la mano como la muñeca.
+- DISEÑO GAMER: Ground Level es una serie de alfombrillas diseñada especificamente para los e-sports. Esta alfombrilla de raton gaming dispone de una superficie de textura suave, perfecta para gran velocidad de deslizamiento, adecuada para reducir el ruido y proporcionar un alto confort.
 - MAXIMA PRECISIÓN: Juegues con ratón óptico o láser con nuestro mouse pad, la superficie de la serie de Groun Level ha sido diseñada y fabricada para ofrecer la máxima precisión con cualquier ratón.
 - AGARRE PERFECTO: Nuestra alfombrilla gaming Ground Level está fabricada con espuma de goma, lo que asegura el mejor agarre posible en cualquier situación.
+- 3 TIPOS DE TAMAÑOS: Puedes encontrar la alfombrilla que mejor se adapte a tu escritorio y estilo de juego. Desde una alfombrilla pequeña tamaño S, una alfombrilla intermedia (M) , hasta una alfombrilla grande (L).
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00YWY7OG8/?tag=tolees-21)
 

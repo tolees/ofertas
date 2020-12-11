@@ -24,9 +24,9 @@ Tienes [Noble Collection- Réplica Harry Potter Varita Hermione Granger con luz 
 
 Características principales:
 
-- Requiere dos pilas AAA
-- Cuando se agita de nuevo, se apaga
 - Cuando se agita la varita, la luz se enciende
+- Cuando se agita de nuevo, se apaga
+- Requiere dos pilas AAA
 - La varita mide 14 pulgadas de largo
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000UECV3U/?tag=tolees-21)

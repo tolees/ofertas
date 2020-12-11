@@ -24,11 +24,11 @@ Ahora mismo tienes [Emporio Armani Reloj Cronógrafo para Hombre de Cuarzo con C
 
 Características:
 
-- Correa de piel negra
 - Presentación en una caja de regalo Emporio Armani
-- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
-- Caja de 46 mm, ancho de la correa de 22 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con cronógrafo
 - Caja redonda de acero inoxidable en tonos dorados, con una esfera negra
+- Caja de 46 mm, ancho de la correa de 22 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con cronógrafo
+- Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
+- Correa de piel negra
 
 [Visítala!!!](https://www.amazon.es/dp/B017Q3WGJ6/?tag=tolees-21)
 

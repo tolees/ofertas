@@ -24,11 +24,11 @@ Ahora mismo tienes [Teka MWE 225 G Microondas con grill  1050 W  Otro  Blanco](h
 
 Características:
 
-- 5 niveles de potencia
-- 700w micro 1000w grill
-- Interior pintado
 - Grill simultaneo
+- 5 niveles de potencia
+- Interior pintado
 - Electrónico
+- 700w micro 1000w grill
 
 [Visítala!!!](https://www.amazon.es/dp/B011EOWRCO/?tag=tolees-21)
 

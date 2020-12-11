@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.85 % en Amiibo - Link / Link s Awakening [Colecc'
-date: 2020-11-27 07:56:33
+date: 2020-12-11 19:06:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+hYVRCWBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+hYVRCWBL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,12 @@ country: 'es'
 Tienes [Amiibo - Link / Link s Awakening [Colección Zelda]](https://www.amazon.es/dp/B07TB1KW7S/?tag=tolees-21) con un 37.85 % de descuento con precio de oferta de 12.99 EUR (original: 20.9 EUR) en el siguiente enlace!
 
 [![Amiibo - Link / Link s Awakening [Colecc](https://m.media-amazon.com/images/I/51+hYVRCWBL._SL200_.jpg)](https://www.amazon.es/dp/B07TB1KW7S/?tag=tolees-21)
+
+Características principales:
+
+- Amiibo - Link / Links Awakening
+- Colección Zelda
+- Brand: Nintendo Ibérica SL
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TB1KW7S/?tag=tolees-21)
 
