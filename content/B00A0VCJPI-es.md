@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.97 % en TP-Link N300 Tl-WA850RE - Repetidor Exte'
-date: 2020-12-09 22:43:48
+date: 2020-12-11 06:14:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,14 @@ country: 'es'
 Tienes [TP-Link N300 Tl-WA850RE - Repetidor Extensor de Red WiFi  2.4 GHz  300 Mbps  Puerto Ethernet  Modo Ap y Extensor  Antenas Internas   Blanco](https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21) con un 25.97 % de descuento con precio de oferta de 16.99 EUR (original: 22.95 EUR) en el siguiente enlace!
 
 [![TP-Link N300 Tl-WA850RE - Repetidor Exte](https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg)](https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21)
+
+Características principales:
+
+- Dos antenas internas: Señales más potentes que nunca, la cobertura de Wi-Fi hasta 300Mbps, amplifica perfectamente hasta toda su casa
+- Bajo consumo: Sólo 3w, amplia wi-fi de su casa todos los días sin notar el consumo de luz
+- 5 indicadores: Representan la intensidad de señal actual que recibe, puede ayudar a encontrar la ubicación idónea para colocar el extensor de rango
+- Configuración fácil: Sólo necesita pulsar el botón range extender para ampliar fácilmente la cobertura inalámbrica
+- Un puerto ethernet: Permite funcionar al extensor como adaptador inalámbrico para conectar dispositivos cableados
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00A0VCJPI/?tag=tolees-21)
 
