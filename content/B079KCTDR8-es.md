@@ -24,9 +24,9 @@ Tienes [Jack & Jones NOS Jacjens Sock 10 Pack Noos  Calcetines para Hombre  Negr
 
 Características principales:
 
+- Multipack
 - 72% algodón, 26% poliéster, 2% elastano
 - Suave
-- Multipack
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B079KCTDR8/?tag=tolees-21)
 

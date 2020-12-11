@@ -26,9 +26,9 @@ Principales características:
 
 - 10 ATM de resistencia al agua
 - Grosor de la caja de 12,00 mm
-- Esfera gris
 - Movimiento cronógrafo
 - Pulsera de dos tonos de acero inoxidable y de chapado en oro rosa
+- Esfera gris
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KTPQDCC/?tag=tolees-21)
 

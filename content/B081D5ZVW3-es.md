@@ -24,11 +24,11 @@ Ahora mismo tienes [ROIDMI X20 Lite Aspiradora sin cable versión EU  435 W  0.4
 
 Características:
 
-- Carga inalámbrica el aspirador se carga automáticamente al colocarlo en el soporte magnético gracias a su sistema de carga inalámbrica
 - Motor digital de 120.000 rpm el motor digital de 120.000rpm y 435w produce un gran poder de succión (138W) que genera 25.000 pa de potencía
-- Batería de alta capacidad roidmi x20 lite incluye una batería samsung de litio que alcanza 65 minutos de funcionamiento en modo normal, 40 minutos en modo intermedio y 10 minutos en turbo
-- Filtro hepa de 6 etapas su avanzado sistema de filtros es capaz de absorber las partículas pm-o3, devolviendo el aire con un grado de purificación del 99%
 - Garantía 5 años con distribuidor oficial roidmi dispone de distribuidor oficial en españa; comprando roidmi en los canales oficiales, obtendrás una garantía de 5 años en el motor y 2 años en los componentes con recogida y entrega a domicilio
+- Carga inalámbrica el aspirador se carga automáticamente al colocarlo en el soporte magnético gracias a su sistema de carga inalámbrica
+- Filtro hepa de 6 etapas su avanzado sistema de filtros es capaz de absorber las partículas pm-o3, devolviendo el aire con un grado de purificación del 99%
+- Batería de alta capacidad roidmi x20 lite incluye una batería samsung de litio que alcanza 65 minutos de funcionamiento en modo normal, 40 minutos en modo intermedio y 10 minutos en turbo
 
 [Visítala!!!](https://www.amazon.es/dp/B081D5ZVW3/?tag=tolees-21)
 

@@ -24,11 +24,11 @@ Está [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para homb
 
 Principales características:
 
--     Jack & Jones Plain T-Shirts
 -     Slim Fit
 -     Original Product
--     Good Quality Grey Tee
 -     New Seasons Style
+-     Good Quality Grey Tee
+-     Jack & Jones Plain T-Shirts
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0085SFXRY/?tag=tolees-21)
 

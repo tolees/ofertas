@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma Quarter Plain  Calcetín Unisex Adul al 36.82 % de descuento'
-date: 2020-12-10 15:14:12
+date: 2020-12-11 16:18:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wT3N1vKJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wT3N1vKJL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,13 @@ country: 'es'
 Está [Puma Quarter Plain  Calcetín Unisex Adulto  Gris  Anthraci/L Mel Grey   35-38   Pack de 3 ](https://www.amazon.es/dp/B073D5WF4C/?tag=tolees-21) con 36.82 de descuento por 5.68 EUR (original: 8.99 EUR) en el siguiente enlace!
 
 [![Puma Quarter Plain  Calcetín Unisex Adul](https://m.media-amazon.com/images/I/51wT3N1vKJL._SL200_.jpg)](https://www.amazon.es/dp/B073D5WF4C/?tag=tolees-21)
+
+Principales características:
+
+- Marca del producto: Puma
+- Costuras planas en la puntera para evitar molestias
+- Tejido de algodón suave
+- Ofrecen una comodidad óptima
 
 [Ver la oferta!!](https://www.amazon.es/dp/B073D5WF4C/?tag=tolees-21)
 
