@@ -24,9 +24,9 @@ Está [Scottex Original Papel Higiénico - 16 Rollos](https://www.amazon.es/dp/B
 
 Principales características:
 
+- Equilibrio perfecto, suavidad y resistencia
 - Suavidad irresistible
 - 16 rollos
-- Equilibrio perfecto, suavidad y resistencia
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016MKNZ9O/?tag=tolees-21)
 

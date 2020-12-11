@@ -26,8 +26,8 @@ Características:
 
 - Favorece la concentración y las habilidades manuales
 - Un Puzzle de vívidos colores, y alta calidad, para poderlo montar y desmontar cuantas veces se desee
-- Hecho en Italia
 - Puzzle adulto 1000 piezas, con imágenes diseñadas por Anne Stokes, de alta calidad de impresión, y troquelado preciso
+- Hecho en Italia
 
 [Visítala!!!](https://www.amazon.es/dp/B079PX4LRT/?tag=tolees-21)
 

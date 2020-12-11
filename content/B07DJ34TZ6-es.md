@@ -25,11 +25,11 @@ Ahora mismo tienes [Geox Donna Brogue A  Botas Chelsea Mujer  Azul  Navy   38 EU
 Características:
 
 - Material de la suela: Sintético
-- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
 - Tipo de tacón: Plano
-- Material exterior: Cuero
-- Cierre: Cremallera
 - Revestimiento: Sintético
+- Tipo de talla: Te informamos que los zapatos Geox son holgados, te recomendamos elegir media talla menos con respecto a tu talla habitual
+- Cierre: Cremallera
+- Material exterior: Cuero
 
 [Visítala!!!](https://www.amazon.es/dp/B07DJ34TZ6/?tag=tolees-21)
 

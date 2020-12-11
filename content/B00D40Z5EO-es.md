@@ -25,18 +25,18 @@ Tienes [Oster Prima Cafetera automática para Cappuccino  Latte y Espresso con T
 Características principales:
 
 - Cafetera Espresso con tratamiento de leche
-- Selector automático para preparar espressos, cappuccinos y lattes sencillos o dobles
-- Depósito para leche, desmontable con capacidad de 300ml, que permite preparar bebidas con leche fresca en un solo paso. Fácil de limpiar y guardar en el refrigerador.
-- Modo manual para personalizar las porciones de espresso y de leche
-- Depósito para leche extraíble
-- Cafetera Espresso con tratamiento de leche
-- Bomba italiana con 15 bares de presión para mayor cremosidad
-- Ciclo de colado automático para la espuma de leche
-- Perilla para controlar la intensidad de espuma de leche, ofrece la posibilidad de ajustar la bebida a tu preferencia
-- 15 bares de presión
-- 15 bares de potencia
 - Programa manual para poder personalizar tu café
 - Depósito para leche extraíble para su almacenaje en nevera
+- Ciclo de colado automático para la espuma de leche
+- 15 bares de potencia
+- Depósito para leche extraíble
+- Modo manual para personalizar las porciones de espresso y de leche
+- 15 bares de presión
+- Cafetera Espresso con tratamiento de leche
+- Bomba italiana con 15 bares de presión para mayor cremosidad
+- Selector automático para preparar espressos, cappuccinos y lattes sencillos o dobles
+- Depósito para leche, desmontable con capacidad de 300ml, que permite preparar bebidas con leche fresca en un solo paso. Fácil de limpiar y guardar en el refrigerador.
+- Perilla para controlar la intensidad de espuma de leche, ofrece la posibilidad de ajustar la bebida a tu preferencia
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00D40Z5EO/?tag=tolees-21)
 
