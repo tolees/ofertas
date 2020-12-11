@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Les Recettes de l Atelier Bombones 1488  al 27.48 % de descuento'
-date: 2020-12-09 12:40:22
+date: 2020-12-11 21:29:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NfUo3eQxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NfUo3eQxL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,13 @@ country: 'es'
 Está [Les Recettes de l Atelier Bombones 1488 g - Pack de 8](https://www.amazon.es/dp/B08MGL65JK/?tag=tolees-21) con 27.48 de descuento por 34.75 EUR (original: 47.92 EUR) en el siguiente enlace!
 
 [![Les Recettes de l Atelier Bombones 1488 ](https://m.media-amazon.com/images/I/51NfUo3eQxL._SL200_.jpg)](https://www.amazon.es/dp/B08MGL65JK/?tag=tolees-21)
+
+Principales características:
+
+- Alérgenos: leche, grasa láctea, avellanas, almendras, frutos de cáscara y gluten
+- Conservar en un lugar fresco y seco
+- País de origen: España
+- Ingredientes: azúcar, cacao, manteca de cacao, jarabe de glucosa, jarabe de glucosa y fructosa, leche, grasa láctea, pasta de avellanas y otros
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08MGL65JK/?tag=tolees-21)
 

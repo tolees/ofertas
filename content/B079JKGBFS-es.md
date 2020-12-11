@@ -26,9 +26,9 @@ Principales características:
 
 - Nota: no todos los sistemas Windows Thunderbolt 3 admiten salida de vídeo doble. por favor confirme con su fabricante de computadora antes de comprar este adaptador
 - El puerto Thunderbolt 3 es REQUERIDO para la operación. El adaptador no funcionará con el puerto USB-C normal
-- Agregue 2 pantallas HDMI en resoluciones de hasta 4K a 60Hz a su Apple Mac Thunderbolt 3 (MacBook Pro a fines de 2016/2017 y iMac 2017) con un rendimiento de GPU completo
 - No requiere adaptador de corriente externo
 - Ejecute aplicaciones que requieren recursos en pantallas 4K a 60Hz sin agotar los recursos del sistema
+- Agregue 2 pantallas HDMI en resoluciones de hasta 4K a 60Hz a su Apple Mac Thunderbolt 3 (MacBook Pro a fines de 2016/2017 y iMac 2017) con un rendimiento de GPU completo
 
 [Ver la oferta!!](https://www.amazon.es/dp/B079JKGBFS/?tag=tolees-21)
 

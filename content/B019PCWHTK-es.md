@@ -25,9 +25,9 @@ Está [Cluse Reloj Analógico Automático para Mujer con Correa de Acero Inoxida
 Principales características:
 
 - Cierre por presion
+- Acero inoxidable
 - 3 bars
 - Analógico
-- Acero inoxidable
 - Mineral
 
 [Ver la oferta!!](https://www.amazon.es/dp/B019PCWHTK/?tag=tolees-21)

@@ -24,9 +24,9 @@ Tienes [adidas Tiro Du BC M Bolsa Lona de Deporte  Unisex Adulto  Bold Blue/Whit
 
 Características principales:
 
+- Bottom compartment
 - Medium bag
 - Large main compartment
-- Bottom compartment
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07JR93W2G/?tag=tolees-21)
 
