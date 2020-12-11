@@ -24,8 +24,8 @@ Tienes [Amiibo - Link / Link s Awakening [Colección Zelda]](https://www.amazon.
 
 Características principales:
 
-- Amiibo - Link / Links Awakening
 - Colección Zelda
+- Amiibo - Link / Links Awakening
 - Brand: Nintendo Ibérica SL
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07TB1KW7S/?tag=tolees-21)

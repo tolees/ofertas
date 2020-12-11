@@ -26,9 +26,9 @@ Principales características:
 
 - 100 nuevo y de alta calidad.
 - Un gran ayudante para hacer té.
-- Práctico y lo usará durante mucho tiempo.
 - Diseño en forma de búho que es lindo.
 - Se puede llenar con té, granos de café, condimentos para sopas y muchas otras cosas.
+- Práctico y lo usará durante mucho tiempo.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08HLM77CK/?tag=tolees-21)
 

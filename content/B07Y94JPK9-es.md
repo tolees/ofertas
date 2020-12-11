@@ -24,11 +24,11 @@ Ahora mismo tienes [Toy Story - Muñeco Woody 25 Aniversario  Mattel GJH47    co
 
 Características:
 
+- Viene con accesorios icónicos: guitarra, lazo y cometa
 - Viene a escala adaptada inspirada en la película para darle más realismo al juego
+- Figura de Woody 25º aniversario de Toy Story de Disney Pixar
 - Muy articuladas, para adoptar poses icónicas y exponer
 - A partir de 3 años
-- Viene con accesorios icónicos: guitarra, lazo y cometa
-- Figura de Woody 25º aniversario de Toy Story de Disney Pixar
 
 [Visítala!!!](https://www.amazon.es/dp/B07Y94JPK9/?tag=tolees-21)
 

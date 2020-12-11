@@ -24,10 +24,10 @@ Tienes [PARKER JOTTER - Pluma Estilográfica  de Color Azul Real y Tinta Azul  c
 
 Características principales:
 
-- Cuerpo de acero inoxidable con silueta elegante de bello diseño
-- El icónico diseño Jotter, ahora en pluma estilográfica
-- Plumín mediano; incluye 2 cartuchos pequeños de tinta azul a base de agua
 - Su plumín con forma de pluma le permite experimentar el placer de escribir con pluma estilográfica
+- Plumín mediano; incluye 2 cartuchos pequeños de tinta azul a base de agua
+- El icónico diseño Jotter, ahora en pluma estilográfica
+- Cuerpo de acero inoxidable con silueta elegante de bello diseño
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07C1F4W3G/?tag=tolees-21)
 

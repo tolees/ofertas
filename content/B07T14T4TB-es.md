@@ -24,8 +24,8 @@ Está [Figura de Ariel de la Sirenita  Disney Traditions  Resina  Multicolor  16
 
 Principales características:
 
-- Diseñado por Jim Shore.
 - Patrones inspirados en arte popular con colores vivos.
+- Diseñado por Jim Shore.
 - Hecho y pintado a mano.
 - Caja de regalo de marca.
 - Figura de Disney Traditions

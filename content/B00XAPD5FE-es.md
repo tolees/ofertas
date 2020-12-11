@@ -24,9 +24,9 @@ Ahora mismo tienes [Haribo Maxi Cola  1 kg ](https://www.amazon.es/dp/B00XAPD5FE
 
 Características:
 
-- Deliciosas piezas en forma de botella
-- Caramelos de goma
 - Irresistible sabor a cola
+- Caramelos de goma
+- Deliciosas piezas en forma de botella
 
 [Visítala!!!](https://www.amazon.es/dp/B00XAPD5FE/?tag=tolees-21)
 
