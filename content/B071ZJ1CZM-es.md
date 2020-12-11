@@ -24,9 +24,9 @@ Tienes [NOFFA Colchón Topper Viscoelástico 150X200  de Espuma con Memoria de 5
 
 Características principales:
 
-- ( 1 ) Memory Foam: cubrecolchón de espuma con memoria relaje al cuerpo para un sueño saludable.
 - ( 3 ) Multifunción: colchoncillo viscoelástico per adultos, niños.
 - ( 2 ) Confortable experiencia de dormir - colchón topper de Espuma de soporte de alta densidad, perfectamente compatible con una experiencia de sueño sin peso.
+- ( 1 ) Memory Foam: cubrecolchón de espuma con memoria relaje al cuerpo para un sueño saludable.
 - ( 4 ) Espuma viscoelástica colchón topper toma alrededor de 4-48 horas para recuperar su forma original.
 - ( 5 ) Sobrecolchón Suave Tamaño-150 *200 * 5CM
 

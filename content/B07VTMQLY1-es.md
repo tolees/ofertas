@@ -26,8 +26,8 @@ Características:
 
 - Recoge gotas ajustables con tapa de acero inoxidable para cualquier tipo de taza o vaso
 - Sistema Thermoblock que permite un calentamiento muy rápido
-- 15 bares de presión automática regulable
 - Amplio depósito de agua extraíble (0.8 litros)
+- 15 bares de presión automática regulable
 - Sistema de seguridad: sin el porta-cápsulas no cae agua
 
 [Visítala!!!](https://www.amazon.es/dp/B07VTMQLY1/?tag=tolees-21)

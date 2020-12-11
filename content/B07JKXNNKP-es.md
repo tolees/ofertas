@@ -24,11 +24,11 @@ Está [Asalvo - Silla de paseo Moma Plus  Color Azul marino](https://www.amazon.
 
 Principales características:
 
-- Reclinable totalmente 3 posiciones
+- Chasis de aluminio. Desde el nacimiento hasta 22 kg
 - Reposapiés regulable 2 posiciones
 - Barra con textil desenfundable
-- Chasis de aluminio. Desde el nacimiento hasta 22 kg
 - Manillar cerrado.
+- Reclinable totalmente 3 posiciones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JKXNNKP/?tag=tolees-21)
 

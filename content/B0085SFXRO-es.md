@@ -24,10 +24,10 @@ Está [Jack & Jones Jones - Camiseta de manga corta con cuello redondo para homb
 
 Principales características:
 
-- Estación: SIEMPRE DISPONIBLE
-- Color: NAVY AZUL
-- Designer: JACK&JONES
 - Artículo: 12058529 BASIC TEE
+- Designer: JACK&JONES
+- Color: NAVY AZUL
+- Estación: SIEMPRE DISPONIBLE
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0085SFXRO/?tag=tolees-21)
 

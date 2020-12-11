@@ -24,8 +24,8 @@ Tienes [Trousselier  pequeña caja de música con diseño de Ballerina.](https:/
 
 Características principales:
 
-- La caja esta hecha de madera
 - El producto es un objeto de decoración para la habitación de una niña
+- La caja esta hecha de madera
 - Pequeña caja musical con un cajón para guardar los pequeños tesoros
 - Cuenta con una bailarina que se pone a bailar cuando se acciona el movimiento musical
 
