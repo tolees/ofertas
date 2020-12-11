@@ -24,9 +24,9 @@ Ahora mismo tienes [Dorbz - Daredevil: Wilson Fisk](https://www.amazon.es/dp/B01
 
 Características:
 
+- Viene embalado en una caja con ventanas ilustrada
 - Cada personaje mide alrededor de 9 cm de altura
 - Material 100% vinilo
-- Viene embalado en una caja con ventanas ilustrada
 
 [Visítala!!!](https://www.amazon.es/dp/B01B5TU5PY/?tag=tolees-21)
 

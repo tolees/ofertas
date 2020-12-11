@@ -25,10 +25,10 @@ Ahora mismo tienes [Grohe Relexaflex - flexo de ducha 1500mm BL  Ref. 28151001 ]
 Características:
 
 - Superficie lisa que facilita la limpieza.
+- Resistencia a la tracción 500 N.
 - Resistencia a la presión hasta 5 bar.
 - Conexión universal G 1/2" x 1/2".
 - Flexo de teleducha GROHE Relexaflex 1500: un flexo de 1500 mm de longitud con acabado cromado. Fabricado en Alemania y fácil de instalar.
-- Resistencia a la tracción 500 N.
 
 [Visítala!!!](https://www.amazon.es/dp/B075RCPMG5/?tag=tolees-21)
 

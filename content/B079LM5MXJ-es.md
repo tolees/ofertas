@@ -24,10 +24,10 @@ Tienes [Cbx Leotie Lux 518001675 Cochecito con Asiento Reversible y Capazo para 
 
 Características principales:
 
-- Contenido: 1 cochecito Leotie Lux, incluye capazo, adaptador para silla de coche y cubierta para lluvia, chasis de aluminio, funda 100% poliéster, dimensiones (LxAnxAl): 101 x 65 x 114 cm, peso: 16 kg, color: Comfy Grey
-- Con cuero en el manillar y el reposabrazos protector, óptima estabilidad gracias a la fabricación de calidad y los frenos de estacionamiento
 - Gran movilidad: ruedas delanteras de dirección bloqueables, suspensión total suave, fácil de plegar (41 x 65 x 106 cm), puede usarse como parte del Travel System con las sillas de coche cbx Shima y Aton, Cybex Aton
+- Contenido: 1 cochecito Leotie Lux, incluye capazo, adaptador para silla de coche y cubierta para lluvia, chasis de aluminio, funda 100% poliéster, dimensiones (LxAnxAl): 101 x 65 x 114 cm, peso: 16 kg, color: Comfy Grey
 - Vida cotidiana sin preocupaciones: respaldo reclinable con 3 posiciones, cesta de la compra espaciosa, capota XXL con ventana, manillar regulable, reposabrazos de seguridad fácil de desmontar, buena suspensión trasera, incluye cubierta para lluvia
+- Con cuero en el manillar y el reposabrazos protector, óptima estabilidad gracias a la fabricación de calidad y los frenos de estacionamiento
 - Elegante cochecito de alta calidad combinado con capazo plegable para recién nacidos y silla reversible con arnés de 5 puntos para niños - apto desde el nacimiento hasta los 15 kg
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B079LM5MXJ/?tag=tolees-21)

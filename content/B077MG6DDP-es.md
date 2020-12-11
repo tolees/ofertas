@@ -24,9 +24,9 @@ Ahora mismo tienes [PUMA Smash V2 L  Zapatillas Unisex Adulto  Blanco White Blac
 
 Características:
 
-- Erwachsene
 - White
 - leather
+- Erwachsene
 
 [Visítala!!!](https://www.amazon.es/dp/B077MG6DDP/?tag=tolees-21)
 

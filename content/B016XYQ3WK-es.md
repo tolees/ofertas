@@ -24,10 +24,10 @@ Está [Ubiquiti UAP-AC-PRO - Punto de acceso  color blanco](https://www.amazon.e
 
 Principales características:
 
+- Connectivity technology: Wireless
+- Data link protocol: IEEE 802.11B, IEEE 802.11A, IEEE 802.11G, IEEE 802.11n, IEEE 802.11ac
 - Data transfer rate: 1300 MBps
 - Frequency band: 2.4 GHz, 5 GHz
-- Data link protocol: IEEE 802.11B, IEEE 802.11A, IEEE 802.11G, IEEE 802.11n, IEEE 802.11ac
-- Connectivity technology: Wireless
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016XYQ3WK/?tag=tolees-21)
 

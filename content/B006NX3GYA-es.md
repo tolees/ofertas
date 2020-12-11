@@ -24,10 +24,10 @@ Tienes [Gigaset DA210 - Teléfono Fijo con Cable  Color Negro](https://www.amazo
 
 Características principales:
 
-- 10 marcaciones directas
+- No requiere enchufe
 - Montaje en pared
 - Función mute y rellamada
-- No requiere enchufe
+- 10 marcaciones directas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B006NX3GYA/?tag=tolees-21)
 

@@ -24,9 +24,9 @@ Está [Hugo Boss 58396 - Agua de perfume](https://www.amazon.es/dp/B00LC0G4FM/?t
 
 Principales características:
 
-- Marca: Hugo Boss-boss
 - Productos de belleza y el cuidado personal
 - Tipo de producto: Agua de perfume
+- Marca: Hugo Boss-boss
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00LC0G4FM/?tag=tolees-21)
 

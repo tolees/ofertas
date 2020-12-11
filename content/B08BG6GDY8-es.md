@@ -25,10 +25,10 @@ Está [Adidas Real Madrid Temporada 2020/21 Camiseta Segunda Equipación Oficial
 Principales características:
 
 - ecnología de absorción de humedad AEROREADY
-- Una camiseta de visitante con un llamativo diseño
 - Tejido tricot 100 % poliéster reciclado
-- Cuello en V acanalado
+- Una camiseta de visitante con un llamativo diseño
 - Corte clásico
+- Cuello en V acanalado
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08BG6GDY8/?tag=tolees-21)
 

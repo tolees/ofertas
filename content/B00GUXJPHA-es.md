@@ -24,11 +24,11 @@ Tienes [Columbia Woodburn II  Zapatillas Hombre  Marrón  Cordovan Cinnamon   40
 
 Características principales:
 
-- Cierre: Cordones
 - Tipo de tacón: Plano
 - Revestimiento: Sintético
-- Material exterior: Cuero
+- Cierre: Cordones
 - Material de la suela: Goma
+- Material exterior: Cuero
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00GUXJPHA/?tag=tolees-21)
 

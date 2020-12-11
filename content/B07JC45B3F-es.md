@@ -24,9 +24,9 @@ Está [Lee Extreme Motion Straight Jeans  Trip  34W / 30L para Hombre](https://w
 
 Principales características:
 
-- Cintura flexible
 - Tejido elástico
 - Clasico botón tipo “donut”
+- Cintura flexible
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07JC45B3F/?tag=tolees-21)
 

@@ -24,9 +24,9 @@ Tienes [Tommy Hilfiger Original Stretch Shirt Camisa  Azul  Lavender Lustre   M 
 
 Características principales:
 
-- Fabricada en tejido ligero y suave
 - Tiene el logo de la marca bordado en el pecho
 - Camisa para hombre
+- Fabricada en tejido ligero y suave
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00ZJEPAR0/?tag=tolees-21)
 

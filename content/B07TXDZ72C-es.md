@@ -24,8 +24,8 @@ Está [Clarks Un Trail Form  Derbys Derby  Braun  Mahogany Leather Mahogany Leat
 
 Principales características:
 
-- Único Material: Caucho
 - Color Exacto: Cuero Caoba
+- Único Material: Caucho
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TXDZ72C/?tag=tolees-21)
 

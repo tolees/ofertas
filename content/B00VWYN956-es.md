@@ -24,10 +24,10 @@ Ahora mismo tienes [Joma Nilo - Pantalones largos para hombre  color Negro  tall
 
 Características:
 
-- Cintura elástica para mayor comodidad
-- Pantalón de puño
 - Cintura elástica y bolsillos laterales
+- Pantalón de puño
 - Pierna cremallera lateral para cerrar o abrir para ajustar el flujo de aire al cuerpo
+- Cintura elástica para mayor comodidad
 
 [Visítala!!!](https://www.amazon.es/dp/B00VWYN956/?tag=tolees-21)
 
