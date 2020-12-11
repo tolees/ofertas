@@ -24,8 +24,8 @@ Ahora mismo tienes [Hugo BOSS Reloj Cronógrafo para Hombre de Cuarzo con Correa
 
 Características:
 
-- Correa de Cuero
 - Correa con diseño en relieve cosido a mano
+- Correa de Cuero
 - El llamativo bisel giratorio hará que su reloj destaque entre los demás.
 - 5 ATM de resistencia al agua
 

@@ -25,9 +25,9 @@ Ahora mismo tienes [Adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Homb
 Características:
 
 - Parte superior sintética con tecnología Clawcollar.
-- Climalite anti-humidity fabric
-- Ligera y flexible.
 - Suela de goma específica para campos de moqueta con fibras cortas.
+- Ligera y flexible.
+- Climalite anti-humidity fabric
 
 [Visítala!!!](https://www.amazon.es/dp/B016QALT7K/?tag=tolees-21)
 
