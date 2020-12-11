@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grohe Relexaflex - flexo de ducha 1500mm al 31.14 % de descuento'
-date: 2020-12-10 08:29:42
+date: 2020-12-11 10:30:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41w3JiHwN3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41w3JiHwN3L._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,14 @@ country: 'es'
 Ahora mismo tienes [Grohe Relexaflex - flexo de ducha 1500mm BL  Ref. 28151001 ](https://www.amazon.es/dp/B075RCPMG5/?tag=tolees-21) a 10.04 EUR (original: 14.58 EUR) (31.14 %  de descuento) en el siguiente enlace!
 
 [![Grohe Relexaflex - flexo de ducha 1500mm](https://m.media-amazon.com/images/I/41w3JiHwN3L._SL200_.jpg)](https://www.amazon.es/dp/B075RCPMG5/?tag=tolees-21)
+
+Características:
+
+- Superficie lisa que facilita la limpieza.
+- Resistencia a la presión hasta 5 bar.
+- Conexión universal G 1/2" x 1/2".
+- Flexo de teleducha GROHE Relexaflex 1500: un flexo de 1500 mm de longitud con acabado cromado. Fabricado en Alemania y fácil de instalar.
+- Resistencia a la tracción 500 N.
 
 [Visítala!!!](https://www.amazon.es/dp/B075RCPMG5/?tag=tolees-21)
 

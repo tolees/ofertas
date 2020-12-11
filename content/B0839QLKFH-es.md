@@ -24,9 +24,9 @@ Ahora mismo tienes [Mymy City- Wendy Wave Shop  Tiendecita de Surf y Accesorios 
 
 Características:
 
-- Recomendado para niños a partir de 4 años; ayuda a desarrollar su sociabilidad, imaginación y habilidades manuales
 - Incluye cartones para poder personalizar la tienda; las medidas de la figura y la tienda son compatibles con mymy palmhouse y con el resto de personajes y mascotas
 - Le encanta el mar y surfear las olas; tiene su propia tienda de surf con tres tablas diferentes y la acompaña wanda el delfín; mymy city wendy wave es el set de muebles con personaje y mascota para seguir decorando y aumentando la ciudad
+- Recomendado para niños a partir de 4 años; ayuda a desarrollar su sociabilidad, imaginación y habilidades manuales
 - El set incluye el personaje de wendy wave, una niña vestida con estilo surfero, tres tablas de surf, un módulo reversible que simula una tienda de surf y diferentes accesorios; incluye a wanda, su mascota delfín
 
 [Visítala!!!](https://www.amazon.es/dp/B0839QLKFH/?tag=tolees-21)

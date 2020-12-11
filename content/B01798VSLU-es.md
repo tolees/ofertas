@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair MM300 Alfombrilla de ratón para  al 50.03 % de descuento'
-date: 2020-12-10 10:32:10
+date: 2020-12-11 10:59:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZaJtWibDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZaJtWibDL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,13 @@ country: 'es'
 Está [Corsair MM300 Alfombrilla de ratón para juego superficie paño antidezgaste  Tamaño Medio  Negro](https://www.amazon.es/dp/B01798VSLU/?tag=tolees-21) con 50.03 de descuento por 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Corsair MM300 Alfombrilla de ratón para ](https://m.media-amazon.com/images/I/51ZaJtWibDL._SL200_.jpg)](https://www.amazon.es/dp/B01798VSLU/?tag=tolees-21)
+
+Principales características:
+
+- Sin deslizamiento: la base de caucho antideslizante la mantiene fija en su sitio
+- Exactitud y precisión: optimizada para ratones ópticos y láser para juegos
+- Control superior: superficie tejida pensada para una precisión extrema y un rastreo de baja fricción
+- Sin desgaste, sin problemas: bordes rodeados con costuras que protegen la superficie y evitan que se pele para la óptima durabilidad
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01798VSLU/?tag=tolees-21)
 
