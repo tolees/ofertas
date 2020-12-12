@@ -28,8 +28,8 @@ Tienes [FM London Hyfresh Zipped Capucha  Negro  Black 01   X-Large para Hombre]
 
 Características principales:
 
-- Forro de lana suave
 - HyFresh tecnología de protección de olores ataca el olor causado por las bacterias en tu ropa ayudandote a sentirte fresco durante todo el día
+- Forro de lana suave
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07P2HZVNN/?tag=tolees-21)
 

@@ -28,11 +28,11 @@ Ahora mismo tienes [FITTOO Mallas Leggings Mujer Pantalones Deportivos oga Alta 
 
 Características:
 
+- El tejido super suave, texturizado y de corte libre proporciona una cobertura y comodidad ininterrumpidas
+- Sujeción especial de costura para evitar puntos de presión y restregado.
+- 82% Poliéster, 18% Elastano
 - El tejido elástico en 4 direcciones ofrece una mayor libertad de movimiento en todas las direcciones
 - Perfecto para el uso diario, yoga, fitness, crossfit y cualquier tipo de deporte.
-- Sujeción especial de costura para evitar puntos de presión y restregado.
-- El tejido super suave, texturizado y de corte libre proporciona una cobertura y comodidad ininterrumpidas
-- 82% Poliéster, 18% Elastano
 
 [Visítala!!!](https://www.amazon.es/dp/B07VV7XKXG/?tag=tolees-21)
 

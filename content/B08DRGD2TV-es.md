@@ -28,11 +28,11 @@ Está [Gel Higienizante Hidroalcohólico Manos potenciado con Cítricos y Meloco
 
 Principales características:
 
-- Es un gel desinfectante de manos ideal para zonas de trabajo o ámbitos profesionales que requieren mantener un nivel de higiene en todo momento. Ideal para hogares, clínicas, hospitales, centros médicos
 - Es un jabón de manos con hidroalcohol 70% que mantiene las manos limpias y desinfectadas libres de bacterias en todo momento. De resultado inmediatos y efectivos.
+- Aplicar en las manos la cantidad de gel necesaria y posteriormente frotar hasta que el producto se haya evaporado. (Normalmente unos 10 segundos aproximadamente).
+- Es un gel desinfectante de manos ideal para zonas de trabajo o ámbitos profesionales que requieren mantener un nivel de higiene en todo momento. Ideal para hogares, clínicas, hospitales, centros médicos
 - Caja con 5 botes de gel higienizante de manos hidroalcohólico. En botes de 500 ml con dosificador, es un formato muy cómodo y práctico de utilizar o almacenar en todo hogar, clínica, residencia, hospital o empresa.
 - Con agente antibacterias aroma melocotón y cítricos, mantiene un alto nivel de higiene y cuidado de la piel.
-- Aplicar en las manos la cantidad de gel necesaria y posteriormente frotar hasta que el producto se haya evaporado. (Normalmente unos 10 segundos aproximadamente).
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08DRGD2TV/?tag=tolees-21)
 

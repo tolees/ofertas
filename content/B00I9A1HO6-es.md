@@ -28,9 +28,9 @@ Está [Lotus Reloj Analógico para Hombre de Cuarzo con Correa en Cuero 15961/1]
 
 Principales características:
 
+- Incluye una caja de regalo elegante
 - Pantalla de cristal mineral endurecido
 - Cuenta con una correa que ha sido fabricada en piel
-- Incluye una caja de regalo elegante
 - Caja redonda chapada en acero inoxidable
 - Resistente al agua hasta 50 metros
 
