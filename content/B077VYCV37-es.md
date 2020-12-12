@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.11 % en SanDisk Ultra Fit  Memoria flash USB 3.1'
-date: 2020-12-10 13:25:41
+date: 2020-12-12 12:57:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XBPPF1zNL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41XBPPF1zNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XBPPF1zNL._SL200_.jpg' ]
@@ -28,6 +28,9 @@ Tienes [SanDisk Ultra Fit  Memoria flash USB 3.1 de 64 GB con hasta 130 MB/s de 
 
 Características principales:
 
+- Escribe hasta 15 veces más rápido que las memorias USB 2.0 estándar
+- Velocidades de lectura de hasta 130 MB/s
+- Mueve una película a la memoria en menos de 30 segundos
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B077VYCV37/?tag=tolees-21)
 

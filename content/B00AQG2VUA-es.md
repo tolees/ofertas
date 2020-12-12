@@ -29,11 +29,11 @@ Ahora mismo tienes [IBILI 620310 - Cafetera Express Essential INOX 10 Tazas](htt
 Características:
 
 - Material : Inox 18/10. Asa Inox 18/10.
-- Apto para lavavajillas.
-- Garantía : 2 años
 - Cafetera Express 10 Tazas Essential Inox 18/10
-- Junta 100% silicona .
 - Para cocina eléctrica/a gas, vitrocerámica e inducción. Especial para inducción.
+- Garantía : 2 años
+- Junta 100% silicona .
+- Apto para lavavajillas.
 
 [Visítala!!!](https://www.amazon.es/dp/B00AQG2VUA/?tag=tolees-21)
 

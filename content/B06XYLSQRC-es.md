@@ -28,10 +28,10 @@ Tienes [IMC Toys- Play Fun Juego Clap  Multicolor  96332    color/modelo surtido
 
 Características principales:
 
-- Revolucionaría forma de jugar a las palmas
-- Hasta 8 coreografías distintas al ritmo de las luces
-- Empieza el entrenamiento y concéntrate
 - Incluye 5 niveles de dificultad en cada coreografía
+- Revolucionaría forma de jugar a las palmas
+- Empieza el entrenamiento y concéntrate
+- Hasta 8 coreografías distintas al ritmo de las luces
 - Puedes bailar y jugar a la vez
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B06XYLSQRC/?tag=tolees-21)

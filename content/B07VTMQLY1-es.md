@@ -29,10 +29,10 @@ Ahora mismo tienes [Dolce Gusto Piccolo XS EDG210.B Cafetera de cápsulas  15 ba
 Características:
 
 - 15 bares de presión automática regulable
-- Recoge gotas ajustables con tapa de acero inoxidable para cualquier tipo de taza o vaso
 - Sistema de seguridad: sin el porta-cápsulas no cae agua
-- Amplio depósito de agua extraíble (0.8 litros)
+- Recoge gotas ajustables con tapa de acero inoxidable para cualquier tipo de taza o vaso
 - Sistema Thermoblock que permite un calentamiento muy rápido
+- Amplio depósito de agua extraíble (0.8 litros)
 
 [Visítala!!!](https://www.amazon.es/dp/B07VTMQLY1/?tag=tolees-21)
 

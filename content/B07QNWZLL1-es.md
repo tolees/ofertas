@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Asics Gel-Rocket 9  Zapatillas de Deport al 30.00 % de descuento'
-date: 2020-12-10 01:42:43
+date: 2020-12-12 12:34:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41erzCJGHOL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41erzCJGHOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41erzCJGHOL._SL200_.jpg' ]
@@ -28,6 +28,9 @@ Ahora mismo tienes [Asics Gel-Rocket 9  Zapatillas de Deporte Interior Mujer  Az
 
 Características:
 
+- Soporte firme gracias al material superior de apoyo
+- Material exterior de malla transpirable y estable
+- Suela exterior resistente
 
 [Visítala!!!](https://www.amazon.es/dp/B07QNWZLL1/?tag=tolees-21)
 

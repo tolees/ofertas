@@ -29,8 +29,8 @@ Está [Crucial Ballistix BL2K8G32C16U4RL RGB  3200 MHz  DDR4  DRAM  Memoria Game
 Principales características:
 
 - Compatible con XMP 2.0 para overclocking automático o ejecución con perfil JEDEC predeterminado
-- Difusor térmico de aluminio moderno en tres colores a juego con su sistema o estilo
 - Compatible con ASUS Aura, MSI Mystic Light, Gigabyte AORUS Graphics Engine, etc.
+- Difusor térmico de aluminio moderno en tres colores a juego con su sistema o estilo
 - Óptimo para jugadores y entusiastas del rendimiento
 - Personalice el esquema de color de su equipo con 16 LED RGB en 8 zonas en cada módulo
 

@@ -28,9 +28,9 @@ Está [Goula- MIA  cose tu muñeca  Diset 52028.0 ](https://www.amazon.es/dp/B01
 
 Principales características:
 
-- Incluye instrucciones
-- Todo lo necesario para coser, fieltro, relleno, hilos y aguja
 - Kit para crear tu propia muñeca de fieltro Mia
+- Todo lo necesario para coser, fieltro, relleno, hilos y aguja
+- Incluye instrucciones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LY69CBO/?tag=tolees-21)
 

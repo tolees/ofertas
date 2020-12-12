@@ -28,9 +28,9 @@ Está [adidas Milano 16 Sock - Medias para hombre  multicolor   AZUL / BLANCO   
 
 Principales características:
 
-- Insertos de malla para mejor ventilación
-- Paneles acolchados que aportan una mayor amortiguación
 - Puños, rango de tobillo y bajos acanalados.
+- Paneles acolchados que aportan una mayor amortiguación
+- Insertos de malla para mejor ventilación
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016R6WYOK/?tag=tolees-21)
 

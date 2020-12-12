@@ -28,12 +28,12 @@ Tienes [TP-Link TL-WA801N - Punto de Acceso inalámbrico/Extensor de Red WiFi  N
 
 Características principales:
 
-- Sus antenas externas son desmontables, lo que permite orientarlas mejor y sustituirlas por antenas de mayor ganancia
 - Soporta multiples modos de operación: Punto de Acceso, Multi-SSID, Cliente, Repetidor Universal /WDS Repeater, Bridge con AP
+- Sus antenas externas son desmontables, lo que permite orientarlas mejor y sustituirlas por antenas de mayor ganancia
 - Velocidad de transmisión inalámbrica de 300 Mbps, aporta una experiencia inalámbrica
-- Se envía en un embalaje certificado
-- Fácil configuración para una conexión segura WPA
 - Posibilidad de fijarlo en la pared o colocarlo horizontalmente sobre una mesa o escritorio
+- Fácil configuración para una conexión segura WPA
+- Se envía en un embalaje certificado
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0873SLW3V/?tag=tolees-21)
 

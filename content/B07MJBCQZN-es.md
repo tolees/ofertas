@@ -28,11 +28,11 @@ Está [Zacro 151 Pcs Kit de Reparación de Relojes  con Herramientas de Reloj Ba
 
 Principales características:
 
-- Fácil de llevar y poner con el estuche negro. No es fácil perder herramientas, y finalizar el trabajo en cualquier momento.
-- Multi-funcional y piezas completa (con una instrucción). Kit de reparación de reloj completo y profesional, le ayudará reparar su reloj fácilmente.
 - Kit de reparación relojes profesional, se sirve para reparaciones de relojes diarios perfectamente. Por ejemplo: abrir el posterior de reloj de pulsera, cambiar la batería de reloj, ajustar la longitud del reloj, etc.
-- Fácil de abrir reloj con tamaño normal o máximo. El abridor de trípode puede abrir la tapadera de reloj 52mm a lo sumo. Regalo pefecto para los aficionados.
 - Muy ideal para novatos y técnico del reloj profesional, se puede ahorrar su dinero mejor. Esta Kit de reparación reloj se usa más fácil que imagina usted.
+- Fácil de llevar y poner con el estuche negro. No es fácil perder herramientas, y finalizar el trabajo en cualquier momento.
+- Fácil de abrir reloj con tamaño normal o máximo. El abridor de trípode puede abrir la tapadera de reloj 52mm a lo sumo. Regalo pefecto para los aficionados.
+- Multi-funcional y piezas completa (con una instrucción). Kit de reparación de reloj completo y profesional, le ayudará reparar su reloj fácilmente.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07MJBCQZN/?tag=tolees-21)
 

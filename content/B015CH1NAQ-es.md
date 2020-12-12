@@ -28,10 +28,10 @@ Está [SanDisk Ultra Flair Memoria flash USB 3.0 de 64 GB con hasta 150 MB/s de
 
 Principales características:
 
-- Transfiere una película completa en menos de 30 segundos
 - Hasta 150 MB/s de velocidades de lectura
 - Hasta 15 veces más rápido que un USB 2.0 estándar
 - Mantén la privacidad de tus archivos privados con el software SanDisk SecureAccess (incluido)
+- Transfiere una película completa en menos de 30 segundos
 
 [Ver la oferta!!](https://www.amazon.es/dp/B015CH1NAQ/?tag=tolees-21)
 

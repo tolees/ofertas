@@ -28,11 +28,11 @@ Está [Tommy Hilfiger Reloj Analógico para Mujer de Cuarzo con Correa en Cuero 
 
 Principales características:
 
-- Grosor de la caja de 8,7 mm
-- Esfera azul con efecto de rayo de sol
-- 3 ATM de resistencia al agua
-- Tres manecillas
 - Correa de piel blanca
+- Tres manecillas
+- Esfera azul con efecto de rayo de sol
+- Grosor de la caja de 8,7 mm
+- 3 ATM de resistencia al agua
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07ND9D2V7/?tag=tolees-21)
 

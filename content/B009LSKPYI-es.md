@@ -28,11 +28,11 @@ Tienes [Fossil Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxi
 
 Características principales:
 
-- Items delivered: 1x Fossil Nate Chronograph Smoke Stainless Steel Watch, 1x Fossil collector illustrated tin box, 1x warranty booklet and 1x 31 Nonstandard Battery
 - An eye-catching and masculine watch with smoke grey stainless-steel case (diam. 50 mm) in brushed finishing / This watch is for versatile men to pair it with a casual, sporty or dressy look
+- Items delivered: 1x Fossil Nate Chronograph Smoke Stainless Steel Watch, 1x Fossil collector illustrated tin box, 1x warranty booklet and 1x 31 Nonstandard Battery
+- This wristwatch requires 1 SR621SW Battery / The strap is interchangeable with all 24 mm compatible designs / Mineral glass in the dial window confers resistance
 - A gradient black dial with large silver indexes and Arabic numbers at 3,6,9,12 / Inspired by military forms, this watch has a masculine vibe and features quartz chronograph movements
 - This watch is 5 ATM water resistant and has fold over clasp closure, assuring it firmly at your wrist / Special stopwatch feature with timer functionality and alarm function
-- This wristwatch requires 1 SR621SW Battery / The strap is interchangeable with all 24 mm compatible designs / Mineral glass in the dial window confers resistance
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B009LSKPYI/?tag=tolees-21)
 

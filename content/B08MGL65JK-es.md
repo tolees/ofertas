@@ -28,9 +28,9 @@ Está [Les Recettes de l Atelier Bombones 1488 g - Pack de 8](https://www.amazon
 
 Principales características:
 
+- Alérgenos: leche, grasa láctea, avellanas, almendras, frutos de cáscara y gluten
 - País de origen: España
 - Conservar en un lugar fresco y seco
-- Alérgenos: leche, grasa láctea, avellanas, almendras, frutos de cáscara y gluten
 - Ingredientes: azúcar, cacao, manteca de cacao, jarabe de glucosa, jarabe de glucosa y fructosa, leche, grasa láctea, pasta de avellanas y otros
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08MGL65JK/?tag=tolees-21)

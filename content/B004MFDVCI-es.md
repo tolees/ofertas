@@ -28,10 +28,10 @@ Está [Hama Battery Tester - Medidor de energía y batería](https://www.amazon.
 
 Principales características:
 
-- Fácil de utilizar.
 - Verifica si las baterías o pilas todavía funcionan o si se deben recargar o cambiar.
-- Las pilas o baterías se prueban bajo carga para que tengas una medición más realista.
 - Muestra el voltaje residual.
+- Fácil de utilizar.
+- Las pilas o baterías se prueban bajo carga para que tengas una medición más realista.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004MFDVCI/?tag=tolees-21)
 

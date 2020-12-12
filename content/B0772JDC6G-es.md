@@ -28,9 +28,9 @@ Está [Funko Pop!- Ready Player One Parzival Figura de Vinilo  26916 ](https://w
 
 Principales características:
 
+- Ready Player One
 - Funko POP
 - Parzival
-- Ready Player One
 
 [Ver la oferta!!](https://www.amazon.es/dp/B0772JDC6G/?tag=tolees-21)
 

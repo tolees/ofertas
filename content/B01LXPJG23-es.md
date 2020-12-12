@@ -28,11 +28,11 @@ Tienes [tado° Cabezal Termostático Inteligente de - Accesorio para control de 
 
 Características principales:
 
-- tado° Starter Kit (V2, V3, V3+) including the Internet Bridge forms the basis of your setup
-- tado° Starter Kit Add-on: add additional Smart Radiator Thermostats to your setup to control multiple radiators and rooms individually
-- Works with all standard radiators with thermostatic radiator valves. Simply replace the old conventional radiator thermostat - no tools needed
-- Box contains: Smart Radiator Thermostat (horizontal mounting)., various adapters, 2 AA batteries
 - Upgrade to Multi-Room Control to maximise your comfort and energy savings. Manage all rooms and settings within the tado° app
+- tado° Starter Kit (V2, V3, V3+) including the Internet Bridge forms the basis of your setup
+- Works with all standard radiators with thermostatic radiator valves. Simply replace the old conventional radiator thermostat - no tools needed
+- tado° Starter Kit Add-on: add additional Smart Radiator Thermostats to your setup to control multiple radiators and rooms individually
+- Box contains: Smart Radiator Thermostat (horizontal mounting)., various adapters, 2 AA batteries
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01LXPJG23/?tag=tolees-21)
 

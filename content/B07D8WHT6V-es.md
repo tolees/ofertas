@@ -28,11 +28,11 @@ Tienes [Rimmel London Stay Satin Liquid Lip Colour Pintalabios Tono 830 Have a C
 
 Características principales:
 
-- Fórmula ligera no pegajosa
 - Aplicación ultra precisa gracias a su pincel
-- Hasta 8 horas de duración
-- Labial líquido acabado satinado
 - Colores de alta intensidad
+- Labial líquido acabado satinado
+- Fórmula ligera no pegajosa
+- Hasta 8 horas de duración
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07D8WHT6V/?tag=tolees-21)
 

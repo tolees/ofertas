@@ -28,13 +28,13 @@ Está [Olay Total Effects Whip Light as Air Hidratante  Crema vitamina C y E par
 
 Principales características:
 
-- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
-- Fórmula enriquecida con vitamina C y B3 (niacinamida)
-- Nutre e hidrata la piel para darle un aspecto saludable
-- Prueba Olay a diario durante 28 días; experimenta una transformación real de la piel
 - Actúa como prebase e hidratante 2 en 1 para una piel lisa, luminosa y mate
+- Los productos Olay se crean en colaboración con más de 8000 mujeres al año
+- Nutre e hidrata la piel para darle un aspecto saludable
 - Tacto ligero gracias a su tecnología revolucionaria
+- Fórmula enriquecida con vitamina C y B3 (niacinamida)
 - Apta para piel normal, seca y grasa
+- Prueba Olay a diario durante 28 días; experimenta una transformación real de la piel
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07KXKDNCC/?tag=tolees-21)
 

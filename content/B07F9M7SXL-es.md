@@ -28,9 +28,9 @@ Ahora mismo tienes [Superdry Low Pro Sneaker Camiseta de Tirantes  Blanco  Optic
 
 Características:
 
-- Tiene un tejido ligero y suave
 - Con mangas cortas y cuello redondo
 - Las prendas de Superdry son fabricadas con un adecuado balance entre estilo y confort; recomendamos una talla superior a la que emplea habitualmente para una auténtica experiencia Superdry
+- Tiene un tejido ligero y suave
 - Ofrece comodidad durante el uso
 
 [Visítala!!!](https://www.amazon.es/dp/B07F9M7SXL/?tag=tolees-21)

@@ -28,14 +28,14 @@ Está [TP-Link TL-PA4010P Kit Powerline con enchufe adicional  AV 600 Mbps en Po
 
 Principales características:
 
-- El producto powerline transmite la señal de internet mediante cables de electricidad y permite cubrir áreas de la casa a las que normalmente no llega la señal del enrutador
-- Velocidad de transferencia de datos rápida de hasta 600 mbps para 300 metros
-- Compatible con el estándar homeplug av de hasta 600 mbps, compatible con todos los dispositivos tp-link powerline
 - Requisitos del sistema windows 2000, xp, 2003, vista; windows 7, 8, 8.1, 10, mac, linux
-- Para aplicaciones que requieren ancho de banda, como transmisión de video ultra HD desde múltiples dispositivos simultáneamente, juegos en línea y transferencias de archivos grandes
-- Modo de ahorro de energía hasta 85% (variable según factores ambientales)
 - No requiere configuración, simplemente plug and play, temperatura de funcionamiento: 0°c ~ 40°c (32°f ~ 104°f); temperatura de almacenamiento: -40°c ~ 70°c (-40°f ~ 158°f)
 - Enchufe adicional mantenga sus dispositivos encendidos, sin perder el enchufe anterior
+- Para aplicaciones que requieren ancho de banda, como transmisión de video ultra HD desde múltiples dispositivos simultáneamente, juegos en línea y transferencias de archivos grandes
+- El producto powerline transmite la señal de internet mediante cables de electricidad y permite cubrir áreas de la casa a las que normalmente no llega la señal del enrutador
+- Compatible con el estándar homeplug av de hasta 600 mbps, compatible con todos los dispositivos tp-link powerline
+- Velocidad de transferencia de datos rápida de hasta 600 mbps para 300 metros
+- Modo de ahorro de energía hasta 85% (variable según factores ambientales)
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00ADW9R22/?tag=tolees-21)
 

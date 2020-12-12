@@ -28,11 +28,11 @@ Ahora mismo tienes [CRAYOLA 54-0125 Kit de Pintura y Modelado para niños - Kits
 
 Características:
 
-- Los niños les encanta pintar, se puede utilizar en casi cualquier superficie Grande para manualidades y proyectos escolares
-- Pintura desarrolla la motricidad fina del niño y le enseña la mezcla de colores y mezcla
-- Lavabilidad se burla con los colores y la limpieza más fácil que nunca
-- La pintura es disfrutado por los niños de todas las edades
 - Marca de confianza ofrece comodidad y facilidad de uso
+- Pintura desarrolla la motricidad fina del niño y le enseña la mezcla de colores y mezcla
+- Los niños les encanta pintar, se puede utilizar en casi cualquier superficie Grande para manualidades y proyectos escolares
+- La pintura es disfrutado por los niños de todas las edades
+- Lavabilidad se burla con los colores y la limpieza más fácil que nunca
 
 [Visítala!!!](https://www.amazon.es/dp/B00005BMKX/?tag=tolees-21)
 

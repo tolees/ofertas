@@ -28,11 +28,11 @@ Ahora mismo tienes [Tommy Hilfiger Reloj de Pulsera 1791579](https://www.amazon.
 
 Características:
 
+- Correa de piel marrón
+- Grosor de la caja de 9,9 mm
+- Esfera gris
 - 5 ATM de resistencia al agua
 - Movimiento multifunción
-- Grosor de la caja de 9,9 mm
-- Correa de piel marrón
-- Esfera gris
 
 [Visítala!!!](https://www.amazon.es/dp/B07KTJG166/?tag=tolees-21)
 

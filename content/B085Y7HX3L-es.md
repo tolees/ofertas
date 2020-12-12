@@ -28,8 +28,8 @@ Ahora mismo tienes [FM London Fitted Boxer  Neón  Small  Pack de 8  para Hombre
 
 Características:
 
-- Algodón elástico para un ajuste personalizado
 - Tecnología HyFresh Anti-Olor.
+- Algodón elástico para un ajuste personalizado
 
 [Visítala!!!](https://www.amazon.es/dp/B085Y7HX3L/?tag=tolees-21)
 

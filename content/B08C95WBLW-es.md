@@ -28,11 +28,11 @@ Está [adidas Lite Racer CLN  Zapatillas Hombre  INDTEC/FTWBLA/Gricin  39 1/3 EU
 
 Principales características:
 
-- Horma clásica
 - Cierre de cordones
-- Parte superior de malla
-- Plantilla OrthoLite que expulsa el sudor y la humedad y mantiene los pies secos
 - Forro textil; suela y mediasuela Cloudfoam
+- Plantilla OrthoLite que expulsa el sudor y la humedad y mantiene los pies secos
+- Horma clásica
+- Parte superior de malla
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08C95WBLW/?tag=tolees-21)
 

@@ -28,9 +28,9 @@ Está [Ultratec Tostadora con dos ranuras  tostadora blanca para 2 rebanadas  mi
 
 Principales características:
 
-- Función de descongelado, calentado y parada, con indicación luminosa
-- Centrado automático de rebanadas
 - Carcasa Cool Touch de doble pared, de color blanco
+- Centrado automático de rebanadas
+- Función de descongelado, calentado y parada, con indicación luminosa
 - Bandeja recogemigas extraíble
 - Contenido del embalaje: 1 tostadora de doble ranura, 22.5 x 18 x 13.8 cm
 

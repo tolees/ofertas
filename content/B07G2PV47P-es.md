@@ -28,10 +28,10 @@ Ahora mismo tienes [JACK & JONES JACHUEY TRUNKS 5 PACK NOOS Bóxer  Negro  Black
 
 Características:
 
-- Pretina Ancha
 - Conjunto De Calzoncillos Boxer
-- Estiramiento
 - Paquete Triple
+- Estiramiento
+- Pretina Ancha
 
 [Visítala!!!](https://www.amazon.es/dp/B07G2PV47P/?tag=tolees-21)
 

@@ -28,10 +28,10 @@ Tienes [Trousselier  pequeña caja de música con diseño de Ballerina.](https:/
 
 Características principales:
 
-- Cuenta con una bailarina que se pone a bailar cuando se acciona el movimiento musical
-- Pequeña caja musical con un cajón para guardar los pequeños tesoros
-- El producto es un objeto de decoración para la habitación de una niña
 - La caja esta hecha de madera
+- Cuenta con una bailarina que se pone a bailar cuando se acciona el movimiento musical
+- El producto es un objeto de decoración para la habitación de una niña
+- Pequeña caja musical con un cajón para guardar los pequeños tesoros
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N80JDDG/?tag=tolees-21)
 

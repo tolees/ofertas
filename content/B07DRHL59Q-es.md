@@ -28,11 +28,11 @@ Tienes [Seiko Reloj Cronógrafo para Hombre de Cuarzo con Correa en Acero Inoxid
 
 Características principales:
 
-- Casual
-- Wr 100mt
 - Cuarzo
 - Cronógrafo en acero inoxidable para hombre
 - Negro y metálico
+- Casual
+- Wr 100mt
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07DRHL59Q/?tag=tolees-21)
 

@@ -28,8 +28,8 @@ Está [Adidas Parma 16 Intenso Pantalones Cortos para Fútbol  Hombre  Azul  Azu
 
 Principales características:
 
-- Ajustable
 - Pantalones cortos - hombre
+- Ajustable
 - 100% Pes-pique-hydrophilic Finish, 100% Pes-pique-hydrophilic Finish
 
 [Ver la oferta!!](https://www.amazon.es/dp/B016QALJNY/?tag=tolees-21)

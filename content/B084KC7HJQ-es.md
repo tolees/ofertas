@@ -28,12 +28,12 @@ Está [Samsung Galaxy S20 5G - Smartphone 6.2" Dynamic AMOLED  12GB RAM  128GB R
 
 Principales características:
 
-- Batería de 4 000 mAh para que pueda mantenerse conectado durante todo el día carga inalámbrica (12W) Power Sharing carga ultra rápida (25W)
-- 12 GB de RAM Procesador octa-core Exynos 990 y capacidad de almacenamiento de 1 1 TB
 - Sensor ultrasónico de huella dactilar en pantalla reconocimiento facial Samsung Knox
-- Smartphone libre con el sistema operativo Android V10 pre-instalado
-- Cámara principal de 64 MP Cámara frontal de 10 MP Cámara gran angular de 12 MP captura la vida como realmente la ves
+- 12 GB de RAM Procesador octa-core Exynos 990 y capacidad de almacenamiento de 1 1 TB
 - SIM híbrida (SIM ó mSD) eSIM IP 68 Samsung Pay
+- Batería de 4 000 mAh para que pueda mantenerse conectado durante todo el día carga inalámbrica (12W) Power Sharing carga ultra rápida (25W)
+- Cámara principal de 64 MP Cámara frontal de 10 MP Cámara gran angular de 12 MP captura la vida como realmente la ves
+- Smartphone libre con el sistema operativo Android V10 pre-instalado
 - Pantalla Infinity-O Dynamic AMOLED de 120Hz y 6 2 ” WQHD+ experimenta cada momento con la máxima calidad de borde a borde
 
 [Ver la oferta!!](https://www.amazon.es/dp/B084KC7HJQ/?tag=tolees-21)

@@ -28,11 +28,11 @@ Está [Panasonic Lumix DMC-TZ100EG-K - Cámara Compacta Premium de 21.1 MP  Sens
 
 Principales características:
 
-- Captura todo con un potente zoom óptico: el zoom óptico de 10x te ofrece la potencia necesaria para realizar todo tipo de fotos desde un gran angular de 25 mm
 - Compacta para cualquier aventura: que su cuerpo compacto no te engañe, diseñada con potentes funciones esta cámara es tu mejor compañera para tus experiencias más aventureras
-- Con su calidad de imagen óptima tanto de día como de noche gracias al potente sensor MOS de 1 pulgada de 20 megapíxeles, que el sol se ponga no significa que tu cámara también lo haga
-- Podrás subir a Internet fácilmente tu próxima publicación para inspirar a tus seguidores con tus bonitos fotos de viajes
 - WiFi y subida fácil: gracias a la conectividad WiFi y al acceso directo a las redes sociales
+- Podrás subir a Internet fácilmente tu próxima publicación para inspirar a tus seguidores con tus bonitos fotos de viajes
+- Captura todo con un potente zoom óptico: el zoom óptico de 10x te ofrece la potencia necesaria para realizar todo tipo de fotos desde un gran angular de 25 mm
+- Con su calidad de imagen óptima tanto de día como de noche gracias al potente sensor MOS de 1 pulgada de 20 megapíxeles, que el sol se ponga no significa que tu cámara también lo haga
 - Toda una nueva experiencia fotográfica que ofrece mayor libertad creativa gracias a su foto y vídeo en 4K, para que puedas grabar todos tus viajes con una calidad cuatro veces mayor que en Full HD
 - Primero dispara, luego enfoca: selecciona el área enfocada después de realizar la fotografía, captura la imagen in situ para guardarla como prefieras más adelante
 

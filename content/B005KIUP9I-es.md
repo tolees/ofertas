@@ -28,9 +28,9 @@ Ahora mismo tienes [Baby Tous 100ml](https://www.amazon.es/dp/B005KIUP9I/?tag=to
 
 Características:
 
-- Corazón: Pera, manzana y flor de naranjo
-- Fondo: cedro, almizcle y petit grain
 - Salida: Bergamota, mandarina, neroli
+- Fondo: cedro, almizcle y petit grain
+- Corazón: Pera, manzana y flor de naranjo
 
 [Visítala!!!](https://www.amazon.es/dp/B005KIUP9I/?tag=tolees-21)
 

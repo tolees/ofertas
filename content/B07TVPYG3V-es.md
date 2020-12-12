@@ -28,11 +28,11 @@ Está [Kipling Abanu  Bolsos con Bandolera para Mujer  Negro  Black Noir   20x13
 
 Principales características:
 
-- Número de compartimentos principales: 1
+- Tipo de bolso: bolso bandolera
+- Serie: Classics
 - Marca: Kipling
 - Tamaño exterior (largo x ancho x alto): 20 cm x 7,5 cm x 13,5 cm
-- Serie: Classics
-- Tipo de bolso: bolso bandolera
+- Número de compartimentos principales: 1
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07TVPYG3V/?tag=tolees-21)
 

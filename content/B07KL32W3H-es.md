@@ -28,9 +28,9 @@ Tienes [Nike M TM Club19 SS - Polo  Hombre  Obsidian/White  S](https://www.amazo
 
 Características principales:
 
-- Regular fit
-- Cierre con tres botones
 - Tela Nike Dry
+- Cierre con tres botones
+- Regular fit
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07KL32W3H/?tag=tolees-21)
 

@@ -28,10 +28,10 @@ Está [Bourjois Velvet The Pencil - Pintalabios. Tono 8 Less is Brown  3g](https
 
 Principales características:
 
-- Confort extremo con su textura suave y aterciopelada
-- Color intenso y alta cobertura en una sola pasada
-- En formato jumbo, ideal para perfilar tus labios
 - Preciso como un perfilador
+- Color intenso y alta cobertura en una sola pasada
+- Confort extremo con su textura suave y aterciopelada
+- En formato jumbo, ideal para perfilar tus labios
 - Labial mate, intenso, preciso y de larga duración
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07PQGZJNQ/?tag=tolees-21)

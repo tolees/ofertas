@@ -28,10 +28,10 @@ Ahora mismo tienes [Festina Reloj Multiesfera para Hombre de Cuarzo con Correa e
 
 Características:
 
-- Hardend Mineral Glass
-- Black plated Stainless Steel Round Case
-- Leather Strap with Classic Stainless steel Buckle
 - 24-hour indidcation
+- Leather Strap with Classic Stainless steel Buckle
+- Black plated Stainless Steel Round Case
+- Hardend Mineral Glass
 - Water Resistance to 50 meters
 
 [Visítala!!!](https://www.amazon.es/dp/B01MFFFN1R/?tag=tolees-21)

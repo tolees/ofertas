@@ -28,11 +28,11 @@ Ahora mismo tienes [Disco Duro Externo Portátil DE 2 5" 500GB USB 3.0 SATA HDD 
 
 Características:
 
-- ✔ Diseño de bolsillo de estilo delgado: Mini disco duro portátil protegido por un estuche resistente y duradero, que se adapta cómodamente a su palma,Puedes obtener una gran capacidad sin compromiso.
+- ✔ Lo que obtiene: 1 x disco duro portátil, 1 x cable USB 3.0, 1 x manual de usuario, 3 años de garantía del fabricante
 - ✔ Compatibilidad del sistema: Microsoft Windows 10 / Windows 8.1 / Windows 8 / Windows 7 / smart TV / Mac OS (10.6.5 y superior)/ Xbox/ PS4/TV
 - ✔ Conéctelo y listo: listo para funcionar sin necesidad de una fuente de alimentación externa ni la instalación del software,Guarda y haz copias de seguridad donde sea que estés
 - ✔ Versión más reciente: disco duro externo de 2,5 pulgadas, velocidad de transferencia súper rápida con actualización USB 3.0 (hasta 5 Gbit / s), que es diez veces más rápida que - pero aún compatible con - USB 2.0, lista para hacer copias de seguridad de datos masivos segundos
-- ✔ Lo que obtiene: 1 x disco duro portátil, 1 x cable USB 3.0, 1 x manual de usuario, 3 años de garantía del fabricante
+- ✔ Diseño de bolsillo de estilo delgado: Mini disco duro portátil protegido por un estuche resistente y duradero, que se adapta cómodamente a su palma,Puedes obtener una gran capacidad sin compromiso.
 
 [Visítala!!!](https://www.amazon.es/dp/B07R16CQWY/?tag=tolees-21)
 

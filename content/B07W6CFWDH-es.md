@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Kit de Iluminación Led para Leg al 35.56 % de descuento'
-date: 2020-12-03 20:51:04
+date: 2020-12-12 12:41:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/513MDCjmcbL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/513MDCjmcbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513MDCjmcbL._SL200_.jpg' ]
@@ -28,6 +28,11 @@ Está [BRIKSMAX Kit de Iluminación Led para Lego Ideas Doctor Who  Compatible c
 
 Principales características:
 
+- Si tienes problemas con tu producto, por favor envíanos u correo electrónico, siempre estamos listos para ayudarte.
+- Gracias a las instrucciones paso a paso, será mucho más fácil hacer una gran mejora a tu kit de construcción favorito.
+- Diseñado para el Lego 21304. Con este kit de iluminación, puedes iluminar tu LEGO Ideas Doctor Who,y darle vida.
+- El paquete contiene mini-luces,tiras de luces, placas de expansión,cables de conexión, portapilas (pilas no incluidas),cuadrados adhesivos,libro de instrucciones
+- Por favor, ten en cuenta que este es sólo un juego de luces LED. Los juegos LEGO que se muestran en las imágenes y videos no están incluidos.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07W6CFWDH/?tag=tolees-21)
 

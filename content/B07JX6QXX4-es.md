@@ -28,11 +28,11 @@ Ahora mismo tienes [Cecotec Placa Radiante de Mica Ready Warm 3000 Now. Ruedas o
 
 Características:
 
-- Calor instantáneo repartiendo el calor uniformemente por toda la estancia. La placa radiante consigue una temperatura muy regular. Gracias a su sistema EasyGo es muy fácil de transportar. Cuenta con un mango ergonómico y ruedas multidireccionales para poder desplazarlo fácilmente según tus necesidades.
-- Placa radiante de mica mecánica con una potencia de 2400 W. Protección sobrecalentamiento Overprotect System, sistema AutoOff en el que cuando se sobrecalienta se detiene automáticamente para evitar daños danto en el propio calefactor como en la estancia.
 - Cuenta con el tip-over safety system, un sensor antivuelco que en caso de desplazarse a una posición no habitual o caerse se detiene automáticamente. Indicador luminoso de encendido. El radiador cumple con la normativa vigente en cuanto a seguridad y protección del medioambiente.
 - Gracias a su elemento calefactor de mica que calienta rápido ahorra de forma considerable el consumo de energía. Incluye pies y soporte para pared para que puedas instalarlo en el lugar de tu hogar que desees, según tus necesidades.
 - Termostato regulable con tres niveles de potencia: Modo Eco con una potencia mínima de 1000 W, modo medio con una potencia de 1400 W y modo máx. con una potencia máxima de 2400 W. Gracias a este ajuste se optimiza el consumo de energía. Su tecnología Warm Space es capaz de calentar 25 m2 de forma eficiente.
+- Calor instantáneo repartiendo el calor uniformemente por toda la estancia. La placa radiante consigue una temperatura muy regular. Gracias a su sistema EasyGo es muy fácil de transportar. Cuenta con un mango ergonómico y ruedas multidireccionales para poder desplazarlo fácilmente según tus necesidades.
+- Placa radiante de mica mecánica con una potencia de 2400 W. Protección sobrecalentamiento Overprotect System, sistema AutoOff en el que cuando se sobrecalienta se detiene automáticamente para evitar daños danto en el propio calefactor como en la estancia.
 
 [Visítala!!!](https://www.amazon.es/dp/B07JX6QXX4/?tag=tolees-21)
 

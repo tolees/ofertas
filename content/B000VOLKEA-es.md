@@ -30,8 +30,8 @@ Características principales:
 
 - Las notas olfativas principales de este producto son especiado y cítrico.
 - Contiene 100 ml.
-- Este producto está indicado para hombres.
 - De la marca Calvin Klein.
+- Este producto está indicado para hombres.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000VOLKEA/?tag=tolees-21)
 

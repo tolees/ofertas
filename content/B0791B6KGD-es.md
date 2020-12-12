@@ -28,11 +28,11 @@ Ahora mismo tienes [WMF Unicornio - Cubertería para niños 4 piezas  tenedor  c
 
 Características:
 
-- Dimensiones ergonómicas, higiénico, resistente a los ácidos y duradero
-- Los diseños de la cubertería son resistentes a los arañazos, seguros para los alimentos y están llenos de color
-- 16,5| 18,5| 16,5| 13,0
-- Compuesto por una cubertería infantil de 4 piezas (1 tenedor, 1 cuchillo mesa, 1 cuchara y 1 cuchara pequeña) y una vajilla infantil con 1 plato y 1 cuenco
 - Material Cromargan 18/10 acero inoxidable pulido. La vajilla infantil de porcelana es apta para el lavavajillas
+- Los diseños de la cubertería son resistentes a los arañazos, seguros para los alimentos y están llenos de color
+- Dimensiones ergonómicas, higiénico, resistente a los ácidos y duradero
+- Compuesto por una cubertería infantil de 4 piezas (1 tenedor, 1 cuchillo mesa, 1 cuchara y 1 cuchara pequeña) y una vajilla infantil con 1 plato y 1 cuenco
+- 16,5| 18,5| 16,5| 13,0
 
 [Visítala!!!](https://www.amazon.es/dp/B0791B6KGD/?tag=tolees-21)
 

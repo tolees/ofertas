@@ -28,8 +28,8 @@ Está [Fila Disruptor Low Wmn  Zapatillas para Mujer  Blanco  37 EU](https://www
 
 Principales características:
 
-- adulto
 - Blanco
+- adulto
 
 [Ver la oferta!!](https://www.amazon.es/dp/B078WQF58M/?tag=tolees-21)
 

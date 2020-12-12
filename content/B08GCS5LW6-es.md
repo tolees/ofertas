@@ -28,11 +28,11 @@ Está [IKOHS Sandwichera Stone 3 en 1 Studio - Sandwichera  Grill  Gofrera de Pl
 
 Principales características:
 
-- Cocina de forma rápida, limpia y fácil cambiando de formato según te apetezca, con solo un click podrás disfrutar siempre que quieras de deliciosos sándwiches, gofres y bocadillos, o incluso asar carnes, pescados y verduras.
-- Disfruta de todas las ventajas que te ofrece esta nueva Sandwichera con tus amigos o familiares, el revestimiento antiadherente de la Sandwichera-gofrera está libre de PTEF, PFOA o BPA. 
 - Sandwichera grill es muy versátil y la convierte en una solución práctica y funcional en tu cocina diaria.
 - Cuenta con sistema recogecables y pinza de cierre para guardarla cómodamente en posición vertical, además sus asas están revestidas de un material antitérmico para mayor seguridad.
 - Prepara sándwiches, gofres o simplemente asa alimentos o tuesta bocadillos, la Sandwichera, Grill y Gofrera STONE 3-WAY de placas intercambiables es tan versátil que te permite tener 3 modelos en una sola máquina.
+- Disfruta de todas las ventajas que te ofrece esta nueva Sandwichera con tus amigos o familiares, el revestimiento antiadherente de la Sandwichera-gofrera está libre de PTEF, PFOA o BPA. 
+- Cocina de forma rápida, limpia y fácil cambiando de formato según te apetezca, con solo un click podrás disfrutar siempre que quieras de deliciosos sándwiches, gofres y bocadillos, o incluso asar carnes, pescados y verduras.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B08GCS5LW6/?tag=tolees-21)
 

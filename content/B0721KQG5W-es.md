@@ -28,8 +28,8 @@ Tienes [Crazy pawn Juego El Ministerio del Tiempo  Multicolor  8436564810175 ](h
 
 Características principales:
 
-- Alta calidad
 - Muy resistente
+- Alta calidad
 - En el juego de mesa El ministerio del tiempo, los ministéricos podrán vivir sus propias experiencias como agentes de El ministerio del tiempo. Cada jugador podrá escoger entre 8 de los protagonistas de la serie e intentar cumplir una misión atravesando puertas a épocas distantes, encontrando personajes históricos y enfrentándose a enemigos clásicos como Lola Mendieta o los Nazis.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B0721KQG5W/?tag=tolees-21)

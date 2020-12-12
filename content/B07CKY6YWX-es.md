@@ -28,11 +28,11 @@ Está [Chicco- Set de Karaoke Songy The Singer  Color Blanco  Artsana Spain 0000
 
 Principales características:
 
-- Micrófono extraible para cantar
-- 2 modos de juego: karaoke o tranforma tu voz
-- Con 4 géneros musicales y 8 canciones
 - Luces para crear efecto de discoteca
 - Divertido karaoke con efectos de voz
+- 2 modos de juego: karaoke o tranforma tu voz
+- Micrófono extraible para cantar
+- Con 4 géneros musicales y 8 canciones
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07CKY6YWX/?tag=tolees-21)
 

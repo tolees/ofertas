@@ -28,11 +28,11 @@ Tienes [P Prettyia Kit Desmontado Mini Drone Quadcopter Control Remoto Regalo de
 
 Características principales:
 
-- . Regalo económico y divertido para los fanáticos de Drone RC, niños y adultos.
-- . Transmisión en tiempo real y función de grabación de video.
-- . Hecho de alta calidad y material no tóxico.
 - . Set de mini kit teledirigido drone quadcopter de juguete sin montar.
 - . Características: 3 velocidades, modo sin cabeza, retorno de una tecla, truco de giro de 360 grados, linterna LED, modo de altitud, despegue / aterrizaje de una tecla, control de teléfono celular, transmisión en tiempo real, grabación de video, g-sensor.
+- . Hecho de alta calidad y material no tóxico.
+- . Regalo económico y divertido para los fanáticos de Drone RC, niños y adultos.
+- . Transmisión en tiempo real y función de grabación de video.
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07SL5WRRS/?tag=tolees-21)
 

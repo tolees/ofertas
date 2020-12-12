@@ -28,10 +28,10 @@ Ahora mismo tienes [Taurus Tanger 1500 - Emisor térmico con tecnología seca  p
 
 Características:
 
-- Elije la temperatura para tu bienestar y ajusta su termostato regulable des de los 5 hasta los 35ºC
 - Tecnología mediante la cual el emisor térmico genera iones negativos y los traslada al ambiente del hogar
-- Modo confort, mediante la cual el emisor calienta la estancia de la forma más rápida y función modo económico para calentar la habitación de forma más suave y con un consumo energético menor
 - Mediante la cual el emisor se apaga de forma automática cuando detecta una bajada brusca en la temperatura del aire, evitando así consumos energéticos irresponsables
+- Modo confort, mediante la cual el emisor calienta la estancia de la forma más rápida y función modo económico para calentar la habitación de forma más suave y con un consumo energético menor
+- Elije la temperatura para tu bienestar y ajusta su termostato regulable des de los 5 hasta los 35ºC
 - PROGRAMACIÓN DIARIA Y SEMANAL: Programa su funcionamiento durante el día y la semana para que el emisor térmico genere calor solo durante aquellos momentos que más lo necesite tu hogar
 
 [Visítala!!!](https://www.amazon.es/dp/B07YB64BWG/?tag=tolees-21)

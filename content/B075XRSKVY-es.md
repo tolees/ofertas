@@ -28,8 +28,8 @@ Tienes [Syberia](https://www.amazon.es/dp/B075XRSKVY/?tag=tolees-21) con un 39.9
 
 Características principales:
 
-- NINTENDO SWITCH
 - 7+
+- NINTENDO SWITCH
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B075XRSKVY/?tag=tolees-21)
 

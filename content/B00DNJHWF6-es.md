@@ -28,9 +28,9 @@ Tienes [Emporio Armani Reloj Analogico para Mujer de Cuarzo con Correa en Ningun
 
 Características principales:
 
-- Brazalete de acero inoxidable en tonos plateado y oro rosa
-- Caja de 32 mm, ancho de la correa de 14 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con 2 agujas
 - Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
+- Caja de 32 mm, ancho de la correa de 14 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con 2 agujas
+- Brazalete de acero inoxidable en tonos plateado y oro rosa
 - Presentación en una caja de regalo Emporio Armani
 - Caja redonda de acero inoxidable en tono oro rosa, con una esfera blanca
 

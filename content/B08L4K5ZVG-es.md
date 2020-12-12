@@ -29,10 +29,10 @@ Ahora mismo tienes [L Oreal Paris Make-up Designer Super Liner Perfect Slim Eyel
 Características:
 
 - Punta de pluma extra fina para conseguir un trazo más delicado y elegante
-- Perfilador líquido con trazo fino de color negro
 - Gracias a la punta de alta precisión dibuja un trazo preciso, intenso y modulable para una mirada única
-- Aplicación fácil y rápida en una sola pasada
 - Para mujeres que buscan un liner líquido negro concentrado, con punta extrafina y de muy fácil aplicación
+- Aplicación fácil y rápida en una sola pasada
+- Perfilador líquido con trazo fino de color negro
 
 [Visítala!!!](https://www.amazon.es/dp/B08L4K5ZVG/?tag=tolees-21)
 

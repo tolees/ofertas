@@ -28,9 +28,9 @@ Ahora mismo tienes [adidas Grand Court K  Zapatillas de Tenis Unisex Niños  Mul
 
 Características:
 
-- Empeine de piel sintética.
-- Estilo clásico.
 - Zapatillas deportivas
+- Estilo clásico.
+- Empeine de piel sintética.
 
 [Visítala!!!](https://www.amazon.es/dp/B07RGQ6XB7/?tag=tolees-21)
 

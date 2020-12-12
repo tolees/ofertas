@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Huawei Mate 20 - Pack de funda y smartph al 25.03 % de descuento'
-date: 2020-12-10 11:45:33
+date: 2020-12-12 12:52:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51N-qfUKcdL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51N-qfUKcdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51N-qfUKcdL._SL200_.jpg' ]
@@ -28,6 +28,10 @@ Ahora mismo tienes [Huawei Mate 20 - Pack de funda y smartphone de 6.53"  Octa-C
 
 Características:
 
+- Huawei Kirin 980, el más potente con el doble de IA
+- Triple cámara Leica con IA y triple angular
+- Triple seguridad: Desbloqueo con huella y desbloqueo facial
+- Supercharge (30 min: 60%) y batería más de un día con 4000 mAh
 
 [Visítala!!!](https://www.amazon.es/dp/B07JW4WNVH/?tag=tolees-21)
 

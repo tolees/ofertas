@@ -28,11 +28,11 @@ Está [Silent Mind ~ Juego De Cuencos Tibetanos ~ Diseño Antiguo ~ Con Mazo De 
 
 Principales características:
 
-- Creado a mano por artesanos nepaleses y practicantes devotos. Nuevo mazo de agarre de precisión de doble superficie perfectamente dimensionado para producir sonidos celestiales que calman la mente. El cojín de diseñador, especialmente cosido a mano, realza el tazón mientras estabiliza los tonos vitales.
-- Incluye un Cuenco Tibetano de 4” (10 cm) en un Diseño Antiguo, una NUEVA Baqueta con Agarre Tipo Lápiz para Tocar Fácilmente y una NUEVA Almohadilla Tejida a Mano que no Atenúa el Sonido. Toca FÁCILMENTE tu cuenco tibetano y crea sonidos más duraderos y hermosos con nuestros NUEVOS Y EXCLUSIVOS diseños.
-- Cada cuenco tibetano se selecciona a mano y se inspecciona para la calidad del sonido. Embalado cuidadosamente y con seguridad antes del envío.
 - El tamaño ideal asegura que tu cuenco sea un compañero espiritual siempre. Llevelo a clases de yoga, grupos de meditación o la oficina. Se acomoda en su mano (o la de su hijo), pero canta con tonos puros y en capas que rivalizan con los cuencos mucho más grandes.
+- Cada cuenco tibetano se selecciona a mano y se inspecciona para la calidad del sonido. Embalado cuidadosamente y con seguridad antes del envío.
+- Creado a mano por artesanos nepaleses y practicantes devotos. Nuevo mazo de agarre de precisión de doble superficie perfectamente dimensionado para producir sonidos celestiales que calman la mente. El cojín de diseñador, especialmente cosido a mano, realza el tazón mientras estabiliza los tonos vitales.
 - "Exquisito en todos los sentidos". "Fuera de este mundo, un canto mágico". "El sonido es fascinante". "Seré un cliente de por vida". ~ Un camino multisensorial a un lugar más tranquilo y pacífico. El sonido sublime del cuenco, el diseño exquisitamente elaborado y las vibraciones resonantes lo realzan con una claridad y serenidad cada vez más profundas.
+- Incluye un Cuenco Tibetano de 4” (10 cm) en un Diseño Antiguo, una NUEVA Baqueta con Agarre Tipo Lápiz para Tocar Fácilmente y una NUEVA Almohadilla Tejida a Mano que no Atenúa el Sonido. Toca FÁCILMENTE tu cuenco tibetano y crea sonidos más duraderos y hermosos con nuestros NUEVOS Y EXCLUSIVOS diseños.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B00XEV4WYM/?tag=tolees-21)
 

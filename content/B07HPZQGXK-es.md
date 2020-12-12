@@ -28,10 +28,10 @@ Está [Funko Pop: Fortnite: Moonwalker  multicolor  34469    color/modelo surtid
 
 Principales características:
 
-- Funko
 - Fortnite
-- Moonwalker
+- Funko
 - Funko Pop!
+- Moonwalker
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07HPZQGXK/?tag=tolees-21)
 

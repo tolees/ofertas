@@ -28,11 +28,11 @@ Ahora mismo tienes [Victure Nueva Versión 4K/50FPS Cámara Deportiva Wi-Fi 4K U
 
 Características:
 
-- Cargador 2 en 1 - Ahorra el tiempo para cargar 2 baterías de 1050mah a la vez, la cámara deportiva 4k te permite grabar hasta 120 minutos con una carga, así podrás inmortalizar tus mejores aventuras
 - Sumergible Hasta 40 Metros - Cuenta con una carcasa acuatica hasta 40 metros, para que puedes llevar la cámara de acción a la piscina o a la playa y grabarte surfeando o haciendo cualquier otro sports de agua
+- Wi-Fi Incorporados y HDMI - Se puede transferir el vdio o fotos a través de wifi o hdmi desde la cámara a su móvil o televisor; fácil de editar y cargar en facebook, youtube, twitter, instagram para compartir con amigos y familiares
 - Vídeo 4K HD y 20MP - Con la nueva generación de chips NT96660, la action cam puede grabar en full hd 4k y hacer fotos de 20mp de resolución; con un ángulo de visión amplio ajustables, no se pierde ningún detalles; incorpora pantalla lcd de 2 pulgadas para ver las fotos o vídeos grabados
 - Múltifuncional - Grabar timelapses, disparo continuo, disparo de temporizador, sensibilidad ISO, zoom 4X, modo inmersión, modo de noche; la compactas sport camera te ayudará a recordar cada momento claro vivido de una manera diferente
-- Wi-Fi Incorporados y HDMI - Se puede transferir el vdio o fotos a través de wifi o hdmi desde la cámara a su móvil o televisor; fácil de editar y cargar en facebook, youtube, twitter, instagram para compartir con amigos y familiares
+- Cargador 2 en 1 - Ahorra el tiempo para cargar 2 baterías de 1050mah a la vez, la cámara deportiva 4k te permite grabar hasta 120 minutos con una carga, así podrás inmortalizar tus mejores aventuras
 
 [Visítala!!!](https://www.amazon.es/dp/B079WM5NR8/?tag=tolees-21)
 

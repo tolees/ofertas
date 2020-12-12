@@ -30,8 +30,8 @@ Características principales:
 
 - Rendimiento óptimo para la transferencia de archivos
 - Capacidad del disco duro: 960 GB
-- Fiable y resistente
 - Velocidad de grabación: 450 MB/s
+- Fiable y resistente
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B079XC5PVV/?tag=tolees-21)
 

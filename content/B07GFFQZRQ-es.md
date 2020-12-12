@@ -28,11 +28,11 @@ Está [Marca Amazon - Movian Inari Modern - Escritorio con 1 cajón  50 x 90 x 
 
 Principales características:
 
-- Montaje sencillo. Se requieren dos personas.
-- 2 años de garantía
+- Diseño elegante y a la vez completamente práctico
 - Medidas: 50 x 90 x 73 cm
 - Viene sin ensamblar
-- Diseño elegante y a la vez completamente práctico
+- 2 años de garantía
+- Montaje sencillo. Se requieren dos personas.
 - Acabado minimalista en melamina blanca
 - Tablero aglomerado de 16 mm de estructura resistente
 

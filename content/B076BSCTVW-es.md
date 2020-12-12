@@ -28,10 +28,10 @@ Está [Función de ordenador de bicicleta con Ant + GPS iGPSPORT igs50e ciclo or
 
 Principales características:
 
-- compra con confianza: viene con una garantía de 2 años y vida apoyo
 - Batería: 2.2 pulgadas anti-dazzle Protector de pantalla grande y duradera, visiable a distancia de la luz solar; 1200 mAh super gran capacidad, 40 horas Endurance, usted se cayó, su uso es siglo
-- GPS de alta sensibilidad: adquirir satélites rápidamente para el posicionamiento preciso, pista como mucho, ¿Cómo rápido y donde usted Ride
+- compra con confianza: viene con una garantía de 2 años y vida apoyo
 - Sensor ANT +: compatible con todas las marcas, sensor ANT + monitor de ritmo cardiaco, sensor de velocidad y un sensor de cadencia
+- GPS de alta sensibilidad: adquirir satélites rápidamente para el posicionamiento preciso, pista como mucho, ¿Cómo rápido y donde usted Ride
 - Strava compatible: Apoyo a cargar archivos a www.strava.com y www.mapmyride.com
 
 [Ver la oferta!!](https://www.amazon.es/dp/B076BSCTVW/?tag=tolees-21)

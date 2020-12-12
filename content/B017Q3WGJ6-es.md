@@ -30,8 +30,8 @@ Características:
 
 - Caja redonda de acero inoxidable en tonos dorados, con una esfera negra
 - Resistente al agua hasta 50 m: apto para nadar en aguas poco profundas
-- Correa de piel negra
 - Caja de 46 mm, ancho de la correa de 22 mm, cristal mineral, movimiento de cuarzo con pantalla analógica con cronógrafo
+- Correa de piel negra
 - Presentación en una caja de regalo Emporio Armani
 
 [Visítala!!!](https://www.amazon.es/dp/B017Q3WGJ6/?tag=tolees-21)

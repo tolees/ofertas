@@ -28,11 +28,11 @@ Tienes [Intel NUC NUC6CAYSAJ 1.50GHz J3455 Negro  Gris Mini PC - Ordenador de so
 
 Características principales:
 
-- Disco duro: 32 GB
 - Memoria: 2048 MB
-- Color: plateado
-- Caja: Caja HTPC
 - Unidad: no disponible
+- Color: plateado
+- Disco duro: 32 GB
+- Caja: Caja HTPC
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B01N245ZGD/?tag=tolees-21)
 

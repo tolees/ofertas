@@ -28,11 +28,11 @@ Ahora mismo tienes [realme X3 Super Zoom  smartphone de 6.5"  8GB de RAM + 128GB
 
 Características:
 
-- Super Zoom periscópico 60X; cámara cuádruple 64MP
-- Selfie dual integrado; doble cámara frontal 32MP+8MP
-- Pantalla Ultra fluida 120Hz y 6.6” FHD+; imágenes realistas y suaves como nunca
-- Batería de 4200 mAh con carga rápida Super Dart 30w
 - Procesador Qualcomm Snapdragon 855+ con frecuencia de 2.96 GHz
+- Batería de 4200 mAh con carga rápida Super Dart 30w
+- Super Zoom periscópico 60X; cámara cuádruple 64MP
+- Pantalla Ultra fluida 120Hz y 6.6” FHD+; imágenes realistas y suaves como nunca
+- Selfie dual integrado; doble cámara frontal 32MP+8MP
 
 [Visítala!!!](https://www.amazon.es/dp/B088XP1DM6/?tag=tolees-21)
 

@@ -29,15 +29,15 @@ Ahora mismo tienes [Kipling SEOUL GO Mochila escolar  44 cm  20 litros  Negro  T
 Características:
 
 - Logo de Kipling reflectante
-- 3 bolsillos frontales, con cremallera
+- Logo de Kipling reflectante
+- Resistente al agua
+- Mono de Kipling, Compartimento para un portátil de 15 pulgadas, Franja luminosa a pilas
 - Correas acolchadas y ajustables
 - 1 compartimento principal, con cremallera
-- Portabotellas: bolsillos laterales elásticos abiertos
 - 1 bolsillo interior, abierto
-- Logo de Kipling reflectante
-- Mono de Kipling, Compartimento para un portátil de 15 pulgadas, Franja luminosa a pilas
 - 4 prácticos compartimentos: móvil + boli + cartera + portátil
-- Resistente al agua
+- Portabotellas: bolsillos laterales elásticos abiertos
+- 3 bolsillos frontales, con cremallera
 
 [Visítala!!!](https://www.amazon.es/dp/B076GX6J4Q/?tag=tolees-21)
 
