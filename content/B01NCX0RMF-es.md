@@ -28,14 +28,14 @@ Está [Hugo BOSS Reloj para hombre 1513475](https://www.amazon.es/dp/B01NCX0RMF/
 
 Principales características:
 
-- Esfera blanca
-- Visualización cronógrafo
 - Cierre de hebilla
-- Color de la correa: marrón
 - Mecanismo de cuarzo
-- Forma del producto: redondo
+- Visualización cronógrafo
+- Color de la correa: marrón
 - Resistencia máxima a la presión del agua: 1 bares
+- Forma del producto: redondo
 - Reloj de acero inoxidable con correa de piel
+- Esfera blanca
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NCX0RMF/?tag=tolees-21)
 
