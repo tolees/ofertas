@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Figura de Vinilo: Harry Potte al 26.32 % de descuento'
-date: 2020-12-11 16:04:09
+date: 2020-12-12 17:13:34
 image: 'https://m.media-amazon.com/images/I/317xd4vadIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,12 +22,12 @@ Ahora mismo tienes [Funko Pop! Figura de Vinilo: Harry Potter S7 - Ginny  Yule  
 
 [![Funko Pop! Figura de Vinilo: Harry Potte](https://m.media-amazon.com/images/I/317xd4vadIL._SL200_.jpg)](https://www.amazon.es/dp/B07PBBXR1R/?tag=tolees-21)
 
-ℹ️:
+🔎:
 
+- Funko pop! vinyl
+- Harry potter ginny (yule)
 - Harry Potter
 - De la colección harry potter, ginny (yule) como figura de vinilo pop de funko
-- Harry potter ginny (yule)
-- Funko pop! vinyl
 - Descúbre otras figuras de la colección harry potter y colecciónalas todas!
 
 [Visítala!!!](https://www.amazon.es/dp/B07PBBXR1R/?tag=tolees-21)

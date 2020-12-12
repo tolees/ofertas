@@ -24,10 +24,10 @@ Tienes [Diesel Reloj Analogico para Hombre de Cuarzo con Correa en Poliuretano D
 
 ℹ️:
 
-- Material de la correa: Poliuretano
-- Ancho de la correa: 26 mm; Circunferencia de la correa: 200 +/-5 mm
-- Se presenta en caja de regalo Diesel
-- Resistente al agua: 5 ATM
 - Grosor de la caja: 13 mm; Tamaño de la caja: 51mm x 59 mm
+- Material de la correa: Poliuretano
+- Se presenta en caja de regalo Diesel
+- Ancho de la correa: 26 mm; Circunferencia de la correa: 200 +/-5 mm
+- Resistente al agua: 5 ATM
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07G4P7WKP/?tag=tolees-21)

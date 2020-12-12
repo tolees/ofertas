@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.20 % en Rimmel London Magnifeyes Palette Blush E'
-date: 2020-12-11 16:23:27
+date: 2020-12-12 17:13:35
 image: 'https://m.media-amazon.com/images/I/41iMkugAsJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,10 +24,10 @@ Tienes [Rimmel London Magnifeyes Palette Blush Edition Paleta de Sombras Tono 2 
 
 ℹ️:
 
+- Perfecto para esculpir, sombrear y definir
 - Todo en uno, sombra de ojos, delineador y iluminador
 - Aplicador duo para crear múltiples looks para un acabado preciso
 - Color intenso para todos los tonos de piel
 - 12 sombras complementarias perfectas para hacer contouring
-- Perfecto para esculpir, sombrear y definir
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B073WZ2BDD/?tag=tolees-21)

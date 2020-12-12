@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.05 % en Dolce & Gabbana Pour Homme Perfume Hombr'
-date: 2020-12-11 16:30:07
+date: 2020-12-12 17:10:37
 image: 'https://m.media-amazon.com/images/I/41r-8O2wuoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,9 +24,9 @@ Tienes [Dolce & Gabbana Pour Homme Perfume Hombre - 200 ml](https://www.amazon.e
 
 ℹ️:
 
-- Nota de corazón: aromático y sorprendente, de lavanda, salvia y estragón
-- Nota de salida: fresca y cítrica compuesta por bergamota, mandarina y naranja
 - Nota de fondo: amaderado con sándalo, cedro y el componente masculino se lo ofrece el tabaco y el iris
+- Nota de salida: fresca y cítrica compuesta por bergamota, mandarina y naranja
 - Fragancia: aromática fougère
+- Nota de corazón: aromático y sorprendente, de lavanda, salvia y estragón
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B00TIOK1K8/?tag=tolees-21)

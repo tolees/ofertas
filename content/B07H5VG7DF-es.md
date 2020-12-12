@@ -24,13 +24,13 @@ Está [Skechers Flex Appeal 3.0-First Insight  Zapatillas Mujer  Negro  BKW Blac
 
 ℹ️:
 
-- Suela: sintética.
-- 100% textil.
-- Ligero.
-- Estilo versátil.
-- Duradero.
-- Skechers Plantilla de espuma viscoelástica refrigerada por aire
-- Suela que no deja marcas.
 - Tipo de tacón: bajo.
+- Ligero.
+- Suela que no deja marcas.
+- 100% textil.
+- Estilo versátil.
+- Skechers Plantilla de espuma viscoelástica refrigerada por aire
+- Suela: sintética.
+- Duradero.
 
 [Ver la oferta!!](https://www.amazon.es/dp/B07H5VG7DF/?tag=tolees-21)

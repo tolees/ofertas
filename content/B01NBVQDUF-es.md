@@ -24,13 +24,13 @@ Está [Hugo BOSS Reloj para hombre 1513476](https://www.amazon.es/dp/B01NBVQDUF/
 
 ℹ️:
 
+- Visualización cronógrafo
 - Reloj de acero inoxidable con correa de piel
-- Resistencia máxima a la presión del agua: 1 bares
-- Color de la correa: marrón
-- Mecanismo de cuarzo
 - Esfera gris
 - Forma del producto: redondo
-- Visualización cronógrafo
 - Cierre de hebilla
+- Resistencia máxima a la presión del agua: 1 bares
+- Mecanismo de cuarzo
+- Color de la correa: marrón
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01NBVQDUF/?tag=tolees-21)

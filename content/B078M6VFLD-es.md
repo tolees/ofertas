@@ -24,10 +24,10 @@ Tienes [Homyl Seguridad en El Hogar Sistema de Alarma de Fugas de Fuga de Inunda
 
 ℹ️:
 
+- * Perfecto para cocina, baño, sótano, almacén, garaje, trastero donde puede ocurrir fácilmente una fuga de agua;
+- * Genera sonido de alarma, reproduce un potente sonido alarmante de 120 decibelios, no se preocupa por el sonido de una alarma pequeña y evita problemas de fugas en el tiempo;
+- * Fácil instalación, conecte la alarma con la cinta adhesiva de doble cara a la pared y coloque el sensor cerca de lavavajillas, bombas de sumidero y otros tubos de agua;
 - * Alimentación suministrada por una batería de 9V 6F22 (excluida), superficie de sensor chapada en oro, muy sensible;
 - * Sistema de alarma del sensor de la fuga de agua, ayudándole a parar fugas de convertirse en inundaciones para la protección de los muebles y la seguridad casera;
-- * Fácil instalación, conecte la alarma con la cinta adhesiva de doble cara a la pared y coloque el sensor cerca de lavavajillas, bombas de sumidero y otros tubos de agua;
-- * Genera sonido de alarma, reproduce un potente sonido alarmante de 120 decibelios, no se preocupa por el sonido de una alarma pequeña y evita problemas de fugas en el tiempo;
-- * Perfecto para cocina, baño, sótano, almacén, garaje, trastero donde puede ocurrir fácilmente una fuga de agua;
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B078M6VFLD/?tag=tolees-21)

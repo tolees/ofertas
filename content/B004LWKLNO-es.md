@@ -24,9 +24,9 @@ Está [Pentel Maxiflo - Lote de 12 rotuladores para pizarra blanca  punta median
 
 ℹ️:
 
-- Punto de 1.6 mm
-- Se limpia con una paño seco o un borrador de cartón
-- Hecho de 50% material reciclado
 - Tinta libre de PVC, tolueno y xileno
+- Punto de 1.6 mm
+- Hecho de 50% material reciclado
+- Se limpia con una paño seco o un borrador de cartón
 
 [Ver la oferta!!](https://www.amazon.es/dp/B004LWKLNO/?tag=tolees-21)

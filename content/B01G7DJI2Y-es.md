@@ -24,13 +24,13 @@ Está [Columbia Woodburn II Chukka Waterproof Omni-Heat  Zapatos Hombre  Negro  
 
 ℹ️:
 
-- Altura del tacón: 1 centímetros
-- Material de la suela: Caucho
-- Cierre: Cordones
-- Material exterior: Cuero
-- Tipo de tacón: Plano
-- Revestimiento: Sintético
 - Anchura del zapato: Normal
+- Material exterior: Cuero
 - Composición: Cuero
+- Revestimiento: Sintético
+- Tipo de tacón: Plano
+- Cierre: Cordones
+- Material de la suela: Caucho
+- Altura del tacón: 1 centímetros
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01G7DJI2Y/?tag=tolees-21)

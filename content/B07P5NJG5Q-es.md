@@ -24,10 +24,10 @@ Ahora mismo tienes [Hackett London Slim Fit Logo Polo  Azul  Navy 595   X-Small 
 
 🔎:
 
-- Estilo del cuello: Polo
-- Lavar a máquina agua fría (30 ° max)
-- 100% Algodón
 - Cuello y puños elásticos
+- 100% Algodón
+- Estilo del cuello: Polo
 - Suave y cómodo en la piel
+- Lavar a máquina agua fría (30 ° max)
 
 [Visítala!!!](https://www.amazon.es/dp/B07P5NJG5Q/?tag=tolees-21)

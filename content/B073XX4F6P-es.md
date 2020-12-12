@@ -24,10 +24,10 @@ Ahora mismo tienes [Reloj para Hombre  Colección Successo  Movimiento de Cuarzo
 
 🔎:
 
-- Destacan los contadores con texturas CD, combinados con índices y agujas luminiscentes para un look muy deportivo y chic.
 - Funciones: Cronógrafo
 - La perfección técnica y la atención al detalle, que Maserati pone en cada uno de sus coches, se reflejan en cronógrafos con un estilo inconfundible que rellaman los elementos más icónicos de la historia y del diseño de Maserati.
 - Materiales: Acero, Cuero
+- Destacan los contadores con texturas CD, combinados con índices y agujas luminiscentes para un look muy deportivo y chic.
 - Paquete original Maserati
 
 [Visítala!!!](https://www.amazon.es/dp/B073XX4F6P/?tag=tolees-21)
