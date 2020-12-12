@@ -28,9 +28,9 @@ Está [Mr. Wonderful MRMAC004 - Carcasa para Apple Macbook Pro 13   2016  diseñ
 
 Principales características:
 
+- Todos los puertos y funciones permanecen accesibles
 - Fácilmente extraíble
 - Permite una buena ventilación del dispositivo
-- Todos los puertos y funciones permanecen accesibles
 
 [Ver la oferta!!](https://www.amazon.es/dp/B01LYNOVSW/?tag=tolees-21)
 

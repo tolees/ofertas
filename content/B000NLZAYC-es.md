@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 29.06 % en Rapesco Documentos - Carpeta portafolios'
-date: 2020-12-11 04:02:34
+date: 2020-12-12 04:25:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zRRUuBz8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41zRRUuBz8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zRRUuBz8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 4.99 EUR
 inStock: true
 prodname: 'Rapesco Documentos - Carpeta portafolios A4+ horizontal  en varios colores traslúcidos  5 unidades  polipropileno  foolscap'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B000NLZAYC/?tag=tolees-21'
+descuento: '29.06'
+titulo: 'Rapesco Documentos - Carpeta portafolios'
 ---
 
 Tienes [Rapesco Documentos - Carpeta portafolios A4+ horizontal  en varios colores traslúcidos  5 unidades  polipropileno  foolscap](https://www.amazon.es/dp/B000NLZAYC/?tag=tolees-21) con un 29.06 % de descuento con precio de oferta de 3.54 EUR (original: 4.99 EUR) en el siguiente enlace!
@@ -24,10 +28,10 @@ Tienes [Rapesco Documentos - Carpeta portafolios A4+ horizontal  en varios color
 
 Características principales:
 
-- Colores Surtidos
-- Solapa con broche de color para mantener el contenido seguro
 - Pack: 5 unidades con tamaño A4+
 - Soporte para bolígrafo bajo solapa
+- Colores Surtidos
+- Solapa con broche de color para mantener el contenido seguro
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B000NLZAYC/?tag=tolees-21)
 

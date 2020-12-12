@@ -28,11 +28,11 @@ Tienes [ICONSIGN Kit de elevación de pestañas Kit de permanente de pestañas  
 
 Características principales:
 
-- KIT PROFESIONAL PARA PERMITAR LAS PESTAÑAS: perfecto para las personas que desean ese rizo extra por sus pestañas naturales
-- FÁCIL DE USAR: actualizado a una nueva versión del pegamento blanco lechoso, deje que las pestañas obedezcan sus instrucciones, cree fácilmente hermosas pestañas
 - GRAN RENDIMIENTO: después de la permanente, use el mantenimiento de la capa de pestañas;
 - CUENTA DE USO: un conjunto de productos se puede usar de 10 a 13 veces, las herramientas de este kit se pueden encontrar en nuestra tienda
 - GRAN PARA LA BODA Y LA FIESTA: el levantamiento de pestañas puede hacer que tus ojos se vean más grandes y espirituales
+- KIT PROFESIONAL PARA PERMITAR LAS PESTAÑAS: perfecto para las personas que desean ese rizo extra por sus pestañas naturales
+- FÁCIL DE USAR: actualizado a una nueva versión del pegamento blanco lechoso, deje que las pestañas obedezcan sus instrucciones, cree fácilmente hermosas pestañas
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07NZ38MXK/?tag=tolees-21)
 
